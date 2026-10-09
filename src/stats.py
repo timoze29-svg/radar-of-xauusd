@@ -80,7 +80,7 @@ def breakout_stats(gold_daily):
 # ===================================================================== horaire (cache 20h)
 def hourly_stats(state, demo=False):
     cached = cache_get(state, "hourly_stats", 20 * 3600)
-    if cached and not demo:
+    if cached and not demo and ((cached.get("dollar") or {}).get("n_hours") or 0) > 200:
         return cached
     data = market.fetch_hourly(demo)
     out = {}
@@ -126,9 +126,18 @@ def _dollar_hist(data):
     need = ("DXY", "US10Y", "OIL", "EURUSD", "GOLD")
     if not all(k in data for k in need):
         return {}
-    c = pd.concat({k: data[k]["Close"] for k in need}, axis=1)
-    c.index = c.index.floor("h")
-    c = c[~c.index.duplicated(keep="last")].dropna()
+    ser = {}
+    for k in need:
+        x = data[k]["Close"].copy()
+        x.index = x.index.floor("h")
+        ser[k] = x[~x.index.duplicated(keep="last")]
+    c = pd.concat(ser, axis=1).sort_index()
+    # les taux (^TNX) ne cotent qu'aux heures de bourse US : on garde la dernière valeur connue (max 3h)
+    c = c.ffill(limit=3).dropna()
+    diag = {k: [int(len(v)), str(v.index[0]) if len(v) else None, str(v.index[-1]) if len(v) else None] for k, v in ser.items()}
+    if len(c) < 200:
+        log("Stats pression dollar : pas assez d'heures communes", diag)
+        return {"n_hours": int(len(c)), "diag": diag, "down": {}, "up": {}}
     th = config.DP_TH
     dxy = c.DXY.pct_change() * 100
     y = c.US10Y.diff()

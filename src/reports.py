@@ -197,11 +197,28 @@ def _hours_txt(hstats, wd):
     return f"🕐 Le {JOURS[wd].lower()}, plus HAUT du jour souvent vers {hi} · plus BAS vers {lo} (heure de Paris)"
 
 
-def _scen_template(d, pv, exp):
+def _scen_template(d, pv, exp, price=None):
     def tg(keys, up):
         return " → ".join(f"{k} {v:.0f}" for k, v in sorted(((k, pv[k]) for k in keys), key=lambda x: x[1] if up else -x[1]))
     ups, dns = tg(("R1", "PDH", "R2"), True), tg(("S1", "PDL", "S2"), False)
     ups_alt, dns_alt = tg(("PDH", "R2"), True), tg(("PDL", "S2"), False)
+    if price is not None:
+        if d == "down" and price > pv["R1"]:
+            return (f"⚠️ <b>Le prix ({price:.0f}) est déjà AU-DESSUS de R1 {pv['R1']:.0f}</b> : le biais macro baissier "
+                    f"est contredit par le marché.\n"
+                    f"👉 Pas de vente à contre-courant. Vente seulement après une clôture H1 sous R1, "
+                    f"objectifs Pivot {pv['P']:.0f} puis S1 {pv['S1']:.0f}.\n"
+                    f"Tant que ça tient au-dessus de R1 : le mouvement haussier reste prioritaire, gère tes trades avec ta technique.")
+        if d == "up" and price < pv["S1"]:
+            return (f"⚠️ <b>Le prix ({price:.0f}) est déjà SOUS S1 {pv['S1']:.0f}</b> : le biais macro haussier "
+                    f"est contredit par le marché.\n"
+                    f"👉 Pas d'achat à contre-courant. Achat seulement après une clôture H1 au-dessus de S1, "
+                    f"objectifs Pivot {pv['P']:.0f} puis R1 {pv['R1']:.0f}.\n"
+                    f"Tant que ça reste dessous : le mouvement baissier reste prioritaire.")
+        if d == "range" and not (pv["S1"] <= price <= pv["R1"]):
+            return (f"⚠️ <b>Le prix ({price:.0f}) est déjà sorti du range S1 {pv['S1']:.0f} – R1 {pv['R1']:.0f}</b>.\n"
+                    f"👉 Pas de contre-tendance : suivre la cassure tant que le prix reste "
+                    f"{'au-dessus de R1' if price > pv['R1'] else 'sous S1'}.")
     if d == "up":
         return (f"🎯 <b>Scénario principal — achats sur repli</b>\n"
                 f"Zone d'achat : Pivot {pv['P']:.0f} → S1 {pv['S1']:.0f}\n"
@@ -301,7 +318,7 @@ Appuie-toi sur les chiffres fournis, n'invente pas de pourcentage.
 DONNÉES : {json.dumps({**_context(snapshot, 14), 'pivots_jour': {k: round(v, 1) for k, v in pv.items()},
                       'range_attendu': round(exp), 'asie': asia and {k: v for k, v in asia.items() if not k.startswith('t_')},
                       'stats': st}, ensure_ascii=False, default=str)}""", temperature=0.4)
-    blocks.append(("🧠 <b>Analyse IA</b>\n" + esc(ai_txt)) if ai_txt else _scen_template(d, pv, exp))
+    blocks.append(("🧠 <b>Analyse IA</b>\n" + esc(ai_txt)) if ai_txt else _scen_template(d, pv, exp, g["price"]))
     blocks.append("<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>")
     msg = "\n\n".join(blocks)
 
