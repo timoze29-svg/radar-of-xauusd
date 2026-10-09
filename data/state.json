@@ -716,15 +716,15 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1791571785.2907453,
+   "ts": 1791571924.3001444,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 114,
+      "n": 115,
       "high": [
        [
         0,
-        14.9
+        15.7
        ],
        [
         15,
@@ -732,17 +732,17 @@
        ],
        [
         22,
-        7.9
+        7.8
        ]
       ],
       "low": [
        [
         0,
-        18.4
+        18.3
        ],
        [
         16,
-        10.5
+        10.4
        ],
        [
         2,
@@ -751,11 +751,11 @@
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
        ],
        [
         15,
@@ -769,28 +769,28 @@
       "low": [
        [
         16,
-        11.5
+        11.4
        ],
        [
         0,
-        11.5
+        11.4
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 119,
+      "n": 120,
       "high": [
        [
         2,
-        11.8
+        11.7
        ],
        [
         16,
-        11.8
+        11.7
        ],
        [
         17,
@@ -800,15 +800,15 @@
       "low": [
        [
         0,
-        13.4
+        13.3
        ],
        [
         14,
-        8.4
+        8.3
        ],
        [
         3,
-        7.6
+        7.5
        ]
       ]
      },
@@ -851,12 +851,12 @@
         13.4
        ],
        [
-        0,
+        17,
         10.9
        ],
        [
-        17,
-        10.9
+        0,
+        10.1
        ]
       ],
       "low": [
@@ -865,23 +865,49 @@
         11.8
        ],
        [
-        15,
-        8.4
+        2,
+        7.6
        ],
        [
-        2,
+        15,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 0,
+     "n_hours": 5967,
      "horizon_h": 2,
-     "base_gold_up": null,
-     "base_dxy_down": null,
-     "down": {},
-     "up": {}
+     "base_gold_up": 53.6,
+     "base_dxy_down": 48.1,
+     "down": {
+      "3": {
+       "n": 240,
+       "p_dxy": 52.5,
+       "p_gold": 55.8,
+       "gold_avg": 1.3
+      },
+      "4": {
+       "n": 53,
+       "p_dxy": 52.8,
+       "p_gold": 56.6,
+       "gold_avg": 0.4
+      }
+     },
+     "up": {
+      "3": {
+       "n": 269,
+       "p_dxy": 55.4,
+       "p_gold": 48.3,
+       "gold_avg": -0.8
+      },
+      "4": {
+       "n": 73,
+       "p_dxy": 58.9,
+       "p_gold": 50.7,
+       "gold_avg": -0.1
+      }
+     }
     }
    }
   }
@@ -1082,7 +1108,19 @@
   "b2e085f7a8f9",
   "abc4613e4c71",
   "8ed4f123015d",
-  "db53c5a0c9af"
+  "db53c5a0c9af",
+  "e51f48b64dc9",
+  "92ba863b9a15",
+  "72da2c05431e",
+  "01555ad25454",
+  "5b22ecfdb3d5",
+  "8491d0ebe67c",
+  "e46e3f5b0ee3",
+  "1d1b2065ff81",
+  "33a170b31778",
+  "70b17dbc8496",
+  "85e955a2d541",
+  "6a33e5c8131b"
  ],
  "news": [
   {
@@ -1230,12 +1268,36 @@
    "method": "mots-clés"
   },
   {
+   "title": "Live: IRGC Navy says violating vessels in Hormuz Strait 'punished every night'",
+   "source": "Middle East Eye",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw?oc=5",
+   "published": "2026-10-09T17:19:06+00:00",
+   "id": "e51f48b64dc9",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Frank Talk: Gold miners beat every S&P 500 sector in Q3 despite September selloff",
    "source": "Proactive financial news",
    "theme": "Or",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkxwY1ZDdU5aNVV3UmlPYVRGbVNJU1NFUmJ0US1EZ2FQUVJRTUllNEVGRVhVVkxIS1o4YnUwVTB1RnM3b0J4dEdCY1UzcDFCN3duM1ZOdDZOSUhuWFdkcDJkRWZiV2E1NGh1a18xNkx4ck12Y05uZjJwZnVNNXpKNFB4bGwxMnRCUTJ3aUpEZF9NZGhHTGQ1dkxlT1hZaTZuSzdkNGIwNFhwbFJSclNIelRDMms1VUJBX0Rlc2daNTN4RjVETDdQMGFRRzhZZDJ0eFlhQ2d0RzladUctZWtWZVQyT3AzUQ?oc=5",
    "published": "2026-10-09T17:14:00+00:00",
    "id": "b7bf48f62956",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Putin and Pezeshkian meet in Turkmenistan: Russian mediation",
+   "source": "جريدة القدس",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZIUVlSRUdaazNTMkdGNzdicmM0YnV1dlRXcXpsLTlubjFQSmN0YjdlakZmUFBNWGVmcWtmMER1VHdJSlZVVGFUSlo3RW52VExwT3ZzNlZ4My1zVkZ2T3kzaVpiZGtkSFZIbDM3MVlBRVRsME14VG5xYWFmLUlxcFVlSXdHTnQ5WFIzcHV5Q3BQZnhVZXMyMkJBTWNMTTBaS0l3dWRNOTRKY3N5R3c?oc=5",
+   "published": "2026-10-09T17:00:22+00:00",
+   "id": "5b22ecfdb3d5",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -1410,6 +1472,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "King Mswati III pledges deeper Taiwan-Eswatini ties",
+   "source": "Taipei Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3LUJENWg1c29uLWRmMUM5MlhrTFF1cXJrX2FTMkVWNS14NEEyamdqeHBjZzdaN1R1WWNDZmdvcVZyU29xQXpqcHZoV1RQTXVrMTBnTWVUZDFxazA0RHQ1aFdRaHhSN0JsZzJKMkY4azlkdXdRQUwyWg?oc=5",
+   "published": "2026-10-09T16:00:00+00:00",
+   "id": "6a33e5c8131b",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
    "source": "NBC News",
    "theme": "Trump / Iran",
@@ -1563,6 +1637,18 @@
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump’s Tariffs Put a Spotlight on Forced Labor. It Isn’t Going Away.",
+   "source": "WSJ",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTd1YThtaDdsOEtGUlQ2R3VsX2ZGNDRDT0hjNzFWZ2JkMXA5WnN0aHhkM2gzaC1BWGpFOHN1YUlFQ2J4V1Q2djhNbGdDUENWZXZzYjVJMGdjR3NhbzA0X2xSODhibWpyNHotNHVzdTU0SEVNbmpGRDRKU3pzZG5TRGp3RGdaemltc293WURWTFg2dEhmS19BMzFPaUZGcnoxYUYzWF9DaEZwWDFW?oc=5",
+   "published": "2026-10-09T14:32:08+00:00",
+   "id": "e46e3f5b0ee3",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -1776,6 +1862,18 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUJXTFNHOTNGQnVyeUtyZFdzR05LbGx6Q2FkYVpaR3R3elVHc3l4ZW5OR1dFWFNHQlRQX3pzYXIxal9hU1FDR2R3MXhTTGQ5VWhpaW00aVRzengyd0MzWlE1S1VhaXlTSEZlRFVzWmhfOVo5VHBDOHNMRFpRTklxZVAyU1dsSmpPZ2Z3T01mczRPZG16T3BFQjRSLWdGNjVlcXc?oc=5",
    "published": "2026-10-09T13:10:22+00:00",
    "id": "c919152d8523",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine takes aim at Russia’s AI data infrastructure",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnhsVjF5NzctTGVleHFNUWpQZ2pEbUMwMDlkWEVlaHhrZXVJVGtxUmY5LU9tR1RxVWFXY1RPODZWRUotaUc1dDNLU0Z0ZEFROG5vc3ZGU0tNZTVSNEtXNGM2X1VvWlB5b2hNbWJUbFQ2TFhqSzBYWjV0OEdqc3k5aEFrODQwSnl3d3VhVmZ1cURnZjJ2S2tv0gGcAUFVX3lxTE82c1ZQMnZzVC1mMlpiTlNhb2F0RVVpS3NEUTIwX0V2U1FxWU9MVUpuQ2lqSWdBb2FCU1d4U0pEWW1aN3NIa21BTFhuZFYyXzFDeVZNR0VHNHk1TF85QXIySWtHMTlhX0t3RzZiY1NPMFdOU3dRUlhoc2hkM1ZnWGZhb1UxMjFSV2JETkJjLWVyYjhleXd0NGo2YmVBbQ?oc=5",
+   "published": "2026-10-09T13:09:59+00:00",
+   "id": "85e955a2d541",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -2190,6 +2288,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "How much is the war with Iran costing the US? - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U?oc=5",
+   "published": "2026-10-09T10:12:17+00:00",
+   "id": "72da2c05431e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
    "source": "FXStreet",
    "theme": "Or",
@@ -2526,6 +2636,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Ukraine's made battlefield gains, but Russia tipped for large winter offensive",
+   "source": "NPR",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTlWazBEQ2hzYjRRTHQzNFJTMVAyUkE1LXhneXlxMmlNeEhlRGc3ZU96MUU4Y0lSRDVSMWJBZHR5eC1KYUFibUY3NkgxcGpoMFNfR1N2M1VsblpOVEdLUGxZWWxTeUx6X3oxMkVEbktmaE1kaXptWFdYSzFIR0JVVm01UmNxa08zdFFnZU1NU1o2SkQ2cG9oNkFOdFRRRmV4bXdNYVpHRUhpOUZ5enlnV2VLSGNJWGxLdWttYVl3?oc=5",
+   "published": "2026-10-09T08:24:57+00:00",
+   "id": "70b17dbc8496",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
    "title": "Treasury yields rise as traders wrap up volatile week",
    "source": "CNBC",
    "theme": "Dette US",
@@ -2559,6 +2681,30 @@
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Peter Schiff says rising yields are 'the most bullish thing' for gold, warns Washington could pay 50 cents on the dollar",
+   "source": "Kitco",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1QyWjlrN2F2aWdXTUpBdXpKLWI3bjcwaTdMb0M3aGNjMmQxaHd5c3JER1ZBMTVEbmEwdFBQS19kcV9jS0hlbEFTUDNuak9QY3V3QjNiZkw0cEllQy1hU1VrRy1aQVU3ajlVZE1naElGMmJpQUZoUXZqQU45elI3M19TeG94azNHREVodENpQ1Z0V1o2azE4amVCWkRiSFNHeFdGUlF1dlJKd3ZYWVZoaw?oc=5",
+   "published": "2026-10-09T08:12:52+00:00",
+   "id": "33a170b31778",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "President Trump Rules Out Iran Strike Before Midterms Despite Reports of Military Plans",
+   "source": "The Media Line",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm5kQ1VldUk2YUs1SGVQNG9DRnZQMG80c0ZLLXZKcFU0VTlSNlpGVTV0dVZLTlZGQjVDRFRJSm1EQmtJdTA3RWxMclEwZzctQTJScXFkNURFeDNQR3FwQ1gwaXBSQkUxQzVsbXo2MkFsZUNycHdfbEg3d01KSF9ZZGhwdndweTNHUGtoNzRoQUVyeWl6M19aa0JsZWxINFV4d1dHbWpfRFE0cnVXUm9CQ1pvZ20wMWJrdXBJdzFEYnY?oc=5",
+   "published": "2026-10-09T07:45:27+00:00",
+   "id": "92ba863b9a15",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -2751,6 +2897,18 @@
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near",
+   "source": "The Washington Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlR3UHNEMFo0Zkt2RUV0S2VYUXh6RDY1MTBVQ3hjeTRXLTh2TlpZaUFoejFjMDM1WjVOYTRpYTZvNjBNUEprY3psWmxaOVgwNHJpZjZsVDZ4eXlSX3kzOFZ0czFIUlJKazJSSW5mNmxPcXJTQjlKX19teGVpOXBGSVhGTF94cXpfOVRrU2dWdXZRYmpVRmxzSDAyaXFlLU55UWtReVR2ZWs3bXE2RDAxdGVJQWhHUQ?oc=5",
+   "published": "2026-10-09T04:03:29+00:00",
+   "id": "8491d0ebe67c",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -3162,6 +3320,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "US Fed Meeting March 2026: When & Where To Watch Jerome Powell Speech LIVE Today; FOMC Decision Time in India",
+   "source": "Goodreturns",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQckdzVXlielcxcFpHTXpIX3I0OXUwN0VaR3kxNVpuV0xsVHRGLUxLbmNWRWY2ZVZjZVdJZmN0UDZiTlRaeVRjR3ppQ1hlWWMwZnZrb0Yxc0gzWnBMOGtPVWhSUG10aER1dkhtTVFlR183aldaVHp1WmFYTkwwNFI4c3I3bmdldnpMQkVObndkTmtEZDF3a0xuR1NBbnZBLThwSWMzSXZiNHpGdUNOSGxtWnBfVkJJOHhUYnBMWDhWSmlZUk9ScEZmd2VsMFE4UXRyekN2M05GaXRFdDBD?oc=5",
+   "published": "2026-10-08T21:38:28+00:00",
+   "id": "1d1b2065ff81",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
    "title": "Forget 3% US Inflation. It’s Heading for 4%: McGeever",
    "source": "EnergyNow.com",
    "theme": "Inflation US",
@@ -3195,6 +3365,18 @@
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil Rises as Investors Fear Further Middle East Escalation",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHg1UXM0ZE9ZQ05id0paSXdWUmk1R2E2cHpURjdETzZJNkZQck9OeFNEZTI4SjNJNEJvVlVwRFRUajJGTnR0V2x3SXpkajY2YVJSOWxVaWR1OWZTMXp1X3dhZE95WVZyclB4VVZoUTZhLS1RQmYzMnY2dWc1V1MxOVNWcGRaZmtRbVJjRW95N1RpLVE?oc=5",
+   "published": "2026-10-08T21:27:09+00:00",
+   "id": "01555ad25454",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -3282,42 +3464,6 @@
    "method": "mots-clés"
   },
   {
-   "title": "US bonds fall, lifting yields for 2nd day, as oil weighs, 30-year auction looms",
-   "source": "Virginia Business",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzd6VXRsOG1CWklWeWF0RjNHWEk4Rzc2b2F1anJGZGdBZlVzTVJsMFZUdkEtRm5qalhJclREcnZDUWRhVUY4TF9GeDZBaUNkTDRhY1dMR3h2VUVOZTNCS3hYcGJJQThhd0R4MU5hdnFiYWxUbWFZckJ1SXhVcVFrdkxWQXNPbU0?oc=5",
-   "published": "2026-10-08T20:17:44+00:00",
-   "id": "abc4613e4c71",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "CPI Report: Annual Inflation Rate Comes In At 3.5% In June, Lower Than Expected As Energy Prices Ease",
-   "source": "Stocktwits",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0NxVkRlY2VMOVdDdDFmZmYwSFNnWWJSTXBuNmM5ZXlMVHhrcXpJbmJyYkwwVFFfX2s3OS1ENTBISnJqWUxQR185aTg0Vi1OYlhFLTN6V1g4STV1X1N6TmFxT3ljQ2tXTE1UckNBYlNfM2tNelYtREhpMXVDWUxiTkZjVVNfSG5PUDhwR09WLUFqYjU5MDl5RjRJMmF6eUtxcmtWOGJpc0lBQQ?oc=5",
-   "published": "2026-10-08T20:16:37+00:00",
-   "id": "d7672272883a",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold Fell Below $4,150. The Fed Minutes Could Decide What’s Next",
-   "source": "InvestingHaven",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVlQZ21tNzFRR1NVeHJzYlpXMmpHSUt4eGgybVgzMUFfRmIwbU1SNV95TEN4RW11RWVMRm9JcU9oZ3FzMGJsSlN5blY5V2JXSmQ0YlhlemRUTG93bHhYNEcwUmJBNkw0VF95a0R1Q21ycW05eExBR3hoaGRzY2N0Smc3TGpTOXNMTk5KN3ZBTkI3Vmt0enlZNVNYcWZRWmpUc2NfYVVGdnd6Vko3OHJxVUVmM094dw?oc=5",
-   "published": "2026-10-08T20:14:21+00:00",
-   "id": "96569c2cc5b6",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
    "title": "Saudi Arabia's escalation against the Houthis is unlikely to deliver victory, says Danny Citrinowicz",
    "source": "Al-Monitor",
    "theme": "Moyen-Orient",
@@ -3330,30 +3476,6 @@
    "method": "mots-clés"
   },
   {
-   "title": "Jobless claims hover near 57-year low for fourth consecutive week",
-   "source": "KSL News",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHhfT05CaGZkUkYwNl9UVUJTYWtTNTFhMGdGdkJUZzZVNkR0bW9rbzlxTm9YRVcxWnQ0Z1IyQUJIVHBxb0QwcXhBNlV5bi00R0JMVUh2MjFTRXBCdFh2ckpTMjM1eFh1TERLekk0bzZISm5fMnl6cjR1dGMyTV82RFNJNS05NmRDOVhUQWk1aktvS0I0RVhIYkpMU01OS3VSUmp2Qw?oc=5",
-   "published": "2026-10-08T20:04:35+00:00",
-   "id": "bbd2e0da71b9",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil Finishes Higher Despite Trump Truth Social Post",
-   "source": "WSJ",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2Rxa0d1S3lzWHZMeWQ3NmIxWWgxbjZTdlhPc1dlMEJoTkRqVHlRbnR5dHdTa0xLQnNVQ2hYRXVsalJuQWVtTUt1Qk1XYThEYXNJWDBrSlk1WUFjUXZ6RXpnN2RFSmZONUxLb1pzV3RuX0Q4bTdrMjVvUXpWdXBzTzh1TTM1TkZORko2NmF4MXJWeElSLTRydk51dw?oc=5",
-   "published": "2026-10-08T19:57:00+00:00",
-   "id": "43bcbb292957",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
    "title": "Oil sinks 11% as Trump predicts Middle East de-escalation",
    "source": "DD News",
    "theme": "Moyen-Orient",
@@ -3363,30 +3485,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "The US dollar is at its strongest in 18 months, while the exchange rate in Vietnam moves in the opposite direction.",
-   "source": "Vietnam.vn",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHB2TU9kY0NvdGo5LW02elROYUVXeWsxcG13RzJuZ184S3Z6d1JEbkk1blRoSzNxT0hibTVVN3czQXdsVGhiMWIxeGhybVBWN2d2N0tkQ3VhdXBvNzBPNm96dmotMUFwWGdIbUtQa0FWVl9rMm9tM01yNGRrbmROellLMGJXTE1UMnAwSU1fcjA?oc=5",
-   "published": "2026-10-08T19:38:21+00:00",
-   "id": "b3af16e106d1",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Dollar Moves Lower With T-Note Yields",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDkwSUx2Rm9pRHBURTREZlBjcl9GU1B5WFpKSnlDcjJsQVdUb0o5UkxybTkyRDVRRk9PQ2czcHcycEltdE5rRnp4R3o5QjQ1NVl2SC1DUmZicDlUZlJKaUVuLURCSDFTbWQzdEU1ZEhadnBoR2dJM2d0ZnhYSFdvUnJEdmFQTldVVGhXX1k3ZHR5S2pnajZyRXVlXy0?oc=5",
-   "published": "2026-10-08T19:34:59+00:00",
-   "id": "cf4f45c4d1da",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -3423,18 +3521,6 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Federal Reserve won’t disclose whether Trump cold-calls Warsh",
-   "source": "Washington Examiner",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUJxOS1UaTlKa2t4YkdyLTQyMmdaVEctNzZndHpxMmVMeW9ybkcxTG5abWdkdlpqTzRpQ0dKRThjb1N6eEFDLXJPRDJsVVlPV3h4UHRJUmVnNXJPU3lSemJZWHdZa3d0NWdXM2taWFhhVjQ5MTdZSXRVT3lRNmE5RkJBbWVrSnBoNm9rVl83Q3dCUXpkQ1hVMVBvc0VFcWdabTM0NmNTWnVVWEg2eW1aQUZObno1Y0JiSUpadDE3eDlSZXNlY3dFcEdRTDVGQmF2?oc=5",
-   "published": "2026-10-08T18:56:00+00:00",
-   "id": "b29b32fc37aa",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
    "method": "mots-clés"
   }
  ],
@@ -3490,7 +3576,10 @@
   "cyc_end|2026-10-05/2026-10-11": 1791571785.3557074,
   "cyc_rev|2026-10-05/2026-10-11": 1791571785.3557136,
   "pre1h|2026-10-09T16:00:00-04:00": 1791571785.3599443,
-  "rep|daily|2026-10-09": 1791571786.4063618
+  "rep|daily|2026-10-09": 1791571786.4063618,
+  "news|72da2c05431e": 1791571919.810669,
+  "news|92ba863b9a15": 1791571920.7813408,
+  "news|8491d0ebe67c": 1791571921.685478
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -3513,6 +3602,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-09T18:52:01.685603+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran scales up Hormuz attacks, raising pressure on Trump as midterms near</b>\n📰 The Washington Post · Ven 09/10 06:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlR3UHNEMFo0Zkt2RUV0S2VYUXh6RDY1MTBVQ3hjeTRXLTh2TlpZaUFoejFjMDM1WjVOYTRpYTZvNjBNUEprY3psWmxaOVgwNHJpZjZsVDZ4eXlSX3kzOFZ0czFIUlJKazJSSW5mNmxPcXJTQjlKX19teGVpOXBGSVhGTF94cXpfOVRrU2dWdXZRYmpVRmxzSDAyaXFlLU55UWtReVR2ZWs3bXE2RDAxdGVJQWhHUQ?oc=5"
+  },
+  {
+   "ts": "2026-10-09T18:52:00.781471+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump Rules Out Iran Strike Before Midterms Despite Reports of Military Plans</b>\n📰 The Media Line · Ven 09/10 09:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm5kQ1VldUk2YUs1SGVQNG9DRnZQMG80c0ZLLXZKcFU0VTlSNlpGVTV0dVZLTlZGQjVDRFRJSm1EQmtJdTA3RWxMclEwZzctQTJScXFkNURFeDNQR3FwQ1gwaXBSQkUxQzVsbXo2MkFsZUNycHdfbEg3d01KSF9ZZGhwdndweTNHUGtoNzRoQUVyeWl6M19aa0JsZWxINFV4d1dHbWpfRFE0cnVXUm9CQ1pvZ20wMWJrdXBJdzFEYnY?oc=5"
+  },
+  {
+   "ts": "2026-10-09T18:51:59.810703+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>How much is the war with Iran costing the US? - ABC News</b>\n📰 Breaking News, Latest News and Videos · Ven 09/10 12:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U?oc=5"
+  },
   {
    "ts": "2026-10-09T18:49:45.421446+00:00",
    "kind": "daily",
