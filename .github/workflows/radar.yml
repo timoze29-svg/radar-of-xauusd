@@ -1,0 +1,51 @@
+name: Radar Or
+
+on:
+  schedule:
+    # Toutes les 15 min. Les rapports (7h / 14h / 22h Paris) sont déclenchés par le script
+    # en HEURE DE PARIS : le changement d'heure été/hiver est géré tout seul.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "scan / daily / update / recap / weekly / test"
+        required: true
+        default: "scan"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-or
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Lancer le radar
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODE: ${{ github.event.inputs.mode || 'scan' }}
+        run: python main.py "$MODE"
+
+      - name: Sauvegarder les données
+        run: |
+          git config user.name "radar-or-bot"
+          git config user.email "radar-or-bot@users.noreply.github.com"
+          git add docs/data.json data/state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "radar: mise à jour $(date -u +%Y-%m-%dT%H:%M)"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done

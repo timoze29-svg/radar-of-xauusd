@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0d10">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Radar Or</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0b0d10; --panel:#12161b; --panel2:#171c22; --line:#232a32; --txt:#e6e9ee; --mut:#8792a2; --dim:#5b6573;
+  --gold:#e8b94a; --gold2:#f5d27a; --up:#22c55e; --dn:#ef4444; --neu:#94a3b8; --warn:#f59e0b; --blue:#60a5fa;
+  --mono:'JetBrains Mono',ui-monospace,monospace; --sans:'Inter',system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--txt);font-family:var(--sans);font-size:14px;line-height:1.45;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1500px;margin:0 auto;padding:12px 16px 60px}
+header{display:flex;align-items:center;gap:16px;flex-wrap:wrap;padding:10px 0 14px;border-bottom:1px solid var(--line);margin-bottom:14px;position:sticky;top:0;background:var(--bg);z-index:5}
+.logo{font-weight:800;letter-spacing:.08em;font-size:15px;display:flex;align-items:center;gap:8px}
+.logo b{color:var(--gold)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--up);box-shadow:0 0 10px var(--up);animation:p 2s infinite}
+@keyframes p{50%{opacity:.35}}
+.px{font-family:var(--mono);font-size:26px;font-weight:700;color:var(--gold2)}
+.chg{font-family:var(--mono);font-weight:600;font-size:14px}
+.meta{margin-left:auto;color:var(--mut);font-size:12px;text-align:right;font-family:var(--mono)}
+.badge{display:inline-block;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:700;letter-spacing:.04em}
+.b-warn{background:#f59e0b22;color:var(--warn)} .b-ai{background:#60a5fa22;color:var(--blue)}
+.grid{display:grid;gap:12px;grid-template-columns:repeat(12,1fr)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px;min-width:0}
+.card h2{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);margin-bottom:12px;display:flex;align-items:center;gap:8px}
+.card h2 .r{margin-left:auto;font-weight:500;letter-spacing:0;text-transform:none}
+.c4{grid-column:span 4}.c5{grid-column:span 5}.c7{grid-column:span 7}.c8{grid-column:span 8}.c12{grid-column:span 12}.c6{grid-column:span 6}.c3{grid-column:span 3}
+@media(max-width:1100px){.c4,.c5,.c7,.c8,.c6,.c3{grid-column:span 12}}
+.up{color:var(--up)}.dn{color:var(--dn)}.mut{color:var(--mut)}.mono{font-family:var(--mono)}
+/* biais */
+.bias{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+.gauge{width:220px;flex:none}
+.blabel{font-size:18px;font-weight:800;margin-top:-4px;text-align:center;line-height:1.25}
+.comps{flex:1;min-width:240px;display:flex;flex-direction:column;gap:7px}
+.comp{display:grid;grid-template-columns:1fr 120px;gap:8px;align-items:center;font-size:12.5px}
+.comp .d{color:var(--mut);font-size:11.5px}
+.bar{height:8px;background:var(--panel2);border-radius:4px;position:relative}
+.bar i{position:absolute;top:0;bottom:0;border-radius:4px}
+.bar:after{content:"";position:absolute;left:50%;top:-3px;bottom:-3px;width:1px;background:var(--dim)}
+/* cycle */
+.week{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;margin:6px 0 12px}
+.day{padding:8px 4px;text-align:center;border-radius:6px;background:var(--panel2);font-size:12px;font-weight:600;color:var(--mut);position:relative}
+.day.p1{border-bottom:3px solid var(--blue)}.day.p2{border-bottom:3px solid var(--gold)}
+.day.now{background:#e8b94a22;color:var(--gold2);outline:1px solid var(--gold)}
+.kv{display:grid;grid-template-columns:1fr auto;gap:5px 10px;font-size:13px}
+.kv span:nth-child(even){font-family:var(--mono);font-weight:600;text-align:right}
+.status{margin-top:10px;padding:10px;border-radius:8px;background:var(--panel2);font-size:13px}
+.mini-bars{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;align-items:end;height:70px;margin-top:8px}
+.mb{display:flex;flex-direction:column;align-items:center;gap:3px;font-size:10px;color:var(--mut);height:100%;justify-content:flex-end}
+.mb div{width:100%;display:flex;gap:2px;align-items:flex-end;flex:1}
+.mb i{flex:1;border-radius:2px 2px 0 0}
+/* textes rapports */
+.tabs{display:flex;gap:6px;margin-bottom:10px;flex-wrap:wrap}
+.tab{padding:6px 12px;border-radius:6px;background:var(--panel2);color:var(--mut);font-size:12px;font-weight:600;cursor:pointer;border:1px solid transparent}
+.tab.on{color:var(--gold2);border-color:var(--gold)}
+.report{white-space:normal;font-size:13.5px;line-height:1.6;max-height:620px;overflow:auto;padding-right:6px}
+.report b{color:var(--gold2)}
+/* actifs */
+.assets{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:10px}
+.asset{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:11px;display:flex;flex-direction:column;gap:6px}
+.asset .top{display:flex;justify-content:space-between;align-items:baseline;gap:6px}
+.asset .nm{font-weight:700;font-size:13px}
+.asset .pr{font-family:var(--mono);font-weight:700;font-size:15px}
+.asset .ch{display:flex;gap:10px;font-family:var(--mono);font-size:12px}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{font-size:10.5px;padding:2px 6px;border-radius:4px;background:#ffffff0d;color:var(--mut);font-weight:600}
+.chip.hot{background:#e8b94a26;color:var(--gold2)}
+.corr{font-size:11px;font-family:var(--mono);color:var(--mut)}
+.corr b{font-weight:700}
+.impl{font-size:12px;font-weight:600}
+svg.sp{width:100%;height:36px;display:block}
+/* listes */
+.list{display:flex;flex-direction:column;max-height:640px;overflow:auto}
+.item{padding:10px 2px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:44px 1fr;gap:10px}
+.item:last-child{border:0}
+.pill{font-family:var(--mono);font-weight:700;font-size:12px;text-align:center;padding:4px 0;border-radius:5px;height:fit-content}
+.p-up{background:#22c55e22;color:var(--up)}.p-dn{background:#ef444422;color:var(--dn)}.p-0{background:#ffffff0d;color:var(--mut)}
+.item .t{font-weight:600;font-size:13px}
+.item .s{font-size:11.5px;color:var(--mut);margin-top:3px}
+.filters{display:flex;gap:6px;flex-wrap:wrap}
+.f{padding:3px 9px;border-radius:12px;background:var(--panel2);font-size:11px;font-weight:600;color:var(--mut);cursor:pointer;border:1px solid transparent}
+.f.on{color:var(--txt);border-color:var(--dim)}
+.ev{display:grid;grid-template-columns:86px 1fr auto;gap:8px;padding:8px 0;border-bottom:1px solid var(--line);font-size:13px;align-items:center}
+.ev.past{opacity:.42}
+.ev .when{font-family:var(--mono);font-size:11.5px;color:var(--mut)}
+.ev .cd{font-family:var(--mono);font-size:11px;color:var(--gold2)}
+.fire{color:var(--warn)}
+.alert{padding:9px 0;border-bottom:1px solid var(--line);font-size:12.5px}
+.alert .w{font-family:var(--mono);font-size:11px;color:var(--mut)}
+.macro{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.mac{background:var(--panel2);border-radius:8px;padding:10px}
+.mac .v{font-family:var(--mono);font-size:18px;font-weight:700}
+.mac .n{font-size:11.5px;color:var(--mut)}
+footer{color:var(--dim);font-size:11.5px;margin-top:20px;text-align:center}
+.empty{color:var(--dim);font-size:13px;padding:12px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="logo"><span class="dot" id="dot"></span>RADAR <b>OR</b> · XAUUSD</div>
+  <div><span class="px" id="px">—</span> <span class="chg" id="pxchg"></span></div>
+  <div id="badges"></div>
+  <div class="meta"><div id="upd">chargement…</div><div id="next"></div></div>
+</header>
+
+<div class="grid">
+  <section class="card c7">
+    <h2>🧭 Biais macro or <span class="r mut" id="sentnews"></span></h2>
+    <div class="bias">
+      <div class="gauge"><svg viewBox="0 0 220 130" id="gauge"></svg><div class="blabel" id="blabel">—</div></div>
+      <div class="comps" id="comps"></div>
+    </div>
+  </section>
+
+  <section class="card c5">
+    <h2>🔄 Cycle hebdo lun→mer / jeu→ven <span class="r mut" id="cycn"></span></h2>
+    <div class="week" id="week"></div>
+    <div class="kv" id="cyckv"></div>
+    <div class="status" id="cycstatus"></div>
+    <div class="mut" style="font-size:11px;margin-top:10px">Jour du plus haut (or) / plus bas (gris) de la semaine</div>
+    <div class="mini-bars" id="hilo"></div>
+  </section>
+
+  <section class="card c6">
+    <h2>💵 Pression sur le dollar <span class="r mut">dernière heure</span></h2>
+    <div id="dp"></div>
+  </section>
+
+  <section class="card c6">
+    <h2>📈 Fiabilité des prévisions <span class="r mut">prévision 7h vs réalité 22h</span></h2>
+    <div id="track"></div>
+  </section>
+
+  <section class="card c12">
+    <h2>🌍 Actifs corrélés <span class="r mut">corr. 20j / 60j avec l'or · tri par force de corrélation</span></h2>
+    <div class="assets" id="assets"></div>
+  </section>
+
+  <section class="card c7">
+    <h2>📝 Prévisions</h2>
+    <div class="tabs"><div class="tab on" data-t="daily_forecast">☀️ Jour 7h</div><div class="tab" data-t="ny_update">🗽 Update 14h</div><div class="tab" data-t="evening_recap">🌙 Bilan 22h</div><div class="tab" data-t="weekly_forecast">🗓 Semaine</div></div>
+    <div class="report" id="report"></div>
+  </section>
+
+  <section class="card c5">
+    <h2>📅 Calendrier éco <span class="r mut">heure de Paris</span></h2>
+    <div class="list" id="cal" style="max-height:660px"></div>
+  </section>
+
+  <section class="card c8">
+    <h2>📰 Radar news <span class="r filters" id="nf">
+      <span class="f on" data-f="all">Tout</span><span class="f" data-f="strong">Fort impact</span>
+      <span class="f" data-f="up">Haussier</span><span class="f" data-f="dn">Baissier</span>
+      <span class="f" data-f="geo">Géopolitique</span><span class="f" data-f="fed">Fed/taux</span></span></h2>
+    <div class="list" id="news"></div>
+  </section>
+
+  <section class="card c4">
+    <h2>🏦 Macro & positionnement</h2>
+    <div class="macro" id="macro"></div>
+    <div id="cot" style="margin-top:12px"></div>
+    <h2 style="margin-top:18px">🔔 Dernières alertes</h2>
+    <div class="list" id="alerts" style="max-height:420px"></div>
+  </section>
+</div>
+<footer>Données gratuites (Yahoo/Stooq, FRED, CFTC, Google News, GDELT, ForexFactory) · quasi temps réel (quelques minutes de délai) · outil d'aide à la décision, pas un conseil financier.</footer>
+</div>
+
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=(v,n=2)=>v==null?"—":Number(v).toLocaleString("fr-FR",{minimumFractionDigits:n,maximumFractionDigits:n});
+const sign=(v,n=2)=>v==null?"—":(v>0?"+":"")+fmt(v,n);
+const cls=v=>v>0?"up":v<0?"dn":"mut";
+const tz={timeZone:"Europe/Paris"};
+const paris=(iso,o)=>new Date(iso).toLocaleString("fr-FR",{...tz,...o});
+function ago(iso){const m=(Date.now()-new Date(iso))/6e4;if(m<1)return"à l'instant";if(m<60)return Math.round(m)+" min";if(m<1440)return Math.round(m/60)+" h";return Math.round(m/1440)+" j"}
+// texte Telegram (HTML déjà échappé côté serveur) -> on n'autorise que <b> et <i>
+const safeTg=t=>String(t||"").replace(/<(?!\/?(b|i)>)/g,"&lt;").replace(/\n/g,"<br>");
+
+let DATA=null, REPORT="daily_forecast", NF="all", REFRESH=60, left=REFRESH;
+
+function spark(vals,color){
+  const v=(vals||[]).filter(x=>x!=null); if(v.length<2) return "";
+  const mn=Math.min(...v),mx=Math.max(...v),r=mx-mn||1,W=200,H=36;
+  const pts=v.map((y,i)=>`${(i/(v.length-1)*W).toFixed(1)},${(H-2-(y-mn)/r*(H-4)).toFixed(1)}`).join(" ");
+  return `<svg class="sp" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none"><polyline fill="none" stroke="${color}" stroke-width="1.6" points="${pts}"/></svg>`;
+}
+
+function gauge(score){
+  const a=Math.PI*(1-(score+100)/200), cx=110, cy=112, R=92;
+  const arc=(f,t,c)=>{const p=x=>[cx+R*Math.cos(Math.PI*(1-x)),cy-R*Math.sin(Math.PI*(1-x))];const[a1,b1]=p(f),[a2,b2]=p(t);
+    return `<path d="M${a1} ${b1} A${R} ${R} 0 0 1 ${a2} ${b2}" stroke="${c}" stroke-width="14" fill="none"/>`};
+  const nx=cx+(R-18)*Math.cos(a), ny=cy-(R-18)*Math.sin(a);
+  const col=score>=15?"var(--up)":score<=-15?"var(--dn)":"var(--neu)";
+  $("#gauge").innerHTML=arc(0,.3,"#ef444466")+arc(.3,.425,"#ef444433")+arc(.425,.575,"#94a3b833")+arc(.575,.7,"#22c55e33")+arc(.7,1,"#22c55e66")+
+   `<line x1="${cx}" y1="${cy}" x2="${nx}" y2="${ny}" stroke="${col}" stroke-width="4" stroke-linecap="round"/><circle cx="${cx}" cy="${cy}" r="7" fill="${col}"/>`+
+   `<text x="14" y="128" font-size="10" fill="#8792a2">BAISSIER</text><text x="206" y="128" font-size="10" fill="#8792a2" text-anchor="end">HAUSSIER</text>`;
+  $("#blabel").innerHTML=`<span class="mono" style="color:${col};font-size:28px">${score>0?"+":""}${score}</span><br><span style="color:${col}">${esc(DATA.bias.label)}</span>`;
+}
+
+function renderBias(){
+  const b=DATA.bias; gauge(b.score);
+  const mx=Math.max(10,...b.components.map(c=>Math.abs(c.contrib)));
+  $("#comps").innerHTML=b.components.map(c=>{
+    const w=Math.abs(c.contrib)/mx*50, col=c.contrib>0?"var(--up)":"var(--dn)";
+    const pos=c.contrib>0?`left:50%;width:${w}%`:`left:${50-w}%;width:${w}%`;
+    return `<div class="comp"><div><div>${esc(c.name)} <span class="mono ${cls(c.contrib)}">${sign(c.contrib,0)}</span></div><div class="d">${esc(c.detail)}</div></div>
+    <div class="bar"><i style="${pos};background:${col}"></i></div></div>`}).join("")||'<div class="empty">Pas encore de données</div>';
+  const s=DATA.news_sentiment||{};
+  $("#sentnews").textContent=s.count?`news 24h : ${s.count} notées · ${sign(s.value)}`:"";
+}
+
+function renderCycle(){
+  const c=DATA.cycle||{}, st=c.stats||{}, cur=c.current||{};
+  const J=["Lun","Mar","Mer","Jeu","Ven"];
+  $("#week").innerHTML=J.map((j,i)=>`<div class="day ${i<3?"p1":"p2"} ${cur.today===j?"now":""}">${j}</div>`).join("");
+  $("#cycn").textContent=st.weeks?`${st.weeks} semaines analysées`:"";
+  const rows=[];
+  if(st.weeks){
+    rows.push(["Inversion jeu→ven (toutes semaines)",st.pct_rev+" %"],["Inversion si lun→mer fort (> "+fmt(st.median_A,0)+"$)",st.pct_rev_strong+" %"],
+      ["Après lun→mer haussier",st.pct_rev_after_up+" %"],["Après lun→mer baissier",st.pct_rev_after_down+" %"],["Retracement médian si inversion",st.avg_retrace_pct+" %"]);
+  }
+  if(cur.A!=null) rows.push(["Mouvement lun→mer cette sem.",sign(cur.A)+" $"]);
+  if(cur.B!=null) rows.push(["Depuis mercredi soir",sign(cur.B)+" $"]);
+  $("#cyckv").innerHTML=rows.map(r=>`<span>${r[0]}</span><span>${r[1]}</span>`).join("");
+  let s=`<b>${esc(cur.texte||"—")}</b>`;
+  if(cur.targets) s+=`<div class="mono" style="margin-top:6px;font-size:12px">🎯 38.2% ${fmt(cur.targets["38.2%"])} · 50% ${fmt(cur.targets["50%"])} · 61.8% ${fmt(cur.targets["61.8%"])}</div>`;
+  $("#cycstatus").innerHTML=s;
+  if(st.hi_day_pct){const mx=Math.max(...st.hi_day_pct,...st.lo_day_pct);
+    $("#hilo").innerHTML=J.map((j,i)=>`<div class="mb"><div><i style="height:${st.hi_day_pct[i]/mx*100}%;background:var(--gold)" title="plus haut ${st.hi_day_pct[i]}%"></i><i style="height:${st.lo_day_pct[i]/mx*100}%;background:var(--dim)" title="plus bas ${st.lo_day_pct[i]}%"></i></div>${j}</div>`).join("");}
+}
+
+function renderAssets(){
+  const g=DATA.assets.find(a=>a.key==="GOLD");
+  if(g){$("#px").textContent=fmt(g.price,2);$("#pxchg").innerHTML=`<span class="${cls(g.chg1)}">${sign(g.chg1)}%</span> <span class="mut">· 5j ${sign(g.chg5)}%</span>`;document.title=`${fmt(g.price,0)} · Radar Or`}
+  const list=[...DATA.assets].sort((a,b)=>a.key==="GOLD"?-1:b.key==="GOLD"?1:Math.abs(b.corr.c60||0)-Math.abs(a.corr.c60||0));
+  $("#assets").innerHTML=list.map(a=>{
+    const unit=a.is_rate?" pb":"%", m=a.is_rate?100:1, n=a.is_rate?0:2;
+    const c=a.corr||{}, col=(a.chg5||0)>=0?"#22c55e":"#ef4444";
+    const corrHtml=a.key==="GOLD"?`<div class="corr">référence</div>`:`<div class="corr">corr 20j <b class="${cls(c.c20)}">${c.c20??"—"}</b> · 60j <b class="${cls(c.c60)}">${c.c60??"—"}</b> · 1an ${c.c250??"—"}</div>`;
+    return `<div class="asset"${a.key==="GOLD"?' style="border-color:#e8b94a66"':""}>
+      <div class="top"><span class="nm">${esc(a.name)}</span><span class="pr">${fmt(a.price,a.is_rate?3:a.price>1000?1:a.price<10?4:2)}</span></div>
+      <div class="ch"><span class="${cls(a.chg1)}">J ${sign(a.chg1*m,n)}${unit}</span><span class="${cls(a.chg5)}">5j ${sign(a.chg5*m,n)}${unit}</span></div>
+      ${spark(a.spark,col)}${corrHtml}
+      ${a.implication?`<div class="impl">${esc(a.implication)}</div>`:""}
+      ${a.flags.length?`<div class="chips">${a.flags.map(f=>`<span class="chip hot">${esc(f)}</span>`).join("")}</div>`:""}
+    </div>`}).join("");
+}
+
+const EMPTY={daily_forecast:"La prévision du jour arrive chaque matin à 7h (lun→ven).",ny_update:"La mise à jour avant New York arrive à 14h (lun→ven).",
+  evening_recap:"Le bilan prévision vs réalité arrive à 22h (lun→ven).",weekly_forecast:"La prévision de la semaine arrive le lundi à 7h."};
+function renderReport(){
+  const r=DATA[REPORT];
+  $("#report").innerHTML=r?`<div class="mut mono" style="font-size:11px;margin-bottom:8px">Généré ${paris(r.date,{weekday:"long",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}${r.ai?" · analyse IA":""}</div>`+safeTg(r.text)
+    :`<div class="empty">${EMPTY[REPORT]} Tu peux aussi le lancer à la main dans GitHub → Actions → Run workflow.</div>`;
+}
+
+function renderDP(){
+  const dp=DATA.dollar_pressure; const el=$("#dp");
+  if(!dp||!dp.signals||!dp.signals.length){el.innerHTML='<div class="empty">Données intraday indisponibles (marché fermé ?)</div>';return}
+  const st=dp.status==="down"?['DOLLAR SOUS PRESSION ↓','up','Haussier pour l\'or']:dp.status==="up"?['DOLLAR EN FORCE ↑','dn','Baissier pour l\'or']:['PAS DE PRESSION NETTE','mut','Neutre'];
+  const arrow=d=>d===-1?'<b class="up">dollar ↓</b>':d===1?'<b class="dn">dollar ↑</b>':'<span class="mut">neutre</span>';
+  let h=`<div style="font-weight:800;font-size:16px" class="${st[1]}">${st[0]}</div><div class="mut" style="font-size:12px;margin-bottom:10px">${st[2]} · ${Math.max(dp.down,dp.up)}/4 signaux alignés sur ${dp.window_min} min${dp.fresh?"":" · ⚠️ données pas fraîches"}</div><div class="kv">`;
+  dp.signals.forEach(s=>h+=`<span>${esc(s.name)} <span class="mono mut">${esc(s.txt)}</span></span><span>${arrow(s.dir)}</span>`);
+  h+=`<span>News dollar/Fed (1h)</span><span>${dp.news.count?dp.news.count+" · "+sign(dp.news.avg,1):"—"}</span></div>`;
+  if(dp.prob) h+=`<div class="status" style="font-size:12.5px">📊 Historique : ${esc(dp.prob.cond||"")} → dollar a continué dans <b>${dp.prob.p_dxy}%</b> des cas, l'or a ${dp.status==="down"?"monté":"baissé"} dans <b>${dp.prob.p_gold}%</b> (${sign(dp.prob.gold_avg,1)}$ en moyenne sur ${dp.horizon_h}h, ${dp.prob.n} cas)</div>`;
+  el.innerHTML=h;
+}
+
+function renderTrack(){
+  const t=DATA.track, el=$("#track");
+  if(!t||!t.n){el.innerHTML='<div class="empty">Le taux de réussite se remplit chaque soir à 22h, après la prévision de 7h. Juge-le après ~20 jours.</div>';return}
+  const ic={hit:"✅",miss:"❌",flat:"➖"}, dn={up:"Haussier",down:"Baissier",range:"Range"};
+  let h=`<div style="display:flex;gap:18px;align-items:baseline;flex-wrap:wrap"><div><div class="mono" style="font-size:30px;font-weight:700;color:var(--gold2)">${t.rate==null?"—":t.rate+"%"}</div><div class="mut" style="font-size:11.5px">bonnes directions (${t.n} jours)</div></div>
+    <div><div class="mono" style="font-size:20px;font-weight:700">${t.rate20==null?"—":t.rate20+"%"}</div><div class="mut" style="font-size:11.5px">20 derniers jours</div></div>
+    <div class="mono" style="font-size:12px">${t.hits} ✅ · ${t.miss} ❌ · ${t.flat} ➖</div></div>
+    <div style="margin:10px 0;font-size:18px;letter-spacing:2px">${t.last.map(x=>`<span title="${x.date} · ${dn[x.dir]} · ${x.mv>0?"+":""}${x.mv}$">${ic[x.res]}</span>`).join("")}</div><div class="kv">`;
+  for(const d of ["up","down","range"]){const b=t.by_dir[d]; if(b&&b.n) h+=`<span>Quand le biais est ${dn[d].toLowerCase()}</span><span>${b.rate==null?"—":b.rate+"%"} (${b.n} j)</span>`}
+  el.innerHTML=h+"</div>"+(t.n<20?'<div class="mut" style="font-size:11.5px;margin-top:8px">Encore peu de jours : pas de conclusion avant ~20 jours.</div>':"");
+}
+
+function renderCal(){
+  const now=Date.now(); let last="";
+  $("#cal").innerHTML=(DATA.calendar||[]).map(e=>{
+    const t=new Date(e.date), day=paris(e.date,{weekday:"long",day:"2-digit",month:"2-digit"});
+    const head=day!==last?`<div class="mut" style="font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-top:10px">${day}</div>`:""; last=day;
+    const mins=(t-now)/6e4, past=mins<-30;
+    const cd=mins>0&&mins<2880?`<span class="cd">dans ${mins<60?Math.round(mins)+" min":Math.floor(mins/60)+"h"+String(Math.round(mins%60)).padStart(2,"0")}</span>`:"";
+    const hot=e.gold_weight>=8;
+    return head+`<div class="ev ${past?"past":""}"><span class="when">${paris(e.date,{hour:"2-digit",minute:"2-digit"})} ${esc(e.country)}</span>
+      <span><span class="${hot?"fire":""}">${hot?"🔥 ":e.impact==="High"?"● ":"○ "}${esc(e.title)}</span>${e.gold_label?`<div class="mut" style="font-size:11px">${esc(e.gold_label)}</div>`:""}
+      ${e.forecast||e.previous?`<div class="mut mono" style="font-size:11px">prév ${esc(e.forecast||"—")} · préc ${esc(e.previous||"—")}</div>`:""}</span>${cd}</div>`}).join("")||'<div class="empty">Calendrier indisponible</div>';
+}
+
+function renderNews(){
+  const F={all:()=>1,strong:n=>Math.abs(n.impact)>=6,up:n=>n.impact>0,dn:n=>n.impact<0,geo:n=>/géopo/.test(n.cat||""),fed:n=>/fed|taux|inflation|emploi/.test(n.cat||"")};
+  const L=(DATA.news||[]).filter(F[NF]);
+  $("#news").innerHTML=L.map(n=>`<a class="item" href="${esc(n.link)}" target="_blank" rel="noopener">
+    <span class="pill ${n.impact>0?"p-up":n.impact<0?"p-dn":"p-0"}">${n.impact>0?"+":""}${n.impact}</span>
+    <span><div class="t">${esc(n.title)}</div><div class="s">${esc(n.source)} · ${ago(n.published)} · ${esc(n.cat)}${n.raison?` — ${esc(n.raison)}`:""} <span style="opacity:.6">[${esc(n.method)}]</span></div></span></a>`).join("")||'<div class="empty">Aucune news</div>';
+}
+
+function renderMacro(){
+  const M=DATA.macro||{};
+  $("#macro").innerHTML=Object.values(M).map(m=>`<div class="mac"><div class="n">${esc(m.name)}</div><div class="v">${fmt(m.last,2)}%</div>
+    <div class="mono" style="font-size:11px"><span class="${cls(m.chg20*(m.gold_rel))}">${sign(m.chg20,2)} sur 20j</span></div>${spark(m.hist,"#8792a2")}</div>`).join("")||'<div class="empty">Macro indisponible</div>';
+  const c=DATA.cot;
+  $("#cot").innerHTML=c&&c.net!=null?`<div class="mac"><div class="n">COT — net spéculateurs or (au ${esc(c.date)})</div>
+    <div class="v">${fmt(c.net,0)} <span class="mono ${cls(c.chg_week)}" style="font-size:12px">${sign(c.chg_week,0)} /sem</span></div>
+    <div class="bar" style="margin:8px 0"><i style="left:0;width:${c.percentile_3y}%;background:var(--gold)"></i></div>
+    <div class="mut" style="font-size:11.5px">Percentile 3 ans : ${c.percentile_3y}% — ${esc(c.lecture)}</div></div>`:"";
+  $("#alerts").innerHTML=(DATA.alerts||[]).map(a=>`<div class="alert"><div class="w">${paris(a.ts,{weekday:"short",hour:"2-digit",minute:"2-digit"})} · ${esc(a.kind)}</div>${safeTg(a.text.split("\n").slice(0,4).join("\n"))}</div>`).join("")||'<div class="empty">Pas encore d\'alerte</div>';
+}
+
+function render(){
+  const b=[];
+  if(DATA.demo) b.push('<span class="badge b-warn">DÉMO</span>');
+  if(DATA.stale) b.push('<span class="badge b-warn">PRIX NON MIS À JOUR</span>');
+  if(DATA.ai) b.push('<span class="badge b-ai">IA ACTIVE</span>');
+  $("#badges").innerHTML=b.join(" ");
+  const age=(Date.now()-new Date(DATA.updated))/6e4;
+  $("#upd").textContent=`MAJ ${paris(DATA.updated,{hour:"2-digit",minute:"2-digit"})} (il y a ${ago(DATA.updated)})`;
+  $("#dot").style.background=$("#dot").style.boxShadow=age>40?"var(--warn)":"";
+  renderBias();renderCycle();renderDP();renderTrack();renderAssets();renderReport();renderCal();renderNews();renderMacro();
+}
+
+async function load(){
+  // 2 sources : la copie du site + la version brute du repo (toujours la plus fraîche) -> on garde la plus récente
+  const urls=["data.json?t="+Date.now()];
+  const m=location.hostname.match(/^([^.]+)\.github\.io$/), repo=location.pathname.split("/").filter(Boolean)[0];
+  if(m&&repo) urls.push(`https://raw.githubusercontent.com/${m[1]}/${repo}/main/docs/data.json?t=${Date.now()}`);
+  const res=(await Promise.allSettled(urls.map(u=>fetch(u,{cache:"no-store"}).then(r=>r.ok?r.json():null)))).map(x=>x.value).filter(Boolean);
+  if(res.length){res.sort((a,b)=>new Date(b.updated)-new Date(a.updated));DATA=res[0];render();}
+  else $("#upd").textContent="data.json introuvable — lance le workflow une 1re fois";
+  left=REFRESH;
+}
+document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{document.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));t.classList.add("on");REPORT=t.dataset.t;renderReport()});
+document.querySelectorAll("#nf .f").forEach(t=>t.onclick=()=>{document.querySelectorAll("#nf .f").forEach(x=>x.classList.remove("on"));t.classList.add("on");NF=t.dataset.f;renderNews()});
+setInterval(()=>{left--;$("#next").textContent=`rafraîchit dans ${left}s`;if(left<=0)load();if(DATA&&left%30===0)renderCal()},1000);
+load();
+</script>
+</body>
+</html>
