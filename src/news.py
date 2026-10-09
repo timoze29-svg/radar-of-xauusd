@@ -67,6 +67,14 @@ def keyword_score(title):
             why.append(cat)
     if score == 0:
         return 0, "autre", "aucun déclencheur"
+    # négation / pause : "will not attack", "pauses strike", "rules out strikes"... = désescalade
+    if "géopolitique" in cats and re.search(
+            r"\b(not|won't|wont|no plans?|never)\b.{0,25}\b(attack|strike|invade|war|bomb)|"
+            r"\b(pause[sd]?|delay[sed]*|hold[s]? off|rule[sd]? out|call[sed]* off|back[s]? down|postpone[sd]?)\b", t):
+        return -4, "géopolitique", "désescalade (attaque écartée / reportée) → baissier or"
+    # article d'analyse / explication : impact réduit
+    if re.search(r"^(how|why|what)\b|what happens next|explainer|analysis|opinion|\?$", t):
+        score *= 0.4
     if re.search(config.KEY_ACTORS, t):
         score *= 1.3
     score = max(-10, min(10, round(score)))
