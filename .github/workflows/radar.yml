@@ -2,9 +2,10 @@ name: Radar Or
 
 on:
   schedule:
-    # Toutes les 15 min. Les rapports (7h / 14h / 22h Paris) sont déclenchés par le script
-    # en HEURE DE PARIS : le changement d'heure été/hiver est géré tout seul.
-    - cron: "*/15 * * * *"
+    # Le rythme principal (toutes les 15 min) vient de cron-job.org (plus fiable que GitHub).
+    # Ici : simple secours une fois par heure. Les rapports 7h / 14h / 22h (heure de Paris)
+    # sont déclenchés par le script, le changement d'heure été/hiver est géré tout seul.
+    - cron: "7 * * * *"
   workflow_dispatch:
     inputs:
       mode:
