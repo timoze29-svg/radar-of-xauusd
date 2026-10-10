@@ -1,6 +1,7 @@
 """Outils communs : état persistant, cache, Telegram, IA Gemini, heure."""
 import html
 import json
+import re
 import os
 import time
 from datetime import datetime, timezone
@@ -144,30 +145,33 @@ _MODEL = None
 AI_STATUS = {"model": None, "calls": 0, "ok": 0, "last_error": None}
 
 
+def _ver(name):
+    m = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
+    return float(m.group(1)) if m else 0.0
+
+
 def _gemini_model():
-    """Choisit automatiquement un modèle Gemini dispo (les noms changent avec le temps)."""
+    """Choisit automatiquement le modèle Gemini Flash le plus récent dispo (les noms changent avec le temps)."""
     global _MODEL
     if _MODEL:
         return _MODEL
-    _MODEL = config.GEMINI_MODEL
-    try:
-        r = requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
-                         headers={"x-goog-api-key": config.GEMINI_API_KEY}, timeout=20)
-        if r.ok:
-            names = [m["name"].split("/")[-1] for m in r.json().get("models", [])
-                     if "generateContent" in m.get("supportedGenerationMethods", [])]
-            for pref in (config.GEMINI_MODEL, "gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"):
-                if pref in names:
-                    _MODEL = pref
-                    break
-            else:
-                flash = [n for n in names if "flash" in n and "lite" not in n and "image" not in n and "tts" not in n]
+    _MODEL = config.GEMINI_MODEL or "gemini-flash-latest"
+    if not config.GEMINI_MODEL:
+        try:
+            r = requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                             headers={"x-goog-api-key": config.GEMINI_API_KEY}, timeout=20)
+            if r.ok:
+                names = [m["name"].split("/")[-1] for m in r.json().get("models", [])
+                         if "generateContent" in m.get("supportedGenerationMethods", [])]
+                flash = [n for n in names if "flash" in n and not re.search(r"lite|image|tts|audio|live|exp|preview|thinking", n)]
                 if flash:
-                    _MODEL = sorted(flash)[-1]
-        else:
-            log("IA: liste des modèles indispo", r.status_code, r.text[:150])
-    except Exception as e:
-        log("IA: liste des modèles", e)
+                    _MODEL = max(flash, key=lambda n: (_ver(n), "latest" not in n, -len(n)))
+                elif "gemini-flash-latest" in names:
+                    _MODEL = "gemini-flash-latest"
+            else:
+                log("IA: liste des modèles indispo", r.status_code, r.text[:150])
+        except Exception as e:
+            log("IA: liste des modèles", e)
     log("IA: modèle Gemini utilisé →", _MODEL)
     AI_STATUS["model"] = _MODEL
     return _MODEL
@@ -190,6 +194,15 @@ def ask_ai(prompt, want_json=False, temperature=0.4):
                 log("IA: quota gratuit atteint, secours mots-clés")
                 AI_STATUS["last_error"] = "429 quota gratuit atteint"
                 return None
+            if r.status_code == 404:
+                m = re.search(r"use models/([\w.\-]+)", r.text)
+                if m and attempt == 0:
+                    global _MODEL
+                    _MODEL = m.group(1)
+                    AI_STATUS["model"] = _MODEL
+                    log("IA: modèle remplacé par", _MODEL)
+                    url = f"https://generativelanguage.googleapis.com/v1beta/models/{_MODEL}:generateContent"
+                    continue
             if not r.ok:
                 log("IA erreur HTTP", r.status_code, r.text[:300])
                 AI_STATUS["last_error"] = f"{r.status_code} {r.text[:200]}"
