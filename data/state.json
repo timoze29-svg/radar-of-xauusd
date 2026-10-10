@@ -1532,7 +1532,11 @@
   "cf2e2dd835fc",
   "66b640e16b94",
   "833fad3e008e",
-  "f05e544ba374"
+  "f05e544ba374",
+  "bc1cd2b081f2",
+  "642c351606fe",
+  "70a320b03bc2",
+  "229a1452e1d8"
  ],
  "news": [
   {
@@ -2554,6 +2558,18 @@
    "cat": "géopolitique",
    "raison": "Frappe létale sur une infrastructure saoudienne ravivant le risque géopolitique au Moyen-Orient.",
    "method": "IA"
+  },
+  {
+   "title": "Republicans, independent voters grapple with Trump's strikes on Iran - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSEowN1RJNkZ6STVRdlNlWi1zcHBqNTczaF9xR05wMWprT0JLNVhwZUtENmhtLUxSZ2NobHFwSVFHWmFCNjdDOExfUDBweDh5VTJWazhaQTZUa3U5SUZ0VTZyNEZMYVRWb0xscDZsMUhpTVV6Z3ZLaHU5TFVLNnVteHVGZ2pkanI2emg5Q2RaVU9pbUJaMVExNEFtWno0eFZZYU5RQ3l1WTBrQdIBrwFBVV95cUxPV3RCemhMOU0zZ0Y4M3I3YXNtSGd5MEpleDNfTXlsNENRSy1TVWNmbHdIY2dFZ0ZxUE5fdW03SURCTURQUGRBcm9SRmRnTi1MWlJoODFNMzVxSU54UzdHd1NKTGRRVnpsNjduMnFuS0s0el8tTWRZYkpWeEtKS2NXRVJtLVU5SUg3Tkt6OEQxdXFjbmFIVnFtb25IMFYwY1ZXQzgwNFowR0ZCSkhkTkxn?oc=5",
+   "published": "2026-10-10T08:12:33+00:00",
+   "id": "642c351606fe",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Are Bonds Becoming a Better Investment for Portfolios?",
@@ -3922,18 +3938,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-   "source": "The New York Times",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2UxdUFUNG1XdFpHSGNHZUFmQUFERDg0SmVjQVJlMVNvZ09sR01uRUdmSk85V1JkZVh5cjBIR0pBa0ktOEVDRU1aTV90SEpIREtmWG8xeVBiQXhUZUtFSVN4Sk1zT2NGcGRXRHBtRE5uYS1jV2Rtdll1X19xXzlKRHZPYTVpSnMwb25fTklzeTNrX0k?oc=5",
-   "published": "2026-10-09T08:48:09+00:00",
-   "id": "23c983943960",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -4054,7 +4058,8 @@
   "news|a0d062a7f3e5": 1791661570.097064,
   "news|fc0066e6e39e": 1791663365.4752855,
   "news|fcb35d0b10f5": 1791665164.270582,
-  "news|cf2e2dd835fc": 1791666103.6034524
+  "news|cf2e2dd835fc": 1791666103.6034524,
+  "news|642c351606fe": 1791666965.99963
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4077,6 +4082,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-10T21:16:05.999690+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Republicans, independent voters grapple with Trump's strikes on Iran - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 10/10 10:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSEowN1RJNkZ6STVRdlNlWi1zcHBqNTczaF9xR05wMWprT0JLNVhwZUtENmhtLUxSZ2NobHFwSVFHWmFCNjdDOExfUDBweDh5VTJWazhaQTZUa3U5SUZ0VTZyNEZMYVRWb0xscDZsMUhpTVV6Z3ZLaHU5TFVLNnVteHVGZ2pkanI2emg5Q2RaVU9pbUJaMVExNEFtWno0eFZZYU5RQ3l1WTBrQdIBrwFBVV95cUxPV3RCemhMOU0zZ0Y4M3I3YXNtSGd5MEpleDNfTXlsNENRSy1TVWNmbHdIY2dFZ0ZxUE5fdW03SURCTURQUGRBcm9SRmRnTi1MWlJoODFNMzVxSU54UzdHd1NKTGRRVnpsNjduMnFuS0s0el8tTWRZYkpWeEtKS2NXRVJtLVU5SUg3Tkt6OEQxdXFjbmFIVnFtb25IMFYwY1ZXQzgwNFowR0ZCSkhkTkxn?oc=5"
+  },
   {
    "ts": "2026-10-10T21:01:43.603502+00:00",
    "kind": "news",
@@ -4371,11 +4381,6 @@
    "ts": "2026-10-09T22:56:06.443527+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets</b>\n📰 CNBC · Ven 09/10 20:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3pPNnFSd1A0VGRrR0FmajNHNmZmRFpfZDhHWlJSc0UxRDE1bGc4d2k3azMzNV9mM3lyZDlDYWU2ZXY4MDNKcXZ0Yzk0R2xjbTFOa2ZkR3E3dG43TTRvTTV0MVNCeHFGY25iVGktNDJhd3l3czVySHFzR2hCTF95Z0tkaldmNnk40gGOAUFVX3lxTE1jTG5KbGx2dE96SDlvcGxxdDJxM3dCazBWWVoxTVRGNkhfcUJ1cDdkLW5HNU9odnp0LUZydGNremhzMXN3TGFpemRPTGFidFE0WVlyX0VQZWI3UGw0NHBzYnJ3OUR0cnpSVjRCbUYza1NwSnZURlVGenpuLWJONE54ejh4VzBaQXpuN0VrMHc?oc=5"
-  },
-  {
-   "ts": "2026-10-09T22:56:05.460990+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Lebanon says 6 wounded in attack that Israel says targeted pro-Iran Syrian operative</b>\n📰 The Times of Israel · Ven 09/10 21:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFhFMDcyUVhsc0EzaXR5MUlRbTFXYmlzNC1EUXRFNzlxd1BpQXlDdEV0V09HU1kxNXpSQ29jdXIyMVA0cXFwb2tSN1BGZldIdmpjcnVOcmNJencycmFOei1HUTNmU2dnOWRQMnpMMDM4LXhyeE9QSmtBUG5aSVFGMDFEeVZHbFB6Z0hBOS1oLWpkQmdKZzRWdTFOSDRfRFpvQm51UVIwVHphazJ1VXdUMzBaVHpHTFFtUDZoLTZkMW5Eai1KSW9zTGRR?oc=5"
   }
  ],
  "daily_forecast": {
