@@ -1579,7 +1579,9 @@
   "b70148e0e0c1",
   "8f242f4fc99c",
   "b481bef4d3f5",
-  "cea415b3851e"
+  "cea415b3851e",
+  "88e7188ce4e8",
+  "04ea2ed9b9c3"
  ],
  "news": [
   {
@@ -1829,6 +1831,18 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanp6X3NkaHRNNEJuWkg2RHVQSklkZy1LRk5zTXhDU0RMSHA0cy1DZjVwaFI3ZEVodlVUMUtxSnpDNGVFVmhKR04tWTNJRFJ2bzd2NG1LUlk2aUpQTmdSMmYyWm1Fb1kyQVNyNWtiYTl1bXRPTFZWTTd6SDYyejhPdTJsbUx0eEh2ZGkzOFNobU42OXBOdWYwclRETUJuNjJVb0xSeDhPaHdheTQzWEpRbFl3ajgwckU2MVloNi1ta9IBxwFBVV95cUxQWG1DdVp4am96a0U4ajFtQmRMNWlaSzN5ZnVHUGY0dkFYMi1pSjVDZUNaQXcydDJidU1MOHFjZUg5b3NNWVEtSjZyNDctRjhCUTEyVnlvV2lMcmJVNk8zbFlrM1Y0S3NLSzlsVC1hb3NVVXFBczh0VXJPR3NIdHJBSVNjcFp5RGJ5bHNhbzdEOS02ODJvRUNBRTB1RXQ3R1FDTllGVlcyQ015OU52TGl4Uzc3c3pzdjhnbTBZeFlVb2tHY3d5eFk4?oc=5",
    "published": "2026-10-10T17:10:18+00:00",
    "id": "55afd3680cfc",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US reportedly urged ‘Israel’ to launch unilateral attack on Iran, 'Israeli' media says",
+   "source": "Roya News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYzIwMjVCb3V1NWJRU0VBMXVFZktrX0hrXzZqZWNORy1VQVdIZXBDTGNId0d1cFhWLTdCR0xzTUg0RGdFSDBfcTNUZ3B2VzFsYmw4cmxaVy1MdC1DZkpBcUpuSjJJSkNteFZFcDhYdmF3dVk4NjFVOHg4MWcxSU00WDhfaUJJRXNMc2hiS2pVZFd1OEFScEFxZkZWbnp6amNmbUM3Z2xnR2NSNFR4cUtJdnMzZTVScmZwMGFjQ1RTYVNfRm1xWHFwQXNEU1Y5dkl0X0VmOQ?oc=5",
+   "published": "2026-10-10T16:44:10+00:00",
+   "id": "88e7188ce4e8",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -3969,18 +3983,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Is Trump signalling a return to war with Iran after the midterms?",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2lheENhTTNsdUk1TWdiTURrdmN5NDdSMHNVUFdCdllxZXFKU2lhR3c3dG03a3lJc2ZnQnJMeHJ1TDFrNGR4STJ4eWpuRHowYVVoYTZSRF90ZTl2ZVRuQThVMmMyaEdRSUt3WUZ4MVBYNC11SGVlWXdqa1dadEdNM0R0ckQ2aFpqUVQzd2pmcThjNnQ5SDhuMlRXR0tveGhtRmE2MnNHYlbSAa4BQVVfeXFMUElKblZ0WUdJMFZNMDNLMEhDRlBidFpKY1M3WjItQlJra2pPdGJ3b2dLVlN3WkZSMWFHNzN2MHR0WXoyTkIxRThLdks2M3g4YUx6cTJ5Xzc3X0hYTE9IVEFxTVFSQm5ybjNPeUxlSGx5YXZYRmxUS1pxUGRBXzRFS1BtZXpyVEZ3TlJ5MWZiVWtHWm1ZTVQyajVjcTJmN3o1Ui1CazdzdG0xcTVsSXdn?oc=5",
-   "published": "2026-10-09T10:43:40+00:00",
-   "id": "8c16cd355fd9",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -4107,7 +4109,8 @@
   "news|87d224f864b5": 1791671473.7845554,
   "news|2413574f163f": 1791673292.4220908,
   "news|c992b6d0116b": 1791673293.724314,
-  "news|f41a82bc77eb": 1791673294.7835097
+  "news|f41a82bc77eb": 1791673294.7835097,
+  "news|88e7188ce4e8": 1791675959.4376056
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4130,6 +4133,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-10T23:45:59.437649+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US reportedly urged ‘Israel’ to launch unilateral attack on Iran, 'Israeli' media says</b>\n📰 Roya News · Sam 10/10 18:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYzIwMjVCb3V1NWJRU0VBMXVFZktrX0hrXzZqZWNORy1VQVdIZXBDTGNId0d1cFhWLTdCR0xzTUg0RGdFSDBfcTNUZ3B2VzFsYmw4cmxaVy1MdC1DZkpBcUpuSjJJSkNteFZFcDhYdmF3dVk4NjFVOHg4MWcxSU00WDhfaUJJRXNMc2hiS2pVZFd1OEFScEFxZkZWbnp6amNmbUM3Z2xnR2NSNFR4cUtJdnMzZTVScmZwMGFjQ1RTYVNfRm1xWHFwQXNEU1Y5dkl0X0VmOQ?oc=5"
+  },
   {
    "ts": "2026-10-10T23:01:34.783840+00:00",
    "kind": "news",
@@ -4424,11 +4432,6 @@
    "ts": "2026-10-09T22:56:12.399542+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Houthi strikes on Riyadh airport killed three Saudis as war escalates</b>\n📰 Reuters · Ven 09/10 16:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5"
-  },
-  {
-   "ts": "2026-10-09T22:56:11.381607+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US voices concern over Houthi escalation, condemns attacks on Saudi Arabia</b>\n📰 Anadolu Ajansı · Ven 09/10 17:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzNwVUFrMExaQVNUTXpXTHlqU3hoV21ZVVFQSkhKenFrSEtEbDQ1eDhWSVBrZGFXTVBWUVNERmdKUDNKVDZmbU9BWmFqU2J2TE4wRnRJNV91UDFLLWxmd2t1UWdIcVNjZU9qSVJNTUpVVjlPRnlhTkRhS0NKSlAxRjVZT2lxdVdCMFlHNWUyTm1nZ3pnd2JiMlNSODl2Qm12LTAyX1lPcUZaSWwwOU9sdnFR?oc=5"
   }
  ],
  "daily_forecast": {
