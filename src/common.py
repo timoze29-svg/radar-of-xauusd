@@ -189,7 +189,7 @@ def ask_ai(prompt, want_json=False, temperature=0.4):
     AI_STATUS["calls"] += 1
     for attempt in range(2):
         try:
-            r = requests.post(url, json=body, timeout=90, headers={"x-goog-api-key": config.GEMINI_API_KEY})
+            r = requests.post(url, json=body, timeout=180, headers={"x-goog-api-key": config.GEMINI_API_KEY})
             if r.status_code == 429:
                 log("IA: quota gratuit atteint, secours mots-clés")
                 AI_STATUS["last_error"] = "429 quota gratuit atteint"
