@@ -1467,7 +1467,10 @@
   "08b8f6ba9d48",
   "5f70e8ff48b5",
   "b938fd9a2371",
-  "1cba15b15f1b"
+  "1cba15b15f1b",
+  "cc361102aa97",
+  "cc3249dcb012",
+  "704c0290c78f"
  ],
  "news": [
   {
@@ -1493,6 +1496,30 @@
    "cat": "politique US",
    "raison": "Allègement potentiel des sanctions énergétiques réduisant modérément l'inflation et les risques géopolitiques.",
    "method": "IA"
+  },
+  {
+   "title": "Riyadh airport grounds flights following Houthi airstrikes, several injured",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DRTB2RzVMUXU3b0EyNm94a0pza0E2anJzOGFHeXZWTWcwZGRySnp0Z2lYd1JoUGN2ZzhaOTRpOGliUDh1dVlXU01MS0pnQmw3VHoxU2FLMWx5RF8z?oc=5",
+   "published": "2026-10-10T17:33:48+00:00",
+   "id": "cc361102aa97",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine Strikes Major Russian Oil Hub Hours After Trump’s Deal With Putin",
+   "source": "Newsweek",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3c5cnlQNEJCNTFxTHBqaE5WQzVkSzFHajk1WVc0eXhtQnpodW1JYi1BYmEtWHYyb281S2tqWWJCMndtYnVaUlhsOG0zWnR2Y1ZRUVpENDZxZnlKMllsbXRyQm9WSk55VG5MWHpPSkdSWlYwa21zTHdYNUlhNERiTG1aZ0xQa3YxY3hmS3J5SE1mWEpfXzZvRkVXN1FJU195bThnTnFaTzV5dw?oc=5",
+   "published": "2026-10-10T17:19:00+00:00",
+   "id": "704c0290c78f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US Wanted Israel To Strike Iran Alone, Then Backed Off Over Election Fears: Report",
@@ -3845,30 +3872,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "No new attack on Iran before the midterm elections, Trump says",
-   "source": "The Washington Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSGZLdXBQSHN4LURXRDV0LTVTdGQ0WTlYWFdWenRmVTFrOERrZFdOa3MxN2RabDNIYXhMWkdBQm5ybVhUT21DNEI5dFI2cDZYbmRVN0RSWDhlckYyZHZNc3g3RG1TbkM5ckVlS1dic0NNeDM4ZFdEUkdpbWZpRFdBd0pRcnl2WUtEWVhxcm14VjBjQTBGcktHTFVMRmVPY28tZEJHaEtHNXZKUQ?oc=5",
-   "published": "2026-10-09T00:30:00+00:00",
-   "id": "caa0075350f6",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil falls slightly after Trump says no Iran attack before midterms",
-   "source": "Yahoo Finance Singapore",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2dFaUtRTjZadkNlSTB0d2IwWTJxcUNLUGQyeC1qNE8wdEUxVnQzWmVYWWFvejlFQ3ROQjdMZ2JnQ3lxWmc5ZWFudDVHRmEwQzJXQzQyTTd6UUhYeHlESTQ1THBDMVJOSkVCU3B4UWZjQzJkNmMwRWp6ZFpldG1JeV9sWHo?oc=5",
-   "published": "2026-10-09T00:16:00+00:00",
-   "id": "f6dd6c746d6d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -3979,7 +3982,8 @@
   "news|a7a1a0ec4ba0": 1791651698.0143461,
   "news|55afd3680cfc": 1791653495.4967444,
   "news|4e07e09666bb": 1791655288.117117,
-  "news|404e34d3ac95": 1791655289.0719955
+  "news|404e34d3ac95": 1791655289.0719955,
+  "news|704c0290c78f": 1791657079.6944797
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4002,6 +4006,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-10T18:31:19.694531+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine Strikes Major Russian Oil Hub Hours After Trump’s Deal With Putin</b>\n📰 Newsweek · Sam 10/10 19:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3c5cnlQNEJCNTFxTHBqaE5WQzVkSzFHajk1WVc0eXhtQnpodW1JYi1BYmEtWHYyb281S2tqWWJCMndtYnVaUlhsOG0zWnR2Y1ZRUVpENDZxZnlKMllsbXRyQm9WSk55VG5MWHpPSkdSWlYwa21zTHdYNUlhNERiTG1aZ0xQa3YxY3hmS3J5SE1mWEpfXzZvRkVXN1FJU195bThnTnFaTzV5dw?oc=5"
+  },
   {
    "ts": "2026-10-10T18:01:29.072215+00:00",
    "kind": "news",
