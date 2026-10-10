@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791661549.2313893,
+   "ts": 1791666072.77603,
    "data": [
     {
      "title": "ISM Services PMI",
@@ -1528,7 +1528,11 @@
   "a7cd4c21c2c9",
   "3cb4a717ac16",
   "86bc12b636d3",
-  "e4cedb8bcef5"
+  "e4cedb8bcef5",
+  "cf2e2dd835fc",
+  "66b640e16b94",
+  "833fad3e008e",
+  "f05e544ba374"
  ],
  "news": [
   {
@@ -1974,6 +1978,18 @@
    "cat": "géopolitique",
    "raison": "Ouverture d'un canal diplomatique pouvant réduire légèrement la prime de risque.",
    "method": "IA"
+  },
+  {
+   "title": "Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnMG5SWkxaWWZISzVBUzI4Q0w4N1RDUy00eGxQY3hUTzd4czJ5NGFuS0doN2tnNDR1VEc1TkJBa1NaR1pEQ3Bmck9uX0R1Rno2WDdDYkhn?oc=5",
+   "published": "2026-10-10T13:31:10+00:00",
+   "id": "cf2e2dd835fc",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Live - Putin relays Iran war position to Trump as US president demands ‘everything’",
@@ -3918,18 +3934,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Ukraine has battlefield success with drones, but Russian airstrikes relentless",
-   "source": "NPR",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa182WGtwQXI5MHA0QUlFc2FBS21uREdBdjNwcGlTa3NtazlUdHpvbVRJd1NFZEl3SmJSZUEzdjh6dEJKOVVQUDdxWFBNb1d3RE4yX200X1Q1V0ItODVMYUNCNXFsM18xMWFheUdwQkZKWWxwRGhqa1ZjUGZDM1VpdkxNdmlzTDYtUlZCcUVLdVhsdmQwbjg3bFBLZUdBUFQwamtWb0hXbHZkdWozMzgwSEp5VFYxYzQzcUdFRG04TQ?oc=5",
-   "published": "2026-10-09T08:25:16+00:00",
-   "id": "48ca31ae1041",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -4049,7 +4053,8 @@
   "news|bbd0ef1e423f": 1791661568.8152587,
   "news|a0d062a7f3e5": 1791661570.097064,
   "news|fc0066e6e39e": 1791663365.4752855,
-  "news|fcb35d0b10f5": 1791665164.270582
+  "news|fcb35d0b10f5": 1791665164.270582,
+  "news|cf2e2dd835fc": 1791666103.6034524
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4072,6 +4077,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-10T21:01:43.603502+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes</b>\n📰 Ynetnews · Sam 10/10 15:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnMG5SWkxaWWZISzVBUzI4Q0w4N1RDUy00eGxQY3hUTzd4czJ5NGFuS0doN2tnNDR1VEc1TkJBa1NaR1pEQ3Bmck9uX0R1Rno2WDdDYkhn?oc=5"
+  },
   {
    "ts": "2026-10-10T20:46:04.270638+00:00",
    "kind": "news",
@@ -4366,11 +4376,6 @@
    "ts": "2026-10-09T22:56:05.460990+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Lebanon says 6 wounded in attack that Israel says targeted pro-Iran Syrian operative</b>\n📰 The Times of Israel · Ven 09/10 21:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFhFMDcyUVhsc0EzaXR5MUlRbTFXYmlzNC1EUXRFNzlxd1BpQXlDdEV0V09HU1kxNXpSQ29jdXIyMVA0cXFwb2tSN1BGZldIdmpjcnVOcmNJencycmFOei1HUTNmU2dnOWRQMnpMMDM4LXhyeE9QSmtBUG5aSVFGMDFEeVZHbFB6Z0hBOS1oLWpkQmdKZzRWdTFOSDRfRFpvQm51UVIwVHphazJ1VXdUMzBaVHpHTFFtUDZoLTZkMW5Eai1KSW9zTGRR?oc=5"
-  },
-  {
-   "ts": "2026-10-09T22:56:04.475889+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war</b>\n📰 France 24 · Ven 09/10 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHFCRE56TmxpdkEwZ1pBVWpVX25FMGo2ZVB6dnRVZmFxaEtuWTQwWWJuYWMxVnFIRDdYMGJRZ1RzWTVhVEMyRXkwZkNqeHdHaEU0c3ZlaFZFVklTVUotTWF0MnpjNi1KWjlzMkh0ZE9KXzhGT2Z5cThUc0lvZms5R2dMVk5neXJYU29FWHRlMk51NVhkUlpMUEg0SURVWlkzTG5Ncm9VdlJ3TktJZTQtYnRKc2gxUjVSaGVvem53YVhVOHJwN1VJZ1c3Q0xaU1Iz?oc=5"
   }
  ],
  "daily_forecast": {
