@@ -154,6 +154,8 @@ def run(mode="scan", demo=False, loud=False):
         snapshot[k] = state.get(k)
     snapshot["track"] = reports.track_summary(state)
     snapshot["alerts"] = state.get("alerts", [])[:40]
+    from src.common import AI_STATUS
+    snapshot["ai_status"] = AI_STATUS
 
     # ------------------------------------------------------------ 5. sauvegarde
     os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)

@@ -141,6 +141,7 @@ def ai_available():
 
 
 _MODEL = None
+AI_STATUS = {"model": None, "calls": 0, "ok": 0, "last_error": None}
 
 
 def _gemini_model():
@@ -168,6 +169,7 @@ def _gemini_model():
     except Exception as e:
         log("IA: liste des modèles", e)
     log("IA: modèle Gemini utilisé →", _MODEL)
+    AI_STATUS["model"] = _MODEL
     return _MODEL
 
 
@@ -180,23 +182,28 @@ def ask_ai(prompt, want_json=False, temperature=0.4):
             "generationConfig": {"temperature": temperature}}
     if want_json:
         body["generationConfig"]["responseMimeType"] = "application/json"
+    AI_STATUS["calls"] += 1
     for attempt in range(2):
         try:
             r = requests.post(url, json=body, timeout=90, headers={"x-goog-api-key": config.GEMINI_API_KEY})
             if r.status_code == 429:
                 log("IA: quota gratuit atteint, secours mots-clés")
+                AI_STATUS["last_error"] = "429 quota gratuit atteint"
                 return None
             if not r.ok:
                 log("IA erreur HTTP", r.status_code, r.text[:300])
+                AI_STATUS["last_error"] = f"{r.status_code} {r.text[:200]}"
                 if r.status_code in (400, 401, 403, 404):
                     return None
             r.raise_for_status()
             txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            AI_STATUS["ok"] += 1
             if want_json:
                 txt = txt.strip().removeprefix("```json").removeprefix("```").removesuffix("```")
                 return json.loads(txt)
             return txt.strip()
         except Exception as e:
             log("IA erreur:", e)
+            AI_STATUS["last_error"] = str(e)[:200]
             time.sleep(2)
     return None

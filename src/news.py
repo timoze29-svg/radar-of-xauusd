@@ -102,6 +102,8 @@ Titres :
 {lines}"""
     res = ask_ai(prompt, want_json=True, temperature=0.2)
     out = {}
+    if isinstance(res, dict):   # certains modèles renvoient {"items": [...]}
+        res = next((v for v in res.values() if isinstance(v, list)), None)
     if isinstance(res, list):
         for r in res:
             try:
@@ -144,6 +146,19 @@ def update_news(state, demo=False, quiet=False):
         else:
             imp, cat, why = keyword_score(it["title"])
             it.update(impact=imp, cat=cat, raison=why, method="mots-clés")
+
+    # l'IA re-note aussi les news récentes déjà en stock qui n'ont été notées que par mots-clés
+    if not demo and ai_available():
+        room = config.AI_MAX_NEWS_PER_RUN - len(batch)
+        lim24 = now_utc() - timedelta(hours=24)
+        old_kw = [n for n in stored if n.get("method") == "mots-clés"
+                  and datetime.fromisoformat(n["published"]) >= lim24][:max(0, room)]
+        if old_kw:
+            res = ai_score(old_kw)
+            for i, n in enumerate(old_kw):
+                if i in res:
+                    imp, cat, why = res[i]
+                    n.update(impact=imp, cat=cat, raison=why, method="IA")
 
     stored.extend(fresh)
     stored[:] = [n for n in stored if datetime.fromisoformat(n["published"]) >= cutoff]
