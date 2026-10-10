@@ -1553,7 +1553,8 @@
   "f60bdabe2267",
   "7f265ab3e14a",
   "383dd512e74b",
-  "d380cb2b2735"
+  "d380cb2b2735",
+  "87d224f864b5"
  ],
  "news": [
   {
@@ -1575,6 +1576,18 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHppNFllbVBxRmdxSUhRdWhDeGNyTkNEMnpYY1hxU2RSb2JRd3J2Q0poWk1xWlZ0M2xkdzhqNkFxa2tSMk9CTzFMTXk3OVNzVHphb0NBUGhhZXdTbloyQ3lacGdwbE5ZU0lxdDFmYXZ1RXg0WGxOVkltNVpLdmRNOFVoSF9sd2NBZ29odHdaRnY?oc=5",
    "published": "2026-10-10T21:32:53+00:00",
    "id": "0827c4cf9ce6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks",
+   "source": "Time Magazine",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGphX1dFR19QNXZWNDE0eGd6WEd2bmRmc2x4dVJUZjIteXJxMFd5SFJWSnJ1T043RXExRmc0bTZhRkZ1V2UtN01JcG0wbDVJa3k1RmNscHEwVmp2X3JFUUtNLUd1VjljdjVqUmxweGQxcDVweExMbTVqb3NLaTYxYnZ4NVBpaXhYbUMtUnAyVnlqTDJrTGRIWUhTSTljc3Rub21IY3JDR05jZDU5by1udFJfMDY?oc=5",
+   "published": "2026-10-10T21:22:07+00:00",
+   "id": "87d224f864b5",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -3943,18 +3956,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold Climbs as Record ETF Stockpile and Relentless Central-Bank Buying Outweigh Hawkish Fed Signals",
-   "source": "AD HOC NEWS",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN09JZll4MWMyaXljbTlwVFBoNWt2TjZaRzVZOTBLX25VSFItM3I1M1dmR1FLQktPRU94U0Y0OXJhalRfSzhITTlWWlh0TWJ3cFoxUGhiZC01dG1KYmYxM2NrTmVoMHo1SzVkbW9lUE9MQ2dMOW02NWJqU2JLOFg4R1hDZ0lCa3BVczJmTFByMEZpbWRzQXJGZ1VKc0VfS3ZaYWJLSDh2dkdyOThOalhyOFYxa2Npb2pIQTVRN0ZObENjZGN6NHk5RWFWSVZXWHhQZERTUzM3eEwxZw?oc=5",
-   "published": "2026-10-09T09:50:50+00:00",
-   "id": "fe1b09d038f6",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -4077,7 +4078,8 @@
   "news|fcb35d0b10f5": 1791665164.270582,
   "news|cf2e2dd835fc": 1791666103.6034524,
   "news|642c351606fe": 1791666965.99963,
-  "news|0827c4cf9ce6": 1791669691.5677323
+  "news|0827c4cf9ce6": 1791669691.5677323,
+  "news|87d224f864b5": 1791671473.7845554
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4100,6 +4102,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-10T22:31:13.784601+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks</b>\n📰 Time Magazine · Sam 10/10 23:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGphX1dFR19QNXZWNDE0eGd6WEd2bmRmc2x4dVJUZjIteXJxMFd5SFJWSnJ1T043RXExRmc0bTZhRkZ1V2UtN01JcG0wbDVJa3k1RmNscHEwVmp2X3JFUUtNLUd1VjljdjVqUmxweGQxcDVweExMbTVqb3NLaTYxYnZ4NVBpaXhYbUMtUnAyVnlqTDJrTGRIWUhTSTljc3Rub21IY3JDR05jZDU5by1udFJfMDY?oc=5"
+  },
   {
    "ts": "2026-10-10T22:01:31.567778+00:00",
    "kind": "news",
@@ -4394,11 +4401,6 @@
    "ts": "2026-10-09T22:56:08.420362+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’</b>\n📰 UN News · Ven 09/10 20:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uaklnY2ZxSlktWjZha2JPM29ZWGJhRnRsQWJ0Qjdvb2RaSVdqOXJPQU9BaTVFVTVyVHJkWmpwalZyTVBqeURBSlRLcDBJdWNKdkhlcWhsdw?oc=5"
-  },
-  {
-   "ts": "2026-10-09T22:56:07.434814+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia’s Attacks in Europe Are Escalating. Here Is How to Push Back.</b>\n📰 Council on Foreign Relations (CFR) · Ven 09/10 20:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2l6b1U0YjVSeGpUVVBndzB1eHpVSm9lSGFyNzA2TDBvUm5vWmN3N0QxeVNfekhfcUpiVDlsNm40Yll4bjZrV1M4cXNmYVlMUkFEUXVPRk9TX1Z6RlJ4TDFhVnNzVVlYbmVTaFhRRE5YbURNWElQQmRpRFpNTWVMdlVTSElubThIZWYzMDQ4NWZKeFZydjl1ZHBn?oc=5"
   }
  ],
  "daily_forecast": {
