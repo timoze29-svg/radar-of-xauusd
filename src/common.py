@@ -140,22 +140,56 @@ def ai_available():
     return bool(config.GEMINI_API_KEY)
 
 
+_MODEL = None
+
+
+def _gemini_model():
+    """Choisit automatiquement un modèle Gemini dispo (les noms changent avec le temps)."""
+    global _MODEL
+    if _MODEL:
+        return _MODEL
+    _MODEL = config.GEMINI_MODEL
+    try:
+        r = requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                         headers={"x-goog-api-key": config.GEMINI_API_KEY}, timeout=20)
+        if r.ok:
+            names = [m["name"].split("/")[-1] for m in r.json().get("models", [])
+                     if "generateContent" in m.get("supportedGenerationMethods", [])]
+            for pref in (config.GEMINI_MODEL, "gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"):
+                if pref in names:
+                    _MODEL = pref
+                    break
+            else:
+                flash = [n for n in names if "flash" in n and "lite" not in n and "image" not in n and "tts" not in n]
+                if flash:
+                    _MODEL = sorted(flash)[-1]
+        else:
+            log("IA: liste des modèles indispo", r.status_code, r.text[:150])
+    except Exception as e:
+        log("IA: liste des modèles", e)
+    log("IA: modèle Gemini utilisé →", _MODEL)
+    return _MODEL
+
+
 def ask_ai(prompt, want_json=False, temperature=0.4):
     """Appelle Gemini (palier gratuit). Renvoie texte / objet JSON, ou None si échec."""
     if not ai_available():
         return None
-    url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
-           f"{config.GEMINI_MODEL}:generateContent?key={config.GEMINI_API_KEY}")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{_gemini_model()}:generateContent"
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": temperature}}
     if want_json:
         body["generationConfig"]["responseMimeType"] = "application/json"
     for attempt in range(2):
         try:
-            r = requests.post(url, json=body, timeout=60)
+            r = requests.post(url, json=body, timeout=90, headers={"x-goog-api-key": config.GEMINI_API_KEY})
             if r.status_code == 429:
                 log("IA: quota gratuit atteint, secours mots-clés")
                 return None
+            if not r.ok:
+                log("IA erreur HTTP", r.status_code, r.text[:300])
+                if r.status_code in (400, 401, 403, 404):
+                    return None
             r.raise_for_status()
             txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
             if want_json:
