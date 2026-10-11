@@ -1799,9 +1799,25 @@
   "9d5c654d7477",
   "fbb337a4d0da",
   "3cac7c754227",
-  "80f424b0d16c"
+  "80f424b0d16c",
+  "f6cf586b110f",
+  "59e496711772",
+  "02ca8a730d53",
+  "ffde3791f3e8"
  ],
  "news": [
+  {
+   "title": "Live - Trump says Saudis can defend themselves after deadliest attack in 11 years",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5",
+   "published": "2026-10-11T04:39:41+00:00",
+   "id": "02ca8a730d53",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US weighs strikes on Houthis and Iran after deadly Saudi airport attack",
    "source": "Iran International",
@@ -4189,18 +4205,6 @@
    "cat": "fed",
    "raison": "Pression politique sur un gouverneur de la Fed, inquiétudes sur l'indépendance monétaire.",
    "method": "IA"
-  },
-  {
-   "title": "British Pound holds ground as US Consumer Sentiment deteriorates | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWdm1xR3pldlFacVJQSTN2dlloRUgwVVhtVmtSUS1PMjdJNXYyeTNoSzJnRlpHYUtXXzVxU2x3NGNrUlJxWlNyUnhWWnVzRUNybmNv?oc=5",
-   "published": "2026-10-09T17:13:55+00:00",
-   "id": "ffb307a3feb8",
-   "impact": 2,
-   "cat": "dollar",
-   "raison": "Détérioration de la confiance américaine pesant sur le dollar et soutenant les cours.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4341,7 +4345,8 @@
   "news|26d48df492e3": 1791692167.6621773,
   "news|e6ceeefed988": 1791693114.390683,
   "news|591e30476867": 1791693967.7672522,
-  "news|9d5c654d7477": 1791693968.7108645
+  "news|9d5c654d7477": 1791693968.7108645,
+  "news|02ca8a730d53": 1791694899.9767592
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4364,6 +4369,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T05:01:39.976815+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Trump says Saudis can defend themselves after deadliest attack in 11 years</b>\n📰 Iran International · Dim 11/10 06:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5"
+  },
   {
    "ts": "2026-10-11T04:46:08.711122+00:00",
    "kind": "news",
@@ -4658,11 +4668,6 @@
    "ts": "2026-10-10T08:29:54.804415+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel strikes Syrian man near Lebanese border who plotted attacks against Israel, says IDF</b>\n📰 The Times of Israel · Ven 09/10 20:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamdaem9kbjVzWkk5eGxvMGJ1STR4a1YwYWgtM0pIRTdSaF9xc2pKSmo5N2lyWWpOd2Rubk04QTVEc294VmlUbTYxVkY3aGNFU1hoRUN5YzJ5S01Ed1lKcjJrOGpMS042SDRrbjFEdF83SmZCM18zY3pRS0tsTU1kcmYzdlU1RDV1Q3BseXVJRmZLMTNrMUtwanB3ZnNNTnJJOS1mWFJlNlU1WExudHBjYk55Q0VZWkVYWFZBS2FaLXl1Zy15NUJYZGhjUGZTYjJ2eEE?oc=5"
-  },
-  {
-   "ts": "2026-10-10T08:29:53.875936+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says</b>\n📰 EnergyNow.com · Ven 09/10 21:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDgyTWpjcGJvZzNIU1o5eTE0Z1dKTTdDWlFVMDBtNHhLNnBmVUl4MGRYOGpYYXV0ZkdSNG5VU0JpUklNTkNNMGE5Sy1saUJ4MWM1MEhyc0dTb0Z4U3dwdWE0WlRacTFULWRudF9EeUJPQkJmZGNYOFpPbzdWbnVDVDIzbFk3ZGU0d0VfUkEwNHlsdHc3c00teGx4UmlYdHlVTmV5N1RoWUplVGNidzVMY202a29ZQQ?oc=5"
   }
  ],
  "daily_forecast": {
