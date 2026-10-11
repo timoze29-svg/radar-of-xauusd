@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791682262.1028316,
+   "ts": 1791686743.6493332,
    "data": [
     {
      "title": "ISM Services PMI",
@@ -1621,7 +1621,13 @@
   "6a168d07e848",
   "791e92d4d8fa",
   "4c1c8698f8a6",
-  "72c8456d3fc6"
+  "72c8456d3fc6",
+  "6b0944421103",
+  "e605da530c17",
+  "eb39f7b4568d",
+  "a25f3b131627",
+  "4af68099b2e9",
+  "ced95c4ac02a"
  ],
  "news": [
   {
@@ -2547,6 +2553,18 @@
    "cat": "géopolitique",
    "raison": "Risque d'escalade et de financement prolongé de la guerre en Ukraine.",
    "method": "IA"
+  },
+  {
+   "title": "Oil Prices Set to Rise Further on Monday as Mideast War Escalates",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVdXYjJBck5fRTVMaHk0SWN1eTl1aHY0WW1SamxGQmtMS09FZHpzWDR3alhCWXhNSFBjZjAxYkd2OC1YTVlkUi0yUTg5VXVNNUNUTDJxRG1yTXlFMXBlMzJWelA1VERkbXk1Tm9XT0l1ek0zdEJCS1RGaWJURXlrRG5ENGNSQXhHdWFDeXNHTlZhTEhkMEhnR0JRNGU?oc=5",
+   "published": "2026-10-10T12:31:17+00:00",
+   "id": "a25f3b131627",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Taiwan's Lai says Taiwan will not give up its freedom in National Day speech",
@@ -4011,18 +4029,6 @@
    "cat": "géopolitique",
    "raison": "Guerre économique prolongée contre l'Iran maintenant un fond de tensions structurelles.",
    "method": "IA"
-  },
-  {
-   "title": "Strait war risk exaggerated: US official",
-   "source": "Taipei Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkQVRaSnBqQ21GUEQybWg4UlhadENhVjIxc1l6VVMxc3BrLXpBRE1VOHBWRWJac3YzaDVpelJCSkNEd1czMmZWc0RTVElnX0s3VVQ5UlNHaVMzWjIzMERQcHU2V1RKV0JIaHgzNzBGNDlYWm53X2Itcw?oc=5",
-   "published": "2026-10-09T16:00:00+00:00",
-   "id": "f08b43980c1c",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Atténuation des craintes de conflit militaire autour du détroit de Taïwan.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4158,7 +4164,8 @@
   "news|f8249b084ce7": 1791684093.3306234,
   "news|2a2857ce3b67": 1791684975.922292,
   "news|6a168d07e848": 1791685877.4223197,
-  "news|72c8456d3fc6": 1791685878.4498668
+  "news|72c8456d3fc6": 1791685878.4498668,
+  "news|a25f3b131627": 1791686766.5694218
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4181,6 +4188,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T02:46:06.569471+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil Prices Set to Rise Further on Monday as Mideast War Escalates</b>\n📰 EnergyNow.com · Sam 10/10 14:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVdXYjJBck5fRTVMaHk0SWN1eTl1aHY0WW1SamxGQmtMS09FZHpzWDR3alhCWXhNSFBjZjAxYkd2OC1YTVlkUi0yUTg5VXVNNUNUTDJxRG1yTXlFMXBlMzJWelA1VERkbXk1Tm9XT0l1ek0zdEJCS1RGaWJURXlrRG5ENGNSQXhHdWFDeXNHTlZhTEhkMEhnR0JRNGU?oc=5"
+  },
   {
    "ts": "2026-10-11T02:31:18.449954+00:00",
    "kind": "news",
@@ -4475,11 +4487,6 @@
    "ts": "2026-10-10T08:29:50.193558+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>As Russia escalates its war, the EU realises its support for Ukraine won't be enough</b>\n📰 Euronews.com · Sam 10/10 09:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUJSeTRBamhlbnA5d1FXdjNRTkZ0Wl9HX2NfOW1Ba2Rqd2o3dU5icDd3b0hacGdRYjZScEZtdFpkcndqTUoxMWtRM1l0M01nOE8yQ2lPMXpXWEptcmVtNW42WGEwb29kckt6cGVWeXdXOHdqWURaSzh4cXFHSUc3UmpHN1lIX1pzMGVmUVpqQmRBdE5UbHN2aVZJLVVkci1UdFluazJzM0JRLURuQkM0NUFCRGVTVFU?oc=5"
-  },
-  {
-   "ts": "2026-10-10T02:06:52.841203+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump escalates Lisa Cook feud, forms committee to investigate mortgage fraud allegations</b>\n📰 Scotsman Guide · Ven 09/10 19:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXRwMDAyZHY4eGJmZTI3ak90VTVJdTRoM2pnTGdNRWV6Ync3UjluRkdTZVl3ZnZOS2NxQTBoSm9lNDNpWXhlRUZBQXZLaVAwMXJETWNGTFR1dXNTbUpDMUMwUzZHY2NkaVBSQzdvZVhRdm9ONzZUbzFLemh3ZmhONXdEWVNhaWJyT21QQVdPZERwX1NkeTZZa2Z6YUxKTElWNXRReGhRNjZnZjNoS1VabjVzeDJzMUlxVXBMaV9uVmZTdw?oc=5"
   }
  ],
  "daily_forecast": {
