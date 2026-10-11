@@ -590,24 +590,79 @@
    }
   },
   "calendar": {
-   "ts": 1791690345.8551288,
+   "ts": 1791693948.3603888,
    "data": [
     {
-     "title": "ISM Services PMI",
+     "title": "FOMC Member Hammack Speaks",
      "country": "USD",
-     "impact": "Medium",
-     "date": "2026-10-05T10:00:00-04:00",
-     "forecast": "55.1",
-     "previous": "55.4",
+     "impact": "Low",
+     "date": "2026-10-12T12:10:00-04:00",
+     "forecast": "",
+     "previous": "",
      "actual": "",
-     "gold_label": "Activité (ISM/PMI)",
-     "gold_weight": 5
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "German Final CPI m/m",
+     "country": "EUR",
+     "impact": "Low",
+     "date": "2026-10-13T02:00:00-04:00",
+     "forecast": "0.6%",
+     "previous": "0.6%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "FOMC Member Waller Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-10-13T03:45:00-04:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Barkin Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-10-13T13:00:00-04:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Collins Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-10-13T16:00:00-04:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "CPI y/y",
+     "country": "CNY",
+     "impact": "Low",
+     "date": "2026-10-13T21:30:00-04:00",
+     "forecast": "1.0%",
+     "previous": "0.8%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
     },
     {
      "title": "FOMC Member Bowman Speaks",
      "country": "USD",
      "impact": "Low",
-     "date": "2026-10-06T10:45:00-04:00",
+     "date": "2026-10-14T05:40:00-04:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -615,10 +670,54 @@
      "gold_weight": 10
     },
     {
-     "title": "FOMC Member Schmid Speaks",
+     "title": "Core CPI m/m",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-14T08:30:00-04:00",
+     "forecast": "0.2%",
+     "previous": "0.3%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "Core CPI y/y",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-14T08:30:00-04:00",
+     "forecast": "2.5%",
+     "previous": "2.4%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "CPI m/m",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-14T08:30:00-04:00",
+     "forecast": "0.6%",
+     "previous": "0.4%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "CPI y/y",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-14T08:30:00-04:00",
+     "forecast": "3.6%",
+     "previous": "3.4%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "FOMC Member Barkin Speaks",
      "country": "USD",
      "impact": "Low",
-     "date": "2026-10-06T13:15:00-04:00",
+     "date": "2026-10-14T13:30:00-04:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -626,54 +725,98 @@
      "gold_weight": 10
     },
     {
-     "title": "President Trump Speaks",
+     "title": "FOMC Member Bowman Speaks",
      "country": "USD",
-     "impact": "Medium",
-     "date": "2026-10-07T13:00:00-04:00",
+     "impact": "Low",
+     "date": "2026-10-14T22:55:00-04:00",
      "forecast": "",
      "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "French Final CPI m/m",
+     "country": "EUR",
+     "impact": "Low",
+     "date": "2026-10-15T02:45:00-04:00",
+     "forecast": "-0.3%",
+     "previous": "-0.3%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "Core PPI m/m",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-15T08:30:00-04:00",
+     "forecast": "0.3%",
+     "previous": "0.2%",
+     "actual": "",
+     "gold_label": "Inflation producteurs",
+     "gold_weight": 6
+    },
+    {
+     "title": "Core Retail Sales m/m",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-15T08:30:00-04:00",
+     "forecast": "0.5%",
+     "previous": "1.4%",
+     "actual": "",
+     "gold_label": "Consommation",
+     "gold_weight": 6
+    },
+    {
+     "title": "PPI m/m",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-15T08:30:00-04:00",
+     "forecast": "0.5%",
+     "previous": "0.4%",
+     "actual": "",
+     "gold_label": "Inflation producteurs",
+     "gold_weight": 6
+    },
+    {
+     "title": "Retail Sales m/m",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-10-15T08:30:00-04:00",
+     "forecast": "0.3%",
+     "previous": "1.2%",
+     "actual": "",
+     "gold_label": "Consommation",
+     "gold_weight": 6
+    },
+    {
+     "title": "Philly Fed Manufacturing Index",
+     "country": "USD",
+     "impact": "Medium",
+     "date": "2026-10-15T08:30:00-04:00",
+     "forecast": "26.5",
+     "previous": "37.8",
      "actual": "",
      "gold_label": "",
      "gold_weight": 4
     },
     {
-     "title": "FOMC Meeting Minutes",
-     "country": "USD",
-     "impact": "High",
-     "date": "2026-10-07T14:00:00-04:00",
-     "forecast": "",
-     "previous": "",
-     "actual": "",
-     "gold_label": "Fed — décision / discours",
-     "gold_weight": 10
-    },
-    {
-     "title": "FOMC Member Waller Speaks",
-     "country": "USD",
-     "impact": "Medium",
-     "date": "2026-10-08T04:30:00-04:00",
-     "forecast": "",
-     "previous": "",
-     "actual": "",
-     "gold_label": "Fed — décision / discours",
-     "gold_weight": 10
-    },
-    {
      "title": "Unemployment Claims",
      "country": "USD",
      "impact": "Medium",
-     "date": "2026-10-08T08:30:00-04:00",
-     "forecast": "200K",
+     "date": "2026-10-15T08:30:00-04:00",
+     "forecast": "195K",
      "previous": "197K",
      "actual": "",
      "gold_label": "Chômage",
      "gold_weight": 6
     },
     {
-     "title": "FOMC Member Musalem Speaks",
+     "title": "FOMC Member Hammack Speaks",
      "country": "USD",
      "impact": "Low",
-     "date": "2026-10-08T13:40:00-04:00",
+     "date": "2026-10-15T16:30:00-04:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -681,37 +824,37 @@
      "gold_weight": 10
     },
     {
-     "title": "Prelim UoM Consumer Sentiment",
+     "title": "Fed Chairman Warsh Speaks",
      "country": "USD",
-     "impact": "Medium",
-     "date": "2026-10-09T10:00:00-04:00",
-     "forecast": "47.5",
-     "previous": "47.8",
-     "actual": "",
-     "gold_label": "Anticipations d'inflation (Michigan)",
-     "gold_weight": 6
-    },
-    {
-     "title": "Prelim UoM Inflation Expectations",
-     "country": "USD",
-     "impact": "Medium",
-     "date": "2026-10-09T10:00:00-04:00",
-     "forecast": "",
-     "previous": "4.6%",
-     "actual": "",
-     "gold_label": "Anticipations d'inflation (Michigan)",
-     "gold_weight": 6
-    },
-    {
-     "title": "FOMC Member Collins Speaks",
-     "country": "USD",
-     "impact": "Low",
-     "date": "2026-10-09T16:00:00-04:00",
+     "impact": "High",
+     "date": "2026-10-15T23:30:00-04:00",
      "forecast": "",
      "previous": "",
      "actual": "",
      "gold_label": "Fed — décision / discours",
      "gold_weight": 10
+    },
+    {
+     "title": "Final Core CPI y/y",
+     "country": "EUR",
+     "impact": "Low",
+     "date": "2026-10-16T05:00:00-04:00",
+     "forecast": "2.5%",
+     "previous": "2.5%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "Final CPI y/y",
+     "country": "EUR",
+     "impact": "Low",
+     "date": "2026-10-16T05:00:00-04:00",
+     "forecast": "3.8%",
+     "previous": "3.8%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
     }
    ]
   },
@@ -1651,9 +1794,26 @@
   "f5d30abac284",
   "e6ceeefed988",
   "390debcf5e50",
-  "b997fc59350b"
+  "b997fc59350b",
+  "591e30476867",
+  "9d5c654d7477",
+  "fbb337a4d0da",
+  "3cac7c754227",
+  "80f424b0d16c"
  ],
  "news": [
+  {
+   "title": "US weighs strikes on Houthis and Iran after deadly Saudi airport attack",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTzBYU0lxSGR2OEJ1S0ZsSDRQcVZHRlFOV0dQeWsxZ3VrZFNyRU5lTGxISEhvU09GREx2WUJjeVVzYVFWVGktSFdQZC1BeHdyY0E?oc=5",
+   "published": "2026-10-11T04:19:54+00:00",
+   "id": "591e30476867",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia Ukraine War",
    "source": "Columbia Missourian",
@@ -2121,6 +2281,18 @@
    "cat": "géopolitique",
    "raison": "Recul américain éloignant la perspective d'une frappe israélienne imminente contre l'Iran.",
    "method": "IA"
+  },
+  {
+   "title": "US wanted Israel to strike Iran alone to spare Trump political fallout",
+   "source": "Iran International",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FVTYtOUlKYlU4WUxJWjdOMHlZZzdlNHIySkpTVkdCTUdwbHR5RHZ0MjFoenNDX2c5cXVrUVB5Q0RhcmJYaEo4OGtYQWdnQlRRWlE?oc=5",
+   "published": "2026-10-10T16:52:12+00:00",
+   "id": "9d5c654d7477",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US reportedly urged ‘Israel’ to launch unilateral attack on Iran, 'Israeli' media says",
@@ -4029,30 +4201,6 @@
    "cat": "dollar",
    "raison": "Détérioration de la confiance américaine pesant sur le dollar et soutenant les cours.",
    "method": "IA"
-  },
-  {
-   "title": "The Week in Oil : Escalating Middle East Attacks Threaten Supply Recovery",
-   "source": "marketscreener.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGJkdVdickJXRUdNc1AtenY4QVlHcmFtT3RKVTF6TjVldWwwN2FHcVVkYXhOSGw3TlVwbU1QWWtOZlh4bzFpMDRaWXV3QnZNaE1HNDUyX1FqVjc3Ui1aMzdIeUZqUV9feWstLVJRU1NlU1VHX2pyRFdtdjhnR2ZKNGcyNzBCTWpXVWJBNXZtbUhlMXIwcS1OMW1CSno1R01tQUNhQWNzZjRrTWVXVTVIV0ItVkMxYkljNGhZVkRwSlhKdw?oc=5",
-   "published": "2026-10-09T16:45:26+00:00",
-   "id": "c1661a355133",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risques d'approvisionnement pétrolier et tensions régionales favorisant les actifs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Pauses Iran Strike Before Midterms: What Happens Next?",
-   "source": "TV7 Israel News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tcDgwTG9xYlpfczF5WkJTY0xRWS16NWtsTlpDVWJZS24tODBNdy1hR05aVzB6VGJsUksybDJ0eV9sSVd2aEEzcGRmenNZNXZKbFlSX0R3Y3J4VEZPaHpqVFBOZF82LXZUNzJWLXUwc1N2SUZYeTlJd2hPRQ?oc=5",
-   "published": "2026-10-09T16:33:32+00:00",
-   "id": "25d3a948e076",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Confirmation d'une temporisation militaire américaine face à l'Iran, baisse de la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4191,7 +4339,9 @@
   "news|72c8456d3fc6": 1791685878.4498668,
   "news|a25f3b131627": 1791686766.5694218,
   "news|26d48df492e3": 1791692167.6621773,
-  "news|e6ceeefed988": 1791693114.390683
+  "news|e6ceeefed988": 1791693114.390683,
+  "news|591e30476867": 1791693967.7672522,
+  "news|9d5c654d7477": 1791693968.7108645
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4214,6 +4364,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T04:46:08.711122+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US wanted Israel to strike Iran alone to spare Trump political fallout</b>\n📰 Iran International · Sam 10/10 18:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FVTYtOUlKYlU4WUxJWjdOMHlZZzdlNHIySkpTVkdCTUdwbHR5RHZ0MjFoenNDX2c5cXVrUVB5Q0RhcmJYaEo4OGtYQWdnQlRRWlE?oc=5"
+  },
+  {
+   "ts": "2026-10-11T04:46:07.767299+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US weighs strikes on Houthis and Iran after deadly Saudi airport attack</b>\n📰 Iran International · Dim 11/10 06:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTzBYU0lxSGR2OEJ1S0ZsSDRQcVZHRlFOV0dQeWsxZ3VrZFNyRU5lTGxISEhvU09GREx2WUJjeVVzYVFWVGktSFdQZC1BeHdyY0E?oc=5"
+  },
   {
    "ts": "2026-10-11T04:31:54.390741+00:00",
    "kind": "news",
@@ -4503,16 +4663,6 @@
    "ts": "2026-10-10T08:29:53.875936+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says</b>\n📰 EnergyNow.com · Ven 09/10 21:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDgyTWpjcGJvZzNIU1o5eTE0Z1dKTTdDWlFVMDBtNHhLNnBmVUl4MGRYOGpYYXV0ZkdSNG5VU0JpUklNTkNNMGE5Sy1saUJ4MWM1MEhyc0dTb0Z4U3dwdWE0WlRacTFULWRudF9EeUJPQkJmZGNYOFpPbzdWbnVDVDIzbFk3ZGU0d0VfUkEwNHlsdHc3c00teGx4UmlYdHlVTmV5N1RoWUplVGNidzVMY202a29ZQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-10T08:29:52.973120+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon</b>\n📰 EnergyNow.com · Ven 09/10 21:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenRKWEpXeWJsMU8xX01hWFBmd1p6YUpZZERjRVZCN0V1NVVGR1h6WEg5b1VsTGpndTQ1elI3ZHp5VEhsV09VMmNBUmVDeTFCcVZob1RBbTI3OEEzZ2hfcHM5U1Z5ZUJqX09DeXJWTHBITTZPT0RTMGlXUVFVTmNRU1F4WjlxTHJkaThBNUdlTllYQlJsZDh6cklJOUloRDN2SHVpdmhlVjA?oc=5"
-  },
-  {
-   "ts": "2026-10-10T08:29:52.074598+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran guards ability to build missiles as Trump eases attacks</b>\n📰 The Japan Times · Sam 10/10 01:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXBGX1VaT25OelEzUU41OFcwdklIMXVrS3ZoT1BrRzA3SF9pdW9lalBUTWdSdTJnWGcwcjNiWWphWjBxLUJiZ2IzT2ZsU2VLQUVtY3l6MnRESU1tTlVJX3lQMHh1WHR2UlREelJ4al9TbE5NaHpuR3VMV0ZuZk5QNVUyTXE?oc=5"
   }
  ],
  "daily_forecast": {
