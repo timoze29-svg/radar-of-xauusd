@@ -1581,7 +1581,10 @@
   "b481bef4d3f5",
   "cea415b3851e",
   "88e7188ce4e8",
-  "04ea2ed9b9c3"
+  "04ea2ed9b9c3",
+  "29ea2c6e8355",
+  "a8dc24da531c",
+  "802500f7cc4a"
  ],
  "news": [
   {
@@ -1654,6 +1657,18 @@
    "impact": 8,
    "cat": "fed",
    "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Report: US pressured Israel to strike Iran before elections",
+   "source": "Israel National News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZEozVGNwdWhFVm1TM2Y2NG5BdmlVb0NUNmV4bHJ4d3JmRWU4c0owemduN0JROVBYRXpfcWJsUm02aXNhVFZheWJwV3ZLbTFRMEpCeWZYamhzQQ?oc=5",
+   "published": "2026-10-10T21:27:41+00:00",
+   "id": "29ea2c6e8355",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -2111,6 +2126,18 @@
    "cat": "géopolitique",
    "raison": "Attaques houthies ravivant les tensions régionales au Moyen-Orient, soutien refuge modéré pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Attack on Saudi airport leaves 12 dead, hundreds wounded as Houthi strikes escalate, sources say",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DRTB2RzVMUXU3b0EyNm94a0pza0E2anJzOGFHeXZWTWcwZGRySnp0Z2lYd1JoUGN2ZzhaOTRpOGliUDh1dVlXU01MS0pnQmw3VHoxU2FLMWx5RF8z?oc=5",
+   "published": "2026-10-10T14:38:58+00:00",
+   "id": "a8dc24da531c",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Despite starting the Iran war, Trump still thinks he deserves the Nobel Peace Prize",
@@ -3959,30 +3986,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US bond yields fall as investors flock to 30-year Treasuries",
-   "source": "IDNFinancials",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmtpNGJveW1YUVlqbnNLUEVEcThFQmlndTBjY0tjdjczZnhHcDBSbVNVU1IyU0lNcjhnM3RaMjN6TURpc01uSTFzRDdyYUMwRjQ3OW12RDVXS3d2WFRuOHlvYWxlQldGbDJtcDl3aUZJaThQSDhSeFdHc2w2U0NEcjZSRVE5SlNYUHNmQlFicmdoRWg2SHlCdkRvR3ZsWnE5bjBr?oc=5",
-   "published": "2026-10-09T11:00:00+00:00",
-   "id": "21fe94c55121",
-   "impact": 4,
-   "cat": "taux",
-   "raison": "haussier or (taux)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump: U.S. won't attack Iran before midterms",
-   "source": "Axios",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14RFBvYzVXa3RmREx2eGVTVVNwMDZCclJsZzZPVkxiR0lieFFwZDRncDFSNkxaUUk5UHFlRUUtSm1sWnJOM1VNQ2VSdFlGNkg1UFJTekJMN1JUVWw2aW0zZUVIRGx3RENQSHp5d21BQWtmX1FCaUVySg?oc=5",
-   "published": "2026-10-09T10:57:49+00:00",
-   "id": "5ff95573923f",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -4110,7 +4113,9 @@
   "news|2413574f163f": 1791673292.4220908,
   "news|c992b6d0116b": 1791673293.724314,
   "news|f41a82bc77eb": 1791673294.7835097,
-  "news|88e7188ce4e8": 1791675959.4376056
+  "news|88e7188ce4e8": 1791675959.4376056,
+  "news|29ea2c6e8355": 1791676900.299507,
+  "news|a8dc24da531c": 1791676901.1805625
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4133,6 +4138,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T00:01:41.180802+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Attack on Saudi airport leaves 12 dead, hundreds wounded as Houthi strikes escalate, sources say</b>\n📰 The Jerusalem Post · Sam 10/10 16:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DRTB2RzVMUXU3b0EyNm94a0pza0E2anJzOGFHeXZWTWcwZGRySnp0Z2lYd1JoUGN2ZzhaOTRpOGliUDh1dVlXU01MS0pnQmw3VHoxU2FLMWx5RF8z?oc=5"
+  },
+  {
+   "ts": "2026-10-11T00:01:40.299557+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: US pressured Israel to strike Iran before elections</b>\n📰 Israel National News · Sam 10/10 23:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZEozVGNwdWhFVm1TM2Y2NG5BdmlVb0NUNmV4bHJ4d3JmRWU4c0owemduN0JROVBYRXpfcWJsUm02aXNhVFZheWJwV3ZLbTFRMEpCeWZYamhzQQ?oc=5"
+  },
   {
    "ts": "2026-10-10T23:45:59.437649+00:00",
    "kind": "news",
@@ -4422,16 +4437,6 @@
    "ts": "2026-10-09T22:56:14.374814+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, &amp; Conflict</b>\n📰 Britannica · Ven 09/10 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-09T22:56:13.380169+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Distillates: NWE cracks rebound on Hormuz escalation, arbs tilt west</b>\n📰 Quantum Commodity Intelligence · Ven 09/10 16:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1BkZlZaM21vMUVFdHVHcDFrM3FVaHFuTGxhS2x3MmRwQzNZNXBsNXZBQjZrb0RKRFdnY01rX3pMSDlYZzd4cV85OGRkbnFwT0xUSjBmRTBvRzhBQ01DSFBZbDA2TURtY1E3bTRrbENRbGhhaG5TVm1nbmZLeHhWM2ctSmoydHN2bld3UVFYQm1QVy1Dc0lKd2laSlduZ3dXeG9zTzc3WlB3c3pEdFE?oc=5"
-  },
-  {
-   "ts": "2026-10-09T22:56:12.399542+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Houthi strikes on Riyadh airport killed three Saudis as war escalates</b>\n📰 Reuters · Ven 09/10 16:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5"
   }
  ],
  "daily_forecast": {
