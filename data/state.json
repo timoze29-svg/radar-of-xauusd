@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791711947.2856967,
+   "ts": 1791715547.845168,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1901,7 +1901,13 @@
   "d31ecddff747",
   "1e72f3e3061e",
   "1acef01515a7",
-  "b65a43237ae0"
+  "b65a43237ae0",
+  "47f7de95343f",
+  "5b5b45683f24",
+  "6ee2a11bb6e5",
+  "7176246e3241",
+  "59abbaeca4be",
+  "1ac0fcd00645"
  ],
  "news": [
   {
@@ -1948,6 +1954,18 @@
    "published": "2026-10-11T09:47:15+00:00",
    "id": "a894d8fc5138",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Attack on Riyadh 'a dangerous escalation' - von der Leyen",
+   "source": "RTE.ie",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjNLSVpxRHF3bGpaS3ljTHRTZGN2ZkhadXc0S01iNWNGSVlXOTRBamJhb0MtajBTbkJFYlo4ejZYQUIwSmJFM2VaS0tkcFlsb29TWHFBbDZKdllXNmpIZVA5NHNNSVFkNzFFb2ZFeldoUklwNE1tRTBES3pjWENWVktsdw?oc=5",
+   "published": "2026-10-11T09:42:03+00:00",
+   "id": "7176246e3241",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4291,18 +4309,6 @@
    "cat": "fed",
    "raison": "Anticipations de pause de la Fed pesant sur le dollar et favorisant l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
-   "source": "FXStreet",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNallwb3VNZ2o4YlJvUWY3UVQ3bThtaXRKT25YeGdvU3BUVnJFeElselZoZkxzTzk5NmI2M3lJNXNiUVE5ZUlIdGM1LUZTd2M1ZnltOVR2dXFHSG9LNlRZdUhYRmtTOWo2djROSXlfT05rVnNqVEJKRkVMTjBVTkZRUEJiTDdHVVlySl8xbGRMWDZyOS1pYUM4ZHU4NncySWEyV0VZVWlOSXhQMWJHREt6MVJR?oc=5",
-   "published": "2026-10-09T22:18:12+00:00",
-   "id": "404e34d3ac95",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -4450,7 +4456,8 @@
   "news|a179dc14892f": 1791703888.8802454,
   "news|a4ecccafb9ba": 1791711269.4236526,
   "news|7e1aa3d606df": 1791713769.6225677,
-  "news|6b895ead6630": 1791713770.6410143
+  "news|6b895ead6630": 1791713770.6410143,
+  "news|7176246e3241": 1791715566.9101434
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4473,6 +4480,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T10:46:06.910215+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Attack on Riyadh 'a dangerous escalation' - von der Leyen</b>\n📰 RTE.ie · Dim 11/10 11:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjNLSVpxRHF3bGpaS3ljTHRTZGN2ZkhadXc0S01iNWNGSVlXOTRBamJhb0MtajBTbkJFYlo4ejZYQUIwSmJFM2VaS0tkcFlsb29TWHFBbDZKdllXNmpIZVA5NHNNSVFkNzFFb2ZFeldoUklwNE1tRTBES3pjWENWVktsdw?oc=5"
+  },
   {
    "ts": "2026-10-11T10:16:10.641205+00:00",
    "kind": "news",
@@ -4767,11 +4779,6 @@
    "ts": "2026-10-10T14:16:41.329581+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russian attack on Ukrainian city kills 12, a day after Trump eases diesel sanctions on Moscow</b>\n📰 San Luis Obispo Tribune · Sam 10/10 13:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOekJySWR5ZGJCSGNwNVZSVnF1NW1GZV9hTE13ZC0zRmdoNEstZGRGU21BWFpBZ2FEeHFqOW5FWXFKMERxSHhJekw2b3UtZGJIQ2ZxQnJpUi1fODlsV29RNThOZlYwVzF5eWhTa0w1UnlDRXFnOGpMdW1aTTVLaE5kYg?oc=5"
-  },
-  {
-   "ts": "2026-10-10T14:16:40.295802+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russian attacks kill 17 in Ukraine after Trump-Putin diesel deal</b>\n📰 South China Morning Post · Sam 10/10 14:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLTVfeDhZTEpIUk9QVzhDM0RCTEdoWnowVkVEdEVySmpyamc2LVo4aEhsXzgtWGFZSUZQajJhNDRONGtfM1JfZ0VYNTFnMW9yd1ZlVVE5WmQ4X19DQ0tGcVF3NEpmMU5KZ3lKUW9MLWhWc2lCV0J0SmNPOHJXZk5pOE9kX05aa3BOd0dyTzZHNTVDSVRHeTk5dFp1cTBGTkdoOGVGNmVTYS04RnRxVHpWQzRDTzZtd1p1SnI0dzZyT0o5Z9IBwgFBVV95cUxOMVJNOFBrNUUxZ0RTQkN5dnF0S05JM3h3OVgwZ2owY2FtLXZ1MXk3UnRVc3c2bHdrQ2I4WW1vc0Jwc0pLcFFOTXVJTnZWemZsRnhhZ0hZUk9lNXRQZ29lWk0wUUw2T0VXcE5YZlV6RGhzc0I4SFlrVDJhTklfalNrX012WHdvWjY3UFMzaGNJNVI3VkdJY0NzLVRDcHhxTU92NkIxU1JMejdyc3JHbjBtWmE2N0pGbXdtWDZ5VlVfZ0w5Zw?oc=5"
   }
  ],
  "daily_forecast": {
