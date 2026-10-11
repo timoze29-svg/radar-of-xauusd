@@ -1869,9 +1869,27 @@
   "6ef395e8e48c",
   "2d7e214f8755",
   "58ad3236206d",
-  "1b0326266c23"
+  "1b0326266c23",
+  "a4ecccafb9ba",
+  "e570befd6ee9",
+  "de272dea15ad",
+  "6da44bdc81c8",
+  "41020466dabe",
+  "64e13a30a6fb"
  ],
  "news": [
+  {
+   "title": "Trump Strikes Deal With Putin for Russian Diesel",
+   "source": "WSJ",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU9BSDQteGd2OEd3NGN4SlBoNl84eE9XRU1HcUxBUWstUTVOQkt1aXhwNkUycFJMMVFYZ1pvWlJiVVlxVUtWei0zMHBuZDliRmRjZHlyYUV5blg5c3J5UkdLY3ZFaFl2YW5iRVppRWhPSWNfS0V5TUtLNmlEVnJxamhwNjV3ZnlTM1VrWWJlV0pjYzZLeDRUQg?oc=5",
+   "published": "2026-10-11T09:21:10+00:00",
+   "id": "a4ecccafb9ba",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Taiwan reasserts sovereignty after Beijing criticizes Lai’s speech",
    "source": "Taiwan News",
@@ -4259,18 +4277,6 @@
    "cat": "fed",
    "raison": "Pressions sur les gouverneurs menaçant l'indépendance de la Fed, facteur haussier pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "The countries fighting back against Trump's tariff tirade",
-   "source": "DW.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
-   "published": "2026-10-09T20:34:16+00:00",
-   "id": "97a6adfca6f0",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Guerre commerciale mondiale imminente, climat d'aversion au risque favorable à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4415,7 +4421,8 @@
   "news|02ca8a730d53": 1791694899.9767592,
   "news|e84f970a7cdf": 1791695767.5068831,
   "news|17a99af8efd9": 1791700291.3552873,
-  "news|a179dc14892f": 1791703888.8802454
+  "news|a179dc14892f": 1791703888.8802454,
+  "news|a4ecccafb9ba": 1791711269.4236526
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4438,6 +4445,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T09:34:29.423712+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Strikes Deal With Putin for Russian Diesel</b>\n📰 WSJ · Dim 11/10 11:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU9BSDQteGd2OEd3NGN4SlBoNl84eE9XRU1HcUxBUWstUTVOQkt1aXhwNkUycFJMMVFYZ1pvWlJiVVlxVUtWei0zMHBuZDliRmRjZHlyYUV5blg5c3J5UkdLY3ZFaFl2YW5iRVppRWhPSWNfS0V5TUtLNmlEVnJxamhwNjV3ZnlTM1VrWWJlV0pjYzZLeDRUQg?oc=5"
+  },
   {
    "ts": "2026-10-11T07:31:28.880302+00:00",
    "kind": "news",
@@ -4732,11 +4744,6 @@
    "ts": "2026-10-10T14:16:38.318499+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war</b>\n📰 Al Jazeera · Sam 10/10 14:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzB2SGJjZTZFd1lCcGRKdUc1RDk4aC1Mdm56TnBtMTZ1RnE0Yllkcy1rSHNrTEZrNlpaWmVZbFJ2ZWN0UnFGbmowbGR1emQtUEt3Z2xROXpWX1VBa29fVG1TdGxTV2ZBSDQ2MU8wUlRBNjZMeFdSX1pzRGV1Q0N0S2xRZXZEWDVtSGFKenp2dkZhSWZ5SnhNU2JsSTlJX0ViX1ZEY1ZiU2lST09TLWQ0Q0dpakU1d9IBuwFBVV95cUxQc2MtTEF0aDdqc2NGZFA5V2lwSzdXSVhZS1FrcFVtcllXcEF6bnVkUVg4bmpicTl2V3AzVllsYjZsTEUtNmJYQUVFMUZ2ZU5QSG9WZDY2dnVxWVhlVF9OS0d6RjJiV0pSdXFjNTFmZXhSOS1rSG5TM2dFRThDUU42ZGxraTBBNUxjNm9WMXlqY2JIVlZQYy1JeE8tcFd4YTdXNUFTdHFTTHJkWmU4SURGRWEzaXBzSDhvYjJr?oc=5"
-  },
-  {
-   "ts": "2026-10-10T14:16:37.283321+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Putin relays Iran war position to Trump as US president demands ‘everything’</b>\n📰 Iran International · Sam 10/10 15:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5"
   }
  ],
  "daily_forecast": {
