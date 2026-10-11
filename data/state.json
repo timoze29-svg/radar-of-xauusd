@@ -1644,7 +1644,11 @@
   "78dc66e386c6",
   "e71207b0c800",
   "d32c765655e9",
-  "61b25325b7cf"
+  "61b25325b7cf",
+  "74b6af9dc524",
+  "26d48df492e3",
+  "b3f16685f9b8",
+  "f5d30abac284"
  ],
  "news": [
   {
@@ -1717,6 +1721,18 @@
    "impact": -5,
    "cat": "taux",
    "raison": "baissier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran live updates: American among 12 killed in attack on Saudi airport",
+   "source": "Yahoo",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUtQS0UwaHlXVV9OZDVxcldmdXBDY3ZGRFhkYnF2eUYwLVlzNGVhTW13MXp2bFZVLW9JeTFEcUxuel9EMXZfRElrRlFNUTVhSHBkZUFrU0FuOXNsZWp2OFlEZ0FvR3B3VVI0UHg3aVVQekhFWkxvVDVkSmkxVFRwYl9vcEpvV1ByejQtZkpCWHdJUQ?oc=5",
+   "published": "2026-10-11T00:30:00+00:00",
+   "id": "26d48df492e3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4034,18 +4050,6 @@
    "cat": "géopolitique",
    "raison": "Confirmation d'une temporisation militaire américaine face à l'Iran, baisse de la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Four signs it is about to get uglier in the bond market as yields rise",
-   "source": "Reuters",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
-   "published": "2026-10-09T16:18:35+00:00",
-   "id": "e0456e649632",
-   "impact": -5,
-   "cat": "taux",
-   "raison": "Hausse des rendements obligataires augmentant le coût d'opportunité de détenir de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4182,7 +4186,8 @@
   "news|2a2857ce3b67": 1791684975.922292,
   "news|6a168d07e848": 1791685877.4223197,
   "news|72c8456d3fc6": 1791685878.4498668,
-  "news|a25f3b131627": 1791686766.5694218
+  "news|a25f3b131627": 1791686766.5694218,
+  "news|26d48df492e3": 1791692167.6621773
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4205,6 +4210,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T04:16:07.662230+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran live updates: American among 12 killed in attack on Saudi airport</b>\n📰 Yahoo · Dim 11/10 02:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUtQS0UwaHlXVV9OZDVxcldmdXBDY3ZGRFhkYnF2eUYwLVlzNGVhTW13MXp2bFZVLW9JeTFEcUxuel9EMXZfRElrRlFNUTVhSHBkZUFrU0FuOXNsZWp2OFlEZ0FvR3B3VVI0UHg3aVVQekhFWkxvVDVkSmkxVFRwYl9vcEpvV1ByejQtZkpCWHdJUQ?oc=5"
+  },
   {
    "ts": "2026-10-11T02:46:06.569471+00:00",
    "kind": "news",
@@ -4499,11 +4509,6 @@
    "ts": "2026-10-10T08:29:51.179941+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 10/10 06:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0VKanIzbjJMTHVPVUZBVVgxZzBPampVU2V4bFRQdl9kT1pmaDY2RS1wRmFkWXZsMEFmckE5bW56V2hxU3UwbVNCcURlQURoS3JJQ1pWdUNub0ZESmhKNzF3OE9PazdleFNheEs2YV9BbHVrVklfQmdVcHN5TWRGTXl3ZDJQMC1RN1NYVGhRRmZzdmV4VFpPUTBn0gGfAUFVX3lxTE95SElxRUx3eGFNcl92aVRrbWgtVzlxakd6X3U3N0Fnb1d5UWU0U0dyNk5JYVhSVVE5ckttb0VESVhfcTByczVRZGRTQ2FRd3N5YWJYZW9yUUNYSTE2a2h0Z0NheF90QWcwR1RndTBfZTI0U1RXUWVCdllUQWhZdHV3WF9Ua25rUFB3QkVVczBlVEVESmY4al84eDVFSmY2VQ?oc=5"
-  },
-  {
-   "ts": "2026-10-10T08:29:50.193558+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>As Russia escalates its war, the EU realises its support for Ukraine won't be enough</b>\n📰 Euronews.com · Sam 10/10 09:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUJSeTRBamhlbnA5d1FXdjNRTkZ0Wl9HX2NfOW1Ba2Rqd2o3dU5icDd3b0hacGdRYjZScEZtdFpkcndqTUoxMWtRM1l0M01nOE8yQ2lPMXpXWEptcmVtNW42WGEwb29kckt6cGVWeXdXOHdqWURaSzh4cXFHSUc3UmpHN1lIX1pzMGVmUVpqQmRBdE5UbHN2aVZJLVVkci1UdFluazJzM0JRLURuQkM0NUFCRGVTVFU?oc=5"
   }
  ],
  "daily_forecast": {
