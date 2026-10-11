@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791723668.629426,
+   "ts": 1791727272.546061,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1966,9 +1966,24 @@
   "7659e58ed11d",
   "1ee4785fff61",
   "b4d7d814c251",
-  "cdb026c8071e"
+  "cdb026c8071e",
+  "d741e2b6ab9a",
+  "86733852d05a",
+  "6fdf9354bf7d"
  ],
  "news": [
+  {
+   "title": "Trump’s Middle East war has spiralled beyond America’s control",
+   "source": "AOL.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1dCMFJlSG8yS3ZxY0dfS3VMVWZhcGg0THlqREpvY1g2cHVVNXlQUmtBZDlnZ3RtekxISTFIUW5Wc0FDeFRmS0k1MEpQMnRKZWszdTdIN0o3RWloaFRxWDk4TkI2SjhHRXNJTzgteFZCS3NWX21meWY1U3FwZWZZSQ?oc=5",
+   "published": "2026-10-11T13:44:51+00:00",
+   "id": "86733852d05a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Stocks Have Ignored 5% Treasury Yields — JPMorgan Strategist Says AI May Be Changing The Rules",
    "source": "Stocktwits",
@@ -2292,6 +2307,18 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire majeure au Moyen-Orient et risque d'intervention américaine stimulant la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Live - International condemnation mounts over Iran-backed Houthis' attacks on Saudi Arabia",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5",
+   "published": "2026-10-11T10:03:11+00:00",
+   "id": "d741e2b6ab9a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Blames Supreme Court Tariff Ruling for Loss of ‘Hundreds of Billions’ in Revenue",
@@ -4344,30 +4371,6 @@
    "cat": "commerce",
    "raison": "Lien entre tarifs et inflation, mais impact direct de marché quasi nul.",
    "method": "IA"
-  },
-  {
-   "title": "US trade court rules Trump tariffs illegal, but issues narrow block",
-   "source": "DD News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEp0TlJYRmljTHNHek1BNDh6M0RiQjhTM1duSFJ3OEhYS0VDRDRSOXNDckY5MlduX1N4SWZ5OEMwdzhWS0lnbC1hMUNUMGJaY3V5NGw5VlRLekFnNFIzamdJUGhJOVZEX2szREcwajFHUDRQbjdhalpWZVFyNUYyTUhPS2xUM0gtdmtTc202UWZldjVDbXc4?oc=5",
-   "published": "2026-10-10T08:51:47+00:00",
-   "id": "3719120beb26",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Blocage partiel de tarifs douaniers réduisant marginalement la prime de risque commercial.",
-   "method": "IA"
-  },
-  {
-   "title": "XAU/USD Forecast: Central Bank Gold Buying Spree Sets Stage for $4,500 Breakout",
-   "source": "FXLeaders",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEdJRzBkcXAtWjJSLWs3S05MMkJ2XzJLZ1hFQV9tMGEwVFRhNHBsTVZiY2hGVnU4TDctX0N5bkZEdi1MTWtzR29idzZvSW5YT1VUQ2dxYUNvRnFUck0yWG1zR0VBR3VMVlNad1NVY3JIMjFnRUUzR3hiYnJOazhoejlMSEx5Nks5c3JaSzJkVXNxQWVJRTBlLTFleXVjdWRxczE2VXdJOTJlc2d4V2F4ZF9pYVlJVTluNGhr?oc=5",
-   "published": "2026-10-10T08:49:58+00:00",
-   "id": "644c3b0f65b8",
-   "impact": 2,
-   "cat": "banques centrales",
-   "raison": "Achats soutenus des banques centrales renforçant le plancher structurel des cours.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4523,7 +4526,9 @@
   "news|802502fdd96c": 1791719170.7488956,
   "news|f1401b747a63": 1791720092.6128778,
   "news|e70100356779": 1791720964.2752159,
-  "news|8767f991fb53": 1791721880.988078
+  "news|8767f991fb53": 1791721880.988078,
+  "news|86733852d05a": 1791727474.7748923,
+  "news|d741e2b6ab9a": 1791727475.7951784
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4546,6 +4551,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T14:04:35.795275+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - International condemnation mounts over Iran-backed Houthis' attacks on Saudi Arabia</b>\n📰 Iran International · Dim 11/10 12:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5"
+  },
+  {
+   "ts": "2026-10-11T14:04:34.774941+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Middle East war has spiralled beyond America’s control</b>\n📰 AOL.com · Dim 11/10 15:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1dCMFJlSG8yS3ZxY0dfS3VMVWZhcGg0THlqREpvY1g2cHVVNXlQUmtBZDlnZ3RtekxISTFIUW5Wc0FDeFRmS0k1MEpQMnRKZWszdTdIN0o3RWloaFRxWDk4TkI2SjhHRXNJTzgteFZCS3NWX21meWY1U3FwZWZZSQ?oc=5"
+  },
   {
    "ts": "2026-10-11T12:31:20.988123+00:00",
    "kind": "news",
@@ -4835,16 +4850,6 @@
    "ts": "2026-10-10T14:16:50.658556+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Stocks Rise as Iran Escalation Fears Subside</b>\n📰 Moomoo · Ven 09/10 22:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXhiVmpOX0xnall1T1lqMlpJd0hreU1CVjlmMHAyRVJHT2RiV0JSdGJxLW1SajVXU2Fta05EYnMyWld6Mk5qMDJZbDhBM096c3RaOVFjZURGQ0lZMWFsNXp6N05UeElLQzNHTWJ4dGhNZlAta2RJc2pQM0x2NWgzNFo3WXhwWURuZFJNeEtzWUJxTmNuMHc?oc=5"
-  },
-  {
-   "ts": "2026-10-10T14:16:49.567678+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Sam 10/10 01:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SV1c5TWp3UlFQank3ZWQyQmpNa3JQdDMxcFEyTTFHdTJ4Y0RPNVNaSWh2aVlaZERtREdJRjlrV1AtRkRKTDliUENkYlFsUjVYVkJF?oc=5"
-  },
-  {
-   "ts": "2026-10-10T14:16:48.558636+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>IDF says Lebanon strike targeted Syrian operative who was plotting attacks on behalf of Iran</b>\n📰 The Times of Israel · Sam 10/10 01:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmQtQkdYWFBRSEhIQWt0TlFkQk82c1Y1emowcTBNQm1uVmdDS0RYMVFuMHhmNm1DeUhSZlpzd1NMWVA4MV96S3d4cW4xcVQ1NWJ2dDlNcjQ0SnZHRXR3Z0RlQ2dweVJOb2FaY1dPd2pRWXRzbElXZlI5RXZJb1NDM1FKdlZaWkEwUUdRbEVLaEpBVDlXZXRpbGtWTi1Nb2g4cGIxczBNdWN5N1E2ZFFpRk1LLThBY0Q5QXZnUlFaeXbSAcYBQVVfeXFMTjVxc3M0WnlaSVFyLVZ0WFNzVlEzUFZndERsT09jeFdmYVBHdVY5aVMzOEd0SE5SRGU2Uk1XXzI2UUhlUlc0U0VvSmpJbzVyeTF0V002TkNkRTZKdzVCaDRfS1dEUnloSHBLVTVDaTRUZWNuOUxLWndkZXQyNEV4SWVBOURYSFlIc3ZjQzZXY3pPM0N5b2Z3X2Z3VjNuMEwtdThpV0doMVhJaFdoMDBhZTUwRzh4cU5rRHltdHU3T1dKa0NKS2dB?oc=5"
   }
  ],
  "daily_forecast": {
