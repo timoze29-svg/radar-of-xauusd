@@ -859,81 +859,81 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1791644712.7722244,
+   "ts": 1791717367.0186987,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 114,
+      "n": 116,
       "high": [
        [
         0,
-        14.9
+        15.5
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
-        7.9
+        7.8
        ]
       ],
       "low": [
        [
         0,
-        18.4
+        16.4
        ],
        [
         16,
-        10.5
+        11.2
        ],
        [
-        2,
-        9.6
+        17,
+        8.6
        ]
       ]
      },
      "1": {
-      "n": 122,
+      "n": 124,
       "high": [
        [
         22,
-        12.3
+        12.1
        ],
        [
         15,
-        9.8
+        9.7
        ],
        [
         2,
-        9.8
+        9.7
        ]
       ],
       "low": [
        [
         16,
-        11.5
+        11.3
        ],
        [
         0,
-        11.5
+        11.3
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 119,
+      "n": 120,
       "high": [
        [
         2,
-        11.8
+        11.7
        ],
        [
         16,
-        11.8
+        11.7
        ],
        [
         17,
@@ -943,15 +943,15 @@
       "low": [
        [
         0,
-        13.4
+        13.3
        ],
        [
         14,
-        8.4
+        7.5
        ],
        [
-        3,
-        7.6
+        15,
+        6.7
        ]
       ]
      },
@@ -964,7 +964,7 @@
        ],
        [
         2,
-        10.1
+        9.2
        ],
        [
         17,
@@ -974,7 +974,7 @@
       "low": [
        [
         0,
-        14.3
+        13.4
        ],
        [
         15,
@@ -987,48 +987,48 @@
       ]
      },
      "4": {
-      "n": 119,
+      "n": 118,
       "high": [
        [
         16,
-        13.4
-       ],
-       [
-        0,
-        10.9
+        13.6
        ],
        [
         17,
-        10.9
+        11.0
+       ],
+       [
+        0,
+        10.2
        ]
       ],
       "low": [
        [
         0,
-        11.8
-       ],
-       [
-        15,
-        8.4
+        11.0
        ],
        [
         2,
+        8.5
+       ],
+       [
+        15,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5934,
+     "n_hours": 5925,
      "horizon_h": 2,
-     "base_gold_up": 53.6,
-     "base_dxy_down": 48.1,
+     "base_gold_up": 53.5,
+     "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 240,
-       "p_dxy": 52.9,
-       "p_gold": 55.8,
-       "gold_avg": 1.2
+       "n": 238,
+       "p_dxy": 53.4,
+       "p_gold": 56.3,
+       "gold_avg": 1.4
       },
       "4": {
        "n": 52,
@@ -1039,10 +1039,10 @@
      },
      "up": {
       "3": {
-       "n": 266,
+       "n": 264,
        "p_dxy": 54.9,
-       "p_gold": 47.4,
-       "gold_avg": -0.3
+       "p_gold": 48.5,
+       "gold_avg": -0.5
       },
       "4": {
        "n": 75,
@@ -1911,9 +1911,37 @@
   "24b11ff39532",
   "b0a97014fda3",
   "b19c8e057fad",
-  "0ff8fe74b037"
+  "0ff8fe74b037",
+  "307842255476",
+  "04d816451c0c",
+  "532eeb1c5c2e",
+  "e667886169bd"
  ],
  "news": [
+  {
+   "title": "Yemeni army bombs Houthi positions amid ongoing military escalation",
+   "source": "Anadolu Ajansı",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVppT3hneXVoTjR6blJNTGROVlZGc2hNYmVTRjNFaHdxOXk0QmZkdW9pODFMVkp3WGhHR2VjWW5YeWstdzFsX0lYNVROME1NMG4zOXhLOGUwWGtrc0Z0ei1PT2ROUXE3SE5LV1YyZFpzcXBfTHZTNEJLMldFUU1BekY4Z1p6ZG1YTF9mYzIyZE1fczJHN0VVaWdYSmNHRmJJSnhEU3Rha0pWV3RL?oc=5",
+   "published": "2026-10-11T11:04:34+00:00",
+   "id": "307842255476",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy says",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5",
+   "published": "2026-10-11T10:58:40+00:00",
+   "id": "532eeb1c5c2e",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Asia NewsHawks Briefing: India Protests, China–Taiwan Tensions, Tokyo Fallout and Singapore’s Rain-Soaked Grand Prix",
    "source": "NetNewsLedger",
@@ -4289,30 +4317,6 @@
    "cat": "géopolitique",
    "raison": "Apaisement relatif du risque sécuritaire au Moyen-Orient, réduisant légèrement la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump offers Iran path to nuclear deal while keeping up military pressure",
-   "source": "Al-Monitor",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTQ0RFFrNHNGVmJ5R21YTk1oeWQ5cjRLbzZEbVhzcHBYRzhVRjVDU3JJNTJmOG02RlhNVlBia3J4QkF1SW03LThGVFhRX3Y3UHlyWGlnaWhLSjZxR3BFeC05dzY3ZnZGaUxZU24xSndyckxIcExBclBTOGNvS084R2ZQOUVpdGlPTDEzbm55UGYwQkg4SGZsVEsxa2VhNE1RWmxNeWNEbV9EV0I2RFFLSFpn?oc=5",
-   "published": "2026-10-10T00:31:42+00:00",
-   "id": "e1d2b14352fe",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Ouverture diplomatique sur le nucléaire iranien atténuant le risque d'embrasement militaire régional.",
-   "method": "IA"
-  },
-  {
-   "title": "IDF says Lebanon strike targeted Syrian operative who was plotting attacks on behalf of Iran",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmQtQkdYWFBRSEhIQWt0TlFkQk82c1Y1emowcTBNQm1uVmdDS0RYMVFuMHhmNm1DeUhSZlpzd1NMWVA4MV96S3d4cW4xcVQ1NWJ2dDlNcjQ0SnZHRXR3Z0RlQ2dweVJOb2FaY1dPd2pRWXRzbElXZlI5RXZJb1NDM1FKdlZaWkEwUUdRbEVLaEpBVDlXZXRpbGtWTi1Nb2g4cGIxczBNdWN5N1E2ZFFpRk1LLThBY0Q5QXZnUlFaeXbSAcYBQVVfeXFMTjVxc3M0WnlaSVFyLVZ0WFNzVlEzUFZndERsT09jeFdmYVBHdVY5aVMzOEd0SE5SRGU2Uk1XXzI2UUhlUlc0U0VvSmpJbzVyeTF0V002TkNkRTZKdzVCaDRfS1dEUnloSHBLVTVDaTRUZWNuOUxLWndkZXQyNEV4SWVBOURYSFlIc3ZjQzZXY3pPM0N5b2Z3X2Z3VjNuMEwtdThpV0doMVhJaFdoMDBhZTUwRzh4cU5rRHltdHU3T1dKa0NKS2dB?oc=5",
-   "published": "2026-10-09T23:58:14+00:00",
-   "id": "30b206084989",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Opérations ciblées au Moyen-Orient maintenant un plancher de tension sécuritaire régional.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4461,7 +4465,8 @@
   "news|a4ecccafb9ba": 1791711269.4236526,
   "news|7e1aa3d606df": 1791713769.6225677,
   "news|6b895ead6630": 1791713770.6410143,
-  "news|7176246e3241": 1791715566.9101434
+  "news|7176246e3241": 1791715566.9101434,
+  "news|307842255476": 1791717364.1813755
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -4484,6 +4489,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-11T11:16:04.181423+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Yemeni army bombs Houthi positions amid ongoing military escalation</b>\n📰 Anadolu Ajansı · Dim 11/10 13:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVppT3hneXVoTjR6blJNTGROVlZGc2hNYmVTRjNFaHdxOXk0QmZkdW9pODFMVkp3WGhHR2VjWW5YeWstdzFsX0lYNVROME1NMG4zOXhLOGUwWGtrc0Z0ei1PT2ROUXE3SE5LV1YyZFpzcXBfTHZTNEJLMldFUU1BekY4Z1p6ZG1YTF9mYzIyZE1fczJHN0VVaWdYSmNHRmJJSnhEU3Rha0pWV3RL?oc=5"
+  },
   {
    "ts": "2026-10-11T10:46:06.910215+00:00",
    "kind": "news",
@@ -4778,11 +4788,6 @@
    "ts": "2026-10-10T14:16:42.345903+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran can still produce missiles despite US-Israeli strikes</b>\n📰 The Jerusalem Post · Sam 10/10 13:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBiOU1Ba0c1UjAzLVJqZXYyTC16bDlCMklBNlRhbmhUTnF4TG54ZjJhX3RteC1zNUQ3WWNwRVBxMGs0NjdfbnFtSUF6U0JZQnhyMGhXRXhRSy1kaTl2MWpYcFpKWDJsYy11T2c?oc=5"
-  },
-  {
-   "ts": "2026-10-10T14:16:41.329581+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russian attack on Ukrainian city kills 12, a day after Trump eases diesel sanctions on Moscow</b>\n📰 San Luis Obispo Tribune · Sam 10/10 13:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOekJySWR5ZGJCSGNwNVZSVnF1NW1GZV9hTE13ZC0zRmdoNEstZGRGU21BWFpBZ2FEeHFqOW5FWXFKMERxSHhJekw2b3UtZGJIQ2ZxQnJpUi1fODlsV29RNThOZlYwVzF5eWhTa0w1UnlDRXFnOGpMdW1aTTVLaE5kYg?oc=5"
   }
  ],
  "daily_forecast": {
