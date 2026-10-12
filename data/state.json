@@ -859,19 +859,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1791717367.0186987,
+   "ts": 1791789391.3726025,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 115,
       "high": [
        [
         0,
-        15.5
+        15.7
        ],
        [
         15,
-        9.5
+        9.6
        ],
        [
         22,
@@ -881,42 +881,42 @@
       "low": [
        [
         0,
-        16.4
+        18.3
        ],
        [
         16,
-        11.2
+        10.4
        ],
        [
-        17,
-        8.6
+        2,
+        9.6
        ]
       ]
      },
      "1": {
-      "n": 124,
+      "n": 123,
       "high": [
        [
         22,
-        12.1
+        12.2
        ],
        [
         15,
-        9.7
+        9.8
        ],
        [
         2,
-        9.7
+        9.8
        ]
       ],
       "low": [
        [
         16,
-        11.3
+        11.4
        ],
        [
         0,
-        11.3
+        11.4
        ],
        [
         2,
@@ -947,11 +947,11 @@
        ],
        [
         14,
-        7.5
+        8.3
        ],
        [
-        15,
-        6.7
+        3,
+        7.5
        ]
       ]
      },
@@ -964,7 +964,7 @@
        ],
        [
         2,
-        9.2
+        10.1
        ],
        [
         17,
@@ -974,7 +974,7 @@
       "low": [
        [
         0,
-        13.4
+        14.3
        ],
        [
         15,
@@ -1005,11 +1005,11 @@
       "low": [
        [
         0,
-        11.0
+        11.9
        ],
        [
         2,
-        8.5
+        7.6
        ],
        [
         15,
@@ -1019,36 +1019,36 @@
      }
     },
     "dollar": {
-     "n_hours": 5925,
+     "n_hours": 5960,
      "horizon_h": 2,
      "base_gold_up": 53.5,
-     "base_dxy_down": 48.2,
+     "base_dxy_down": 48.1,
      "down": {
       "3": {
-       "n": 238,
-       "p_dxy": 53.4,
-       "p_gold": 56.3,
-       "gold_avg": 1.4
+       "n": 240,
+       "p_dxy": 52.5,
+       "p_gold": 55.8,
+       "gold_avg": 1.3
       },
       "4": {
-       "n": 52,
-       "p_dxy": 53.8,
-       "p_gold": 57.7,
-       "gold_avg": 0.9
+       "n": 53,
+       "p_dxy": 52.8,
+       "p_gold": 56.6,
+       "gold_avg": 0.4
       }
      },
      "up": {
       "3": {
-       "n": 264,
-       "p_dxy": 54.9,
+       "n": 268,
+       "p_dxy": 55.6,
        "p_gold": 48.5,
-       "gold_avg": -0.5
+       "gold_avg": -0.8
       },
       "4": {
-       "n": 75,
-       "p_dxy": 58.7,
-       "p_gold": 48.0,
-       "gold_avg": 0.7
+       "n": 73,
+       "p_dxy": 58.9,
+       "p_gold": 50.7,
+       "gold_avg": -0.1
       }
      }
     }
@@ -2330,9 +2330,64 @@
   "e53977f488fa",
   "f54779619820",
   "81e57a7cedc8",
-  "494a4d0b0ad5"
+  "494a4d0b0ad5",
+  "043f030b3645",
+  "c6eced8cb12c",
+  "a46cf9842df8",
+  "091b73c6dd55",
+  "420eaa7c7d6e",
+  "d826f5d92cf8",
+  "0d75e1d5a93a"
  ],
  "news": [
+  {
+   "title": "Taiwan to closely monitor China live-fire drills amid rising tensions",
+   "source": "Türkiye Today",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjJXZzhQZlBfcWVpTW5EUnhjZUNlZ0ZGYW50UjBOXzhkRnJ1cEdpTTdmclN6OTdMZ2xfSTdWYklYRWV3MW9VQzAtUW5zQWw2bXhXRlBJaThiX3E1VmpjRVVIaThzLWNCZThZTGZVaHY3b0ZDSmduOWtDM1J4X1p2U2huT3JGdUtKQmFfd1ZzQ05jak16VmNmQnlyYVVmS2hSOVVKOXpadDNqekhrcllobzVn?oc=5",
+   "published": "2026-10-12T07:11:44+00:00",
+   "id": "420eaa7c7d6e",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Tensions militaires autour de Taïwan soutenant modestement la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "Nassim Taleb Says Trump Behind ‘Unavoidable’ Debt Spiral - iShares 7-10 Year Treasury Bond ETF (NASDAQ:IE",
+   "source": "Benzinga",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQThzVzdhckVuR3lBMkNjUGFQalN3TFhVdFlDUVZ1WG1aQ2VCUVp2NVBFMVdlVXktRlcyNnpmWVJ4aXVyWTJKUk9aVmtGQnljZzVqYUlqaU1qQjlsWTAzTVJOTmhuM2VYQzdHbUpNZXQwTE1tTDd4bEZGcnV5UjZTN01QM3RSQkYtSkxfV0JXOTdXd014NU9uNjBLcGFSNjhPTWVFRTNySXIxczRTSk01WHdmZF9fQmFKbEFyNXpHMVRraU55UE1LQ0NRMHB2U2MzanBlRTB6bw?oc=5",
+   "published": "2026-10-12T07:07:07+00:00",
+   "id": "0d75e1d5a93a",
+   "impact": 1,
+   "cat": "politique US",
+   "raison": "Narratif de spirale d'endettement américain favorable à long terme, faible impact immédiat.",
+   "method": "IA"
+  },
+  {
+   "title": "Yields on key US Treasury bonds reached new highs, but for the 10-year demand was especially strong",
+   "source": "MercoPress",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWTRPOXZSMEh4MjlNZXRCSVVCRThEQ0liQUpvWVdfUDdWMDhhcXVSU2Zfb1ViVXF0QTlLQ1BLb0RhaUFnWU9SeGxXVTJLLWtjczBSZ1E5NVJoQUlOZ2swejVLYTNkNzlWVm5JVGhZNmJFZ0FlclR1VVQydi1acENNUVFvUkVQTjh5SWo2RkNHMk5Ga2NZczNIV3BrUWtaa2lSTWpXVHhQTzB2YUVUbTJZYXNyWHo5LUtocTdRSDJlM2JLYUhPaDVld21PdEozQjFU?oc=5",
+   "published": "2026-10-12T07:06:00+00:00",
+   "id": "d826f5d92cf8",
+   "impact": -2,
+   "cat": "taux",
+   "raison": "Rendements obligataires américains à des sommets, augmentant le coût d'opportunité de l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Beijing sanctions Paraguayan and Belizean ministers over support for Taiwan",
+   "source": "South China Morning Post",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeFhtcmVJUWF1alZ0RDMyY0dWRDJHSDg0cTA5Sy1oUW9NWjNHTGRQZ05JNEVXS1M0Y0VYR0o5QjlSNU5HX1k5eWNkYlJBN3p0SzAwWXJBaXo5VzRXRTZxbjNDNlU0YTgyMUZHejJYQmdHSGFraTIwV2xTUm9vajF6bG9GWXh3OXp1ZnN5ZXRGSXNMblZpUXlYalNZejljNHJjT1pBVEtQaFdVYThPa1UzalRsdTBtaS1IakZ5NVpnUl9fWDdiLUs4ZFEtbkRfNnBUenN4M0UtVWk1aGF3SmRsbzdlNHNRS1FnQ3ZtWTR3cXhsYUNq?oc=5",
+   "published": "2026-10-12T06:21:53+00:00",
+   "id": "091b73c6dd55",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Frictions diplomatiques mineures Chine-Taïwan, effet de valeur refuge négligeable.",
+   "method": "IA"
+  },
   {
    "title": "Gold Tops $4,200 as ETF Demand Surges, US CPI Ahead",
    "source": "TradingPedia",
@@ -2352,10 +2407,10 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnpnaVZwUWU5X3p2algtY1dSSjZYd2NuMllUVk05NkJjTGM2M3V6bFEtWE1kSG96dVp6cUFmcHkzcWNlOFQyRFZfTFR3cWNmN3Z5S3M4VTNwRnExbjNqcG5nXzNWM1gxb2pBampIX19tZHFDXzUxQ3hnbkc5Wi1IZnJzYkJnYTNHYmwxR1pTSTQ3eU12R0I5OXllSWNxQzgxOWxRbjJjZVBmZkQwbGpMOVBnUzh5eXF2NldlTVhGUGZsVi1z0gHKAUFVX3lxTE9zWGhsd29yQUdGXzBkSE9CbmEtdWJVdm8tTWxRbWNER2lSRkl6RnJGWTJGN3NEdVE0Y3lia3BBeEJJN1cwNjRGTEYxVVhRT2RRaEtfTmNHdm1PR1Ricm91M2ZjcG43UXlCdy1DelhBdGFSV1VtbHFSSmhVV1FWckdZRTFiMFNuTkdKZVJsUFdNTUo2REd0cGdwNjNoRHhpaF9wTXhEWWN3eWwxQnZnUXVPRDNXM1RSd2lqT0pxZ1BON2JEVmltTzZXNWc?oc=5",
    "published": "2026-10-12T05:15:00+00:00",
    "id": "71a2b733fb2d",
-   "impact": 4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Sanctions diplomatiques ciblées autour de Taïwan, effet valeur refuge très limité.",
+   "method": "IA"
   },
   {
    "title": "China sanctions Paraguay, Belize ministers over diplomatic ties with Taiwan",
@@ -2364,10 +2419,10 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSjQxbE1HRm9vT3gtTEFqRm01UGRuUXF0WjZIQWUwN0FEZnVUOHM2RlVLMUZWUm9GM0dBbEJsdmdoTlBkLUVkb0oyZjJZYkJJWmtXVmc5TUNnb1BmZGN0OVJMZGZZa3hjNFVIM2hmWFlmbFF5ZVczOGU3d3R4ZFpEVU9qam5zWnUtUjhZM28zSkxDQXB0bFZsUmNGWWx3N0w3Mk00dTJycWp3dlozVk83ekVRdHdZTmE0ZkFqd1QydGhkUlhHNFVKc0dIVWptajdySjFhaEZ2MUJKbTlXU05IY3B30gHnAUFVX3lxTE1sR3J1TnFkZWVXVkZLWGlNdC16bUxEc2Q2TnRrdTZvbVVmc0VwTW5NNGdQZ04yTkNHVVBLQ3ZtLW1RTFJQdTNxMHBBX0M4ZUlfRjYxc2ROMmlod3ZCRURyMzZyemROT25JWFY2Z2VtUS1sYU95b0h2X1hmMUpzRmJIUGtIdkcyaXNVUlJpZ1QxTS1QR1BxdlhNWEhvSVlQdFJVQ3NOcnNHak9pYWdRR0pvWkhGZHQ2aEg3ekQ5aDJlTFhpY0FNaHhyMzk5bzZJaG9zeDMtdEV5SnJmYnJfYXpnTldpeFFZSQ?oc=5",
    "published": "2026-10-12T04:45:00+00:00",
    "id": "2bb02888c51f",
-   "impact": 4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Mesures chinoises mineures sans risque immédiat d'escalade militaire.",
+   "method": "IA"
   },
   {
    "title": "US sought solo Israeli strike on Iran to shield Trump from midterm fallout: report",
@@ -2376,10 +2431,10 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrbGJpeThyZHBzRWtDZVZ3Q3g4LVFMckM4S0duNG1CVzRKclFoVGtQXy1NeV8xN1U1Ynd5cUpUTm5pdzkwMkNwSG42TlQ1dw?oc=5",
    "published": "2026-10-12T04:45:00+00:00",
    "id": "98024e00f826",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque latent de frappes contre l'Iran maintenant une prime géopolitique modérée.",
+   "method": "IA"
   },
   {
    "title": "China announces sanctions on Paraguay, Belize ministers over Taiwan ties",
@@ -2388,10 +2443,10 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnpBRkp5UEtPbDdRd0U3UElwVjRqdlRyN3lXZEZ1ekdMdDN4V0o3OC1VMk1HOUhfV3lvRzJhZTNqZHA3QXZYYTdDSTFxalFpOTJRSmtYdTRYUTVfZ1Eta2xONlRYVGtqME5pdFlHTDFtV1dfSFc2ZkdpblVCVFVFeklJZzQ4ZV9YV3EwVnRfd1NieGpuVEpoRGxXS0I0N2s?oc=5",
    "published": "2026-10-12T03:55:13+00:00",
    "id": "73050d8d66c8",
-   "impact": 4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rétorsion diplomatique symbolique de Pékin, impact haussier marginal.",
+   "method": "IA"
   },
   {
    "title": "Dollar Extends Fourth Weekly Rise as Fed Tightening Bets Build, Key Data and Oil in Focus",
@@ -2400,10 +2455,10 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3p4Y0dtZkRTWW9sdlhkS1haanBSQlpkYzBlZ2x4d0EtMEFIVG5FTUpZdkdxNnBUWUhNOXEwNkp6U0d3LVVGMzBnV0NueEtRaW0tcjNqbHNVaVNJLXp3cHktVndrNTRaQnJ3OTJDclNTaWR0a08wdXZqb0dodzVvZzU4ODU2YUFRNG0xa0Y5djJqRkM0eVV2azkwYlpEVmgzWmJLalVQRG0yaTVobkxLYmw3aS1OUlh5S3N3QnNtRkMxTXl1TmF3a3p5a2FvdTg?oc=5",
    "published": "2026-10-12T03:49:44+00:00",
    "id": "f7ddcf33a9c4",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -4,
+   "cat": "dollar",
+   "raison": "Dollar fort et anticipations de durcissement monétaire pénalisent directement l'or.",
+   "method": "IA"
   },
   {
    "title": "China Sanctions Officials of Taiwan’s Allies for the First Time",
@@ -2412,10 +2467,10 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTlRmVDRxZ1B2UmsyWklrMXcxaG8zZUVYcGRiMk9Mb2FOSVN3QjVEUFV1UloxRXAySVpkNWtKdEU0OWNyUEs0cmx5UGJTWWZqN2VQUWtfNFpfaFBKUEVDWHFrNE53NnpMS1kyT2ZNSVljUDVBdklFcm50b2NmdHRVamdsX0dRSm80NV9fa3NsUmFDM3JtRzhDSS1na2JBUE52Z1FDM2lRaEdDVnlibTVqYnY3alpuLWczbTZBYnBiZTZzOGpKWjRjbF9aVk1YRDNF?oc=5",
    "published": "2026-10-12T03:44:00+00:00",
    "id": "d56b0d9fe3e6",
-   "impact": 4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tension diplomatique inédite mais sans conséquence macroéconomique majeure.",
+   "method": "IA"
   },
   {
    "title": "Gold Price Forecast: Falling Oil Prices Boost Gold, Central Bank Rate Hike Risks Remain Key",
@@ -2424,10 +2479,10 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFhab21iLVVkcFNENFZxYTVPa3Z0eVVSckw0VXdJLWVtakFJMkpVdEtjSzd1WW52TjYzTnNhNkJvYTJ5TnZiTXBrXzhFYVFRYVFQbGRVTjQyOFNSUUtyblpzSGZuN2FLYkNJcWpNSEZ6ZktkYTA1VlFKRGM5SHBsTlJDOVBUcUp2TEQ3b1RIblNqNDdTM0NSc3NudFVoeFpYdGF0MHFENDRRblU5UkhMSDhweklBakFtOGc?oc=5",
    "published": "2026-10-12T03:34:21+00:00",
    "id": "c60bb899c8ce",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "taux",
+   "raison": "Craintes de hausses de taux limitant le potentiel haussier de l'or.",
+   "method": "IA"
   },
   {
    "title": "China sanctions Paraguayan, Belizean ministers over Taiwan ties",
@@ -2436,10 +2491,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeURFLXRVdHk3VlRWMGhINHRfOVRDUzBrSW14TzhXQW9HUmhSdzJUZTVQV2xYVko0ZGlBQ3NsX3NObGxHTHdiQmVhM1VLNFF1eHNrYndGcGVUdmNoU2FPWGNKQ1VPTWkxMmhWNkRjQnlpS2lET09aUFlad2hUTWZDVFVZd3hCVTJFa2toQ3FBak5kcS1oZ3lDRFJhekduNll2cFhTc3RnQnpTVTBFOFJrQmlsM2hoMTRsb2tn?oc=5",
    "published": "2026-10-12T03:29:10+00:00",
    "id": "edd4f8d8f70c",
-   "impact": 4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Gesticulation diplomatique habituelle sans perturbation des flux de marché.",
+   "method": "IA"
   },
   {
    "title": "Trump tariffs fuel job losses, GOP worry before midterms | Tap to know more | Inshorts",
@@ -2448,10 +2503,10 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalZGU2dOZlhYSW90YmE2aldlQXl6WVItRVV2NG5OQjJnU1gwS3JYZ2ZTOW9KZnZ1ZGRvYmI4SkZJaldHVWUxRHJvQm1vZDM5eTkyUG85TTlyUlRiZkFBeHprRXJpY0w4eW9GbkVZVk1kVlZJZVYyamt6N3FVOTNIR3VKd05EYmM4TGQtMVY2Y1RJdFhFVTJNUnN3M2QzTVlrZUN3U2xB0gGmAUFVX3lxTE1qVkZTZ05mWFhJb3RiYTZqV2VBeXpZUi1FVXY0bk5CMmdTWDBLclhnZlM5b0pmdnVkZG9iYjhKRklqV0dVZTFEcm9CbW9kMzl5OTJQbzlNOXJSVGJmQUF4emtFcmljTDh5b0ZuRVlWTWRWVkllVjJqa3o3cVU5M0hHdUp3TkRiYzhMZC0xVjZjVEl0WEVVMk1Sc3czZDNNWWtlQ3dTbEE?oc=5",
    "published": "2026-10-12T03:27:26+00:00",
    "id": "e0fcde61334e",
-   "impact": 5,
+   "impact": 2,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Incertitudes commerciales et craintes de ralentissement économique favorables à l'or.",
+   "method": "IA"
   },
   {
    "title": "China announces sanctions on Belize, Paraguay ministers over Taiwan ties",
@@ -2460,10 +2515,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFhmUDhtLVlYQ1RzdU82bEF5X2FBQktLdUthRjNvLUxDakZ0cjZvSWJrbE1BSVFKVEdEenpwOTRzOEh6OHN3TjB4LWlzYXUwbnhMMnhGc1U5SGw0aW5HdHh4cngtWFpBTWt2MG8zcUFxUXRwWDFyMURlb19jT01KRXZLWVhQNWtDWEl0bkh6OEYyTnNVZmVWYTVkQm9ncmlXSU5zeTBocGUzZw?oc=5",
    "published": "2026-10-12T03:14:42+00:00",
    "id": "99abafad7f97",
-   "impact": 4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Sanctions politiques limitées, sans impact significatif sur les marchés.",
+   "method": "IA"
   },
   {
    "title": "BofA's Hartnett: October rate hike could be the biggest catalyst for risk assets",
@@ -2472,10 +2527,10 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcTRaTTl4cHYxcUtINUV3cjBfWWxWcGJUQUU2eXN6SzR4N1FNSGNhdzExU1JveERYUzlYelN2Z0xtY21YYjRMYnhDcHZ6RjFLRm83VU15eV82RlNKdlVPYUZ2MTUxX1V6MjAxenNGaVZnVXViUWJkZGVuejN3Yk1CazVkYUlyMW50eWtBMWRYRXdQQ3lzUmpYeTNld1JvX0Y0TUxSdFdpTQ?oc=5",
    "published": "2026-10-12T02:59:29+00:00",
    "id": "306fd8f1bb37",
-   "impact": -6,
+   "impact": -3,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Perspective de hausse de taux défavorable aux actifs sans rendement.",
+   "method": "IA"
   },
   {
    "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
@@ -2484,22 +2539,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
    "published": "2026-10-12T02:54:00+00:00",
    "id": "708c49d13b65",
-   "impact": 4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "President Trump calls Korea Zinc plant in Tennessee a result of tariffs — Korea Herald",
-   "source": "UA.NEWS",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2x2RS1CUm15WUdfTGdMNTRjZGcwR1k5V3NIdjZBNERwcThFTDBkVVVjRnA0OWh4Q3dxQ3VYcUNWdThKLVNBeGd5NGVYZi1TdWpNLWNyNUVubGw5SWp1eFlKc0hMOVZkaTBQS1JaU2Eya2lQRVJraVdvMTVDVzlXaFRHbG8wbmpyMGVpWDVKYkRNVE5uN25LVzJQbUdkZWNRZG9ZaXV3?oc=5",
-   "published": "2026-10-12T02:44:40+00:00",
-   "id": "77b7bb7c842e",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Mesures diplomatiques restreintes, demande de couverture refuge quasi nulle.",
+   "method": "IA"
   },
   {
    "title": "Oil price retreat drags energy stocks lower as Trump claims Russia-Ukraine ‘ceasefire’",
@@ -2508,10 +2551,10 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTdWVy0wUGR5eDdSX0swZnJGNlhvOHZtTHdUT1Rya3N5aFFTZWdQbkNhaWp1ODRORUNhRVdvcUlvbUtCMkFBejRmZVdQcDE0anE4TWQ2T045YTBoc3ZDeTFiblEweVdiN3FiNzJxRC1SNWNna0FUVDZQNkw3UnA1RTY1bWdzNmxyMFFHMUdMMmVHZ2Y3TFIyNWVWSmlVaW11S3o2SGJCOU5wZHZXRnNHeXJLdkJrWjlkNV8xcUZBVEw5aUhWa0NLR0Y1NlBGOVBQQUNrLUZ1akliUzBoUU04QmlGdGpTR09JMjNPVmRzNHVlUQ?oc=5",
    "published": "2026-10-12T02:42:00+00:00",
    "id": "6b2c46ad9421",
-   "impact": -6,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Cessez-le-feu revendiqué réduisant les anticipations d'inflation et la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Bitget UEX Daily | Saudi Airport Attacks Escalate Middle East Risks; US Stocks Rebound; BTC Recovers Toward $84,000 (October 12, 2026)",
@@ -2520,10 +2563,10 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HcE9WMkREZEdVTTlmNVNiQk04T2hlbWd6MnN3Q1RzSUM4QWZFZ2VxcXJuRm12QXluQVhPWUJJcnIwME9nbURLUTYxZE9BNV92ZGNvaVdQY25keGZPN09uMDNod9IBY0FVX3lxTE5HcE9WMkREZEdVTTlmNVNiQk04T2hlbWd6MnN3Q1RzSUM4QWZFZ2VxcXJuRm12QXluQVhPWUJJcnIwME9nbURLUTYxZE9BNV92ZGNvaVdQY25keGZPN09uMDNodw?oc=5",
    "published": "2026-10-12T02:31:53+00:00",
    "id": "5ee7f39672d5",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Attaques contre des infrastructures saoudiennes renforçant l'attrait pour l'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
@@ -2532,10 +2575,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclpxV0Fzd1pLbllockhyS0RFUXZsX1JXc3JwSVlfMGxSeTJuNnlYSWczNG8wZmhhM3VZWWM0dHA3R1l4MG9LcjFlVlgyc0hTelF5T1hlRERMODdRS0pySUNtbHU3YXFoOTBPQXliNjJ5a3ZkZHh0ckZYRUxBRmtHY1JqN2l5c05OUXg3SWt0dHZLZTViOGF6X0R1UVpMa05LcDB6U21wbi10WEtGaEp3MDRB0gG3AUFVX3lxTE55X2U2QWFtYzVqMTdHNUxqWlFPdUk1QnZldGVfUm15Q3BVVW5rQ09FUGo1NFJoREUzaXRQUlc5aWJac0ZfeGp2UXM5NmpQZ3VkaTVOd0FfZmpEMUs1d1RyQ3k3UnZ4MGxYYkVEZDRldWpaN1lEMFBxSXlnbDl2aEpKam83bUxBWGFnUFYwTFg0MzZHRWtNY2pBUkdJamh5WE10aTEwMVEya0NPdEtSaGk4c1pndlI1MA?oc=5",
    "published": "2026-10-12T02:18:12+00:00",
    "id": "b41a40f4e16a",
-   "impact": 6,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe meurtrière sur Riyad accentuant fortement le risque géopolitique régional.",
+   "method": "IA"
   },
   {
    "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
@@ -2544,10 +2587,10 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkdVMXVPN1BzRFlhOVdNQkFTU3hkRW1WOUdtNERzSnNDNkhRd29jTXhRZ0xvSUZWQVpCUUd1b29CWEpHYWtmaVFRbXR6bTUtaTlaODhKd0I0YVhub3BjRDJ0Uks1VzhpUzRSbkE4Y2N1X19CR0tpOHEtXzNMY2JOY1pPOHZTU2PSAYwBQVVfeXFMUDJ2R2cwNjhmemExeXRWRFFPb28wM0ZpVjVkQjRZYnBDS0QzVDUtME94REtVZFBlYkM5dUNmUzNIWTNhR0lvUTZDZVlfSjAyWW05OHhkRzNQX0ROczVnSTQzeWpSTko1Uzlra2RUNFFXRUV3QVU2T3pSOG42Y3lOaTNqc3plZTJGdmRZcmQ?oc=5",
    "published": "2026-10-12T02:16:00+00:00",
    "id": "638dde2cf39f",
-   "impact": -6,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Désescalade annoncée sur l'énergie affaiblissant la prime de guerre de l'or.",
+   "method": "IA"
   },
   {
    "title": "Gold Holds Above $4,200 as Traders Weigh Ukraine Truce Against Mideast Escalation",
@@ -2557,9 +2600,9 @@
    "published": "2026-10-12T02:05:00+00:00",
    "id": "e2982ef127b5",
    "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "cat": "or",
+   "raison": "Résilience des cours face aux tensions persistantes au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Ukraine war briefing: Russia attacks multiple power plants after Trump energy ceasefire claim",
@@ -2568,10 +2611,10 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHZYVkEtRV9yN2ktb3kwNUw2aGw0d0VRYzNNUzNLd2tOWmtuYlliNlFUVmZ1c3c2empSX0dlcXozUEZaaDkxdnVXeUhMQ1NjNXVFZVY3WmVGd3ByN3NjbzZFUXpQcnMxOXBtR2tVcUxaZkl5Y0R0bksyYVpmTU53Z0lxa0xfcVRaMkdMcGtobHR2cHJlaTJ2RnF3RGY5cXpnSU9ETDNwejdCZ25RRGlQa3BKelRIUnRReG5FR2FkZ0hmdUxCSTdvYnVBWUkxdGhWd3B4bQ?oc=5",
    "published": "2026-10-12T02:05:00+00:00",
    "id": "b2473e90b1f9",
-   "impact": 1,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite des frappes en Ukraine contredisant l'apaisement et soutenant le refuge.",
+   "method": "IA"
   },
   {
    "title": "Is 8% the next target? U.S. mortgage rates hit a three-year high as the \"higher for longer\" trade sweeps through the housing market.",
@@ -2580,10 +2623,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2d5UEF0VWZEV2RZNXZULWtLSVdCR2hBOWRrenJLNlY5ME9PTGxDODRSdFhkdWN2MWl0aHVFbDRlSTlmVUlBT2NSYmExZk5nellWWk9LRnlqMlliZlpHMGFuUmN4MEJELXRxSVA2SmZ5OUlITFlrX3JidC1JUGhlemFMbEFxeEdHU1BjdnBXcUk?oc=5",
    "published": "2026-10-12T01:41:56+00:00",
    "id": "fd69c812cc17",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -3,
+   "cat": "taux",
+   "raison": "Taux durablement élevés augmentant le coût d'opportunité du métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Trump Says U.S. Won’t Resume Strikes on Iran Before Midterms",
@@ -2592,10 +2635,10 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDd3elZ0bVdvd2R0ZGd0bHRTR3owa2FXVjhOWUswX0RyR1lmUk8xaVhTUnNrRzgwS21RbGZ5NDRTV0dNZUNKN2RtSFpVUExqeVFkeUwwTXVuSU10SGhfYk95WF96Wmdpb1haWlkybTJEOGhhejEtMEFtNmlLb0luR0N3bnVSb0RkNU1RaUFaQm5mUmlPdk9PX1dIeHJzZFBKbFA1U2E3cmNvU3hwaXJXTjJxUV8?oc=5",
    "published": "2026-10-12T01:25:08+00:00",
    "id": "4e4334d961af",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Désescalade verbale temporaire envers l'Iran allégeant la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Gold Price Attacks Key Resistance – Analysis –12-10-2026",
@@ -2604,10 +2647,10 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVjkxVWZIaEZ4Ml9hS3lQT3FwdG50N2pOVFhiRS13WFgyYkJDSW1iOFFJX2stMlB3VVpJZXJubktiSy1PTlIxX2piWl9rMVRfX05PX1V2cjZvcWtSam1TbVNha0V1TERUWUZQN0RTT2QweWJGZnhEc2ptWktkTnU5VmZHckVLU0tFcHlqaEt0Ql9KVW52U0l6cHBUUEVJd0VzbkNESTlPN1hYbWEwdzR6bXh5QWU0U3VGRnpZTzJ6MnJuU1ZXeVFaWTdWRQ?oc=5",
    "published": "2026-10-12T01:25:00+00:00",
    "id": "9f10adb23cac",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "or",
+   "raison": "Pression sur les résistances techniques signalant un momentum haussier.",
+   "method": "IA"
   },
   {
    "title": "USD exchange rate today, October 12: The US dollar rises for the fourth consecutive week.",
@@ -2616,10 +2659,22 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeXhFZTlKSlZFTmtkcHgxUUU4YU9GSXQwNXlRR0t6NEhoVmdzQ0h4SmdqN2I4ZnNfaDBHekxzWHlDLXBhNlJGVEVkVmtMQXdEZm84Mm1ZRkgwV3FJaGRMMmF3NHZnTUg4VE1zdmRXaVdtQllqZC1jT2lHQlF1NlFWbGQzYmlLNG5GWnU4Tl9lWWEwa1NGZGc?oc=5",
    "published": "2026-10-12T01:18:22+00:00",
    "id": "b0c254489684",
-   "impact": -5,
+   "impact": -3,
    "cat": "dollar",
-   "raison": "baissier or (dollar)",
-   "method": "mots-clés"
+   "raison": "Hausse continue du dollar exerçant une pression baissière mécanique sur XAUUSD.",
+   "method": "IA"
+  },
+  {
+   "title": "Iran's moment of opportunity",
+   "source": "The Korea Times",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGMEQ3ZzE1a0x1eUVoeEZCcHFnV1hfTEU0TFBxaEtVU3BSMzRoOWlORVdRUUtYTU8zeXhwVnJ4WVdpS19IQldGdmdkMmt1RVlkd1huSTRtQ096UWhfX0JHWmM0cF9hWVZoYm9zSjl2R0xsNWJ5REZDN2RSSlhlUdIBgwFBVV95cUxNN1F2S3JBamV6Z01JT1NrWVZkOHNmMVJlbEFFNEFkWV9ZYXhwcV9OQjFCMDlEbVk3X2hPS1J0a2ZDRkxVRG1uSTN5UThLYWwxaUI5VFlDMERqN0xxU0pQUWJGdnpjMU94SGwxcDFlaWRKNEFVNzNHckFYalBLdVRZZlBYWQ?oc=5",
+   "published": "2026-10-12T01:10:07+00:00",
+   "id": "c6eced8cb12c",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Analyse prospective sur le Moyen-Orient sans escalade militaire concrète à court terme.",
+   "method": "IA"
   },
   {
    "title": "China's central bank buys gold for 23 months am...",
@@ -4684,54 +4739,6 @@
    "cat": "géopolitique",
    "raison": "Perspective de désescalade énergétique réduisant modérément la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Attack on Riyadh 'a dangerous escalation' - von der Leyen",
-   "source": "RTE.ie",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjNLSVpxRHF3bGpaS3ljTHRTZGN2ZkhadXc0S01iNWNGSVlXOTRBamJhb0MtajBTbkJFYlo4ejZYQUIwSmJFM2VaS0tkcFlsb29TWHFBbDZKdllXNmpIZVA5NHNNSVFkNzFFb2ZFeldoUklwNE1tRTBES3pjWENWVktsdw?oc=5",
-   "published": "2026-10-11T09:42:03+00:00",
-   "id": "7176246e3241",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Condamnation internationale confirmant la gravité du choc géopolitique au Moyen-Orient.",
-   "method": "IA"
-  },
-  {
-   "title": "McEntee 'concerned' by attack escalation in Saudi Arabia",
-   "source": "RTE.ie",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjNLSVpxRHF3bGpaS3ljTHRTZGN2ZkhadXc0S01iNWNGSVlXOTRBamJhb0MtajBTbkJFYlo4ejZYQUIwSmJFM2VaS0tkcFlsb29TWHFBbDZKdllXNmpIZVA5NHNNSVFkNzFFb2ZFeldoUklwNE1tRTBES3pjWENWVktsdw?oc=5",
-   "published": "2026-10-11T09:42:03+00:00",
-   "id": "7ab1841e71d9",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Lai's speech rife with deception, covertness, misleadingness and danger",
-   "source": "China Military Online",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpYVFOd3RWemNpczJnUWo2STNtQlZMUHZWY3BqX2pfbktkSFNTNW5EXzNJdWpvTHktQkg4UUhOdFpnaHZTZDRNdDhpaXFZMndUVjlTOU8zZ2V6ZGlkM1VTN21qSEQ0eVk?oc=5",
-   "published": "2026-10-11T09:36:18+00:00",
-   "id": "a02b569e9724",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rhétorique militaire chinoise envers Taïwan entretenant une modeste prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Maariv: Netanyahu Does Not Rule Out Strike on Iran...",
-   "source": "Jordan News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1hmOG5nTDBFbWR5WEl0WDU3NGpvMnZXWDhwZExDLVFaVFBhcGpDOERTTlBFbUtRR1c1eFRidVVBV2ttd2dGM1dJTjNySHhtaHdNZExoMVVnTlhuQ1BSemJfZEtsS0lIU1F4VU01OFppN1hXQmswdmpMSGMwQ19jZ2NPUmZvOVZfVFM0S2MtMzBlUExpQjZyVHdWNlBiMzBaR2pQd25oaw?oc=5",
-   "published": "2026-10-11T09:30:13+00:00",
-   "id": "149d42690d06",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
   }
  ],
  "fired": {
