@@ -2570,9 +2570,40 @@
   "3e23aeb35d14",
   "e02ab38e1d10",
   "9dfd84ee0282",
-  "95a35366ed5b"
+  "95a35366ed5b",
+  "9508a0321dc0",
+  "10c9d774cced",
+  "235ff829d626",
+  "9e50c6539405",
+  "1862c56e0586",
+  "8ffafebc91ac",
+  "c80a8071549d"
  ],
  "news": [
+  {
+   "title": "The multibillion-dollar reasons Trump hesitates to resume Iran war",
+   "source": "The Times",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmc2U3hBbURqYWV5ZE5vRnFhYnVsTEwxbjY2R19XZTM0QzVFVGkweTI4RVN5ZGdHZXExQzcwU0NsVklOdFd5QVJlMW52QVJ2YUVyblRLMEUwbHZuM3QwNEhoeDdnemdNelFZQWx5VWN1M0dYRWVfejVRUXdQLXJBWk00MVl4MUlpX0gxSE1VTE9JY3NmWTFIOEdtWQ?oc=5",
+   "published": "2026-10-12T16:20:34+00:00",
+   "id": "235ff829d626",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+   "source": "The New York Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBULVM1THpjc3laQTlrMW12dmVuXzMxNjdXcmtreExYSUNlVlhidG5aR19nb3I5cWJranBUNGlCQms2bDY4UzdXbi1hRXNjbWlucjhrdGJuT2pCU2EzeUJseFBHNmQ5WWpfckxnTi13SWkwVnNTSlM4T1RjVW8?oc=5",
+   "published": "2026-10-12T16:17:40+00:00",
+   "id": "1862c56e0586",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Kazakhstan Central Bank Plans to Cut Gold Reserves to 75% by Year-End, Shifting Toward Dollar Assets",
    "source": "BigGo Finance",
@@ -4948,30 +4979,6 @@
    "cat": "géopolitique",
    "raison": "Désaccord public évident sur la trêve, dissipant tout soulagement de marché.",
    "method": "IA"
-  },
-  {
-   "title": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks?",
-   "source": "The Jerusalem Post",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFQVk5Zmt5ZDVPRTN5RHdPaWVmTWEtekRsV0xBajd0SFlCWUNLN3R4WjlTY0ZpNmNpbVRHZVpDOXJ2RFpJb2tkTFF2ZHJfMnpNVkRvcGo0cGxLQlRO?oc=5",
-   "published": "2026-10-11T16:33:19+00:00",
-   "id": "117711a9aee6",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Incertitudes sur l'escalade militaire saoudienne maintenant un réflexe d'achat refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Is 8% next? Why mortgage rates have surged, and may stay higher for longer",
-   "source": "AOL.com",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzWG1HbDhRM1VhQ2JSX1FWckhHMXhfU1ZNdkJ6TlI0VHdJd1dPWHgxd1ZhYU00UGN1M0ZkcXNxOFZwdXd5T0RraWFrbFpFNnJ6bjNnM1FfdWpMak1jRHZ1U2tjTmVGUzA2aURPRktnS1pLZ29iT3dTUg?oc=5",
-   "published": "2026-10-11T16:30:29+00:00",
-   "id": "3beb9009028c",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "Perspective de taux directeurs élevés plus longtemps, négatif pour le coût d'opportunité.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5218,7 +5225,9 @@
   "brk|EURUSD|pwh|dn|2026-10-12/2026-10-18": 1791820909.231516,
   "brk|EURUSD|h20|dn|2026-10-12/2026-10-18": 1791820910.273112,
   "brk|EURUSD|h250|dn|2026-10-12/2026-10-18": 1791820911.3225718,
-  "post|2026-10-12T12:10:00-04:00": 1791823567.6858866
+  "post|2026-10-12T12:10:00-04:00": 1791823567.6858866,
+  "news|235ff829d626": 1791824495.0017042,
+  "news|1862c56e0586": 1791824495.9183736
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5257,6 +5266,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-12T17:01:35.918586+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Gives Putin a Hand in Russia’s Economic War With Ukraine</b>\n📰 The New York Times · Lun 12/10 18:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBULVM1THpjc3laQTlrMW12dmVuXzMxNjdXcmtreExYSUNlVlhidG5aR19nb3I5cWJranBUNGlCQms2bDY4UzdXbi1hRXNjbWlucjhrdGJuT2pCU2EzeUJseFBHNmQ5WWpfckxnTi13SWkwVnNTSlM4T1RjVW8?oc=5"
+  },
+  {
+   "ts": "2026-10-12T17:01:35.001752+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The multibillion-dollar reasons Trump hesitates to resume Iran war</b>\n📰 The Times · Lun 12/10 18:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmc2U3hBbURqYWV5ZE5vRnFhYnVsTEwxbjY2R19XZTM0QzVFVGkweTI4RVN5ZGdHZXExQzcwU0NsVklOdFd5QVJlMW52QVJ2YUVyblRLMEUwbHZuM3QwNEhoeDdnemdNelFZQWx5VWN1M0dYRWVfejVRUXdQLXJBWk00MVl4MUlpX0gxSE1VTE9JY3NmWTFIOEdtWQ?oc=5"
+  },
   {
    "ts": "2026-10-12T16:46:07.687140+00:00",
    "kind": "post_event",
@@ -5546,16 +5565,6 @@
    "ts": "2026-10-11T21:46:42.290741+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Is the war rekindled? Concerns about the escalation of the conflict in the Middle East! Netanyahu calls an emergency meeting on security, focusing on Iran, Gaza and Lebanon</b>\n📰 Balkanweb.com · Dim 11/10 22:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQekZTSXJXV1FDRkZncHBYOWw0OFlvUzVaM0p1dVVCeUZJUW1qSGFVZVZIY0hvS3ItTGQzeWJzd2I1bzZaVGJKa0QyeldXQ1hKa3ZCMGJfR3U4Yl8zd3hxZlI5bkh4ZkdFMUhMa2VBWURTM2Z0X0Y5ZDZsTFh1WXZhTzU4X20xUWlPTTZTSTN2aTd1eE5sNm8yNzUxX2hGYnFISHd2NWQwOGtINVRfai1OemU0UUZSVXlaUktBemlQbzZITzhZWE9HM1lRNnJydVJ5bG1tQmFtTS1tZlJNSk54dGNzTlM4X0FXaHZhUWdrSlFvNWpOSkF6RU85ZDRSSWQ4a1dPckZWZEk?oc=5"
-  },
-  {
-   "ts": "2026-10-11T21:31:27.054190+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>World leaders fear broader escalation after Iran attack</b>\n📰 The Canberra Times · Dim 11/10 14:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ01FREpYUlJ0RXFwMk1kUkRHUG93ZDhBN2RadVl2Nk51eFgzVVJwdXk0YUlVM3F0eVBkd001RGlfekswNWUxYlhlLXpEakViVF8yOUlFVXN1ZjlQbGpVRTlrSjd3YzJoaHBBb2pHTFdtMTE3R2N3b21tQld3RzZfNUpRZHNEMjNSSmFJTkdxSWkySkhNcmVmREpDelIxbTBuMGtKS0FB?oc=5"
-  },
-  {
-   "ts": "2026-10-11T21:31:26.164135+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12</b>\n📰 The Washington Post · Dim 11/10 23:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPR094dC1TQTlURWVUOFpLQUc0a1kxa1cwM1h5aDQ3bmxzdk9jdk50VU9UaEVNbjFtVHpWNGZ5STNpeFB2RlJBUGxheVYza29vbnowUXMzYUh5VmVzTVR2WjhFQjU5M0RlZE9DWkI0UGtCZDEtMF9wUG9vcmtPalI1REsxYXNOYzhNNTJmaGh6Y2tVdVF6Z2F2WXdWMHEtbC11R1dXdnpyZmhkZmQtNWNpZFBvM2tkeS01WC1oRVVfRQ?oc=5"
   }
  ],
  "daily_forecast": {
