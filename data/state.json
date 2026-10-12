@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791837947.0550544,
+   "ts": 1791842471.690456,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -762,7 +762,7 @@
      "country": "USD",
      "impact": "High",
      "date": "2026-10-15T08:30:00-04:00",
-     "forecast": "0.5%",
+     "forecast": "0.6%",
      "previous": "1.4%",
      "actual": "",
      "gold_label": "Consommation",
@@ -773,7 +773,7 @@
      "country": "USD",
      "impact": "High",
      "date": "2026-10-15T08:30:00-04:00",
-     "forecast": "0.5%",
+     "forecast": "0.6%",
      "previous": "0.4%",
      "actual": "",
      "gold_label": "Inflation producteurs",
@@ -795,7 +795,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-10-15T08:30:00-04:00",
-     "forecast": "26.5",
+     "forecast": "28.2",
      "previous": "37.8",
      "actual": "",
      "gold_label": "",
@@ -806,7 +806,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-10-15T08:30:00-04:00",
-     "forecast": "195K",
+     "forecast": "199K",
      "previous": "197K",
      "actual": "",
      "gold_label": "Chômage",
@@ -2654,7 +2654,9 @@
   "f818b2ce9b34",
   "3a7d3fe97cdd",
   "38602ddd9c40",
-  "a6b1c4e8726b"
+  "a6b1c4e8726b",
+  "f805cf4a9405",
+  "e2d3c1cabc43"
  ],
  "news": [
   {
@@ -2665,6 +2667,18 @@
    "published": "2026-10-12T21:29:47+00:00",
    "id": "8a2cf6663945",
    "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Bessent on how Iran war ends: ‘I don’t know’",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTM2UTdka1B0UldheFBuR3d2dFU3MU82RG5RYzFEMmdsMmp2Z2Z5WGhQQk5aYXF2elNWVkxHdEJJVi1XYUJpQ0JxOXR5eUh1MUgteW50SWZaNkNEa01CTFl6bDBSSU1sU09FZVRsY3c5WTAyc2t4Ui1EWk0zU0I4WE1tbDF5TlHSAYwBQVVfeXFMT1AtbjJLUG1lM1ZndWNUeHFCbjRsZnFXdkYtdTd6MnVwSFpnS3R6R2ZSaU9kbTJkTm5MS0RtcnFPQUVVaHVZcU9Zb1dnY1dtbVQzVkhTME1ESjlyOWFRODBRMlFRRHpDaUlrdlZjU0NkampsQkxhS1hILWdFd0xKWFBFYmpIQnJMbkQxVU8?oc=5",
+   "published": "2026-10-12T21:29:00+00:00",
+   "id": "e2d3c1cabc43",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5044,18 +5058,6 @@
    "cat": "géopolitique",
    "raison": "Désescalade potentielle réduisant la prime de risque géopolitique sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Iran calls U.S. response \"insufficient\" amid stalled talks to end the war",
-   "source": "CBS News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5",
-   "published": "2026-10-11T19:07:00+00:00",
-   "id": "ee1e68fa43bf",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -5311,7 +5313,8 @@
   "news|a53ee31712d3": 1791835323.2209089,
   "news|74d1b80e0d9d": 1791835324.0809815,
   "rep|recap|2026-10-12": 1791835326.2826138,
-  "news|ee59777ff401": 1791839773.3154638
+  "news|ee59777ff401": 1791839773.3154638,
+  "news|e2d3c1cabc43": 1791842494.32377
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5350,6 +5353,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-12T22:01:34.323832+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bessent on how Iran war ends: ‘I don’t know’</b>\n📰 The Hill · Lun 12/10 23:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTM2UTdka1B0UldheFBuR3d2dFU3MU82RG5RYzFEMmdsMmp2Z2Z5WGhQQk5aYXF2elNWVkxHdEJJVi1XYUJpQ0JxOXR5eUh1MUgteW50SWZaNkNEa01CTFl6bDBSSU1sU09FZVRsY3c5WTAyc2t4Ui1EWk0zU0I4WE1tbDF5TlHSAYwBQVVfeXFMT1AtbjJLUG1lM1ZndWNUeHFCbjRsZnFXdkYtdTd6MnVwSFpnS3R6R2ZSaU9kbTJkTm5MS0RtcnFPQUVVaHVZcU9Zb1dnY1dtbVQzVkhTME1ESjlyOWFRODBRMlFRRHpDaUlrdlZjU0NkampsQkxhS1hILWdFd0xKWFBFYmpIQnJMbkQxVU8?oc=5"
+  },
   {
    "ts": "2026-10-12T21:16:13.315517+00:00",
    "kind": "news",
@@ -5644,11 +5652,6 @@
    "ts": "2026-10-12T00:46:03.920132+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi foreign ministry holds phone call with Iran's Araghchi over 'recent escalation' in region</b>\n📰 Middle East Eye · Lun 12/10 02:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOc3lmRnBIREFKRGpVX0x2Mmh1RjZBR291RC01QWNxS2JEM2ZtV3hRbGRTX3g1RC1NbXZlVzU2SkUyZlRyUWFtaWdfbXU0bFNFZHNIeGhlc2lCZGZLZ1lmVXZJSm9JeUhQWnhzblVZS3ZpamNFSDZiYUVPZWE3WVVReE5FcjJWMXpNek1lS0YyR3pERHVXVGswVXFRUW45VkpyTGI2SGNpZEpXX3A2a21BdXN2Rmw5MkRGcEtBN0ZKQnZ0eVFlTWZmY1NBRktVVkg3bkxYbnFVLWs1dDBiQlFleXd3dE5YUmpnRFctZU82LUozVTBGRXJRUnlxam5TV25p?oc=5"
-  },
-  {
-   "ts": "2026-10-12T00:01:37.071015+00:00",
-   "kind": "cycle",
-   "text": "✅ <b>INVERSION HEBDO CONFIRMÉE</b>\nPhase 2 (jeu→ven) : lun→mer = -28.7$, depuis mercredi +76.6$ → inversion en cours ✅\nRetracement actuel : 266.9% du mouvement lun→mer"
   }
  ],
  "daily_forecast": {
