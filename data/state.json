@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791820876.622898,
+   "ts": 1791825350.4474356,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -2577,9 +2577,25 @@
   "9e50c6539405",
   "1862c56e0586",
   "8ffafebc91ac",
-  "c80a8071549d"
+  "c80a8071549d",
+  "54970fdd6678",
+  "df271ddbfb8d",
+  "c8556b1e4474",
+  "a01d82260852"
  ],
  "news": [
+  {
+   "title": "Trump’s tariffs raised prices of your everyday goods, study finds",
+   "source": "The Independent",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZllPRG5MYVN0S3pqdVVITnlFMGdoYnJ2RHlfVTZmUkJ6eUNmRU5KODU2aXJ5dVNvcnRWNFNwLVpFajA3TWlZa1pJT3REcGR1VDNoMUE4eDUyck5VcGVkdDVpS2E1WWlzZ0pINGFXRlBuT0htd3M5dVMwdkVKVFp1dkEtOTF3ZHdDbzlUcldZOE55NlF1YnJWeUNn?oc=5",
+   "published": "2026-10-12T16:44:00+00:00",
+   "id": "c8556b1e4474",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "The multibillion-dollar reasons Trump hesitates to resume Iran war",
    "source": "The Times",
@@ -2962,6 +2978,18 @@
    "impact": -5,
    "cat": "taux",
    "raison": "baissier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Japan condemns Houthi attacks on Saudi airports, urges immediate de-escalation",
+   "source": "Anadolu Ajansı",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0sxR1NhZXhZcVQyR3FlNTIzTXlRSWcyN1hhYVJHOGowbXJYM3ljYnJIREFxU01SRFlCZ2x5eW1lNVNwclBiUDliWnJiUmJBRTdRbFVnWlY5WDZjMFpDTXc1emJNU01xYzQ0NkNSQzlXMktVN0hKMWt4YnVXOEI5elBqbVVKR0NxbjRZbmNKdFJKbXFsb1MyQVVEenZ3RlptTGNTVF9TVFRkbUxpTERHZUNQUXYzcXBmYWdLWVhNd1I?oc=5",
+   "published": "2026-10-12T12:18:15+00:00",
+   "id": "df271ddbfb8d",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4955,30 +4983,6 @@
    "cat": "géopolitique",
    "raison": "Menace imminente de frappes contre l'Iran déclenchant des achats de panique/refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Saudi Arabia expected to ramp up strikes on Houthis after deadly Riyadh airport attack, experts say",
-   "source": "The Jerusalem Post",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PRHdEcEV3cllIZWVfbXFCeDgxbG5sSDJYLWtVZGNMOFFCQ1ZQOS10Q2tiSUdKQUFuckhtTHhKMFlZTmp5TzE1YkRQSHE4VW1VWUFOczRqNjVxQ2hU?oc=5",
-   "published": "2026-10-11T16:39:20+00:00",
-   "id": "3abeacdb3469",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Anticipation de représailles saoudiennes alimentant l'instabilité régionale et l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump claims Russia and Ukraine agree to energy ceasefire, but Zelenskyy says that’s ‘news for me’",
-   "source": "NBC News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenNrNjdxdUZuN0RldlJxbHBrYWM0aEdGU25GM21GMTZjZ3I3YXNlcnNWazNNcEdid3FuNUUxblppNDFSUmpBeE4tWjN5U2QzbVZ3U2Q5QlZVblFNaHFFTHZpWVBCbjdCQ1RTWkc2aDdESnNwaEhGX0ltVUpUdUl2YW53RU5BVGx2OF9hR2xxREpWWkM4dF8tMHZmVnFQbGJHZGgybEJNRWNkVUJVR3c?oc=5",
-   "published": "2026-10-11T16:34:02+00:00",
-   "id": "dbd0185bf72c",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Désaccord public évident sur la trêve, dissipant tout soulagement de marché.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5227,7 +5231,8 @@
   "brk|EURUSD|h250|dn|2026-10-12/2026-10-18": 1791820911.3225718,
   "post|2026-10-12T12:10:00-04:00": 1791823567.6858866,
   "news|235ff829d626": 1791824495.0017042,
-  "news|1862c56e0586": 1791824495.9183736
+  "news|1862c56e0586": 1791824495.9183736,
+  "news|df271ddbfb8d": 1791825368.8676467
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5266,6 +5271,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-12T17:16:08.867699+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Japan condemns Houthi attacks on Saudi airports, urges immediate de-escalation</b>\n📰 Anadolu Ajansı · Lun 12/10 14:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0sxR1NhZXhZcVQyR3FlNTIzTXlRSWcyN1hhYVJHOGowbXJYM3ljYnJIREFxU01SRFlCZ2x5eW1lNVNwclBiUDliWnJiUmJBRTdRbFVnWlY5WDZjMFpDTXc1emJNU01xYzQ0NkNSQzlXMktVN0hKMWt4YnVXOEI5elBqbVVKR0NxbjRZbmNKdFJKbXFsb1MyQVVEenZ3RlptTGNTVF9TVFRkbUxpTERHZUNQUXYzcXBmYWdLWVhNd1I?oc=5"
+  },
   {
    "ts": "2026-10-12T17:01:35.918586+00:00",
    "kind": "news",
@@ -5560,11 +5570,6 @@
    "ts": "2026-10-11T23:01:28.978391+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gold and silver whiplash as Treasury yields smash 2007 highs and Gulf war simmers</b>\n📰 Startup Fortune · Dim 11/10 23:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjA3am1aN0JmUXdqSHMxSzM3bDFOZXN3cXZTX1Y4bXA0LUVxaUdQeUk5X3ZldW1EbGZNLXdUMHJ0RC1rLV81cWl0R2VfM0NQeW01SjR4cXpub0NKZi1rYmhvbzNTYjBtbXFFcld0RHowVGhRRm9nekN2VklVemRaMl9STVE0Z2hQdXQxaHVUVjZXS2FPOUhlLUFCNkFGSWFxc1NYNk9Ea3lwdmFyUkE?oc=5"
-  },
-  {
-   "ts": "2026-10-11T21:46:42.290741+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Is the war rekindled? Concerns about the escalation of the conflict in the Middle East! Netanyahu calls an emergency meeting on security, focusing on Iran, Gaza and Lebanon</b>\n📰 Balkanweb.com · Dim 11/10 22:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQekZTSXJXV1FDRkZncHBYOWw0OFlvUzVaM0p1dVVCeUZJUW1qSGFVZVZIY0hvS3ItTGQzeWJzd2I1bzZaVGJKa0QyeldXQ1hKa3ZCMGJfR3U4Yl8zd3hxZlI5bkh4ZkdFMUhMa2VBWURTM2Z0X0Y5ZDZsTFh1WXZhTzU4X20xUWlPTTZTSTN2aTd1eE5sNm8yNzUxX2hGYnFISHd2NWQwOGtINVRfai1OemU0UUZSVXlaUktBemlQbzZITzhZWE9HM1lRNnJydVJ5bG1tQmFtTS1tZlJNSk54dGNzTlM4X0FXaHZhUWdrSlFvNWpOSkF6RU85ZDRSSWQ4a1dPckZWZEk?oc=5"
   }
  ],
  "daily_forecast": {
