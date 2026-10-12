@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1791795672.94835,
+   "ts": 1791795730.6315143,
    "data": {
     "date": "2026-10-06",
     "net": 210335,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791792077.7890854,
+   "ts": 1791795730.7533762,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -2372,6 +2372,7 @@
   "ee1e68fa43bf",
   "8fafa64be87e",
   "2d55abd288d9",
+  "3ecce494d1c9",
   "c203094cd3a2"
  ],
  "news": [
@@ -3022,6 +3023,18 @@
    "cat": "géopolitique",
    "raison": "Espoirs d'accalmie énergétique en Ukraine, allégeant la prime de risque internationale.",
    "method": "IA"
+  },
+  {
+   "title": "Oil dips after Trump announcements on Russian diesel, Ukraine energy ceasefire",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
+   "published": "2026-10-11T23:26:00+00:00",
+   "id": "3ecce494d1c9",
+   "impact": -6,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil rises on Middle East attacks, US dollar edges higher",
@@ -4762,18 +4775,6 @@
    "cat": "fed",
    "raison": "Repli des anticipations de hausse des taux, allégeant la pression sur les rendements réels.",
    "method": "IA"
-  },
-  {
-   "title": "Asia NewsHawks Briefing: India Protests, China–Taiwan Tensions, Tokyo Fallout and Singapore’s Rain-Soaked Grand Prix",
-   "source": "NetNewsLedger",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTDZwd1Fkbk5kLVBlX2NyZWVFd0Z4SWc3YUowNHBHeV9Cc1RlcndIXzU2QktvZmNFcTkxTDZkZ1JCRVVlY080eWVKVmxOSzh4V2RUbzhtdG1NYkM2NHdYREVPOVcwM19kLTJPVWNBSzVqR3ZoRElvTS0tR1gxWWc2MFhuNGoyYk4xeDVpWFFmWkVvTWdNMG84TDdNV2FNTmd1UktRcy1OWmNBeDBqZHdDNWVBQ20yUlgweG01amtmLWlCcTd0bXJTSkVHalJCUWExVUx4Qkhld2hJRjVEc3VmVVR2bDFzaTVPU1E?oc=5",
-   "published": "2026-10-11T10:46:35+00:00",
-   "id": "0ff8fe74b037",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions Chine-Taïwan récurrentes, soutien très marginal pour la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -4988,8 +4989,8 @@
   "news|c1e8b41819b3": 1791793026.9172626,
   "news|e7bbaa514e12": 1791793027.9214132,
   "news|189c6b30f623": 1791794786.8435853,
-  "news|8fafa64be87e": 1791795694.9315348,
-  "news|ee1e68fa43bf": 1791795695.9499567
+  "news|8fafa64be87e": 1791795748.982661,
+  "news|ee1e68fa43bf": 1791795749.9629867
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5029,12 +5030,12 @@
  },
  "alerts": [
   {
-   "ts": "2026-10-12T09:01:35.950213+00:00",
+   "ts": "2026-10-12T09:02:29.963224+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran calls U.S. response \"insufficient\" amid stalled talks to end the war</b>\n📰 CBS News · Dim 11/10 21:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5"
   },
   {
-   "ts": "2026-10-12T09:01:34.931591+00:00",
+   "ts": "2026-10-12T09:02:28.982735+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>No attack on Iran expected before vote, Israeli opposition leader says</b>\n📰 Türkiye Today · Lun 12/10 10:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVUVxU2FmTmw3elpudlRRREVGaE9idVVMMjNYUDRkRTJVa2FmcFdwZU1ydDhjRk11d1VsQ0FVZ0xDQmdXUlRPM3FnUVdIUlRTY1gxaDQzdktrNktHNnloRjlycllQR0dJdGk1Zkpkb3lIVXhLcFVSM05memRNR3ZMUE5NYzdEd3VlZmgzMjlsSkRuZFdfdnE4VnQxOVpQd3ZPX1dxRWhnODNJQU5KVEtuRE5XOA?oc=5"
   },
