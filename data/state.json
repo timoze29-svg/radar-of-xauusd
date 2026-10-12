@@ -2672,9 +2672,37 @@
   "40f3e9fcfa6f",
   "cf3b901cbd55",
   "58023dbccb6a",
-  "95b9559c07e6"
+  "95b9559c07e6",
+  "df6919c5e5fe",
+  "78010262dd38",
+  "92a227b82256",
+  "b8af817193e1"
  ],
  "news": [
+  {
+   "title": "Crude nears $107 as Middle East attacks escalate",
+   "source": "Punch Newspapers",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyYnE2eTdud1MxSV92RUtRZ0I1TkxCMUxDNWRjTTE1U2dKcC10SFNYN1MzWjJpVkg4OF9vVnBFU3RNbG5zVzVvZml4OFNFVmRfWjIxeWJ6NXA1dWlJNFN2Y0syVXR4aWJ0c2pnSVJHSXk4NEF1bldn?oc=5",
+   "published": "2026-10-12T23:33:03+00:00",
+   "id": "78010262dd38",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Brent crude hits near one-month high",
+   "source": "Moomoo",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcndoY1V5S0JCTGRhcWlYdHlTQmZvS2lNRk1XMWQ0RnNnYzJHc0psYm5QdV9QSDA1TmVDeVFjRmRENmUzTzlqaGRaY2dhZ3VqbG1HZkpqUkNWUkdNNFVXSTZxV0Vfb0w4bFBuVk5MX3liZ01yd001OGpzajF1NnJwWXg2bnRONnVHeDJ2bno0dHdXVXNra1Ftb2lzdTRDeEoxQldsLThRbG1iZw?oc=5",
+   "published": "2026-10-12T23:31:58+00:00",
+   "id": "df6919c5e5fe",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
    "source": "NPR",
@@ -2794,18 +2822,6 @@
    "cat": "géopolitique",
    "raison": "Espoirs d'apaisement avec Moscou réduisant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Reposts Fake Denzel Washington Endorsement",
-   "source": "Forbes",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObnBoaERXTm5oUlR4bmVvVW9RVnE5SU10b0NlbVlHdXo1LXF2RGVoOGdYeUIzT1FqcWRsX2hpNUxLQnVlR09ZeV95MERVUUw0R3hhYV8xRHRINE9sdXgyc08xR2daaTRUNmszRmgyTzYyZEhwUk1rQTJYc1N5SGlqYkJ2ZlViaXhIR1lnZENrN190SFFMMUR0a0lUVjJuNWNRY2pYeFdmZ18zZw?oc=5",
-   "published": "2026-10-12T19:34:38+00:00",
-   "id": "95b9559c07e6",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
   },
   {
    "title": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal",
@@ -3165,18 +3181,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Frappes houthis et doutes sur l'Ukraine renforçant nettement la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Spirits lobby urges Trump to drop 10% tariff on cognac, liqueurs",
-   "source": "Washington Times",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDdBOTQ2dEtuVERJT1lZS01Md2RneFdqcUhhdDVxck80VHgwTkFhNUlXZEY4SFRVNWFPUDdkYUhuQk9nMWxYcmFvOGdKSlQ0T1FMVVFBM3JPQ0FqcHp2Wm05WFFicWdTcUhoVE01ck1yeGk1eU96SWJSV1B2bDRFaEpsWmlzb2ZRSGxCSUpZNDBEYzQwTEdtTjRMekJJY1VnUnpjc1FyQW5OQQ?oc=5",
-   "published": "2026-10-12T13:39:10+00:00",
-   "id": "fbd18642fefc",
-   "impact": 0,
-   "cat": "commerce",
-   "raison": "Lobbying sectoriel très ciblé sans portée macroéconomique significative sur l'or.",
    "method": "IA"
   },
   {
@@ -5333,7 +5337,8 @@
   "news|e2d3c1cabc43": 1791842494.32377,
   "news|38315eaa6a27": 1791843360.8908958,
   "news|c0ccd31c1adb": 1791846096.5787044,
-  "news|40f3e9fcfa6f": 1791846966.4856908
+  "news|40f3e9fcfa6f": 1791846966.4856908,
+  "news|78010262dd38": 1791848770.017201
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5372,6 +5377,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-12T23:46:10.017260+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude nears $107 as Middle East attacks escalate</b>\n📰 Punch Newspapers · Mar 13/10 01:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAyYnE2eTdud1MxSV92RUtRZ0I1TkxCMUxDNWRjTTE1U2dKcC10SFNYN1MzWjJpVkg4OF9vVnBFU3RNbG5zVzVvZml4OFNFVmRfWjIxeWJ6NXA1dWlJNFN2Y0syVXR4aWJ0c2pnSVJHSXk4NEF1bldn?oc=5"
+  },
   {
    "ts": "2026-10-12T23:16:06.485751+00:00",
    "kind": "news",
@@ -5666,11 +5676,6 @@
    "ts": "2026-10-12T02:16:10.989284+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says U.S. Won’t Resume Strikes on Iran Before Midterms</b>\n📰 WSJ · Lun 12/10 03:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDd3elZ0bVdvd2R0ZGd0bHRTR3owa2FXVjhOWUswX0RyR1lmUk8xaVhTUnNrRzgwS21RbGZ5NDRTV0dNZUNKN2RtSFpVUExqeVFkeUwwTXVuSU10SGhfYk95WF96Wmdpb1haWlkybTJEOGhhejEtMEFtNmlLb0luR0N3bnVSb0RkNU1RaUFaQm5mUmlPdk9PX1dIeHJzZFBKbFA1U2E3cmNvU3hwaXJXTjJxUV8?oc=5"
-  },
-  {
-   "ts": "2026-10-12T01:10:04.482518+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 233.70 → prix : <b>4 234.00</b>\nATR jour : 81.8$ | Pivot hebdo : 4207.0\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 782 cas)."
   }
  ],
  "daily_forecast": {
