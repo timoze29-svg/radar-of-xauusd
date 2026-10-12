@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791842471.690456,
+   "ts": 1791846074.244689,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -2666,7 +2666,9 @@
   "2360c18e508c",
   "849d194e5287",
   "9995d247b74b",
-  "01fa00fd275d"
+  "01fa00fd275d",
+  "84134f7bc219",
+  "c0ccd31c1adb"
  ],
  "news": [
   {
@@ -2775,6 +2777,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalBiZ1ByS3BBZGdEVGRJdGNyYXJPbWFackFYUUNGN0xIRDdoS2VrVU9idVpkU21DV1F0QzRfOHlDOW5jYWFscl94Wk1WQUtCWFExOUE2dmJiQUs5SnJIVW1ZX05IMjBNd0FFWTUwMGxnLWQwZjFuSGZNZFNBaC1WblU4T25IeU9Ga1JZSEZVS0RQeVJSM2c?oc=5",
+   "published": "2026-10-12T19:21:46+00:00",
+   "id": "c0ccd31c1adb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5056,18 +5070,6 @@
    "cat": "géopolitique",
    "raison": "Espoirs ténus d'une détente énergétique partielle, pesant marginalement sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting",
-   "source": "Agri News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRmFnbndySEcwM2dKMkRRaVg4dGxrc2FwQmExdlhWZ2FwM2JSeHVLanRvTHl2cGlGV09MV0NPeUtPV0g2a3lPckl3NkFVMEJ5ZUgzODM5Qi1iZTFxb25uV2IxazdoN25hMG13QmRmOHRvcEoweEhlMU52X25vVEVrNmZGaUhOczc5REVmWG14QVZ1Wk9PcFlTQ011MS1yUFROWEZqQW9ReENKTXA5WlRTa2xWTzJESnpsZkN1OW9nUXF2YVBWQmdlUEFPak9zU1VRSFdjS2c1N2Q0ak9qU2t3cjZn?oc=5",
-   "published": "2026-10-11T19:30:00+00:00",
-   "id": "ca9b274104d5",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -5325,7 +5327,8 @@
   "rep|recap|2026-10-12": 1791835326.2826138,
   "news|ee59777ff401": 1791839773.3154638,
   "news|e2d3c1cabc43": 1791842494.32377,
-  "news|38315eaa6a27": 1791843360.8908958
+  "news|38315eaa6a27": 1791843360.8908958,
+  "news|c0ccd31c1adb": 1791846096.5787044
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5364,6 +5367,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-12T23:01:36.578754+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal</b>\n📰 Yahoo Finance · Lun 12/10 21:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQalBiZ1ByS3BBZGdEVGRJdGNyYXJPbWFackFYUUNGN0xIRDdoS2VrVU9idVpkU21DV1F0QzRfOHlDOW5jYWFscl94Wk1WQUtCWFExOUE2dmJiQUs5SnJIVW1ZX05IMjBNd0FFWTUwMGxnLWQwZjFuSGZNZFNBaC1WblU4T25IeU9Ga1JZSEZVS0RQeVJSM2c?oc=5"
+  },
   {
    "ts": "2026-10-12T22:16:00.890949+00:00",
    "kind": "news",
@@ -5658,11 +5666,6 @@
    "ts": "2026-10-12T01:01:37.528207+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump condemns Iranian-backed Houthis’ attack U.S. ally Saudi Arabia</b>\n📰 CBS News · Lun 12/10 00:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSURWVWZoWGdTZHZqREFNLUdiVG5tZUtFbS04aEZOaFlBZzVPYWRTME55RG9VQ2h2QVNLUWdBVzNlaHNlMXFKcHp1MTdVRmZwRlA3ZVNnWWp0aUtFTFB5TE8wTzVVbExkQVdBMUxWaVBTc25IR0FSYno5ME9MR3lWaThtbVIwZldKNnJ5dXB1c3JocUVaWjE2bVBFRWVhMWpWOEVmWEJEY014Zk5tMnNaRE1BeE14QQ?oc=5"
-  },
-  {
-   "ts": "2026-10-12T00:46:05.259170+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Argent (XAG)</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 61.555 → prix : <b>61.565</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.87 | 60j 0.83"
   }
  ],
  "daily_forecast": {
