@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1791820876.547328,
+   "ts": 1791843343.0680077,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -2656,7 +2656,10 @@
   "38602ddd9c40",
   "a6b1c4e8726b",
   "f805cf4a9405",
-  "e2d3c1cabc43"
+  "e2d3c1cabc43",
+  "9925a02fd903",
+  "38315eaa6a27",
+  "737c23078887"
  ],
  "news": [
   {
@@ -2693,6 +2696,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump threatens Ukraine over high energy prices mainly caused by Iran war",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1dyYTY3aGthbmNoU3hpZFBkZTlGTFdzVG5kSHdnOWIyMkRLcjJ3WDBaMjRJZ0duUU9jRmpKazBJZzNPeXFDR2dFLUhMOGx3eF9tU3FaSVZzTDhmbWtMVmZTcnRGSnJYTUd6MllvOUpwQXEzQjlFek9jZlhxWWd4R1JDdzhmZmhtQWxIdjFwcjZPRnFTZ0VNRWQyMWI?oc=5",
+   "published": "2026-10-12T21:00:00+00:00",
+   "id": "38315eaa6a27",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5046,18 +5061,6 @@
    "cat": "politique US",
    "raison": "Contestations politiques aux États-Unis entretenant l'incertitude sur les sanctions.",
    "method": "IA"
-  },
-  {
-   "title": "Russia, Ukraine reach energy cease-fire ‘effective immediately,’ Trump reveals — catching Kyiv off-guard",
-   "source": "New York Post",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUkVzVy1oWGE0NFh6YWZYTGNsTVAzY25Ldm4tT0RfRGkyaWRuQ0VKS1Azakowc0RsUk5EaE1qZ3NYLVlNVzBxRWw4REstU2doQUk1Mm5DeDkzSzJwTHRiVk5FMkZiS2ZSY1VPUFhUbmRWMGl6dHljQmQzaU5IcFRJbm9mWF9SaGFPRTVGRTFfcTVOSEIyUG9mTjVfdEd6dm9WNmNmeUJyNjdqX0dvX0twVlNQTGNYdw?oc=5",
-   "published": "2026-10-11T19:07:30+00:00",
-   "id": "09ecd50f11da",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Désescalade potentielle réduisant la prime de risque géopolitique sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5314,7 +5317,8 @@
   "news|74d1b80e0d9d": 1791835324.0809815,
   "rep|recap|2026-10-12": 1791835326.2826138,
   "news|ee59777ff401": 1791839773.3154638,
-  "news|e2d3c1cabc43": 1791842494.32377
+  "news|e2d3c1cabc43": 1791842494.32377,
+  "news|38315eaa6a27": 1791843360.8908958
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5353,6 +5357,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-12T22:16:00.890949+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump threatens Ukraine over high energy prices mainly caused by Iran war</b>\n📰 CBS News · Lun 12/10 23:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1dyYTY3aGthbmNoU3hpZFBkZTlGTFdzVG5kSHdnOWIyMkRLcjJ3WDBaMjRJZ0duUU9jRmpKazBJZzNPeXFDR2dFLUhMOGx3eF9tU3FaSVZzTDhmbWtMVmZTcnRGSnJYTUd6MllvOUpwQXEzQjlFek9jZlhxWWd4R1JDdzhmZmhtQWxIdjFwcjZPRnFTZ0VNRWQyMWI?oc=5"
+  },
   {
    "ts": "2026-10-12T22:01:34.323832+00:00",
    "kind": "news",
@@ -5647,11 +5656,6 @@
    "ts": "2026-10-12T00:46:05.259170+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Argent (XAG)</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 61.555 → prix : <b>61.565</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.87 | 60j 0.83"
-  },
-  {
-   "ts": "2026-10-12T00:46:03.920132+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi foreign ministry holds phone call with Iran's Araghchi over 'recent escalation' in region</b>\n📰 Middle East Eye · Lun 12/10 02:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOc3lmRnBIREFKRGpVX0x2Mmh1RjZBR291RC01QWNxS2JEM2ZtV3hRbGRTX3g1RC1NbXZlVzU2SkUyZlRyUWFtaWdfbXU0bFNFZHNIeGhlc2lCZGZLZ1lmVXZJSm9JeUhQWnhzblVZS3ZpamNFSDZiYUVPZWE3WVVReE5FcjJWMXpNek1lS0YyR3pERHVXVGswVXFRUW45VkpyTGI2SGNpZEpXX3A2a21BdXN2Rmw5MkRGcEtBN0ZKQnZ0eVFlTWZmY1NBRktVVkg3bkxYbnFVLWs1dDBiQlFleXd3dE5YUmpnRFctZU82LUozVTBGRXJRUnlxam5TV25p?oc=5"
   }
  ],
  "daily_forecast": {
