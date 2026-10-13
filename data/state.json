@@ -3106,9 +3106,24 @@
   "71daea9453c6",
   "88be2e052133",
   "785ddce24fab",
-  "9a4f9ba5cee8"
+  "9a4f9ba5cee8",
+  "c3eae841b56f",
+  "ada0cf751652",
+  "70179d7ac64d"
  ],
  "news": [
+  {
+   "title": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5",
+   "published": "2026-10-13T23:07:11+00:00",
+   "id": "70179d7ac64d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump posts video on Truth Social of man being attacked by tiger",
    "source": "The Washington Post",
@@ -5496,18 +5511,6 @@
    "cat": "dollar",
    "raison": "Léger raffermissement du dollar avant l'inflation américaine, pesant modérément sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. President Trump says world’s most powerful military may join Saudi Arabia’s war against Iran-backed Houthis as Egypt condemns airport drone strike",
-   "source": "Business Insider Africa",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFfU1VVZ2R1WHRjRGZNUUtiRWZNX2tuTG5zSVh5ODZXY01VOUY3cUZsNy0tQU5TU1JKUlJNZE1GLWNENmFZWjlmT29DN1NSaTdzOXVRRXkxamd6dVdoa1dGbG9YZ3Z6YkdYcnFVUVczWlU5NVRzcktNZ1BTMElhM2d2V3A4akdFNWlRMFdPUWptR2Z2Z0dUblNJcjhfX0FQX3FISUtqNXhoTDE0WXAwX2VOeE1DeXRuRHkxTWRiUXZjcklPR01hMm1pN2FONTcwRXdJ?oc=5",
-   "published": "2026-10-12T12:00:00+00:00",
-   "id": "68a9419b4ba5",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Menace d'intervention militaire directe des États-Unis stimulant fortement l'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5826,7 +5829,8 @@
   "news|40948f2ed351": 1791930685.351022,
   "news|781e021d0c5e": 1791930884.7087035,
   "news|d654d85cf084": 1791931565.4869084,
-  "news|f15184043cf5": 1791931566.4442961
+  "news|f15184043cf5": 1791931566.4442961,
+  "news|70179d7ac64d": 1791933368.946965
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5881,6 +5885,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T23:16:08.947041+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US still sharing intel, even as Ukraine reports attacks with no warnings</b>\n📰 Reuters · Mer 14/10 01:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5"
+  },
   {
    "ts": "2026-10-13T22:46:06.444691+00:00",
    "kind": "news",
@@ -6175,11 +6184,6 @@
    "ts": "2026-10-12T23:46:10.017260+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude nears $107 as Middle East attacks escalate</b>\n📰 Punch Newspapers · Mar 13/10 01:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAyYnE2eTdud1MxSV92RUtRZ0I1TkxCMUxDNWRjTTE1U2dKcC10SFNYN1MzWjJpVkg4OF9vVnBFU3RNbG5zVzVvZml4OFNFVmRfWjIxeWJ6NXA1dWlJNFN2Y0syVXR4aWJ0c2pnSVJHSXk4NEF1bldn?oc=5"
-  },
-  {
-   "ts": "2026-10-12T23:16:06.485751+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Israel mourns Saudi airport attack Trump eases Russian diesel sanctions TV7 Israel News - 12 Oct.</b>\n📰 TV7 Israel News · Lun 12/10 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5JYWlIMGExMkVVRWJaQUFkWXZMbVg4a3AyYTRCZ2x1MUlpRVV1R0pMLUlRT1d1RHJ4aEhVNTVISEN2ZkZqTDRUWjBpWERUaTg5YUp1aFRNTVdFNFFVSXZFdkh4UmhJVDBma0JjVTZtdTYtRzlCMG5Z?oc=5"
   }
  ],
  "daily_forecast": {
