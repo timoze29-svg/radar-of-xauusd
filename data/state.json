@@ -2716,7 +2716,8 @@
   "2d919b1aca8e",
   "418cc71bf4e4",
   "71ff3df76cde",
-  "02a1fe3bdcda"
+  "02a1fe3bdcda",
+  "0865b74e459b"
  ],
  "news": [
   {
@@ -2727,6 +2728,18 @@
    "published": "2026-10-13T02:24:23+00:00",
    "id": "02a1fe3bdcda",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGxHaWtJRHZxZnNxNWI2NGVRRmV5MlktUFpiTE8wZUlyc2I0WGQ5WGRwcU5HRTZpVUwxZlhOV05BLUxnakVpZlZRUFk3NnR3UFdlYkdVMWg2YU53Vi1xQXNuazhGYi1xV0JRWk40eXdJNVZpN1BWWHFsaFZfSFZQT3BwWHpSVEEtOWFCREs1T0Y1RnZPTzdCcm52azRPaUJlcTVQUkItTjIyMXRqUXhtU3B1a2JqcnpzazBCUWU3Rll1a2pUbDgwRW1PWk5SNGFaOExJYWo0MHpuYU5LbDdheF93?oc=5",
+   "published": "2026-10-13T02:22:00+00:00",
+   "id": "0865b74e459b",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5106,18 +5119,6 @@
    "cat": "géopolitique",
    "raison": "Échanges diplomatiques entre Ryad et Téhéran tempérant modérément les craintes d'embrasement immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "Nvidia Earnings Send Chip Stocks Higher, But Reported New Trump Tariff Plans Could Broaden The Trade Fight",
-   "source": "Stocktwits",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM09VbW80Rm9TVkJDdVdOaVp0cC1fS0N5UVZEdFgwNVZuaXVmTXhMcmpYdFU3aEZrVlRWbmthS3gtNEhyR0tDRDY3NEtfMnAyZHRSbzFkNDdGQ0NEbDRrcks5TVp3OXJhQ0lJajNVMTBvMUxKWktFQ1Q0VUZhSU1iUTVVWFBNVXlXSTBtblVkTjgxbUVSd0JBVFVPd01wci1DUUxacW1XdFRDT0RxWjFseTc0WEZhdzBkUFE?oc=5",
-   "published": "2026-10-11T21:24:44+00:00",
-   "id": "0045b2971232",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Menaces de nouveaux tarifs douaniers ravivant le risque de guerre commerciale mondiale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5382,7 +5383,8 @@
   "news|197453f96c1f": 1791851480.715605,
   "news|1015d22d58be": 1791854173.715902,
   "news|1287b29bef69": 1791856891.917158,
-  "news|ce229fd3d11a": 1791857769.9791424
+  "news|ce229fd3d11a": 1791857769.9791424,
+  "news|0865b74e459b": 1791859564.6829875
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5421,6 +5423,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T02:46:04.683041+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims</b>\n📰 The Guardian · Mar 13/10 04:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGxHaWtJRHZxZnNxNWI2NGVRRmV5MlktUFpiTE8wZUlyc2I0WGQ5WGRwcU5HRTZpVUwxZlhOV05BLUxnakVpZlZRUFk3NnR3UFdlYkdVMWg2YU53Vi1xQXNuazhGYi1xV0JRWk40eXdJNVZpN1BWWHFsaFZfSFZQT3BwWHpSVEEtOWFCREs1T0Y1RnZPTzdCcm52azRPaUJlcTVQUkItTjIyMXRqUXhtU3B1a2JqcnpzazBCUWU3Rll1a2pUbDgwRW1PWk5SNGFaOExJYWo0MHpuYU5LbDdheF93?oc=5"
+  },
   {
    "ts": "2026-10-13T02:16:09.979192+00:00",
    "kind": "news",
@@ -5715,11 +5722,6 @@
    "ts": "2026-10-12T05:01:35.042655+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War</b>\n📰 EnergyNow.com · Lun 12/10 00:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVZDSVhKNnF6eUdkZE5oRWtPR0VlR3NnS1VNbUwyOTVEb2ktU0tYZGl3dDlld3dHMWlrZnRIdTc1RV85R3E3NVdmT29BM1hzNFZNT3dIQkFfd3lERm9ZeHM5YUtPUE1jaGM3ZWp0N0lRMGcxbjYyMmFaRURMRG10RnVhRHA5a05HX2QyUGM3T2lwR2lWQlVxTmFxN1Fxd3BySGdIaTdwODNzaVFUbjJCMEpZSzBfbXpMazRFQnhXTWhGZWlJd3c?oc=5"
-  },
-  {
-   "ts": "2026-10-12T04:16:13.136341+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Cuivre</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 6.6530 → prix : <b>6.7440</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.49 | 60j 0.44"
   }
  ],
  "daily_forecast": {
