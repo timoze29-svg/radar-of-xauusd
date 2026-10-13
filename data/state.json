@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791857751.293581,
+   "ts": 1791862267.3219368,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -859,7 +859,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1791789391.3726025,
+   "ts": 1791862292.5321603,
    "data": {
     "gold_hours": {
      "0": {
@@ -867,7 +867,7 @@
       "high": [
        [
         0,
-        15.7
+        14.8
        ],
        [
         15,
@@ -894,11 +894,11 @@
       ]
      },
      "1": {
-      "n": 123,
+      "n": 122,
       "high": [
        [
         22,
-        12.2
+        12.3
        ],
        [
         15,
@@ -912,28 +912,28 @@
       "low": [
        [
         16,
-        11.4
+        11.5
        ],
        [
         0,
-        11.4
+        11.5
        ],
        [
         2,
-        8.9
+        8.2
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 119,
       "high": [
        [
         2,
-        11.7
+        11.8
        ],
        [
         16,
-        11.7
+        11.8
        ],
        [
         17,
@@ -943,15 +943,15 @@
       "low": [
        [
         0,
-        13.3
+        13.4
        ],
        [
         14,
-        8.3
+        8.4
        ],
        [
         3,
-        7.5
+        7.6
        ]
       ]
      },
@@ -994,12 +994,12 @@
         13.6
        ],
        [
-        17,
+        0,
         11.0
        ],
        [
-        0,
-        10.2
+        17,
+        11.0
        ]
       ],
       "low": [
@@ -1008,46 +1008,46 @@
         11.9
        ],
        [
-        2,
-        7.6
+        15,
+        8.5
        ],
        [
-        15,
+        2,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5960,
+     "n_hours": 5946,
      "horizon_h": 2,
-     "base_gold_up": 53.5,
-     "base_dxy_down": 48.1,
+     "base_gold_up": 53.6,
+     "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 240,
-       "p_dxy": 52.5,
-       "p_gold": 55.8,
+       "n": 238,
+       "p_dxy": 52.9,
+       "p_gold": 55.9,
        "gold_avg": 1.3
       },
       "4": {
        "n": 53,
        "p_dxy": 52.8,
        "p_gold": 56.6,
-       "gold_avg": 0.4
+       "gold_avg": 0.5
       }
      },
      "up": {
       "3": {
-       "n": 268,
+       "n": 266,
        "p_dxy": 55.6,
-       "p_gold": 48.5,
-       "gold_avg": -0.8
+       "p_gold": 48.9,
+       "gold_avg": -0.9
       },
       "4": {
-       "n": 73,
-       "p_dxy": 58.9,
-       "p_gold": 50.7,
+       "n": 72,
+       "p_dxy": 58.3,
+       "p_gold": 50.0,
        "gold_avg": -0.1
       }
      }
@@ -2722,9 +2722,25 @@
   "57b84ecc03c5",
   "462c909ea2fa",
   "0fa5d06e77e3",
-  "e2641461b4c7"
+  "e2641461b4c7",
+  "d24b59f21156",
+  "502ac172e670",
+  "2a22af675584",
+  "4421098d6c74"
  ],
  "news": [
+  {
+   "title": "Analysis • Trump's trap: How a Saudi lifeline could ignite fresh war with Iran",
+   "source": "Haaretz",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRWloRTlVT2ZwYk83ZWdjbmNldDhWVEdjMDU4MV9YV2U5ekFwS3hCdkJPODJ4THZxdG1xbTljNy0yOTRMb3haNlNVRkt2R243U2dvS3NHV3hubnlVc0xkSFVkZDFNQkZRMXoxbXhVeDF1WDRyNGgxeko5UG1TMXFnSDJFaHEwQm5PZThlM0JMT2VWYTBaNktPZkJ2VC1kYTBhRlZaS0dRTGpmRUlzcWZrb2tlRjVlcFNXcFFxMEI0OWNBS19tYVppcUlFb3hNVkJPMGMtT0dvXy1nUzU3QThsM2VmYkpPZmdwdHh1MUx0YjdoR1hjLVJUWWpPQkZZZ3k0eC0yTA?oc=5",
+   "published": "2026-10-13T03:00:00+00:00",
+   "id": "d24b59f21156",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes",
    "source": "The Washington Post",
@@ -3036,6 +3052,18 @@
    "cat": "géopolitique",
    "raison": "Espoirs d'apaisement avec Moscou réduisant légèrement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Dollar Rallies on Higher Crude Oil Prices and Hawkish Fed Comments",
+   "source": "TradingView",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFJ5ang4N3YyNE5fNGxjZmkxdEsxUlpaSlN2eFVmbE9mZTB4bHBWRVR3elNjR2hIaS12Tmoyc2t3LWZxUldKTEhKblF6S1lzTk9RWVI0eVVLSHhZZzdMcEJNNHh0M1hGZmFvdTY3VXROQkRtSmFtXzlpTGdqRTlnamljeFFlemZESi1OZkZ3Y3Z0alI5b0g2ZmNzdGJaRmhLMnQ3a2VCRTY1cGJnWnlldmtpSUYzeXZKRkk1R01Cd0hPQUE?oc=5",
+   "published": "2026-10-12T19:34:08+00:00",
+   "id": "4421098d6c74",
+   "impact": -10,
+   "cat": "fed",
+   "raison": "baissier or (dollar, fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal",
@@ -5100,30 +5128,6 @@
    "cat": "taux",
    "raison": "Perspective de banques centrales moins restrictives favorable aux actifs non rémunérés comme l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Gold and silver whiplash as Treasury yields smash 2007 highs and Gulf war simmers",
-   "source": "Startup Fortune",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjA3am1aN0JmUXdqSHMxSzM3bDFOZXN3cXZTX1Y4bXA0LUVxaUdQeUk5X3ZldW1EbGZNLXdUMHJ0RC1rLV81cWl0R2VfM0NQeW01SjR4cXpub0NKZi1rYmhvbzNTYjBtbXFFcld0RHowVGhRRm9nekN2VklVemRaMl9STVE0Z2hQdXQxaHVUVjZXS2FPOUhlLUFCNkFGSWFxc1NYNk9Ea3lwdmFyUkE?oc=5",
-   "published": "2026-10-11T21:59:58+00:00",
-   "id": "f968b0b31724",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "Rendements obligataires au plus haut depuis 2007 pénalisant l'or malgré les risques géopolitiques.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes",
-   "source": "PBS",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1ZfTHY5Um5heEU2UHRTcjhpLVgycThkMFhiYTNQOXdBaVR1VGcyTndhak1qa2JXa2pBTk5n?oc=5",
-   "published": "2026-10-11T21:43:11+00:00",
-   "id": "74621cd7bdc2",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Impasse dans les pourparlers avec l'Iran prolongeant l'incertitude sécuritaire au Proche-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5389,7 +5393,8 @@
   "news|1015d22d58be": 1791854173.715902,
   "news|1287b29bef69": 1791856891.917158,
   "news|ce229fd3d11a": 1791857769.9791424,
-  "news|0865b74e459b": 1791859564.6829875
+  "news|0865b74e459b": 1791859564.6829875,
+  "news|4421098d6c74": 1791862289.666856
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5428,6 +5433,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T03:31:29.666915+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Rallies on Higher Crude Oil Prices and Hawkish Fed Comments</b>\n📰 TradingView · Lun 12/10 21:34\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFJ5ang4N3YyNE5fNGxjZmkxdEsxUlpaSlN2eFVmbE9mZTB4bHBWRVR3elNjR2hIaS12Tmoyc2t3LWZxUldKTEhKblF6S1lzTk9RWVI0eVVLSHhZZzdMcEJNNHh0M1hGZmFvdTY3VXROQkRtSmFtXzlpTGdqRTlnamljeFFlemZESi1OZkZ3Y3Z0alI5b0g2ZmNzdGJaRmhLMnQ3a2VCRTY1cGJnWnlldmtpSUYzeXZKRkk1R01Cd0hPQUE?oc=5"
+  },
   {
    "ts": "2026-10-13T02:46:04.683041+00:00",
    "kind": "news",
@@ -5722,11 +5732,6 @@
    "ts": "2026-10-12T05:01:36.448876+00:00",
    "kind": "weekly",
    "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 12/10/2026</b>\nPrix : <b>4220.50</b>  (+1.53% sur 5j)\n\n🧭 <b>Biais macro or : Baissier (-25/100)</b>\n🔴 Taux réels 10 ans (20j) : 2.87% (+0.32 sur 20j)\n🔴 Momentum or (vs MM50) : prix 4220 vs MM20 4261 / MM50 4379\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.32\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.75% vs Fed 3.88% → hausses anticipées\n🟢 Taux US 10 ans (5j) : -3 pb sur 5 jours\n🔴 Peur marchés (VIX) : VIX 14.8\n\n📐 <b>Niveaux clés or</b>\nR2 4322.9 | R1 4269.6 | <b>Pivot 4180.4</b> | S1 4127.1 | S2 4037.9\nSem. passée : PH 4233.7 / PB 4091.2 / clôt. 4216.3\nRange hebdo moyen (10 sem.) : <b>208$</b> | ATR jour : 81.8$\n\n📅 <b>News éco de la semaine</b>\n🔥 Lun 12/10 18:10 — USD FOMC Member Hammack Speaks\n🔥 Mar 13/10 08:00 — EUR German Final CPI m/m (prév. 0.6%)\n🔥 Mar 13/10 09:45 — USD FOMC Member Waller Speaks\n🔥 Mar 13/10 19:00 — USD FOMC Member Barkin Speaks\n🔥 Mar 13/10 22:00 — USD FOMC Member Collins Speaks\n🔥 Mer 14/10 03:30 — CNY CPI y/y (prév. 1.0%)\n🔥 Mer 14/10 11:40 — USD FOMC Member Bowman Speaks\n🔥 Mer 14/10 14:30 — USD Core CPI m/m (prév. 0.2%)\n🔥 Mer 14/10 14:30 — USD Core CPI y/y (prév. 2.5%)\n🔥 Mer 14/10 14:30 — USD CPI m/m (prév. 0.6%)\n🔥 Mer 14/10 14:30 — USD CPI y/y (prév. 3.6%)\n🔥 Mer 14/10 19:30 — USD FOMC Member Barkin Speaks\n🔥 Jeu 15/10 04:55 — USD FOMC Member Bowman Speaks\n🔥 Jeu 15/10 08:45 — EUR French Final CPI m/m (prév. -0.3%)\n• Jeu 15/10 14:30 — USD Core PPI m/m (prév. 0.3%)\n• Jeu 15/10 14:30 — USD Core Retail Sales m/m (prév. 0.5%)\n• Jeu 15/10 14:30 — USD PPI m/m (prév. 0.5%)\n• Jeu 15/10 14:30 — USD Retail Sales m/m (prév. 0.3%)\n🔥 Jeu 15/10 22:30 — USD FOMC Member Hammack Speaks\n🔥 Ven 16/10 05:30 — USD Fed Chairman Warsh Speaks\n🔥 Ven 16/10 11:00 — EUR Final Core CPI y/y (prév. 2.5%)\n🔥 Ven 16/10 11:00 — EUR Final CPI y/y (prév. 3.8%)\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>49.8%</b> des semaines (<b>53.5%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 89.7%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+10) Bitget UEX Daily | Saudi Airport Attacks Escalate Middle East Risks; US Stocks Rebound; BTC Recovers Toward $84,000 (October 12, 2026)\n🟢 (+10) Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12\n🟢 (+10) Is the war rekindled? Concerns about the escalation of the conflict in the Middle East! Netanyahu calls an emergency meeting on security, focusing on Iran, Gaza and Lebanon\n🟢 (+10) Houthi strike a clear escalation in the Middle East\n🟢 (+8) Trump Says U.S. Won’t Resume Strikes on Iran Before Midterms\n🟢 (+8) Saudi foreign ministry holds phone call with Iran's Araghchi over 'recent escalation' in region\n\n📉 <b>Scénario principal : BAISSIER</b>\nLun→mer : chercher des ventes sur rebond vers 4180 / 4270, objectifs 4127 puis 4038.\nJeu→ven : si la baisse lun→mer est forte, retour possible vers le pivot.\n❌ Invalidation : clôture journalière au-dessus de 4270.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>"
-  },
-  {
-   "ts": "2026-10-12T05:01:35.042655+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War</b>\n📰 EnergyNow.com · Lun 12/10 00:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVZDSVhKNnF6eUdkZE5oRWtPR0VlR3NnS1VNbUwyOTVEb2ktU0tYZGl3dDlld3dHMWlrZnRIdTc1RV85R3E3NVdmT29BM1hzNFZNT3dIQkFfd3lERm9ZeHM5YUtPUE1jaGM3ZWp0N0lRMGcxbjYyMmFaRURMRG10RnVhRHA5a05HX2QyUGM3T2lwR2lWQlVxTmFxN1Fxd3BySGdIaTdwODNzaVFUbjJCMEpZSzBfbXpMazRFQnhXTWhGZWlJd3c?oc=5"
   }
  ],
  "daily_forecast": {
