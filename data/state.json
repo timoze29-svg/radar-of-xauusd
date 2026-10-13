@@ -2742,7 +2742,12 @@
   "35304a374f9e",
   "f4cdf6fdc36c",
   "6e53dab7626a",
-  "ddca6e6c2009"
+  "ddca6e6c2009",
+  "2423d52782d7",
+  "818d737ece34",
+  "ae2439360dcf",
+  "a828b7413d15",
+  "3b2e5349c3dc"
  ],
  "news": [
   {
@@ -2789,6 +2794,18 @@
    "published": "2026-10-13T03:00:00+00:00",
    "id": "d24b59f21156",
    "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5",
+   "published": "2026-10-13T03:00:00+00:00",
+   "id": "a828b7413d15",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5132,18 +5149,6 @@
    "cat": "politique US",
    "raison": "Tensions politiques et incertitudes géopolitiques autour des déclarations de Trump légèrement haussières.",
    "method": "IA"
-  },
-  {
-   "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZm1OcW5pNl9XNmVEdVJlaGhnVEx2MG9YZHd4YTBkT1ByS3FVc0hYRGoxTnp3XzlreUxDdTlheXNvTjNTR2FXbDA1N2dQZzZxZE9jdmh0U3gwZGJNSjFNdnJfZnlXNkg2d09STnVKdnJjOTEzbEtqbkp0Q002UklsMFBKT3hqNFI5b0s4YVFhWkdfRkszdHpmaHY4djFYRFg4UU85Q3puMkNLOUFYajVrNmpMdzhTcjTSAbwBQVVfeXFMTS1kVE9BanZkM0ExNklTdFRoZHFGMzdpOFdKaHNPREhiMlUxeGhvOGhnWlRRS25TS2dJT0ZDbHF5dkdZcmk5TS15WjdvaVZaZEs0WHdudlRibFV4VXVUSEpPTnJUY0pIMm1tS3lYQzEyakJpQVZzN0tCYTJWcUVJeHVHdEcycTAtQUJ6NGlGYXpTY1Q5aUhUS3pLQXhXdHZHQjFEa25jQS1SSFJHZ0p2NWM1enlkVWlvZUZkLXA?oc=5",
-   "published": "2026-10-11T23:02:57+00:00",
-   "id": "bb5e8479cf9e",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite de la guerre en Ukraine sans escalade systémique modifiant l'équilibre de marché.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5412,7 +5417,8 @@
   "news|0865b74e459b": 1791859564.6829875,
   "news|4421098d6c74": 1791862289.666856,
   "news|d448b81255c9": 1791864966.7761626,
-  "rep|daily|2026-10-13": 1791867696.1921644
+  "rep|daily|2026-10-13": 1791867696.1921644,
+  "news|a828b7413d15": 1791868566.831738
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5467,6 +5473,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T05:16:06.831791+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting</b>\n📰 WSJ · Mar 13/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5"
+  },
   {
    "ts": "2026-10-13T05:01:35.258225+00:00",
    "kind": "daily",
@@ -5761,11 +5772,6 @@
    "ts": "2026-10-12T06:19:08.116590+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US sought solo Israeli strike on Iran to shield Trump from midterm fallout: report</b>\n📰 bdnews24.com · Lun 12/10 06:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrbGJpeThyZHBzRWtDZVZ3Q3g4LVFMckM4S0duNG1CVzRKclFoVGtQXy1NeV8xN1U1Ynd5cUpUTm5pdzkwMkNwSG42TlQ1dw?oc=5"
-  },
-  {
-   "ts": "2026-10-12T05:31:19.265616+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Dollar Extends Fourth Weekly Rise as Fed Tightening Bets Build, Key Data and Oil in Focus</b>\n📰 VT Markets · Lun 12/10 05:49\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3p4Y0dtZkRTWW9sdlhkS1haanBSQlpkYzBlZ2x4d0EtMEFIVG5FTUpZdkdxNnBUWUhNOXEwNkp6U0d3LVVGMzBnV0NueEtRaW0tcjNqbHNVaVNJLXp3cHktVndrNTRaQnJ3OTJDclNTaWR0a08wdXZqb0dodzVvZzU4ODU2YUFRNG0xa0Y5djJqRkM0eVV2azkwYlpEVmgzWmJLalVQRG0yaTVobkxLYmw3aS1OUlh5S3N3QnNtRkMxTXl1TmF3a3p5a2FvdTg?oc=5"
   }
  ],
  "daily_forecast": {
