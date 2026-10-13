@@ -2872,7 +2872,11 @@
   "7dd5a045db69",
   "72ec7a2645cc",
   "dff8500894ed",
-  "5bb6c6f75c89"
+  "5bb6c6f75c89",
+  "446ce066b509",
+  "a76ead774ef9",
+  "3d7ba09c19d9",
+  "075c658610cb"
  ],
  "news": [
   {
@@ -2885,6 +2889,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine war has entered its ‘endgame,' says TS Lombard’s Granville",
+   "source": "CNBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakY0cnVZVmU1aGdfdUptUmVvekNiSnNqR2pfRnZLZUZmdWJDeXFFOWNzX0V1R2FFQXBCckVtOHNmTWNFSTc4aE5pRW1xYTFfSFVQdXczOVpIR1ZpOHk2eTZINks1Tk1UcHgwRmkyS3NUT3g0cGNtZU5EZzRsc2I1eno5di0zWTVyQ1RvSkZraU5yWmNjYUJUWXBJUGRhTlpDdHZRZ0NXYkg?oc=5",
+   "published": "2026-10-13T11:30:38+00:00",
+   "id": "075c658610cb",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -2931,6 +2947,18 @@
    "published": "2026-10-13T11:13:28+00:00",
    "id": "3e8d8cb89696",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran may be digging in for next war, raising stakes for US, Israel, and Gulf",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xNjZsVUhCLW1fd2xlRXdGSXpfU3hXdFJqeEg5Tkg5b2lrLVZaeHRKN2ZSeDVyVHlfY0ZLM2NEQWVOeG9fNGZxWHhweTJvcVR5QXVfT2VHUko0WFhoNDhGaHdjUkk5Qi1FM1E?oc=5",
+   "published": "2026-10-13T11:04:56+00:00",
+   "id": "3d7ba09c19d9",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5250,30 +5278,6 @@
    "cat": "fed",
    "raison": "Perspective de hausse de taux défavorable aux actifs sans rendement.",
    "method": "IA"
-  },
-  {
-   "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-   "source": "Reuters",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
-   "published": "2026-10-12T02:54:00+00:00",
-   "id": "708c49d13b65",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Mesures diplomatiques restreintes, demande de couverture refuge quasi nulle.",
-   "method": "IA"
-  },
-  {
-   "title": "China sanctions 'pawn' Paraguay, Belize ministers over Taiwan ties",
-   "source": "Reuters",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
-   "published": "2026-10-12T02:54:00+00:00",
-   "id": "e47be3291f68",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -5555,7 +5559,8 @@
   "news|bc23e81b5554": 1791889296.1778061,
   "news|40430f0821ca": 1791890173.0754054,
   "news|ce0358ca028d": 1791892898.940833,
-  "rep|update|2026-10-13": 1791892901.6957266
+  "rep|update|2026-10-13": 1791892901.6957266,
+  "news|3d7ba09c19d9": 1791893773.9186049
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5610,6 +5615,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T12:16:13.918657+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran may be digging in for next war, raising stakes for US, Israel, and Gulf</b>\n📰 The Jerusalem Post · Mar 13/10 13:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE8xNjZsVUhCLW1fd2xlRXdGSXpfU3hXdFJqeEg5Tkg5b2lrLVZaeHRKN2ZSeDVyVHlfY0ZLM2NEQWVOeG9fNGZxWHhweTJvcVR5QXVfT2VHUko0WFhoNDhGaHdjUkk5Qi1FM1E?oc=5"
+  },
   {
    "ts": "2026-10-13T12:01:40.720748+00:00",
    "kind": "ny_update",
@@ -5904,11 +5914,6 @@
    "ts": "2026-10-12T11:03:09.233262+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Saudi Arabia extends closure of Riyadh Airport</b>\n📰 Arabian Business · Lun 12/10 10:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-12T11:03:08.293635+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US mortgage rates near 7.5%: Why rising Treasury yields and Fed rate hike fears could push home loans towards 8% | Hindustan Times</b>\n📰 Hindustan Times · Lun 12/10 12:29\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQbTI2bTZuSmF5Y2ptWDluNm5kY3cxWnh4YUNSRmpBdlJ4ajNEYnNQdF9mQXBIOGprUkx6emdzRVZIdTJzREpYemFlR1VuU1pWUVVOLVNuMHpHUFNqN1hpWG1qZkZyZnVzejNCMDhpVGVEX01aNU0xbEJjNEtNMEdZSE9TUGVDQmNBRGlBMEkxZWdLb3pvUzVaOENadlFOdE9QZFlVS1laQk8xUGNFU1I3RUFDbFU1c1ZwMlI5Q0gxS0dGYTgwZTRtUllSd0kzSXhobm5TbFc0c0J3TmNOUzk4NUowTldRQWI3MWRGbFR3TU9oYU12YjEyYzBxQ0tOcExuWm9SVXBKRUhldDZn0gGSAkFVX3lxTE9pMXNENElZcEZIcERLQU0wVnhsdGlkd2FiUHY0QXJwZFUyT1d0Vncyc2Jsc29YbGJPeTM5S2tQQkJ0SEZDd2JNMmxpd21SUXdZeVN0VFBMd1EwajZQekc3MG5YbWx5dE9fLTNRQkxZZVVObF9iWDNHZFctNGVEMG84R0JFQXV1aFd3dDRZZHZfa2tZLVpnZWZVUFpNaDFjaUhjQVBIRE12aUdpX3o1ZGxGV3lRcTA2OG5KYUhQSFRKakxYN0t2cjNDZWlsQVFQR3V6SDM1SER0NmdabzZZVEd0YXNzaFAtc0x3b2JwNVE4XzY3YlVjOG9GaldaTHpyWWtBNldjR0RLQnRvalFzTTZ1eWc?oc=5"
   }
  ],
  "daily_forecast": {
