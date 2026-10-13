@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791850547.2839847,
+   "ts": 1791854149.5407894,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -2693,7 +2693,11 @@
   "28b1e971119b",
   "a86c0ba45a30",
   "21f5efbfde01",
-  "157991476b49"
+  "157991476b49",
+  "12d420cd7146",
+  "1015d22d58be",
+  "d2dfa48388eb",
+  "2aa881831031"
  ],
  "news": [
   {
@@ -3945,6 +3949,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "U.S. Treasury yields remain steady at elevated levels as the market awaits CPI data and remarks by Waller this week, betting that further rate hikes will be deferred until December.",
+   "source": "Moomoo",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUZxUTFhcDBwMko1blhtSWtFa1Z5elVaSEJfU1dON0V1eC03dzlVMTdVVlo4YTctRkgxcHZuSXo1RGFxcUVpemJERWFVdUt6clJobHloeUdsWWdIcmtpRk4zMmZxeklxeTVtanNrLWxia0tJRUFMTFptajBhMS03VEczQ1IyX2c3QUJqWFp3V0dNWjFZVUxrcDR2VVVKS3V4UktmQg?oc=5",
+   "published": "2026-10-12T08:59:49+00:00",
+   "id": "1015d22d58be",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Iran war live: Saudi Arabia extends closure of Riyadh Airport",
    "source": "Arabian Business",
    "theme": "Iran / Israël",
@@ -5083,18 +5099,6 @@
    "cat": "géopolitique",
    "raison": "Élargissement potentiel des frappes régionales au Moyen-Orient, soutien modéré pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Nasdaq, S&P 500 Futures Mixed As Oil Surge, Trump Tariffs Cloud Market Outlook: Why INTC, TSLA, SPCX, ORCL, SLS Are In Focus",
-   "source": "Stocktwits",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdVAzN3MtUDg4Z0JxMzNBUFBrNTg0LWZ4MXVSbFZfS0VIYnlUUGlxUUhkNm1wWm94RnJpdVBLYU94UGNVOWE2NVh6aVpuN1hTOS16UHJSci1FVjhUdzJrYzgtTWZ4QzczRjRwRkMzUnNOcWNQUmRibm5GcnFJMHpJcThMT0VXRFlDeHJOY1BHdm51dXk0bmNjVzRtSHJ2NzhmMHMtcFJKejhlN191czBYcnhnUmE2elR0VERWMnVXUDUtRkZhc3F0VDFJTHI4T0UxQVNFZ3dpUTdNX0QwUU9qTW5Ya2IycTM4S0pnREgxU25WanhpWVhIWlBrTHVXMkxVUTlzeg?oc=5",
-   "published": "2026-10-11T20:44:18+00:00",
-   "id": "2310addf7377",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Risques stagflationnistes liés aux tarifs douaniers et au pétrole stimulant la couverture or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5356,7 +5360,8 @@
   "news|c0ccd31c1adb": 1791846096.5787044,
   "news|40f3e9fcfa6f": 1791846966.4856908,
   "news|78010262dd38": 1791848770.017201,
-  "news|197453f96c1f": 1791851480.715605
+  "news|197453f96c1f": 1791851480.715605,
+  "news|1015d22d58be": 1791854173.715902
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5395,6 +5400,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T01:16:13.715956+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>U.S. Treasury yields remain steady at elevated levels as the market awaits CPI data and remarks by Waller this week, betting that further rate hikes will be deferred until December.</b>\n📰 Moomoo · Lun 12/10 10:59\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUZxUTFhcDBwMko1blhtSWtFa1Z5elVaSEJfU1dON0V1eC03dzlVMTdVVlo4YTctRkgxcHZuSXo1RGFxcUVpemJERWFVdUt6clJobHloeUdsWWdIcmtpRk4zMmZxeklxeTVtanNrLWxia0tJRUFMTFptajBhMS03VEczQ1IyX2c3QUJqWFp3V0dNWjFZVUxrcDR2VVVKS3V4UktmQg?oc=5"
+  },
   {
    "ts": "2026-10-13T00:31:20.715657+00:00",
    "kind": "news",
@@ -5689,11 +5699,6 @@
    "ts": "2026-10-12T04:16:10.921250+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Bitget UEX Daily | Saudi Airport Attacks Escalate Middle East Risks; US Stocks Rebound; BTC Recovers Toward $84,000 (October 12, 2026)</b>\n📰 Bitget · Lun 12/10 04:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HcE9WMkREZEdVTTlmNVNiQk04T2hlbWd6MnN3Q1RzSUM4QWZFZ2VxcXJuRm12QXluQVhPWUJJcnIwME9nbURLUTYxZE9BNV92ZGNvaVdQY25keGZPN09uMDNod9IBY0FVX3lxTE5HcE9WMkREZEdVTTlmNVNiQk04T2hlbWd6MnN3Q1RzSUM4QWZFZ2VxcXJuRm12QXluQVhPWUJJcnIwME9nbURLUTYxZE9BNV92ZGNvaVdQY25keGZPN09uMDNodw?oc=5"
-  },
-  {
-   "ts": "2026-10-12T03:46:03.603207+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Latest Attack By Iran-Backed Houthi Rebels On Saudi Airport Kills 1, Injures 11</b>\n📰 Radio Free Europe/Radio Liberty · Dim 11/10 09:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
   }
  ],
  "daily_forecast": {
