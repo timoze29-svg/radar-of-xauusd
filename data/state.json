@@ -3028,7 +3028,13 @@
   "ecc77f2bab84",
   "a248f5921e86",
   "c91155cd54fa",
-  "3395257bd3ec"
+  "3395257bd3ec",
+  "8a9d908f51a3",
+  "583bcc33922e",
+  "22a5940db97f",
+  "3185c5c7239c",
+  "ba52c6ae66a4",
+  "d38d7b355a0f"
  ],
  "news": [
   {
@@ -4110,6 +4116,18 @@
    "cat": "géopolitique",
    "raison": "Fortification nucléaire iranienne et préparation au combat augmentant le risque d'escalade majeure.",
    "method": "IA"
+  },
+  {
+   "title": "Iran Fortifying Nuclear Sites and Rallying Its People for Return to Fighting",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5",
+   "published": "2026-10-13T03:00:00+00:00",
+   "id": "3185c5c7239c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes",
@@ -5418,18 +5436,6 @@
    "cat": "inflation",
    "raison": "Baisse du pétrole modérant les anticipations d'inflation malgré les tensions géopolitiques.",
    "method": "IA"
-  },
-  {
-   "title": "Four Corners: S2026 Strike on Iran: The Nuclear Question Four Corners",
-   "source": "ABC iview",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JUXZyaDl5T081NnZ0ZmFldmlVWG1fMjV4TThUblVMa2RCblA3alJaX0xhdWYwN3l0Rjdib2x5YUlaaUhPOGtOUVRlUWZsN1RCaEpma3lTNVJvLXR0VXBkT0VPSUJodEwtbndrSElYblZmVGJJTHBkVXFOWkpUTjQ?oc=5",
-   "published": "2026-10-12T09:36:35+00:00",
-   "id": "05fd9d2c5105",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Risque nucléaire iranien latent alimentant la prime de risque globale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5734,7 +5740,8 @@
   "news|0b7ad80cce9b": 1791914498.5684388,
   "pre1h|2026-10-13T16:00:00-04:00": 1791917173.1570947,
   "news|954860613e9e": 1791918121.533359,
-  "news|a248f5921e86": 1791918122.6621943
+  "news|a248f5921e86": 1791918122.6621943,
+  "news|3185c5c7239c": 1791918965.498999
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5789,6 +5796,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T19:16:05.499042+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Fortifying Nuclear Sites and Rallying Its People for Return to Fighting</b>\n📰 WSJ · Mar 13/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5"
+  },
   {
    "ts": "2026-10-13T19:02:02.662362+00:00",
    "kind": "news",
@@ -6083,11 +6095,6 @@
    "ts": "2026-10-12T16:46:07.687140+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.03%\nTaux 10 ans +0.0 pb\nOr +0.5$ (extrême +1.3$, range 3.9$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-12T16:01:51.322625+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 1 AN\nNiveau : 1.11623 → prix : <b>1.11595</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.05 | 60j 0.05"
   }
  ],
  "daily_forecast": {
