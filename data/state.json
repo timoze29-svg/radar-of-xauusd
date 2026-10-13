@@ -2683,7 +2683,9 @@
   "97ee88cf0e73",
   "cdfabd052bf8",
   "25c5a7df6bd6",
-  "a35dd506699a"
+  "a35dd506699a",
+  "faab98a8ef15",
+  "197453f96c1f"
  ],
  "news": [
   {
@@ -2711,6 +2713,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar",
+   "source": "FXStreet",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTlWOVowclZkQV9sLURZWEhVSHl3ZVRCWG45QVFMajJ1N1ZMbzRsbFpQX2w5cHBuN29GODVOWU5FbHYwajNseDkyMWZoVmxQM3ZwUE5RVTYxdnFkTU9KZzV6U0oxOUZQSTVWb2RoVzhnVmxpSEdkbEh3Y040MnkySTVTTVdtZ1lhUlpMT1RUQ2dRQmNzTm5rdjlDaUl1WVBrS0dxMDBSTmw?oc=5",
+   "published": "2026-10-12T23:22:04+00:00",
+   "id": "faab98a8ef15",
+   "impact": -3,
+   "cat": "or",
+   "raison": "baissier or (or)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Ukraine's Zelenskyy says it's \"increasingly evident that Russia is unwilling to accept an energy ceasefire\"",
    "source": "CBS News",
    "theme": "Russie/Ukraine",
@@ -2733,6 +2747,18 @@
    "cat": "géopolitique",
    "raison": "Espoir fragile de désescalade tempéré par le scepticisme ambiant, réduisant légèrement la prime de risque.",
    "method": "IA"
+  },
+  {
+   "title": "Catch up: Donald Trump defends his Russian diesel plan; another missile hits Riyadh airport",
+   "source": "The Economist",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWlPVnIxWWZ5SXJNYVBmMmMtNzduWm9rU3BSQ1lnbFdRN2xWT1ZKdnNWTnJYcGQzQ3ZoYlc4N1p6R09jb25Bdml2NGhfYmVSWUcyOWxSQldveXU3aWY0TmlCazdCZ0xCMW1DeVJtelFZS0xXc3lIT2ZHS2RxX0RkYVFta1VxVmliNkI1bmhIZkZZdGdiQlY0?oc=5",
+   "published": "2026-10-12T21:40:43+00:00",
+   "id": "197453f96c1f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Prabowo and El-Sisi Push for De-escalation of Middle Eastern Conflict",
@@ -5061,30 +5087,6 @@
    "cat": "géopolitique",
    "raison": "Craintes d'embrasement régional majeur au Moyen-Orient, forte recherche de protection.",
    "method": "IA"
-  },
-  {
-   "title": "What to Know About Trump’s Russia-Ukraine ‘Energy Ceasefire’ Claim",
-   "source": "Time Magazine",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTByWWM2cENyMzB1eFpob2d3NlEydG9BUWFrNUZsQ3VZQjAzbGE2dGxfSE1reExNMEhsOGE3UVJhWldSckRnZjV6RFNYcHJ6TDVTMmVFaWZpa29WMHVyZkpwMEs1cVJNekNQN29XUXQ5NG10dlFKTWJLV3B6WW1Sc3NZdDhsck5WS0oxYnV3Wnd4anNHWFN5S1pWdzZNQjNVbnRRTUdtNA?oc=5",
-   "published": "2026-10-11T19:45:35+00:00",
-   "id": "b6f5260782bf",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Flou persistant sur les intentions diplomatiques, impact immédiat très limité.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump bears down on Zelensky as Russia keeps up attacks on Ukraine",
-   "source": "Axios",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHZpRnVWRlc4eWdqQzRGNnFiY2xheFhYb3Z6QXFrWGFQNk9aUkpuemc5cmQxSnFYMi10YjJPRzQtWmtVRkZHNWJlM0s4S1VvdVFFT19vdndGYWYzUFdxOVRvQk1laV96VGFkN29oeHpNMWItUzR1MW43R1dVd3I0ZWFTd1hNRUxqUER0TmhvcENYNGs?oc=5",
-   "published": "2026-10-11T19:38:14+00:00",
-   "id": "99d7b1f537d8",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frictions diplomatiques alliées et combats continus maintenant une prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5345,7 +5347,8 @@
   "news|38315eaa6a27": 1791843360.8908958,
   "news|c0ccd31c1adb": 1791846096.5787044,
   "news|40f3e9fcfa6f": 1791846966.4856908,
-  "news|78010262dd38": 1791848770.017201
+  "news|78010262dd38": 1791848770.017201,
+  "news|197453f96c1f": 1791851480.715605
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5384,6 +5387,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T00:31:20.715657+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Catch up: Donald Trump defends his Russian diesel plan; another missile hits Riyadh airport</b>\n📰 The Economist · Lun 12/10 23:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWlPVnIxWWZ5SXJNYVBmMmMtNzduWm9rU3BSQ1lnbFdRN2xWT1ZKdnNWTnJYcGQzQ3ZoYlc4N1p6R09jb25Bdml2NGhfYmVSWUcyOWxSQldveXU3aWY0TmlCazdCZ0xCMW1DeVJtelFZS0xXc3lIT2ZHS2RxX0RkYVFta1VxVmliNkI1bmhIZkZZdGdiQlY0?oc=5"
+  },
   {
    "ts": "2026-10-12T23:46:10.017260+00:00",
    "kind": "news",
@@ -5678,11 +5686,6 @@
    "ts": "2026-10-12T03:46:03.603207+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Latest Attack By Iran-Backed Houthi Rebels On Saudi Airport Kills 1, Injures 11</b>\n📰 Radio Free Europe/Radio Liberty · Dim 11/10 09:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
-  },
-  {
-   "ts": "2026-10-12T02:16:10.989284+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says U.S. Won’t Resume Strikes on Iran Before Midterms</b>\n📰 WSJ · Lun 12/10 03:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDd3elZ0bVdvd2R0ZGd0bHRTR3owa2FXVjhOWUswX0RyR1lmUk8xaVhTUnNrRzgwS21RbGZ5NDRTV0dNZUNKN2RtSFpVUExqeVFkeUwwTXVuSU10SGhfYk95WF96Wmdpb1haWlkybTJEOGhhejEtMEFtNmlLb0luR0N3bnVSb0RkNU1RaUFaQm5mUmlPdk9PX1dIeHJzZFBKbFA1U2E3cmNvU3hwaXJXTjJxUV8?oc=5"
   }
  ],
  "daily_forecast": {
