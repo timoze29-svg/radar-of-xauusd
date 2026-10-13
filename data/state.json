@@ -859,15 +859,15 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1791862292.5321603,
+   "ts": 1791935185.877766,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 114,
       "high": [
        [
         0,
-        14.8
+        14.9
        ],
        [
         15,
@@ -875,17 +875,17 @@
        ],
        [
         22,
-        7.8
+        7.9
        ]
       ],
       "low": [
        [
         0,
-        18.3
+        18.4
        ],
        [
         16,
-        10.4
+        10.5
        ],
        [
         2,
@@ -894,11 +894,11 @@
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
        ],
        [
         15,
@@ -912,15 +912,15 @@
       "low": [
        [
         16,
-        11.5
+        11.4
        ],
        [
         0,
-        11.5
+        11.4
        ],
        [
         2,
-        8.2
+        8.1
        ]
       ]
      },
@@ -1021,13 +1021,13 @@
     "dollar": {
      "n_hours": 5946,
      "horizon_h": 2,
-     "base_gold_up": 53.6,
+     "base_gold_up": 53.5,
      "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 238,
-       "p_dxy": 52.9,
-       "p_gold": 55.9,
+       "n": 239,
+       "p_dxy": 52.7,
+       "p_gold": 55.6,
        "gold_avg": 1.3
       },
       "4": {
@@ -3114,9 +3114,28 @@
   "cd7ece9b1273",
   "f7eea189db2a",
   "d81852ef07f3",
-  "8e60752b9ffc"
+  "8e60752b9ffc",
+  "24391e979649",
+  "09b64ddeb671",
+  "49300a35ede2",
+  "8c415667234e",
+  "e7475e1856b9",
+  "9e54493ba928",
+  "0b9d3d47313b"
  ],
  "news": [
+  {
+   "title": "An Atlantic Canadian business was hit by U.S. tariffs. They responded by doing this",
+   "source": "CTV News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzZKZEI2SS1XdFQ0Yjk5cFY4Y2NZSmplOThJOEVWQ2F1MDUwYWVxajB1M0NjRUh0N1RpZmdsVVFBQVEwa2dCRncwNmdVczR2c05xRGU2T0FXUUV6OE43Z1RqenpPMEs1ZUZ5NEFmcFcxX1QxN2t1dVREbHR1amFoUGpZbnhOQVRjYkZNXzd0dU1kLXN2LUVZTXRMUE9lLTk2NjhoTV9qcjlsaTBwSzdEaUg3YmZKaVhoNy1mUEFsd24?oc=5",
+   "published": "2026-10-13T23:13:40+00:00",
+   "id": "24391e979649",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings",
    "source": "Reuters",
@@ -5503,18 +5522,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Crédibilité de la désescalade entamée, maintien d'une prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "British Pound erases early gains against US Dollar, US CPI in focus | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tMU9rNFh1aUlaN2dMeDhiQXlUQW9nSmJfXzN4cEVIMTltaGtuOXgwTEdRTXp1TmRsN3Rua1dUSFB3RXhQdWNjU1FaUk1MbzdlX3Aw?oc=5",
-   "published": "2026-10-12T12:01:50+00:00",
-   "id": "5d4ecc49559b",
-   "impact": -1,
-   "cat": "dollar",
-   "raison": "Léger raffermissement du dollar avant l'inflation américaine, pesant modérément sur l'or.",
    "method": "IA"
   }
  ],
