@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791908148.2622664,
+   "ts": 1791912653.754592,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -2986,7 +2986,11 @@
   "8af82f7d2a49",
   "8b1f917fb681",
   "4cd8621f0d64",
-  "84e56a4a1e46"
+  "84e56a4a1e46",
+  "9aba438664b2",
+  "10217de79f28",
+  "a969d670ef3d",
+  "a64f4c3ff5ca"
  ],
  "news": [
   {
@@ -5686,7 +5690,8 @@
   "news|251010324b1c": 1791909971.8987417,
   "pre15m|2026-10-13T13:00:00-04:00": 1791909973.1789632,
   "news|540e55a15dfd": 1791910908.3497286,
-  "brk|GOLD|pdh|dn|2026-10-13": 1791911766.402397
+  "brk|GOLD|pdh|dn|2026-10-13": 1791911766.402397,
+  "post|2026-10-13T13:00:00-04:00": 1791912676.937395
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5741,6 +5746,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T17:31:16.938747+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans -0.9 pb\nOr +3.8$ (extrême +5.5$, range 8.3$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
   {
    "ts": "2026-10-13T17:16:06.402427+00:00",
    "kind": "breakout",
@@ -6035,11 +6045,6 @@
    "ts": "2026-10-12T16:01:46.019595+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 102.54 → prix : <b>102.57</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.19 | 60j -0.5"
-  },
-  {
-   "ts": "2026-10-12T16:01:44.532172+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America</b>\n📰 Kitco · Lun 12/10 15:51\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5"
   }
  ],
  "daily_forecast": {
