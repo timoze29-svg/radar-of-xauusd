@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791912707.6520348,
+   "ts": 1791917153.0758367,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -5722,7 +5722,8 @@
   "brk|GOLD|pdh|dn|2026-10-13": 1791911766.402397,
   "post|2026-10-13T13:00:00-04:00": 1791912727.9729073,
   "news|45f9b5af9f4e": 1791913569.4347868,
-  "news|0b7ad80cce9b": 1791914498.5684388
+  "news|0b7ad80cce9b": 1791914498.5684388,
+  "pre1h|2026-10-13T16:00:00-04:00": 1791917173.1570947
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5777,6 +5778,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T18:46:13.157422+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 74 MIN — 22:00</b>\n\n🇺🇸 <b>FOMC Member Collins Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.36% aujourd'hui · taux 10 ans -2 pb · biais or -25 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 80$ → attends-toi à des mèches rapides."
+  },
   {
    "ts": "2026-10-13T18:01:38.568495+00:00",
    "kind": "news",
@@ -6071,11 +6077,6 @@
    "ts": "2026-10-12T16:01:49.231552+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 1.11623 → prix : <b>1.11595</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.05 | 60j 0.05"
-  },
-  {
-   "ts": "2026-10-12T16:01:48.140674+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MAJEURE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut sur 1 AN\nNiveau : 102.54 → prix : <b>102.57</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.19 | 60j -0.5"
   }
  ],
  "daily_forecast": {
