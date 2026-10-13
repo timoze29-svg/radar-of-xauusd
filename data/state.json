@@ -2981,7 +2981,12 @@
   "c98235dbc208",
   "6948668578a6",
   "96c8c42e53c7",
-  "3d4bf6cb5758"
+  "3d4bf6cb5758",
+  "1c6a569ccb45",
+  "8af82f7d2a49",
+  "8b1f917fb681",
+  "4cd8621f0d64",
+  "84e56a4a1e46"
  ],
  "news": [
   {
@@ -3030,6 +3035,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Paraguay and Belize condemn China sanctions",
+   "source": "Taipei Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwZGhEaTR3aktuaGtMcnRWN1R0bVZQS2lmejh0NVlBOGdtRE5xZDJNclVXb2tJNUJDWTVKQ1NldnNYUk42LUFfS1o2Uzdrc0ZKM2QzNldWY1hMdHdmT0o1NjMxZmRVbzJYRjZVUFF2VGh2ZDRobHBXaw?oc=5",
+   "published": "2026-10-13T16:00:00+00:00",
+   "id": "1c6a569ccb45",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5371,18 +5388,6 @@
    "cat": "banques centrales",
    "raison": "Achats structurels des banques centrales renforçant la demande institutionnelle sous-jacente d'or.",
    "method": "IA"
-  },
-  {
-   "title": "Saudi Arabia vows retaliation after deadly Houthi strike on Riyadh airport",
-   "source": "www.israelhayom.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYkdaakFBcVpQQkFYc3c3LW9iZVNGY2pBWXNQTGp6eFBXV2pjWTF6Z1JpT0tjVE91TGhtYnFVVmJ4N182YndwTGVIczQ0WFdLTDY1ZTBOWk5pNE1FZEp5V3duZ1hFMTNGMFk3Mnd2VGdsOXFJdWR1WHBQT1dFOXZZTEt0WHRDTVRq?oc=5",
-   "published": "2026-10-12T08:04:04+00:00",
-   "id": "e7bbaa514e12",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Frappe sur Riyad et promesse de représailles renforçant la prime de risque sécuritaire.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5680,7 +5685,8 @@
   "news|dd26b5e9773d": 1791909970.9857707,
   "news|251010324b1c": 1791909971.8987417,
   "pre15m|2026-10-13T13:00:00-04:00": 1791909973.1789632,
-  "news|540e55a15dfd": 1791910908.3497286
+  "news|540e55a15dfd": 1791910908.3497286,
+  "brk|GOLD|pdh|dn|2026-10-13": 1791911766.402397
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5735,6 +5741,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T17:16:06.402427+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 178.10 → prix : <b>4 176.30</b>\nATR jour : 80.2$ | Pivot hebdo : 4180.4\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>44%</b> des cas (extension médiane 11$, 681 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
   {
    "ts": "2026-10-13T17:01:48.349785+00:00",
    "kind": "news",
@@ -6029,11 +6040,6 @@
    "ts": "2026-10-12T16:01:44.532172+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America</b>\n📰 Kitco · Lun 12/10 15:51\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5"
-  },
-  {
-   "ts": "2026-10-12T16:01:43.411427+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>From Clockmakers to Pet Food Plants: Factory Workers Blame Layoffs on Tariff Spikes</b>\n📰 Manufacturing.net · Lun 12/10 17:54\n🧠 haussier or (commerce, emploi) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWlXejRvbHpydkwzM1Ewc2IwMVBFTC1Nc1lPRl9zaVhQYnFObWZRbmcxX1dsRll0OWtoSnluaGVZNUNRWldRbVQ5TkJBYUIwQVpENUF6UDF6UHllalFfTExweml5QTRYREE4bG9vcFdYaHVYR2lWOVpnWFZ1eG1icFgtWnEzN2J3WnBrT25zams2d0xteWJJWWJTVE9ydGR0YVAxbklCMFlFVktxX3ZGSmZXUDlkQzJnZzQ0bnJwTFRrMzJIcGJJSE80bUctZ1VuRVFZ?oc=5"
   }
  ],
  "daily_forecast": {
