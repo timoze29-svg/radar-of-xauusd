@@ -2941,7 +2941,12 @@
   "94a0c4e0b8ae",
   "08373505e821",
   "5881b22e6c02",
-  "e5bc8419d835"
+  "e5bc8419d835",
+  "a3c641dd8a67",
+  "160f68c4e027",
+  "fb54bf9b19af",
+  "3d70a3c5e929",
+  "cdf72df90980"
  ],
  "news": [
   {
@@ -2954,6 +2959,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Factory workers blame Trump’s tariffs for lost jobs",
+   "source": "Los Angeles Times",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWndSeGVZOWNnSVNjRk91UGNSWXRGYzRqZlRILVBaRkhhdXJBYUVzT01HTGtCZWVQWjdJMEtDMVFYa2p6QkdFWjI4dWdiTEI4eVNzQmFhOFp2c1pMSGlsRWpXa2JLZzlZbHVsUzRpeG1DWHpQNUZNdjVIeTlidFJJQlJFTTZaTHEyalp6S29CanhKdnlhRElnaWw2bVNuVXlfaGc?oc=5",
+   "published": "2026-10-13T14:03:00+00:00",
+   "id": "fb54bf9b19af",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -3024,6 +3041,18 @@
    "published": "2026-10-13T12:53:00+00:00",
    "id": "25032d375249",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Report: Hezbollah preparing for war with Israel, upgrading explosive drones",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdXA5WmFoRnRPcUx2UU9sU0JOcFlGa3R1Y0t6Mk5fV3lnbGVDampPY0c3ZVVuSENPUDhpVWd6ekZVZGdPRTRvNnprU3lucHRtWFlOUnI0TEx3eDlv?oc=5",
+   "published": "2026-10-13T12:35:57+00:00",
+   "id": "160f68c4e027",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5319,30 +5348,6 @@
    "cat": "géopolitique",
    "raison": "Sanctions ciblées récurrentes de Pékin, impact négligeable sur les flux financiers.",
    "method": "IA"
-  },
-  {
-   "title": "Yields on key US Treasury bonds reached new highs, but for the 10-year demand was especially strong",
-   "source": "MercoPress",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWTRPOXZSMEh4MjlNZXRCSVVCRThEQ0liQUpvWVdfUDdWMDhhcXVSU2Zfb1ViVXF0QTlLQ1BLb0RhaUFnWU9SeGxXVTJLLWtjczBSZ1E5NVJoQUlOZ2swejVLYTNkNzlWVm5JVGhZNmJFZ0FlclR1VVQydi1acENNUVFvUkVQTjh5SWo2RkNHMk5Ga2NZczNIV3BrUWtaa2lSTWpXVHhQTzB2YUVUbTJZYXNyWHo5LUtocTdRSDJlM2JLYUhPaDVld21PdEozQjFU?oc=5",
-   "published": "2026-10-12T07:06:00+00:00",
-   "id": "d826f5d92cf8",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "Rendements obligataires américains à des sommets, augmentant le coût d'opportunité de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "The commodities feed: Oil lower despite Middle East escalation",
-   "source": "FXStreet",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHpzSGxOdlJLVURNY3N6S21iSHQ0aFVaTnhKY2Ixcmd2MWdBdmh0YktzZDdfc1o2R2JYQVM1SWVGemItYVdKUktpRldJYmZseFVFUEZyWk1VakVzb2pPUDl4OTlJaUxfMjIxQVpDT0tmN3I1alhrLXZqanVkdmV2U1I4LWotM3BmOFZ1THFCQVo5U0NsN3FoQ3NnMldpa1ItRTZuTU52aWxpZkxG?oc=5",
-   "published": "2026-10-12T06:40:10+00:00",
-   "id": "b40e0f38f1a6",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Le repli pétrolier atténue les craintes inflationnistes malgré le contexte géopolitique tendu.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5634,7 +5639,9 @@
   "news|c39c3f6bc2eb": 1791897383.9116952,
   "news|9bcbe4d29cbb": 1791898285.4451973,
   "news|9e534afb351d": 1791898286.3920743,
-  "news|ecda06fabdd2": 1791903705.0551088
+  "news|ecda06fabdd2": 1791903705.0551088,
+  "news|160f68c4e027": 1791906377.7458518,
+  "pre1h|2026-10-13T13:00:00-04:00": 1791906378.996164
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5689,6 +5696,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-13T15:46:18.996497+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 74 MIN — 19:00</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.30% aujourd'hui · taux 10 ans -3 pb · biais or -26 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 80$ → attends-toi à des mèches rapides."
+  },
+  {
+   "ts": "2026-10-13T15:46:17.745906+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Hezbollah preparing for war with Israel, upgrading explosive drones</b>\n📰 The Jerusalem Post · Mar 13/10 14:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdXA5WmFoRnRPcUx2UU9sU0JOcFlGa3R1Y0t6Mk5fV3lnbGVDampPY0c3ZVVuSENPUDhpVWd6ekZVZGdPRTRvNnprU3lucHRtWFlOUnI0TEx3eDlv?oc=5"
+  },
   {
    "ts": "2026-10-13T15:01:45.055175+00:00",
    "kind": "news",
@@ -5978,16 +5995,6 @@
    "ts": "2026-10-12T14:46:07.501491+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says world’s most powerful military may join Saudi Arabia’s war against Iran-backed Houthis as Egypt condemns airport drone strike</b>\n📰 Business Insider Africa · Lun 12/10 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFfU1VVZ2R1WHRjRGZNUUtiRWZNX2tuTG5zSVh5ODZXY01VOUY3cUZsNy0tQU5TU1JKUlJNZE1GLWNENmFZWjlmT29DN1NSaTdzOXVRRXkxamd6dVdoa1dGbG9YZ3Z6YkdYcnFVUVczWlU5NVRzcktNZ1BTMElhM2d2V3A4akdFNWlRMFdPUWptR2Z2Z0dUblNJcjhfX0FQX3FISUtqNXhoTDE0WXAwX2VOeE1DeXRuRHkxTWRiUXZjcklPR01hMm1pN2FONTcwRXdJ?oc=5"
-  },
-  {
-   "ts": "2026-10-12T14:31:25.423685+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighs joining fight with Saudi Arabia amid Iran attacks as he continues his campaign blitz</b>\n📰 CBS News · Lun 12/10 13:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVJiVnRqUVJhNHVyRHdTZEE0U3preWF1Wk1kZDFkU1BNSkxxcFNrQjV4eGhWdXA4enNjdVNGdDFNVU9uQ3N3QkZVYzk4Wk9JWHFXZTdIWEJmQlRiSEk5OG4zRUxQeEhQbDJ3UFhZaGoyN0NpSEMwYXowdkVXampXZ0lWZzRSRzM3RlhMVGllQUlQS3VNbHh4bG5OTlFxaXk1RGdJOVpkSjRRTXZXNmxLR2VFQ0tDRlhKSWE2S2lrcG1ad2tUWmh4YU80blpaMVE?oc=5"
-  },
-  {
-   "ts": "2026-10-12T14:31:24.437829+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran dismisses US reply to Hormuz proposal, Saudi airports hit</b>\n📰 The New Arab · Lun 12/10 14:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1FfNnVFSms5dnhFa0sxdlV5OS02OVZvX3VrTmozRjJPN01mUGJQdHBMLU5LVldVZU9aTTh4VThlcnZiQXJ5cW13VjN6dWNxOG8yNjJDVy1wNHNkQWJTUGZ0ckRyYThpaHh4SVhseURGY2J5UDZ6eTU4dzVrYXBGY05KMTV3NEJxc28wUmpiU0g?oc=5"
   }
  ],
  "daily_forecast": {
