@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1791909949.1808336,
+   "ts": 1791932471.3776252,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.87,
-     "date": "2026-10-08",
+     "last": 2.91,
+     "date": "2026-10-09",
      "chg5": -0.01,
-     "chg20": 0.32,
+     "chg20": 0.31,
      "hist": [
-      1.91,
       1.92,
       1.92,
       1.92,
@@ -129,18 +128,18 @@
       2.95,
       2.91,
       2.92,
-      2.87
+      2.87,
+      2.91
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
      "last": 2.33,
-     "date": "2026-10-09",
+     "date": "2026-10-13",
      "chg5": -0.03,
-     "chg20": -0.03,
+     "chg20": -0.04,
      "hist": [
-      2.38,
       2.38,
       2.42,
       2.42,
@@ -259,18 +258,18 @@
       2.36,
       2.36,
       2.35,
+      2.33,
       2.33
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.75,
-     "date": "2026-10-08",
+     "last": 4.8,
+     "date": "2026-10-09",
      "chg5": -0.03,
-     "chg20": 0.19,
+     "chg20": 0.17,
      "hist": [
-      3.72,
       3.78,
       3.79,
       3.83,
@@ -389,21 +388,18 @@
       4.84,
       4.79,
       4.77,
-      4.75
+      4.75,
+      4.8
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-08",
+     "date": "2026-10-12",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
-      3.62,
-      3.62,
-      3.62,
-      3.62,
       3.63,
       3.63,
       3.63,
@@ -498,6 +494,10 @@
       3.63,
       3.63,
       3.63,
+      3.88,
+      3.88,
+      3.88,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -3103,7 +3103,10 @@
   "fb0d4ea3d60e",
   "f15184043cf5",
   "d654d85cf084",
-  "71daea9453c6"
+  "71daea9453c6",
+  "88be2e052133",
+  "785ddce24fab",
+  "9a4f9ba5cee8"
  ],
  "news": [
   {
@@ -3212,6 +3215,18 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Pression sur l'Ukraine pouvant accélérer des négociations, allégeant la prime de risque.",
+   "method": "IA"
+  },
+  {
+   "title": "COMMENTARY: Here’s How Canadian Policymakers Should Respond to Trump’s Tariffs - Fraser Institute",
+   "source": "EnergyNow",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "published": "2026-10-13T20:49:08+00:00",
+   "id": "88be2e052133",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "Commentaire d'opinion sur les tarifs de Trump, impact direct quasi nul sur le marché.",
    "method": "IA"
   },
   {
@@ -3596,6 +3611,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Maintien de l'incertitude sécuritaire en Ukraine, soutien marginal à l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Dollar Pressured by Lower Crude Prices",
+   "source": "TradingView",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlM2MDdIQmQwczZmWlA0QU9NV0ZOUVZmdkVkWFZGdHJUa0Y2SzdfcnhJckdWQUlGTkJtaFJzMUplOUhJMmFwSVBQRm12LUs3SjNVYnJYSlNXc3BfR2cxV2RPYThRSkl2c1NsTC1ZdFY3azF3bE9ZUWlMVmN1SUFadGJNWE1xazNnRVBuRkkwSlh1VHAyWWd3eXpaYTZuZw?oc=5",
+   "published": "2026-10-13T14:34:41+00:00",
+   "id": "9a4f9ba5cee8",
+   "impact": 2,
+   "cat": "dollar",
+   "raison": "Le repli du dollar américain soutient mécaniquement le cours de l'or libellé en USD.",
    "method": "IA"
   },
   {
@@ -5480,30 +5507,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Menace d'intervention militaire directe des États-Unis stimulant fortement l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump says world’s most powerful military may join Saudi Arabia’s war against Iran-backed Houthis as Egypt condemns airport drone strike",
-   "source": "Business Insider Africa",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFfU1VVZ2R1WHRjRGZNUUtiRWZNX2tuTG5zSVh5ODZXY01VOUY3cUZsNy0tQU5TU1JKUlJNZE1GLWNENmFZWjlmT29DN1NSaTdzOXVRRXkxamd6dVdoa1dGbG9YZ3Z6YkdYcnFVUVczWlU5NVRzcktNZ1BTMElhM2d2V3A4akdFNWlRMFdPUWptR2Z2Z0dUblNJcjhfX0FQX3FISUtqNXhoTDE0WXAwX2VOeE1DeXRuRHkxTWRiUXZjcklPR01hMm1pN2FONTcwRXdJ?oc=5",
-   "published": "2026-10-12T12:00:00+00:00",
-   "id": "7f7c54dd61a8",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque d'intervention directe des États-Unis dopant la demande d'actifs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Zelenskyy urges U.S. to pressure Moscow to respect 'energy ceasefire' as attacks continue",
-   "source": "CBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbEszUzdsTG5OaTV2VHh1Q3NvSThiRHZSVFZ1c214QWxLZU1tUmdmamxvY09STTBkaEdLNUVabjZuMGJxcjRiUUp4ejhZTTlkaUhqejNVRHZGRllhSThQOEx0ODdGbVJSNzlTbFhhTkZkTE9jNHpBbUxiUk9FMTJmOE5mOWhtajlYQ1gw?oc=5",
-   "published": "2026-10-12T11:59:36+00:00",
-   "id": "ae43de3ccef4",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Pression diplomatique sans impact immédiat direct sur les marchés financiers.",
    "method": "IA"
   }
  ],
