@@ -3673,7 +3673,10 @@
   "342449d2f899",
   "f1bf03ca9078",
   "83996bd4a25d",
-  "faae2721f46f"
+  "faae2721f46f",
+  "4df451414dc9",
+  "47a0beebc5a9",
+  "84abad1fac29"
  ],
  "news": [
   {
@@ -3926,6 +3929,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold price slumps as faster US inflation stokes Fed rate hike wagers",
+   "source": "Mining.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNckg1NVM4ZE9wSkdVUGpUMm5QanlXQWFTU2s5eWozOWRHekFTTGJxNVRGSndNT3ZSb2VEb2NhY0JCT0Q1S1lnLWFDN0Q5TTdrTllsZ0ZNTzZUYktlODU4cF9aa0tmUEY2elJxSkN2X2hvaUlZREdsVUhLOGdTWU5fbmhOb1NENGVjdlB1Z1Y4VVh1cXhL?oc=5",
+   "published": "2026-10-14T16:49:49+00:00",
+   "id": "4df451414dc9",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6063,18 +6078,6 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes en Ukraine soutenant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "The Growing African Front of Russia’s War in Ukraine",
-   "source": "Center for European Policy Analysis (CEPA)",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjRmekNYM0dUVDhFOVIxZU1TUWw4NWx5cVduY3EtYXpRa2R1VGNVaVhNb0ZYNEEwenZNMjEzQlpNcUw4c3NJZnNnR3RacHY0ZDgzc04zQVJaTk0wRjNJVVRnTjFRV3hzVktxY3NoN2I4TWI5eWVCb19ndFh2dTNzNHhZTQ?oc=5",
-   "published": "2026-10-13T18:03:12+00:00",
-   "id": "723dd452dc8d",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Internationalisation du conflit russo-ukrainien, mais impact direct limité sur les marchés.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6491,7 +6494,8 @@
   "news|6fe502eac913": 1792009897.4784229,
   "news|0f9171684a27": 1792009898.515339,
   "news|7ddc5596d4f4": 1792010767.4557579,
-  "news|d8abaabba668": 1792015297.097899
+  "news|d8abaabba668": 1792015297.097899,
+  "news|4df451414dc9": 1792018900.2141252
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6562,6 +6566,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T23:01:40.214184+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price slumps as faster US inflation stokes Fed rate hike wagers</b>\n📰 Mining.com · Mer 14/10 18:49\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNckg1NVM4ZE9wSkdVUGpUMm5QanlXQWFTU2s5eWozOWRHekFTTGJxNVRGSndNT3ZSb2VEb2NhY0JCT0Q1S1lnLWFDN0Q5TTdrTllsZ0ZNTzZUYktlODU4cF9aa0tmUEY2elJxSkN2X2hvaUlZREdsVUhLOGdTWU5fbmhOb1NENGVjdlB1Z1Y4VVh1cXhL?oc=5"
+  },
   {
    "ts": "2026-10-14T22:01:37.097947+00:00",
    "kind": "news",
@@ -6856,11 +6865,6 @@
    "ts": "2026-10-14T12:01:45.994077+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4160.20</b>  (-29.4$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-15) → maintenant -17 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 36$ sur ~79$ attendus (45%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core CPI m/m (prév. 0.2%)\n    🔺 Au-dessus de 0.2% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.2% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Core CPI y/y (prév. 2.5%)\n🔥 <b>14:30</b> 🇺🇸 CPI m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 CPI y/y (prév. 3.6%)\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>21:00</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Trump Says the Market Is Going to \"Go Through the Roof.\" His Iran Escalation and New Tariffs Suggest Otherwise.\n🟢 (+10) Crude oil extends gains as Houthi attacks on Saudi Arabia escalate, raising supply disruption risks\n🟢 (+10) Stelco blames 50% Trump tariffs for Hamilton layoffs as Ottawa mulls lawsuit\n🟢 (+8) Report: Houthis Aim to Build Advanced Iran-Designed Missiles Able to Hit Israel"
-  },
-  {
-   "ts": "2026-10-14T11:31:35.807553+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudis launch new strikes on Houthis; Iran-backed group threatens U.S. if it joins in</b>\n📰 CBS News · Mer 14/10 03:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJxRmNFWVFOVlEtUl9td2J5VXowU3BKQTJJd28ybW9EZ1VaRmlLZTgtbFNLTEVldC1RQTE0NDIwMU4teThZUmF1WkpsSDNwcjh1WG5vYWQxNGtMQmdydUpPSFdYeHpUb1pXVEFBRTQweFdxbkpEZlBQb2Vza2EwXw?oc=5"
   }
  ],
  "daily_forecast": {
