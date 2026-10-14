@@ -3137,7 +3137,12 @@
   "1b732822a41d",
   "c07340ffc2d4",
   "783ad97e6022",
-  "9e2b8f6a7e04"
+  "9e2b8f6a7e04",
+  "532980af9be2",
+  "8ffd6b175563",
+  "6b620e540f83",
+  "6122edfb42d6",
+  "11f4331f48d6"
  ],
  "news": [
   {
@@ -3232,6 +3237,18 @@
    "published": "2026-10-13T22:15:14+00:00",
    "id": "40948f2ed351",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ycFNwbmdIcXFZUnhfUTFJZDd2WlI4WlZ5b2dJLUo4TGgyYnJYbzNaZmx4RUZMRlBDTmVjQUZQSEJoUDZ0SVAzQm9hSU5iRnlTUklQbmxSdzk1bkk?oc=5",
+   "published": "2026-10-13T22:14:33+00:00",
+   "id": "11f4331f48d6",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -3364,6 +3381,18 @@
    "published": "2026-10-13T20:36:13+00:00",
    "id": "57c83592498d",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump: attacking Iran’s leadership may have been a mistake",
+   "source": "Around Prague",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVl3STdZN3Jxa3dRQWRUbTR5OXRpLV9OSlBMZmtlWi1Jajc2RnMyZnFiSEhHZHpBdXVOVGprSmxHWDhmVG5kYmRCMGtLZks5MGVTZ0tQOWkzcXNRZ1I1MDhScXltREVDSkZWbnFRaGNQcWJEa19IOGdJc3M5VDJhYjdXNWdDZHZGbFZMRmtkaDd4UVRtYmNmai1SRWNSX0ROLVVvYw?oc=5",
+   "published": "2026-10-13T20:34:11+00:00",
+   "id": "532980af9be2",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5515,30 +5544,6 @@
    "cat": "géopolitique",
    "raison": "Attaque de pétrolier et échec des négociations réactivant le risque systémique maritime.",
    "method": "IA"
-  },
-  {
-   "title": "Pentagon Finally Counts an Iran War Death — Six Months Late",
-   "source": "The Intercept",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWpCZFpOdW10dlZjcXVCb0pheEtGQks0UV9CRVowNExQLTVDMm9GeklxeFVNSjJ0WTlUYWRreV9sSk9TVFpjVm5BZVJtRG56eDcxSl9BaGpJcy1LU3BJNHFObUpnTW5ScThIN2dhckNqZXVXd0w4S1RPdmFMLXRLR2FB?oc=5",
-   "published": "2026-10-12T13:02:11+00:00",
-   "id": "aa82bb4e85a5",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rappel des pertes militaires face à l'Iran, impact de marché minime.",
-   "method": "IA"
-  },
-  {
-   "title": "Taiwan condemns China over sanctions on ministers of diplomatic allies",
-   "source": "Focus Taiwan",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUdjYyeG1pSDVCM25kaHFFazBPRWVvTWFUWV9LWHJNVEhpLUpLdEVYbmdsQjNHQUViSDhBVkhacHZreG1ESlFsZ2JfREZ0a0s3UDUxaHdNaw?oc=5",
-   "published": "2026-10-12T12:57:00+00:00",
-   "id": "317bac4798fa",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frictions diplomatiques récurrentes entre Pékin et Taïwan, prime de risque limitée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5860,7 +5865,8 @@
   "news|f15184043cf5": 1791931566.4442961,
   "news|70179d7ac64d": 1791933368.946965,
   "news|65e8fa5cd740": 1791936098.0575304,
-  "news|2640ec7591b8": 1791936972.3566887
+  "news|2640ec7591b8": 1791936972.3566887,
+  "news|532980af9be2": 1791938765.9600627
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5915,6 +5921,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T00:46:05.960120+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump: attacking Iran’s leadership may have been a mistake</b>\n📰 Around Prague · Mar 13/10 22:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVl3STdZN3Jxa3dRQWRUbTR5OXRpLV9OSlBMZmtlWi1Jajc2RnMyZnFiSEhHZHpBdXVOVGprSmxHWDhmVG5kYmRCMGtLZks5MGVTZ0tQOWkzcXNRZ1I1MDhScXltREVDSkZWbnFRaGNQcWJEa19IOGdJc3M5VDJhYjdXNWdDZHZGbFZMRmtkaDd4UVRtYmNmai1SRWNSX0ROLVVvYw?oc=5"
+  },
   {
    "ts": "2026-10-14T00:16:12.356740+00:00",
    "kind": "news",
@@ -6209,11 +6220,6 @@
    "ts": "2026-10-13T02:01:31.917204+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>United States Dollar Index eases as hawkish Fed, Iran risks support</b>\n📰 FXStreet · Mar 13/10 03:56\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm9PNTZXbFJlVElqbE9TSXFWUmdLRFRXUnZ6U2JKanh0bDhQc0pyekxYNkFzcEQxNWZmZ2xkejhuZHZFTmZfVzZpOGJReTJ6TC1Qb0VocXFFam0wZkFlQjhUQW0ybVA5TVVkYTU5UFFPY0oyZlE4b2hOQXQxU2hQN1FUdElsOGwtT0wxUk5LM2t3NXdza3ItcUZmb2xrNTNDLXQzaGJMZEwyV01vVlMtNkV3?oc=5"
-  },
-  {
-   "ts": "2026-10-13T01:16:13.715956+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>U.S. Treasury yields remain steady at elevated levels as the market awaits CPI data and remarks by Waller this week, betting that further rate hikes will be deferred until December.</b>\n📰 Moomoo · Lun 12/10 10:59\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUZxUTFhcDBwMko1blhtSWtFa1Z5elVaSEJfU1dON0V1eC03dzlVMTdVVlo4YTctRkgxcHZuSXo1RGFxcUVpemJERWFVdUt6clJobHloeUdsWWdIcmtpRk4zMmZxeklxeTVtanNrLWxia0tJRUFMTFptajBhMS03VEczQ1IyX2c3QUJqWFp3V0dNWjFZVUxrcDR2VVVKS3V4UktmQg?oc=5"
   }
  ],
  "daily_forecast": {
