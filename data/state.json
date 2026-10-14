@@ -3626,7 +3626,11 @@
   "163ed966681b",
   "9e11b741241e",
   "f2efd48482f1",
-  "771d25bd780e"
+  "771d25bd780e",
+  "d48336f39a50",
+  "68f893b99dcc",
+  "ed344c9f8a1d",
+  "4e2d5ff4ca4e"
  ],
  "news": [
   {
@@ -3639,6 +3643,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Doug Ford warns Trump's tariff war with Canada is here to stay",
+   "source": "Yahoo",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUNlZFhDSjBJTnlNX0xteFI1RmE2UGxXa0NjRGY3YWtQMlpSRjBnRi1TNjlBM0JFdjVqMVlXak80bXplcjBtUGV0NTc2Qm9jaC1WX3hjeVFSZG4wNW9oRndtSzJ5WGszYkFXVklNZzI5dG5WWlVYZzhVaUtRZVJxbU83M0ZsSmZnUWRqN1ptcHZoN3c?oc=5",
+   "published": "2026-10-14T18:37:22+00:00",
+   "id": "d48336f39a50",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6016,18 +6032,6 @@
    "cat": "géopolitique",
    "raison": "Frictions diplomatiques et frappes sur Kiev maintenant un climat géopolitique tendu.",
    "method": "IA"
-  },
-  {
-   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline",
-   "source": "EnergyNow.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
-   "published": "2026-10-13T16:31:12+00:00",
-   "id": "3d343bc897da",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Incertitude commerciale accrue sous la pression des ultimatums tarifaires de Trump.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6435,7 +6439,8 @@
   "news|4aab3b8d26cd": 1792005365.6055465,
   "news|7a57f9c48cd4": 1792005366.4975772,
   "news|605c600fa90d": 1792005367.4546106,
-  "post|2026-10-14T15:00:00-04:00": 1792006283.6684763
+  "post|2026-10-14T15:00:00-04:00": 1792006283.6684763,
+  "news|d48336f39a50": 1792007174.5859141
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6506,6 +6511,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T19:46:14.585971+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Doug Ford warns Trump's tariff war with Canada is here to stay</b>\n📰 Yahoo · Mer 14/10 20:37\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUNlZFhDSjBJTnlNX0xteFI1RmE2UGxXa0NjRGY3YWtQMlpSRjBnRi1TNjlBM0JFdjVqMVlXak80bXplcjBtUGV0NTc2Qm9jaC1WX3hjeVFSZG4wNW9oRndtSzJ5WGszYkFXVklNZzI5dG5WWlVYZzhVaUtRZVJxbU83M0ZsSmZnUWRqN1ptcHZoN3c?oc=5"
+  },
   {
    "ts": "2026-10-14T19:31:23.669139+00:00",
    "kind": "post_event",
@@ -6800,11 +6810,6 @@
    "ts": "2026-10-14T10:16:06.165126+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.0 pb\nOr -1.3$ (extrême -1.8$, range 3.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-14T10:16:04.990113+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>TAG: U.S. Iran war</b>\n📰 Kitco · Mer 14/10 00:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubWNtZlFlUGZraDd5S1RyYWdhRXZNOUFTMW5LZFoxdXBKZHpiNS04R1NEam80NVF5WlpINm1DZUp3YzVvd195Ql9KRi1Pc3k5R1JEOFFPNA?oc=5"
   }
  ],
  "daily_forecast": {
