@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792003566.8731651,
+   "ts": 1792008079.2709684,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -870,7 +870,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1791935185.877766,
+   "ts": 1792008108.3014412,
    "data": {
     "gold_hours": {
      "0": {
@@ -905,11 +905,11 @@
       ]
      },
      "1": {
-      "n": 123,
+      "n": 122,
       "high": [
        [
         22,
-        12.2
+        12.3
        ],
        [
         15,
@@ -923,28 +923,28 @@
       "low": [
        [
         16,
-        11.4
+        11.5
        ],
        [
         0,
-        11.4
+        11.5
        ],
        [
         2,
-        8.1
+        8.2
        ]
       ]
      },
      "2": {
-      "n": 119,
+      "n": 120,
       "high": [
        [
         2,
-        11.8
+        11.7
        ],
        [
         16,
-        11.8
+        11.7
        ],
        [
         17,
@@ -954,15 +954,15 @@
       "low": [
        [
         0,
-        13.4
+        13.3
        ],
        [
         14,
-        8.4
+        8.3
        ],
        [
         3,
-        7.6
+        7.5
        ]
       ]
      },
@@ -1030,16 +1030,16 @@
      }
     },
     "dollar": {
-     "n_hours": 5946,
+     "n_hours": 5945,
      "horizon_h": 2,
-     "base_gold_up": 53.5,
+     "base_gold_up": 53.6,
      "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 239,
-       "p_dxy": 52.7,
-       "p_gold": 55.6,
-       "gold_avg": 1.3
+       "n": 240,
+       "p_dxy": 52.9,
+       "p_gold": 55.8,
+       "gold_avg": 1.4
       },
       "4": {
        "n": 53,
@@ -1051,14 +1051,14 @@
      "up": {
       "3": {
        "n": 266,
-       "p_dxy": 55.6,
+       "p_dxy": 56.0,
        "p_gold": 48.9,
-       "gold_avg": -0.9
+       "gold_avg": -0.8
       },
       "4": {
-       "n": 72,
-       "p_dxy": 58.3,
-       "p_gold": 50.0,
+       "n": 73,
+       "p_dxy": 58.9,
+       "p_gold": 50.7,
        "gold_avg": -0.1
       }
      }
@@ -3630,7 +3630,10 @@
   "d48336f39a50",
   "68f893b99dcc",
   "ed344c9f8a1d",
-  "4e2d5ff4ca4e"
+  "4e2d5ff4ca4e",
+  "6c7ca888fe41",
+  "06aa1cf875df",
+  "227358785f5e"
  ],
  "news": [
   {
@@ -3737,6 +3740,18 @@
    "published": "2026-10-14T17:41:02+00:00",
    "id": "163ed966681b",
    "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Admin Killed Insider Trading Referral Probing Iran War-Related Oil Sales",
+   "source": "Truthout",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHk0YVViYW5Zd3dtcjJGRDF4a0hyQ096YV9vRl9WUDVPbF9BZU5fa2NTcjNEM0xxeFA1bTlHTGVCQndDSGNRZG5KLUpXOGJPZlg4ZkpDN0pFSUQ4NVIwMnhyOXN0Z2ZlX1d2MkVoeWRYX050ZFlCVmc5U1RiM1BhREk4NXdkWWdJdV81blFEcTdUdWs2cFRtX2N0WG45d0ZkZXBzVm9IU3QyWWhBRkE?oc=5",
+   "published": "2026-10-14T17:38:59+00:00",
+   "id": "06aa1cf875df",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6020,18 +6035,6 @@
    "cat": "géopolitique",
    "raison": "Escalade au Moyen-Orient impliquant l'Arabie Saoudite et l'Iran, haussière pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv",
-   "source": "AP News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkZsTE1wTW5KVUZmUUJ3MFhPTEdiajVmTWR3UUt6eU9uSWpHWlNmdDVpTUhSa1BnQTVDaW9GUXJoOXp2N2VmVGJ4cE5MNU1KazJCWVZPVGlIMGRnd2JTbndndmZGZEd0d3Zyc243ZnJ2RFVxMm9GNUItaXNteWRxUl9fUnlPc2wzVE1URzVDQXBhSmNiajN0MkdON3BrRGRjRllIUVptV0dzdDhYLTRlc3N6bw?oc=5",
-   "published": "2026-10-13T16:33:00+00:00",
-   "id": "c98235dbc208",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frictions diplomatiques et frappes sur Kiev maintenant un climat géopolitique tendu.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6440,7 +6443,9 @@
   "news|7a57f9c48cd4": 1792005366.4975772,
   "news|605c600fa90d": 1792005367.4546106,
   "post|2026-10-14T15:00:00-04:00": 1792006283.6684763,
-  "news|d48336f39a50": 1792007174.5859141
+  "news|d48336f39a50": 1792007174.5859141,
+  "news|06aa1cf875df": 1792008105.3619158,
+  "rep|recap|2026-10-14": 1792008109.3433132
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6511,6 +6516,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T20:01:48.431355+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — MERCREDI 14/10</b>\nOr : <b>-61.8$</b> depuis minuit · plus haut 4193.5 (05h15) / plus bas 4095.0 (18h00) · range 98$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-15) à 4189.6 → maintenant 4123.1 (-66.5$)\nRange : 98$ réalisé vs ~79$ attendu (125%)\nNiveaux touchés : P, S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 100% de bonnes directions (3 ✅ / 0 ❌ / 0 ➖ sur 3 jours)\n20 derniers jours : 100%  ·  ✅✅✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.32% · Taux 10 ans -2.7 pb · Pétrole +0.50% · EUR/USD -0.36% · S&P 500 -1.08% · Argent -6.09%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Doug Ford warns Trump's tariff war with Canada is here to stay\n🟢 (+10) Tehran signals escalation in conflict IRGC likens to a ‘world war’\n🟢 (+10) Houthis threaten escalation after strike on Saudi oil giant Aramco\n🟢 (+10) Strait of Hormuz traffic plunges once again amid new wave of Houthi attacks\n\n📅 <b>Demain (jeudi)</b>\n🔥 <b>04:55</b> 🇺🇸 FOMC Member Bowman Speaks\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n🔥 <b>14:30</b> 🇺🇸 Core Retail Sales m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 Retail Sales m/m (prév. 0.3%)\n🔥 <b>22:30</b> 🇺🇸 FOMC Member Hammack Speaks"
+  },
+  {
+   "ts": "2026-10-14T20:01:45.361967+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Admin Killed Insider Trading Referral Probing Iran War-Related Oil Sales</b>\n📰 Truthout · Mer 14/10 19:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHk0YVViYW5Zd3dtcjJGRDF4a0hyQ096YV9vRl9WUDVPbF9BZU5fa2NTcjNEM0xxeFA1bTlHTGVCQndDSGNRZG5KLUpXOGJPZlg4ZkpDN0pFSUQ4NVIwMnhyOXN0Z2ZlX1d2MkVoeWRYX050ZFlCVmc5U1RiM1BhREk4NXdkWWdJdV81blFEcTdUdWs2cFRtX2N0WG45d0ZkZXBzVm9IU3QyWWhBRkE?oc=5"
+  },
   {
    "ts": "2026-10-14T19:46:14.585971+00:00",
    "kind": "news",
@@ -6800,16 +6815,6 @@
    "ts": "2026-10-14T11:01:37.792088+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu: Attack on Iran 'not convenient' right now, Ben Gvir won't be defense minister in next government</b>\n📰 The Times of Israel · Mer 14/10 12:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2hVcHdVM3F5M0RZUGs0RGtwb0I5S2dCdHdKdmVXLXNsbFh5ZHJuOFI5V1JNOEp0U052dkVqakZSOVJtM2ZoTUJmT2JteUxpVHFPb0p1bXBTMVdHVGp2b1RCZEU1UlE5RjNFbzhZTjZoaUdmeU45VjZHOWVpbVNZMTMtMGE3SkxJcUp2ZS1jMUt0X1lKMFFOQTJhd2FuajFGN2d0eE9SV1hzWXNQQUQ2dVFsZjJOYkdBSGg2aHhiODlrX3JYZmZ1ZlU0MW44aEVYdmJSM1pfMldud2hDRUF5aVFB?oc=5"
-  },
-  {
-   "ts": "2026-10-14T11:01:36.714305+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role</b>\n📰 NPR · Mer 14/10 12:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2J5RktSeEFwZ3VOemNFdWNOQ2lyLVBDcEJ3el9vNzVIZU1hVjRwWHo2Uzg1RENkWjRWeTlqTy1vM21XOFdaa2x5eHBnZ3J4WkFpOUJzYjBBUk5YMTJwVXNoQl9oZ2pDd08zdzlDaUFxWDloOHl4UUctT1ZsN3ZvRmhaTEdKNmFHZjU2VEE3bE14bzRTTEVNcVhGQ2Nma1FEQmlXMUxOdEN0UHRMSW5fbDFuRU91ZlU?oc=5"
-  },
-  {
-   "ts": "2026-10-14T10:16:06.165126+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.0 pb\nOr -1.3$ (extrême -1.8$, range 3.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
@@ -6843,11 +6848,19 @@
    "mv": -30.4,
    "range": 55.1,
    "exp": 72.2
+  },
+  {
+   "date": "2026-10-14",
+   "dir": "down",
+   "res": "hit",
+   "mv": -66.5,
+   "range": 98.5,
+   "exp": 78.8
   }
  ],
  "evening_recap": {
-  "date": "2026-10-13T20:01:41.062733+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — MARDI 13/10</b>\nOr : <b>-7.3$</b> depuis minuit · plus haut 4224.8 (07h15) / plus bas 4169.7 (19h50) · range 55$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-36) à 4218.6 → maintenant 4188.2 (-30.4$)\nRange : 55$ réalisé vs ~72$ attendu (76%)\nNiveaux touchés : P, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 100% de bonnes directions (2 ✅ / 0 ❌ / 0 ➖ sur 2 jours)\n20 derniers jours : 100%  ·  ✅✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.36% · Taux 10 ans -2.3 pb · Pétrole +1.39% · EUR/USD +0.37% · S&P 500 -0.03% · Argent -1.76%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms\n🟢 (+10) Iran warns of regional invasions as tensions escalate\n🟢 (+10) Iran threatens to strike Dimona nuclear site if Israel attacks\n🟢 (+10) The Abject Failure of the US–Canada Trade War\n\n📅 <b>Demain (mercredi)</b>\n🔥 <b>11:40</b> 🇺🇸 FOMC Member Bowman Speaks\n🔥 <b>14:30</b> 🇺🇸 Core CPI m/m (prév. 0.2%)\n🔥 <b>14:30</b> 🇺🇸 Core CPI y/y (prév. 2.5%)\n🔥 <b>14:30</b> 🇺🇸 CPI m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 CPI y/y (prév. 3.6%)\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Barkin Speaks",
+  "date": "2026-10-14T20:01:49.343290+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — MERCREDI 14/10</b>\nOr : <b>-61.8$</b> depuis minuit · plus haut 4193.5 (05h15) / plus bas 4095.0 (18h00) · range 98$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-15) à 4189.6 → maintenant 4123.1 (-66.5$)\nRange : 98$ réalisé vs ~79$ attendu (125%)\nNiveaux touchés : P, S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 100% de bonnes directions (3 ✅ / 0 ❌ / 0 ➖ sur 3 jours)\n20 derniers jours : 100%  ·  ✅✅✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.32% · Taux 10 ans -2.7 pb · Pétrole +0.50% · EUR/USD -0.36% · S&P 500 -1.08% · Argent -6.09%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Doug Ford warns Trump's tariff war with Canada is here to stay\n🟢 (+10) Tehran signals escalation in conflict IRGC likens to a ‘world war’\n🟢 (+10) Houthis threaten escalation after strike on Saudi oil giant Aramco\n🟢 (+10) Strait of Hormuz traffic plunges once again amid new wave of Houthi attacks\n\n📅 <b>Demain (jeudi)</b>\n🔥 <b>04:55</b> 🇺🇸 FOMC Member Bowman Speaks\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n🔥 <b>14:30</b> 🇺🇸 Core Retail Sales m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 Retail Sales m/m (prév. 0.3%)\n🔥 <b>22:30</b> 🇺🇸 FOMC Member Hammack Speaks",
   "ai": false
  },
  "dp_last": {
