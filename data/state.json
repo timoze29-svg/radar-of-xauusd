@@ -3567,7 +3567,11 @@
   "9e4dc43ca80f",
   "c0a878eb069d",
   "476cb824cb99",
-  "9c4e96c92eec"
+  "9c4e96c92eec",
+  "f3b01494dacd",
+  "79fe12e759f1",
+  "569bb35fe114",
+  "6087f2209e80"
  ],
  "news": [
   {
@@ -6361,7 +6365,8 @@
   "news|72bdf907dfe4": 1791995487.8945987,
   "news|47bb10594f14": 1791995488.7762027,
   "news|0df570743ee9": 1791995489.7208884,
-  "brk|VIX|pwh|up|2026-10-12/2026-10-18": 1791995490.9725015
+  "brk|VIX|pwh|up|2026-10-12/2026-10-18": 1791995490.9725015,
+  "pre15m|2026-10-14T13:30:00-04:00": 1791998167.1331937
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6432,6 +6437,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T17:16:07.133221+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
   {
    "ts": "2026-10-14T16:31:30.972542+00:00",
    "kind": "breakout",
@@ -6726,11 +6736,6 @@
    "ts": "2026-10-14T05:16:05.327720+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump admin silent as Russia hits American businesses with ‘drones and missiles’ in Ukraine</b>\n📰 CNN · Mer 14/10 06:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOdy1WWW13YUJqTlFXSW9sSGRjMC1YUHhiWXliYlF3dFFGN2J2VWltMnhYWlN2UTZfSnplVm50dEE1VkhBNkdpNnJNNmpZZ1RBbFk2OFVwVG5Vc2ZGc24ydllOZGk4aTlBWTVLcHl1VXRnVVUwRXlFaUhqMUFpamJud1pTTjdDaWVscmpxbWV3U2h3ZmRMRXBUNXVQRjNqZVJETEp1SVBR?oc=5"
-  },
-  {
-   "ts": "2026-10-14T05:01:33.292809+00:00",
-   "kind": "daily",
-   "text": "☀️ <b>PRÉVISION OR — MERCREDI 14/10</b>\nPrix : <b>4189.60</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-15/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 146 news notées, moyenne +0.55\n🔴 Taux réels 10 ans (20j) : 2.91% (+0.31 sur 20j)\n🔴 Momentum or (vs MM50) : prix 4190 vs MM20 4242 / MM50 4381\n\n🌏 <b>Session Asie</b> (depuis minuit) : +4.8$ · plus haut 4190.2 / plus bas 4177.4 (range 13$)\nDXY -0.12% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~79$</b> (ATR 77$ × profil du mercredi)\nDéjà fait en Asie : 13$ (16% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4245.7 | R1 4211.5 | <b>Pivot 4190.6</b> | S1 4156.4 | S2 4135.5\nVeille : PDH 4224.8 / PDL 4169.7  ·  Semaine passée : 4234 / 4091\n\n📅 <b>Annonces du jour</b>\n🔥 <b>11:40</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Core CPI m/m (prév. 0.2%)\n    🔺 Au-dessus de 0.2% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.2% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Core CPI y/y (prév. 2.5%)\n🔥 <b>14:30</b> 🇺🇸 CPI m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 CPI y/y (prév. 3.6%)\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>21:00</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -0.32% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1055 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 2h (12%), 16h (12%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -31.2$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 4191 → R1 4211\nObjectifs : PDL 4170 → S1 4156 → S2 4135\n❌ Invalidation : clôture H1 au-dessus de R1 4211\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 4225 → R2 4246\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
