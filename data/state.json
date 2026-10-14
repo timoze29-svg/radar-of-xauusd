@@ -3174,7 +3174,13 @@
   "75a80a2ad627",
   "a6905ae80a19",
   "07dbf3f7d348",
-  "c93555c55e15"
+  "c93555c55e15",
+  "c0d2c16b7307",
+  "66b957166544",
+  "979072c5bfc1",
+  "2d7eb09983b8",
+  "f3369ced6600",
+  "75e6326590a5"
  ],
  "news": [
   {
@@ -4858,6 +4864,18 @@
    "method": "IA"
   },
   {
+   "title": "United States Dollar Index eases as hawkish Fed, Iran risks support | FXStreet",
+   "source": "شبكة تواصل الإخبارية",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lWW5Yc05OSGNOZUxERnpFTUtMTno0eUFOdHA0ZTNjeXBXbUFMLURBWmZKRFl6VS1xQmZ3ZXdTY0l6N2dMNWNXZ1JWbVUxRGxPZGdV?oc=5",
+   "published": "2026-10-13T02:04:01+00:00",
+   "id": "75e6326590a5",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Gold's Rally Stalls as Dollar Firms, but Central Bank Buying and Record ETF Flows Offer a Cushion",
    "source": "ad-hoc-news.de",
    "theme": "Banques centr.",
@@ -5564,18 +5582,6 @@
    "cat": "commerce",
    "raison": "Persistance de la ligne protectionniste soutenant la couverture contre la stagflation.",
    "method": "IA"
-  },
-  {
-   "title": "Mediators Set Up De-Escalation Channels Ahead of US-Iran Talks, Source Says",
-   "source": "EnergyNow.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbW9XY1RIS0dyRHREWmRIQThiVmp4RklrTmJlOXhoMHVPcFhMOUNqVzBWY2NqY24xVjh0TTM0YmZDZXJzNDF1WHFkTTdEZHlzTzVuWlRGUHNRNG4zY3NZcnMwQkQ2MlRQMFhCLUY0eG9UVl9VQ245d3d0LVZGMmFzb29mVWJnU3dCREF6azlmbi1IaldNVHZqTFBXWTRrd2hIbUtfTktORE4?oc=5",
-   "published": "2026-10-12T13:44:04+00:00",
-   "id": "ddca6e6c2009",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Signaux de désescalade diplomatique réduisant temporairement la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5901,7 +5907,8 @@
   "news|532980af9be2": 1791938765.9600627,
   "news|e01050cf0724": 1791939791.3277583,
   "news|672b81a7cdf3": 1791941490.1985161,
-  "news|a6905ae80a19": 1791942364.6218772
+  "news|a6905ae80a19": 1791942364.6218772,
+  "news|75e6326590a5": 1791943362.1999514
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5956,6 +5963,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T02:02:42.200011+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>United States Dollar Index eases as hawkish Fed, Iran risks support | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Mar 13/10 04:04\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lWW5Yc05OSGNOZUxERnpFTUtMTno0eUFOdHA0ZTNjeXBXbUFMLURBWmZKRFl6VS1xQmZ3ZXdTY0l6N2dMNWNXZ1JWbVUxRGxPZGdV?oc=5"
+  },
   {
    "ts": "2026-10-14T01:46:04.621934+00:00",
    "kind": "news",
@@ -6250,11 +6262,6 @@
    "ts": "2026-10-13T04:16:06.776215+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran hardliners back threats to strike Persian Gulf digital infrastructure</b>\n📰 Iran International · Mar 13/10 00:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wZzlhM0FpZGhOSUZpajNYNHM2NkJyNjdRVGpWTFk5N1Y4U3F2OWY3eWJfYncxOWFaSEtVck90LVAyQkw3QVRxYVE3M04yZkhFVFE?oc=5"
-  },
-  {
-   "ts": "2026-10-13T03:31:29.666915+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Rallies on Higher Crude Oil Prices and Hawkish Fed Comments</b>\n📰 TradingView · Lun 12/10 21:34\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFJ5ang4N3YyNE5fNGxjZmkxdEsxUlpaSlN2eFVmbE9mZTB4bHBWRVR3elNjR2hIaS12Tmoyc2t3LWZxUldKTEhKblF6S1lzTk9RWVI0eVVLSHhZZzdMcEJNNHh0M1hGZmFvdTY3VXROQkRtSmFtXzlpTGdqRTlnamljeFFlemZESi1OZkZ3Y3Z0alI5b0g2ZmNzdGJaRmhLMnQ3a2VCRTY1cGJnWnlldmtpSUYzeXZKRkk1R01Cd0hPQUE?oc=5"
   }
  ],
  "daily_forecast": {
