@@ -3621,7 +3621,12 @@
   "4aab3b8d26cd",
   "6f86d1bf8be9",
   "685dd0df7c79",
-  "ef80921682e9"
+  "ef80921682e9",
+  "8d190aa1430f",
+  "163ed966681b",
+  "9e11b741241e",
+  "f2efd48482f1",
+  "771d25bd780e"
  ],
  "news": [
   {
@@ -3704,6 +3709,18 @@
    "published": "2026-10-14T17:55:04+00:00",
    "id": "605c600fa90d",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "How war with Iran is influencing Israeli, US elections - analysis",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ta0FBWUpQWWdEM3k4aTBUOXpFc2Vxa0dHZ0pUeTVhM19NS2kzTllIaFdCcllmaU9qdEJnLXZLRnF1N0xVQ3hQQTVOLVhTeVp5SXUyTFd1YmowU0xQaEdPaVZvZTRHMC1B?oc=5",
+   "published": "2026-10-14T17:41:02+00:00",
+   "id": "163ed966681b",
+   "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6011,18 +6028,6 @@
    "cat": "commerce",
    "raison": "Incertitude commerciale accrue sous la pression des ultimatums tarifaires de Trump.",
    "method": "IA"
-  },
-  {
-   "title": "Saudi-led coalition strikes Sanaa as Trump says Houthis act at Iran’s behest",
-   "source": "Al-Monitor",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVc1SnJHdERHWGk5Z2c5OHkzLW4xRThTd1U1amNKMUtEaUFVdDlvelg0YjlmRDFWVlo2bU1ZVW1uNGJ5WnZneENKMzlzdVduSjhwTklqLXlOeEJpYU9JdUI0YjNReGx6WmM3bVhKYkZIcjBHTmpKMEthY3lTMUpLUXJLWGYxc093RzFudTZOckhxM1EyUFpOV2M4bkJDMUlCYUxVai1pbU9kaFNXMEo0ZDh4ckY?oc=5",
-   "published": "2026-10-13T16:30:50+00:00",
-   "id": "540e55a15dfd",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Frappes au Yémen et rhétorique anti-Iran attisant les risques de conflit régional.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6429,7 +6434,8 @@
   "news|3723fd76efd0": 1792005364.6153932,
   "news|4aab3b8d26cd": 1792005365.6055465,
   "news|7a57f9c48cd4": 1792005366.4975772,
-  "news|605c600fa90d": 1792005367.4546106
+  "news|605c600fa90d": 1792005367.4546106,
+  "post|2026-10-14T15:00:00-04:00": 1792006283.6684763
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6500,6 +6506,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T19:31:23.669139+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans +0.0 pb\nOr +7.6$ (extrême +8.3$, range 12.5$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
   {
    "ts": "2026-10-14T19:16:07.454748+00:00",
    "kind": "news",
@@ -6794,11 +6805,6 @@
    "ts": "2026-10-14T10:16:04.990113+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>TAG: U.S. Iran war</b>\n📰 Kitco · Mer 14/10 00:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubWNtZlFlUGZraDd5S1RyYWdhRXZNOUFTMW5LZFoxdXBKZHpiNS04R1NEam80NVF5WlpINm1DZUp3YzVvd195Ql9KRi1Pc3k5R1JEOFFPNA?oc=5"
-  },
-  {
-   "ts": "2026-10-14T10:16:03.931048+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Says the Market Is Going to \"Go Through the Roof.\" His Iran Escalation and New Tariffs Suggest Otherwise.</b>\n📰 The Globe and Mail · Mer 14/10 12:07\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxNQTRCSzQ4ZHFkMFgwcXh1dlFvTkpVV1NpZktrYzVnWUZDakdndHh4Sk5IQTdjOTJ6cGYweUF6TmI4OHZBWUNDc1AybVpjVGc1U3hiWFRGMl8wdWpvdHFDU3pVOGd0X2NPQURORVc3TXJJRlVkQlRhSDlnVHRRaTdodmdXWW9yekFUay1COUUzZDRjU1BMcllmMTVObmlhdDNORG1ucWQwbG9FcWt2QUFjTnBvN2tkM2RUcHA4ZHRwcXRwZG10SndSZVpmREVhbHZKT2tIWXBKME5JdDBMeHRUSmlBZnRPTTJMOXg3X0FSUVoxc3JfUnM5Mm5HY0lqZEgtOUV4eUl2ZE1UOE94YUJNRVZpeHVyeW1jZHdDdw?oc=5"
   }
  ],
  "daily_forecast": {
