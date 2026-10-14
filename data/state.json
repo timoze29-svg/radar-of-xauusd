@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791937861.867203,
+   "ts": 1791941464.6472852,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -718,6 +718,17 @@
      "country": "USD",
      "impact": "Low",
      "date": "2026-10-14T13:30:00-04:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Goolsbee Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-10-14T15:00:00-04:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -3154,9 +3165,26 @@
   "72736c318d72",
   "11e5395b331e",
   "53120d673a7e",
-  "4d65ebb6a97a"
+  "4d65ebb6a97a",
+  "437d80e1ddb8",
+  "bc9eebdb7f5b",
+  "ec0e14462df9",
+  "672b81a7cdf3",
+  "e230d0498f90"
  ],
  "news": [
+  {
+   "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONi1HcG5uR0JIY1ZCTnhPb0M0VTZTcWxCOWJzUDBObDJCYlgzU2d1ZkVtZDMwaF82LVNFTlR2Nk1UWktwcFVILWktREozQVNnU2lKcXVxSU1sWTJCVVZDOFhUQVpsQ0RTVTZrd0xVZUM3VGFQT1ZkN1hnUjJ2UjVaZXFfTlp0dVJBMG1xNXNUalE5bVJCbUNlWmsyekFzX1BXWHBXQ0xIZm9jRDIzUTBkX1ZuR3o3Ul9qbHQ4Qkktc195RUUyMWt3Q0x6dTRzLTVWYXZ3Rk1ySjl1YmpXM0NHMmQtRVNKdGY2LWc?oc=5",
+   "published": "2026-10-14T01:04:00+00:00",
+   "id": "e230d0498f90",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. September CPI Due Tonight — Core Inflation at 0.3% Could Reignite October Rate Hike Bets",
    "source": "BigGo Finance",
@@ -3203,6 +3231,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "published": "2026-10-13T23:14:54+00:00",
+   "id": "672b81a7cdf3",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5532,30 +5572,6 @@
    "cat": "géopolitique",
    "raison": "Frappes houthis et doutes sur l'Ukraine renforçant nettement la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Deadly Saudi airport strikes mark major Mideast escalation",
-   "source": "NBC News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXBqcDZYX08ybGtwNlRFSVZFWnRIRnAzMTg0TEhYUHhlckNnaGdnQnlaVFk3Y1Z1dFhEQmZyMHZfRVhla2Iya2loTnl4alkyS3RZYm90U3dZUmpBb2htTExPQ094eTZFNTEwQWdQc3VNdy1vQ2otakFBS0M4S1lTN1ZVWHMxaFRQY09qUDFuLUJRM1lsNVljQTdvaU83bUdfX3VoQk5Tc1JJWXc0cmVDcA?oc=5",
-   "published": "2026-10-12T13:34:06+00:00",
-   "id": "56ecc5e92160",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire majeure au Moyen-Orient stimulant les flux d'actifs refuges vers l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "President Trump says tariffs funded relief for farmers at Clarksville rally",
-   "source": "WZTV",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUdkVGtEX1dYaTBGSmpQX08wWGwwdk9GZ3dnU2dBd2xoQXpkMjBOOVR0aU1nWU9aekpTc2d1dW1NYWVJVDMwQVZ3TGxiOTliamkzTXh4Q1kzNXNYaEVqMGJ3MDA4X2tUY0NXSWdWSEZuaEVqUWFzRFFleHBKcVVMWXNvVl82SURZLUxhcERjUzdOcTY0?oc=5",
-   "published": "2026-10-12T13:31:31+00:00",
-   "id": "363286ca45b2",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Rappel de la politique tarifaire sans nouvelle annonce concrète, impact marginal.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5879,7 +5895,8 @@
   "news|65e8fa5cd740": 1791936098.0575304,
   "news|2640ec7591b8": 1791936972.3566887,
   "news|532980af9be2": 1791938765.9600627,
-  "news|e01050cf0724": 1791939791.3277583
+  "news|e01050cf0724": 1791939791.3277583,
+  "news|672b81a7cdf3": 1791941490.1985161
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5934,6 +5951,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T01:31:30.198568+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 14/10 01:14\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5"
+  },
   {
    "ts": "2026-10-14T01:03:11.327811+00:00",
    "kind": "news",
@@ -6228,11 +6250,6 @@
    "ts": "2026-10-13T02:46:04.683041+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims</b>\n📰 The Guardian · Mar 13/10 04:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGxHaWtJRHZxZnNxNWI2NGVRRmV5MlktUFpiTE8wZUlyc2I0WGQ5WGRwcU5HRTZpVUwxZlhOV05BLUxnakVpZlZRUFk3NnR3UFdlYkdVMWg2YU53Vi1xQXNuazhGYi1xV0JRWk40eXdJNVZpN1BWWHFsaFZfSFZQT3BwWHpSVEEtOWFCREs1T0Y1RnZPTzdCcm52azRPaUJlcTVQUkItTjIyMXRqUXhtU3B1a2JqcnpzazBCUWU3Rll1a2pUbDgwRW1PWk5SNGFaOExJYWo0MHpuYU5LbDdheF93?oc=5"
-  },
-  {
-   "ts": "2026-10-13T02:16:09.979192+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran Guards strike vessel in Strait of Hormuz as oil soars</b>\n📰 The Daily Telegraph · Mar 13/10 02:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOGpGdWFnVi1DWkVjUS1DZktVTjljalpiNUdKclFSQ2lxVEw1Z09QMlg3X3lzRkwxQnlqMTktWGZoNEhpMEtFSlNoc3FxTnRwVEZSM1BYWlJ5bDRkQVdMZ2VwNUMzLWhDVzV0RXdmM1E1OEFSdU5NTm1BQ0VTZGZXcXktYVh1ZUo2Qi1uamVER0NCSjFnV0JjMWhWeGlqdUlNTEpHZlA1TzkxaU93RWxXSmRsajNGUFB4cHJTRi10T09QQnpuUGNVaHRYUW0wVnJWOEhYcTZ0Qk5ESW9iRHg4Z1VQaExVVHlnN2tCdVh1dEM5QzJEMVE?oc=5"
   }
  ],
  "daily_forecast": {
