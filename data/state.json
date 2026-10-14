@@ -3580,7 +3580,12 @@
   "c2cb70db28cd",
   "61197ef66a4e",
   "f7f0a18246a5",
-  "dc7c8fb9af0b"
+  "dc7c8fb9af0b",
+  "fd2079c9605c",
+  "93ff12b16b0c",
+  "ac899f671267",
+  "8b771305f03e",
+  "2a6b4ea28447"
  ],
  "news": [
   {
@@ -6380,7 +6385,8 @@
   "big|SPX|2026-10-14": 1791999093.0708506,
   "news|61197ef66a4e": 1791999968.331696,
   "big|VIX|2026-10-14": 1791999969.441949,
-  "pre1h|2026-10-14T15:00:00-04:00": 1791999971.3208346
+  "pre1h|2026-10-14T15:00:00-04:00": 1791999971.3208346,
+  "post|2026-10-14T13:30:00-04:00": 1792000902.8145857
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6451,6 +6457,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T18:01:42.815319+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.03%\nTaux 10 ans +0.7 pb\nOr -4.3$ (extrême -4.9$, range 9.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
   {
    "ts": "2026-10-14T17:46:11.321100+00:00",
    "kind": "pre_event",
@@ -6745,11 +6756,6 @@
    "ts": "2026-10-14T08:31:25.946520+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 69 MIN — 11:40</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.05% aujourd'hui · taux 10 ans +0 pb · biais or -18 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 77$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-10-14T08:16:52.110706+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Department of Homeland Security warns of potential attacks amid Iran operation - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 14/10 07:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU12eXQ5aUJqT0J6NVNvYzhIOU10QVo1TzRkeThUeW52a3FnMU1uM0M4S1hmczJqUmNFa0tKTkdxalN0eHhvUnFVV0N1Q3NBVGpGS21Qb29tbFljbG9ReFhIS3JGQWU2SDd3TnFsRTdrSmdHcktOblZVLVJSYzFlMzBxSzVwTkdCXzNtbUZqM3RvUFpseFg3YkNZYTlOVWZLemJGY281d9IBrAFBVV95cUxQYWlmZkRpU2ViVExUZDdObUJhQUNFZWdJRXkyWUdzNTJaY0Q5anVjclhEbVRrN3hFN244XzFjUHFQOVctNWVpakk2UFFFR2NpaXFuY1BvNGRYV2V0TV96V3ZfOGN2cHFFQmk2emJmZFpMbFd3cElMRWJneUVkN1BnUTNIY2Y2Skh6VU55Rl8ydzFQZy1CcUMzdVlDOGR4YzU5N0JuVl9icWE3UFkz?oc=5"
   }
  ],
  "daily_forecast": {
