@@ -3170,7 +3170,10 @@
   "bc9eebdb7f5b",
   "ec0e14462df9",
   "672b81a7cdf3",
-  "e230d0498f90"
+  "e230d0498f90",
+  "75a80a2ad627",
+  "a6905ae80a19",
+  "07dbf3f7d348"
  ],
  "news": [
   {
@@ -3195,6 +3198,18 @@
    "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "PM: Iran working to orchestrate attack to influence election, maybe through Hamas and Hezbollah",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ2pYMGdkZHk4Um5aMHU4b2xQdmUteWUyeWdtMlFzZVJWTDhWZWp3UlNFcU93bWZCbG5kSWlrWmhUQUdYZ0x6RmdUd3hBWl9hUEluRV8zdU1kTjRMQk5CU19VV3MwNEpDb2FDdTBSRUY5QTliN3k1MjdQSkkwak9VTmVyZjJaamxMQXl6bzB3elpEQXZHSGNpM0c1WFZJaEdjSzB5N0Jsd1hyeDd0c1prNXFkR2JpRV81Z3Y3NmVJa25EN2ZRWkhDY3RuQklxcGgzZFJiWVFB?oc=5",
+   "published": "2026-10-14T00:06:48+00:00",
+   "id": "a6905ae80a19",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5560,18 +5575,6 @@
    "cat": "géopolitique",
    "raison": "Signaux de désescalade diplomatique réduisant temporairement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Oil Rebounds on Russia-Ukraine Energy Ceasefire Doubts, Houthi Attack on Saudi Airport",
-   "source": "WSJ",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUgtV0llLVhNSGExbHlQQUd6c3NzblBRNE5BNTZ3alYwTHAzMVRUSTUwUmRVMmRxMjhocXRPQ2RSRzNOdWFzbV9iQTR0aWY4N0FkVjl2c1dPNTFSU294M3Y4UzMxRXlzaEJWRFlUN1FaU1J5VkpCZmpVSFdRbDg2dXM1TnVKTF9kRllQWFJzdWUzeEUxd0c4eEpDQTBSRkZFc3hRbjFZdVJFTEhJYXA5RFV2N2p1TkRJU2VOaWw5RkNULWpO?oc=5",
-   "published": "2026-10-12T13:42:00+00:00",
-   "id": "b51f99e8cbc3",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Frappes houthis et doutes sur l'Ukraine renforçant nettement la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -5896,7 +5899,8 @@
   "news|2640ec7591b8": 1791936972.3566887,
   "news|532980af9be2": 1791938765.9600627,
   "news|e01050cf0724": 1791939791.3277583,
-  "news|672b81a7cdf3": 1791941490.1985161
+  "news|672b81a7cdf3": 1791941490.1985161,
+  "news|a6905ae80a19": 1791942364.6218772
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -5951,6 +5955,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T01:46:04.621934+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>PM: Iran working to orchestrate attack to influence election, maybe through Hamas and Hezbollah</b>\n📰 The Times of Israel · Mer 14/10 02:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ2pYMGdkZHk4Um5aMHU4b2xQdmUteWUyeWdtMlFzZVJWTDhWZWp3UlNFcU93bWZCbG5kSWlrWmhUQUdYZ0x6RmdUd3hBWl9hUEluRV8zdU1kTjRMQk5CU19VV3MwNEpDb2FDdTBSRUY5QTliN3k1MjdQSkkwak9VTmVyZjJaamxMQXl6bzB3elpEQXZHSGNpM0c1WFZJaEdjSzB5N0Jsd1hyeDd0c1prNXFkR2JpRV81Z3Y3NmVJa25EN2ZRWkhDY3RuQklxcGgzZFJiWVFB?oc=5"
+  },
   {
    "ts": "2026-10-14T01:31:30.198568+00:00",
    "kind": "news",
@@ -6245,11 +6254,6 @@
    "ts": "2026-10-13T03:31:29.666915+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Rallies on Higher Crude Oil Prices and Hawkish Fed Comments</b>\n📰 TradingView · Lun 12/10 21:34\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFJ5ang4N3YyNE5fNGxjZmkxdEsxUlpaSlN2eFVmbE9mZTB4bHBWRVR3elNjR2hIaS12Tmoyc2t3LWZxUldKTEhKblF6S1lzTk9RWVI0eVVLSHhZZzdMcEJNNHh0M1hGZmFvdTY3VXROQkRtSmFtXzlpTGdqRTlnamljeFFlemZESi1OZkZ3Y3Z0alI5b0g2ZmNzdGJaRmhLMnQ3a2VCRTY1cGJnWnlldmtpSUYzeXZKRkk1R01Cd0hPQUE?oc=5"
-  },
-  {
-   "ts": "2026-10-13T02:46:04.683041+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims</b>\n📰 The Guardian · Mar 13/10 04:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGxHaWtJRHZxZnNxNWI2NGVRRmV5MlktUFpiTE8wZUlyc2I0WGQ5WGRwcU5HRTZpVUwxZlhOV05BLUxnakVpZlZRUFk3NnR3UFdlYkdVMWg2YU53Vi1xQXNuazhGYi1xV0JRWk40eXdJNVZpN1BWWHFsaFZfSFZQT3BwWHpSVEEtOWFCREs1T0Y1RnZPTzdCcm52azRPaUJlcTVQUkItTjIyMXRqUXhtU3B1a2JqcnpzazBCUWU3Rll1a2pUbDgwRW1PWk5SNGFaOExJYWo0MHpuYU5LbDdheF93?oc=5"
   }
  ],
  "daily_forecast": {
