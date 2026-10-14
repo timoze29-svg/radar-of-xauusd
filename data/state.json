@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1791999068.2132359,
+   "ts": 1792021551.3935862,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.91,
-     "date": "2026-10-09",
-     "chg5": -0.01,
-     "chg20": 0.31,
+     "last": 2.88,
+     "date": "2026-10-13",
+     "chg5": -0.07,
+     "chg20": 0.28,
      "hist": [
-      1.92,
       1.92,
       1.92,
       1.89,
@@ -129,18 +128,18 @@
       2.91,
       2.92,
       2.87,
-      2.91
+      2.91,
+      2.88
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.33,
-     "date": "2026-10-13",
-     "chg5": -0.03,
-     "chg20": -0.04,
+     "last": 2.35,
+     "date": "2026-10-14",
+     "chg5": -0.01,
+     "chg20": -0.03,
      "hist": [
-      2.38,
       2.42,
       2.42,
       2.44,
@@ -259,18 +258,18 @@
       2.36,
       2.35,
       2.33,
-      2.33
+      2.33,
+      2.35
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.8,
-     "date": "2026-10-09",
-     "chg5": -0.03,
-     "chg20": 0.17,
+     "last": 4.79,
+     "date": "2026-10-13",
+     "chg5": -0.05,
+     "chg20": 0.14,
      "hist": [
-      3.78,
       3.79,
       3.83,
       3.78,
@@ -389,14 +388,15 @@
       4.79,
       4.77,
       4.75,
-      4.8
+      4.8,
+      4.79
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -422,7 +422,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -494,6 +493,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -3685,9 +3685,37 @@
   "ddd5a3b5c701",
   "7b0ea3fe59c1",
   "9d3d6520e5a0",
-  "5ae00e0b9b73"
+  "5ae00e0b9b73",
+  "ddb4e17ad887",
+  "153531b50a04",
+  "d50da0ee9aa2",
+  "5b2496a61a03"
  ],
  "news": [
+  {
+   "title": "Just as markets were caught off guard by the CPI data, Waller is set to speak again: the risk of further interest rate hikes comes under renewed scrutiny after the sharp decline in U.S. stocks.",
+   "source": "富途牛牛",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3lNTzQ1NlJfTDZBOGZNN1VpckwyQUFpUFpDYnlsOUR3S214SjdEcTFqMVRmcDFXUnN2cloyVGVlbUQtMm5oWE5NQ0lyd3RkcDdrODI3RjFNTTBQV0hTZk1fWkNueVBoOW10UU1yTVRzU3R6b2dISkJYcFNQRXREMkhxV2ZJLVJlYU9rY1B6RUtrVXlyTEE?oc=5",
+   "published": "2026-10-14T23:14:58+00:00",
+   "id": "d50da0ee9aa2",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
+   "source": "Financial Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWhNZXJpc3VMV3hxUk5USktocURaVkJEbkYtaFlxZy00eDN6WXJtbUIwSGxUbGMyVDJYTzlWY1VIc1NvcDBubjZaOWZyY3haMkF0YVI1M2RyanJoTmtrYVQ5ekpTbGRYMmtuMWlnS1F3dHlkVW5Rc2dHZEd5WU01dHRLdDY?oc=5",
+   "published": "2026-10-14T23:09:30+00:00",
+   "id": "5b2496a61a03",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says he “might have gone too far” in war on Iran",
    "source": "Global News",
@@ -3708,6 +3736,30 @@
    "published": "2026-10-14T22:58:13+00:00",
    "id": "5ae00e0b9b73",
    "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump says ‘leakers should be shot’ for disclosing timing of Iran strike",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOV9sbHdsbTdHc1lKbHVlV0RpLUJ3WG5XclFPV2ZOQWNHVTNndmhiMGNNeERBeVAxVWNLVUdiSzBibC1ScnVKckxJblg2RDBvSFJTMzZ0TDNyTHhPMXpGSzl2bWVHZklZTmtCaWJiLVZpTVJEMk96Mkw3UWlBQ0lWQkc5VzZfd01NMUpacndfN3U4cmhOajdCcndvS2pWQmgwYlFYV0V6Q0V0UTJBSDJzMXp3?oc=5",
+   "published": "2026-10-14T22:41:18+00:00",
+   "id": "ddb4e17ad887",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "How the US Navy could enforce a blockade of Iran's ports in the Strait of Hormuz",
+   "source": "ABC7 New York",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi9AlBVV95cUxPSVEyenVyS284dUtvemhPYzFhMV9zbmVWZ0dDX3JwMTZQY1VBWVdvblJMMDVUM3pqMW1qNG9TTkZwZDJWY0N4S3c2ZlZCLVhGSUhPYXNZU09WMS1IZXJzQVNTeVVTaGdxbHNVRGdsM0FBbVVIU1J1SmhrVkZZRDYwZVpLWG04ZVB1UVAwNmpjaGNBYVZLaDdqTkhqenl4ZVRzS2Zacjk4R3BtV29nSWdNUE42M0hhSW5ORW5tZzVhVUs5OUtlQ3hnR0t6anlnVjZGTG5BZS1vVzA1UTVJdklTN1NtYjNDbXB3X09CcG1HaEtGRjZWbUJtTWk4Mk9QbHVNN2VtQWc5SlhndmJrSkF5bUlxUklmN2pPWXNLQXhPYWxuNzR2NHRRcHA4b2dHUHFBaERSRWNBc3gtSks4eUF1NWx5bmhIdFpteFh2dHg3MXNmQmFDZ3BBT1cwQll6MzltR1JMNXBuZUdFMFlVRUVVY0NKclVXbHA2cHhDZUF2dzNsa0diYWNDN0dFdndzRXhPOFJReTRqTHNSZnltMVR6SXA4YzU1S2xRZW9zR0VOa05fdEtTWVVTOE9tSXJWLUFOUjVyQnlBRHRwVWloUE9sTG12YmFvaUxWWl8zUENYU2lScjNCWW13N0FvSnpBNW83bjR6cjNhV09tMHpFZV82QXowTktzcUZZRWxmSDNoeGV5V1Zkc1NmZzMtTGJVbUUzUUtuRkFrNWs0V0lRekl0a0lhYnFVSGJjU1FlcktHMktlamtHemFZWTZvVUoxMVVHWV9pS1I1NHM0R1VDUFR5TGVJajRybnhnYjBWSThwNXNkRDlRa0tMTEgzd1RUa2tYNUlmNkNNaHU5RVNUdlBkcTA2WmZTaVM1X3NBcWpIT0Jtc21YOC1yQ1hScmk2NTRJQ3dSa2RiblVDTmU4M29oT2txZDJySXVVU2tDSlZwWkpOV1gyRk1ZbndZQ3RqXy1uT1FRTWN3NkhMbXBCLW1uTmFyblVqZmVSdXdUVENRYmxibEZWWEtVQWZpaDFFR0pKaDZQaXJfU2pCbnQ5UmxlcFZmeGVpNDFNeENNazB4NFRiZjc2OHpZRlR6d3N5TTF0bUpjSGR1R00yNkIyNXBLaGtnWVFVeGFxaXhlRGJuQnhnVkdVRWdXRE9HaWN5enVBdWdNRGcxOVlDWldzUlBMcnV2b0lNZjBlemdJVUFIRkpfZnpuNHFvREZ5TjdzMFZWVlYxdF82b3ZwdGJMeWZ2bzIwanhjMmJXQ3NFYlZ2Rk5wSm9ialpSYU9Gd3FJWWltLVp3SmMwVHlwdVEyS1FmWG5ZZ0pZRHRxUWxYZVl2YVhtU0hjQ1hmNE82bUJXS3kxV0M0UG9KYlpaZkxENHNDR29ieHE5bnBsNnVnbTZ3UEROdWZocktEZjRhVUpEd2xfcjlSU1RxcUloX2lFQW9HVERSeXdCa1hKbkNLemNfNnR3N29BNE11SjZLMkJOVVVpMDlIMGJ0YWR4bEtSdHpfRDF6MjgzS1JYSHVLNkc1RXFpUldtYlJJN2t0d3E5cHdNdkRYbXk0LTBPYXZIdnBMMkwzcW5nVmt0czE1VF91S1ktSDFaS1pQNlNwRndhTmNaS18tTEtqdlh6TmdJYjRlSE5uX0dGakwwX2xUWFh3VWRqY2ZQT0tzZFluWTlLYU1tanNkUg?oc=5",
+   "published": "2026-10-14T22:09:29+00:00",
+   "id": "153531b50a04",
+   "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6039,54 +6091,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Republicans face midterm backlash from factory workers over Trump's tariffs",
-   "source": "PBS",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHBuLWROdmJYakYwa3BGaWNsZkcwQmpxVjlqdmkzUXhIQzVZeXF6THFSU1h6OWc4aF9QYi1YOXFyY1JuWnBxUTBTSHZ3MkVZUERocF9aVXdyb1FxVW9GRC1sWlU0WjRRWnJ0OXhVS056VmZzdi11SUNtRkRnT2psNXJoNFN5cF9EQlZoQl95SGNyUWRRd0pHYjRYdGMzUF9VMjkyX056b0FUMDI0M3NQVnV6WjRkd9IBtgFBVV95cUxOaHBuLWROdmJYakYwa3BGaWNsZkcwQmpxVjlqdmkzUXhIQzVZeXF6THFSU1h6OWc4aF9QYi1YOXFyY1JuWnBxUTBTSHZ3MkVZUERocF9aVXdyb1FxVW9GRC1sWlU0WjRRWnJ0OXhVS056VmZzdi11SUNtRkRnT2psNXJoNFN5cF9EQlZoQl95SGNyUWRRd0pHYjRYdGMzUF9VMjkyX056b0FUMDI0M3NQVnV6WjRkdw?oc=5",
-   "published": "2026-10-13T19:43:38+00:00",
-   "id": "f23bb3ffc49a",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Dollar Falls on Dovish Fed Comments",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVlOUW1VZUNHcVpLeHF5dERodVVTc2JkOXFEQm5Ka0lxdERGWV9XOTNpYjA0a1pYanRQUGpXR1lIX015WGF3cGI5VzY1SXpsOWlpcVpFTWpZUUt6VDRfa0VGbHVQNXhIQUpnTDJYRjQ1SVFiNXJnUGt1Q0M3SGxKMDlLVE5ZWFlXa0pwVDBFcWhyVnlORWN0dTlR?oc=5",
-   "published": "2026-10-13T19:36:26+00:00",
-   "id": "e8d55772a5a9",
-   "impact": 10,
-   "cat": "fed",
-   "raison": "haussier or (dollar, fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump says Houthis trying to increase oil prices before US elections",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnhObEQ2MnVjLTVvdlR6LVJISzFWMlVaNS0tMS1ZYUVzbnkyZ2hXQXRMUzc3VFdIczN2WmxKQUtrYzVDRmZTRHJ6cDlzel9PSHlUSWl6cmlvVkRUUVVGalNPd0ZtWC1rMmVpQ3BKS25XcDF1aE5lOFRQVTh3cUdUd2FUdFQ1WWd3Zmx1NjhzVzFlc3VzdldVUzVBcVBOUFQ0N1pncTRlTUVIUU5pSGo40gG0AUFVX3lxTFBFYUNzSFNHLUF3aTBSSXFwMmV0UGV6T0RIZnFRT0dTOUhUZm9SMlhkNmI0RW42Qlk2NW9oT3FaQzJJVlJtdGgzZ1o3TW9GaEZ4dmREdk10c1hDYVViTTVyNVVHNzl0NERZWHlDaHVkemNRSTR2UlA0b1ZZNERMSEh2Z0FfU3cyVG5mMXQ2NXBpTFRnaXI4T2xBbGRUUml1a1lNNWxpNzVESlhpaWE2bWQ4WTFUeg?oc=5",
-   "published": "2026-10-13T19:35:58+00:00",
-   "id": "aa70ae1a0601",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Évocation du risque pétrolier au Moyen-Orient, soutien marginal via les anticipations d'inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "If the Bond Market Sell-Off Triggers a Recession, Decades of History Says Investors Should Do This 1 Thing",
-   "source": "The Motley Fool",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHZ0cl9WeEVTNVhwWnd4NktIOWtFRlRKUGQwQmR2d2JXbU81ZDlacFlmbEJrcUNNeURFQVo5RnVGX1gydTBKdVZnbFRVQTBHelVySGlSQkNDakJQSU1iV1ZXQlpxeERmUkNHczRTaW9rbWwtVkFTVXotY09EVGdMa1BJLUszVzBUYTBVM1NGc2NockNubGc?oc=5",
-   "published": "2026-10-13T18:54:03+00:00",
-   "id": "c91155cd54fa",
-   "impact": 5,
-   "cat": "emploi",
-   "raison": "haussier or (emploi)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -6505,7 +6509,8 @@
   "news|7ddc5596d4f4": 1792010767.4557579,
   "news|d8abaabba668": 1792015297.097899,
   "news|4df451414dc9": 1792018900.2141252,
-  "news|68a8dfafbcbf": 1792020683.607146
+  "news|68a8dfafbcbf": 1792020683.607146,
+  "news|ddb4e17ad887": 1792021570.3180315
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6576,6 +6581,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T23:46:10.318089+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says ‘leakers should be shot’ for disclosing timing of Iran strike</b>\n📰 Anadolu Ajansı · Jeu 15/10 00:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOV9sbHdsbTdHc1lKbHVlV0RpLUJ3WG5XclFPV2ZOQWNHVTNndmhiMGNNeERBeVAxVWNLVUdiSzBibC1ScnVKckxJblg2RDBvSFJTMzZ0TDNyTHhPMXpGSzl2bWVHZklZTmtCaWJiLVZpTVJEMk96Mkw3UWlBQ0lWQkc5VzZfd01NMUpacndfN3U4cmhOajdCcndvS2pWQmgwYlFYV0V6Q0V0UTJBSDJzMXp3?oc=5"
+  },
   {
    "ts": "2026-10-14T23:31:23.607198+00:00",
    "kind": "news",
@@ -6870,11 +6880,6 @@
    "ts": "2026-10-14T12:16:11.799359+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Core CPI m/m</b>  prév. 0.2% | préc. 0.3%\n🇺🇸 <b>Core CPI y/y</b>  prév. 2.5% | préc. 2.4%\n🇺🇸 <b>CPI m/m</b>  prév. 0.6% | préc. 0.4%\n🇺🇸 <b>CPI y/y</b>  prév. 3.6% | préc. 3.4%\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-10-14T12:16:10.293915+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Houthis making advanced missiles with Chinese parts, Iranian design to hit Israel, Saudi Arabia: Report</b>\n📰 Firstpost · Mer 14/10 12:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2lhamJUZGVHRW1NSC1ObjF5YzBSTU5tdVNlYWxpYnVqQVVpcDZlSWV3aHVfWGNtQk8wejFZODBpdS1zaV91SUZFUEU5N3NXVXFPTDlKTGxkYVlYVmJaNENjMllDakM4YlBXVjJUbWVWODYtVVpLaDNiY2VtY2VaSVBMdDYwY1hPeUgza2ZoU1EyS25kbHFxRnJ4WmFZUFJOYWRlbU5rOVA3a0Nyc0RHZlYtWDJ2NlFrR2c2UnNkSlk4VXlmVnlRVUpOYTJqaE03MTNULWFCcnZKTWZvWE9v0gHkAUFVX3lxTE54QWdSVkJoc0F0cjQ5dnlZUHg0M0pzQ1ljeHlzWUVFYVFEb1czSV9mY2k4akZOT2ZYSDZmem5WcWhYSUZsWDF6YWhfanlXdEN0TE9mUnB4d2dJbE92M2U0ODBmZWZaLVlrLUQxUjN3b1RPeEozd04xbmZHcktEU2tMcTVYelduaHhhVHpOTk1WRFVDTXZBeG1LVlZwbU1mY0FmVnBsR1VhVEdNeFpiMWdtVm43QUl5cDMyY0NNYjZjWDVOZzNxLV93ZDZJY2pUcVlrZS1uUWFvWUhuWWhwQk1hcVlVbA?oc=5"
   }
  ],
  "daily_forecast": {
