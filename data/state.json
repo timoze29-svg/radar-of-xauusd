@@ -3666,7 +3666,9 @@
   "020bc092c91b",
   "471a1ab6f88a",
   "05dad5bddb77",
-  "590c80e7924a"
+  "590c80e7924a",
+  "d8abaabba668",
+  "91a702e1beb9"
  ],
  "news": [
   {
@@ -3677,6 +3679,18 @@
    "published": "2026-10-14T21:16:43+00:00",
    "id": "05dad5bddb77",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "'We've done so well there' - Trump on Iran war, reflects on gas prices | Midterms 2026",
+   "source": "12News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOUdsaFBzRTNCU2t1anZETkZCc2hQZ1F2dmJfOXhDblREUlhjS05MY1doNXBEYmpzSy1MYW1RZlMwb3NCMlpWRmdVZDN1X2RRY2Y3ZEsycFpZTVNvMVYzYm9JemlKTGpJb0ZLWUdaUnFrRGZhNXU4RjRaR2xJdlNEbXlvXzVIVmNfZW0yV1FfVWtmRlBMMDJJcy1Ga3ozeVItTk1veWJJalJraXNFZUlOaGNsczdLUkZ1M3NwZXdwSUw2XzZkYmY5N3VyMndpbGRjR2tPVXpJc3duVkYzaW9sQl83WE1UUjRjWUYyNEg3aVEwclU?oc=5",
+   "published": "2026-10-14T21:03:00+00:00",
+   "id": "d8abaabba668",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6056,18 +6070,6 @@
    "cat": "géopolitique",
    "raison": "Menace d'escalade directe USA-Iran renforçant la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Ben Jennings on Donald Trump and the energy ceasefire between Russia and Ukraine – cartoon",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTJldUlFOG1hVm9VdVhncDF5TEhWR2EtZ0JqV25ocG5TM2hqSlhJb3p0eUVNb3d0c1gyVnZNOXBvMy1RWFJxU2xuOTB0OUF0WUU0ZUlHV1kwbDZaSUZlQ1FhWndnNkt0OE5TbkplMGU4WnAzVVlHd0ZsMkRhOHAzeDRTX2RFX3JKNkI5Z1VST2wzZ3I0ak94Y0JXc3B3Zk1iQmxETklOdmtXR0N6RzNpRVkwZjV0RU9YeUFpdmxyVUJsYzgtN2c?oc=5",
-   "published": "2026-10-13T17:48:00+00:00",
-   "id": "241c027502c0",
-   "impact": -6,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -6483,7 +6485,8 @@
   "news|c9531f50bd16": 1792008969.1552465,
   "news|6fe502eac913": 1792009897.4784229,
   "news|0f9171684a27": 1792009898.515339,
-  "news|7ddc5596d4f4": 1792010767.4557579
+  "news|7ddc5596d4f4": 1792010767.4557579,
+  "news|d8abaabba668": 1792015297.097899
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6554,6 +6557,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T22:01:37.097947+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'We've done so well there' - Trump on Iran war, reflects on gas prices | Midterms 2026</b>\n📰 12News · Mer 14/10 23:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOUdsaFBzRTNCU2t1anZETkZCc2hQZ1F2dmJfOXhDblREUlhjS05MY1doNXBEYmpzSy1MYW1RZlMwb3NCMlpWRmdVZDN1X2RRY2Y3ZEsycFpZTVNvMVYzYm9JemlKTGpJb0ZLWUdaUnFrRGZhNXU4RjRaR2xJdlNEbXlvXzVIVmNfZW0yV1FfVWtmRlBMMDJJcy1Ga3ozeVItTk1veWJJalJraXNFZUlOaGNsczdLUkZ1M3NwZXdwSUw2XzZkYmY5N3VyMndpbGRjR2tPVXpJc3duVkYzaW9sQl83WE1UUjRjWUYyNEg3aVEwclU?oc=5"
+  },
   {
    "ts": "2026-10-14T20:46:07.455807+00:00",
    "kind": "news",
@@ -6848,11 +6856,6 @@
    "ts": "2026-10-14T11:31:35.807553+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudis launch new strikes on Houthis; Iran-backed group threatens U.S. if it joins in</b>\n📰 CBS News · Mer 14/10 03:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJxRmNFWVFOVlEtUl9td2J5VXowU3BKQTJJd28ybW9EZ1VaRmlLZTgtbFNLTEVldC1RQTE0NDIwMU4teThZUmF1WkpsSDNwcjh1WG5vYWQxNGtMQmdydUpPSFdYeHpUb1pXVEFBRTQweFdxbkpEZlBQb2Vza2EwXw?oc=5"
-  },
-  {
-   "ts": "2026-10-14T11:31:34.796738+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel raises alert levels amid fears of renewed war with Iran</b>\n📰 Middle East Monitor · Mer 14/10 11:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0ZpTlZKV3N2YldsdXpzcGdmT1lMM2VMWmE1dzdpOFN6NEp3Z25ESXR1YzBtaVJocVFyMktXWi00TEI2WXQtRVZKU2psVHJyckt0cGM0WklKTXVlM3dxcjBjSXo4MDlrOWZ3b3RfdllZS2h2aFYwczdfTnAwbUN0MVNyOEYtQkZuNHVXUmx3WGFITVRGLUZJTVRLN1hpeC1OQkJIMS1SRjZ4QdIBrwFBVV95cUxPY2NPbXhoR0ZhUzk1N0NhVW9Vc0JNM0ZsVFktWTR4SHJxdkltY3FOM0FTWGJMblFyZHZGdmhxdDlUNHhTRy1Edlh3STlEdDZDODMyNEl6T0Y0VDdiTkxkRERHNTRfSE1TUTBsazNMMnRLVGV0dm1NRG5pNHZjcXRKNFdlUGk2Q1lUVGdtWE9RbnJkWERSNWtRV3JxdEJCcnliNTZmcVduT3FjS2o3aWJB?oc=5"
   }
  ],
  "daily_forecast": {
