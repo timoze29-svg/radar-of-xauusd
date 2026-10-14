@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1791999068.3418422,
+   "ts": 1792003566.8731651,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -3605,7 +3605,11 @@
   "5bfd0d28b2af",
   "2b6b93cf1de5",
   "6385af1f1eda",
-  "5b3e753d3f8c"
+  "5b3e753d3f8c",
+  "b49ae7958a58",
+  "6589e6e68511",
+  "f9601bbf7095",
+  "2d2676e867e1"
  ],
  "news": [
   {
@@ -3724,6 +3728,18 @@
    "published": "2026-10-14T15:32:16+00:00",
    "id": "6385af1f1eda",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "UNSC Urges De-escalation in Yemen, Stresses Sovereignty Amid Iranian Plane Crisis",
+   "source": "Yemen Online",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mUnhLWnZIUm9sQTlCbmtrb3pqcS11X1UtMGM4MHl0RTFNRzJrNzdiR0c5NHFUME5Jbnl6emlIdnIwWXJUQ3dkdVBtTnpFRHpP?oc=5",
+   "published": "2026-10-14T15:32:11+00:00",
+   "id": "6589e6e68511",
+   "impact": 1,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5995,18 +6011,6 @@
    "cat": "géopolitique",
    "raison": "Menaces iraniennes d'extension du conflit provoquant un réflexe d'achat de précaution.",
    "method": "IA"
-  },
-  {
-   "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaU1pNWJVZ2x4MVhKNXVXbnVNYmVHbjljUU1hN0tyWF9EaHcwV0NOVlNoS0V3ajZqRXpleWtDQlRUUlJWVmNTYkplWkdjbzNjUXh2eDk4aVoyRFlPS0dyYXFMcU82aEtTWUVkcG9na0FNUlBtWE5QbVFXZFlLbzBTWERrai1GbWhiMWVxYnJSanJGaWpBNzNGSjRn0gGfAUFVX3lxTFB5M3JjZElvbUhfdXVUdV9nTWRna2ZSLXllUnNIQi1vZm9ZbEMwNnpVaGZHNWU2cWQzV3d1dmdQWXNNWVFvazVIT2todE1fdFhoUmdMVWFsVHl6Z2N6YU85WTlaQ1BVZHNhdTVFNlR5OHhLQnVBdVloOXpuajI0c2RaRmpIekpOSnRVdzVkVEpaclZfMng5elJjcTU1YTJqNA?oc=5",
-   "published": "2026-10-13T15:11:04+00:00",
-   "id": "29da3190f9a9",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Préparatifs de l'OTAN face à la Russie consolidant les tensions structurelles durables.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6407,7 +6411,9 @@
   "big|VIX|2026-10-14": 1791999969.441949,
   "pre1h|2026-10-14T15:00:00-04:00": 1791999971.3208346,
   "post|2026-10-14T13:30:00-04:00": 1792000902.8145857,
-  "news|6385af1f1eda": 1792002686.6435578
+  "news|6385af1f1eda": 1792002686.6435578,
+  "brk|US10Y|pdh|dn|2026-10-14": 1792003590.0946355,
+  "pre15m|2026-10-14T15:00:00-04:00": 1792003591.1471488
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6478,6 +6484,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-14T18:46:31.147182+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-10-14T18:46:30.094685+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 5.185 → prix : <b>5.181</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.33 | 60j -0.27"
+  },
   {
    "ts": "2026-10-14T18:31:26.643618+00:00",
    "kind": "news",
@@ -6767,16 +6783,6 @@
    "ts": "2026-10-14T09:16:08.377127+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Shares Graphic Video From UK Tiger Attack</b>\n📰 Newser · Mer 14/10 08:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWVENTBieHc0b09SeURWWGQ3OFhfOXZtYXFMM0dJc2VSb0ZpRGVPbHR0WVA3WHhrZkpHcllyR1dUbmxtVlJyd2ttVm1KT3VYTlV5TjNUSVU4VFM4aGZRdDd2ZG42eXRRM2xkTnZmbFZmUmFWMWNoekdaVmpLc1htYko5OURUM1Q4TkVuMEJNeHFPZ1Q2d2lqUzVzeXM?oc=5"
-  },
-  {
-   "ts": "2026-10-14T09:16:07.461579+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Stelco blames 50% Trump tariffs for Hamilton layoffs as Ottawa mulls lawsuit</b>\n📰 Toronto Star · Mer 14/10 11:00\n🧠 haussier or (commerce, emploi) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV254aDgycHhBekI3OVdUMldQbzRfZU45NGp0QzMzaVpPaVhkWTEwaUtGVFFfQTE3V2ZxQzdUazBIS3B1SEpvaW1VYlFmemJ4Vlk0anJ2OGxnTTV1MjRuZXJrcTRUaExacTFWN0R2X2JRb1VPQmdkR0t1ZGJxWXZQYndjQ0cybS00Y3c3bzhuYko5Q29jcmJMdGJ4emFVYXJWQlQ0X1U0R3FocHdqZERFeHBNbC1URGNuWEozYzNJWXNaSEVtdmhyS3BRdmRMVmUtSE9UbDVVdjNNay1yaTE2ZG9faG1wbVpZTmRsVjNQTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-14T09:16:06.396883+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Media: Netanyahu Urged Trump to Launch Attacks on Iran</b>\n📰 IranWire · Mer 14/10 11:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNVC1Tc2tib3hra1NWRGZqQWpMYTR5OGpsXzRiWU1CUjBxbGVmczNiTFlpRnpFQWQ1SUF1ZjV5ZVJxeElUdUdaaFc2SnhKN1hjWTZ6ZjNOTE83M1BkRHFCVTB3bXRibDVBSFd2dmFtWmVqVS1xNmdiXzlxa3hRdjJKUWFZZHl0MXJqQ25xcEFNT0R5XzU2SF83OHY1bGIzSTA?oc=5"
   }
  ],
  "daily_forecast": {
