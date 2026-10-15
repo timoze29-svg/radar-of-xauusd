@@ -870,7 +870,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792008108.3014412,
+   "ts": 1792080971.8975515,
    "data": {
     "gold_hours": {
      "0": {
@@ -936,15 +936,15 @@
       ]
      },
      "2": {
-      "n": 120,
+      "n": 119,
       "high": [
        [
         2,
-        11.7
+        11.8
        ],
        [
         16,
-        11.7
+        11.8
        ],
        [
         17,
@@ -954,46 +954,46 @@
       "low": [
        [
         0,
-        13.3
+        13.4
        ],
        [
         14,
-        8.3
+        8.4
        ],
        [
         3,
-        7.5
+        7.6
        ]
       ]
      },
      "3": {
-      "n": 119,
+      "n": 120,
       "high": [
        [
         0,
-        10.9
-       ],
-       [
-        2,
-        10.1
+        10.8
        ],
        [
         17,
+        9.2
+       ],
+       [
+        2,
         9.2
        ]
       ],
       "low": [
        [
         0,
-        14.3
+        14.2
        ],
        [
         15,
-        10.9
+        10.8
        ],
        [
         16,
-        10.1
+        10.0
        ]
       ]
      },
@@ -1030,36 +1030,36 @@
      }
     },
     "dollar": {
-     "n_hours": 5945,
+     "n_hours": 5941,
      "horizon_h": 2,
-     "base_gold_up": 53.6,
+     "base_gold_up": 53.7,
      "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 240,
-       "p_dxy": 52.9,
-       "p_gold": 55.8,
+       "n": 241,
+       "p_dxy": 52.7,
+       "p_gold": 56.0,
        "gold_avg": 1.4
       },
       "4": {
-       "n": 53,
-       "p_dxy": 52.8,
-       "p_gold": 56.6,
-       "gold_avg": 0.5
+       "n": 54,
+       "p_dxy": 51.9,
+       "p_gold": 57.4,
+       "gold_avg": 0.6
       }
      },
      "up": {
       "3": {
-       "n": 266,
-       "p_dxy": 56.0,
-       "p_gold": 48.9,
-       "gold_avg": -0.8
+       "n": 267,
+       "p_dxy": 56.2,
+       "p_gold": 49.1,
+       "gold_avg": -0.9
       },
       "4": {
-       "n": 73,
-       "p_dxy": 58.9,
-       "p_gold": 50.7,
-       "gold_avg": -0.1
+       "n": 74,
+       "p_dxy": 59.5,
+       "p_gold": 51.4,
+       "gold_avg": -0.3
       }
      }
     }
@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "ad545e1db814",
-  "a8379db3df45",
-  "12416bc658a3",
-  "bac1e879f466",
   "ac0d5c15861d",
   "55d6b0108199",
   "47c180af2ca7",
@@ -4066,9 +4062,37 @@
   "f858e66bc529",
   "c5799ce1717e",
   "acf8908f9c0e",
-  "995069bbdcc3"
+  "995069bbdcc3",
+  "5e1e2f11d2a0",
+  "3024dcc3a29a",
+  "24028ae60508",
+  "c42a048e666e"
  ],
  "news": [
+  {
+   "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
+   "source": "AP News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5",
+   "published": "2026-10-15T16:00:00+00:00",
+   "id": "3024dcc3a29a",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "China sanctions Belize, a CARICOM member state",
+   "source": "Caribbean Life News",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWpHdXBQcnRZdkQ1M25GSlFOTDNpZ0pOU1ktVnNLTHg4NXpScVQwVWk4cThxMGE1WGJmMnc1QjBsV3hlV1VzWFZFY2JUWjlWV1BiOXc3TEw0ek5Wb3RwZ3RkSWZIWnBRVEZlYjJsUzg0SE1RY2FCVWhNUU01UVJaMTl3?oc=5",
+   "published": "2026-10-15T15:54:43+00:00",
+   "id": "c42a048e666e",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Petrogold: How Gold Became a Sanctions Shield, and Where It Fails",
    "source": "Geopolitical Monitor",
@@ -6441,30 +6465,6 @@
    "published": "2026-10-14T16:00:00+00:00",
    "id": "310cf5e0af09",
    "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "President Trump’s Tariffs Are Pricing Kids Out of Music",
-   "source": "Cato Institute",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjhXcjdfNUlqd2V4c1RzT2JyUXk0VktiSjc1VDRPRjFiM1dYemlMVFB3dTU0Y0x6R2ktSXhybWZzT2hyLVZPc1h0ZTg2bHlTSENpYUoxbjBLdWRYRlNRUFZOMDNJU0VkR2ZuaVJEQXRhcW9UUVlhOTdGdlM4c1ZsOVZnMA?oc=5",
-   "published": "2026-10-14T15:48:10+00:00",
-   "id": "726eab62588c",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Attack on Iran ‘not convenient’ now: Netanyahu",
-   "source": "www.daily-sun.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFctdnRfWmVvQXVGNm1CMm1UY0tKcjdNOUZ0YVNaU2VYUkF5WExoQlcxWVNzTUVaQ0x4Y2JObVU3OGEzOS10TE1qRHVfbUktbnE0RUNNOEFBSWRFSS1UZkJCaTFZN0xSbFFrX3phQnlhdlZmZlJsSnhNcHVpdlREYllBMVBUMjRuRVVjWnB4MS1ZekZzMmgw?oc=5",
-   "published": "2026-10-14T15:32:16+00:00",
-   "id": "6385af1f1eda",
-   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
