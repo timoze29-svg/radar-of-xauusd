@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "7260520b6900",
-  "b27ef6bd7970",
-  "123a1bcab8f0",
   "0b80a8482b51",
   "065a97b3b88a",
   "fca207d1ad7c",
@@ -4066,7 +4063,10 @@
   "f47895dc76c9",
   "dbbf0720e77b",
   "f462d1148863",
-  "bab3204e6ecb"
+  "bab3204e6ecb",
+  "3c6c4f47b74e",
+  "ea25b321a158",
+  "5d9eb3ab35d4"
  ],
  "news": [
   {
@@ -6991,7 +6991,8 @@
   "news|fc7fce74e30e": 1792096295.846215,
   "news|f06d02b329bd": 1792096296.9853866,
   "news|971dc037b8aa": 1792097165.8508034,
-  "news|5c2acae752e9": 1792097166.861379
+  "news|5c2acae752e9": 1792097166.861379,
+  "post|2026-10-15T16:30:00-04:00": 1792098094.4227216
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7078,6 +7079,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T21:01:34.423295+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.04%\nTaux 10 ans +0.0 pb\nOr -0.3$ (extrême -1.8$, range 2.9$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
   {
    "ts": "2026-10-15T20:46:06.861497+00:00",
    "kind": "news",
@@ -7372,11 +7378,6 @@
    "ts": "2026-10-15T12:16:30.818575+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts</b>\n📰 NBC News · Jeu 15/10 13:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5"
-  },
-  {
-   "ts": "2026-10-15T12:16:29.822267+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Escalation Of Attacks Threatens To Derail Recovery In Middle East Oil Exports: IEA</b>\n📰 RTTNews · Jeu 15/10 13:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQczVGZHNiUnFqWVcxbkt2VzByQWpHZTBTZUZrRDZYem9hV0hRWkgwYWZJbHdMaEtHNURfTS1GUV9WX2dQZWJ2SS1tQ0N4dE5MTUg4Zk1pVzRfVmI4cXVlRUJ5TzZfb2lLY1JLSTVBN3RidTlQY1J6dnYxSGp4TjhkalBrV05tMlFHdG1hZkRYN3Fnc1hubEIyWUNiVjRGeDF2T0VEM09tLURrWEVLMFE0Z0Y3SVpxTFI5amc?oc=5"
   }
  ],
  "daily_forecast": {
