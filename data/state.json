@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792024259.3725755,
+   "ts": 1792027860.636561,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -3716,7 +3716,9 @@
   "d8d11e7365bc",
   "6508dd355bd0",
   "fbc5f92c4851",
-  "55adbe05cb0d"
+  "55adbe05cb0d",
+  "f2610adf95b8",
+  "655a05e8180f"
  ],
  "news": [
   {
@@ -4170,6 +4172,18 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVm1TRE82UjkwbmNxbEJtMkZJalN3MUo5dU5Tc2R5RlowN25zZjlPODBUT1NOSmFudDhScHJrdFB1SUZZOElBRzBBQ1ZKcXIwVl9nWWdGTG5hODRpMDFjQVJxbXEyOTdDTmE3OEJRQ0ZwWWJScEpySWY1Q1dnWHRRTzFOOE9Fb0NxWnBUb1c1Rm9WWkkyME9xSXdweW5jZzI4WjFoXzRtSU1NUVJxenl4ckVtWHZZc0dCM0h1RHBPQVBfazJHUU9RZGFRYnRKanNYSGR5cFh3Q0U5R2NkS0dBeGZiam9pWVRwTXVXYXZR?oc=5",
    "published": "2026-10-14T17:22:13+00:00",
    "id": "e7f0029628d0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US-Iran tensions may cause war to reignite after midterm elections",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TTmViamhiWENiS2MtQzRDOWh4VFktNkgzZjEtd2lUZm4xdkxKZ1JfVXFUOS1VZ1V5dmJ2TVl3VGZScmMxNDFHZTliVzBJQ2RVU21Qam1wOTY3WXNa?oc=5",
+   "published": "2026-10-14T17:19:42+00:00",
+   "id": "655a05e8180f",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6106,18 +6120,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US Defends Paraguay and Belize After China Imposes Sanctions Over Taiwan Ties: 'We Stand With Our Friends'",
-   "source": "Latin Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTd5U19HRnp1dUhkb2hqaV9wcmV3YkIyMEhONWc3YzVscG9SdWQtS01pX0JOV2NQVDZ2QzhQRHFrMlE5eVVrbFNuNmV2TVRnM29nUnI4bXNmVWd2SThXS1pISVZ1S1dVNW9PdTBHWXRld0tzekpSRERiUjZhM0NMYm5WNnVsZHVhS2FQNU9iWnVEX2JqUHdCVVhEX3M4VHl4UjBiXy04a2ZwR0w5blZMbW5PZnFIbGV1UmdRZTFCbHAweDRwZndB?oc=5",
-   "published": "2026-10-13T21:10:30+00:00",
-   "id": "807a467d6d1c",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -6539,7 +6541,8 @@
   "news|68a8dfafbcbf": 1792020683.607146,
   "news|ddb4e17ad887": 1792021570.3180315,
   "news|b6f09e58d9bd": 1792026969.4531503,
-  "news|a564da6832b3": 1792026970.538295
+  "news|a564da6832b3": 1792026970.538295,
+  "news|655a05e8180f": 1792027881.22153
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -6610,6 +6613,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T01:31:21.221592+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US-Iran tensions may cause war to reignite after midterm elections</b>\n📰 The Jerusalem Post · Mer 14/10 19:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TTmViamhiWENiS2MtQzRDOWh4VFktNkgzZjEtd2lUZm4xdkxKZ1JfVXFUOS1VZ1V5dmJ2TVl3VGZScmMxNDFHZTliVzBJQ2RVU21Qam1wOTY3WXNa?oc=5"
+  },
   {
    "ts": "2026-10-15T01:16:10.538569+00:00",
    "kind": "news",
@@ -6904,11 +6912,6 @@
    "ts": "2026-10-14T12:31:34.576289+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Minnesota Poll: Trump’s unpopularity deepens as voters sour on economy, Iran war</b>\n📰 Star Tribune · Mer 14/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE9INF9lUm1URzFkek50Y2VBNXVPOExONFJMX2tBNUJPOFM2RW9BNTltcHBzUk1oaVZ0NWxxQUtMeHk1TjJ4clRTcTdZVkpZb0Y4bzJXVnpYb3ptVzRHc2hCZndNWUllT0k1akNXOXd3ZVVwV0Jzc0k1dG1oWDJndw?oc=5"
-  },
-  {
-   "ts": "2026-10-14T12:31:33.736269+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran at Alaska rally as nuclear concerns escalate</b>\n📰 Fox News · Mer 14/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYTFJoU3dia1R2aUd3OTU2b1RHUTdMMXpGY0RZVjNyQzZYYmlfcnI1U0NYMVZDdEFwaGdsWTVTOTJ2Y0J4Mk9WTWwxdU9YQXBUZFRXLTV3?oc=5"
   }
  ],
  "daily_forecast": {
