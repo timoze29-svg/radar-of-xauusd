@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "80763ccf561b",
-  "85af1372d994",
-  "bb83cf3bf0d3",
-  "31886e9fcdc8",
   "1c7286cc7e5d",
   "b2a913552609",
   "9377bbb87fe1",
@@ -4066,9 +4062,25 @@
   "42072e4d9847",
   "e96038e589c5",
   "a4dbf70322a0",
-  "8b95e16e104e"
+  "8b95e16e104e",
+  "f12af3d69865",
+  "c744fd74209b",
+  "c9605bea4f37",
+  "1154ba5633aa"
  ],
  "news": [
+  {
+   "title": "Accelerating CPI Inflation Raises Prospect Of Further Fed Rate Hikes",
+   "source": "Forbes",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVtWF9VVGwzM1VhTGdNcVdjeldVc0J3RnFnNUNrWDBHeVhwSWxWbXMzVVM2azVzd2RCdFNjTUdHZktTampxLUp0b0JORDdtZHR0SGlQaVgyczlaSE9HMnhOa01UdUVfaUc3alh0ZlJDdi0zdXJqS1NYMVJYY0FZbzJ4amZCMUxRQ1lKOFJCZjFyWHJTbXB2Y3JCeF81c0RCbE9CYWEtWEtzMnpHZ3lsc05UdkZVdWh4Z3hzTQ?oc=5",
+   "published": "2026-10-15T18:45:39+00:00",
+   "id": "1154ba5633aa",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Houthis launch deadly attack on presidential palace in Yemen’s Aden",
    "source": "South China Morning Post",
@@ -5966,6 +5978,18 @@
    "method": "IA"
   },
   {
+   "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
+   "source": "Reuters",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
+   "published": "2026-10-15T03:18:00+00:00",
+   "id": "f12af3d69865",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Yellen: One More Rate Hike Needed to Curb Inflation, Fading Supply Shocks to Do the Rest",
    "source": "Kathleen Hays Presents: Central Bank Central",
    "theme": "Fed",
@@ -6443,30 +6467,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Tensions persistantes avec les Houthis au Moyen-Orient offrant un léger soutien refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Doug Ford warns Trump's tariff war with Canada is here to stay",
-   "source": "Yahoo",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUNlZFhDSjBJTnlNX0xteFI1RmE2UGxXa0NjRGY3YWtQMlpSRjBnRi1TNjlBM0JFdjVqMVlXak80bXplcjBtUGV0NTc2Qm9jaC1WX3hjeVFSZG4wNW9oRndtSzJ5WGszYkFXVklNZzI5dG5WWlVYZzhVaUtRZVJxbU83M0ZsSmZnUWRqN1ptcHZoN3c?oc=5",
-   "published": "2026-10-14T18:37:22+00:00",
-   "id": "d48336f39a50",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Guerre tarifaire durable entre États-Unis et Canada renforçant l'incertitude et les risques d'inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "Ex-Canadian Minister: Europe Caved on Trump Tariffs",
-   "source": "Yahoo",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWV9VOVJSMHJwajFqOVVvZjlDODdrMlVzT1JGMzhyTUpwU1RfRzNnY01Ud05tQURDdmZfalpKMG5oQ0JmdXpmN2M0REUtUVE0d3JBdzZQWk1oZC1VbVoyU0xkcnpFejJmWURTdWpsVGRtcHB2bWE5dVcxUFg0SE5WRUJjRVZKQ3FGZjBUWTJxWlQ5ZGxjeVJBTw?oc=5",
-   "published": "2026-10-14T18:35:22+00:00",
-   "id": "eba33102fae1",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Concessions européennes réduisant modérément les craintes d'escalade douanière généralisée.",
    "method": "IA"
   }
  ],
@@ -6974,7 +6974,9 @@
   "news|2167e9423281": 1792083882.765921,
   "news|7746c4112ef3": 1792084571.5290868,
   "news|d70b31608fc6": 1792084572.3994493,
-  "news|5fcaeae3115f": 1792084573.257822
+  "news|5fcaeae3115f": 1792084573.257822,
+  "news|1154ba5633aa": 1792091768.962711,
+  "pre1h|2026-10-15T16:30:00-04:00": 1792091770.103546
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7061,6 +7063,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T19:16:10.103829+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 74 MIN — 22:30</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.46% aujourd'hui · taux 10 ans -11 pb · biais or -11 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 80$ → attends-toi à des mèches rapides."
+  },
+  {
+   "ts": "2026-10-15T19:16:08.962763+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Accelerating CPI Inflation Raises Prospect Of Further Fed Rate Hikes</b>\n📰 Forbes · Jeu 15/10 20:45\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVtWF9VVGwzM1VhTGdNcVdjeldVc0J3RnFnNUNrWDBHeVhwSWxWbXMzVVM2azVzd2RCdFNjTUdHZktTampxLUp0b0JORDdtZHR0SGlQaVgyczlaSE9HMnhOa01UdUVfaUc3alh0ZlJDdi0zdXJqS1NYMVJYY0FZbzJ4amZCMUxRQ1lKOFJCZjFyWHJTbXB2Y3JCeF81c0RCbE9CYWEtWEtzMnpHZ3lsc05UdkZVdWh4Z3hzTQ?oc=5"
+  },
   {
    "ts": "2026-10-15T17:16:13.257935+00:00",
    "kind": "news",
@@ -7350,16 +7362,6 @@
    "ts": "2026-10-15T10:46:04.398106+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Zelenskyy Defies Trump, Orders New Russian Refinery Attacks</b>\n📰 Bloomberg.com · Jeu 15/10 11:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVl6MHVoTzE4azNQVmZ4VUFpSlV3eHhWU2pEMkJvcUhqTEYzNmZ3akI0Zk1WeDFKaUhuVHZkTFZzNVNOZVdhbzhxenhIOVctcXRnbzU1YzQtSmF2ZXNpZGFTNmROZlpfZElQdWhUVzA5MkNMX3hTQlFLR3dQUG1DV3BXS1Jsak5yT2xQYzhvZmNramt3eDQ1VFJ4ZzlGbDN3Qy10VG1sT0E0dWozNmlFeDRZTHZ1aEJmY1RaXw?oc=5"
-  },
-  {
-   "ts": "2026-10-15T10:34:32.139990+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia and Ukraine resume energy strikes despite Trump warnings</b>\n📰 The Guardian · Jeu 15/10 12:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-15T10:34:31.165075+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live</b>\n📰 The Guardian · Jeu 15/10 12:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWlg5N3lpNlF3R1NJa3BIQ1lDbUpzLVE1bFg0NnVqdlR0UjBTZzlNUXRJWFN1RU0tU1EtMDViTkV4VEpiT29OaFRQT2Zud0E5SmJhMjFaR0FrNDg4RnFSU0hZVnF2LWg2THk2U2VzR1d3bXdvdXhUN2d5ckxjYkZxSXNqVkdpN0dzLUYzZFBHY3NqdHVZUDk5RVBYRGQ2ZmNSNjZ3Tll0dmY5OWFUM05YR1huUEgzNlEtaExxMlBwSzYwaDBQVTdKTnVrY09RM0lqZWhHNlhPc2F5NmdYSU9oVWNoSG1VN0kwbEJIQTVqekl1RW8?oc=5"
   }
  ],
  "daily_forecast": {
