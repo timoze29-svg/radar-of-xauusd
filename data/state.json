@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "db53c5a0c9af",
-  "e51f48b64dc9",
   "92ba863b9a15",
   "72da2c05431e",
   "01555ad25454",
@@ -4066,9 +4064,23 @@
   "658820e576fd",
   "46acae9f6c2d",
   "12163b63fc34",
-  "cc4f25da774f"
+  "cc4f25da774f",
+  "a5d2740da858",
+  "0a5bc98127cf"
  ],
  "news": [
+  {
+   "title": "Trump trade chief denies tariffs behind inflation ahead of midterms",
+   "source": "Deseret News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXVfbG5YNlNpS0hlWmRzRnNEdmVHMWtuVnR4eDVydGJ6Rm5sc3U3SmFabWI5RGoyY1ZGSWdKN25VOTB2RFo4dVV4aFpDRXpzMDlWTG1rc2VDdTF6YUNfTGpYb1AxcTVYTEhSLVJzeVBZWnBWRmF1QkYtakVXc05HU016OFBOX1NwTG1RN2pOeUIzRWxoQXkxX3dmOENyMF90?oc=5",
+   "published": "2026-10-15T20:02:52+00:00",
+   "id": "0a5bc98127cf",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "Débat politique sur les tarifs et l'inflation, effet de marché quasi nul.",
+   "method": "IA"
+  },
   {
    "title": "White House prepares plans to use weapon dubbed \"mother of all bombs\" on Iran, sources say",
    "source": "CBS News",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Frictions techniques dans le conflit ukrainien avec un impact marginal sur le risque global.",
    "method": "IA"
-  },
-  {
-   "title": "'We've done so well there' - Trump on Iran war, reflects on gas prices | Midterms 2026",
-   "source": "12News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOUdsaFBzRTNCU2t1anZETkZCc2hQZ1F2dmJfOXhDblREUlhjS05MY1doNXBEYmpzSy1MYW1RZlMwb3NCMlpWRmdVZDN1X2RRY2Y3ZEsycFpZTVNvMVYzYm9JemlKTGpJb0ZLWUdaUnFrRGZhNXU4RjRaR2xJdlNEbXlvXzVIVmNfZW0yV1FfVWtmRlBMMDJJcy1Ga3ozeVItTk1veWJJalJraXNFZUlOaGNsczdLUkZ1M3NwZXdwSUw2XzZkYmY5N3VyMndpbGRjR2tPVXpJc3duVkYzaW9sQl83WE1UUjRjWUYyNEg3aVEwclU?oc=5",
-   "published": "2026-10-14T21:03:00+00:00",
-   "id": "d8abaabba668",
-   "impact": 3,
-   "cat": "politique US",
-   "raison": "Rappels de tensions militaires et de pressions pétrolières favorables à l'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6983,7 +6983,8 @@
   "news|4517e65442d3": 1792092694.6988683,
   "news|fb60291517e7": 1792093564.7060547,
   "brk|GOLD|pdh|up|2026-10-15": 1792094502.1247594,
-  "rep|recap|2026-10-15": 1792094503.9106915
+  "rep|recap|2026-10-15": 1792094503.9106915,
+  "pre15m|2026-10-15T16:30:00-04:00": 1792095541.2115722
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7070,6 +7071,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T20:19:01.211605+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>11 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
   {
    "ts": "2026-10-15T20:01:43.086037+00:00",
    "kind": "recap",
@@ -7364,11 +7370,6 @@
    "ts": "2026-10-15T11:01:47.855371+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Admits He ‘Might Have Gone Too Far’ With Iran War</b>\n📰 Yahoo · Jeu 15/10 11:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUJhS08ydTFNRzFLa2ZXRWdwajN0N1ZJZVdRY2JUdHFCQm1DdzlvNG92RDhKLVpJR0FFam9FdDIyQ29JbkI3dXFsZ1JYdU5WQWdRMHpXTFlSNC03R2hYc3VXRGZXQi1xVEFKZkI2eW1ERjB4a3I4ODVVLUpMWWFWNWFZQmMxdw?oc=5"
-  },
-  {
-   "ts": "2026-10-15T11:01:46.907983+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>UBS extends Fed tightening cycle forecast with March rate hike after inflation surprise</b>\n📰 aol.com · Jeu 15/10 12:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://www.aol.com/articles/ubs-extends-fed-tightening-cycle-092129000.html"
   }
  ],
  "daily_forecast": {
