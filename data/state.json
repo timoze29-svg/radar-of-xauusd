@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "93654a58be4f",
-  "058e0eb3eb06",
-  "b9d3368b7c7e",
-  "f61406b74039",
   "ad545e1db814",
   "a8379db3df45",
   "12416bc658a3",
@@ -4066,7 +4062,11 @@
   "3e2b878b3c1e",
   "70d836c0dbd1",
   "b0b3670d4b9d",
-  "d206d70a229a"
+  "d206d70a229a",
+  "f858e66bc529",
+  "c5799ce1717e",
+  "acf8908f9c0e",
+  "995069bbdcc3"
  ],
  "news": [
   {
@@ -4862,6 +4862,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5",
+   "published": "2026-10-15T10:08:00+00:00",
+   "id": "995069bbdcc3",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russia says Ukraine resumes attacks on oil refineries",
    "source": "Al Jazeera",
    "theme": "Russie/Ukraine",
@@ -5543,6 +5555,18 @@
    "impact": -6,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Live Updates: War returns to Iran with Israel, US strikes",
+   "source": "Dawn",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
+   "published": "2026-10-15T05:55:39+00:00",
+   "id": "c5799ce1717e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6444,30 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "UNSC Urges De-escalation in Yemen, Stresses Sovereignty Amid Iranian Plane Crisis",
-   "source": "Yemen Online",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mUnhLWnZIUm9sQTlCbmtrb3pqcS11X1UtMGM4MHl0RTFNRzJrNzdiR0c5NHFUME5Jbnl6emlIdnIwWXJUQ3dkdVBtTnpFRHpP?oc=5",
-   "published": "2026-10-14T15:32:11+00:00",
-   "id": "6589e6e68511",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "U.S. Consumer Price Index: Energy and Core Pressures Keep Fed Tightening Debate Active",
-   "source": "Haver Analytics",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzVqNGQ0dXBteFNxanNRVmg5WTFlNVdkN0ZOWEhyVnZwSGtRdEk2YVY5M0RFQ0xqQ2hsNW5hOUYyMU9ObDBjaTVib2JOM1VQUzJDSm5yckJiWlB6VWUzNk9mMllvTHJVT1FFZHptYUtVb0JTemhadW1tNC1jRHYtUE1hM3djemExMkZSeVFIdHFkOEk0VWxkRlAtMW1aMHpVM0NqcGM5RVdfV0FRbkZKU2c0bVZadw?oc=5",
-   "published": "2026-10-14T15:31:58+00:00",
-   "id": "45f057851310",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -6968,7 +6968,8 @@
   "news|7deb9e3b48f1": 1792076507.9413624,
   "news|c493792579a0": 1792077375.3067663,
   "news|e7f6d43cf1e9": 1792077376.415202,
-  "news|afe45a1503f2": 1792077377.455363
+  "news|afe45a1503f2": 1792077377.455363,
+  "news|c5799ce1717e": 1792080099.0969553
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7055,6 +7056,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T16:01:39.097012+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live Updates: War returns to Iran with Israel, US strikes</b>\n📰 Dawn · Jeu 15/10 07:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5"
+  },
   {
    "ts": "2026-10-15T15:31:30.820768+00:00",
    "kind": "dollar_pressure",
@@ -7349,11 +7355,6 @@
    "ts": "2026-10-15T08:46:07.943335+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Social Security Is in Dire Straits, and President Donald Trump's Policies Are Making Things Worse</b>\n📰 The Motley Fool · Jeu 15/10 10:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHlkTE53MzRMbldWT0dkTGd3OEJ1RV9kdWQ0b21ZRW0yRjhpNTdqaF9qZVRyVXg4bTI0TVhzYzNJbzV3THZKWk9HOXBfNlhZQWZSRXN2RmdDTjFKT084Z3JFNVFmUkJlSmxURTJhQmdlai0xbjNqMHdmai1kMm16QjhjMUFuVkptdWJMbnVpQng2SzdaOTlzdlRWYVlKWUVqX2owZlZrUEdLb01ZMUFIeTUwdlItWW5zdDk4RWFGTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-15T08:01:43.353367+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel threatens to seize more territory in southern Lebanon if Hezbollah joins Iran war</b>\n📰 Arab News · Mer 14/10 14:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOekE3a0lWNGFOWkNBUS1pMDlSUVZyRXJXREZyR1VtSkNja2VMZGs4cnptellKVGtZNnVaTG04S012RURDN2NzY1RTSXVGSjdtZmxzalJpcXotOF8yajBiRXFTQW4wRUZYU3pBaDhJWW5rdk9WbXYtMHV5cDhWVE55TzhPYWlIQkVpY1BiR00zSDBCS1NudGFPWk5JZVVVOHhDeGZPeXA2eGZEZUl2Q29aenQ2WXc1bWFYNEM1ckY0Wkk0Rk1KbEpTb0ctaUlDQQ?oc=5"
   }
  ],
  "daily_forecast": {
