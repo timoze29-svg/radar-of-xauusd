@@ -3750,7 +3750,13 @@
   "810924b10bd7",
   "00759a1a9e9a",
   "20edb616d525",
-  "abc12d5083ae"
+  "abc12d5083ae",
+  "6ee0d9945c40",
+  "808396c14e62",
+  "60521d0dfed5",
+  "d127b2f187bd",
+  "38057feaff92",
+  "9c15119fb5e7"
  ],
  "news": [
   {
@@ -4673,6 +4679,18 @@
    "published": "2026-10-14T13:20:11+00:00",
    "id": "0bd38cf9f809",
    "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Houthis unrelenting in their escalation as IMF warns of global fallout",
+   "source": "The Arab Weekly",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalVIMi1KUHNzLUhpdkEwOFBvdHNNVXpFXzVqbUh1NmR5NlI1bXk5WkN1OVdLdmxNdDZtekhrOEx6WEZZSm90OUptQ3BGMEFnWWQyOTU5RDN4dnhWMjRXOXpZV2dWMnFPSVcyREpVUndNQVNzaldva3hOM2hfMVpxUE1haEVXYU9JQ0Vac29VRjA?oc=5",
+   "published": "2026-10-14T13:14:07+00:00",
+   "id": "60521d0dfed5",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6140,18 +6158,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies",
-   "source": "EnergyNow.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5",
-   "published": "2026-10-13T22:57:17+00:00",
-   "id": "e01050cf0724",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -6584,9 +6590,11 @@
   "post|2026-10-14T22:55:00-04:00": 1792035091.5947814,
   "news|810924b10bd7": 1792036896.9899874,
   "news|00759a1a9e9a": 1792036898.0049262,
-  "news|abc12d5083ae": 1792036898.9893444
+  "news|abc12d5083ae": 1792036898.9893444,
+  "brk|DXY|pdh|dn|2026-10-15": 1792037770.812951,
+  "cyc_end|2026-10-12/2026-10-18": 1792037771.7915585
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -6655,6 +6663,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T04:16:12.689496+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -16)\nMoteurs principaux : Momentum or (vs MM50) (-14), Taux réels 10 ans (20j) (-13), Sentiment news 24h (+12)"
+  },
+  {
+   "ts": "2026-10-15T04:16:11.791596+00:00",
+   "kind": "cycle",
+   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-112.9$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.6%</b> des semaines baissières (53.8% quand le mouvement est fort)\nRetracement médian quand ça inverse : 89.7%\n\n🎯 Zones de retour : 38.2% 4151.03 | 50% 4164.35 | 61.8% 4177.67\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
+  },
+  {
+   "ts": "2026-10-15T04:16:10.813006+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 102.08 → prix : <b>101.99</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.46 | 60j -0.53"
+  },
   {
    "ts": "2026-10-15T04:01:38.989557+00:00",
    "kind": "news",
@@ -6939,21 +6962,6 @@
    "ts": "2026-10-14T13:35:47.008643+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked</b>\n📰 CNBC · Mer 14/10 14:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNUFJM2owdTNnTkFfdE5lZnZtTG1yYVpHUTVwdnVlMnFZblRnNjhLczM4QncwNlhpS01LM3BXWEdNSGphX3dsaUo4VE1lSjJZS1c2ZFVyUGYxWldZUURNMnRYZkkyb0Z4R19uZ3AzYlB3VFVYaFHSAXtBVV95cUxQQnVidjVNVXRTS0hOVUpyMThmOTRCaHhRRDNKUU55TFg4QWhicXlTZGd3SDRXQzJoX2ZMT2F3XzJ4LU5kQlgzak9IbG5QXzRCMnM3dk9RdUJqSXd5OGRDUlNGN3ZQQlAzS3R6US10UDNWRFdNcnBsSDktcHM?oc=5"
-  },
-  {
-   "ts": "2026-10-14T13:35:46.155428+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>🚨 US INFLATION SHOCK: CPI SURGES TO 3.7%! FED RATE HIKE FEARS Return!</b>\n📰 Moomoo · Mer 14/10 14:45\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbi0yRkRvdmJCb1ktMEROWGhPTnJqcFNWWnZyMTdLWEtwSDRiWGctckhXOENzSkhxenN1a01JYmJlZklVYTMyY1FNclpaSElZVEhoNFNMNTJvYVZab1hDVWk3SUplTkU5X0JIVGR5VllULWp1cTFKWHNYVDdET3JjTTdUOUlkUTR5NnJMbmwyZlkxV3B5WW0tZC1TM2M5WWZZ?oc=5"
-  },
-  {
-   "ts": "2026-10-14T13:31:26.009328+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Axios: Netanyahu discussed joint strike on Iran with Trump before Israeli election</b>\n📰 Middle East Monitor · Mer 14/10 12:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd1M5dEJXTlphczhPOVlxeXd6OTZOalpvR19IRzl2S1NVc3BaMFRBdGpFOEs1Mm0wVURlUTV0ZGxtUTdObXh0TDdTSENjekJxWWEyVGR3SmZTeGR1dnp5MFI0dEdJWXBBRk0zY1g1ZXd5VUhGQ1VJS2dqU0pydERlck0ySm53OEtfZHRWdG8wTWhmbEE4LUdlRzdrdTU0LTZ2eWJmSUx6U2ZTV2tkNkh2VzlwUkJRc1NTSW9mNEJrSXhhTEXSAcgBQVVfeXFMTWV4bTNSbU5nVjI1WGlDdHFXVW9CRGJBOG9rQVl6SzNkZFlrZjNWZVB5cjgzcTlSdE56bzdHSlVva2dmTDZvdTdtUHNoOE5mZUtJUWVxUDRZbmoyb0tXekRhT2FwekNjYngyQzR5LTBTWHY5Zk9kb1JUbTZFb2ZvS2ZyeldXUXpIdW9WemJwOHljTjEyU0R6WkhmS3NTakxqc3gwTGkyZ1lJQTNsS3R0NjA0dHV4UHd1MmR5bE8zTkhYZE5ER1lzeFQ?oc=5"
-  },
-  {
-   "ts": "2026-10-14T13:16:12.495513+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n-2.041 aujourd'hui = 1.7× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
