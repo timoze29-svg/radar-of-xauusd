@@ -3807,7 +3807,12 @@
   "478d2df4f733",
   "a0cd9bd2094c",
   "56cc7929ec8a",
-  "60a53d9b6683"
+  "60a53d9b6683",
+  "c0042dfcd6f6",
+  "b9cc510d97ae",
+  "cff852d3e9a7",
+  "f75e03599568",
+  "a6de8949a734"
  ],
  "news": [
   {
@@ -3823,16 +3828,28 @@
    "method": "IA"
   },
   {
+   "title": "MTA says Trump's tariffs added $1B to cost of NYC's new train cars, buses",
+   "source": "Gothamist",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSERtN3JyR1d1emRUazI2UGgwOVhSbGJxZ005SE1uU29YRXhKdjVaRUxscHg2YXlXSk5aRUE1N2M0REowXzJiOFFUajlvNVpOZ1M3Z082MHJ0aWY0eE1tempsRjEzT0NnOHlORHRvbDR6NnBXUlhaWkhsR1JLTDVKdEtOVXVmaGpjSWRmdnplUk14b0o4Q19XSG10bWY?oc=5",
+   "published": "2026-10-15T06:07:26+00:00",
+   "id": "c0042dfcd6f6",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "Illustration locale des coûts tarifaires, effet macro marginal mais légèrement haussier pour l'inflation.",
+   "method": "IA"
+  },
+  {
    "title": "Israel Will Not Attack Iran Before Elections, Netanyahu: It's Bad",
    "source": "VOI.ID",
    "theme": "Iran / Israël",
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBqVWtjT2V5M1F1Z2FRVlIxNGRfWTNrT3puM09tVi1hamoySEpadEloRWg0UDYxaTYxb21QNEdtR3BsVkHSAUJBVV95cUxPWjdJRU1VY3Y0VEpOeWtGOFlFekFQNk1GTEdpbnV2TlpOZFR3YVRfT2o3RWFNZE9SNzg3U19uelJKV0E?oc=5",
    "published": "2026-10-15T06:05:46+00:00",
    "id": "58eaeb7868b5",
-   "impact": -4,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "raison": "Report d'attaque sur l'Iran réduisant temporairement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports",
@@ -3841,10 +3858,10 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmt3MmNHZWJGNkVUMEV6MS00VmdnZ3U4LXpGVE5PUk1ZYXA2TjhQWm9lMUtObEVyZTlqejdpeDhKZlV5QVI0dWV6VUE3cXFtSmd3WUQyTldneXBQZjB0dU5lRTItQTc3YWZJRXB6NjRfOGZaVzhYUjExQmhYQ2lWUFlkXzc0TkdNWUl6S0xrMkZBZmNCYWpLUldwVDdsTGh5ZnkxSlFPWEdKWXhzZ2FLRVI3LWk?oc=5",
    "published": "2026-10-15T06:03:00+00:00",
    "id": "b864aa88fa9c",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque de flambée pétrolière et regain de tensions militaires favorables à l'or.",
+   "method": "IA"
   },
   {
    "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
@@ -3865,10 +3882,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTRlWkNnOW16bnlsYkFZOUZ2UHZRRTZYZXhOYjU2R1oxSW9kbVVidXhDYnM3Q1hjMjE3Tk1tZjFBV1JsT2JmTmI2dXA4dFFYcUF1cFB0YjJQWFNrb2ptck94N0lyTGpqNHlDaUdMRy1mUEQ0TEJ6R01aa2RqZjljWVUzVDh3b2J5cFJJZnd1VEhjU2FObEtrMmVOUFlkVUxfVUt4V25iZWUyUXNLV0wwd3RR?oc=5",
    "published": "2026-10-15T04:53:04+00:00",
    "id": "718c235971ea",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Espoir d'apaisement rapide avec l'Iran diminuant l'attrait pour la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Iran war: more oil is flowing, but the risk of escalation is growing",
@@ -3877,10 +3894,10 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVpnQXhfMUp4S2NQMmZ6TXgtTnpwa1BrdkJsdWpIMkNJSjVNYkVBRGhQbEo4SU4wdDVMUjc5am52aXo2SE5NWG9RM2kyXzVXeFR0U0JNUklYY1FuVExsdFl6dVMxa2ZteDZQcTJJbGI1blVMTjJuWEZ4NUxhWXZmT0R1aV9tTW9TZEdDejNrZGNwWnpsM29RZUZwbklEN3JSMG9JbA?oc=5",
    "published": "2026-10-15T04:30:06+00:00",
    "id": "98036a549e46",
-   "impact": 10,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "La montée du risque d'escalade régionale soutient la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says",
@@ -3901,10 +3918,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXo0UGtXa1ZlVDJ4SDZUYXl6RWNMTk84eDVRbEdrQjlaaWdaV1RnUllsSzFoZ1NyUFplOThtUXhwVTNJTUNyQ2tqM3dDc1dPOU1CTWM1dWF4MmVWalo1MnVOZWpYeEtoZnNNeVNhVFRhV3JRZkx6aDZDSWU2MkN3a3UzTjVJN2txZzhn?oc=5",
    "published": "2026-10-15T04:01:44+00:00",
    "id": "742e1fee737c",
-   "impact": 8,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menace d'escalade militaire majeure américaine stimulant fortement la demande d'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
@@ -3913,10 +3930,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5",
    "published": "2026-10-15T04:01:04+00:00",
    "id": "97694ca6cd91",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces sur l'appareil énergétique russe ravivant le risque géopolitique global.",
+   "method": "IA"
   },
   {
    "title": "Trump Touts Weapons ‘Super Range,’ Guns and Tariffs at Montana Rally",
@@ -3925,10 +3942,10 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHh2bm5NYjdUYVpmYzJjN0x2cjk3ZnoxMDRRRDN1cjZqdFVPV252dGJrSm9XRDl1QzM1RDJPQmFCTXdwRFpvbXhxNEI1TjRPM2I2Q0h2Rlo5dGxaTWp5amxBa0RSZUE5di1jUFpDTHpXSWNYU0ZMLUxXYlo1eVJyZjVMLUZ2bkx5dGdsaGI1Y0h2STB1SEI4TTFCb19obDdP?oc=5",
    "published": "2026-10-15T03:52:00+00:00",
    "id": "20edb616d525",
-   "impact": 5,
+   "impact": 1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Rhétorique protectionniste rappelant les risques tarifaires et inflationnistes à moyen terme.",
+   "method": "IA"
   },
   {
    "title": "Colorado GOP U.S Senate candidate defends Trump's Iran war",
@@ -3937,10 +3954,10 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnRJR3ZUcWNDYnZKcV83T2ZtZVlMcmpCUEJvT09abHBiWEhoRTNoa0lWNnNHX1FHOFJNNzN1MzlKTE5kLWt1SHZXTmZENndxLTdYaTE3YmlIZWlIZnNhSmh4YnpWLVZ3dkZVTDZjRjB0bkVrdDBhVml3aWhlQnVDNU5wbG81VmdZMVYzSUdmSldrUTN1ekhrZFdieUFGTi1pVGF3cG93?oc=5",
    "published": "2026-10-15T03:51:47+00:00",
    "id": "810924b10bd7",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Déclaration électorale locale sans portée macroéconomique sur les marchés mondiaux.",
+   "method": "IA"
   },
   {
    "title": "Exclusive Interview: Trump says Iran war will end soon, oil prices will drop fast",
@@ -3949,10 +3966,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzFaLVpmRWE3M01hbnlSRHBScW5GdC0yTXQ4ck9YbDltQXZtTF93bHJydUpodGNtZGxPNGZNYWVFdS1sUDFoWkpIbnN0RjJlWG1oVkh1Z0Z3Z2pELVhHUzNobXlyMDhyZzRtSGtUck9mMmd5Zmo5OTVFazg0TnpQUjNPRGdDOUVDcGVqTFNyOVE1VHhYZUxkWWxrMkhwdEVUTldab3ZVaC0zR0lrU1hJV2xicjlBR1UyUi16UDRoVHNHYzA?oc=5",
    "published": "2026-10-15T03:50:13+00:00",
    "id": "00759a1a9e9a",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspective de fin de conflit et baisse du pétrole défavorables au métal jaune.",
+   "method": "IA"
   },
   {
    "title": "BREAKING: The peso breaches 63 to $1, touching 63.15 in Thursday morning trading. A trader linked the drop to stronger-than-expected US inflation data that revived bets on a Fed rate hike this month. Trading is ongoing. | via Keisha Ta-asan",
@@ -3961,10 +3978,10 @@
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEFTdVB1SHVTT0tvWm04VkF3d0JKeDRLNkNySmdMNXpRWWN1SnVQbmxQWXQ4MnVud2hjVXZPbi1hUDNSSFR1T2RudS1TTThrMF84Q05ORGdjd0dESzF2UkszbC11SjRITENaeEIyZjdZRUpoZEJ4UXBLcjU2MU11Rlczbk5VVlZ1a0VZc2hValhjMzRHMHIyZ0I0SXRuOWxfT01ISzdNVGl4NDBjWjB4ckM4cXdsOVdGcjVVRFV0SURtUHpORk04VmxMR1BsR01wZTl2NTl5UWQ5OGRo?oc=5",
    "published": "2026-10-15T02:50:45+00:00",
    "id": "fe91a0648e27",
-   "impact": -8,
+   "impact": -4,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Résurgence des craintes d'un resserrement Fed, propulsant le dollar et les rendements.",
+   "method": "IA"
   },
   {
    "title": "Jordan's King says 'a lot of work to do' on Middle East de-escalation during Australia visit",
@@ -3973,10 +3990,10 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ2drRC1zQWxvLVpfaG1WeHpBWDlYWUNEMk00RTRBN1Bza2hNWlo0bmhxZnNWNEJQS0xCV2ljZ2NJWTctNklvREs4MlF4UXN3WnRpU3lJWG9rbVJ0RmNDOXVQR2dlb2ZXeE55RnBqeWFhUHRtSmpOSDdNaVdLbWhYd0tZX0x2c21QNUtHLXNpcGhhdkN4YXZyNjNvMTJPUUFLRU55ZFNWZGlGRGNFcHZV?oc=5",
    "published": "2026-10-15T02:48:42+00:00",
    "id": "58f1bf93c09a",
-   "impact": 1,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Propos diplomatiques généraux sans impact immédiat sur la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Trump: Tariffs don't cause inflation",
@@ -3985,10 +4002,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVhoU0I1STZtV2ZZWnhsM0lUNmFrSE5lOVNxMFQtTDFwa1h6X1RmX3I1NDlqeE1mR3g1VTRVV05QZGdHLWc1aExHV08tS3N3eFRYcXZuNXUxVnVzbDNWVW5rbTlhNVFfaXlQVGtodGxQWFZsaUJOMWM0dDhRTktDMWxoNldRT1A4?oc=5",
    "published": "2026-10-15T02:03:00+00:00",
    "id": "e63e32305bb8",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Commentaire politique sans influence sur les anticipations d'inflation de marché.",
+   "method": "IA"
   },
   {
    "title": "Australian Dollar weakens against Japanese Yen following weak Australian employment data",
@@ -3997,10 +4014,10 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdVFYelpKaDBTcFVfRFJqdzJaSnVuX2VUZzFQVVk5WlJhR1hZUUMtZnF3TTIwT0w0T09LOWhFaWlNb3RBN3pFMEdWVXZHOW9SdzFEMDduY2dMZGV5OXNMZzJReHp1eUdjSFBTQndZWVNiNVIyMWNLdGVyQmFOcjQxZ21pMS1XNzB1d3ZSOFZuMXAtWkNSS0lnSUJUZEpjQ0pqOElVQzF4aUNFOEp0UzdkRGluZkdhcmx6dlpDVHgyNE1FMXkyTnViZ1d3Zw?oc=5",
    "published": "2026-10-15T01:59:38+00:00",
    "id": "9ecad2613975",
-   "impact": 5,
-   "cat": "dollar",
-   "raison": "haussier or (dollar)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Données d'emploi australiennes sans conséquence macroéconomique pour le cours du XAUUSD.",
+   "method": "IA"
   },
   {
    "title": "China says separatism undermines cross-Strait peace and stability",
@@ -4009,10 +4026,10 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWdWWk55aW9zNV9TV2s5ZDZWaC1oLS1OeGFjR0R0YzRDeEdsdEhmbTlYVGhIWTd5R1Q1ZHhvTUpGRG5pS2FDd29IaVVhNVliaU4yZFU2bGFHUnI5ZjA0WWE4TWlWSlJvbkx3YXlzSVQ3YU1zNVVzY0VuR05pR1pGR05rZjFDWVBSOFU3ZWZuSzVLY2lRWkE?oc=5",
    "published": "2026-10-15T01:46:20+00:00",
    "id": "58b2ca35bf06",
-   "impact": 6,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rhétorique habituelle de Pékin sur Taïwan sans escalade militaire concrète.",
+   "method": "IA"
   },
   {
    "title": "Ringgit opens lower vs US dollar on renewed US rate hike expectations",
@@ -4021,10 +4038,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlhuMW01X3lUYUllbjFpVFZDVjI4d1dMMm1YTTctdDhkdDNOdFZjUWRMcXpWb1gyVTZvbXFqa3gyUUZXZmdjUDliWmtNd1JjbHVKb0x4NE42LWJFRkhHdjYxV3VWWHdEcFpCenZVX2NsUjFqeUZxRU8yZ2kyLWprNldtMzY5VWUyLWsybnczdVJRVERrM2pqczFudURpZ1kwXzBxVnFkbnhOcjN6enF3NVExOE5qMWZP?oc=5",
    "published": "2026-10-15T01:43:23+00:00",
    "id": "9a03e57a8209",
-   "impact": -6,
+   "impact": -3,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Renforcement du dollar lié aux anticipations de hausse des taux américains.",
+   "method": "IA"
   },
   {
    "title": "Gold (XAU/USD) Price Forecast: Selling Pressure Threatens $4,066 Support",
@@ -4051,16 +4068,28 @@
    "method": "IA"
   },
   {
+   "title": "Hot U.S. Inflation Squeezes AI Debt and Rich-World Budgets",
+   "source": "Seoul Economic Daily",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1pTR0hybXVpREFtVEtWdW02NVRpdGQydTQwN2trRDltSmVHc0FTX1d5Nm9BNG9rNmlDNjdoLUtFcjNhSTQxYmtJbmJKUjg4bE5oZzF6S0RWQ3NzMmlXWUNMclRYNmt4eHVmRGtBOXNZVkhUUEJjVTkxWXNTeGFaSlJ4MjVGQ1NGcTVRaEtVQV9kTnpBQ2Rkd1U3MzZMZklQTzNFZzkzcw?oc=5",
+   "published": "2026-10-15T00:43:31+00:00",
+   "id": "a6de8949a734",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "Inflation persistante renforçant les craintes de taux élevés prolongés, pesant sur l'or sans rendement.",
+   "method": "IA"
+  },
+  {
    "title": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says",
    "source": "Reuters",
    "theme": "Trump / Iran",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
    "published": "2026-10-15T00:06:00+00:00",
    "id": "00f22af05b4a",
-   "impact": 10,
-   "cat": "fed",
-   "raison": "haussier or (fed, géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "commerce",
+   "raison": "Assouplissement potentiel des sanctions atténuant les tensions logistiques et l'inflation énergétique.",
+   "method": "IA"
   },
   {
    "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
@@ -4075,28 +4104,16 @@
    "method": "IA"
   },
   {
-   "title": "Rogan warns Trump's voters feel betrayed by Iran war with 'no easy way out'",
-   "source": "Fox News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmRCRWU4LWlwd3FCemN4cGdTR0VFaDI4TF9FTUkyYmVNQjJWN2dQZ2xMVzhjcEpzS2J4anhmYjFkYUpWQWd1Sy1TNF9KdHdlN21WS3hGNE9kOExydThIYWhVQXRwQ1V4SDluTUl4NDU2YXNqdlAxN0VuRWlPUzMxZGxhb0tBdEpnNUdBSGtKQ2dteVpTeXdCRmZB0gGfAUFVX3lxTE4xbU91RmYzSEpWZEhDSkNFZG5XSzdxR2F4YzQwSWh2QlZfd1RQMDBlRnN0RklRd0d6ZG1DQ1Rick1yVnVCN3VUZGZrT1lia3UzelFISC1rVTU4QXFNckNTVmZSdnYxYWJ6Szd4aEhPUHJLdkt2ZnBUNFFzd1ZiU3RSLXNsLWhGUDR2OXRxZGV6cUc1RHFVYW9oNVRqU3pCVQ?oc=5",
-   "published": "2026-10-14T23:36:45+00:00",
-   "id": "b6f09e58d9bd",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "Ukrainian drones hit Russia's top data center in attack on AI ambitions",
    "source": "KSL News",
    "theme": "Russie/Ukraine",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlfRExJY3RhWG9kY05idWUtMU4weHhnazlhSVNoRk9VenFsTXZnN2hHamQtNXlJTGJxWGFmSzJXSkc2Q0FnXzM4RVJkMjJ2bDhUMlBBczE4bVNRZnZOTkYtRnJSMlJwRHMzWHUwT1VWc094SVdaMWE1eTdrMFZiVk5fdzVEcGcxTkR2Q1NUT3FpUU1oaldPdnVDNFhMUjZtY0dCMHlwS2pYNGs?oc=5",
    "published": "2026-10-14T23:36:21+00:00",
    "id": "1c006f6042fe",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe ukrainienne ciblée maintenant un niveau d'incertitude géopolitique modéré.",
+   "method": "IA"
   },
   {
    "title": "Just as markets were caught off guard by the CPI data, Waller is set to speak again: the risk of further interest rate hikes comes under renewed scrutiny after the sharp decline in U.S. stocks.",
@@ -4105,10 +4122,10 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3lNTzQ1NlJfTDZBOGZNN1VpckwyQUFpUFpDYnlsOUR3S214SjdEcTFqMVRmcDFXUnN2cloyVGVlbUQtMm5oWE5NQ0lyd3RkcDdrODI3RjFNTTBQV0hTZk1fWkNueVBoOW10UU1yTVRzU3R6b2dISkJYcFNQRXREMkhxV2ZJLVJlYU9rY1B6RUtrVXlyTEE?oc=5",
    "published": "2026-10-14T23:14:58+00:00",
    "id": "d50da0ee9aa2",
-   "impact": -6,
+   "impact": -4,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "CPI surprenant et discours belliciste attendu ravivant la hausse des taux réels.",
+   "method": "IA"
   },
   {
    "title": "ASX Preview: Australian Shares to Fall on Middle East Tensions; Bank of Queensland Fiscal 2026 Cash Earnings Slips, Total Income Ticks Up",
@@ -4129,10 +4146,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWhNZXJpc3VMV3hxUk5USktocURaVkJEbkYtaFlxZy00eDN6WXJtbUIwSGxUbGMyVDJYTzlWY1VIc1NvcDBubjZaOWZyY3haMkF0YVI1M2RyanJoTmtrYVQ5ekpTbGRYMmtuMWlnS1F3dHlkVW5Rc2dHZEd5WU01dHRLdDY?oc=5",
    "published": "2026-10-14T23:09:30+00:00",
    "id": "5b2496a61a03",
-   "impact": -5,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Signal d'ouverture diplomatique réduisant la prime géopolitique sur le conflit ukrainien.",
+   "method": "IA"
   },
   {
    "title": "US stocks fall after hot inflation report as leading AI shares tumble",
@@ -4147,40 +4164,16 @@
    "method": "IA"
   },
   {
-   "title": "IBM Study: Eight in Ten EMEA Enterprises Escalate AI Incidents to Board or C-Suite as AI Agents Test Governance",
-   "source": "Morningstar",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSUlReW93ZEV3bTQ2M2MtNWV2eHR4U09CUmZRODlfYWxiZVVra1BaSU5EOVhhMG9fV3AtV2N4U3A3dWhuUzJQRTZsQTZzSnRyS3c5cHRpbFE3RVQzSTVJVUlKeDhkeTFvTzlEbVVtVm9IT1g1eHlwcTh4Ymp1QldxcTdLZ3kyS2NKbFY3c2tGMjFCOFNVWUpCM2VDUEdHaXNMYjczNFpfMHdWQkZQZ19KUWdKbDhBZXJWc3ZmYWZ1RDBXR3RnS1gyRGFUUndRaXpqNDJJNlNPWHdrUXhlcWFXWVdrYkFXR2JDVzNEZUdNRHVPcG9TM2tlZE5kd0s2QVVO?oc=5",
-   "published": "2026-10-14T23:01:00+00:00",
-   "id": "255b6c64a124",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "Trump says he “might have gone too far” in war on Iran",
    "source": "Global News",
    "theme": "Trump / Iran",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHJOQWtvMS0tU1lLOGZQYnAyWlUzVjlreHRBRWFGQkMwN0xseG1xb3RnQ0hwM2pYNTVoa3J2UkU5XzhhdWRUUUhIOURCdG8wcWhKYUJlTm9MOVl1UEJVd2NIWEFNNWVMdm9UNmctX3ljQWhadFFhVWNxYm5MQV9NdlUxWkZiQk00NkZ0dmV1WHo0SmNs?oc=5",
    "published": "2026-10-14T22:59:14+00:00",
    "id": "68a8dfafbcbf",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Belize PM Briceño vows support for Taiwan despite China’s sanctions — Taipei Times",
-   "source": "UA.NEWS",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUI5dFJmakpEYzZJVmxETmdsSWEzZldMVWpOSGF3aENTNHRGX2JTemVsRU05YXc5TmwzTzNFZjU1NUZCYVZZR0tCQ1lMaV8yNE10MXo0d3BvSi1SamtHMlVmcmxaWDc5M0RxU1dSS1h1WVZJbUlBYnNHdDU3Q3c0Y1cxNk9WVVI5QXBuaURwZzFwZEc0VnhGVFpmQkpOelBXczJXcDIybEFkZDB0RmhfakNDU3Q?oc=5",
-   "published": "2026-10-14T22:58:13+00:00",
-   "id": "5ae00e0b9b73",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Volonté affichée de retenue américaine dégonflant la prime de guerre sur l'Iran.",
+   "method": "IA"
   },
   {
    "title": "Trump says ‘leakers should be shot’ for disclosing timing of Iran strike",
@@ -4189,10 +4182,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOV9sbHdsbTdHc1lKbHVlV0RpLUJ3WG5XclFPV2ZOQWNHVTNndmhiMGNNeERBeVAxVWNLVUdiSzBibC1ScnVKckxJblg2RDBvSFJTMzZ0TDNyTHhPMXpGSzl2bWVHZklZTmtCaWJiLVZpTVJEMk96Mkw3UWlBQ0lWQkc5VzZfd01NMUpacndfN3U4cmhOajdCcndvS2pWQmgwYlFYV0V6Q0V0UTJBSDJzMXp3?oc=5",
    "published": "2026-10-14T22:41:18+00:00",
    "id": "ddb4e17ad887",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Confirmation implicite de projets de frappes imminentes contre l'Iran, haussier pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Top Forecaster Says Fed May Hike Rates Half a Point in December",
@@ -4201,10 +4194,10 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2Jfd1g4Nll4Y1pBZWlnNXQ2U3VrQnpkT0pWRlZ4THNaaEtPSXJUblpMc3I3WEFhSUhyR3ZXVTFWOVFvdjgwOFlKU0ZGXzd6a0Z5OHUyNGRLZEdIWnlqa19JTzFXVW52cHdaVm9DSEpQYWdoQ1NSYXdqV2FreFU5Z2xnOWdFbmR4VFdaZ0JRTF9nblgtMkRwd0lFYTBLMnphbHNxS09hYmtXM1FIN1gxSHphOUQ?oc=5",
    "published": "2026-10-14T22:35:02+00:00",
    "id": "abc12d5083ae",
-   "impact": -8,
+   "impact": -6,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Scénario agressif de hausse de taux propulsant le dollar et les rendements réels.",
+   "method": "IA"
   },
   {
    "title": "How the US Navy could enforce a blockade of Iran's ports in the Strait of Hormuz",
@@ -4229,6 +4222,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+   "source": "MarketWatch",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3pITGVKR2V0NlplWHp6TGR0WldFcUVBTE5tMUdtcExFdGhFV1BTRzFZeE5qNXFCWldSOHhXeTZ2a2UxUERiTTFITXZ2c19kbUpLSVlCakJJbDlac1p4YmxZRTBhY2hkN3NmMGRDY1ZDemRObjZMczFieW01ZWV0N1RlV2M1dHlMYnVEdHpYUWhHRGkzUDRsTk1OSVZ0MGEtZ19fWTBQRVh5VXpWdmRZMV9kbWFJSGp0dXowNw?oc=5",
+   "published": "2026-10-14T22:03:00+00:00",
+   "id": "f75e03599568",
+   "impact": 1,
+   "cat": "autre",
+   "raison": "Premières tensions sur le crédit privé, léger soutien via la recherche de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Gold and silver sink as U.S. inflation data tops expectations, boosting Fed rate hike bets",
