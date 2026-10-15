@@ -1067,15 +1067,6 @@
   }
  },
  "seen_news": [
-  "b41a0cda10b0",
-  "5d46d2ca8e47",
-  "30b01f068fcf",
-  "43a8ead0e709",
-  "fee94120e23d",
-  "f20eb28621c6",
-  "730d67f6ff48",
-  "c2de934e5875",
-  "f59f693572a0",
   "7260520b6900",
   "b27ef6bd7970",
   "123a1bcab8f0",
@@ -4066,7 +4057,16 @@
   "4389c78ba96b",
   "d2dad5dd3db8",
   "df17d524ac03",
-  "1be67e41c9f0"
+  "1be67e41c9f0",
+  "ead8926acf92",
+  "5c2acae752e9",
+  "971dc037b8aa",
+  "b5a19c1b094f",
+  "a5c016553d87",
+  "f47895dc76c9",
+  "dbbf0720e77b",
+  "f462d1148863",
+  "bab3204e6ecb"
  ],
  "news": [
   {
@@ -4358,6 +4358,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Gold Tumbles Below $4,100 as Hot US Inflation Revives Fed Rate-Hike Bets",
+   "source": "BigGo Finance",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BdFNHcW4tNTQ3clY3NXJCdHd0SjBSYVBpVWFBcDV1WGVEcnRnaWNYQ2ZlbklJdENic1hNY1NkbXlQNVRyYk1qclI3SklTYllTYXd4cjU5enhiaVgxb00xNFBwWHlxaThoRFR4cFEwVDRpSFF1WGc?oc=5",
+   "published": "2026-10-15T18:06:00+00:00",
+   "id": "a5c016553d87",
+   "impact": -4,
+   "cat": "or",
+   "raison": "baissier or (or)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
    "source": "BBC",
    "theme": "Trump",
@@ -4463,6 +4475,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil Rises as US-Iran Tension Escalates After Iraq Strikes, Missile Attack",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTlINWVEOWkyeUtSTFBPenRWZER6ODRPeDkyMUJYSWhKTzYxTDlZWVduUUV5akpXdjhWNGQ0RDMyamZjRTZBNWdYOW1wdWlmNkczU1JZb1VHY3hic0dsRWVpcFk1Wkh4UXJHY1dRNkJWeVNLV0ZxemdnVXg5cUVobm50dllEaG1hWGEzV2F1RE9XVm1neFVzUzlsWDc4TEY0a0ZVeVZB?oc=5",
+   "published": "2026-10-15T16:07:05+00:00",
+   "id": "971dc037b8aa",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6194,6 +6218,18 @@
    "method": "IA"
   },
   {
+   "title": "US considering using ‘Mother of All Bombs’ against Iran, sources say | CNN Politics",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXo0UGtXa1ZlVDJ4SDZUYXl6RWNMTk84eDVRbEdrQjlaaWdaV1RnUllsSzFoZ1NyUFplOThtUXhwVTNJTUNyQ2tqM3dDc1dPOU1CTWM1dWF4MmVWalo1MnVOZWpYeEtoZnNNeVNhVFRhV3JRZkx6aDZDSWU2MkN3a3UzTjVJN2txZzhn?oc=5",
+   "published": "2026-10-15T04:03:01+00:00",
+   "id": "5c2acae752e9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say",
    "source": "CNN",
    "theme": "Trump / Iran",
@@ -6431,42 +6467,6 @@
    "impact": -2,
    "cat": "inflation",
    "raison": "L'inflation persistante reporte les baisses de taux Fed, soutenant dollar et rendements.",
-   "method": "IA"
-  },
-  {
-   "title": "Dow, S&P 500, Nasdaq Futures Slip As Middle East Tensions Escalate Again: PLTR, ARBB, SKK, XNDU Stocks In Focus",
-   "source": "Stocktwits",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNVQwNGRrUmlER1pIQTB5YTV2bDRiQXdoV0VrVXpSdTBXdlplallja1IyUS1ENFNUNnJOeWhkb3lrSVBXTTRQZ0hYN1FQTDZ4a2drcU1hVTlJRk9RTUIwc1J1N2Y1aWd2Q1pyTnF6ZFc1ZEVnYXRNYmlLaV8yN2REVHZmSEhUeFJ5ZV9FZlVoZlI2TUQ4Rk5JbXhHTUVYcFhhU05mNHBYU01YTmdsM2g0NDVvYXV1eXF3NTZvazUtZHd5bkVGR2ZrMlgtUWw?oc=5",
-   "published": "2026-10-15T00:35:22+00:00",
-   "id": "dd601585f5af",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
-   "published": "2026-10-15T00:06:00+00:00",
-   "id": "00f22af05b4a",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Assouplissement potentiel des sanctions atténuant les tensions logistiques et l'inflation énergétique.",
-   "method": "IA"
-  },
-  {
-   "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUxZM1Vxb0wzdkhXaEtETzZuTGVlbGwxYU05ZjE3TnJpS19YLUJWUWVibHJoR0s2OFdwd3BrVkhYV3JsalhuYnBBSU1TMnRjaEdodE5MVktmQ21pQl9vZkotV19vRk9pZm9EUHA0THJLV0Z3RjBzNmZtZFpMRTBLUjdDRHMycEFGMUxWWnRHMXk4WEN4YnJvYno4WGoxajd5NVhESVVJVklaTzJy0gGyAUFVX3lxTFBKTEdHZ1h2OERJOHpQQXhOdUpmYlEwVzdha0ZlcTBZYnhGODVnZHZ3ZVVIekgtd2NLNU5mWTdfZGtwdHVCdjFnUHNZdTNHN0ZDV3NybHNjNkFCd0tLQ2tvcmpmY0dVVll1UndiQkxfT0NZeUppeVROamFjMm5uMXB4VEd1MEZzQU5GQ1QzVlM0YnlNdy14V0JLZ2d1V19oN2NDN0VNTFJjZlJMRmJhbHczclE?oc=5",
-   "published": "2026-10-14T23:40:15+00:00",
-   "id": "b6511098ac79",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Légère friction diplomatique liée à Trump, apportant un soutien marginal d'incertitude géopolitique.",
    "method": "IA"
   }
  ],
@@ -6989,7 +6989,9 @@
   "news|1d56f170c246": 1792096293.6416802,
   "news|3f77416d8eb2": 1792096294.7444046,
   "news|fc7fce74e30e": 1792096295.846215,
-  "news|f06d02b329bd": 1792096296.9853866
+  "news|f06d02b329bd": 1792096296.9853866,
+  "news|971dc037b8aa": 1792097165.8508034,
+  "news|5c2acae752e9": 1792097166.861379
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7076,6 +7078,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T20:46:06.861497+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US considering using ‘Mother of All Bombs’ against Iran, sources say | CNN Politics</b>\n📰 CNN · Jeu 15/10 06:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXo0UGtXa1ZlVDJ4SDZUYXl6RWNMTk84eDVRbEdrQjlaaWdaV1RnUllsSzFoZ1NyUFplOThtUXhwVTNJTUNyQ2tqM3dDc1dPOU1CTWM1dWF4MmVWalo1MnVOZWpYeEtoZnNNeVNhVFRhV3JRZkx6aDZDSWU2MkN3a3UzTjVJN2txZzhn?oc=5"
+  },
+  {
+   "ts": "2026-10-15T20:46:05.850855+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil Rises as US-Iran Tension Escalates After Iraq Strikes, Missile Attack</b>\n📰 EnergyNow.com · Jeu 15/10 18:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxORTlINWVEOWkyeUtSTFBPenRWZER6ODRPeDkyMUJYSWhKTzYxTDlZWVduUUV5akpXdjhWNGQ0RDMyamZjRTZBNWdYOW1wdWlmNkczU1JZb1VHY3hic0dsRWVpcFk1Wkh4UXJHY1dRNkJWeVNLV0ZxemdnVXg5cUVobm50dllEaG1hWGEzV2F1RE9XVm1neFVzUzlsWDc4TEY0a0ZVeVZB?oc=5"
+  },
   {
    "ts": "2026-10-15T20:31:36.985698+00:00",
    "kind": "news",
@@ -7365,16 +7377,6 @@
    "ts": "2026-10-15T12:16:29.822267+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Escalation Of Attacks Threatens To Derail Recovery In Middle East Oil Exports: IEA</b>\n📰 RTTNews · Jeu 15/10 13:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQczVGZHNiUnFqWVcxbkt2VzByQWpHZTBTZUZrRDZYem9hV0hRWkgwYWZJbHdMaEtHNURfTS1GUV9WX2dQZWJ2SS1tQ0N4dE5MTUg4Zk1pVzRfVmI4cXVlRUJ5TzZfb2lLY1JLSTVBN3RidTlQY1J6dnYxSGp4TjhkalBrV05tMlFHdG1hZkRYN3Fnc1hubEIyWUNiVjRGeDF2T0VEM09tLURrWEVLMFE0Z0Y3SVpxTFI5amc?oc=5"
-  },
-  {
-   "ts": "2026-10-15T12:01:39.468861+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4171.80</b>  (+5.7$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-16) → maintenant -16 (Baissier)\n❌ Scénario baissier INVALIDÉ (au-dessus de R1)\n📏 Range fait : 62$ sur ~74$ attendus (85%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Core Retail Sales m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.6%)\n🔥 <b>14:30</b> 🇺🇸 Retail Sales m/m (prév. 0.3%)\n🔥 <b>22:30</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Iranian Basij female unit commander assassinated in latest attack against IRGC\n🟢 (+10) In Michigan’s pivotal Senate race, Canadian tariffs take center stage\n🟢 (+10) Attacks On Hormuz Shipping Hit Wartime High\n🟢 (+8) Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live"
-  },
-  {
-   "ts": "2026-10-15T12:01:38.120236+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu Opposes Pre-Emptive Strike On Iran Ahead Of Israel Elections: ‘Not A Convenient Time’</b>\n📰 News18 · Mer 14/10 14:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR2ktelM3cFQxcDhtbHBhTm9UN0xYZXFYNWVWblpZUEJQcm1pT2JuRXMyQmNhZzRPVkV4MmxZWm1KcW1WbEdCandrZVpJeXlQZXhjNVh1UzUxclpFQmFValZGTVhBLVd1T19LanZRNm9UT0tGSXpxb2p2em55a3RpVmIzcUJ2amg2dktoMHgzLVAyQkxvUWJ2WXZJWjR3cUNkcU9TXzBWdkVMcHN1Yy1ibnM4R3J4a1VuejlldzlzQ3JjVmFIb1NPQ1g5M0dPWW1jM3dVOXVJR23SAd4BQVVfeXFMTi02eW5faVpWV3AydTc5OUN2V1o1eWlIQTZhaTNIMmxod0hhSXEtUjJSZHNYRUxkUXczUks0bVg4UHFKZWpMLWVUSGNxSWlQMDdyYTRsY3A4RXFVUkN5aDhXNVRPbEkyV1hyT2NscHctQWN5U3V6X1pVYzNRNzIxdU1jOGVqNmhvVEdHSVZVem9NTzVoWEtUTExIMXQwTVoxbjZmZERpVjlsUWQtS0RRbm53QXRodDhNbmlTalJlNVFPdW85ZEs0WFlTZDRRYzVDQzJmZGE0eXNOaWdpQTFn?oc=5"
   }
  ],
  "daily_forecast": {
