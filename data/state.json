@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "4492eb3171ce",
-  "2f6c1c68fd00",
-  "006c3897ed4f",
-  "3e8407483788",
   "b94f4af26d85",
   "df47a3f92b30",
   "6f5c3ddd555c",
@@ -4066,7 +4062,11 @@
   "f41e72d0b485",
   "4c4632d5f711",
   "53ffd67329ec",
-  "aa20727c8218"
+  "aa20727c8218",
+  "fae2f61a15ac",
+  "e22a46ed5973",
+  "b84fa2715577",
+  "ebde9a0adf99"
  ],
  "news": [
   {
@@ -4296,6 +4296,18 @@
    "cat": "géopolitique",
    "raison": "Attaques matérielles houthies sur des cibles stratégiques soutenant l'achat refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
+   "source": "France 24",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVdEUk9ZMmJxVm9wOVloWlI1TnJibGFQOWNiTmtvejcyUnVJa2t0SWZmMjJ3dHRoUmdHSFk2LTdfWTdWN1RFNzRJUmF0N3NpSTJCWkNiMDVDb0VRRXpXN1NzQXdfNHI0eTBTRjZWanJIdXdxeXJtcTRwcDNGVUlwSU9jdDdWcmh1RmlvenczNC1Da0JlNFBMQkU5Q0tGVDJTeDl6N3ZUQktCUHFvUHc?oc=5",
+   "published": "2026-10-15T19:34:33+00:00",
+   "id": "b84fa2715577",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "White House prepares plans to use weapon dubbed \"mother of all bombs\" on Iran, sources say",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "BREAKING: The peso breaches 63 to $1, touching 63.15 in Thursday morning trading. A trader linked the drop to stronger-than-expected US inflation data that revived bets on a Fed rate hike this month. Trading is ongoing. | via Keisha Ta-asan",
-   "source": "Facebook",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEFTdVB1SHVTT0tvWm04VkF3d0JKeDRLNkNySmdMNXpRWWN1SnVQbmxQWXQ4MnVud2hjVXZPbi1hUDNSSFR1T2RudS1TTThrMF84Q05ORGdjd0dESzF2UkszbC11SjRITENaeEIyZjdZRUpoZEJ4UXBLcjU2MU11Rlczbk5VVlZ1a0VZc2hValhjMzRHMHIyZ0I0SXRuOWxfT01ISzdNVGl4NDBjWjB4ckM4cXdsOVdGcjVVRFV0SURtUHpORk04VmxMR1BsR01wZTl2NTl5UWQ5OGRo?oc=5",
-   "published": "2026-10-15T02:50:45+00:00",
-   "id": "fe91a0648e27",
-   "impact": -4,
-   "cat": "fed",
-   "raison": "Résurgence des craintes d'un resserrement Fed, propulsant le dollar et les rendements.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6996,7 +6996,8 @@
   "news|61f68581c44f": 1792099893.2435749,
   "news|c9e5711cd222": 1792100772.7730849,
   "news|218432a227e8": 1792100773.7950723,
-  "news|11e454fcaa73": 1792100774.7676508
+  "news|11e454fcaa73": 1792100774.7676508,
+  "news|b84fa2715577": 1792104366.2553911
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7083,6 +7084,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T22:46:06.255457+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says</b>\n📰 France 24 · Jeu 15/10 21:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVdEUk9ZMmJxVm9wOVloWlI1TnJibGFQOWNiTmtvejcyUnVJa2t0SWZmMjJ3dHRoUmdHSFk2LTdfWTdWN1RFNzRJUmF0N3NpSTJCWkNiMDVDb0VRRXpXN1NzQXdfNHI0eTBTRjZWanJIdXdxeXJtcTRwcDNGVUlwSU9jdDdWcmh1RmlvenczNC1Da0JlNFBMQkU5Q0tGVDJTeDl6N3ZUQktCUHFvUHc?oc=5"
+  },
   {
    "ts": "2026-10-15T21:46:14.767939+00:00",
    "kind": "news",
@@ -7377,11 +7383,6 @@
    "ts": "2026-10-15T12:46:09.163203+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US-Israel-Iran War Latest Live News: Is a Massive Attack Coming Soon? US Sends 40,000 Heavy Bombs Worth $2.8 Billion to Boost Israel’s Firepower Amid Rising Middle East Tensions</b>\n📰 The Sunday Guardian · Jeu 15/10 08:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxPcExjOEh6ZmxqakVJS3BDa0pOQVlIY2xCZDBEcnpWUHdBeUpvUlpEWnJ1STFjSWh0dWhpaVZ2X0FSYWRZcTRORDh3QnNCTHZQczVSUGhidVFscjh1b2ZKMXVma2RmRWRZa1psd280NWdHeTY1eXNQMGhWaU9Zc3JNeU5zY3lwM0ZVQ19LckpodmQzR3NVYnlGcjBKd1JZeW5abVNqUnJzWEhXUDFvRXk1bXZzZnBVWU5SZVVFakJPRnhGaXVfdW9TVklaMlJUSDIzLXFWU2FXZHZFeWZRdTB3WXl4R2Z2cVBYYWhZRlllOXJ5TUMydDBTdkNVSklHMTJvd29mZEJGZkZIZU82c1UySXU5VFc2QWxLV1JVelRIeGhMWjFOTUdKenBmclAzaDhXMWUwOHJuS3hzYXJZ0gHCAkFVX3lxTE8wU1ljTndFdmFKWG5nQmhLcTF5dWhDcXAyTFRsWFN2ajZzVWQ2R19tY05lNVZXOEdyUlEwb1hiQ2dOWWc5b01BNzY1N2lTVHFlWm50TkhOUmFnY0IxOEVISVFMZHltY1ZYZDdESE5vdUM3YXlGcWVIU3Rvd1EzeUptUzREV1BvNE1yQ2NvREUtV3cwT1h3d25YNG5lVjRaVGdiUi1iSmFsdk5zUmNQMUZzMXpvODRPdjlSUjNBYjRmNm95WFRtTVVrNUlIUjVJNDFLQ3o5WUtGMUZEUTlTM0xfVXFVbGRtZXc3b0VGeHJmNnUwZnNieHRUTWJoUHFGZ3ZLNEZKbUtMQjVtM0xNamtVS3VkNXBlOW9yQU5QVkpUQ0hXN3NwSmIwYi1fLVFfRURuN3NyYXVHSzlxN01uYVZ4X2c?oc=5"
-  },
-  {
-   "ts": "2026-10-15T12:46:08.250695+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Dollar weakens after US Treasury yields fall — Channel NewsAsia</b>\n📰 UA.NEWS · Jeu 15/10 14:28\n🧠 haussier or (dollar, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcW1GbEZxaXBvLUMxMnpmWXVGVnFlXzdtMUpHeUZ3cHo3MzAwMDBrT1VnTVhYM3k5d2ttUGlUeWdmTlB0QnM4SklsSExkck9wOHNYdTVCVUVvWkpCMnJxal9KQ0g4bW85UWQxRWF4QkxzWDdZcHFYelZTcldFNWdDUTRtSkpybDhFS3JYLTgweFZ6RlRaaEpFcXFRVzZiY1RaczBjYkF3VXZiM0hlQTlpbQ?oc=5"
   }
  ],
  "daily_forecast": {
