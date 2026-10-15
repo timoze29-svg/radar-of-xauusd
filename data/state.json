@@ -3741,7 +3741,10 @@
   "6305925a22d1",
   "039075be5010",
   "fc0841ae9908",
-  "4ead7242dfe9"
+  "4ead7242dfe9",
+  "16ba6de8bf53",
+  "4562db21d93a",
+  "38b8e0b44de9"
  ],
  "news": [
   {
@@ -6571,7 +6574,8 @@
   "news|00f22af05b4a": 1792031480.8335946,
   "news|b46dd0a4bb3d": 1792031481.8370268,
   "pre15m|2026-10-14T22:55:00-04:00": 1792031483.892178,
-  "news|fe91a0648e27": 1792033304.3655808
+  "news|fe91a0648e27": 1792033304.3655808,
+  "post|2026-10-14T22:55:00-04:00": 1792035091.5947814
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -6642,6 +6646,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T03:31:31.595599+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.05%\nTaux 10 ans +0.0 pb\nOr -4.6$ (extrême -5.4$, range 12.1$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
   {
    "ts": "2026-10-15T03:01:44.365638+00:00",
    "kind": "news",
@@ -6936,11 +6945,6 @@
    "ts": "2026-10-14T13:01:41.554933+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Core CPI m/m</b> : prév. 0.2% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>Core CPI y/y</b> : prév. 2.5% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>CPI m/m</b> : prév. 0.6% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>CPI y/y</b> : prév. 3.6% (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.43%\nTaux 10 ans +11.6 pb\nOr -49.3$ (extrême -67.3$, range 72.4$)\n\n🦅 Marché qui lit l'annonce comme DURE (dollar + taux ↑) → pression baissière sur l'or\n✅ Le mouvement TIENT (garde l'essentiel de son extension)"
-  },
-  {
-   "ts": "2026-10-14T13:01:40.676723+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MAJEURE</b> ⬆️\n\n<b>Taux US 5 ans</b> casse le plus haut sur 1 AN\nNiveau : 5.116 → prix : <b>5.129</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.47 | 60j -0.35"
   }
  ],
  "daily_forecast": {
