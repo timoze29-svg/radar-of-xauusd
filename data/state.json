@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "7cff342925db",
-  "dd3fc9831d1d",
-  "41031d2b7a2a",
-  "46acae9f6c2d",
   "492471a4e563",
   "52af3d47f382",
   "916b62463b99",
@@ -4066,9 +4062,25 @@
   "71540ba791a7",
   "4517e65442d3",
   "6e9ac861b6a8",
-  "5e7452a2feab"
+  "5e7452a2feab",
+  "fb60291517e7",
+  "b5993c8383ea",
+  "d8ad561acf4a",
+  "ee77f1378af0"
  ],
  "news": [
+  {
+   "title": "White House prepares plans to use weapon dubbed \"mother of all bombs\" on Iran, sources say",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3pWaWZIQVMwb3dLWnVMem8wZ3pJa2pmYzl2bjgtbm5rN0pidmtSQVN6YnNMODE5ZldLWndtQ2dQNFpMVkNvTGtSUHBCSW1hamV5NTNZSEtsSFRlaGdndmdJZHdPTkhTdjVRZm1lR0V3VlBxMS1maXdiUTJCdmJ2Zg?oc=5",
+   "published": "2026-10-15T19:20:20+00:00",
+   "id": "fb60291517e7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Fed Rate Hike Odds Rise to 54% After Inflation Data: Gas Prices, AI Data Centers Drive CPI - News and Statistics",
    "source": "IndexBox",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Menaces accrues sur l'énergie au Moyen-Orient dopant l'aversion au risque et l'or.",
    "method": "IA"
-  },
-  {
-   "title": "October Fed rate hike odds jump to 33% after inflation report",
-   "source": "Kalshi News",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnN4VFNPVmNwWXY3amdFM2E2N3hKX1d6blpXR3Y0R1YxZExoTE42N1pKV3YzZjZrS3lfRGJZUFNyaGc3QlU2VEZKWWZVQVVib3RrblZFdjJQWmFORi1hX2ZxQUZCeXJNejRJRWRkamE5VHFKczJvd3Jrbko1d0JUZ2psR3Q0MVJEbFZqME5zQQ?oc=5",
-   "published": "2026-10-14T20:16:16+00:00",
-   "id": "6fe502eac913",
-   "impact": -5,
-   "cat": "fed",
-   "raison": "Anticipations de hausse des taux de la Fed, très baissières pour l'or via dollar et taux réels.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -6980,7 +6980,8 @@
   "news|06dce8be0904": 1792092691.3942952,
   "news|d26fec41e2c6": 1792092692.539902,
   "news|4dce5863d02f": 1792092693.6389787,
-  "news|4517e65442d3": 1792092694.6988683
+  "news|4517e65442d3": 1792092694.6988683,
+  "news|fb60291517e7": 1792093564.7060547
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7067,6 +7068,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T19:46:04.706115+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>White House prepares plans to use weapon dubbed \"mother of all bombs\" on Iran, sources say</b>\n📰 CBS News · Jeu 15/10 21:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3pWaWZIQVMwb3dLWnVMem8wZ3pJa2pmYzl2bjgtbm5rN0pidmtSQVN6YnNMODE5ZldLWndtQ2dQNFpMVkNvTGtSUHBCSW1hamV5NTNZSEtsSFRlaGdndmdJZHdPTkhTdjVRZm1lR0V3VlBxMS1maXdiUTJCdmJ2Zg?oc=5"
+  },
   {
    "ts": "2026-10-15T19:31:34.699172+00:00",
    "kind": "news",
@@ -7361,11 +7367,6 @@
    "ts": "2026-10-15T11:01:44.923722+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iranian Basij female unit commander assassinated in latest attack against IRGC</b>\n📰 jpost.com · Jeu 15/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.jpost.com/middle-east/iran-news/article-911783"
-  },
-  {
-   "ts": "2026-10-15T11:01:43.976208+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U . S . Weighs Using  Mother Of All Bomb In Iran</b>\n📰 kfyi.iheart.com · Jeu 15/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://kfyi.iheart.com/content/2026-10-15-us-weighs-using-mother-of-all-bombs-in-iran/"
   }
  ],
  "daily_forecast": {
