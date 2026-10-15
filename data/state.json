@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "fca207d1ad7c",
-  "b180f6423373",
   "d5315e72fda8",
   "74f373ddf02d",
   "36154bdca1ac",
@@ -4066,7 +4064,9 @@
   "ea25b321a158",
   "5d9eb3ab35d4",
   "45a9412ac1db",
-  "1b4a0a6d42e9"
+  "1b4a0a6d42e9",
+  "61f68581c44f",
+  "a5eca276f2c6"
  ],
  "news": [
   {
@@ -4080,6 +4080,18 @@
    "cat": "géopolitique",
    "raison": "Risque imminent de frappes contre l'Iran renforçant la demande d'or comme valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "CFTC Chair: Investigation ongoing into questionable trades around Trump Iran war pullback announcement",
+   "source": "Fox Business",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZk5DR25aYzFyNVJrUDZQOU10ZzBtSktGOTlReTE3NWVGVzhhWGZRSFJDLVBJbnNFZmJ1RW1ST2xIYlFIUFJibHBIdGFIQ0hkdU9WcTJzb1pHQmc?oc=5",
+   "published": "2026-10-15T20:15:34+00:00",
+   "id": "61f68581c44f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump trade chief denies tariffs behind inflation ahead of midterms",
@@ -4199,18 +4211,6 @@
    "impact": 0,
    "cat": "autre",
    "raison": "Récit humain de guerre sans effet sur les marchés financiers.",
-   "method": "IA"
-  },
-  {
-   "title": "Israel studying Russian drones used in Ukraine war to counter Iranian threats",
-   "source": "jpost.com",
-   "theme": "Géopolitique",
-   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-911861",
-   "published": "2026-10-15T19:45:00+00:00",
-   "id": "f06d02b329bd",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Analyse militaire israélienne sans implication monétaire ou économique immédiate.",
    "method": "IA"
   },
   {
@@ -6992,7 +6992,8 @@
   "news|f06d02b329bd": 1792096296.9853866,
   "news|971dc037b8aa": 1792097165.8508034,
   "news|5c2acae752e9": 1792097166.861379,
-  "post|2026-10-15T16:30:00-04:00": 1792098094.4227216
+  "post|2026-10-15T16:30:00-04:00": 1792098094.4227216,
+  "news|61f68581c44f": 1792099893.2435749
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7079,6 +7080,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-15T21:31:33.243643+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>CFTC Chair: Investigation ongoing into questionable trades around Trump Iran war pullback announcement</b>\n📰 Fox Business · Jeu 15/10 22:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZk5DR25aYzFyNVJrUDZQOU10ZzBtSktGOTlReTE3NWVGVzhhWGZRSFJDLVBJbnNFZmJ1RW1ST2xIYlFIUFJibHBIdGFIQ0hkdU9WcTJzb1pHQmc?oc=5"
+  },
   {
    "ts": "2026-10-15T21:01:34.423295+00:00",
    "kind": "post_event",
@@ -7373,11 +7379,6 @@
    "ts": "2026-10-15T12:16:31.788527+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel on highest alert as Iran attack feared imminent</b>\n📰 JFeed · Jeu 15/10 00:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE54SURNZzlQVTNkWDdJMzVQXzFRRWpyLWJtOTZfWFJKYmtrYWNMVDlEOWpwOXRuN2xQNHB1U01VOThVejBrSjNuaU5MQkVGR3pvcXc?oc=5"
-  },
-  {
-   "ts": "2026-10-15T12:16:30.818575+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts</b>\n📰 NBC News · Jeu 15/10 13:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5"
   }
  ],
  "daily_forecast": {
