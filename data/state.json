@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792109910.9208565,
+   "ts": 1792132261.376118,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792128658.6619787,
+   "ts": 1792132261.42229,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,11 +1067,6 @@
   }
  },
  "seen_news": [
-  "20cdd935ed93",
-  "127814b460fc",
-  "3719120beb26",
-  "8ed8db56d576",
-  "245889aa8848",
   "ae30d5f0b68f",
   "0827c4cf9ce6",
   "f93e84f596ec",
@@ -4066,9 +4061,26 @@
   "38fa1221b158",
   "fdee72c6fcf3",
   "67ab31668315",
-  "eee356c36ae7"
+  "eee356c36ae7",
+  "109d8fdc3594",
+  "23cc4205335b",
+  "edd7ffecd874",
+  "f6529af63bf1",
+  "79e628a13c8d"
  ],
  "news": [
+  {
+   "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5",
+   "published": "2026-10-16T06:02:00+00:00",
+   "id": "79e628a13c8d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "'We'll knock it out fast': Trump threatens Iran's Pickaxe Mountain nuclear site with strikes",
    "source": "The Jerusalem Post",
@@ -4091,6 +4103,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "China calls for de-escalation of conflicts in Middle East",
+   "source": "巴士的報",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDcwV2JoVS1TcTk1VXBpY2lTVWtxMFZtdUVFQ1p4aGRoekQ5eEVVR1MxejkwQy1WNFM1R2pFbUc1U1JVRlVoZnhxYVU0S0hGdFY1Rloydm5pTkNZRzE1UnJYSEY0RjUyR3AzZTUwcG5jcHpLMHpETmtuQXluSG1nd1VpbWRZbnVBSGdIcEpBRTY4TEtnUldNNlBGV2piZTNONXhFcnFSeHBZUjVydmc?oc=5",
+   "published": "2026-10-16T05:57:00+00:00",
+   "id": "109d8fdc3594",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6444,30 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire extrême imminente au Moyen-Orient provoquant une forte ruée refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Russia and Ukraine resume strikes as Trump ‘energy ceasefire’ collapses",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5",
-   "published": "2026-10-15T10:08:00+00:00",
-   "id": "45cba02edc8a",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5",
-   "published": "2026-10-15T10:08:00+00:00",
-   "id": "995069bbdcc3",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7038,7 +7038,8 @@
   "news|b130afa2b45b": 1792129407.4749312,
   "news|c0a1d76ac583": 1792131361.7589512,
   "news|14119d1a6c00": 1792131362.7189212,
-  "news|1ce9a3bf640b": 1792131363.620998
+  "news|1ce9a3bf640b": 1792131363.620998,
+  "news|79e628a13c8d": 1792132283.4384615
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7141,6 +7142,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T06:31:23.438534+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’</b>\n📰 The Guardian · Ven 16/10 08:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5"
+  },
   {
    "ts": "2026-10-16T06:16:03.621235+00:00",
    "kind": "news",
@@ -7435,11 +7441,6 @@
    "ts": "2026-10-15T19:31:34.699172+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine runs out of Patriot interceptor missiles as Zelenskyy and Trump clash over war</b>\n📰 en.apa.az · Jeu 15/10 21:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://en.apa.az/cis-countries/ukraine-runs-out-of-patriot-interceptor-missiles-as-zelenskyy-and-trump-clash-over-war-530341"
-  },
-  {
-   "ts": "2026-10-15T19:31:33.639342+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>White House official : Trump considering all options to keep Iran from nuclear weapon</b>\n📰 en.apa.az · Jeu 15/10 21:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://en.apa.az/america/white-house-official-trump-considering-all-options-to-keep-iran-from-nuclear-weapon-530338"
   }
  ],
  "daily_forecast": {
