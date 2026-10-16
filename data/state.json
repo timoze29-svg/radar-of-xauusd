@@ -1067,31 +1067,6 @@
   }
  },
  "seen_news": [
-  "3a5ea5ae3a26",
-  "62a95a1d0bfb",
-  "3e9f1ebf03de",
-  "998a42f8b5b4",
-  "f0ff769e7aab",
-  "e14d93d451cd",
-  "a0a242d8a820",
-  "3c423b72d4a3",
-  "ae7f7d711860",
-  "2ac47c645313",
-  "7530d34c7609",
-  "8d57814dbe1c",
-  "24db7074e59a",
-  "b5c890c7a6ae",
-  "c2a95ec3ca7b",
-  "b122206cf649",
-  "8875527cb4d3",
-  "552502913d02",
-  "cdc7584b629a",
-  "532e901b3124",
-  "46a6e75668f3",
-  "4ca6e6309c93",
-  "6d5a97ed21e4",
-  "c9af2c751eb8",
-  "2953791d6c5a",
   "42b0d95d0498",
   "f304d09c2e0b",
   "9b9266d4bf68",
@@ -4066,9 +4041,46 @@
   "f43822d35810",
   "e18b83db8c8d",
   "8dea623f2fb3",
-  "b7b51a7d2a43"
+  "b7b51a7d2a43",
+  "8010b37f8fab",
+  "64ffbae2ecf8",
+  "69f8c6f49e5b",
+  "f6d997183ec0",
+  "ddad5c3f0457",
+  "b1d2df855b6f",
+  "3c448f543929",
+  "67980943baf4",
+  "ba636e1c3f92",
+  "4df2b6cd6c2e",
+  "9b5500a04c9d",
+  "1226c4fd8a01",
+  "9f2d11a5ce76",
+  "e90b593760b4",
+  "08f8581e8390",
+  "81bbbb5ad152",
+  "a539ce1a8280",
+  "e1365517412b",
+  "e95a5e1784e6",
+  "20db60e692f7",
+  "e2b805e04aa3",
+  "8b6abaec91eb",
+  "1947b327f1bf",
+  "858f781d399b",
+  "947ee2e6c3fc"
  ],
  "news": [
+  {
+   "title": "Iran navy reports another oil tanker on fire near Strait of Hormuz",
+   "source": "news.az",
+   "theme": "Géopolitique",
+   "link": "https://news.az/news/iran-s-navy-reports-another-oil-tanker-on-fire-near-strait-of-hormuz",
+   "published": "2026-10-16T13:30:00+00:00",
+   "id": "3c448f543929",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump should tariff Mexican beer to help New York’s workers and farmers",
    "source": "Washington Examiner",
@@ -4454,6 +4466,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Ships in Strait of Hormuz still face \"indiscriminate attacks,\" maritime monitor warns",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1N6LVU4X3R3a3ljSC1KY3BYOGI1bFVCWjA0bnM1WjE2eDRZQW43VVUxMnhFbThpcDdGSUdneU03ZFFjeFFmVWczeDVaelRBeXZGekhFdmNxeWZzUHlHNUpseS0tN09GMWtkSzB2WnJEV3ZnUXhqQnlyMEY3VVl0bA?oc=5",
+   "published": "2026-10-16T10:31:00+00:00",
+   "id": "64ffbae2ecf8",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russia talks up refinery attack as Trump blames Ukraine for expensive fuel",
    "source": "Reuters",
    "theme": "Russie/Ukraine",
@@ -4572,6 +4596,18 @@
    "cat": "géopolitique",
    "raison": "Frappes de routine dans le conflit russo-ukrainien, soutien refuge marginal déjà largement intégré.",
    "method": "IA"
+  },
+  {
+   "title": "COMMENTARY: Alberta’s Economic Decline Predates Trump’s Tariffs",
+   "source": "EnergyNow",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlExeHYtWmNmcjVJVlp5SFA5eFNHN0R0VDVveEs4UGdCLVZ4NHdGQUszYVZoMEtHQjV5ZkR4VHRTR3VVX0FZRjlhY1lxMFZmTHZGbFJrenJDWnp2TnBLY2toSVYtbnNQdTVkcmlWUkV6dDQydkUtM2lrbU1UTk9ZM0ZWWGFBWTUzVGpwQ0M0dlNOMkhX?oc=5",
+   "published": "2026-10-16T09:05:49+00:00",
+   "id": "69f8c6f49e5b",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Kazakhstan urges restraint to prevent further escalation in Middle East at UN Security Council",
@@ -6432,42 +6468,6 @@
    "cat": "or",
    "raison": "Améliore légèrement la liquidité et l'utilité pratique de l'or physique.",
    "method": "IA"
-  },
-  {
-   "title": "Hormuz ship attacks hit record as Iran broadens campaign against commercial shipping",
-   "source": "Lloyd's List",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd21FY0RkaFBsVzhOVHE0T0dFemZsdGVpdF95M2NoVDNqNUZUQmtrZGEyY2pNMDQ0LTAzQ0dONEl5QkpVQ0swendtVGtwM0VRYW5Ga2lWV2Y0NkVyLWdUc2F6UUNTaUVoOGN5cE5OdTFZS1hYUUZOUFB3MWpjRWduNG1tLXZFLUpMQUdFbjVzTi1yY01vdUJrcEVLNndVU1FvdmdEZlk2MkxaaEsxSzFSLWI3SENxSG0zNWZRcXZ3?oc=5",
-   "published": "2026-10-15T14:34:07+00:00",
-   "id": "85a4b4ed5aca",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Tensions critiques dans le détroit d'Ormuz, forte prime de risque et valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump’s State Department in Shambles as Advisers Tear Into Each Other",
-   "source": "The New Republic",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xSkpzYkpQeC1iNDJjbDNpdlRfYTh0SjFBdjVabWNwSElpWEdkMWpGVGVZQ1BiRXBHaHI5NXFYR0tRdTRYRFRNRVVWZkRQelRXTDZ6NUo3QXl2UW04UkV3?oc=5",
-   "published": "2026-10-15T14:33:53+00:00",
-   "id": "398930ee3bc2",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Incertitude politique mineure liée aux frictions internes au gouvernement américain.",
-   "method": "IA"
-  },
-  {
-   "title": "Retail sales up 0 . 8 % in September as shoppers remain resilient",
-   "source": "timescall.com",
-   "theme": "Géopolitique",
-   "link": "https://www.timescall.com/2026/10/15/retail-sales-september/",
-   "published": "2026-10-15T14:15:00+00:00",
-   "id": "c21f837d24fe",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "Consommation américaine robuste renforçant le dollar et repoussant les baisses de taux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7070,7 +7070,9 @@
   "news|277d55af5c23": 1792155710.0594013,
   "news|b9ee178751a1": 1792155710.8871775,
   "brk|US10Y|pdh|up|2026-10-16": 1792155712.0798836,
-  "news|da4fdb64136b": 1792156577.0054593
+  "news|da4fdb64136b": 1792156577.0054593,
+  "news|3c448f543929": 1792159301.150862,
+  "news|64ffbae2ecf8": 1792159302.0280287
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7173,6 +7175,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T14:01:42.028267+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Ships in Strait of Hormuz still face \"indiscriminate attacks,\" maritime monitor warns</b>\n📰 CBS News · Ven 16/10 12:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1N6LVU4X3R3a3ljSC1KY3BYOGI1bFVCWjA0bnM1WjE2eDRZQW43VVUxMnhFbThpcDdGSUdneU03ZFFjeFFmVWczeDVaelRBeXZGekhFdmNxeWZzUHlHNUpseS0tN09GMWtkSzB2WnJEV3ZnUXhqQnlyMEY3VVl0bA?oc=5"
+  },
+  {
+   "ts": "2026-10-16T14:01:41.150918+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran navy reports another oil tanker on fire near Strait of Hormuz</b>\n📰 news.az · Ven 16/10 15:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.az/news/iran-s-navy-reports-another-oil-tanker-on-fire-near-strait-of-hormuz"
+  },
   {
    "ts": "2026-10-16T13:16:17.005510+00:00",
    "kind": "news",
@@ -7462,16 +7474,6 @@
    "ts": "2026-10-16T03:01:47.238690+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>From Hope to Disillusionment : Miami Cuban Exiles Turn on Trump and Rubio Over Cuba  Invasion  That Never Happened</b>\n📰 cubaheadlines.com · Ven 16/10 04:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.cubaheadlines.com/articles/342997"
-  },
-  {
-   "ts": "2026-10-16T03:01:46.409438+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Halle Berry blames her ex Olivier Martinez for 13 - year - old son escalating  behavioral issue as custody war rages on amid shocking abuse claims made against actress</b>\n📰 dailymail.com · Ven 16/10 04:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.dailymail.com/tvshowbiz/article-16213437/halle-berry-olivier-martinez-son-behavioral-issues.html"
-  },
-  {
-   "ts": "2026-10-16T03:01:45.597796+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Escalation of attacks threatens to derail recovery in Middle East oil exports</b>\n📰 Cyprus Shipping News · Ven 16/10 04:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVNlY1JUYWxLOXFtcUpNOWVwSGJFQ0o0bzIzRWs4WWpaREV5VzM0WUgtYW1DSmwxUU1DRGE1bTFDc1dYd01GWVJ5WUJkVVN4R1JDUHdwVFZEV3pDZHR4UlA5QlZFT21yYmVJSVQ2WHdrQzBOa2NmWE1veERwQjRvV3VsWkNpRDZmSWFjRV9laG9mdFYtVnJRRXJMcGN3SHRZSzVkeXVNVUtTb0hRZUdWcWU1TXF5dGVrU28zTw?oc=5"
   }
  ],
  "daily_forecast": {
