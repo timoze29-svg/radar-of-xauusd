@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "40905be46ad1",
-  "87ca9fd82ea4",
-  "a29ea6ef94a0",
-  "5ddb465fca9a",
   "2dd11559b2e4",
   "78dc66e386c6",
   "e71207b0c800",
@@ -4066,7 +4062,11 @@
   "234c2ecfaea5",
   "039ca49e7fe0",
   "018b53ca59d3",
-  "dc408302803c"
+  "dc408302803c",
+  "76f7406b28a0",
+  "a52dc3d6948d",
+  "7dca09dfcc04",
+  "2649169a0eef"
  ],
  "news": [
   {
@@ -4356,6 +4356,18 @@
    "cat": "géopolitique",
    "raison": "Signale une volonté de désescalade forcée de Trump, limitant la prime de risque.",
    "method": "IA"
+  },
+  {
+   "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries a ‘disgrace’",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5",
+   "published": "2026-10-16T06:02:00+00:00",
+   "id": "2649169a0eef",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "'We'll knock it out fast': Trump threatens Iran's Pickaxe Mountain nuclear site with strikes",
@@ -6456,18 +6468,6 @@
    "cat": "banques centrales",
    "raison": "Soutien fondamental haussier majeur grâce aux achats record des banques centrales.",
    "method": "IA"
-  },
-  {
-   "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-   "source": "NBC News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-   "published": "2026-10-15T11:02:09+00:00",
-   "id": "c1cd4b77f6d1",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7045,7 +7045,9 @@
   "news|458e606f8f68": 1792141307.9669979,
   "news|8665351c881a": 1792141308.9060924,
   "news|3b2f0c4b282c": 1792141309.796736,
-  "news|b4e16851a04a": 1792141310.778268
+  "news|b4e16851a04a": 1792141310.778268,
+  "news|2649169a0eef": 1792142162.5252728,
+  "brk|DXY|pwh|dn|2026-10-12/2026-10-18": 1792142163.6319993
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7148,6 +7150,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T09:16:03.632043+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 101.75 → prix : <b>101.74</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.49 | 60j -0.53"
+  },
+  {
+   "ts": "2026-10-16T09:16:02.525335+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Ukraine’s renewed strikes on Russian oil refineries a ‘disgrace’</b>\n📰 The Guardian · Ven 16/10 08:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5"
+  },
   {
    "ts": "2026-10-16T09:01:50.778404+00:00",
    "kind": "news",
@@ -7437,16 +7449,6 @@
    "ts": "2026-10-15T20:31:35.846558+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudis Accuse Iran Of Encouraging Houthi Attacks On Riyadh</b>\n📰 thailandnews.net · Jeu 15/10 21:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.thailandnews.net/news/279376768/saudis-accuse-iran-of-encouraging-houthi-attacks-on-riyadh"
-  },
-  {
-   "ts": "2026-10-15T20:31:34.744772+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>State Department Slams Sanctions on Cuban Bank Linked to Iranian Terror Finance</b>\n📰 redstate.com · Jeu 15/10 21:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://redstate.com/wardclark/2026/10/15/state-department-slams-sanctions-on-cuban-bank-linked-to-iranian-terror-finance-n2208186"
-  },
-  {
-   "ts": "2026-10-15T20:31:33.642006+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Holiday toy prices surge as tariffs , war - driven energy costs squeeze shoppers</b>\n📰 fox29.com · Jeu 15/10 21:45\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://www.fox29.com/news/holiday-toy-prices-tariffs-war"
   }
  ],
  "daily_forecast": {
