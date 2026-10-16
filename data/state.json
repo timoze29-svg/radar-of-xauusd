@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "4cc40917dbda",
-  "cff47dcb8bcf",
-  "485b4ba7e098",
   "e1a3031f490f",
   "95e68f804b70",
   "6896c2f27fa3",
@@ -4066,7 +4063,10 @@
   "6024912ab8ff",
   "5796954574aa",
   "1484c6c68c13",
-  "dfa742df135d"
+  "dfa742df135d",
+  "38d8f751d3fe",
+  "ab22b848b6a7",
+  "f0ca617355a6"
  ],
  "news": [
   {
@@ -4077,6 +4077,18 @@
    "published": "2026-10-16T14:52:25+00:00",
    "id": "6ecc04e5e892",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdkJoU2J5N0NpM1lCSW1aYldmdXdCQ19XZVg4bGFwNkRmUFl1c2tzbDdZcHJjdVNDRnJ2enExWnptV3Y2S2l5Y0kxZjJqWEZtekFSZnNSTjNPU1U?oc=5",
+   "published": "2026-10-16T14:44:11+00:00",
+   "id": "f0ca617355a6",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6456,18 +6468,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Petrogold: How Gold Became a Sanctions Shield, and Where It Fails",
-   "source": "Geopolitical Monitor",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYW5xWTcwSFpYckRxWlNYWWw2TDBKdHpKRmotRk1HekpvaVdJdWxBRWE1ODc4M2hMQ2JidlZWaVBLbWVLcUpQTWVFcTN1aDladnl0MlQ2eXVDUG0xV0N5akZqbXZYYTgtcXNSclB1MXhUZmtpOFRBS3ZJYXFMVVlkYQ?oc=5",
-   "published": "2026-10-15T15:38:13+00:00",
-   "id": "d206d70a229a",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7076,7 +7076,8 @@
   "news|95ad7ab9bb63": 1792160177.0961933,
   "news|484d1c94915b": 1792161088.5249665,
   "news|4389525e82bb": 1792161089.4534395,
-  "news|6ecc04e5e892": 1792162898.3503752
+  "news|6ecc04e5e892": 1792162898.3503752,
+  "news|f0ca617355a6": 1792163771.236637
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7179,6 +7180,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T15:16:11.236728+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'</b>\n📰 BBC · Ven 16/10 16:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdkJoU2J5N0NpM1lCSW1aYldmdXdCQ19XZVg4bGFwNkRmUFl1c2tzbDdZcHJjdVNDRnJ2enExWnptV3Y2S2l5Y0kxZjJqWEZtekFSZnNSTjNPU1U?oc=5"
+  },
   {
    "ts": "2026-10-16T15:01:38.350443+00:00",
    "kind": "news",
@@ -7473,11 +7479,6 @@
    "ts": "2026-10-16T04:01:40.971910+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Fed Chairman Warsh Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.24%\nTaux 10 ans +0.0 pb\nOr +13.6$ (extrême +13.6$, range 14.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-16T03:45:59.264762+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘I don't trust anybody’: Trump on Netanyahu, Israel's election and potential Iran strikes</b>\n📰 Ynetnews · Ven 16/10 04:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KX3hUUGJiSFV6S0pzWHUwYllYaUgxUTNBdmVHVUxVRERzMHJxMXVweVczcGR3WDhFOWp1cW1iZkM2N1VwblVxQ1JITllDa0k1WU9FNXBfLUs?oc=5"
   }
  ],
  "daily_forecast": {
