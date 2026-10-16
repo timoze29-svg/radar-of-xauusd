@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792116944.7243614,
+   "ts": 1792120546.5219405,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "4a503ea37081",
-  "108580f63527",
-  "4e27bafc1d36",
   "ffb307a3feb8",
   "3391288eff45",
   "8e5e2772ff42",
@@ -4066,9 +4063,24 @@
   "2eaf7efb0b7d",
   "a74387cec10c",
   "cca50b153d89",
-  "95709d82b00c"
+  "95709d82b00c",
+  "de2fe1c09499",
+  "b302048bd606",
+  "c028a4e4653f"
  ],
  "news": [
+  {
+   "title": "Ukraine critically low on Patriot interceptors as Russian strikes intensify",
+   "source": "The Washington Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkFUUWl2cU1MNkFNYU9KY2V5OG9JWUtUbGRfLWZNVG4tamZaY252SXRvVlZZSmlsSnVDTDBocEx5ZTFSQTlzWV9uOEticEJIUjFnYlo4eW41Zldibjh4WVhYQ09QRkE5ZG1OZWtxQ3liRHdfZ0VkQm43MzUyYkhIeXlhSW9yZXRPdzVSYVNjNmlYQUJnT21tbmNaQkQ1NngyTk9oZlhqMUhYSFlvaFlUdUlXM2hwX0lvUVpMMDlFaUNPc1pUUzNQM0NR?oc=5",
+   "published": "2026-10-16T02:54:41+00:00",
+   "id": "c028a4e4653f",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Israel raises alert amid Iran war fears as Trump weighs strikes, Netanyahu wary before election",
    "source": "Ynetnews",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Menaces sur l'offre énergétique mondiale et risque inflationniste stimulant le métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "US Dollar Price Forecast: DXY Eyes 102.40, Can EUR/USD and GBP/USD Break Resistance?",
-   "source": "FXEmpire",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTk0xZDNaal9hcUZ0R25mbkNzMHZ3TzNldF9rTWlLVzBQbnhEMG9mbk12SzJHeDlZMjczbTljck9aU0Vuclg1dEpoSDFsdl9PZFB2dEdLRTNOQTNTZHEyME9GeDlaUWdLWjNRQ3FucEVOOXdIQ2xxeHk2MWU5dV9LaXRVLW0yVTBLR2JqRnI1UnFueE5aMDJIbnhPRUhkNHRWc00xZmg4MWRSUzVkZ0JWcTdkejkweHJOMjEyOHU1SF9VSHJTbVBKUExmb3g?oc=5",
-   "published": "2026-10-15T08:11:05+00:00",
-   "id": "86b36a011293",
-   "impact": -2,
-   "cat": "dollar",
-   "raison": "Un raffermissement technique du dollar exerce une pression baissière modérée sur le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7016,7 +7016,8 @@
   "news|20f783e8eb3a": 1792119707.2383888,
   "news|d6477ee50649": 1792119708.1011508,
   "news|2eaf7efb0b7d": 1792119708.9063263,
-  "news|c11ec6b51ede": 1792119709.7270837
+  "news|c11ec6b51ede": 1792119709.7270837,
+  "pre15m|2026-10-15T23:30:00-04:00": 1792120566.05911
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7103,6 +7104,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T03:16:06.059169+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Fed Chairman Warsh Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
   {
    "ts": "2026-10-16T03:01:49.727354+00:00",
    "kind": "news",
@@ -7397,11 +7403,6 @@
    "ts": "2026-10-15T14:16:11.769323+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi Arabia accuses Iran of encouraging Houthis in latest escalation</b>\n📰 The Daily Star · Jeu 15/10 16:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1JYzdFcXV2aTVqN0JicEoxMnRVWEVUaVRiTmk5UmQ2ZDF0MnljNkVOX0p3OHY3UFBndm9kZWNRekV2TVh3SUVzWm9LUzRhOEJ4TnBNbjVHVGJoSzBXNXlVclIzMmRMZ1h2MEdTZjBhQXBBV0JheXJHMWowSXFvOHRXd2VYTDM5c2J0VlZIVXJDSmNQd3ZUSVZOTFNvMnBKanViYzd4dXRqRGdXT254TWFUWHpJZmRldmNyNmIybVBjY3k5Vmxn?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:01:44.496659+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil prices slips as US weighs easing sanctions on 'shadow fleet'</b>\n📰 Yahoo Finance · Jeu 15/10 14:23\n🧠 haussier or (fed, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkpLaFMwM0tpZVl5NWh2RUdZeUxWeXJaeWhQcFVncW5LVHRGNGVyMW5ZbGxHZTRBZjl5Z1NmeXdZaFBaU3RjR1lFdnVfZzdzU0hHRU9JNzdLa3pHZHV5UTduYkVoNzRXMDA3MC1RaUh4SFhVSnpMck5PdHVobWN4dVA3S00tZVJadlZyTDBLQWxBZw?oc=5"
   }
  ],
  "daily_forecast": {
