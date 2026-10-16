@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792132261.376118,
+   "ts": 1792153869.8310087,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792150266.2166169,
+   "ts": 1792153870.1327517,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "d46206aadf69",
-  "655d2dfff792",
-  "7ae067cecd42",
-  "4fe951150192",
   "8767f991fb53",
   "32ce137fb26b",
   "ea4449273e79",
@@ -4066,9 +4062,25 @@
   "20e67884b452",
   "baa795dd9511",
   "59fd37d91a70",
-  "e280b1e3eacd"
+  "e280b1e3eacd",
+  "f7c77d097e64",
+  "f8eb992f7c34",
+  "ccc856d45889",
+  "f437da38be7c"
  ],
  "news": [
+  {
+   "title": "U.S. Stock Market Preview | The Federal Reserve's special task force will hold a hearing on AI in November, while Warsh has bolstered market expectations that the Fed will hold steady in October; the three major index futures are mixed. The Roadster is slated",
+   "source": "富途牛牛",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGVoeVZBaWhBQTFyWWZ5Ry13ZHIxYk10MGVMWW9SQzd3c056LVNIRXUxWEpkZDh5OWZmRnRXdV9PWERRNWhwSzA3VjNJZmptWkJMX3hxZFB1N0V5bFl3VGxadWg5YzhwRzNjcDVBRXVUWHhqNndHZ01jWTNYZkN0X0J3MWtMcnRXcEowQS12WDl6NnVGVG14LUtjMXdTY0ljWklZ?oc=5",
+   "published": "2026-10-16T12:22:03+00:00",
+   "id": "f8eb992f7c34",
+   "impact": -1,
+   "cat": "fed",
+   "raison": "Attentes de maintien des taux par la Fed, haussier pour les rendements et le dollar.",
+   "method": "IA"
+  },
   {
    "title": "Alaska Senate candidates clash over the Iran war, high prices and their times in office",
    "source": "NBC News",
@@ -4428,6 +4440,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Overnight strikes between Russia, Ukraine injure 10",
+   "source": "Anadolu Ajansı",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRllQSEY3MzRKeDByN09meFlxYjd5UUtIODNIVEVvZjRUUXdrU1NmVkVqNGpLZ2tGcFM1aWoxa2tDRjRZQS01U2kzdXJ1dEp2UlpfdUhRNFBwRldfVkpEc05ZNnZTcDZlMDNBdGNNX1lMdmtjNHFUdGJVLUdrRXZxcGRjODhDSE1LRm04ZWVNelptc0t6SkU1OGEwcGxKdW1ISmtxNw?oc=5",
+   "published": "2026-10-16T09:24:36+00:00",
+   "id": "f437da38be7c",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Frappes de routine dans le conflit russo-ukrainien, soutien refuge marginal déjà largement intégré.",
+   "method": "IA"
   },
   {
    "title": "Kazakhstan urges restraint to prevent further escalation in Middle East at UN Security Council",
@@ -5352,6 +5376,18 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
+   "source": "Reuters",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGNhSXNCbUFqT0t4bkRCWTJfaWJOSkxLSXJpSkczTHhDdjlGdXhDam9DdmNOV0drSVlqT3U1eTUwVFZuRFJNQU9rSVZBUkJKOXBZQkJjb21DYkhHNDdXNFFpWFVtTDlMQ3RoTFZaQkdGYUpSWDZPOTNJVUQxQi1VWHlDVkdzM1F1S09Xelh5X1NfaVhqS0NESGxYVGJkOUZ1V0cyb1ZyVlhwRWxqOWFrYVNseHhMMkQxX29ROUN3MXF4bHQ3U3c?oc=5",
+   "published": "2026-10-16T00:11:00+00:00",
+   "id": "f7c77d097e64",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "Blocage des négociations tarifaires ravivant l'incertitude commerciale et la demande d'or refuge.",
+   "method": "IA"
   },
   {
    "title": "October 16 Financial Briefing: Gold supported by U.S. Treasuries and the dollar; oil market weighs sanctions on 'shadow fleet'; U.S. crude hits one-month high",
@@ -6429,42 +6465,6 @@
    "published": "2026-10-15T14:15:00+00:00",
    "id": "9eda68074b86",
    "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump says military leakers should be shot amid Iran bomber mission being compromised",
-   "source": "WCYB",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNllNdjEyN082UkszSzAtTWFfa0xMMlVpX1BIeDJ3YnQ3MFBucWZLWU5DYk9QdnBIVHJxZ3AyM3JpNThQZEFHd1lqdzlBclFuWjdnTkJrYlNxdTFJd2hWX0tvLUgyOWY5a3FPYnRkRlNpbEpOSXJWWmhIN3p6VkpRdGVNWDB6YTZCQTBOTGZjcm13ckdacVctbU82M0c2SWNTRGloVi1Ub1NGSk5SRGtPZGhEZFVJSXlRUFNlTjRXc2toVXFmU3VsNWtzWUN6ckZjNkpVUXRBSHk3SzhFZXlILXNjbEJWbnc?oc=5",
-   "published": "2026-10-15T14:10:05+00:00",
-   "id": "637bd8b5ccb9",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Saudi Arabia accuses Iran of encouraging Houthis in latest escalation",
-   "source": "The Daily Star",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1JYzdFcXV2aTVqN0JicEoxMnRVWEVUaVRiTmk5UmQ2ZDF0MnljNkVOX0p3OHY3UFBndm9kZWNRekV2TVh3SUVzWm9LUzRhOEJ4TnBNbjVHVGJoSzBXNXlVclIzMmRMZ1h2MEdTZjBhQXBBV0JheXJHMWowSXFvOHRXd2VYTDM5c2J0VlZIVXJDSmNQd3ZUSVZOTFNvMnBKanViYzd4dXRqRGdXT254TWFUWHpJZmRldmNyNmIybVBjY3k5Vmxn?oc=5",
-   "published": "2026-10-15T14:08:05+00:00",
-   "id": "4f37e93520aa",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Why Losing a Taiwan War Might Not Break China",
-   "source": "The National Interest",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmhWeUZncWdXM1BINUp3TlpzTUVfVTZzemVROEZVb1d2dkljbGhuRGNUZ1JueWRxQXlnRHpnOFlQQ1VaMHB1T2hCalNzUnRUWHpnNmdxMTM5M0RmelM3Z0g0Q1RpSmFHLVBnWXdUQVZKRTBIeGhLb2xIRGpIWVIxUDVyOGY4bE9RT1hibmNqcHlGbzVBRlBaQTduLS1pemEy?oc=5",
-   "published": "2026-10-15T14:01:46+00:00",
-   "id": "a4b34cce1be2",
-   "impact": 2,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
