@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792166479.4084692,
+   "ts": 1792170948.0012765,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,11 +1067,6 @@
   }
  },
  "seen_news": [
-  "b6f5260782bf",
-  "7ac03b5b94f4",
-  "72dc03ce76e7",
-  "db05e0dbd199",
-  "3beb9009028c",
   "c25860234022",
   "412f1d6302e2",
   "74621cd7bdc2",
@@ -4066,7 +4061,12 @@
   "4b7c8f434d0c",
   "175e45f969da",
   "125c2c4395e1",
-  "e582165ec4cd"
+  "e582165ec4cd",
+  "1b820c4069ab",
+  "43e28932d311",
+  "690244b1891c",
+  "a3edec7cc0d2",
+  "8fd99cfbb1ec"
  ],
  "news": [
   {
@@ -4244,6 +4244,18 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXRabGhpUjRWQkdWUkJQeFJlanRJQWRJMFlBRk5USmZtV0FSSk1nNk54Z1ZBelBueGZubms3MG8tWk9YV1RZdGwyQVJiYkZFN2V3SE9QR1dPUmtTZl9tYUNHM1ZsX25TX0JsQjJOQ3EteW85cXZmZTljeHZVNUxOSGRXSWt4YWVqWXZTVXYtNFpqNGNwRXlJekk2SE4tZmZVbFp1UnJZMmFjWTRQZ0ZobWp3Q0xlbWJsWlAwSnZfcw?oc=5",
    "published": "2026-10-16T15:28:00+00:00",
    "id": "e582165ec4cd",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukrainian drone strikes highlight the vulnerability of Russia’s data centers",
+   "source": "Atlantic Council",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVRQUl9mVHM2cE5sVERoWjVDZlN3ZHI2ZVYtZU5USlluc1dGM0REZXpqclQ2WFZfbHVqVmFPMjc3anRPVkQ4blJxUnd6OVlhbTZFckltdzhHSmJqS19VOU84dEhvdmh1azNEM3p6a1RYdm15VWtnOUNUNW1adUFKaVlzR0JHNlFTTE1RZDE1YWxfcWlMTUh2VWhzQmdXbzNvRUxTXzNFMlRFTzQ3cXBwamFqclRhbzVDVUZZUm1rYWxHNUNIT0E?oc=5",
+   "published": "2026-10-16T15:06:00+00:00",
+   "id": "8fd99cfbb1ec",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Accelerating CPI Inflation Raises Prospect Of Further Fed Rate Hikes",
-   "source": "Forbes",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVtWF9VVGwzM1VhTGdNcVdjeldVc0J3RnFnNUNrWDBHeVhwSWxWbXMzVVM2azVzd2RCdFNjTUdHZktTampxLUp0b0JORDdtZHR0SGlQaVgyczlaSE9HMnhOa01UdUVfaUc3alh0ZlJDdi0zdXJqS1NYMVJYY0FZbzJ4amZCMUxRQ1lKOFJCZjFyWHJTbXB2Y3JCeF81c0RCbE9CYWEtWEtzMnpHZ3lsc05UdkZVdWh4Z3hzTQ?oc=5",
-   "published": "2026-10-15T18:45:39+00:00",
-   "id": "1154ba5633aa",
-   "impact": -5,
-   "cat": "inflation",
-   "raison": "Inflation accélérée alimentant la hausse des rendements réels obligataires, défavorable au métal.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7085,7 +7085,8 @@
   "news|eef1c63e884d": 1792168222.7317042,
   "news|944b610c1fe0": 1792168223.6082506,
   "news|b458f9f8c968": 1792168290.7069924,
-  "news|8196fb829951": 1792168291.6185782
+  "news|8196fb829951": 1792168291.6185782,
+  "big|VIX|2026-10-16": 1792170974.0361595
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7188,6 +7189,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T17:16:14.036198+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n+2.29 aujourd'hui = 2.0× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
   {
    "ts": "2026-10-16T16:31:31.618672+00:00",
    "kind": "news",
@@ -7482,11 +7488,6 @@
    "ts": "2026-10-16T05:16:11.894054+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Myanmar coup leader - turned - president wins back neighbours despite war | ASEAN News</b>\n📰 aljazeera.com · Ven 16/10 06:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours"
-  },
-  {
-   "ts": "2026-10-16T05:01:38.080353+00:00",
-   "kind": "daily",
-   "text": "☀️ <b>PRÉVISION OR — VENDREDI 16/10</b>\nPrix : <b>4195.00</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-4/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.59\n🔴 Momentum or (vs MM50) : prix 4195 vs MM20 4215 / MM50 4375\n🔴 Taux réels 10 ans (20j) : 2.84% (+0.22 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : +2.9$ · plus haut 4207.9 / plus bas 4167.5 (range 40$)\nDXY -0.11% sur la nuit\n⚠️ Plus haut de la veille (4198) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~77$</b> (ATR 82$ × profil du vendredi)\nDéjà fait en Asie : 40$ (52% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4239.7 | R1 4204.9 | <b>Pivot 4162.9</b> | S1 4128.1 | S2 4086.1\nVeille : PDH 4197.7 / PDL 4120.9  ·  Semaine passée : 4234 / 4091\n\n📅 <b>Annonces du jour</b>\n🔥 <b>05:30</b> 🇺🇸 Fed Chairman Warsh Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>57%</b> du temps (301 jours, ~6.0 ans)\n• Hier : +1.51% → après une veille en FORTE HAUSSE, l'or a monté le lendemain <b>49%</b> du temps (241 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 0h (11%) · plus BAS vers 0h (12%), 15h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -112.9$, depuis mercredi +87.1$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4128 et R1 4205\nJouer les extrêmes, pas le milieu (pivot 4163). Range attendu ~77$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4198 ou PDL 4121 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
