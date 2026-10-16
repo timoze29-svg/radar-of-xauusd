@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "5afa1fc30f25",
-  "c26dab1d5b32",
-  "135173e85d78",
   "6c34e55b937c",
   "7c22638d895c",
   "989cb6b2d2e5",
@@ -4066,7 +4063,10 @@
   "e0d394898575",
   "2b7138f00244",
   "3d278256b728",
-  "3ddd8317633d"
+  "3ddd8317633d",
+  "c093d3c1a99f",
+  "85e2be442290",
+  "caed8ccf45f5"
  ],
  "news": [
   {
@@ -4199,6 +4199,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump, Netanyahu hold off on Iran strikes as elections loom in U.S., Israel",
+   "source": "AOL.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iY1JHQTdTV3BVUGxjRnJnZlRfc19NQU5iMi1KNlVBLUI4QnhwRU41bE1MTFAxSS16V0NnQlhiaEFSUE1LUE9QQmFQZkpGbGRrQllnMXRfNlF4SklGMmlhekluWHVXRWNWS29tZFpnRnJzUldtSWhoYUZGRDFyQQ?oc=5",
+   "published": "2026-10-15T22:30:25+00:00",
+   "id": "85e2be442290",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
    "method": "mots-clés"
   },
   {
@@ -6456,18 +6468,6 @@
    "cat": "taux",
    "raison": "Repli des rendements des Treasuries après surchauffe, offrant un répit haussier au métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "US inflation accelerates, complicating Fed's rate outlook",
-   "source": "China Daily",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yUVM2NzFIMmFZenA5Z1FDdElHeU80MFJkcU5FUFp0SC1wNG9WM0FtMGRMWGdxVjRWN2ppNHZhdzJTQmNtZzFzUHRHVDRDT1NIWFNhVHdqcU1FMmw4eVM5amJpMVZSOXBLUXltei0tNlFfVl9sNk95eUxnc2d6Zw?oc=5",
-   "published": "2026-10-15T05:27:36+00:00",
-   "id": "e0b4b55aed95",
-   "impact": -4,
-   "cat": "inflation",
-   "raison": "baissier or (inflation)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
