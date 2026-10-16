@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "149d42690d06",
-  "e0fcde61334e",
-  "bb5e6f953203",
-  "e0ab6a835ed3",
   "53c40f504ccd",
   "9e6d1937a8ca",
   "edd4f8d8f70c",
@@ -4066,7 +4062,11 @@
   "44f0dbe5402c",
   "fc119e83c79e",
   "aaecff6e3345",
-  "0c8116a03e43"
+  "0c8116a03e43",
+  "3e38574d9310",
+  "73361a1f56ce",
+  "64fc2820de0d",
+  "1b86295c7f54"
  ],
  "news": [
   {
@@ -7095,7 +7095,8 @@
   "big|SPX|2026-10-16": 1792175517.1306136,
   "news|3bcdd3868cf6": 1792178175.0358484,
   "news|fc119e83c79e": 1792179965.035436,
-  "news|0c8116a03e43": 1792180348.4466097
+  "news|0c8116a03e43": 1792180348.4466097,
+  "rep|recap|2026-10-16": 1792180896.012716
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7198,6 +7199,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T20:01:34.996096+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — VENDREDI 16/10</b>\nOr : <b>-2.7$</b> depuis minuit · plus haut 4220.4 (16h25) / plus bas 4167.5 (03h30) · range 53$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-4) à 4195.0 → maintenant 4189.4 (-5.6$)\nRange : 53$ réalisé vs ~77$ attendu (69%)\nNiveaux touchés : R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 80% de bonnes directions (4 ✅ / 1 ❌ / 0 ➖ sur 5 jours)\n20 derniers jours : 80%  ·  ✅✅✅❌✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.20% · Taux 10 ans +0.9 pb · Pétrole +3.00% · EUR/USD +0.20% · S&P 500 -1.10% · Argent -0.73%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Trump signals possible new strike on Iran’s nuclear programme\n🟢 (+10) Trump’s tariffs and Iran war will make toys more expensive this holiday season\n🟢 (+10) India Calls Middle East Escalation  Deeply Worrying  At UNSC , Condemns Attacks On Saudi Airports &amp; Indian Seafarers\n🟢 (+10) Trump is Reportedly Considering Resuming Attacks Against Iran . Nuclear Weapons and Ground Troops Wouldnt Feature .\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
+  },
   {
    "ts": "2026-10-16T19:52:28.446678+00:00",
    "kind": "news",
@@ -7492,11 +7498,6 @@
    "ts": "2026-10-16T06:46:07.369683+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>India Calls Middle East Escalation ‘Deeply Worrying’, Condemns Attacks on Civilian Infrastructure at UNSC</b>\n📰 The Earth News · Ven 16/10 06:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1JKQnFtWTBPdjdGLWlwV3l3UkVJZ2ZsZ2ZKTWpxczFHSGVxazNWY0ZpSEptWENEMGMyd0hidXlTbFRzR1NPbjJCVUN3bnQ1T0xiS1NkbGZlS0YwT2dMbkhiTXBYcHZtTG0tLUF6bkN4UTJlX2FHbEVhMTI2WVlrYkNLcnJBX0dMcTgtRG1XM0IwVEd4dF9Wd0lLc2hEN1luUmFDNUtfc09OcHNMQmNFQUQ1TEhQYnhqODJoYS12RGxxQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-16T06:31:23.438534+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’</b>\n📰 The Guardian · Ven 16/10 08:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5"
   }
  ],
  "daily_forecast": {
@@ -7546,11 +7547,19 @@
    "mv": 27.5,
    "range": 75.0,
    "exp": 73.6
+  },
+  {
+   "date": "2026-10-16",
+   "dir": "range",
+   "res": "hit",
+   "mv": -5.6,
+   "range": 52.9,
+   "exp": 77.0
   }
  ],
  "evening_recap": {
-  "date": "2026-10-15T20:01:43.910651+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — JEUDI 15/10</b>\nOr : <b>+65.7$</b> depuis minuit · plus haut 4196.0 (21h50) / plus bas 4121.0 (01h10) · range 75$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : 📉 BAISSIER (-16) à 4166.1 → maintenant 4193.6 (+27.5$)\nRange : 75$ réalisé vs ~74$ attendu (102%)\nNiveaux touchés : P, R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 75% de bonnes directions (3 ✅ / 1 ❌ / 0 ➖ sur 4 jours)\n20 derniers jours : 75%  ·  ✅✅✅❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.48% · Taux 10 ans -10.1 pb · Pétrole +1.06% · EUR/USD +0.52% · S&P 500 +0.29% · Argent +3.40%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom\n🟢 (+10) Brent oil slips as US weighs easing sanctions on Russia's 'shadow fleet'\n🟢 (+10) Trump threatens to drop ‘the mother of all bombs’ on Iran in major escalation\n🟢 (+10) Dollar weakens after US Treasury yields fall — Channel NewsAsia\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>05:30</b> 🇺🇸 Fed Chairman Warsh Speaks",
+  "date": "2026-10-16T20:01:36.012670+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — VENDREDI 16/10</b>\nOr : <b>-2.7$</b> depuis minuit · plus haut 4220.4 (16h25) / plus bas 4167.5 (03h30) · range 53$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-4) à 4195.0 → maintenant 4189.4 (-5.6$)\nRange : 53$ réalisé vs ~77$ attendu (69%)\nNiveaux touchés : R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 80% de bonnes directions (4 ✅ / 1 ❌ / 0 ➖ sur 5 jours)\n20 derniers jours : 80%  ·  ✅✅✅❌✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.20% · Taux 10 ans +0.9 pb · Pétrole +3.00% · EUR/USD +0.20% · S&P 500 -1.10% · Argent -0.73%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Trump signals possible new strike on Iran’s nuclear programme\n🟢 (+10) Trump’s tariffs and Iran war will make toys more expensive this holiday season\n🟢 (+10) India Calls Middle East Escalation  Deeply Worrying  At UNSC , Condemns Attacks On Saudi Airports &amp; Indian Seafarers\n🟢 (+10) Trump is Reportedly Considering Resuming Attacks Against Iran . Nuclear Weapons and Ground Troops Wouldnt Feature .\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻",
   "ai": false
  },
  "dp_last": {
