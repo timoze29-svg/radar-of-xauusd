@@ -1067,13 +1067,6 @@
   }
  },
  "seen_news": [
-  "b225270c2205",
-  "4359d66b9afd",
-  "501d82dca553",
-  "360ae98ef9b8",
-  "a81892d9420a",
-  "40e45b11a521",
-  "b4089bbfef1e",
   "3efd47f3df24",
   "581790eec80e",
   "37dfbf5e2e90",
@@ -4066,7 +4059,14 @@
   "36b0579d1c30",
   "0a571b9ea81a",
   "97852d1db35a",
-  "786cd75981b6"
+  "786cd75981b6",
+  "09623b3207f0",
+  "140d05f00dd5",
+  "1916e81ecca3",
+  "62990c3d72b8",
+  "1dc0f4ce36d8",
+  "0ae1efe12bcf",
+  "721828b2f598"
  ],
  "news": [
   {
@@ -4955,6 +4955,18 @@
    "impact": 10,
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. 10-Year Yield Falls Despite Inflation Shock as Investors Flee to Treasuries on AI Concerns",
+   "source": "BigGo Finance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zUjVsb1BwdjMtSGU0LVdfX1hPZnBFYUtfMHFsRWc5YWdpMzY3Vzc4czlFSW13S3lFSHFPQ2l6NFNCNms4Z29vS20yNE1NQ0pOS1lvQThZVTJrRXZpMThSblhLeHo1VnBTOXFnUUlFdGl4YlZicHc?oc=5",
+   "published": "2026-10-16T09:55:00+00:00",
+   "id": "62990c3d72b8",
+   "impact": 4,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -6110,6 +6122,18 @@
    "method": "IA"
   },
   {
+   "title": "Houthis emerge as global threat beyond Iran control amid Saudi strikes, former envoy warns",
+   "source": "Fox News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2Nsd1Q3UU10SXpXSFZVNTFMNnFsa2ZDWW1qOEdTd0lJY0p1Mm91WFF4NVRjbUpDWHk0SU5YWDhjbUNDbVNwX2RCOUQtNTZIRzYyaUwyempVWENRLXY1aWpLUzRXMUZITUVVLVhRYjdQcmZjTThHbnR1OTQwNmNlTVJ1Y3ZFVVpoNEdiZDc2dFljN2djMWQ5WmI2ekVNam9lS0tLclNB0gGrAUFVX3lxTE9HR1M3OVlvaXBOV0FGaUh0NzFfbFdRZ2Zxd19iNXdtTi1fa19PMElSTzZKSDlQMDFoeE8zbUF6YWI3YmVSTjI3XzYyWk8xSkRfMWRyWW1MNEdTQU5zU0RuMXhwMEIzdWZtWk41b1JZSVc3NklsYlNSZ0pkR1JjSTltekR5LUozdUxaVWpyLWtsQVVuaUU1bXVWc2taM2lmMmF0bTMwdGhjMXFCdw?oc=5",
+   "published": "2026-10-15T22:25:57+00:00",
+   "id": "09623b3207f0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
    "source": "DW.com",
    "theme": "Russie/Ukraine",
@@ -6443,30 +6467,6 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "Risque accru d'escalade armée majeure contre l'Iran stimulant fortement l'actif refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran navy says  violating  oil tanker caught fire east of Hormuz Strait",
-   "source": "en.apa.az",
-   "theme": "Géopolitique",
-   "link": "https://en.apa.az/asia/irans-navy-says-violating-oil-tanker-caught-fire-east-of-hormuz-strait-530340",
-   "published": "2026-10-15T19:00:00+00:00",
-   "id": "d26fec41e2c6",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Incidents maritimes près d'Ormuz maintenant la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "White House official : Trump considering all options to keep Iran from nuclear weapon",
-   "source": "en.apa.az",
-   "theme": "Géopolitique",
-   "link": "https://en.apa.az/america/white-house-official-trump-considering-all-options-to-keep-iran-from-nuclear-weapon-530338",
-   "published": "2026-10-15T19:00:00+00:00",
-   "id": "4dce5863d02f",
-   "impact": 3,
-   "cat": "politique US",
-   "raison": "Rhétorique ferme de Trump envers l'Iran alimentant l'incertitude géopolitique internationale.",
    "method": "IA"
   }
  ],
@@ -7087,7 +7087,8 @@
   "news|b458f9f8c968": 1792168290.7069924,
   "news|8196fb829951": 1792168291.6185782,
   "big|VIX|2026-10-16": 1792170974.0361595,
-  "news|972f6bd68fb2": 1792171888.5773222
+  "news|972f6bd68fb2": 1792171888.5773222,
+  "news|09623b3207f0": 1792172772.1092603
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7190,6 +7191,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T17:46:13.493161+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n▫️ DXY -0.08%\n✅ Taux US 10 ans -2.1 pb\n▫️ Pétrole +0.40%\n✅ EUR/USD +0.12%\n✅ News dollar/Fed : 2 (impact moyen or +4.5)\n   • Roger Marshall praises Trump's tariff policies after Kansas executive says they hurt his business\n   • Ford's stark warning: Ontario must prepare for tariffs 'for good'\n\n<i>Pas assez d'historique pour chiffrer cette configuration : à confirmer avec ta technique.</i>"
+  },
+  {
+   "ts": "2026-10-16T17:46:12.109348+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Houthis emerge as global threat beyond Iran control amid Saudi strikes, former envoy warns</b>\n📰 Fox News · Ven 16/10 00:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2Nsd1Q3UU10SXpXSFZVNTFMNnFsa2ZDWW1qOEdTd0lJY0p1Mm91WFF4NVRjbUpDWHk0SU5YWDhjbUNDbVNwX2RCOUQtNTZIRzYyaUwyempVWENRLXY1aWpLUzRXMUZITUVVLVhRYjdQcmZjTThHbnR1OTQwNmNlTVJ1Y3ZFVVpoNEdiZDc2dFljN2djMWQ5WmI2ekVNam9lS0tLclNB0gGrAUFVX3lxTE9HR1M3OVlvaXBOV0FGaUh0NzFfbFdRZ2Zxd19iNXdtTi1fa19PMElSTzZKSDlQMDFoeE8zbUF6YWI3YmVSTjI3XzYyWk8xSkRfMWRyWW1MNEdTQU5zU0RuMXhwMEIzdWZtWk41b1JZSVc3NklsYlNSZ0pkR1JjSTltekR5LUozdUxaVWpyLWtsQVVuaUU1bXVWc2taM2lmMmF0bTMwdGhjMXFCdw?oc=5"
+  },
   {
    "ts": "2026-10-16T17:31:28.577373+00:00",
    "kind": "news",
@@ -7479,16 +7490,6 @@
    "ts": "2026-10-16T05:31:19.757606+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike</b>\n📰 NBC News · Jeu 15/10 21:59\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5"
-  },
-  {
-   "ts": "2026-10-16T05:31:18.830676+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says</b>\n📰 Reuters · Ven 16/10 06:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWZJUEM4emlGRGhaUVlYZFdNclZ3YmVXU0drNUN3Y3pSRUlnMXFHSVpSQjNzdllrZEdsejZ2NldIWHphNERHcFdfaURVVHpqQ2pleVQ5TjBKYnVlNmdpczIya2E3VGlKaDdPXzdEa3dCT3I1VW15WXpUeUl2NjlJZWZpLXpYY2VGM2pqM0ZGT3ZpMGpiWG9oeU5aTldnb3VHWHNlLTI4dTJkQlNrbGNnYVlfaUNNbldKVWZsS21B?oc=5"
-  },
-  {
-   "ts": "2026-10-16T05:16:12.888866+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel unlikely to attack Iran before elections</b>\n📰 bignewsnetwork.com · Ven 16/10 06:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.bignewsnetwork.com/news/279377831/israel-unlikely-to-attack-iran-before-elections-media"
   }
  ],
  "daily_forecast": {
@@ -7546,7 +7547,7 @@
   "ai": false
  },
  "dp_last": {
-  "status": "up",
-  "ts": "2026-10-16T16:01:42.995945+00:00"
+  "status": "down",
+  "ts": "2026-10-16T17:46:13.493120+00:00"
  }
 }
