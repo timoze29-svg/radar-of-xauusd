@@ -870,7 +870,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792080971.8975515,
+   "ts": 1792152974.6958187,
    "data": {
     "gold_hours": {
      "0": {
@@ -967,11 +967,11 @@
       ]
      },
      "3": {
-      "n": 120,
+      "n": 119,
       "high": [
        [
         0,
-        10.8
+        10.9
        ],
        [
         17,
@@ -985,15 +985,15 @@
       "low": [
        [
         0,
-        14.2
+        14.3
        ],
        [
         15,
-        10.8
+        10.9
        ],
        [
         16,
-        10.0
+        10.1
        ]
       ]
      },
@@ -1030,10 +1030,10 @@
      }
     },
     "dollar": {
-     "n_hours": 5941,
+     "n_hours": 5936,
      "horizon_h": 2,
      "base_gold_up": 53.7,
-     "base_dxy_down": 48.2,
+     "base_dxy_down": 48.3,
      "down": {
       "3": {
        "n": 241,
@@ -1050,14 +1050,14 @@
      },
      "up": {
       "3": {
-       "n": 267,
-       "p_dxy": 56.2,
-       "p_gold": 49.1,
-       "gold_avg": -0.9
+       "n": 266,
+       "p_dxy": 55.6,
+       "p_gold": 48.9,
+       "gold_avg": -0.8
       },
       "4": {
        "n": 74,
-       "p_dxy": 59.5,
+       "p_dxy": 58.1,
        "p_gold": 51.4,
        "gold_avg": -0.3
       }
@@ -1067,14 +1067,6 @@
   }
  },
  "seen_news": [
-  "9e931ef9d5f5",
-  "527ecd2e3f7e",
-  "38119af051d6",
-  "2ece2ec4f2ae",
-  "e70100356779",
-  "cebc77d8675f",
-  "809415e60c54",
-  "efebe66b3cf6",
   "d46206aadf69",
   "655d2dfff792",
   "7ae067cecd42",
@@ -4066,7 +4058,15 @@
   "661f6413cc3d",
   "2cf3b8a43f3b",
   "f6a13613644f",
-  "9a05e7a65964"
+  "9a05e7a65964",
+  "76691287b478",
+  "f0957abfe89a",
+  "3126311e8981",
+  "39ba8e4d697e",
+  "20e67884b452",
+  "baa795dd9511",
+  "59fd37d91a70",
+  "e280b1e3eacd"
  ],
  "news": [
   {
@@ -4124,6 +4124,18 @@
    "link": "https://www.wboc.com/news/international/russia-strikes-9-ukrainian-regions-as-strain-grows-between-zelenskyy-and-trump/article_e689447d-8a2e-509f-adb6-820e81198a55.html",
    "published": "2026-10-16T11:15:00+00:00",
    "id": "ceb461fdfcd1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel, US and Gulf brace for renewed Iran war",
+   "source": "Israel Today",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXdnd1dta1o4SVVvSEc3aWg0MmVOSXJ2dGgzTHdBR2x4U3VoQUdUSWhFVnZfc01DcUpiVFV5S0pxand4TjJEMDByRnY4TGdYLWhmUVAzUU9JbF8zR3JjNG1yZnR4VmhyRDgxM3ZWY3RrVWxlaHNJQjB4MUhZazJJYkczWUJDcW84?oc=5",
+   "published": "2026-10-16T11:04:05+00:00",
+   "id": "76691287b478",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4331,6 +4343,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "EU rallies around Zelensky as rift widens with Trump over Russia energy strikes",
+   "source": "South China Morning Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ3RrLUVvSXJZOXhVYU15czlwY0NhOU5RVnZNcTBRNGJmbzNqZHJmVklNdjdodThPbG9lb2xlWVpoSWNmeUZXeDQwUzNPVDF4MGdSUjRaMFRjZGdfemtPODBSb1RTTW96OEdKM3NLT2VZRE9OSzNaU3JBZVVpbGJOaThvdEl0VlNhdzAwc0VmaHdFZ3oxb0VBSWRBbldOX1pSdXdkMTNrU2dfdmluaXZWcVRKWEo3UVVSUTlGYi12eThCOXByN215LUVoLUxISGt3SmdrdGNlZ9IB1wFBVV95cUxPUlFBUWVyckJmVzhNaV9wQV9qMjV3Q3puemdpNEkyLUFpY3VwRElab1h5VEVrUnRmc1RsUHQtR1NsVWxmS1pVN2dZM1NhalM1em5fQVF5NXhUdllDLXlZNWlEa2FPajJXWl9paTlfcl93V1VpTmFoQnVrYi1rRHZGM2tjUUJDelA2Rnc2eW84bkdTdFNtLVlUS2pOdkI2MU5DOUVKck0wcXlQSVc5eGpHQW1USWVGbUdlZXJ5RWphRDQtUFludWRuelZidE42VEpUUG02T05xaw?oc=5",
+   "published": "2026-10-16T10:14:29+00:00",
+   "id": "baa795dd9511",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6444,30 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "[SMM Analysis] Zambia's Planned Gold ETF; A New Route to Gold Investment",
-   "source": "Shanghai Metals Market",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDlpVnBOeENxdW9VR2tqTklnY0F6YWNEalNaRzZlOVQ2am5LWGRFV2U0N041NlRFSjFpN28xT2c0c0tNZ1lpTjJwZV9mV2oyUzBMbmxrUUVnVFk1bjE5dkc4NTdYX1JiSXhsNEVud09pSjNINnZhdGdTQWZQeUVxamJPWFFER0NnN2d6bjZyWHVDd2NNMVRYc0RORjVqNnV6aWg3VGROSElkWHZ0czV3Z0pWUQ?oc=5",
-   "published": "2026-10-15T13:58:00+00:00",
-   "id": "4960abc08d02",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Développement marginal pour la demande locale, impact négligeable sur les cours mondiaux.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Near US$4,000 as Central Banks Buy and ETF Investors Sell",
-   "source": "Discovery Alert",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTg3QVVLR05mdG9Qa3lhUkdxRGRyWjZrcDJ2cXRMbUFjRDZUMy14dWEzb0Rxdnp4Y3hnUkJDa2hpTUpRSEVVQ3VaYWwySzZ2M3BCUnh5Z2FpMTZYSjZtMy13N2ZmYWlHTzV1eVc3dWo2MlZrTXFzUjlYdy16OXVjZExXZVNFS18zSlZQZDdtU3BZalU?oc=5",
-   "published": "2026-10-15T13:52:41+00:00",
-   "id": "753bb5bf5136",
-   "impact": 2,
-   "cat": "banques centrales",
-   "raison": "Les achats continus des banques centrales fournissent un socle structurel haussier pour le métal.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7061,7 +7061,9 @@
   "news|d5fe53cc2f92": 1792150309.6657088,
   "news|a315f8517bf1": 1792151169.866622,
   "news|ceb461fdfcd1": 1792151170.7105427,
-  "rep|update|2026-10-16": 1792152091.7726824
+  "rep|update|2026-10-16": 1792152091.7726824,
+  "news|76691287b478": 1792152971.1144009,
+  "news|baa795dd9511": 1792152972.143186
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7164,6 +7166,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T12:16:12.143439+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>EU rallies around Zelensky as rift widens with Trump over Russia energy strikes</b>\n📰 South China Morning Post · Ven 16/10 12:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ3RrLUVvSXJZOXhVYU15czlwY0NhOU5RVnZNcTBRNGJmbzNqZHJmVklNdjdodThPbG9lb2xlWVpoSWNmeUZXeDQwUzNPVDF4MGdSUjRaMFRjZGdfemtPODBSb1RTTW96OEdKM3NLT2VZRE9OSzNaU3JBZVVpbGJOaThvdEl0VlNhdzAwc0VmaHdFZ3oxb0VBSWRBbldOX1pSdXdkMTNrU2dfdmluaXZWcVRKWEo3UVVSUTlGYi12eThCOXByN215LUVoLUxISGt3SmdrdGNlZ9IB1wFBVV95cUxPUlFBUWVyckJmVzhNaV9wQV9qMjV3Q3puemdpNEkyLUFpY3VwRElab1h5VEVrUnRmc1RsUHQtR1NsVWxmS1pVN2dZM1NhalM1em5fQVF5NXhUdllDLXlZNWlEa2FPajJXWl9paTlfcl93V1VpTmFoQnVrYi1rRHZGM2tjUUJDelA2Rnc2eW84bkdTdFNtLVlUS2pOdkI2MU5DOUVKck0wcXlQSVc5eGpHQW1USWVGbUdlZXJ5RWphRDQtUFludWRuelZidE42VEpUUG02T05xaw?oc=5"
+  },
+  {
+   "ts": "2026-10-16T12:16:11.114462+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US and Gulf brace for renewed Iran war</b>\n📰 Israel Today · Ven 16/10 13:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXdnd1dta1o4SVVvSEc3aWg0MmVOSXJ2dGgzTHdBR2x4U3VoQUdUSWhFVnZfc01DcUpiVFV5S0pxand4TjJEMDByRnY4TGdYLWhmUVAzUU9JbF8zR3JjNG1yZnR4VmhyRDgxM3ZWY3RrVWxlaHNJQjB4MUhZazJJYkczWUJDcW84?oc=5"
+  },
   {
    "ts": "2026-10-16T12:01:30.763266+00:00",
    "kind": "ny_update",
@@ -7453,16 +7465,6 @@
    "ts": "2026-10-16T01:31:28.018079+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Arab News | With anger spreading over Iran war , Democrats hope to flip Republican seats with veteran help</b>\n📰 arabnews.com · Ven 16/10 03:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.arabnews.com/world/with-anger-spreading-over-iran-war-democrats-hope-to-flip-republican-seats-with-veterans-help-3006639"
-  },
-  {
-   "ts": "2026-10-16T00:46:05.159892+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans</b>\n📰 Reuters · Jeu 15/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5"
-  },
-  {
-   "ts": "2026-10-16T00:46:04.218146+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>In Alaska campaign rally, Trump and Sullivan say Iran war is worth the cost to Americans</b>\n📰 Alaska Beacon · Ven 16/10 02:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEJNdzNpQTVzY2VEWmt5eVBGSDZLRExRb1JSaDE2WXR3UGdZN2JNOGpheHQxVWdfRVFJTU5ISHlqcVhmbEpmdl9hYmFLTHZmekR3c1RzQTlaVVBQQVBHQXNyNXVsdUlPQktyMGZQYXVPLTBGUVFnRWNnWjg3YVBkdHR4dUlmNHhjVHBMM2lVaEpOTFdEWU81RWZxcWg5WFNId1RtNjJnZk9vTjJaMnczS25oWEh2U0FCS2VkRS1jWnpBQQ?oc=5"
   }
  ],
  "daily_forecast": {
