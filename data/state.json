@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792174548.70047,
+   "ts": 1792178151.748808,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,16 +1067,6 @@
   }
  },
  "seen_news": [
-  "c60bb899c8ce",
-  "80f8d131513f",
-  "0045b2971232",
-  "123a1b3a61e6",
-  "a615f0e3e3f8",
-  "d56b0d9fe3e6",
-  "dfc4879a2385",
-  "75d7b878609c",
-  "61e007cd6e6a",
-  "5ee7f39672d5",
   "80a8c36359b4",
   "73050d8d66c8",
   "3a92cf8f6f9f",
@@ -4066,7 +4056,17 @@
   "918b8292155c",
   "6de2f3819e77",
   "63b02341a77c",
-  "ad02ca55e689"
+  "ad02ca55e689",
+  "c8be5ac27c46",
+  "c41a4068b0f3",
+  "a97870e5de10",
+  "3bcdd3868cf6",
+  "72c04f59ba0c",
+  "e8b3119b0ac9",
+  "9eb0111349eb",
+  "6b5610b53d0b",
+  "8fd1c581918e",
+  "844b4021157c"
  ],
  "news": [
   {
@@ -4607,6 +4607,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Crypto Funds See $434M in Outflows as Hot CPI Pushes Fed Hawkish",
+   "source": "The Crypto Times",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHZXMWJUTVRXUlN1T09aX3hNZDJZaS00VkV4TXBnU0YxRGh5dmRvaC11bzdUQUNVV0RtdmhjaGpPOWZ3MFVhOWN5N0ZvTW1HRE9GeVJ4ejNKQ2FudHd6eWRSVnpXRmFYTnB0enMyQzVmc0RLLWdTN3cxc2trREExbkJ0aml3T0FETUxUdTVhSURWWFhuMjd5WXp2eUJVZjhGN1p2dg?oc=5",
+   "published": "2026-10-16T12:48:46+00:00",
+   "id": "3bcdd3868cf6",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6456,18 +6468,6 @@
    "cat": "fed",
    "raison": "Focalisation stricte sur l'inflation soutenant les taux réels et pesant sur l'or non-rémunérateur.",
    "method": "IA"
-  },
-  {
-   "title": "UK Tightens Russian Oil Sanctions as U . S . Weighs Relief",
-   "source": "gcaptain.com",
-   "theme": "Géopolitique",
-   "link": "https://gcaptain.com/uk-tightens-russian-oil-sanctions-as-u-s-weighs-relief/",
-   "published": "2026-10-15T19:45:00+00:00",
-   "id": "34b4d1761d69",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions pétrolières tempérées par de possibles allègements américains, impact très modéré.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7092,7 +7092,8 @@
   "news|d9b0e85a7d91": 1792174569.6316984,
   "news|be978f94909b": 1792174570.651612,
   "news|6aed9ad4ce3d": 1792175515.850421,
-  "big|SPX|2026-10-16": 1792175517.1306136
+  "big|SPX|2026-10-16": 1792175517.1306136,
+  "news|3bcdd3868cf6": 1792178175.0358484
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7195,6 +7196,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T19:16:15.035913+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Crypto Funds See $434M in Outflows as Hot CPI Pushes Fed Hawkish</b>\n📰 The Crypto Times · Ven 16/10 14:48\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHZXMWJUTVRXUlN1T09aX3hNZDJZaS00VkV4TXBnU0YxRGh5dmRvaC11bzdUQUNVV0RtdmhjaGpPOWZ3MFVhOWN5N0ZvTW1HRE9GeVJ4ejNKQ2FudHd6eWRSVnpXRmFYTnB0enMyQzVmc0RLLWdTN3cxc2trREExbkJ0aml3T0FETUxUdTVhSURWWFhuMjd5WXp2eUJVZjhGN1p2dg?oc=5"
+  },
   {
    "ts": "2026-10-16T18:31:57.130660+00:00",
    "kind": "big_move",
@@ -7489,11 +7495,6 @@
    "ts": "2026-10-16T06:16:02.719148+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’</b>\n📰 Financial Times · Jeu 15/10 23:10\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW5ZbVNGWmwxQVc3ME5wSU9pYW5qeWJyaVljU1BuTEFxNXhJN1VEX1FJSmNaUmhmNEFhMFU1ZGpTTnR5eExpTGVtR241VTBING00RkFYU0dPTUdjM0hPLWlxY2k0Y045a1hlMlRsSUM3UmZucFhaSklTZGVQcXFSRTA5VDA?oc=5"
-  },
-  {
-   "ts": "2026-10-16T06:16:01.759003+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'We'll knock it out fast': Trump threatens Iran's Pickaxe Mountain nuclear site with strikes</b>\n📰 The Jerusalem Post · Ven 16/10 07:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZVIxb0ZXZDAyQlhDU1VaWEtRN0t1RW1xMXBNYWFPLS03bW05TFdOTlItSWk5dEhrMzlSNGZNUzlieEtzUjVoYzVoNkdsZXdjQjNFRXh2Sk41eEpmYU1MT1ZCS19uWTE3SHc?oc=5"
   }
  ],
  "daily_forecast": {
