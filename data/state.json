@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792088151.6066856,
+   "ts": 1792109910.9208565,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.88,
-     "date": "2026-10-13",
+     "last": 2.84,
+     "date": "2026-10-14",
      "chg5": -0.07,
-     "chg20": 0.28,
+     "chg20": 0.22,
      "hist": [
-      1.92,
       1.92,
       1.89,
       1.91,
@@ -129,18 +128,18 @@
       2.92,
       2.87,
       2.91,
-      2.88
+      2.88,
+      2.84
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.35,
-     "date": "2026-10-14",
-     "chg5": -0.01,
-     "chg20": -0.03,
+     "last": 2.32,
+     "date": "2026-10-15",
+     "chg5": -0.04,
+     "chg20": -0.01,
      "hist": [
-      2.42,
       2.42,
       2.44,
       2.44,
@@ -259,18 +258,18 @@
       2.35,
       2.33,
       2.33,
-      2.35
+      2.35,
+      2.32
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.79,
-     "date": "2026-10-13",
-     "chg5": -0.05,
-     "chg20": 0.14,
+     "last": 4.82,
+     "date": "2026-10-14",
+     "chg5": 0.03,
+     "chg20": 0.15,
      "hist": [
-      3.79,
       3.83,
       3.78,
       3.78,
@@ -389,14 +388,15 @@
       4.77,
       4.75,
       4.8,
-      4.79
+      4.79,
+      4.82
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -421,7 +421,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -493,6 +492,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "41a7cfa10e60",
-  "4aa401fc6423",
-  "c7683c1c6630",
   "5afa1fc30f25",
   "c26dab1d5b32",
   "135173e85d78",
@@ -4066,7 +4063,10 @@
   "fdf82bc6f07c",
   "da5b8d91f5a7",
   "735195dc0a7b",
-  "e0d394898575"
+  "e0d394898575",
+  "2b7138f00244",
+  "3d278256b728",
+  "3ddd8317633d"
  ],
  "news": [
   {
@@ -4436,6 +4436,18 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVdEUk9ZMmJxVm9wOVloWlI1TnJibGFQOWNiTmtvejcyUnVJa2t0SWZmMjJ3dHRoUmdHSFk2LTdfWTdWN1RFNzRJUmF0N3NpSTJCWkNiMDVDb0VRRXpXN1NzQXdfNHI0eTBTRjZWanJIdXdxeXJtcTRwcDNGVUlwSU9jdDdWcmh1RmlvenczNC1Da0JlNFBMQkU5Q0tGVDJTeDl6N3ZUQktCUHFvUHc?oc=5",
    "published": "2026-10-15T19:34:33+00:00",
    "id": "b84fa2715577",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel on high alert: Fears of pre-election escalation",
+   "source": "Israel National News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uM3ZFR3JCMWxYOGlZd2trT3g3TDJJZFFtelRDRGYxTC04X25VTER0VGRDVzNQd0x2LVltdm9oZW1zS2NhdDI2aFc0SFNWbmxibWQ2aTM1T01IQQ?oc=5",
+   "published": "2026-10-15T19:33:38+00:00",
+   "id": "3d278256b728",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6456,18 +6468,6 @@
    "cat": "inflation",
    "raison": "baissier or (inflation)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Korean government bond yields fall despite US CPI shock as AI debt fears spur safe-haven demand",
-   "source": "머니투데이",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uZklFVl9kVVQwclBkUXlTVjRaQ2ZYd0VaemJCMDJydVRKb2dkTE9kdFlsSVNWRktfQ1BoTWdVRFp5NGhaNnVwakMyMjZSU2NnMkFNUG5wWXROQ2RkY2picDdNNV9zM2lzWTA5Vg?oc=5",
-   "published": "2026-10-15T05:16:41+00:00",
-   "id": "3593902919eb",
-   "impact": 1,
-   "cat": "taux",
-   "raison": "Aversion au risque et baisse de rendements souverains offrant un modeste soutien refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7000,7 +7000,8 @@
   "news|b84fa2715577": 1792104366.2553911,
   "news|1e7a421a5e15": 1792106167.0856764,
   "news|8c3ed4944687": 1792106168.0442562,
-  "news|597fdbdcce03": 1792107080.3856575
+  "news|597fdbdcce03": 1792107080.3856575,
+  "news|3d278256b728": 1792109928.6386242
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7087,6 +7088,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T00:18:48.638682+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel on high alert: Fears of pre-election escalation</b>\n📰 Israel National News · Jeu 15/10 21:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uM3ZFR3JCMWxYOGlZd2trT3g3TDJJZFFtelRDRGYxTC04X25VTER0VGRDVzNQd0x2LVltdm9oZW1zS2NhdDI2aFc0SFNWbmxibWQ2aTM1T01IQQ?oc=5"
+  },
   {
    "ts": "2026-10-15T23:31:20.385705+00:00",
    "kind": "news",
@@ -7381,11 +7387,6 @@
    "ts": "2026-10-15T13:01:58.502922+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -13)\nMoteurs principaux : Sentiment news 24h (+14), Momentum or (vs MM50) (-14), Taux réels 10 ans (20j) (-13)"
-  },
-  {
-   "ts": "2026-10-15T13:01:57.253215+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>US weighs using 'mother of all bombs' in potential Iran strikes: report</b>\n📰 WPDE · Jeu 15/10 14:25\n🧠 Menace d'escalade militaire majeure contre l'Iran, puissant afflux vers la valeur refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMinANBVV95cUxNaXBMNDdQUkNlbmZ6NnB4V2o4TGhYUDhEMkViR29RbDIxWVVzWElQWmdjcVh6akJzNFpxSUFSdjZXSjhjNHlIaUhzblFSbVZacmNOOE40VW9tU2NyRmFkOTNVcXphMUJjX0QxQVhoLWtUYUlKWmZrUzYybVNCZ2VwVVFzMXhCQlh1aTBGWjNXVnY1R010bi10REFkck1idFJjYXdPUVd2TERob21RdGJLT0hudmxZMVlMVTliY0JJWjZMUzFmc1BOSUNMaW9NajgtVWdLb2J2VmV2Umh2MXNTMTBwd3JBbWhnV2N2VjgtRGhWeW1Tb2Q0TFVmSEY5Z3ZaUU9jaV9rWjBGTWtILUw5ckZjWENoWG1ySnpfWDJzYjRiYnRUWnFKb1VzT2xNcDB0MzNMOUNaS19ZQkdnUE55UmNXZFpNRkVOT2xZSDZkYW9MTEoxNFlfVVphWVRBT21yNGN3akhaWno3dWdxcTc1TUg5RW1PZjczbjhfcDNNUVM5QlBsaFdORzRCNzRObEdkaE5KOHNZamZMOF9I?oc=5"
   }
  ],
  "daily_forecast": {
