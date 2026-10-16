@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792124152.097188,
+   "ts": 1792128658.6619787,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "08fd141e7eac",
-  "6b3868865e0d",
-  "5a2ac6dc97da",
-  "151e12022284",
   "6f01f89a1ebe",
   "808154987845",
   "f3bf999acc5f",
@@ -4066,7 +4062,11 @@
   "ae1d64652abc",
   "b154e18660dd",
   "0e555e4ffc0f",
-  "ce2dbff5bd28"
+  "ce2dbff5bd28",
+  "767ee7ffb1a5",
+  "59434298da54",
+  "0ac829258045",
+  "3f4957ba9a3c"
  ],
  "news": [
   {
@@ -4125,6 +4125,18 @@
    "published": "2026-10-16T04:30:00+00:00",
    "id": "b32aea5f506a",
    "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWZJUEM4emlGRGhaUVlYZFdNclZ3YmVXU0drNUN3Y3pSRUlnMXFHSVpSQjNzdllrZEdsejZ2NldIWHphNERHcFdfaURVVHpqQ2pleVQ5TjBKYnVlNmdpczIya2E3VGlKaDdPXzdEa3dCT3I1VW15WXpUeUl2NjlJZWZpLXpYY2VGM2pqM0ZGT3ZpMGpiWG9oeU5aTldnb3VHWHNlLTI4dTJkQlNrbGNnYVlfaUNNbldKVWZsS21B?oc=5",
+   "published": "2026-10-16T04:01:00+00:00",
+   "id": "0ac829258045",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4920,6 +4932,18 @@
    "cat": "commerce",
    "raison": "Débat politique sur les tarifs et l'inflation, effet de marché quasi nul.",
    "method": "IA"
+  },
+  {
+   "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
+   "source": "NBC News",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
+   "published": "2026-10-15T19:59:00+00:00",
+   "id": "59434298da54",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "UK Tightens Russian Oil Sanctions as U . S . Weighs Relief",
@@ -6444,30 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Following a brief truce, Zelenskyy says Ukraine will resume strikes on Russian refineries",
-   "source": "KCRA",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFJZTUhIN0xOVGFjc1BWMHhWMDYxUHFMRmZxY2NmMXpHR1lfUXpGbVFNQV9Ta28tb21vR2g4cUNYRm5ZQUpBcWtadjJyMU9sREg0cWZFeWhGTlkyRzNuUFVzV2VsczU2dXJiQjExWmJkeTNjZjUxa0l5bWxqN3FWVEhNWE84QU0xWTJUeW1NdjV6Zw?oc=5",
-   "published": "2026-10-15T09:52:00+00:00",
-   "id": "7b216026b883",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil remains supported amid persistent Middle East tensions as US weighs using \"Mother of All Bombs\"",
-   "source": "investingLive",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUzlMb2tMOHBGZHNMQnptVUZpNEhQYUVDbjlnS0tpemJFYTVQSWx5OTMyTGdaaHFybk1STzE2OGI0eG11NE42R3NqN1Y5SGV5aFlzUjJ2SDAwSm1NUXk3cFl0SlFMYjJ0X3BfT2s1WWRsaUNOel84ei0zcExPVHBOWWxFUFR2R2oxZ1lzWEZyT2hWY1ZtVC1pOTJsQzJZTDZxNVZVelM0SzZzMTV6ZUg0RDVRRjNBSVVJTkZIV2RCWUJ0dVJtUXlsbGItclM5cHFoR0E?oc=5",
-   "published": "2026-10-15T09:51:52+00:00",
-   "id": "59063bc9ec0d",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Pétrole cher et prime géopolitique accrue renforcent l'attrait défensif de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7030,7 +7030,9 @@
   "news|bbb46aa23247": 1792125961.5273595,
   "rep|daily|2026-10-16": 1792126899.0106287,
   "news|ec48da397cd2": 1792127771.8939924,
-  "news|487d4e13d71c": 1792127772.8887649
+  "news|487d4e13d71c": 1792127772.8887649,
+  "news|0ac829258045": 1792128678.830621,
+  "news|59434298da54": 1792128679.7573295
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7133,6 +7135,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T05:31:19.757606+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike</b>\n📰 NBC News · Jeu 15/10 21:59\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5"
+  },
+  {
+   "ts": "2026-10-16T05:31:18.830676+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says</b>\n📰 Reuters · Ven 16/10 06:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWZJUEM4emlGRGhaUVlYZFdNclZ3YmVXU0drNUN3Y3pSRUlnMXFHSVpSQjNzdllrZEdsejZ2NldIWHphNERHcFdfaURVVHpqQ2pleVQ5TjBKYnVlNmdpczIya2E3VGlKaDdPXzdEa3dCT3I1VW15WXpUeUl2NjlJZWZpLXpYY2VGM2pqM0ZGT3ZpMGpiWG9oeU5aTldnb3VHWHNlLTI4dTJkQlNrbGNnYVlfaUNNbldKVWZsS21B?oc=5"
+  },
   {
    "ts": "2026-10-16T05:16:12.888866+00:00",
    "kind": "news",
@@ -7422,16 +7434,6 @@
    "ts": "2026-10-15T17:16:12.399664+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom</b>\n📰 Toronto Star · Jeu 15/10 18:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOZHltdElFVmZOc25aUXNZaGxCS3oxdE1JTnljLXNYQnRmVTNpSXphelBlSVdqRnlwSGlJVlZTTUtUR1p6MWU0d2ZHWV9VSW9QeWRDTm9BdjBKanY2c0RqQlNlSHlIWDhCSDdZUXU0WXRaTUNvS2dhOXVLa1lkcGM4TmVHRzZRRXZUbF9KejNoRC0wdVZHMXVsamNCUE02VWVxVU1vVlNNUnZGYjlFTTNlZFFCSTlzYnNNVk9aMFVGOFRRN3VZbjZYemJYLVJ4MFR5QURCNlVJRUxhNGdxSDRCLW1jU1dXYmI2aVBWRmVGZ2lFZzBUbER2U0ctWncwY3IzNzFOVlFsOA?oc=5"
-  },
-  {
-   "ts": "2026-10-15T17:16:11.529145+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Netanyahu unlikely to strike Iran before elections, but Israel fears surprise attack</b>\n📰 Ynetnews · Jeu 15/10 19:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwelRvWW1kbjdZMFBjWUR5VE1mOWdocUQtRVdFMWpWX3NRdlctaU1xdEFtX0NMTUtaMVFsREEwR2VDWW5MQ3h4U3RXSFZ3ZmJ0VUhDN0Vn?oc=5"
-  },
-  {
-   "ts": "2026-10-15T17:04:42.765982+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel Differ Over Timing of Strike on Iran</b>\n📰 ASHARQ AL-AWSAT English · Jeu 15/10 18:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1BOVDRUQXdIcEJfZDVhcktESG9GQ0FKRExiM3J3Tkx2dXRhZXJfX1BPckQ0aFI0d1p0ajNtNkhnNUJ2bmFYUmI0bWpHLThEd0x0WVBKcElyUDQ2NWJNVmItampQSHhVa2txSDBTS2hUcVNja29nX29tX2tRYnptUzJDVXQ1QVAy?oc=5"
   }
  ],
  "daily_forecast": {
