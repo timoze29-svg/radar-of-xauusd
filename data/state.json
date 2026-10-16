@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "69ea0b89cc8d",
-  "4d487e0c7a7a",
   "149d42690d06",
   "e0fcde61334e",
   "bb5e6f953203",
@@ -4066,7 +4064,9 @@
   "b9e636e5d922",
   "db95f3c34734",
   "44f0dbe5402c",
-  "fc119e83c79e"
+  "fc119e83c79e",
+  "aaecff6e3345",
+  "0c8116a03e43"
  ],
  "news": [
   {
@@ -4076,6 +4076,18 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzdfMUtMTXdTdHpvaTQtTHdBN01PcU1ualhjMVB2V1MwdGNnR05kNEVXdzBkSzBWMG1YcVNqd2VaMXpLVkRmQ01qWm1SWG1scmZsZE9YLVN1X0dvM1hKTkJhWTVGdEVmOXM4VmJVc2NnaExIQ3A5UmpKQlVkWlZFMFdPZlM?oc=5",
    "published": "2026-10-16T19:32:00+00:00",
    "id": "fc119e83c79e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "DeLauro Statement on Reports of Trump Administration Weakening Ukraine’s Defenses as Russian Attacks Intensify",
+   "source": "House.gov",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVlzNUZBRVlPMDE2U1dzQVdpVzJWaTA5b0t0MUpaYTdpM2VqQ2VNblRMT2FJTzQxTUE2Z1Ffcjc5SDlBODdOZEcySE9tYmw1cmpISF93UlRaQWpENVBjdFA5cHA2VWxTaTBZb0pldDM2Vk5ScHo0WkdqdlFsenNQTEE0MjBQZDhQZy1Zd19GYUZvTnNkWHdrdjNONjRnVWNKbXh3MDhtaF9meWtqS0NfRFhJSlhYUXRjajl6c3FVUUdmYmRoRVd1cFV5cDlkampybUFn?oc=5",
+   "published": "2026-10-16T19:27:24+00:00",
+   "id": "0c8116a03e43",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Assouplissement envisagé sur la flotte fantôme risquant de détendre l'offre pétrolière.",
    "method": "IA"
-  },
-  {
-   "title": "Even before the elections? Growing signs of an impending strike on Iran",
-   "source": "www.israelhayom.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmMzOTRZUjBoN0pyQmRqR1V0bDZReWdIOU1MdUxNdUtMOVFLdTVJdEQ5aUVkQzZrdk1DakEtLTI1cTcyLUQyc21mRmhBRnBmZHlKSFp1YmVmYkhxR01ONERTQTFkMFR1em8yNm5TeXFkUGhfd0pKX1ZjaG1VV3RkYUJSbWtrdkNDdHZ5Z0pnbVZOZ3RmUHJkWm1JOElQSG5LeFA3bzBBWmdnTUZiRjhj?oc=5",
-   "published": "2026-10-15T20:25:42+00:00",
-   "id": "45a7ae171d3a",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque imminent de frappes contre l'Iran renforçant la demande d'or comme valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7094,7 +7094,8 @@
   "news|6aed9ad4ce3d": 1792175515.850421,
   "big|SPX|2026-10-16": 1792175517.1306136,
   "news|3bcdd3868cf6": 1792178175.0358484,
-  "news|fc119e83c79e": 1792179965.035436
+  "news|fc119e83c79e": 1792179965.035436,
+  "news|0c8116a03e43": 1792180348.4466097
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7197,6 +7198,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T19:52:28.446678+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>DeLauro Statement on Reports of Trump Administration Weakening Ukraine’s Defenses as Russian Attacks Intensify</b>\n📰 House.gov · Ven 16/10 21:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVlzNUZBRVlPMDE2U1dzQVdpVzJWaTA5b0t0MUpaYTdpM2VqQ2VNblRMT2FJTzQxTUE2Z1Ffcjc5SDlBODdOZEcySE9tYmw1cmpISF93UlRaQWpENVBjdFA5cHA2VWxTaTBZb0pldDM2Vk5ScHo0WkdqdlFsenNQTEE0MjBQZDhQZy1Zd19GYUZvTnNkWHdrdjNONjRnVWNKbXh3MDhtaF9meWtqS0NfRFhJSlhYUXRjajl6c3FVUUdmYmRoRVd1cFV5cDlkampybUFn?oc=5"
+  },
   {
    "ts": "2026-10-16T19:46:05.035512+00:00",
    "kind": "news",
@@ -7491,11 +7497,6 @@
    "ts": "2026-10-16T06:31:23.438534+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’</b>\n📰 The Guardian · Ven 16/10 08:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5"
-  },
-  {
-   "ts": "2026-10-16T06:16:03.621235+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s strikes on Persian Gulf water and power were deliberate - Reuters</b>\n📰 Iran International · Jeu 15/10 13:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6VWdjRTNGdG1pc3RtcXNqSjFiLTdsMnJZYXRaVXVxOEl3VXFIeUhUVjVMSGtJRVlfNjEydHBLU0NKbnBhQXNpQ0F6b0VxWUpFR2c?oc=5"
   }
  ],
  "daily_forecast": {
