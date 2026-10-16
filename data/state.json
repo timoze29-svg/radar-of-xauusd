@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792120546.5219405,
+   "ts": 1792124152.097188,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "9f20d9857ff7",
-  "0bb8111385ba",
-  "ed47f68b5b92",
-  "7b70c6d8644a",
   "7369c2bb4cdb",
   "71627d5d4bbd",
   "9187b14db2ef",
@@ -4066,7 +4062,11 @@
   "d7a271549af4",
   "19239feb263b",
   "e506a0918869",
-  "5d3902aa64ec"
+  "5d3902aa64ec",
+  "063e0066b49e",
+  "bf3b67a1449f",
+  "fd2584a5ea67",
+  "29d1a129cf9e"
  ],
  "news": [
   {
@@ -4125,6 +4125,18 @@
    "published": "2026-10-16T02:48:40+00:00",
    "id": "f6a92ad178e7",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump calls renewed Ukraine attacks on Russian refineries 'a disgrace'",
+   "source": "Le Monde.fr",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHpXTkhyVEhLTnhjQlhkRzVMak1BVHNTX2k1ZlEzUndKUmRLMl9MNGlqVVRFUmtyV1gwT2Zsb0FaZEpIdGR6VlQ4Y21PTmZXMTB2Vkw0MFltNk44WUJFQkJGUTJLczJVZFp6RFAwallVZGFueTNMRHpzWFFxRElHRG5QTmRCQkpPYnlfRzNNUTR3dGZLb0Nic1VMR3ZBZXdYNF9nSzI4MzlkbHBJRXdGUEZxSjJack9yQ2lNbWF3bmJTcnRPWmt5eEQ3bFJOSGZ5VnJwTTkwNFVMUQ?oc=5",
+   "published": "2026-10-16T02:38:29+00:00",
+   "id": "29d1a129cf9e",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Perspective de désescalade réduisant modérément la prime de risque géopolitique sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Social Security Is in Dire Straits, and President Donald Trump's Policies Are Making Things Worse",
-   "source": "The Motley Fool",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHlkTE53MzRMbldWT0dkTGd3OEJ1RV9kdWQ0b21ZRW0yRjhpNTdqaF9qZVRyVXg4bTI0TVhzYzNJbzV3THZKWk9HOXBfNlhZQWZSRXN2RmdDTjFKT084Z3JFNVFmUkJlSmxURTJhQmdlai0xbjNqMHdmai1kMm16QjhjMUFuVkptdWJMbnVpQng2SzdaOTlzdlRWYVlKWUVqX2owZlZrUEdLb01ZMUFIeTUwdlItWW5zdDk4RWFGTQ?oc=5",
-   "published": "2026-10-15T08:22:34+00:00",
-   "id": "5ac823922304",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7019,7 +7019,11 @@
   "news|c11ec6b51ede": 1792119709.7270837,
   "pre15m|2026-10-15T23:30:00-04:00": 1792120566.05911,
   "news|ccca72ee4148": 1792122359.2647033,
-  "post|2026-10-15T23:30:00-04:00": 1792123300.9707189
+  "post|2026-10-15T23:30:00-04:00": 1792123300.9707189,
+  "news|29d1a129cf9e": 1792124174.7742953,
+  "brk|GOLD|pdh|up|2026-10-16": 1792124176.0083575,
+  "brk|DXY|pdh|dn|2026-10-16": 1792124176.9692812,
+  "big|COPPER|2026-10-16": 1792124177.9585688
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7106,6 +7110,26 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T04:16:17.958605+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.1290 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-10-16T04:16:16.969336+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 101.88 → prix : <b>101.85</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.48 | 60j -0.52"
+  },
+  {
+   "ts": "2026-10-16T04:16:16.008394+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 197.70 → prix : <b>4 206.00</b>\nATR jour : 81.9$ | Pivot hebdo : 4180.4\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 783 cas)."
+  },
+  {
+   "ts": "2026-10-16T04:16:14.774378+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls renewed Ukraine attacks on Russian refineries 'a disgrace'</b>\n📰 Le Monde.fr · Ven 16/10 04:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHpXTkhyVEhLTnhjQlhkRzVMak1BVHNTX2k1ZlEzUndKUmRLMl9MNGlqVVRFUmtyV1gwT2Zsb0FaZEpIdGR6VlQ4Y21PTmZXMTB2Vkw0MFltNk44WUJFQkJGUTJLczJVZFp6RFAwallVZGFueTNMRHpzWFFxRElHRG5QTmRCQkpPYnlfRzNNUTR3dGZLb0Nic1VMR3ZBZXdYNF9nSzI4MzlkbHBJRXdGUEZxSjJack9yQ2lNbWF3bmJTcnRPWmt5eEQ3bFJOSGZ5VnJwTTkwNFVMUQ?oc=5"
+  },
   {
    "ts": "2026-10-16T04:01:40.971910+00:00",
    "kind": "post_event",
@@ -7385,26 +7409,6 @@
    "ts": "2026-10-15T15:01:47.941416+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever</b>\n📰 EnergyNow.com · Jeu 15/10 14:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:46:34.657075+00:00",
-   "kind": "news_burst",
-   "text": "🔥 <b>NEWS EN RAFALE : IRAN</b>\n6 articles en 45 min (normale ≈ 1.6) → un sujet s'emballe\n\n🥇 Impact moyen : +4.3/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+8) Saudi Arabia accuses Iran of encouraging Houthis in latest escalation — <i>The Daily Star</i>\n• (+8) Trump says military leakers should be shot amid Iran bomber mission being compromised — <i>WCYB</i>\n• (+4) What is The  Mother of all Bomb The U . S . is Considering Using Against Iran if the War Resumes — <i>ibtimes.com</i>\n• (+4) Hormuz ship attacks hit record as Iran broadens campaign against commercial shipping — <i>Lloyd's List</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-10-15T14:46:33.382270+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Saudi Phase of the Iran War Signals More Chaos to Come</b>\n📰 The Nation · Jeu 15/10 15:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVRMU2c4UHBLUXZ5ekVSQmtQZks1VERMQ2J4aDhFMEV4ek1HRlNkRms2R3p4aWN5VFFQMUZOeXo5OHFFS2V4M29lZFB0c2VkR0RTbFFCNF9kRXdyYlVSenhTeXVIOG5YZGhMOENuVVJiSkNYOGpSLXhhczR3ZEZ1MmhR0gGKAUFVX3lxTE8teW95T3VzR2RRUWZLZG9kcEpKbXNjdjdhZEJHcENyTEV6QmFDQU9VNWpsWEMtZWxvZjBsTlBjWm9oX3ZjaVg2cklzU0JqMHlCUzY1VmM4R2Vyczl0V2dUaHA5R0taRDBJZ1U4d3p5MkRFQnl3eTlOTF9ieG5sc2stR3pmNjRSaXJJdw?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:46:32.418107+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's reported missile test puts Israel on alert</b>\n📰 www.israelhayom.com · Jeu 15/10 15:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEQ5Ujhwd25iQmFZTDYzclRfTm52RXNqcTlVeWZBRk5EUHVOZzk0clFPNDZPSXQ0R0ZtdTlYcTZkLXYyMnZwTjl5MlJaTnZLYUVtbzVmd0thRmlkcURJWksya3ZGUnBUcEdzOXExWTdWTmlHREZISU03VFZHcjhDVGhwcmZVb1E3d0Z0d3NETTc1dw?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:46:31.419166+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: US weighs using ‘mother of all bombs’ in potential Iran strikes</b>\n📰 Baltimore Sun · Jeu 15/10 15:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkxBdHdrNE5XNnZ1Q0RIT1RzalhqZjktN2FtM1VybC1RSHdiU0JhbjcxMVhmVnFfbWY2Wlc0WEhaamlmMUJvdlVXTXJuWklqem5WMFNkSlg0cUxRd3RrYy1UNUZqVFBVMU8yQlNlM1ltb2wxUTFIbUVpekVodFhQQVRseUhsT2lPQVlOckNGTnNjNnpOc25VZGd6aDVqSFMxSmRxc1QtYUFNeEJSN3c?oc=5"
   }
  ],
  "daily_forecast": {
