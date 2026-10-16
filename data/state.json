@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "14540b0318aa",
-  "55afd3680cfc",
-  "0980f2af5ccf",
   "2968df3ea4e6",
   "5d1a25bd352d",
   "6298cc199fe2",
@@ -4066,7 +4063,10 @@
   "1793dce17567",
   "da0e576395cc",
   "a73b01b154a8",
-  "29a08f4c5426"
+  "29a08f4c5426",
+  "254bacd5ccaa",
+  "bbb46aa23247",
+  "7e0d2344b357"
  ],
  "news": [
   {
@@ -4473,6 +4473,18 @@
    "published": "2026-10-16T01:00:00+00:00",
    "id": "c7e0f33faf31",
    "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5",
+   "published": "2026-10-16T00:52:18+00:00",
+   "id": "bbb46aa23247",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "In Michigan’s pivotal Senate race, Canadian tariffs take center stage",
-   "source": "The Boston Globe",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOV9KTHVfdldIV1o5dlR4WHRZSEVVOGtNRUNhLUN2V1AwX1BBLTFtRDVEcE1vVlBxSEhneXMxeEhGV1NHTUNQandaVEhWUXRYY21kcFBSZm92WjgxbmZTeENVbGZmWTVTclNkV29OOGJzNThaWHlfcWtHUFlpRERaQUxfb01zMmVZRElPaktaSQ?oc=5",
-   "published": "2026-10-15T09:31:30+00:00",
-   "id": "19c6769eb72d",
-   "impact": 10,
-   "cat": "fed",
-   "raison": "haussier or (commerce, fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7026,7 +7026,8 @@
   "big|COPPER|2026-10-16": 1792124177.9585688,
   "news|66b23cd1b8de": 1792125087.188905,
   "news|cafadd551921": 1792125088.3729649,
-  "news|d0e3691e0d17": 1792125089.325128
+  "news|d0e3691e0d17": 1792125089.325128,
+  "news|bbb46aa23247": 1792125961.5273595
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7113,6 +7114,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T04:46:01.527407+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries</b>\n📰 Al Jazeera · Ven 16/10 02:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5"
+  },
   {
    "ts": "2026-10-16T04:31:29.325365+00:00",
    "kind": "news",
@@ -7407,11 +7413,6 @@
    "ts": "2026-10-15T15:31:30.820768+00:00",
    "kind": "dollar_pressure",
    "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n▫️ DXY +0.10%\n✅ Taux US 10 ans +3.1 pb\n✅ Pétrole +1.05%\n✅ EUR/USD -0.15%\n▫️ News dollar/Fed : 1 (impact moyen or +4.0)\n   • Tariffs Still Raise Prices, Even If They Fall\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>56%</b> des cas sur 2h,\net l'or a baissé dans <b>49%</b> des cas (moyenne -0.8$, sur 266 cas).\n<i>Pour comparer : l'or monte 54% du temps sur 2h en général.</i>"
-  },
-  {
-   "ts": "2026-10-15T15:16:17.455718+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Saudi-led coalition intercept cruise missile near Madinah</b>\n📰 Arabian Business · Jeu 15/10 15:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
