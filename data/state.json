@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "e17ad6af9c8c",
-  "162109e64f9e",
   "0c6bb6d22d9a",
   "f587f9fe9eff",
   "dbd0185bf72c",
@@ -4066,7 +4064,9 @@
   "d0dbe915091d",
   "80147f702f32",
   "1e3dee91fe23",
-  "409fe86fb938"
+  "409fe86fb938",
+  "b458f9f8c968",
+  "8196fb829951"
  ],
  "news": [
   {
@@ -4352,6 +4352,18 @@
    "link": "https://news.az/news/iran-s-navy-reports-another-oil-tanker-on-fire-near-strait-of-hormuz",
    "published": "2026-10-16T13:30:00+00:00",
    "id": "3c448f543929",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Gives Garbled Description of Bomb He Wants to Drop on Iran",
+   "source": "The New Republic",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFU3amwtWkRvMnZKWjlNdVVWOTFCckY5R1V6SVRpS19LajZQT3QzanFZbzd2Y1hscDJkTldQSGZ6V2RVeTZCczh3cmV0cTk2S05GLVRUMU5ORlNPeTlsYkhOQjVSaFZfcDZDZFVVN2w3RFI5REJvdXlGYm8wM3k1UUpaZzg?oc=5",
+   "published": "2026-10-16T13:25:23+00:00",
+   "id": "b458f9f8c968",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -5606,6 +5618,18 @@
    "method": "IA"
   },
   {
+   "title": "India urges immediate Middle East de-escalation at U.N., condemns attacks",
+   "source": "NewsBytes",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzlpRnNPY2VoZkhGdkszTUtkNXpnQW1oSWV1SjdYcnlyVFd4SEwyVkZtMTRUQ0lfUWRET1hrWWZEY3hzMWFhS08xcHl3dHhqT0ZlZVJKZkxRQWdtZG1GRTRtU1hGX2JnWGpjakxLVklIRXdZWV9ESWVLQTE4MXBfUFFTY1NiaWZTbkdWakk2TTBwbi0zbTViSkhJd2l1RlpmbHJCd2RIY1AyOUFpYm1NaFQ3ZHBIUQ?oc=5",
+   "published": "2026-10-16T02:40:10+00:00",
+   "id": "8196fb829951",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump calls renewed Ukraine attacks on Russian refineries 'a disgrace'",
    "source": "Le Monde.fr",
    "theme": "Russie/Ukraine",
@@ -6444,30 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Attaque meurtrière au Yémen confirmant les tensions régionales chroniques.",
    "method": "IA"
-  },
-  {
-   "title": "China's central bank adds 23 tonnes of gold in September amid strong ETF inflows and rising jewelry demand.",
-   "source": "Pluang",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm05bEc0cmxucWNoZmpXek9IUzh5VjZ2dHJUc0RQOXFVVVJNWFJhcUVXaE92Z0VWM2pORTQ4eGx0d3dKTVVYV2U0OW51OWJGMzhBRXZWOGprd2Q4WjF3cHBLVGxGcVM2UzZ2dlJtOUxNbXhBczhGQnZJREUyOHRZRXNrTldiT3ZROXFyemVwRmhUWUVFdTdlYlB4UWpmb0F4M3lMam82MVkwZFRHM0hYTQ?oc=5",
-   "published": "2026-10-15T18:32:15+00:00",
-   "id": "b59609eae8bb",
-   "impact": 4,
-   "cat": "banques centrales",
-   "raison": "Accumulation continue d'or par la Chine confirmant l'appétit institutionnel vigoureux.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Tumbles Below $4,100 as Hot US Inflation Revives Fed Rate-Hike Bets",
-   "source": "BigGo Finance",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BdFNHcW4tNTQ3clY3NXJCdHd0SjBSYVBpVWFBcDV1WGVEcnRnaWNYQ2ZlbklJdENic1hNY1NkbXlQNVRyYk1qclI3SklTYllTYXd4cjU5enhiaVgxb00xNFBwWHlxaThoRFR4cFEwVDRpSFF1WGc?oc=5",
-   "published": "2026-10-15T18:06:00+00:00",
-   "id": "a5c016553d87",
-   "impact": -6,
-   "cat": "or",
-   "raison": "Correction brutale sous pression de taux réels élevés et d'un dollar fort.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7083,7 +7083,9 @@
   "news|7a999e584dfd": 1792168221.0280802,
   "news|40b62d738580": 1792168221.8836915,
   "news|eef1c63e884d": 1792168222.7317042,
-  "news|944b610c1fe0": 1792168223.6082506
+  "news|944b610c1fe0": 1792168223.6082506,
+  "news|b458f9f8c968": 1792168290.7069924,
+  "news|8196fb829951": 1792168291.6185782
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7186,6 +7188,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T16:31:31.618672+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>India urges immediate Middle East de-escalation at U.N., condemns attacks</b>\n📰 NewsBytes · Ven 16/10 04:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzlpRnNPY2VoZkhGdkszTUtkNXpnQW1oSWV1SjdYcnlyVFd4SEwyVkZtMTRUQ0lfUWRET1hrWWZEY3hzMWFhS08xcHl3dHhqT0ZlZVJKZkxRQWdtZG1GRTRtU1hGX2JnWGpjakxLVklIRXdZWV9ESWVLQTE4MXBfUFFTY1NiaWZTbkdWakk2TTBwbi0zbTViSkhJd2l1RlpmbHJCd2RIY1AyOUFpYm1NaFQ3ZHBIUQ?oc=5"
+  },
+  {
+   "ts": "2026-10-16T16:31:30.707048+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Gives Garbled Description of Bomb He Wants to Drop on Iran</b>\n📰 The New Republic · Ven 16/10 15:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFU3amwtWkRvMnZKWjlNdVVWOTFCckY5R1V6SVRpS19LajZQT3QzanFZbzd2Y1hscDJkTldQSGZ6V2RVeTZCczh3cmV0cTk2S05GLVRUMU5ORlNPeTlsYkhOQjVSaFZfcDZDZFVVN2w3RFI5REJvdXlGYm8wM3k1UUpaZzg?oc=5"
+  },
   {
    "ts": "2026-10-16T16:30:23.608568+00:00",
    "kind": "news",
@@ -7475,16 +7487,6 @@
    "ts": "2026-10-16T05:01:38.080353+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — VENDREDI 16/10</b>\nPrix : <b>4195.00</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-4/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.59\n🔴 Momentum or (vs MM50) : prix 4195 vs MM20 4215 / MM50 4375\n🔴 Taux réels 10 ans (20j) : 2.84% (+0.22 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : +2.9$ · plus haut 4207.9 / plus bas 4167.5 (range 40$)\nDXY -0.11% sur la nuit\n⚠️ Plus haut de la veille (4198) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~77$</b> (ATR 82$ × profil du vendredi)\nDéjà fait en Asie : 40$ (52% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4239.7 | R1 4204.9 | <b>Pivot 4162.9</b> | S1 4128.1 | S2 4086.1\nVeille : PDH 4197.7 / PDL 4120.9  ·  Semaine passée : 4234 / 4091\n\n📅 <b>Annonces du jour</b>\n🔥 <b>05:30</b> 🇺🇸 Fed Chairman Warsh Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>57%</b> du temps (301 jours, ~6.0 ans)\n• Hier : +1.51% → après une veille en FORTE HAUSSE, l'or a monté le lendemain <b>49%</b> du temps (241 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 0h (11%) · plus BAS vers 0h (12%), 15h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -112.9$, depuis mercredi +87.1$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4128 et R1 4205\nJouer les extrêmes, pas le milieu (pivot 4163). Range attendu ~77$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4198 ou PDL 4121 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
-  },
-  {
-   "ts": "2026-10-16T04:46:01.527407+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries</b>\n📰 Al Jazeera · Ven 16/10 02:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5"
-  },
-  {
-   "ts": "2026-10-16T04:31:29.325365+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Voting under fire ? How Israel plans to hold its October 27 election if missiles strik</b>\n📰 ynetnews.com · Ven 16/10 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.ynetnews.com/article/byp1zejhgg"
   }
  ],
  "daily_forecast": {
