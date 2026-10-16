@@ -1067,15 +1067,6 @@
   }
  },
  "seen_news": [
-  "e2ffbba3a265",
-  "58827dc059d1",
-  "2da6b98c9e58",
-  "752341873533",
-  "fc2460eba227",
-  "133c7e4f2b27",
-  "8337b21b495d",
-  "57918d0bfb95",
-  "b4ecf1ac46ad",
   "4cc40917dbda",
   "cff47dcb8bcf",
   "485b4ba7e098",
@@ -4066,9 +4057,30 @@
   "865a0acebbbd",
   "4389525e82bb",
   "484d1c94915b",
-  "a673637f5bfc"
+  "a673637f5bfc",
+  "bdf9b805ee82",
+  "f30de481bf54",
+  "de585a8dbcc8",
+  "7878655d36e2",
+  "6ecc04e5e892",
+  "6024912ab8ff",
+  "5796954574aa",
+  "1484c6c68c13",
+  "dfa742df135d"
  ],
  "news": [
+  {
+   "title": "Trump signals possible new strike on Iran’s nuclear programme",
+   "source": "The Arab Weekly",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1B3YjRwT1JpVVBXNFpSeVpTT0xnUi10cjhDODNMakI4YlZIWWlXdTF2SHBGMG5UYjVBT19Cbk5TaHlGQW90TWNHSXBUc0Rzd2U5a0haSE5UVVJmLUpQNk15ZjZmTldJWVRxam1famdLNVc5Y3d3SjV4OU5yUzBPd1BOYVhYQXNiaWdZ?oc=5",
+   "published": "2026-10-16T14:52:25+00:00",
+   "id": "6ecc04e5e892",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump rules out US troops in Iran, leaves Pickaxe Mountain strike on the table",
    "source": "Al-Monitor",
@@ -4235,6 +4247,18 @@
    "impact": 10,
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+   "source": "BBC",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05MThBbjVYUGtkMHJKcm5Qc0Y2bGdwT3ZvTjN2eU05ckx4YmZMUGN4S05YQ211enZhZmtxUVduYzlUTG1JZTcxOGZKQkJyY3cybnVZNVBhbDE?oc=5",
+   "published": "2026-10-16T11:40:41+00:00",
+   "id": "6024912ab8ff",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6444,30 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "States Sue Over Latest Trump Tariff Attempt",
-   "source": "EnergyNow.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZFZGNjRycXRRS3BFX1FUMi1VTk5icTlUYlJzWE1JS01NT2NCZl9aajJ6VmtZcElZcGQtekx5SmxkMFA0a0hUamlIUzl4UDhDMGJSTk1JaXhWa19GSnI4RFc1Ull4ZUtkRTV5VUJNRGMwaG90a3BFRFZjVnE1LVE?oc=5",
-   "published": "2026-10-15T15:25:52+00:00",
-   "id": "6f5c3ddd555c",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "To Inflict Economic Pain, Russia and Ukraine Strike at Data Centers",
-   "source": "The New York Times",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRlpDLTVtVnNLSWRxTlRjcE9UWTE4LW1aeFgxNE1OdkFEc3hDcHFYUVFNTXA3SFA0SzR4b1pnX3FQOUNwX2lxM3FrRUkyVW5UVFF6MEYzZWRybVYwVlFtVzcyekdleENQdUxQMTExTUlDX1RSVGkzcEpMeWhXVldRbXZCcmV5ams?oc=5",
-   "published": "2026-10-15T15:24:57+00:00",
-   "id": "fa0e12dbdf6c",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7075,7 +7075,8 @@
   "news|64ffbae2ecf8": 1792159302.0280287,
   "news|95ad7ab9bb63": 1792160177.0961933,
   "news|484d1c94915b": 1792161088.5249665,
-  "news|4389525e82bb": 1792161089.4534395
+  "news|4389525e82bb": 1792161089.4534395,
+  "news|6ecc04e5e892": 1792162898.3503752
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7178,6 +7179,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T15:01:38.350443+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump signals possible new strike on Iran’s nuclear programme</b>\n📰 The Arab Weekly · Ven 16/10 16:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1B3YjRwT1JpVVBXNFpSeVpTT0xnUi10cjhDODNMakI4YlZIWWlXdTF2SHBGMG5UYjVBT19Cbk5TaHlGQW90TWNHSXBUc0Rzd2U5a0haSE5UVVJmLUpQNk15ZjZmTldJWVRxam1famdLNVc5Y3d3SjV4OU5yUzBPd1BOYVhYQXNiaWdZ?oc=5"
+  },
   {
    "ts": "2026-10-16T14:31:29.453739+00:00",
    "kind": "news",
@@ -7472,11 +7478,6 @@
    "ts": "2026-10-16T03:45:59.264762+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘I don't trust anybody’: Trump on Netanyahu, Israel's election and potential Iran strikes</b>\n📰 Ynetnews · Ven 16/10 04:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KX3hUUGJiSFV6S0pzWHUwYllYaUgxUTNBdmVHVUxVRERzMHJxMXVweVczcGR3WDhFOWp1cW1iZkM2N1VwblVxQ1JITllDa0k1WU9FNXBfLUs?oc=5"
-  },
-  {
-   "ts": "2026-10-16T03:16:06.059169+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Fed Chairman Warsh Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
