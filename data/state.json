@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "ec5b9a2748df",
-  "523f0375bfe4",
   "69ea0b89cc8d",
   "4d487e0c7a7a",
   "149d42690d06",
@@ -4066,9 +4064,23 @@
   "844b4021157c",
   "f35911283e43",
   "b9e636e5d922",
-  "db95f3c34734"
+  "db95f3c34734",
+  "44f0dbe5402c",
+  "fc119e83c79e"
  ],
  "news": [
+  {
+   "title": "Reports: Trump considers using 'Mother of All Bombs' against Iran",
+   "source": "WCVB",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzdfMUtMTXdTdHpvaTQtTHdBN01PcU1ualhjMVB2V1MwdGNnR05kNEVXdzBkSzBWMG1YcVNqd2VaMXpLVkRmQ01qWm1SWG1scmZsZE9YLVN1X0dvM1hKTkJhWTVGdEVmOXM4VmJVc2NnaExIQ3A5UmpKQlVkWlZFMFdPZlM?oc=5",
+   "published": "2026-10-16T19:32:00+00:00",
+   "id": "fc119e83c79e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Soars 4% As Traders Prepare For Escalation In The Middle East",
    "source": "FXEmpire",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Risque imminent de frappes contre l'Iran renforçant la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Oil Retreats from Above $100, but Set for Weekly Rise on Middle East Escalation",
-   "source": "EnergyNow",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1VycV9hcUFfSGt0eFFlWXVoQkZVNkFGWk1QWGdCdG9NUFRZNDIzQWxPcTdOTndnNHg4THhjSFJXSmh4R003UUNtelhoc18xM1RQQTRyNWxLWVhEaFpZVEhZUDBFeGs3dWx4ODF4QU9rYjE3TDBOWU85RjdzdG9xM3pLUXRTMC13Zy0yQ0NyazhlYl9jVXNydGRzS2Zwb1JHRi0taVFMd0dxQ1k?oc=5",
-   "published": "2026-10-15T20:15:55+00:00",
-   "id": "c77fffee6a85",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Repli technique du baril sous 100 dollars modérant temporairement les craintes inflationnistes immédiates.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7093,7 +7093,8 @@
   "news|be978f94909b": 1792174570.651612,
   "news|6aed9ad4ce3d": 1792175515.850421,
   "big|SPX|2026-10-16": 1792175517.1306136,
-  "news|3bcdd3868cf6": 1792178175.0358484
+  "news|3bcdd3868cf6": 1792178175.0358484,
+  "news|fc119e83c79e": 1792179965.035436
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7196,6 +7197,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T19:46:05.035512+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Reports: Trump considers using 'Mother of All Bombs' against Iran</b>\n📰 WCVB · Ven 16/10 21:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzdfMUtMTXdTdHpvaTQtTHdBN01PcU1ualhjMVB2V1MwdGNnR05kNEVXdzBkSzBWMG1YcVNqd2VaMXpLVkRmQ01qWm1SWG1scmZsZE9YLVN1X0dvM1hKTkJhWTVGdEVmOXM4VmJVc2NnaExIQ3A5UmpKQlVkWlZFMFdPZlM?oc=5"
+  },
   {
    "ts": "2026-10-16T19:16:15.035913+00:00",
    "kind": "news",
@@ -7490,11 +7496,6 @@
    "ts": "2026-10-16T06:16:03.621235+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s strikes on Persian Gulf water and power were deliberate - Reuters</b>\n📰 Iran International · Jeu 15/10 13:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6VWdjRTNGdG1pc3RtcXNqSjFiLTdsMnJZYXRaVXVxOEl3VXFIeUhUVjVMSGtJRVlfNjEydHBLU0NKbnBhQXNpQ0F6b0VxWUpFR2c?oc=5"
-  },
-  {
-   "ts": "2026-10-16T06:16:02.719148+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’</b>\n📰 Financial Times · Jeu 15/10 23:10\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW5ZbVNGWmwxQVc3ME5wSU9pYW5qeWJyaVljU1BuTEFxNXhJN1VEX1FJSmNaUmhmNEFhMFU1ZGpTTnR5eExpTGVtR241VTBING00RkFYU0dPTUdjM0hPLWlxY2k0Y045a1hlMlRsSUM3UmZucFhaSklTZGVQcXFSRTA5VDA?oc=5"
   }
  ],
  "daily_forecast": {
