@@ -526,14 +526,13 @@
    }
   },
   "cot": {
-   "ts": 1792145747.4603558,
+   "ts": 1792189859.7157865,
    "data": {
-    "date": "2026-10-06",
-    "net": 210335,
-    "chg_week": -8297,
+    "date": "2026-10-13",
+    "net": 207879,
+    "chg_week": -2456,
     "percentile_3y": 51,
     "hist": [
-     203916,
      176609,
      204664,
      202307,
@@ -584,7 +583,8 @@
      230338,
      225853,
      218632,
-     210335
+     210335,
+     207879
     ],
     "lecture": "Positionnement neutre"
    }
@@ -1067,35 +1067,6 @@
   }
  },
  "seen_news": [
-  "4b583970c0c5",
-  "b10e8a5632cc",
-  "e47be3291f68",
-  "20389c1a2780",
-  "d4757d56b246",
-  "7a8afc3c44ac",
-  "f9ddaeef9602",
-  "65ca33c2e5d2",
-  "dd2c122fa8a4",
-  "f8c35d9349df",
-  "2d569fb94deb",
-  "c96df0b99713",
-  "324a47b8b050",
-  "f21d1095b106",
-  "8882b4374573",
-  "067fca3dc9c4",
-  "c9f53ac76fe3",
-  "e3ce9bc46775",
-  "14c2ca81db08",
-  "261b24314332",
-  "dd9b64f923e7",
-  "b6ce35973bf6",
-  "9edb0323e61d",
-  "eb1218c6d43a",
-  "d36a575afdea",
-  "433d57eebd4c",
-  "710911e09ae4",
-  "db508113e378",
-  "abe070694764",
   "3cbda5c1bdba",
   "c7113e0ee986",
   "25484bb78ee7",
@@ -4066,9 +4037,50 @@
   "fe4464c71d86",
   "b955d0b54f7a",
   "9f2685c74a0c",
-  "64dac2bc2c0e"
+  "64dac2bc2c0e",
+  "ebaabafcd262",
+  "0290456cb3d3",
+  "87da156a7295",
+  "5f540007bcd1",
+  "f3eeff16ab17",
+  "c9a3b679824e",
+  "345806e7b9a9",
+  "8dec95f0271b",
+  "e148a2758817",
+  "e4f36269312c",
+  "8aacd7515f73",
+  "674c26091ace",
+  "14d5332b2e86",
+  "9b387cb1c965",
+  "1dc3f66bbbc1",
+  "1925862d2913",
+  "39a1a94bfe1d",
+  "be5114de106a",
+  "a9def73e92a3",
+  "29f1d6f3ffee",
+  "e05b99da17bd",
+  "8b2ee2c1d69e",
+  "0a226cfb3052",
+  "73830d1a34bc",
+  "8b3accfe38a6",
+  "8c0f4fe586ef",
+  "f78c1aa3143c",
+  "945a0b5f41d5",
+  "9e87fb3a2b4a"
  ],
  "news": [
+  {
+   "title": "Study cites $3,000+ hit to El Paso families, pointing to tariffs and Iran war",
+   "source": "KFOX",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnlNVHVtZkstemc3SURWbEFKLWRIYk9lR0lvTTFxcXd3b3l1cV9DR29CQi12UTZ3WEFvbW10WWc1NGtZc0ZGa21ISHlaTVk1NldfeVoyeVRRaUM4SlF1TFZfbU42bDBSSjZRWWtWel9TME1IYTQ1UjRsdmNrVkYwSUxlS2VDMXBYaDhaV3pYXzRmS2tXQVB3ZUpRVlhxRGY5QTdmY0Nn?oc=5",
+   "published": "2026-10-16T22:11:54+00:00",
+   "id": "ebaabafcd262",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "With no food deliveries since May, starving residents flee Russian-occupied territory",
    "source": "The Washington Post",
@@ -4076,6 +4088,78 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEZXOG9CV1RpaWdCV2E0TFdEWjZDRzVQODZ0Ung3V2FaYU1JYWoxVFFBSnBFWThzckh4dks1UzdwYTY3R2VlQ0syV0dtd3o2R1VsejhCc0tIWlZ5THdVUC1QbWhLVUpIRS1ta0hBV0tSMUNhWmloZXVSbUJMNVoxcnlQTmI1RGEzaUFXYVRlWElCVXhOLUpEdUFtRkw0VEw0bVpJZDVaRklNTFRiZkQzN2k0M080SUVTZHdZ?oc=5",
    "published": "2026-10-16T22:05:37+00:00",
    "id": "9f2685c74a0c",
+   "impact": 0,
+   "cat": "géopolitique",
+   "raison": "Crise humanitaire locale du conflit ukrainien sans escalade majeure ni impact macroéconomique tangible.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump stands by Susie Wiles as infighting consumes jittery White House ahead of midterms",
+   "source": "nypost.com",
+   "theme": "Géopolitique",
+   "link": "https://nypost.com/2026/10/16/us-news/trump-stands-by-susie-wiles-as-infighting-consumes-jittery-white-house-ahead-of-midterms/",
+   "published": "2026-10-16T22:00:00+00:00",
+   "id": "5f540007bcd1",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Mammoth Mountain : inside the authentic US ski town Aussies love | The Armidale Express",
+   "source": "armidaleexpress.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.armidaleexpress.com.au/story/9365911/mammoth-mountain-inside-the-authentic-us-ski-town-aussies-love/",
+   "published": "2026-10-16T22:00:00+00:00",
+   "id": "f3eeff16ab17",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "like  the cheque is in the mail , help is on its way ....",
+   "source": "yourdemocracy.net.au",
+   "theme": "Géopolitique",
+   "link": "https://www.yourdemocracy.net.au/drupal/node/61433",
+   "published": "2026-10-16T22:00:00+00:00",
+   "id": "c9a3b679824e",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Super El Nino and Metals",
+   "source": "investorideas.com",
+   "theme": "Géopolitique",
+   "link": "https://www.investorideas.com/news/2026/mining/10164-super-el-nino-and-metals.asp",
+   "published": "2026-10-16T22:00:00+00:00",
+   "id": "345806e7b9a9",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ten lessons from history for Europe rearmament",
+   "source": "finchannel.com",
+   "theme": "Géopolitique",
+   "link": "https://finchannel.com/ten-lessons-from-history-for-europes-rearmament/138364/opinion/2026/10/",
+   "published": "2026-10-16T22:00:00+00:00",
+   "id": "8dec95f0271b",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold looks to housing , PMI and consumer sentiment data for direction next week",
+   "source": "kitco.com",
+   "theme": "Géopolitique",
+   "link": "http://www.kitco.com/news/article/2026-10-16/gold-looks-housing-pmi-and-consumer-sentiment-data-direction-next-week",
+   "published": "2026-10-16T22:00:00+00:00",
+   "id": "e148a2758817",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -4094,16 +4178,64 @@
    "method": "mots-clés"
   },
   {
-   "title": "Paraguay tech minister defies Beijing sanctions, vows to deepen Taiwan ties",
-   "source": "South China Morning Post",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcWFGcWFjSC1EOGxMcC0zbnpCcVRBMkZZcW5lV0U5bm9OZHJzbm02Wm0yZkxrQVB3TkZNd25YMFVvcExzX3dCM2tJOGhncGh3QTY0ejQzeVk1WkVoSGRNWUFGVTNOby1yMTA5Rk5zSlBXTGxrOXhVRWt3Y2lTYzJMR2prQUhwV1d4VXZzNTZWcFJURnFaX0h0RElycEg4OE1tSks4TzM1SEhUQktDUkxyVVVCdzN3UnRxQlVSbmN0YnBMN21OOFFmZNIByAFBVV95cUxOVTkzdVdhSVVBMk9IME1raFNNeDN2TEp2V2N1eG5qTGNyU1VSRzlES1EzU1J2RDFvQW5ZZ2RRazVlQ2JHNUp3Sk9mOTl1TVFoREtlOGlDWGJnbkhJN2V2cThJeGdRcmc1R1JnZTF6ZmNFako0RkhzNzc1RGpXb1B5dXpDN2ZmdENWVFNrWjdMNm9SYXNtRlp6TWo5Z0RRSnlscjd1NjVIUS1yS1VYUHlsck1ELUt0RXBPS0Foem1SU3FNWGZtd0dnRQ?oc=5",
-   "published": "2026-10-16T21:43:02+00:00",
-   "id": "6f67ee5e7202",
-   "impact": 0,
+   "title": "Trump declines to blame Putin for Ukraine war , amid transatlantic tensions",
+   "source": "glasgowtimes.co.uk",
+   "theme": "Géopolitique",
+   "link": "https://www.glasgowtimes.co.uk/news/national/26645617.trump-declines-blame-putin-ukraine-war-amid-transatlantic-tensions/",
+   "published": "2026-10-16T21:45:00+00:00",
+   "id": "8aacd7515f73",
+   "impact": 8,
    "cat": "géopolitique",
-   "raison": "Friction diplomatique mineure sans impact macroéconomique ni financier mondial.",
-   "method": "IA"
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Inflation jumps , stocks dump",
+   "source": "berkshireeagle.com",
+   "theme": "Géopolitique",
+   "link": "https://www.berkshireeagle.com/businesscolumnist/inflation-jumps-stocks-dump/5037201",
+   "published": "2026-10-16T21:45:00+00:00",
+   "id": "9b387cb1c965",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Yemen War : Houthis Tighten Siege on Strategic City of Taiz",
+   "source": "econotimes.com",
+   "theme": "Géopolitique",
+   "link": "https://econotimes.com/Yemen-War-Houthis-Tighten-Siege-on-Strategic-City-of-Taiz-1755665",
+   "published": "2026-10-16T21:45:00+00:00",
+   "id": "1dc3f66bbbc1",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "CENTCOM : 400 ships cross Hormuz in a week",
+   "source": "news.az",
+   "theme": "Géopolitique",
+   "link": "https://news.az/news/centcom-400-ships-cross-hormuz-in-a-week",
+   "published": "2026-10-16T21:45:00+00:00",
+   "id": "39a1a94bfe1d",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "CBS Attributes Cuba Health Care Collapse to US Oil Embargo , Not Failed State",
+   "source": "newsbusters.org",
+   "theme": "Géopolitique",
+   "link": "https://www.newsbusters.org/blogs/nb/curtis-houck/2026/10/16/cbs-bemoans-collapse-cubas-once-renowned-health-care-not-failed",
+   "published": "2026-10-16T21:45:00+00:00",
+   "id": "e4f36269312c",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
   },
   {
    "title": "The US Dollar Is Falling, But Bitcoin Isn’t Rallying: Why BTC Price Is Ignoring Dollar Weakness",
@@ -4298,18 +4430,6 @@
    "method": "IA"
   },
   {
-   "title": "Trump Hints at Lame Duck Supreme Court Retirement Bombshell",
-   "source": "Yahoo",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDRES0o0M09PcHBHYlFKSzJYWkw3aGpjM2ZkRjBMNUptOHZyRldNVWNBWVo3djJaN25vUUNyMVNFSnZVZXJsWC1WUEhRZGRqbnJjTElRZl95X2s2T01BdTBISkgydnp0VGxubTA0ZktMZ0NOQlptb1QyVFU3aDJUT0dyVC1sVVp4Qko1QXNVbDNLakk?oc=5",
-   "published": "2026-10-16T19:09:25+00:00",
-   "id": "42fc1869e0dd",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Politique intérieure américaine sans transmission directe sur les taux réels ou le dollar.",
-   "method": "IA"
-  },
-  {
    "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Soars 4% As Traders Prepare For Escalation In The Middle East",
    "source": "FXEmpire",
    "theme": "Moyen-Orient",
@@ -4334,18 +4454,6 @@
    "method": "IA"
   },
   {
-   "title": "Katie Zacharia Out as Trump's Press Secretary After 5 Days",
-   "source": "Time Magazine",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmJ5Wk9RazFRUC1ZRm5ObTQyd2JtV2cxcEVVcEV6bXpVNm9qLWxOeUwtRTNlMmthemREQWhxYTc2d2dacF9zUEgxQnN6SzllY1ZEMW1QeFdFWmV4T1g3VkZZUmwxTEF0MnRNbW1TVG94SDNzVEY2d19oQUlrekV4U3p1c0lVd0dDRWQ2UjdpNVFQeGlrYThYU1k4UmdrVE5f?oc=5",
-   "published": "2026-10-16T18:19:05+00:00",
-   "id": "fe4464c71d86",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
    "title": "Wall Street undecided on gold’s near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
    "source": "Kitco",
    "theme": "Or",
@@ -4355,30 +4463,6 @@
    "impact": -2,
    "cat": "or",
    "raison": "Essoufflement technique et prises de bénéfices sous une résistance clé.",
-   "method": "IA"
-  },
-  {
-   "title": "AEW WrestleDream 2026 united kingdom start time just days after retirement bombshell",
-   "source": "metro.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://metro.co.uk/2026/10/16/aew-wrestledream-2026-uk-start-time-just-days-retirement-bombshell-29714931/",
-   "published": "2026-10-16T18:00:00+00:00",
-   "id": "f56e247c1cdb",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Divertissement sportif sans aucun lien économique ou macroéconomique.",
-   "method": "IA"
-  },
-  {
-   "title": "MAGA Congressman Tom Tiffany Voted Five Times With Trump to Continue War - of - Choice in Iran That Is Costing $2000 per Household",
-   "source": "urbanmilwaukee.com",
-   "theme": "Géopolitique",
-   "link": "https://urbanmilwaukee.com/pressrelease/maga-congressman-tom-tiffany-voted-five-times-with-trump-to-continue-war-of-choice-in-iran-that-is-costing-2000-per-household/",
-   "published": "2026-10-16T18:00:00+00:00",
-   "id": "6aed9ad4ce3d",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Polémique budgétaire partisane locale sans impact macroéconomique tangible immédiat.",
    "method": "IA"
   },
   {
@@ -4403,18 +4487,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Rhétorique agressive envers l'Iran alimentant légèrement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Roger Marshall praises Trump's tariff policies after Kansas executive says they hurt his business",
-   "source": "Kansas Reflector",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3NyYmNCNEViN3VOZkVYekJtakVrWlh5NmNlbXFVQi1hT2Z6bUpXcmJsNHNwbkNnY3g0VnZMVDZyNUh1RmMzR0ZOWUZyOHJTeWlkYU9tX1B6clV5c1d2UFR1NGcyek4tRDNTY2F2dkc3cm9tUXlDblZ3RmQ1amtzVjNwNmVoOTI0TnpQNG5MaTBKdGE2bHdCVHpHSGdTa2Jfa3FkR3hKWHZPbnpzVHV2TTc3eGR5X25yLVJEVTM0Vi1tT2NiZHAzSFdwM0ozaGpIVHc?oc=5",
-   "published": "2026-10-16T17:24:53+00:00",
-   "id": "f25c2ad1b3b2",
-   "impact": 0,
-   "cat": "commerce",
-   "raison": "Débat politique intérieur classique sur les tarifs, effet de marché nul à court terme.",
    "method": "IA"
   },
   {
@@ -4547,42 +4619,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Risques sur l'approvisionnement pétrolier et escalade militaire soutenant l'or via l'inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "Israeli gov says  serious question about whether Israelis or Palestinians attacked  Washington Post  photographer - Israel & Jewish News",
-   "source": "jns.org",
-   "theme": "Géopolitique",
-   "link": "https://www.jns.org/news/u-s-news/israeli-gov-says-serious-questions-about-whether-israelis-or-palestinians-attacked-washington-post-photographer",
-   "published": "2026-10-16T16:00:00+00:00",
-   "id": "7a999e584dfd",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Fait divers conflictuel sans incidence macroéconomique ou financière sur XAUUSD.",
-   "method": "IA"
-  },
-  {
-   "title": "Orchestrated protests , mobilized masses and scripted chants against Israel",
-   "source": "jns.org",
-   "theme": "Géopolitique",
-   "link": "https://www.jns.org/wire/the-focus-project/orchestrated-protests-mobilized-masses-and-scripted-chants-against-israel",
-   "published": "2026-10-16T16:00:00+00:00",
-   "id": "944b610c1fe0",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Manifestations régionales habituelles sans impact mesurable sur les marchés de capitaux.",
-   "method": "IA"
-  },
-  {
-   "title": "Iranian president warns US - Israeli war damaging ecosystems",
-   "source": "aa.com.tr",
-   "theme": "Géopolitique",
-   "link": "https://aa.com.tr/en/middle-east/iranian-president-warns-us-israeli-war-damaging-ecosystems/4091001",
-   "published": "2026-10-16T16:00:00+00:00",
-   "id": "80147f702f32",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Déclaration rhétorique axée sur l'environnement sans effet de panique ou flux refuge.",
    "method": "IA"
   },
   {
@@ -4730,18 +4766,6 @@
    "method": "IA"
   },
   {
-   "title": "FIFA sanctions Spain over Islamophobic chants during Egypt friendly",
-   "source": "vanguardngr.com",
-   "theme": "Géopolitique",
-   "link": "https://www.vanguardngr.com/2026/10/fifa-sanctions-spain-over-islamophobic-chants-during-egypt-friendly/",
-   "published": "2026-10-16T14:45:00+00:00",
-   "id": "c27f3e9b79cf",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Actualité sportive sans aucun lien avec les marchés financiers.",
-   "method": "IA"
-  },
-  {
    "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
    "source": "BBC",
    "theme": "Russie/Ukraine",
@@ -4790,18 +4814,6 @@
    "method": "IA"
   },
   {
-   "title": "MS NOW’s Lawrence O’Donnell Rips Into Trump Over Iran War Comment",
-   "source": "Yahoo",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHRyR0paQk50WW1UeTZmSnNJbWgzQ3ZEYjBlSmJhSWFKb0RJOHR0UnBOZlNUZy1TTXNYOGQ1czZjZDlweTQwaktBbjlROWI5MXlJTFNoY3EzS2FUN1dzelh5UHc2Q25jS1N0TmFpUWtZYTZnZzl6N2lEQmwyUEpMVEtyZGZvbFR1QlFQRUlB?oc=5",
-   "published": "2026-10-16T13:41:28+00:00",
-   "id": "95ad7ab9bb63",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Polémique médiatique interne sans incidence sur les devises ou l'or.",
-   "method": "IA"
-  },
-  {
    "title": "Iran navy reports another oil tanker on fire near Strait of Hormuz",
    "source": "news.az",
    "theme": "Géopolitique",
@@ -4811,18 +4823,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Pétrolier en feu à Ormuz, risque d'escalade majeure et envolée refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "The Chinese Debate on the Houthi-Saudi Escalation in Yemen",
-   "source": "The China-Global South Project",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUZYWHlyZUFhRVl4anB0a2tXRUFlcUpOMTZ4dFJoNVAxakc4SmlPcF8xcjk4ZWV0amp6NEZ1UHVmMnpjeEp4TlhJS3VzUUQwSVZIaU9fWGxBZzZyeEdmV3dOS2NhZ0RGVG8tUjNXcHBWSjM2MUNnZ2xfbXE5RnZYQ05Ydw?oc=5",
-   "published": "2026-10-16T13:27:12+00:00",
-   "id": "175e45f969da",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Analyse académique sans effet de marché direct à court terme.",
    "method": "IA"
   },
   {
@@ -7098,7 +7098,9 @@
   "news|0c8116a03e43": 1792180348.4466097,
   "rep|recap|2026-10-16": 1792180896.012716,
   "news|42fc1869e0dd": 1792182686.036704,
-  "news|004db6c536d8": 1792184501.7964032
+  "news|004db6c536d8": 1792184501.7964032,
+  "news|ebaabafcd262": 1792189940.188337,
+  "news|8aacd7515f73": 1792189941.112028
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7201,6 +7203,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T22:32:21.112288+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump declines to blame Putin for Ukraine war , amid transatlantic tensions</b>\n📰 glasgowtimes.co.uk · Ven 16/10 23:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.glasgowtimes.co.uk/news/national/26645617.trump-declines-blame-putin-ukraine-war-amid-transatlantic-tensions/"
+  },
+  {
+   "ts": "2026-10-16T22:32:20.188465+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Study cites $3,000+ hit to El Paso families, pointing to tariffs and Iran war</b>\n📰 KFOX · Sam 17/10 00:11\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnlNVHVtZkstemc3SURWbEFKLWRIYk9lR0lvTTFxcXd3b3l1cV9DR29CQi12UTZ3WEFvbW10WWc1NGtZc0ZGa21ISHlaTVk1NldfeVoyeVRRaUM4SlF1TFZfbU42bDBSSjZRWWtWel9TME1IYTQ1UjRsdmNrVkYwSUxlS2VDMXBYaDhaV3pYXzRmS2tXQVB3ZUpRVlhxRGY5QTdmY0Nn?oc=5"
+  },
   {
    "ts": "2026-10-16T21:01:41.796472+00:00",
    "kind": "news",
@@ -7490,16 +7502,6 @@
    "ts": "2026-10-16T09:01:49.796833+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>EU leaders rally around Zelenskiy as Trump calls Ukrainian strikes on Russia a 'disgrace'</b>\n📰 Reuters · Ven 16/10 10:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
-  },
-  {
-   "ts": "2026-10-16T09:01:48.906221+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>UN Security Council condemns  escalatory  Houthi strikes on Saudi Arabia</b>\n📰 middleeasteye.net · Ven 16/10 10:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-condemns-escalatory-houthi-strikes-saudi-arabia"
-  },
-  {
-   "ts": "2026-10-16T09:01:47.967059+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Lashes Out at Zelensky Over Russian Refinery Attacks :  Disgrace</b>\n📰 newsweek.com · Ven 16/10 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.newsweek.com/donald-trump-lashes-out-zelensky-russian-refinery-attacks-disgrace-putin-russia-war-12576995"
   }
  ],
  "daily_forecast": {
