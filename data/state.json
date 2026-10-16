@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "1007963739bd",
-  "644c3b0f65b8",
   "4b9f91409111",
   "5b0c166b269f",
   "8ba0362fbec7",
@@ -4066,9 +4064,23 @@
   "16078a06adc5",
   "4f5541449019",
   "25718011029b",
-  "7356305494ac"
+  "7356305494ac",
+  "042e03efea9f",
+  "7d541e523744"
  ],
  "news": [
+  {
+   "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+   "source": "The New York Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVVQwcThTUGg1Z2RHUlltM2dWdGFCM19DYlRQeFE1S0lYVGd4bXR3M0dpX010NmZSQ0U2WXA5NGNEWFdIQjJYOTNBZEMwRVpxSVVVTFRwZENzYkZNWmFKVzVTLUp5Z1J3bUl1YTFyTDdCMVZ4aVhiVjVNUm0?oc=5",
+   "published": "2026-10-16T01:02:09+00:00",
+   "id": "042e03efea9f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "B . C . premier pivots on reason for snap election",
    "source": "vancouversun.com",
@@ -6456,18 +6468,6 @@
    "cat": "or",
    "raison": "Commentaire haussier spéculatif sur la Fed et la réévaluation de l'or, sans décision concrète.",
    "method": "IA"
-  },
-  {
-   "title": "Bitcoin slips under $82k as hot CPI data fuels an uptick in Fed rate hike bets",
-   "source": "Investing.com",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3ZHTVpMbVhlQm5XLXBTQ1F1ZW11TXpnbThxVjYzbFJoWHNQVG5rQjd0NTJFVExTTVU5VXpHS004ME1jVFM1OFI0Y3NZTW5IU0luY2EyWERHUUdDWEVNZ2djbmd0SE1oLU82WmFYVmZMb29wS01HMnI2c3NrcWk5MlpkbUR0cmNVYzJPY0V6TFRxMHBETWl3d0IwUVBncjdNc01LUTFiUXpvRkxSWElLWHA0WQ?oc=5",
-   "published": "2026-10-15T06:07:36+00:00",
-   "id": "5fcaeae3115f",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7004,7 +7004,8 @@
   "news|3d278256b728": 1792109928.6386242,
   "news|961a0a0952aa": 1792111564.2180803,
   "news|e28a8bc7508f": 1792111565.15962,
-  "news|39ae67ffa8e2": 1792114288.018024
+  "news|39ae67ffa8e2": 1792114288.018024,
+  "news|042e03efea9f": 1792115180.6250448
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7091,6 +7092,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T01:46:20.625101+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Deal With Russia Inflames Ukraine War He Vowed to End</b>\n📰 The New York Times · Ven 16/10 03:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVVQwcThTUGg1Z2RHUlltM2dWdGFCM19DYlRQeFE1S0lYVGd4bXR3M0dpX010NmZSQ0U2WXA5NGNEWFdIQjJYOTNBZEMwRVpxSVVVTFRwZENzYkZNWmFKVzVTLUp5Z1J3bUl1YTFyTDdCMVZ4aVhiVjVNUm0?oc=5"
+  },
   {
    "ts": "2026-10-16T01:31:28.018079+00:00",
    "kind": "news",
@@ -7385,11 +7391,6 @@
    "ts": "2026-10-15T13:16:11.137522+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 10 ans\n-0.138 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-10-15T13:16:09.915513+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>U.S. Consumer Price Index: Energy and Core Pressures Keep Fed Tightening Debate Active</b>\n📰 Haver Analytics · Mer 14/10 17:31\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzVqNGQ0dXBteFNxanNRVmg5WTFlNVdkN0ZOWEhyVnZwSGtRdEk2YVY5M0RFQ0xqQ2hsNW5hOUYyMU9ObDBjaTVib2JOM1VQUzJDSm5yckJiWlB6VWUzNk9mMllvTHJVT1FFZHptYUtVb0JTemhadW1tNC1jRHYtUE1hM3djemExMkZSeVFIdHFkOEk0VWxkRlAtMW1aMHpVM0NqcGM5RVdfV0FRbkZKU2c0bVZadw?oc=5"
   }
  ],
  "daily_forecast": {
