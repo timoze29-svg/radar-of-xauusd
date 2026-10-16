@@ -1067,16 +1067,6 @@
   }
  },
  "seen_news": [
-  "42b0d95d0498",
-  "f304d09c2e0b",
-  "9b9266d4bf68",
-  "809eb1fff39c",
-  "7ab1841e71d9",
-  "ce09fb341c25",
-  "295842fe9eb5",
-  "1eaec2446b0e",
-  "0d458c242940",
-  "86abd835509b",
   "f336002fc77c",
   "ce94269754c8",
   "737d80517bcd",
@@ -4066,9 +4056,31 @@
   "8b6abaec91eb",
   "1947b327f1bf",
   "858f781d399b",
-  "947ee2e6c3fc"
+  "947ee2e6c3fc",
+  "95ad7ab9bb63",
+  "6f9144e80ebb",
+  "06d25fa29b75",
+  "e071252e8515",
+  "e885deaeebd0",
+  "df1724bdf123",
+  "a664f398b27d",
+  "86f11c657bd2",
+  "dbaf30d83e97",
+  "89622a4ae619"
  ],
  "news": [
+  {
+   "title": "MS NOW’s Lawrence O’Donnell Rips Into Trump Over Iran War Comment",
+   "source": "Yahoo",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHRyR0paQk50WW1UeTZmSnNJbWgzQ3ZEYjBlSmJhSWFKb0RJOHR0UnBOZlNUZy1TTXNYOGQ1czZjZDlweTQwaktBbjlROWI5MXlJTFNoY3EzS2FUN1dzelh5UHc2Q25jS1N0TmFpUWtZYTZnZzl6N2lEQmwyUEpMVEtyZGZvbFR1QlFQRUlB?oc=5",
+   "published": "2026-10-16T13:41:28+00:00",
+   "id": "95ad7ab9bb63",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran navy reports another oil tanker on fire near Strait of Hormuz",
    "source": "news.az",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "OneGold Unveils Card to Spend Gold, Silver Instantly",
-   "source": "Investing News Network",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wWTdrYVlfdG1MUFRETUkwbllHcENVUWo1N1pjeXRpU2ZOb2ZSbnNHbFlaZ0tGQjNEWEZrX0gtdUtPZDRHM1QwUnhxS01wSEpxa0h1djg4V1dEenNWZV9FeHRSSVo5dU5zdFBTelJB?oc=5",
-   "published": "2026-10-15T14:36:15+00:00",
-   "id": "70be7eb31235",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Améliore légèrement la liquidité et l'utilité pratique de l'or physique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7072,7 +7072,8 @@
   "brk|US10Y|pdh|up|2026-10-16": 1792155712.0798836,
   "news|da4fdb64136b": 1792156577.0054593,
   "news|3c448f543929": 1792159301.150862,
-  "news|64ffbae2ecf8": 1792159302.0280287
+  "news|64ffbae2ecf8": 1792159302.0280287,
+  "news|95ad7ab9bb63": 1792160177.0961933
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7175,6 +7176,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T14:16:18.331659+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY -0.12%\n✅ Taux US 10 ans -3.1 pb\n▫️ Pétrole -0.14%\n✅ EUR/USD +0.11%\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à baisser dans <b>53%</b> des cas sur 2h,\net l'or a monté dans <b>56%</b> des cas (moyenne +1.4$, sur 241 cas).\n<i>Pour comparer : l'or monte 54% du temps sur 2h en général.</i>"
+  },
+  {
+   "ts": "2026-10-16T14:16:17.096267+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>MS NOW’s Lawrence O’Donnell Rips Into Trump Over Iran War Comment</b>\n📰 Yahoo · Ven 16/10 15:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHRyR0paQk50WW1UeTZmSnNJbWgzQ3ZEYjBlSmJhSWFKb0RJOHR0UnBOZlNUZy1TTXNYOGQ1czZjZDlweTQwaktBbjlROWI5MXlJTFNoY3EzS2FUN1dzelh5UHc2Q25jS1N0TmFpUWtZYTZnZzl6N2lEQmwyUEpMVEtyZGZvbFR1QlFQRUlB?oc=5"
+  },
   {
    "ts": "2026-10-16T14:01:42.028267+00:00",
    "kind": "news",
@@ -7464,16 +7475,6 @@
    "ts": "2026-10-16T03:01:48.906680+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump BETRAYED us , Zelensky slams … saying  people will die  after Starshield cut off leaving Ukraine at mercy of strikes</b>\n📰 the-sun.com · Ven 16/10 04:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.the-sun.com/news/17149140/"
-  },
-  {
-   "ts": "2026-10-16T03:01:48.101413+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil prices dip marginally as US weighs easing sanctions on  shadow fleet  tankers</b>\n📰 timesofindia.indiatimes.com · Ven 16/10 04:15\n🧠 haussier or (fed, géopolitique) [mots-clés]\n🔗 https://timesofindia.indiatimes.com/business/international-business/oil-prices-dip-marginally-as-us-weighs-easing-sanctions-on-shadow-fleet-tankers/articleshow/134980028.cms"
-  },
-  {
-   "ts": "2026-10-16T03:01:47.238690+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>From Hope to Disillusionment : Miami Cuban Exiles Turn on Trump and Rubio Over Cuba  Invasion  That Never Happened</b>\n📰 cubaheadlines.com · Ven 16/10 04:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.cubaheadlines.com/articles/342997"
   }
  ],
  "daily_forecast": {
@@ -7531,7 +7532,7 @@
   "ai": false
  },
  "dp_last": {
-  "status": "up",
-  "ts": "2026-10-15T15:31:30.820731+00:00"
+  "status": "down",
+  "ts": "2026-10-16T14:16:18.331621+00:00"
  }
 }
