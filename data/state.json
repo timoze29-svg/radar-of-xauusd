@@ -1067,16 +1067,6 @@
   }
  },
  "seen_news": [
-  "68dcd7213e9d",
-  "392065cd7fcb",
-  "d3985d56035a",
-  "1e614624c6e1",
-  "23195cc00e28",
-  "ce5fd325d364",
-  "33c727b0cc93",
-  "394439ea262b",
-  "24480c97fa79",
-  "077cde6a63b4",
   "9676c9c56eb2",
   "4ccb7dcc1db3",
   "f1093ec4a788",
@@ -4066,7 +4056,17 @@
   "8984bb257d43",
   "ba8daa6f4273",
   "e8062be7d793",
-  "5895ab402087"
+  "5895ab402087",
+  "33ad0a220f29",
+  "8a9a088fae24",
+  "14ed2b595d83",
+  "da4fdb64136b",
+  "2b65b48370df",
+  "333031ed8ae9",
+  "6861faf4ccfc",
+  "3ff8379722a9",
+  "43c7658eab2a",
+  "2085ffc3a4a2"
  ],
  "news": [
   {
@@ -4437,6 +4437,18 @@
    "published": "2026-10-16T10:45:00+00:00",
    "id": "cac0d0466cd1",
    "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia talks up refinery attack as Trump blames Ukraine for expensive fuel",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEIyVDItZjJtU1kxNlBBZWU1eEpadHhlaHJRMUN3WUVTbnNibUgyemJ6V1NQZGdiN1NocU40ald3bEJYbGhZNmRZMm9kNEZxR3NVX21wc1UwSDZuQklaWVBWQ1c2MVItNTBidDR3eDlyRUxwU044SFhoSUNJVjNZQzlORzlwV0NZQ2FaNGRhQXVOSnotNGZRakR4bnpBRDVwUmxuTDBHMWZTcVhUeVlzTWxKWnRzYVB6WFJr?oc=5",
+   "published": "2026-10-16T10:29:49+00:00",
+   "id": "da4fdb64136b",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire sur les infrastructures énergétiques russes ravivant la demande refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump to take call on Russia sanctions law in 10 days as India awaits clarity : Sergio Gor",
-   "source": "europesun.com",
-   "theme": "Géopolitique",
-   "link": "http://www.europesun.com/news/279375475/trump-to-take-call-on-russia-sanctions-law-in-10-days-as-india-awaits-clarity-sergio-gor",
-   "published": "2026-10-15T14:15:00+00:00",
-   "id": "6e4eca48915e",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitude sur les sanctions américaines pouvant influencer les flux de commerce bilatéraux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7069,7 +7069,8 @@
   "news|1b99d277bd16": 1792155709.2232313,
   "news|277d55af5c23": 1792155710.0594013,
   "news|b9ee178751a1": 1792155710.8871775,
-  "brk|US10Y|pdh|up|2026-10-16": 1792155712.0798836
+  "brk|US10Y|pdh|up|2026-10-16": 1792155712.0798836,
+  "news|da4fdb64136b": 1792156577.0054593
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7172,6 +7173,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T13:16:17.005510+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia talks up refinery attack as Trump blames Ukraine for expensive fuel</b>\n📰 Reuters · Ven 16/10 12:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEIyVDItZjJtU1kxNlBBZWU1eEpadHhlaHJRMUN3WUVTbnNibUgyemJ6V1NQZGdiN1NocU40ald3bEJYbGhZNmRZMm9kNEZxR3NVX21wc1UwSDZuQklaWVBWQ1c2MVItNTBidDR3eDlyRUxwU044SFhoSUNJVjNZQzlORzlwV0NZQ2FaNGRhQXVOSnotNGZRakR4bnpBRDVwUmxuTDBHMWZTcVhUeVlzTWxKWnRzYVB6WFJr?oc=5"
+  },
   {
    "ts": "2026-10-16T13:01:52.079926+00:00",
    "kind": "breakout",
@@ -7466,11 +7472,6 @@
    "ts": "2026-10-16T03:01:45.597796+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Escalation of attacks threatens to derail recovery in Middle East oil exports</b>\n📰 Cyprus Shipping News · Ven 16/10 04:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVNlY1JUYWxLOXFtcUpNOWVwSGJFQ0o0bzIzRWs4WWpaREV5VzM0WUgtYW1DSmwxUU1DRGE1bTFDc1dYd01GWVJ5WUJkVVN4R1JDUHdwVFZEV3pDZHR4UlA5QlZFT21yYmVJSVQ2WHdrQzBOa2NmWE1veERwQjRvV3VsWkNpRDZmSWFjRV9laG9mdFYtVnJRRXJMcGN3SHRZSzVkeXVNVUtTb0hRZUdWcWU1TXF5dGVrU28zTw?oc=5"
-  },
-  {
-   "ts": "2026-10-16T03:01:44.747802+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel raises alert amid Iran war fears as Trump weighs strikes, Netanyahu wary before election</b>\n📰 Ynetnews · Ven 16/10 04:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSV2RSLTZKYXlsNGEzYmF1YnBmMjQ4U0YwZDl2MHVIdFNnVU91LXpUZ0Y5RmpBcjl4NUhFN3N1am5yUFNDbGk3bFZSSXNpcmIwZG1nOTRn?oc=5"
   }
  ],
  "daily_forecast": {
