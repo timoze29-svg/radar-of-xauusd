@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "7679225efbe3",
-  "687957f6a883",
-  "ba6f7a2e0eb7",
-  "65484a63f3ec",
   "278c0ceacaf8",
   "4d8e3362c2af",
   "f290843472cc",
@@ -4066,7 +4062,11 @@
   "b95fba8e7fc2",
   "b6ad326c4277",
   "b4cb8b2c26e2",
-  "34a5dd4504f4"
+  "34a5dd4504f4",
+  "ccca72ee4148",
+  "95cff135b5c9",
+  "415ea5c6b4ac",
+  "406423887ef5"
  ],
  "news": [
   {
@@ -4101,6 +4101,18 @@
    "published": "2026-10-16T02:48:40+00:00",
    "id": "f6a92ad178e7",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "‘I don't trust anybody’: Trump on Netanyahu, Israel's election and potential Iran strikes",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KX3hUUGJiSFV6S0pzWHUwYllYaUgxUTNBdmVHVUxVRERzMHJxMXVweVczcGR3WDhFOWp1cW1iZkM2N1VwblVxQ1JITllDa0k1WU9FNXBfLUs?oc=5",
+   "published": "2026-10-16T02:25:43+00:00",
+   "id": "ccca72ee4148",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55WlVaQ0dKd18wLTRNdDZ1clMtOGU2eTBYOU5wWnY3bWgtU3lWTmNpd1pHTFZNaW9BVDZWMXh4Si1jd2c0S0pxalhyQ01FU1NXb2s3elViWGY5MlU?oc=5",
-   "published": "2026-10-15T08:11:48+00:00",
-   "id": "e8bc348ae838",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces sur l'offre énergétique mondiale et risque inflationniste stimulant le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7017,7 +7017,8 @@
   "news|d6477ee50649": 1792119708.1011508,
   "news|2eaf7efb0b7d": 1792119708.9063263,
   "news|c11ec6b51ede": 1792119709.7270837,
-  "pre15m|2026-10-15T23:30:00-04:00": 1792120566.05911
+  "pre15m|2026-10-15T23:30:00-04:00": 1792120566.05911,
+  "news|ccca72ee4148": 1792122359.2647033
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7104,6 +7105,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T03:45:59.264762+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘I don't trust anybody’: Trump on Netanyahu, Israel's election and potential Iran strikes</b>\n📰 Ynetnews · Ven 16/10 04:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KX3hUUGJiSFV6S0pzWHUwYllYaUgxUTNBdmVHVUxVRERzMHJxMXVweVczcGR3WDhFOWp1cW1iZkM2N1VwblVxQ1JITllDa0k1WU9FNXBfLUs?oc=5"
+  },
   {
    "ts": "2026-10-16T03:16:06.059169+00:00",
    "kind": "pre_event",
@@ -7398,11 +7404,6 @@
    "ts": "2026-10-15T14:46:30.441506+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says military leakers should be shot amid Iran bomber mission being compromised</b>\n📰 WCYB · Jeu 15/10 16:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNllNdjEyN082UkszSzAtTWFfa0xMMlVpX1BIeDJ3YnQ3MFBucWZLWU5DYk9QdnBIVHJxZ3AyM3JpNThQZEFHd1lqdzlBclFuWjdnTkJrYlNxdTFJd2hWX0tvLUgyOWY5a3FPYnRkRlNpbEpOSXJWWmhIN3p6VkpRdGVNWDB6YTZCQTBOTGZjcm13ckdacVctbU82M0c2SWNTRGloVi1Ub1NGSk5SRGtPZGhEZFVJSXlRUFNlTjRXc2toVXFmU3VsNWtzWUN6ckZjNkpVUXRBSHk3SzhFZXlILXNjbEJWbnc?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:16:11.769323+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi Arabia accuses Iran of encouraging Houthis in latest escalation</b>\n📰 The Daily Star · Jeu 15/10 16:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1JYzdFcXV2aTVqN0JicEoxMnRVWEVUaVRiTmk5UmQ2ZDF0MnljNkVOX0p3OHY3UFBndm9kZWNRekV2TVh3SUVzWm9LUzRhOEJ4TnBNbjVHVGJoSzBXNXlVclIzMmRMZ1h2MEdTZjBhQXBBV0JheXJHMWowSXFvOHRXd2VYTDM5c2J0VlZIVXJDSmNQd3ZUSVZOTFNvMnBKanViYzd4dXRqRGdXT254TWFUWHpJZmRldmNyNmIybVBjY3k5Vmxn?oc=5"
   }
  ],
  "daily_forecast": {
