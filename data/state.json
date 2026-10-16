@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "ae30d5f0b68f",
-  "0827c4cf9ce6",
-  "f93e84f596ec",
   "47710a4cf4f8",
   "f60bdabe2267",
   "7f265ab3e14a",
@@ -4066,9 +4063,24 @@
   "23cc4205335b",
   "edd7ffecd874",
   "f6529af63bf1",
-  "79e628a13c8d"
+  "79e628a13c8d",
+  "1a27efb0c84c",
+  "b5ddb1fea7ed",
+  "3e4b95ee7617"
  ],
  "news": [
+  {
+   "title": "Kazakhstan Calls for Restraint, Diplomacy to Prevent Further Escalation in Middle East",
+   "source": "The Astana Times",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHNBcVVPaFRCVkNacjkxTTYwM1JiT3dYeWtGV0JDaXQ5aW9QMmgtYjdWa25USnFtaGI4cXFCXzF5Mm1vZmttVEhRX08zeC1SeHo0WE5tSWVnZ082bnhMNnpHa1UwZjJTYWFrNU1iRkt4RG5ZSVFZc0tQRm5Hc2RCakpmM0hJN2sxNmhlYlRJcGEtMkhnWVB6Yzh5NkRFT2xFQzRTNXNoeFdkZWtVQUJqcUR0UXJTc0dzWkE?oc=5",
+   "published": "2026-10-16T06:32:24+00:00",
+   "id": "1a27efb0c84c",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
    "source": "The Guardian",
@@ -4245,6 +4257,18 @@
    "published": "2026-10-16T04:45:00+00:00",
    "id": "487d4e13d71c",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "India Calls Middle East Escalation ‘Deeply Worrying’, Condemns Attacks on Civilian Infrastructure at UNSC",
+   "source": "The Earth News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1JKQnFtWTBPdjdGLWlwV3l3UkVJZ2ZsZ2ZKTWpxczFHSGVxazNWY0ZpSEptWENEMGMyd0hidXlTbFRzR1NPbjJCVUN3bnQ1T0xiS1NkbGZlS0YwT2dMbkhiTXBYcHZtTG0tLUF6bkN4UTJlX2FHbEVhMTI2WVlrYkNLcnJBX0dMcTgtRG1XM0IwVEd4dF9Wd0lLc2hEN1luUmFDNUtfc09OcHNMQmNFQUQ1TEhQYnhqODJoYS12RGxxQQ?oc=5",
+   "published": "2026-10-16T04:40:17+00:00",
+   "id": "b5ddb1fea7ed",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6444,30 +6468,6 @@
    "cat": "inflation",
    "raison": "CPI américain supérieur aux attentes : hausse des taux réels, dollar fort, baissier pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Russia and Ukraine resume energy strikes despite Trump warnings",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5",
-   "published": "2026-10-15T10:08:00+00:00",
-   "id": "523cf4e1c8ea",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump lines up ‘mother of all bombs’ to strike Iran",
-   "source": "The Telegraph",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVlfYVlOVkZ1bGIwMjk5M2lUcVduQXdRbWZTN1ZfYjFMN2Y5bmY1R0JQTVVBWjNIZGp5V3VzUzdDSDBLR200eVdjanNEajE0eWxwR0prR0VxS3E5SEJjTTktb2pHUVpQY1FWcWRjblJnRVZOZjVKOGRsMWItczBFVGczdmhOcEdKcFZ4bXRBQjZ5ZFp5bVlSeQ?oc=5",
-   "published": "2026-10-15T10:08:00+00:00",
-   "id": "68686314b861",
-   "impact": 7,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire extrême imminente au Moyen-Orient provoquant une forte ruée refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7039,7 +7039,8 @@
   "news|c0a1d76ac583": 1792131361.7589512,
   "news|14119d1a6c00": 1792131362.7189212,
   "news|1ce9a3bf640b": 1792131363.620998,
-  "news|79e628a13c8d": 1792132283.4384615
+  "news|79e628a13c8d": 1792132283.4384615,
+  "news|b5ddb1fea7ed": 1792133167.3696249
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7142,6 +7143,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T06:46:07.369683+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>India Calls Middle East Escalation ‘Deeply Worrying’, Condemns Attacks on Civilian Infrastructure at UNSC</b>\n📰 The Earth News · Ven 16/10 06:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1JKQnFtWTBPdjdGLWlwV3l3UkVJZ2ZsZ2ZKTWpxczFHSGVxazNWY0ZpSEptWENEMGMyd0hidXlTbFRzR1NPbjJCVUN3bnQ1T0xiS1NkbGZlS0YwT2dMbkhiTXBYcHZtTG0tLUF6bkN4UTJlX2FHbEVhMTI2WVlrYkNLcnJBX0dMcTgtRG1XM0IwVEd4dF9Wd0lLc2hEN1luUmFDNUtfc09OcHNMQmNFQUQ1TEhQYnhqODJoYS12RGxxQQ?oc=5"
+  },
   {
    "ts": "2026-10-16T06:31:23.438534+00:00",
    "kind": "news",
@@ -7436,11 +7442,6 @@
    "ts": "2026-10-15T19:46:04.706115+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>White House prepares plans to use weapon dubbed \"mother of all bombs\" on Iran, sources say</b>\n📰 CBS News · Jeu 15/10 21:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3pWaWZIQVMwb3dLWnVMem8wZ3pJa2pmYzl2bjgtbm5rN0pidmtSQVN6YnNMODE5ZldLWndtQ2dQNFpMVkNvTGtSUHBCSW1hamV5NTNZSEtsSFRlaGdndmdJZHdPTkhTdjVRZm1lR0V3VlBxMS1maXdiUTJCdmJ2Zg?oc=5"
-  },
-  {
-   "ts": "2026-10-15T19:31:34.699172+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine runs out of Patriot interceptor missiles as Zelenskyy and Trump clash over war</b>\n📰 en.apa.az · Jeu 15/10 21:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://en.apa.az/cis-countries/ukraine-runs-out-of-patriot-interceptor-missiles-as-zelenskyy-and-trump-clash-over-war-530341"
   }
  ],
  "daily_forecast": {
