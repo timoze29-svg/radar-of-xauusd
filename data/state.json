@@ -1067,11 +1067,6 @@
   }
  },
  "seen_news": [
-  "0f73f8bcce4c",
-  "849ecbcb3420",
-  "bd66b7d4987b",
-  "2656cab16bf2",
-  "9a1be45bcf77",
   "8bc2f8e545be",
   "590a53d2e557",
   "3b16350f9982",
@@ -4066,7 +4061,12 @@
   "1d4819cd37e3",
   "b408fe59eadb",
   "10bba7b8348e",
-  "48661c9a7435"
+  "48661c9a7435",
+  "99dafed7f958",
+  "5a33f0668e1e",
+  "14df38ad1e47",
+  "9b3fe9e07937",
+  "e8c75e54b26e"
  ],
  "news": [
   {
@@ -7008,7 +7008,8 @@
   "news|042e03efea9f": 1792115180.6250448,
   "news|f43cffd0e035": 1792116097.9490063,
   "pre1h|2026-10-15T23:30:00-04:00": 1792116964.8396502,
-  "news|b408fe59eadb": 1792117894.925234
+  "news|b408fe59eadb": 1792117894.925234,
+  "big|SILVER|2026-10-15": 1792118761.3532546
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7095,6 +7096,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-16T02:46:01.353281+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n+2.135 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
   {
    "ts": "2026-10-16T02:31:34.925292+00:00",
    "kind": "news",
@@ -7389,11 +7395,6 @@
    "ts": "2026-10-15T13:31:32.885405+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U . S . Weighs Using  Mother Of All Bomb In Iran | News Radio 570 WWNC</b>\n📰 wwnc.iheart.com · Jeu 15/10 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://wwnc.iheart.com/content/2026-10-15-us-weighs-using-mother-of-all-bombs-in-iran/"
-  },
-  {
-   "ts": "2026-10-15T13:31:31.920917+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>With anger spreading over Iran war , Democrats hope to flip Republican seats with veteran help</b>\n📰 wfmj.com · Jeu 15/10 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.wfmj.com/news/national/with-anger-spreading-over-iran-war-democrats-hope-to-flip-republican-seats-with-veterans-help/article_e6403aa0-3f65-5907-ad7c-bbb89ac1490d.html"
   }
  ],
  "daily_forecast": {
