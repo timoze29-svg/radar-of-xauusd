@@ -1067,11 +1067,6 @@
   }
  },
  "seen_news": [
-  "ccc82eeb2b32",
-  "29da3190f9a9",
-  "9919b1fd578c",
-  "d2e4a6caa6f3",
-  "5ede34cc7c86",
   "5f8e3546e3ca",
   "91a01dd267e4",
   "650d99d212c6",
@@ -4066,7 +4061,12 @@
   "5763f61e7c88",
   "b272d5b8eefc",
   "2a681f49a82b",
-  "babd35cd0e34"
+  "babd35cd0e34",
+  "90266de3a5b1",
+  "7dc0a52c970b",
+  "9d0d5cee1459",
+  "8384bab76d96",
+  "82e80769b862"
  ],
  "news": [
   {
@@ -4082,6 +4082,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Zelenskyy urges support for new U.S. sanctions on Russia after Trump puts them on hold",
+   "source": "Spectrum News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFF1aWtZN0MyOHYtd0o3NzNIMzdTOUhkNGw3Y3QxRURfbHV3VTdxSkpfbU5XejR6QzFDZUhfQlhsWFNxUUgySWxFVmYyay1qZU1UdVlIY3FXd0stX3NqdmwzODFkMExCUVlnQXVTdkJuUE50dGc0S2MtVUFSbzZCZWpoT1RBa0x3S2pFNmNmb1NIYWpJaC1EVV9hRHFwNk5OTmhEejQ3UQ?oc=5",
+   "published": "2026-10-17T14:12:00+00:00",
+   "id": "9d0d5cee1459",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
    "source": "The Guardian",
    "theme": "Russie/Ukraine",
@@ -4092,6 +4104,18 @@
    "cat": "géopolitique",
    "raison": "Craintes d'escalade du conflit ukrainien offrant un soutien marginal de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5",
+   "published": "2026-10-17T13:28:00+00:00",
+   "id": "82e80769b862",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
   },
   {
    "title": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones",
@@ -6443,30 +6467,6 @@
    "impact": -2,
    "cat": "inflation",
    "raison": "Inflation persistante à 3,7% stimulant les anticipations de taux élevés et soutenant le dollar.",
-   "method": "IA"
-  },
-  {
-   "title": "Russian attacks kill eight in Ukraine, cut power to over a million",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFIxaDNFUTFsWnMxSEY0d1NycVhrbEtVbHlGZHJpZDVVa3RuekIwVDFmejhRUWdoeVY4YUQxSXhmeU1NalJwZThXdUlIN1BBV0MyRUFYUmo4VWZ3RTV0VnBZc0xEM3VScTFDbnh0STBER0t6TVFFcnNubkxXM0t4M04zcVBGeW1iaXQ0X3JHQmE5a09KTlQ1UmRBUUJKMVJScnhsRVk1T0tsUS1YUlBGOUw2Zno?oc=5",
-   "published": "2026-10-16T22:48:56+00:00",
-   "id": "19bdbaaa9d7a",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frappes russes sur infrastructures énergétiques, incertitude géopolitique persistante.",
-   "method": "IA"
-  },
-  {
-   "title": "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTRuNnNUUkdLNnBuVk9RQTBiS25xcTVBVVpjeFpTaDFUWjJuWFl4QjBkUnp0YkozM3ZXUXRfQ1RSTW1kU2h0OXZiU0M2MHJUQWZBdDNnWVU1am1yb1UxRWlpYWlpN1Y5VUFwd1oxUjF0UlFMeEt3SUx4UURpb1ZpYXY1c0lkYThrLUZtVlpUSWnSAZYBQVVfeXFMUEQwcFlXdjlTV3lqejM2WFFIQ25UWlhUM1FQNjIzTGtGV2ZQaElPZ2Izd0gwR2lLZ1pSdTZhWDVXMTg4d0V6RGxZdnZSak9walllOHRDOFlUT2pYSUJrdjc0NFYyekpfdjVIQUpVaDZjRGpJMlVwLXFHdFhnYzN5b2g3cWpZNkl5Ty11U29pbHllLUNLVjdR?oc=5",
-   "published": "2026-10-16T22:46:43+00:00",
-   "id": "84ca4f1a897d",
-   "impact": -1,
-   "cat": "fed",
-   "raison": "Continuité à la Fed garantissant l'indépendance et une politique orthodoxe contre l'inflation.",
    "method": "IA"
   }
  ],
