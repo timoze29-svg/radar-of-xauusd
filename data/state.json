@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "72023a207a55",
-  "61c7662cd79f",
-  "c36b6b57776e",
   "8a2cf6663945",
   "f818b2ce9b34",
   "3a7d3fe97cdd",
@@ -4066,7 +4063,10 @@
   "5fd6c2296723",
   "d7d35a4bc866",
   "14fc92b4d135",
-  "12b495b229e8"
+  "12b495b229e8",
+  "70f1dadab2c2",
+  "088630bf5e28",
+  "841ce3ceb065"
  ],
  "news": [
   {
@@ -4103,6 +4103,18 @@
    "impact": -1,
    "cat": "taux",
    "raison": "La perspective de rendements obligataires accrus pèse légèrement sur l'actif sans rendement.",
+   "method": "IA"
+  },
+  {
+   "title": "Chinese coast guard ships enter restricted waters near Dongsha: CGA",
+   "source": "Focus Taiwan",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IT1FGV2RVR3BFTTRSam1WWDRqMHR2azRRUlRxS2wwRHJaTW0yY0NtQnFYWGhfMDFXNW5vcUdnaThvNy1ENGNCMU5sSjlfbGhabm8wMGtCUQ?oc=5",
+   "published": "2026-10-17T03:45:00+00:00",
+   "id": "841ce3ceb065",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions récurrentes à Taïwan, léger soutien valeur refuge sans panique immédiate des marchés.",
    "method": "IA"
   },
   {
@@ -4703,6 +4715,18 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Menace directe contre Trump accentuant brutalement la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "Escalating tensions in the Middle East, compounded by disruptions to Russian energy supplies, have pushed Brent crude above $110 per barrel for the first time in nearly five months, marking a year-to-date gain of over 75%.",
+   "source": "Moomoo",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2ZENVNLa0tlOGRxczZId2dhbmVILXl2OUhVTUt0UTBPalcxUFdla2g0WENLSUVzdkI2Mm9VNDFXODM4djFxZ0pibkpmOUw2dF9nRjAxc251VVdNMXJQcGU5bmEzcUdXdWhkQmV1X1NZYU5fd2kxY2dHOF93Y3EwSU1wTWRicmlUNjdHbnJGdkk3SVNzZ2VsbFZ5Zm1TTlVqZkxseFNJczYxV3hTUE9zeg?oc=5",
+   "published": "2026-10-16T23:51:26+00:00",
+   "id": "088630bf5e28",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "Choc pétrolier et risque géopolitique majeur : forte demande refuge et couverture inflationniste.",
    "method": "IA"
   },
   {
@@ -6444,30 +6468,6 @@
    "cat": "commerce",
    "raison": "Restrictions technologiques ciblant la Chine renforçant les frictions commerciales sino-américaines.",
    "method": "IA"
-  },
-  {
-   "title": "India Raises Alarm at UNSC Over Escalating Hostilities in Middle East",
-   "source": "Kashmir Observer",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3A3ZGNJLVh5U2IwdFAwM2ptWlRxR1pUOVA1c19jejdGaG1aRHp5blRkRnA3VTBBVlp2bGZjUUF5VW9ENXBWamc5aG1PeXU3Rld1T3FUVEJITEp4WTFieHBROFZIaG9rY2JjVGdqeHJubFZld0dLOS0yaUp3ZVdRcVo2ZkpDaF9qR0U3UFExX1JpdlRlamRNWDYwelYzLU5nb1hhWFNad0ZabjlqSnc?oc=5",
-   "published": "2026-10-16T06:07:16+00:00",
-   "id": "c8580ba3d534",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes au Moyen-Orient offrant un léger soutien refuge sans choc immédiat.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5",
-   "published": "2026-10-16T06:02:00+00:00",
-   "id": "79e628a13c8d",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Signale une volonté de désescalade forcée de Trump, limitant la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7126,7 +7126,8 @@
   "burst|Trump|165945": 1792206977.7519243,
   "burst|Tarifs douaniers|165945": 1792206978.8066661,
   "burst|Russie / Ukraine|165945": 1792206979.820571,
-  "news|14fc92b4d135": 1792214165.4350677
+  "news|14fc92b4d135": 1792214165.4350677,
+  "news|088630bf5e28": 1792215090.1349676
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7229,6 +7230,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-17T05:31:30.135031+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Escalating tensions in the Middle East, compounded by disruptions to Russian energy supplies, have pushed Brent crude above $110 per barrel for the first time in nearly five months, marking a year-to-date gain of over 75%.</b>\n📰 Moomoo · Sam 17/10 01:51\n🧠 Choc pétrolier et risque géopolitique majeur : forte demande refuge et couverture inflationniste. [IA]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2ZENVNLa0tlOGRxczZId2dhbmVILXl2OUhVTUt0UTBPalcxUFdla2g0WENLSUVzdkI2Mm9VNDFXODM4djFxZ0pibkpmOUw2dF9nRjAxc251VVdNMXJQcGU5bmEzcUdXdWhkQmV1X1NZYU5fd2kxY2dHOF93Y3EwSU1wTWRicmlUNjdHbnJGdkk3SVNzZ2VsbFZ5Zm1TTlVqZkxseFNJczYxV3hTUE9zeg?oc=5"
+  },
   {
    "ts": "2026-10-17T05:16:05.435126+00:00",
    "kind": "news",
@@ -7523,11 +7529,6 @@
    "ts": "2026-10-16T14:01:41.150918+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran navy reports another oil tanker on fire near Strait of Hormuz</b>\n📰 news.az · Ven 16/10 15:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.az/news/iran-s-navy-reports-another-oil-tanker-on-fire-near-strait-of-hormuz"
-  },
-  {
-   "ts": "2026-10-16T13:16:17.005510+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia talks up refinery attack as Trump blames Ukraine for expensive fuel</b>\n📰 Reuters · Ven 16/10 12:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEIyVDItZjJtU1kxNlBBZWU1eEpadHhlaHJRMUN3WUVTbnNibUgyemJ6V1NQZGdiN1NocU40ald3bEJYbGhZNmRZMm9kNEZxR3NVX21wc1UwSDZuQklaWVBWQ1c2MVItNTBidDR3eDlyRUxwU044SFhoSUNJVjNZQzlORzlwV0NZQ2FaNGRhQXVOSnotNGZRakR4bnpBRDVwUmxuTDBHMWZTcVhUeVlzTWxKWnRzYVB6WFJr?oc=5"
   }
  ],
  "daily_forecast": {
