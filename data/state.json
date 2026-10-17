@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "ed7d9b58b0cf",
-  "38470719b402",
   "e83bd7678f8c",
   "2130427ec5ae",
   "50b5e02a7bb1",
@@ -4066,7 +4064,9 @@
   "e36887b20cb0",
   "fff3cfb24cd9",
   "7c2f580c275a",
-  "2abf665994c4"
+  "2abf665994c4",
+  "d2d99759403a",
+  "4c31ffcef099"
  ],
  "news": [
   {
@@ -4130,18 +4130,6 @@
    "method": "IA"
   },
   {
-   "title": "US - India trade deal wont be signed without preferential treatment : Former diplomat Veena Sikri",
-   "source": "austinglobe.com",
-   "theme": "Géopolitique",
-   "link": "http://www.austinglobe.com/news/279381447/us-india-trade-deal-wont-be-signed-without-preferential-treatment-former-diplomat-veena-sikri",
-   "published": "2026-10-17T19:30:00+00:00",
-   "id": "0c93fe500d58",
-   "impact": 0,
-   "cat": "commerce",
-   "raison": "Commentaire d'une ancienne diplomate, impact négligeable sur les flux macroéconomiques globaux.",
-   "method": "IA"
-  },
-  {
    "title": "US, Israel face threats of war if oil prices keep rising",
    "source": "The Jerusalem Post",
    "theme": "Moyen-Orient",
@@ -4200,6 +4188,18 @@
    "cat": "géopolitique",
    "raison": "Désescalade des sanctions contre Moscou réduisant la prime de risque géopolitique globale.",
    "method": "IA"
+  },
+  {
+   "title": "Israel destroys building in Beirut amid escalating Hezbollah conflict - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2N5cnRramRNd0h1aXo2UmZSaWFLMG9oZkRDT0Z6ZjdMd2JUMFdQNTVERS1vX2xEWXM0eUVaRTFqb3RCQ1lsamtzbElQYUVPRXJhZ3J4bWxMWmVQVWVIS21LOHNDVnhLWjZsbmdKemlXOWZDV1VhYjhodElJdzA4TVpVNy1Sb2VyaWxCcDJFcnh5aFpIZUI1OVJtTFZzRTBqdWRLV3d4LVgzRlVCRTFjd0g4dV85QdIBuwFBVV95cUxNTGlDa1FJLTNVanpqLU5pSXRIR295dk1XV3FDbnIwb0Z5QTl3WDE0X1d2dDh1dmlHeHRETUdvWkpoQ1NwUHgyUWtEakg1bzlsQmNMamx4VzNiRjlxYk1PbnR2LXhmRWlvRURXdE9sQ2k1bDR6cUFzOEJ2X3hrWGJuaFhNcGxIbTE1bHlpd3puNnJBMnRERVQyQ2xGdGZDc2NyMFFVOUNacVpINUlXa3VuY3JDZG9JeG5FX2xr?oc=5",
+   "published": "2026-10-17T18:40:02+00:00",
+   "id": "d2d99759403a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
@@ -7172,7 +7172,8 @@
   "news|a7fa41afa8e8": 1792264741.4165144,
   "news|f51af3fc3435": 1792265483.4410598,
   "news|0f8e11a84df7": 1792265484.3745036,
-  "news|1960e9f65da2": 1792265485.2647357
+  "news|1960e9f65da2": 1792265485.2647357,
+  "news|d2d99759403a": 1792273563.882061
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7275,6 +7276,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-17T21:46:03.882127+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel destroys building in Beirut amid escalating Hezbollah conflict - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 17/10 20:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2N5cnRramRNd0h1aXo2UmZSaWFLMG9oZkRDT0Z6ZjdMd2JUMFdQNTVERS1vX2xEWXM0eUVaRTFqb3RCQ1lsamtzbElQYUVPRXJhZ3J4bWxMWmVQVWVIS21LOHNDVnhLWjZsbmdKemlXOWZDV1VhYjhodElJdzA4TVpVNy1Sb2VyaWxCcDJFcnh5aFpIZUI1OVJtTFZzRTBqdWRLV3d4LVgzRlVCRTFjd0g4dV85QdIBuwFBVV95cUxNTGlDa1FJLTNVanpqLU5pSXRIR295dk1XV3FDbnIwb0Z5QTl3WDE0X1d2dDh1dmlHeHRETUdvWkpoQ1NwUHgyUWtEakg1bzlsQmNMamx4VzNiRjlxYk1PbnR2LXhmRWlvRURXdE9sQ2k1bDR6cUFzOEJ2X3hrWGJuaFhNcGxIbTE1bHlpd3puNnJBMnRERVQyQ2xGdGZDc2NyMFFVOUNacVpINUlXa3VuY3JDZG9JeG5FX2xr?oc=5"
+  },
   {
    "ts": "2026-10-17T19:31:25.265012+00:00",
    "kind": "news",
@@ -7569,11 +7575,6 @@
    "ts": "2026-10-17T03:01:36.194360+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives key Russia-related sanctions, tariffs before they take effect under new law</b>\n📰 Reuters · Sam 17/10 03:17\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5"
-  },
-  {
-   "ts": "2026-10-17T02:46:04.643903+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 17/10 02:40\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORng2eU5QQWk1a21qSHlmMjZGR1ExSDh6NXAyNW1HZkd3ZE9HWl81SFRyT0xEcjJQTVg4bFBoT3ZMekNwN3pHd1cxZXBvSndhRkpseFZOM2hpalJidkd4VUl6bUpuTHN6cFgzUkszSVdzeFdLYlZ4NTJ5TFozNWYxdG5sWVhYaVJSN1hydWk3RzlERE1HNHVGUNIBngFBVV95cUxNWmljYjB6Vms3NUV3Qzg0MWxQcUo5VFI2RzFTTzNmSmhYM0VMODlDTjhfT19uaXhaOVM5azhnNXlJTEV3aFk5M3NWdnFxaEZsRVV6VzdGbGdpeEF6UG84cS1kNFVNT01oN21SODg3ajZ1SzdYZVozd2RuczViT3VGeUtTYjY5TmpqVV9YLWFtZTBJd3JpVENwVGM4c21WUQ?oc=5"
   }
  ],
  "daily_forecast": {
