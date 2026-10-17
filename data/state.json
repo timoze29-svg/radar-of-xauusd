@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "510ef6693fae",
-  "1a596c684d72",
-  "ec1e2308bade",
   "72023a207a55",
   "61c7662cd79f",
   "c36b6b57776e",
@@ -4066,7 +4063,10 @@
   "7da5c8c751ef",
   "74b6af9dc524",
   "1b0d284398eb",
-  "5fd6c2296723"
+  "5fd6c2296723",
+  "d7d35a4bc866",
+  "14fc92b4d135",
+  "12b495b229e8"
  ],
  "news": [
   {
@@ -4464,6 +4464,18 @@
    "cat": "commerce",
    "raison": "Allègement des sanctions et tarifs réduisant la prime de risque géopolitique et commerciale.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Waives Russia Sanctions That Threatened 100% Tariffs On India",
+   "source": "NDTV",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXBvU1Y5NlRKWU5ueFo4RGZYLURMRG1wb3FESTZkZXpSQlZlSWl3U19CbWplYkE2RHFQU1k0WGdWTHdaUjA2UGQtdzFOb09mTUNiQlZKTHd4R0x5OE82OW5MMlJHcDVYejFFMm9OcUgzZW5fZk5fNThKS2w5cG5tOUxZb0MwandzTDFLZXhHRVllMWJPanYzQ0ctSnhLZkExa2tCNkxlXy1FZkRtVmlvWHZmS3Z6Undnbm1NUVdYX3FKU1h2cHo5YmJoWHlISFNKbG9pWlVpeEpvTU1kRVZrXzNnblRPbEtPLTZTTDUxcnJ2TGFKVDVjMHR30gGCAkFVX3lxTFAtS1NUUzRQcUg3MnF6bGpqUnpyRlZsTHBRLUpEXzd6STNoYXB3clIxSVNscTRtbXM2VjdkTmNrdV9mRFlFNTFueUM0dTc3bFZHU09pWUNWYzJOWEVld1ZJeF9TanFxRGR4MWt1eW80cEFHTkYyVkZQdmRXaXNWQVliTHlDMWdFT0ptZmlGMFVBWkNteUdNeV9KSnE4MGZ3cUxfNjd1cmJrRGNTLWRRUDdfRTZMZ3N0M3NzcmhwTEJsUjRrVTRrRjNnc0tTM1QxOU5wRUJUc3ZwX29uNEZ0QlJPakJMcUNvRGllU1Z0ejBaaTN5dW1VY0h1MGhnU19aTi1NQQ?oc=5",
+   "published": "2026-10-17T01:44:03+00:00",
+   "id": "14fc92b4d135",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump claims military victory in Iran. But is the mission accomplished? ANALYSIS - ABC News",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Signale une volonté de désescalade forcée de Trump, limitant la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries a ‘disgrace’",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5",
-   "published": "2026-10-16T06:02:00+00:00",
-   "id": "2649169a0eef",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Reprise des frappes contre les raffineries russes ravivant les tensions sur l'énergie.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7125,7 +7125,8 @@
   "news|04d370ed6061": 1792206976.2872338,
   "burst|Trump|165945": 1792206977.7519243,
   "burst|Tarifs douaniers|165945": 1792206978.8066661,
-  "burst|Russie / Ukraine|165945": 1792206979.820571
+  "burst|Russie / Ukraine|165945": 1792206979.820571,
+  "news|14fc92b4d135": 1792214165.4350677
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7228,6 +7229,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-17T05:16:05.435126+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Waives Russia Sanctions That Threatened 100% Tariffs On India</b>\n📰 NDTV · Sam 17/10 03:44\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXBvU1Y5NlRKWU5ueFo4RGZYLURMRG1wb3FESTZkZXpSQlZlSWl3U19CbWplYkE2RHFQU1k0WGdWTHdaUjA2UGQtdzFOb09mTUNiQlZKTHd4R0x5OE82OW5MMlJHcDVYejFFMm9OcUgzZW5fZk5fNThKS2w5cG5tOUxZb0MwandzTDFLZXhHRVllMWJPanYzQ0ctSnhLZkExa2tCNkxlXy1FZkRtVmlvWHZmS3Z6Undnbm1NUVdYX3FKU1h2cHo5YmJoWHlISFNKbG9pWlVpeEpvTU1kRVZrXzNnblRPbEtPLTZTTDUxcnJ2TGFKVDVjMHR30gGCAkFVX3lxTFAtS1NUUzRQcUg3MnF6bGpqUnpyRlZsTHBRLUpEXzd6STNoYXB3clIxSVNscTRtbXM2VjdkTmNrdV9mRFlFNTFueUM0dTc3bFZHU09pWUNWYzJOWEVld1ZJeF9TanFxRGR4MWt1eW80cEFHTkYyVkZQdmRXaXNWQVliTHlDMWdFT0ptZmlGMFVBWkNteUdNeV9KSnE4MGZ3cUxfNjd1cmJrRGNTLWRRUDdfRTZMZ3N0M3NzcmhwTEJsUjRrVTRrRjNnc0tTM1QxOU5wRUJUc3ZwX29uNEZ0QlJPakJMcUNvRGllU1Z0ejBaaTN5dW1VY0h1MGhnU19aTi1NQQ?oc=5"
+  },
   {
    "ts": "2026-10-17T03:16:19.820820+00:00",
    "kind": "news_burst",
@@ -7522,11 +7528,6 @@
    "ts": "2026-10-16T13:16:17.005510+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia talks up refinery attack as Trump blames Ukraine for expensive fuel</b>\n📰 Reuters · Ven 16/10 12:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEIyVDItZjJtU1kxNlBBZWU1eEpadHhlaHJRMUN3WUVTbnNibUgyemJ6V1NQZGdiN1NocU40ald3bEJYbGhZNmRZMm9kNEZxR3NVX21wc1UwSDZuQklaWVBWQ1c2MVItNTBidDR3eDlyRUxwU044SFhoSUNJVjNZQzlORzlwV0NZQ2FaNGRhQXVOSnotNGZRakR4bnpBRDVwUmxuTDBHMWZTcVhUeVlzTWxKWnRzYVB6WFJr?oc=5"
-  },
-  {
-   "ts": "2026-10-16T13:01:52.079926+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.106 → prix : <b>5.108</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.46 | 60j -0.3"
   }
  ],
  "daily_forecast": {
