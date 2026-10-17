@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "7c38fd1344b1",
-  "2640ec7591b8",
-  "6b4f6f3d4295",
-  "e8686297ae44",
   "1b732822a41d",
   "c07340ffc2d4",
   "783ad97e6022",
@@ -4066,7 +4062,11 @@
   "bbbc09da889b",
   "614c1549d3f5",
   "565323cd6d5b",
-  "14da5bb68a8c"
+  "14da5bb68a8c",
+  "6cdd6e9d9c23",
+  "f08c92f8e1c5",
+  "5a2ac6dc97da",
+  "fba2e3e4f4fd"
  ],
  "news": [
   {
@@ -4079,6 +4079,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Benjamin Netanyahu Faces Decisive Israel Elections Amid Gaza War And Iran Strike Fears: what 6 outlets left out",
+   "source": "NewsCord",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVJyM2lTSVY0MTJUdGdCMjI1RkxHamxWQUhQbHBJNERlTlBFSG1GNGhIdmtNS3VxY3ZOVjlyMzhzVExLNWR0YmctOVhRU1JvRlJGUF9IT3ZiTXEyaXpUbFk5WnZ1QzRXZ3BiczdITlB0NEtiTjRxWlVsMmpaM3Ria3hmOFNWQ0gwVFE5ZnZvRzhVMl9oZDU2Z2hDSW0yWjNDZC03TWVFTzVHQ0taWHJ3N0RES3ZxQWFwN3NhUzlWeEptX2lZMWh5eUIxOUF2cU1VZUlxR2hKMFM5UlozQklFUjdxdktGa09sS2c?oc=5",
+   "published": "2026-10-17T17:25:36+00:00",
+   "id": "f08c92f8e1c5",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6456,18 +6468,6 @@
    "cat": "dollar",
    "raison": "Dollar fort et anticipations de taux directeurs élevés pénalisant les actifs sans rendement.",
    "method": "IA"
-  },
-  {
-   "title": "Inside Ukraine's 'Kill Zone' where soldiers face swarming drones in new age of war",
-   "source": "NBC News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFRXTnphdVdqOVA4TjF3X1dqcnFsaEwzN254SGFaWFk3WDFLRGdMMkY1ZW9keDlMSDFpeHNBbzdLWkFwMjVYaDkzYlMxYllkcUhhTl8wOE9ESl9BTThRSFhucC1XWnVxbl9iRWVEdm5oMmEteHNSZkE5N1dXUXNhUXRMX05MNUNnTGN3eEc0aldJeVBxc2swMnFFNlRXQXIxeUVxZm13azNvd2pqTkVHZTJB?oc=5",
-   "published": "2026-10-17T02:10:33+00:00",
-   "id": "e70c00fe2a18",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rappel de la guerre d'usure en Ukraine, soutien marginal sans nouveau choc macroéconomique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7160,7 +7160,8 @@
   "news|0d861e0b9c2f": 1792255567.397315,
   "news|9596570a2b6e": 1792255568.4609876,
   "news|b6895cf06336": 1792256496.7542806,
-  "news|3b996d55038f": 1792258282.910857
+  "news|3b996d55038f": 1792258282.910857,
+  "news|f08c92f8e1c5": 1792260096.1618495
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7263,6 +7264,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-17T18:01:36.161916+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Benjamin Netanyahu Faces Decisive Israel Elections Amid Gaza War And Iran Strike Fears: what 6 outlets left out</b>\n📰 NewsCord · Sam 17/10 19:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVJyM2lTSVY0MTJUdGdCMjI1RkxHamxWQUhQbHBJNERlTlBFSG1GNGhIdmtNS3VxY3ZOVjlyMzhzVExLNWR0YmctOVhRU1JvRlJGUF9IT3ZiTXEyaXpUbFk5WnZ1QzRXZ3BiczdITlB0NEtiTjRxWlVsMmpaM3Ria3hmOFNWQ0gwVFE5ZnZvRzhVMl9oZDU2Z2hDSW0yWjNDZC03TWVFTzVHQ0taWHJ3N0RES3ZxQWFwN3NhUzlWeEptX2lZMWh5eUIxOUF2cU1VZUlxR2hKMFM5UlozQklFUjdxdktGa09sS2c?oc=5"
+  },
   {
    "ts": "2026-10-17T17:31:22.910933+00:00",
    "kind": "news",
@@ -7557,11 +7563,6 @@
    "ts": "2026-10-17T00:15:59.350374+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Iran War Is Coming Due at the Ballot Box</b>\n📰 Modern Diplomacy · Sam 17/10 00:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxORU5kaUJRTnFfYUg3X1RUSXN1LV9OOU1XcGZfWmxJeWFrVWh6MGk5U0ExTUxuYlFPUzk0X0pVWW9hU1Fwdjk0dDlhQWlaUXNPbGFfXzRQTmVtMFV4R1Z5Wnh6LXBrdTBTZmpZeUhLX3RieXM1UGdETTNERTMyN1BJdWgxMGtvUHBUTEJtWTFGSQ?oc=5"
-  },
-  {
-   "ts": "2026-10-16T23:01:31.414956+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Staff cuts, oversight failure to blame in Iran school strike, not faulty AI targeting: Ex-Pentagon official</b>\n📰 Straight Arrow · Ven 16/10 19:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMEJlYWRzYlVkZVNBZVFPTUdJemJqakgzNUttUm1JWGw0Q085aC1YS1FiZUo1Wnd4b0wzVG50RUZGbXcwTjF4VUhtclJVc1lrN2VIck81QXBUb09YMDR0UElWRklsWHptT3kxMFVYSVFRWEpIU0VsNnFXWFhDSGtzcVp2RjV2UFh0bmJyZzlDVlAzZFdXM05ld2xkX3YxblVyU29lS2N5cE9fR3libXduX2RoTEY3UnZzMllvdkdtTVpwUQ?oc=5"
   }
  ],
  "daily_forecast": {
