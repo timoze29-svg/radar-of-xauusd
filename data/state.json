@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792221349.612775,
+   "ts": 1792243863.0783784,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "cc3668818cc6",
-  "223d340073ee",
-  "ec69759cb6c4",
-  "83ecbfdb98de",
   "998f8e0a09ac",
   "5d1300f74b67",
   "94a0c4e0b8ae",
@@ -4066,7 +4062,11 @@
   "91f0096d95cb",
   "8d5859e5e0fc",
   "4e301a564768",
-  "2682b0d9e366"
+  "2682b0d9e366",
+  "b69ed155bf95",
+  "685a3d5cd6f1",
+  "1a5a7ab97cce",
+  "f3057ea432c5"
  ],
  "news": [
   {
@@ -4080,6 +4080,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Russia celebrates Trump's sanctions waiver while Ukraine warns it will encourage attacks",
+   "source": "WVTM Channel 13",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFQyWEZUZUUtWmN0U0ZPMjBFMFVZdmRhODlzSFhFTVhFdVhab09peVVfWFE3c1FNbjFZcDRoOGFKYkhZNGRfX1pxVjlwbkxlM1RGLTFpaEd3OGM0aHB1aVdGblhsZ0UxcWRKQ2xjelpPSUd4Y3ByUTl0U3JoVUlFVkd1ZWd6Q1ExMFppMGM1eVl5S0wxdm1tTHdqYkVQZUdLM3RQVGowdnJfcHc?oc=5",
+   "published": "2026-10-17T12:38:00+00:00",
+   "id": "f3057ea432c5",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Allègement des sanctions contre Moscou réduisant marginalement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan",
@@ -4151,6 +4163,18 @@
    "impact": -1,
    "cat": "or",
    "raison": "Baisse locale du prix de l'or reflétant la faiblesse du cours mondial.",
+   "method": "IA"
+  },
+  {
+   "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress",
+   "source": "NBC News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
+   "published": "2026-10-17T11:59:00+00:00",
+   "id": "b69ed155bf95",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Détente sur les sanctions russes, pesant très légèrement sur la valeur refuge.",
    "method": "IA"
   },
   {
@@ -6443,30 +6467,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Exclusion d'une escalade extrême en Iran, détente de la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump declines to blame Putin for Ukraine war , amid transatlantic tensions",
-   "source": "glasgowtimes.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.glasgowtimes.co.uk/news/national/26645617.trump-declines-blame-putin-ukraine-war-amid-transatlantic-tensions/",
-   "published": "2026-10-16T21:45:00+00:00",
-   "id": "8aacd7515f73",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Divergences transatlantiques diplomatiques, légère hausse de l'incertitude.",
-   "method": "IA"
-  },
-  {
-   "title": "Inflation jumps , stocks dump",
-   "source": "berkshireeagle.com",
-   "theme": "Géopolitique",
-   "link": "https://www.berkshireeagle.com/businesscolumnist/inflation-jumps-stocks-dump/5037201",
-   "published": "2026-10-16T21:45:00+00:00",
-   "id": "9b387cb1c965",
-   "impact": 4,
-   "cat": "inflation",
-   "raison": "Résurgence de l'inflation et chute des actions, arbitrage favorable à l'or.",
    "method": "IA"
   }
  ],
