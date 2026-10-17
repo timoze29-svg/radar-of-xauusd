@@ -1067,9 +1067,6 @@
   }
  },
  "seen_news": [
-  "485997391803",
-  "b51f99e8cbc3",
-  "d3bc8f0b1244",
   "510ef6693fae",
   "1a596c684d72",
   "ec1e2308bade",
@@ -4066,9 +4063,24 @@
   "0c5fb521724e",
   "cf8b3a8ceb6d",
   "7c5fbe849e66",
-  "7da5c8c751ef"
+  "7da5c8c751ef",
+  "74b6af9dc524",
+  "1b0d284398eb",
+  "5fd6c2296723"
  ],
  "news": [
+  {
+   "title": "Ukraine targets Russia’s ‘Google’ as the internet becomes a new front line",
+   "source": "CNN",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXV3R1o1d0VFWDNvMVA4VHBRdW1ZZkhWOXFYQWxBVkphSG9DbUN5YTB3ajk5R0tlVXZzQ1d2ajlhaHY0dy1HMHEyWURBcDN5QjRhR0VsWWoxcW9fM0xEcC0yWFJTbjhRTllESW1BUTFRcGtlRlUtZENLTU5zRE9qRmZQV0xSZk0tN0JuVGJGd0VUbms?oc=5",
+   "published": "2026-10-17T04:00:45+00:00",
+   "id": "1b0d284398eb",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Conflit russo-ukrainien persistant, soutien refuge marginal sans escalade systémique majeure.",
+   "method": "IA"
+  },
   {
    "title": "Market playbook: What if US CPI comes in hot but stocks refuse to fall?",
    "source": "investingLive",
@@ -4091,6 +4103,18 @@
    "impact": -1,
    "cat": "taux",
    "raison": "La perspective de rendements obligataires accrus pèse légèrement sur l'actif sans rendement.",
+   "method": "IA"
+  },
+  {
+   "title": "DOJ says 'Chinese foreign agent' charged with surveilling Taiwanese president's family - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3VEbEYyX0lFdXdTX3pGMTFxd24xM0t6cnI5Qmx0dFoxUnEzMllwYXpqRmVoTFk5SGkwX0VYcXlUMHFIMjB1bFA3WFpVVkZiYmIxNHh0a3lMRVBsNDdrWTE1ZWxxenFZaFl5cVRXMTltd05PcFFsN1hMUzJkWERtN3haczdFNUpaT0tCMW9vN1dhNVNmU3VFVHR4ODBnOTRxTEktY2hRazZtaUgyaVlZOXFSSmnSAboBQVVfeXFMUEY3dVVMMVJlZGRST0lwTV9TdnVkcEMtLVByRE9MYlE5Y0h3cmp3bDBVd09EeUxWZDJhUmk4U2lSZk80QTRJRV8wU1FrUGVmbWlVNjNrWExWRWpCYW5BU05qV25SVzJaME1NSTdEWUV1SnY0bnRWbnlxeUVkY1VNOVFDdzBkeEdrNlNTNlF3LXluOF9IdnBQVmNvbExfdU1IZGZQc0lLZHZWeGdkVjUxdllmREE1a2dRakVR?oc=5",
+   "published": "2026-10-17T03:11:43+00:00",
+   "id": "5fd6c2296723",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Frictions d'espionnage américano-chinoises sur Taïwan, légère prime de risque géopolitique.",
    "method": "IA"
   },
   {
@@ -6443,30 +6467,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Reprise des frappes contre les raffineries russes ravivant les tensions sur l'énergie.",
-   "method": "IA"
-  },
-  {
-   "title": "'We'll knock it out fast': Trump threatens Iran's Pickaxe Mountain nuclear site with strikes",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZVIxb0ZXZDAyQlhDU1VaWEtRN0t1RW1xMXBNYWFPLS03bW05TFdOTlItSWk5dEhrMzlSNGZNUzlieEtzUjVoYzVoNkdsZXdjQjNFRXh2Sk41eEpmYU1MT1ZCS19uWTE3SHc?oc=5",
-   "published": "2026-10-16T05:59:33+00:00",
-   "id": "c0a1d76ac583",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Menace militaire directe contre l'Iran, forte hausse de la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
-   "source": "Bloomberg",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU1LakZhV2xQNHBFM0lFWU9pT1JCdGMyTXY4Q01TSjZYd3dNbWZ4Rk50ME1UQnUzVkgta3U0RFpFY0VNZGNaeXZfV25jZm9lMjBDdjVONUhlMmJKLTNwT2xwM1I0Mkl5N2N2c25IQWZwbWtORDRYbUJMMC1hZXhWbzllSFZ2bDJzNThDSFRYYmVyYXJnSVc4V0QzVjFMWHBQWVc4NTlRb1E0WEJsYVl1OV9yZEFBQQ?oc=5",
-   "published": "2026-10-16T05:49:57+00:00",
-   "id": "1d49e806e6bf",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Tensions technologiques accrues USA-Chine, léger soutien refuge.",
    "method": "IA"
   }
  ],
