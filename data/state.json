@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "21b375ac6537",
-  "eac4c904789e",
   "dc72127b1033",
   "37ac0905386b",
   "caddf61e0dc2",
@@ -4066,7 +4064,9 @@
   "723b7a427a76",
   "3b495a842c3e",
   "d0741bd610d0",
-  "31c5fa183c8b"
+  "31c5fa183c8b",
+  "530824bf315d",
+  "2cd3f5b8cafb"
  ],
  "news": [
   {
@@ -4076,10 +4076,10 @@
    "link": "https://www.wvtm13.com/article/masked-settlers-attack-european-diplomats-in-the-occupied-west-bank/74167944",
    "published": "2026-10-17T22:30:00+00:00",
    "id": "c25927d8d33f",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Incident diplomatique localisé, léger soutien refuge mais impact macroéconomique très marginal.",
+   "method": "IA"
   },
   {
    "title": "Iran attacks on Hormuz shipping  unsuccessful , Centcom says",
@@ -4088,22 +4088,10 @@
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-attacks-hormuz-shipping-unsuccessful-centcom-says-0",
    "published": "2026-10-17T21:00:00+00:00",
    "id": "1d714c69a4f5",
-   "impact": 10,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "RMG exports to Poland rise amid Russia war",
-   "source": "thedailystar.net",
-   "theme": "Géopolitique",
-   "link": "https://www.thedailystar.net/business/economy/news/rmg-exports-poland-rise-amid-russia-war-4301176",
-   "published": "2026-10-17T21:00:00+00:00",
-   "id": "1ba6db253df0",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Échec des attaques réduisant légèrement la prime de risque immédiate sur le détroit.",
+   "method": "IA"
   },
   {
    "title": "Masked settlers attack diplomats in West Bank : Belgium",
@@ -4112,9 +4100,33 @@
    "link": "https://www.newcastleherald.com.au/story/9370344/masked-settlers-attack-diplomats-in-west-bank-belgium/",
    "published": "2026-10-17T21:00:00+00:00",
    "id": "ab8c21fe3962",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
+   "raison": "Tension diplomatique locale en Cisjordanie sans conséquence systémique sur les marchés.",
+   "method": "IA"
+  },
+  {
+   "title": "RMG exports to Poland rise amid Russia war",
+   "source": "thedailystar.net",
+   "theme": "Géopolitique",
+   "link": "https://www.thedailystar.net/business/economy/news/rmg-exports-poland-rise-amid-russia-war-4301176",
+   "published": "2026-10-17T21:00:00+00:00",
+   "id": "1ba6db253df0",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Flux commercial textile bilatéral sans aucune incidence sur les marchés de l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump blasts MAGA influencers who have split with him over Iran",
+   "source": "ABC7 Los Angeles",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi2glBVV95cUxOZ0p3QjN6Y3dkMzQxbnY0QjhGaG9UVGxUWHFqWG1MM1JPQTBpRmEwbzRYSWY1VHN2NzBZYWxxRXJDbnJKNnJPTzUyNHNfcTNmdjd5YkNia3l4WGt6WU84SGpWS0NDUjVKbUY3VWx5dGdmc2lJSUJXV2lJOXhmNEhJd0xyMGZodWVRSDNObUluVXlsN1dzVkR3NXNLRVZZU3ZMVmI1bWVXNlNRR0ROMGtzbV9qanlENVZLVElTRE91Y2ZneXJGMlF5UkQyUndWeFozbU5DNUpKNEkyNzAtZ3lGeDUzeU5YRTVHZm1jYmJreV91NGxEQ0g5MVJkQ0t0Nklidm1oQnAxVUx0OUJIQXRvX1RSNW9XWlMxa0RxelZqcHlyM2poRU1sRzdsUkw5eHN1VEMzZG5SSW4xT2VzV2ZieXhZNUpyV01JTFZGUzdqZzhLT3NqMkE2aGloMDdlRTJJajJROWpabVVvcWNaWTNsc3VwMlZzbjF3Z3cwaFpfNE9lTmdCajBHWVllS2ZuSVo2U2ZnRkhCNi1XN1RJMVBnWmpJMzdpSGQzdnoxd2RpQkdLRy1hbnpNWlhqNkQ4b2E2Q1pKWjFkV05QQzA2SzZUbDhzWGlESXd1eFowS2l3dE9TX3N6NGlfQWtjOGtlZ2RZWkl0czlxME5IVWRxTEVscm92UWV6QS1xUV9majExYlhMQVhIX3RXWEo5Y1pXOU1ZZnBhYWx3RndUYWZhSTBBbTJ3QjM0YldiQlkzRXlBZmhPdnJobkp0SHRzblJCX2FScGJNTmdHdGV4X2tCc0U5Ti1kOU4wTHc1NS1KWU5TMXV0TFpuWF9NRDI1NU9qazVJMHBLWHl2eUNpOW1nXzBLLWtDdm9ibzJQR1pKTlpnWXBVdTJzLTFaSE5EMXVtelZ0NXNpN1pSdTExdW5tOHZ0cmk0c3ZIUmxlWjdIdHc5NzI1Y2ItQlZ2SDg3T1JzcFFLU3ptOGp1V1Vsc0VYYU9UbnQxUXhYdWsxY3FWeXF5aTFuQUp5VUU0ZzBWQjMzVXVIdjJTYS1IZThIb18tXzRxZ1Z1MEd0MXNSSE9kcklUY1laeEgzUGstdVNCS2hjZmNDa1hMYlNsT3lLVU9GMG8zcmFPV3BxRjJDOEs4NldPQzBjdW9ORmIzMVpZd0JuNUtqTWtiZnhfOHJWQXl3TzNad0h2cUlDa2RKLVNpcE1zSDBjRkZOVDB6dTJVd1V5T3dwdHgwMm10bE9TYk1PcjlIempfelMwbVRjb1pPNHo2aFE4UWVyYnc5SHI5UlV1RlZ6SkplRFktNDBPR1dNcnlNc0FDX042VzNLVUgwaWxGZUh3Mlp0REZvZDVmazNDeEY5aXVzY28zVE1ITFhFUTV4NjZJM3ByaERfamVMemdZN01aWkhnQUNMeF9EYlNDRTZBaTJabnZjOFlUOUlHRS1VQS1mbG1KY29XR0xwQ21iSzJkSXJ1dUxXX0ZPOThHNjdVNXZmRko4QnFWZmtpVGtXeGI4TDFuNGtONGdUUEZNcGhKUDdNMHdnbll2ZTdXSWhXUGI4QkNFZEZHbC1RVXVrNnNGRTFsdXUyb2dyNkhYVVdxN0QyZ0xXempxVUlzY2p6WEZGTnhUR25nRjREelZ3QlpKUU5PcWFsWVE?oc=5",
+   "published": "2026-10-17T20:27:25+00:00",
+   "id": "530824bf315d",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -4184,10 +4196,10 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV21aTUJQWE4xclNZRExrLVpPNVFmRUljaERRT2tVZi1RejdpV0U5LXRmek5ZcDA1aXBBS181SXVhNTVramFiSGhFTzllaGxkbXNkbWJ6VVJ0VzZ6TW8zclFuWk51NUdHMVBYVUVZZ3FFSXlYeGR5VktrdHg2d1l4d3lnSm1DWEtBVjBwbWp2WTdxSFNZR1gwM2NGa0ZiblU?oc=5",
    "published": "2026-10-17T19:17:33+00:00",
    "id": "0750cd0c0f85",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Allègement potentiel des tensions avec Moscou, réduisant modérément la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Trump decision to waive Russian sanctions outrages Congress , but no quick counter seen",
@@ -4244,10 +4256,10 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGVuZmI2Sjh5TjRhZXdKdk4xOGNyNV9oQ3lfQ0ttWmtfbFJWUnRaQUVld2JwTzNNSzI4dksxcXZ1VUVlMUpNT09ibTVLUm1kanhicWZJbzh2cEdGMFhTbU0tdk5zVGRBcFJJUUtqNHA3NmNrYmgxUE1Va0ZmaHRlMnVyYjNyaDhWWHJxRzAybFpBVk00ODlLODBiM0ZHWlVBSHhBbFNmY9IBrAFBVV95cUxNS0ZKYVVBS0R5Z1RsZGtFaDFocGNIS1pwSTRhYTRqb2pMRnZLZnhOelZRVmo1clJuZzFpZlI2YnVwMHQyMnphY21wc0dDR1NCVVRXUjQxbUJiNlNJSV8wRW1Gc3dwQ1cya19NY0xyX2VJakJ5dFBJWDAycmx3YV9FNGV0WHNFSDEwSng5cGhYbzNudTFYVVo3aW9QYXhMajI4dkE2eDhUT1Rjb2cw?oc=5",
    "published": "2026-10-17T18:40:36+00:00",
    "id": "abc224acad9d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Phénomène météo régional sans impact direct sur les cours de l'or.",
+   "method": "IA"
   },
   {
    "title": "Israel destroys building in Beirut amid escalating Hezbollah conflict - ABC News",
@@ -4256,10 +4268,10 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2N5cnRramRNd0h1aXo2UmZSaWFLMG9oZkRDT0Z6ZjdMd2JUMFdQNTVERS1vX2xEWXM0eUVaRTFqb3RCQ1lsamtzbElQYUVPRXJhZ3J4bWxMWmVQVWVIS21LOHNDVnhLWjZsbmdKemlXOWZDV1VhYjhodElJdzA4TVpVNy1Sb2VyaWxCcDJFcnh5aFpIZUI1OVJtTFZzRTBqdWRLV3d4LVgzRlVCRTFjd0g4dV85QdIBuwFBVV95cUxNTGlDa1FJLTNVanpqLU5pSXRIR295dk1XV3FDbnIwb0Z5QTl3WDE0X1d2dDh1dmlHeHRETUdvWkpoQ1NwUHgyUWtEakg1bzlsQmNMamx4VzNiRjlxYk1PbnR2LXhmRWlvRURXdE9sQ2k1bDR6cUFzOEJ2X3hrWGJuaFhNcGxIbTE1bHlpd3puNnJBMnRERVQyQ2xGdGZDc2NyMFFVOUNacVpINUlXa3VuY3JDZG9JeG5FX2xr?oc=5",
    "published": "2026-10-17T18:40:02+00:00",
    "id": "d2d99759403a",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite de l'escalade militaire régionale soutenant la demande d'or comme valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Department of Homeland Security warns of potential attacks amid Iran operation - ABC News",
@@ -4268,10 +4280,10 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU12eXQ5aUJqT0J6NVNvYzhIOU10QVo1TzRkeThUeW52a3FnMU1uM0M4S1hmczJqUmNFa0tKTkdxalN0eHhvUnFVV0N1Q3NBVGpGS21Qb29tbFljbG9ReFhIS3JGQWU2SDd3TnFsRTdrSmdHcktOblZVLVJSYzFlMzBxSzVwTkdCXzNtbUZqM3RvUFpseFg3YkNZYTlOVWZLemJGY281d9IBrAFBVV95cUxQYWlmZkRpU2ViVExUZDdObUJhQUNFZWdJRXkyWUdzNTJaY0Q5anVjclhEbVRrN3hFN244XzFjUHFQOVctNWVpakk2UFFFR2NpaXFuY1BvNGRYV2V0TV96V3ZfOGN2cHFFQmk2emJmZFpMbFd3cElMRWJneUVkN1BnUTNIY2Y2Skh6VU55Rl8ydzFQZy1CcUMzdVlDOGR4YzU5N0JuVl9icWE3UFkz?oc=5",
    "published": "2026-10-17T18:33:04+00:00",
    "id": "ff187a181b84",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Alerte sécuritaire aux États-Unis stimulant l'aversion au risque sur les marchés mondiaux.",
+   "method": "IA"
   },
   {
    "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
@@ -4376,10 +4388,10 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjQxWmNvcnlhTmt3ZWV1d3h3cl81U2xNR3ByaUZ2dFhPLTNoUnZ2Z2VhYjdVREFNa1E5V0QyekxxR1lkNHJtV19mN3o1dmM2MGNva1hEZ0ZVTlFqdjJuc0dBeDc1b0JEM0NDR0FBQ1JLWDdYLTZ5UXpRR1VSX1J4dzY2RVh0akw5UkY4Y2xR0gGOAUFVX3lxTE05MWE0X0V2UDdvZFF0NmMxWnBpN3hPLWV3SnBRZVI5alg4NXBrcVJwa3pSdGRzT2lGVzV3QWZraVEzNWpvelphOFBxT2F1Q3VYcHJyUDFERExndzZfWkRFNXplT1ZWNklJQk1GTkhkUUNNbTQ1bk0xd3NVM09WYXh2b1p0dXpLMlhzaW1sd2c?oc=5",
    "published": "2026-10-17T17:44:24+00:00",
    "id": "d18b53ab0cf5",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Sanction culturelle anecdotique sans aucun effet macroéconomique ou financier.",
+   "method": "IA"
   },
   {
    "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy - ABC News",
@@ -4424,10 +4436,10 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
    "published": "2026-10-17T16:42:15+00:00",
    "id": "97a6adfca6f0",
-   "impact": 5,
+   "impact": 2,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Tensions commerciales accrues renforçant l'incertitude économique globale et l'intérêt pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Saudi, Jordanian foreign ministers call for closer coordination amid regional escalation",
@@ -4814,40 +4826,16 @@
    "method": "IA"
   },
   {
-   "title": "President Donald Trump Claims Gasoline Prices Will  Drop Like a Rock  When the Iran War Ends , but He Completely Missed the Bigger Picture",
-   "source": "fool.com",
-   "theme": "Géopolitique",
-   "link": "https://www.fool.com/investing/2026/10/17/donald-trump-claims-gas-prices-drop-like-a-rock-when-iran-war-ends-completely-miss-bigger-picture/",
-   "published": "2026-10-17T14:45:00+00:00",
-   "id": "b524d772fa3a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Zelenskyy urges support for new US sanctions on Russia",
-   "source": "ketv.com",
-   "theme": "Géopolitique",
-   "link": "https://www.ketv.com/article/zelenskyy-support-new-us-sanctions-russia-trump-hold/74166472",
-   "published": "2026-10-17T14:45:00+00:00",
-   "id": "f51c6ffc113a",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "Trump waives key Russia - related sanctions , tariffs before they take effect under new law",
    "source": "geo.tv",
    "theme": "Géopolitique",
    "link": "https://www.geo.tv/latest/686991-trump-waives-key-russia-related-sanctions-tariffs-before-they-take-effect-under-new-law",
    "published": "2026-10-17T14:45:00+00:00",
    "id": "5c2abade7cc1",
-   "impact": 10,
-   "cat": "commerce",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Suspension de sanctions signalant une désescalade potentielle avec la Russie, limitant l'or.",
+   "method": "IA"
   },
   {
    "title": "Iran says oil tankers struck by mines in Strait of Hormuz",
@@ -4856,10 +4844,34 @@
    "link": "https://www.jpost.com/middle-east/article-911972",
    "published": "2026-10-17T14:45:00+00:00",
    "id": "795ebc3861f9",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Attaque directe sur le transport pétrolier déclenchant une vive poussée d'aversion au risque.",
+   "method": "IA"
+  },
+  {
+   "title": "President Donald Trump Claims Gasoline Prices Will  Drop Like a Rock  When the Iran War Ends , but He Completely Missed the Bigger Picture",
+   "source": "fool.com",
+   "theme": "Géopolitique",
+   "link": "https://www.fool.com/investing/2026/10/17/donald-trump-claims-gas-prices-drop-like-a-rock-when-iran-war-ends-completely-miss-bigger-picture/",
+   "published": "2026-10-17T14:45:00+00:00",
+   "id": "b524d772fa3a",
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Déclaration politique spéculative sans effet tangible sur l'inflation ou les taux réels.",
+   "method": "IA"
+  },
+  {
+   "title": "Zelenskyy urges support for new US sanctions on Russia",
+   "source": "ketv.com",
+   "theme": "Géopolitique",
+   "link": "https://www.ketv.com/article/zelenskyy-support-new-us-sanctions-russia-trump-hold/74166472",
+   "published": "2026-10-17T14:45:00+00:00",
+   "id": "f51c6ffc113a",
+   "impact": 0,
+   "cat": "géopolitique",
+   "raison": "Appel diplomatique récurrent déjà largement anticipé et intégré par les investisseurs.",
+   "method": "IA"
   },
   {
    "title": "Zelenskiy backs sanctions on Russia after Trump pause",
@@ -4868,10 +4880,10 @@
    "link": "https://www.northerndailyleader.com.au/story/9370329/zelenskiy-backs-sanctions-on-russia-after-trump-pause/",
    "published": "2026-10-17T14:45:00+00:00",
    "id": "e21bf8abce55",
-   "impact": -4,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "raison": "Posture politique attendue sans conséquence mesurable sur la prime de risque globale.",
+   "method": "IA"
   },
   {
    "title": "Egypt’s FM calls for regional co-operation, end to ME escalation",
@@ -4880,22 +4892,10 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEliX3hVVTFSZld0RnQtYW9NNU9VWURBWnBXay1fcHZRS1NwSHMwd0RFTV9FeWpMdUVuSWJOUlJXUWdOZW1qb3FGZ2lrYmc2aHJxOERpOUhUMUF6c3pXSmpKQjFiR2d3UXJfZmNOVEFTaEdDQk9FUy1YVWRWbDZlejhkaHAyWmJLYlRPRXg5ZGh3V3FnZ0JYT1YzcXVqZmM?oc=5",
    "published": "2026-10-17T14:35:45+00:00",
    "id": "2a681f49a82b",
-   "impact": 6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Zelenskyy urges support for new U.S. sanctions on Russia after Trump puts them on hold",
-   "source": "Spectrum News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFF1aWtZN0MyOHYtd0o3NzNIMzdTOUhkNGw3Y3QxRURfbHV3VTdxSkpfbU5XejR6QzFDZUhfQlhsWFNxUUgySWxFVmYyay1qZU1UdVlIY3FXd0stX3NqdmwzODFkMExCUVlnQXVTdkJuUE50dGc0S2MtVUFSbzZCZWpoT1RBa0x3S2pFNmNmb1NIYWpJaC1EVV9hRHFwNk5OTmhEejQ3UQ?oc=5",
-   "published": "2026-10-17T14:12:00+00:00",
-   "id": "9d0d5cee1459",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Appel à l'apaisement régional atténuant très marginalement la prime géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump puts new U.S. sanctions on Russia on hold",
@@ -4904,10 +4904,22 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFF1aWtZN0MyOHYtd0o3NzNIMzdTOUhkNGw3Y3QxRURfbHV3VTdxSkpfbU5XejR6QzFDZUhfQlhsWFNxUUgySWxFVmYyay1qZU1UdVlIY3FXd0stX3NqdmwzODFkMExCUVlnQXVTdkJuUE50dGc0S2MtVUFSbzZCZWpoT1RBa0x3S2pFNmNmb1NIYWpJaC1EVV9hRHFwNk5OTmhEejQ3UQ?oc=5",
    "published": "2026-10-17T14:12:00+00:00",
    "id": "1b23d7f3fb1b",
-   "impact": 5,
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Pause sur les sanctions perçue comme un geste de détente géopolitique modéré.",
+   "method": "IA"
+  },
+  {
+   "title": "Zelenskyy urges support for new U.S. sanctions on Russia after Trump puts them on hold",
+   "source": "Spectrum News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFF1aWtZN0MyOHYtd0o3NzNIMzdTOUhkNGw3Y3QxRURfbHV3VTdxSkpfbU5XejR6QzFDZUhfQlhsWFNxUUgySWxFVmYyay1qZU1UdVlIY3FXd0stX3NqdmwzODFkMExCUVlnQXVTdkJuUE50dGc0S2MtVUFSbzZCZWpoT1RBa0x3S2pFNmNmb1NIYWpJaC1EVV9hRHFwNk5OTmhEejQ3UQ?oc=5",
+   "published": "2026-10-17T14:12:00+00:00",
+   "id": "9d0d5cee1459",
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Déclaration diplomatique sans répercussion concrète immédiate sur l'offre et la demande.",
+   "method": "IA"
   },
   {
    "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
@@ -4928,10 +4940,10 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5",
    "published": "2026-10-17T13:28:00+00:00",
    "id": "82e80769b862",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Commentaire politique critique sans impact sur les flux institutionnels de l'or.",
+   "method": "IA"
   },
   {
    "title": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones",
@@ -4952,10 +4964,10 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
    "published": "2026-10-17T12:56:01+00:00",
    "id": "b0a97014fda3",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Couverture d'une guerre active maintenant une prime d'incertitude sur les métaux précieux.",
+   "method": "IA"
   },
   {
    "title": "Trump rejects nuclear strike while threatening Iran’s underground nuclear site",
@@ -5108,10 +5120,10 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SU5JQ0tWdTdvMHZvcWpUNEVQQm9zRmp4djZiTHRJeHRKS3VZUTU4cldtc0RFWkk0aHdPX2h0enV4ZHBYeG5PamdQVjRBUGZEVHdHV0lFMHpPQQ?oc=5",
    "published": "2026-10-17T11:32:21+00:00",
    "id": "3b996d55038f",
-   "impact": -8,
+   "impact": -5,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Perspective de hausse des taux Fed renforçant les taux réels, très baissier pour l'or.",
+   "method": "IA"
   },
   {
    "title": "House Republicans vote to rescind Trump's Canada tariffs in rebuke - ABC News",
@@ -5158,8 +5170,8 @@
    "id": "d9fd23395c14",
    "impact": -6,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Cessez-le-feu avec l'Iran dégonflant brutalement la prime de risque géopolitique sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Iran insists end to war on all fronts key for regional peace : Dy FM Khatibzadeh",
@@ -5420,10 +5432,10 @@
    "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNbmV3NUszMktrNlZfU3daa2FPc1hieFBvSVFnZW1JaU5TeUZ3OEhmanRnNk5YY3FQd3FMUTJDekhjSUFteHZ2QS11aDhHMTMxUWxHOUpNY0M3aVlTWEt1MTZ6OWRsbjRFSzQ3WmktemYxUW9MNWZsQkdabmxtZmo1V25FV1YzR2xaZXUzbFQtNl9nWC01NEpNUE9qSnZiX2V2a2F6R3hhTEpPZ2FDenJwY0pta21SSFFCMHlzRU92dGE4YmU1RVNFbEtLVDNDTUhXLVV6M1M4LVFpeW9lUHIta20wQXVQLXNnSUhDM2Vra1NCR1JrOVhLV1hNa2dGZTBTNlVOMHFhekdiZHhOZTZDRGZUaEd5WDFPbUl1c1VZRG5wZlFsVmQ1dEpacmNiM0QzWkI1RzNqMVZsaFNOQ3hLSTU5MGNoR0V1VGJR0gHQAkFVX3lxTFA4ZVBxdmQ4UUNYS25MNlRiQVBTVnhTNEVLY0piVEFHMHpFRVBhejl1RWphU09LaTMycmxhWlB1cHA5bHdCbHE0d0R3dWd5SzIwZzA5NEN1ZjlRT2hYdGtIY2xEZTUwZDRoNHY0Uk9DaEJ4MjRLSGVqYVhiMjFiUzB4dVhkTTFWM1ZIOWNfT2pxeWEza0dMYlVwYUF3cDQ1eGx0M3BhNm4tVWJ4QkFGWWM1bmdyXzZtYURPMUFCaFlOM0NZSVV2R0ZoN1g0WWJtWVRXRlgzRURvRzZhT2dUZGFNUVdKNEpqYlBVQ3VmN2tSLWlTRGw0LTk1SzZHTTZ6SnJiekJ1Tnp0VFd4bENCbXVITlhhOU1tcXFuWko4QldKVVNYbGllU0xhMThqd01LSlI3dS02SU5vd2xLdi1zcmMtU2NYV0FYanJwTlRwSGtkcw?oc=5",
    "published": "2026-10-17T10:17:56+00:00",
    "id": "0d861e0b9c2f",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Instabilité prolongée au Moyen-Orient entretenant modestement l'aversion au risque.",
+   "method": "IA"
   },
   {
    "title": "We might not be in World War 3 yet - but conflict is escalating across continents , writes Matt Frei",
@@ -5612,10 +5624,10 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3Qm9HMmxxWGVBc0M2ZW5aOF9RUC0yUEl5V3Z5RTFHTWVCdXNVM1d5SVRESENhNXpKSk94SksxNGFIVDFQZ2d1T1BOQTJLUDlhd0E4?oc=5",
    "published": "2026-10-17T09:35:53+00:00",
    "id": "4ced1a4b51bb",
-   "impact": 6,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Opinion alarmiste isolée n'influençant pas les marchés financiers institutionnels.",
+   "method": "IA"
   },
   {
    "title": "Shafaq News..Gold prices climb across Baghdad, Erbil",
@@ -6236,10 +6248,10 @@
    "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQMjlaUTh4RngxeXJxVXl4Q3JCQWRoeVNsRnZ2M1FqNEFwZUxxN3NpR3FVUzIxU2YtWjNZcXFibmtjNUVINU00aktDTU1Nd2FZSTA4MS0wYjVOSWNuTW9nTm1uUWFYSDg1SFBneFBkanlsUDhpUFNtNTc3LTZfRUNJZXNfeUNJQ01HX3Y1RG05TE5Sc3oyUjFIaEdjcXlYQzR3blhxTUJRU1V2V0U2emU3SmRkUkR4QTBQVVQ5dDJsVzNuOUdnaWY1TU0wdzZzZm41ZjZfMm80ZjN4dTdVUFhCZnVyWUN2Y3FZVXRMMnpYZWFFMXl2RmNvUEhkNEVBV3E0Z0lKZmgxb09ucDFWR3VlbEVFU3ZhN3dfTU1iTVV4dXYwaGtSTXZxWnhBVERRRXBuTjlsdlNIMldKekVJQ0w00gHEAkFVX3lxTE95TTJYTFlTbUxUbHFrWFdMNkNJUGRmLUN0SEdqRFJjZWZ5UjJickktYmw4NENKZHZ3eWt1UFM5OGdqRmpaQy1fUlJ1TTlNMzVTaHdCcHl2cXBaU3NDNnY1amtCWEx1QVF5T0l1Sjk2STgyTWE0Ym5jNUFmcWpWQ0VwTGJBZ3FMQTNrUEl0Sy1DanJnV01hQlF1TU9uSTRSMi1xbVplQlIxTGFDMF9meWdtNEFhUE9ZR2lFYWJzOUs0WThlRWtBQlgyUzlGcjlKZER6TzdlOXI4NWFiM2RqY0VMZlVYdEY3SHBpdHNULXVrdThWUDlGVmo3Uk42dnFpQ1N4Y1hSVWFtaWVfdU1EM3dadEdTdTZReDFnWTY2SmUxMzBGaVZhaXJfY0I3bnJRUGlzZWdnZ2FEWjBtWkQwN0xoT2R1Zg?oc=5",
    "published": "2026-10-17T07:04:12+00:00",
    "id": "9596570a2b6e",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 4,
+   "cat": "inflation",
+   "raison": "Flambée du pétrole à 110$ ravivant le risque stagflationniste favorable à l'or.",
+   "method": "IA"
   },
   {
    "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength - ABC News",
@@ -6252,18 +6264,6 @@
    "cat": "géopolitique",
    "raison": "Tensions régionales renouvelées au Moyen-Orient apportant un soutien modeste comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump’s Ice Maiden Tied to ‘Sanctioned Hit’ on Katie Zacharia",
-   "source": "The Daily Beast",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkRtenIwVHVwa1FpeGx5aURudEVsNWdNaEFEdnZxTGloMUFudGd2a1RCcVprdmJvWGVrVU91cTdXRGFGbVl6ekFwX08td0N5Ql91Ul8wVzNGcUlsaTZoUHhDM3BUZERaU3dzamNMeWhtTnN1MFFGWm5nYlhMVHJsajZXeU82Tk9fM1JXRlBVUFcwaUZUTHRmSVYwOUpJRThnRXc?oc=5",
-   "published": "2026-10-17T06:40:58+00:00",
-   "id": "fda3d5beedb5",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   },
   {
    "title": "Taiwan accuses China of trying to influence elections through sanctions",
@@ -6320,10 +6320,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGhWanJQQmg3UlEwNlI3MDRGLWRxV2NyQ0dyOXRScjhQYllENXdEZWVjM2xwYjdlR2pqNGh2b1VVZ2FLbXA2d24tZjRBWUtFd0pqYi1XUndMWWVTSkFnNkdfV25zZzJnY01kcVZ2UUR5RDd4eDNfYk5sdE9sQllPTGQxRWpJU1NrbnppeW1xVWF6cUd5UUtNbGhmQmdkYldJU0J2dzBickprdTDSAbABQVVfeXFMTkFwd09KUmJOQjVPYzl3V2M2Z0dKQUt1N29nbDBockdxMzdtMWNjQkFiRkMxT1Nta0kydzgyN2R3VVo1Rm1MOE55WVo0Q01JT1lfVktNcFFpVUwzeGkwV2taZDlSclRVdGtvU3RkRDliNVhfRk1lTjQ0ajJHSkpwNFhqUV9tSUxwRmJOeWo4ME9ndHYxZVZ2dW5xd2RJWm53S21tTDhuZE5mWVRTQVIwSTU?oc=5",
    "published": "2026-10-17T06:16:20+00:00",
    "id": "96fe8fa9b832",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Exemption confirmée de sanctions russes perçue comme un signe d'apaisement international.",
+   "method": "IA"
   },
   {
    "title": "Ethereum trims losses as geopolitical fears ease and traders turn their focus to US CPI report",
