@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "c39c3f6bc2eb",
-  "7fb353bfc778",
   "8ffa6355b0d5",
   "e5a25c02fd30",
   "9bcbe4d29cbb",
@@ -4066,9 +4064,23 @@
   "14aaa4706811",
   "8c9e03883158",
   "5788c5dccd5a",
-  "93188e8a4455"
+  "93188e8a4455",
+  "8bb1656a5a88",
+  "acdad298aa44"
  ],
  "news": [
+  {
+   "title": "Gold Price Slides on Hotter US Inflation, Schiff Calls Dip a Gift",
+   "source": "KuCoin",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEJoc0lhSzZiM1FaREs0QXJxWFY4X2tocmhYS0xGUXNiUnFwbXpKYWtWSlJOd3ZZLVg5ekx0YWR4anJ0WXVBWlhxTm9QdnlKZFFIczlpVmZXenoyWDZkZ1JkUkkyblA2QXZvQmZkX0tiMkpRR0YyMVhaVXRfbldFaV9nX3NvYTFYTHBaVmJzcmlKdWhyWENyeXp3N0JNWjg?oc=5",
+   "published": "2026-10-17T11:54:11+00:00",
+   "id": "8bb1656a5a88",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold leads in central-bank reserves while Bitco...",
    "source": "Pluang",
@@ -4082,28 +4094,16 @@
    "method": "IA"
   },
   {
-   "title": "September 2026 Monthly analysis of Russian fossil fuel exports and sanctions | Peak Oil News and Message Boards",
-   "source": "peakoil.com",
-   "theme": "Géopolitique",
-   "link": "https://peakoil.com/publicpolicy/september-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions",
-   "published": "2026-10-17T11:00:00+00:00",
-   "id": "7746a70f9e1d",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "Iran insists end to war on all fronts key for regional peace : Dy FM Khatibzadeh",
    "source": "aninews.in",
    "theme": "Géopolitique",
    "link": "https://aninews.in/news/world/middle-east/iran-insists-end-to-war-on-all-fronts-key-for-regional-peace-dy-fm160-khatibzadeh20261017154439/",
    "published": "2026-10-17T11:00:00+00:00",
    "id": "7f885ddc38ff",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rhétorique diplomatique d'apaisement pouvant marginalement tempérer la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Strait of Hormuz transits remain 70 % below pre - conflict levels : united kingdom maritime agency",
@@ -4112,10 +4112,10 @@
    "link": "https://www.middleeastmonitor.com/20261017-strait-of-hormuz-transits-remain-70-below-pre-conflict-levels-uk-maritime-agency/",
    "published": "2026-10-17T11:00:00+00:00",
    "id": "3b45b35431d5",
-   "impact": 6,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Trafic maritime bloqué alimentant les craintes d'escalade et soutenant la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Ukraine : Civilian casualty rates among  deadliest  in years , as energy attacks intensify Global Issues",
