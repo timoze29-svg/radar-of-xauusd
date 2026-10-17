@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1792233062.4266331,
+   "ts": 1792277146.8204587,
    "data": {
     "date": "2026-10-13",
     "net": 207879,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792272661.5259953,
+   "ts": 1792277146.9357028,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "4647870ede48",
-  "c56e0e027f1d",
-  "add1d1ebabf9",
-  "c05baa571a90",
   "336792a40702",
   "a1389585a986",
   "58624fa6c4e4",
@@ -4066,7 +4062,11 @@
   "e23453737118",
   "d90abcaf4715",
   "6ee8c690b088",
-  "7b16b434c2f6"
+  "7b16b434c2f6",
+  "e332234c9ddf",
+  "ff187a181b84",
+  "f610f3617894",
+  "d18b53ab0cf5"
  ],
  "news": [
   {
@@ -4250,6 +4250,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Department of Homeland Security warns of potential attacks amid Iran operation - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU12eXQ5aUJqT0J6NVNvYzhIOU10QVo1TzRkeThUeW52a3FnMU1uM0M4S1hmczJqUmNFa0tKTkdxalN0eHhvUnFVV0N1Q3NBVGpGS21Qb29tbFljbG9ReFhIS3JGQWU2SDd3TnFsRTdrSmdHcktOblZVLVJSYzFlMzBxSzVwTkdCXzNtbUZqM3RvUFpseFg3YkNZYTlOVWZLemJGY281d9IBrAFBVV95cUxQYWlmZkRpU2ViVExUZDdObUJhQUNFZWdJRXkyWUdzNTJaY0Q5anVjclhEbVRrN3hFN244XzFjUHFQOVctNWVpakk2UFFFR2NpaXFuY1BvNGRYV2V0TV96V3ZfOGN2cHFFQmk2emJmZFpMbFd3cElMRWJneUVkN1BnUTNIY2Y2Skh6VU55Rl8ydzFQZy1CcUMzdVlDOGR4YzU5N0JuVl9icWE3UFkz?oc=5",
+   "published": "2026-10-17T18:33:04+00:00",
+   "id": "ff187a181b84",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
    "source": "AP News",
    "theme": "Russie/Ukraine",
@@ -4344,6 +4356,18 @@
    "cat": "inflation",
    "raison": "Hausse des prix de détail liée à la guerre alimentant les anticipations d'inflation.",
    "method": "IA"
+  },
+  {
+   "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+   "source": "dw.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjQxWmNvcnlhTmt3ZWV1d3h3cl81U2xNR3ByaUZ2dFhPLTNoUnZ2Z2VhYjdVREFNa1E5V0QyekxxR1lkNHJtV19mN3o1dmM2MGNva1hEZ0ZVTlFqdjJuc0dBeDc1b0JEM0NDR0FBQ1JLWDdYLTZ5UXpRR1VSX1J4dzY2RVh0akw5UkY4Y2xR0gGOAUFVX3lxTE05MWE0X0V2UDdvZFF0NmMxWnBpN3hPLWV3SnBRZVI5alg4NXBrcVJwa3pSdGRzT2lGVzV3QWZraVEzNWpvelphOFBxT2F1Q3VYcHJyUDFERExndzZfWkRFNXplT1ZWNklJQk1GTkhkUUNNbTQ1bk0xd3NVM09WYXh2b1p0dXpLMlhzaW1sd2c?oc=5",
+   "published": "2026-10-17T17:44:24+00:00",
+   "id": "d18b53ab0cf5",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy - ABC News",
@@ -6443,30 +6467,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Conflit russo-ukrainien persistant, soutien refuge marginal sans escalade systémique majeure.",
-   "method": "IA"
-  },
-  {
-   "title": "Market playbook: What if US CPI comes in hot but stocks refuse to fall?",
-   "source": "investingLive",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkctWnIyNGtmRm9vUTVnd3llRDk2T0w4TUw5cS0xamllbGU3R2RFR3gycC0ydWI3WnprZndzVy1WTGkzbGQ5MFQyQTlEdkRKUWxFV2cwVURhalBwWGlpVXUxSkh0ZWRoYjktRXpXXzR1UzFPa3JkQ29JTEhubmViUjBacEo4NlNZSmZyanZsS0l2c0w2MzNoaW42X08zcFdUNjBrcEEtbnFadw?oc=5",
-   "published": "2026-10-17T03:54:27+00:00",
-   "id": "d36a575afdea",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Anticipation d'un IPC fort susceptible de soutenir les taux réels et le dollar.",
-   "method": "IA"
-  },
-  {
-   "title": "3 Financial Stocks Linked To Higher Treasury Yields And Fixed Income Demand",
-   "source": "Simply Wall Street",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaHRKcnZpWHdIXzFDQkZMekZPaFJ5bmFwc1I0c0ZQVVF3TFJ1VzFUc3Z2STBDQkw3NWFvd1BISTF5X0hteWFGbmxoQno4S1lBMXZQT2FSYkRTZklrTExieXNUU2p0QS1BTmtNYkdtR2kxWGNwMGVHWnVvSTgxQzZtS080ZmhhTWo5R1FmQi1xMFR6bFFRbWJlSE81T0ZhdDQwbVhOZlBEbG13QkZBbnB3X3hiM21sQlZCcDM3YXBtV0hfN194TC1aZTV4ekFFMW1Cbk9Md0d3OFFPd9IB3wFBVV95cUxOU1BGdldsNnlMU3B3ZjZRX3c2cF9wLVlsMjVXc1hHRENWWDBOalBLaGtDYTVWeHBXYzVXQXo5N29jeFVMMng5N0UxVFAzUFJDODRRZTg4NlQ0MmZxM3RxcUtnWHdSTGhhRWJadFFrbFNReFJJT3RCMVVHcmprTW1UNWhHX1NvNWp1NmVlR2hUb2R0WWwyWWRVd2RGQXc0OGY4anlNbmlPM2lSWk5zdFdPdk5ZYW0yZkVyTzd6UGhzeEw0NnFmbHZWLUliNUd0cGprejhxSFVqdzJ2d3Q5ellZ?oc=5",
-   "published": "2026-10-17T03:48:16+00:00",
-   "id": "706beae1057c",
-   "impact": -1,
-   "cat": "taux",
-   "raison": "La perspective de rendements obligataires accrus pèse légèrement sur l'actif sans rendement.",
    "method": "IA"
   }
  ],
