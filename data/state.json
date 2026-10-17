@@ -1067,7 +1067,6 @@
   }
  },
  "seen_news": [
-  "2360c18e508c",
   "849d194e5287",
   "9995d247b74b",
   "01fa00fd275d",
@@ -4066,7 +4065,8 @@
   "aa9c3c2ef91b",
   "8b76eb309205",
   "a380a517eb26",
-  "ee0a86f21f34"
+  "ee0a86f21f34",
+  "e9fafb2c5c78"
  ],
  "news": [
   {
@@ -4076,10 +4076,10 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUtFd2piaC1fWmlxbEtNLTlyRDk4NmNmb1NRbGUyd2M1WDhVVmNIaGN6M2dLQUpKTDhsS05DOTV6WjVVWmRLM0JLSlN6ZDU3U2J6MC1GTHM0THRTbUhNMHRKMXI1NGlhUUdTZ1QxSWpKdVp4V0cyeWZwaVhzcU5BWTZkZEZJZ2ZRdGY2bWcteEExaTJhMFE?oc=5",
    "published": "2026-10-17T06:30:00+00:00",
    "id": "aa9c3c2ef91b",
-   "impact": 10,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
+   "raison": "Allègement des sanctions russes réduisant la prime de risque géopolitique, effet légèrement baissier.",
+   "method": "IA"
   },
   {
    "title": "China cuts US Treasury holdings to 18-year low in August as debt fears mount",
@@ -4127,6 +4127,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "Pressions inflationnistes douanières soutenant modestement la couverture sur l'or face aux incertitudes.",
+   "method": "IA"
+  },
+  {
+   "title": "Federal debt tops $40 trillion. Here's what it means for your wallet - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
+   "published": "2026-10-17T04:39:59+00:00",
+   "id": "e9fafb2c5c78",
+   "impact": 1,
+   "cat": "politique US",
+   "raison": "Seuil symbolique soutenant la thèse de dépréciation monétaire, mais impact immédiat très limité.",
    "method": "IA"
   },
   {
@@ -6455,18 +6467,6 @@
    "impact": 3,
    "cat": "banques centrales",
    "raison": "Banque du Japon plus restrictive pesant sur le dollar, ce qui soutient directement l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "US Dollar Index Price Forecast: Remains below 102.00, ascending channel bottom | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb2ZZTHZPbURZVWhhRmh0b2VPNGFqZ0hGVU93TzVjTFhSLVdLNDdIRURiNEMzWmxKeHN0MjhEUy1SVTJOb01TYks0bnVUM1VsMWVn?oc=5",
-   "published": "2026-10-16T07:03:51+00:00",
-   "id": "cfb0eb4047b0",
-   "impact": 2,
-   "cat": "dollar",
-   "raison": "La faiblesse technique du dollar sous 102 soutient mécaniquement le cours de l'or.",
    "method": "IA"
   }
  ],
