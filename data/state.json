@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792265456.9673073,
+   "ts": 1792269060.585257,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,8 +1067,6 @@
   }
  },
  "seen_news": [
-  "7ba85bedb515",
-  "55b0a6d6c011",
   "049416c29d02",
   "d61723884d4f",
   "dbd743245740",
@@ -4066,7 +4064,9 @@
   "d48ddcf5c5c8",
   "7a8698acba67",
   "b953ddda199f",
-  "1fca12167f2f"
+  "1fca12167f2f",
+  "d7c64944cf73",
+  "00ca2fd1152c"
  ],
  "news": [
   {
@@ -4236,6 +4236,18 @@
    "cat": "inflation",
    "raison": "Hausse des prix de détail liée à la guerre alimentant les anticipations d'inflation.",
    "method": "IA"
+  },
+  {
+   "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaExZUlBtbDZ3YXN2cGZ0Z0RMRVcxT3hlaG8xMnRiSm16d0pSdnBHUzJzSHB1YVVFUXNSMUFGTXZHRE4yb3JyTHczam54WFAxQjRLSjcwTlBuY0pKUGVTbGtjdE5PWVlSdXVFZ1FtUlBLXy1DZUhYRVhEOEZnTHJZTWZQb2J0ejZ3bG9DU0g0cnYyVU9XUllQenJTVkdJc2xucG5r0gGoAUFVX3lxTE00QU9Jbml5eUQxemhUMzRMLVhWLVNGM05PNEp6eGtVaF94RmFmaTJ0WGVxdGVNR2dySDR6QXJtaVpIUFN6N3dnSDB3bkp1T3IteU5HZ1VYbFpPU0tYNVJxd25mQ0xqcVVXOF9NTmFvem14R3NLTkhsTy1pay1XZzRVUEk5eldiY3NFcU03RXVicTQxZ0l5MkFuRmtwbE54TzAxMVltaXNJRA?oc=5",
+   "published": "2026-10-17T17:37:30+00:00",
+   "id": "00ca2fd1152c",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Lapid says he doesn’t trust Netanyahu not to launch Iran strike that could disrupt elections",
@@ -4425,6 +4437,18 @@
    "published": "2026-10-17T15:35:47+00:00",
    "id": "a7fa41afa8e8",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israeli settlers attack diplomatic cars in West Bank, beat French mayor: Witnesses",
+   "source": "Al Arabiya English",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRW5iaEVnS1FjZUNpcDNkUkx5TXg2cy1hcldyNHhESG52N2hfOGFrS05UVW5RWTQtX29MTWhBLUpxeW1nTGZ3TmhFWElMVkpUYTgwVEFaSTdMZG1mOHZSRVZIOWY0ZHRpd0NvRzhuOGxLMUxaaUNKcXFPaGZkNE1xNU1LTXVfLXg4bUd6akZBT0p6cTFiT2NWYWYyX3lYbHBNWXgwcmw1blROV0ZKdnNTUmRndkpHVXBxeUliSUJGRlkzbUZ6ZndXNU9oMVhTa1I5NHRHZ9IB2gFBVV95cUxPT2sxQkNLX1lzVTBjOTNqTVdHSURZdFJ4WWRteVFvRUFjeWdSTzJOcDY0bFZoZFZoX3UwM29EVzJhREFDMHZQUlJsV19RUmV3NkFiVGNpenBnRGZpY05vZVlsLVU3UUxvc0l6TnRVOFJOOVpaZWtReFd6b2JMNnlkWUR1Z1ZQTzIyc0dHVkpMeVV4MzFESFgybGh5QUNPX05NQkpHTGZpamlIb1ZZSlByNnRSSHFVS2s4a2VhSGJsdVpwVDFQNG5sV09YQWE2al9xdVA0TXVEZU5MUQ?oc=5",
+   "published": "2026-10-17T15:34:00+00:00",
+   "id": "d7c64944cf73",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6443,30 +6467,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Menaces militaires iraniennes dans le détroit d'Ormuz stimulant la demande défensive.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump waives many Russia - related sanctions and tariffs",
-   "source": "examiner.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.examiner.com.au/story/9370243/trump-waives-many-russia-related-sanctions-and-tariffs/",
-   "published": "2026-10-17T03:00:00+00:00",
-   "id": "097b5c63fa05",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Levée des sanctions russes diminuant le risque de guerre commerciale élargie.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump waives Russia energy tariffs and sanctions under Graham law",
-   "source": "business-standard.com",
-   "theme": "Géopolitique",
-   "link": "https://www.business-standard.com/world-news/trump-waives-russia-energy-tariffs-and-sanctions-under-graham-law-126101700093_1.html",
-   "published": "2026-10-17T03:00:00+00:00",
-   "id": "96a12fd93f77",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Exemption énergétique éliminant la perspective de pénuries brutales et calmant l'or.",
    "method": "IA"
   }
  ],
