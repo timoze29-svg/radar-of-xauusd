@@ -1067,11 +1067,6 @@
   }
  },
  "seen_news": [
-  "ed1cba688e14",
-  "7a013060b67c",
-  "6c2ff0e73fc4",
-  "8f8694f29ee2",
-  "3f73b005483e",
   "bebc0943849d",
   "0fc29637da4b",
   "39bdd1d629c5",
@@ -4066,7 +4061,12 @@
   "fb620f54798d",
   "13595d238619",
   "dc9ecae6a596",
-  "a756d3859ed8"
+  "a756d3859ed8",
+  "8559179be650",
+  "d317b03f0a8c",
+  "090a7f8159b0",
+  "6b283a03c293",
+  "c35f743353e2"
  ],
  "news": [
   {
@@ -4104,6 +4104,18 @@
    "cat": "commerce",
    "raison": "Suspension des sanctions et tarifs réduisant l'aversion au risque sur les marchés globaux.",
    "method": "IA"
+  },
+  {
+   "title": "Trump suspends sweeping Russia tariffs ahead of U.S. midterm elections",
+   "source": "Investing.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMWJ5bHBvQnROQi1Xa3duM3hJNFRrRGVxdTZtbXZzd1VzZHYzRkgzMjN1UWw2STJXcGRuQjV6VDU3UExaYWFZajdYVXhtTXJ2NEdJODRLZGhCR040dHhIeWtnWUV6Zmk2TWc3QkJHdkJBTlhpZTNVZ1VuRC1BalRsTFBtTG10aGc4SEZzMmZHLUd6RXUzRHBDcnhyWnFEaTlRNWZ6cHFhcWFETm9icjBfVERjVFFKMW9ZdVhQZA?oc=5",
+   "published": "2026-10-17T01:24:05+00:00",
+   "id": "c35f743353e2",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump waives some Moscow sanctions under Graham Russia-Iran Act",
@@ -4151,30 +4163,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Intensification des frappes russes et tensions diplomatiques soutenant l'or comme valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Houthi Strikes and India Protests : Foreign Policy Weekly International News Quiz",
-   "source": "foreignpolicy.com",
-   "theme": "Géopolitique",
-   "link": "https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-commercials-india-protests/",
-   "published": "2026-10-17T01:00:00+00:00",
-   "id": "12746b0bc649",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Quiz d'actualité hebdomadaire sans aucune incidence sur les flux de capitaux.",
-   "method": "IA"
-  },
-  {
-   "title": "GoPro said tariffs wouldn't raise prices, then HERO13 Black jumped $30 and buyers got no refund",
-   "source": "Yahoo Finance",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHB5T0Z1M3BESnczbHFyb1VHZGh1MV9TRWk4RGdwSVlxZUwwV1RMbXpzT3hYNUVfV0ZzVk9Xb1kza25sUGhqQkt4bW05U0luYVJxeHlGVnRzNG4yTUtEWWpqTFlPMnhOZnM5bjZJbjE3NnBmZmRJTDB3Y3cwdnFXdEpicmMzcW1YNU5IbWQ4MjdPYlF5NF9TZDNuU3BqUQ?oc=5",
-   "published": "2026-10-17T00:59:00+00:00",
-   "id": "9d901afa2693",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Micro-actualité d'entreprise anecdotique, aucun impact macroéconomique sur le cours de l'or.",
    "method": "IA"
   },
   {
@@ -4644,6 +4632,18 @@
    "cat": "géopolitique",
    "raison": "Fractures occidentales et besoin massif de fonds soulignant les incertitudes de guerre prolongée.",
    "method": "IA"
+  },
+  {
+   "title": "🇺🇸🇮🇷 Trump may want one final strike on Iran, but Israel could have very different plans. Brandon Weichert believes Israel is preparing a much broader campaign against Iranian infrastructure, potentially including energy and water facilities. That could make",
+   "source": "X",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SMUJXazVTMlRZOGVMOGxlMjlMcjZ0cEpqb1ZDZi02NDdmS0xxSERwTkpZeGt2WjJ1VHp3amVjQTg1NUNxSkNwLWdzNFpkSDJvSnAzTkd2TjJsMklyTnE4RWdCdk8yQzVUSHdLNg?oc=5",
+   "published": "2026-10-16T19:36:16+00:00",
+   "id": "6b283a03c293",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears",
@@ -7111,7 +7111,8 @@
   "news|35d7bb59ef87": 1792202496.748188,
   "news|13595d238619": 1792203396.7346437,
   "news|51d80d3384fe": 1792203397.6974635,
-  "news|ddfaacd1854a": 1792203398.588046
+  "news|ddfaacd1854a": 1792203398.588046,
+  "news|6b283a03c293": 1792204289.3959715
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7214,6 +7215,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-17T02:31:29.396048+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>🇺🇸🇮🇷 Trump may want one final strike on Iran, but Israel could have very different plans. Brandon Weichert believes Israel is preparing a much broader campaign against Iranian infrastructure, potentially including energy and water facilities. That could make</b>\n📰 X · Ven 16/10 21:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1SMUJXazVTMlRZOGVMOGxlMjlMcjZ0cEpqb1ZDZi02NDdmS0xxSERwTkpZeGt2WjJ1VHp3amVjQTg1NUNxSkNwLWdzNFpkSDJvSnAzTkd2TjJsMklyTnE4RWdCdk8yQzVUSHdLNg?oc=5"
+  },
   {
    "ts": "2026-10-17T02:16:38.588309+00:00",
    "kind": "news",
@@ -7508,11 +7514,6 @@
    "ts": "2026-10-16T11:31:47.637656+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Ukraine strikes on Russian oil sites a  disgrace  – NBC New York</b>\n📰 nbcnewyork.com · Ven 16/10 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.nbcnewyork.com/news/national-international/trump-says-ukraine-resuming-strikes-on-russian-oil-sites-is-a-disgrace/6560063/"
-  },
-  {
-   "ts": "2026-10-16T11:31:46.593383+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia strikes nine Ukrainian regions as strain grows between Zelensky and Trump</b>\n📰 newsandstar.co.uk · Ven 16/10 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.newsandstar.co.uk/news/national/26643122.russia-strikes-nine-ukrainian-regions-strain-grows-zelensky-trump/"
   }
  ],
  "daily_forecast": {
