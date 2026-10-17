@@ -1067,13 +1067,6 @@
   }
  },
  "seen_news": [
-  "79f3f7e73fc9",
-  "dab8f4ac33b2",
-  "cacf29501f34",
-  "5e7dda1d6b68",
-  "82b38be8ccae",
-  "7d91c9913fde",
-  "1fc94e17e648",
   "20695efa8c7a",
   "8b76dba3c173",
   "1fc8b5bc79c0",
@@ -4066,7 +4059,14 @@
   "595bd6d03ed5",
   "24516fd8ea90",
   "71ee4ad60ee2",
-  "375e9b3ac223"
+  "375e9b3ac223",
+  "874dc42a8c54",
+  "0b4c4c69459f",
+  "6b78d639070c",
+  "441507fb0a43",
+  "bb0df50f719e",
+  "c8d7dce594e3",
+  "1c8150aaff68"
  ],
  "news": [
   {
@@ -4176,6 +4176,18 @@
    "cat": "géopolitique",
    "raison": "Accord énergétique pouvant atténuer légèrement les tensions géopolitiques avec la Russie.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Calls Iran War a ‘Military Exercise’ After US Death Toll Climbs",
+   "source": "Newsweek",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnBtQmJhaHBjN05MaGdJZUh5Rmg1UFpFRlpzWXdQOWR3Rk1SdVh4ekFZbDZWU3YtT0FoeXV6cGJQUDdZeXBkYjBCcnFzSU1MN0VtNk1rTWtmOGdXd1UxQ0diQlpRWGoxY0RBTVl4VzR2T0JveFdWRWVYdVZrNzBiaUh2Nkc4YkxuZkdpcXJkV2Q?oc=5",
+   "published": "2026-10-16T23:28:00+00:00",
+   "id": "6b78d639070c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Russian attacks kill eight in Ukraine, cut power to over a million",
@@ -6456,18 +6468,6 @@
    "cat": "géopolitique",
    "raison": "Durcissement des sanctions US contre l'Iran, léger soutien pour la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5",
-   "published": "2026-10-16T00:52:18+00:00",
-   "id": "bbb46aa23247",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risque de frictions diplomatiques et poursuite des frappes énergétiques soutenant l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7102,7 +7102,8 @@
   "news|ebaabafcd262": 1792189940.188337,
   "news|8aacd7515f73": 1792189941.112028,
   "news|7e38389a246a": 1792191691.4149077,
-  "news|595bd6d03ed5": 1792196159.3503275
+  "news|595bd6d03ed5": 1792196159.3503275,
+  "news|6b78d639070c": 1792197965.8748024
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7205,6 +7206,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-17T00:46:05.874885+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Calls Iran War a ‘Military Exercise’ After US Death Toll Climbs</b>\n📰 Newsweek · Sam 17/10 01:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnBtQmJhaHBjN05MaGdJZUh5Rmg1UFpFRlpzWXdQOWR3Rk1SdVh4ekFZbDZWU3YtT0FoeXV6cGJQUDdZeXBkYjBCcnFzSU1MN0VtNk1rTWtmOGdXd1UxQ0diQlpRWGoxY0RBTVl4VzR2T0JveFdWRWVYdVZrNzBiaUh2Nkc4YkxuZkdpcXJkV2Q?oc=5"
+  },
   {
    "ts": "2026-10-17T00:15:59.350374+00:00",
    "kind": "news",
@@ -7499,11 +7505,6 @@
    "ts": "2026-10-16T09:16:03.632043+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 101.75 → prix : <b>101.74</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.49 | 60j -0.53"
-  },
-  {
-   "ts": "2026-10-16T09:16:02.525335+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Ukraine’s renewed strikes on Russian oil refineries a ‘disgrace’</b>\n📰 The Guardian · Ven 16/10 08:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5"
   }
  ],
  "daily_forecast": {
