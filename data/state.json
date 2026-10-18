@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792301465.6140158,
+   "ts": 1792305946.601551,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "c0a878eb069d",
-  "476cb824cb99",
-  "9c4e96c92eec",
-  "f3b01494dacd",
-  "79fe12e759f1",
-  "569bb35fe114",
-  "6087f2209e80",
   "e7f0029628d0",
   "eaee3f86d582",
   "9137bef3b612",
@@ -3945,21 +3938,16 @@
   "7f470047000c",
   "8b0c45601b84",
   "a95939db316b",
-  "e86b0141c970"
+  "e86b0141c970",
+  "aa48c879f1ce",
+  "8a74dfb556c0",
+  "680a3f3424d3",
+  "15c989a41f45",
+  "3fc4d9a7b272",
+  "3cb4a717ac16",
+  "121978c88d50"
  ],
  "news": [
-  {
-   "title": "Gold News: Softer Dollar Fails as December Rate Risk Caps XAUUSD",
-   "source": "FXEmpire",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmRROXBZRU5HZ1NBSmQzenJKM2ExNE1OT2RCcnYyMjhKMC1fZTVQNWNXSlVIWXM2VlI1Umttd0tlbVZFLUVCVTNKaS1vVlZSNjJEYXJtZHB2cnV6bUtwTEVScU9KdEctS195Q0hmQVNWMlVaTUk0NzIxbkw4Tm9lUnJEU1k0SlQweWE4cG1LSDJYenljVWRzM2FGMHQ0WlVFSGwyMUN3eDlXMjF2akVZamZ5MXI?oc=5",
-   "published": "2026-10-18T06:22:59+00:00",
-   "id": "7f470047000c",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas",
    "source": "EA WorldView",
@@ -4007,6 +3995,18 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire en Russie alimentant modérément la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3lHVkw4cW51a2RfTXlZNEllcHRDVDJ0cFJmaEpDdWhFLVF0SzFBM3o5cmZQNVVNMmYwbVBZS2lZUGlnMWhjUlBuZ2o5dmQ1VWUzbUdzUWY2MnZKTjVtMnpCQndiTE9CMDY3X19yODA3WDcwTDZqN1QtRGZFMHJBTDBFdWpRNlBVbGxRcGphdVBKZldQLUZ1d2luTdIBoAFBVV95cUxNTjh3VnZISmVYVXQ4clRpNVhFRmdITWdod0tldVVtQUpoelR6WkZjbGExZlhUZkVsZW1xRmlnTDAzdjBDVGJMVDNRSy1ub3IxMEZJSGFpdnFNdmhULU80QXFrRnNydFVRTlREaG5GaXU2NW1NMV84QWU2aURHYWs0U3Q4RzFJcWF2b1A2dUtEZGRvcEJRUDNNX1BtMzFMYU02?oc=5",
+   "published": "2026-10-18T04:52:04+00:00",
+   "id": "8a74dfb556c0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Weekly Panorama: Middle East between power struggles and risk of regional escalation",
@@ -7072,7 +7072,8 @@
   "news|f8e95193a8c2": 1792293377.0583854,
   "burst|Russie / Ukraine|165953": 1792293378.5042672,
   "news|74c8c8b7f93d": 1792296092.2335577,
-  "news|8b0c45601b84": 1792305092.0395055
+  "news|8b0c45601b84": 1792305092.0395055,
+  "news|8a74dfb556c0": 1792305969.6353693
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7175,6 +7176,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T06:46:09.635447+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance faces tough questions on Iran war, immigration and more in CBS town hall - ABC News</b>\n📰 Breaking News, Latest News and Videos · Dim 18/10 06:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3lHVkw4cW51a2RfTXlZNEllcHRDVDJ0cFJmaEpDdWhFLVF0SzFBM3o5cmZQNVVNMmYwbVBZS2lZUGlnMWhjUlBuZ2o5dmQ1VWUzbUdzUWY2MnZKTjVtMnpCQndiTE9CMDY3X19yODA3WDcwTDZqN1QtRGZFMHJBTDBFdWpRNlBVbGxRcGphdVBKZldQLUZ1d2luTdIBoAFBVV95cUxNTjh3VnZISmVYVXQ4clRpNVhFRmdITWdod0tldVVtQUpoelR6WkZjbGExZlhUZkVsZW1xRmlnTDAzdjBDVGJMVDNRSy1ub3IxMEZJSGFpdnFNdmhULU80QXFrRnNydFVRTlREaG5GaXU2NW1NMV84QWU2aURHYWs0U3Q4RzFJcWF2b1A2dUtEZGRvcEJRUDNNX1BtMzFMYU02?oc=5"
+  },
   {
    "ts": "2026-10-18T06:31:32.039575+00:00",
    "kind": "news",
@@ -7469,11 +7475,6 @@
    "ts": "2026-10-17T08:31:42.890513+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : TRUMP</b>\n10 articles en 45 min (normale ≈ 2.6) → un sujet s'emballe\n\n🥇 Impact moyen : -1.6/10 → ⚪ direction pas encore claire\n\n• (-2) Trump waives Russian sanctions as US - Ukraine relationship frays — <i>ipswichstar.co.uk</i>\n• (-2) Trump signs executive order waiving new Russia sanctions — <i>euronews.com</i>\n• (-2) Trump Waives Graham Act Sanctions On Russia Before They Take Effect — <i>heraldglobe.com</i>\n• (-2) Trump Waives New Sanctions Against Russia | NewsRadio 98 . 3 WMAN — <i>wmanfm.iheart.com</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-10-17T08:31:41.762224+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Retail price impacts from the Iran war are uneven but add up for US households before midterms</b>\n📰 clickorlando.com · Sam 17/10 10:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.clickorlando.com/news/politics/2026/10/17/retail-price-impacts-from-the-iran-war-are-uneven-but-add-up-for-us-households-before-midterms/"
   }
  ],
  "daily_forecast": {
