@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "1c006f6042fe",
-  "b074a4b2bc50",
-  "a5b8abb523ab",
-  "58b2ca35bf06",
-  "6cb96410b206",
   "e63e32305bb8",
   "958a2f85f09c",
   "00f22af05b4a",
@@ -3945,7 +3940,12 @@
   "0f0e1382f9eb",
   "7288780490be",
   "3d1ee43172fd",
-  "c9b41e609914"
+  "c9b41e609914",
+  "f121bc6c7f81",
+  "c1a9db115539",
+  "d7e9f789f833",
+  "64a68ed62853",
+  "a8b36e251cd0"
  ],
  "news": [
   {
@@ -3983,6 +3983,18 @@
    "cat": "géopolitique",
    "raison": "Frappe ukrainienne sur des infrastructures russes, légère prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Iran attacks Komala Kurdish opposition group in Iraq amid increased regional tensions",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWTVCcXUtTVZhOF95X0xQT3JvV2Zqb2RvLWZwZGhheng1d0hQUW9ZUnI0REJVbnlQa0hGdjJCNWNZUzNISUM2X0Jlb2V6LTJDUXFmR0JDbEliVzNydy1Fd0JyVVN2OTVKa0E?oc=5",
+   "published": "2026-10-18T10:43:02+00:00",
+   "id": "f121bc6c7f81",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Zelenskyy Says Russia Seeking 'Total Blackout' In Ukraine After Latest Onslaught On Energy Facilities",
@@ -6335,18 +6347,6 @@
    "cat": "commerce",
    "raison": "Exemptions tarifaires sur le pétrole réduisant légèrement les risques de choc d'offre.",
    "method": "IA"
-  },
-  {
-   "title": "Houthis grow stronger despite years of Saudi - led airstrikes",
-   "source": "siasat.com",
-   "theme": "Géopolitique",
-   "link": "https://www.siasat.com/houthis-grow-stronger-despite-years-of-saudi-led-airstrikes-3559921/",
-   "published": "2026-10-17T10:30:00+00:00",
-   "id": "140591bac205",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Risque structurel persistant en mer Rouge soutenant modérément l'or physique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7078,7 +7078,8 @@
   "news|6bd12da27124": 1792318057.9181824,
   "news|c1837076a83c": 1792318058.849657,
   "news|6217b3fadcf0": 1792318059.7788732,
-  "news|7288780490be": 1792323087.3259678
+  "news|7288780490be": 1792323087.3259678,
+  "news|f121bc6c7f81": 1792323963.6547728
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7181,6 +7182,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T11:46:03.654862+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran attacks Komala Kurdish opposition group in Iraq amid increased regional tensions</b>\n📰 The Jerusalem Post · Dim 18/10 12:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWTVCcXUtTVZhOF95X0xQT3JvV2Zqb2RvLWZwZGhheng1d0hQUW9ZUnI0REJVbnlQa0hGdjJCNWNZUzNISUM2X0Jlb2V6LTJDUXFmR0JDbEliVzNydy1Fd0JyVVN2OTVKa0E?oc=5"
+  },
   {
    "ts": "2026-10-18T11:31:27.326024+00:00",
    "kind": "news",
@@ -7475,11 +7481,6 @@
    "ts": "2026-10-17T13:01:32.343543+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump rejects nuclear strike while threatening Iran’s underground nuclear site</b>\n📰 Muslim Network TV · Sam 17/10 14:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0M5SlBKU0EzOFFOWGRUMDloSllBUExPaVJlZmJRdGNtVVpaTVVpeHNBY2VkRGhuMGVjYmZFNnBpQ1FfUnFJZFd3eHhGX1pFR2FVRG5lQmt0c1dKeGpFdGxVaWYwQU1BaUhfd1hfbjFiS3FRRmtReXlGU0NtT1FBWXNOSjduT2NNaks3dkdFOG9zdmg0NEp0d0JQby1weU50bjU1THU2NWFBUEE?oc=5"
-  },
-  {
-   "ts": "2026-10-17T11:31:24.796450+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran insists end to war on all fronts key for regional peace : Dy FM Khatibzadeh</b>\n📰 aninews.in · Sam 17/10 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://aninews.in/news/world/middle-east/iran-insists-end-to-war-on-all-fronts-key-for-regional-peace-dy-fm160-khatibzadeh20261017154439/"
   }
  ],
  "daily_forecast": {
