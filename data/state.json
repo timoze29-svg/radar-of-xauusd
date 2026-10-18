@@ -1067,13 +1067,6 @@
   }
  },
  "seen_news": [
-  "cc76b0aed741",
-  "590a44c67fe1",
-  "7b531e7ad34c",
-  "92035998a27a",
-  "5a599613fc7e",
-  "a3ad7ab84bcd",
-  "9d91ef096bec",
   "b31cefef2576",
   "a518edc71457",
   "29e000376945",
@@ -4066,9 +4059,28 @@
   "4fd004cef2d4",
   "c27b6f5cad4f",
   "967a69de7f34",
-  "de8712ddd3fa"
+  "de8712ddd3fa",
+  "824e599c5228",
+  "b4a7ab9752f0",
+  "aaba2cabc33a",
+  "251f179e0a94",
+  "262865754691",
+  "17dfb359048e",
+  "2644b6e73dee"
  ],
  "news": [
+  {
+   "title": "‘Outrageous’: Taiwan Mandopop band member allegedly assaulted by South Korean diver underwater",
+   "source": "South China Morning Post",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORExtNWNzRlhKTjg0REUzcGh5MWM1cU92WXVqSmFhWUVCTUY2Y1RJRldYRnh5dEVFS1o0V1dnYTY5SDVqLTVoYVNQS3ozR0N3NTJaX2ZVTnZRUDd1VUUzRkdXaWFodmJRN0syd2lxLWROVE54Rjg0NmpuWW9PWjh1UGEyUy1sRDdZM2s0Rk81d3JNcmJkOFlJMkF3UWc1NmlCeVIzX29PU3gwaWdFWndFZC1LcWdFMjNZM1ZTY2RSQTE5Vmh3eE5FSFJpWDFlT1JoVkNna3U1TzB5cFVBYTZ6bWs0QnI?oc=5",
+   "published": "2026-10-18T02:19:35+00:00",
+   "id": "17dfb359048e",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump asserts Iran war will end",
    "source": "russiaherald.com",
@@ -4076,10 +4088,10 @@
    "link": "http://www.russiaherald.com/news/279382138/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehran-nuclear-sites",
    "published": "2026-10-18T01:30:00+00:00",
    "id": "78af0d928fc8",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "L'apaisement rhétorique sur l'Iran érode la prime de risque sécuritaire sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Zelenskyy hints at potential meeting with Putin in US during G20 summit as Trump waives Russian Oil tariffs",
@@ -4088,10 +4100,10 @@
    "link": "http://www.russiaherald.com/news/279381730/zelenskyy-hints-at-potential-meeting-with-putin-in-us-during-g20-summit-as-trump-waives-russian-oil-tariffs",
    "published": "2026-10-18T01:30:00+00:00",
    "id": "fa703eebecf2",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "impact": -2,
+   "cat": "géopolitique",
+   "raison": "Perspectives de pourparlers de paix russo-ukrainiens diminuant la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
@@ -4124,22 +4136,10 @@
    "link": "https://aninews.in/news/world/us/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehrans-nuclear-sites20261018055742/",
    "published": "2026-10-18T01:00:00+00:00",
    "id": "51fe3deec34c",
-   "impact": 10,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Claim a stake in the hottest companies - BEFORE they strike it big",
-   "source": "dailymail.com",
-   "theme": "Géopolitique",
-   "link": "https://www.dailymail.com/money/article-16217223/Claim-stock-investing-stake-companies-big-spacex-money.html",
-   "published": "2026-10-18T01:00:00+00:00",
-   "id": "c604f088d38e",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "La menace de frappes sur le nucléaire iranien ravive le risque d'escalade majeure.",
+   "method": "IA"
   },
   {
    "title": "US military claims Strait of Hormuz remains open , says 97 % of ships transit safely despite Iranian strikes",
@@ -4148,10 +4148,10 @@
    "link": "https://aninews.in/news/world/asia/us-military-claims-strait-of-hormuz-remains-open-says-97-of-ships-transit-safely-despite-iranian-strikes20261018045825/",
    "published": "2026-10-18T01:00:00+00:00",
    "id": "4fd004cef2d4",
-   "impact": 10,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Normalisation du trafic dans Ormuz réduisant les craintes d'un blocage énergétique mondial.",
+   "method": "IA"
   },
   {
    "title": "Silver inches toward central bank reserve status as its historic rally cracks",
@@ -4256,10 +4256,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGvSAbABQVVfeXFMUDRCRU5IcDVoTU9UMm1sTmNwZnd1cTdYQ2I3V1hiLW1pUDZTUDY1djFpU1ExeHF3TjlGMUVlMlhTRjdQXzhQU25HcUpDN0VEdHRYblQxZ042OTVpaWV6UkVXT2tWaDh3QWRPZDRLZTN1Wk9oOGdyRURRN1ZVOHg2cld4X003TC1ZZnlROVNEeU1NbkZUZjNyZzNBNUppZUd6bi1MUUI0STlfVVltUVpUMWk?oc=5",
    "published": "2026-10-17T21:58:03+00:00",
    "id": "7e4df7a9aada",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "commerce",
+   "raison": "Frondes internes limitant la portée de la guerre commerciale et les risques tarifaires.",
+   "method": "IA"
   },
   {
    "title": "Resigned Trump counterterror adviser Joe Kent says 'Israel drove the decision' to strike Iran - ABC News",
@@ -4268,10 +4268,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhsUzdIbkRKd1JhaE5hOVlFTWdIWmxRMmJXMDZNbDloOEFnQ1JCdEZoQ2ZSU3QyYlhuVmY5N3dvbjhPbTFiZ3psYVhsQzVQMTEzZmpuNjA3UklBOUpwYTFzQnVCeWV0YXM5MEpqbU9jcFRCRTNQd0dVd2g1Z2ZodkhyalhrV1ptVVFySGNCWHdoLW1XSkgtQ2VDRUk3SF9VdWtOQ05ZeHhMUdIBrwFBVV95cUxNSFZCSmxFdENxcDRHaUJOSXZTaVdwRGRoQ0c1LTVkc2ZuSGlid2tyYllFUXlxYk96MWp6alBKUUNxWTVZZU1LdWpKVFEtNlRiTUduMm9zaUx4aEtTSTh6QU1OajBvTDN3NUpCa3VRV3ViazhKa2JuY3VYdjI5bWFaREdoQWI5ZUF5eWU2ek94dlpXUVlwWGdIdHM3eWJfQlFrMnNMR05KdHJJa2h1M2VZ?oc=5",
    "published": "2026-10-17T21:41:38+00:00",
    "id": "349726b25626",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frictions géopolitiques persistantes au Moyen-Orient maintenant un plancher de précaution.",
+   "method": "IA"
   },
   {
    "title": "Fed holds interest rates steady in 1st move since Iran war spiked oil prices - ABC News",
@@ -4280,7 +4280,19 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVgwU0l2bjYwREJ2NE9WVC1ObnpJa3Qxa2syS0lmUXphVm8zTWpnYVJ5NXpFZmxWYUZlVXpmc3ZFQzk2ZnZlYjNSUHRPb3F1emZhVDdPNEMxak1mM2wzOEZtYnA5dklfUFlfOUdVRU5lSXNmTlhqMy1pUElaMjNBTEFJbV9IRHNkRGt1NHJKVDVFd1Za0gGaAUFVX3lxTE9IOWFDX2MzMVhjUXl2VE1oTGNTTlowMmxkMUZnNEQ1TzhKemJ3TmlSTElmdzVPQ3VmR2E3OGdNLXN2dVBHQ2xiLXl0WWJfdjBUQktuSnNwbTNQV3puQzBJTUVZS295S2lHYU9iQVpFd05FQkw4WmhmZ2EyU3dCUWt0bHNCUy1xX0pHME5ZbVBlZ1RXSkxnSVZ1TWc?oc=5",
    "published": "2026-10-17T21:19:22+00:00",
    "id": "d4b415a5539a",
-   "impact": 8,
+   "impact": 1,
+   "cat": "fed",
+   "raison": "Absence de hausse des taux malgré l'inflation pétrolière, favorable aux actifs réels.",
+   "method": "IA"
+  },
+  {
+   "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+   "source": "PBS",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3ctZzVVZmROUF9ucW82clpVMWMzUXVUQ0xFendFWlh1U1lEbXRmTlh4TUJKR1lHT0FpLUNiUWZ1aDRkTjM0ak52X0QzR2thSGNKSUptNXdXOTQxM1gtYk9zZkJTN1Jjek9LY2Y5M2RWcERwZ2RheV9DSXBCZEItaFNWYlR2ZXp0c3dMVS1YQnJkY3F1TjVDaEJpZFVCcFYyTTJwNXZmTEvSAa4BQVVfeXFMUFNuYkZZWEZjUnIwMTZCNWVaTXEtMmh4OXZPWjRWVmkwS3liMHVMcEJmeHBocEJFQ2Z5d013RkVZOXQxWjc2emNMNTdTY0N2WDVmVDMzTUNhVkVXU1NQSk9kSUlwdDNibGs5eF91dGNSMVhZV2k3enN0cUE5X0piZ2E3dHlhZTkwOWp0S2FJTkdLd1Zub1lNRmR3WlNPMHBoUElxUm0yV1RYaFhkV253?oc=5",
+   "published": "2026-10-17T21:04:33+00:00",
+   "id": "b4a7ab9752f0",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4592,10 +4604,10 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
    "published": "2026-10-17T17:26:35+00:00",
    "id": "d72aed263f22",
-   "impact": 5,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Détente sur les sanctions russes réduisant les tensions internationales et le risque systémique.",
+   "method": "IA"
   },
   {
    "title": "Benjamin Netanyahu Faces Decisive Israel Elections Amid Gaza War And Iran Strike Fears: what 6 outlets left out",
@@ -4740,18 +4752,6 @@
    "cat": "politique US",
    "raison": "Maintien de la levée des sanctions sans riposte législative, réduisant les frictions.",
    "method": "IA"
-  },
-  {
-   "title": "Meeks Statement on Trump Waiving Russia Sanctions",
-   "source": "House.gov",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk54eDcyRjh1QUkyU0ZoR3gtY2hUclFKU3FpS3hfNlRpQm1GVS0zcmhKcnhVZFU2LXJVU1ZLcE80ZW9XU3JHR0E3MzcwRmZaSXJQX2VCdWFUeV82bjhHNjRWM2xtX3pWeWNjQy1oWUptbWZsYXZVaElaa01sWm02aVQtZ0tCanNJWkdvRm9oWV9MWTk4U1JvYUNYaDZQVXcza3c?oc=5",
-   "published": "2026-10-17T15:44:24+00:00",
-   "id": "b86dd4cbfa39",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   },
   {
    "title": "Egypt FM discusses Middle East de-escalation with Turkish, Yemeni counterparts - Foreign Affairs - Egypt",
@@ -5144,10 +5144,10 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUdGRDM0SjMtbW1sZHp5U1otSm5ZbGpMazBDc0wxUjlwMWpsMHBUNHI0WnBZWnN3ZVk0anEycmtqUkdxY1NEQ2ZFelVNY3cxOGluOC0wRC1wb2VGOW9MTEtRTk43SE1NLWU1cGQxdEVGampZWnB6bXVlbEFHT3Jpd2FJT1Q3QVBKVDZ2SlVpQXc0UHFXVFB0VXpMTmQ1UFFseTB4aGlXc0hjWmRqX21IdHN4NXNMNnlJRllsV3huR2JBY3J6aVE?oc=5",
    "published": "2026-10-17T12:35:23+00:00",
    "id": "6f10c280bb1d",
-   "impact": 2,
+   "impact": 3,
    "cat": "taux",
-   "raison": "haussier or (taux)",
-   "method": "mots-clés"
+   "raison": "Le repli des rendements obligataires réduit le coût d'opportunité de détenir de l'or.",
+   "method": "IA"
   },
   {
    "title": "Israeli drone strike kills Palestinian amid continuing Gaza ceasefire breaches",
@@ -6416,10 +6416,10 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5",
    "published": "2026-10-17T07:00:20+00:00",
    "id": "e01050cf0724",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces prolongées sur le pétrole du Golfe alimentant craintes d'escalade et pressions stagflationnistes.",
+   "method": "IA"
   },
   {
    "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength - ABC News",
