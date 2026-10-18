@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "e8d6fde91b38",
-  "42ca92a29406",
-  "0a4385ecd401",
-  "0d660dc0b13e",
   "951937cccdc8",
   "656a2cf7cf10",
   "9ef66ce0f5e8",
@@ -3945,21 +3941,13 @@
   "6dbdfd219a08",
   "8395e30c1184",
   "13cd3b3d6ec9",
-  "7edb7bc76d7f"
+  "7edb7bc76d7f",
+  "3f52b3d72cf1",
+  "920968b377c5",
+  "a7f14fef96db",
+  "306fb107e424"
  ],
  "news": [
-  {
-   "title": "Trump blames France unrest on immigration, urges tighter borders - CHOSUNBIZ",
-   "source": "Chosunbiz",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxNTjFrTXNRTGplbl93SjZjcnJzWmd0TzVDYzBucWl3Z2VzSlhjT0VBQVVJaURra2lkLUVpOXcwTWlwTnN6c2lKOEEtemJVbGlwMjk5N2lqUE15cW14TU9oLWY0ckc1VlRXY08tc253MmRRdmNHaEpUNjk0ekJWM1J4MGxPcmFh0gGcAUFVX3lxTE9IYXUyYmVDMlJSbHE1NE5sZ2pIUk0zSHBsVXZnMjZFeFI1Xzd2c1FEa1BRNGpfM1JGLVlQbGtEVVE1UVNNSWMxOW1qMUNsWUNTQ0FMc0d0TlBhYV9DRTdnWWdJYkdWOWcxczlVYWVKYkNuSVN3VloySW5fM0NodmRxNW1UZEVwdFJ5aTJzQ1R4VTdUamJMaWJVQXFMeg?oc=5",
-   "published": "2026-10-18T13:50:00+00:00",
-   "id": "13cd3b3d6ec9",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Simple rhétorique politique sans impact sur les marchés, les taux ou le dollar.",
-   "method": "IA"
-  },
   {
    "title": "'We are ready for war': Iran's new defense minister threatens US and Israel",
    "source": "Ynetnews",
@@ -3971,6 +3959,30 @@
    "cat": "géopolitique",
    "raison": "Hausse modérée de la prime de risque géopolitique et soutien réflexe de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Ukraine strikes St Petersburg with over 1,000 drones",
+   "source": "The Hill",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2VBb25iNXU4aDVrcE5sOHV6MmZTeUhJaWlibnBjUzNwRXo5X05QZUVCazNjclBoZ1hHcEtwYmZ5LW9IY3BHV3g5QjNTendyY0k5RlY1S1ZyX29ETThyR0tuQzVkblRMT2x4QTNlSWZYRVNFRjliZG5BSWZGeW9keXloR0ViUmEy0gGOAUFVX3lxTE5PYU9tc0VsQlludy1YM2pnODhyN0NIYWVJdGZVeVMxTnhHa2hnWEstNnAwdDNOUUdNT3kzSll2Qm1SV21FRWktQ0xSU0VQRkxRME03XzRiUVlwV0hDSHM4WTZrMHpIOEFERzc4WGRqTHpNSHBnczN2WTE3aWF4RTlNWFZoZ0V5cmZnMFU3N3c?oc=5",
+   "published": "2026-10-18T13:29:00+00:00",
+   "id": "306fb107e424",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran signals possible nuclear policy shift, threatens US retaliation",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xZ2puTDJaTm9HR0VoQ3oyUjgwYV9ka25jUTJhdl95cWFsakxZUnZWbnhlTGpyUXlRWkI1eXM4bjRoaHRXSkNJaEZvMjdGV2lZd2c?oc=5",
+   "published": "2026-10-18T13:21:17+00:00",
+   "id": "920968b377c5",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Kremlin says Ukrainian attacks won't change war aims as Kyiv hits Saint Petersburg",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Menace militaire maintenue soutenant la prime de risque, malgré l'exclusion d'une frappe nucléaire.",
    "method": "IA"
-  },
-  {
-   "title": "Russia celebrates Trump's sanctions waiver while Ukraine warns it will encourage attacks",
-   "source": "WVTM Channel 13",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFQyWEZUZUUtWmN0U0ZPMjBFMFVZdmRhODlzSFhFTVhFdVhab09peVVfWFE3c1FNbjFZcDRoOGFKYkhZNGRfX1pxVjlwbkxlM1RGLTFpaEd3OGM0aHB1aVdGblhsZ0UxcWRKQ2xjelpPSUd4Y3ByUTl0U3JoVUlFVkd1ZWd6Q1ExMFppMGM1eVl5S0wxdm1tTHdqYkVQZUdLM3RQVGowdnJfcHc?oc=5",
-   "published": "2026-10-17T12:38:00+00:00",
-   "id": "f3057ea432c5",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Allègement des sanctions contre Moscou réduisant marginalement la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7087,7 +7087,8 @@
   "news|38d25a240c62": 1792328503.6109188,
   "news|c5e630964609": 1792330294.6447322,
   "news|e7651964a3d4": 1792330295.5018032,
-  "news|8395e30c1184": 1792331191.4245641
+  "news|8395e30c1184": 1792331191.4245641,
+  "news|920968b377c5": 1792332963.39246
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7190,6 +7191,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T14:16:03.392509+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran signals possible nuclear policy shift, threatens US retaliation</b>\n📰 Iran International · Dim 18/10 15:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xZ2puTDJaTm9HR0VoQ3oyUjgwYV9ka25jUTJhdl95cWFsakxZUnZWbnhlTGpyUXlRWkI1eXM4bjRoaHRXSkNJaEZvMjdGV2lZd2c?oc=5"
+  },
   {
    "ts": "2026-10-18T13:46:31.424636+00:00",
    "kind": "news",
@@ -7484,11 +7490,6 @@
    "ts": "2026-10-17T15:31:32.176828+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance publicly hints at his disagreement with Trump over Iran War</b>\n📰 Washington Examiner · Sam 17/10 17:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENXdnJWVDhqVUFZSGVfX0o2VWtEbjZ2clg1b3VZUE5rdEhzcU80cFBXMTM4Zk9IR095YktsQ0d0dTltbjJURHVVTi13WWxOZUR4SkxDVXY2Y1liZ1VQeThxWGJmdHQ4V0hKVEpTZDFoSXIxNkNHVjJ0RDN4eXVRS2lLVWpmRWJkenJpZzh6UGxjZGEzeVVkX3l1TmF3S2VoOVViWg?oc=5"
-  },
-  {
-   "ts": "2026-10-17T15:24:09.048374+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Trump considering initial limited strike against Iran, source says - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 17/10 12:24\n🧠 Menace d'escalade militaire majeure au Moyen-Orient provoquant une ruée vers la valeur refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPMy1tU1J2VzN6VURid3B3bnRCZm95bFNZYVJ0QlFKYktrQWdVYWpQMDJIRTNNR29iZkZ6YVRaWmwwTkdQRUV0UGdtbU56eUVkajBLeVFjNEJDQ28wRFFaNTQ1UG4wU1JZZGlwOHp1ZkJXRmVwMGRxa3kwLUphWkUya0tHX3ItYVBhdjJCOTk0cUR0QdIBlwFBVV95cUxQZzZ1WFFweFh3Ql9GVnlGRTE5YVFvYmt2OC1IY2VZVlN0eUJmdDhBNHhlaE5rRW5HOEhlUllqNHoxLUdmb1pQY1llalFjTXhnUVJjZ3lHUEQ5NjJMa0k5TTJaZ1RWeWlFemRmMnd2NXl0SGxxRlhVT0FIV1Z2dTh1THEwQkU0cjV3R2hhQlc4WlJWZ1FVTnY4?oc=5"
   }
  ],
  "daily_forecast": {
