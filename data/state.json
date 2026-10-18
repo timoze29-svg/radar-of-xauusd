@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1792277146.8204587,
+   "ts": 1792321268.2063828,
    "data": {
     "date": "2026-10-13",
     "net": 207879,
@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "20612bd6b756",
-  "345392a597e8",
-  "ce918fe70ba0",
-  "986f9dc2274c",
-  "e6c5b8edea71",
   "d8d11e7365bc",
   "6508dd355bd0",
   "fbc5f92c4851",
@@ -3945,21 +3940,14 @@
   "0deedaebd922",
   "858148205e34",
   "4279dd4fe838",
-  "fbaedab2f736"
+  "fbaedab2f736",
+  "46c81228115c",
+  "de6071287f1b",
+  "170393993e64",
+  "3bd4653313da",
+  "45888e22070e"
  ],
  "news": [
-  {
-   "title": "Franco Nevada (TSX:FNV) Could Be 15% Undervalued After Gold Price Strength",
-   "source": "Simply Wall Street",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMC1XYVAtbXh2WUtkempzRUdxZG93TzB4QXF0dVVtSU5BZzFFa1hCLWYzcEpwZUhHZGV0OWNGUU5xMDRsRVRDQW5yMmJDMmZzZ0xLbnAwRzdodVBDUHJLMEJKMUJlcFZLRGo3QUtfVW1yV1lzVHVDNkdRZml0cllra1QyWHYxbDNLdHRSalJEZ0tsX2sxWkh5QlBUbHBkUHhGZUlUdDdyc2V6UnQ4LXZNeUtCdUVReHhXdzlIelVTNEtjV0Rhc2ItTzltR0VhaTc2N1HSAdcBQVVfeXFMT1hVNkxYZmNROUROenVLdzJmbEtUSVJiRlQ0b2c0SkJSUjcycjB0ZlpMOEtDUWZ1WHFnejVMTXJGMjl4SU9rRkpHbW82MzNjLTFSbFpkdkV6RERocTdlc2M2Q2FBVjUwbTliQkRtNGdPSThtZFVZZVNvbkI2NHB0ZjlCd0VEUmdjcGdnbGlacVdaQWNsVF9zUlVtTjdzMGtFaWZQdEVLeTVaN0VROHFJbFZrdXVybEctZE9iUlV0YVIyNHl1MjNTTWlzeU9xaGxpRU55NXpHLUE?oc=5",
-   "published": "2026-10-18T10:33:33+00:00",
-   "id": "0deedaebd922",
-   "impact": 0,
-   "cat": "or",
-   "raison": "Analyse micro-économique d'une entreprise minière, sans impact sur les flux macro du sous-jacent.",
-   "method": "IA"
-  },
   {
    "title": "Zelenskyy Says Russia Seeking 'Total Blackout' In Ukraine After Latest Onslaught On Energy Facilities",
    "source": "Radio Free Europe/Radio Liberty",
@@ -3971,6 +3959,18 @@
    "cat": "géopolitique",
    "raison": "Tensions accrues en Ukraine, léger soutien refuge mais impact marginal car déjà intégré.",
    "method": "IA"
+  },
+  {
+   "title": "Nearly 20% rise in Taiwan residents' trips to mainland in first 8 months shows cross-strait exchanges are an ‘irresistible trend’",
+   "source": "Global Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QWlhjSnVpT2NyUTVQVjRBbmVRVGt1NXRKR040RE5HU3dzS2xwU3JPRWZBZkZGMGpfQjdidDV4aVF3WnRBT3hrLWEtVlBIcG1wdUVYODVaVVNBUFJMdzNoSTl3?oc=5",
+   "published": "2026-10-18T10:04:00+00:00",
+   "id": "3bd4653313da",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Egypt’s defense council pledges ‘all forms of support’ to defend Saudi Arabia amid escalating Houthi attacks",
@@ -4054,18 +4054,6 @@
    "impact": -1,
    "cat": "politique US",
    "raison": "Pause de 60 jours calmant les craintes immédiates de chocs d'approvisionnement mondiaux.",
-   "method": "IA"
-  },
-  {
-   "title": "Why Starlink matters in Ukrainian warfare",
-   "source": "dw.com",
-   "theme": "Géopolitique",
-   "link": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729",
-   "published": "2026-10-18T09:30:00+00:00",
-   "id": "48788f11584c",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Analyse technologique de fond sans flux acheteurs directs sur l'or.",
    "method": "IA"
   },
   {
@@ -5099,6 +5087,18 @@
    "cat": "politique US",
    "raison": "Données économiques moroses suggérant un assouplissement de la Fed, modérément favorable à l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Trump waives planned 100% tariffs targeting India a day before deadline",
+   "source": "The Business Standard",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXBhWEdtRTVoaVB2dC1aU19IOENBejAxYk1sZkVUSk96YWVCUE9LQnlpM0FRdy1tcU10ZFRRV3p2d1dpZ3VMNjY5czNqaW01RFpFYnh5X3NKM2ZiNi1sbzQ3cEloeVB5aU5JNW42dTJBWTZPZElmRjEwSEpDSU42M24yY2RhWXVibkZkVFZNUlR3dUdzTjgtZTVuY01oLVNwNEtualM0eVZENEN4LURwMTdLV3o?oc=5",
+   "published": "2026-10-17T20:23:50+00:00",
+   "id": "de6071287f1b",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Live: IRGC declares Strait of Hormuz closed after tankers hit",
