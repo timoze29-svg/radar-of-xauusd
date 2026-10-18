@@ -946,17 +946,6 @@
   }
  },
  "seen_news": [
-  "b4515ec41037",
-  "c82017aded23",
-  "523cf4e1c8ea",
-  "b691a3d9b303",
-  "db7001b882fc",
-  "e94758f5e486",
-  "b6f3e73c8d7b",
-  "9809120ff258",
-  "f0f46d291f69",
-  "6a7ed446d638",
-  "4929e4bded07",
   "dd601585f5af",
   "62e49762f5ac",
   "d7ec6ed7929e",
@@ -3945,9 +3934,32 @@
   "bbe47467a277",
   "764c15ae86e9",
   "f2d94f6730d4",
-  "f6965703aa77"
+  "f6965703aa77",
+  "c0d17e5cc513",
+  "f3d809d0d469",
+  "8a0d83b7dead",
+  "603f7943fc2e",
+  "2efca609df42",
+  "8e0430d42e31",
+  "0b0a526d00db",
+  "fb284efb667a",
+  "ce76c5bcb230",
+  "2ab256edb908",
+  "f58bfc05cd71"
  ],
  "news": [
+  {
+   "title": "Netanyahu: Israel prepared to launch preemptive strike on Iran without US support",
+   "source": "www.israelhayom.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUgwbXh3eUREaEw2UGxqcExNU1pZQmItWVMwaTN6V1NBM0FqRVoyUWloUGh5RXRDdzZUUW9CTGRuU1Nza0FxTVVNLVdiWkNDaXJWU0d0azk1VXlydk1lcVVJbDhuWkxUYjlSb2RkMWRTb1djQzRCck1ucUEtSXJadFRfeVZMLU02OTU3RzdVQlhwZk5RZFZ1M2hrY2lkajZZb3UyTnExNE9IUi1NdERqcWhCcjJxcG94bVFPVA?oc=5",
+   "published": "2026-10-18T15:07:54+00:00",
+   "id": "8e0430d42e31",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump Endorses Netanyahu in Israel's Upcoming Election, Citing War in Iran",
    "source": "Haaretz",
@@ -4139,6 +4151,18 @@
    "cat": "banques centrales",
    "raison": "Achats massifs des banques centrales et flux ETF soutenant structurellement les cours.",
    "method": "IA"
+  },
+  {
+   "title": "Trump waives new Russia tariffs as October 18 oil deadline arrives",
+   "source": "CryptoSlate",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUhLQklpVng4OWNVOHVqT0J4Zmh4X3ZQUmJGeWRmSU4ybEZydEFaSlZIRXByZk1sZHFZaHNQellGYi02TElwOXFKU24ydHQzenVTc3RwR01aSi10cEhyU1doMWxOTUFSeWs4WFZRMHBfaXJsbllwcGQxV1MwOFg4Y1R3MUN0SE9mRHRodnpYUlAzS1VxTkE?oc=5",
+   "published": "2026-10-18T13:00:30+00:00",
+   "id": "ce76c5bcb230",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump defends Iran strikes amid gas price concerns: ‘I don’t view things politically’",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "La faction favorable aux négociations tempère l'escalade, allégeant modestement la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "China uses targeted sanctions to pressure Taiwan diplomatic allies",
-   "source": "shanghaisun.com",
-   "theme": "Géopolitique",
-   "link": "http://www.shanghaisun.com/news/279380926/china-uses-targeted-sanctions-to-pressure-taiwan-diplomatic-allies",
-   "published": "2026-10-17T15:00:00+00:00",
-   "id": "165ebc2601e8",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Pression diplomatique chinoise récurrente, tension de basse intensité sans risque d'affrontement armé immédiat.",
-   "method": "IA"
-  },
-  {
-   "title": "Houthi Strikes Mark End of Saudi Arabia Yemen Containment Strategy , Analysts Say – NaturalNews . com",
-   "source": "naturalnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.naturalnews.com/2026-10-17-houthis-strikes-end-saudi-arabia-containment-strategy.html",
-   "published": "2026-10-17T15:00:00+00:00",
-   "id": "23994940e595",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Échec de l'endiguement au Yémen ravivant l'instabilité régionale et l'intérêt pour les valeurs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7095,7 +7095,8 @@
   "news|37b1beeba851": 1792333890.9506423,
   "news|2be8d4485f43": 1792335695.02195,
   "news|d91035b3c5de": 1792335695.9688404,
-  "news|202512aafc23": 1792335696.841468
+  "news|202512aafc23": 1792335696.841468,
+  "news|8e0430d42e31": 1792336561.3597128
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7198,6 +7199,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T15:16:01.359768+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu: Israel prepared to launch preemptive strike on Iran without US support</b>\n📰 www.israelhayom.com · Dim 18/10 17:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUgwbXh3eUREaEw2UGxqcExNU1pZQmItWVMwaTN6V1NBM0FqRVoyUWloUGh5RXRDdzZUUW9CTGRuU1Nza0FxTVVNLVdiWkNDaXJWU0d0azk1VXlydk1lcVVJbDhuWkxUYjlSb2RkMWRTb1djQzRCck1ucUEtSXJadFRfeVZMLU02OTU3RzdVQlhwZk5RZFZ1M2hrY2lkajZZb3UyTnExNE9IUi1NdERqcWhCcjJxcG94bVFPVA?oc=5"
+  },
   {
    "ts": "2026-10-18T15:01:36.841754+00:00",
    "kind": "news",
@@ -7492,11 +7498,6 @@
    "ts": "2026-10-17T16:46:08.461342+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Israel-Iran War Latest Live News: Brent Crude Oil Touched $110 a Barrel for First Time Since May Amid Worries Escalating Middle East Tensions Could Further Tighten Supplies</b>\n📰 The Sunday Guardian · Sam 17/10 09:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxQMjlaUTh4RngxeXJxVXl4Q3JCQWRoeVNsRnZ2M1FqNEFwZUxxN3NpR3FVUzIxU2YtWjNZcXFibmtjNUVINU00aktDTU1Nd2FZSTA4MS0wYjVOSWNuTW9nTm1uUWFYSDg1SFBneFBkanlsUDhpUFNtNTc3LTZfRUNJZXNfeUNJQ01HX3Y1RG05TE5Sc3oyUjFIaEdjcXlYQzR3blhxTUJRU1V2V0U2emU3SmRkUkR4QTBQVVQ5dDJsVzNuOUdnaWY1TU0wdzZzZm41ZjZfMm80ZjN4dTdVUFhCZnVyWUN2Y3FZVXRMMnpYZWFFMXl2RmNvUEhkNEVBV3E0Z0lKZmgxb09ucDFWR3VlbEVFU3ZhN3dfTU1iTVV4dXYwaGtSTXZxWnhBVERRRXBuTjlsdlNIMldKekVJQ0w00gHEAkFVX3lxTE95TTJYTFlTbUxUbHFrWFdMNkNJUGRmLUN0SEdqRFJjZWZ5UjJickktYmw4NENKZHZ3eWt1UFM5OGdqRmpaQy1fUlJ1TTlNMzVTaHdCcHl2cXBaU3NDNnY1amtCWEx1QVF5T0l1Sjk2STgyTWE0Ym5jNUFmcWpWQ0VwTGJBZ3FMQTNrUEl0Sy1DanJnV01hQlF1TU9uSTRSMi1xbVplQlIxTGFDMF9meWdtNEFhUE9ZR2lFYWJzOUs0WThlRWtBQlgyUzlGcjlKZER6TzdlOXI4NWFiM2RqY0VMZlVYdEY3SHBpdHNULXVrdThWUDlGVmo3Uk42dnFpQ1N4Y1hSVWFtaWVfdU1EM3dadEdTdTZReDFnWTY2SmUxMzBGaVZhaXJfY0I3bnJRUGlzZWdnZ2FEWjBtWkQwN0xoT2R1Zg?oc=5"
-  },
-  {
-   "ts": "2026-10-17T16:46:07.397675+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Israel-Iran War Latest Live News: 3 Civilians Killed, 5 Injured in Houthi Attacks on Taiz as Yemen’s Siege Affairs Office Reports Rising Violence Amid Escalating Middle East Tensions</b>\n📰 The Sunday Guardian · Sam 17/10 12:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxNbmV3NUszMktrNlZfU3daa2FPc1hieFBvSVFnZW1JaU5TeUZ3OEhmanRnNk5YY3FQd3FMUTJDekhjSUFteHZ2QS11aDhHMTMxUWxHOUpNY0M3aVlTWEt1MTZ6OWRsbjRFSzQ3WmktemYxUW9MNWZsQkdabmxtZmo1V25FV1YzR2xaZXUzbFQtNl9nWC01NEpNUE9qSnZiX2V2a2F6R3hhTEpPZ2FDenJwY0pta21SSFFCMHlzRU92dGE4YmU1RVNFbEtLVDNDTUhXLVV6M1M4LVFpeW9lUHIta20wQXVQLXNnSUhDM2Vra1NCR1JrOVhLV1hNa2dGZTBTNlVOMHFhekdiZHhOZTZDRGZUaEd5WDFPbUl1c1VZRG5wZlFsVmQ1dEpacmNiM0QzWkI1RzNqMVZsaFNOQ3hLSTU5MGNoR0V1VGJR0gHQAkFVX3lxTFA4ZVBxdmQ4UUNYS25MNlRiQVBTVnhTNEVLY0piVEFHMHpFRVBhejl1RWphU09LaTMycmxhWlB1cHA5bHdCbHE0d0R3dWd5SzIwZzA5NEN1ZjlRT2hYdGtIY2xEZTUwZDRoNHY0Uk9DaEJ4MjRLSGVqYVhiMjFiUzB4dVhkTTFWM1ZIOWNfT2pxeWEza0dMYlVwYUF3cDQ1eGx0M3BhNm4tVWJ4QkFGWWM1bmdyXzZtYURPMUFCaFlOM0NZSVV2R0ZoN1g0WWJtWVRXRlgzRURvRzZhT2dUZGFNUVdKNEpqYlBVQ3VmN2tSLWlTRGw0LTk1SzZHTTZ6SnJiekJ1Tnp0VFd4bENCbXVITlhhOU1tcXFuWko4QldKVVNYbGllU0xhMThqd01LSlI3dS02SU5vd2xLdi1zcmMtU2NYV0FYanJwTlRwSGtkcw?oc=5"
   }
  ],
  "daily_forecast": {
