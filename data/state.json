@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "14dd1365c291",
-  "1021b4b1642f",
-  "ad7fc8901c45",
-  "a27621f6e3d6",
-  "132b2d83e08a",
-  "b580e5b0c00d",
   "80eabbc70dd2",
   "d72a6881fe4a",
   "77f92c71a654",
@@ -3945,7 +3939,13 @@
   "0b2978206cd6",
   "36dcaa2c192c",
   "726fc900f9cc",
-  "216a6069eb91"
+  "216a6069eb91",
+  "541f7f486bd5",
+  "b9950167d32d",
+  "ddf9e0fe39c8",
+  "fd87faa227d4",
+  "fadeea2c6265",
+  "8563ce4c427f"
  ],
  "news": [
   {
@@ -3973,18 +3973,6 @@
    "method": "IA"
   },
   {
-   "title": "Congress reacts to executive order exempting Russia from economic sanctions",
-   "source": "kasu.org",
-   "theme": "Géopolitique",
-   "link": "https://www.kasu.org/politics/2026-10-18/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
-   "published": "2026-10-18T21:45:00+00:00",
-   "id": "e097bb1b4590",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Tensions politiques internes aux États-Unis avec impact marginal immédiat sur l'or.",
-   "method": "IA"
-  },
-  {
    "title": "Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide",
    "source": "hellenicshippingnews.com",
    "theme": "Géopolitique",
@@ -3995,6 +3983,30 @@
    "cat": "géopolitique",
    "raison": "Menace sur Ormuz et risque pétrolier stimulant la demande d'or comme valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Ukraine launches one of its biggest drone attacks on Russia this year",
+   "source": "CNN",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLW1tbnhNbnVsUUpRLWdFMFM0U2k4ZHo2ZVhmN0htVUoySGZtVDM5UklQbWk5bkVUTTRsV1VFV01EZXU3SkhNMUVLM3NOMzRZVmk2N1RvTWttcWpucG5yOExWcHFBQW8yS3RiZUZkZ05hb3ZPVGpwNWVpVUNoSGN2Qm5nMWxWUXlNSlVydlhIWQ?oc=5",
+   "published": "2026-10-18T21:45:00+00:00",
+   "id": "fadeea2c6265",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Egypt seeks approval to defend Saudi Arabia as Houthi attacks escalate",
+   "source": "Arabian Business",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUMwc2d0YzJkcnVFOWtYOWhUUjJUb3Vob0Y4dWVsNmFMT3FZem9td0tEZWEzUXk0cGx2eXZqajVKRVdGemw3WHhMaldwYUZzaFVwR19ZOW1DSExWTEJ1d3dQcjNfbGQ2UkRBaDBqdDlaNWFJSjJBNTQ1MXNvNzR5TUxQdkhWcFVIcGlsVTV6VzlCRVJ1ZnVlX3IxbUlDYU1OMFZYUVMzaHZuZFI1UV92Zw?oc=5",
+   "published": "2026-10-18T21:42:18+00:00",
+   "id": "fd87faa227d4",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis",
@@ -4090,18 +4102,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Poursuite des affrontements au Moyen-Orient maintenant une prime de risque modérée.",
-   "method": "IA"
-  },
-  {
-   "title": "Married At First Sight golden couple Ellie Dix and Jono McCullough expecting first child together",
-   "source": "dailymail.com",
-   "theme": "Géopolitique",
-   "link": "https://www.dailymail.com/tvshowbiz/article-16219115/ellie-dix-jono-mccullough-mafs-pregnancy-baby.html",
-   "published": "2026-10-18T21:00:00+00:00",
-   "id": "6866c95bd42c",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Actualité people totalement hors sujet pour les marchés financiers et l'or.",
    "method": "IA"
   },
   {
@@ -7118,7 +7118,8 @@
   "news|d38d0574c96d": 1792359972.83578,
   "news|b9566fb9b686": 1792359973.8970642,
   "news|26f774074f5a": 1792359974.857264,
-  "news|36dcaa2c192c": 1792362687.2718682
+  "news|36dcaa2c192c": 1792362687.2718682,
+  "news|fd87faa227d4": 1792364272.4177618
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7221,6 +7222,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T22:57:52.417814+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Egypt seeks approval to defend Saudi Arabia as Houthi attacks escalate</b>\n📰 Arabian Business · Dim 18/10 23:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUMwc2d0YzJkcnVFOWtYOWhUUjJUb3Vob0Y4dWVsNmFMT3FZem9td0tEZWEzUXk0cGx2eXZqajVKRVdGemw3WHhMaldwYUZzaFVwR19ZOW1DSExWTEJ1d3dQcjNfbGQ2UkRBaDBqdDlaNWFJSjJBNTQ1MXNvNzR5TUxQdkhWcFVIcGlsVTV6VzlCRVJ1ZnVlX3IxbUlDYU1OMFZYUVMzaHZuZFI1UV92Zw?oc=5"
+  },
   {
    "ts": "2026-10-18T22:31:27.271929+00:00",
    "kind": "news",
@@ -7515,11 +7521,6 @@
    "ts": "2026-10-18T01:16:00.923139+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Fed holds interest rates steady in 1st move since Iran war spiked oil prices - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 17/10 23:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVgwU0l2bjYwREJ2NE9WVC1ObnpJa3Qxa2syS0lmUXphVm8zTWpnYVJ5NXpFZmxWYUZlVXpmc3ZFQzk2ZnZlYjNSUHRPb3F1emZhVDdPNEMxak1mM2wzOEZtYnA5dklfUFlfOUdVRU5lSXNmTlhqMy1pUElaMjNBTEFJbV9IRHNkRGt1NHJKVDVFd1Za0gGaAUFVX3lxTE9IOWFDX2MzMVhjUXl2VE1oTGNTTlowMmxkMUZnNEQ1TzhKemJ3TmlSTElmdzVPQ3VmR2E3OGdNLXN2dVBHQ2xiLXl0WWJfdjBUQktuSnNwbTNQV3puQzBJTUVZS295S2lHYU9iQVpFd05FQkw4WmhmZ2EyU3dCUWt0bHNCUy1xX0pHME5ZbVBlZ1RXSkxnSVZ1TWc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T01:01:29.388602+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Resigned Trump counterterror adviser Joe Kent says 'Israel drove the decision' to strike Iran - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 17/10 23:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhsUzdIbkRKd1JhaE5hOVlFTWdIWmxRMmJXMDZNbDloOEFnQ1JCdEZoQ2ZSU3QyYlhuVmY5N3dvbjhPbTFiZ3psYVhsQzVQMTEzZmpuNjA3UklBOUpwYTFzQnVCeWV0YXM5MEpqbU9jcFRCRTNQd0dVd2g1Z2ZodkhyalhrV1ptVVFySGNCWHdoLW1XSkgtQ2VDRUk3SF9VdWtOQ05ZeHhMUdIBrwFBVV95cUxNSFZCSmxFdENxcDRHaUJOSXZTaVdwRGRoQ0c1LTVkc2ZuSGlid2tyYllFUXlxYk96MWp6alBKUUNxWTVZZU1LdWpKVFEtNlRiTUduMm9zaUx4aEtTSTh6QU1OajBvTDN3NUpCa3VRV3ViazhKa2JuY3VYdjI5bWFaREdoQWI5ZUF5eWU2ek94dlpXUVlwWGdIdHM3eWJfQlFrMnNMR05KdHJJa2h1M2VZ?oc=5"
   }
  ],
  "daily_forecast": {
