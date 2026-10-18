@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792341946.5764675,
+   "ts": 1792345550.7527719,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "bcdacafde082",
-  "f763cb2f68a8",
-  "ad531ee77670",
   "320e35b9cde1",
   "a94bbde90058",
   "6a1172ef5584",
@@ -3945,9 +3942,24 @@
   "c44ed250e619",
   "58e5aabea09f",
   "b9006535bb77",
-  "76f562d8bdc8"
+  "76f562d8bdc8",
+  "7359f976c02e",
+  "327fa3ea903c",
+  "f62520bb11b1"
  ],
  "news": [
+  {
+   "title": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYndPRzM1RHY1Vk9vQXdMaEJJa0phMGpyaWhWZlNqTDlvTUVxbXNhZW12WG9tR3dMYno5dkdnb18tOEktd2d4QXdqeUZ0QW5kSHlHTXhTSFBzajVlVVRaZUJMeXdTemJHdEhrZUJIY3l2bmlyQjFab3pGYnlQenVoelUwNEViQTTSAYwBQVVfeXFMT0FrYlJuVkNFRDhseTBIa3dKbnNMZmk2aVY5WG5fYmZDRnNFVUFzSXd2eFNhLTd3dlctd1F6Z2kwTmZ5SmRoUVFMQ3VUVlNaUzVzMkJYZkZtOGpDVDZJSDRJNzFJV3FWdVhkNTBDTnVMRXlid0cwTlNaYk1mb281dkEyb3ZpYkxRZ0Zvb3g?oc=5",
+   "published": "2026-10-18T17:18:00+00:00",
+   "id": "7359f976c02e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "SocGen flags relative bargains in Treasuries as yields fall",
    "source": "Seeking Alpha",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Normalisation potentielle des relations avec la Russie diminuant la prime géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Trump's Russian oil tariff waiver offers India relief, but experts warn of renewed US pressure",
-   "source": "TradingView",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdUFxYS16cWJZaHdQMS05MG8yclBKLVo2X2RtZTZmTjNwZHJoeFZYZUlkcXRzV2hiQ2VCSDl0ZXVFNTBEVWdhdmVlcEpsNjdSRzFoNjY5LWZmeWV2b1BDLWZwRVZrdnh2bndFVHdOWEVlWUhQcHlINnkzeHZobUN3OEtpUUFiQlB0LW8td3Z6aTVfemxES1hVRWF1LURBc3JTX3NXSjBQd0pwVFBWcU1wUHJZWEppNUs0a09IM05wZ1lYU01lZTBiQnZURXdTOFJBOWpkTGE5Z3hKTlpuSTlrUDhoU3I?oc=5",
-   "published": "2026-10-17T16:19:14+00:00",
-   "id": "4066e977f495",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Allègement tarifaire diminuant légèrement les tensions commerciales internationales.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7098,7 +7098,8 @@
   "news|202512aafc23": 1792335696.841468,
   "news|8e0430d42e31": 1792336561.3597128,
   "news|6063cc168d53": 1792339291.505506,
-  "news|cc0c872dc969": 1792341085.7077184
+  "news|cc0c872dc969": 1792341085.7077184,
+  "news|7359f976c02e": 1792345568.7366388
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7201,6 +7202,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T17:46:08.736699+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Wright says Trump administration has not broken promise to lower gas prices amid Iran war</b>\n📰 The Hill · Dim 18/10 19:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPYndPRzM1RHY1Vk9vQXdMaEJJa0phMGpyaWhWZlNqTDlvTUVxbXNhZW12WG9tR3dMYno5dkdnb18tOEktd2d4QXdqeUZ0QW5kSHlHTXhTSFBzajVlVVRaZUJMeXdTemJHdEhrZUJIY3l2bmlyQjFab3pGYnlQenVoelUwNEViQTTSAYwBQVVfeXFMT0FrYlJuVkNFRDhseTBIa3dKbnNMZmk2aVY5WG5fYmZDRnNFVUFzSXd2eFNhLTd3dlctd1F6Z2kwTmZ5SmRoUVFMQ3VUVlNaUzVzMkJYZkZtOGpDVDZJSDRJNzFJV3FWdVhkNTBDTnVMRXlid0cwTlNaYk1mb281dkEyb3ZpYkxRZ0Zvb3g?oc=5"
+  },
   {
    "ts": "2026-10-18T16:31:25.707785+00:00",
    "kind": "news",
@@ -7495,11 +7501,6 @@
    "ts": "2026-10-17T18:01:36.161916+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Benjamin Netanyahu Faces Decisive Israel Elections Amid Gaza War And Iran Strike Fears: what 6 outlets left out</b>\n📰 NewsCord · Sam 17/10 19:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVJyM2lTSVY0MTJUdGdCMjI1RkxHamxWQUhQbHBJNERlTlBFSG1GNGhIdmtNS3VxY3ZOVjlyMzhzVExLNWR0YmctOVhRU1JvRlJGUF9IT3ZiTXEyaXpUbFk5WnZ1QzRXZ3BiczdITlB0NEtiTjRxWlVsMmpaM3Ria3hmOFNWQ0gwVFE5ZnZvRzhVMl9oZDU2Z2hDSW0yWjNDZC03TWVFTzVHQ0taWHJ3N0RES3ZxQWFwN3NhUzlWeEptX2lZMWh5eUIxOUF2cU1VZUlxR2hKMFM5UlozQklFUjdxdktGa09sS2c?oc=5"
-  },
-  {
-   "ts": "2026-10-17T17:31:22.910933+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>U.S. Inflation Data Raise Odds of Another Fed Rate Hike This Year</b>\n📰 www.tokenpost.com · Sam 17/10 13:32\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SU5JQ0tWdTdvMHZvcWpUNEVQQm9zRmp4djZiTHRJeHRKS3VZUTU4cldtc0RFWkk0aHdPX2h0enV4ZHBYeG5PamdQVjRBUGZEVHdHV0lFMHpPQQ?oc=5"
   }
  ],
  "daily_forecast": {
