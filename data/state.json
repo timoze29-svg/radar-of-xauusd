@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "b46dd0a4bb3d",
-  "e55f81f89873",
-  "65b765a9755d",
-  "704977fc58cc",
-  "23886c49b8a1",
-  "58f1bf93c09a",
   "dee7beba8fae",
   "fe91a0648e27",
   "6305925a22d1",
@@ -3945,7 +3939,13 @@
   "a8b36e251cd0",
   "bf53e34495be",
   "3599870975c9",
-  "05e45976ac61"
+  "05e45976ac61",
+  "7706e12d4ac0",
+  "9fb11c7f370b",
+  "fe067be8dad5",
+  "10b9ec62fd7a",
+  "2e98e2801d69",
+  "10bbb6f3ddcf"
  ],
  "news": [
   {
@@ -4139,6 +4139,18 @@
    "cat": "politique US",
    "raison": "Pause de 60 jours calmant les craintes immédiates de chocs d'approvisionnement mondiaux.",
    "method": "IA"
+  },
+  {
+   "title": "Iran names new defense minister after predecessor killed during war with Israel",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dzZPcDdJaGd2N3ZRWHNUYjNQbU84a29NRGZ4VEs4dEl5OWlQVTdNZlFNX3dHZVh0d2FNU0lWRW51RXVMZFFQckRMOVM1NGZYdVFrTF9Kd0N6T1JnSUhxMTlFdWh4ODR6aHc?oc=5",
+   "published": "2026-10-18T09:24:47+00:00",
+   "id": "9fb11c7f370b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Lebanese delegation to present demands to end Israeli escalation at Tampa meeting, Aoun says during talks with French FM",
@@ -5269,6 +5281,18 @@
    "method": "IA"
   },
   {
+   "title": "Oil Rises on Concern Over Escalating Middle East Tensions",
+   "source": "EnergyNow",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVVsZmRjTExaN19LeHgyWEQzNnZPN1U0Sk8xeVB0YVFDQ0ljbG5NOWFzTjBiT3F6Vmh4cjFISXJaby1ZTzBhTXc5VmxFbkhUYU9PdmdUMVNrRzFUTWVVY2x5RlRja29UWEx1ZkNEMy1mT2dXbnZvd0huLURJa3Rqd25iVG9rdmZvLThpbUwxMVU?oc=5",
+   "published": "2026-10-17T19:23:19+00:00",
+   "id": "fe067be8dad5",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "What Trump’s Waiver of New Russia Sanctions Means for Ukraine",
    "source": "Time Magazine",
    "theme": "Russie/Ukraine",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Escalade en Ukraine renforçant modérément la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Suspends New Russia Sanctions as Tensions With Ukraine Deepen",
-   "source": "kvor.com",
-   "theme": "Géopolitique",
-   "link": "https://www.kvor.com/2026/10/17/trump-suspends-new-russia-sanctions-as-tensions-with-ukraine-deepen/",
-   "published": "2026-10-17T10:30:00+00:00",
-   "id": "6d92b3436c08",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Incertitudes diplomatiques accrues quant à la politique étrangère américaine sous Trump.",
-   "method": "IA"
-  },
-  {
-   "title": "Air India , AI Express extend Saudi flight suspension till Oct 24",
-   "source": "siasat.com",
-   "theme": "Géopolitique",
-   "link": "https://www.siasat.com/air-india-ai-express-extend-saudi-flight-suspension-till-oct-24-3559999/",
-   "published": "2026-10-17T10:30:00+00:00",
-   "id": "831484619bd9",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Perturbations de transport liées aux tensions régionales, léger soutien pour l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7079,7 +7079,8 @@
   "news|c1837076a83c": 1792318058.849657,
   "news|6217b3fadcf0": 1792318059.7788732,
   "news|7288780490be": 1792323087.3259678,
-  "news|f121bc6c7f81": 1792323963.6547728
+  "news|f121bc6c7f81": 1792323963.6547728,
+  "news|9fb11c7f370b": 1792325762.0767052
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7182,6 +7183,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T12:16:02.076758+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran names new defense minister after predecessor killed during war with Israel</b>\n📰 The Jerusalem Post · Dim 18/10 11:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE95dzZPcDdJaGd2N3ZRWHNUYjNQbU84a29NRGZ4VEs4dEl5OWlQVTdNZlFNX3dHZVh0d2FNU0lWRW51RXVMZFFQckRMOVM1NGZYdVFrTF9Kd0N6T1JnSUhxMTlFdWh4ODR6aHc?oc=5"
+  },
   {
    "ts": "2026-10-18T11:46:03.654862+00:00",
    "kind": "news",
@@ -7476,11 +7482,6 @@
    "ts": "2026-10-17T13:01:33.343792+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Vance admits he disagreed with Trump on Iran war</b>\n📰 Arabian Business · Sam 17/10 10:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-17T13:01:32.343543+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump rejects nuclear strike while threatening Iran’s underground nuclear site</b>\n📰 Muslim Network TV · Sam 17/10 14:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0M5SlBKU0EzOFFOWGRUMDloSllBUExPaVJlZmJRdGNtVVpaTVVpeHNBY2VkRGhuMGVjYmZFNnBpQ1FfUnFJZFd3eHhGX1pFR2FVRG5lQmt0c1dKeGpFdGxVaWYwQU1BaUhfd1hfbjFiS3FRRmtReXlGU0NtT1FBWXNOSjduT2NNaks3dkdFOG9zdmg0NEp0d0JQby1weU50bjU1THU2NWFBUEE?oc=5"
   }
  ],
  "daily_forecast": {
