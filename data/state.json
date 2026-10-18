@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "1e781b907f0b",
-  "09bfdec75691",
   "d7aeef17b7f6",
   "dc0f3a7c73ed",
   "e8d6fde91b38",
@@ -3945,9 +3943,23 @@
   "c5e630964609",
   "e7651964a3d4",
   "6ac201ff1497",
-  "82d96930d5b9"
+  "82d96930d5b9",
+  "6dbdfd219a08",
+  "8395e30c1184"
  ],
  "news": [
+  {
+   "title": "'We are ready for war': Iran's new defense minister threatens US and Israel",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0RUY09lVEZLOGFXTVNNQW5CelJiMFBCQlJBZjZTdWZXdHU5Q3A2TW9RTUZJMUd4cEtTMUVjbXhraEo5ejhNNFAzOFptbktmTU1kbnF3?oc=5",
+   "published": "2026-10-18T13:31:56+00:00",
+   "id": "8395e30c1184",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says 'France is burning', country 'shattered' by immigration",
    "source": "Gulf News",
@@ -3956,21 +3968,9 @@
    "published": "2026-10-18T13:10:59+00:00",
    "id": "b4a294454a89",
    "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "'France is burning': US President Donald Trump blames 'immigration' for unrest in French cities | World News",
-   "source": "Hindustan Times",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVUp5ZC1KeE90X2diT3FtRVFBb04zTVlucEdGcGgzUG9kbzVzMk92MHlSeUhLbklWcTJxc09MYi1UcGxoMkc0bThmMGtUVlpKVGpSVkdPLUJJNjBOTWVxdFJ3TnlqVndSdlJ2ZXlzRkprbEZ5SVd1bEFWWDVrQzdDZHZKakhydTZZYV8tMG5qTWpSb3RfZXpOUDJpZHh5ZV9xdUFOX3lfbXQ1NmdHSnRCb1IyNUR3MzZfREQ2RmsyYUxySFM0anN6dGZUOXpLSWNndHlocldkeWRUd05wbUl4aW5POUpreFhh0gHuAUFVX3lxTE5UNDd5aGgtOGVzV2pvYkRUVl9EbGxXQ0VrUmJQZUtoWjhvcDdQSU10aGlxWnV3X0V5SFVMeW9KUUVUTFMyWXA3TnU5X3dkMHM3NWdKZ2VwRl9ueVg4MzVydU45eEJCbERsemtLNUFzbVY4TTJ2TFVIbUFydVZuTkNCV09DcTdzdllmN0RuX0d6N1ZJMl9ZcmFYRm1jdVRBZWFTWVNCbEpEWXAyLVA2QVctM3pRdkF5UmpEaHBaRlljZWozcDh1TFpFVWxuVDJRcmNJX0ZMeHdETTJnR3NuZWhHU3VjVFZFamJPS3Z0RGc?oc=5",
-   "published": "2026-10-18T13:09:35+00:00",
-   "id": "5a6e6a4ac89c",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "cat": "politique US",
+   "raison": "Simple rhétorique politique sans impact direct sur les taux réels ou le dollar.",
+   "method": "IA"
   },
   {
    "title": "Kremlin says Ukrainian attacks won't change war aims as Kyiv hits Saint Petersburg",
@@ -4003,10 +4003,10 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUXJVNEJtODJRWkpVV3AwcjRSdTE5RVZkak1kNUZmUlFmc0lxUHlNTk1pbUllTEY1ZUE4NzVPaUlESFdfZkFmQWh5N0JabEtKT2F1MlNn?oc=5",
    "published": "2026-10-18T12:46:42+00:00",
    "id": "c5e630964609",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tensions militaires avec l'Iran et risque inflationniste stimulant la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Midterm campaigns are asking , where the beef ? And how much does it cost ?",
@@ -4219,10 +4219,10 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdVpQWnBKZ1BacHYwRWF6N0tyUGN4Q19xZy1iNmVOcUNFRkJ5bFAzWTQwVlpnbUNJRDhnNTNnemF0azZ6dXVPdURvRzBCbGhWcnZYUW1NeEd4ZmUxQno1ZHNwdUZGVHdIeUtTVFNnMDZodV9GaHJoNWU3UFJtb3BWQWI4WHhkbWdPdXoycDRJZTM4dWdWc1U4WDNia3I0RXR3dFJ1U1RSejhTS05YZUNKWThxNkhiMFFzQVByZHNuLW1VRmJ2VzBuNkhYSHh3ZWF2UG4tYkZ0dXV0NjM0VDBwY3FzQdIB6AFBVV95cUxPS0FXZWZETllhSmJYWkEyVHJWQmI3azM4dUN1MnBxck0xTHg5cFpZcHJBNEV2Q01QMEZGMVRTa1FTQ3NjcVkzd09jMmhscWZOUDdCQjBNclpYLTVIYk1mY0tES3NYYWxvS1hzd1N5VWxlbWRLNHA1SVJTMmszRTUwX2NRTkZ5SXZfNVZYX0RsTkF1eUg0N0JpZE9pX2lFcElxTHRBVHpHNkgyZHpkcU52ZE5oYnJGUl9jYTd4RHlhM0YwTGtnenhsNmpwU1RJMFB4OU5oYzIzaTNZcEI1aGFsZnloMS1FRkRh?oc=5",
    "published": "2026-10-18T11:16:00+00:00",
    "id": "e7651964a3d4",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Escalade régionale au Moyen-Orient soutenant modestement l'attrait de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "How Israeli support could most effectively aid Saudi Arabia against the Houthis - analysis",
@@ -7086,7 +7086,8 @@
   "news|915383bf81af": 1792328502.6347194,
   "news|38d25a240c62": 1792328503.6109188,
   "news|c5e630964609": 1792330294.6447322,
-  "news|e7651964a3d4": 1792330295.5018032
+  "news|e7651964a3d4": 1792330295.5018032,
+  "news|8395e30c1184": 1792331191.4245641
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7189,6 +7190,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T13:46:31.424636+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'We are ready for war': Iran's new defense minister threatens US and Israel</b>\n📰 Ynetnews · Dim 18/10 15:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0RUY09lVEZLOGFXTVNNQW5CelJiMFBCQlJBZjZTdWZXdHU5Q3A2TW9RTUZJMUd4cEtTMUVjbXhraEo5ejhNNFAzOFptbktmTU1kbnF3?oc=5"
+  },
   {
    "ts": "2026-10-18T13:31:35.502092+00:00",
    "kind": "news",
@@ -7483,11 +7489,6 @@
    "ts": "2026-10-17T15:24:09.048374+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Trump considering initial limited strike against Iran, source says - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 17/10 12:24\n🧠 Menace d'escalade militaire majeure au Moyen-Orient provoquant une ruée vers la valeur refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPMy1tU1J2VzN6VURid3B3bnRCZm95bFNZYVJ0QlFKYktrQWdVYWpQMDJIRTNNR29iZkZ6YVRaWmwwTkdQRUV0UGdtbU56eUVkajBLeVFjNEJDQ28wRFFaNTQ1UG4wU1JZZGlwOHp1ZkJXRmVwMGRxa3kwLUphWkUya0tHX3ItYVBhdjJCOTk0cUR0QdIBlwFBVV95cUxQZzZ1WFFweFh3Ql9GVnlGRTE5YVFvYmt2OC1IY2VZVlN0eUJmdDhBNHhlaE5rRW5HOEhlUllqNHoxLUdmb1pQY1llalFjTXhnUVJjZ3lHUEQ5NjJMa0k5TTJaZ1RWeWlFemRmMnd2NXl0SGxxRlhVT0FIV1Z2dTh1THEwQkU0cjV3R2hhQlc4WlJWZ1FVTnY4?oc=5"
-  },
-  {
-   "ts": "2026-10-17T15:16:14.782532+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says oil tankers struck by mines in Strait of Hormuz</b>\n📰 jpost.com · Sam 17/10 16:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.jpost.com/middle-east/article-911972"
   }
  ],
  "daily_forecast": {
