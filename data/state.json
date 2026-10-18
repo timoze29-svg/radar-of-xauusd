@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "4b7a410086f2",
-  "50195273b62a",
-  "85a36010cb33",
   "1c006f6042fe",
   "b074a4b2bc50",
   "a5b8abb523ab",
@@ -3945,7 +3942,10 @@
   "11a694f112ad",
   "36c9cff20fd1",
   "8b72bfbf4dc5",
-  "0f0e1382f9eb"
+  "0f0e1382f9eb",
+  "7288780490be",
+  "3d1ee43172fd",
+  "c9b41e609914"
  ],
  "news": [
   {
@@ -3959,6 +3959,18 @@
    "cat": "géopolitique",
    "raison": "Analyse géopolitique régionale sans choc immédiat, soutien marginal à la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist",
+   "source": "The New York Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzA3a2ZwR09NYmNNY0JPZkg5N3BQTzRxY25CcGhTNGxUbVp2eWVKUE9lUk45bkRKbnRiTE5kelNCRkN1MXBuQVdCRTJucC1rZVVxNFZZb3JVV1dOYVE0WFNiMEpmaVUyUDZBdk8wa1Y4a1dEeThUMVlzeWtJN3plRlJRUTNhTld6Z2c?oc=5",
+   "published": "2026-10-18T11:01:55+00:00",
+   "id": "c9b41e609914",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
@@ -3983,6 +3995,18 @@
    "cat": "géopolitique",
    "raison": "Tensions accrues en Ukraine, léger soutien refuge mais impact marginal car déjà intégré.",
    "method": "IA"
+  },
+  {
+   "title": "Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed.",
+   "source": "Yahoo Finance",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVd0STQ4Wk5vNlF5S3otVkVuZUxzc2FLejFxeTNaZHBja2RIVUl4dURLRTBnendVZGt5Wm0zamMzVU9VaHFlT3BwRFhXS1p3TV9rb2lsT3pyRko0dktrejNnVy0wN2ZNYTM2aW04d1NIRDM3ckN4bnB0cWludUZHLVhVS0dHQWFYWFJDQ0JQcFVqQnlia3c?oc=5",
+   "published": "2026-10-18T10:00:24+00:00",
+   "id": "7288780490be",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Egypt’s defense council pledges ‘all forms of support’ to defend Saudi Arabia amid escalating Houthi attacks",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Risque structurel persistant en mer Rouge soutenant modérément l'or physique.",
    "method": "IA"
-  },
-  {
-   "title": "Iran war live : IRGC says supertanker hits mine in Hormuz , catches fire | US - Israel war on Iran News",
-   "source": "aljazeera.com",
-   "theme": "Géopolitique",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?update=5054716",
-   "published": "2026-10-17T10:30:00+00:00",
-   "id": "e8ed011242f5",
-   "impact": 7,
-   "cat": "géopolitique",
-   "raison": "Choc pétrolier et escalade militaire majeure à Ormuz déclenchant une ruée refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Warsh Calls AI an Inflation  Shock , Wont Prejudge Rate Hike",
-   "source": "hngn.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hngn.com/articles/273537/20261017/warsh-calls-ai-inflation-shock-wont-prejudge-rate-hike.htm",
-   "published": "2026-10-17T10:30:00+00:00",
-   "id": "60e001a98c91",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Commentaire hawkish évoquant de possibles hausses de taux face aux risques inflationnistes.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7077,7 +7077,8 @@
   "news|d78c95dfe6c0": 1792314997.7596567,
   "news|6bd12da27124": 1792318057.9181824,
   "news|c1837076a83c": 1792318058.849657,
-  "news|6217b3fadcf0": 1792318059.7788732
+  "news|6217b3fadcf0": 1792318059.7788732,
+  "news|7288780490be": 1792323087.3259678
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7180,6 +7181,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T11:31:27.326024+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed.</b>\n📰 Yahoo Finance · Dim 18/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVd0STQ4Wk5vNlF5S3otVkVuZUxzc2FLejFxeTNaZHBja2RIVUl4dURLRTBnendVZGt5Wm0zamMzVU9VaHFlT3BwRFhXS1p3TV9rb2lsT3pyRko0dktrejNnVy0wN2ZNYTM2aW04d1NIRDM3ckN4bnB0cWludUZHLVhVS0dHQWFYWFJDQ0JQcFVqQnlia3c?oc=5"
+  },
   {
    "ts": "2026-10-18T10:07:39.779058+00:00",
    "kind": "news",
@@ -7474,11 +7480,6 @@
    "ts": "2026-10-17T11:31:24.796450+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran insists end to war on all fronts key for regional peace : Dy FM Khatibzadeh</b>\n📰 aninews.in · Sam 17/10 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://aninews.in/news/world/middle-east/iran-insists-end-to-war-on-all-fronts-key-for-regional-peace-dy-fm160-khatibzadeh20261017154439/"
-  },
-  {
-   "ts": "2026-10-17T11:03:43.258053+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran war live : IRGC says supertanker hits mine in Hormuz , catches fire | US - Israel war on Iran News</b>\n📰 aljazeera.com · Sam 17/10 12:30\n🧠 Choc pétrolier et escalade militaire majeure à Ormuz déclenchant une ruée refuge. [IA]\n🔗 https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?update=5054716"
   }
  ],
  "daily_forecast": {
