@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792322144.0937538,
+   "ts": 1792326658.7530496,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "dee7beba8fae",
-  "fe91a0648e27",
-  "6305925a22d1",
   "039075be5010",
   "fc0841ae9908",
   "4ead7242dfe9",
@@ -3945,7 +3942,10 @@
   "fe067be8dad5",
   "10b9ec62fd7a",
   "2e98e2801d69",
-  "10bbb6f3ddcf"
+  "10bbb6f3ddcf",
+  "055c0ff2aa00",
+  "bf8cc7ecffbe",
+  "9a7c98644224"
  ],
  "news": [
   {
@@ -3991,10 +3991,10 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzA3a2ZwR09NYmNNY0JPZkg5N3BQTzRxY25CcGhTNGxUbVp2eWVKUE9lUk45bkRKbnRiTE5kelNCRkN1MXBuQVdCRTJucC1rZVVxNFZZb3JVV1dOYVE0WFNiMEpmaVUyUDZBdk8wa1Y4a1dEeThUMVlzeWtJN3plRlJRUTNhTld6Z2c?oc=5",
    "published": "2026-10-18T11:01:55+00:00",
    "id": "c9b41e609914",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tension accrue sur l'énergie russe, soutien modéré via prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
@@ -4027,10 +4027,10 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWTVCcXUtTVZhOF95X0xQT3JvV2Zqb2RvLWZwZGhheng1d0hQUW9ZUnI0REJVbnlQa0hGdjJCNWNZUzNISUM2X0Jlb2V6LTJDUXFmR0JDbEliVzNydy1Fd0JyVVN2OTVKa0E?oc=5",
    "published": "2026-10-18T10:43:02+00:00",
    "id": "f121bc6c7f81",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Escalade régionale mineure au Moyen-Orient, effet refuge très limité.",
+   "method": "IA"
   },
   {
    "title": "Zelenskyy Says Russia Seeking 'Total Blackout' In Ukraine After Latest Onslaught On Energy Facilities",
@@ -4043,18 +4043,6 @@
    "cat": "géopolitique",
    "raison": "Tensions accrues en Ukraine, léger soutien refuge mais impact marginal car déjà intégré.",
    "method": "IA"
-  },
-  {
-   "title": "Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed.",
-   "source": "Yahoo Finance",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVd0STQ4Wk5vNlF5S3otVkVuZUxzc2FLejFxeTNaZHBja2RIVUl4dURLRTBnendVZGt5Wm0zamMzVU9VaHFlT3BwRFhXS1p3TV9rb2lsT3pyRko0dktrejNnVy0wN2ZNYTM2aW04d1NIRDM3ckN4bnB0cWludUZHLVhVS0dHQWFYWFJDQ0JQcFVqQnlia3c?oc=5",
-   "published": "2026-10-18T10:00:24+00:00",
-   "id": "7288780490be",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   },
   {
    "title": "Egypt’s defense council pledges ‘all forms of support’ to defend Saudi Arabia amid escalating Houthi attacks",
@@ -4147,10 +4135,10 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dzZPcDdJaGd2N3ZRWHNUYjNQbU84a29NRGZ4VEs4dEl5OWlQVTdNZlFNX3dHZVh0d2FNU0lWRW51RXVMZFFQckRMOVM1NGZYdVFrTF9Kd0N6T1JnSUhxMTlFdWh4ODR6aHc?oc=5",
    "published": "2026-10-18T09:24:47+00:00",
    "id": "9fb11c7f370b",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Persistance des tensions Iran-Israël maintenant une légère prime de risque d'escalade.",
+   "method": "IA"
   },
   {
    "title": "Lebanese delegation to present demands to end Israeli escalation at Tampa meeting, Aoun says during talks with French FM",
@@ -5287,10 +5275,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVVsZmRjTExaN19LeHgyWEQzNnZPN1U0Sk8xeVB0YVFDQ0ljbG5NOWFzTjBiT3F6Vmh4cjFISXJaby1ZTzBhTXc5VmxFbkhUYU9PdmdUMVNrRzFUTWVVY2x5RlRja29UWEx1ZkNEMy1mT2dXbnZvd0huLURJa3Rqd25iVG9rdmZvLThpbUwxMVU?oc=5",
    "published": "2026-10-17T19:23:19+00:00",
    "id": "fe067be8dad5",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rebond du brut sur tensions géopolitiques, soutien combiné inflation et valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "What Trump’s Waiver of New Russia Sanctions Means for Ukraine",
@@ -5807,6 +5795,18 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes au Proche-Orient soutenant marginalement l'or, sans choc macroéconomique majeur.",
    "method": "IA"
+  },
+  {
+   "title": "Trump waives key Russia-related sanctions and tariffs before they take effect under new law.",
+   "source": "News24",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMk1yRllZX3ZGSFlFa21lUi1wdGw2SWwzMGVTM29hdGxHbktTaTFQcnRqbklFNVBRVXJoLWV4ejktZEJZNlhORUVMdDNVMFNLdXF3Mlhld3cxYmFBNFNLaUotbWJCNmV5a2l0ZGU3VThxellIM3lVQUN3ZDNPNmZFaDQ2MDZrVzYyV05DSVFoQWNxM0FFZDlkZVNlbTF6NURLS1ZaaVpyNWlqMWF4NEVtOXRVS002cFFVWEdvbElpYTR1UTJ4V2NlRjhWU25Nb045Und4Q1Y2akhJZVJTdXc?oc=5",
+   "published": "2026-10-17T15:12:13+00:00",
+   "id": "055c0ff2aa00",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Congress gave Trump 30 days to hit Russia's oil buyers with 100% tariffs. He waives them two days before deadline, citing US interests. Moscow calls it historic",
@@ -7080,7 +7080,8 @@
   "news|6217b3fadcf0": 1792318059.7788732,
   "news|7288780490be": 1792323087.3259678,
   "news|f121bc6c7f81": 1792323963.6547728,
-  "news|9fb11c7f370b": 1792325762.0767052
+  "news|9fb11c7f370b": 1792325762.0767052,
+  "news|055c0ff2aa00": 1792326686.9938579
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7183,6 +7184,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T12:31:26.993933+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives key Russia-related sanctions and tariffs before they take effect under new law.</b>\n📰 News24 · Sam 17/10 17:12\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMk1yRllZX3ZGSFlFa21lUi1wdGw2SWwzMGVTM29hdGxHbktTaTFQcnRqbklFNVBRVXJoLWV4ejktZEJZNlhORUVMdDNVMFNLdXF3Mlhld3cxYmFBNFNLaUotbWJCNmV5a2l0ZGU3VThxellIM3lVQUN3ZDNPNmZFaDQ2MDZrVzYyV05DSVFoQWNxM0FFZDlkZVNlbTF6NURLS1ZaaVpyNWlqMWF4NEVtOXRVS002cFFVWEdvbElpYTR1UTJ4V2NlRjhWU25Nb045Und4Q1Y2akhJZVJTdXc?oc=5"
+  },
   {
    "ts": "2026-10-18T12:16:02.076758+00:00",
    "kind": "news",
@@ -7477,11 +7483,6 @@
    "ts": "2026-10-17T13:01:34.342771+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest</b>\n📰 CNBC · Sam 17/10 08:16\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGhWanJQQmg3UlEwNlI3MDRGLWRxV2NyQ0dyOXRScjhQYllENXdEZWVjM2xwYjdlR2pqNGh2b1VVZ2FLbXA2d24tZjRBWUtFd0pqYi1XUndMWWVTSkFnNkdfV25zZzJnY01kcVZ2UUR5RDd4eDNfYk5sdE9sQllPTGQxRWpJU1NrbnppeW1xVWF6cUd5UUtNbGhmQmdkYldJU0J2dzBickprdTDSAbABQVVfeXFMTkFwd09KUmJOQjVPYzl3V2M2Z0dKQUt1N29nbDBockdxMzdtMWNjQkFiRkMxT1Nta0kydzgyN2R3VVo1Rm1MOE55WVo0Q01JT1lfVktNcFFpVUwzeGkwV2taZDlSclRVdGtvU3RkRDliNVhfRk1lTjQ0ajJHSkpwNFhqUV9tSUxwRmJOeWo4ME9ndHYxZVZ2dW5xd2RJWm53S21tTDhuZE5mWVRTQVIwSTU?oc=5"
-  },
-  {
-   "ts": "2026-10-17T13:01:33.343792+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Vance admits he disagreed with Trump on Iran war</b>\n📰 Arabian Business · Sam 17/10 10:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
