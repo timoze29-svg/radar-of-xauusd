@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "fc164c4020c1",
-  "0e576caad963",
   "ba4ed3c82f07",
   "9f011d4d2121",
   "5e04f0acbaec",
@@ -3945,7 +3943,9 @@
   "d2acf60813a4",
   "a88316eea698",
   "cd03d23f62f6",
-  "8b12cc852c61"
+  "8b12cc852c61",
+  "35a465e3bb9e",
+  "f91bf85cd162"
  ],
  "news": [
   {
@@ -3956,6 +3956,18 @@
    "published": "2026-10-18T23:14:35+00:00",
    "id": "d2acf60813a4",
    "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump administration's objectives in Iran war have been met, Rep. Anna Paulina Luna says",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSVHVjanQyV1N4cGNvQmtJWFB4NThTN1lZck9Nby00U2hYa1AtWjVray1CZkdzSVhNM3JQb1pXLThXam9qOEZKNHZyN211N2V1UWdFTDBR?oc=5",
+   "published": "2026-10-18T23:07:05+00:00",
+   "id": "35a465e3bb9e",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Tensions récurrentes au Moyen-Orient offrant un soutien marginal d'actif refuge.",
    "method": "IA"
-  },
-  {
-   "title": "President wants 60 days to analyse impact of Russia sanctions law : Rubio",
-   "source": "hindustantimes.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hindustantimes.com/world-news/us-news/president-wants-60-days-to-analyse-impact-of-russia-sanctions-law-rubio-101792287672011.html",
-   "published": "2026-10-18T03:00:00+00:00",
-   "id": "230f108e8292",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Délai d'analyse réduisant le risque géopolitique et tarifaire à très court terme.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7120,7 +7120,8 @@
   "news|26f774074f5a": 1792359974.857264,
   "news|36dcaa2c192c": 1792362687.2718682,
   "news|fd87faa227d4": 1792364272.4177618,
-  "news|e22eeca638ad": 1792364495.402637
+  "news|e22eeca638ad": 1792364495.402637,
+  "news|35a465e3bb9e": 1792367165.3323905
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7223,6 +7224,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T23:46:05.332455+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration's objectives in Iran war have been met, Rep. Anna Paulina Luna says</b>\n📰 Fox News · Lun 19/10 01:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSVHVjanQyV1N4cGNvQmtJWFB4NThTN1lZck9Nby00U2hYa1AtWjVray1CZkdzSVhNM3JQb1pXLThXam9qOEZKNHZyN211N2V1UWdFTDBR?oc=5"
+  },
   {
    "ts": "2026-10-18T23:01:35.402734+00:00",
    "kind": "news",
@@ -7517,11 +7523,6 @@
    "ts": "2026-10-18T02:16:08.066205+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump asserts Iran war will end  very quickly ; touts military strikes on Tehran nuclear sites</b>\n📰 aninews.in · Dim 18/10 03:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://aninews.in/news/world/us/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehrans-nuclear-sites20261018055742/"
-  },
-  {
-   "ts": "2026-10-18T02:16:07.136557+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump asserts Iran war will end</b>\n📰 russiaherald.com · Dim 18/10 03:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.russiaherald.com/news/279382138/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehran-nuclear-sites"
   }
  ],
  "daily_forecast": {
