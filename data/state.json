@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "320e35b9cde1",
-  "a94bbde90058",
   "6a1172ef5584",
   "af69c60afe42",
   "dd510103b652",
@@ -3945,9 +3943,23 @@
   "76f562d8bdc8",
   "7359f976c02e",
   "327fa3ea903c",
-  "f62520bb11b1"
+  "f62520bb11b1",
+  "c1546704e877",
+  "3c8f40268369"
  ],
  "news": [
+  {
+   "title": "Shafaq News..Netanyahu urges Iran regime change; Lavrov warns of wider war",
+   "source": "شفق نيوز",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDEzendHdE01RzRHWGhTTkVwVXpXcVc4LXdnRWtiQ3o5a2NxQi12djhoYnFyVkFXcUl3RFBPeWlMckxOTmNQcnQzWGFLcWRCdnVON0N1YTkyeTI2bFFUSTZNOWJ3ODdKQi1uOTdWbEs4dWswVmYtZVp4V1cyNmt0ZHVUaWlfend4SEFJd1FzNXVyQQ?oc=5",
+   "published": "2026-10-18T17:45:53+00:00",
+   "id": "c1546704e877",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war",
    "source": "The Hill",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Suspension des sanctions américaines signalant une détente favorable au sentiment de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Russia hails Trump waiving sanctions as  historic  – The Times Of Earth",
-   "source": "timesofearth.com",
-   "theme": "Géopolitique",
-   "link": "https://www.timesofearth.com/2026/10/17/russia-hails-trump-waiving-sanctions-as-historic/",
-   "published": "2026-10-17T16:30:00+00:00",
-   "id": "d7042ccc4fba",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Normalisation potentielle des relations avec la Russie diminuant la prime géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7099,7 +7099,8 @@
   "news|8e0430d42e31": 1792336561.3597128,
   "news|6063cc168d53": 1792339291.505506,
   "news|cc0c872dc969": 1792341085.7077184,
-  "news|7359f976c02e": 1792345568.7366388
+  "news|7359f976c02e": 1792345568.7366388,
+  "news|c1546704e877": 1792346495.4872189
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7202,6 +7203,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T18:01:35.487284+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Shafaq News..Netanyahu urges Iran regime change; Lavrov warns of wider war</b>\n📰 شفق نيوز · Dim 18/10 19:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDEzendHdE01RzRHWGhTTkVwVXpXcVc4LXdnRWtiQ3o5a2NxQi12djhoYnFyVkFXcUl3RFBPeWlMckxOTmNQcnQzWGFLcWRCdnVON0N1YTkyeTI2bFFUSTZNOWJ3ODdKQi1uOTdWbEs4dWswVmYtZVp4V1cyNmt0ZHVUaWlfend4SEFJd1FzNXVyQQ?oc=5"
+  },
   {
    "ts": "2026-10-18T17:46:08.736699+00:00",
    "kind": "news",
@@ -7496,11 +7502,6 @@
    "ts": "2026-10-17T18:16:07.249891+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Zelensky sends biting coded message to Trump in post about him easing sanctions on Russia</b>\n📰 mirror.co.uk · Sam 17/10 19:45\n🧠 haussier or (fed, géopolitique) [mots-clés]\n🔗 https://www.mirror.co.uk/news/politics/zelensky-trump-sanctions-lindsey-graham-37783253"
-  },
-  {
-   "ts": "2026-10-17T18:01:36.161916+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Benjamin Netanyahu Faces Decisive Israel Elections Amid Gaza War And Iran Strike Fears: what 6 outlets left out</b>\n📰 NewsCord · Sam 17/10 19:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVJyM2lTSVY0MTJUdGdCMjI1RkxHamxWQUhQbHBJNERlTlBFSG1GNGhIdmtNS3VxY3ZOVjlyMzhzVExLNWR0YmctOVhRU1JvRlJGUF9IT3ZiTXEyaXpUbFk5WnZ1QzRXZ3BiczdITlB0NEtiTjRxWlVsMmpaM3Ria3hmOFNWQ0gwVFE5ZnZvRzhVMl9oZDU2Z2hDSW0yWjNDZC03TWVFTzVHQ0taWHJ3N0RES3ZxQWFwN3NhUzlWeEptX2lZMWh5eUIxOUF2cU1VZUlxR2hKMFM5UlozQklFUjdxdktGa09sS2c?oc=5"
   }
  ],
  "daily_forecast": {
