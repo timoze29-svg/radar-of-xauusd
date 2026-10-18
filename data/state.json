@@ -946,14 +946,6 @@
   }
  },
  "seen_news": [
-  "039075be5010",
-  "fc0841ae9908",
-  "4ead7242dfe9",
-  "16ba6de8bf53",
-  "4562db21d93a",
-  "38b8e0b44de9",
-  "b717f595c2f0",
-  "534f47db5fd9",
   "810924b10bd7",
   "00759a1a9e9a",
   "20edb616d525",
@@ -3945,9 +3937,41 @@
   "10bbb6f3ddcf",
   "055c0ff2aa00",
   "bf8cc7ecffbe",
-  "9a7c98644224"
+  "9a7c98644224",
+  "3a8df37425f1",
+  "a295285432e6",
+  "35a58f2ab4ca",
+  "757e2344b7c9",
+  "bf99509bc13c",
+  "e36bc7010d3d",
+  "906f97c60de6",
+  "2e7d49f3a9f4"
  ],
  "news": [
+  {
+   "title": "Ukraine sets Saint Petersburg refinery ablaze in large-scale drone attack",
+   "source": "France 24",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWJST3kyUkpMcDg2V01NODZWOXIwUy1JbHpSQWpuUVluTERtZ1BjR0NKMGhhVHVfX1NpelF6SDJ6TEJXbk93cWpmU0JubGs1REgwZGFSOVRiNV94SFEyT3pHMGpVUUVJMUhSZWVaLUstV183RzFORy1TSVl5U1ZIa2NxcnZnLU9LelNqWGdfXzhpOFotS2ZDenhkX2NVOVdESnI5RTdlSTJqZ25uUjFycF9yMndwRVFmdDVkbA?oc=5",
+   "published": "2026-10-18T12:03:23+00:00",
+   "id": "e36bc7010d3d",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
+   "source": "Fox News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHpPTU5QelFLREtoQmFtaWdZMV9DSXA5dkR3RWNMNmZpek5waFVxZE9JSWpLZU81WmFuM016WlRRTjB1S1R0NnFNTVJyZ2pCWGpBaVZDcThObGpQUk1ySWJSQWFqdGpBbzFOd2pzcEE3Vmh5bkR6Z2pwczc1cmNBRlNYbUJoYUg5TVAzcmFCRHJxZlppTnVLTWg0X05FMVAtMWZ1Y3YySmt2R1MyM016ckppVDlrS0tlR2fSAb8BQVVfeXFMTW55QWdNM0RPV3FRbjVkMDNQWmdvTkZ4cEExbHZlY0E3OWRqOVNCQUM3ZC1vcnd5cGtrYmtmTEdBRW5iNU5kTk4wbXVJNHZ6dWNXRi11dkRtTHZ2RVVQcndPMEVYcTdRN09OUklSQUZ3WmlITERjUTh5Ri1tYWxrNWxHTXhER2o1WEpnbVRnVFBwZkJrUFQ5VTY3WHpuMGRtclY4TzZOWnNIblJmSjc1RlpvSVZLTUlVam5TX0cwTGc?oc=5",
+   "published": "2026-10-18T12:00:13+00:00",
+   "id": "bf99509bc13c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold price at the close of the session on October 18th: Reasons for pushing gold prices down sharply",
    "source": "Laodong.vn",
@@ -6323,30 +6347,6 @@
    "cat": "inflation",
    "raison": "CPI supérieur aux attentes : dollar et rendements grimpent, Fed hawkish baissière pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Nasdaq 100 Falls 5.5% as AI Debt Worries Meet Oil Near $110",
-   "source": "www.tokenpost.com",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HdUtoZjFCOE5HSTh2RUhRNzRDSnlBc0VicE9GRWZDcTZMZEw3MUhWRko2bTdFNmJnRzVMOHlwTzdmb0JJbkZNT0NkZlJTanVTZlNPTjc2OGlRQQ?oc=5",
-   "published": "2026-10-17T10:40:24+00:00",
-   "id": "adafee84f57a",
-   "impact": 6,
-   "cat": "inflation",
-   "raison": "Choc stagflationniste : pétrole à 110 $, krach boursier et forte fuite vers la sécurité.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine : Civilian casualty rates among  deadliest  in years , as energy attacks intensify Global Issues",
-   "source": "globalissues.org",
-   "theme": "Géopolitique",
-   "link": "https://www.globalissues.org/news/2026/10/16/44368",
-   "published": "2026-10-17T10:30:00+00:00",
-   "id": "0309fa4a7a56",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade en Ukraine renforçant modérément la demande d'or comme valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7081,7 +7081,8 @@
   "news|7288780490be": 1792323087.3259678,
   "news|f121bc6c7f81": 1792323963.6547728,
   "news|9fb11c7f370b": 1792325762.0767052,
-  "news|055c0ff2aa00": 1792326686.9938579
+  "news|055c0ff2aa00": 1792326686.9938579,
+  "news|bf99509bc13c": 1792327563.9193776
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7184,6 +7185,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T12:46:03.919438+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine</b>\n📰 Fox News · Dim 18/10 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHpPTU5QelFLREtoQmFtaWdZMV9DSXA5dkR3RWNMNmZpek5waFVxZE9JSWpLZU81WmFuM016WlRRTjB1S1R0NnFNTVJyZ2pCWGpBaVZDcThObGpQUk1ySWJSQWFqdGpBbzFOd2pzcEE3Vmh5bkR6Z2pwczc1cmNBRlNYbUJoYUg5TVAzcmFCRHJxZlppTnVLTWg0X05FMVAtMWZ1Y3YySmt2R1MyM016ckppVDlrS0tlR2fSAb8BQVVfeXFMTW55QWdNM0RPV3FRbjVkMDNQWmdvTkZ4cEExbHZlY0E3OWRqOVNCQUM3ZC1vcnd5cGtrYmtmTEdBRW5iNU5kTk4wbXVJNHZ6dWNXRi11dkRtTHZ2RVVQcndPMEVYcTdRN09OUklSQUZ3WmlITERjUTh5Ri1tYWxrNWxHTXhER2o1WEpnbVRnVFBwZkJrUFQ5VTY3WHpuMGRtclY4TzZOWnNIblJmSjc1RlpvSVZLTUlVam5TX0cwTGc?oc=5"
+  },
   {
    "ts": "2026-10-18T12:31:26.993933+00:00",
    "kind": "news",
@@ -7478,11 +7484,6 @@
    "ts": "2026-10-17T15:16:11.323760+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia - Ukraine war news : Donald Trump waives Russia sanctions ; Volodymyr Zelenskyy urges support for new ones</b>\n📰 abc11.com · Sam 17/10 16:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://abc11.com/post/russia-ukraine-war-news-donald-trump-waives-sanctions-volodymyr-zelenskyy-urges-support-new-ones/19947635/"
-  },
-  {
-   "ts": "2026-10-17T13:01:34.342771+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest</b>\n📰 CNBC · Sam 17/10 08:16\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGhWanJQQmg3UlEwNlI3MDRGLWRxV2NyQ0dyOXRScjhQYllENXdEZWVjM2xwYjdlR2pqNGh2b1VVZ2FLbXA2d24tZjRBWUtFd0pqYi1XUndMWWVTSkFnNkdfV25zZzJnY01kcVZ2UUR5RDd4eDNfYk5sdE9sQllPTGQxRWpJU1NrbnppeW1xVWF6cUd5UUtNbGhmQmdkYldJU0J2dzBickprdTDSAbABQVVfeXFMTkFwd09KUmJOQjVPYzl3V2M2Z0dKQUt1N29nbDBockdxMzdtMWNjQkFiRkMxT1Nta0kydzgyN2R3VVo1Rm1MOE55WVo0Q01JT1lfVktNcFFpVUwzeGkwV2taZDlSclRVdGtvU3RkRDliNVhfRk1lTjQ0ajJHSkpwNFhqUV9tSUxwRmJOeWo4ME9ndHYxZVZ2dW5xd2RJWm53S21tTDhuZE5mWVRTQVIwSTU?oc=5"
   }
  ],
  "daily_forecast": {
