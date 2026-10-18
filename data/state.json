@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792281330.5644608,
+   "ts": 1792285267.172556,
    "data": [
     {
      "title": "FOMC Member Hammack Speaks",
@@ -1067,11 +1067,6 @@
   }
  },
  "seen_news": [
-  "d110a73bacc5",
-  "86ee8ca2dabf",
-  "18e8291f98ed",
-  "6d3d95ce54cf",
-  "2db5b0a493e7",
   "7d163be9ddd3",
   "05543b526eb3",
   "73adeec1f8b7",
@@ -4066,7 +4061,12 @@
   "9136c3c3fa90",
   "989d1f0944da",
   "f2745e021a25",
-  "6f10c280bb1d"
+  "6f10c280bb1d",
+  "d72aed263f22",
+  "349726b25626",
+  "e01050cf0724",
+  "2b4025c1bd79",
+  "a67421c2f057"
  ],
  "news": [
   {
@@ -4130,30 +4130,6 @@
    "method": "IA"
   },
   {
-   "title": "Zelenskiy criticises US waiver of sanctions on Russia",
-   "source": "theadvocate.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.theadvocate.com.au/story/9370357/zelenskiy-criticises-us-waiver-of-sanctions-on-russia/",
-   "published": "2026-10-18T00:00:00+00:00",
-   "id": "fb9fda9b6acf",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Frottements diplomatiques mineurs sans escalade militaire directe, impact négligeable sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "More Than 40 Countries Urge 24 - Hour Notice Before Ballistic Missile Tests",
-   "source": "eurasiareview.com",
-   "theme": "Géopolitique",
-   "link": "https://www.eurasiareview.com/17102026-more-than-40-countries-urge-24-hour-notice-before-ballistic-missile-tests-2/",
-   "published": "2026-10-18T00:00:00+00:00",
-   "id": "c57628b93fe2",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Simple déclaration diplomatique multilatérale, sans impact tangible sur les marchés ou l'or.",
-   "method": "IA"
-  },
-  {
    "title": "Masked settlers attack European diplomats in occupied West Bank",
    "source": "wvtm13.com",
    "theme": "Géopolitique",
@@ -4164,6 +4140,18 @@
    "cat": "géopolitique",
    "raison": "Incident diplomatique localisé, léger soutien refuge mais impact macroéconomique très marginal.",
    "method": "IA"
+  },
+  {
+   "title": "Resigned Trump counterterror adviser Joe Kent says 'Israel drove the decision' to strike Iran - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhsUzdIbkRKd1JhaE5hOVlFTWdIWmxRMmJXMDZNbDloOEFnQ1JCdEZoQ2ZSU3QyYlhuVmY5N3dvbjhPbTFiZ3psYVhsQzVQMTEzZmpuNjA3UklBOUpwYTFzQnVCeWV0YXM5MEpqbU9jcFRCRTNQd0dVd2g1Z2ZodkhyalhrV1ptVVFySGNCWHdoLW1XSkgtQ2VDRUk3SF9VdWtOQ05ZeHhMUdIBrwFBVV95cUxNSFZCSmxFdENxcDRHaUJOSXZTaVdwRGRoQ0c1LTVkc2ZuSGlid2tyYllFUXlxYk96MWp6alBKUUNxWTVZZU1LdWpKVFEtNlRiTUduMm9zaUx4aEtTSTh6QU1OajBvTDN3NUpCa3VRV3ViazhKa2JuY3VYdjI5bWFaREdoQWI5ZUF5eWU2ek94dlpXUVlwWGdIdHM3eWJfQlFrMnNMR05KdHJJa2h1M2VZ?oc=5",
+   "published": "2026-10-17T21:41:38+00:00",
+   "id": "349726b25626",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump slaps 100% tariff on some pharmaceutical drugs via executive order - ABC News",
@@ -4464,6 +4452,18 @@
    "cat": "géopolitique",
    "raison": "Risque accru de frappe israélienne sur l'Iran soutenant la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump waives new Russia sanctions in the \"national interests\"",
+   "source": "Axios",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
+   "published": "2026-10-17T17:26:35+00:00",
+   "id": "d72aed263f22",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Benjamin Netanyahu Faces Decisive Israel Elections Amid Gaza War And Iran Strike Fears: what 6 outlets left out",
@@ -6254,6 +6254,18 @@
    "method": "IA"
   },
   {
+   "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5",
+   "published": "2026-10-17T07:00:20+00:00",
+   "id": "e01050cf0724",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength - ABC News",
    "source": "Breaking News, Latest News and Videos",
    "theme": "Iran / Israël",
@@ -6455,18 +6467,6 @@
    "impact": -1,
    "cat": "fed",
    "raison": "Spéculation sur un statu quo restrictif de la Fed, légèrement défavorable à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Federal debt tops $40 trillion. Here's what it means for your wallet - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
-   "published": "2026-10-17T04:39:59+00:00",
-   "id": "e9fafb2c5c78",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Seuil symbolique soutenant la thèse de dépréciation monétaire, mais impact immédiat très limité.",
    "method": "IA"
   }
  ],
@@ -7179,7 +7179,8 @@
   "news|02621e0402f6": 1792281347.9182944,
   "news|ab3b6c7924b2": 1792282564.9860604,
   "news|92fb41f1be70": 1792282565.9792254,
-  "news|95cddca8d6e2": 1792282566.9232264
+  "news|95cddca8d6e2": 1792282566.9232264,
+  "news|349726b25626": 1792285289.3885467
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7282,6 +7283,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-18T01:01:29.388602+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Resigned Trump counterterror adviser Joe Kent says 'Israel drove the decision' to strike Iran - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 17/10 23:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhsUzdIbkRKd1JhaE5hOVlFTWdIWmxRMmJXMDZNbDloOEFnQ1JCdEZoQ2ZSU3QyYlhuVmY5N3dvbjhPbTFiZ3psYVhsQzVQMTEzZmpuNjA3UklBOUpwYTFzQnVCeWV0YXM5MEpqbU9jcFRCRTNQd0dVd2g1Z2ZodkhyalhrV1ptVVFySGNCWHdoLW1XSkgtQ2VDRUk3SF9VdWtOQ05ZeHhMUdIBrwFBVV95cUxNSFZCSmxFdENxcDRHaUJOSXZTaVdwRGRoQ0c1LTVkc2ZuSGlid2tyYllFUXlxYk96MWp6alBKUUNxWTVZZU1LdWpKVFEtNlRiTUduMm9zaUx4aEtTSTh6QU1OajBvTDN3NUpCa3VRV3ViazhKa2JuY3VYdjI5bWFaREdoQWI5ZUF5eWU2ek94dlpXUVlwWGdIdHM3eWJfQlFrMnNMR05KdHJJa2h1M2VZ?oc=5"
+  },
   {
    "ts": "2026-10-18T00:16:06.923465+00:00",
    "kind": "news",
@@ -7576,11 +7582,6 @@
    "ts": "2026-10-17T03:16:15.238248+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives tariffs, many sanctions under new Russia sanctions law</b>\n📰 Anadolu Ajansı · Sam 17/10 04:56\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk1Na2QzczVDWHdWZjQtTWRRYUwtemVCV3BhZVliTS1MdGpPMzJoMTJBWFVnRnYtS2lGdUxEeGZrR09pXzlxX000ZU8tMmNtMkRWTG40RFRnWndaeEJ0Z2d2ZDVCcUZROUlKS2RvNGNWM0NTUU1BVEI4VmNjRzlnQUxDTFZ5c3NxRnA3RVh5eHVsbnFpUW1JS2l1UEI0Z1MtRjVrV1h2OA?oc=5"
-  },
-  {
-   "ts": "2026-10-17T03:16:14.234754+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives Russia energy tariffs and sanctions under Graham law</b>\n📰 business-standard.com · Sam 17/10 05:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://www.business-standard.com/world-news/trump-waives-russia-energy-tariffs-and-sanctions-under-graham-law-126101700093_1.html"
   }
  ],
  "daily_forecast": {
