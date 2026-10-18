@@ -1067,10 +1067,6 @@
   }
  },
  "seen_news": [
-  "5c43a9f98ba1",
-  "5e8f30099d16",
-  "e12bdd8b3fb8",
-  "1fb165fd39da",
   "7445febd24dc",
   "174ca0b013f0",
   "ac6cea3145f8",
@@ -4066,7 +4062,11 @@
   "1c9c94ee3c12",
   "0b785fd7f593",
   "95cddca8d6e2",
-  "d6b187cef1a7"
+  "d6b187cef1a7",
+  "b4167f02b59f",
+  "cd09fe367775",
+  "1669693984a9",
+  "7b9548d77f4e"
  ],
  "news": [
   {
@@ -4076,22 +4076,10 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHRkS1hNSWVaaXZ1VndGZGI5NVdtUk80Y1BhSlFFdzJxWWktQUFxZ0dLQ3ZJS1ZMUWMzd3draXY3TXo3RldtZ1J1Q1NhdUhoZTc4WFBZTGlWelFUZGtmcU0weXNOZFlENGl3Q09XS0hLNVhaV3VURHJsSmhrNXlYWGN1Z3RMWlV6X2xRYzI4QlhHN0VmcFd0SjZESQ?oc=5",
    "published": "2026-10-18T00:08:33+00:00",
    "id": "3f0f48281747",
-   "impact": 5,
+   "impact": 2,
    "cat": "dollar",
-   "raison": "haussier or (dollar)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Zelenskiy criticises US waiver of sanctions on Russia",
-   "source": "theadvocate.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.theadvocate.com.au/story/9370357/zelenskiy-criticises-us-waiver-of-sanctions-on-russia/",
-   "published": "2026-10-18T00:00:00+00:00",
-   "id": "fb9fda9b6acf",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Un dollar plus faible soutient mécaniquement le cours de l'or à court terme.",
+   "method": "IA"
   },
   {
    "title": "Would be very dangerous : Zelenskyy claims Russia planning to strike western Ukraine using Belarusian territory",
@@ -4100,22 +4088,10 @@
    "link": "http://www.bignewsnetwork.com/news/279381821/would-be-very-dangerous-zelenskyy-claims-russia-planning-to-strike-western-ukraine-using-belarusian-territory",
    "published": "2026-10-18T00:00:00+00:00",
    "id": "4eccf4d6f988",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "More Than 40 Countries Urge 24 - Hour Notice Before Ballistic Missile Tests",
-   "source": "eurasiareview.com",
-   "theme": "Géopolitique",
-   "link": "https://www.eurasiareview.com/17102026-more-than-40-countries-urge-24-hour-notice-before-ballistic-missile-tests-2/",
-   "published": "2026-10-18T00:00:00+00:00",
-   "id": "c57628b93fe2",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque d'escalade impliquant la Biélorussie, léger soutien via la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Iran offers US deal to reopen Hormuz within a week",
@@ -4124,10 +4100,10 @@
    "link": "http://www.bignewsnetwork.com/news/279382083/iran-offers-us-deal-to-reopen-hormuz-within-a-week",
    "published": "2026-10-18T00:00:00+00:00",
    "id": "ab3b6c7924b2",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Désescalade potentielle dans le détroit d'Ormuz, réduisant la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Retail price impacts from Iran war uneven , add up before midterms – NBC 6 South Florida",
@@ -4136,10 +4112,10 @@
    "link": "https://www.nbcmiami.com/news/national-international/retail-price-impacts-iran-war-uneven-households-midterms/3874239/",
    "published": "2026-10-18T00:00:00+00:00",
    "id": "92fb41f1be70",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "inflation",
+   "raison": "Pressions inflationnistes résiduelles liées aux tensions énergétiques, soutien marginal pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Another interest rate hike may be ahead as Fed battles inflation",
@@ -4148,10 +4124,34 @@
    "link": "https://www.koaa.com/politics/economy/another-interest-rate-hike-may-be-ahead-as-fed-battles-inflation",
    "published": "2026-10-18T00:00:00+00:00",
    "id": "95cddca8d6e2",
-   "impact": -8,
+   "impact": -5,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "La perspective d'une hausse des taux Fed dope les rendements réels, pénalisant l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Zelenskiy criticises US waiver of sanctions on Russia",
+   "source": "theadvocate.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.theadvocate.com.au/story/9370357/zelenskiy-criticises-us-waiver-of-sanctions-on-russia/",
+   "published": "2026-10-18T00:00:00+00:00",
+   "id": "fb9fda9b6acf",
+   "impact": 0,
+   "cat": "géopolitique",
+   "raison": "Frottements diplomatiques mineurs sans escalade militaire directe, impact négligeable sur l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "More Than 40 Countries Urge 24 - Hour Notice Before Ballistic Missile Tests",
+   "source": "eurasiareview.com",
+   "theme": "Géopolitique",
+   "link": "https://www.eurasiareview.com/17102026-more-than-40-countries-urge-24-hour-notice-before-ballistic-missile-tests-2/",
+   "published": "2026-10-18T00:00:00+00:00",
+   "id": "c57628b93fe2",
+   "impact": 0,
+   "cat": "géopolitique",
+   "raison": "Simple déclaration diplomatique multilatérale, sans impact tangible sur les marchés ou l'or.",
+   "method": "IA"
   },
   {
    "title": "Sahel Jihadist Rivalry Becomes a Regional War in 2026",
@@ -4160,10 +4160,10 @@
    "link": "https://www.riotimesonline.com/jnim-islamic-state-sahel-rivalry-explained-2026/",
    "published": "2026-10-18T00:00:00+00:00",
    "id": "d6b187cef1a7",
-   "impact": 6,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Projection lointaine et conflit périphérique, sans risque systémique immédiat pour les marchés.",
+   "method": "IA"
   },
   {
    "title": "Masked settlers attack European diplomats in occupied West Bank",
@@ -4175,6 +4175,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Incident diplomatique localisé, léger soutien refuge mais impact macroéconomique très marginal.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump slaps 100% tariff on some pharmaceutical drugs via executive order - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHNjYmZWRzV1Rno1QnBJdlAxR1Jjd1dGLTdTRHlUQnRUQmpCOUFJSDc0cFdCSy1heGE1SUc5R1k3WWJkZGFKZ01vYUQyaTM0bzgxSWJ5R2RVYjdQNjU2NjhVZ2lUZGtUM1Ffa0RQRjFPb2tvOFFCVXN1M1pPUnN1UTYwZVlWdXZWSkppX014QkJPQ0U4VDAzMzJGYnlKRURCemFWMVd6SVZTVGfSAbABQVVfeXFMT3pWWlhKeVJ4NHJNZ3Y4TWNzT0RTYi1UajFQcnJlVDUxLWpOY0N4bTFNWVlRaDVnRjYxaS1tMVVMNkZUYlhmTFJlT1BvSmpEMWVvelhIRXhIeUQtS0d2V2NlZ3ZLTXFpYXlDT0VPQkRLRjA5eXNKZnlzSGRrajJUeEtUUWRYNnhlRHVXYldaU3NBdG1VTVBqcXRtY3ViMHQ1MjJzVlhIRzNFNHhUeVI3dWI?oc=5",
+   "published": "2026-10-17T21:01:55+00:00",
+   "id": "7b9548d77f4e",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "Mesures protectionnistes stimulant les craintes d'inflation et l'incertitude commerciale globale.",
    "method": "IA"
   },
   {
@@ -4272,18 +4284,6 @@
    "cat": "politique US",
    "raison": "Allègement potentiel des tensions avec Moscou, réduisant modérément la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVZhLWhnbllzUmRRZXROblpYMW1kN3hKbFNqb1Z1QzdFc2FxMXNIV1IwUW9zVHdvY05pb1BjUUpzSVo1dFRhVExwQkNnNkd6b1RhQUk3Wmh5VDRrY1VnUGwtcjQ4UGJtaHBvNUhJbFFRVGJ0V1Fyb190YUtJNlMzaXZKQjhOdnZUNkFSZ1BULWVJbG83ZDdMV2ZkYmgyMk9fNmtManYyNWstYlZSMy1mQ1haUdIBuAFBVV95cUxOY2QxSFJMZlhySlh5VGtHZmhCUnFjaFVZVlk4NUVickRHSG8wRUgyQTBXcDY1OFM2RDFnZGRWWVBubUVzZ1BHMjg4bV82NjloQ3Uwc203UVlLS0lJN3BDbU1ZMEpoRFkwZ0RjdHhkT3J0OXhzVEllRFR5Zk5jNVhici1RdWlFdWVscklpWktzcTVkNlpzSkY5aGdsSE5Ld3pIRndYNEhGWUJhVXV0WFlLM1NIejhsdlZV?oc=5",
-   "published": "2026-10-17T19:04:10+00:00",
-   "id": "ad090a8904f6",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   },
   {
    "title": "Trump decision to waive Russian sanctions outrages Congress , but no quick counter seen",
@@ -5708,10 +5708,10 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFA2RWYwOHRTYXlQVW81QXRIUDZmRTFscWx6Nl9qY3lXV3lneUtZNGlnWVVUeEIxTEEtNnQwWG1Rdl9QM0NUSTVLdGRxR3dKZGdJQVRZdUxCWkdVLVB5YXA4cjhPZ1JPalVPdlpncHpVNF9EZy1BLTViVy11QVpDM3RDRU42dThjZ1ZFSHFiVVhTbVN6MXhj?oc=5",
    "published": "2026-10-17T08:58:40+00:00",
    "id": "02621e0402f6",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Attaques de pétroliers et regain de tensions régionales soutenant la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump touts 'truly great friendship' with China's Xi amid high-stakes state visit",
