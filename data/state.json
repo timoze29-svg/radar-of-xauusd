@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "25cdb0576fb9",
-  "b130afa2b45b",
-  "187e3b757f37",
-  "e4b963ea45e2",
   "2f6b130f8a26",
   "f8b3da837041",
   "8e1ebde258a6",
@@ -3945,7 +3941,11 @@
   "4ece641eb510",
   "6559ac7761d2",
   "7425b452ed63",
-  "aa50f764697a"
+  "aa50f764697a",
+  "5665fcdc04d3",
+  "dbf1e6497a33",
+  "66398d096188",
+  "491980f9f536"
  ],
  "news": [
   {
@@ -3968,6 +3968,18 @@
    "published": "2026-10-19T12:37:50+00:00",
    "id": "aa50f764697a",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran War Day 234: Russia’s Foreign Minister Visits Tehran for Talks",
+   "source": "The American Conservative",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOelZYS2JvUUF2eHh2Q0o5aXpNOGg2cTFSS01OQU0wZVhwX2t3SDZtdVJSVExSV3JIcGV0MGFjNFhaeFJGMkhSM0k5c0xmamFQbmZhX2JaZzBXa0JNMWpCbVJkZ0hWeEdLd3p2ZUhYaFZ6eEpQOVZBRXFGcm9aSURxbFFaOEJrMktEd01sdGpmUk9PaklrakRjOG9tWF8?oc=5",
+   "published": "2026-10-19T12:34:00+00:00",
+   "id": "dbf1e6497a33",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4019,6 +4031,18 @@
    "cat": "géopolitique",
    "raison": "L'apaisement potentiel des sanctions russes réduit marginalement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says",
+   "source": "EnergyNow.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDgyTWpjcGJvZzNIU1o5eTE0Z1dKTTdDWlFVMDBtNHhLNnBmVUl4MGRYOGpYYXV0ZkdSNG5VU0JpUklNTkNNMGE5Sy1saUJ4MWM1MEhyc0dTb0Z4U3dwdWE0WlRacTFULWRudF9EeUJPQkJmZGNYOFpPbzdWbnVDVDIzbFk3ZGU0d0VfUkEwNHlsdHc3c00teGx4UmlYdHlVTmV5N1RoWUplVGNidzVMY202a29ZQQ?oc=5",
+   "published": "2026-10-19T11:51:13+00:00",
+   "id": "5665fcdc04d3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Menace persistante sur le détroit d'Ormuz maintenant la prime de risque géopolitique élevée.",
    "method": "IA"
-  },
-  {
-   "title": "Trump defends Russia sanctions pause as global security concerns mount",
-   "source": "article.wn.com",
-   "theme": "Géopolitique",
-   "link": "https://article.wn.com/view/2026/10/18/Trump_defends_Russia_sanctions_pause_as_global_security_conc/",
-   "published": "2026-10-18T19:00:00+00:00",
-   "id": "29548242890d",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Perspective de détente ou de négociations réduisant modérément les craintes géopolitiques immédiates.",
-   "method": "IA"
-  },
-  {
-   "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
-   "source": "Yahoo Finance",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2duSlpzQlF4bmx6OXZSVTg1ZEdTRDZjQ0dGQkZsRmpySEVEVFVGYTNkeTJIeEh2OGFwMU5YTjFoQVJfV202ekppZ3RVS3h1UnhROXpkUmVCTTloSGVVYldIMDFFajkxM2ZXc1ZHbXFQTXk1SEFyUGQ1MS1xdGJ4WFhPc29ROEMyT3JZcjZsdE5kdnNNTUE?oc=5",
-   "published": "2026-10-18T19:00:00+00:00",
-   "id": "131213b32607",
-   "impact": 2,
-   "cat": "taux",
-   "raison": "Baisse des rendements obligataires et aversion au risque soutenant légèrement l'attrait pour l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7152,7 +7152,8 @@
   "news|8d60da35d62d": 1792413100.7208242,
   "news|53f50b406e96": 1792413101.6106694,
   "news|874670197299": 1792414307.5614066,
-  "news|4ece641eb510": 1792415768.7951217
+  "news|4ece641eb510": 1792415768.7951217,
+  "news|dbf1e6497a33": 1792416697.1867256
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7271,6 +7272,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T13:31:37.186798+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran War Day 234: Russia’s Foreign Minister Visits Tehran for Talks</b>\n📰 The American Conservative · Lun 19/10 14:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOelZYS2JvUUF2eHh2Q0o5aXpNOGg2cTFSS01OQU0wZVhwX2t3SDZtdVJSVExSV3JIcGV0MGFjNFhaeFJGMkhSM0k5c0xmamFQbmZhX2JaZzBXa0JNMWpCbVJkZ0hWeEdLd3p2ZUhYaFZ6eEpQOVZBRXFGcm9aSURxbFFaOEJrMktEd01sdGpmUk9PaklrakRjOG9tWF8?oc=5"
+  },
   {
    "ts": "2026-10-19T13:16:08.795184+00:00",
    "kind": "news",
@@ -7565,11 +7571,6 @@
    "ts": "2026-10-18T15:01:35.968988+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Kurdish opposition group attacked in Iraq amid increased Iran tensions</b>\n📰 jpost.com · Dim 18/10 16:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.jpost.com/middle-east/iran-news/article-912042"
-  },
-  {
-   "ts": "2026-10-18T15:01:35.022009+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Endorses Netanyahu in Israel's Upcoming Election, Citing War in Iran</b>\n📰 Haaretz · Dim 18/10 16:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxPNEx5aWNxMVBHcDhHckJSX0NZdUxVSHc1aGliQVlHYUotTVZucG9QcVNMc1psdWdRWTlJZDRIZFM3Ykt3U3NjQWJNR2hSWnRzU2tLaHd6aVRaVWZMRHdvcUpES09Kdk5BRDBXb0VWWFdlS3p6d0F6VXBDdmt6anF6ZHpMZ1pRX08wbTJSelJnNXc3bjFtX3dfaHhOaFZQMTNFNGpaTUJSSWZRSVp1LUlLZHBrNllFV0ZKam80eUYwbTgxSmJ0blE1MWtHcjJGVTZjS2l1Z3JiUEc5NWVWelhvY3haX0lvaVBEazFJQ2s4TzA3WHRfLWVvb2R0TzNoU0pYV1NGQmpjcHNmdmNVQmY0bzRSVjE?oc=5"
   }
  ],
  "daily_forecast": {
