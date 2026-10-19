@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "d5fe53cc2f92",
-  "033e2935236b",
-  "fd3b402f3637",
-  "46b1ea700289",
-  "d149e587aed8",
   "d56d3b98cbe8",
   "01a38d818ee7",
   "51f3b0aa4449",
@@ -3945,7 +3940,12 @@
   "5f6ecf02e9d4",
   "05b0b75d03f9",
   "f53c25724ae1",
-  "0ab289c91edc"
+  "0ab289c91edc",
+  "2423d52782d7",
+  "731e91f2e8d0",
+  "f460aa01e634",
+  "bc2fbc4cba7e",
+  "e92bd4b6856f"
  ],
  "news": [
   {
@@ -4331,6 +4331,18 @@
    "cat": "géopolitique",
    "raison": "Analyse prospective d'un futur conflit, impact immédiat négligeable sur les cours.",
    "method": "IA"
+  },
+  {
+   "title": "Iran Escalates Before U.S. Midterm Elections",
+   "source": "JINSA",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rN2lYaThDR2cwek41TnE5Z2ZsRWkwdEJjN3NyNkN3SnJYUEp6d2h2RGNXaTdnemlKaFdQbTJQWk5TakZXb28tVndacmFPSVczWEcwZTlfbjFXaEpjVG5idG9faG1ac3VnV0Q4c2tCTENVYm5nMWNnNHk1OA?oc=5",
+   "published": "2026-10-19T15:46:50+00:00",
+   "id": "e92bd4b6856f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "FX weekly: Dollar weakens against major peers",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Menaces de représailles iraniennes contre Israël, soutenant la prime de risque géopolitique refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
-   "source": "Anadolu Ajansı",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5",
-   "published": "2026-10-18T23:42:17+00:00",
-   "id": "0cfe7ff1bc6d",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Joutes verbales maintenant un bruit de fond d'incertitude militaire au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7174,7 +7174,8 @@
   "news|cc51fcb43db6": 1792440966.6860747,
   "news|5ce428871677": 1792441892.5571213,
   "news|21d33eba3081": 1792441893.6184533,
-  "news|6e85b9fa2903": 1792441894.6608667
+  "news|6e85b9fa2903": 1792441894.6608667,
+  "news|e92bd4b6856f": 1792442767.7009194
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7293,6 +7294,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T20:46:07.700991+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Escalates Before U.S. Midterm Elections</b>\n📰 JINSA · Lun 19/10 17:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9rN2lYaThDR2cwek41TnE5Z2ZsRWkwdEJjN3NyNkN3SnJYUEp6d2h2RGNXaTdnemlKaFdQbTJQWk5TakZXb28tVndacmFPSVczWEcwZTlfbjFXaEpjVG5idG9faG1ac3VnV0Q4c2tCTENVYm5nMWNnNHk1OA?oc=5"
+  },
   {
    "ts": "2026-10-19T20:31:34.661167+00:00",
    "kind": "news",
@@ -7587,11 +7593,6 @@
    "ts": "2026-10-18T21:46:13.897282+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says he's \"negotiating Peace\" as Ukraine launches 1,000 drones at Russia amid continued back-and-forth strikes</b>\n📰 CBS News · Dim 18/10 23:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5"
-  },
-  {
-   "ts": "2026-10-18T21:46:12.835838+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis</b>\n📰 The Jerusalem Post · Dim 18/10 23:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE41a0xUNG9zVTllNmo2TmJVSFdKdmJGV2lwamViUEdYZ3NxRWtNVVJpRFZSV3oxUkVFUW0xU0R5dGN6MHlpZ0NCaURaUUl0cDlEMkl6WUxCWDlfZW1q?oc=5"
   }
  ],
  "daily_forecast": {
