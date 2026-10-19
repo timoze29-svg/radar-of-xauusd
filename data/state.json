@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "ec48da397cd2",
-  "df74b5689d8a",
-  "983f0e003cbc",
   "6ab35d1a2de5",
   "d416c375380c",
   "2480768dcd1f",
@@ -3945,7 +3942,10 @@
   "e1bef17784ba",
   "98c8eb8030e2",
   "79bc16ee4186",
-  "4205bb37c845"
+  "4205bb37c845",
+  "1face7e92922",
+  "af402a2d729a",
+  "59827902147d"
  ],
  "news": [
   {
@@ -4027,6 +4027,18 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGpOOWxtVmkyYUM5V1dyMjdBQjlUbzhWcWJUNXJNOFZmTkRRUE80ODNpZFdfVWhadGd0dmpoTEtlbk5oNjB1VWdMRlhzOHNBckV0dm9wcDJpSTBWZ2R5WERqQ2s0R2RkUENncGQ2MHJVaFZuWEUybDR5ZUg5UGY0YXVYaldfUDQ?oc=5",
    "published": "2026-10-19T10:30:14+00:00",
    "id": "4197b873a490",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran says 7-day plan to reopen Strait of Hormuz still on the table",
+   "source": "NewsNation",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jUkh0M2pJdlUyZUIyLVRyQndYNmE4TkRiQm0zWDVnU2R4RC1YMG9DVTZkcVFBandTbGhfTW5FTzlON3BmRG9tMlBsY2NCc0pWZmNYM1ZGTjhLR0RKMTlMSU90Yi1pall6ZW1LOVl1a2ROamM0ZWc3djhoVUfSAYIBQVVfeXFMTlQwT2JVbmhpUDJ1QXRLX2JKSzhVZU13U2ZDbUZvRnBsYmhyNmVCajU5S2dhdVZ0RngyN3BDdEpTRG5lZm9UTkx2TDd0V2hlbFc0N2lYd29WUTBPbTBVOV9XREZQTXBEV2ItaGZmV0ZnLWxIelhFY3RiZ0E5NllaTGUtQQ?oc=5",
+   "published": "2026-10-19T10:09:32+00:00",
+   "id": "af402a2d729a",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6335,18 +6347,6 @@
    "cat": "commerce",
    "raison": "Absence de nouveau front commercial transatlantique limitant l'aversion au risque mondiale.",
    "method": "IA"
-  },
-  {
-   "title": "Iran to Open Strait of Hormuz on 6th Day If US Fulfills Conditions",
-   "source": "sputnikglobe.com",
-   "theme": "Géopolitique",
-   "link": "https://sputnikglobe.com/20261018/iran-to-open-strait-of-hormuz-on-6th-day-if-us-fulfills-conditions---foreign-ministry-1124898113.html",
-   "published": "2026-10-18T18:15:00+00:00",
-   "id": "fb3d1fb26f9e",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Perspective de réouverture négociée du détroit d'Ormuz atténuant la prime géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7146,7 +7146,9 @@
   "news|f25645ed303a": 1792403416.9064927,
   "news|623481ac430d": 1792405884.9309397,
   "news|4197b873a490": 1792409483.008795,
-  "news|79bc16ee4186": 1792410367.071549
+  "news|79bc16ee4186": 1792410367.071549,
+  "news|af402a2d729a": 1792411294.0268226,
+  "rep|update|2026-10-19": 1792411296.6503081
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7265,6 +7267,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T12:01:35.599795+00:00",
+   "kind": "ny_update",
+   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4188.50</b>  (-13.3$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-5) → maintenant -3 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 29$ sur ~74$ attendus (39%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Under Trump, deficits remain high while borrowing costs escalate\n🟢 (+8) Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship\n🟢 (+8) Iran says 7-day plan to reopen Strait of Hormuz still on the table\n🟢 (+6) Iran targets Gulf countrie energy infrastructure after Israeli strike on gas field  | Peak Oil News and Message Boards"
+  },
+  {
+   "ts": "2026-10-19T12:01:34.026874+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says 7-day plan to reopen Strait of Hormuz still on the table</b>\n📰 NewsNation · Lun 19/10 12:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE1jUkh0M2pJdlUyZUIyLVRyQndYNmE4TkRiQm0zWDVnU2R4RC1YMG9DVTZkcVFBandTbGhfTW5FTzlON3BmRG9tMlBsY2NCc0pWZmNYM1ZGTjhLR0RKMTlMSU90Yi1pall6ZW1LOVl1a2ROamM0ZWc3djhoVUfSAYIBQVVfeXFMTlQwT2JVbmhpUDJ1QXRLX2JKSzhVZU13U2ZDbUZvRnBsYmhyNmVCajU5S2dhdVZ0RngyN3BDdEpTRG5lZm9UTkx2TDd0V2hlbFc0N2lYd29WUTBPbTBVOV9XREZQTXBEV2ItaGZmV0ZnLWxIelhFY3RiZ0E5NllaTGUtQQ?oc=5"
+  },
   {
    "ts": "2026-10-19T11:46:07.071616+00:00",
    "kind": "news",
@@ -7554,16 +7566,6 @@
    "ts": "2026-10-18T14:31:28.271400+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Belgium’s consul general in Jerusalem calls Israeli occupier attack on diplomats ‘new escalation’</b>\n📰 Anadolu Ajansı · Dim 18/10 16:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzd6a3BZaHNWMHZHbUxEYWZOeVBpQUNTSnNVemJpUHZxbmtJMTBHam5YZy1GTVR5MzdKQnFQa20yUFdvYVFlZGYyR29mNkxuMDB5MUhqSUhlcVRiVDZuaFl0Q2dSSEE3TFdnS0syNlNIUEtnaXgydDZJX2hMMDYzZmFxUUJsVFpmV0RDa2ZhM3RqOWlsUWdqbmVPOGVQQXZ5VzZVUXNic2F0SlJrdTFPaDQwUkI4bFozZVVSUEtQRnlrVmtGSzkxUlNPaW1weUFkeXc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T14:16:03.392509+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran signals possible nuclear policy shift, threatens US retaliation</b>\n📰 Iran International · Dim 18/10 15:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xZ2puTDJaTm9HR0VoQ3oyUjgwYV9ka25jUTJhdl95cWFsakxZUnZWbnhlTGpyUXlRWkI1eXM4bjRoaHRXSkNJaEZvMjdGV2lZd2c?oc=5"
-  },
-  {
-   "ts": "2026-10-18T13:46:31.424636+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'We are ready for war': Iran's new defense minister threatens US and Israel</b>\n📰 Ynetnews · Dim 18/10 15:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0RUY09lVEZLOGFXTVNNQW5CelJiMFBCQlJBZjZTdWZXdHU5Q3A2TW9RTUZJMUd4cEtTMUVjbXhraEo5ejhNNFAzOFptbktmTU1kbnF3?oc=5"
   }
  ],
  "daily_forecast": {
@@ -7577,8 +7579,8 @@
   "ai": true
  },
  "ny_update": {
-  "date": "2026-10-16T12:01:31.772667+00:00",
-  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4196.60</b>  (+1.6$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-4) → maintenant -7 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 46$ sur ~77$ attendus (59%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🔴 (-10) US inflation rises to 3 . 7 percent , reviving prospects of Fed rate hike\n🟢 (+10) Tariffs and the war in Iran are making Iowa a swing state again\n🟢 (+8) Alaska Senate candidates clash over the Iran war, high prices and their times in office\n🟢 (+8) Inside Iran Economic Crisis as Fears of Another US War Grow",
+  "date": "2026-10-19T12:01:36.650269+00:00",
+  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4188.50</b>  (-13.3$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-5) → maintenant -3 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 29$ sur ~74$ attendus (39%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Under Trump, deficits remain high while borrowing costs escalate\n🟢 (+8) Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship\n🟢 (+8) Iran says 7-day plan to reopen Strait of Hormuz still on the table\n🟢 (+6) Iran targets Gulf countrie energy infrastructure after Israeli strike on gas field  | Peak Oil News and Message Boards",
   "ai": false
  },
  "track": [
