@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "b84fa2715577",
-  "ebde9a0adf99",
   "d5793d24636b",
   "2d7cc768020a",
   "1e7a421a5e15",
@@ -3945,9 +3943,23 @@
   "e8c5ccf10bd4",
   "9692e0cc7389",
   "141f021a21ab",
-  "1d11112a901e"
+  "1d11112a901e",
+  "060a46ff18d0",
+  "14d6d0a28101"
  ],
  "news": [
+  {
+   "title": "Analysis | Strike Iran or Wait? The Calculations Facing Israel and the U.S.",
+   "source": "Israel Defense",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEaXdxbF9EMFY3VUFaYndLdW10VkZ1SUJFRjg2TFF4dTh1cm10MEhOM1ZVMFJTSlJydngtMTZpQzZlTDJPVjNUQjlWdy1rYlhGRVdtMUtRQmo?oc=5",
+   "published": "2026-10-19T05:28:44+00:00",
+   "id": "060a46ff18d0",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold Price Forecast: Oil Near $110 Tests Bullion’s Rebound as Fed Hike Bets Fade",
    "source": "FXLeaders",
@@ -3982,6 +3994,18 @@
    "impact": 4,
    "cat": "taux",
    "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Mideast US embassies tell citizens to be on alert amid Houthi attacks, risk of escalation",
+   "source": "The Times of Israel",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXYwU2I2Wjl2UXVrTUV5a25QdW5GcjlVdWFLWjh1ckxUck5pbEFIY0w1X2lmWXpGZ3RySlZHVC1NWW1lUEpaWW5ULXh6akZIX0xRRHVOR01aNjNVMVpudmVENzZLdWRlN3ZTSnkxRUliMnlWYmNNT0tpQnhMSndYLVBHdjAyU0lFc2ZsRlM3MXJ3emU4R05SNnItOHowRlFXdnpOcHBObEgxTGpRcFItZnpvLWhBTzZQVll3S0tKQ2xqZjZ1WldEOVVDV1VUZEE?oc=5",
+   "published": "2026-10-19T04:19:56+00:00",
+   "id": "14d6d0a28101",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Rivalité d'influence accrue entre grandes puissances en Asie centrale, effet refuge très modéré.",
    "method": "IA"
-  },
-  {
-   "title": "Russia Rassvet Satellite Network Flagged as  Danger No . 1  By Ukraine",
-   "source": "sputnikglobe.com",
-   "theme": "Géopolitique",
-   "link": "https://sputnikglobe.com/20261018/russias-rassvet-satellite-network-flagged-as-danger-no-1-by-ukraine-1124894944.html",
-   "published": "2026-10-18T08:30:00+00:00",
-   "id": "0a5314414465",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tension militaire continue en Ukraine maintenant un plancher de soutien sur les valeurs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "UAE gold retailers offer fee - free bullion as prices fall and demand rises",
-   "source": "emirates247.com",
-   "theme": "Géopolitique",
-   "link": "https://www.emirates247.com/business/uae-gold-retailers-offer-fee-free-bullion-as-prices-fall-and-demand-rises/6864",
-   "published": "2026-10-18T08:30:00+00:00",
-   "id": "e55a3e57484b",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Forte demande physique au détail aux Émirats Arabes Unis offrant un soutien technique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7136,7 +7136,8 @@
   "news|ad375cc806c7": 1792377086.6236923,
   "news|321d7379a920": 1792377964.0819774,
   "rep|weekly|2026-10-19": 1792386102.146407,
-  "rep|daily|2026-10-19": 1792386103.1093476
+  "rep|daily|2026-10-19": 1792386103.1093476,
+  "news|14d6d0a28101": 1792388765.749181
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7255,6 +7256,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T05:46:05.749259+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Mideast US embassies tell citizens to be on alert amid Houthi attacks, risk of escalation</b>\n📰 The Times of Israel · Lun 19/10 06:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXYwU2I2Wjl2UXVrTUV5a25QdW5GcjlVdWFLWjh1ckxUck5pbEFIY0w1X2lmWXpGZ3RySlZHVC1NWW1lUEpaWW5ULXh6akZIX0xRRHVOR01aNjNVMVpudmVENzZLdWRlN3ZTSnkxRUliMnlWYmNNT0tpQnhMSndYLVBHdjAyU0lFc2ZsRlM3MXJ3emU4R05SNnItOHowRlFXdnpOcHBObEgxTGpRcFItZnpvLWhBTzZQVll3S0tKQ2xqZjZ1WldEOVVDV1VUZEE?oc=5"
+  },
   {
    "ts": "2026-10-19T05:01:42.296346+00:00",
    "kind": "daily",
@@ -7549,11 +7555,6 @@
    "ts": "2026-10-18T11:31:27.326024+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed.</b>\n📰 Yahoo Finance · Dim 18/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVd0STQ4Wk5vNlF5S3otVkVuZUxzc2FLejFxeTNaZHBja2RIVUl4dURLRTBnendVZGt5Wm0zamMzVU9VaHFlT3BwRFhXS1p3TV9rb2lsT3pyRko0dktrejNnVy0wN2ZNYTM2aW04d1NIRDM3ckN4bnB0cWludUZHLVhVS0dHQWFYWFJDQ0JQcFVqQnlia3c?oc=5"
-  },
-  {
-   "ts": "2026-10-18T10:07:39.779058+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Global banana business bruised as Iran war pressures producers | The Arkansas Democrat - Gazette</b>\n📰 arkansasonline.com · Dim 18/10 11:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.arkansasonline.com/news/2026/oct/18/global-banana-business-bruised-as-iran-war/"
   }
  ],
  "daily_forecast": {
