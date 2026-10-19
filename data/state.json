@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "ae5810e71fde",
-  "88b634654e83",
-  "31886e9fcdc8",
-  "658820e576fd",
   "46acae9f6c2d",
   "12163b63fc34",
   "cc4f25da774f",
@@ -3945,7 +3941,11 @@
   "78ed7f06fb64",
   "9a4e4338a0ed",
   "367206db41c3",
-  "796568a2feee"
+  "796568a2feee",
+  "fc59b0ada7cb",
+  "ea9c15228c6b",
+  "7a5a49823dc0",
+  "c2aaf40bfc21"
  ],
  "news": [
   {
@@ -3956,6 +3956,18 @@
    "published": "2026-10-19T00:19:20+00:00",
    "id": "367206db41c3",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump and Zelensky escalate feud as Ukraine war strains alliance",
+   "source": "The Washington Post",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5",
+   "published": "2026-10-19T00:07:42+00:00",
+   "id": "7a5a49823dc0",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6335,18 +6347,6 @@
    "cat": "commerce",
    "raison": "Temporisation sur les menaces tarifaires, apaisant les craintes d'escalade commerciale.",
    "method": "IA"
-  },
-  {
-   "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
-   "source": "Reuters",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
-   "published": "2026-10-18T03:38:00+00:00",
-   "id": "90fbb2dfc8e8",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Délai sur les sanctions suggérant une possible tentative de désescalade diplomatique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7127,7 +7127,8 @@
   "cyc_rev|2026-10-19/2026-10-25": 1792368102.9408734,
   "news|0cfe7ff1bc6d": 1792369053.9548745,
   "news|c4835678d0ec": 1792369879.9488566,
-  "news|367206db41c3": 1792370764.3430786
+  "news|367206db41c3": 1792370764.3430786,
+  "news|7a5a49823dc0": 1792371698.3687527
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7230,6 +7231,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T01:01:38.368811+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump and Zelensky escalate feud as Ukraine war strains alliance</b>\n📰 The Washington Post · Lun 19/10 02:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5"
+  },
   {
    "ts": "2026-10-19T00:46:04.343128+00:00",
    "kind": "news",
@@ -7524,11 +7530,6 @@
    "ts": "2026-10-18T03:16:17.058759+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Escalation In Middle East As Iran Hits Kurdish Bases In Erbil; Blast Hits Iraqi Militia HQ</b>\n📰 The Times of India · Dim 18/10 04:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZDIzWS1QNVZBZVIteUZyUnBNYWVwQXBvdWhoZlZva1dDWDVVYkJwakRYLUpkd3ZCQWtKSVVBNlhZckMybUpLOUdWMW05VWd1WURRTUxrWmpKVDRidjZ4SzBHWDJGUHEzTWNfaVEtZ1dvX0VTQi1HakNxWXJILTBxUWVWdFIwcGZxR0oycEcteFpxcVdmWmJ1RUdtS0Y5LVhOaVhiNnQ5SXRFRU1KdXpRNHF5Z29Ib0xmRUQwQUZ5RDlWQUJnQzVoZlFqSnoydzBwZ2REaHRoRFlOMm5mRkxlVDRGNFV4Q3JHVFg0d250TmJIMVNNMzJfVjZlLXFqcXfSAYQCQVVfeXFMTVB3VW5tMXZ5eUwxSWZFQmpXamVKQ3VNS256M1EtcFFnQ2c4SVg5OVF5SUlONGJvWHdYT3kxV3hFQWtDZnhoaEJmLUJIXzd2WnM0M3VyNHNWUU5HdkZEd0ZJLUFHRmZOWWNObGJrSmJ2d3RTNlN6dmZxSm5xOTgzNzVxeGZGVzBCZUlMMHFmbWFWdzFfVjg1Vm82M0FOVGx2eHpzaHBwc0hHS2ZwVkNDZjNxUUg5TmNINV96NG41bUswVHVSbk9zWjNSXzhYRE1tamJXNHBmWk1oNGpkazZ6Z3hJRXFSdDZBc2t1LWUwUjlraVFWM3lFUGppd25oejRDSXRWMFY?oc=5"
-  },
-  {
-   "ts": "2026-10-18T03:16:16.046456+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>JD Vance claims US has destroyed Iran nuclear program at town hall</b>\n📰 foxnews.com · Dim 18/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.foxnews.com/politics/top-takeaways-from-jd-vance-town-hall-costly-gas-dc-corruption-immigration-hot-takes-war"
   }
  ],
  "daily_forecast": {
