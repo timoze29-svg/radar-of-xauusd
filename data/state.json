@@ -749,15 +749,15 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792297054.491559,
+   "ts": 1792369056.4930332,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 114,
+      "n": 115,
       "high": [
        [
         0,
-        14.9
+        15.7
        ],
        [
         15,
@@ -765,17 +765,17 @@
        ],
        [
         22,
-        7.9
+        7.8
        ]
       ],
       "low": [
        [
         0,
-        18.4
+        18.3
        ],
        [
         16,
-        10.5
+        10.4
        ],
        [
         2,
@@ -784,11 +784,11 @@
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
        ],
        [
         15,
@@ -802,28 +802,28 @@
       "low": [
        [
         16,
-        11.5
+        11.4
        ],
        [
         0,
-        11.5
+        11.4
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 119,
+      "n": 120,
       "high": [
        [
         2,
-        11.8
+        11.7
        ],
        [
         16,
-        11.8
+        11.7
        ],
        [
         17,
@@ -833,15 +833,15 @@
       "low": [
        [
         0,
-        13.4
+        13.3
        ],
        [
         14,
-        8.4
+        8.3
        ],
        [
         3,
-        7.6
+        7.5
        ]
       ]
      },
@@ -884,12 +884,12 @@
         14.4
        ],
        [
-        0,
+        17,
         11.0
        ],
        [
-        17,
-        11.0
+        0,
+        10.2
        ]
       ],
       "low": [
@@ -898,46 +898,46 @@
         11.9
        ],
        [
-        15,
-        8.5
+        2,
+        7.6
        ],
        [
-        2,
+        15,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5936,
+     "n_hours": 5960,
      "horizon_h": 2,
-     "base_gold_up": 53.7,
-     "base_dxy_down": 48.3,
+     "base_gold_up": 53.6,
+     "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 242,
-       "p_dxy": 52.5,
-       "p_gold": 55.8,
+       "n": 244,
+       "p_dxy": 52.0,
+       "p_gold": 55.7,
        "gold_avg": 1.3
       },
       "4": {
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.6
+       "gold_avg": 0.5
       }
      },
      "up": {
       "3": {
-       "n": 267,
-       "p_dxy": 55.8,
-       "p_gold": 49.1,
-       "gold_avg": -0.8
+       "n": 270,
+       "p_dxy": 55.9,
+       "p_gold": 48.9,
+       "gold_avg": -0.7
       },
       "4": {
-       "n": 75,
-       "p_dxy": 58.7,
-       "p_gold": 52.0,
+       "n": 76,
+       "p_dxy": 59.2,
+       "p_gold": 52.6,
        "gold_avg": -0.3
       }
      }
@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "71540ba791a7",
-  "4517e65442d3",
   "6e9ac861b6a8",
   "5e7452a2feab",
   "fb60291517e7",
@@ -3945,7 +3943,9 @@
   "b2d59a3e13c6",
   "0b5639998031",
   "4f47bb02ff0a",
-  "9b03bb05b0f1"
+  "9b03bb05b0f1",
+  "0cfe7ff1bc6d",
+  "375cdae0c970"
  ],
  "news": [
   {
@@ -3955,6 +3955,18 @@
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb1pUOE5mNFAzRjQ4NmRhTU40bUtja1pfS205RkdIeFJHQ1prM0ZKZVNOVE9BRE9iRVQwbkRWb2o4emNaSVFEQnZfSzZfZVF1c2dZMDN2N3lUZmhsaEN2UjJORlAteVo1Ymhpbm5YMVZlb3NucmI5b0d0SmdrVnRMbFRBYkZyX2FET1VUYTdsNHlsdVY2RE9XZFpRUHlsdzNXb040UndhN1B3SDRXMEZZaG02VXoxRGNaSWpFMmtYczZ3UlZ0c3c2X1RzZ21XbGtCWFlIWkhCYTd0Z3ZCUjJvSUZSQ1VBZlBvYWc?oc=5",
    "published": "2026-10-18T23:42:39+00:00",
    "id": "09ece2541363",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Menaces de représailles iraniennes contre Israël, soutenant la prime de risque géopolitique refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5",
+   "published": "2026-10-18T23:42:17+00:00",
+   "id": "0cfe7ff1bc6d",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -3967,10 +3979,10 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
    "published": "2026-10-18T23:36:00+00:00",
    "id": "0b5639998031",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "politique US",
+   "raison": "Incertitude accrue sur le soutien américain à l'Ukraine, léger soutien refuge pour l'or.",
+   "method": "IA"
   },
   {
    "title": "ASX Preview: Australian Shares to Fall as Oil Prices Retreat on Russia Sanctions Relief; Cleanaway Waste Management Agrees to Over AU$9 Billion Takeover by EQT-Backed Bidder",
@@ -3979,10 +3991,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWlELUJFcG1UTldWRWdjNzNnS01nazZRZlFWUHVNcnFrZzB3OS1WVlh6QzRDOXZOM3Y0eldWR3VPVmJQeEFIelBPS283Q09Vay11SmxfSm95SGZOdUJGWDRBOUIxUW5QZldJcW1MVzk4cEp6NGg0NmRsUUFwTFhMZVgtazRkSGxGV1ZZ?oc=5",
    "published": "2026-10-18T23:14:35+00:00",
    "id": "d2acf60813a4",
-   "impact": 4,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Allègement des sanctions russes et baisse du pétrole réduisant pressions inflationnistes et prime géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump administration's objectives in Iran war have been met, Rep. Anna Paulina Luna says",
@@ -3991,22 +4003,10 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSVHVjanQyV1N4cGNvQmtJWFB4NThTN1lZck9Nby00U2hYa1AtWjVray1CZkdzSVhNM3JQb1pXLThXam9qOEZKNHZyN211N2V1UWdFTDBR?oc=5",
    "published": "2026-10-18T23:07:05+00:00",
    "id": "35a465e3bb9e",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Israel must ensure accountability : Canada joins France , Belgium , Poland in condemning settler attack on diplomats in occupied West Bank",
-   "source": "greekherald.com",
-   "theme": "Géopolitique",
-   "link": "http://www.greekherald.com/news/279383481/israel-must-ensure-accountability-canada-joins-france-belgium-poland-in-condemning-settler-attack-on-diplomats-in-occupied-west-bank",
-   "published": "2026-10-18T23:00:00+00:00",
-   "id": "9b03bb05b0f1",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Signal potentiel de désescalade américaine face à l'Iran, érodant la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
@@ -4675,10 +4675,10 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXhFbm1ySVNTMFUtQndTZl9XZjh3cDRNT2U3VEtTdHFYSmNnOEllQUdwTEp0bDN5bTdCd3A5WnlfWlpkQmJMN0FGbWl2TUd6MUh2MlF6VEZBSlU0cFhvZ0xTUmYyT3RzNEVDZ2ZxNnF1QUZuWW1ONERuX2RlaUxLbXBLWFk2MWtWb0dFYzZiMkxOMzNQS3RxQllpRFU1NjRXbDV5Zg?oc=5",
    "published": "2026-10-18T17:23:48+00:00",
    "id": "a88316eea698",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Refus de nouveaux tarifs limitant l'escalade commerciale et les craintes inflationnistes à court terme.",
+   "method": "IA"
   },
   {
    "title": "The Long End Is Getting the Message: Treasury Looks Ready to Trim 20Y and 30Y Supply",
@@ -7124,7 +7124,8 @@
   "news|35a465e3bb9e": 1792367165.3323905,
   "news|09ece2541363": 1792368100.8643422,
   "news|9b03bb05b0f1": 1792368101.740814,
-  "cyc_rev|2026-10-19/2026-10-25": 1792368102.9408734
+  "cyc_rev|2026-10-19/2026-10-25": 1792368102.9408734,
+  "news|0cfe7ff1bc6d": 1792369053.9548745
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7227,6 +7228,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T00:17:33.954945+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison</b>\n📰 Anadolu Ajansı · Lun 19/10 01:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5"
+  },
   {
    "ts": "2026-10-19T00:01:42.940902+00:00",
    "kind": "cycle",
@@ -7521,11 +7527,6 @@
    "ts": "2026-10-18T03:16:14.001649+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Republican lawmaker hits out at Trump over Russia sanctions waiver , says he is  prolonging the war , not ending it</b>\n📰 hindustantimes.com · Dim 18/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.hindustantimes.com/world-news/us-news/republican-lawmaker-hits-out-at-trump-over-russia-sanctions-waiver-says-he-is-prolonging-the-war-not-ending-it-101792278953171.html"
-  },
-  {
-   "ts": "2026-10-18T03:16:13.003086+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>LAPID ACCUSES NETANYAHU : Opposition Leader Warns PM Could Launch Iran Strike To Disrupt Israeli Elections</b>\n📰 theyeshivaworld.com · Dim 18/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.theyeshivaworld.com/news/israel-news/2610950/lapid-accuses-netanyahu-opposition-leader-warns-pm-could-launch-iran-strike-to-disrupt-israeli-elections.html"
   }
  ],
  "daily_forecast": {
