@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "3ea7ead24708",
-  "4312a506c1ac",
-  "ae1d64652abc",
-  "b154e18660dd",
-  "0e555e4ffc0f",
-  "ce2dbff5bd28",
   "767ee7ffb1a5",
   "59434298da54",
   "0ac829258045",
@@ -3945,7 +3939,13 @@
   "dcc0da687774",
   "7067f5b2e311",
   "874670197299",
-  "2f1d1a1d7a0c"
+  "2f1d1a1d7a0c",
+  "4c97c215644b",
+  "0673c9303b5f",
+  "fd87c527d700",
+  "d189b10fabff",
+  "16fd3854512c",
+  "7adbe85b39f1"
  ],
  "news": [
   {
@@ -3955,10 +3955,10 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEx3UjEyUm14eFVXcW0waUlxS05NdDJCaXBucnk0Yl9jUlJGSVVxbE9UR255VDY1VVF5Rm9COWk5cEtpaklOb05sSU9hUFlTTEV4ajhzeWhzLTJTMTVnUjMyXy02RkpfcWRzUXo1dnpMVEUycS1BR2QtX2JlNVJmRVNUcnNVVldvNnZuZURLWjdQc1l4dmI3WExYZ2E?oc=5",
    "published": "2026-10-19T12:42:00+00:00",
    "id": "874670197299",
-   "impact": 10,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rhétorique belliqueuse accrue au Moyen-Orient soutenant marginalement la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Russia's Lavrov arrives in Iran for talks on regional de-escalation",
@@ -3967,10 +3967,10 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzZDcERXRGlFbXAyY3N4ekxfam1SRkxwNll0MXdrM2htcUsyNjlMc3VITmFYZDBEeDBCdkpsV2cweWkyMVB1SU9GWFJhdENYbWk1QXE3NGowQWwwSEZjeDNSZXBUeXJ1Y0RKSXZlMmE5Skx4RFpnRjVqVVZ3QVdiLWloQUtaQWNaTkx2Rmp2allidw?oc=5",
    "published": "2026-10-19T12:29:29+00:00",
    "id": "2f1d1a1d7a0c",
-   "impact": 1,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tentative de désescalade diplomatique réduisant légèrement la prime de risque géopolitique sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Oil prices fall after Trump waives some Russia sanctions and tariffs",
@@ -3997,6 +3997,18 @@
    "method": "IA"
   },
   {
+   "title": "Trump defends easing sanctions on Russia amid rising anger in Congress",
+   "source": "USA Today",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFk3ZDRLdU5TX19PbmN3NUc0aDdGUkRSZ2dXYUNNRXJxdWNpdzdmNzBTWGt3djkyelcyVlFsMTNjMmZzMjdEXy1RVVlyWldQd2N3QU9ZNUFjQTZUS0UzU1E0Z1hDSmhpOGhMNmdabzBkeVlBanlDazF1b1JFdVZKdUh2ay1zeDJHM3drUnZleXJzVWE1c19VZDMtT3RpaDhoOFFhMkNSTm5LbHR2WFZwbw?oc=5",
+   "published": "2026-10-19T11:59:00+00:00",
+   "id": "7adbe85b39f1",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "L'apaisement potentiel des sanctions russes réduit marginalement la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
    "title": "Under Trump, deficits remain high while borrowing costs escalate",
    "source": "Reuters",
    "theme": "Dette US",
@@ -4018,6 +4030,18 @@
    "impact": -2,
    "cat": "commerce",
    "raison": "Détente commerciale et approvisionnement énergétique stabilisé diminuant la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "USD/JPY Holds Near 158 as Fed Hike Bets Fade, Japan CPI and BoJ Outlook Eyed",
+   "source": "VT Markets",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkpzOEVQN1hzWkYtTGlJMUtWTEVZTmRaSEVNQzJlMUZXUl9ZVFlFcUVKVGR6ZUtjSlJZUUlRVHY0YWFKUngwSXNPa1BJdEdtOWx0WmU2RUtlWUdLbVdwM3JYZkl3MC1mR0tZaUlwaTV1TDF0XzByY2ZFNWsySHJQenNOODFPNGpoVlFVTWs1Uk94WVlpVHRtdlVIU3VhVTVtQVNjWHdNSFU1a1IzamVlOHZmMHdRaExCNHVZaFB3?oc=5",
+   "published": "2026-10-19T11:16:56+00:00",
+   "id": "d189b10fabff",
+   "impact": 2,
+   "cat": "fed",
+   "raison": "L'effacement des craintes de hausse de taux Fed détend les rendements obligataires.",
    "method": "IA"
   },
   {
@@ -6322,30 +6346,6 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Discussions de désescalade régionale réduisant marginalement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Commentary : Canadian tariffs show Trump wont be pushed around - Grand Forks Herald | Grand Forks , East Grand Forks news , weather & sports",
-   "source": "grandforksherald.com",
-   "theme": "Géopolitique",
-   "link": "https://www.grandforksherald.com/opinion/columns/commentary-canadian-tariffs-show-trump-wont-be-pushed-around",
-   "published": "2026-10-18T18:30:00+00:00",
-   "id": "5f46133a63d5",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Tensions protectionnistes persistantes alimentant les craintes d'inflation et d'incertitude commerciale.",
-   "method": "IA"
-  },
-  {
-   "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels  | Peak Oil News and Message Boards",
-   "source": "peakoil.com",
-   "theme": "Géopolitique",
-   "link": "https://peakoil.com/publicpolicy/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
-   "published": "2026-10-18T18:30:00+00:00",
-   "id": "e9a774400957",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque majeur de blocage d'Ormuz et choc énergétique dopant la valeur refuge.",
    "method": "IA"
   }
  ],
