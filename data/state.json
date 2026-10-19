@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "12163b63fc34",
-  "cc4f25da774f",
-  "a5d2740da858",
-  "0a5bc98127cf",
   "c5a45e3dd33f",
   "45a7ae171d3a",
   "955c31854062",
@@ -3945,9 +3941,25 @@
   "ea9c15228c6b",
   "7a5a49823dc0",
   "c34eabda5be3",
-  "9b65ec28db9f"
+  "9b65ec28db9f",
+  "9088894dadf3",
+  "1ffab32758e8",
+  "fc195c9d5630",
+  "20316d50804f"
  ],
  "news": [
+  {
+   "title": "Trump waives major Russia sanctions, tariffs",
+   "source": "China Daily",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05emdLNjRWeWxTc2ppZWRhUjRidE5QeWtiZnBZM202N0lCY0Fha1VpZXd2RHAzOXY1cTdibEg0THUtak0yR0dETURWT1VXbDVaUXczMFdyN1AxQnByVW45MnZKNF9pZVlyQmFKNVREQU9Pd1l6cGhKWlFLQnppUQ?oc=5",
+   "published": "2026-10-19T01:25:14+00:00",
+   "id": "1ffab32758e8",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Putin suggests meeting with Trump, Xi, to discuss Ukraine war resolution - report",
    "source": "The Jerusalem Post",
@@ -3971,6 +3983,18 @@
    "cat": "géopolitique",
    "raison": "Tensions diplomatiques accrues et incertitude géopolitique soutenant marginalement la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
+   "source": "The Hill",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOazNPcGJpbEhtOUh6d0RWMEhWMHNoeURoeFJzMWxhM3ZTTUpUcmxhb2p6UUEtbUJnMi01dHVJNkRMOWdlWDZ1Y1h6VTl4d0h1WEpDRDZIbHRJMDZpa0I1UVlxM0NtemdhZjhJU2tsaTNQVlUxU3MxWG4tN0dYVGY2cnliYThxSXFLQWxpME5tU0p1cnRLaEhfXzVVa0Zkb3lPbE9V0gGjAUFVX3lxTE5rM09wYmlsSG05SHp3RFYwSFYwc2h5RGh4UnMxbGEzdlNNSlRybGFvanpRQS1tQmcyLTV0dUk2REw5Z2VYNnVjWHpVOXh3SHVYSkNENkhsdEkwNmlrQjVRWXEzQ216Z2FmOElTa2xpM1BWVTFTczFYbi03R1hUZjZyeWJhOHFJcUtBbGkwTm1TSnVydEtoSF9fNVVrRmRveU9sT1U?oc=5",
+   "published": "2026-10-19T00:00:45+00:00",
+   "id": "9088894dadf3",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Allègement des sanctions russes, atténuant la prime de risque géopolitique globale.",
    "method": "IA"
-  },
-  {
-   "title": "India an important ally : US state secy Rubio explains why Trump paused sanctions on Russia oil buyers",
-   "source": "timesofindia.indiatimes.com",
-   "theme": "Géopolitique",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/india-an-important-ally-us-state-secy-rubio-explains-why-trump-paused-sanctions-on-russia-oil-buyers/articleshow/135022973.cms",
-   "published": "2026-10-18T03:45:00+00:00",
-   "id": "fb010cf64bf2",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Pause sur les sanctions pétrolières réduisant le risque de choc inflationniste immédiat.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-   "source": "aljazeera.com",
-   "theme": "Géopolitique",
-   "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
-   "published": "2026-10-18T03:45:00+00:00",
-   "id": "74c8c8b7f93d",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Mines dans Ormuz : risque d'escalade militaire majeure et flambée de l'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7128,7 +7128,8 @@
   "news|0cfe7ff1bc6d": 1792369053.9548745,
   "news|c4835678d0ec": 1792369879.9488566,
   "news|367206db41c3": 1792370764.3430786,
-  "news|7a5a49823dc0": 1792371698.3687527
+  "news|7a5a49823dc0": 1792371698.3687527,
+  "news|1ffab32758e8": 1792373482.0497339
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7231,6 +7232,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T01:31:22.049800+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives major Russia sanctions, tariffs</b>\n📰 China Daily · Lun 19/10 03:25\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE05emdLNjRWeWxTc2ppZWRhUjRidE5QeWtiZnBZM202N0lCY0Fha1VpZXd2RHAzOXY1cTdibEg0THUtak0yR0dETURWT1VXbDVaUXczMFdyN1AxQnByVW45MnZKNF9pZVlyQmFKNVREQU9Pd1l6cGhKWlFLQnppUQ?oc=5"
+  },
   {
    "ts": "2026-10-19T01:01:38.368811+00:00",
    "kind": "news",
@@ -7525,11 +7531,6 @@
    "ts": "2026-10-18T03:16:18.504323+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : RUSSIE / UKRAINE</b>\n6 articles en 45 min (normale ≈ 1.7) → un sujet s'emballe\n\n🥇 Impact moyen : +5.8/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+10) Ukraine runs out of Patriot missiles as Donald Trump eases sanctions on Russia — <i>jpost.com</i>\n• (+10) Republican lawmaker hits out at Trump over Russia sanctions waiver , says he is  prolonging the war , not ending it — <i>hindustantimes.com</i>\n• (+10) RUSSIA REPRIEVE : Trump Waives New Sanctions and Tariffs Two Days Before They Were Set to Take Effect — <i>theyeshivaworld.com</i>\n• (+5) Trump wants 60 days to analyse impact of Russia sanctions law : Rubio — <i>business-standard.com</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-10-18T03:16:17.058759+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Escalation In Middle East As Iran Hits Kurdish Bases In Erbil; Blast Hits Iraqi Militia HQ</b>\n📰 The Times of India · Dim 18/10 04:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZDIzWS1QNVZBZVIteUZyUnBNYWVwQXBvdWhoZlZva1dDWDVVYkJwakRYLUpkd3ZCQWtKSVVBNlhZckMybUpLOUdWMW05VWd1WURRTUxrWmpKVDRidjZ4SzBHWDJGUHEzTWNfaVEtZ1dvX0VTQi1HakNxWXJILTBxUWVWdFIwcGZxR0oycEcteFpxcVdmWmJ1RUdtS0Y5LVhOaVhiNnQ5SXRFRU1KdXpRNHF5Z29Ib0xmRUQwQUZ5RDlWQUJnQzVoZlFqSnoydzBwZ2REaHRoRFlOMm5mRkxlVDRGNFV4Q3JHVFg0d250TmJIMVNNMzJfVjZlLXFqcXfSAYQCQVVfeXFMTVB3VW5tMXZ5eUwxSWZFQmpXamVKQ3VNS256M1EtcFFnQ2c4SVg5OVF5SUlONGJvWHdYT3kxV3hFQWtDZnhoaEJmLUJIXzd2WnM0M3VyNHNWUU5HdkZEd0ZJLUFHRmZOWWNObGJrSmJ2d3RTNlN6dmZxSm5xOTgzNzVxeGZGVzBCZUlMMHFmbWFWdzFfVjg1Vm82M0FOVGx2eHpzaHBwc0hHS2ZwVkNDZjNxUUg5TmNINV96NG41bUswVHVSbk9zWjNSXzhYRE1tamJXNHBmWk1oNGpkazZ6Z3hJRXFSdDZBc2t1LWUwUjlraVFWM3lFUGppd25oejRDSXRWMFY?oc=5"
   }
  ],
  "daily_forecast": {
