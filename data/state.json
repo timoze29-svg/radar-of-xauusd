@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "3e0f3147cb53",
-  "e5fc4ef8cf93",
-  "ba14556614f5",
   "8c3ed4944687",
   "71c30b15f2ee",
   "f0ea6c2c4a20",
@@ -3945,7 +3942,10 @@
   "a4c8d0f96425",
   "a2b7638c0cf4",
   "64018bd5a10f",
-  "ec150abb4247"
+  "ec150abb4247",
+  "2625eefb2c74",
+  "d09d040d3645",
+  "0783708127be"
  ],
  "news": [
   {
@@ -3959,6 +3959,18 @@
    "cat": "commerce",
    "raison": "Reprise chinoise modérant l'aversion au risque, effet négligeable sur la demande physique.",
    "method": "IA"
+  },
+  {
+   "title": "Trump accuses Zelenskyy of not wanting to end the war, defends Russian sanctions waiver",
+   "source": "CBS News",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
+   "published": "2026-10-19T05:47:26+00:00",
+   "id": "d09d040d3645",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
   },
   {
    "title": "Rubio says Ukraine and Russia should be focused on ending the war",
@@ -4487,6 +4499,18 @@
    "cat": "banques centrales",
    "raison": "Rapatriement et accumulation de réserves physiques d'or, signal structurellement haussier.",
    "method": "IA"
+  },
+  {
+   "title": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I?oc=5",
+   "published": "2026-10-18T23:15:28+00:00",
+   "id": "0783708127be",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "ASX Preview: Australian Shares to Fall as Oil Prices Retreat on Russia Sanctions Relief; Cleanaway Waste Management Agrees to Over AU$9 Billion Takeover by EQT-Backed Bidder",
@@ -6322,30 +6346,6 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Pause sur les sanctions russes et tarifs, apaisant temporairement les craintes inflationnistes mondiales.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia, Ukraine Keep Up Attacks as Zelenskyy Renews Appeal to US",
-   "source": "Bloomberg.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbW5XYURJZkV1WHB6S3otTGJ3OVlXQzBVUEo2dS0tSmhMZ0toLWw1UVRKOFl4SmNPYWtEVHdoU0tQcFEzanc2RUQ4Vzd1Mnpzd3VwOHZlcU56OGozclczdWlreE9RcEN1VWM0M1liQ215V1htQ1c0ZXAydUpwak5tejF0X3hFYkVocmV2cHdXLTRQLVNyQ3p0Ym0wYm1EYjJvM2QzR21HUy05Zmx1TTMzUDNyR0g?oc=5",
-   "published": "2026-10-18T08:59:35+00:00",
-   "id": "56fa804773c0",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite du conflit russo-ukrainien maintenant une légère prime de risque déjà largement intégrée.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia steps up attacks as Ukraine faces uncertainty over US support",
-   "source": "Scripps News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFMxeTFKbzJJbmRPOHJONUVqUnRfVElsSEY2azN1OV91X2hkTEpOSWp1c29kaXgzT2Y4NHp6a3k0YTVPbV9hUWZDVTRiMHZsRDVDS0pDQUVGS1NCb093aThEYmduQnNReHZUUER6Sm1TX2hpX3RHQjBYMFZKNEdnNkd2cHIzU2hTTUZZRTRoRnlGZ2drT0l3WGlndlZFaWFHTjZPNzN5aGZXQUtBbEE?oc=5",
-   "published": "2026-10-18T08:56:36+00:00",
-   "id": "21952b708625",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Incertitudes sur l'aide américaine et intensifications russes renforçant l'attrait de valeur refuge.",
    "method": "IA"
   }
  ],
