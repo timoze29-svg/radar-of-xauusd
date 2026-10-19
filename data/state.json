@@ -946,16 +946,6 @@
   }
  },
  "seen_news": [
-  "a3912555e3ef",
-  "0c10e150fc9e",
-  "f90c7f5bde27",
-  "0422809e0e10",
-  "e909961e0304",
-  "ed535e05d34a",
-  "167108c69a5f",
-  "5a943e9d7529",
-  "786e12e95977",
-  "bcbfb1c71938",
   "3fb0a2bb30b8",
   "9f026e761a7c",
   "11e7513a0b17",
@@ -3945,9 +3935,31 @@
   "bfda5fc76a2b",
   "c6132b163607",
   "c56f855446f7",
-  "2527970e9dd7"
+  "2527970e9dd7",
+  "ff930ae3ac7a",
+  "c4b9ca7ca021",
+  "c8aad3d50254",
+  "c025967b5f24",
+  "66b906a6bfcd",
+  "c5eba4a64f66",
+  "db24ec7776ff",
+  "f89bb10c57e0",
+  "be69ed10cfd6",
+  "e29dd5675103"
  ],
  "news": [
+  {
+   "title": "Inflation Accelerates, Fed Waits",
+   "source": "Palisadian-Post",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tclFBUXJQcjV2YWRmbF81OFNENzAwcW5HTXpLNjlqa0FDazFFamxiMHN2UEdaTHFMamQzRUp5cnA2aTF2ZVNuTW9yZGtkWW40NE02UTktWDZXbTVPZGl4eGNZbw?oc=5",
+   "published": "2026-10-19T13:50:00+00:00",
+   "id": "c5eba4a64f66",
+   "impact": -4,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
+   "method": "mots-clés"
+  },
   {
    "title": "Saudi, French foreign ministers discuss de-escalation and maritime security",
    "source": "سانا",
@@ -5533,6 +5545,18 @@
    "method": "IA"
   },
   {
+   "title": "US and Israel threaten renewed Iran strikes, Tehran warns of response",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE?oc=5",
+   "published": "2026-10-19T01:31:23+00:00",
+   "id": "66b906a6bfcd",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump waives major Russia sanctions, tariffs",
    "source": "China Daily",
    "theme": "Tarifs",
@@ -6322,30 +6346,6 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Pistes de concessions pour négocier la paix, réduisant la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Pak suspends border trade with Iran ; hundreds of freight vehicles left stranded",
-   "source": "article.wn.com",
-   "theme": "Géopolitique",
-   "link": "https://article.wn.com/view/2026/10/18/Pak_suspends_border_trade_with_Iran_hundreds_of_freight_vehi/",
-   "published": "2026-10-18T19:00:00+00:00",
-   "id": "5970dc62301f",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions et perturbations frontalières régionales, soutien mineur à l'aversion au risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-   "source": "clickondetroit.com",
-   "theme": "Géopolitique",
-   "link": "https://www.clickondetroit.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
-   "published": "2026-10-18T19:00:00+00:00",
-   "id": "b113e09e42bc",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Risque d'escalade militaire régionale en mer Rouge stimulant modérément la couverture refuge.",
    "method": "IA"
   }
  ],
@@ -7153,7 +7153,8 @@
   "news|53f50b406e96": 1792413101.6106694,
   "news|874670197299": 1792414307.5614066,
   "news|4ece641eb510": 1792415768.7951217,
-  "news|dbf1e6497a33": 1792416697.1867256
+  "news|dbf1e6497a33": 1792416697.1867256,
+  "news|66b906a6bfcd": 1792418498.748999
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7272,6 +7273,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T14:01:38.749102+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel threaten renewed Iran strikes, Tehran warns of response</b>\n📰 Iran International · Lun 19/10 03:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE?oc=5"
+  },
   {
    "ts": "2026-10-19T13:31:37.186798+00:00",
    "kind": "news",
@@ -7566,11 +7572,6 @@
    "ts": "2026-10-18T15:01:36.841754+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>More attacks as Zelenskiy and Trump trade barbs</b>\n📰 merimbulanewsweekly.com.au · Dim 18/10 16:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.merimbulanewsweekly.com.au/story/9370357/more-attacks-as-zelenskiy-and-trump-trade-barbs/"
-  },
-  {
-   "ts": "2026-10-18T15:01:35.968988+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Kurdish opposition group attacked in Iraq amid increased Iran tensions</b>\n📰 jpost.com · Dim 18/10 16:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.jpost.com/middle-east/iran-news/article-912042"
   }
  ],
  "daily_forecast": {
