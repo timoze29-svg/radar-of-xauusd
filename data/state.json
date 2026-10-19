@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792382469.5874712,
+   "ts": 1792386072.251304,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "66792de5b51e",
-  "3718fafb2e3d",
-  "9769ee73a4ae",
   "33921a9d165f",
   "c2997bdb82de",
   "3e02391bdf52",
@@ -3945,9 +3942,24 @@
   "e4e96723b1be",
   "5ddad7d9aeaf",
   "86de53269c38",
-  "78e6225aa507"
+  "78e6225aa507",
+  "2be4053cf0d9",
+  "bf1824558204",
+  "9de523a7261f"
  ],
  "news": [
+  {
+   "title": "Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand",
+   "source": "The Economic Times",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdlkxREMzTmlTMVZFVDV2VElwUl9ucHZfT2ZZU1IzUFpIV0VEenJPUlZmT2hvTEVQVld4NWhVR1ZZVFFGWUpyOWJFX1g5RXhrY2pxRXc0MTQwRDZ4b2VLbDRxWlJwWGVHSzBINXMtME5yakdIczZWUXctOGhUcGt3MmhEWU94Qk13M2RKWEFlTTUyTEI3OTJUU2hGZktldGRCV0M4RnhwbVhmdkJIYk5BYjk3aE9hTlhQekdsa3A2cHZtbEM0QmlFU09hMzdLcFFyQlZPdkQxVkhCOVVlQWtTTGlkMUxsOWtYNExqOE85Q010d0FtX0Q4Q9IB8gFBVV95cUxQNGZhcmloMkFTam44MzlFYkVOemFQQ2haUU85bWlQbHZRUlhIQ09qNTBFemZ0LXFJYXhJY29UVWxraEtxZ1NfOG9pUC1wZFRsTV8tMHNGYkFHOFd4NFNqQm9JME5XNmNuOW1oWk11c0tHMGFrbGpHSHNiX19zWHhDRE9NbkRFcWxHakR1ZHRJRFlXbUMtVFdtZE1VN0pVbkxLMG43RXBramI4Uk5BNlpxV1dzVVFqckdPZXhxZDVHd3gzZ0EwVEUwYlJ3Rm1oREV3aElJUUZOM1A1cEFTZFFMSWRTVTdvc2dvaFlxWHVPTGxMUQ?oc=5",
+   "published": "2026-10-19T04:49:26+00:00",
+   "id": "9de523a7261f",
+   "impact": 4,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. Treasury Prices Drop to Second-Largest Since 1787",
    "source": "조선일보",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Crash militaire à la frontière saoudo-yéménite rappelant les tensions persistantes dans la péninsule.",
    "method": "IA"
-  },
-  {
-   "title": "China’s gold buying reflects push to diversify reserves and household demand",
-   "source": "The Business Standard",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEhudnhhV1hGVzdPTXc5WW5iWnA4YTFPU0dvZmhtWllCYmFQS3lXZlFNcjNWZEJWV04zQnBXSzRKSllGUHFXcjBTWFJJQTEwMm93YlJ0SDhWcXF0cldjR1ZYU2kwSFBHWW9BQ21fVUctcTlwMzJHZWp2d2hxNzB4a095dmQ3RGFaUUp5VTdoRzMtNlZYWXVYY1B3Y3BmMmFLeEdkZEtWajV5ZlBJMW1jWlJpX28?oc=5",
-   "published": "2026-10-18T08:29:48+00:00",
-   "id": "d1a815d4020a",
-   "impact": 2,
-   "cat": "banques centrales",
-   "raison": "Soutien structurel continu via la diversification des réserves de change et la demande chinoise.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7134,7 +7134,9 @@
   "news|f19c56c347ab": 1792377084.548633,
   "news|24a42776b8e5": 1792377085.6015668,
   "news|ad375cc806c7": 1792377086.6236923,
-  "news|321d7379a920": 1792377964.0819774
+  "news|321d7379a920": 1792377964.0819774,
+  "rep|weekly|2026-10-19": 1792386102.146407,
+  "rep|daily|2026-10-19": 1792386103.1093476
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7234,9 +7236,35 @@
     "PDL": 4120.9
    },
    "ts": "2026-10-16T05:01:38.080334+00:00"
+  },
+  "2026-10-19": {
+   "dir": "range",
+   "score": -5,
+   "p0": 4201.7998,
+   "exp_range": 73.7,
+   "levels": {
+    "P": 4189.67,
+    "R1": 4211.83,
+    "S1": 4158.93,
+    "R2": 4242.57,
+    "S2": 4136.77,
+    "PDH": 4220.4,
+    "PDL": 4167.5
+   },
+   "ts": "2026-10-19T05:01:42.296325+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T05:01:42.296346+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — LUNDI 19/10</b>\nPrix : <b>4201.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-5/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +10.5$ · plus haut 4208.4 / plus bas 4185.6 (range 23$)\nDXY -0.06% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~74$</b> (ATR 73$ × profil du lundi)\nDéjà fait en Asie : 23$ (31% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4242.6 | R1 4211.8 | <b>Pivot 4189.7</b> | S1 4158.9 | S2 4136.8\nVeille : PDH 4220.4 / PDL 4167.5  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>51%</b> du temps (280 jours, ~6.0 ans)\n• Hier : +0.26% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +16.8$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4159 et R1 4212\nJouer les extrêmes, pas le milieu (pivot 4190). Range attendu ~74$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4220 ou PDL 4168 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
+  {
+   "ts": "2026-10-19T05:01:40.377026+00:00",
+   "kind": "weekly",
+   "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 19/10/2026</b>\nPrix : <b>4201.80</b>  (+0.27% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (-5/100)</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n🟢 Taux US 10 ans (5j) : -15 pb sur 5 jours\n🔴 Taux réels 10 ans (20j) : 2.78% (+0.10 sur 20j)\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.11\n\n📐 <b>Niveaux clés or</b>\nR2 4320.1 | R1 4250.6 | <b>Pivot 4172.8</b> | S1 4103.3 | S2 4025.5\nSem. passée : PH 4242.3 / PB 4095.0 / clôt. 4181.1\nRange hebdo moyen (10 sem.) : <b>187$</b> | ATR jour : 73.0$\n\n📅 <b>News éco de la semaine</b>\n🔥 Lun 19/10 14:30 — CAD CPI m/m (prév. 0.2%)\n🔥 Lun 19/10 14:30 — CAD Median CPI y/y (prév. 2.0%)\n🔥 Lun 19/10 14:30 — CAD Trimmed CPI y/y (prév. 1.9%)\n🔥 Lun 19/10 14:30 — CAD Common CPI y/y (prév. 2.6%)\n🔥 Lun 19/10 14:30 — CAD Core CPI m/m\n🔥 Mer 21/10 08:00 — GBP CPI y/y (prév. 3.4%)\n🔥 Mer 21/10 08:00 — GBP Core CPI y/y (prév. 2.8%)\n🔥 Mer 21/10 23:45 — NZD CPI q/q (prév. 0.8%)\n🔥 Ven 23/10 01:30 — JPY National Core CPI y/y (prév. 2.1%)\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>50.2%</b> des semaines (<b>54.1%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 89.1%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+5) Trump says US may ‘soon finish the job’ on Iran, Netanyahu vows to topple regime\n🟢 (+4) Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand\n🔴 (-4) U.S. Treasury Prices Drop to Second-Largest Since 1787\n🟢 (+4) Europe sent its gold to the U.S. for safe keeping during World War II. Central banks are now reshuffling their reserves for a new era of uncertainty\n🟢 (+4) Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News\n🟢 (+4) Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide\n\n🧠 <b>Analyse IA</b>\n1. Le contexte en 3 phrases\nL'or cote 4201$ dans un marché tiraillé entre le repli du dollar (DXY -0.75% sur 5j à 101.81) et la pression des taux réels élevés à 2.78%. Les tensions géopolitiques extrêmes autour de l'Iran et les menaces de Trump soutiennent les flux refuges, propulsant le VIX vers 20. La tendance de fond reste toutefois coiffée sous la SMA50 (4370$) et la SMA20 (4205$), maintenant un biais tactique neutre.\n\n2. Scénario principal (55%)\nAttention à ton idée reçue : sur 313 semaines, le retournement jeudi-vendredi n'arrive qu'à 50.2% (autant jouer à pile ou face), bien qu'après une hausse il monte à 46.6% de réversion.\n- Lun→Mer : Hausse d'inertie refuge vers la résistance R1 à 4250$. Achat sur repli vers le pivot 4173$ ou cassure confirmée des 4208$ (PH sem.).\n- Jeu→Ven : Essoufflement sous 4242$-4250$ (PWH/R1) et consolidation vendeuse vers 4180$.\n- Invalidation : Cassure nette sous 4167$ (PDL), qui annulerait la poussée initiale pour viser 4103$ (S1).\n\n3. Scénario alternatif (45%)\nCassure baissière immédiate déclenchée par un apaisement brutal sur le front iranien ou un rebond des rendements US (2 ans déjà tendu à 4.77%). Si le cours casse les 4167$, vente directe pour viser le support majeur 4095$-4103$ (PWL/S1), sans rebond en fin de semaine.\n\n4. Jours / heures dangereux\nSemaine calme sur les chiffres US de premier plan, le danger vient des gros titres géopolitiques imprévisibles et de l'ouverture US quotidienne (14h30-16h00). Surveille les CPI Canada (lundi 14h30) et UK (mercredi 08h00) pour la volatilité devises. Règle : réduis la taille de 50% sur les extensions au-delà de l'ATR (73$) et ne tente pas de shorter aveuglément mercredi soir sur simple croyance du cycle.\n\n5. Les 3 choses à surveiller en priorité\n- Les frappes/déclarations USA-Iran autour du détroit d'Ormuz (driver #1 du refuge).\n- Le seuil pivot des 4205$ (SMA20) en clôture 4h.\n- L'évolution du Dollar Index (DXY) sur le support des 101.80.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>"
+  },
   {
    "ts": "2026-10-19T02:46:04.082036+00:00",
    "kind": "news",
@@ -7526,27 +7554,17 @@
    "ts": "2026-10-18T10:07:39.779058+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Global banana business bruised as Iran war pressures producers | The Arkansas Democrat - Gazette</b>\n📰 arkansasonline.com · Dim 18/10 11:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.arkansasonline.com/news/2026/oct/18/global-banana-business-bruised-as-iran-war/"
-  },
-  {
-   "ts": "2026-10-18T10:07:38.849846+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US ambassador to Israel condemns settler attack on US journalist , and other Mideast news</b>\n📰 clickorlando.com · Dim 18/10 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.clickorlando.com/news/world/2026/10/18/us-ambassador-to-israel-condemns-settler-attack-on-us-journalist-and-other-mideast-news/"
-  },
-  {
-   "ts": "2026-10-18T10:07:37.918254+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump vows Iran will never get nuclear weapon</b>\n📰 morungexpress.com · Dim 18/10 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://morungexpress.com/trump-vows-iran-will-never-get-nuclear-weapon"
   }
  ],
  "daily_forecast": {
-  "date": "2026-10-16T05:01:39.010592+00:00",
-  "text": "☀️ <b>PRÉVISION OR — VENDREDI 16/10</b>\nPrix : <b>4195.00</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-4/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.59\n🔴 Momentum or (vs MM50) : prix 4195 vs MM20 4215 / MM50 4375\n🔴 Taux réels 10 ans (20j) : 2.84% (+0.22 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : +2.9$ · plus haut 4207.9 / plus bas 4167.5 (range 40$)\nDXY -0.11% sur la nuit\n⚠️ Plus haut de la veille (4198) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~77$</b> (ATR 82$ × profil du vendredi)\nDéjà fait en Asie : 40$ (52% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4239.7 | R1 4204.9 | <b>Pivot 4162.9</b> | S1 4128.1 | S2 4086.1\nVeille : PDH 4197.7 / PDL 4120.9  ·  Semaine passée : 4234 / 4091\n\n📅 <b>Annonces du jour</b>\n🔥 <b>05:30</b> 🇺🇸 Fed Chairman Warsh Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>57%</b> du temps (301 jours, ~6.0 ans)\n• Hier : +1.51% → après une veille en FORTE HAUSSE, l'or a monté le lendemain <b>49%</b> du temps (241 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 0h (11%) · plus BAS vers 0h (12%), 15h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -112.9$, depuis mercredi +87.1$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4128 et R1 4205\nJouer les extrêmes, pas le milieu (pivot 4163). Range attendu ~77$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4198 ou PDL 4121 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-10-19T05:01:43.109292+00:00",
+  "text": "☀️ <b>PRÉVISION OR — LUNDI 19/10</b>\nPrix : <b>4201.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-5/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +10.5$ · plus haut 4208.4 / plus bas 4185.6 (range 23$)\nDXY -0.06% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~74$</b> (ATR 73$ × profil du lundi)\nDéjà fait en Asie : 23$ (31% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4242.6 | R1 4211.8 | <b>Pivot 4189.7</b> | S1 4158.9 | S2 4136.8\nVeille : PDH 4220.4 / PDL 4167.5  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>51%</b> du temps (280 jours, ~6.0 ans)\n• Hier : +0.26% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +16.8$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4159 et R1 4212\nJouer les extrêmes, pas le milieu (pivot 4190). Range attendu ~74$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4220 ou PDL 4168 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
-  "date": "2026-10-12T05:01:37.473299+00:00",
-  "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 12/10/2026</b>\nPrix : <b>4220.50</b>  (+1.53% sur 5j)\n\n🧭 <b>Biais macro or : Baissier (-25/100)</b>\n🔴 Taux réels 10 ans (20j) : 2.87% (+0.32 sur 20j)\n🔴 Momentum or (vs MM50) : prix 4220 vs MM20 4261 / MM50 4379\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.32\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.75% vs Fed 3.88% → hausses anticipées\n🟢 Taux US 10 ans (5j) : -3 pb sur 5 jours\n🔴 Peur marchés (VIX) : VIX 14.8\n\n📐 <b>Niveaux clés or</b>\nR2 4322.9 | R1 4269.6 | <b>Pivot 4180.4</b> | S1 4127.1 | S2 4037.9\nSem. passée : PH 4233.7 / PB 4091.2 / clôt. 4216.3\nRange hebdo moyen (10 sem.) : <b>208$</b> | ATR jour : 81.8$\n\n📅 <b>News éco de la semaine</b>\n🔥 Lun 12/10 18:10 — USD FOMC Member Hammack Speaks\n🔥 Mar 13/10 08:00 — EUR German Final CPI m/m (prév. 0.6%)\n🔥 Mar 13/10 09:45 — USD FOMC Member Waller Speaks\n🔥 Mar 13/10 19:00 — USD FOMC Member Barkin Speaks\n🔥 Mar 13/10 22:00 — USD FOMC Member Collins Speaks\n🔥 Mer 14/10 03:30 — CNY CPI y/y (prév. 1.0%)\n🔥 Mer 14/10 11:40 — USD FOMC Member Bowman Speaks\n🔥 Mer 14/10 14:30 — USD Core CPI m/m (prév. 0.2%)\n🔥 Mer 14/10 14:30 — USD Core CPI y/y (prév. 2.5%)\n🔥 Mer 14/10 14:30 — USD CPI m/m (prév. 0.6%)\n🔥 Mer 14/10 14:30 — USD CPI y/y (prév. 3.6%)\n🔥 Mer 14/10 19:30 — USD FOMC Member Barkin Speaks\n🔥 Jeu 15/10 04:55 — USD FOMC Member Bowman Speaks\n🔥 Jeu 15/10 08:45 — EUR French Final CPI m/m (prév. -0.3%)\n• Jeu 15/10 14:30 — USD Core PPI m/m (prév. 0.3%)\n• Jeu 15/10 14:30 — USD Core Retail Sales m/m (prév. 0.5%)\n• Jeu 15/10 14:30 — USD PPI m/m (prév. 0.5%)\n• Jeu 15/10 14:30 — USD Retail Sales m/m (prév. 0.3%)\n🔥 Jeu 15/10 22:30 — USD FOMC Member Hammack Speaks\n🔥 Ven 16/10 05:30 — USD Fed Chairman Warsh Speaks\n🔥 Ven 16/10 11:00 — EUR Final Core CPI y/y (prév. 2.5%)\n🔥 Ven 16/10 11:00 — EUR Final CPI y/y (prév. 3.8%)\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>49.8%</b> des semaines (<b>53.5%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 89.7%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+10) Bitget UEX Daily | Saudi Airport Attacks Escalate Middle East Risks; US Stocks Rebound; BTC Recovers Toward $84,000 (October 12, 2026)\n🟢 (+10) Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12\n🟢 (+10) Is the war rekindled? Concerns about the escalation of the conflict in the Middle East! Netanyahu calls an emergency meeting on security, focusing on Iran, Gaza and Lebanon\n🟢 (+10) Houthi strike a clear escalation in the Middle East\n🟢 (+8) Trump Says U.S. Won’t Resume Strikes on Iran Before Midterms\n🟢 (+8) Saudi foreign ministry holds phone call with Iran's Araghchi over 'recent escalation' in region\n\n📉 <b>Scénario principal : BAISSIER</b>\nLun→mer : chercher des ventes sur rebond vers 4180 / 4270, objectifs 4127 puis 4038.\nJeu→ven : si la baisse lun→mer est forte, retour possible vers le pivot.\n❌ Invalidation : clôture journalière au-dessus de 4270.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>",
-  "ai": false
+  "date": "2026-10-19T05:01:42.146369+00:00",
+  "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 19/10/2026</b>\nPrix : <b>4201.80</b>  (+0.27% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (-5/100)</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n🟢 Taux US 10 ans (5j) : -15 pb sur 5 jours\n🔴 Taux réels 10 ans (20j) : 2.78% (+0.10 sur 20j)\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.11\n\n📐 <b>Niveaux clés or</b>\nR2 4320.1 | R1 4250.6 | <b>Pivot 4172.8</b> | S1 4103.3 | S2 4025.5\nSem. passée : PH 4242.3 / PB 4095.0 / clôt. 4181.1\nRange hebdo moyen (10 sem.) : <b>187$</b> | ATR jour : 73.0$\n\n📅 <b>News éco de la semaine</b>\n🔥 Lun 19/10 14:30 — CAD CPI m/m (prév. 0.2%)\n🔥 Lun 19/10 14:30 — CAD Median CPI y/y (prév. 2.0%)\n🔥 Lun 19/10 14:30 — CAD Trimmed CPI y/y (prév. 1.9%)\n🔥 Lun 19/10 14:30 — CAD Common CPI y/y (prév. 2.6%)\n🔥 Lun 19/10 14:30 — CAD Core CPI m/m\n🔥 Mer 21/10 08:00 — GBP CPI y/y (prév. 3.4%)\n🔥 Mer 21/10 08:00 — GBP Core CPI y/y (prév. 2.8%)\n🔥 Mer 21/10 23:45 — NZD CPI q/q (prév. 0.8%)\n🔥 Ven 23/10 01:30 — JPY National Core CPI y/y (prév. 2.1%)\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>50.2%</b> des semaines (<b>54.1%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 89.1%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+5) Trump says US may ‘soon finish the job’ on Iran, Netanyahu vows to topple regime\n🟢 (+4) Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand\n🔴 (-4) U.S. Treasury Prices Drop to Second-Largest Since 1787\n🟢 (+4) Europe sent its gold to the U.S. for safe keeping during World War II. Central banks are now reshuffling their reserves for a new era of uncertainty\n🟢 (+4) Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News\n🟢 (+4) Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide\n\n🧠 <b>Analyse IA</b>\n1. Le contexte en 3 phrases\nL'or cote 4201$ dans un marché tiraillé entre le repli du dollar (DXY -0.75% sur 5j à 101.81) et la pression des taux réels élevés à 2.78%. Les tensions géopolitiques extrêmes autour de l'Iran et les menaces de Trump soutiennent les flux refuges, propulsant le VIX vers 20. La tendance de fond reste toutefois coiffée sous la SMA50 (4370$) et la SMA20 (4205$), maintenant un biais tactique neutre.\n\n2. Scénario principal (55%)\nAttention à ton idée reçue : sur 313 semaines, le retournement jeudi-vendredi n'arrive qu'à 50.2% (autant jouer à pile ou face), bien qu'après une hausse il monte à 46.6% de réversion.\n- Lun→Mer : Hausse d'inertie refuge vers la résistance R1 à 4250$. Achat sur repli vers le pivot 4173$ ou cassure confirmée des 4208$ (PH sem.).\n- Jeu→Ven : Essoufflement sous 4242$-4250$ (PWH/R1) et consolidation vendeuse vers 4180$.\n- Invalidation : Cassure nette sous 4167$ (PDL), qui annulerait la poussée initiale pour viser 4103$ (S1).\n\n3. Scénario alternatif (45%)\nCassure baissière immédiate déclenchée par un apaisement brutal sur le front iranien ou un rebond des rendements US (2 ans déjà tendu à 4.77%). Si le cours casse les 4167$, vente directe pour viser le support majeur 4095$-4103$ (PWL/S1), sans rebond en fin de semaine.\n\n4. Jours / heures dangereux\nSemaine calme sur les chiffres US de premier plan, le danger vient des gros titres géopolitiques imprévisibles et de l'ouverture US quotidienne (14h30-16h00). Surveille les CPI Canada (lundi 14h30) et UK (mercredi 08h00) pour la volatilité devises. Règle : réduis la taille de 50% sur les extensions au-delà de l'ATR (73$) et ne tente pas de shorter aveuglément mercredi soir sur simple croyance du cycle.\n\n5. Les 3 choses à surveiller en priorité\n- Les frappes/déclarations USA-Iran autour du détroit d'Ormuz (driver #1 du refuge).\n- Le seuil pivot des 4205$ (SMA20) en clôture 4h.\n- L'évolution du Dollar Index (DXY) sur le support des 101.80.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>",
+  "ai": true
  },
  "ny_update": {
   "date": "2026-10-16T12:01:31.772667+00:00",
