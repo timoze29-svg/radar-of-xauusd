@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792366261.0179174,
+   "ts": 1792370743.2849243,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "d8ad561acf4a",
-  "ee77f1378af0",
-  "c072c984ad27",
-  "3e43b7bec01b",
   "ae5810e71fde",
   "88b634654e83",
   "31886e9fcdc8",
@@ -3945,9 +3941,25 @@
   "58b7e0723345",
   "e36c621e9ba6",
   "c4835678d0ec",
-  "5b1f04e3f656"
+  "5b1f04e3f656",
+  "78ed7f06fb64",
+  "9a4e4338a0ed",
+  "367206db41c3",
+  "796568a2feee"
  ],
  "news": [
+  {
+   "title": "Putin suggests meeting with Trump, Xi, to discuss Ukraine war resolution - report",
+   "source": "The Jerusalem Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGhUVE1JYkZmRGJMOWtWaHFMR2tWX3hYRHdBZnBxcEFCd2FXU01tMTh4b3h2c0FnTHZNY2xXVzdWeEFVLXJYRmZkRThzOVNzMHNPSWNYcWlHNzhsWlFlWWZsSW9OYm9vN09iQ011cjdwbUxzeXJ3WktYZDREZTJtMDJ5cmNxNGlYWHc?oc=5",
+   "published": "2026-10-19T00:19:20+00:00",
+   "id": "367206db41c3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
    "source": "Reuters",
@@ -6335,18 +6347,6 @@
    "cat": "politique US",
    "raison": "Délai sur les sanctions suggérant une possible tentative de désescalade diplomatique.",
    "method": "IA"
-  },
-  {
-   "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-   "source": "Bozeman Daily Chronicle",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSlNZcmtLWjlMRjJHS1RTY1I4RDBROERjVWE3ZThsalpQZG56TFlWLVExblZaYW9NeW03OXBQWUZiRlBKai1VRUJfNHFjRzJjUkdFQ3BmeEpWV3NrMjlsTmRTeEJKbkhEbTNid1NzOUNjSWptWkhZSUI0b3dtLXdUNEpaUmhtbDBvTllmb0NldzhVX1V1ZlFReVpzTWZTeTlfTjRNS2xUR0JneTduU0hGREhnTk8wajFjS2pvTFR1VWxQanhuSjdhRVRDNVdtUzJDQU9YN2ZjZzNBVHRKbjhsZlVCRHlMakdfOUVSVE8xdms5ekhXcmx3QlJVMzB0MnN2SXpWXzB3?oc=5",
-   "published": "2026-10-18T03:31:17+00:00",
-   "id": "0b5d995810fa",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Rhétorique électorale sur l'Iran sans décision politique concrète, effet refuge très limité.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7126,7 +7126,8 @@
   "news|9b03bb05b0f1": 1792368101.740814,
   "cyc_rev|2026-10-19/2026-10-25": 1792368102.9408734,
   "news|0cfe7ff1bc6d": 1792369053.9548745,
-  "news|c4835678d0ec": 1792369879.9488566
+  "news|c4835678d0ec": 1792369879.9488566,
+  "news|367206db41c3": 1792370764.3430786
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7229,6 +7230,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T00:46:04.343128+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin suggests meeting with Trump, Xi, to discuss Ukraine war resolution - report</b>\n📰 The Jerusalem Post · Lun 19/10 02:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGhUVE1JYkZmRGJMOWtWaHFMR2tWX3hYRHdBZnBxcEFCd2FXU01tMTh4b3h2c0FnTHZNY2xXVzdWeEFVLXJYRmZkRThzOVNzMHNPSWNYcWlHNzhsWlFlWWZsSW9OYm9vN09iQ011cjdwbUxzeXJ3WktYZDREZTJtMDJ5cmNxNGlYWHc?oc=5"
+  },
   {
    "ts": "2026-10-19T00:31:19.948928+00:00",
    "kind": "news",
@@ -7523,11 +7529,6 @@
    "ts": "2026-10-18T03:16:16.046456+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>JD Vance claims US has destroyed Iran nuclear program at town hall</b>\n📰 foxnews.com · Dim 18/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.foxnews.com/politics/top-takeaways-from-jd-vance-town-hall-costly-gas-dc-corruption-immigration-hot-takes-war"
-  },
-  {
-   "ts": "2026-10-18T03:16:15.008663+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>RUSSIA REPRIEVE : Trump Waives New Sanctions and Tariffs Two Days Before They Were Set to Take Effect</b>\n📰 theyeshivaworld.com · Dim 18/10 05:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://www.theyeshivaworld.com/news/liveblogs/live-blog/2611008/russia-reprieve-trump-waives-new-sanctions-and-tariffs-two-days-before-they-were-set-to-take-effect.html"
   }
  ],
  "daily_forecast": {
