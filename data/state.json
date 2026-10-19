@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "df59ab196874",
-  "2ae934a98a71",
   "ed57d107e147",
   "9c5a1f113490",
   "54b1879d9722",
@@ -3945,9 +3943,23 @@
   "2f34a945da2b",
   "e8a5fcdf3274",
   "422f849127ea",
-  "871d57832a2c"
+  "871d57832a2c",
+  "77653984bb07",
+  "948f140a68b6"
  ],
  "news": [
+  {
+   "title": "‘Tariff Man’ finally found tariffs he doesn’t like",
+   "source": "CNN",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWM1bEdyRi1zMk44TWVmTDZrOTk2ZUV6dHhybS1VRUdoWTB0TDFrdC12N2o1OUo4N0JJWjhZdk9ybmt3Q0JHeWdVTzJMWUU5T3BTM0RYREtEaVNQSUwtRW14YWVNV1NyZUNVVV8yaVNvQldfb2hFdm91UVhkLXB1Nmh3?oc=5",
+   "published": "2026-10-19T18:12:48+00:00",
+   "id": "948f140a68b6",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
    "source": "The Guardian",
@@ -3956,6 +3968,18 @@
    "published": "2026-10-19T18:01:00+00:00",
    "id": "422f849127ea",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran may be preparing for fresh escalation with US",
+   "source": "Breakingthenews.net",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3F3SVdNQTNpRHNYM0ZuVUlFcWd0OXF2MGZraGVRZHNIT05xNjQ4X245WU1XNFdpWnMyYUZncmZ3dkN4SVl3MVg2RV83bkkyVExwTllWb3dlUDZMSldKSkVxVFNMdmIxb2x2TC1MOXhxcW4wOWtVRE9qNzhEQnpRb1pZSGlpRTNEXzY0NGd3OGd2ZzhnN1VXeWczZw?oc=5",
+   "published": "2026-10-19T17:10:00+00:00",
+   "id": "77653984bb07",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire massive et frappes majeures en Russie soutenant la valeur refuge de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says he's \"negotiating Peace\" as Ukraine launches 1,000 drones at Russia amid continued back-and-forth strikes",
-   "source": "CBS News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
-   "published": "2026-10-18T21:14:54+00:00",
-   "id": "b9566fb9b686",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire majeure sur le terrain malgré les déclarations diplomatiques de Trump.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD to Extend Rebound on Treasury Yields Retreat and Central Bank Demand",
-   "source": "FXLeaders",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWgtRWRFYW81U3JPY2RnOURIVlIwZXZkOTNvcXVsaUZjVkh1VFJ5QXFjMG4tQzJuWkk3cDdsYVp6dzdIUjBvbEZFVFQzYlZlOERGR204TFJZa1RaYm1JeHY5Z2ZfOEVPZzczekV5eTUyQ01Rbnh0RkpJMVJXYjI1azFvNFFITkNsVDdJZUY3UGNUNWI0Y3p5WDgzMkFsNnJidmxiRXRTaGtZT3d1TFJkQ3lEbUQwTE9SQjZyeG9FQXdvN0dWVkY0YnVXN3FEb3o1OUs2YU13?oc=5",
-   "published": "2026-10-18T21:05:59+00:00",
-   "id": "5566108cc801",
-   "impact": 2,
-   "cat": "taux",
-   "raison": "Baisse des rendements obligataires et soutien continu des achats des banques centrales.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7162,7 +7162,8 @@
   "news|206d5c8cfcdb": 1792425703.2498105,
   "brk|US10Y|pdh|up|2026-10-19": 1792426575.473513,
   "news|8c3be5395d86": 1792427498.4474463,
-  "news|2f34a945da2b": 1792433766.6714852
+  "news|2f34a945da2b": 1792433766.6714852,
+  "news|77653984bb07": 1792434685.614604
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7281,6 +7282,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T18:31:25.614697+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran may be preparing for fresh escalation with US</b>\n📰 Breakingthenews.net · Lun 19/10 19:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3F3SVdNQTNpRHNYM0ZuVUlFcWd0OXF2MGZraGVRZHNIT05xNjQ4X245WU1XNFdpWnMyYUZncmZ3dkN4SVl3MVg2RV83bkkyVExwTllWb3dlUDZMSldKSkVxVFNMdmIxb2x2TC1MOXhxcW4wOWtVRE9qNzhEQnpRb1pZSGlpRTNEXzY0NGd3OGd2ZzhnN1VXeWczZw?oc=5"
+  },
   {
    "ts": "2026-10-19T18:16:06.671536+00:00",
    "kind": "news",
@@ -7575,11 +7581,6 @@
    "ts": "2026-10-18T18:31:27.008864+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran offers 7 - day plan to US , says Strait of Hormuz could reopen on sixth day if conditions met</b>\n📰 news.webindia123.com · Dim 18/10 20:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.webindia123.com/news/Articles/World/20261018/4512494.html"
-  },
-  {
-   "ts": "2026-10-18T18:31:25.970568+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Brahma Chellaney On Taiwan : Taiwan risks becoming a bargaining chip in Trump China pivot</b>\n📰 taipeitimes.com · Dim 18/10 20:00\n🧠 haussier or (fed) [mots-clés]\n🔗 https://www.taipeitimes.com/News/editorials/archives/2026/10/19/2003866196"
   }
  ],
  "daily_forecast": {
