@@ -946,15 +946,6 @@
   }
  },
  "seen_news": [
-  "487d4e13d71c",
-  "1c412fcface2",
-  "e33d110a8d3d",
-  "20235fe6eeb3",
-  "b8627be2cb79",
-  "6c6d8b5cf52b",
-  "7e07630ce992",
-  "65a0a8f206fd",
-  "27a8b2caa23b",
   "a1d47e172028",
   "697026d24693",
   "f128a99070ae",
@@ -3945,7 +3936,16 @@
   "59827902147d",
   "4dae42b20e9b",
   "64e2e70098f5",
-  "a167c854e9d6"
+  "a167c854e9d6",
+  "14c1fa9e3a5b",
+  "4016f6ed62b4",
+  "1b4f2e6cd957",
+  "53f50b406e96",
+  "8d60da35d62d",
+  "ba1aa78d1752",
+  "d03ff7c91098",
+  "a20efed864a8",
+  "ccffb01e18cf"
  ],
  "news": [
   {
@@ -3961,16 +3961,28 @@
    "method": "IA"
   },
   {
+   "title": "Brent crude falls 1% as Trump waives some Russia sanctions and tariffs",
+   "source": "Quartz",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzVvUnlPN3RDSGJ2N2wyLXJ0VExXX2g4WE5iU2xrb3dhZTJ0QjdBeURWUHQ0RE1mUmF5U1Y0bjZPM3k2ZTdJQ2ZCNVB6UnowdjBKbk96TEFYbEhmN3kyWU04eFdpOW5qV1BjU1V5SDZER2FUNUo2T0xoandWOGhfZ2d2Yw?oc=5",
+   "published": "2026-10-19T12:04:20+00:00",
+   "id": "8d60da35d62d",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Under Trump, deficits remain high while borrowing costs escalate",
    "source": "Reuters",
    "theme": "Dette US",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFl3MEhWalEwWWhFWFNWRXdHb3hVeUpWTzN1TVBEZi1JU0JMMjNSa1pxWEhBQWk5UTB3RE1tZUlkSDl0aXNCTzF6ZUZHd0JCZGhNTTJ3a3N1MnZQM3pSOHlSajJDNlZPWXBabGVjdERmcEozNXlsOFdrQUlBYWxLV2U2ZV95MXVmbEdEbE1HZUFxVkNQUTZ3eUdfMW8zMXRQalhSbTFCRnVfRFFRdHBoT0dKVFhxWDg?oc=5",
    "published": "2026-10-19T11:37:10+00:00",
    "id": "79bc16ee4186",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -2,
+   "cat": "taux",
+   "raison": "La hausse des rendements obligataires augmente le coût d'opportunité de détenir de l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances",
@@ -3979,10 +3991,10 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
    "published": "2026-10-19T11:36:11+00:00",
    "id": "45c3f273f788",
-   "impact": 1,
+   "impact": -2,
    "cat": "commerce",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
+   "raison": "Détente commerciale et approvisionnement énergétique stabilisé diminuant la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Oil slips from five-month high with Hormuz transits in focus",
@@ -4051,10 +4063,10 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGpOOWxtVmkyYUM5V1dyMjdBQjlUbzhWcWJUNXJNOFZmTkRRUE80ODNpZFdfVWhadGd0dmpoTEtlbk5oNjB1VWdMRlhzOHNBckV0dm9wcDJpSTBWZ2R5WERqQ2s0R2RkUENncGQ2MHJVaFZuWEUybDR5ZUg5UGY0YXVYaldfUDQ?oc=5",
    "published": "2026-10-19T10:30:14+00:00",
    "id": "4197b873a490",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Le risque persistant de confrontation avec l'Iran soutient la prime de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Iran says 7-day plan to reopen Strait of Hormuz still on the table",
@@ -4063,10 +4075,10 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jUkh0M2pJdlUyZUIyLVRyQndYNmE4TkRiQm0zWDVnU2R4RC1YMG9DVTZkcVFBandTbGhfTW5FTzlON3BmRG9tMlBsY2NCc0pWZmNYM1ZGTjhLR0RKMTlMSU90Yi1pall6ZW1LOVl1a2ROamM0ZWc3djhoVUfSAYIBQVVfeXFMTlQwT2JVbmhpUDJ1QXRLX2JKSzhVZU13U2ZDbUZvRnBsYmhyNmVCajU5S2dhdVZ0RngyN3BDdEpTRG5lZm9UTkx2TDd0V2hlbFc0N2lYd29WUTBPbTBVOV9XREZQTXBEV2ItaGZmV0ZnLWxIelhFY3RiZ0E5NllaTGUtQQ?oc=5",
    "published": "2026-10-19T10:09:32+00:00",
    "id": "af402a2d729a",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Possible désescalade maritime réduisant fortement le risque de choc d'approvisionnement pétrolier.",
+   "method": "IA"
   },
   {
    "title": "US Blames Europe For Not Backing ‘Secondary Tariffs’ On China, India",
@@ -4159,10 +4171,10 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtSlZtVHR0NEszLV9sLXc2aWhCNTlYUlVJWlRscHItMGI1b3l3MVA0c2NObE8zbG1vOG1kWjJVcHFoeDg1NkNETm5pRmRMQmlzaTdhc2FqaWxlN3Z0OFhhb0dCZ1VjSmxOQ0tQX0tpRFh5aWNub1k0M3ln?oc=5",
    "published": "2026-10-19T09:31:33+00:00",
    "id": "e1bef17784ba",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "inflation",
+   "raison": "Le recul du brut réduit les pressions inflationnistes et l'attrait de l'or.",
+   "method": "IA"
   },
   {
    "title": "Russo-Ukrainian war, days 1697–1698: Russia hits Ukraine’s energy 76 times during a US-declared truce, as Trump waives tariffs on Russia’s oil buyers and Romania downs two Russian jet drones",
@@ -5051,6 +5063,18 @@
    "cat": "or",
    "raison": "Simple constat de résilience technique face au dollar, sans nouveau catalyseur macroéconomique fondamental.",
    "method": "IA"
+  },
+  {
+   "title": "Meet Iran’s New Defense Chief: A Missile Veteran Threatening War With Israel",
+   "source": "i24NEWS",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXhHREw2b2F0ZmdTTmM5YVVta01IX2NCTjRTajZxemNtN2FGSURLcHdCNEp0eFRud0drelJGN1ZUbk5MT21tdUtrY2lzVVEweEFlNVlYSVRGOXFTbzczdnV0bUVuZkNRZ3dDc2RGb3ZyWXhuSnd5R2h5WWVZMGdSdjc5RzhSSGdseHNObGtOVEVfMXNKQnNvdmJONWlaakFQOTkxaGRPdE5Qd2hGZmhsZjI0TmdEQ2MwWFJtOWk2WE1lRHMwbktqZUdhRHNDRkphVkhfWEt6NWdnTkE?oc=5",
+   "published": "2026-10-19T04:50:00+00:00",
+   "id": "53f50b406e96",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Pause sur les sanctions russes détendant légèrement la pression sur l'énergie mondiale.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine launches 1,000 drones at Russia, attacks set St. Petersburg oil facilities ablaze",
-   "source": "CBS News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
-   "published": "2026-10-18T18:29:59+00:00",
-   "id": "c07dafd7caa0",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire et frappes sur infrastructures énergétiques russes stimulant la demande de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump accuses Zelenskyy of not wanting to end the war sparked by Russia's full-scale invasion",
-   "source": "CBS News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
-   "published": "2026-10-18T18:29:00+00:00",
-   "id": "faec42f2db91",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Pression américaine pour forcer des négociations, réduisant l'horizon temporel du conflit.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7148,7 +7148,9 @@
   "news|4197b873a490": 1792409483.008795,
   "news|79bc16ee4186": 1792410367.071549,
   "news|af402a2d729a": 1792411294.0268226,
-  "rep|update|2026-10-19": 1792411296.6503081
+  "rep|update|2026-10-19": 1792411296.6503081,
+  "news|8d60da35d62d": 1792413100.7208242,
+  "news|53f50b406e96": 1792413101.6106694
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7267,6 +7269,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T12:31:41.610963+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Meet Iran’s New Defense Chief: A Missile Veteran Threatening War With Israel</b>\n📰 i24NEWS · Lun 19/10 06:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXhHREw2b2F0ZmdTTmM5YVVta01IX2NCTjRTajZxemNtN2FGSURLcHdCNEp0eFRud0drelJGN1ZUbk5MT21tdUtrY2lzVVEweEFlNVlYSVRGOXFTbzczdnV0bUVuZkNRZ3dDc2RGb3ZyWXhuSnd5R2h5WWVZMGdSdjc5RzhSSGdseHNObGtOVEVfMXNKQnNvdmJONWlaakFQOTkxaGRPdE5Qd2hGZmhsZjI0TmdEQ2MwWFJtOWk2WE1lRHMwbktqZUdhRHNDRkphVkhfWEt6NWdnTkE?oc=5"
+  },
+  {
+   "ts": "2026-10-19T12:31:40.720896+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Brent crude falls 1% as Trump waives some Russia sanctions and tariffs</b>\n📰 Quartz · Lun 19/10 14:04\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzVvUnlPN3RDSGJ2N2wyLXJ0VExXX2g4WE5iU2xrb3dhZTJ0QjdBeURWUHQ0RE1mUmF5U1Y0bjZPM3k2ZTdJQ2ZCNVB6UnowdjBKbk96TEFYbEhmN3kyWU04eFdpOW5qV1BjU1V5SDZER2FUNUo2T0xoandWOGhfZ2d2Yw?oc=5"
+  },
   {
    "ts": "2026-10-19T12:01:35.599795+00:00",
    "kind": "ny_update",
@@ -7556,16 +7568,6 @@
    "ts": "2026-10-18T14:31:30.005020+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine Launches Large-Scale Drone Attack On Russia, Defies Trump's Demands To Leave Russian Energy Alone.</b>\n📰 Yahoo · Dim 18/10 14:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXN5SlVkR0UxNUJjZlZ0OExTTXpwT2ltcVl5dlBRaXFDaHRmTmdGM2NMTkVaWGYxcFFkWG5aR1RlQl8zaHUzeHE1azJtMFM3ODRmb1BQOFhhT3p1MFB6LU1OOVdGTk85VWl4WWhyRW5jc3hGOV9KM09xOTVkc21Ic08wVHlWY1FHZmttYllvdGVCUExicFE?oc=5"
-  },
-  {
-   "ts": "2026-10-18T14:31:29.147304+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran-US war: What UAE residents need to know today (Oct 18, 2026)</b>\n📰 Gulf News · Dim 18/10 16:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEU5X1RKWXA4ZXZ6c0dTUVdUNHRPRzZjRlRSY2VBVTRlakZ2QXFFY2xtQ2g4NFZXdkxMN3RHWXZvZWVCZHlNUlA4dWdWdHQzMElHU25SeVE0X2pXUmRabWJub1JaMzN5MGQyNHVVSWNEN0l6U0x6VUU5c3VIa2Z4Wk5uWE03RzJQR2Y3dzNZblRNeG95YWxyYlZ4TUY5cmc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T14:31:28.271400+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Belgium’s consul general in Jerusalem calls Israeli occupier attack on diplomats ‘new escalation’</b>\n📰 Anadolu Ajansı · Dim 18/10 16:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzd6a3BZaHNWMHZHbUxEYWZOeVBpQUNTSnNVemJpUHZxbmtJMTBHam5YZy1GTVR5MzdKQnFQa20yUFdvYVFlZGYyR29mNkxuMDB5MUhqSUhlcVRiVDZuaFl0Q2dSSEE3TFdnS0syNlNIUEtnaXgydDZJX2hMMDYzZmFxUUJsVFpmV0RDa2ZhM3RqOWlsUWdqbmVPOGVQQXZ5VzZVUXNic2F0SlJrdTFPaDQwUkI4bFozZVVSUEtQRnlrVmtGSzkxUlNPaW1weUFkeXc?oc=5"
   }
  ],
  "daily_forecast": {
