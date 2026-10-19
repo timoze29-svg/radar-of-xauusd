@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "87644f645baf",
-  "9d45a26a5d7e",
-  "94c4a2046a52",
-  "2e69667cf2a4",
-  "72a05d075e5f",
-  "3e37b76d6360",
   "1259b121741e",
   "fdbf61e9236f",
   "80070b0f6660",
@@ -3945,9 +3939,39 @@
   "2bb2a8a99982",
   "442148c71435",
   "ff7ebf655fe6",
-  "8d8a0d1ba1ba"
+  "8d8a0d1ba1ba",
+  "3af54b09d655",
+  "0f306c595953",
+  "398dbe02d064",
+  "a221be7b4493",
+  "ab25efc0bfa4",
+  "ecde57213a60"
  ],
  "news": [
+  {
+   "title": "'I am so fed up': Farmers face hurdles from tariffs, diesel, and blame GOP as Trump heads to Kansas",
+   "source": "Fortune",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUTBWcnRKbW1taFVVTjdQTl9fMFU5VmlIV19ZUUNQMlE2TEdheXVpQ21QUzhxOTF5S054b3FsMHFOWVdCNFdoM3Fvem9Pazk5d3g2V1ZGbWdUSnBwSWVYTjkwaWpvSFdqa1RfOVZkVEE0OTg2NWd1Yi1kSkdlRmkxV0lzdEMwWmEyRkFxczF4ZFNlUQ?oc=5",
+   "published": "2026-10-19T14:11:00+00:00",
+   "id": "0f306c595953",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Goes Nuclear on Fox News in Seething Morning Meltdown",
+   "source": "The Daily Beast",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFZkOXU0dW9IZEZGQmhyR3AxdGgwc0RScVJiWkp3ZVJOM2gtY3BON0R5ZW5nT2loUV9TVlJmOUFSeFJYamxCWU9yUTV5UXo2eE9PQ0hCMkVxenU3RDJ6eHUwRjQxTmx0U1NFSVFJUV94UEhlX1puc09BaVVSd1ZyeGItckt2Z0kyajdpcDR0YjF6RTQ?oc=5",
+   "published": "2026-10-19T13:53:47+00:00",
+   "id": "3af54b09d655",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Inflation Accelerates, Fed Waits",
    "source": "Palisadian-Post",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Maintien du soutien militaire américain en Ukraine, préservant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine sends waves of drones at Russian oil facilities",
-   "source": "bordermail.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.bordermail.com.au/story/9370675/ukraine-sends-waves-of-drones-at-russian-oil-facilities/",
-   "published": "2026-10-18T19:00:00+00:00",
-   "id": "63d8cae27388",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire et frappes sur infrastructures pétrolières soutenant la demande de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Egypt says ready to provide Saudi Arabia with necessary support amid Houthi conflict",
-   "source": "freemalaysiatoday.com",
-   "theme": "Géopolitique",
-   "link": "https://www.freemalaysiatoday.com/category/world/2026/10/18/egypt-says-ready-to-give-saudi-arabia-necessary-support-amid-houthi-conflict",
-   "published": "2026-10-18T19:00:00+00:00",
-   "id": "6d1ca80f4d93",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions régionales au Moyen-Orient persistantes, léger soutien pour la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7155,7 +7155,9 @@
   "news|4ece641eb510": 1792415768.7951217,
   "news|dbf1e6497a33": 1792416697.1867256,
   "news|66b906a6bfcd": 1792418498.748999,
-  "brk|GOLD|pdh|dn|2026-10-19": 1792419374.7241206
+  "brk|GOLD|pdh|dn|2026-10-19": 1792419374.7241206,
+  "news|3af54b09d655": 1792420288.9804285,
+  "big|VIX|2026-10-19": 1792420290.1950507
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7274,6 +7276,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T14:31:30.195094+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-2.29 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-10-19T14:31:28.980513+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Goes Nuclear on Fox News in Seething Morning Meltdown</b>\n📰 The Daily Beast · Lun 19/10 15:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFZkOXU0dW9IZEZGQmhyR3AxdGgwc0RScVJiWkp3ZVJOM2gtY3BON0R5ZW5nT2loUV9TVlJmOUFSeFJYamxCWU9yUTV5UXo2eE9PQ0hCMkVxenU3RDJ6eHUwRjQxTmx0U1NFSVFJUV94UEhlX1puc09BaVVSd1ZyeGItckt2Z0kyajdpcDR0YjF6RTQ?oc=5"
+  },
   {
    "ts": "2026-10-19T14:16:14.724174+00:00",
    "kind": "breakout",
@@ -7563,16 +7575,6 @@
    "ts": "2026-10-18T16:31:25.707785+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran Names UN - Sanctioned Missile Chief As Defense Minister</b>\n📰 israelherald.com · Dim 18/10 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.israelherald.com/news/279382861/iran-names-un-sanctioned-missile-chief-as-defense-minister"
-  },
-  {
-   "ts": "2026-10-18T16:01:31.505563+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>GCC urges Russia to press Iran to halt attacks as Lavrov proposes Gulf security framework</b>\n📰 thenationalnews.com · Dim 18/10 17:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.thenationalnews.com/news/mena/2026/10/18/gcc-urges-russia-to-press-iran-to-halt-attacks-as-lavrov-proposes-gulf-security-framework/"
-  },
-  {
-   "ts": "2026-10-18T15:16:01.359768+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu: Israel prepared to launch preemptive strike on Iran without US support</b>\n📰 www.israelhayom.com · Dim 18/10 17:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUgwbXh3eUREaEw2UGxqcExNU1pZQmItWVMwaTN6V1NBM0FqRVoyUWloUGh5RXRDdzZUUW9CTGRuU1Nza0FxTVVNLVdiWkNDaXJWU0d0azk1VXlydk1lcVVJbDhuWkxUYjlSb2RkMWRTb1djQzRCck1ucUEtSXJadFRfeVZMLU02OTU3RzdVQlhwZk5RZFZ1M2hrY2lkajZZb3UyTnExNE9IUi1NdERqcWhCcjJxcG94bVFPVA?oc=5"
   }
  ],
  "daily_forecast": {
