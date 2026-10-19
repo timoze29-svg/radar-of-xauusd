@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792437349.5174484,
+   "ts": 1792441865.4159503,
    "data": [
     {
      "title": "CPI m/m",
@@ -749,7 +749,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792369056.4930332,
+   "ts": 1792441897.259978,
    "data": {
     "gold_hours": {
      "0": {
@@ -757,7 +757,7 @@
       "high": [
        [
         0,
-        15.7
+        14.8
        ],
        [
         15,
@@ -784,11 +784,11 @@
       ]
      },
      "1": {
-      "n": 123,
+      "n": 122,
       "high": [
        [
         22,
-        12.2
+        12.3
        ],
        [
         15,
@@ -802,28 +802,28 @@
       "low": [
        [
         16,
-        11.4
+        11.5
        ],
        [
         0,
-        11.4
+        11.5
        ],
        [
         2,
-        8.9
+        8.2
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 119,
       "high": [
        [
         2,
-        11.7
+        11.8
        ],
        [
         16,
-        11.7
+        11.8
        ],
        [
         17,
@@ -833,15 +833,15 @@
       "low": [
        [
         0,
-        13.3
+        13.4
        ],
        [
         14,
-        8.3
+        8.4
        ],
        [
         3,
-        7.5
+        7.6
        ]
       ]
      },
@@ -884,12 +884,12 @@
         14.4
        ],
        [
-        17,
+        0,
         11.0
        ],
        [
-        0,
-        10.2
+        17,
+        11.0
        ]
       ],
       "low": [
@@ -898,46 +898,46 @@
         11.9
        ],
        [
-        2,
-        7.6
+        15,
+        8.5
        ],
        [
-        15,
+        2,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5960,
+     "n_hours": 5945,
      "horizon_h": 2,
-     "base_gold_up": 53.6,
+     "base_gold_up": 53.7,
      "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 244,
-       "p_dxy": 52.0,
-       "p_gold": 55.7,
+       "n": 242,
+       "p_dxy": 52.5,
+       "p_gold": 55.8,
        "gold_avg": 1.3
       },
       "4": {
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.5
+       "gold_avg": 0.6
       }
      },
      "up": {
       "3": {
-       "n": 270,
-       "p_dxy": 55.9,
-       "p_gold": 48.9,
-       "gold_avg": -0.7
+       "n": 267,
+       "p_dxy": 55.8,
+       "p_gold": 49.1,
+       "gold_avg": -0.8
       },
       "4": {
-       "n": 76,
-       "p_dxy": 59.2,
-       "p_gold": 52.6,
+       "n": 75,
+       "p_dxy": 58.7,
+       "p_gold": 52.0,
        "gold_avg": -0.3
       }
      }
@@ -946,35 +946,6 @@
   }
  },
  "seen_news": [
-  "b95f3cf7c121",
-  "3bd575b5593c",
-  "615061fe0c50",
-  "be22724644de",
-  "d0583776fca3",
-  "690496f5a410",
-  "3a453be2ec5e",
-  "0f781ad0c56e",
-  "2eddbc73cf13",
-  "edaf3c3fe824",
-  "c282b493f7e5",
-  "3ef103da693f",
-  "1ead4472a00c",
-  "354feb01deb6",
-  "e15e1aa0bc84",
-  "b83727a0b2c1",
-  "c6feedc52d28",
-  "9e1ba7e7522c",
-  "d8db2e7f9715",
-  "82c8f3ecaebe",
-  "a6d828104a7e",
-  "9cc74480b27a",
-  "dd97f521decc",
-  "cac0d0466cd1",
-  "bb25e98a6797",
-  "b0a2c62539de",
-  "26bd95e5519c",
-  "1159fa6250e9",
-  "dbf3d9a38b81",
   "d5fe53cc2f92",
   "033e2935236b",
   "fd3b402f3637",
@@ -3945,7 +3916,36 @@
   "cc51fcb43db6",
   "b4fa15d0d2bc",
   "744c4fecffaa",
-  "1e6afeddc99b"
+  "1e6afeddc99b",
+  "ce94f4f59e1f",
+  "9840ada53400",
+  "6244444eee1a",
+  "238b8f0a4004",
+  "5ce428871677",
+  "363cc84747fb",
+  "21d33eba3081",
+  "33f211a6ac40",
+  "4004c464c2c7",
+  "1f0a33bd0cad",
+  "6e85b9fa2903",
+  "32725245880f",
+  "3c7b1799efcf",
+  "8d830d486411",
+  "1db79feddd69",
+  "c8f3e3075547",
+  "efa1b17f4dcf",
+  "4a279b0141cc",
+  "4e4b18d7d4ca",
+  "cbaa2fa7da2d",
+  "b72ead3db9d8",
+  "3b33e8ebb645",
+  "ebec86a72226",
+  "f641dba3d39e",
+  "d49223297b70",
+  "5f6ecf02e9d4",
+  "05b0b75d03f9",
+  "f53c25724ae1",
+  "0ab289c91edc"
  ],
  "news": [
   {
@@ -3956,6 +3956,66 @@
    "published": "2026-10-19T20:13:21+00:00",
    "id": "cc51fcb43db6",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "India gains Sh135bn in Kenya sales amid US - Iran war",
+   "source": "businessdailyafrica.com",
+   "theme": "Géopolitique",
+   "link": "https://www.businessdailyafrica.com/bd/news/india-gains-sh135bn-in-kenya-sales-amid-us-iran-war-5638260",
+   "published": "2026-10-19T20:00:00+00:00",
+   "id": "5ce428871677",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "JD Vance Drops New Insane Excuse for Iran War Failures : He Lives in a  Bubble",
+   "source": "jezebel.com",
+   "theme": "Géopolitique",
+   "link": "https://www.jezebel.com/jd-vance-drops-new-insane-excuse-for-iran-war-failures-he-lives-in-a-bubble",
+   "published": "2026-10-19T20:00:00+00:00",
+   "id": "21d33eba3081",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel announces arrests after West Bank settler attacks on Westerners",
+   "source": "nzherald.co.nz",
+   "theme": "Géopolitique",
+   "link": "https://www.nzherald.co.nz/world/israel-announces-arrests-after-west-bank-settler-attacks-on-westerners/IYPGQEZC6FHXDPM2HKQY65JUZ4/",
+   "published": "2026-10-19T20:00:00+00:00",
+   "id": "6e85b9fa2903",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Issues Saudi Arabia Security Alert as Missile Threats Disrupt Airports",
+   "source": "rustourismnews.com",
+   "theme": "Géopolitique",
+   "link": "https://www.rustourismnews.com/2026/10/19/us-issues-saudi-arabia-security-alert-as-missile-threats-disrupt-airports/",
+   "published": "2026-10-19T20:00:00+00:00",
+   "id": "1db79feddd69",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump signs executive order waiving Russia sanctions",
+   "source": "wwno.org",
+   "theme": "Géopolitique",
+   "link": "https://www.wwno.org/npr-news/2026-10-19/trump-signs-executive-order-waiving-russia-sanctions",
+   "published": "2026-10-19T20:00:00+00:00",
+   "id": "05b0b75d03f9",
+   "impact": 5,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6287,66 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Joutes verbales maintenant un bruit de fond d'incertitude militaire au Moyen-Orient.",
    "method": "IA"
-  },
-  {
-   "title": "Former Trump Defense Secretary Mark Esper calls Iran's demands for fully reopening Strait of Hormuz 'ridiculous' - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDNBcHcxUnVELUVFUG51R1RSTDgwNFJxbVpaNjlMcTFobUs3eHNJTFNIQ0ltQ2t0SnlCU1c3ZWlHMFBfLTdGd0FyU19kdFpjV0dadExjTzQ0YWdYc1RlcHU2a2ptUGJUQ1Y4YW1vODJsYjZtZVhCdUI1Tmg5VEU2S1MyLUVuOTAwVnZRLTFFSEtXMDJ5cDBpM0lNeTlVc09QOUlB0gGoAUFVX3lxTE54T1dsbzlwbGJqeTNoaWRhTC1PUUxHZF9WVXNwY2NISlRPTFhfcXVGOVp5Q3o0a0pUaEs0TkkyemU0bTZrRTlyaTRLcHJiUFVPdmhTalBQTFpEMndLRGY3UE1ra2VXVVVuRFoyczVHVWRNM0VNV0VYM0ItZjVITk1UbXpLeW93bDhfV01jcl9ZVDY2T0oyR3pid3FYaG1ycjAzUEhWdmR6SA?oc=5",
-   "published": "2026-10-18T23:40:08+00:00",
-   "id": "3ba02544233f",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Commentaire d'un ex-responsable soulignant les tensions persistantes sur Ormuz, impact de court terme limité.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
-   "published": "2026-10-18T23:36:00+00:00",
-   "id": "0b5639998031",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Incertitude accrue sur le soutien américain à l'Ukraine, léger soutien refuge pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Bond Market Triggers Wall Street Risk Warnings As Long Yields Surge",
-   "source": "Stocktwits",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2xCMEJVN2tiLS12Y2FTZVcxZEE1WmNkNjBBQ3JKSnN2ZDQ4Z3IzenlpajdVanlpLVhVaUFLY3lOSjFvVUpOekxMN1l2V1c3MmV3a1FDZUtxLWhQb0NLM2dsb0RMQkRkQjc5ekQ1aE5oQnpvYUx5NHg0djU1OGRma0M0UjRjSWdUTVFWQTN1SnFkTWtwaGxuVWNqeVVDbGdYQVRkVEdIRWtBSVhqeDhpeTV4RllrNU5KUzZPajU4ZFgtZEtVcHBJZzRTOA?oc=5",
-   "published": "2026-10-18T23:35:36+00:00",
-   "id": "16afdabc6215",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "La hausse rapide des rendements obligataires augmente le coût d'opportunité de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Europe sent its gold to the U.S. for safe keeping during World War II. Central banks are now reshuffling their reserves for a new era of uncertainty",
-   "source": "Yahoo Finance",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWhIOGF1bGJQSEpvQlY2T0poMTFOQ1RSOXpHTmlZUmtZRDRlUHAxSmU2QXJtcmdFVUZWSzNtb2J6WmhGWXYzekxXaFFEX0Z0cXZJMWcyalIwZFVzSlVnakROUlhRUEEyNnNDelJhMGNiWkpQLXRqWlBWaWY4Q2NWV3NnZlBCeTZDZkVqcjAyd19Pdw?oc=5",
-   "published": "2026-10-18T23:29:39+00:00",
-   "id": "bd658d1e4ed7",
-   "impact": 4,
-   "cat": "banques centrales",
-   "raison": "Rapatriement et accumulation de réserves physiques d'or, signal structurellement haussier.",
-   "method": "IA"
-  },
-  {
-   "title": "ASX Preview: Australian Shares to Fall as Oil Prices Retreat on Russia Sanctions Relief; Cleanaway Waste Management Agrees to Over AU$9 Billion Takeover by EQT-Backed Bidder",
-   "source": "Yahoo Finance Australia",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWlELUJFcG1UTldWRWdjNzNnS01nazZRZlFWUHVNcnFrZzB3OS1WVlh6QzRDOXZOM3Y0eldWR3VPVmJQeEFIelBPS283Q09Vay11SmxfSm95SGZOdUJGWDRBOUIxUW5QZldJcW1MVzk4cEp6NGg0NmRsUUFwTFhMZVgtazRkSGxGV1ZZ?oc=5",
-   "published": "2026-10-18T23:14:35+00:00",
-   "id": "d2acf60813a4",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Allègement des sanctions russes et baisse du pétrole réduisant pressions inflationnistes et prime géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7171,7 +7171,10 @@
   "news|11266c8d86a5": 1792437179.1232893,
   "news|19deece33ff0": 1792438284.6325073,
   "rep|recap|2026-10-19": 1792440096.557266,
-  "news|cc51fcb43db6": 1792440966.6860747
+  "news|cc51fcb43db6": 1792440966.6860747,
+  "news|5ce428871677": 1792441892.5571213,
+  "news|21d33eba3081": 1792441893.6184533,
+  "news|6e85b9fa2903": 1792441894.6608667
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7290,6 +7293,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T20:31:34.661167+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel announces arrests after West Bank settler attacks on Westerners</b>\n📰 nzherald.co.nz · Lun 19/10 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.nzherald.co.nz/world/israel-announces-arrests-after-west-bank-settler-attacks-on-westerners/IYPGQEZC6FHXDPM2HKQY65JUZ4/"
+  },
+  {
+   "ts": "2026-10-19T20:31:33.618734+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>JD Vance Drops New Insane Excuse for Iran War Failures : He Lives in a  Bubble</b>\n📰 jezebel.com · Lun 19/10 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.jezebel.com/jd-vance-drops-new-insane-excuse-for-iran-war-failures-he-lives-in-a-bubble"
+  },
+  {
+   "ts": "2026-10-19T20:31:32.557195+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>India gains Sh135bn in Kenya sales amid US - Iran war</b>\n📰 businessdailyafrica.com · Lun 19/10 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.businessdailyafrica.com/bd/news/india-gains-sh135bn-in-kenya-sales-amid-us-iran-war-5638260"
+  },
   {
    "ts": "2026-10-19T20:16:06.686165+00:00",
    "kind": "news",
@@ -7574,21 +7592,6 @@
    "ts": "2026-10-18T21:46:12.835838+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis</b>\n📰 The Jerusalem Post · Dim 18/10 23:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE41a0xUNG9zVTllNmo2TmJVSFdKdmJGV2lwamViUEdYZ3NxRWtNVVJpRFZSV3oxUkVFUW0xU0R5dGN6MHlpZ0NCaURaUUl0cDlEMkl6WUxCWDlfZW1q?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:16:27.203518+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>FAVORING PUTIN OVER UKRAINE: Trump Waives Many Russia-Related Sanctions, Tariffs Before They Were to Take Effect Under New Law</b>\n📰 EnergyNow · Dim 18/10 22:07\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlNXT3hOZ2dLRXRhSWo3QUFscXUzSmVNeS0xVUNHOHNaalpNZ3oxNjhiZVM1V3dRNFlINWd3ZVc4a2s1UG1fazNjdTZWYWJKRmtja3hlOTJZT1VQLTlpSWtLNnhmRk85NXR1OXNkQWJhSXFTYVg1XzA1SnVQdFB5NVc1UDNsMVViN3h4a1JnYnNiVHdfWWRKbTVZdWh5VmFLRFRZbDVqUmpuLWV2a0liOFpETXpNamhLLW1KT2ItbmtUSWhRYlBnQkVvN0J6TnJScDBSQkNrWDViWlNPU1o3bVNwU0dQc21oUEE?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:01:35.519485+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Proposes Seven - Day Plan to Reopen Strait of Hormuz , Conditional on US Compliance</b>\n📰 openthemagazine.com · Dim 18/10 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://openthemagazine.com/world/iran-proposes-seven-day-plan-offers-conditional-hormuz-reopening-on-day-six"
-  },
-  {
-   "ts": "2026-10-18T20:01:34.120325+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Aircraft Attempts Iran Strike? Air Force Tanker Declares Emergency, Diverts To Israel | Report</b>\n📰 The Times of India · Dim 18/10 21:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNRERRQTF3Q0pQT1hYakE1LTQtZVdmckZDc01za1UzWl9OblZlNGo3a2Vsa0xIWHJsRVVObE93anozVlNTV0Z3SHpLcVJ4TU5yRnB5dkpqel9RLTZGaHRXeTUtS3Q0Znh2REFOT3dVUHlBMnRyLXAzZHFtZXo4eUVhR0V4ZDczLTNKbk54Wng4X1VFWGNPbTVDYlRPNFozTGNGWld2SmhaRE9BVF85ZGhEMW40d2F3UklJZEdpU0NCTy0tZFdsZ1MzOWxkZlhzZHc3VVBMcnpWdFU5Rnl1WUU2MzlIenhzcUc1QUU4MHpBUHFtY1FWcEhsRnY1Ti1PdDhuUzkwaXNR0gGLAkFVX3lxTE5NQWdWX2xtT2lLakNDQXJWYzlWY2RSV0ZLWFEySXBSLUJvZGhaWWxZSlNQdkI2a28tcllydi11Tk1SRElVYUd6RDFadzcydV9yNVpOa3l4T1Q0MHZ5dlIxY01seXdMT3NCT09Za0l4Vl9GWVpCUm13Vk9GTTdVLTJ3OXloOTFJNHgwd3ByRlZ3TU1BUldKNjk3YmFMSTJyS1d2MDFCcVdDYkQ1cXVpZGdKVkpzZnMteXBzZ0JDRDQwTGZGaTROcTVSTU1SSlFSZHRnbGpUcjc3WERNWVJpaDZoR1hZMVJiS3ppUXEwUVpNRlRoUTVzaFFjeFZia2gtWTdraF9GdFp1MkVzVQ?oc=5"
   }
  ],
  "daily_forecast": {
