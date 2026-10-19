@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792370743.2849243,
+   "ts": 1792374345.1257026,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "c5a45e3dd33f",
-  "45a7ae171d3a",
-  "955c31854062",
-  "fc3cdb674461",
-  "2b55499a531e",
-  "c0da283d2919",
   "34b4d1761d69",
   "8a7dd69ffd9d",
   "7c710c839342",
@@ -3945,9 +3939,27 @@
   "9088894dadf3",
   "1ffab32758e8",
   "fc195c9d5630",
-  "20316d50804f"
+  "20316d50804f",
+  "04fa9c14f93e",
+  "9f566b00cd67",
+  "59882e570811",
+  "4c071536e2f6",
+  "36da3099f453",
+  "c97502d85577"
  ],
  "news": [
+  {
+   "title": "Trump, Netanyahu threaten renewed Iran strikes, Tehran warns of response",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE?oc=5",
+   "published": "2026-10-19T01:31:23+00:00",
+   "id": "4c071536e2f6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump waives major Russia sanctions, tariffs",
    "source": "China Daily",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Levée des sanctions allégeant les tensions géopolitiques et les risques sur l'énergie.",
    "method": "IA"
-  },
-  {
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies - International",
-   "source": "dailymirror.lk",
-   "theme": "Géopolitique",
-   "link": "https://www.dailymirror.lk/breaking-news/Trump-waives-several-Russia-sanctions-as-row-with-Zelensky-intensifies/108-352771",
-   "published": "2026-10-18T03:45:00+00:00",
-   "id": "e8ec67fedcf7",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Allègement des sanctions russes, atténuant la prime de risque géopolitique globale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7129,7 +7129,8 @@
   "news|c4835678d0ec": 1792369879.9488566,
   "news|367206db41c3": 1792370764.3430786,
   "news|7a5a49823dc0": 1792371698.3687527,
-  "news|1ffab32758e8": 1792373482.0497339
+  "news|1ffab32758e8": 1792373482.0497339,
+  "news|4c071536e2f6": 1792374367.1650674
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7232,6 +7233,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T01:46:07.165141+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, Netanyahu threaten renewed Iran strikes, Tehran warns of response</b>\n📰 Iran International · Lun 19/10 03:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE?oc=5"
+  },
   {
    "ts": "2026-10-19T01:31:22.049800+00:00",
    "kind": "news",
@@ -7526,11 +7532,6 @@
    "ts": "2026-10-18T04:01:32.233622+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says two tankers catch fire after hitting mines in Strait of Hormuz</b>\n📰 aljazeera.com · Dim 18/10 05:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
-  },
-  {
-   "ts": "2026-10-18T03:16:18.504323+00:00",
-   "kind": "news_burst",
-   "text": "🔥 <b>NEWS EN RAFALE : RUSSIE / UKRAINE</b>\n6 articles en 45 min (normale ≈ 1.7) → un sujet s'emballe\n\n🥇 Impact moyen : +5.8/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+10) Ukraine runs out of Patriot missiles as Donald Trump eases sanctions on Russia — <i>jpost.com</i>\n• (+10) Republican lawmaker hits out at Trump over Russia sanctions waiver , says he is  prolonging the war , not ending it — <i>hindustantimes.com</i>\n• (+10) RUSSIA REPRIEVE : Trump Waives New Sanctions and Tariffs Two Days Before They Were Set to Take Effect — <i>theyeshivaworld.com</i>\n• (+5) Trump wants 60 days to analyse impact of Russia sanctions law : Rubio — <i>business-standard.com</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
   }
  ],
  "daily_forecast": {
