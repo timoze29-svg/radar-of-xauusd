@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "29a08f4c5426",
-  "254bacd5ccaa",
-  "bbb46aa23247",
   "7e0d2344b357",
   "943d9e1742ab",
   "9da25fce0e2a",
@@ -3945,7 +3942,10 @@
   "74e09d6b911b",
   "b89ca11da9c4",
   "dd150a1e5826",
-  "450b99ba7123"
+  "450b99ba7123",
+  "0495586394c9",
+  "4197b873a490",
+  "857513154747"
  ],
  "news": [
   {
@@ -3995,6 +3995,18 @@
    "cat": "géopolitique",
    "raison": "Signal de durcissement potentiel au Moyen-Orient, légère prime de risque refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship",
+   "source": "Time Magazine",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGpOOWxtVmkyYUM5V1dyMjdBQjlUbzhWcWJUNXJNOFZmTkRRUE80ODNpZFdfVWhadGd0dmpoTEtlbk5oNjB1VWdMRlhzOHNBckV0dm9wcDJpSTBWZ2R5WERqQ2s0R2RkUENncGQ2MHJVaFZuWEUybDR5ZUg5UGY0YXVYaldfUDQ?oc=5",
+   "published": "2026-10-19T10:30:14+00:00",
+   "id": "4197b873a490",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US Blames Europe For Not Backing ‘Secondary Tariffs’ On China, India",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Alerte sécuritaire accrue en Israël justifiant une modeste couverture de précaution.",
    "method": "IA"
-  },
-  {
-   "title": "🚨 BOMBSHELL : Trump Endorses Netanyahu , Warns  Anyone Other Than Bibi  Is Wrong Leader , Says He  Not Inclined  To Confront Iran Alone – The Yeshiva World",
-   "source": "theyeshivaworld.com",
-   "theme": "Géopolitique",
-   "link": "https://www.theyeshivaworld.com/news/israel-news/2611203/%F0%9F%9A%A8-bombshell-trump-endorses-netanyahu-warns-anyone-other-than-bibi-is-wrong-leader-says-hes-not-inclined-to-confront-iran-alone.html",
-   "published": "2026-10-18T18:00:00+00:00",
-   "id": "0f9c71727b8d",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Réticence américaine à frapper l'Iran seule réduisant le risque d'escalade directe.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7144,7 +7144,8 @@
   "news|7760e3cd1e64": 1792402315.0344281,
   "news|ef48ee29e87c": 1792403415.866553,
   "news|f25645ed303a": 1792403416.9064927,
-  "news|623481ac430d": 1792405884.9309397
+  "news|623481ac430d": 1792405884.9309397,
+  "news|4197b873a490": 1792409483.008795
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7263,6 +7264,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T11:31:23.008862+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship</b>\n📰 Time Magazine · Lun 19/10 12:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGpOOWxtVmkyYUM5V1dyMjdBQjlUbzhWcWJUNXJNOFZmTkRRUE80ODNpZFdfVWhadGd0dmpoTEtlbk5oNjB1VWdMRlhzOHNBckV0dm9wcDJpSTBWZ2R5WERqQ2s0R2RkUENncGQ2MHJVaFZuWEUybDR5ZUg5UGY0YXVYaldfUDQ?oc=5"
+  },
   {
    "ts": "2026-10-19T10:31:24.931007+00:00",
    "kind": "news",
@@ -7557,11 +7563,6 @@
    "ts": "2026-10-18T13:31:35.502092+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Egypt’s defence council pledges ‘all forms of support’ to defend Saudi Arabia amid escalating Houthi attacks</b>\n📰 Middle East Monitor · Dim 18/10 13:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdVpQWnBKZ1BacHYwRWF6N0tyUGN4Q19xZy1iNmVOcUNFRkJ5bFAzWTQwVlpnbUNJRDhnNTNnemF0azZ6dXVPdURvRzBCbGhWcnZYUW1NeEd4ZmUxQno1ZHNwdUZGVHdIeUtTVFNnMDZodV9GaHJoNWU3UFJtb3BWQWI4WHhkbWdPdXoycDRJZTM4dWdWc1U4WDNia3I0RXR3dFJ1U1RSejhTS05YZUNKWThxNkhiMFFzQVByZHNuLW1VRmJ2VzBuNkhYSHh3ZWF2UG4tYkZ0dXV0NjM0VDBwY3FzQdIB6AFBVV95cUxPS0FXZWZETllhSmJYWkEyVHJWQmI3azM4dUN1MnBxck0xTHg5cFpZcHJBNEV2Q01QMEZGMVRTa1FTQ3NjcVkzd09jMmhscWZOUDdCQjBNclpYLTVIYk1mY0tES3NYYWxvS1hzd1N5VWxlbWRLNHA1SVJTMmszRTUwX2NRTkZ5SXZfNVZYX0RsTkF1eUg0N0JpZE9pX2lFcElxTHRBVHpHNkgyZHpkcU52ZE5oYnJGUl9jYTd4RHlhM0YwTGtnenhsNmpwU1RJMFB4OU5oYzIzaTNZcEI1aGFsZnloMS1FRkRh?oc=5"
-  },
-  {
-   "ts": "2026-10-18T13:31:34.644806+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Iran strikes amid gas price concerns: ‘I don’t view things politically’</b>\n📰 Fox News · Dim 18/10 14:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUXJVNEJtODJRWkpVV3AwcjRSdTE5RVZkak1kNUZmUlFmc0lxUHlNTk1pbUllTEY1ZUE4NzVPaUlESFdfZkFmQWh5N0JabEtKT2F1MlNn?oc=5"
   }
  ],
  "daily_forecast": {
