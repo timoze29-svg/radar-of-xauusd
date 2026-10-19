@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "c11ec6b51ede",
-  "884199e9d194",
-  "f6a92ad178e7",
-  "c1da0c72f331",
-  "e05c3ae1629b",
   "9fd0f8e4f9f6",
   "6a3e3f2f0249",
   "3ec8e6eb3fef",
@@ -3945,9 +3940,26 @@
   "c43b030a751c",
   "4368925d686f",
   "1b7e109f766b",
-  "44a7f1e04d18"
+  "44a7f1e04d18",
+  "319426d97b36",
+  "cab1cf702ee7",
+  "4ec42960e424",
+  "027b09146565",
+  "d6d2b55f9734"
  ],
  "news": [
+  {
+   "title": "Gold Price Today Australia (19 October 2026): XAU/USD Eyes $4,200 as Fed Rate Hike Bets Ease",
+   "source": "Mitrade",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmZvZVA4cHNjaWdLUW8yalhDMEl5YWpBang0OGpiczloa1dLMTdqdXhrcjNTX1A4TVlWbXBka1dYUi1hMnBNTnVKTmkwQnRCdnJqYTByeFZoX1FZZG5DNm5Td1dOaHJQeDFvejM2MGRJbHRvajB2WjVXbGpPS25XUXJLZGZudGM3SUx0cQ?oc=5",
+   "published": "2026-10-19T09:12:36+00:00",
+   "id": "d6d2b55f9734",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "A renewed Iran war is only a matter of time, Israeli experts warn",
    "source": "Jewish Telegraphic Agency",
@@ -4787,6 +4799,18 @@
    "cat": "géopolitique",
    "raison": "Espoirs concrets d'accord de paix tripartite réduisant fortement la prime de risque mondiale.",
    "method": "IA"
+  },
+  {
+   "title": "Trump claims fallen soldiers said 'we cannot let Iran have a nuclear weapon' - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw?oc=5",
+   "published": "2026-10-19T02:49:21+00:00",
+   "id": "4ec42960e424",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran warns of further escalation after Trump endorses Netanyahu for polls",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Extension des frictions avec l'Iran en Irak renforçant la prime d'incertitude.",
    "method": "IA"
-  },
-  {
-   "title": "Mysterious explosion strikes an Iranian - backed group in Iraq",
-   "source": "jpost.com",
-   "theme": "Géopolitique",
-   "link": "https://www.jpost.com/middle-east/article-912044",
-   "published": "2026-10-18T14:30:00+00:00",
-   "id": "89653b637f72",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Guerre de l'ombre au Moyen-Orient entretenant un climat de tension latent.",
-   "method": "IA"
-  },
-  {
-   "title": "Dont stand on roof , balconies : India urges nationals in Saudi amid Houthi strikes",
-   "source": "indiagazette.com",
-   "theme": "Géopolitique",
-   "link": "http://www.indiagazette.com/news/279382778/dont-stand-on-roof-balconies-india-urges-nationals-in-saudi-amid-houthi-strikes",
-   "published": "2026-10-18T14:30:00+00:00",
-   "id": "0cb93515204f",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Menaces de frappes houthies en Arabie saoudite ravivant les craintes d'escalade.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7138,7 +7138,8 @@
   "rep|weekly|2026-10-19": 1792386102.146407,
   "rep|daily|2026-10-19": 1792386103.1093476,
   "news|14d6d0a28101": 1792388765.749181,
-  "news|47a3dabf47de": 1792399593.3102672
+  "news|47a3dabf47de": 1792399593.3102672,
+  "news|d6d2b55f9734": 1792401728.2307694
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7257,6 +7258,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T09:22:08.230838+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Price Today Australia (19 October 2026): XAU/USD Eyes $4,200 as Fed Rate Hike Bets Ease</b>\n📰 Mitrade · Lun 19/10 11:12\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmZvZVA4cHNjaWdLUW8yalhDMEl5YWpBang0OGpiczloa1dLMTdqdXhrcjNTX1A4TVlWbXBka1dYUi1hMnBNTnVKTmkwQnRCdnJqYTByeFZoX1FZZG5DNm5Td1dOaHJQeDFvejM2MGRJbHRvajB2WjVXbGpPS25XUXJLZGZudGM3SUx0cQ?oc=5"
+  },
   {
    "ts": "2026-10-19T08:46:33.310338+00:00",
    "kind": "news",
@@ -7551,11 +7557,6 @@
    "ts": "2026-10-18T12:16:02.076758+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran names new defense minister after predecessor killed during war with Israel</b>\n📰 The Jerusalem Post · Dim 18/10 11:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE95dzZPcDdJaGd2N3ZRWHNUYjNQbU84a29NRGZ4VEs4dEl5OWlQVTdNZlFNX3dHZVh0d2FNU0lWRW51RXVMZFFQckRMOVM1NGZYdVFrTF9Kd0N6T1JnSUhxMTlFdWh4ODR6aHc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T11:46:03.654862+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran attacks Komala Kurdish opposition group in Iraq amid increased regional tensions</b>\n📰 The Jerusalem Post · Dim 18/10 12:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWTVCcXUtTVZhOF95X0xQT3JvV2Zqb2RvLWZwZGhheng1d0hQUW9ZUnI0REJVbnlQa0hGdjJCNWNZUzNISUM2X0Jlb2V6LTJDUXFmR0JDbEliVzNydy1Fd0JyVVN2OTVKa0E?oc=5"
   }
  ],
  "daily_forecast": {
