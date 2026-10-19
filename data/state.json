@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "4f057126ef71",
-  "dc4f82fb1af3",
   "4c086962f174",
   "bad8618b664d",
   "cfb0eb4047b0",
@@ -3945,7 +3943,9 @@
   "206d5c8cfcdb",
   "23adca5ec7c2",
   "92ef393a8af4",
-  "8da18169b1e5"
+  "8da18169b1e5",
+  "672b38ff54d0",
+  "91fa3330b487"
  ],
  "news": [
   {
@@ -7159,7 +7159,8 @@
   "news|3af54b09d655": 1792420288.9804285,
   "big|VIX|2026-10-19": 1792420290.1950507,
   "news|cd78ead7583e": 1792425702.2578194,
-  "news|206d5c8cfcdb": 1792425703.2498105
+  "news|206d5c8cfcdb": 1792425703.2498105,
+  "brk|US10Y|pdh|up|2026-10-19": 1792426575.473513
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7278,6 +7279,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T16:16:15.473557+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.133 → prix : <b>5.140</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.51 | 60j -0.3"
+  },
   {
    "ts": "2026-10-19T16:01:43.250013+00:00",
    "kind": "news",
@@ -7572,11 +7578,6 @@
    "ts": "2026-10-18T18:31:24.151376+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>HEIGHTENED ALERT : IDF Chief Orders Military Leave Freeze On Election Day Amid Fears Of Terror Attacks</b>\n📰 theyeshivaworld.com · Dim 18/10 20:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.theyeshivaworld.com/news/israel-news/2611192/heightened-alert-idf-chief-orders-military-leave-freeze-on-election-day-amid-fears-of-terror-attacks.html"
-  },
-  {
-   "ts": "2026-10-18T18:01:35.487284+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Shafaq News..Netanyahu urges Iran regime change; Lavrov warns of wider war</b>\n📰 شفق نيوز · Dim 18/10 19:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDEzendHdE01RzRHWGhTTkVwVXpXcVc4LXdnRWtiQ3o5a2NxQi12djhoYnFyVkFXcUl3RFBPeWlMckxOTmNQcnQzWGFLcWRCdnVON0N1YTkyeTI2bFFUSTZNOWJ3ODdKQi1uOTdWbEs4dWswVmYtZVp4V1cyNmt0ZHVUaWlfend4SEFJd1FzNXVyQQ?oc=5"
   }
  ],
  "daily_forecast": {
