@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "d7fce86a030b",
-  "2084600fa52a",
-  "1d2595ebd4c3",
-  "e50728d0b640",
-  "c78e41efc90f",
-  "87ab0268e6a0",
-  "9da2d66abc46",
   "b95f3cf7c121",
   "3bd575b5593c",
   "615061fe0c50",
@@ -3945,9 +3938,28 @@
   "9064540cf2d4",
   "b5b97e9976a0",
   "73a330b692da",
-  "d9fe0e639f0e"
+  "d9fe0e639f0e",
+  "8ef82da72725",
+  "b80339dd73f1",
+  "c0e6b7c49350",
+  "cc51fcb43db6",
+  "b4fa15d0d2bc",
+  "744c4fecffaa",
+  "1e6afeddc99b"
  ],
  "news": [
+  {
+   "title": "🇺🇸🇮🇷 The Iran war is heading toward another escalation, and neither side is ready to stop. I spoke with Aaron David Miller, a veteran Middle East negotiator, about the growing signs of another confrontation between Washington and Tehran. His assessment",
+   "source": "X",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LeGt3bW1vaHZKM2dQb2pNSk5aYlZFX1JIYU9CaHRpcHRNNkl2MU1MelhJV3p0NGNUMDFLWjJyUHo1a2x3MmpUQ2NteDQxbkRycXRlZkFtNGp0VGZ0NkJWU2J1cTByc24zWFU3RA?oc=5",
+   "published": "2026-10-19T20:13:21+00:00",
+   "id": "cc51fcb43db6",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Japan-US drills place advanced missile launchers on front line with China",
    "source": "Nikkei Asia",
@@ -4067,6 +4079,18 @@
    "cat": "géopolitique",
    "raison": "Coordination diplomatique face aux risques au Moyen-Orient, impact haussier marginal.",
    "method": "IA"
+  },
+  {
+   "title": "‘Tariff Man’ finally found tariffs he doesn’t like | CNN Business",
+   "source": "CNN",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWM1bEdyRi1zMk44TWVmTDZrOTk2ZUV6dHhybS1VRUdoWTB0TDFrdC12N2o1OUo4N0JJWjhZdk9ybmt3Q0JHeWdVTzJMWUU5T3BTM0RYREtEaVNQSUwtRW14YWVNV1NyZUNVVV8yaVNvQldfb2hFdm91UVhkLXB1Nmh3?oc=5",
+   "published": "2026-10-19T18:13:10+00:00",
+   "id": "b4fa15d0d2bc",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "‘Tariff Man’ finally found tariffs he doesn’t like",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Allègement des sanctions russes et baisse du pétrole réduisant pressions inflationnistes et prime géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "AI-related bonds could push Treasury yields up in funding arms race",
-   "source": "T. Rowe Price",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVjZVd1h6SjlCUkQ2dkJlMGtfRmZsT2czeWVEZ3RTMC1vc3hQSnZSci00RV9WR1pKTXV1MG5jVmtndEVNR1VJXzNON3U0ZXJWcndVU2s2dGtUTUJ6bFNRMkFIOWo2WEZwZGY5andMMENzbHRGdDlWcEh6NmMya3RRZndlTFpjVll4WWhrNmhlc1FPaHRvdF9nWThXdElENnNjRnpCeEJXdENsNjVzdGFpNW5FOTQ2bTVVcWxETDZWYU5ZV1dTelJzd2tSUndNVTZKNnk1dlM5Z0NMckszRm9BTE93?oc=5",
-   "published": "2026-10-18T23:11:23+00:00",
-   "id": "ec150abb4247",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "Pression haussière sur les rendements obligataires, négative pour l'or sans rendement.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump administration's objectives in Iran war have been met, Rep. Anna Paulina Luna says",
-   "source": "Fox News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSVHVjanQyV1N4cGNvQmtJWFB4NThTN1lZck9Nby00U2hYa1AtWjVray1CZkdzSVhNM3JQb1pXLThXam9qOEZKNHZyN211N2V1UWdFTDBR?oc=5",
-   "published": "2026-10-18T23:07:05+00:00",
-   "id": "35a465e3bb9e",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Signal potentiel de désescalade américaine face à l'Iran, érodant la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7170,7 +7170,8 @@
   "news|9726e9083f13": 1792437178.2224882,
   "news|11266c8d86a5": 1792437179.1232893,
   "news|19deece33ff0": 1792438284.6325073,
-  "rep|recap|2026-10-19": 1792440096.557266
+  "rep|recap|2026-10-19": 1792440096.557266,
+  "news|cc51fcb43db6": 1792440966.6860747
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7289,6 +7290,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T20:16:06.686165+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>🇺🇸🇮🇷 The Iran war is heading toward another escalation, and neither side is ready to stop. I spoke with Aaron David Miller, a veteran Middle East negotiator, about the growing signs of another confrontation between Washington and Tehran. His assessment</b>\n📰 X · Lun 19/10 22:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1LeGt3bW1vaHZKM2dQb2pNSk5aYlZFX1JIYU9CaHRpcHRNNkl2MU1MelhJV3p0NGNUMDFLWjJyUHo1a2x3MmpUQ2NteDQxbkRycXRlZkFtNGp0VGZ0NkJWU2J1cTByc24zWFU3RA?oc=5"
+  },
   {
    "ts": "2026-10-19T20:01:35.464870+00:00",
    "kind": "recap",
@@ -7583,11 +7589,6 @@
    "ts": "2026-10-18T20:01:34.120325+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Aircraft Attempts Iran Strike? Air Force Tanker Declares Emergency, Diverts To Israel | Report</b>\n📰 The Times of India · Dim 18/10 21:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNRERRQTF3Q0pQT1hYakE1LTQtZVdmckZDc01za1UzWl9OblZlNGo3a2Vsa0xIWHJsRVVObE93anozVlNTV0Z3SHpLcVJ4TU5yRnB5dkpqel9RLTZGaHRXeTUtS3Q0Znh2REFOT3dVUHlBMnRyLXAzZHFtZXo4eUVhR0V4ZDczLTNKbk54Wng4X1VFWGNPbTVDYlRPNFozTGNGWld2SmhaRE9BVF85ZGhEMW40d2F3UklJZEdpU0NCTy0tZFdsZ1MzOWxkZlhzZHc3VVBMcnpWdFU5Rnl1WUU2MzlIenhzcUc1QUU4MHpBUHFtY1FWcEhsRnY1Ti1PdDhuUzkwaXNR0gGLAkFVX3lxTE5NQWdWX2xtT2lLakNDQXJWYzlWY2RSV0ZLWFEySXBSLUJvZGhaWWxZSlNQdkI2a28tcllydi11Tk1SRElVYUd6RDFadzcydV9yNVpOa3l4T1Q0MHZ5dlIxY01seXdMT3NCT09Za0l4Vl9GWVpCUm13Vk9GTTdVLTJ3OXloOTFJNHgwd3ByRlZ3TU1BUldKNjk3YmFMSTJyS1d2MDFCcVdDYkQ1cXVpZGdKVkpzZnMteXBzZ0JDRDQwTGZGaTROcTVSTU1SSlFSZHRnbGpUcjc3WERNWVJpaDZoR1hZMVJiS3ppUXEwUVpNRlRoUTVzaFFjeFZia2gtWTdraF9GdFp1MkVzVQ?oc=5"
-  },
-  {
-   "ts": "2026-10-18T19:01:49.706431+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US and Iran both claim control of Strait of Hormuz amid attacks on vessels  | Peak Oil News and Message Boards</b>\n📰 peakoil.com · Dim 18/10 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://peakoil.com/publicpolicy/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
   }
  ],
  "daily_forecast": {
