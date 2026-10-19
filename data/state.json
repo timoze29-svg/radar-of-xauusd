@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "2367addad8c9",
-  "fc6ae0cf8275",
-  "9e130af6877a",
-  "4c8add77d29c",
-  "6f98e6af30f9",
-  "7a7b2ea8e371",
-  "4a9474dcd1d5",
   "9e9431a0c903",
   "2c9679a385c4",
   "2577334e48b8",
@@ -3945,9 +3938,28 @@
   "56c352a280e1",
   "03bea79b0f12",
   "d46a9982332d",
-  "923bd3c09f66"
+  "923bd3c09f66",
+  "821481c54270",
+  "30e3aca84089",
+  "0c78df196223",
+  "6f7ae699a5ae",
+  "d1922f98178a",
+  "e08fbe8b32d2",
+  "241c96403616"
  ],
  "news": [
+  {
+   "title": "Trump's trade adviser defends tariffs, touts Texas Instrument investment in new Lehi plant",
+   "source": "KSL News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHlpS1NsQmVRZWdRSlJaVzRNWDVhZVRMWnhRdFQ3OGxqMGhTc1JUWFdxOUh5c0hWZ3dHVUxHY29VeHZHd1NqYTBJVVJTckV1ZDd6OFA1bjZLSzJyMGs0NjFsOUxCZTVwTXFMSmVoaG9ZbTl2MFNVelpzVWIzSGpIRGxpUGFfVWVYY2o4WmNRWUdDMDJKakQtN2hfVmlFanFXdXZtMS1ZTWwyVzJwd19LR19RVmEyR2N5SG9sbFN5WFdCZ3c?oc=5",
+   "published": "2026-10-19T21:05:22+00:00",
+   "id": "30e3aca84089",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "Rhétorique tarifaire protectionniste modérément haussière via craintes d'inflation et de frictions commerciales.",
+   "method": "IA"
+  },
   {
    "title": "Opinion | Trump’s Tariffs Lose Workers’ Support",
    "source": "WSJ",
@@ -4309,6 +4321,18 @@
    "method": "IA"
   },
   {
+   "title": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor",
+   "source": "Tech Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3BxcEJTU3dqZjdtTlYzS1E2d3ktejZieXMzMGt3elpodjZydXlFS1c3SG1PY3FvYmFOa0kxbTFCUHJaYVV6QXdaQmVDUTlRbFk1SUplNXQ5WXU0OVlSQ0wzemJwMWRrRl9IQTh3MTNLamhTTGxwbWtCLTJZZ0t0NHR3aXhJYzE1R0FDRnlvNFVtcXVDTTRfSmNEaGdBNHdmd0VweGNCZ0RLcHJrTkVtSXNIUFgxaEY4MFJtWkcyajZfb2J0ODQwb3V0ci1FeHBV?oc=5",
+   "published": "2026-10-19T17:18:21+00:00",
+   "id": "e08fbe8b32d2",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Frictions technologiques persistantes entre Taïwan et Pékin, léger soutien refuge.",
+   "method": "IA"
+  },
+  {
    "title": "Iran may be preparing for fresh escalation with US",
    "source": "Breakingthenews.net",
    "theme": "Moyen-Orient",
@@ -4427,6 +4451,18 @@
    "cat": "inflation",
    "raison": "baissier or (inflation)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Iran threatens stronger response to new US attack as Lavrov visits Tehran",
+   "source": "Iran International",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NV0dFLWtqajhaelNMelVxMFVtVTFTTXlFejhEZ0hJSzZRYWxtUEwxVlF4OUh0Zmk3b1IyemxNNjdhcmp5bzNpa3RRMXVtY3dzS3c?oc=5",
+   "published": "2026-10-19T13:49:29+00:00",
+   "id": "821481c54270",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "Menaces d'escalade militaire Iran-USA alimentant nettement la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump tariffs hit Brazilian cities despite export growth",
@@ -6310,42 +6346,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Instabilité interne russe diffuse sans risque systémique immédiat ni forte prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
-   "source": "The Hill",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOazNPcGJpbEhtOUh6d0RWMEhWMHNoeURoeFJzMWxhM3ZTTUpUcmxhb2p6UUEtbUJnMi01dHVJNkRMOWdlWDZ1Y1h6VTl4d0h1WEpDRDZIbHRJMDZpa0I1UVlxM0NtemdhZjhJU2tsaTNQVlUxU3MxWG4tN0dYVGY2cnliYThxSXFLQWxpME5tU0p1cnRLaEhfXzVVa0Zkb3lPbE9V0gGjAUFVX3lxTE5rM09wYmlsSG05SHp3RFYwSFYwc2h5RGh4UnMxbGEzdlNNSlRybGFvanpRQS1tQmcyLTV0dUk2REw5Z2VYNnVjWHpVOXh3SHVYSkNENkhsdEkwNmlrQjVRWXEzQ216Z2FmOElTa2xpM1BWVTFTczFYbi03R1hUZjZyeWJhOHFJcUtBbGkwTm1TSnVydEtoSF9fNVVrRmRveU9sT1U?oc=5",
-   "published": "2026-10-19T00:00:45+00:00",
-   "id": "9088894dadf3",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Poursuite de la désescalade avec la Russie limitant la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
-   "source": "Reuters",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
-   "published": "2026-10-18T23:52:29+00:00",
-   "id": "e36c621e9ba6",
-   "impact": -2,
-   "cat": "inflation",
-   "raison": "Baisse du pétrole affaiblissant les anticipations d'inflation et la demande de couverture.",
-   "method": "IA"
-  },
-  {
-   "title": "Carney Forces Trump U-Turn! Canada PM Gets Rare Praise Amid Tariff War; Trudeau Branded ‘Loser’",
-   "source": "The Times of India",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNllGci1fd1R4emo4el9uSXFxNG9Fa1B1X1pEZFFLZkZaMmNsY3Q2MjRmeFo1VFFKNDJ2TTRsekpmbk9ZaTRSYUdQMjlvVXpKTFpvdnZTc193VWZPM1VITC1SNWpIVTZKZG0ydHc2REQzQlR0cFRfMWZ2ejdJdnRJUkpiZldXMW9yM0ozdFVnT1I4NkctUFIxT0hfNXNkLW9fUGxnRDlLbHV4UHlnQlZiRUFIOXhHY0VIYTc2eFQ5b1hrOFZucjFyYTBVRlFjNEV0SElpZl9xWnZ1LV9SQ1BOT3BzM2VDTFZHbWFxbzBHZzJlQng0TUE3V2U0VExLWHkyVVHSAYcCQVVfeXFMTklLWmJhbE5DbHNKOXZXZzR2MzlyTEM3eVJlM2VHdGN3QndsR2h3V0xQV0dtTnBOdkdlS0I2bEdZem03TlM5c2hOMnExRFdraDhFUDZDWnJvcEVPMjlqaDZKSEdvbnh1OTV1LXpXSkpCeXp0V3BKWG1jVWxLZm1QWEdKWGlTR29OTXd0MXludFB3anVaUHVGUXkxVS0yd19rUi1UQjgxc3R4WHl4bmxCS0pmQ3VENXhkajV1SXluZjEtX1hsbW8wVVRQcXp2LWxhY2FZTXFzN3YyYklYYWhtOVBib285RDltVldWVFNJSlpCeWEweXVGdjlNUHI5akpFbWFYbkIwb28?oc=5",
-   "published": "2026-10-18T23:47:55+00:00",
-   "id": "c4835678d0ec",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Désescalade tarifaire avec le Canada calmant les craintes de guerre commerciale agressive.",
    "method": "IA"
   }
  ],
