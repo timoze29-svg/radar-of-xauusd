@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792374345.1257026,
+   "ts": 1792377945.9209218,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "1be67e41c9f0",
-  "ead8926acf92",
   "5c2acae752e9",
   "971dc037b8aa",
   "b5a19c1b094f",
@@ -3945,9 +3943,23 @@
   "1a779f02b942",
   "7b1cc1d39d4b",
   "24a42776b8e5",
-  "ad375cc806c7"
+  "ad375cc806c7",
+  "321d7379a920",
+  "2f3998c5e70f"
  ],
  "news": [
+  {
+   "title": "Trump’s order waiving new sanctions and tariffs on Russia signed in blood",
+   "source": "Daily Kos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSWN6UzIwNUpJUUF2d1Nla2VndjRWZXFKeFdaVjlUZ3lFXy1aY0laNUFGNE8wN0Q5aTFGRzEwcUZ5ejFIWHFfaDl1Nkpob1g5N1IxeFU0NUZRd1Y5U2NIN3Nqb3I3cVdqN2F4cEJRaUxtT3JaQ2RiODJrTFNMRjZaQ183eUFuaGpfTzhPSURUcjdnZDR0b2lIaGVZV0dIRk1CbTE2RV9rdTZ4MkFjLWRIZzlLeXFCRVNMODNYMWRwZU0zTGcwTzZkWXY4Q1RPb2w0Vk1v?oc=5",
+   "published": "2026-10-19T02:29:02+00:00",
+   "id": "321d7379a920",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "A pipe under the Taiwan Strait outlasts the politics above it",
    "source": "Lowy Institute",
@@ -6335,18 +6347,6 @@
    "cat": "taux",
    "raison": "La flambée des rendements obligataires souverains américains renforce le coût d'opportunité de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Gold surged to a record, then fell hard. What happened?",
-   "source": "TelegraphHerald.com",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWtDby05R1FEcEdVa0tHWTFKSU1EMXp3X0RVNmZRUmw0TVItaVY3Y1BlODE1ZkF0YTNySTY5R1RGdTZ4RXF6cWNtckJOcmFvLTBjR3p6UXJkWkhyX1EyQWFQaWR3a1QxU2JDZTA1QW94RmRvRzlRZ0dnNW93anE5ZzVLR240R2h0WUZWcW9hZTZpeUZ1NXRkZ2hSeENsUndk?oc=5",
-   "published": "2026-10-18T05:30:00+00:00",
-   "id": "8a0c42512ec7",
-   "impact": -1,
-   "cat": "or",
-   "raison": "Rétrospective d'une correction technique après record, sans nouveau catalyseur macroéconomique baissier fondamental.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7133,7 +7133,8 @@
   "news|4c071536e2f6": 1792374367.1650674,
   "news|f19c56c347ab": 1792377084.548633,
   "news|24a42776b8e5": 1792377085.6015668,
-  "news|ad375cc806c7": 1792377086.6236923
+  "news|ad375cc806c7": 1792377086.6236923,
+  "news|321d7379a920": 1792377964.0819774
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7236,6 +7237,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T02:46:04.082036+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump’s order waiving new sanctions and tariffs on Russia signed in blood</b>\n📰 Daily Kos · Lun 19/10 04:29\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSWN6UzIwNUpJUUF2d1Nla2VndjRWZXFKeFdaVjlUZ3lFXy1aY0laNUFGNE8wN0Q5aTFGRzEwcUZ5ejFIWHFfaDl1Nkpob1g5N1IxeFU0NUZRd1Y5U2NIN3Nqb3I3cVdqN2F4cEJRaUxtT3JaQ2RiODJrTFNMRjZaQ183eUFuaGpfTzhPSURUcjdnZDR0b2lIaGVZV0dIRk1CbTE2RV9rdTZ4MkFjLWRIZzlLeXFCRVNMODNYMWRwZU0zTGcwTzZkWXY4Q1RPb2w0Vk1v?oc=5"
+  },
   {
    "ts": "2026-10-19T02:31:26.624021+00:00",
    "kind": "news",
@@ -7530,11 +7536,6 @@
    "ts": "2026-10-18T10:07:37.918254+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump vows Iran will never get nuclear weapon</b>\n📰 morungexpress.com · Dim 18/10 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://morungexpress.com/trump-vows-iran-will-never-get-nuclear-weapon"
-  },
-  {
-   "ts": "2026-10-18T09:16:37.759725+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives Russian tariffs and sanctions</b>\n📰 Starts at 60 · Dim 18/10 03:31\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUlFWi14Mm5VV285UUlCQ2RPTjRRSVZrcEwxX3M4cFU5VVBfY29McThLYXdCZ3k0ZmxSUDRtaW9mbVB0cDFJZDhZRkQ2OFoxVy1mUm9TM3Q4VlhoM01lUmtPYXpxd01Cb2xBTDFuU0xlQVRsUGdVY2Y0OEhPR3pNbzBYcW5wSjRsYVZv?oc=5"
   }
  ],
  "daily_forecast": {
