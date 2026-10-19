@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792421149.655615,
+   "ts": 1792443677.829874,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.78,
-     "date": "2026-10-15",
-     "chg5": -0.14,
-     "chg20": 0.1,
+     "last": 2.74,
+     "date": "2026-10-16",
+     "chg5": -0.13,
+     "chg20": 0.13,
      "hist": [
-      1.89,
       1.91,
       1.92,
       1.96,
@@ -129,7 +128,8 @@
       2.91,
       2.88,
       2.84,
-      2.78
+      2.78,
+      2.74
      ],
      "gold_rel": -1
     },
@@ -265,12 +265,11 @@
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.77,
-     "date": "2026-10-15",
-     "chg5": 0.0,
-     "chg20": 0.03,
+     "last": 4.74,
+     "date": "2026-10-16",
+     "chg5": -0.01,
+     "chg20": 0.07,
      "hist": [
-      3.78,
       3.78,
       3.84,
       3.92,
@@ -389,14 +388,15 @@
       4.8,
       4.79,
       4.82,
-      4.77
+      4.77,
+      4.74
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-15",
+     "date": "2026-10-16",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -419,7 +419,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -491,6 +490,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "d56d3b98cbe8",
-  "01a38d818ee7",
-  "51f3b0aa4449",
-  "33baf768e049",
-  "d76f2f4e9cd8",
   "2367addad8c9",
   "fc6ae0cf8275",
   "9e130af6877a",
@@ -3945,9 +3940,38 @@
   "731e91f2e8d0",
   "f460aa01e634",
   "bc2fbc4cba7e",
-  "e92bd4b6856f"
+  "e92bd4b6856f",
+  "189958fb3f63",
+  "56c352a280e1",
+  "03bea79b0f12",
+  "d46a9982332d",
+  "923bd3c09f66"
  ],
  "news": [
+  {
+   "title": "Opinion | Trump’s Tariffs Lose Workers’ Support",
+   "source": "WSJ",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtS0RkNWcydXhuTTUzMkZ4OVVSNGsxWE9NR3dzeDlzeXNvb2I0Q0VPcW1NY21ZQm9OcDQ0WExZbnRpZ2pRdHdIcXlMMWVUV1NscnFXS0dscGs3VmRJM3JmUkRhbjJDTWF3aDNwd0hSbkozd25YazZBNW9ObDg?oc=5",
+   "published": "2026-10-19T20:51:00+00:00",
+   "id": "03bea79b0f12",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Is the Middle East is heading toward another major escalation?",
+   "source": "Foundation for Defense of Democracies",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0xDbk1aVXJhbFBQeVZMQmY1QndLRGtVTjJvWWQ5ajJHYVlvazhISDE3YTdFTzcwM3ZxbU5Lck04SVljZENUVjJOWnZUVXgtbkNoZEdNV201YkYxeW9oNFRoWThucjEyZnhjMi1kUjRRcjd4Q2wweEhYUWVmeG80cWlONVVuN1N4alZMTjZGUXIwQzhvaV9LVlRB?oc=5",
+   "published": "2026-10-19T20:23:38+00:00",
+   "id": "56c352a280e1",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "🇺🇸🇮🇷 The Iran war is heading toward another escalation, and neither side is ready to stop. I spoke with Aaron David Miller, a veteran Middle East negotiator, about the growing signs of another confrontation between Washington and Tehran. His assessment",
    "source": "X",
@@ -6322,30 +6346,6 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Désescalade tarifaire avec le Canada calmant les craintes de guerre commerciale agressive.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
-   "source": "Yahoo Finance",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTBLZU9TUTlSdFAyZmhkN1lsaVhYdk9nZVR0ak8tM1IzWi1Qa2tTa1pHcVBvcmFEazJIaF8waEVXLUdjSS0wUnlQR3FIMmhTOVRGcWR5UERxWmc5bmZmQldUNDJVVEFNc1VIcjlpU0lUSC1IYTVsenI2Unh4UDk3eElhVzBTMmtYTEhma0YyZjVnc3Vnb0k1V3ptMWlOdXBTc3c?oc=5",
-   "published": "2026-10-18T23:47:43+00:00",
-   "id": "c43b030a751c",
-   "impact": 3,
-   "cat": "fed",
-   "raison": "L'apaisement des craintes de resserrement monétaire allège la pression baissière sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Hossein Mohebi Warns Iran Will Hit Israel After Energy Infrastructure Attacks: how 6 outlets framed it",
-   "source": "NewsCord",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb1pUOE5mNFAzRjQ4NmRhTU40bUtja1pfS205RkdIeFJHQ1prM0ZKZVNOVE9BRE9iRVQwbkRWb2o4emNaSVFEQnZfSzZfZVF1c2dZMDN2N3lUZmhsaEN2UjJORlAteVo1Ymhpbm5YMVZlb3NucmI5b0d0SmdrVnRMbFRBYkZyX2FET1VUYTdsNHlsdVY2RE9XZFpRUHlsdzNXb040UndhN1B3SDRXMEZZaG02VXoxRGNaSWpFMmtYczZ3UlZ0c3c2X1RzZ21XbGtCWFlIWkhCYTd0Z3ZCUjJvSUZSQ1VBZlBvYWc?oc=5",
-   "published": "2026-10-18T23:42:39+00:00",
-   "id": "09ece2541363",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces de représailles iraniennes contre Israël, soutenant la prime de risque géopolitique refuge.",
    "method": "IA"
   }
  ],
