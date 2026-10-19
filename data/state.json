@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "6e9ac861b6a8",
-  "5e7452a2feab",
-  "fb60291517e7",
-  "b5993c8383ea",
   "d8ad561acf4a",
   "ee77f1378af0",
   "c072c984ad27",
@@ -3945,9 +3941,37 @@
   "4f47bb02ff0a",
   "9b03bb05b0f1",
   "0cfe7ff1bc6d",
-  "375cdae0c970"
+  "375cdae0c970",
+  "58b7e0723345",
+  "e36c621e9ba6",
+  "c4835678d0ec",
+  "5b1f04e3f656"
  ],
  "news": [
+  {
+   "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+   "source": "Reuters",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+   "published": "2026-10-18T23:52:29+00:00",
+   "id": "e36c621e9ba6",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Carney Forces Trump U-Turn! Canada PM Gets Rare Praise Amid Tariff War; Trudeau Branded ‘Loser’",
+   "source": "The Times of India",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNllGci1fd1R4emo4el9uSXFxNG9Fa1B1X1pEZFFLZkZaMmNsY3Q2MjRmeFo1VFFKNDJ2TTRsekpmbk9ZaTRSYUdQMjlvVXpKTFpvdnZTc193VWZPM1VITC1SNWpIVTZKZG0ydHc2REQzQlR0cFRfMWZ2ejdJdnRJUkpiZldXMW9yM0ozdFVnT1I4NkctUFIxT0hfNXNkLW9fUGxnRDlLbHV4UHlnQlZiRUFIOXhHY0VIYTc2eFQ5b1hrOFZucjFyYTBVRlFjNEV0SElpZl9xWnZ1LV9SQ1BOT3BzM2VDTFZHbWFxbzBHZzJlQng0TUE3V2U0VExLWHkyVVHSAYcCQVVfeXFMTklLWmJhbE5DbHNKOXZXZzR2MzlyTEM3eVJlM2VHdGN3QndsR2h3V0xQV0dtTnBOdkdlS0I2bEdZem03TlM5c2hOMnExRFdraDhFUDZDWnJvcEVPMjlqaDZKSEdvbnh1OTV1LXpXSkpCeXp0V3BKWG1jVWxLZm1QWEdKWGlTR29OTXd0MXludFB3anVaUHVGUXkxVS0yd19rUi1UQjgxc3R4WHl4bmxCS0pmQ3VENXhkajV1SXluZjEtX1hsbW8wVVRQcXp2LWxhY2FZTXFzN3YyYklYYWhtOVBib285RDltVldWVFNJSlpCeWEweXVGdjlNUHI5akpFbWFYbkIwb28?oc=5",
+   "published": "2026-10-18T23:47:55+00:00",
+   "id": "c4835678d0ec",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Hossein Mohebi Warns Iran Will Hit Israel After Energy Infrastructure Attacks: how 6 outlets framed it",
    "source": "NewsCord",
@@ -6323,30 +6347,6 @@
    "cat": "politique US",
    "raison": "Rhétorique électorale sur l'Iran sans décision politique concrète, effet refuge très limité.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine runs out of Patriot missiles as Donald Trump eases sanctions on Russia",
-   "source": "jpost.com",
-   "theme": "Géopolitique",
-   "link": "http://www.jpost.com/international/internationalrussia-ukraine-war/article-911996",
-   "published": "2026-10-18T03:00:00+00:00",
-   "id": "ee9b31e2b7ca",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Vulnérabilité accrue de l'Ukraine maintenant une incertitude géopolitique en Europe de l'Est.",
-   "method": "IA"
-  },
-  {
-   "title": "LAPID ACCUSES NETANYAHU : Opposition Leader Warns PM Could Launch Iran Strike To Disrupt Israeli Elections",
-   "source": "theyeshivaworld.com",
-   "theme": "Géopolitique",
-   "link": "https://www.theyeshivaworld.com/news/israel-news/2610950/lapid-accuses-netanyahu-opposition-leader-warns-pm-could-launch-iran-strike-to-disrupt-israeli-elections.html",
-   "published": "2026-10-18T03:00:00+00:00",
-   "id": "4fe2aa4412c0",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Spéculations sur une frappe contre l'Iran alimentant modérément la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7125,7 +7125,8 @@
   "news|09ece2541363": 1792368100.8643422,
   "news|9b03bb05b0f1": 1792368101.740814,
   "cyc_rev|2026-10-19/2026-10-25": 1792368102.9408734,
-  "news|0cfe7ff1bc6d": 1792369053.9548745
+  "news|0cfe7ff1bc6d": 1792369053.9548745,
+  "news|c4835678d0ec": 1792369879.9488566
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7228,6 +7229,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T00:31:19.948928+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Carney Forces Trump U-Turn! Canada PM Gets Rare Praise Amid Tariff War; Trudeau Branded ‘Loser’</b>\n📰 The Times of India · Lun 19/10 01:47\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPNllGci1fd1R4emo4el9uSXFxNG9Fa1B1X1pEZFFLZkZaMmNsY3Q2MjRmeFo1VFFKNDJ2TTRsekpmbk9ZaTRSYUdQMjlvVXpKTFpvdnZTc193VWZPM1VITC1SNWpIVTZKZG0ydHc2REQzQlR0cFRfMWZ2ejdJdnRJUkpiZldXMW9yM0ozdFVnT1I4NkctUFIxT0hfNXNkLW9fUGxnRDlLbHV4UHlnQlZiRUFIOXhHY0VIYTc2eFQ5b1hrOFZucjFyYTBVRlFjNEV0SElpZl9xWnZ1LV9SQ1BOT3BzM2VDTFZHbWFxbzBHZzJlQng0TUE3V2U0VExLWHkyVVHSAYcCQVVfeXFMTklLWmJhbE5DbHNKOXZXZzR2MzlyTEM3eVJlM2VHdGN3QndsR2h3V0xQV0dtTnBOdkdlS0I2bEdZem03TlM5c2hOMnExRFdraDhFUDZDWnJvcEVPMjlqaDZKSEdvbnh1OTV1LXpXSkpCeXp0V3BKWG1jVWxLZm1QWEdKWGlTR29OTXd0MXludFB3anVaUHVGUXkxVS0yd19rUi1UQjgxc3R4WHl4bmxCS0pmQ3VENXhkajV1SXluZjEtX1hsbW8wVVRQcXp2LWxhY2FZTXFzN3YyYklYYWhtOVBib285RDltVldWVFNJSlpCeWEweXVGdjlNUHI5akpFbWFYbkIwb28?oc=5"
+  },
   {
    "ts": "2026-10-19T00:17:33.954945+00:00",
    "kind": "news",
@@ -7522,11 +7528,6 @@
    "ts": "2026-10-18T03:16:15.008663+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>RUSSIA REPRIEVE : Trump Waives New Sanctions and Tariffs Two Days Before They Were Set to Take Effect</b>\n📰 theyeshivaworld.com · Dim 18/10 05:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://www.theyeshivaworld.com/news/liveblogs/live-blog/2611008/russia-reprieve-trump-waives-new-sanctions-and-tariffs-two-days-before-they-were-set-to-take-effect.html"
-  },
-  {
-   "ts": "2026-10-18T03:16:14.001649+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Republican lawmaker hits out at Trump over Russia sanctions waiver , says he is  prolonging the war , not ending it</b>\n📰 hindustantimes.com · Dim 18/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.hindustantimes.com/world-news/us-news/republican-lawmaker-hits-out-at-trump-over-russia-sanctions-waiver-says-he-is-prolonging-the-war-not-ending-it-101792278953171.html"
   }
  ],
  "daily_forecast": {
