@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792354552.4307768,
+   "ts": 1792377062.6791806,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -946,34 +946,6 @@
   }
  },
  "seen_news": [
-  "1d56f170c246",
-  "dfc902d38970",
-  "2cf338ac782a",
-  "029ec7698981",
-  "3461410ef571",
-  "c93b099d23b2",
-  "9d833e763302",
-  "1f112f59c7a1",
-  "d60a1c8e1892",
-  "6e7e29ee8237",
-  "1a52de789722",
-  "3f77416d8eb2",
-  "30ef346c55c0",
-  "fc7fce74e30e",
-  "582741c15f91",
-  "e23af5b0ba7c",
-  "1366f766fd6b",
-  "6db787c43c5c",
-  "93e68d340bf1",
-  "aca5aa0a4728",
-  "4679fe12f5c1",
-  "5025f3929bc1",
-  "f06d02b329bd",
-  "cb0bd3b1b420",
-  "88cf2ee3493a",
-  "4389c78ba96b",
-  "d2dad5dd3db8",
-  "df17d524ac03",
   "1be67e41c9f0",
   "ead8926acf92",
   "5c2acae752e9",
@@ -3945,7 +3917,35 @@
   "025ade17f30b",
   "6baa0c4594ba",
   "66a37fb5508c",
-  "a8473e8f1684"
+  "a8473e8f1684",
+  "815dfa6d4978",
+  "60e268fd409f",
+  "eaed2cea5194",
+  "767f9f68f131",
+  "8227570fad3d",
+  "2c277ce8b7de",
+  "c183903ed6a3",
+  "bc3a3f232438",
+  "2b3e6f3831e3",
+  "fed1c3b0f801",
+  "c59837b756d2",
+  "3d870455b149",
+  "f19c56c347ab",
+  "2081a8de82c2",
+  "2a641528f2d7",
+  "4f0e919692ef",
+  "c5b36188626d",
+  "62674147b193",
+  "0409376f8f8b",
+  "a119ee2b73b8",
+  "541dcce971fe",
+  "2ce41793c48c",
+  "88503d528371",
+  "0a9a227cec76",
+  "1a779f02b942",
+  "7b1cc1d39d4b",
+  "24a42776b8e5",
+  "ad375cc806c7"
  ],
  "news": [
   {
@@ -3956,6 +3956,30 @@
    "published": "2026-10-19T02:02:27+00:00",
    "id": "a8473e8f1684",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump decision to waive Russian sanctions outrages Congress , but no quick counter seen | News , Sports , Jobs",
+   "source": "lahainanews.com",
+   "theme": "Géopolitique",
+   "link": "https://www.lahainanews.com/wire/?category=5041&ID=400571",
+   "published": "2026-10-19T02:00:00+00:00",
+   "id": "c183903ed6a3",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Vladimir Putin suggests meeting with Donald Trump , Xi , to discuss Ukraine war resolution",
+   "source": "jpost.com",
+   "theme": "Géopolitique",
+   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912112",
+   "published": "2026-10-19T02:00:00+00:00",
+   "id": "f19c56c347ab",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -3995,6 +4019,54 @@
    "cat": "commerce",
    "raison": "Tarifs douaniers reportés et faiblesse des métaux industriels modérant les anticipations d'inflation.",
    "method": "IA"
+  },
+  {
+   "title": "Support frays over bumper trade deal with Europe",
+   "source": "crookwellgazette.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.crookwellgazette.com.au/story/9370788/support-frays-over-bumper-trade-deal-with-europe/",
+   "published": "2026-10-19T01:15:00+00:00",
+   "id": "2ce41793c48c",
+   "impact": -3,
+   "cat": "commerce",
+   "raison": "baissier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Zelensky never wanted to end war with Russia",
+   "source": "russiaherald.com",
+   "theme": "Géopolitique",
+   "link": "http://www.russiaherald.com/news/279383493/zelensky-never-wanted-to-end-war-with-russia-trump",
+   "published": "2026-10-19T01:15:00+00:00",
+   "id": "1a779f02b942",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Araghchi says Netanyahu is pushing for renewed war on Iran",
+   "source": "middleeasteye.net",
+   "theme": "Géopolitique",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-netanyahu-pushing-renewed-war-iran",
+   "published": "2026-10-19T01:15:00+00:00",
+   "id": "24a42776b8e5",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Netanyahu tells Americans : Iran access to nuclear arms worse than rising gas prices",
+   "source": "middleeasteye.net",
+   "theme": "Géopolitique",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-americans-irans-access-nuclear-arms-worse-rising-gas",
+   "published": "2026-10-19T01:15:00+00:00",
+   "id": "ad375cc806c7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Putin suggests meeting with Trump, Xi, to discuss Ukraine war resolution - report",
@@ -6275,78 +6347,6 @@
    "cat": "or",
    "raison": "Rétrospective d'une correction technique après record, sans nouveau catalyseur macroéconomique baissier fondamental.",
    "method": "IA"
-  },
-  {
-   "title": "Ken Fisher: Rate hikes won’t reopen the Strait of Hormuz – but they could shut down growth",
-   "source": "Irish Independent",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeENiOEk4QVdpN2s1RnlDSGo2V05aVktYNDNEUHU4bVFVLUk0V1NScEIyRlM2N2NONWlmb0xTUGtSdVRXT0VscWs1SVhzWWJWSEhoUU5paXBpV2owcHZvbmhmUTlMbXBQR2Y4VkdRQ1ZxeXhndDk3VkZYOU1KeWp3YkRiczUwVFVDY3ItckFMSU1XSjREbUJsbm1EalduX0l0S09USWIycmQ4dm15SEtqMDl3V0V6ZW9yYktiaTMyV0NDLWc0SVUtNk92VWpIRzRtWFItWGlB?oc=5",
-   "published": "2026-10-18T05:30:00+00:00",
-   "id": "2813d6355339",
-   "impact": 1,
-   "cat": "taux",
-   "raison": "Tribune évoquant le risque stagflationniste, conceptuellement favorable à l'or mais sans effet direct.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump faces bipartisan backlash over Russia sanctions waiver, causing top Republicans to break ranks",
-   "source": "Fox Business",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGJSRWFMRkZCVWlmd0cyeFJxOF9KSi04Ym5DR2FyazRyd0dFdzNuTFR6dGllVEpId2VXUVhkRkhqR3NuSHNsRWVRNXpTbHV4eUxzM19ueWxqeC1RY1N1WEtLVU4wUmF1UF9nQ0NVODBVT0JZcGt6U2Z3VlJMaHZ0Ynd4MzFKN3NfVkNxRWpQX3ZoR3JhVEdEakdGUHpDeWE3R2NuVHRpVGpEVjdtZ1QyUzUtUDQ0b0R1VFg5QjYtTkNEWVVSYXd6M3lnVndrQdIB0wFBVV95cUxNV3dxYndIVVVqendpTGs0V09hNlVRenA0QTV2X2FlSFdDSVhMbEtXQUFkLXZxYnRGTHJoTDlhN08ta1FrLVJ2VTZqZGVZUU9ZUFpQTm1IR1BpMUx6ckNlYnFqbUQwYVUtNGhXWEpzRHk4QWlzRnM1eGVBTVNXNnBNMGdtOFphQ2FfcVhwZUlselNVcEQ0WDRCTFB3MUVQbThDcHpKVllrdHloWWpvNEtRNG5oLTdKTGdSaFJhMTRkT253UUpsV2JCdmRKZG4tV1ZnX0Y4?oc=5",
-   "published": "2026-10-18T05:16:00+00:00",
-   "id": "858148205e34",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Les dissensions politiques à Washington créent une légère incertitude favorable aux actifs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "China sanctions ministers of Paraguay, Belize over Taiwan support | Tap to know more | Inshorts",
-   "source": "Inshorts",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc19xM0VfY3NVSnlrX1hOT0UybXJMUVlDeUxSUEI1V2h5c2FmYlBxMmxoYWZtSkpUeHVmcUtJcVRicnhGemhUMW5FZWM0RnRFSHFjaVNyMERZNUNRdGZpd3hvZC1USUNYV2w2NHF2NXgzNERZdHZKcHRLMUFaX1lIV2lOZVN4Wm82LXgwOTlZNElnSE1VOUQ1OGNHTWE0V2JfVXljdTZpMEFrR0luX3BqSHR30gGyAUFVX3lxTE1zX3EzRV9jc1VKeWtfWE5PRTJtckxRWUN5TFJQQjVXaHlzYWZiUHEybGhhZm1KSlR4dWZxS0lxVGJyeEZ6aFQxbkVlYzRGdEVIcWNpU3IwRFk1Q1F0Zml3eG9kLVRJQ1hXbDY0cXY1eDM0RFl0dkpwdEsxQVpfWUhXaU5lU3habzYteDA5OVk0SWdITVU5RDU4Y0dNYTRXYl9VeWN1NmkwQWtHSW5fcGpIdHc?oc=5",
-   "published": "2026-10-18T04:58:39+00:00",
-   "id": "dc3d243ff36b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions mineures autour de Taïwan, apportant un soutien refuge très marginal.",
-   "method": "IA"
-  },
-  {
-   "title": "St Petersburg under attack from Ukrainian drone swarm",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5",
-   "published": "2026-10-18T04:58:19+00:00",
-   "id": "560a9788a5b5",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire en Russie alimentant modérément la demande de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "The US-China grand bargain remains out of reach",
-   "source": "Nikkei Asia",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlVuZk5lMEFYZm8zcC1pWHlBa3R3UFVQQ05SNHhiY0JBdHVXNXJrRm1KWmtwUHpHdzhjSDZKZXRQMVhSQmJjQkYxZTd0a2JUdm5EUlpUODdUcHhvV29tcWxNekFuWE5Tb2ppUHV2VHhvc2YzZ0ZvQUQ3OUtIYVd4T2t1REdkTEkycEVERTJibHNfV1E?oc=5",
-   "published": "2026-10-18T04:56:00+00:00",
-   "id": "fbaedab2f736",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "L'absence d'accord sino-américain nourrit la fragmentation économique et les achats d'or stratégiques.",
-   "method": "IA"
-  },
-  {
-   "title": "Weekly Panorama: Middle East between power struggles and risk of regional escalation",
-   "source": "ANHA",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONjhuanN2czlUbDFwMTVWdHJKTjlsdFNnOGNQMnVCMlZNaC0tX0hGUEpEYlhZNFNyZ0dMZEwwMURUcGs2YnotaWo3a3YxRk9wdzl0M29UeEJ4MFA3enpySGhiMkR5cnZoTU9BTVJCMlRsWUpaandtR3NBeU1QaUI0Y0FFX0prUTkwVGdtWExWdmk1a2I1YWwzSzQwZFFidEdscXpQUUxkbUxZLWJj?oc=5",
-   "published": "2026-10-18T04:48:52+00:00",
-   "id": "b26ee61e780b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Revue générale des tensions régionales maintenant une prime de risque géopolitique résiduelle.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7130,7 +7130,10 @@
   "news|367206db41c3": 1792370764.3430786,
   "news|7a5a49823dc0": 1792371698.3687527,
   "news|1ffab32758e8": 1792373482.0497339,
-  "news|4c071536e2f6": 1792374367.1650674
+  "news|4c071536e2f6": 1792374367.1650674,
+  "news|f19c56c347ab": 1792377084.548633,
+  "news|24a42776b8e5": 1792377085.6015668,
+  "news|ad375cc806c7": 1792377086.6236923
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7233,6 +7236,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T02:31:26.624021+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu tells Americans : Iran access to nuclear arms worse than rising gas prices</b>\n📰 middleeasteye.net · Lun 19/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-americans-irans-access-nuclear-arms-worse-rising-gas"
+  },
+  {
+   "ts": "2026-10-19T02:31:25.601887+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Araghchi says Netanyahu is pushing for renewed war on Iran</b>\n📰 middleeasteye.net · Lun 19/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-netanyahu-pushing-renewed-war-iran"
+  },
+  {
+   "ts": "2026-10-19T02:31:24.548704+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vladimir Putin suggests meeting with Donald Trump , Xi , to discuss Ukraine war resolution</b>\n📰 jpost.com · Lun 19/10 04:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.jpost.com/international/internationalrussia-ukraine-war/article-912112"
+  },
   {
    "ts": "2026-10-19T01:46:07.165141+00:00",
    "kind": "news",
@@ -7517,21 +7535,6 @@
    "ts": "2026-10-18T09:16:37.759725+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump waives Russian tariffs and sanctions</b>\n📰 Starts at 60 · Dim 18/10 03:31\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUlFWi14Mm5VV285UUlCQ2RPTjRRSVZrcEwxX3M4cFU5VVBfY29McThLYXdCZ3k0ZmxSUDRtaW9mbVB0cDFJZDhZRkQ2OFoxVy1mUm9TM3Q4VlhoM01lUmtPYXpxd01Cb2xBTDFuU0xlQVRsUGdVY2Y0OEhPR3pNbzBYcW5wSjRsYVZv?oc=5"
-  },
-  {
-   "ts": "2026-10-18T06:46:09.635447+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance faces tough questions on Iran war, immigration and more in CBS town hall - ABC News</b>\n📰 Breaking News, Latest News and Videos · Dim 18/10 06:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3lHVkw4cW51a2RfTXlZNEllcHRDVDJ0cFJmaEpDdWhFLVF0SzFBM3o5cmZQNVVNMmYwbVBZS2lZUGlnMWhjUlBuZ2o5dmQ1VWUzbUdzUWY2MnZKTjVtMnpCQndiTE9CMDY3X19yODA3WDcwTDZqN1QtRGZFMHJBTDBFdWpRNlBVbGxRcGphdVBKZldQLUZ1d2luTdIBoAFBVV95cUxNTjh3VnZISmVYVXQ4clRpNVhFRmdITWdod0tldVVtQUpoelR6WkZjbGExZlhUZkVsZW1xRmlnTDAzdjBDVGJMVDNRSy1ub3IxMEZJSGFpdnFNdmhULU80QXFrRnNydFVRTlREaG5GaXU2NW1NMV84QWU2aURHYWs0U3Q4RzFJcWF2b1A2dUtEZGRvcEJRUDNNX1BtMzFMYU02?oc=5"
-  },
-  {
-   "ts": "2026-10-18T06:31:32.039575+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas</b>\n📰 EA WorldView · Dim 18/10 08:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQTk5tMXVuRXN0WmdYSHdPd2phTkhGb3VuZUsxbnhDOXM4S2FnMnl5UlFSVUQwU1Nma2dRM1Y1YlE2OHRsdEltZWRwdGNEUks4aFNCVjlPMXh3TlRMYW4zMmNzVzhjUmpVblpaN2NjUGVXOFQ5MXpxbjZQMUdHNXBzLWxrX3JRVmh6d1ZOX3JNWklsOV9YbDE3Q3B0RUlua25QVXc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T04:01:32.233622+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says two tankers catch fire after hitting mines in Strait of Hormuz</b>\n📰 aljazeera.com · Dim 18/10 05:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
   }
  ],
  "daily_forecast": {
