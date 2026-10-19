@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "564bf34fa7af",
-  "834d6c5c8d41",
   "1fe38a404a96",
   "b33a97dae114",
   "f7bc177abab1",
@@ -3945,9 +3943,23 @@
   "40703492d371",
   "eea95c572ea0",
   "dbd340d7a22e",
-  "a92aa6ad53ad"
+  "a92aa6ad53ad",
+  "8907690a44e3",
+  "627402ff7e15"
  ],
  "news": [
+  {
+   "title": "Forget GLD. Investors Sent $500 Million to the Cheaper SPDR Gold Fund",
+   "source": "24/7 Wall St.",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEhGSUU3TjJJLXRoNXg2NXdRMWc2bVNEOUx4eVVYbGJvOUd1QkJOVkhYRnlCbXExNTVyLU9sV1cwZy1JQ3JaTDBjR1pXai1uNFNBam0xMkZMVHpManJIZmVTc05zTmtYTjhVXzVhbFE3UGYyc1VzMUVUYl9LMFQzZXJGRmlHOXhNUnpyZjFneTROMFNNb0dPVWpBVEtmV0FISXM2UmZsRUh4SnlFYmhTRGlRN1Frdw?oc=5",
+   "published": "2026-10-19T22:47:00+00:00",
+   "id": "8907690a44e3",
+   "impact": 1,
+   "cat": "or",
+   "raison": "Flux entrants confirmant l'intérêt pour les ETF or, mais simple arbitrage de frais.",
+   "method": "IA"
+  },
   {
    "title": "Pres. Trump defends decision to pause sanctions",
    "source": "www.localnewslive.com",
@@ -3955,22 +3967,10 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFRqNEY5MnQyMjJ0VGt5UWF6dkZyd2NJMnM0QlA1TnJDUUJHM0hOWVhuV3Q0dHMzYVFua3RycmFnNmlKZ0FiWWlaMGxaNnFuamh5a2xScmxvWTl6UnhTUlZsekUwdWdZODhQVGhBaXQyMG5ONWpSWnAxZHVNa0k4Uk9xYVBxVUlDNjBzaUR3?oc=5",
    "published": "2026-10-19T22:14:00+00:00",
    "id": "d96b3a05cc40",
-   "impact": -4,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Republicans shift resources as polls suggest red - state races are tightening",
-   "source": "fox4beaumont.com",
-   "theme": "Géopolitique",
-   "link": "https://fox4beaumont.com/news/connect-to-congress/republicans-shift-resources-as-polls-suggest-red-state-races-are-tightening-midterms-politics-congress-majority",
-   "published": "2026-10-19T21:45:00+00:00",
-   "id": "a49734d7a336",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Pause sur les sanctions réduisant temporairement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Marco Rubio to commence three - day visit to India ; trade deal , talks with Jaishankar on agenda",
@@ -3979,10 +3979,10 @@
    "link": "http://www.iraqsun.com/news/279385903/marco-rubio-to-commence-three-day-visit-to-india-trade-deal-talks-with-jaishankar-on-agenda",
    "published": "2026-10-19T21:45:00+00:00",
    "id": "eb55285d2e14",
-   "impact": -3,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "baissier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Discussions commerciales bilatérales apaisant les craintes d'escalade tarifaire mondiale.",
+   "method": "IA"
   },
   {
    "title": "Zelenskyy says it Putin who wants an endless war , not him",
@@ -3991,10 +3991,10 @@
    "link": "https://www.ktsa.com/zelenskyy-says-its-putin-who-wants-an-endless-war-not-him/",
    "published": "2026-10-19T21:15:00+00:00",
    "id": "6f1c29beba32",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspective d'un conflit prolongé en Ukraine maintenant une prime de risque résiduelle.",
+   "method": "IA"
   },
   {
    "title": "Iran urges U . S . to accept Hormuz reopening proposal | Hellenic Shipping News Worldwide",
@@ -4003,10 +4003,10 @@
    "link": "https://www.hellenicshippingnews.com/iran-urges-u-s-to-accept-hormuz-reopening-proposal/",
    "published": "2026-10-19T21:15:00+00:00",
    "id": "7018b597d36c",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Ouverture diplomatique sur Ormuz diminuant le risque de rupture d'approvisionnement pétrolier.",
+   "method": "IA"
   },
   {
    "title": "Trump's trade adviser defends tariffs, touts Texas Instrument investment in new Lehi plant",
@@ -4027,10 +4027,10 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2I2bWZkUTFFRDVvUHYwU0dLS2otVkN3QUVsV3dOMXVvcm42azIzemxjTExOd0ZxTDdTVGN4NVN1bGRrelk5OVo2Tzc4T3lqTUdtalBGX1ZvQmlMUWNTdjV4WjlsQWNCNE40ejRZQThTWUhiNXBoQnhJVzVtUVBtM2NzcjZnZw?oc=5",
    "published": "2026-10-19T21:00:00+00:00",
    "id": "d70bbf7b07ca",
-   "impact": 3,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rappel des tensions régionales persistantes au Moyen-Orient soutenant l'attrait pour la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "India - US trade deal  very close , says Rubio ahead of 3 - day visit",
@@ -4039,10 +4039,10 @@
    "link": "https://www.tribuneindia.com/news/india/india-us-trade-deal-very-close-says-rubio-ahead-of-3-day-visit/",
    "published": "2026-10-19T20:45:00+00:00",
    "id": "44812d1ea2ee",
-   "impact": -3,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "baissier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Accord commercial imminent entre Washington et New Delhi atténuant l'aversion au risque.",
+   "method": "IA"
   },
   {
    "title": "How Import Tariffs Could Impact Nebraska Grocery Bills",
@@ -4051,10 +4051,10 @@
    "link": "https://www.newspressnow.com/news/regional_news/how-import-tariffs-could-impact-nebraska-grocery-bills/article_7a04035f-deaf-55ff-9b06-27b9a1b159f3.html",
    "published": "2026-10-19T20:45:00+00:00",
    "id": "1712f90657b8",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "inflation",
+   "raison": "Craintes d'inflation liées aux tarifs douaniers, traditionnellement favorables au métal précieux.",
+   "method": "IA"
   },
   {
    "title": "How Import Tariffs Could Impact Kansas Grocery Bills",
@@ -4063,10 +4063,10 @@
    "link": "https://www.newspressnow.com/news/regional_news/how-import-tariffs-could-impact-kansas-grocery-bills/article_6c07a7a2-c272-515e-9db0-93b209d53b24.html",
    "published": "2026-10-19T20:45:00+00:00",
    "id": "d8433d5a90c0",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "inflation",
+   "raison": "Pressions sur les prix à la consommation dues aux droits de douane, haussier pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Is the Middle East is heading toward another major escalation?",
@@ -4471,10 +4471,10 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUJCeUxWSldqNFZJOG9qLUNobS1ncGVZenVKZmNXcV9yZW5NMlRhcVlhbWM1NW9rWUVpV0RyM0l3Ujd2aXZaRV9mcTJuaFFLc21pb2hYZ25fU3dNTVNERmM0eVd0cXVwRVFwbk1pdGxWTFE3S2F6WWdFM1JxVENrdDV3?oc=5",
    "published": "2026-10-19T15:25:31+00:00",
    "id": "eea95c572ea0",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Blocage des exportations pétrolières iraniennes créant un choc d'offre et une vive anxiété géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Don’t let history repeat: The next Congress must end the Iran War",
@@ -4615,10 +4615,10 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWdhUFBRb0NCckNISVVsWW1kai1IbGo1ZXQwX18wVjVaQ2tTWDVxZlpRY08yNUJ5Rm12UWZpd3BVN0tPUFRtRVpFd2s3TFhpXzhtaS00eVFkX2xuTndaQzZaa1JQVTJEdUFtdFg0cFNoZlkwUmJJWTVtTWVrbVZOVVlsOTdSNFlEd1FWMTBMOWtvemNOcHduTmp3eHJsZURlYUZ0clo5RW5URlpjS1FyVmpMS2xGcnc?oc=5",
    "published": "2026-10-19T13:01:00+00:00",
    "id": "40703492d371",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Commentaires sur une attaque en Iran alimentant l'incertitude militaire et la demande refuge.",
+   "method": "IA"
   },
   {
    "title": "States Sue Over Latest Trump Tariff Attempt",
@@ -6223,10 +6223,10 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3hHX19HZGdDWDVIRS1GTm1fNXNsU2JXR2J5Nlh3U1ZYejFVaE9zR0F2Y3QydFlJbU03cTgyM29qdGxVZHQ5eEQwRUpoMlJjR2NOTlk0dXB6RG9BZFdaREI5WnU4ZVljdG9ncVJaVGtSSVNaMVYxSldKN0hhU0I1cUVLc2VpRGIzQzJCRWZMQ0VTRDlZLW1GeG10dXY1UHhLLTVQUg?oc=5",
    "published": "2026-10-19T02:10:15+00:00",
    "id": "23c6f95382c5",
-   "impact": -3,
+   "impact": -2,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Spéculation sur d'éventuelles hausses de taux de la Fed, haussière pour les rendements réels.",
+   "method": "IA"
   },
   {
    "title": "Trump decision to waive Russian sanctions outrages Congress , but no quick counter seen | News , Sports , Jobs",
@@ -6283,10 +6283,10 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE?oc=5",
    "published": "2026-10-19T01:31:23+00:00",
    "id": "66b906a6bfcd",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces concrètes de frappes directes intensifiant nettement la demande pour l'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump waives major Russia sanctions, tariffs",
