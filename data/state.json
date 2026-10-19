@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792417550.919617,
+   "ts": 1792422072.4319088,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "1d49e806e6bf",
-  "a9082332b3b5",
-  "11821a2e7d3a",
-  "14119d1a6c00",
   "c0a1d76ac583",
   "1ce9a3bf640b",
   "38fa1221b158",
@@ -3945,7 +3941,11 @@
   "db9540b5f33a",
   "6f5c3ddd555c",
   "1b870ed9c198",
-  "d4c58d16e81c"
+  "d4c58d16e81c",
+  "f07f98aefb5a",
+  "23c6f95382c5",
+  "720716c1b00f",
+  "e00c15d85cfa"
  ],
  "news": [
   {
@@ -3958,6 +3958,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Goldman Sachs, on gold, estimates central bank purchases of 79 tonnes in August, (vs pre-2022 average of 17 tonnes); China was the largest identifiable buyer in August at 25 tonnes",
+   "source": "Newsquawk",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUmlsT1VBekJXdVJkeUtlT09YS3dqdHNENV85SlNQdTJpdWlnLTE0bjhGZHAtQkJPOTl3dHE5dThKdUw3Zk4tNG1lbk5GR1lTaXh3a1FzUGJ4bUg2N0l6TFlsMlp1S2VWWHRKQVJrWHNpYTNiSzR5NkRnejgzSHFkS0FncGRFWmp0d3hqSC1sUXJ3VHRGUGxxcW9FT0dDX1RhUFNUN1BKQk1fXzZ1dF9fTHktdFlFTlR6MDYxaWFldkowUlFlVVdUUGJQYmM4U2VnZFNZaVFITjdTZkdIRGVhYg?oc=5",
+   "published": "2026-10-19T14:15:41+00:00",
+   "id": "720716c1b00f",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
   },
   {
@@ -4079,6 +4091,18 @@
    "cat": "géopolitique",
    "raison": "Tentative de désescalade diplomatique réduisant légèrement la prime de risque géopolitique sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Lebanon Seeks End To Israeli Escalation In Tampa Talks With U.S. Delegation: how 8 outlets framed it",
+   "source": "NewsCord",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbDllYUxIVFh3SVIzZi1rOHRnWHJrN3phLTY2anIzSml0akFCbGdmeEVkMDItX2kxclhDdUlrU3lYcl90N29ETFZ1Z1lVVENBRlU1T3pRYWNmSlN4dm5fNEpsVlFPUVh5T3pzbjl1M3YtMFgxdW11NVlyWlZrNG95OUplRWFMN3RpZ2dUN3BySU00S1ZtMDlqcnNtVVhhTTlQY1JPWllZUS0xNWFaSThlalFHZm8yWDFZeFJPWTJ3MXZ5NHVGS0l0RC1hdUIza2t4OGozODMxcXFXRmFUcWk0OQ?oc=5",
+   "published": "2026-10-19T12:26:11+00:00",
+   "id": "f07f98aefb5a",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil prices fall after Trump waives some Russia sanctions and tariffs",
@@ -5569,6 +5593,18 @@
    "method": "IA"
   },
   {
+   "title": "Bitcoin Rallies Near $80K Shelf After CPI — Could Fed Rate Hike Trigger New Lows?",
+   "source": "CoinMarketCap",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3hHX19HZGdDWDVIRS1GTm1fNXNsU2JXR2J5Nlh3U1ZYejFVaE9zR0F2Y3QydFlJbU03cTgyM29qdGxVZHQ5eEQwRUpoMlJjR2NOTlk0dXB6RG9BZFdaREI5WnU4ZVljdG9ncVJaVGtSSVNaMVYxSldKN0hhU0I1cUVLc2VpRGIzQzJCRWZMQ0VTRDlZLW1GeG10dXY1UHhLLTVQUg?oc=5",
+   "published": "2026-10-19T02:10:15+00:00",
+   "id": "23c6f95382c5",
+   "impact": -3,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump decision to waive Russian sanctions outrages Congress , but no quick counter seen | News , Sports , Jobs",
    "source": "lahainanews.com",
    "theme": "Géopolitique",
@@ -6310,42 +6346,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Implication égyptienne au Yémen signalant une extension du conflit régional au Moyen-Orient.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran Proposes Seven - Day Plan to Reopen Strait of Hormuz , Conditional on US Compliance",
-   "source": "openthemagazine.com",
-   "theme": "Géopolitique",
-   "link": "https://openthemagazine.com/world/iran-proposes-seven-day-plan-offers-conditional-hormuz-reopening-on-day-six",
-   "published": "2026-10-18T19:15:00+00:00",
-   "id": "1be22c298fbf",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Proposition de désescalade à Ormuz atténuant temporairement les tensions maritimes et pétrolières.",
-   "method": "IA"
-  },
-  {
-   "title": "Israel: Trump endorses Netanyahu ahead of elections",
-   "source": "DW.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3NmdkNNTTVQUUdyTVZyLVNIOWNGMnlOWDdsMW1zN245WTJhYUJ6dUJIZE90ZWRFM0dfZFZuYXZKTzNWSlNwLUpuNlBLZHlqSkw5T0xLOGRHVkNGa0dPcmpJX3RyelAxLVFaTkpZTExJaWJzV1R1Vy1ZQ0VuLUlnZzZ3ZDJfUTlDOXN30gGLAUFVX3lxTE5rMXY2NlRwNXlPQmJ5bjFYYno4WWVvNHVYSWRialhEbzRuUHhQaENOcElockgwaDdLeDFBV3RkdjNJZ3MzTW42ZEVZczc5aGpEaVo4NGhqVFV0eG5qUHFrY0VsWldWbTZCcUc2RlNEV0NuclBiaU1GZ3U5YkN2dmh5eU5pSy12QV9QMU0?oc=5",
-   "published": "2026-10-18T19:09:15+00:00",
-   "id": "22fa0cd9b097",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Alliance Trump-Netanyahou renforçant légèrement les anticipations de tensions avec l'Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran says Strait of Hormuz reopening, seven-day ceasefire conditions still on the table",
-   "source": "CBS News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3NTZE9fMEQ3MjZJZW1kbXZ0OE9RUlZTRkpUaTVQYmgtRE9GU3pKdVJmVFhZSUZBM3FrNjF0Q1VPdlU0MGFfZVBsQzhtTWszTWpvOThSNkpnaUJpaDZtUFNmYURteUJGZHdtNlpyVzNmRmJ6WHliZ19vWW1kYTNENE1BX3lUWTFrSHlZZW1uSGVvNWRETURlYXdBcXVyVUdj?oc=5",
-   "published": "2026-10-18T19:02:00+00:00",
-   "id": "5d1fac2d5452",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "Signes de désescalade et cessez-le-feu potentiel réduisant la prime de risque sur l'or.",
    "method": "IA"
   }
  ],
