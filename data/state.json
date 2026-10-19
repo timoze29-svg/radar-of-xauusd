@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "6ab35d1a2de5",
-  "d416c375380c",
-  "2480768dcd1f",
   "487d4e13d71c",
   "1c412fcface2",
   "e33d110a8d3d",
@@ -3945,9 +3942,24 @@
   "4205bb37c845",
   "1face7e92922",
   "af402a2d729a",
-  "59827902147d"
+  "59827902147d",
+  "4dae42b20e9b",
+  "64e2e70098f5",
+  "a167c854e9d6"
  ],
  "news": [
+  {
+   "title": "Oil prices fall after Trump waives some Russia sanctions and tariffs",
+   "source": "Quartz",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzVvUnlPN3RDSGJ2N2wyLXJ0VExXX2g4WE5iU2xrb3dhZTJ0QjdBeURWUHQ0RE1mUmF5U1Y0bjZPM3k2ZTdJQ2ZCNVB6UnowdjBKbk96TEFYbEhmN3kyWU04eFdpOW5qV1BjU1V5SDZER2FUNUo2T0xoandWOGhfZ2d2Yw?oc=5",
+   "published": "2026-10-19T12:04:20+00:00",
+   "id": "64e2e70098f5",
+   "impact": -2,
+   "cat": "géopolitique",
+   "raison": "Baisse des tensions et du pétrole réduisant l'inflation anticipée et la prime de risque.",
+   "method": "IA"
+  },
   {
    "title": "Under Trump, deficits remain high while borrowing costs escalate",
    "source": "Reuters",
@@ -3971,6 +3983,18 @@
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Oil slips from five-month high with Hormuz transits in focus",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTNFNmRXMmo4Zi1Md1o4NFJzb3d6X1JpcUgtVEo4N3F2QW9Nd25UTkhKYzljbExueGZ5Qkp2aWtUVUV1bGF4dWR5MGZDZHdWN3pyd250SnFtLUpjbHdBSXIyVGNlMFE2TzFlOVlWMkxiMnE2eHJ2eC1HbjV5cjRLdV9tQmcyMHVTVjJaY1ZkTXBNRWM?oc=5",
+   "published": "2026-10-19T11:08:12+00:00",
+   "id": "4dae42b20e9b",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Léger reflux du pétrole atténuant marginalement la prime de risque géopolitique à court terme.",
+   "method": "IA"
   },
   {
    "title": "Puma Shen urges KMT to condemn China's election interference in Taiwan",
@@ -6322,30 +6346,6 @@
    "impact": -1,
    "cat": "politique US",
    "raison": "Pression américaine pour forcer des négociations, réduisant l'horizon temporel du conflit.",
-   "method": "IA"
-  },
-  {
-   "title": "We asked European allies to put secondary tariffs on India and China for buying Russian oil , they refused : Scott Bessent",
-   "source": "aninews.in",
-   "theme": "Géopolitique",
-   "link": "https://aninews.in/news/world/us/we-asked-european-allies-to-put-secondary-tariffs-on-india-and-china-for-buying-russian-oil-they-refused-scott-bessent20261018220622/",
-   "published": "2026-10-18T18:15:00+00:00",
-   "id": "1432b264866c",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Rejet des tarifs secondaires par l'Europe évitant une accélération de l'inflation importée.",
-   "method": "IA"
-  },
-  {
-   "title": "Bessent big reveal :  I asked Europe to impose secondary tariffs on India , but they refused",
-   "source": "businesstoday.in",
-   "theme": "Géopolitique",
-   "link": "https://www.businesstoday.in/latest/economy/story/scott-bessents-big-reveal-i-asked-europe-to-impose-secondary-tariffs-on-india-but-they-refused-562319-2026-10-18",
-   "published": "2026-10-18T18:15:00+00:00",
-   "id": "644ca4e053a4",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Absence de nouveau front commercial transatlantique limitant l'aversion au risque mondiale.",
    "method": "IA"
   }
  ],
