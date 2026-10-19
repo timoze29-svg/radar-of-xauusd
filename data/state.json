@@ -946,24 +946,6 @@
   }
  },
  "seen_news": [
-  "14ed2b595d83",
-  "da4fdb64136b",
-  "2b65b48370df",
-  "333031ed8ae9",
-  "6861faf4ccfc",
-  "3ff8379722a9",
-  "43c7658eab2a",
-  "2085ffc3a4a2",
-  "f97f1edefcb6",
-  "f9993f99ccc1",
-  "38a6dfb955b1",
-  "f43822d35810",
-  "e18b83db8c8d",
-  "8dea623f2fb3",
-  "b7b51a7d2a43",
-  "8010b37f8fab",
-  "64ffbae2ecf8",
-  "69f8c6f49e5b",
   "f6d997183ec0",
   "ddad5c3f0457",
   "b1d2df855b6f",
@@ -3945,7 +3927,25 @@
   "6f1f4572fc48",
   "5d46d2ca8e47",
   "11b6d2e1d007",
-  "a1ab97f824f0"
+  "a1ab97f824f0",
+  "16ca234f2b01",
+  "4a685d7de3a3",
+  "e014e49385a6",
+  "b660ce3222ef",
+  "a7744df1588e",
+  "97d06e5868c4",
+  "a9ee8fea26da",
+  "d3531619bef4",
+  "f94393db3019",
+  "a9e9c8a2d383",
+  "9765bee0f99f",
+  "a1ea113eb216",
+  "bf0329265e9b",
+  "958240649f9c",
+  "8a38a9e86348",
+  "a43f3dedd927",
+  "ad7c070e45f2",
+  "537739ed3dc3"
  ],
  "news": [
   {
@@ -3970,6 +3970,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "JD Vance falsely blames Biden policy for high gas prices . Iran war is mainly to blame . – PolitiFact",
+   "source": "politifact.com",
+   "theme": "Géopolitique",
+   "link": "https://politifact.com/factchecks/2026/oct/19/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall/",
+   "published": "2026-10-19T23:00:00+00:00",
+   "id": "a1ea113eb216",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Affaiblissement du soutien à l'Ukraine suggérant une issue négociée, baissant la demande refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Donald Trump's approval rating hits new low as Iran war shapes voters' opinions",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80bEdvU0lxTVBHN2F2REJzaEdiOUd0X2Vlb1RPV1dhbHpyczVSY2xiY1dkM0dRZ0lxY3I2WlZNSjhjX1FiVzluUTBvSzA3bTR0T3lwSkpfLUljY0Q5cllqREV2Tjg?oc=5",
-   "published": "2026-10-19T02:38:00+00:00",
-   "id": "1502ea7cb73b",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Le spectre du conflit iranien et l'incertitude politique alimentent la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7179,7 +7179,8 @@
   "news|6f1c29beba32": 1792446383.9503405,
   "news|7018b597d36c": 1792446384.8921993,
   "news|eea95c572ea0": 1792449967.0988286,
-  "news|40703492d371": 1792449968.2081268
+  "news|40703492d371": 1792449968.2081268,
+  "news|a1ea113eb216": 1792452726.718459
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7298,6 +7299,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-19T23:32:06.718514+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>JD Vance falsely blames Biden policy for high gas prices . Iran war is mainly to blame . – PolitiFact</b>\n📰 politifact.com · Mar 20/10 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://politifact.com/factchecks/2026/oct/19/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall/"
+  },
   {
    "ts": "2026-10-19T22:46:08.208329+00:00",
    "kind": "news",
@@ -7592,11 +7598,6 @@
    "ts": "2026-10-18T23:46:05.332455+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration's objectives in Iran war have been met, Rep. Anna Paulina Luna says</b>\n📰 Fox News · Lun 19/10 01:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSVHVjanQyV1N4cGNvQmtJWFB4NThTN1lZck9Nby00U2hYa1AtWjVray1CZkdzSVhNM3JQb1pXLThXam9qOEZKNHZyN211N2V1UWdFTDBR?oc=5"
-  },
-  {
-   "ts": "2026-10-18T23:01:35.402734+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Egypt pledges full support for Saudi Arabia amid escalating attacks</b>\n📰 سانا · Dim 18/10 14:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Jb3loT1M3VnpQYWNKSVkyTWVxOEVnaHBrWHFJSnVUXzZBOUlBYWlTN05ZY28well3UjBCTDljSXJlZ20xdm92TVlhUVNnNXk2?oc=5"
   }
  ],
  "daily_forecast": {
