@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "a756d3859ed8",
-  "8559179be650",
-  "d317b03f0a8c",
-  "090a7f8159b0",
-  "6b283a03c293",
-  "c35f743353e2",
   "70cdc8da1d7b",
   "e6ceeefed988",
   "64d4c72ebf4a",
@@ -3945,9 +3939,27 @@
   "15d1f91450ca",
   "1108832207a0",
   "cd5a8d0f7791",
-  "8dce514b6e05"
+  "8dce514b6e05",
+  "c90b50e57f2a",
+  "94a9b1a569fb",
+  "1d6ce33d90c7",
+  "a339be79c109",
+  "ad8e1f818f62",
+  "87b017b4f432"
  ],
  "news": [
+  {
+   "title": "Central Bank Buying Supports Gold’s Recovery Case Despite Higher Yields",
+   "source": "Crux Investor",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTRlVm44OXZTZUh5eVlRTFhGTzMwdG1XY2x2cWpkcGI2SHhaUzd6UG5KWXRTYjVJVlgxbTE4Vmw1R0pFSjVJYXdCcHRLSndxRTJUOWVIRzJ1ZW1ITFhwQThaTk43LWw5RFMxdHNHbmxZc0lmR29rNnhaMVFtdWMzWV9yLUx5NkRVV19DTExwYzN4emNQYnV5dEdHU3MzclRCcFJLbjNickI?oc=5",
+   "published": "2026-10-20T14:17:21+00:00",
+   "id": "c90b50e57f2a",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia, sensing victory, cheers Trump’s latest shift against Ukraine",
    "source": "The Washington Post",
@@ -4751,6 +4763,18 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes au Moyen-Orient offrant un léger soutien de prime de risque.",
    "method": "IA"
+  },
+  {
+   "title": "Iran warns any US attack will be met with retaliation, dismisses claims of no-response deal",
+   "source": "Anadolu Ajansı",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHdpbXlQbjF2b181SUhuTlY1V2JJZ2ctU0dOdFZKOHMtNXRwYWdTSEFOZHVzc3l5Uzd6NG94RGlwZUsxMmNnX1gyWmh6LS05Wm1CSWhJU1JVWlVjM0dMeDRVbmI0d1RlWTRVMHI3M1BKWG9MamNEcDVuT3Eza01ONVdNcnFLdUl5cUhFZ2dBX2ZmZFM2c2FSNElxMVBwTi04WXNYa2s4MjBSN1VFakdDXzA3NTJkcE5RVUFUVUEwNFBfLWNTWi10R3BTanZkdWEw?oc=5",
+   "published": "2026-10-20T09:02:10+00:00",
+   "id": "a339be79c109",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Frictions technologiques persistantes entre Taïwan et Pékin, léger soutien refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Iran may be preparing for fresh escalation with US",
-   "source": "Breakingthenews.net",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3F3SVdNQTNpRHNYM0ZuVUlFcWd0OXF2MGZraGVRZHNIT05xNjQ4X245WU1XNFdpWnMyYUZncmZ3dkN4SVl3MVg2RV83bkkyVExwTllWb3dlUDZMSldKSkVxVFNMdmIxb2x2TC1MOXhxcW4wOWtVRE9qNzhEQnpRb1pZSGlpRTNEXzY0NGd3OGd2ZzhnN1VXeWczZw?oc=5",
-   "published": "2026-10-19T17:10:00+00:00",
-   "id": "77653984bb07",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces d'escalade directe Iran-USA, soutien classique à la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "escalating geopolitical crisis in the Middle East.",
-   "source": "TV7 Israel News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83d1BPQmY0TVJXTEJmRmp5dFVoR1prQVc4Mzd5RFhVUW8xRklBYUxweWhmVkx5Zjg5ZV9GZ2U4MzUwRDBRNW9CTXRvY1ZrOWJRdkY3VTltaDg2d2pra0JpVVM4ZVBxaGdiVWVfTHhrMThYQTBjTDdv?oc=5",
-   "published": "2026-10-19T16:36:22+00:00",
-   "id": "d944197b7d47",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Titre généraliste confirmant le contexte d'insécurité géopolitique au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7209,7 +7209,9 @@
   "brk|US10Y|pdh|dn|2026-10-20": 1792500567.080352,
   "news|65a48ba223d2": 1792501301.7756393,
   "news|840876d2c36a": 1792503084.221425,
-  "news|2180af3d6fe3": 1792505011.397911
+  "news|2180af3d6fe3": 1792505011.397911,
+  "news|a339be79c109": 1792506692.472275,
+  "big|OIL|2026-10-20": 1792506694.0216494
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7344,6 +7346,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T14:31:34.021691+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Pétrole WTI\n-6.30 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-10-20T14:31:32.472346+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran warns any US attack will be met with retaliation, dismisses claims of no-response deal</b>\n📰 Anadolu Ajansı · Mar 20/10 11:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHdpbXlQbjF2b181SUhuTlY1V2JJZ2ctU0dOdFZKOHMtNXRwYWdTSEFOZHVzc3l5Uzd6NG94RGlwZUsxMmNnX1gyWmh6LS05Wm1CSWhJU1JVWlVjM0dMeDRVbmI0d1RlWTRVMHI3M1BKWG9MamNEcDVuT3Eza01ONVdNcnFLdUl5cUhFZ2dBX2ZmZFM2c2FSNElxMVBwTi04WXNYa2s4MjBSN1VFakdDXzA3NTJkcE5RVUFUVUEwNFBfLWNTWi10R3BTanZkdWEw?oc=5"
+  },
   {
    "ts": "2026-10-20T14:03:31.397978+00:00",
    "kind": "news",
@@ -7633,16 +7645,6 @@
    "ts": "2026-10-19T14:31:30.195094+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-2.29 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
-  },
-  {
-   "ts": "2026-10-19T14:31:28.980513+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Goes Nuclear on Fox News in Seething Morning Meltdown</b>\n📰 The Daily Beast · Lun 19/10 15:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFZkOXU0dW9IZEZGQmhyR3AxdGgwc0RScVJiWkp3ZVJOM2gtY3BON0R5ZW5nT2loUV9TVlJmOUFSeFJYamxCWU9yUTV5UXo2eE9PQ0hCMkVxenU3RDJ6eHUwRjQxTmx0U1NFSVFJUV94UEhlX1puc09BaVVSd1ZyeGItckt2Z0kyajdpcDR0YjF6RTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-19T14:16:14.724174+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 167.50 → prix : <b>4 167.10</b>\nATR jour : 73.0$ | Pivot hebdo : 4172.8\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 11$, 681 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
   }
  ],
  "daily_forecast": {
