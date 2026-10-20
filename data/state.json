@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "721828b2f598",
-  "baa30d8bb887",
-  "1ff590acfa15",
   "6ea7968f8ae6",
   "1e72f3e3061e",
   "308212045455",
@@ -3945,7 +3942,10 @@
   "a63fb2a38552",
   "c99086393cfb",
   "f380e6322cff",
-  "10b2523ad424"
+  "10b2523ad424",
+  "d23bc5275d1d",
+  "8054ffc099dc",
+  "c23d4b60d82b"
  ],
  "news": [
   {
@@ -7190,7 +7190,8 @@
   "news|d286a6af4bae": 1792469765.6076505,
   "news|878e72efd6a5": 1792470734.0304866,
   "news|f1b22d1ca2da": 1792470735.0738797,
-  "news|ba17fdf5169c": 1792470736.0607235
+  "news|ba17fdf5169c": 1792470736.0607235,
+  "rep|daily|2026-10-20": 1792472565.298812
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7306,9 +7307,30 @@
     "PDL": 4167.5
    },
    "ts": "2026-10-19T05:01:42.296325+00:00"
+  },
+  "2026-10-20": {
+   "dir": "range",
+   "score": -8,
+   "p0": 4162.7998,
+   "exp_range": 64.6,
+   "levels": {
+    "P": 4175.63,
+    "R1": 4195.67,
+    "S1": 4140.07,
+    "R2": 4231.23,
+    "S2": 4120.03,
+    "PDH": 4211.2,
+    "PDL": 4155.6
+   },
+   "ts": "2026-10-20T05:02:44.460228+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T05:02:44.460255+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — MARDI 20/10</b>\nPrix : <b>4162.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4163 vs MM20 4192 / MM50 4364\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.74% vs Fed 3.88% → hausses anticipées\n🟢 Sentiment news 24h : 199 news notées, moyenne +0.31\n\n🌏 <b>Session Asie</b> (depuis minuit) : +0.6$ · plus haut 4166.5 / plus bas 4134.5 (range 32$)\nDXY -0.20% sur la nuit\n⚠️ Plus bas de la veille (4156) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~65$</b> (ATR 72$ × profil du mardi)\nDéjà fait en Asie : 32$ (50% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4231.2 | R1 4195.7 | <b>Pivot 4175.6</b> | S1 4140.1 | S2 4120.0\nVeille : PDH 4211.2 / PDL 4155.6  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>56%</b> du temps (311 jours, ~6.0 ans)\n• Hier : -0.50% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 15h (10%) · plus BAS vers 16h (12%), 0h (12%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -22.2$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🧠 <b>Analyse IA</b>\nBriefing XAUUSD - Mardi 20/10 ⚡\n\nBiais intraday : Vendeur sous le pivot, pression des taux US (10 ans à 5.136%, 2 ans à 4.74%) malgré les tensions géopolitiques.\n\n1/ Scénario principal (Short) 📉\nEntrée : Pullback vers Pivot 4172.8 - 4175.6 (ou rejet SMA20 à 4192.2).\nObjectifs : TP1 à 4140.1 (S1), TP2 sur le creux de la semaine à 4134.5, puis 4103.3 (S1 hebdo).\nInvalidation : Clôture H1 au-dessus de 4195.7 (R1).\n\n2/ Scénario alternatif (Achat de rebond) 📈\nDéclencheur : Cassure franche et tenue au-dessus de 4195.7.\nObjectifs : 4211.2 (PDH) puis 4231.2 (R2) / 4242.3 (PWH).\n\n3/ Heure critique &amp; Risque ⚠️\nAucun chiffre majeur US aujourd'hui au calendrier. Danger centré sur l'ouverture US à 14h30-16h00 (stats : pic de volatilité et creux fréquent du mardi vers 16h). Gestion : surveille les rendements US et le pétrole. Allège avant 14h30 et ne poursuis pas les mèches sur PDL 4155.6.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
   {
    "ts": "2026-10-20T04:32:16.060862+00:00",
    "kind": "news",
@@ -7603,17 +7625,12 @@
    "ts": "2026-10-19T02:31:25.601887+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Araghchi says Netanyahu is pushing for renewed war on Iran</b>\n📰 middleeasteye.net · Lun 19/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-netanyahu-pushing-renewed-war-iran"
-  },
-  {
-   "ts": "2026-10-19T02:31:24.548704+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vladimir Putin suggests meeting with Donald Trump , Xi , to discuss Ukraine war resolution</b>\n📰 jpost.com · Lun 19/10 04:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.jpost.com/international/internationalrussia-ukraine-war/article-912112"
   }
  ],
  "daily_forecast": {
-  "date": "2026-10-19T05:01:43.109292+00:00",
-  "text": "☀️ <b>PRÉVISION OR — LUNDI 19/10</b>\nPrix : <b>4201.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-5/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +10.5$ · plus haut 4208.4 / plus bas 4185.6 (range 23$)\nDXY -0.06% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~74$</b> (ATR 73$ × profil du lundi)\nDéjà fait en Asie : 23$ (31% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4242.6 | R1 4211.8 | <b>Pivot 4189.7</b> | S1 4158.9 | S2 4136.8\nVeille : PDH 4220.4 / PDL 4167.5  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>51%</b> du temps (280 jours, ~6.0 ans)\n• Hier : +0.26% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +16.8$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4159 et R1 4212\nJouer les extrêmes, pas le milieu (pivot 4190). Range attendu ~74$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4220 ou PDL 4168 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
-  "ai": false
+  "date": "2026-10-20T05:02:45.298772+00:00",
+  "text": "☀️ <b>PRÉVISION OR — MARDI 20/10</b>\nPrix : <b>4162.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4163 vs MM20 4192 / MM50 4364\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.74% vs Fed 3.88% → hausses anticipées\n🟢 Sentiment news 24h : 199 news notées, moyenne +0.31\n\n🌏 <b>Session Asie</b> (depuis minuit) : +0.6$ · plus haut 4166.5 / plus bas 4134.5 (range 32$)\nDXY -0.20% sur la nuit\n⚠️ Plus bas de la veille (4156) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~65$</b> (ATR 72$ × profil du mardi)\nDéjà fait en Asie : 32$ (50% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4231.2 | R1 4195.7 | <b>Pivot 4175.6</b> | S1 4140.1 | S2 4120.0\nVeille : PDH 4211.2 / PDL 4155.6  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>56%</b> du temps (311 jours, ~6.0 ans)\n• Hier : -0.50% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 15h (10%) · plus BAS vers 16h (12%), 0h (12%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -22.2$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🧠 <b>Analyse IA</b>\nBriefing XAUUSD - Mardi 20/10 ⚡\n\nBiais intraday : Vendeur sous le pivot, pression des taux US (10 ans à 5.136%, 2 ans à 4.74%) malgré les tensions géopolitiques.\n\n1/ Scénario principal (Short) 📉\nEntrée : Pullback vers Pivot 4172.8 - 4175.6 (ou rejet SMA20 à 4192.2).\nObjectifs : TP1 à 4140.1 (S1), TP2 sur le creux de la semaine à 4134.5, puis 4103.3 (S1 hebdo).\nInvalidation : Clôture H1 au-dessus de 4195.7 (R1).\n\n2/ Scénario alternatif (Achat de rebond) 📈\nDéclencheur : Cassure franche et tenue au-dessus de 4195.7.\nObjectifs : 4211.2 (PDH) puis 4231.2 (R2) / 4242.3 (PWH).\n\n3/ Heure critique &amp; Risque ⚠️\nAucun chiffre majeur US aujourd'hui au calendrier. Danger centré sur l'ouverture US à 14h30-16h00 (stats : pic de volatilité et creux fréquent du mardi vers 16h). Gestion : surveille les rendements US et le pétrole. Allège avant 14h30 et ne poursuis pas les mèches sur PDL 4155.6.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "ai": true
  },
  "weekly_forecast": {
   "date": "2026-10-19T05:01:42.146369+00:00",
