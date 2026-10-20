@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "d25e17fed23f",
-  "a1568ebe2823",
-  "cfe330594f0c",
-  "71440f3f19b0",
-  "d923c3036584",
   "197f254cec8f",
   "7fcc51162a46",
   "d2faeb0ecf08",
@@ -3945,7 +3940,12 @@
   "a91dd5318ba4",
   "4e5ed4467f32",
   "c5ad8cad7b7c",
-  "00919483850f"
+  "00919483850f",
+  "1a05dc6544bf",
+  "4163108fbe6e",
+  "d3913d74c6e5",
+  "c10cd0150ae9",
+  "b91be31ea389"
  ],
  "news": [
   {
@@ -5449,6 +5449,18 @@
    "method": "IA"
   },
   {
+   "title": "Houthi rebels strike Yemen’s government forces, killing at least 53",
+   "source": "NBC News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3B5QUxha3llVXNVMTV2dXF2S243NlpESnJiTnJ5Qk5xZ2VkdmQteTJxb2tYRC1wQVhKa3YycUhtYU1KakRVV1VRcFBKMDZHS2tnS1hPZl8xOFdDUUVDUU45cEJEYTdlZHlGUEh3bHFGbTNlZGhrcG5GV2dpazRlbzcwQzlLMlgzd2dyMXVtT25NaTdMOTRDODFvcFNRQ1daZ3BiUF82NG04X1F1TnphNWxISzk?oc=5",
+   "published": "2026-10-20T02:54:00+00:00",
+   "id": "d3913d74c6e5",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Dollar Slips as Investors Assess Fed Rate Outlook",
    "source": "TradingView",
    "theme": "Dollar",
@@ -6334,18 +6346,6 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Recul ponctuel sur certaines barrières douanières, légère détente des anticipations inflationnistes.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukrainian strikes on Russia data centers disrupt daily life",
-   "source": "upi",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcnd4S1dQTXJ1Z2RfMjdWRWtLRWc1d2FPckFRWk9LZEdZd0VRbFBTTUNCX1VlbGJzVHpJdEQ3UVVfYkxTcWNvUjZaOWZnbDFpNnE1M2gtVVd2N2M4T1M3bm85cXBEQXNNTVp2aEoxLTNFWFR5bDJiV25iTTJTLTBES0JlVWhYLUpTeTZXMVZOTTNjRnRLLTdVTmFB0gGfAUFVX3lxTE1zRTlrckl6cC1zb0Y5Mm81NnJDWVdzVG5IVHlvdGFHWjN0aUpEdW9zNWtuazh5NW5oUE1FVVhDUjVWVkNjOS1VV0YxRjNQNkZwNWdkMjd2eGdaM21Bd0tTaGlKbDlxRGY1Y2pSVkgyaF9UTFNrRC0zN3N4Ylo1R2M4SElnTTdtcndiZ2Y4VWlPYy16UEdIeEtXRnZtZUczZw?oc=5",
-   "published": "2026-10-19T18:09:36+00:00",
-   "id": "dcdecd886b46",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Attaques ukrainiennes en profondeur en Russie maintenant une prime de risque géopolitique modérée.",
    "method": "IA"
   }
  ],
@@ -7350,6 +7350,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-10-20T15:46:32.549145+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.16%\n▫️ Taux US 10 ans +1.8 pb\n✅ Pétrole +1.70%\n✅ EUR/USD -0.13%\n▫️ News dollar/Fed : 2 (impact moyen or +5.0)\n   • Trump Tariffs on Canada Spark Latest Lawsuit Over Trade Powers\n   • ‘I lost my entire export business overnight’: the toll of Trump’s tariffs on US wine\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>56%</b> des cas sur 2h,\net l'or a baissé dans <b>49%</b> des cas (moyenne -0.8$, sur 267 cas).\n<i>Pour comparer : l'or monte 54% du temps sur 2h en général.</i>"
+  },
+  {
    "ts": "2026-10-20T15:16:12.614940+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US President Donald Trump nearly approved Iran strikes recently</b>\n📰 The Jerusalem Post · Mar 20/10 16:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbWNyM2J5NllpSThlWmtmSUVzTzllS3RfdkhhWDZIbUxEdEV0cHRsc1hCNGowWE1hbkw5ejZVQWwwOGVNcmZQcmJjaUFabEV5dlFQODNidG5KX0pROGdIVGhkaHRYbFFrUnc?oc=5"
@@ -7643,11 +7648,6 @@
    "ts": "2026-10-19T16:31:38.447522+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The lessons Israel must learn before the next war with Iran</b>\n📰 www.israelhayom.com · Lun 19/10 18:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmpqVC1fbC03bWtPV3R6MUxXZGw3VmhxVUtpR2I3NWc0RjRsbnI3RzZWYk5YOGN2ZHZ6b2R3VVBIWUVQSDRtcEN1Wmd1QWxLaWNsczJxQWJFaVJGT3FyYXFmcVFYdzBJbTdnQ2VRM3VUMUlobjNVWmg5OFdoNjZPSzFMOFpjeEtzSFRieThaZjlWMVBmQnRIT2h2X0lMbDRv?oc=5"
-  },
-  {
-   "ts": "2026-10-19T16:16:15.473557+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.133 → prix : <b>5.140</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.51 | 60j -0.3"
   }
  ],
  "daily_forecast": {
@@ -7721,7 +7721,7 @@
   "ai": false
  },
  "dp_last": {
-  "status": "down",
-  "ts": "2026-10-20T12:49:28.033698+00:00"
+  "status": "up",
+  "ts": "2026-10-20T15:46:32.549106+00:00"
  }
 }
