@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "175e45f969da",
-  "125c2c4395e1",
-  "e582165ec4cd",
-  "1b820c4069ab",
   "43e28932d311",
   "690244b1891c",
   "a3edec7cc0d2",
@@ -3945,7 +3941,11 @@
   "0bce35eac3e8",
   "f1f24bc78366",
   "1ef1604c5b1d",
-  "0b48685b098c"
+  "0b48685b098c",
+  "d0085af69baf",
+  "7b58585b7612",
+  "b9ee178751a1",
+  "c8114c0291fc"
  ],
  "news": [
   {
@@ -4114,6 +4114,18 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Canada's retaliatory tariffs hit US products as Trump warns of escalation",
+   "source": "ABC11 News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi9ApBVV95cUxNMXRla2FEbzU5ZVZoa3BsS0ExeDJLOVFVNXF6LXhOVFg0YTQ5dXBMRmJIdXdsblhtd0QteWNpTVcxV0JCclkxaFFmbmxtSEJ0OWY3MjFReWRyeElock1QZk03NUpleEdpN0hBNjA5U1Y0U0JEZFNZWEJjbm9Panl4YVRJSzg0VkNFYXE2Z1VqN0dhMTVETk9JQ0dIYktuNWxpYUtqek43ZmduSVhlTFJRZlA3Rk8wbnlrX2I5TmNubTBKWHZrQ3ZjUlhaRmxQeDJ6d3dtWTBWNVVTckJYaGk4NzJWNHVyWjhKVkhNQ1l1VzF0YzdXUFNzUm95eE5kekQtV1lEOEVLd01FNGVDRV9TVUFWTHpEbjBObTdKMkpnR3ZaT0NiRThaRVgxTkJfQ0d2ck9XeWg0TGExaVNNOGdGRVNHbmtycFdXX2xQQ3NSQ3MxX0N2QjZCdGtkbGZHWW02QzF3U1RiWkZacUYzbS11dF9KRGlCRktHVnBpQ3BnWmVRdlQ4dS0wOU1KZzZUUzBQVXZoZUVhTnNYUHp1MndpVVVBdURnclBTMmQ2d1FGWVFraVoydXBGd3JHd3JjWHl6UVRVTGJUeThZT1pTUHIya1owbThRY2lqX0RtOWkxbGlURmxoYXpYbTExczZSMU51Z1NtSEk1Y2lBOUloVnBweFJKbGFOWnVNc01UWEVZb0xzNlFBSHRZSVBoc0E3a2lZdmRqMVdadmFzYThial9ZUU0xUUxLY3ZmWFBfb1lnVUxuTUg4SmxqQ1VaVVVDblUtUzZ4MF95bDlpMzgwRlZlOExwLVdxUl93NVA4TlZKZ1lZaGtZaWZmN25oc0tfSUQ1c2RqNG8yUGp4M3JKaUlfNTNLUVdUVC1CZXIycGE4TDZUckQ4NEdCdmlwMGw2ajV1dk8tclZPTmE1TzdveVlUaTJZZS1xNGlsZ2tiUkpPV3hROTQ3Z1RJUDYyUDlhWjYzOFk4cUhFb3k1TFZNMHRDV3ptS3BSbnJGSWhDeDRZelZlSnd4U3VuV0Y2RkR0TDhjSk1SM3hwM2J6c01hYXdsTk5aN082Q0twcmFEX3RfRUYxXzZnQnVwTjFGNG8xdERzcmE3NTh2N3R6a0Q0VjBrUzlKOHE1OVNxYlZsdFNNR2d5UjZ3N3REa1JoNnNua0xJVXdiMHotMFNCbVR0cjlpMDFhLTVtVjJ3M0ExYlMwdzBsOGZJbGxPQkNiY0ZMSHZ6Y1JqWWFUc2xBNGlHYktIRTV3Z2VLaURpTDE2YVNJVC04OFhhNGRfMzkwSG16T3VHd3d0M2ttakg3YlAzWnJTcVhqWDd3cjAwemdOd0J6QTJJRThnZUpmUU5EXzhoUTBnbkpISnRaeHlweTlhNHI5ZEhiSWQ5WmxiUmprLWxHMC1XXzlLTXhkZXlNUWV4S3JQNkZxUUp4WlNEdmxyaE5qOVhSOXk2NUd5MEtMR0gteHBlU01JYnU2SkJ1b1E4Slp6RnU3QTRLc0JjcDVsSEhBUVVkNWg5bTRQaE5kOWI0d19yYWZXZnV5Z1RhYXZ4UWtjcnB6S1VkS0xKLWNFZGtLS2RwXy1QcFlhSXJPLXItcW5HR2d4RlFUcTJoM2NDRTN5S0NtemdTSEVZZ29MR0FXdzc3M21od2Y0cnFJNjEybUVGUUVTTlFvZGdZNHpMTWlobW1uTVdCWTVVaGhTRnAxUVMyak1oUm1KSnNOQktKdTZ3UWdBS184bFdXM2JmdlY4eXhnLTNlY1ZZRHI2V2xjWllQQjZMQVdTZXJERWpMX2hyajVBMDhRa0VYZFVITVlsWllzOHJDOG93UkZfTUd3blc5SXFpU0tiUS1qTWlZNjRPV2lr?oc=5",
+   "published": "2026-10-20T01:01:15+00:00",
+   "id": "b9ee178751a1",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6334,18 +6346,6 @@
    "impact": 1,
    "cat": "taux",
    "raison": "Rebond obligataire et détente des rendements souverains favorisant mécaniquement les actifs sans rendement.",
-   "method": "IA"
-  },
-  {
-   "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
-   "source": "batonrougepost.com",
-   "theme": "Géopolitique",
-   "link": "http://www.batonrougepost.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
-   "published": "2026-10-19T06:30:00+00:00",
-   "id": "e358aaa19244",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Apaisement commercial et report de tarifs douaniers diminuant la prime de risque géopolitique.",
    "method": "IA"
   }
  ],
