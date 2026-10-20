@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "70cdc8da1d7b",
-  "e6ceeefed988",
-  "64d4c72ebf4a",
-  "d1bcc2e4e4b9",
   "5e7125f984d3",
   "5d859fb1830c",
   "04c3be95d955",
@@ -3945,9 +3941,25 @@
   "1d6ce33d90c7",
   "a339be79c109",
   "ad8e1f818f62",
-  "87b017b4f432"
+  "87b017b4f432",
+  "5f33abde65f7",
+  "9875b8b236ec",
+  "7bc7b958df3a",
+  "8dfcaa76f97b"
  ],
  "news": [
+  {
+   "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds",
+   "source": "Kitco",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOajZTbWtYRkNIRkVvR0RzWHlPRjA0dmhybmVTVndycXR5Q2txZXBVZFp3QzhLWVpBV25ldUlOUk9XR3A1d28td3NEekczRzZRQzIzZDUwUVNHSUUwUXZNS08tU2RaaFAzc2VTWkRIWVdwOGJQNWNZZl9DLUhLbXgxblVpb1p2LTFOY1g1cWpHWWlLQW9rTVV0enhrMXkxN0ZPTmpBd0I1UW8wT3d4Vkx6YWtLWmlWRHM?oc=5",
+   "published": "2026-10-20T14:34:34+00:00",
+   "id": "9875b8b236ec",
+   "impact": -1,
+   "cat": "or",
+   "raison": "Abaissement des prévisions de court terme de CIBC malgré un optimisme à long terme.",
+   "method": "IA"
+  },
   {
    "title": "Central Bank Buying Supports Gold’s Recovery Case Despite Higher Yields",
    "source": "Crux Investor",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Spectre d'une offensive conjointe contre l'Iran, fort achat de couverture refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor",
-   "source": "Tech Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3BxcEJTU3dqZjdtTlYzS1E2d3ktejZieXMzMGt3elpodjZydXlFS1c3SG1PY3FvYmFOa0kxbTFCUHJaYVV6QXdaQmVDUTlRbFk1SUplNXQ5WXU0OVlSQ0wzemJwMWRrRl9IQTh3MTNLamhTTGxwbWtCLTJZZ0t0NHR3aXhJYzE1R0FDRnlvNFVtcXVDTTRfSmNEaGdBNHdmd0VweGNCZ0RLcHJrTkVtSXNIUFgxaEY4MFJtWkcyajZfb2J0ODQwb3V0ci1FeHBV?oc=5",
-   "published": "2026-10-19T17:18:21+00:00",
-   "id": "e08fbe8b32d2",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frictions technologiques persistantes entre Taïwan et Pékin, léger soutien refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7211,7 +7211,8 @@
   "news|840876d2c36a": 1792503084.221425,
   "news|2180af3d6fe3": 1792505011.397911,
   "news|a339be79c109": 1792506692.472275,
-  "big|OIL|2026-10-20": 1792506694.0216494
+  "big|OIL|2026-10-20": 1792506694.0216494,
+  "brk|DXY|pwh|dn|2026-10-19/2026-10-25": 1792507597.9231052
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7346,6 +7347,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T14:46:37.923160+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 101.58 → prix : <b>101.57</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.47 | 60j -0.52"
+  },
   {
    "ts": "2026-10-20T14:31:34.021691+00:00",
    "kind": "big_move",
@@ -7640,11 +7646,6 @@
    "ts": "2026-10-19T16:01:42.257875+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Don’t let history repeat: The next Congress must end the Iran War</b>\n📰 The Hill · Lun 19/10 16:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFB2YUtUVVFVRGVvSjVJLURsemVBMWFpanJQXzVMcnNDNURYck96T2pIak1aRXBvTFhiUFZ1dXBrUFBXN0pHRUNDc0hkMk1XS19vRGJqNTNnTk5MbEszYkx2UXRjSVJYRTZSQ1UxaVdDOC1oc3l2VlppbE43MGTSAYIBQVVfeXFMT1ZRQ01mWkROQi1BQl9tcmoxSEppVmpxYWJnOW5Id09YWUJaOFZ5c195cF9JdEY2UW5JSThvbmtzWVhHQjBPdXZ6N25TbG5sUFQ0al81bjByWTZpU09WbFlKUW9TRFdHakc2bjhJaUhsSU9abnViWUJhc1hET3dUeTRxZw?oc=5"
-  },
-  {
-   "ts": "2026-10-19T14:31:30.195094+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-2.29 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
