@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "4e301a564768",
-  "2682b0d9e366",
-  "b69ed155bf95",
   "685a3d5cd6f1",
   "1a5a7ab97cce",
   "f3057ea432c5",
@@ -3945,7 +3942,10 @@
   "505dd46ce6bc",
   "b3f19a76c882",
   "c0eaf7e727ba",
-  "62bd378efb44"
+  "62bd378efb44",
+  "a8396c788980",
+  "cdc47b7bcaec",
+  "a083373af6e8"
  ],
  "news": [
   {
@@ -3985,6 +3985,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "New Jersey food importer files lawsuit challenging Trump's 50% tariffs on Canadian goods - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1cwQU1zMWVKVjU2UDZBVmFZVUtkRkVLSlQ2WkVlS3FEV3FQQzVvY2pkZ25TMUdkVjNTSzFaaDNSLV9fanJHRGprY2szMTZYZm1uMnpkSmFrYWpLbTZ0ODZHdm9iZnJFaDU4bzV4ZGttdGVkMHc4ZjJHSDRnMDVZXy1kV25LMEpETVU0b1NPLTU5dUdaSEMwbGRPR1RxT1p6VFHSAacBQVVfeXFMT0UxZm5mSEtVVEdPUFBGTXptYzE2SS12QnNEWERIZ2JuUFl4cU53WUwxaWZDUWp2cTM0SnMzc1pJZHlWYzBVM29OV0ZQMjNfWGpKYnc2ZDZVaFhiNVNiVGpoMFJmNER3TndrNEFIVVg3eXI5bENLcE9fSmZfVjlkTmxMMHhzQkEyRkctNFNPOXVPYlRJMzFFOTBubGkzdmt6X0pRY0FyMEk?oc=5",
+   "published": "2026-10-20T20:57:38+00:00",
+   "id": "cdc47b7bcaec",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Khanna says Trump will bomb Iran if Democrats win midterms: Sources",
    "source": "NewsNation",
    "theme": "Trump / Iran",
@@ -4006,6 +4018,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Middle East latest: Iran says supertanker 'exploded' near Strait of Hormuz",
+   "source": "The National",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkVpbk9qT29fT1A3MHN5dnlHc1RjaXJLRVhTVTBhOGNON3d1UGQ2amJNQVdWZ0U0RzYwTC1pVHRqZjFYZUZGSWU0cGJYTVVncnRoYjEzdG1fUmhyMWJHUE0zS3dPcmJMaDE0Z0c5ZzdSRVZLYVB3SzdfQ28ydWg4Yld3?oc=5",
+   "published": "2026-10-20T20:37:51+00:00",
+   "id": "a8396c788980",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6323,30 +6347,6 @@
    "cat": "dollar",
    "raison": "Repli du billet vert et anticipations de politique monétaire accommodante soutenant XAUUSD.",
    "method": "IA"
-  },
-  {
-   "title": "Witkoff heads to Oslo, plans Russia trip for peace talks",
-   "source": "Axios",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3ljbGJhLU9iTE5EMkJ2QlBWb0RDbWZuczExeC1xR1Yzb2pKblFqUjhNNEFlVjBnUFpTN2pQSVpJYlZNaktoc2tXbW9yRk9GNC1JVmdaQjRWU2JTSnZIUWRVLWNGRFdBYUZwUUxVM1VVMXVTTm1RNWs5Sjc2QXhhUno4dVk?oc=5",
-   "published": "2026-10-20T02:42:01+00:00",
-   "id": "e508e47b0b50",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Pourparlers de paix potentiels réduisant la prime de risque géopolitique sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Marco Rubio India visit : Trade deal , Russian oil tariffs , West Asia on agenda",
-   "source": "moneycontrol.com",
-   "theme": "Géopolitique",
-   "link": "https://www.moneycontrol.com/news/india/trade-h-1b-visas-what-s-on-agenda-for-marco-rubio-s-india-visit-14055764.html",
-   "published": "2026-10-20T02:15:00+00:00",
-   "id": "ae519f9a5189",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Discussions sur les sanctions et tarifs maintenant une légère incertitude géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7230,7 +7230,8 @@
   "news|1b1ff3cf26f6": 1792525616.238265,
   "rep|recap|2026-10-20": 1792526495.5509017,
   "news|e87c2828c150": 1792528289.1885684,
-  "news|388a62d86ece": 1792530969.9916961
+  "news|388a62d86ece": 1792530969.9916961,
+  "news|a8396c788980": 1792532790.4634871
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7365,6 +7366,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T21:46:30.463548+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East latest: Iran says supertanker 'exploded' near Strait of Hormuz</b>\n📰 The National · Mar 20/10 22:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkVpbk9qT29fT1A3MHN5dnlHc1RjaXJLRVhTVTBhOGNON3d1UGQ2amJNQVdWZ0U0RzYwTC1pVHRqZjFYZUZGSWU0cGJYTVVncnRoYjEzdG1fUmhyMWJHUE0zS3dPcmJMaDE0Z0c5ZzdSRVZLYVB3SzdfQ28ydWg4Yld3?oc=5"
+  },
   {
    "ts": "2026-10-20T21:16:09.991803+00:00",
    "kind": "news",
@@ -7659,11 +7665,6 @@
    "ts": "2026-10-19T22:46:07.098883+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war latest: Rubio claims Tehran now exporting no oil through Hormuz</b>\n📰 The National · Lun 19/10 17:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUJCeUxWSldqNFZJOG9qLUNobS1ncGVZenVKZmNXcV9yZW5NMlRhcVlhbWM1NW9rWUVpV0RyM0l3Ujd2aXZaRV9mcTJuaFFLc21pb2hYZ25fU3dNTVNERmM0eVd0cXVwRVFwbk1pdGxWTFE3S2F6WWdFM1JxVENrdDV3?oc=5"
-  },
-  {
-   "ts": "2026-10-19T21:46:24.892393+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran urges U . S . to accept Hormuz reopening proposal | Hellenic Shipping News Worldwide</b>\n📰 hellenicshippingnews.com · Lun 19/10 23:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.hellenicshippingnews.com/iran-urges-u-s-to-accept-hormuz-reopening-proposal/"
   }
  ],
  "daily_forecast": {
