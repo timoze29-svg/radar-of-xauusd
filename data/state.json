@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "95555c480f94",
-  "996da829a7bf",
-  "31e465daf5c4",
   "50de5f9bd716",
   "e49a4e03965e",
   "dd3c788f7d12",
@@ -3945,7 +3942,10 @@
   "38ecbbc981ad",
   "3b16210defde",
   "9b7f6987e081",
-  "05c2fe11998b"
+  "05c2fe11998b",
+  "b431eeda7171",
+  "c2db52100e9f",
+  "fadcfb2fa2c8"
  ],
  "news": [
   {
@@ -4739,6 +4739,18 @@
    "cat": "géopolitique",
    "raison": "Risque d'escalade militaire majeure au Moyen-Orient renforçant la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+   "published": "2026-10-19T19:27:00+00:00",
+   "id": "c2db52100e9f",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
+   "method": "mots-clés"
   },
   {
    "title": "Mojtaba's retaliation fears rattle Trump? US urges Americans in Middle East to stay alert | Iran War | Hindustan Times",
@@ -6335,18 +6347,6 @@
    "cat": "inflation",
    "raison": "Pressions sur les coûts liées au conflit iranien, alimentant les craintes de stagflation.",
    "method": "IA"
-  },
-  {
-   "title": "The battle for the Arctic where the cold war is hotting up",
-   "source": "thetimes.com",
-   "theme": "Géopolitique",
-   "link": "https://www.thetimes.com/culture/books/article/sea-change-new-great-game-arctic-circle-rana-foroohar-review-plcfbsrr2",
-   "published": "2026-10-19T06:30:00+00:00",
-   "id": "4a92350c58a8",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions stratégiques accrues en Arctique, renforçant discrètement l'intérêt pour les valeurs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7192,7 +7192,8 @@
   "news|f1b22d1ca2da": 1792470735.0738797,
   "news|ba17fdf5169c": 1792470736.0607235,
   "rep|daily|2026-10-20": 1792472565.298812,
-  "news|9b7f6987e081": 1792473360.7606359
+  "news|9b7f6987e081": 1792473360.7606359,
+  "brk|GOLD|pdh|dn|2026-10-20": 1792474279.61661
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7327,6 +7328,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T05:31:19.616655+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 155.60 → prix : <b>4 154.30</b>\nATR jour : 71.8$ | Pivot hebdo : 4172.8\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 681 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
   {
    "ts": "2026-10-20T05:16:00.760691+00:00",
    "kind": "news",
@@ -7621,11 +7627,6 @@
    "ts": "2026-10-19T02:46:04.082036+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump’s order waiving new sanctions and tariffs on Russia signed in blood</b>\n📰 Daily Kos · Lun 19/10 04:29\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSWN6UzIwNUpJUUF2d1Nla2VndjRWZXFKeFdaVjlUZ3lFXy1aY0laNUFGNE8wN0Q5aTFGRzEwcUZ5ejFIWHFfaDl1Nkpob1g5N1IxeFU0NUZRd1Y5U2NIN3Nqb3I3cVdqN2F4cEJRaUxtT3JaQ2RiODJrTFNMRjZaQ183eUFuaGpfTzhPSURUcjdnZDR0b2lIaGVZV0dIRk1CbTE2RV9rdTZ4MkFjLWRIZzlLeXFCRVNMODNYMWRwZU0zTGcwTzZkWXY4Q1RPb2w0Vk1v?oc=5"
-  },
-  {
-   "ts": "2026-10-19T02:31:26.624021+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu tells Americans : Iran access to nuclear arms worse than rising gas prices</b>\n📰 middleeasteye.net · Lun 19/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-americans-irans-access-nuclear-arms-worse-rising-gas"
   }
  ],
  "daily_forecast": {
