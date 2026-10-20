@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792510257.9069676,
+   "ts": 1792531865.988804,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.74,
-     "date": "2026-10-16",
-     "chg5": -0.13,
-     "chg20": 0.13,
+     "last": 2.8,
+     "date": "2026-10-19",
+     "chg5": -0.11,
+     "chg20": 0.12,
      "hist": [
-      1.91,
       1.92,
       1.96,
       1.94,
@@ -129,18 +128,18 @@
       2.88,
       2.84,
       2.78,
-      2.74
+      2.74,
+      2.8
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
      "last": 2.35,
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "chg5": 0.02,
-     "chg20": 0.02,
+     "chg20": 0.01,
      "hist": [
-      2.44,
       2.46,
       2.46,
       2.48,
@@ -259,18 +258,18 @@
       2.35,
       2.32,
       2.35,
+      2.35,
       2.35
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.74,
-     "date": "2026-10-16",
-     "chg5": -0.01,
-     "chg20": 0.07,
+     "last": 4.77,
+     "date": "2026-10-19",
+     "chg5": -0.03,
+     "chg20": 0.01,
      "hist": [
-      3.78,
       3.84,
       3.92,
       3.88,
@@ -389,14 +388,15 @@
       4.79,
       4.82,
       4.77,
-      4.74
+      4.74,
+      4.77
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-16",
+     "date": "2026-10-19",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -416,9 +416,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
-      3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -490,6 +487,9 @@
       3.63,
       3.63,
       3.63,
+      3.88,
+      3.88,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792527360.8520446,
+   "ts": 1792531866.0783262,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "bb2cd6e0d37b",
-  "3ee9aafb38d7",
-  "7b656d542812",
-  "91f0096d95cb",
-  "8d5859e5e0fc",
   "4e301a564768",
   "2682b0d9e366",
   "b69ed155bf95",
@@ -3945,9 +3940,38 @@
   "1a10273a83df",
   "a11cae4ef861",
   "89ff18933552",
-  "5b5de888348b"
+  "5b5de888348b",
+  "9ef2be827f83",
+  "505dd46ce6bc",
+  "b3f19a76c882",
+  "c0eaf7e727ba",
+  "62bd378efb44"
  ],
  "news": [
+  {
+   "title": "Trump’s 50% Canada tariffs challenged in court",
+   "source": "Supply Chain Dive",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUQ5LUl2dDRtYldkMjZyc2xJS0swUEJpS29kZ3RvUVBZQWNxWkhKeGYzYm9NemxiRzdycklfUExFelZZb1VrZnVEaXhvMGo3YWZOcThNUVcyUlpzeV9WeGREdTdRd0swNFJfcUFQTWJobmpHbm54VURSSzJpTXl1NF9nRzg3QzZwVXN1WG9kWTdWM0k?oc=5",
+   "published": "2026-10-20T21:28:20+00:00",
+   "id": "b3f19a76c882",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+   "source": "Al Jazeera",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2xqYzZQTE9jc2NOdjRqMmVxTDFUNmhaWFdoLWtFcE8wd0RwbHI1X2xoVW9YUzM2cjBPMTRGVlJqNE1QMlVKUEt5RnNjLU9LUXZzQmROUzJIOW4wcUoyWHk4LUpkNzFYblVpRkJETWlQQllmN2JHRUdxSURuRHhrUDdPTTFBMUM2bkpiRktaSTZvTE5ESkRlb0NYcmpkUzlyRlIyMnNJdkpHaGFOUDRCc2laemLSAboBQVVfeXFMT1VKMXhyck1RS2NsSGd4LTRyb3dFY1pFR0s5cGlWa1hURHNEd1hLRldPVFdlZ1lXQlBaZURGNlJnS2txc3VfbGZsRkF4c3FBUWpBV2FpbFdUOE16MHpHUkZSQkl1dXFxSmphTm5oTDdDVUktYnJpX1k2SnZWMjItRUVSX21fOEg5S0RZSDJNZEd4VkU2MFlBMzZtdE1ZVWJ3a2FYblljZXNGYnBhQXpqMlk2bXNfcGd3akJR?oc=5",
+   "published": "2026-10-20T21:22:30+00:00",
+   "id": "505dd46ce6bc",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Food Importer Sues Trump for Using 'Relic' to Impose Canada Tariffs",
    "source": "Law.com",
@@ -6322,30 +6346,6 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "Discussions sur les sanctions et tarifs maintenant une légère incertitude géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Former New York Fed researcher pivots to gold: The Federal Reserve may ultimately be forced to restart bond purchases",
-   "source": "富途牛牛",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1dCR1N5aHpaRkFBdnNfQThpMDlhdERTR2hrd3dtY1M5Q2pNUW9HZ2w0SWxMVV9BR2JfZ2RfRE16d21RZW9rUW1FYi0xb01JNkdmZnQ1akRLMGc1RWFsWGktSXJZeFMtQXI5NWt1cWJ5ZjBQendMYUc2OHZLVTFLclV5WGN3YTZLaFdoZkg1RGVweHFhdGc5VHJYX3hZU2tMSWc?oc=5",
-   "published": "2026-10-20T01:53:08+00:00",
-   "id": "457201e92aef",
-   "impact": 2,
-   "cat": "fed",
-   "raison": "La perspective d'un retour au QE de la Fed implique une dépréciation monétaire haussière.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5",
-   "published": "2026-10-20T01:51:00+00:00",
-   "id": "863fae965660",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitudes sur l'aide militaire américaine maintenant une légère prime de risque.",
    "method": "IA"
   }
  ],
