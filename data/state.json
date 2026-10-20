@@ -946,17 +946,6 @@
   }
  },
  "seen_news": [
-  "24f034fd6ff1",
-  "94b9495350ee",
-  "d59a8cce7958",
-  "0deac2dc086c",
-  "ea071958a6e0",
-  "be651f62c119",
-  "a80edbb03e6c",
-  "8ad922bf8322",
-  "3e33cc1648c2",
-  "ffc7fe1c2d31",
-  "0114a0aa67ef",
   "f390df486fa6",
   "5c4de7275efd",
   "52d30e9331e8",
@@ -3945,9 +3934,44 @@
   "7e30d6bd69cc",
   "e8e1116db40a",
   "12947956742b",
-  "7d65dd6bb0da"
+  "7d65dd6bb0da",
+  "82eebb67c03e",
+  "5924abb6f78f",
+  "27ba9e0ed0ca",
+  "4468cd37e191",
+  "a585304d492e",
+  "2e1c5edd700e",
+  "60606c78c2c5",
+  "e3495851e7f7",
+  "7875fc40c5c1",
+  "c1b2c5161476",
+  "294776b1ddc7"
  ],
  "news": [
+  {
+   "title": "Pakistan Asim Munir visits Tehran as Iran warns of possible return to war with US",
+   "source": "moneycontrol.com",
+   "theme": "Géopolitique",
+   "link": "https://www.moneycontrol.com/world/pakistan-s-asim-munir-visits-tehran-as-iran-warns-of-possible-return-to-war-with-us-article-14055998.html",
+   "published": "2026-10-20T11:15:00+00:00",
+   "id": "7875fc40c5c1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+   "source": "NPR",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0VYeGR0NHVTUzc3TVpTTmxVNFo1QmE5bXZpWmNOWWFVZ2JoMS1lMDVmTFlVbkN0QWZLVEQzY2xURm4tT3QzVFFuc2VwNjFlc1E1bmMxdTA5SDRKUXZhLXlwRjdFXzBYZW9fR1V4Y0stazdlcXlDUkx5dmFYMW4za3lLOGEyUG9nRVpac3dlcVA5TTdBcm50MEg5YXJ3azlTaHdjVzVMRWZrZW5QM0Qzbm43aG45ekZGUUtVS1BaUDk4YWI1QzM4?oc=5",
+   "published": "2026-10-20T11:03:52+00:00",
+   "id": "4468cd37e191",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump explodes at Ukraine over war as Zelenskyy crunches US meeting | World | News",
    "source": "express.co.uk",
@@ -6323,30 +6347,6 @@
    "cat": "commerce",
    "raison": "Baisse du pétrole et détente géopolitique réduisant l'inflation anticipée et la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Brent crude falls as Trump waives some Russia sanctions and tariffs",
-   "source": "Quartz",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzVvUnlPN3RDSGJ2N2wyLXJ0VExXX2g4WE5iU2xrb3dhZTJ0QjdBeURWUHQ0RE1mUmF5U1Y0bjZPM3k2ZTdJQ2ZCNVB6UnowdjBKbk96TEFYbEhmN3kyWU04eFdpOW5qV1BjU1V5SDZER2FUNUo2T0xoandWOGhfZ2d2Yw?oc=5",
-   "published": "2026-10-19T12:04:20+00:00",
-   "id": "2f34a945da2b",
-   "impact": -2,
-   "cat": "inflation",
-   "raison": "Baisse du pétrole et allègement des sanctions atténuant les craintes inflationnistes.",
-   "method": "IA"
-  },
-  {
-   "title": "Middle East shipping faces rising threats as vessels continue Hormuz transits",
-   "source": "safety4sea",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlZNWm5ZX2IxSUZLeUZpN1Nqcnd4VmxTWTVKa2RzcGNkWnNoeGRvbl85OXAwNUtOeHRUeU11dWFjOTRhcU5JblBCVkw5aEdlVkNDZHNpNms3WFBxYjJpWER1VGlLYzBmQmhWbmg4dEV2SmhSektKd3FuUVVlQWY3UFBXOXFUbEJIWEVoS1BpeW5LTW5td0taMzludmpFY3R1dlVr?oc=5",
-   "published": "2026-10-19T12:01:39+00:00",
-   "id": "6318e3453ba9",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Menaces maritimes dans le détroit d'Ormuz alimentant le risque géopolitique et énergétique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7199,7 +7199,9 @@
   "news|743babb75479": 1792476960.1253064,
   "news|e4ad7d73441f": 1792485981.7093935,
   "news|24d8d02a5785": 1792492303.7732046,
-  "news|614935c34c0c": 1792495887.6116498
+  "news|614935c34c0c": 1792495887.6116498,
+  "news|7875fc40c5c1": 1792496766.6320336,
+  "news|4468cd37e191": 1792496767.4892943
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7334,6 +7336,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T11:46:07.489524+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine</b>\n📰 NPR · Mar 20/10 13:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0VYeGR0NHVTUzc3TVpTTmxVNFo1QmE5bXZpWmNOWWFVZ2JoMS1lMDVmTFlVbkN0QWZLVEQzY2xURm4tT3QzVFFuc2VwNjFlc1E1bmMxdTA5SDRKUXZhLXlwRjdFXzBYZW9fR1V4Y0stazdlcXlDUkx5dmFYMW4za3lLOGEyUG9nRVpac3dlcVA5TTdBcm50MEg5YXJ3azlTaHdjVzVMRWZrZW5QM0Qzbm43aG45ekZGUUtVS1BaUDk4YWI1QzM4?oc=5"
+  },
+  {
+   "ts": "2026-10-20T11:46:06.632097+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pakistan Asim Munir visits Tehran as Iran warns of possible return to war with US</b>\n📰 moneycontrol.com · Mar 20/10 13:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.moneycontrol.com/world/pakistan-s-asim-munir-visits-tehran-as-iran-warns-of-possible-return-to-war-with-us-article-14055998.html"
+  },
   {
    "ts": "2026-10-20T11:31:27.611709+00:00",
    "kind": "news",
@@ -7623,16 +7635,6 @@
    "ts": "2026-10-19T11:46:07.071616+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Under Trump, deficits remain high while borrowing costs escalate</b>\n📰 Reuters · Lun 19/10 13:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFl3MEhWalEwWWhFWFNWRXdHb3hVeUpWTzN1TVBEZi1JU0JMMjNSa1pxWEhBQWk5UTB3RE1tZUlkSDl0aXNCTzF6ZUZHd0JCZGhNTTJ3a3N1MnZQM3pSOHlSajJDNlZPWXBabGVjdERmcEozNXlsOFdrQUlBYWxLV2U2ZV95MXVmbEdEbE1HZUFxVkNQUTZ3eUdfMW8zMXRQalhSbTFCRnVfRFFRdHBoT0dKVFhxWDg?oc=5"
-  },
-  {
-   "ts": "2026-10-19T11:31:23.008862+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship</b>\n📰 Time Magazine · Lun 19/10 12:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGpOOWxtVmkyYUM5V1dyMjdBQjlUbzhWcWJUNXJNOFZmTkRRUE80ODNpZFdfVWhadGd0dmpoTEtlbk5oNjB1VWdMRlhzOHNBckV0dm9wcDJpSTBWZ2R5WERqQ2s0R2RkUENncGQ2MHJVaFZuWEUybDR5ZUg5UGY0YXVYaldfUDQ?oc=5"
-  },
-  {
-   "ts": "2026-10-19T10:31:24.931007+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Iran War has sent gas and oil prices higher. That could spell economic disaster in the midterms.</b>\n📰 Business Insider · Lun 19/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPcThTSklPLUcwNHR0VTRuYVpNeHAxSWUtWlloYTd6ZVYyTFJaS1JmS1gxM1lzTFBxM3pNdzlJV1NpUWJPbTRlMnFZN1dVSzlRQThPZG5ncVh2bEgwSEc5ZlJTQzlNUFFhRFR3bktNeC1sMHJTRHpIQmsxUWxubW5BR0hOWEVDMXhrb041dmo2eHBuMld2V1UwVg?oc=5"
   }
  ],
  "daily_forecast": {
