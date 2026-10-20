@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "89622a4ae619",
-  "865a0acebbbd",
   "4389525e82bb",
   "484d1c94915b",
   "a673637f5bfc",
@@ -3945,7 +3943,9 @@
   "640daa7d2dc0",
   "187303b3d777",
   "885fda4f1438",
-  "b6b7564d2046"
+  "b6b7564d2046",
+  "459b35606131",
+  "32d39de54f8a"
  ],
  "news": [
   {
@@ -4187,6 +4187,18 @@
    "cat": "géopolitique",
    "raison": "Pause sur les sanctions réduisant temporairement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlltZXNrOFIwbDB6UEdhZzlvSHIzVVNCLVpyR1JLVUp6R0VxX0cxRnVlNjNJOVF4bXEzQUxoX1Roc2tNN2ktS2dra2ZnWDVudDhUQlI5OTFYbDFCUlR0VFZneThrX2xuRHNOUUkyU19hUGRXLXhBOUJLTjJJMkdENG8wOFJRRVdXRHIzWFRaU3FhNTdDX0lnRjRPMmlUcFd4cHJyRHpNNEt0WWNwTXfSAbMBQVVfeXFMTmJNWXJqT25sckkwcWN2Zk0wZUNXMVpubWJTRnZ2Wm5hcjZ5QXE4eXlLNlJ3UEIxaE1wXzJpRnRrYmRhbmo5d2lXeDN6NDdnd2ZfTmdHY1NaM0VtNk5UZjAyeF9oY0FkU0VnTTZ2UV9VWEE1ZTRNcWU4ZkVNTTljcE0tQTRuUktPZU95YWVtNmRMQmRBc1p0cHdFeTA0TXVtR2FJX2l3TGVieDk0YU5RVmxEbTQ?oc=5",
+   "published": "2026-10-19T22:02:58+00:00",
+   "id": "32d39de54f8a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Marco Rubio to commence three - day visit to India ; trade deal , talks with Jaishankar on agenda",
@@ -6335,18 +6347,6 @@
    "cat": "inflation",
    "raison": "Baisse du pétrole allégeant les craintes d'inflation et la pression sur les rendements obligataires.",
    "method": "IA"
-  },
-  {
-   "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5",
-   "published": "2026-10-19T02:52:00+00:00",
-   "id": "9692e0cc7389",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "Espoirs concrets d'accord de paix tripartite réduisant fortement la prime de risque mondiale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7180,7 +7180,8 @@
   "news|7018b597d36c": 1792446384.8921993,
   "news|eea95c572ea0": 1792449967.0988286,
   "news|40703492d371": 1792449968.2081268,
-  "news|a1ea113eb216": 1792452726.718459
+  "news|a1ea113eb216": 1792452726.718459,
+  "news|32d39de54f8a": 1792455367.1874392
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7299,6 +7300,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T00:16:07.187508+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism</b>\n📰 Fox News · Mar 20/10 00:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlltZXNrOFIwbDB6UEdhZzlvSHIzVVNCLVpyR1JLVUp6R0VxX0cxRnVlNjNJOVF4bXEzQUxoX1Roc2tNN2ktS2dra2ZnWDVudDhUQlI5OTFYbDFCUlR0VFZneThrX2xuRHNOUUkyU19hUGRXLXhBOUJLTjJJMkdENG8wOFJRRVdXRHIzWFRaU3FhNTdDX0lnRjRPMmlUcFd4cHJyRHpNNEt0WWNwTXfSAbMBQVVfeXFMTmJNWXJqT25sckkwcWN2Zk0wZUNXMVpubWJTRnZ2Wm5hcjZ5QXE4eXlLNlJ3UEIxaE1wXzJpRnRrYmRhbmo5d2lXeDN6NDdnd2ZfTmdHY1NaM0VtNk5UZjAyeF9oY0FkU0VnTTZ2UV9VWEE1ZTRNcWU4ZkVNTTljcE0tQTRuUktPZU95YWVtNmRMQmRBc1p0cHdFeTA0TXVtR2FJX2l3TGVieDk0YU5RVmxEbTQ?oc=5"
+  },
   {
    "ts": "2026-10-19T23:32:06.718514+00:00",
    "kind": "news",
@@ -7593,11 +7599,6 @@
    "ts": "2026-10-19T00:01:40.864442+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hossein Mohebi Warns Iran Will Hit Israel After Energy Infrastructure Attacks: how 6 outlets framed it</b>\n📰 NewsCord · Lun 19/10 01:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb1pUOE5mNFAzRjQ4NmRhTU40bUtja1pfS205RkdIeFJHQ1prM0ZKZVNOVE9BRE9iRVQwbkRWb2o4emNaSVFEQnZfSzZfZVF1c2dZMDN2N3lUZmhsaEN2UjJORlAteVo1Ymhpbm5YMVZlb3NucmI5b0d0SmdrVnRMbFRBYkZyX2FET1VUYTdsNHlsdVY2RE9XZFpRUHlsdzNXb040UndhN1B3SDRXMEZZaG02VXoxRGNaSWpFMmtYczZ3UlZ0c3c2X1RzZ21XbGtCWFlIWkhCYTd0Z3ZCUjJvSUZSQ1VBZlBvYWc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T23:46:05.332455+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration's objectives in Iran war have been met, Rep. Anna Paulina Luna says</b>\n📰 Fox News · Lun 19/10 01:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSVHVjanQyV1N4cGNvQmtJWFB4NThTN1lZck9Nby00U2hYa1AtWjVray1CZkdzSVhNM3JQb1pXLThXam9qOEZKNHZyN211N2V1UWdFTDBR?oc=5"
   }
  ],
  "daily_forecast": {
