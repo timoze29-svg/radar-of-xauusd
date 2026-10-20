@@ -749,19 +749,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792441897.259978,
+   "ts": 1792514891.1932216,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        14.8
+        15.5
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
@@ -771,59 +771,59 @@
       "low": [
        [
         0,
-        18.3
+        18.1
        ],
        [
         16,
-        10.4
+        10.3
        ],
        [
         2,
-        9.6
+        9.5
        ]
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
-       ],
-       [
-        15,
-        9.8
+        12.2
        ],
        [
         2,
         9.8
+       ],
+       [
+        14,
+        8.9
        ]
       ],
       "low": [
        [
         16,
-        11.5
+        11.4
        ],
        [
         0,
-        11.5
+        11.4
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 119,
+      "n": 120,
       "high": [
        [
         2,
-        11.8
+        11.7
        ],
        [
         16,
-        11.8
+        11.7
        ],
        [
         17,
@@ -833,15 +833,15 @@
       "low": [
        [
         0,
-        13.4
+        13.3
        ],
        [
         14,
-        8.4
+        8.3
        ],
        [
         3,
-        7.6
+        7.5
        ]
       ]
      },
@@ -884,12 +884,12 @@
         14.4
        ],
        [
-        0,
+        17,
         11.0
        ],
        [
-        17,
-        11.0
+        0,
+        10.2
        ]
       ],
       "low": [
@@ -898,46 +898,46 @@
         11.9
        ],
        [
-        15,
-        8.5
+        2,
+        7.6
        ],
        [
-        2,
+        15,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5945,
+     "n_hours": 5965,
      "horizon_h": 2,
-     "base_gold_up": 53.7,
+     "base_gold_up": 53.5,
      "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 242,
-       "p_dxy": 52.5,
-       "p_gold": 55.8,
-       "gold_avg": 1.3
+       "n": 245,
+       "p_dxy": 52.2,
+       "p_gold": 55.9,
+       "gold_avg": 1.4
       },
       "4": {
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.6
+       "gold_avg": 0.5
       }
      },
      "up": {
       "3": {
-       "n": 267,
-       "p_dxy": 55.8,
-       "p_gold": 49.1,
+       "n": 268,
+       "p_dxy": 56.0,
+       "p_gold": 49.3,
        "gold_avg": -0.8
       },
       "4": {
-       "n": 75,
-       "p_dxy": 58.7,
-       "p_gold": 52.0,
+       "n": 76,
+       "p_dxy": 59.2,
+       "p_gold": 52.6,
        "gold_avg": -0.3
       }
      }
@@ -946,14 +946,6 @@
   }
  },
  "seen_news": [
-  "ee0a86f21f34",
-  "e9fafb2c5c78",
-  "0ca080f93fe0",
-  "1f01bce369cb",
-  "b66bd42310cc",
-  "30b1565ac551",
-  "7c7f1b3a64c8",
-  "16b81ca31cfe",
   "6c019647c825",
   "672b5b69b210",
   "600ff8bccc2b",
@@ -3945,7 +3937,15 @@
   "9ab7b21e8e13",
   "2a0becd93ac1",
   "18d86936cc09",
-  "b2f0998ee172"
+  "b2f0998ee172",
+  "31d2588baa29",
+  "be7c1fd4a8f6",
+  "b40dd06f74cd",
+  "5c41c5e39545",
+  "30d1172b1032",
+  "fcc93c7ae942",
+  "72023a207a55",
+  "dcde54c70be2"
  ],
  "news": [
   {
@@ -3985,6 +3985,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "USS Theodore Roosevelt heads to Middle East amid Iran tensions",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82OEgxQkU4bi1tNEVtZTczSFA5NDhucHhBWGVDdVF3eUdudWdIQmhBUHAtNGp2a2tDTDRGTmUwRE85eHQ3bUFSdldvemlOdHFKdk9KXzJrbkNCR0Jx?oc=5",
+   "published": "2026-10-20T15:50:33+00:00",
+   "id": "5c41c5e39545",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Tensions USA-Iran accrues renforçant modérément la demande d'or comme valeur refuge.",
+   "method": "IA"
+  },
+  {
    "title": "Small Businesses File New Lawsuit to Block Trump's Canada Tariffs - U.S. News",
    "source": "Money",
    "theme": "Tarifs",
@@ -3995,6 +4007,18 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Donald Trump nearly approved Iran strikes, Benjamin Netanyahu vows to eliminate regime",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbWNyM2J5NllpSThlWmtmSUVzTzllS3RfdkhhWDZIbUxEdEV0cHRsc1hCNGowWE1hbkw5ejZVQWwwOGVNcmZQcmJjaUFabEV5dlFQODNidG5KX0pROGdIVGhkaHRYbFFrUnc?oc=5",
+   "published": "2026-10-20T15:43:23+00:00",
+   "id": "31d2588baa29",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Risque accru de frappes et d'escalade régionale stimulant les achats de couverture géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal",
@@ -4057,6 +4081,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "US envoy says ground intervention in Yemen ‘appears pointless,’ urges regional alliances",
+   "source": "Middle East Monitor",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeFZ5ak1BczM5Ykd3SWpFUy1ISnMzOXNBUTU5MHJzQmpKQXNMLVRsOXdrU0ZySTJwRGZQNXVWaGJIbExUV2RVQ0QycGZRQVZlNExZNFdwSzZZU25nZVR5eHRRNllaNHlsNmJPclhJaVozRjdBQllSb1Z0NUlhSHBRUE5HNV85ZFYzRmFGaEtFME50NzlwWUNTSlhqZ3BFcG1mc2w1RzlsZDFmdHgzSmZfSjZRTXdyMGVBaF91cWd3dVoyTC1YYW0zdUpZZjhPUdIBzgFBVV95cUxQeFZ5ak1BczM5Ykd3SWpFUy1ISnMzOXNBUTU5MHJzQmpKQXNMLVRsOXdrU0ZySTJwRGZQNXVWaGJIbExUV2RVQ0QycGZRQVZlNExZNFdwSzZZU25nZVR5eHRRNllaNHlsNmJPclhJaVozRjdBQllSb1Z0NUlhSHBRUE5HNV85ZFYzRmFGaEtFME50NzlwWUNTSlhqZ3BFcG1mc2w1RzlsZDFmdHgzSmZfSjZRTXdyMGVBaF91cWd3dVoyTC1YYW0zdUpZZjhPUQ?oc=5",
+   "published": "2026-10-20T15:20:00+00:00",
+   "id": "b40dd06f74cd",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Rejet d'une intervention terrestre américaine limitant le risque d'escalade militaire majeure.",
+   "method": "IA"
+  },
+  {
    "title": "Trump Tariffs on Canada Spark Latest Lawsuit Over Trade Powers",
    "source": "The New York Times",
    "theme": "Tarifs",
@@ -4091,6 +4127,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Rates Hit Multi-Decade Highs. Will Growth and Earnings Keep the Rally Going?",
+   "source": "ETF Database",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Nd1hKZkszN3hjeFFSNzRWZkoxcXJQeS1Gc3E4MG1ZVE1XWThoS1N1dW5FZFJnN2wyX2RXRndBWXVDbDhFTWtTOFpiWXFhWTlidDhaRHVST3BBSllseXpPaHc4SFEtM29xcVNteUJFQnk4UHZxOE5aSnViLW8wdw?oc=5",
+   "published": "2026-10-20T14:55:01+00:00",
+   "id": "30d1172b1032",
+   "impact": -3,
+   "cat": "taux",
+   "raison": "Taux obligataires élevés augmentant fortement le coût d'opportunité de l'or non rémunéré.",
+   "method": "IA"
   },
   {
    "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds",
@@ -6298,54 +6346,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Menaces accrues de confrontation directe USA-Iran renforçant la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "US Issues Saudi Arabia Security Alert as Missile Threats Disrupt Airports",
-   "source": "rustourismnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.rustourismnews.com/2026/10/19/us-issues-saudi-arabia-security-alert-as-missile-threats-disrupt-airports/",
-   "published": "2026-10-19T20:00:00+00:00",
-   "id": "1db79feddd69",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Menaces de missiles en Arabie Saoudite réactivant les craintes d'instabilité régionale.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump signs executive order waiving Russia sanctions",
-   "source": "wwno.org",
-   "theme": "Géopolitique",
-   "link": "https://www.wwno.org/npr-news/2026-10-19/trump-signs-executive-order-waiving-russia-sanctions",
-   "published": "2026-10-19T20:00:00+00:00",
-   "id": "05b0b75d03f9",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Levée de sanctions russes réduisant les tensions géopolitiques et la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Donald Trump, Benjamin Netanyahu warn Iran as fears of renewed war grow",
-   "source": "The Jerusalem Post",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CV0dNTVVnNUZlMmlncmF4amlNa19Qc0J4cHpQd2lSXy04aVJ1VFNsdWZqbkU5bnBVdzJTTGg2eE1ndVhjREp4by0tM29PbkVIM3YxTlEyY1FLM3ct?oc=5",
-   "published": "2026-10-19T19:52:21+00:00",
-   "id": "f5278b1808c2",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque d'escalade militaire avec l'Iran stimulant la demande pour la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Japan-US drills place advanced missile launchers on front line with China",
-   "source": "Nikkei Asia",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSG5PN3VfVWRyZktzZlU3Z3RWSFQwT3IzUWhOblFHRUdia3pPWFRUMXZWTVBYeUlSZDJlU3lOemQ0aG11N09HLVVQNl9OR3h6TDFYQzdaRzdUQXNkMEhZdk84akR2WC1zcTA5YVNZVzY3aS13UFZrM1Vtc3ZNWWZpUTh3S0lzbGhFc2xHSS1zbUNCaU1xM0UzZWx2WW9mdUd1SVp5dXVyZGNGZmczeXI4WHJ3V0k?oc=5",
-   "published": "2026-10-19T19:51:00+00:00",
-   "id": "d9fe0e639f0e",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frictions militaires sino-américaines persistantes maintenant un léger soutien refuge.",
    "method": "IA"
   }
  ],
