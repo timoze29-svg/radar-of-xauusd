@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "6ea7968f8ae6",
-  "1e72f3e3061e",
-  "308212045455",
-  "bfb50b358036",
-  "d9b0e85a7d91",
   "95555c480f94",
   "996da829a7bf",
   "31e465daf5c4",
@@ -3945,21 +3940,14 @@
   "10b2523ad424",
   "d23bc5275d1d",
   "8054ffc099dc",
-  "c23d4b60d82b"
+  "c23d4b60d82b",
+  "73fc2a18b94d",
+  "38ecbbc981ad",
+  "3b16210defde",
+  "9b7f6987e081",
+  "05c2fe11998b"
  ],
  "news": [
-  {
-   "title": "Gold price in India: Rates on October 20",
-   "source": "FXStreet",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWVfdHUtQXRxNVJqWlo3djVhZmhJTjcxN1Eyell4Tmh0M3h6SndzdzhjQXM1eEJpWjQ0ZzFicndzX2FwMjRwZWVfRlY1X1MzWllEWE1EV2NTR1NJbTRic0VHcEpPajRINGxDTXRqb0lkNGtIbkd1SUZBNXhJWEFjNDkwSkkxOHhGTlNfUlplMGJDUDhSLUp1eUVKWk1nTnhTekZIZHkzb2hIZw?oc=5",
-   "published": "2026-10-20T04:35:27+00:00",
-   "id": "a63fb2a38552",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Russia-Ukraine war news: Chicago protest held to urge continued US support for Ukrainians amid escalating Russian strikes",
    "source": "ABC7 Chicago",
@@ -4343,6 +4331,18 @@
    "cat": "autre",
    "raison": "Une croissance chinoise robuste soutient la demande physique de métaux précieux.",
    "method": "IA"
+  },
+  {
+   "title": "Report: Hegseth secretly visits Israel, meets Netanyahu amid talk of renewed strikes on Iran",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1b0hfZ1FXbE96MnBCWTFCQkhyZHBFRjN6bnlRVEpNY1YtZ3lyc21uV0VJMFloWmZIcEVuaWdWSFNRM1p4eGJPSmUxSnBvR293TmZzcXpB?oc=5",
+   "published": "2026-10-19T23:03:00+00:00",
+   "id": "9b7f6987e081",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump’s latest moves back Russia, buck Congress and U.S. allies",
@@ -5111,6 +5111,18 @@
    "cat": "commerce",
    "raison": "Tensions agricoles liées aux tarifs et carburant, micro-signaux de stagflation.",
    "method": "IA"
+  },
+  {
+   "title": "Egypt and Iran Discuss Regional Developments and De-escalation...",
+   "source": "Jordan News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUhFY1ZrVDlOOXY0NFBwVm1vRGFvelpndXl4X0tDUFdiVEpIZks5eGtfOE9CUE1rRU14WTYxelRySzdNMkpRR0V3ZzNHczBaajlmXy1FUk9NUnY4SW5SYzdMei1IRGtxcDhtZ0tGdkVUUnNwcFR6MzN3UHVpUkhyWmEwV1pNQ3hTdnFoSG1qLUFCRGdvU1R0TlRzdUJTS00tYURJUGoxOVdZRG5mNTZFWTRkM1RwRVZ1?oc=5",
+   "published": "2026-10-19T14:02:05+00:00",
+   "id": "05c2fe11998b",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Inflation Accelerates, Fed Waits",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Tensions stratégiques accrues en Arctique, renforçant discrètement l'intérêt pour les valeurs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Asian stocks skid , Wall Street and bonds aided by oil slip",
-   "source": "bdnews24.com",
-   "theme": "Géopolitique",
-   "link": "https://bdnews24.com/business/y9h3f5l737",
-   "published": "2026-10-19T06:30:00+00:00",
-   "id": "c9287f0d71d0",
-   "impact": 1,
-   "cat": "taux",
-   "raison": "Rebond obligataire et détente des rendements souverains favorisant mécaniquement les actifs sans rendement.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7191,7 +7191,8 @@
   "news|878e72efd6a5": 1792470734.0304866,
   "news|f1b22d1ca2da": 1792470735.0738797,
   "news|ba17fdf5169c": 1792470736.0607235,
-  "rep|daily|2026-10-20": 1792472565.298812
+  "rep|daily|2026-10-20": 1792472565.298812,
+  "news|9b7f6987e081": 1792473360.7606359
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7326,6 +7327,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T05:16:00.760691+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Hegseth secretly visits Israel, meets Netanyahu amid talk of renewed strikes on Iran</b>\n📰 Ynetnews · Mar 20/10 01:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1b0hfZ1FXbE96MnBCWTFCQkhyZHBFRjN6bnlRVEpNY1YtZ3lyc21uV0VJMFloWmZIcEVuaWdWSFNRM1p4eGJPSmUxSnBvR293TmZzcXpB?oc=5"
+  },
   {
    "ts": "2026-10-20T05:02:44.460255+00:00",
    "kind": "daily",
@@ -7620,11 +7626,6 @@
    "ts": "2026-10-19T02:31:26.624021+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu tells Americans : Iran access to nuclear arms worse than rising gas prices</b>\n📰 middleeasteye.net · Lun 19/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-americans-irans-access-nuclear-arms-worse-rising-gas"
-  },
-  {
-   "ts": "2026-10-19T02:31:25.601887+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Araghchi says Netanyahu is pushing for renewed war on Iran</b>\n📰 middleeasteye.net · Lun 19/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-netanyahu-pushing-renewed-war-iran"
   }
  ],
  "daily_forecast": {
