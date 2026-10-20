@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "056efef055a3",
-  "45ede8a840f0",
   "e26bc837721d",
   "6a948856e34c",
   "5a263a91a7fe",
@@ -3945,9 +3943,23 @@
   "3cbf89154c8c",
   "2dfe5e30e8bb",
   "8d77f47e92e9",
-  "6d3aa3cfe9e1"
+  "6d3aa3cfe9e1",
+  "2be337dee105",
+  "b43532cd7611"
  ],
  "news": [
+  {
+   "title": "Trump administration holds up Patriot missiles for Ukraine",
+   "source": "The Washington Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5",
+   "published": "2026-10-20T01:49:50+00:00",
+   "id": "2be337dee105",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says US could leave Iran now, rules out nuclear weapon",
    "source": "Iran International",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes avec l'Iran maintenant une légère prime de risque refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Gold Price Forecast: Oil Near $110 Tests Bullion’s Rebound as Fed Hike Bets Fade",
-   "source": "FXLeaders",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3FDb2gyRzhKcGlvQ2UwcWxfTW1jTC1CbVVnMHBwdkllX2g4d3pmU1ctOHlBVWRvWkFvUUg0NThBN01Rb3E1VFRPY0c0OE80QnBPU2JUODhJbjZGZGxWQTFoZU5Yd1lKeXZkTDF2R3N5V2hJcmlWVkNNNEprREg4SDFPcEdNdmxwamk2N2g2N0FoZ2c?oc=5",
-   "published": "2026-10-19T05:17:28+00:00",
-   "id": "c9f2958c5065",
-   "impact": 3,
-   "cat": "fed",
-   "raison": "Recul des anticipations de hausse des taux et craintes stagflationnistes favorables au métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7184,7 +7184,8 @@
   "news|32d39de54f8a": 1792455367.1874392,
   "news|25f7df99f7e0": 1792456288.6882215,
   "news|221e7086b7c3": 1792456289.6524715,
-  "news|75d08ca30b1e": 1792458225.2778285
+  "news|75d08ca30b1e": 1792458225.2778285,
+  "news|2be337dee105": 1792462743.8611097
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7303,6 +7304,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T02:19:03.861175+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration holds up Patriot missiles for Ukraine</b>\n📰 The Washington Post · Mar 20/10 03:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5"
+  },
   {
    "ts": "2026-10-20T01:03:45.277896+00:00",
    "kind": "news",
@@ -7597,11 +7603,6 @@
    "ts": "2026-10-19T00:31:19.948928+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Carney Forces Trump U-Turn! Canada PM Gets Rare Praise Amid Tariff War; Trudeau Branded ‘Loser’</b>\n📰 The Times of India · Lun 19/10 01:47\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPNllGci1fd1R4emo4el9uSXFxNG9Fa1B1X1pEZFFLZkZaMmNsY3Q2MjRmeFo1VFFKNDJ2TTRsekpmbk9ZaTRSYUdQMjlvVXpKTFpvdnZTc193VWZPM1VITC1SNWpIVTZKZG0ydHc2REQzQlR0cFRfMWZ2ejdJdnRJUkpiZldXMW9yM0ozdFVnT1I4NkctUFIxT0hfNXNkLW9fUGxnRDlLbHV4UHlnQlZiRUFIOXhHY0VIYTc2eFQ5b1hrOFZucjFyYTBVRlFjNEV0SElpZl9xWnZ1LV9SQ1BOT3BzM2VDTFZHbWFxbzBHZzJlQng0TUE3V2U0VExLWHkyVVHSAYcCQVVfeXFMTklLWmJhbE5DbHNKOXZXZzR2MzlyTEM3eVJlM2VHdGN3QndsR2h3V0xQV0dtTnBOdkdlS0I2bEdZem03TlM5c2hOMnExRFdraDhFUDZDWnJvcEVPMjlqaDZKSEdvbnh1OTV1LXpXSkpCeXp0V3BKWG1jVWxLZm1QWEdKWGlTR29OTXd0MXludFB3anVaUHVGUXkxVS0yd19rUi1UQjgxc3R4WHl4bmxCS0pmQ3VENXhkajV1SXluZjEtX1hsbW8wVVRQcXp2LWxhY2FZTXFzN3YyYklYYWhtOVBib285RDltVldWVFNJSlpCeWEweXVGdjlNUHI5akpFbWFYbkIwb28?oc=5"
-  },
-  {
-   "ts": "2026-10-19T00:17:33.954945+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison</b>\n📰 Anadolu Ajansı · Lun 19/10 01:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5"
   }
  ],
  "daily_forecast": {
