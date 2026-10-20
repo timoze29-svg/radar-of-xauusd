@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "e70153553b21",
-  "2b8a6d07546d",
-  "3370d4abef20",
-  "144d4687ccf7",
-  "e82b7f1e6862",
   "cb66e000ed8e",
   "1bafb03406b5",
   "dbe8e8292b1c",
@@ -3945,9 +3940,26 @@
   "78b322db847b",
   "f322fdea80c4",
   "8b654d786ef5",
-  "562e7da5eaba"
+  "562e7da5eaba",
+  "840876d2c36a",
+  "41a64c2de96a",
+  "b44922a38840",
+  "7d5ef6bc2de0",
+  "bdddbdb64137"
  ],
  "news": [
+  {
+   "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+   "source": "Al Jazeera",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
+   "published": "2026-10-20T13:20:48+00:00",
+   "id": "840876d2c36a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Bank of America says 1% increase to interest rate would add $95 billion in national debt costs",
    "source": "Fortune",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Escalade iranienne renforçant l'aversion au risque avant les échéances politiques américaines.",
    "method": "IA"
-  },
-  {
-   "title": "US embassy urges 'heightened vigilance' in Middle East amid escalating Houthi attacks",
-   "source": "voz.us",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWNvWW0xdlBaTkx2ZjAtYXpuMTZJYmlNOUpBc2lqRnI1TGtObXJodW8wMU1wSjlWYXJVQ3BmZEdZX0tKN1JjcjFheEg0U2RRbVRIMDlSTl9DY09iVGtQQTNoYWRlZm9OMllrT1BYU1p3SVFmZU1SQ2pWa1BlQjEyQ0lmT0k4cVRZZ0hVNUlZNEVVZUcxNVpTNDRXS1pIS1B5ZFlaNk1ET2FhU3pHSGhfN0tIV3c1eHAyaWtrMGhoQkZhX0xFak5iMQ?oc=5",
-   "published": "2026-10-19T15:42:09+00:00",
-   "id": "221e7086b7c3",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Alerte sécuritaire américaine au Moyen-Orient favorisant les achats de précaution d'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7207,7 +7207,8 @@
   "news|c70c6ae40e9e": 1792498631.7848551,
   "news|3411cd6aa5c9": 1792499492.7753656,
   "brk|US10Y|pdh|dn|2026-10-20": 1792500567.080352,
-  "news|65a48ba223d2": 1792501301.7756393
+  "news|65a48ba223d2": 1792501301.7756393,
+  "news|840876d2c36a": 1792503084.221425
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7342,6 +7343,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T13:31:24.221526+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US envoy Barrack defends decision to join Israel in war on Iran</b>\n📰 Al Jazeera · Mar 20/10 15:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5"
+  },
   {
    "ts": "2026-10-20T13:01:41.775692+00:00",
    "kind": "news",
@@ -7636,11 +7642,6 @@
    "ts": "2026-10-19T14:01:38.749102+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel threaten renewed Iran strikes, Tehran warns of response</b>\n📰 Iran International · Lun 19/10 03:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE?oc=5"
-  },
-  {
-   "ts": "2026-10-19T13:31:37.186798+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran War Day 234: Russia’s Foreign Minister Visits Tehran for Talks</b>\n📰 The American Conservative · Lun 19/10 14:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOelZYS2JvUUF2eHh2Q0o5aXpNOGg2cTFSS01OQU0wZVhwX2t3SDZtdVJSVExSV3JIcGV0MGFjNFhaeFJGMkhSM0k5c0xmamFQbmZhX2JaZzBXa0JNMWpCbVJkZ0hWeEdLd3p2ZUhYaFZ6eEpQOVZBRXFGcm9aSURxbFFaOEJrMktEd01sdGpmUk9PaklrakRjOG9tWF8?oc=5"
   }
  ],
  "daily_forecast": {
