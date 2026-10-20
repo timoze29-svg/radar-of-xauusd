@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "84ca4f1a897d",
-  "caee914b6d54",
-  "67839c2d3812",
   "fdb2ab97de34",
   "c66091344e26",
   "c3af1da80841",
@@ -3945,9 +3942,24 @@
   "07ce04f85f2f",
   "a8dba0a461d5",
   "0f89eb95f53c",
-  "52578cd21ea7"
+  "52578cd21ea7",
+  "c93c8a5d0ed8",
+  "30b6b100a8a9",
+  "30f26ffd724f"
  ],
  "news": [
+  {
+   "title": "An Unexpected Iran War Opponent: The President’s Son",
+   "source": "The Atlantic",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KMWZ4dVIxcnk0QkJUQ1NjQkNlR0hINEJWT2pUMnBrSXRFTjd6aTg3MmhqanpCQkNkaDlDeU4yTnNCdjd3eEdjeFVVZHlXRmpIX2tOcXdCZHdOejlLbGozbnJfclNjVHgxTnptR2tQbEI5TUw3NUdvNEZzaEJ4V1U?oc=5",
+   "published": "2026-10-20T19:25:00+00:00",
+   "id": "c93c8a5d0ed8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Liberty Justice Center Files First Lawsuit Challenging Trump's Section 338 Tariffs Against Canadian Imports",
    "source": "Reason Magazine",
@@ -3971,6 +3983,18 @@
    "cat": "géopolitique",
    "raison": "Rapport théorique sur Taïwan et l'Ukraine, impact marginal sur la prime de risque.",
    "method": "IA"
+  },
+  {
+   "title": "Treasury Yields Fall on String of Weak Housing Data",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
+   "published": "2026-10-20T18:51:00+00:00",
+   "id": "30f26ffd724f",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
   },
   {
    "title": "U . K . police re - arrest two men over suspected terror plot at U . S .- run air base",
@@ -6323,30 +6347,6 @@
    "cat": "commerce",
    "raison": "Apaisement commercial potentiel entre USA et Inde, léger recul de l'aversion au risque.",
    "method": "IA"
-  },
-  {
-   "title": "Qatar warns global energy shockwaves from Iran war have yet to peak  | Peak Oil News and Message Boards",
-   "source": "peakoil.com",
-   "theme": "Géopolitique",
-   "link": "https://peakoil.com/publicpolicy/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak",
-   "published": "2026-10-20T00:30:00+00:00",
-   "id": "546bf536587d",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Risque de guerre avec l'Iran et choc énergétique majeur stimulant la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Saudi Arabia Postpones  Davos in the Desert  Conference ; Houthi Strikes Kill 53 in Yemen Military Facility",
-   "source": "themedialine.org",
-   "theme": "Géopolitique",
-   "link": "https://themedialine.org/headlines/saudi-arabia-postpones-davos-in-the-desert-conference-houthi-strikes-kill-53-in-yemen-military-facility/",
-   "published": "2026-10-20T00:30:00+00:00",
-   "id": "485d4e305ede",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Escalade des frappes au Moyen-Orient renforçant les tensions régionales et l'achat refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7224,7 +7224,8 @@
   "news|ef6a432ebe5f": 1792517615.3508472,
   "news|0cf773564f2c": 1792518369.5904915,
   "news|d66566abeac1": 1792520164.378766,
-  "news|6b37b318b9da": 1792520165.4488194
+  "news|6b37b318b9da": 1792520165.4488194,
+  "news|c93c8a5d0ed8": 1792524683.2268646
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7359,6 +7360,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T19:31:23.226922+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>An Unexpected Iran War Opponent: The President’s Son</b>\n📰 The Atlantic · Mar 20/10 21:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1KMWZ4dVIxcnk0QkJUQ1NjQkNlR0hINEJWT2pUMnBrSXRFTjd6aTg3MmhqanpCQkNkaDlDeU4yTnNCdjd3eEdjeFVVZHlXRmpIX2tOcXdCZHdOejlLbGozbnJfclNjVHgxTnptR2tQbEI5TUw3NUdvNEZzaEJ4V1U?oc=5"
+  },
   {
    "ts": "2026-10-20T18:16:05.449024+00:00",
    "kind": "news",
@@ -7653,11 +7659,6 @@
    "ts": "2026-10-19T20:31:32.557195+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>India gains Sh135bn in Kenya sales amid US - Iran war</b>\n📰 businessdailyafrica.com · Lun 19/10 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.businessdailyafrica.com/bd/news/india-gains-sh135bn-in-kenya-sales-amid-us-iran-war-5638260"
-  },
-  {
-   "ts": "2026-10-19T20:16:06.686165+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>🇺🇸🇮🇷 The Iran war is heading toward another escalation, and neither side is ready to stop. I spoke with Aaron David Miller, a veteran Middle East negotiator, about the growing signs of another confrontation between Washington and Tehran. His assessment</b>\n📰 X · Lun 19/10 22:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1LeGt3bW1vaHZKM2dQb2pNSk5aYlZFX1JIYU9CaHRpcHRNNkl2MU1MelhJV3p0NGNUMDFLWjJyUHo1a2x3MmpUQ2NteDQxbkRycXRlZkFtNGp0VGZ0NkJWU2J1cTByc24zWFU3RA?oc=5"
   }
  ],
  "daily_forecast": {
