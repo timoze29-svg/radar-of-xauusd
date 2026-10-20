@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "4b5e89a982e1",
-  "bb592cd0b331",
-  "f0f978226c5c",
-  "a90d7c0d08e7",
-  "de8db6f7675a",
   "bc3cfb7d3777",
   "0c4dfb8744ae",
   "7e5a6f756239",
@@ -3945,9 +3940,26 @@
   "fadcfb2fa2c8",
   "007d0adc9c95",
   "2c8ab7b1debc",
-  "2d26712e243e"
+  "2d26712e243e",
+  "cbe7cf54d8bd",
+  "becfa2176643",
+  "0a86fe96de83",
+  "0135795d6c66",
+  "068828406168"
  ],
  "news": [
+  {
+   "title": "Iran war pause frays as US, Israel weigh fresh strikes",
+   "source": "Gulf News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVB6R2ZPanZSbVhUZm12eHZRWndrSFJManZHQVRIcE1mN3RscVREWVltNlNXX19tb0FrRmphdDY2TndTeG9JTUZXd29hWXRhaE9NYkIyeV9KYXE5Sl8xX2NVZ0YtQVpLZ0JVSWlKVHdVUEdCVGszRndpUXhyWURZeEh2d0N5RVV0NThnT0cySTJYVFprLW91djB6LUMyNUFOcm0zRUxwbFdmTUI0dlJfbUk4VzI0T0x5UWN2MkIxZ2JXbm5vSjBvak52V3pRcEV5NDBR?oc=5",
+   "published": "2026-10-20T05:48:41+00:00",
+   "id": "068828406168",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia-Ukraine war news: Chicago protest held to urge continued US support for Ukrainians amid escalating Russian strikes",
    "source": "ABC7 Chicago",
@@ -4103,6 +4115,18 @@
    "cat": "géopolitique",
    "raison": "Menaces accrues sur le commerce maritime soutenant la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: Houthi attack on Yemen military camp kills 58",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-10-20T01:04:41+00:00",
+   "id": "0135795d6c66",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Canada's retaliatory tariffs hit US products as Trump warns of escalation",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Attaque interceptée proche d'infrastructures pétrolières saoudiennes, soutenant les actifs de couverture.",
    "method": "IA"
-  },
-  {
-   "title": "Why the US and Ukraine are pulling apart and what comes next",
-   "source": "businesstimes.com.sg",
-   "theme": "Géopolitique",
-   "link": "https://www.businesstimes.com.sg/opinion-features/why-us-and-ukraine-are-pulling-apart-and-what-comes-next",
-   "published": "2026-10-19T06:30:00+00:00",
-   "id": "f767fac02921",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Désengagement potentiel américain ouvrant la voie à des pourparlers, érodant la prime militaire.",
-   "method": "IA"
-  },
-  {
-   "title": "Profit warnings from united kingdom - listed firms at highest level in two years as Iran war drives up costs",
-   "source": "theguardian.com",
-   "theme": "Géopolitique",
-   "link": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
-   "published": "2026-10-19T06:30:00+00:00",
-   "id": "d0c2d8adb33a",
-   "impact": 2,
-   "cat": "inflation",
-   "raison": "Pressions sur les coûts liées au conflit iranien, alimentant les craintes de stagflation.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7194,7 +7194,8 @@
   "rep|daily|2026-10-20": 1792472565.298812,
   "news|9b7f6987e081": 1792473360.7606359,
   "brk|GOLD|pdh|dn|2026-10-20": 1792474279.61661,
-  "brk|DXY|pdh|dn|2026-10-20": 1792475274.1283698
+  "brk|DXY|pdh|dn|2026-10-20": 1792475274.1283698,
+  "news|0135795d6c66": 1792476096.5695074
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7329,6 +7330,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T06:01:36.569575+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Houthi attack on Yemen military camp kills 58</b>\n📰 Arabian Business · Mar 20/10 03:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
   {
    "ts": "2026-10-20T05:47:54.128420+00:00",
    "kind": "breakout",
@@ -7623,11 +7629,6 @@
    "ts": "2026-10-19T05:01:42.296346+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — LUNDI 19/10</b>\nPrix : <b>4201.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-5/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +10.5$ · plus haut 4208.4 / plus bas 4185.6 (range 23$)\nDXY -0.06% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~74$</b> (ATR 73$ × profil du lundi)\nDéjà fait en Asie : 23$ (31% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4242.6 | R1 4211.8 | <b>Pivot 4189.7</b> | S1 4158.9 | S2 4136.8\nVeille : PDH 4220.4 / PDL 4167.5  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>51%</b> du temps (280 jours, ~6.0 ans)\n• Hier : +0.26% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +16.8$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4159 et R1 4212\nJouer les extrêmes, pas le milieu (pivot 4190). Range attendu ~74$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4220 ou PDL 4168 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
-  },
-  {
-   "ts": "2026-10-19T05:01:40.377026+00:00",
-   "kind": "weekly",
-   "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 19/10/2026</b>\nPrix : <b>4201.80</b>  (+0.27% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (-5/100)</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n🟢 Taux US 10 ans (5j) : -15 pb sur 5 jours\n🔴 Taux réels 10 ans (20j) : 2.78% (+0.10 sur 20j)\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.11\n\n📐 <b>Niveaux clés or</b>\nR2 4320.1 | R1 4250.6 | <b>Pivot 4172.8</b> | S1 4103.3 | S2 4025.5\nSem. passée : PH 4242.3 / PB 4095.0 / clôt. 4181.1\nRange hebdo moyen (10 sem.) : <b>187$</b> | ATR jour : 73.0$\n\n📅 <b>News éco de la semaine</b>\n🔥 Lun 19/10 14:30 — CAD CPI m/m (prév. 0.2%)\n🔥 Lun 19/10 14:30 — CAD Median CPI y/y (prév. 2.0%)\n🔥 Lun 19/10 14:30 — CAD Trimmed CPI y/y (prév. 1.9%)\n🔥 Lun 19/10 14:30 — CAD Common CPI y/y (prév. 2.6%)\n🔥 Lun 19/10 14:30 — CAD Core CPI m/m\n🔥 Mer 21/10 08:00 — GBP CPI y/y (prév. 3.4%)\n🔥 Mer 21/10 08:00 — GBP Core CPI y/y (prév. 2.8%)\n🔥 Mer 21/10 23:45 — NZD CPI q/q (prév. 0.8%)\n🔥 Ven 23/10 01:30 — JPY National Core CPI y/y (prév. 2.1%)\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>50.2%</b> des semaines (<b>54.1%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 89.1%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+5) Trump says US may ‘soon finish the job’ on Iran, Netanyahu vows to topple regime\n🟢 (+4) Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand\n🔴 (-4) U.S. Treasury Prices Drop to Second-Largest Since 1787\n🟢 (+4) Europe sent its gold to the U.S. for safe keeping during World War II. Central banks are now reshuffling their reserves for a new era of uncertainty\n🟢 (+4) Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News\n🟢 (+4) Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide\n\n🧠 <b>Analyse IA</b>\n1. Le contexte en 3 phrases\nL'or cote 4201$ dans un marché tiraillé entre le repli du dollar (DXY -0.75% sur 5j à 101.81) et la pression des taux réels élevés à 2.78%. Les tensions géopolitiques extrêmes autour de l'Iran et les menaces de Trump soutiennent les flux refuges, propulsant le VIX vers 20. La tendance de fond reste toutefois coiffée sous la SMA50 (4370$) et la SMA20 (4205$), maintenant un biais tactique neutre.\n\n2. Scénario principal (55%)\nAttention à ton idée reçue : sur 313 semaines, le retournement jeudi-vendredi n'arrive qu'à 50.2% (autant jouer à pile ou face), bien qu'après une hausse il monte à 46.6% de réversion.\n- Lun→Mer : Hausse d'inertie refuge vers la résistance R1 à 4250$. Achat sur repli vers le pivot 4173$ ou cassure confirmée des 4208$ (PH sem.).\n- Jeu→Ven : Essoufflement sous 4242$-4250$ (PWH/R1) et consolidation vendeuse vers 4180$.\n- Invalidation : Cassure nette sous 4167$ (PDL), qui annulerait la poussée initiale pour viser 4103$ (S1).\n\n3. Scénario alternatif (45%)\nCassure baissière immédiate déclenchée par un apaisement brutal sur le front iranien ou un rebond des rendements US (2 ans déjà tendu à 4.77%). Si le cours casse les 4167$, vente directe pour viser le support majeur 4095$-4103$ (PWL/S1), sans rebond en fin de semaine.\n\n4. Jours / heures dangereux\nSemaine calme sur les chiffres US de premier plan, le danger vient des gros titres géopolitiques imprévisibles et de l'ouverture US quotidienne (14h30-16h00). Surveille les CPI Canada (lundi 14h30) et UK (mercredi 08h00) pour la volatilité devises. Règle : réduis la taille de 50% sur les extensions au-delà de l'ATR (73$) et ne tente pas de shorter aveuglément mercredi soir sur simple croyance du cycle.\n\n5. Les 3 choses à surveiller en priorité\n- Les frappes/déclarations USA-Iran autour du détroit d'Ormuz (driver #1 du refuge).\n- Le seuil pivot des 4205$ (SMA20) en clôture 4h.\n- L'évolution du Dollar Index (DXY) sur le support des 101.80.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
