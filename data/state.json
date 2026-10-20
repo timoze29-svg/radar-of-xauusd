@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792443677.829874,
+   "ts": 1792466149.0330706,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -136,11 +136,10 @@
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
      "last": 2.35,
-     "date": "2026-10-16",
-     "chg5": 0.0,
+     "date": "2026-10-19",
+     "chg5": 0.02,
      "chg20": 0.02,
      "hist": [
-      2.44,
       2.44,
       2.46,
       2.46,
@@ -259,6 +258,7 @@
       2.33,
       2.35,
       2.32,
+      2.35,
       2.35
      ],
      "gold_rel": 1
@@ -946,21 +946,6 @@
   }
  },
  "seen_news": [
-  "578ef62d7e32",
-  "23495fbe8d5e",
-  "cf14161c690a",
-  "2188e4f63246",
-  "433d9f1505fc",
-  "777b5b168b22",
-  "8c49de21f172",
-  "27ea4f80e217",
-  "28c60756a93b",
-  "59163504a736",
-  "1df5cc33651b",
-  "c02c64922361",
-  "aa834b67e89d",
-  "dbb37848c2ca",
-  "09b07d81301d",
   "4b9d5e8cacb8",
   "6226ddf62b85",
   "7a999e584dfd",
@@ -3945,7 +3930,22 @@
   "66463e70d7b0",
   "e42395d61ad8",
   "cdff268368de",
-  "6c416be6c551"
+  "6c416be6c551",
+  "1b3246a69c1f",
+  "85cb009b4a3e",
+  "4e5517202a04",
+  "ae519f9a5189",
+  "f2e212fc4cbc",
+  "4a072d8c73b0",
+  "3921cc5e3583",
+  "a3644331d170",
+  "50560ee20159",
+  "8fb73191df49",
+  "16953196ad2b",
+  "50dc9773f242",
+  "02c56f5df7a4",
+  "4e2c244e88ea",
+  "ebbba129818b"
  ],
  "news": [
   {
@@ -3958,6 +3958,30 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Marco Rubio India visit : Trade deal , Russian oil tariffs , West Asia on agenda",
+   "source": "moneycontrol.com",
+   "theme": "Géopolitique",
+   "link": "https://www.moneycontrol.com/news/india/trade-h-1b-visas-what-s-on-agenda-for-marco-rubio-s-india-visit-14055764.html",
+   "published": "2026-10-20T02:15:00+00:00",
+   "id": "ae519f9a5189",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Mark Kenny | Helen Haines attack reveals the toxic cost of public abuse | Redland City Bulletin",
+   "source": "redlandcitybulletin.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.redlandcitybulletin.com.au/story/9371596/mark-kenny-helen-haines-attack-reveals-the-toxic-cost-of-public-abuse/",
+   "published": "2026-10-20T02:15:00+00:00",
+   "id": "3921cc5e3583",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6322,30 +6346,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Attaque houthie ravivant le risque géopolitique et énergétique, modérément haussier pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war",
-   "source": "France 24",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEtwVzZtZ2ZTdWVWR2JVc0ZNZ1Z0TV9qdlM5Q1BjSGNuSDZsQWNiQkxTVGp2cVJaTjlhQ2ZoZ2xMR085TmdwLThJcVp6TXJOemJHZkc0TGQ5cHRtOWk1Ri1ackMzT0lQQnRuV3RlYms4cm1NdlBSWVdQdF9aQVhDWkRocTNrS3hnWmhkZ0NiS3RnczVrbG5mOGhqWV8zZ3VwVmhZQXlsTU9BQl9WWm5mWGJyV01mbl82aUtOTExjN1VqRVJYYUFJ?oc=5",
-   "published": "2026-10-19T06:00:06+00:00",
-   "id": "6dde3e92f3a4",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frappes sur Kyiv maintenant la prime de risque, freinée par la pression diplomatique.",
-   "method": "IA"
-  },
-  {
-   "title": "China's economy picks up pace in Q3 as exports power uneven recovery",
-   "source": "The Business Standard",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzk3OW5xOG1HbHBXNHZoZzBaSmowbTFIOE1ja0RoemNsMjdiUGJPdVQ5SDhtdHdXUGhyOWZaUjhzOXZneWhMNFQycmdYMExhYTltQ1pud1Y5eTkyZzZmOG9JZUdmY29QTlYwbjJhNER3azBsNGVtbUFXZS1JRnA0SDJhZkVEejdfczdCTTlaVkxSenlTR1JyTFNHRUxOVDZrV3lHQ2MzSVM?oc=5",
-   "published": "2026-10-19T05:57:08+00:00",
-   "id": "a4c8d0f96425",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Reprise chinoise modérant l'aversion au risque, effet négligeable sur la demande physique.",
    "method": "IA"
   }
  ],
