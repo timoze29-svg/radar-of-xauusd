@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "a5aba2bd03ee",
-  "87c521f7145e",
-  "37c949be3ce0",
-  "df4187e8d26c",
-  "1b551f2ef19c",
-  "8d2712e7c27c",
-  "d2a4f4ac5347",
   "12464be2ef3d",
   "097b5c63fa05",
   "96a12fd93f77",
@@ -3945,9 +3938,40 @@
   "9ac7ae096111",
   "cfe43c4555ef",
   "1fcdc1ff3e30",
-  "a9e2e0549660"
+  "a9e2e0549660",
+  "d8956cd6f164",
+  "f55007f2d7d0",
+  "e1d74c3e7cdb",
+  "945809b59839",
+  "97887f6383b2",
+  "b2a2d2eadeb3",
+  "6ecfb711c141"
  ],
  "news": [
+  {
+   "title": "‘I lost my entire export business overnight’: the toll of Trump’s tariffs on US wine",
+   "source": "The Drinks Business",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE1hTTVKWTZLc3U4ZGl3YWhITVNydV9YM09SYU8weG1nRUI0YW5Sa3FyOHFfSW5WdFZEODYyTkNnRjlyT3ZFaXhmbmRzQ1NvaHY0cEM1MVk2dVI3cDhHUllDbDFVa1ZtczgydV9TRnVaeE96di1ncVJNOHpvTV9KNUJrbEwxQjJEcWFZYVhLdXJSNjloY295aVE5R1lBdWdGM2dXZkFrMXlwLUp1UVptRFZCS2FGRnhSMnk4RG9B?oc=5",
+   "published": "2026-10-20T15:00:00+00:00",
+   "id": "97887f6383b2",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US President Donald Trump nearly approved Iran strikes recently",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbWNyM2J5NllpSThlWmtmSUVzTzllS3RfdkhhWDZIbUxEdEV0cHRsc1hCNGowWE1hbkw5ejZVQWwwOGVNcmZQcmJjaUFabEV5dlFQODNidG5KX0pROGdIVGhkaHRYbFFrUnc?oc=5",
+   "published": "2026-10-20T14:59:43+00:00",
+   "id": "e1d74c3e7cdb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds",
    "source": "Kitco",
@@ -6323,30 +6347,6 @@
    "cat": "inflation",
    "raison": "Risque de choc pétrolier et d'inflation galopante, très favorable à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdmYm1KSUNkMm9QcS10VF81SWJBNDRBSnc3X1RWaFJsNnVjQXBMbnZFTE9uS1lrdVJmRGxya2JpR3A0RkkwZUd0VFgwVkNOTnhia1dDcEFiMW12cW9xLUt5U1d6ald0b1NKWUVOSHhxdzVlT1ZKc2tLSllLMnlYZlozbHdvckpWY3o2NjJ4M3lYdk1idG1RZ1FZa0dDMnBpZll6anBaMkNCcnNBcENYZTZzMTBiNDhp?oc=5",
-   "published": "2026-10-19T18:01:00+00:00",
-   "id": "422f849127ea",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frictions Washington-Kyiv et frappes russes sévères, maintien de l'aversion au risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Sentiment improved , but new tariffs weigh on business outlook : BoC report",
-   "source": "prpeak.com",
-   "theme": "Géopolitique",
-   "link": "https://www.prpeak.com/the-mix/sentiment-improved-but-new-tariffs-weigh-on-business-outlook-boc-report-12909949",
-   "published": "2026-10-19T17:45:00+00:00",
-   "id": "4c06e34c5310",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Incertitude tarifaire pesant sur les perspectives économiques mondiales, soutien défensif.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7213,7 +7213,8 @@
   "news|a339be79c109": 1792506692.472275,
   "big|OIL|2026-10-20": 1792506694.0216494,
   "brk|DXY|pwh|dn|2026-10-19/2026-10-25": 1792507597.9231052,
-  "news|2672bb2d5120": 1792508067.4397902
+  "news|2672bb2d5120": 1792508067.4397902,
+  "news|e1d74c3e7cdb": 1792509372.614868
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7348,6 +7349,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T15:16:12.614940+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US President Donald Trump nearly approved Iran strikes recently</b>\n📰 The Jerusalem Post · Mar 20/10 16:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbWNyM2J5NllpSThlWmtmSUVzTzllS3RfdkhhWDZIbUxEdEV0cHRsc1hCNGowWE1hbkw5ejZVQWwwOGVNcmZQcmJjaUFabEV5dlFQODNidG5KX0pROGdIVGhkaHRYbFFrUnc?oc=5"
+  },
   {
    "ts": "2026-10-20T14:54:27.439847+00:00",
    "kind": "news",
@@ -7642,11 +7648,6 @@
    "ts": "2026-10-19T16:16:15.473557+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.133 → prix : <b>5.140</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.51 | 60j -0.3"
-  },
-  {
-   "ts": "2026-10-19T16:01:43.250013+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil slips from five-month highs with Hormuz crossings, Russian sanctions waiver in focus</b>\n📰 Reuters · Lun 19/10 00:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5"
   }
  ],
  "daily_forecast": {
