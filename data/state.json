@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "f390df486fa6",
-  "5c4de7275efd",
   "52d30e9331e8",
   "c3abe9829698",
   "57ea8bf9a77c",
@@ -3945,9 +3943,23 @@
   "e3495851e7f7",
   "7875fc40c5c1",
   "c1b2c5161476",
-  "294776b1ddc7"
+  "294776b1ddc7",
+  "70740200e605",
+  "25f9fe727481"
  ],
  "news": [
+  {
+   "title": "French Government-Bond Yields Turn Higher; Treasury Yields Fall",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
+   "published": "2026-10-20T11:32:00+00:00",
+   "id": "25f9fe727481",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
   {
    "title": "Pakistan Asim Munir visits Tehran as Iran warns of possible return to war with US",
    "source": "moneycontrol.com",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Baisse des tensions et du pétrole réduisant l'inflation anticipée et la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Brent crude falls 1% as Trump waives some Russia sanctions and tariffs",
-   "source": "Quartz",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzVvUnlPN3RDSGJ2N2wyLXJ0VExXX2g4WE5iU2xrb3dhZTJ0QjdBeURWUHQ0RE1mUmF5U1Y0bjZPM3k2ZTdJQ2ZCNVB6UnowdjBKbk96TEFYbEhmN3kyWU04eFdpOW5qV1BjU1V5SDZER2FUNUo2T0xoandWOGhfZ2d2Yw?oc=5",
-   "published": "2026-10-19T12:04:20+00:00",
-   "id": "8d60da35d62d",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Baisse du pétrole et détente géopolitique réduisant l'inflation anticipée et la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7201,7 +7201,8 @@
   "news|24d8d02a5785": 1792492303.7732046,
   "news|614935c34c0c": 1792495887.6116498,
   "news|7875fc40c5c1": 1792496766.6320336,
-  "news|4468cd37e191": 1792496767.4892943
+  "news|4468cd37e191": 1792496767.4892943,
+  "rep|update|2026-10-20": 1792497695.5132506
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7336,6 +7337,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T12:01:34.614820+00:00",
+   "kind": "ny_update",
+   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4139.40</b>  (-23.4$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-8) → maintenant -11 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n📏 Range fait : 36$ sur ~65$ attendus (56%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Pakistan Asim Munir visits Tehran as Iran warns of possible return to war with US\n🟢 (+8) Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine\n🟢 (+8) Trump explodes at Ukraine over war as Zelenskyy crunches US meeting | World | News\n🟢 (+8) March CPI Outlook: Inflation May Rise Slightly, Iran-US War Could Lock India Into 'Sticky' Inflation Cycle"
+  },
   {
    "ts": "2026-10-20T11:46:07.489524+00:00",
    "kind": "news",
@@ -7630,11 +7636,6 @@
    "ts": "2026-10-19T12:01:34.026874+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says 7-day plan to reopen Strait of Hormuz still on the table</b>\n📰 NewsNation · Lun 19/10 12:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE1jUkh0M2pJdlUyZUIyLVRyQndYNmE4TkRiQm0zWDVnU2R4RC1YMG9DVTZkcVFBandTbGhfTW5FTzlON3BmRG9tMlBsY2NCc0pWZmNYM1ZGTjhLR0RKMTlMSU90Yi1pall6ZW1LOVl1a2ROamM0ZWc3djhoVUfSAYIBQVVfeXFMTlQwT2JVbmhpUDJ1QXRLX2JKSzhVZU13U2ZDbUZvRnBsYmhyNmVCajU5S2dhdVZ0RngyN3BDdEpTRG5lZm9UTkx2TDd0V2hlbFc0N2lYd29WUTBPbTBVOV9XREZQTXBEV2ItaGZmV0ZnLWxIelhFY3RiZ0E5NllaTGUtQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-19T11:46:07.071616+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Under Trump, deficits remain high while borrowing costs escalate</b>\n📰 Reuters · Lun 19/10 13:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFl3MEhWalEwWWhFWFNWRXdHb3hVeUpWTzN1TVBEZi1JU0JMMjNSa1pxWEhBQWk5UTB3RE1tZUlkSDl0aXNCTzF6ZUZHd0JCZGhNTTJ3a3N1MnZQM3pSOHlSajJDNlZPWXBabGVjdERmcEozNXlsOFdrQUlBYWxLV2U2ZV95MXVmbEdEbE1HZUFxVkNQUTZ3eUdfMW8zMXRQalhSbTFCRnVfRFFRdHBoT0dKVFhxWDg?oc=5"
   }
  ],
  "daily_forecast": {
@@ -7648,8 +7649,8 @@
   "ai": true
  },
  "ny_update": {
-  "date": "2026-10-19T12:01:36.650269+00:00",
-  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4188.50</b>  (-13.3$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-5) → maintenant -3 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 29$ sur ~74$ attendus (39%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Under Trump, deficits remain high while borrowing costs escalate\n🟢 (+8) Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship\n🟢 (+8) Iran says 7-day plan to reopen Strait of Hormuz still on the table\n🟢 (+6) Iran targets Gulf countrie energy infrastructure after Israeli strike on gas field  | Peak Oil News and Message Boards",
+  "date": "2026-10-20T12:01:35.513211+00:00",
+  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4139.40</b>  (-23.4$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-8) → maintenant -11 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n📏 Range fait : 36$ sur ~65$ attendus (56%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Pakistan Asim Munir visits Tehran as Iran warns of possible return to war with US\n🟢 (+8) Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine\n🟢 (+8) Trump explodes at Ukraine over war as Zelenskyy crunches US meeting | World | News\n🟢 (+8) March CPI Outlook: Inflation May Rise Slightly, Iran-US War Could Lock India Into 'Sticky' Inflation Cycle",
   "ai": false
  },
  "track": [
