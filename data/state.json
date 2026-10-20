@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "e4f36269312c",
-  "8aacd7515f73",
-  "674c26091ace",
   "14d5332b2e86",
   "9b387cb1c965",
   "1dc3f66bbbc1",
@@ -3945,7 +3942,10 @@
   "2d4d3d145c58",
   "cbc61c42aeef",
   "0e21f7c9a6c8",
-  "874312b49e39"
+  "874312b49e39",
+  "40f7d07940dc",
+  "c68486cf2da7",
+  "525a9494c68d"
  ],
  "news": [
   {
@@ -4030,6 +4030,18 @@
    "impact": 1,
    "cat": "banques centrales",
    "raison": "Les achats institutionnels et de banques centrales offrent un plancher solide au cours.",
+   "method": "IA"
+  },
+  {
+   "title": "‘We have a job to finish’: Why did US Defence Secretary Hegseth secretly meet Netanyahu amid Iran war tensions?",
+   "source": "Gulf News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaEZNcGJRaTJXQU9TeTllWWw3dDBRZ2NvbDZqcGI0WG9iYmFRZ3FweVZDWndWdGQ3NDN5eGFMRXU3R2xVcnZYQnRaVjFhYl82cEhrUjB5Y0R1LXljZF9OcGlHUmh3cm9QSWlKM2VyY0U5QTFmd19fd1JGSjdpNnFLeWx6N1dLUnRTQ1UwUkdfZ3NkTDIwbUhESjBtc3VvWjJsTzZ5ZFZjcGFXT09qWWRFU2QtRVFxc0hCenFKbVZuMnh0aC1JZ0FSTjh1SU0zNWg3NWRoRENwYUdoV1B3VzdJd2F5b1RUbnJYUmpn?oc=5",
+   "published": "2026-10-20T10:08:37+00:00",
+   "id": "c68486cf2da7",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Tensions accrues avec l'Iran renforçant modérément l'attrait de l'or comme valeur refuge.",
    "method": "IA"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "commerce",
    "raison": "Détente commerciale et approvisionnement énergétique stabilisé diminuant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "USD/JPY Holds Near 158 as Fed Hike Bets Fade, Japan CPI and BoJ Outlook Eyed",
-   "source": "VT Markets",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkpzOEVQN1hzWkYtTGlJMUtWTEVZTmRaSEVNQzJlMUZXUl9ZVFlFcUVKVGR6ZUtjSlJZUUlRVHY0YWFKUngwSXNPa1BJdEdtOWx0WmU2RUtlWUdLbVdwM3JYZkl3MC1mR0tZaUlwaTV1TDF0XzByY2ZFNWsySHJQenNOODFPNGpoVlFVTWs1Uk94WVlpVHRtdlVIU3VhVTVtQVNjWHdNSFU1a1IzamVlOHZmMHdRaExCNHVZaFB3?oc=5",
-   "published": "2026-10-19T11:16:56+00:00",
-   "id": "d189b10fabff",
-   "impact": 2,
-   "cat": "fed",
-   "raison": "L'effacement des craintes de hausse de taux Fed détend les rendements obligataires.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7200,7 +7200,7 @@
   "news|e4ad7d73441f": 1792485981.7093935,
   "news|24d8d02a5785": 1792492303.7732046
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -7333,6 +7333,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T11:02:54.256638+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-14), Fed (2 ans vs taux Fed) (-9), Taux réels 10 ans (20j) (-9)"
+  },
   {
    "ts": "2026-10-20T10:31:43.773267+00:00",
    "kind": "news",
@@ -7627,11 +7632,6 @@
    "ts": "2026-10-19T09:50:16.906700+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump touts Russia diesel deal, waives new tariffs and sanctions to keep peace bid alive</b>\n📰 Briefs Finance · Dim 18/10 22:31\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmM5TEwyWU9DSEZkdU1BMVExQmRrY0FYV1VoNzJqQm1QZ3dJSkpDT19FZzRYX3ZTNE5CanluUXN3ZzlFQnVsWTJwYkxKcTM0ZEcyNUVyWnhJZ1BFV3dGS0pPdmZPeE05WFYtaTU4bUZNVEtIMjNhcWt6S05EZVVoVG44SW9yemRvd0FMb3lFRkUtdw?oc=5"
-  },
-  {
-   "ts": "2026-10-19T09:50:15.866657+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Strategic Case for an Israel-Taiwan Nuclear Axis</b>\n📰 Middle East Forum · Lun 19/10 11:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDVhRzBFOHV4LUV2VTZkcXVTdjB4QUhQa0VQX3ZnMGh4R1g2VlRyQjRiUTVhdmdDY1UzbG1ia3FoUUd2NWJNS19Lbi10RS1vYXBLdDF5NDNKVXhFYkdObmZyQll4TU02LXBvWEJVdzRUS2QyT1hBU0NYTVJpaWFCLUdqLXQxYThrZGJqNDBoNVh4VjA?oc=5"
   }
  ],
  "daily_forecast": {
