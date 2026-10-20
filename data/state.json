@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "c8926fb848d7",
-  "eba73ff58925",
-  "4987847b5c4e",
-  "687636ca0591",
-  "523f0375bfe4",
-  "909410840874",
   "8614ff16ab7e",
   "9890fe4c00ee",
   "b8fdfa318392",
@@ -3945,7 +3939,13 @@
   "14700a60f218",
   "82c52c8805bb",
   "d72fd0331e25",
-  "7c81af7ccb65"
+  "7c81af7ccb65",
+  "b0614b80c9e2",
+  "35e0c6fb769f",
+  "0cf773564f2c",
+  "5b6ee12616e5",
+  "46cf9595b4d3",
+  "af45b9e7048c"
  ],
  "news": [
   {
@@ -4016,6 +4016,18 @@
    "published": "2026-10-20T17:00:00+00:00",
    "id": "82c52c8805bb",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran unlikely to attack Israel directly, may seek to disrupt elections",
+   "source": "www.israelhayom.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEM3VzIzUUEyVzFqcjRKMlQ5WDdYN0NmRnd4MnZKa0ZPYzFHQl9Vc2Q5dzZYZ1k1N09pbW90dkFXcWZTLUhyRXh1OVluNGlfdHp4NXVWc1FVN2RFaTlBc2Nmc2taVmgyMjBZMXNGRXRUQzhFRVNxOGRodHQ4RkpJd0ExbGpxeEx6enhFNzNJMnk1YmY1YzgtT2g4bk5fVXJrQUtKZlJzOUpGeDZSWnc?oc=5",
+   "published": "2026-10-20T16:45:26+00:00",
+   "id": "0cf773564f2c",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes au Moyen-Orient maintenant un plancher de soutien géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Federal deficit last year was largest since pandemic and voters are noticing",
-   "source": "turnto10.com",
-   "theme": "Géopolitique",
-   "link": "https://turnto10.com/news/nation-world/federal-deficit-last-year-was-largest-since-pandemic-and-voters-are-noticing-economic-treasury",
-   "published": "2026-10-19T22:45:00+00:00",
-   "id": "9a616bc9f3a3",
-   "impact": 2,
-   "cat": "politique US",
-   "raison": "Déficits abyssaux américains alimentant les craintes de débasement monétaire à terme.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7221,7 +7221,8 @@
   "news|4be2c6240094": 1792517612.2099357,
   "news|065eb15a3136": 1792517613.2318463,
   "news|da4b829ca764": 1792517614.3057055,
-  "news|ef6a432ebe5f": 1792517615.3508472
+  "news|ef6a432ebe5f": 1792517615.3508472,
+  "news|0cf773564f2c": 1792518369.5904915
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7356,6 +7357,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-20T17:46:09.590568+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran unlikely to attack Israel directly, may seek to disrupt elections</b>\n📰 www.israelhayom.com · Mar 20/10 18:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEM3VzIzUUEyVzFqcjRKMlQ5WDdYN0NmRnd4MnZKa0ZPYzFHQl9Vc2Q5dzZYZ1k1N09pbW90dkFXcWZTLUhyRXh1OVluNGlfdHp4NXVWc1FVN2RFaTlBc2Nmc2taVmgyMjBZMXNGRXRUQzhFRVNxOGRodHQ4RkpJd0ExbGpxeEx6enhFNzNJMnk1YmY1YzgtT2g4bk5fVXJrQUtKZlJzOUpGeDZSWnc?oc=5"
+  },
   {
    "ts": "2026-10-20T17:33:35.351047+00:00",
    "kind": "news",
@@ -7650,11 +7656,6 @@
    "ts": "2026-10-19T19:31:24.632565+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russian FM arrives in Tehran for talks on Iran - US war</b>\n📰 dunyanews.tv · Lun 19/10 21:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://dunyanews.tv/en/World/978572-russian-fm-arrives-in-tehran-for-talks-on-iranus-war"
-  },
-  {
-   "ts": "2026-10-19T19:12:59.123515+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump gives Iran a 10-day timeline in Board of Peace meeting on whether he'll continue talks or strike - ABC News</b>\n📰 Breaking News, Latest News and Videos · Lun 19/10 13:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWRiejdkUVhEY1VkQ2hySENucE5Yb3FqMWZFZmcyelpmd2x3R0ZxWmNYSnZDM0ZsZFMxc0NIeS1VM0kyVXhBOS0taDB4bjdRS0x2dTJJbHkwaWNSSVNwbWpHQkRmLWhTeGpCQUl4bnVyc0c4dVpXLURQNTRTVUdhUzN2aklDeXFSN0tjVGw0b3ZpV3hXM2RLS2N3?oc=5"
   }
  ],
  "daily_forecast": {
