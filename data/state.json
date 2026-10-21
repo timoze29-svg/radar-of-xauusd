@@ -946,35 +946,6 @@
   }
  },
  "seen_news": [
-  "8395e30c1184",
-  "13cd3b3d6ec9",
-  "7edb7bc76d7f",
-  "3f52b3d72cf1",
-  "920968b377c5",
-  "a7f14fef96db",
-  "306fb107e424",
-  "3ba580d7756b",
-  "37b1beeba851",
-  "c745992d0f12",
-  "8a1b11462249",
-  "9fca64ec31b0",
-  "ea1dddc56c54",
-  "f18540f06808",
-  "52423c957d10",
-  "9f8964bca9ec",
-  "1b848f0d3604",
-  "69484c8abfcd",
-  "b611cc028e05",
-  "95bf61a48b67",
-  "c1ecfa695508",
-  "2be8d4485f43",
-  "6f1894a19362",
-  "03eeddabb5d5",
-  "61547e487425",
-  "e115d5dd6203",
-  "1439c243e828",
-  "43ffb30b7bb9",
-  "e465f8278b0a",
   "6c49dcb521a3",
   "9c26e88aa01c",
   "df399745c046",
@@ -3945,9 +3916,62 @@
   "aa193e3dfdf3",
   "0dde7a5d0651",
   "6e95d821985f",
-  "7beb12034f8a"
+  "7beb12034f8a",
+  "e292253fe78c",
+  "1121194d3aca",
+  "d2b81d1889fa",
+  "668116663fbf",
+  "be6b9e155ff6",
+  "f382e93baed0",
+  "9ead3f11ce79",
+  "cf551478413f",
+  "d220e2877cc4",
+  "684e141cb202",
+  "1c067bed822e",
+  "41912b0c4f9f",
+  "9ac5dfd3d11e",
+  "43807e64e14b",
+  "f68f61dfe0dd",
+  "7ea6d629bcb5",
+  "274b79a38152",
+  "b6bf922387f5",
+  "a45e79717e80",
+  "3b7b90380114",
+  "6df5c2f90a6d",
+  "1546328b2977",
+  "ed846bf70f17",
+  "adaf8c9f0166",
+  "5baa8cfa515f",
+  "aa518f44fb45",
+  "cea8a8364b08",
+  "befd1cfdeae9",
+  "e6ec7d9a9eb6"
  ],
  "news": [
+  {
+   "title": "Stop the war on Iran : Brooklyn peace activists urge Jeffries to help end conflict • Brooklyn Paper",
+   "source": "brooklynpaper.com",
+   "theme": "Géopolitique",
+   "link": "https://www.brooklynpaper.com/brooklyn-peace-activists-urge-jeffries-to-end-iran-war/",
+   "published": "2026-10-21T18:45:00+00:00",
+   "id": "b6bf922387f5",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Sisi says Egypt to  defend Saudi territory  and will not attack Yemen",
+   "source": "arynews.tv",
+   "theme": "Géopolitique",
+   "link": "https://arynews.tv/sisi-says-egypt-to-defend-saudi-territory-and-will-not-attack-yemen",
+   "published": "2026-10-21T18:45:00+00:00",
+   "id": "6df5c2f90a6d",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump to decide soon on Iran war; UK deploys RAF jets to defend Saudis TV7 Israel News - 21 Oct.",
    "source": "TV7 Israel News",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Efforts diplomatiques d'urgence reflétant un risque résiduel élevé au Moyen-Orient.",
    "method": "IA"
-  },
-  {
-   "title": "Treasury Yields Fall on String of Weak Housing Data",
-   "source": "WSJ",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
-   "published": "2026-10-20T18:51:00+00:00",
-   "id": "30f26ffd724f",
-   "impact": 3,
-   "cat": "taux",
-   "raison": "Baisse des rendements obligataires américains, soutenant directement le prix de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Israeli attacks kill 6 Palestinians , including 2 children , in Gaza despite ceasefire",
-   "source": "middleeastmonitor.com",
-   "theme": "Géopolitique",
-   "link": "https://www.middleeastmonitor.com/20261020-israeli-attacks-kill-6-palestinians-including-2-children-in-gaza-despite-ceasefire/",
-   "published": "2026-10-20T18:45:00+00:00",
-   "id": "07ce04f85f2f",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes au Moyen-Orient maintenant une prime de risque géopolitique modeste.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7291,7 +7291,9 @@
   "news|c4fe13c4049f": 1792606574.2615366,
   "news|b0fc8de55bb9": 1792606575.3554971,
   "news|ac2d2c672d54": 1792606576.473074,
-  "news|738d5c0eaa1d": 1792606577.604966
+  "news|738d5c0eaa1d": 1792606577.604966,
+  "news|b6bf922387f5": 1792610173.4970658,
+  "brk|US10Y|pdh|up|2026-10-21": 1792610174.8959126
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7442,6 +7444,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T19:16:15.869568+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.14%\n✅ Taux US 10 ans +4.2 pb\n✅ Pétrole +1.37%\n✅ EUR/USD -0.15%\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu 4/4 signaux dans ce sens,\nle dollar a continué à monter dans <b>59%</b> des cas sur 2h,\net l'or a baissé dans <b>52%</b> des cas (moyenne -0.3$, sur 75 cas).\n<i>Pour comparer : l'or monte 54% du temps sur 2h en général.</i>"
+  },
+  {
+   "ts": "2026-10-21T19:16:14.895967+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.136 → prix : <b>5.148</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.48 | 60j -0.32"
+  },
+  {
+   "ts": "2026-10-21T19:16:13.497141+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Stop the war on Iran : Brooklyn peace activists urge Jeffries to help end conflict • Brooklyn Paper</b>\n📰 brooklynpaper.com · Mer 21/10 20:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.brooklynpaper.com/brooklyn-peace-activists-urge-jeffries-to-end-iran-war/"
+  },
   {
    "ts": "2026-10-21T19:01:57.446598+00:00",
    "kind": "bias",
@@ -7726,21 +7743,6 @@
    "ts": "2026-10-21T02:46:00.101859+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Jr. Raised Concerns About Iran War to His Dad</b>\n📰 TMZ · Mer 21/10 02:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBrblpqSlZ5S3owRFJfN1EwckJoWnRfZFNiUHlORW5Ec1lYajh3VzVJQTNLbWdyRlFIVXJ2dVhSUnB4NjNPcHkxM19UV0NqTDl0R2VVbThxbFZHODZfZHlxMEdiMEVxdkh2QUhLYnAtRnlTXzl0dmNZeV9YU2g?oc=5"
-  },
-  {
-   "ts": "2026-10-21T02:16:09.808529+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway</b>\n📰 The Guardian · Mer 21/10 01:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYTVkY1QzQXRiVXEwVnloOTV4TEZjalpwS0ViOVI5UEl5a1lyekozOGoxN01OT252WXV4YW12S3JNVTQ1Rm5XdFhmaWFHV0tKNnIxQjB2V2V1X2w5d01XMklUdTd4dk9FYy1fblFXZjd4R0JpQmdXVUZlbUYwZC1zcDBWZExtZ1dRam8xYkwzdFJlVmZoQkt4WTBpU25aTWFzSG5lbkl4RkpWWWJpOEV1dTFMcXF5Ukl4WmJ1LS1JakFzeF9vaTFoSTc0Qm5jM3dMVC05MUpzX2dIZXJJWU5wWA?oc=5"
-  },
-  {
-   "ts": "2026-10-21T02:01:33.347410+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Don Jr. opposed Iran war and told his dad not to start one: report</b>\n📰 The Independent · Mer 21/10 03:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVY5bVlsSkNoM0RTQ1NRaDYydnJ3aDdIajZveDZRUjVJQi1qNU9McWdrZnNNczBZcFJ6V2JxUktVbDRJcU80VlNBOFM4UzdDRWwxb2pmRjEzMmlkajhhZVBmLTNUNVZ3QlZQMmtXWE82dV9VaVlEa3J3d01GX0pNTWNPVjVtQWM2QWZtTTcwVHFrQ0JlWktHOGJ3ejFJeE5RUmZQVHdGb0I?oc=5"
-  },
-  {
-   "ts": "2026-10-21T00:46:25.635350+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Trump Threatens More Strikes on Iran’s Kharg Island, Pushes Allies on Strait of Hormuz</b>\n📰 EnergyNow.com · Mar 20/10 23:50\n🧠 Risque majeur d'escalade militaire au Moyen-Orient dopant fortement la demande refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEJkYjV5SWxuU3RxOUo2eHR0ZklpbDhsenVUMXdNNlhmRDRJTW95MVB2LVp4c0VHdWpPaFRRS0JLcHVtM0pyTkdZWUp2bU5aZ3R6enFxb3FRUUQ5SllCNEs2bkh0WmZObjFZT1NPQmswM3lGQThGUEVIdVBUeHZEeTBhcUZxNlpNa1htdW9IeG5PMFZjMFdVMzFHRHFhU3BweWdaS0phNUgxWUw2Z3N3WTlldFh3QQ?oc=5"
   }
  ],
  "daily_forecast": {
@@ -7823,6 +7825,6 @@
  },
  "dp_last": {
   "status": "up",
-  "ts": "2026-10-20T15:46:32.549106+00:00"
+  "ts": "2026-10-21T19:16:15.869526+00:00"
  }
 }
