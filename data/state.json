@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792580478.5102196,
+   "ts": 1792584950.1670682,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,15 +946,6 @@
   }
  },
  "seen_news": [
-  "fcea6f8a0d4a",
-  "203a506281c0",
-  "53642bd10229",
-  "f8e95193a8c2",
-  "02d115b8d516",
-  "0a1d613bb083",
-  "fdcc31d8538c",
-  "549acfb956ae",
-  "30222c41b810",
   "ee9b31e2b7ca",
   "2f57fc7865a3",
   "4fe2aa4412c0",
@@ -3945,7 +3936,16 @@
   "9ba65a36acce",
   "94c4b6b790a0",
   "6d76c8929b41",
-  "b927c29e7a47"
+  "b927c29e7a47",
+  "1e410519f67c",
+  "799f2d910329",
+  "8f329f54a420",
+  "9ebfc571ddb3",
+  "29715c5f5d48",
+  "75662c07d230",
+  "b3285536128c",
+  "a0a058908051",
+  "0a3516f8df4f"
  ],
  "news": [
   {
@@ -3958,6 +3958,18 @@
    "impact": 8,
    "cat": "fed",
    "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Netanyahu planned attack on Iran earlier this month, but Trump opposed it – report",
+   "source": "The Times of Israel",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2tFek1CVWlzWW53MkZQekkzaUlZQkJwWEpHcm1mTmVfMWo0MkJMN0lhQ194ek5kYVpZUDI3TmdFVnNxelkyd1YwOHNQT0EtN2s2aGl3YmJjZmpGNTljdTJzOHZtZkluczNrVXhLX2RqMEZjQ2ZfV2ZlMldtendyR1IyWXBPNnRSOTJ6cXpoR2NpYVBBZnlQVDhzVEVkSlFyWXoyWGFqcVAwZmxUOGtn0gG0AUFVX3lxTFB4WXdiZm4zVlZxZy1EZDlUTy1rckxMSjlKSFJleURFdExHU3BoLWhCekp6R203ejJGVjZXaVRIRm56d3lienU2N2lqT2t6YmVFaHdBN1R2enhNbm05R3lXSzhXZE1HcUhqZTVsd2JWSHFjYlNhNEYzUjZiNktHQy10M1JMNG1iaXFWdFZ4bGdaWThqMGpBY3puQ0toZW80Q2lubW91V2NDeU9FUF9oOEFhNXVJQQ?oc=5",
+   "published": "2026-10-21T11:49:09+00:00",
+   "id": "8f329f54a420",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Tir de missile balistique vers Riyad, nette intensification des tensions militaires régionales.",
    "method": "IA"
-  },
-  {
-   "title": "Statement by the HR/VP on the escalation of Russian strikes in the EU, particularly on Black Sea shipping, threatening human life, regional stability and food security",
-   "source": "EEAS",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWF2Y3V2eEFBYmFwMHlvc054RUpZb09FQV9ySjV3by1FZGYyWmR4Ukd2Y29MS0VBVkdCZXktS3MtTFdleUVmR2prUzdMNFZFdmREX2ZzVUZ1bWh6bS1sbFVmd1NpNDJCemc1aUFoTk10bHdONU5rNTE3VG9VQlFYbmJCc3RUMmJPeXNjU2NqZy1QTTUtQVlnMk1pazdCMU40NFZQSUk4N0hpZlpLQ1JMTHVjRUkyZC1ZNkxZQmd5T09HSzkxeGxHVWhwZm4zV2M?oc=5",
-   "published": "2026-10-20T12:03:28+00:00",
-   "id": "ef6a432ebe5f",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Menaces russes sur le transport maritime en mer Noire soutenant la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7263,7 +7263,8 @@
   "news|e0087805465b": 1792583166.0482247,
   "news|6d76c8929b41": 1792584099.7506263,
   "news|54d289fb666f": 1792584100.682156,
-  "rep|update|2026-10-21": 1792584103.019573
+  "rep|update|2026-10-21": 1792584103.019573,
+  "news|8f329f54a420": 1792584973.8131263
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7414,6 +7415,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T12:16:13.813196+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu planned attack on Iran earlier this month, but Trump opposed it – report</b>\n📰 The Times of Israel · Mer 21/10 13:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2tFek1CVWlzWW53MkZQekkzaUlZQkJwWEpHcm1mTmVfMWo0MkJMN0lhQ194ek5kYVpZUDI3TmdFVnNxelkyd1YwOHNQT0EtN2s2aGl3YmJjZmpGNTljdTJzOHZtZkluczNrVXhLX2RqMEZjQ2ZfV2ZlMldtendyR1IyWXBPNnRSOTJ6cXpoR2NpYVBBZnlQVDhzVEVkSlFyWXoyWGFqcVAwZmxUOGtn0gG0AUFVX3lxTFB4WXdiZm4zVlZxZy1EZDlUTy1rckxMSjlKSFJleURFdExHU3BoLWhCekp6R203ejJGVjZXaVRIRm56d3lienU2N2lqT2t6YmVFaHdBN1R2enhNbm05R3lXSzhXZE1HcUhqZTVsd2JWSHFjYlNhNEYzUjZiNktHQy10M1JMNG1iaXFWdFZ4bGdaWThqMGpBY3puQ0toZW80Q2lubW91V2NDeU9FUF9oOEFhNXVJQQ?oc=5"
+  },
   {
    "ts": "2026-10-21T12:01:42.066579+00:00",
    "kind": "ny_update",
@@ -7708,11 +7714,6 @@
    "ts": "2026-10-20T12:49:28.033741+00:00",
    "kind": "dollar_pressure",
    "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY -0.12%\n✅ Taux US 10 ans -5.5 pb\n✅ Pétrole -0.99%\n✅ EUR/USD +0.16%\n▫️ News dollar/Fed : 1 (impact moyen or +2.0)\n   • Posthaste: Trump's tariffs can inflict far worse damage on the economy than just a recession, warns economist\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu 4/4 signaux dans ce sens,\nle dollar a continué à baisser dans <b>52%</b> des cas sur 2h,\net l'or a monté dans <b>57%</b> des cas (moyenne +0.6$, sur 54 cas).\n<i>Pour comparer : l'or monte 54% du temps sur 2h en général.</i>"
-  },
-  {
-   "ts": "2026-10-20T12:49:27.080400+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 5.090 → prix : <b>5.081</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.48 | 60j -0.29"
   }
  ],
  "daily_forecast": {
