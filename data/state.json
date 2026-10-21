@@ -946,15 +946,6 @@
   }
  },
  "seen_news": [
-  "4f826c60412a",
-  "773d594e261f",
-  "723b7a427a76",
-  "3b495a842c3e",
-  "d0741bd610d0",
-  "31c5fa183c8b",
-  "530824bf315d",
-  "2cd3f5b8cafb",
-  "d576770339c0",
   "02621e0402f6",
   "ad090a8904f6",
   "3f63c37779fe",
@@ -3945,9 +3936,30 @@
   "01187d4b3e6b",
   "91ef6d20c1a0",
   "b066609c181a",
-  "e56e3459fedc"
+  "e56e3459fedc",
+  "2b1e3a91bf94",
+  "e1f5535ff6a9",
+  "cba08380dee3",
+  "443f4ed87f02",
+  "3dbd45e2e547",
+  "42254b6ae120",
+  "410cdf0f735d",
+  "c4117adb1c78",
+  "6c1ee4d163df"
  ],
  "news": [
+  {
+   "title": "UK inflation jumps more than expected fuelling rate hike expectations",
+   "source": "Yahoo Finance Singapore",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkpFaEQwUFl3N1lIeGhPOElReE44MDc5azFRaHBETmNHSVpTSkdMYzJlRjNhTTg4VWVZd3NyZU4wTEtxOEdIRjZySHRXdmJFYnFfYjN2MkdlcWpxSlVCZ2pLYWFRVDMzQ3NoeHkwUmNqczlPeVVxc0gyZEp2T1JLeVk1TzdWYlRu?oc=5",
+   "published": "2026-10-21T08:52:55+00:00",
+   "id": "42254b6ae120",
+   "impact": -9,
+   "cat": "inflation",
+   "raison": "baissier or (fed, inflation)",
+   "method": "mots-clés"
+  },
   {
    "title": "Israeli plans to strike Iran before election raise fears of wider regional war",
    "source": "Ynetnews",
@@ -3958,6 +3970,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Canadian hockey sticks, wine and cement subject to new Trump tariffs",
+   "source": "News From The States",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenpxemtYd3o3TWp1V0QxeUxaTWxTVERGNFZ2ak5jdDlSdWRWbHUtS042amhnWEpxS0pYaXNjMlpqSjNGTWRrS0g5UnZEUzZRYUdCTFVXS3RmeHBqeGV5REFVdmVGNkhENVp0b1BDWDA0Z0t6Y0RJUVBBV0J2R05DVFhYWEMzQldNTlRZdTNyeERPaVRoSmloZHYzeXE2dkltSFdvWVR3bDRNUQ?oc=5",
+   "published": "2026-10-21T08:31:31+00:00",
+   "id": "3dbd45e2e547",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Discussions diplomatiques en cours réduisant marginalement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel , officials say",
-   "source": "bworldonline.com",
-   "theme": "Géopolitique",
-   "link": "https://bworldonline.com/world/2026/10/20/788078/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say/",
-   "published": "2026-10-20T10:00:00+00:00",
-   "id": "92e07aabeb73",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions militaires accrues impliquant l'Iran, stimulant l'achat de valeurs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine claims US missile holdup ahead of reported talks",
-   "source": "newindianexpress.com",
-   "theme": "Géopolitique",
-   "link": "https://www.newindianexpress.com/world/2026/Oct/20/ukraine-claims-us-missile-holdup-ahead-of-reported-talks",
-   "published": "2026-10-20T10:00:00+00:00",
-   "id": "ad378396e17c",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitudes sur l'aide militaire et les négociations en Ukraine soutenant l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7251,7 +7251,8 @@
   "news|b8d0298c349f": 1792572393.508007,
   "news|01187d4b3e6b": 1792573475.6493645,
   "news|f962a9f286da": 1792573476.5002077,
-  "news|8f8d246d10ed": 1792573477.317496
+  "news|8f8d246d10ed": 1792573477.317496,
+  "news|42254b6ae120": 1792574169.1935039
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7402,6 +7403,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T09:16:09.193584+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-9/10)\n\n<b>UK inflation jumps more than expected fuelling rate hike expectations</b>\n📰 Yahoo Finance Singapore · Mer 21/10 10:52\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkpFaEQwUFl3N1lIeGhPOElReE44MDc5azFRaHBETmNHSVpTSkdMYzJlRjNhTTg4VWVZd3NyZU4wTEtxOEdIRjZySHRXdmJFYnFfYjN2MkdlcWpxSlVCZ2pLYWFRVDMzQ3NoeHkwUmNqczlPeVVxc0gyZEp2T1JLeVk1TzdWYlRu?oc=5"
+  },
   {
    "ts": "2026-10-21T09:04:37.317815+00:00",
    "kind": "news",
@@ -7696,11 +7702,6 @@
    "ts": "2026-10-20T09:48:18.248926+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-14), Fed (2 ans vs taux Fed) (-9), Taux réels 10 ans (20j) (-9)"
-  },
-  {
-   "ts": "2026-10-20T09:32:28.654019+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-14), Fed (2 ans vs taux Fed) (-9), Taux réels 10 ans (20j) (-9)"
   }
  ],
  "daily_forecast": {
