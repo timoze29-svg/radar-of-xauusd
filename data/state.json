@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "aaba2cabc33a",
-  "251f179e0a94",
-  "262865754691",
   "17dfb359048e",
   "2644b6e73dee",
   "f9b89b824429",
@@ -3945,7 +3942,10 @@
   "beee8102f6ef",
   "e42703fa9625",
   "3be22c5d709f",
-  "fe9483d2b873"
+  "fe9483d2b873",
+  "e0087805465b",
+  "7e058889f0ec",
+  "db87682bad4e"
  ],
  "news": [
   {
@@ -4943,6 +4943,18 @@
    "cat": "géopolitique",
    "raison": "Hausse des tensions militaires sino-américaines dans le Pacifique, stimulant la demande refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Tightening sanctions on Russia is 'the way to end this war,' says David Kramer",
+   "source": "PBS",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2liNEw4VTdIQmFzUU5VWkpoRzZoMFpPTlFGRU5jRGVTVi1mNm5MdlFudjlpaV9pRUJGNkM3eXJKV0RiNjY5amxraHZ5UVhJQ3VjdkEtWHBaTHlsQi1TeERyWlNyREF3cnFRVWZGdTlmTDBCT1Fpa0xKVjVsNTUxRldTSGZPWWxjVG5ublpnbTdzdkt6NDhKc2hGWUkwTm1BQk8ydF8xSU1NVUhqWVE?oc=5",
+   "published": "2026-10-20T22:50:24+00:00",
+   "id": "7e058889f0ec",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (fed, géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Donald Trump Son … Jr …. IS Against the Iran War …..",
@@ -6145,6 +6157,18 @@
    "method": "IA"
   },
   {
+   "title": "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
+   "source": "Fortune",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
+   "published": "2026-10-20T13:04:00+00:00",
+   "id": "e0087805465b",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "US leaving oil - for - security approach , not Middle East : Envoy Tom Barrack",
    "source": "aljazeera.com",
    "theme": "Géopolitique",
@@ -6322,30 +6346,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Menaces d'escalade directe Iran-USA soutenant la prime de risque et valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Britain to deploy fighter jets to defend Saudi Arabia from Houthi attacks",
-   "source": "mirror.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.mirror.co.uk/news/uk-news/raf-fighter-jets-saudi-houthis-37790818",
-   "published": "2026-10-20T12:00:00+00:00",
-   "id": "fc902e6b0340",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Implication militaire accrue au Moyen-Orient maintenant une demande de précaution.",
-   "method": "IA"
-  },
-  {
-   "title": "UK to deploy fighter jets to help protect Saudi from Houthi attacks",
-   "source": "hurriyetdailynews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hurriyetdailynews.com/uk-to-deploy-fighter-jets-to-help-protect-saudi-from-houthi-attacks-228377",
-   "published": "2026-10-20T12:00:00+00:00",
-   "id": "5d0a21184ddd",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions régionales persistantes soutenant modérément l'or face aux risques sécuritaires.",
    "method": "IA"
   }
  ],
@@ -7259,7 +7259,8 @@
   "news|02c2b865e7a5": 1792579574.2373145,
   "news|201493f1b3e0": 1792579575.2694013,
   "news|75ffa50d87a3": 1792580503.9440145,
-  "news|7f0b72660f7c": 1792581370.2418451
+  "news|7f0b72660f7c": 1792581370.2418451,
+  "news|e0087805465b": 1792583166.0482247
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7410,6 +7411,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T11:46:06.048295+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA</b>\n📰 Fortune · Mar 20/10 15:04\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5"
+  },
   {
    "ts": "2026-10-21T11:16:10.241910+00:00",
    "kind": "news",
@@ -7704,11 +7710,6 @@
    "ts": "2026-10-20T12:17:10.844374+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Posthaste: Trump's tariffs can inflict far worse damage on the economy than just a recession, warns economist</b>\n📰 Financial Post · Mar 20/10 13:59\n🧠 haussier or (commerce, emploi) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOWThLYnExNVFDVEgtLUdyam41MUFjVkpzdkRhQlhISnZ2REttM3VJWnJnXzg1cFhDb0hIM3hSVkFQcmNCR0YxY0dFcUZ3OWN3WEZidGtqMWZGSm5GWWExcXgyZktreWk4MUYxNHZLU2NkWVdVZzZlWE4yWUFlRTFjV05EWkZVdw?oc=5"
-  },
-  {
-   "ts": "2026-10-20T12:01:34.614820+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4139.40</b>  (-23.4$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-8) → maintenant -11 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n📏 Range fait : 36$ sur ~65$ attendus (56%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Pakistan Asim Munir visits Tehran as Iran warns of possible return to war with US\n🟢 (+8) Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine\n🟢 (+8) Trump explodes at Ukraine over war as Zelenskyy crunches US meeting | World | News\n🟢 (+8) March CPI Outlook: Inflation May Rise Slightly, Iran-US War Could Lock India Into 'Sticky' Inflation Cycle"
   }
  ],
  "daily_forecast": {
