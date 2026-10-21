@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "bf53e34495be",
-  "3599870975c9",
-  "05e45976ac61",
-  "7706e12d4ac0",
-  "9fb11c7f370b",
-  "fe067be8dad5",
   "10b9ec62fd7a",
   "2e98e2801d69",
   "10bbb6f3ddcf",
@@ -3945,9 +3939,39 @@
   "e1055420a608",
   "c940831e61eb",
   "0b94d96b6453",
-  "e3e8b40a3312"
+  "e3e8b40a3312",
+  "8780f33e56c3",
+  "19bd2efb1010",
+  "445c2b04692e",
+  "cc7498ed3536",
+  "ff3ee3b6ca07",
+  "3cdbf528cb3c"
  ],
  "news": [
+  {
+   "title": "Russia is selling off gold reserves. Why, to whom, and does it matter for the market?",
+   "source": "XTB.com",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaW1mS1JJUTM1T1BxcWZTX2I2MjVweFJKZFdsN3J6dVN1S3lJU2poQkExZTFFT21ES3l6SEpTZUNEa1ZHVVVyY09tV1diY3p5WXh2UnNybFQ2bk5sU2tIQVlmb0R5UVlFZ0tpaHZheURtZnRJa0xUeHRTVThtTUdiMG8wOWlENnVqZl8ybDhvZ1BXQUpwTjUtVnBReHZWUmMyZXAtaF8xSGNTQzI2QV9KVFR0MnMtQS04d0ZobWdsdjBHaUJKaE1zUVFqbEJRMVJHcE5fX01n?oc=5",
+   "published": "2026-10-21T16:12:22+00:00",
+   "id": "445c2b04692e",
+   "impact": 2,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran’s Tells Trump to Prove US Wants to End War Diplomatically",
+   "source": "Bloomberg.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnFJRllTaFp3NjhpNEphOFhhYmtnd3M0SWFZekdQWVhaNHJWMnpzWERzbGFzMk1WOHRSODBKdW1YeXdhSmRwTEpmSEw2a1hfYVhfT2VFSmdnMmoxOGV0TzJLd3poNEF1b2x4amI1N0ozcVI0VkdqdkQwWG5uZDI1cDY2UTJtSWVaMmJYeE1leHg2MnB0ZG41dFpaQ2pxNWJpeEtqWnp1OEZHbmlncTJudUNGYmY4eUE?oc=5",
+   "published": "2026-10-21T16:00:07+00:00",
+   "id": "19bd2efb1010",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Putin agrees to resume talks on Ukraine war with Kyiv and Washington – Kremlin",
    "source": "burytimes.co.uk",
@@ -6323,30 +6347,6 @@
    "cat": "commerce",
    "raison": "Contestations juridiques limitant potentiellement l'ampleur des barrières tarifaires inflationnistes.",
    "method": "IA"
-  },
-  {
-   "title": "Iran talks show signs of breakthrough as Israel weighs renewed strikes and Trump's expectations",
-   "source": "Ynetnews",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jeDdyVXlBanh6TzFLbFhwei1wUV9mWUR0WFpYQThxQ2NqZFpkdjZ6UERPM3RaY1pablZQN0NvOFp5Z3IyZVRrZUdaTWZEYWdOTmJtV2F3?oc=5",
-   "published": "2026-10-20T16:42:01+00:00",
-   "id": "92f94b510f05",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Signes d'avancée diplomatique avec l'Iran dégonflant la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Qatar reports progress in US-Iran talks, Tehran says it 'doesn't trust Washington': T",
-   "source": "Ynetnews",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jeDdyVXlBanh6TzFLbFhwei1wUV9mWUR0WFpYQThxQ2NqZFpkdjZ6UERPM3RaY1pablZQN0NvOFp5Z3IyZVRrZUdaTWZEYWdOTmJtV2F3?oc=5",
-   "published": "2026-10-20T16:42:01+00:00",
-   "id": "e5b3dd81bb25",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Ébauche de diplomatie réduisant très modérément la prime de risque géopolitique sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7285,7 +7285,8 @@
   "news|d5c9560d16df": 1792595772.670312,
   "news|da79ee7665ad": 1792597572.9455748,
   "news|bc38d91e641c": 1792597573.824232,
-  "burst|Russie / Ukraine|165981": 1792597575.0316505
+  "burst|Russie / Ukraine|165981": 1792597575.0316505,
+  "news|19bd2efb1010": 1792599368.2837753
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7436,6 +7437,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T16:16:08.283847+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s Tells Trump to Prove US Wants to End War Diplomatically</b>\n📰 Bloomberg.com · Mer 21/10 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORnFJRllTaFp3NjhpNEphOFhhYmtnd3M0SWFZekdQWVhaNHJWMnpzWERzbGFzMk1WOHRSODBKdW1YeXdhSmRwTEpmSEw2a1hfYVhfT2VFSmdnMmoxOGV0TzJLd3poNEF1b2x4amI1N0ozcVI0VkdqdkQwWG5uZDI1cDY2UTJtSWVaMmJYeE1leHg2MnB0ZG41dFpaQ2pxNWJpeEtqWnp1OEZHbmlncTJudUNGYmY4eUE?oc=5"
+  },
   {
    "ts": "2026-10-21T15:46:15.031717+00:00",
    "kind": "news_burst",
@@ -7730,11 +7736,6 @@
    "ts": "2026-10-20T19:46:56.238528+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>An Unexpected Iran-War Opponent: The President’s Son</b>\n📰 The Atlantic · Mar 20/10 21:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1KMWZ4dVIxcnk0QkJUQ1NjQkNlR0hINEJWT2pUMnBrSXRFTjd6aTg3MmhqanpCQkNkaDlDeU4yTnNCdjd3eEdjeFVVZHlXRmpIX2tOcXdCZHdOejlLbGozbnJfclNjVHgxTnptR2tQbEI5TUw3NUdvNEZzaEJ4V1U?oc=5"
-  },
-  {
-   "ts": "2026-10-20T19:46:55.281276+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Van Orden: Iran war makes 2026 ‘exponentially harder’ for Republicans</b>\n📰 WPR · Mar 20/10 21:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWTdJaGIxZEFkamdRYkxmZFhSMk1PeTloVFNEaXdzbTd3QUtlRVZhQm9qbGkxc2VQcGZYdXRfbDRoYjkyQmVwd3oyN0Z3c00xcDFfeldXanItU005MV9TYWVKSnpnN01nMG1iOUJBVnQwa0lsUF9ySXRLWV9CWjdDM1NUaE52U2FhbVFF?oc=5"
   }
  ],
  "daily_forecast": {
