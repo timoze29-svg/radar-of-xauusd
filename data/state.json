@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "d18b53ab0cf5",
-  "f263d7c280d2",
-  "c25927d8d33f",
-  "b41d296e71a1",
-  "2c0c15579272",
-  "1fb05538c468",
-  "d35650f86cea",
   "4f826c60412a",
   "773d594e261f",
   "723b7a427a76",
@@ -3945,31 +3938,26 @@
   "1071a5bb0386",
   "607803f5648e",
   "370da95d95bc",
-  "aab7809fe3ad"
+  "aab7809fe3ad",
+  "1cb56aadd95a",
+  "8f8d246d10ed",
+  "f962a9f286da",
+  "01187d4b3e6b",
+  "91ef6d20c1a0",
+  "b066609c181a",
+  "e56e3459fedc"
  ],
  "news": [
   {
-   "title": "Trump snaps at reporter, ordering him to be quiet",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXJXSDI4b2gzak5iNVh1OWpnRDVFcHhpaks2SUk1U2F3aTczdHdsN1F6bzltVnNUWlZrNjhRQW9kd3JMaHFmRFlxeTBrREVvMDRrdkpTdDREVk85c3c2SnBNeVduRzlHSHhOVXBzLWk4R2RnS0lrZFEzVnB3dTBwbWF2Nm1iQTd6UTFPNDYtcEpmZlB0LVdCb3dYOTNfYWhiNkHSAacBQVVfeXFMTXotX0Q2dktEU2RSUUxBV3p4eERNRkdvWXJBY29oWDY0NERma2p6RDE1SWRLNXhNTFlkSkh6RDlFekgxU0FNRmQwZUhnQjVyOVphZFVUaUVHbkRtVFc0Ry1GVUdZWDBQMjJWS3RXUUxNbGwxbEhjb09aazZzOUhHalFJN0kydjlRQzdxOGNSZF9ndXV6dTZrWk5rdURsUVBPRF82MnhBT1E?oc=5",
-   "published": "2026-10-21T08:41:01+00:00",
-   "id": "d69d58e72e8d",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Why the U.S., Not Just France, May Be Facing a Credit-Spread Problem",
-   "source": "Substack",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYzczbC1tV193dzhkSXRXY2Q0bUY5eGMtUXRTTE4yRy1SSUNhenlYS2tXQmRaN0RpY0VrNmNkODllcWZYcm5ZZ0V0UzVNV1FqNGNrTkpRZ2xGbnNLaEgtLW5sdUQ0STZDR09HTHZhcHdXUE81bWw3dFl4eWVaYWZvUE9B?oc=5",
-   "published": "2026-10-21T08:36:07+00:00",
-   "id": "aab7809fe3ad",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "Israeli plans to strike Iran before election raise fears of wider regional war",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbXU5ZV9TZm8wOFlyeEVTRVlvckRHSHFtYnpLWldkREdqOFNRbnFWZThXazNCMkZJM2E1eWVwQzJnSHQ1MzZHR2R5QUpESU5oSllIcGVR?oc=5",
+   "published": "2026-10-21T08:45:55+00:00",
+   "id": "01187d4b3e6b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4043,6 +4031,18 @@
    "cat": "inflation",
    "raison": "Inflation britannique accrue renforçant les rendements obligataires mondiaux, défavorable à l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Oil prices rise amid threat of escalation in the Middle East and shrinking US inventories",
+   "source": "Mezha.net",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EMFpkaC15cDh1dlF1dVFFZE5KYVRQR2d1bzQ1bUI2MmwyNDVFQWJxZ2N4bGZRVHB4YzVfUDZyWlpIUkkyNjc5dVhwVE9ia09MMEM5RTJUbmZtS2JBMmRvYjZjVVNJUUt1REdjbFdxYzB1MnBHNWlZY0xRRWNUSTA?oc=5",
+   "published": "2026-10-21T06:51:50+00:00",
+   "id": "91ef6d20c1a0",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Israel was reportedly preparing to strike Iran, but Trump withheld approval",
@@ -4249,6 +4249,18 @@
    "method": "IA"
   },
   {
+   "title": "Report: Netanyahu planned to attack Iran, Trump said - don't",
+   "source": "Israel National News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQUZyV0xZVUF0WW45NUp5NXlmWHpqZHNKMnpIX1ZIVUpQT1UxZm5qX1YyY1k1emFWOWZ0R0ZRd3ZPcnN1NVFPN2lVVU9GeHljUG9xVWhsODhLQQ?oc=5",
+   "published": "2026-10-21T05:00:00+00:00",
+   "id": "f962a9f286da",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "War prep in full swing? USS Theodore Roosevelt to arrive in Middle East by November end",
    "source": "The Week",
    "theme": "Moyen-Orient",
@@ -4355,6 +4367,18 @@
    "cat": "géopolitique",
    "raison": "Hausse des tensions au Moyen-Orient favorisant la demande pour l'or comme valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Netanyahu made plans to restart Iran strikes earlier this month",
+   "source": "Financial Times",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY?oc=5",
+   "published": "2026-10-21T04:00:13+00:00",
+   "id": "8f8d246d10ed",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan’s Taiwan War Drills",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Incertitudes sur l'aide militaire et les négociations en Ukraine soutenant l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Russian missile and drone blitz kills 4 in Ukraine as Zelenskyy seeks help in Norway",
-   "source": "2news.com",
-   "theme": "Géopolitique",
-   "link": "https://www.2news.com/news/world/russian-missile-and-drone-blitz-kills-4-in-ukraine-as-zelenskyy-seeks-help-in-norway/article_ff417d4d-36d6-5feb-980a-3a200effeca5.html",
-   "published": "2026-10-20T10:00:00+00:00",
-   "id": "1f4e020b169e",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Intensification des frappes russes renforçant la demande d'or comme valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Europe Braces for a Russian Winter",
-   "source": "Time Magazine",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QVkktTmRyczZhTHo4UnpQY3VER00xZzk5ZjlPcGotVVJHOWd1eVhzXzBZaGstbFpGUHhEREpyY3RsM01LN29FbGprQ0JWSTllN2ZEaXZjT0Y5U283T19WOWZQMUlfNnRUd3dYZGoya2tEZzgtTXRJ?oc=5",
-   "published": "2026-10-20T10:00:00+00:00",
-   "id": "0e21f7c9a6c8",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Inquiétudes énergétiques européennes ravivant un fond de tensions géopolitiques et d'inflation.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7248,7 +7248,10 @@
   "news|dca58c03438c": 1792568184.2411156,
   "news|9da55a2f59e1": 1792571607.3411622,
   "news|8b0b2d9e1beb": 1792572392.451018,
-  "news|b8d0298c349f": 1792572393.508007
+  "news|b8d0298c349f": 1792572393.508007,
+  "news|01187d4b3e6b": 1792573475.6493645,
+  "news|f962a9f286da": 1792573476.5002077,
+  "news|8f8d246d10ed": 1792573477.317496
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7399,6 +7402,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T09:04:37.317815+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu made plans to restart Iran strikes earlier this month</b>\n📰 Financial Times · Mer 21/10 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY?oc=5"
+  },
+  {
+   "ts": "2026-10-21T09:04:36.500487+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Netanyahu planned to attack Iran, Trump said - don't</b>\n📰 Israel National News · Mer 21/10 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQUZyV0xZVUF0WW45NUp5NXlmWHpqZHNKMnpIX1ZIVUpQT1UxZm5qX1YyY1k1emFWOWZ0R0ZRd3ZPcnN1NVFPN2lVVU9GeHljUG9xVWhsODhLQQ?oc=5"
+  },
+  {
+   "ts": "2026-10-21T09:04:35.649438+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli plans to strike Iran before election raise fears of wider regional war</b>\n📰 Ynetnews · Mer 21/10 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbXU5ZV9TZm8wOFlyeEVTRVlvckRHSHFtYnpLWldkREdqOFNRbnFWZThXazNCMkZJM2E1eWVwQzJnSHQ1MzZHR2R5QUpESU5oSllIcGVR?oc=5"
+  },
   {
    "ts": "2026-10-21T08:46:33.508169+00:00",
    "kind": "news",
@@ -7683,21 +7701,6 @@
    "ts": "2026-10-20T09:32:28.654019+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-14), Fed (2 ans vs taux Fed) (-9), Taux réels 10 ans (20j) (-9)"
-  },
-  {
-   "ts": "2026-10-20T08:46:21.709465+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Revolutionary Guard cites 7 internet cables under Strait of Hormuz , warns of  new targets</b>\n📰 tribune.com.pk · Mar 20/10 10:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://tribune.com.pk/story/2635854/irans-revolutionary-guard-cites-7-internet-cables-under-strait-of-hormuz-warns-of-new-targets"
-  },
-  {
-   "ts": "2026-10-20T06:16:00.125355+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war</b>\n📰 CBS News · Mar 20/10 06:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPanFrNWx2a3l3QklhbTBtSlN4UnhSSnZ1Z2J6SkR2WGVrNUM5cmYzSmtqMmFNLWdwOE94OEVWaFJZYXF6bHlXTDZiQ3YzMFlxMWFkZ1BBUGI3MWRwbzdIb0RDNzJhV0I0Y0NYWkJfRks0b0JGQTNEV2JrLXpzTlZXS3JqR3lTenM?oc=5"
-  },
-  {
-   "ts": "2026-10-20T06:01:36.569575+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Houthi attack on Yemen military camp kills 58</b>\n📰 Arabian Business · Mar 20/10 03:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
