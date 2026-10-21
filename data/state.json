@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "ee9b31e2b7ca",
-  "2f57fc7865a3",
-  "4fe2aa4412c0",
-  "5d532e4dea5e",
-  "a04d808d775e",
-  "e9211ff602ee",
   "92545b9e589a",
   "dbe48f11b19d",
   "e7c4fadbb791",
@@ -3945,7 +3939,13 @@
   "75662c07d230",
   "b3285536128c",
   "a0a058908051",
-  "0a3516f8df4f"
+  "0a3516f8df4f",
+  "61084cc0c46d",
+  "00129fbf8900",
+  "d35c1779eaeb",
+  "450ea6b80e4e",
+  "bfaac1220d3e",
+  "264a414decf0"
  ],
  "news": [
   {
@@ -3970,6 +3970,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark",
+   "source": "Investing.com",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYVRySVRfb1lrVEFZN1VUSHo2QXozZGRScTJ5UU55QzZDS1ByTGRxYUtlemNHaWlUT1N1cEtMNWpyVWkxb1E4UDhsMV8yRUZGaWdTQ2hGVkNQaEE4OVJQeXVoVHB3SHVuMEFZSWRBb25qVWM5anRkYm5vYlludkh3YWw3YTJGQVRWeEw4dTZEb2FPUXBUWGhIYUZwXy0zQ3VnT3NPdWFfVHFHX1NxaUhVblhpZno0elFFT19ZTjNxSHlFeEZh?oc=5",
+   "published": "2026-10-21T10:46:35+00:00",
+   "id": "264a414decf0",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -6334,18 +6346,6 @@
    "impact": -1,
    "cat": "inflation",
    "raison": "Légère accalmie inflationniste locale, pesant de façon marginale sur la couverture anti-inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "Saudi - led coalition says ballistic missile launched by Houthis toward Riyadh intercepted",
-   "source": "bignewsnetwork.com",
-   "theme": "Géopolitique",
-   "link": "http://www.bignewsnetwork.com/news/279387291/saudi-led-coalition-says-ballistic-missile-launched-by-houthis-toward-riyadh-intercepted",
-   "published": "2026-10-20T12:15:00+00:00",
-   "id": "8b654d786ef5",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tir de missile balistique vers Riyad, nette intensification des tensions militaires régionales.",
    "method": "IA"
   }
  ],
