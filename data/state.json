@@ -946,40 +946,6 @@
   }
  },
  "seen_news": [
-  "7c4b08dcadc4",
-  "190af739d6eb",
-  "afa642a32450",
-  "6fec7ca8e65e",
-  "d85e056d9182",
-  "a692f2982974",
-  "906dce87f39b",
-  "1574ae2b5ec9",
-  "cc0c872dc969",
-  "cd26f72c2b21",
-  "e1cb5f67adcc",
-  "f6f854ba7c13",
-  "b77309e18c36",
-  "4befdef4d441",
-  "2a2622515810",
-  "e1c1bce19dcc",
-  "8003fc02f349",
-  "f3d9595483ec",
-  "4a49f8c3cbdc",
-  "b328f18d81ad",
-  "50a9b73a9240",
-  "f58ee4b22677",
-  "2c0564c2497c",
-  "4de3e317b8a0",
-  "9f994805af01",
-  "2d382411e5ab",
-  "6a38500b65e9",
-  "b586986c51ba",
-  "ab997fd8ca84",
-  "fb46e19fc7d5",
-  "01ef842afd28",
-  "c2dee772f8ee",
-  "55716f105e06",
-  "979072c5bfc1",
   "c1fe122a0599",
   "230e2c90a8d1",
   "92aa87fe24ea",
@@ -3945,7 +3911,41 @@
   "7f3f33691e9d",
   "7e2a7e4b6a01",
   "8beb622e6b78",
-  "1c7581b8aa1f"
+  "1c7581b8aa1f",
+  "a83450c12692",
+  "929f5e5f7b28",
+  "21345ad0bc17",
+  "fb37ebdfd6be",
+  "fbb91d66a7b8",
+  "1bf3750a85bf",
+  "f03ae43be7b4",
+  "ffea76ce810e",
+  "beb110651a08",
+  "bcf0915c6614",
+  "42fcbae6e12b",
+  "a04b17c67a5d",
+  "71c3f0c55215",
+  "354e819460aa",
+  "fd11ef103547",
+  "420ffd030110",
+  "2a69007d209e",
+  "833cd4b85f6d",
+  "8cbb1bc97469",
+  "53e9044c2ee3",
+  "0b419721a704",
+  "ccee7f348ea2",
+  "17dd0c8a92b0",
+  "92d8471afcff",
+  "036cd7ee2bf6",
+  "78770541727c",
+  "9ff7f4c6e6fd",
+  "d1f539a56540",
+  "87205655f79a",
+  "fced95377564",
+  "569c50feba22",
+  "837baaa88664",
+  "fbf775e99eca",
+  "033dfd95556d"
  ],
  "news": [
   {
@@ -3959,6 +3959,66 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes avec l'Iran soutenant modestement l'or comme valeur refuge face au risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "US issues fresh warning as Houthi attacks disrupt Saudi airp",
+   "source": "punchng.com",
+   "theme": "Géopolitique",
+   "link": "https://punchng.com/us-issues-fresh-warning-as-houthi-attacks-disrupt-saudi-airports/",
+   "published": "2026-10-21T21:30:00+00:00",
+   "id": "354e819460aa",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gulf exports more oil than it did before Iran war despite surge in Hormuz attacks",
+   "source": "middleeasteye.net",
+   "theme": "Géopolitique",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks",
+   "published": "2026-10-21T21:30:00+00:00",
+   "id": "8cbb1bc97469",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Two Palestinians killed , several injured in Israeli drone strike in Gaza City",
+   "source": "middleeasteye.net",
+   "theme": "Géopolitique",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-several-injured-israeli-drone-strike-gaza-city",
+   "published": "2026-10-21T21:30:00+00:00",
+   "id": "78770541727c",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Solar PPA prices jump 5 % in Q3 , mainly on new trade tariffs : LevelTen",
+   "source": "utilitydive.com",
+   "theme": "Géopolitique",
+   "link": "https://www.utilitydive.com/news/tariffs-solar-wind-ppa-prices-levelten/833598/",
+   "published": "2026-10-21T21:30:00+00:00",
+   "id": "87205655f79a",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
+   "published": "2026-10-21T21:27:41+00:00",
+   "id": "21345ad0bc17",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump’s Putin Overtures Deserve Criticism. But Outrage Won’t End the Ukraine War.",
@@ -6287,66 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Retards d'armement pour l'Ukraine, alimentant une légère incertitude géopolitique globale.",
    "method": "IA"
-  },
-  {
-   "title": "New Jersey food importer files lawsuit challenging Trump 50 % tariffs on Canadian goods",
-   "source": "republicanherald.com",
-   "theme": "Géopolitique",
-   "link": "https://www.republicanherald.com/2026/10/20/canada-tariffs-legality/",
-   "published": "2026-10-20T21:30:00+00:00",
-   "id": "bb81032ffaf4",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Incertitude juridique autour des tarifs de Trump, maintenant la prime de risque commerciale.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump faces lawsuit over tariffs on Canada",
-   "source": "news.az",
-   "theme": "Géopolitique",
-   "link": "https://news.az/news/trump-faces-lawsuit-over-tariffs-on-canada",
-   "published": "2026-10-20T21:30:00+00:00",
-   "id": "6bd6f83b981c",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Contestation des tarifs douaniers créant de la volatilité sur les perspectives commerciales.",
-   "method": "IA"
-  },
-  {
-   "title": "Growing voter discontent threatens another shake - up in Washington",
-   "source": "foxreno.com",
-   "theme": "Géopolitique",
-   "link": "https://foxreno.com/news/nation-world/growing-voter-discontent-threatens-another-shake-up-in-washington",
-   "published": "2026-10-20T21:30:00+00:00",
-   "id": "7d0a9f304efd",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Risque d'instabilité politique américaine pouvant peser très légèrement sur le dollar.",
-   "method": "IA"
-  },
-  {
-   "title": "US yields ease off lows as stocks rally | Stock Market News",
-   "source": "livemint.com",
-   "theme": "Géopolitique",
-   "link": "https://www.livemint.com/market/us-yields-ease-off-lows-as-stocks-rally-11792521918675.html",
-   "published": "2026-10-20T21:30:00+00:00",
-   "id": "bf61f0f02f5e",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "Rebond des rendements obligataires américains et appétit pour le risque défavorables à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "From Soybeans to Data Centers , China Debate Hits US Midterm Campaigns",
-   "source": "voanews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.voanews.com/a/from-soybeans-to-data-centers-china-debate-hits-us-midterm-campaigns-20261020/8213314.html",
-   "published": "2026-10-20T21:30:00+00:00",
-   "id": "267163ddf415",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Rhétorique protectionniste anti-Chine en campagne, alimentant les incertitudes commerciales bilatérales.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7302,7 +7302,8 @@
   "news|9d45184ddfd6": 1792613766.0391178,
   "news|fc789c55c8bc": 1792614689.6897426,
   "news|bddaa17b93b5": 1792615567.099603,
-  "news|ccf74e0eb7f7": 1792618285.542435
+  "news|ccf74e0eb7f7": 1792618285.542435,
+  "news|8cbb1bc97469": 1792620100.951243
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -7453,6 +7454,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T22:01:40.951307+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Gulf exports more oil than it did before Iran war despite surge in Hormuz attacks</b>\n📰 middleeasteye.net · Mer 21/10 23:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeasteye.net/live-blog/live-blog-update/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks"
+  },
   {
    "ts": "2026-10-21T21:31:25.542525+00:00",
    "kind": "news",
@@ -7747,11 +7753,6 @@
    "ts": "2026-10-21T08:46:33.508169+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Netanyahu planned attack on Iran earlier this month, but Trump opposed it</b>\n📰 The Times of Israel · Mer 21/10 07:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2ZqT3ZPT19KMlJ1cVVydVI5cXM5UDBjWlR4LUlEMGxJeVNaTTVjcTU3R1g2VjcyRzVidlRsWXR1dVlVUnpselpQMEZhdDlZTzZ0U3lmSzNaSWtod3hRNTZFWUVkSDA4R0lXb3dBTUJVbEFLRk9uT1R5SjhEMjVKcjdYcVVBakw4cmwzanluVThKRHRNYTQzc1dzVmVrSlViM2N4WDFFQTlxUFAtN003VUZoTjFZcTlOOUNjSWlWdzhzRlk?oc=5"
-  },
-  {
-   "ts": "2026-10-21T08:46:32.451092+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-9/10)\n\n<b>UK inflation jumps to 3.5% — cementing rate hike expectations</b>\n📰 CNBC · Mer 21/10 08:02\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMFE1c0o5clpFOWdSQzVWX1VBSDVFcmpXSmptNDRoVGdNUEVkYWdRZW54T1VLOWJ3aU1IeHlGMURjdHE4VzZ3YWdHdzUwekFiWlV2ODk1NVJqX1RfYzVjV3VQQXBWVFhRaUVJNnhfUGxMSFUxUWZn0gF8QVVfeXFMUGd4V2l3bVF1Z09FdlBiMG5lbUNMTWJvWjg2UHdWMjhPUEhPNjNVUGtVc3ZtNFlDVGtCOUFzRjNKWW5iUWV6X1BpLVBLNVcxazRFcTV5OWgyQ1BBVUFBaG1CdFFTdjZpRGU1ZzdvbUx3d09GZjBjNEpGcXQtQw?oc=5"
   }
  ],
  "daily_forecast": {
