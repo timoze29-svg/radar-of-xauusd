@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "b82913bdc182",
-  "c11046dfd3c8",
-  "dd7dc444df91",
-  "532edb140758",
-  "915383bf81af",
-  "5c00b5e28552",
   "b162bce10b14",
   "6f492f53032e",
   "31d35ebedcd4",
@@ -3945,9 +3939,27 @@
   "42f353509f8a",
   "914d00545a4e",
   "7070c9f1dc82",
-  "509d98303333"
+  "509d98303333",
+  "0d9080c485f6",
+  "4a89c1d77bf3",
+  "92205137443a",
+  "172be5d0a874",
+  "fcffaf6b35c9",
+  "1db22133ccfb"
  ],
  "news": [
+  {
+   "title": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
+   "source": "AP News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
+   "published": "2026-10-21T17:08:00+00:00",
+   "id": "1db22133ccfb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
    "source": "Axios",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Légère incertitude sur l'aide militaire américaine soutenant marginalement la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Zelenskiy meets Witkoff as US-Ukraine relations sink to new lows",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c?oc=5",
-   "published": "2026-10-20T17:09:59+00:00",
-   "id": "ee203440ccb6",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions accrues Washington-Kiev renforçant l'incertitude géopolitique en Europe, favorable à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7286,7 +7286,8 @@
   "news|da79ee7665ad": 1792597572.9455748,
   "news|bc38d91e641c": 1792597573.824232,
   "burst|Russie / Ukraine|165981": 1792597575.0316505,
-  "news|19bd2efb1010": 1792599368.2837753
+  "news|19bd2efb1010": 1792599368.2837753,
+  "news|1db22133ccfb": 1792603888.1848648
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7437,6 +7438,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T17:31:28.184937+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says</b>\n📰 AP News · Mer 21/10 19:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5"
+  },
   {
    "ts": "2026-10-21T16:16:08.283847+00:00",
    "kind": "news",
@@ -7731,11 +7737,6 @@
    "ts": "2026-10-20T20:01:34.653003+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — MARDI 20/10</b>\nOr : <b>-20.6$</b> depuis minuit · plus haut 4174.9 (16h30) / plus bas 4130.1 (11h55) · range 45$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-8) à 4162.8 → maintenant 4141.6 (-21.2$)\nRange : 45$ réalisé vs ~65$ attendu (69%)\nNiveaux touchés : S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 57% de bonnes directions (4 ✅ / 3 ❌ / 0 ➖ sur 7 jours)\n20 derniers jours : 57%  ·  ✅✅✅❌✅❌❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.25% · Taux 10 ans -1.9 pb · Pétrole -0.06% · EUR/USD +0.20% · S&P 500 +0.26% · Argent +1.27%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Britain at risk of more terror attacks as US - Iran war set to explode again\n🟢 (+10) Statement by the HR/VP on the escalation of Russian strikes in the EU, particularly on Black Sea shipping, threatening human life, regional stability and food security\n🟢 (+10) Iran regime under pressure as rebel groups escalate attacks in volatile southeast\n🟢 (+10) FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News\n\n📅 <b>Demain (mercredi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
-  },
-  {
-   "ts": "2026-10-20T19:46:56.238528+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>An Unexpected Iran-War Opponent: The President’s Son</b>\n📰 The Atlantic · Mar 20/10 21:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1KMWZ4dVIxcnk0QkJUQ1NjQkNlR0hINEJWT2pUMnBrSXRFTjd6aTg3MmhqanpCQkNkaDlDeU4yTnNCdjd3eEdjeFVVZHlXRmpIX2tOcXdCZHdOejlLbGozbnJfclNjVHgxTnptR2tQbEI5TUw3NUdvNEZzaEJ4V1U?oc=5"
   }
  ],
  "daily_forecast": {
