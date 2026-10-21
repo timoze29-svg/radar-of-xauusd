@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "b24dbbc96c2c",
-  "f699e87827fb",
-  "bbbc09da889b",
-  "614c1549d3f5",
   "565323cd6d5b",
   "14da5bb68a8c",
   "6cdd6e9d9c23",
@@ -3945,7 +3941,11 @@
   "0e9b63bd7b1b",
   "56b7cc5182b9",
   "b0deeba9c1b9",
-  "fe4ac87a33f6"
+  "fe4ac87a33f6",
+  "00a4f9519c6b",
+  "97ea5e548cee",
+  "bf5eb807df0d",
+  "55139cc16df9"
  ],
  "news": [
   {
@@ -4064,6 +4064,18 @@
    "published": "2026-10-21T00:45:00+00:00",
    "id": "7c3a64b06fae",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Donald Trump Jr. Raised Concerns About Iran War to His Dad",
+   "source": "TMZ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrblpqSlZ5S3owRFJfN1EwckJoWnRfZFNiUHlORW5Ec1lYajh3VzVJQTNLbWdyRlFIVXJ2dVhSUnB4NjNPcHkxM19UV0NqTDl0R2VVbThxbFZHODZfZHlxMEdiMEVxdkh2QUhLYnAtRnlTXzl0dmNZeV9YU2g?oc=5",
+   "published": "2026-10-21T00:38:07+00:00",
+   "id": "55139cc16df9",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Risque d'escalade militaire avec l'Iran stimulant les flux vers la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD Slips Toward $4,076 as Houthi Strikes Lift Oil and Yields",
-   "source": "FXLeaders",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVF6U0k2ejlhUTBjd1FoTTBGQUF1MHdEMkJKcmE3aUVzNnh6YUZTXzByN1BMSTFmUUgtYTZRZXdhZTAyRk5BSHROR1dVNVNpc0RzZ3hUQW5OdzFtbG9WTi1kWFM5dC03MTV4Y3RjeUxIRTd4cURmbXJ1MGhFcDN6SHRZWU5rZWlHbElWZUI1QkJmZFd3X3lVNWZB?oc=5",
-   "published": "2026-10-20T06:40:15+00:00",
-   "id": "700f4004c147",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "La hausse des rendements obligataires induite par le pétrole neutralise l'attrait refuge de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7236,7 +7236,8 @@
   "news|d006aea4d22d": 1792538166.366662,
   "news|9c298b0851bf": 1792543585.635277,
   "news|2127477b4a5c": 1792548093.3473299,
-  "news|162e131badf8": 1792548969.8084657
+  "news|162e131badf8": 1792548969.8084657,
+  "news|55139cc16df9": 1792550760.1018012
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7371,6 +7372,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T02:46:00.101859+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Jr. Raised Concerns About Iran War to His Dad</b>\n📰 TMZ · Mer 21/10 02:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBrblpqSlZ5S3owRFJfN1EwckJoWnRfZFNiUHlORW5Ec1lYajh3VzVJQTNLbWdyRlFIVXJ2dVhSUnB4NjNPcHkxM19UV0NqTDl0R2VVbThxbFZHODZfZHlxMEdiMEVxdkh2QUhLYnAtRnlTXzl0dmNZeV9YU2g?oc=5"
+  },
   {
    "ts": "2026-10-21T02:16:09.808529+00:00",
    "kind": "news",
@@ -7665,11 +7671,6 @@
    "ts": "2026-10-20T01:03:45.277896+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar warns global energy shockwaves from Iran war have yet to peak</b>\n📰 Al Jazeera · Lun 19/10 11:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVHSAbMBQVVfeXFMT0V1ZDUxUjhWYW9iOENYbi1sNFhfSXlNSi12ZDZRbWJ6ZTVJWjRyd3BvUnBJZ2xRLWpSTUlnLWNVd0ZNZ0xTU2EzVUVsTWpNcXlJbkxLXzE4LVJ1OHNFM0NTQ1dxYy1IRUJLSGlqenFYeGVCVjhGVU5GYW1vSldqVE1weWRpRjhjeHk0QVFxVFE0aTBzN2hSQ2ZWYkd1YnlVaEYzQzN4TXIxcDFnNE5FMlJMTzA?oc=5"
-  },
-  {
-   "ts": "2026-10-20T00:31:29.652745+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US embassy urges 'heightened vigilance' in Middle East amid escalating Houthi attacks</b>\n📰 voz.us · Lun 19/10 17:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWNvWW0xdlBaTkx2ZjAtYXpuMTZJYmlNOUpBc2lqRnI1TGtObXJodW8wMU1wSjlWYXJVQ3BmZEdZX0tKN1JjcjFheEg0U2RRbVRIMDlSTl9DY09iVGtQQTNoYWRlZm9OMllrT1BYU1p3SVFmZU1SQ2pWa1BlQjEyQ0lmT0k4cVRZZ0hVNUlZNEVVZUcxNVpTNDRXS1pIS1B5ZFlaNk1ET2FhU3pHSGhfN0tIV3c1eHAyaWtrMGhoQkZhX0xFak5iMQ?oc=5"
   }
  ],
  "daily_forecast": {
