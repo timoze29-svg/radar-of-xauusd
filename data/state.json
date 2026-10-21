@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "0e0f42fa3d2e",
-  "0b4214a73057",
   "96490c513a71",
   "99d97f5db24e",
   "021510eb11de",
@@ -3945,31 +3943,33 @@
   "6ded6416038a",
   "2d89e176c7d8",
   "d1e69f1ccd30",
-  "c22d7b4e7dae"
+  "c22d7b4e7dae",
+  "94bb167f1b15",
+  "41020e617be3"
  ],
  "news": [
   {
-   "title": "Taiwan denies entry to Chinese actor Zhang Linghe — Taipei Times",
-   "source": "UA.NEWS",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVZ3Y2NoMncybTdJVjdZZEU3dmswTE5kNEs0Nm94c2NYSDhxWW5sVEU5M2VyRHZ2ZXdnZ2ZEYTlNQmpjWWpfVzMxcmJaZ0JOcnZ5Y1RDYjBoczFhWWh5ZW96SGVKSXZZMDRfRVoxZnZHTlBNNzZEQS15RVpic3NhVlNRQktpN193TjM2Ylp6UldTd1dzWkNaeHVZVmJmbHNlRjJkcEdDSQ?oc=5",
-   "published": "2026-10-21T23:15:47+00:00",
-   "id": "c22d7b4e7dae",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "US, Israel develop plans for renewed strikes on Iran after midterm elections: Report",
+   "source": "Anadolu Ajansı",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLTNtaUlPOFB5M1EtSktDVmFzUDhuaS1pNmlmc3NGdkplQTNseHRpOXBySDVXNVA0UjJnU2x5M0ZrV0k1RjJvZ0hRV09TMjBkNGNPTGI2UjJybFBQU3Jka3RrdDF0TGkzdmJhSHhFQkdIZk12RVNNOTJDVE40WkNtWUxhYWFfZGRsY3plcXM0by14SHczVWhiZk5yd1BRNmJuYmF3NUxvemc5N1AxM3lMX1hldENob2ZnWDVUamppbXFJWGxGSmc?oc=5",
+   "published": "2026-10-21T23:44:06+00:00",
+   "id": "41020e617be3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
-   "title": "Russia releases detained American Stephen Hubbard, Trump says",
-   "source": "USA Today",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkY5UWF0ZHlqWWxyMklDV21aejZzWjAzUzBQdkVidm9xaE9saGswUnZhaThNaXZEZTNiczFBR3U0VHY1STBvNktTMGRybUoxVXdxMDVtcy1ydjM0WmtmWDRXNUI4NjEwRGtFUHpuZk5zeFAyT0txRWhCX2NyMkw5dW03TWY5azhKdEJMUkxUT1dQMEhaMmZnWWFSTGUyblRkZnIwSTQycDdIWlUzeHhuX3hB?oc=5",
-   "published": "2026-10-21T22:50:00+00:00",
-   "id": "33c6aef4a225",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’",
+   "source": "Politico",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5",
+   "published": "2026-10-21T23:33:00+00:00",
+   "id": "94bb167f1b15",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -7306,9 +7306,11 @@
   "news|8cbb1bc97469": 1792620100.951243,
   "news|5e77b0a34eab": 1792621884.787417,
   "news|3b253b841b37": 1792623697.4097884,
-  "news|d1e69f1ccd30": 1792625485.3678744
+  "news|d1e69f1ccd30": 1792625485.3678744,
+  "news|41020e617be3": 1792626363.6042778,
+  "news|94bb167f1b15": 1792626364.4628117
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Haussier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -7457,6 +7459,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T23:46:05.626022+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Momentum or (vs MM50) (-19), Dollar (DXY 5j) (+16), Sentiment news 24h (+13)"
+  },
+  {
+   "ts": "2026-10-21T23:46:04.463096+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’</b>\n📰 Politico · Jeu 22/10 01:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5"
+  },
+  {
+   "ts": "2026-10-21T23:46:03.604357+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel develop plans for renewed strikes on Iran after midterm elections: Report</b>\n📰 Anadolu Ajansı · Jeu 22/10 01:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPLTNtaUlPOFB5M1EtSktDVmFzUDhuaS1pNmlmc3NGdkplQTNseHRpOXBySDVXNVA0UjJnU2x5M0ZrV0k1RjJvZ0hRV09TMjBkNGNPTGI2UjJybFBQU3Jka3RrdDF0TGkzdmJhSHhFQkdIZk12RVNNOTJDVE40WkNtWUxhYWFfZGRsY3plcXM0by14SHczVWhiZk5yd1BRNmJuYmF3NUxvemc5N1AxM3lMX1hldENob2ZnWDVUamppbXFJWGxGSmc?oc=5"
+  },
   {
    "ts": "2026-10-21T23:31:25.367929+00:00",
    "kind": "news",
@@ -7741,21 +7758,6 @@
    "ts": "2026-10-21T10:46:13.110742+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Strike First: Israel's Inevitable Doctrine for the Iranian Axis</b>\n📰 RealClearDefense · Mer 21/10 12:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTJTM1Y5R0Z6cmZvRDRpVktFVXB2SmFiVGkwVXQ5NXNsRW4zMVZyTXZRWDA0S3FkcWRVNXNqUnUyRnJDeXY5RFE2YXBmNWlrQVZWZm5qUG8wYmp1UlJEZWg0dWh5Z3hYMWh3VDRNRFRsZmJ5M18xTG91UWlFeTY2T1pDLWI4MVJIbzdPNVhhRE1BU0psM3A1bWFHaGVUV3hiMkdYRk53ZHNBOUxzYkxPMmctWVNtRmVEeDEw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T09:46:02.701308+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Calls Iran’s Hope of War Lasting Beyond US Midterm Elections a “Dream”</b>\n📰 8AM Media · Mer 21/10 09:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkZLWmxaYklxSWJ2YW1ndlNKZ3ZjZV9LcFl0U1VUTjJKbUN3X2ZaeFFsaDFTTTN2MVh5TGIwU3JncUR1d25wRjFKeU1CWUl0c0plS0dIVEpmclM5c1I2aHhtN1czV2I2QUdQcER5VmI5c2pBd2ZaVEdWcDVZcVM2NDBPUTlyalVTQW1hOFhoYWhpZzNkdG02Z2pZU2g?oc=5"
-  },
-  {
-   "ts": "2026-10-21T09:31:25.854821+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russian strikes kill elderly Ukrainians after Trump urges Kyiv to agree terms</b>\n📰 Reuters · Mer 21/10 10:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1VpcUFrQ2VwNVlieXZQaWZROUhiV2VKd09xMkZnR0xYeGw2aFV2RGxZZlQtQUZVS3hDRG92N1hReE11cWJ1NHFlNEV6X1h4YnVTbnZJSm4waXBiSEdsQ0J4ajdqdDI2V3Fod1BIXzdoYmoxNWZDQnYzaWJSQXJGOXFuMWpJTGxsSWVrLVBYd2xUSlF1aFJZeUh6ckFFb2JVekIwdFNYdw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T09:16:09.193584+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-9/10)\n\n<b>UK inflation jumps more than expected fuelling rate hike expectations</b>\n📰 Yahoo Finance Singapore · Mer 21/10 10:52\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkpFaEQwUFl3N1lIeGhPOElReE44MDc5azFRaHBETmNHSVpTSkdMYzJlRjNhTTg4VWVZd3NyZU4wTEtxOEdIRjZySHRXdmJFYnFfYjN2MkdlcWpxSlVCZ2pLYWFRVDMzQ3NoeHkwUmNqczlPeVVxc0gyZEp2T1JLeVk1TzdWYlRu?oc=5"
   }
  ],
  "daily_forecast": {
