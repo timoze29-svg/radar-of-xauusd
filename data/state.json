@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "6c35afb97e83",
-  "abb3bb781046",
-  "387e06422e80",
   "a295b1a0d634",
   "75fda8ee48c3",
   "e0be752ca727",
@@ -3945,9 +3942,24 @@
   "90940ac65111",
   "05e5155b8f61",
   "255f3d98eff3",
-  "64de64b1a268"
+  "64de64b1a268",
+  "3721f7c2e639",
+  "fe6c0f1d0d1a",
+  "9fbd640b38db"
  ],
  "news": [
+  {
+   "title": "[Today’s Key Economic and Crypto Events] U.K. September CPI, U.S. Crude Inventories",
+   "source": "bloomingbit",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1abWlpV1F5VDkwSXlsanhzcThVM3phWE9rUjFxVmJLYWREajcwckp5NGp4MU1QSGJWSEpRSkJZVjVzNkZCd0pSRnBpajN5UmhTbVFIaA?oc=5",
+   "published": "2026-10-21T00:00:46+00:00",
+   "id": "9fbd640b38db",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. Army to Deploy Forces Immediately in First Island Chain",
    "source": "조선일보",
@@ -3959,6 +3971,18 @@
    "cat": "géopolitique",
    "raison": "Hausse des tensions militaires sino-américaines dans le Pacifique, stimulant la demande refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Is gold really a hedge against inflation?",
+   "source": "Yahoo Finance",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q5cjNQYmlrTnJMY21SaVdhcXBmSlBjcDY3Y0psZ09zczgyOGNmV2xrODVuS3VoSzVHZlpHV1hTTUNkTzRpMVRJME9MTGxUNDhsV21Ga1VLZ1Q0dWtyN21aMEJIMTZ2N0s2MnBCNjk0cnhSTGZ5X29ibG1zOXFnMjZBMHM2TERZd2tjNU9DTnNYMkk0ZWxneThwVjFkUThXTWZpeDNCWWY1dTJqcFE?oc=5",
+   "published": "2026-10-20T23:06:26+00:00",
+   "id": "3721f7c2e639",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
   },
   {
    "title": "Donald Trump Son … Jr …. IS Against the Iran War …..",
@@ -4489,6 +4513,18 @@
    "method": "IA"
   },
   {
+   "title": "Third US aircraft carrier, 10,000 troops head to Middle East",
+   "source": "Iran International",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15MHgwM3dFclVRenlCckdVb2lXWGMtYTQySXE0MUVjM1RpOVQtYS1Vd1JYTEw1bXNlb0d5d3BXcWtQcXFqWTQwM1RsMTNydXpnenc?oc=5",
+   "published": "2026-10-20T18:08:06+00:00",
+   "id": "fe6c0f1d0d1a",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
    "title": "Despite election fears, US and Israel agree: let’s attack Iran again",
    "source": "The Times",
    "theme": "Iran / Israël",
@@ -4519,10 +4555,10 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQakE2OHpqV1R2TlBaMkZZSVY5VjhVamxhN1RjSWU0X1Z2RTQ3bWctVkhUMXV5clBmdVVQeVRTMklQeUZ2UnZoSGt4M2Nka1VpMW9SeGdJSjFHNTBNZzRNRkRINEVsaDA3N1FPektiX2p4NjRndlZOUGZVQzdfVFhsWWRRbzJQUlRaSUxCbUlpSUg4bmRCcW95Ujd0M2pmRTZZZFhpcTlQS1FjYTMyQXdud2M2eTNRZm1mMEtvTC04UUFJODNRODF3YnVNMGtYRE0?oc=5",
    "published": "2026-10-20T17:45:55+00:00",
    "id": "64de64b1a268",
-   "impact": 6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "L'espoir de désescalade au Moyen-Orient réduit modestement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Russian missile and drone blitz kills 9 in Ukraine as Zelenskyy meets U.S. and European officials in Norway",
@@ -4990,18 +5026,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Menaces d'escalade asymétrique et d'extension du conflit Iran-Occident renforçant la demande refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "What Donald Trump’s tariffs mean for Michigan’s economy",
-   "source": "1A | Speak Freely",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM29IMlZGRzBORDR0aDVOZVktTzU2X19pdEVUV0NwY1B1NDhVVjEwRy1oeVc3SGNrMFp5ejVrSExzd0ZOLWFpLVdrejB2elpFZ2h6ZzFpVzRBcXpMaHdsUi1KV21VLXBiQXNxcTFsYy1nWldmZzZieGpxbU1UWHNqbzg0ZjE4ckNZ?oc=5",
-   "published": "2026-10-20T14:26:05+00:00",
-   "id": "a54478dd4d8e",
-   "impact": 0,
-   "cat": "commerce",
-   "raison": "Analyse prospective économique régionale sans flux de marché associés.",
    "method": "IA"
   },
   {
@@ -5485,18 +5509,6 @@
    "method": "IA"
   },
   {
-   "title": "‘I lost my entire export business overnight’: Trump’s tariffs take toll on US wine",
-   "source": "The Drinks Business",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE1hTTVKWTZLc3U4ZGl3YWhITVNydV9YM09SYU8weG1nRUI0YW5Sa3FyOHFfSW5WdFZEODYyTkNnRjlyT3ZFaXhmbmRzQ1NvaHY0cEM1MVk2dVI3cDhHUllDbDFVa1ZtczgydV9TRnVaeE96di1ncVJNOHpvTV9KNUJrbEwxQjJEcWFZYVhLdXJSNjloY295aVE5R1lBdWdGM2dXZkFrMXlwLUp1UVptRFZCS2FGRnhSMnk4RG9B?oc=5",
-   "published": "2026-10-20T10:35:41+00:00",
-   "id": "879ede9d3bca",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
    "title": "A Russian missile and drone blitz kills 7 in Ukraine as Zelenskyy seeks help in Norway - ABC News",
    "source": "Breaking News, Latest News and Videos",
    "theme": "Russie/Ukraine",
@@ -5749,18 +5761,6 @@
    "method": "IA"
   },
   {
-   "title": "Sanders says Trump’s backing for Netanyahu fuels Middle East war",
-   "source": "خبرگزاری اطلس",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHpkODVJWHE3UmpaYTNHTmt2M0VZSDJfekdSZTdMX3NobEtTODBILWk5MVVTT3B5RGxiUmtBejJ4aGZPWEtNb3IxSnZZakl1Wm9xNmZXWjdCYVNFLUFJR2MyRFZsN2diZXduMnY4b0lrYTRVMXJ2QWtBWFJlaHJIaDRxQ1U?oc=5",
-   "published": "2026-10-20T09:29:05+00:00",
-   "id": "1f705150e7a5",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "EU unveils strategy to boost Arctic presence",
    "source": "japanherald.com",
    "theme": "Géopolitique",
@@ -5923,10 +5923,10 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHdpbXlQbjF2b181SUhuTlY1V2JJZ2ctU0dOdFZKOHMtNXRwYWdTSEFOZHVzc3l5Uzd6NG94RGlwZUsxMmNnX1gyWmh6LS05Wm1CSWhJU1JVWlVjM0dMeDRVbmI0d1RlWTRVMHI3M1BKWG9MamNEcDVuT3Eza01ONVdNcnFLdUl5cUhFZ2dBX2ZmZFM2c2FSNElxMVBwTi04WXNYa2s4MjBSN1VFakdDXzA3NTJkcE5RVUFUVUEwNFBfLWNTWi10R3BTanZkdWEw?oc=5",
    "published": "2026-10-20T09:02:10+00:00",
    "id": "a339be79c109",
-   "impact": 10,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Les tensions persistantes USA-Iran soutiennent la demande de valeur refuge sans panique immédiate.",
+   "method": "IA"
   },
   {
    "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
@@ -6163,10 +6163,10 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
    "published": "2026-10-20T07:21:59+00:00",
    "id": "2e60f494f4d8",
-   "impact": 5,
+   "impact": 3,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Escalade protectionniste alimentant les craintes stagflationnistes et la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Taiwan, US still lack ‘hellscape’ to thwart China: US official",
