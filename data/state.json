@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "429096ae7b2f",
-  "08166ac0d6c1",
   "cbfd88ede1b8",
   "c6709218f4e7",
   "ab349e4721b6",
@@ -3945,7 +3943,9 @@
   "f7918ee03fea",
   "98761955d621",
   "525278accc5b",
-  "23510539541d"
+  "23510539541d",
+  "984ef95c6cfd",
+  "c6a7a4b3b4aa"
  ],
  "news": [
   {
@@ -4019,6 +4019,18 @@
    "cat": "dollar",
    "raison": "Dollar ferme et Fed prudente pèsent directement sur l'or sans rendement.",
    "method": "IA"
+  },
+  {
+   "title": "Benjamin Netanyahu pushes to resume strikes against Iran",
+   "source": "Financial Times",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY?oc=5",
+   "published": "2026-10-21T04:00:13+00:00",
+   "id": "c6a7a4b3b4aa",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gulf Oil Exports Top Prewar Levels Despite Hormuz Attacks, IEA Warns Normalization Is Far Off",
@@ -6335,18 +6347,6 @@
    "cat": "taux",
    "raison": "Les rendements obligataires élevés augmentent le coût d'opportunité et pèsent sur le métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Revolutionary Guard cites 7 internet cables under Strait of Hormuz , warns of  new targets",
-   "source": "tribune.com.pk",
-   "theme": "Géopolitique",
-   "link": "https://tribune.com.pk/story/2635854/irans-revolutionary-guard-cites-7-internet-cables-under-strait-of-hormuz-warns-of-new-targets",
-   "published": "2026-10-20T08:15:00+00:00",
-   "id": "e4ad7d73441f",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces iraniennes sur Ormuz ravivant les tensions régionales et la demande pour l'actif refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7239,7 +7239,9 @@
   "news|162e131badf8": 1792548969.8084657,
   "news|55139cc16df9": 1792550760.1018012,
   "news|7c836a3a2317": 1792551700.2086725,
-  "news|6633c0e6f72e": 1792556167.6759756
+  "news|6633c0e6f72e": 1792556167.6759756,
+  "news|c6a7a4b3b4aa": 1792558892.9320133,
+  "rep|daily|2026-10-21": 1792558895.30145
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7371,9 +7373,35 @@
     "PDL": 4155.6
    },
    "ts": "2026-10-20T05:02:44.460228+00:00"
+  },
+  "2026-10-21": {
+   "dir": "range",
+   "score": -8,
+   "p0": 4132.7002,
+   "exp_range": 71.1,
+   "levels": {
+    "P": 4149.2,
+    "R1": 4168.3,
+    "S1": 4123.5,
+    "R2": 4194.0,
+    "S2": 4104.4,
+    "PDH": 4174.9,
+    "PDL": 4130.1
+   },
+   "ts": "2026-10-21T05:01:34.453463+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T05:01:34.453486+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — MERCREDI 21/10</b>\nPrix : <b>4132.70</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4133 vs MM20 4182 / MM50 4358\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -12.1$ · plus haut 4149.8 / plus bas 4130.3 (range 20$)\nDXY +0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~71$</b> (ATR 70$ × profil du mercredi)\nDéjà fait en Asie : 20$ (27% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4194.0 | R1 4168.3 | <b>Pivot 4149.2</b> | S1 4123.5 | S2 4104.4\nVeille : PDH 4174.9 / PDL 4130.1  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -0.42% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 2h (12%), 16h (12%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -52.3$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4124 et R1 4168\nJouer les extrêmes, pas le milieu (pivot 4149). Range attendu ~71$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4175 ou PDL 4130 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
+  {
+   "ts": "2026-10-21T05:01:32.932084+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Benjamin Netanyahu pushes to resume strikes against Iran</b>\n📰 Financial Times · Mer 21/10 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY?oc=5"
+  },
   {
    "ts": "2026-10-21T04:16:07.676032+00:00",
    "kind": "news",
@@ -7663,22 +7691,12 @@
    "ts": "2026-10-20T04:32:14.030545+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia-Ukraine war news: Chicago protest held to urge continued US support for Ukrainians amid escalating Russian strikes</b>\n📰 ABC7 Chicago · Mar 20/10 06:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTTFRYUhaM1lWLWIxaVNIUXE0LXpTVHlVU0R2cWtxaG5BaUMtcHA4MVRCOFYxcUxNMG5UTThBQjNVOWZESDc0bkpVdnNDWHZuRnhlMWl2WWFQSldBbHUwVjRHaWtpSHFLOURjVXhnMHI3RjJtVEdPUWYyRkFERllvUGFZYXl6ZFZyTV95czZUUFVXampkcUNzV290cUlBd193WXJpa0I4V3c4WjYtMEI5dlc4c0haT1hsNlZ1c0RDZVZWZFo1Q0c1Q1gxbGtWQTVRNVo2ZW5ZVWI1eXhhZ01ZT2RTYXF2QXfSAewBQVVfeXFMTW4yYzQ4ay1uWWJxa195VHc4N2ZXenpmMVZGOTFXSFpnMkRWY0F6b1p2VXlpZnZpQi1haXhPYnBmQ2QzaFVUM1Fzc2NIMGFCSjRsOVdBNGd5SXFsWUhha1JENkx0bTFnLWZ6OGtqYmNHNWFtWHcwSzAtZFE1VDhhYmJFUFV4bl9yZ3c3YkdDMlc5LVM4SjEyb20wTDFsLXhib1hCb2ltQTNxNEc5MW00ekZfNUxLdlFaZGR6SXhsUEtZOG1aaUo2QVhCb20zWi1QenY5S0ZEdUtVTWJKc2Q5emhETmdWSkV6djBsS3c?oc=5"
-  },
-  {
-   "ts": "2026-10-20T04:16:05.607719+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump admin sees escalating risk from Houthis, prompting unprecedented wave of warnings - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 20/10 06:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXpOVEcwRGUtd1lTdy1tSE0yZXZOMnRCN3JjYVlSWUE5SEVJMndUYVJSc1p6b0tnOXZPa1ZTNUNmTjVlcU1mZ2NYaC05QkJ6RXIzcDN0RVZiYnB0QlFzZktwQVA3d2hURzY1MmtZTUVvVWtOTnJTc2k5Z2paUGRxSnpidWVBYVdkS0VLRnJ4XzdKMTBEaHNfWVNxMGlXVW1kWmd6NXFvWm5rTm5veUdpY09B0gG3AUFVX3lxTFAzRW95Y1ZGOWgzbFVwT1NwU1IzNFlqc3V2SkVtN2s0QTEyV3lzdzd6azQ0M1NnQXJfc2M2c0VrdWl4UGR1MHV0TWZmYzg3MWFac0NTMkJFQzFVNjhKOVZGY0dDWm5JbjhicDRGZUUtRThTaWlsWG5fd080b2VkbldmWjhDbFp1RmJ4QnhDR3NUQTNjWHM0QzgwT2hETHhZQjMzYy1UeHZ0Z0tZNDRtemJqQk9LUE9oNA?oc=5"
-  },
-  {
-   "ts": "2026-10-20T03:31:28.418601+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns of retaliation as Trump backs Netanyahu</b>\n📰 europe.chinadaily.com.cn · Mar 20/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://europe.chinadaily.com.cn/a/202610/20/WS6ad6c200e4b06d4aa0563ad4.html"
   }
  ],
  "daily_forecast": {
-  "date": "2026-10-20T05:02:45.298772+00:00",
-  "text": "☀️ <b>PRÉVISION OR — MARDI 20/10</b>\nPrix : <b>4162.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4163 vs MM20 4192 / MM50 4364\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.74% vs Fed 3.88% → hausses anticipées\n🟢 Sentiment news 24h : 199 news notées, moyenne +0.31\n\n🌏 <b>Session Asie</b> (depuis minuit) : +0.6$ · plus haut 4166.5 / plus bas 4134.5 (range 32$)\nDXY -0.20% sur la nuit\n⚠️ Plus bas de la veille (4156) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~65$</b> (ATR 72$ × profil du mardi)\nDéjà fait en Asie : 32$ (50% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4231.2 | R1 4195.7 | <b>Pivot 4175.6</b> | S1 4140.1 | S2 4120.0\nVeille : PDH 4211.2 / PDL 4155.6  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>56%</b> du temps (311 jours, ~6.0 ans)\n• Hier : -0.50% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 15h (10%) · plus BAS vers 16h (12%), 0h (12%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -22.2$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🧠 <b>Analyse IA</b>\nBriefing XAUUSD - Mardi 20/10 ⚡\n\nBiais intraday : Vendeur sous le pivot, pression des taux US (10 ans à 5.136%, 2 ans à 4.74%) malgré les tensions géopolitiques.\n\n1/ Scénario principal (Short) 📉\nEntrée : Pullback vers Pivot 4172.8 - 4175.6 (ou rejet SMA20 à 4192.2).\nObjectifs : TP1 à 4140.1 (S1), TP2 sur le creux de la semaine à 4134.5, puis 4103.3 (S1 hebdo).\nInvalidation : Clôture H1 au-dessus de 4195.7 (R1).\n\n2/ Scénario alternatif (Achat de rebond) 📈\nDéclencheur : Cassure franche et tenue au-dessus de 4195.7.\nObjectifs : 4211.2 (PDH) puis 4231.2 (R2) / 4242.3 (PWH).\n\n3/ Heure critique &amp; Risque ⚠️\nAucun chiffre majeur US aujourd'hui au calendrier. Danger centré sur l'ouverture US à 14h30-16h00 (stats : pic de volatilité et creux fréquent du mardi vers 16h). Gestion : surveille les rendements US et le pétrole. Allège avant 14h30 et ne poursuis pas les mèches sur PDL 4155.6.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
-  "ai": true
+  "date": "2026-10-21T05:01:35.301387+00:00",
+  "text": "☀️ <b>PRÉVISION OR — MERCREDI 21/10</b>\nPrix : <b>4132.70</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4133 vs MM20 4182 / MM50 4358\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -12.1$ · plus haut 4149.8 / plus bas 4130.3 (range 20$)\nDXY +0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~71$</b> (ATR 70$ × profil du mercredi)\nDéjà fait en Asie : 20$ (27% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4194.0 | R1 4168.3 | <b>Pivot 4149.2</b> | S1 4123.5 | S2 4104.4\nVeille : PDH 4174.9 / PDL 4130.1  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -0.42% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 2h (12%), 16h (12%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -52.3$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4124 et R1 4168\nJouer les extrêmes, pas le milieu (pivot 4149). Range attendu ~71$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4175 ou PDL 4130 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "ai": false
  },
  "weekly_forecast": {
   "date": "2026-10-19T05:01:42.146369+00:00",
