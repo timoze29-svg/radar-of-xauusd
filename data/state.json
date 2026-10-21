@@ -946,16 +946,6 @@
   }
  },
  "seen_news": [
-  "09b64ddeb671",
-  "3f0f48281747",
-  "5002547c672a",
-  "12abcee5f8da",
-  "cb86512f2ad0",
-  "966d188d4ae9",
-  "fb9fda9b6acf",
-  "fcac69c1914a",
-  "4eccf4d6f988",
-  "1974d11dd476",
   "0b14dc245de9",
   "5908c83a0bd0",
   "45d5e1fa6f00",
@@ -3945,9 +3935,31 @@
   "277d94552654",
   "4721c9955da8",
   "9df7b8c7b0a8",
-  "ceda7eac2dd3"
+  "ceda7eac2dd3",
+  "bf6916c78240",
+  "38c11557f980",
+  "f87b428663b4",
+  "3ab977492e52",
+  "6e1638c06c7a",
+  "f1209dcb0d95",
+  "e7bee21b5fd8",
+  "5a6bdbfdc4a1",
+  "55675bbaa277",
+  "61e2efe4c680"
  ],
  "news": [
+  {
+   "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+   "published": "2026-10-21T09:14:00+00:00",
+   "id": "61e2efe4c680",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
+   "method": "mots-clés"
+  },
   {
    "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady -- Update",
    "source": "marketscreener.com",
@@ -4091,6 +4103,18 @@
    "cat": "géopolitique",
    "raison": "Poursuite tragique du conflit en Ukraine, maintenant une prime de risque marginale.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Calls Iran’s Hope of War Lasting Beyond US Midterm Elections a “Dream”",
+   "source": "8AM Media",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkZLWmxaYklxSWJ2YW1ndlNKZ3ZjZV9LcFl0U1VUTjJKbUN3X2ZaeFFsaDFTTTN2MVh5TGIwU3JncUR1d25wRjFKeU1CWUl0c0plS0dIVEpmclM5c1I2aHhtN1czV2I2QUdQcER5VmI5c2pBd2ZaVEdWcDVZcVM2NDBPUTlyalVTQW1hOFhoYWhpZzNkdG02Z2pZU2g?oc=5",
+   "published": "2026-10-21T07:09:52+00:00",
+   "id": "f87b428663b4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "UK inflation jumps to highest rate in almost a year after fuel prices climb",
@@ -6323,30 +6347,6 @@
    "cat": "politique US",
    "raison": "Incertitude politique accrue aux États-Unis, légèrement favorable à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Gold Slips as Crude Oil Nears Five-Month High, but Official Buyers Refuse to Fold",
-   "source": "ad-hoc-news.de",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZEU4dW1ISko0WnU5R2o0SWNhWjQtY3VVbjRSeVZpc1RrQVJ5Zkg2cUtEOXF5N2pHY0M5a2tWaUloelBkNm1sbDl5SDQxaHNLQUtMU01maDlDb2dxYTBfVGxsdjMyMzFXaE5rY1hhRGhjZUNPU3ZqVzBDNzNnbXNud3E4NmJfemNoUFBMN0tfbE1NMGxfUE1sV0dhTDhwZF8tNkFNUGhoeUNsbUYydWlEM3p4aXhFMG9FWm9ReDBiblJKbFhZRmg4UTB1ZTlyV25MMnZtZV9oZE5MQU9lUmJNbjRNeTBFLXM?oc=5",
-   "published": "2026-10-20T10:10:51+00:00",
-   "id": "3cc311872e00",
-   "impact": 1,
-   "cat": "banques centrales",
-   "raison": "Les achats institutionnels et de banques centrales offrent un plancher solide au cours.",
-   "method": "IA"
-  },
-  {
-   "title": "‘We have a job to finish’: Why did US Defence Secretary Hegseth secretly meet Netanyahu amid Iran war tensions?",
-   "source": "Gulf News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaEZNcGJRaTJXQU9TeTllWWw3dDBRZ2NvbDZqcGI0WG9iYmFRZ3FweVZDWndWdGQ3NDN5eGFMRXU3R2xVcnZYQnRaVjFhYl82cEhrUjB5Y0R1LXljZF9OcGlHUmh3cm9QSWlKM2VyY0U5QTFmd19fd1JGSjdpNnFLeWx6N1dLUnRTQ1UwUkdfZ3NkTDIwbUhESjBtc3VvWjJsTzZ5ZFZjcGFXT09qWWRFU2QtRVFxc0hCenFKbVZuMnh0aC1JZ0FSTjh1SU0zNWg3NWRoRENwYUdoV1B3VzdJd2F5b1RUbnJYUmpn?oc=5",
-   "published": "2026-10-20T10:08:37+00:00",
-   "id": "c68486cf2da7",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions accrues avec l'Iran renforçant modérément l'attrait de l'or comme valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7253,7 +7253,8 @@
   "news|f962a9f286da": 1792573476.5002077,
   "news|8f8d246d10ed": 1792573477.317496,
   "news|42254b6ae120": 1792574169.1935039,
-  "news|4721c9955da8": 1792575085.8547647
+  "news|4721c9955da8": 1792575085.8547647,
+  "news|f87b428663b4": 1792575962.7012436
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7404,6 +7405,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T09:46:02.701308+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Calls Iran’s Hope of War Lasting Beyond US Midterm Elections a “Dream”</b>\n📰 8AM Media · Mer 21/10 09:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkZLWmxaYklxSWJ2YW1ndlNKZ3ZjZV9LcFl0U1VUTjJKbUN3X2ZaeFFsaDFTTTN2MVh5TGIwU3JncUR1d25wRjFKeU1CWUl0c0plS0dIVEpmclM5c1I2aHhtN1czV2I2QUdQcER5VmI5c2pBd2ZaVEdWcDVZcVM2NDBPUTlyalVTQW1hOFhoYWhpZzNkdG02Z2pZU2g?oc=5"
+  },
   {
    "ts": "2026-10-21T09:31:25.854821+00:00",
    "kind": "news",
@@ -7698,11 +7704,6 @@
    "ts": "2026-10-20T10:31:43.773267+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>March CPI Outlook: Inflation May Rise Slightly, Iran-US War Could Lock India Into 'Sticky' Inflation Cycle</b>\n📰 Goodreturns · Mar 20/10 11:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXZEbmdxcl9PUUpNcUpkbEtCRjRJcVdLLWJ1dFhIaDQ4VGE5RGViNk9RUFhUVXUxR1E3ZGhMNG92VDJzM0hLQ2VmWWxfdG1BTnhNZE5hN0dyUjk3cl9pelR4MmdKeHZVUXB5bHFXeFM0WnBZajAwX0NZSnNkVEJVZXFSUkJVMXdWU1NTZndEV0k0emR5aDZ1OHRZWFBhZGlWdUtBbTBIOWR0TTRyWEEza2VYelhEbTBDeEV0M0s4TEV4a1F0UzhrNlN4Nmdydw?oc=5"
-  },
-  {
-   "ts": "2026-10-20T10:19:15.962208+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-14), Fed (2 ans vs taux Fed) (-9), Taux réels 10 ans (20j) (-9)"
   }
  ],
  "daily_forecast": {
