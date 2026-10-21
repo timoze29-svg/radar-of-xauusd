@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "d818391cf0a1",
-  "80d74ca70a72",
-  "366a73fca846",
-  "1fe059fa9252",
-  "d94de23a30ba",
-  "9a98ceb8340b",
-  "324cc8fee894",
   "4e7af74bcef1",
   "ca30b11c8cfd",
   "916b89e8b0d2",
@@ -3945,9 +3938,28 @@
   "0bf9eb9d405e",
   "9e668e883b03",
   "f611a736c777",
-  "7286981ae824"
+  "7286981ae824",
+  "46b47545463c",
+  "9a946f266c88",
+  "208eed6b79e8",
+  "7ab88d8f0182",
+  "ccf74e0eb7f7",
+  "94845d2cb639",
+  "85a621ce3c89"
  ],
  "news": [
+  {
+   "title": "Trump’s Putin Overtures Deserve Criticism. But Outrage Won’t End the Ukraine War.",
+   "source": "Council on Foreign Relations",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUdVMWVLWEpqU1pER2RKZ2luY2o4VkM2d1lzYVFVbDUtUHBRWHpYNGtFZmJrc3FsY2VWNTE4azBUUEVEeXJZMGtvU0dVVnNGaVF0YUdOeVNGWVZwLUk0M0FVQkpDMnI5MFZuWXpLZmEwWEVhNzdrYTkzUVhwWWtVRmlQWG52anVabnVUbXYzNnNUVklBdktlLVlyUWVUNzRrc2ZJSjZDYWZFZw?oc=5",
+   "published": "2026-10-21T21:17:59+00:00",
+   "id": "ccf74e0eb7f7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "The Russia-Ukraine War Report Card, Oct. 21, 2026",
    "source": "Russia Matters",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Menaces militaires explicites contre l'Iran stimulant la demande de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-   "source": "Al Jazeera",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2xqYzZQTE9jc2NOdjRqMmVxTDFUNmhaWFdoLWtFcE8wd0RwbHI1X2xoVW9YUzM2cjBPMTRGVlJqNE1QMlVKUEt5RnNjLU9LUXZzQmROUzJIOW4wcUoyWHk4LUpkNzFYblVpRkJETWlQQllmN2JHRUdxSURuRHhrUDdPTTFBMUM2bkpiRktaSTZvTE5ESkRlb0NYcmpkUzlyRlIyMnNJdkpHaGFOUDRCc2laemLSAboBQVVfeXFMT1VKMXhyck1RS2NsSGd4LTRyb3dFY1pFR0s5cGlWa1hURHNEd1hLRldPVFdlZ1lXQlBaZURGNlJnS2txc3VfbGZsRkF4c3FBUWpBV2FpbFdUOE16MHpHUkZSQkl1dXFxSmphTm5oTDdDVUktYnJpX1k2SnZWMjItRUVSX21fOEg5S0RZSDJNZEd4VkU2MFlBMzZtdE1ZVWJ3a2FYblljZXNGYnBhQXpqMlk2bXNfcGd3akJR?oc=5",
-   "published": "2026-10-20T21:22:30+00:00",
-   "id": "505dd46ce6bc",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Plainte contre les taxes canadiennes, frein potentiel au choc inflationniste protectionniste.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7301,7 +7301,8 @@
   "news|bae3331c3831": 1792613764.924822,
   "news|9d45184ddfd6": 1792613766.0391178,
   "news|fc789c55c8bc": 1792614689.6897426,
-  "news|bddaa17b93b5": 1792615567.099603
+  "news|bddaa17b93b5": 1792615567.099603,
+  "news|ccf74e0eb7f7": 1792618285.542435
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -7452,6 +7453,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T21:31:25.542525+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Putin Overtures Deserve Criticism. But Outrage Won’t End the Ukraine War.</b>\n📰 Council on Foreign Relations · Mer 21/10 23:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUdVMWVLWEpqU1pER2RKZ2luY2o4VkM2d1lzYVFVbDUtUHBRWHpYNGtFZmJrc3FsY2VWNTE4azBUUEVEeXJZMGtvU0dVVnNGaVF0YUdOeVNGWVZwLUk0M0FVQkpDMnI5MFZuWXpLZmEwWEVhNzdrYTkzUVhwWWtVRmlQWG52anVabnVUbXYzNnNUVklBdktlLVlyUWVUNzRrc2ZJSjZDYWZFZw?oc=5"
+  },
   {
    "ts": "2026-10-21T20:46:07.099670+00:00",
    "kind": "news",
@@ -7746,11 +7752,6 @@
    "ts": "2026-10-21T08:46:32.451092+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-9/10)\n\n<b>UK inflation jumps to 3.5% — cementing rate hike expectations</b>\n📰 CNBC · Mer 21/10 08:02\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMFE1c0o5clpFOWdSQzVWX1VBSDVFcmpXSmptNDRoVGdNUEVkYWdRZW54T1VLOWJ3aU1IeHlGMURjdHE4VzZ3YWdHdzUwekFiWlV2ODk1NVJqX1RfYzVjV3VQQXBWVFhRaUVJNnhfUGxMSFUxUWZn0gF8QVVfeXFMUGd4V2l3bVF1Z09FdlBiMG5lbUNMTWJvWjg2UHdWMjhPUEhPNjNVUGtVc3ZtNFlDVGtCOUFzRjNKWW5iUWV6X1BpLVBLNVcxazRFcTV5OWgyQ1BBVUFBaG1CdFFTdjZpRGU1ZzdvbUx3d09GZjBjNEpGcXQtQw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T08:33:27.341237+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Netanyahu planned massive Iran attack, but Trump blocked it</b>\n📰 Ynetnews · Mer 21/10 06:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZFQ2OGYxS3VIZm1sYTlMemU3QS11bDJXZFJpZGNMVlU3NDhDclFFeTlYODZjLUNmdHh3VmkzdEdxcFFIZmZTMnJoSGFTMTJmREVsWXZ3?oc=5"
   }
  ],
  "daily_forecast": {
