@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "0a2ef3a73ce9",
-  "0c7a54acf676",
-  "2713e7dd0238",
   "baee8d5ead2b",
   "2a83fe59bdeb",
   "b3e44d26ff83",
@@ -3945,7 +3942,10 @@
   "28857bae9c1f",
   "4f8019014d31",
   "07b32ff12757",
-  "9d45184ddfd6"
+  "9d45184ddfd6",
+  "fc789c55c8bc",
+  "e93d788c1630",
+  "31b9c3f4fd07"
  ],
  "news": [
   {
@@ -3958,6 +3958,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Analysts lift gold 58 places higher amid central bank purchases",
+   "source": "TheStreet",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFUwMk92OGFWV09pWDNnZEFRQzQ1cWNRZ0lRTVlJSWVXQjUtdHNPeGZtY2FfcEN1SU9PdE9teHp0UWlNMWxQQzNQeGFlYzhJYkFNWVVqaGtQNmQ1aEpBdlUzTHNpZmR2UXh3eUZ1V2NHMXFfb1JXUzdXNXc5X3Q3anJuY2ktODBLODEyZWtlV1J1Nko3NGJ6WV8yc0hOWDNKOFdOTWUtYw?oc=5",
+   "published": "2026-10-21T20:04:11+00:00",
+   "id": "e93d788c1630",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
   },
   {
@@ -4799,6 +4811,18 @@
    "cat": "géopolitique",
    "raison": "Légère détente diplomatique USA-Russie réduisant marginalement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Iran prepares new weapons, tactics for possible US-Israel war",
+   "source": "The New Arab",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzFFczZXaWoyWFpQT3RJelI5NzRQdnNVUW5BQXJ6NXpJWG9RSGdYZEpEMjA3eGtLYjZ3MGVhQ0lIM19SZ21XQ2dfb1VqQmhhQ190SHNYZjNfX3RuTlF5aDZOS0MxOXJHR2I3QVgwQWdlV3lNNE5VSnhLQmVUTWRud01SbzAxUHdWX2x3Y2xn?oc=5",
+   "published": "2026-10-21T13:22:35+00:00",
+   "id": "fc789c55c8bc",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Spéculation politique sur des frappes en Iran, alimentant marginalement la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Trump faces suit over 50% Canada tariffs",
-   "source": "Transport Topics",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkUUJqVWNNUVJQQ0R4M0tvN3NYanlGYmV1c09xMmF5aDUwSFdZYl9wOEhkSGR1SDRqNHNMc0xrNWdKNVhkUENxLVpSbXlzNVR4MHNVWUdCZ2tQVi1LY1htRk04M1NjNTJZ?oc=5",
-   "published": "2026-10-20T20:50:15+00:00",
-   "id": "1a10273a83df",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Poursuites judiciaires contre les barrières tarifaires, signal d'obstacles juridiques pour Trump.",
-   "method": "IA"
-  },
-  {
-   "title": "Middle East latest: Iran says supertanker 'exploded' near Strait of Hormuz",
-   "source": "The National",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkVpbk9qT29fT1A3MHN5dnlHc1RjaXJLRVhTVTBhOGNON3d1UGQ2amJNQVdWZ0U0RzYwTC1pVHRqZjFYZUZGSWU0cGJYTVVncnRoYjEzdG1fUmhyMWJHUE0zS3dPcmJMaDE0Z0c5ZzdSRVZLYVB3SzdfQ28ydWg4Yld3?oc=5",
-   "published": "2026-10-20T20:37:51+00:00",
-   "id": "a8396c788980",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Explosion d'un pétrolier près d'Ormuz : risque d'escalade majeur stimulant la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7299,7 +7299,8 @@
   "news|ebb63ccbed76": 1792611089.423472,
   "rep|recap|2026-10-21": 1792612902.9773955,
   "news|bae3331c3831": 1792613764.924822,
-  "news|9d45184ddfd6": 1792613766.0391178
+  "news|9d45184ddfd6": 1792613766.0391178,
+  "news|fc789c55c8bc": 1792614689.6897426
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -7450,6 +7451,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T20:31:29.689822+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran prepares new weapons, tactics for possible US-Israel war</b>\n📰 The New Arab · Mer 21/10 15:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzFFczZXaWoyWFpQT3RJelI5NzRQdnNVUW5BQXJ6NXpJWG9RSGdYZEpEMjA3eGtLYjZ3MGVhQ0lIM19SZ21XQ2dfb1VqQmhhQ190SHNYZjNfX3RuTlF5aDZOS0MxOXJHR2I3QVgwQWdlV3lNNE5VSnhLQmVUTWRud01SbzAxUHdWX2x3Y2xn?oc=5"
+  },
   {
    "ts": "2026-10-21T20:16:07.364393+00:00",
    "kind": "bias",
@@ -7744,11 +7750,6 @@
    "ts": "2026-10-21T07:36:24.241440+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Netanyahu planned to attack Iran earlier this month, but Trump opposed it</b>\n📰 The Times of Israel · Mer 21/10 07:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2ZqT3ZPT19KMlJ1cVVydVI5cXM5UDBjWlR4LUlEMGxJeVNaTTVjcTU3R1g2VjcyRzVidlRsWXR1dVlVUnpselpQMEZhdDlZTzZ0U3lmSzNaSWtod3hRNTZFWUVkSDA4R0lXb3dBTUJVbEFLRk9uT1R5SjhEMjVKcjdYcVVBakw4cmwzanluVThKRHRNYTQzc1dzVmVrSlViM2N4WDFFQTlxUFAtN003VUZoTjFZcTlOOUNjSWlWdzhzRlk?oc=5"
-  },
-  {
-   "ts": "2026-10-21T07:36:23.214667+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Trump Opposed Netanyahu's Proposed Early October Strikes on Iran</b>\n📰 Haaretz · Mer 21/10 07:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOLWpPZVdqOUkzUDN1bTFhSnliYzQxNC16bmRkNE9NeTltMjFIaFhQekdLOUVTckx2cXB1MDlnWEtDY2tjdEcwTlo5VmxIVnVycFU1LWU3R1p3eWFmMG01SkNKblZfNEpSNkU1cU0tTEl3Z3VuNmV2V2ZRakM2SXlvSE8xelZlaXJSai1CdUJUQmJkQVRhUVVFX2MtUkFtVVcyOVN6YWJXNHFVR2RBYlo2TmI1N2hlZDVYclRqM3hVNklWbktvbVlZcVd1Nm55U1VNdHpLMWhIZjNLS0FmaDBWcnJ4bExKeGZXRjd1dEE0MGVfZ3plVmZWNVQxS0xOTEgwcHotdkNB?oc=5"
   }
  ],
  "daily_forecast": {
