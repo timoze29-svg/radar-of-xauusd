@@ -946,7 +946,6 @@
   }
  },
  "seen_news": [
-  "d44d40bb7b91",
   "6c35afb97e83",
   "abb3bb781046",
   "387e06422e80",
@@ -3945,7 +3944,8 @@
   "5ab95d263ce0",
   "90940ac65111",
   "05e5155b8f61",
-  "255f3d98eff3"
+  "255f3d98eff3",
+  "64de64b1a268"
  ],
  "news": [
   {
@@ -3961,28 +3961,28 @@
    "method": "IA"
   },
   {
-   "title": "Helen Haines office attack : how social media drives violence | The Rural",
-   "source": "therural.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.therural.com.au/story/9371811/helen-haines-office-attack-how-social-media-drives-violence/",
-   "published": "2026-10-20T22:45:00+00:00",
-   "id": "54c576033a2e",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "Donald Trump Son … Jr …. IS Against the Iran War …..",
    "source": "politicaldog101.com",
    "theme": "Géopolitique",
    "link": "https://politicaldog101.com/2026/10/donald-trumps-son-jr-is-against-the-iran-war/",
    "published": "2026-10-20T22:45:00+00:00",
    "id": "63811757ed4c",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Positionnement politique réduisant marginalement la perception d'un engagement belliciste américain en Iran.",
+   "method": "IA"
+  },
+  {
+   "title": "Helen Haines office attack : how social media drives violence | The Rural",
+   "source": "therural.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.therural.com.au/story/9371811/helen-haines-office-attack-how-social-media-drives-violence/",
+   "published": "2026-10-20T22:45:00+00:00",
+   "id": "54c576033a2e",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Fait divers politique local australien sans aucune portée macroéconomique.",
+   "method": "IA"
   },
   {
    "title": "Helen Haines office attack : how social media drives violence | The Area News",
@@ -3991,10 +3991,10 @@
    "link": "https://www.areanews.com.au/story/9371811/helen-haines-office-attack-how-social-media-drives-violence/",
    "published": "2026-10-20T22:45:00+00:00",
    "id": "73b7d5e276a1",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Événement d'actualité régionale australienne sans pertinence pour les marchés financiers.",
+   "method": "IA"
   },
   {
    "title": "Ukrainian drones inflicted 70 % of American tank brigade casualities in recent war game",
@@ -4003,10 +4003,10 @@
    "link": "https://nypost.com/2026/10/20/world-news/ukrainian-drones-inflicted-70-of-american-tank-brigades-casualities-in-recent-war-game/",
    "published": "2026-10-20T22:45:00+00:00",
    "id": "54f7089e2473",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Résultats d'exercices militaires théoriques sans impact sur le sentiment de marché.",
+   "method": "IA"
   },
   {
    "title": "Hamilton launching tariff response team with $390K from Ontario amid Stelco layoffs",
@@ -4015,10 +4015,10 @@
    "link": "https://www.cbc.ca/news/canada/hamilton/hamilton-tariff-response-team-funding-announcement-9.7389053",
    "published": "2026-10-20T22:45:00+00:00",
    "id": "d006aea4d22d",
-   "impact": 9,
-   "cat": "emploi",
-   "raison": "haussier or (commerce, emploi)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "commerce",
+   "raison": "Mesure d'aide municipale canadienne ultra-locale sans effet global.",
+   "method": "IA"
   },
   {
    "title": "IMF Warns Governments Against Reliance on Short-Term Debt",
@@ -4171,10 +4171,10 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85dHdELUtqbUZOU2dvWHJqQ3dNd2ZxTVpUR3hndl9rUENQNjJyUkVpLWhSUm91VEttbFRJNHdERnFCZ2cwQUZsdkRtZ1c2M21kNnFXOVlVUTZUeTVXZlplbGp1S0kwbENmTmhkUlRR?oc=5",
    "published": "2026-10-20T20:59:22+00:00",
    "id": "8be23b843348",
-   "impact": 5,
+   "impact": 1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Incertitude juridique persistante sur les tarifs douaniers américains, alimentant la volatilité commerciale.",
+   "method": "IA"
   },
   {
    "title": "New Jersey food importer files lawsuit challenging Trump's 50% tariffs on Canadian goods - ABC News",
@@ -4513,6 +4513,18 @@
    "method": "IA"
   },
   {
+   "title": "Lebanon Proposes Halting Escalation and Israeli Withdrawal in Tampa CENTCOM Talks: how 12 outlets framed it",
+   "source": "NewsCord",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQakE2OHpqV1R2TlBaMkZZSVY5VjhVamxhN1RjSWU0X1Z2RTQ3bWctVkhUMXV5clBmdVVQeVRTMklQeUZ2UnZoSGt4M2Nka1VpMW9SeGdJSjFHNTBNZzRNRkRINEVsaDA3N1FPektiX2p4NjRndlZOUGZVQzdfVFhsWWRRbzJQUlRaSUxCbUlpSUg4bmRCcW95Ujd0M2pmRTZZZFhpcTlQS1FjYTMyQXdud2M2eTNRZm1mMEtvTC04UUFJODNRODF3YnVNMGtYRE0?oc=5",
+   "published": "2026-10-20T17:45:55+00:00",
+   "id": "64de64b1a268",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russian missile and drone blitz kills 9 in Ukraine as Zelenskyy meets U.S. and European officials in Norway",
    "source": "PBS",
    "theme": "Russie/Ukraine",
@@ -4531,10 +4543,10 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVG9wcHVaNHVmRElUcVFvMjNRZTRJUVE0S3ROX2s5MFVCYTR1V2JwQmM5QlN3UWtUZnFIcFAxTnNaU245X0lVSi1iTG1YZ3lKVVhqbVlGRncyemtOcnlGeEc2dnVWcllwQnFFcFlKaGdoRGZ4dTNPUmFIS0hpNE5WT3h3UGFuWHlnNXJ3LTkzYWdfc3h3bHRMclVYYU9aRnV0Qm9jakVVV2pJbE9sM0JUQjJUQkZxZmNMWEdlb2k3em03WER0SmJISEJMeUJFMUJ4RjZJRGZPTjDSAd4BQVVfeXFMUFUtdjdzanZidnFMSGN0ZmV6Z2NrdTljNl9DY1VyUUNkc2pfdkNob0duWjVZMXQ1MTVLWDlXak9hc2V2bFowQ3dWczhiWGFiNDBSZHdsWDdmNEtpWGs2VktCbEoxVWJpZFNYLWdMcFljQ2M0NlVjWC14RVpMb3pmNHJCNjRXMm5iZnRkaVY2aXlfWFJqM3JyRmxoOFFjYmNuM3loa3pERjlCMTRtUDJmY1JiRXV5bWJ3eDRxWG0xY3ROUmVHS3o4YmZBN1lzb1Jmd3V6WWdZQjN6d3gzcFFR?oc=5",
    "published": "2026-10-20T17:30:51+00:00",
    "id": "b505a239702f",
-   "impact": 6,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Coordination militaire standard en Ukraine n'altérant pas la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Food importer sues to block Trump's 50% tariffs on Canadian goods",
@@ -4843,10 +4855,10 @@
    "link": "https://www.netnewsledger.com/2026/10/20/china-warns-uk-against-following-eu-on-ev-restrictions-vows-retaliation/",
    "published": "2026-10-20T15:30:00+00:00",
    "id": "403fc96c399b",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "Menaces de représailles commerciales chinoises accroissant le risque protectionniste global.",
+   "method": "IA"
   },
   {
    "title": "Church leaders condemn Israeli settler attacks on Palestinians",
@@ -4855,10 +4867,10 @@
    "link": "https://cruxnow.com/church-in-the-middle-east/2026/10/church-leaders-condemn-israeli-settler-attacks-on-palestinians/",
    "published": "2026-10-20T15:30:00+00:00",
    "id": "dfe344e479f4",
-   "impact": 6,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Condamnations religieuses récurrentes sans effet immédiat sur l'escalade au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Liberty Justice Center Sues Over Trump’s Revival of 1930 Tariff Law, Citing Harm to American Businesses",
@@ -4867,10 +4879,10 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdllKcFdFVTdGQmN4QXQ3bzJjU2g0ZExJMmRJN19qS1pVRDN6WVNqNEp1eXdVR3pod1h1UExPbzBZaF9jWGNlQXB1d280YUhqVndGWHl1cXpKWGtpTWYyWHRIaV9valFQd0d5MWJoOWJMYjVEUlJoZWVseWMzTkRTNUJiRzZrb1V1bTRqWkNPa0o0bVJGZTdZWkJB?oc=5",
    "published": "2026-10-20T15:21:35+00:00",
    "id": "b11a4cd8a6f4",
-   "impact": 5,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Recours juridique classique contre la politique commerciale, effet immédiat négligeable.",
+   "method": "IA"
   },
   {
    "title": "US inflation rises to 3.7% as gasoline prices surge: What it means for consumers",
@@ -4879,10 +4891,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2lTbUVPUThIOGN5YnozMHg5UXVsZ05UMXNRRWdkSHdKM01qcVlEUDRHdWV3dU9nTi11RHk0TlBvdFlmRmk4THJPMFVlWEh0YkRfMHlJOURfY21ZSTRKcDZSQzI0MGR5YVJreDU2UGg1LVdSSDBXczUxbWFZT0JaY3VIWUMxQTlUZmVrNlBHR2hMSEExeDZUV1d6Q3pJXzRSX21neWJ1Q1ZHRFlqY2RkUFh3?oc=5",
    "published": "2026-10-20T15:20:09+00:00",
    "id": "cc37ea6defbe",
-   "impact": -3,
+   "impact": -2,
    "cat": "inflation",
-   "raison": "baissier or (inflation)",
-   "method": "mots-clés"
+   "raison": "Inflation élevée incitant la Fed à maintenir des taux réels restrictifs, pesant sur l'or.",
+   "method": "IA"
   },
   {
    "title": "US envoy says ground intervention in Yemen ‘appears pointless,’ urges regional alliances",
@@ -4903,10 +4915,10 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGdLeEsxUVIzeVg0bmVVV1FCc05zVVloWE5iRG9EWlQ5UFlxb1NUZ1VWMzBLelkxMEtTNHdVU05zb1dFMlFpNmZOQjVNYjk0TTUybllhcnhFa1RBZldfZEVVOW1mOTVPUFNyRkFMc0YzSl9BRlNhR09qSzdwWjM0Tk05MA?oc=5",
    "published": "2026-10-20T15:18:04+00:00",
    "id": "4e5ed4467f32",
-   "impact": 5,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Bataille procédurale sur les prérogatives présidentielles sans impact direct sur les flux.",
+   "method": "IA"
   },
   {
    "title": "‘I lost my entire export business overnight’: the toll of Trump’s tariffs on US wine",
@@ -4915,10 +4927,10 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE1hTTVKWTZLc3U4ZGl3YWhITVNydV9YM09SYU8weG1nRUI0YW5Sa3FyOHFfSW5WdFZEODYyTkNnRjlyT3ZFaXhmbmRzQ1NvaHY0cEM1MVk2dVI3cDhHUllDbDFVa1ZtczgydV9TRnVaeE96di1ncVJNOHpvTV9KNUJrbEwxQjJEcWFZYVhLdXJSNjloY295aVE5R1lBdWdGM2dXZkFrMXlwLUp1UVptRFZCS2FGRnhSMnk4RG9B?oc=5",
    "published": "2026-10-20T15:00:00+00:00",
    "id": "97887f6383b2",
-   "impact": 5,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Impact sectoriel viticole isolé sans répercussion macroéconomique notable.",
+   "method": "IA"
   },
   {
    "title": "US President Donald Trump nearly approved Iran strikes recently",
@@ -4927,10 +4939,10 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbWNyM2J5NllpSThlWmtmSUVzTzllS3RfdkhhWDZIbUxEdEV0cHRsc1hCNGowWE1hbkw5ejZVQWwwOGVNcmZQcmJjaUFabEV5dlFQODNidG5KX0pROGdIVGhkaHRYbFFrUnc?oc=5",
    "published": "2026-10-20T14:59:43+00:00",
    "id": "e1d74c3e7cdb",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque imminent de frappes directes américaines sur l'Iran, puissant catalyseur refuge.",
+   "method": "IA"
   },
   {
    "title": "Rates Hit Multi-Decade Highs. Will Growth and Earnings Keep the Rally Going?",
@@ -4963,10 +4975,10 @@
    "link": "https://fortune.com/2026/10/20/marco-rubio-india-trade-talks-tariffs-russia-oil/",
    "published": "2026-10-20T14:30:00+00:00",
    "id": "055cfb12a4f8",
-   "impact": -3,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "baissier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Perspective d'accord commercial bilatéral réduisant légèrement l'aversion au risque mondiale.",
+   "method": "IA"
   },
   {
    "title": "Britain at risk of more terror attacks as US - Iran war set to explode again",
@@ -4975,10 +4987,10 @@
    "link": "https://www.mirror.co.uk/news/world-news/uk-terror-attacks-us-iran-37791593",
    "published": "2026-10-20T14:30:00+00:00",
    "id": "2672bb2d5120",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces d'escalade asymétrique et d'extension du conflit Iran-Occident renforçant la demande refuge.",
+   "method": "IA"
   },
   {
    "title": "What Donald Trump’s tariffs mean for Michigan’s economy",
@@ -4987,10 +4999,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM29IMlZGRzBORDR0aDVOZVktTzU2X19pdEVUV0NwY1B1NDhVVjEwRy1oeVc3SGNrMFp5ejVrSExzd0ZOLWFpLVdrejB2elpFZ2h6ZzFpVzRBcXpMaHdsUi1KV21VLXBiQXNxcTFsYy1nWldmZzZieGpxbU1UWHNqbzg0ZjE4ckNZ?oc=5",
    "published": "2026-10-20T14:26:05+00:00",
    "id": "a54478dd4d8e",
-   "impact": 2,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Analyse prospective économique régionale sans flux de marché associés.",
+   "method": "IA"
   },
   {
    "title": "Central Bank Buying Supports Gold’s Recovery Case Despite Higher Yields",
@@ -4999,10 +5011,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTRlVm44OXZTZUh5eVlRTFhGTzMwdG1XY2x2cWpkcGI2SHhaUzd6UG5KWXRTYjVJVlgxbTE4Vmw1R0pFSjVJYXdCcHRLSndxRTJUOWVIRzJ1ZW1ITFhwQThaTk43LWw5RFMxdHNHbmxZc0lmR29rNnhaMVFtdWMzWV9yLUx5NkRVV19DTExwYzN4emNQYnV5dEdHU3MzclRCcFJLbjNickI?oc=5",
    "published": "2026-10-20T14:17:21+00:00",
    "id": "c90b50e57f2a",
-   "impact": 5,
+   "impact": 2,
    "cat": "banques centrales",
-   "raison": "haussier or (banques centrales)",
-   "method": "mots-clés"
+   "raison": "Confirmation du soutien structurel apporté par les achats souverains d'or physique.",
+   "method": "IA"
   },
   {
    "title": "As close as you can be : Marco Rubio says India - US trade deal nearing completion , announcement expected soon",
@@ -5011,10 +5023,10 @@
    "link": "http://www.calcuttanews.net/news/279387388/as-close-as-you-can-be-marco-rubio-says-india-us-trade-deal-nearing-completion-announcement-expected-soon",
    "published": "2026-10-20T14:15:00+00:00",
    "id": "55477762397f",
-   "impact": -3,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "baissier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Avancée vers un apaisement commercial bilatéral pesant modestement sur la prime refuge.",
+   "method": "IA"
   },
   {
    "title": "Rubio and India foreign minister hold talks in Mumbai as both sides aim to finalize a trade deal",
@@ -5023,10 +5035,10 @@
    "link": "https://www.niagarafallsreview.ca/business/rubio-and-jaishankar-hold-talks-in-mumbai-as-us-and-india-aim-to-finalize-trade-deal/article_57ba2e08-5ba6-55c5-b90a-cf176f3d1ed2.html",
    "published": "2026-10-20T14:00:00+00:00",
    "id": "4f1f5fc7060d",
-   "impact": -3,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "baissier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Progrès diplomatiques commerciaux favorisant la détente des tensions tarifaires internationales.",
+   "method": "IA"
   },
   {
    "title": "UK to send jets to defend Saudi Arabia from Houthi attacks , and other Mideast news",
@@ -5035,22 +5047,10 @@
    "link": "https://mymotherlode.com/news/world/11236553/uk-to-send-jets-to-defend-saudi-arabia-from-houthi-attacks-and-other-mideast-news.html",
    "published": "2026-10-20T14:00:00+00:00",
    "id": "f7b3a7948bbc",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "International Criminal Court shortlisted for EU award as MEPs urge protection for its judges against Trump sanctions",
-   "source": "euobserver.com",
-   "theme": "Géopolitique",
-   "link": "https://euobserver.com/243669/international-criminal-court-shortlisted-for-eu-award-as-meps-urge-protection-for-its-judges-against-trump-sanctions/",
-   "published": "2026-10-20T14:00:00+00:00",
-   "id": "5d13a8e24650",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Implication militaire accrue britannique au Moyen-Orient face aux Houthis, maintenant la tension.",
+   "method": "IA"
   },
   {
    "title": "Russia, sensing victory, cheers Trump’s latest shift against Ukraine",
@@ -5071,10 +5071,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDA5TDdJSGIyM3lYMDFIWVVTUVNJRmVtREJucEE3SGs5a2x1eTFOc0RSS2dxTXVlX0xBNWlwX09PMGdxeTNobm5jYnpMVUI0cUhVNVZlbEd0a2VQdi0yTGtVYmJoa1ByR2JjZ2dzU3JlZ1hhbXpVMkhxUlNfY0ptaWJyVVE4RldjUWFTRjlMYzc?oc=5",
    "published": "2026-10-20T13:23:40+00:00",
    "id": "72c8456d3fc6",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "taux",
+   "raison": "Perspective de baisse des rendements obligataires mécaniquement favorable au coût d'opportunité de l'or.",
+   "method": "IA"
   },
   {
    "title": "US envoy Barrack defends decision to join Israel in war on Iran",
@@ -5083,10 +5083,10 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
    "published": "2026-10-20T13:20:48+00:00",
    "id": "840876d2c36a",
-   "impact": 8,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Implication directe des États-Unis en guerre contre l'Iran, choc géopolitique majeur pro-refuge.",
+   "method": "IA"
   },
   {
    "title": "Gold weaker, silver mixed as weak housing data offsets rising oil prices - Kitco AM Report",
@@ -5203,10 +5203,10 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GcTY0UXVWZzYtYjV6b3Y1dlJ5THlaUXJ6dGRfcVlHYmJQOGF0aFp0R0JFUlEzQ0lDREMtMThpZlQzbi1IM0NPNGVXT25HOGhIYmxKbmQ0Xzd2bnlPSDVRWlI4dl80aUsycVlZVllIR2kxQdIBd0FVX3lxTE5VNkVoMFF0U1I1eFluV1BwVzdwSEpOb3FhODBfV1lDRC0tUjZLeW5aZnpwYzgyaHk4SjZxNkpDVlE4Mm5KY2VYQVFucWo4VkNNNm9Rajl6TFJEZ1RWWml6c05DbXljVmxOUU1TUHF0Q3dfQ3NRdE1j?oc=5",
    "published": "2026-10-20T12:33:45+00:00",
    "id": "728588e6bfd8",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tensions persistantes dans le détroit de Taïwan alimentant un risque géopolitique sous-jacent.",
+   "method": "IA"
   },
   {
    "title": "US futures dip as AI sell - off returns and oil prices rise sharply",
@@ -5263,10 +5263,10 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWF2Y3V2eEFBYmFwMHlvc054RUpZb09FQV9ySjV3by1FZGYyWmR4Ukd2Y29MS0VBVkdCZXktS3MtTFdleUVmR2prUzdMNFZFdmREX2ZzVUZ1bWh6bS1sbFVmd1NpNDJCemc1aUFoTk10bHdONU5rNTE3VG9VQlFYbmJCc3RUMmJPeXNjU2NqZy1QTTUtQVlnMk1pazdCMU40NFZQSUk4N0hpZlpLQ1JMTHVjRUkyZC1ZNkxZQmd5T09HSzkxeGxHVWhwZm4zV2M?oc=5",
    "published": "2026-10-20T12:03:28+00:00",
    "id": "ef6a432ebe5f",
-   "impact": 10,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces russes sur le transport maritime en mer Noire soutenant la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
@@ -5275,10 +5275,10 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVE0U1NLMG9Hd1VoVUVDVEdYQVpka2dZM3RPT0dlTkdjOUdOTHRQazdUY05UNnpPSkp4bDFJY1ZpVU8xcExyTEdhTWZFTWswTDhMSm1qQmFMRWtjMUktVUd5TkZic24tb3JpRExYMWNoVTBpMEtsMFpLOUlzay1CYzBQaENvalRGRlVJTTBZMXI4cTlPSS1NMHR0S05Jd2w0MmhHemNvTGtoQWtsU3dOc0t3NjNjS192TnduX3ozUFUxaWF6RU1fUdIByAFBVV95cUxQZW5uRXNseTRsZWduTUFsY3ZMNHZlTjFrYXpEdmVYbWtTVnFfMjAtN0FROWE1N2k4R09DNHJxRHV0bDltVGp3blAzZGlfZnBfZWEwRnlFWEZPbEU1Z2JuTkVkUWtXM3A5cjE5Vnoxd3R0MGh1blZGQVZUVVY4U3U2VWtIRnFMQk5hTy1nMy1Qckt0ZVBkNld0WjBrRG1XVEJGNnh2cHlHQzY1Yy0wdkFqV3pKS0RQelJ5Q20zT2RLM3cydWFGQ21ZQw?oc=5",
    "published": "2026-10-20T12:00:07+00:00",
    "id": "1fd29315964c",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Surveillance militaire chinoise autour du Japon rappelant les frictions stratégiques en Indo-Pacifique.",
+   "method": "IA"
   },
   {
    "title": "Iran warns any US attack will be met with retaliation , dismisses claims of no - response deal",
@@ -5347,10 +5347,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEJRT0pVZmdzbXlna0M2WnIzb3RHUGIxT1RxZjNFUFZVb1FPek9TbW5NN1E4MkhKLXZZVUY0aEk0Nm9hZnZnbzBIbE1KU0RoXzJJRnJPa2NxSXREbzd3MlpweGxqX1QxcjZvTjNwWEphMTNCeFdpWFViTjY5YXUtV0ZDMWdOc0lVVVphY3pRRUF2VjlEMWVUYmY4WkRRWktnejh1Q0ZCZzTSAa4BQVVfeXFMTWJxTURGa0E4WG85V0o3dVNETXl5SHBWSGJLN3FZdzJWRGZsLWhKc1h1a2QxVEF5QVpwYl95Wm1NbW92RDQza2hLQUxqZms4R3hYX18tNzdxZUdmOXAta3JVTVhIWWxTb3YtYnFUSTlaVzNPZl9QRG1POG5hMFVPcWhGRExZUEhnUEoyU1dsTENLTjlMSlNWOGMzVzV5YVFjbWEtUFdNNXVGeUxKeHNB?oc=5",
    "published": "2026-10-20T11:51:48+00:00",
    "id": "65a48ba223d2",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Instabilité interne accrue en Iran augmentant le risque d'embrasement régional imprévisible.",
+   "method": "IA"
   },
   {
    "title": "French Government-Bond Yields Turn Higher; Treasury Yields Fall",
@@ -5443,10 +5443,10 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
    "published": "2026-10-20T10:57:18+00:00",
    "id": "d923c3036584",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menace directe d'attaques iraniennes sur le sol américain provoquant un réflexe refuge.",
+   "method": "IA"
   },
   {
    "title": "A Russian missile and drone blitz kills 7 in Ukraine as Zelenskyy seeks help in Norway",
