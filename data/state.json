@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "156fcc27e2ed",
-  "527a1df3fb4d",
-  "5b4f1daa7224",
-  "9d492642ff27",
   "3af5de8e845d",
   "616a41fd2108",
   "f1cf7503b742",
@@ -3945,9 +3941,25 @@
   "d9f86acb8675",
   "0ad4018e317f",
   "85a47cbb5c5c",
-  "8b3c7e85932f"
+  "8b3c7e85932f",
+  "d5c9560d16df",
+  "7235cad81aa7",
+  "3f1c623d90ae",
+  "e3c67744c214"
  ],
  "news": [
+  {
+   "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks",
+   "source": "Zacks Investment Research",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpfOXZ5VEpEZUNDZDlSOUl1dURrUmUydnVXblJvSDFIZzlvSGZnN2hIWWp4UE4xVDczd3lyZEJlZUJlelp6d3Izb2FpNnhPOVZuZmZsQk1RckJZaWwwVzBXRHg3QTJ6TklLUWdNeFFMY24tV3ZnSm9lSUZOSVllcm1ySDFBS3ZCbjFMLUQ2ZkZmdw?oc=5",
+   "published": "2026-10-21T14:33:45+00:00",
+   "id": "d5c9560d16df",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump’s approval rating drops to 36% two weeks before midterms, poll finds",
    "source": "The Guardian",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Risque accru de frappes et d'escalade régionale stimulant les achats de couverture géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies",
-   "source": "EnergyNow.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5",
-   "published": "2026-10-20T15:31:55+00:00",
-   "id": "e01050cf0724",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7281,7 +7281,8 @@
   "news|e0720d8f27d6": 1792593112.673812,
   "news|1eea92092bd8": 1792594005.0625405,
   "news|b955a101ff9d": 1792594005.9215245,
-  "brk|BTC|pwh|up|2026-10-19/2026-10-25": 1792594924.8024256
+  "brk|BTC|pwh|up|2026-10-19/2026-10-25": 1792594924.8024256,
+  "news|d5c9560d16df": 1792595772.670312
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7432,6 +7433,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-21T15:16:12.670386+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold ETFs to Watch Amid Fed Rate Hike &amp; Oil Risks</b>\n📰 Zacks Investment Research · Mer 21/10 16:33\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpfOXZ5VEpEZUNDZDlSOUl1dURrUmUydnVXblJvSDFIZzlvSGZnN2hIWWp4UE4xVDczd3lyZEJlZUJlelp6d3Izb2FpNnhPOVZuZmZsQk1RckJZaWwwVzBXRHg3QTJ6TklLUWdNeFFMY24tV3ZnSm9lSUZOSVllcm1ySDFBS3ZCbjFMLUQ2ZkZmdw?oc=5"
+  },
   {
    "ts": "2026-10-21T15:02:04.802477+00:00",
    "kind": "breakout",
@@ -7726,11 +7732,6 @@
    "ts": "2026-10-20T18:16:04.378816+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Despite election fears, US and Israel agree: let’s attack Iran again</b>\n📰 The Times · Mar 20/10 20:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEkxc2tXRlNCeE5faE9EalloUGxNZ2s2bWthemNyRHV0WXY5Z1h4T19tdzVXdmVFeUpkV0xyRVktYXp2VFFEak9FTWQ2aEhqSzVKR2VyeXBKenpaZlQtNmN4Z0d4d2JzaldYWW14VXduWmVZeWlGYW1iMklya0VnR1hfTFhxV1NPZTFkbkFRRkszbXJsYm9YSGk2aVBHU2RRbWc4?oc=5"
-  },
-  {
-   "ts": "2026-10-20T17:46:09.590568+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran unlikely to attack Israel directly, may seek to disrupt elections</b>\n📰 www.israelhayom.com · Mar 20/10 18:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEM3VzIzUUEyVzFqcjRKMlQ5WDdYN0NmRnd4MnZKa0ZPYzFHQl9Vc2Q5dzZYZ1k1N09pbW90dkFXcWZTLUhyRXh1OVluNGlfdHp4NXVWc1FVN2RFaTlBc2Nmc2taVmgyMjBZMXNGRXRUQzhFRVNxOGRodHQ4RkpJd0ExbGpxeEx6enhFNzNJMnk1YmY1YzgtT2g4bk5fVXJrQUtKZlJzOUpGeDZSWnc?oc=5"
   }
  ],
  "daily_forecast": {
