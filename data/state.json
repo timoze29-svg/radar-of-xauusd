@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "39572b08a1d6",
-  "b0a97014fda3",
-  "4ced1a4b51bb",
   "fe05c643e201",
   "9596570a2b6e",
   "0d861e0b9c2f",
@@ -3945,9 +3942,24 @@
   "5c3b04c6f853",
   "6228f018ff43",
   "19d3079e1b6c",
-  "4cb36be6017a"
+  "4cb36be6017a",
+  "8b5c9a60aa61",
+  "401ea89044c2",
+  "d218bae4336b"
  ],
  "news": [
+  {
+   "title": "Report: Is the U.S. Dollar Losing Its Global Dominance?",
+   "source": "CEOWORLD magazine",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEgzZXh0SUdXalJGOWJiRGRQRUtOS0dlS2o3UGc4RE9uMHJJbF9sUVVMazc3T0VzT1VVWEFRR21HNWVwZF9sNW1hUTI2a3FKZU9tZEZISDltOFIyN09nSzQ0ZmFYeVRGWFdKUXZEeHlHNHQ1dWp0SUxVS2E4QVFldmN2c0NQOUhZblhINFFn?oc=5",
+   "published": "2026-10-21T01:22:01+00:00",
+   "id": "d218bae4336b",
+   "impact": 1,
+   "cat": "dollar",
+   "raison": "Débat structurellement favorable à l'or mais impact de court terme quasi nul.",
+   "method": "IA"
+  },
   {
    "title": "Hypocrisy marks Lai's attempt to divide the country",
    "source": "China Daily",
@@ -3967,18 +3979,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUZFYWVLS0MtOFIwY3ZTbmVZRHhGQmd5c1Ixb0o4QkpxckxMbDlIeUtCZ2Z6Y1E1SWRuZ3lmR0tkb3BnOGtMWm9iMGxWMFdObVBBYnNXMTAyY0psWEJrRC1kbTVfNW51NXFZamZSakZMMk9fcFMxbUVyUl9kM2tjTUxla0NJcGpuWWg1bHF6T2VJXzI4bDhBZnREQ2hvMG1LYzFxNkxR?oc=5",
    "published": "2026-10-21T00:58:42+00:00",
    "id": "21f078319920",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil rises on Middle East supply worries",
-   "source": "Yahoo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnJpenFuZUhfbHFpWk9ZXzBXWDhFSVRSR0lOc3loMG5ZVXZOWTNrR1M5dEE4VU8xcGI2ZWlaUGJlUW80YTdIOUZ2OE04bHJJNy0zZGppcTBVM21LTm1haFUtNHRKZWhaVm5IT0VTdmh2T3hwc0VBVzM0QkZ0UkVZR3BJZmdnNjNjYmJTRjF3?oc=5",
-   "published": "2026-10-21T00:50:00+00:00",
-   "id": "810680e5d277",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -4018,30 +4018,6 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Can Tinubu campaign without campaigning ?",
-   "source": "vanguardngr.com",
-   "theme": "Géopolitique",
-   "link": "https://www.vanguardngr.com/2026/10/can-tinubu-campaign-without-campaigning/",
-   "published": "2026-10-21T00:45:00+00:00",
-   "id": "f155737bcdaa",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Early Warning Disclosure by Matachewan Consolidated Mines , Limited and McChip Resources Inc .",
-   "source": "elliotlakestandard.ca",
-   "theme": "Géopolitique",
-   "link": "https://www.elliotlakestandard.ca/press-releases/globe-newswire/early-warning-disclosure-by-matachewan-consolidated-mines-limited-and-mcchip-resources-inc/",
-   "published": "2026-10-21T00:45:00+00:00",
-   "id": "163a40f297d6",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -4834,6 +4810,18 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Administration attaquée sur les droits de douane canadiens, freinant les anticipations protectionnistes.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump Administration Sued Over 50% Tariffs on Canadian Goods",
+   "source": "Bloomberg.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGVFb0Mtd09NZF90S24wRWJyVjc0amRwSUlOOGJYa01oeUM4WkZiLTJVLUw2aWZYYXY5NmdDNWVYT1FvNlEyRi0yYXhoSGxVdWwxdFdGdzhMZ2M2ZFhkM1dTV2M4UFJON1BFbkRkNmIwUHFlMHB2MVhsd1BRSWFac1FNejF2ckZoWER6ZHFoRmpMel82Q2NEb3p3MWRBSFdEZ3dNTDZwak11bW9WUEhnQTFzRQ?oc=5",
+   "published": "2026-10-20T16:06:42+00:00",
+   "id": "401ea89044c2",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "L'incertitude juridique et commerciale liée aux tarifs soutient marginalement l'or.",
    "method": "IA"
   },
   {
@@ -6070,6 +6058,18 @@
    "impact": 2,
    "cat": "or",
    "raison": "Forte demande physique saisonnière en Inde constituant un plancher haussier pour les cours.",
+   "method": "IA"
+  },
+  {
+   "title": "Israeli F-35s Launch Multiple Simulated Strikes on Iran Across Iraqi and Syrian Skies",
+   "source": "Military Watch Magazine",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnNTQV9TY2o3VEs0OWE4TWd6MGZZeGQtTjUzdjNHY3kwTkxxVm5lc0l5d2xTWTlmTW5tcmw0TnJMQmJqb3NFR2dFNHpLUndCalpRYmpXb3BIbktlU2w0Qy1GbW1KOXB4cTVDQmFoT0E2aXkwVGxhRkhTVmlub2hVWV95b3NEakdVZDdJYXVFVnpxaWkxMXBN?oc=5",
+   "published": "2026-10-20T08:09:00+00:00",
+   "id": "8b5c9a60aa61",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Tensions militaires accrues au Moyen-Orient renforçant la prime de risque géopolitique.",
    "method": "IA"
   },
   {
