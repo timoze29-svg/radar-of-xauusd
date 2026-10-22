@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "4b4937a8fadd",
-  "be171e320ef4",
-  "2369dd4ddc1f",
-  "3170b595bc6f",
-  "e51359c0ea5e",
   "3015db8488e6",
   "dc47cc1323cf",
   "2714bff76550",
@@ -3945,9 +3940,26 @@
   "497a20c7ef09",
   "020029289745",
   "4dbc62f9e941",
-  "cab61efb0593"
+  "cab61efb0593",
+  "016a198fda7c",
+  "cc97c2078642",
+  "bad00da6d644",
+  "1b24ea766091",
+  "0fe8bf6e0e34"
  ],
  "news": [
+  {
+   "title": "Beijing urges Manila to honor one-China principle",
+   "source": "China Daily",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54SGxuLUZPNGVBdzg1bFJ5VTEyLS1NbTJfSTIyNUU5Z2x4bVpSSmdiYjY4RFM1U2VJWlJqQm4wdWRpZVlPZjhWcHVsTGN4Y3diaTMzdlo2MUZ3UWhCRHg4SXZGZzZfYUFUYXZhWDBUNWlwbTI0a2Q1SDlCNmN1QQ?oc=5",
+   "published": "2026-10-22T08:16:09+00:00",
+   "id": "0fe8bf6e0e34",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Rhétorique diplomatique habituelle en mer de Chine, impact refuge quasi négligeable.",
+   "method": "IA"
+  },
   {
    "title": "Gold Futures Decline To Rs 1.44 lakh/10 Gram; Silver Prices Drop",
    "source": "ETV Bharat",
@@ -4246,6 +4258,18 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Menaces de frappes militaires et hausse du pétrole stimulant l'aversion au risque global.",
+   "method": "IA"
+  },
+  {
+   "title": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+   "source": "CNBC",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5",
+   "published": "2026-10-22T05:12:19+00:00",
+   "id": "cc97c2078642",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "Flambée du pétrole et risque d'escalade majeure : demande refuge et craintes inflationnistes massives.",
    "method": "IA"
   },
   {
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Poursuite du soutien militaire américain suggérant un conflit prolongé en Ukraine.",
    "method": "IA"
-  },
-  {
-   "title": "Drone Attacks on Cargo Ships in the Black Sea",
-   "source": "kyivpost.com",
-   "theme": "Géopolitique",
-   "link": "https://www.kyivpost.com/post/87726",
-   "published": "2026-10-21T12:30:00+00:00",
-   "id": "ab354dfc1847",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Attaques maritimes en mer Noire accentuant les risques de perturbation géopolitique mondiale.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin",
-   "source": "CBS News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEltSS1zUTlhei1vR08tbC1JbU5zakRMWTA5eExYZmZoX2JrZElRbHF3OHctOGhsTkJicVRyZk9kR2N0bmpsMUU1YjdPSU96SWJkMkRfN1lyMW9CVnFGcVFsalZTdDZhY1h2anA2eEtHWjQtajVxbjBsXzQwU1h0WGdrOVU?oc=5",
-   "published": "2026-10-21T12:19:43+00:00",
-   "id": "084785c4767f",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Négociations diplomatiques en cours limitant temporairement la prime de guerre.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7347,7 +7347,8 @@
   "news|31ecb4f8b2d2": 1792651619.4462228,
   "big|USDJPY|2026-10-22": 1792651620.6202524,
   "brk|COPPER|h20|dn|2026-10-19/2026-10-25": 1792651621.4834852,
-  "big|COPPER|2026-10-22": 1792655184.771248
+  "big|COPPER|2026-10-22": 1792655184.771248,
+  "news|cc97c2078642": 1792657909.9034424
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -7514,6 +7515,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T08:31:49.903519+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes</b>\n📰 CNBC · Jeu 22/10 07:12\n🧠 Flambée du pétrole et risque d'escalade majeure : demande refuge et craintes inflationnistes massives. [IA]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5"
+  },
   {
    "ts": "2026-10-22T07:46:24.771287+00:00",
    "kind": "big_move",
@@ -7808,11 +7814,6 @@
    "ts": "2026-10-21T19:31:27.325805+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Past the Pump: How Americans are Footing the Costs of Trump’s War of Choice</b>\n📰 Third Way · Mer 21/10 20:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3BBZnZPRjRMeUJwVmZJcDNDV01OS0pCRUtmU2dfVmxGcnFDcDI0ZEVSSldROU5ONUwtbEtiTkRia1VsRzRxamVVaEI1SmR3dTh2Tm9qQkljS2h6UmVwU0U1cHgxNElDTEdpS1lpNWtibk9BNGMyaGxxbTN2UmlVSjQxQkFYNElDTUZfb0FQLXhGVGRsUzFKekZSZmJISVdsTEhjMlp3?oc=5"
-  },
-  {
-   "ts": "2026-10-21T19:16:15.869568+00:00",
-   "kind": "dollar_pressure",
-   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.14%\n✅ Taux US 10 ans +4.2 pb\n✅ Pétrole +1.37%\n✅ EUR/USD -0.15%\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu 4/4 signaux dans ce sens,\nle dollar a continué à monter dans <b>59%</b> des cas sur 2h,\net l'or a baissé dans <b>52%</b> des cas (moyenne -0.3$, sur 75 cas).\n<i>Pour comparer : l'or monte 54% du temps sur 2h en général.</i>"
   }
  ],
  "daily_forecast": {
