@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792706472.663952,
+   "ts": 1792710073.427892,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "d707d4507c5d",
-  "ff5df08fd549",
-  "e508e47b0b50",
   "66463e70d7b0",
   "e42395d61ad8",
   "cdff268368de",
@@ -3945,7 +3942,10 @@
   "780c9e073dbd",
   "018cfb0eb169",
   "7e9afdfbff10",
-  "0472e8314064"
+  "0472e8314064",
+  "8284719c58fc",
+  "7707c9dba2af",
+  "3fa220cb983d"
  ],
  "news": [
   {
@@ -7444,7 +7444,8 @@
   "news|4e39732487bf": 1792707380.4450488,
   "news|62e8b6cd7a9e": 1792707381.4331903,
   "news|301bbba28bdd": 1792707382.3620534,
-  "news|780c9e073dbd": 1792709164.4702501
+  "news|780c9e073dbd": 1792709164.4702501,
+  "big|USDJPY|2026-10-23": 1792710105.121021
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7611,6 +7612,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T23:01:45.121063+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — USD/JPY\n-1.422 aujourd'hui = 1.9× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
   {
    "ts": "2026-10-22T22:46:04.470335+00:00",
    "kind": "news",
@@ -7905,11 +7911,6 @@
    "ts": "2026-10-22T15:01:49.044087+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 5 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 4.835 → prix : <b>4.832</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.2 | 60j -0.26"
-  },
-  {
-   "ts": "2026-10-22T15:01:47.830859+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu denies report Trump blocked Iran strike</b>\n📰 JNS.org · Jeu 22/10 14:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlpqTzRCekpCMU5sUG93bnpUeEwtZ1d5WHNfcnRsNE0zczlZREk1emxSdlpIbzRZM1RXa1FTMmlZb245Q0JGZXBCYVRVVl9saTJpbE5vZmV0MkNTczJvZC1pb3hGdlJsaGl6YlRxSndEci1QZ2dpbjFiYTJ5djR2NDZTV0NZWmFYdnZ0VXVKSQ?oc=5"
   }
  ],
  "daily_forecast": {
