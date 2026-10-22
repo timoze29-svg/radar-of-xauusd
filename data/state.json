@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "cbaa2fa7da2d",
-  "b72ead3db9d8",
-  "3b33e8ebb645",
-  "ebec86a72226",
-  "f641dba3d39e",
   "d49223297b70",
   "5f6ecf02e9d4",
   "05b0b75d03f9",
@@ -3945,7 +3940,12 @@
   "02b3a3676abd",
   "0961a9eecd66",
   "22563d225cc9",
-  "4ebcccaa61d8"
+  "4ebcccaa61d8",
+  "6d39bec43b8d",
+  "d442df9630de",
+  "f976453ba69c",
+  "569731a1b635",
+  "60c5aa24400b"
  ],
  "news": [
   {
@@ -4052,6 +4052,18 @@
    "published": "2026-10-22T17:30:00+00:00",
    "id": "dc92711b9812",
    "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Qatar, US discuss regional de-escalation, maritime navigation",
+   "source": "Middle East Monitor",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT3c0WE82NUtzZGJZbUJ3WlRMOE14ZEp2eTlGR2tVYTBfa1pUVTYyVWdpYmpYc0ZjR3U3cGhxYURtR2M5ZU1tbmpuRUJ0d2FUSFQ1VEw3Mk5fRktBNGZac2lBMWNJNXBudGFGNmp2M2NtVXYtai00MGxsOEMxV3QzMWtsekwzT25qbVFmeXFEU0dHZDJ0cXpvcTcwZFkwZ0xsdjllQjBB0gGrAUFVX3lxTE1vMjZhOVlIU29Yd3gwRnlKdWVCVlFITndSZUczMVBXZ08xUTFtb1FBeHl4bTgycFdfUmlaMVJDNHI2dVZ1N0hXcFN0Q2pnRDExUnZBdHh5eTFnSmZoQTVjaF90dUt5U0gwRW9qNkRsZUVNS1lRUEZFMGV6OVBjd1dlc2R5d3FYZEVCQUZoUy0xaTVUWTVfSmh2NjNTY2RFOXpNRXpmZUZ1dm9wYw?oc=5",
+   "published": "2026-10-22T17:26:00+00:00",
+   "id": "f976453ba69c",
+   "impact": 1,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5143,6 +5155,18 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44R0JKdU52c2ZGdTBUaTlIellnNmxmdjZSYklzT3VmZU84azN5T0J0eWRZWGQ4RmZFMEVkYm1zaEVRVXNIWVdUSUlCRU9ob2ZZQzdSWVhEeXVJZWxZejF1VVhhMXFFb04wZjU0UG5VSdIBdEFVX3lxTE5PR2VqMmdvZjZNcXNnNWJ0ajhTSG9qbjVXdDVhZ295N2VhdzRfeGN3WlRJQTJEb21GVDBYdE16SWlnOTg2V1ZkMGI2UG5ENGctUGRZTkRRZ3pmYlVxRE00bjZpWHA3TGw5dHg3TzdBenIzZG1H?oc=5",
    "published": "2026-10-22T09:31:06+00:00",
    "id": "81f043e0fd55",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+   "source": "CNBC",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44R0JKdU52c2ZGdTBUaTlIellnNmxmdjZSYklzT3VmZU84azN5T0J0eWRZWGQ4RmZFMEVkYm1zaEVRVXNIWVdUSUlCRU9ob2ZZQzdSWVhEeXVJZWxZejF1VVhhMXFFb04wZjU0UG5VSdIBdEFVX3lxTE5PR2VqMmdvZjZNcXNnNWJ0ajhTSG9qbjVXdDVhZ295N2VhdzRfeGN3WlRJQTJEb21GVDBYdE16SWlnOTg2V1ZkMGI2UG5ENGctUGRZTkRRZ3pmYlVxRE00bjZpWHA3TGw5dHg3TzdBenIzZG1H?oc=5",
+   "published": "2026-10-22T09:31:06+00:00",
+   "id": "60c5aa24400b",
    "impact": 5,
    "cat": "taux",
    "raison": "haussier or (taux)",
@@ -6323,30 +6347,6 @@
    "cat": "taux",
    "raison": "haussier or (taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold Steadies Near $4,135 as Official Buyers and Rate Fears Pull in Opposite Directions",
-   "source": "AD HOC NEWS",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTzRnRHQxMU80OURYejBvOEZPOU1lZGRCcHFFY0o0azhQSDQtMERiUWstaHdSMEtJeXk4M0t2M2tZRUR5ejRoWjc2WmVGVnlzYi1UanVEdFpNVGF4TzZJR0xxOVdub3U5NzNJVG5tbjZHTkZVWnhMRWUtSEtiYms1c3A3MXdHSHp6bWh3TXFoNkFHTFF4dzlPMEMxVnVPcWRLc0EtaXB4bHRPbnhuM2d4cUs5T3I0NEZsRnRKa29EbzNLenczd3dNdWRTaTF4UVJCSHZ6LXpjb3QwTmpVdmxERW8ybUJvdk5PSmt2dDJyTQ?oc=5",
-   "published": "2026-10-22T02:10:49+00:00",
-   "id": "1eaa055046eb",
-   "impact": 1,
-   "cat": "banques centrales",
-   "raison": "Les achats institutionnels compensent la pression baissière liée aux anticipations de taux élevés.",
-   "method": "IA"
-  },
-  {
-   "title": "RUSSIA’S NEXT MOVE: Trump pushes Ukraine peace deal as experts warn Putin could strike again",
-   "source": "Fox News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzUGxKeDFWU3dxTFpwNUtMbFlLeldQUU9QWWVYc3dkNEdTQnhQQmw2YmlFU1Q1UlFoYlZ3TjAyVGl0dnBOaXBCd05vVm1fZmt5c0w4d2xn?oc=5",
-   "published": "2026-10-22T02:01:13+00:00",
-   "id": "a4b34b488041",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Persistance des tensions russo-ukrainiennes maintenant un soutien modéré sur le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
