@@ -946,17 +946,6 @@
   }
  },
  "seen_news": [
-  "10ab0e0dd09b",
-  "bc705746a93e",
-  "a3b1ac36e8b9",
-  "a49734d7a336",
-  "ca2041e65c0d",
-  "441856c855ed",
-  "76d7d70ebdfe",
-  "f608aa55b6de",
-  "97c59e3a26fa",
-  "d5b766f2bbf5",
-  "1579874e2fd3",
   "1379ec8f7ee0",
   "baae2aeba232",
   "dac4ddaefde1",
@@ -3945,7 +3934,18 @@
   "b67e0244a8a1",
   "771e6f3a01d2",
   "38abb2c8a2e4",
-  "0e8acd1f465f"
+  "0e8acd1f465f",
+  "12af4ec688b9",
+  "7fa32652c2d6",
+  "fb6d9d8ed0f5",
+  "ed6c0cac890e",
+  "1c6029bb33aa",
+  "0f8f3d2c60f3",
+  "8a3e7d7beacc",
+  "7f44fc498c0d",
+  "6a79ab85c639",
+  "d92da004995d",
+  "f35761cdbc36"
  ],
  "news": [
   {
@@ -4015,6 +4015,18 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGduU19KV0tnS2ZUNjhkdHBEdldqeVhVaTRKb2s2VW1mNGlIbkN2eFhScXFpOGQwLWhSbmdTeUxDclV6U0lBbDVWdExlVTVVX3hqMGVMaThXRVpyVzNYckRSLUdWaG90SWxjREgyZ29lVlFOME5sWEpIQmVPcEU5eWtMcExPbEctQ29qQ0FJLWFTNl95T3BLREJIWTNTVnRZT3JYTEZYTEgxTVQxZjB5dnFuUzJ5dGw0MHdIMzllNXFkVG5PeVZucVNfVE1qQQ?oc=5",
    "published": "2026-10-22T19:26:31+00:00",
    "id": "49e1ab806bbb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+   "source": "The Guardian",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTRhOXB6V3NoaFVoc0QxUEl4eWZUQmFNSzlMV2NNeElFRkJ2bGZGc05LSGFFRnNGcVRXOG4tUzVFVHJYWFRNXzRlX3dYcHJnY3cxTDBxVTZXeEYzd280UmJ1aWswb2g2bGIwQ0dhWkNRb2RhajhNVnZFZ0RtREMwUTRlRDEzdw?oc=5",
+   "published": "2026-10-22T19:25:00+00:00",
+   "id": "7fa32652c2d6",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6335,18 +6347,6 @@
    "cat": "taux",
    "raison": "Illustration de la vigueur des taux américains asséchant la liquidité mondiale face à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "US , Israel plan  short but intensive  strikes on Iran after mid - term elections ; will Trump approve ?",
-   "source": "livemint.com",
-   "theme": "Géopolitique",
-   "link": "https://www.livemint.com/news/world/us-israel-plan-short-but-intensive-strikes-on-iran-after-mid-term-elections-will-trump-approve-11792637245066.html",
-   "published": "2026-10-22T03:30:00+00:00",
-   "id": "54306f7e98e5",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Projets de frappes massives sur l'Iran dopant fortement la demande refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7418,7 +7418,8 @@
   "burst|Iran|165990": 1792698381.6062303,
   "news|46af22d3f6a3": 1792699306.4404094,
   "rep|recap|2026-10-22": 1792699308.6939573,
-  "news|771e6f3a01d2": 1792700167.2234082
+  "news|771e6f3a01d2": 1792700167.2234082,
+  "news|7fa32652c2d6": 1792701093.491139
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7585,6 +7586,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T20:31:33.491206+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad</b>\n📰 The Guardian · Jeu 22/10 21:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTRhOXB6V3NoaFVoc0QxUEl4eWZUQmFNSzlMV2NNeElFRkJ2bGZGc05LSGFFRnNGcVRXOG4tUzVFVHJYWFRNXzRlX3dYcHJnY3cxTDBxVTZXeEYzd280UmJ1aWswb2g2bGIwQ0dhWkNRb2RhajhNVnZFZ0RtREMwUTRlRDEzdw?oc=5"
+  },
   {
    "ts": "2026-10-22T20:16:07.223480+00:00",
    "kind": "news",
@@ -7879,11 +7885,6 @@
    "ts": "2026-10-22T11:02:04.458096+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu denies report that Trump halted planned Israeli strike on Iran</b>\n📰 news.az · Jeu 22/10 12:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.az/news/netanyahu-denies-report-that-trump-halted-planned-israeli-strike-on-iran"
-  },
-  {
-   "ts": "2026-10-22T10:31:29.708843+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S., Israel Draw Up New Plans to Strike Iran After the Midterms</b>\n📰 La Voce di New York · Jeu 22/10 12:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVViQ2VXYkZWaTgwWVlPV3AxWlJjZ25lUDdOVGxBNlVEcUNvVHExR0MzaXhSUWxVVnRCNXUyT0thTzlaS1kyQ3BwSTVjWi1vWDJLQnNkNms2Qk9vbzJSMHk5bnl1ZXhmTjhEeHJuUENJQkJKNUxoaVdlUDdzUmtRYUxzdlZ2M2k5UTcxbVVjM2dJRTZmTXRTZ1JpczAtSGZKT1o0X3pnV3BaWmVIN0Fr?oc=5"
   }
  ],
  "daily_forecast": {
