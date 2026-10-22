@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792692955.4122443,
+   "ts": 1792697476.394749,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "0ab289c91edc",
-  "2423d52782d7",
-  "731e91f2e8d0",
   "f460aa01e634",
   "bc2fbc4cba7e",
   "e92bd4b6856f",
@@ -3945,9 +3942,24 @@
   "67bbe47bfb8d",
   "4846f33bc149",
   "e5f438fc85ee",
-  "f6e84161508d"
+  "f6e84161508d",
+  "3cdcdf147854",
+  "203e207e8218",
+  "49e1ab806bbb"
  ],
  "news": [
+  {
+   "title": "Trump praises Ramaswamy attack ad against Acton, says it shouldn't be taken down",
+   "source": "WSYX",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGduU19KV0tnS2ZUNjhkdHBEdldqeVhVaTRKb2s2VW1mNGlIbkN2eFhScXFpOGQwLWhSbmdTeUxDclV6U0lBbDVWdExlVTVVX3hqMGVMaThXRVpyVzNYckRSLUdWaG90SWxjREgyZ29lVlFOME5sWEpIQmVPcEU5eWtMcExPbEctQ29qQ0FJLWFTNl95T3BLREJIWTNTVnRZT3JYTEZYTEgxTVQxZjB5dnFuUzJ5dGw0MHdIMzllNXFkVG5PeVZucVNfVE1qQQ?oc=5",
+   "published": "2026-10-22T19:26:31+00:00",
+   "id": "49e1ab806bbb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump links Iran’s actions in Hormuz to rising oil prices",
    "source": "Latest news from Azerbaijan",
@@ -6335,18 +6347,6 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold price reversal forecast, CIBC still bets on recovery momentum",
-   "source": "Laodong.vn",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUs3ZTFFQUUycEp5Z1F2VVI3Wms0TzBpMWFDbERicGt1SUVBQWhGVE9SdHhIQ0pZRE1LaHBIMkxQQTZXaEdyakFHTHVLNnlRMl9hMi05MVlIMGZXWFBhcGkzUERCem9xMFJlNkJOb1FQaGZHUXk0cno0OWR6dEJSY25wRXMxbG82WWFlSGFEU2NmRnB4OXIzQ2EtVFU4bmozQU5qY0xrNFFZdF9SY1o4?oc=5",
-   "published": "2026-10-22T02:20:05+00:00",
-   "id": "75044cb36cb6",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Commentaire haussier de banque d'investissement apportant un modeste soutien au sentiment de marché.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7405,7 +7405,8 @@
   "news|5c41d9123f46": 1792693663.7700913,
   "news|02b3a3676abd": 1792694769.9911885,
   "news|e5f438fc85ee": 1792696574.8292713,
-  "big|GOLD|2026-10-22": 1792696576.0731838
+  "big|GOLD|2026-10-22": 1792696576.0731838,
+  "news|49e1ab806bbb": 1792697494.6389763
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7572,6 +7573,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T19:31:34.639041+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump praises Ramaswamy attack ad against Acton, says it shouldn't be taken down</b>\n📰 WSYX · Jeu 22/10 21:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGduU19KV0tnS2ZUNjhkdHBEdldqeVhVaTRKb2s2VW1mNGlIbkN2eFhScXFpOGQwLWhSbmdTeUxDclV6U0lBbDVWdExlVTVVX3hqMGVMaThXRVpyVzNYckRSLUdWaG90SWxjREgyZ29lVlFOME5sWEpIQmVPcEU5eWtMcExPbEctQ29qQ0FJLWFTNl95T3BLREJIWTNTVnRZT3JYTEZYTEgxTVQxZjB5dnFuUzJ5dGw0MHdIMzllNXFkVG5PeVZucVNfVE1qQQ?oc=5"
+  },
   {
    "ts": "2026-10-22T19:16:16.073230+00:00",
    "kind": "big_move",
@@ -7866,11 +7872,6 @@
    "ts": "2026-10-22T09:02:07.788430+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran war live : IRGC threatens US bases if tankers continue  illegal  routes | US - Israel war on Iran News</b>\n📰 aljazeera.com · Jeu 22/10 10:15\n🧠 Menaces directes sur bases américaines et risque d'embrasement militaire régional majeur. [IA]\n🔗 https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?update=5072607"
-  },
-  {
-   "ts": "2026-10-22T09:02:06.456644+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran IRGC says 4 ships hit , set ablaze in Gulf ; 3 others strike mines near Hormuz</b>\n📰 middleeaststar.com · Jeu 22/10 10:15\n🧠 Attaques majeures et détroit d'Ormuz miné provoquant une forte ruée vers l'or. [IA]\n🔗 http://www.middleeaststar.com/news/279391539/iran-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-hormuz"
   }
  ],
  "daily_forecast": {
