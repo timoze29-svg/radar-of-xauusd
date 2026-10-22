@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792625462.3671405,
+   "ts": 1792629062.436953,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "c07dafd7caa0",
-  "52812d0d7bdb",
-  "371d6bce65fa",
-  "138ae757af72",
-  "1432b264866c",
   "997dae27d40a",
   "644ca4e053a4",
   "37a3fa1108f3",
@@ -3945,9 +3940,26 @@
   "92ae377f6b52",
   "c670f6a2c521",
   "7fbc28b12ba8",
-  "859ca422e89f"
+  "859ca422e89f",
+  "25f3237f53dd",
+  "6694b3f70e11",
+  "16b73f9d5803",
+  "88d3cd5f462e",
+  "5d1faae31ca9"
  ],
  "news": [
+  {
+   "title": "US, Israel Prepare to Strike Iran After Nov. 3",
+   "source": "Newser",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1VPaTBNT2JRTVY2XzB1Y01aR0N5QW5kamQ3ZDdCb0tUQ2FtY0ozMFFtNHlrVUJIZ09jeXZEQUxfVi12NFZYdTV6SUk3TkN5bE1VNW9TTXZnMDlKcXEtQ200azZ1S1R2T1JuWGZSbnBJNldGLWttSWgzU045TGswZkNWUEdQbEZDWXhZOVB3?oc=5",
+   "published": "2026-10-22T00:15:00+00:00",
+   "id": "6694b3f70e11",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Midterms and Iran: Congress could change hands, but Trump would still control the war",
    "source": "CNN",
@@ -5605,6 +5617,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Tariff refunds for small businesses past due, US Senate Dems tell Trump administration",
+   "source": "News From The States",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDFZamxvUWRycEl6Rm5WeVFyUkVwZWNLRngtci1pOXVfMmNtZXN1N0dZV1p4WkRoQUJ4R2x6QTlJNHJuYms2NmxTTElhSVdMWmJ0TXRCbm1sNjRxZm5wTGVNalRvbTdKeHA0WVBsN1JObnRzaWU1cUFmNi11NWplYmF6MnlLcml5WUY3OWYtdE96cDg5QnhKUTNONGs2S0loUHBUOGlpX1U4RU5IZUJ2UnJDc09ZemEya2pRNFFxeVg?oc=5",
+   "published": "2026-10-21T07:37:04+00:00",
+   "id": "88d3cd5f462e",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Iran war adds to U.S. housing woes as Trump faces midterm pressure",
    "source": "www.calcalistech.com",
    "theme": "Trump / Iran",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (fed, géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Donald Trump Son … Jr …. IS Against the Iran War …..",
-   "source": "politicaldog101.com",
-   "theme": "Géopolitique",
-   "link": "https://politicaldog101.com/2026/10/donald-trumps-son-jr-is-against-the-iran-war/",
-   "published": "2026-10-20T22:45:00+00:00",
-   "id": "63811757ed4c",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Positionnement politique réduisant marginalement la perception d'un engagement belliciste américain en Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "IMF Warns Governments Against Reliance on Short-Term Debt",
-   "source": "WSJ",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU01b2V2WWN2LS1RLUZIcjI4Z3hZQ1h4ZUVFUF9LcW15bWpJUU5LNlBzLXhaRndYTVZkNWZwUFUzZ1ZpVTVrMWZlWG9kYW9reDBubVhpNVdIM1JkelBvQlF4XzdQUlBaYTVsZ0hVTi1xZ2xLbVBNYzdZM3RfZG52TEdDS1luNXEtRm1kMDh4LUxWcHlIOS1oTFp6SjYxdUNrUjRZ?oc=5",
-   "published": "2026-10-20T22:33:34+00:00",
-   "id": "5b3ff4ba59e8",
-   "impact": 1,
-   "cat": "taux",
-   "raison": "Mise en garde sur la dette souveraine, effet marginal à très court terme.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7311,7 +7311,8 @@
   "news|94bb167f1b15": 1792626364.4628117,
   "news|c670f6a2c521": 1792627293.3839085,
   "news|92ae377f6b52": 1792627294.3580165,
-  "news|7fbc28b12ba8": 1792628170.802978
+  "news|7fbc28b12ba8": 1792628170.802978,
+  "news|6694b3f70e11": 1792629086.4295022
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -7462,6 +7463,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T00:31:26.429574+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel Prepare to Strike Iran After Nov. 3</b>\n📰 Newser · Jeu 22/10 02:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1VPaTBNT2JRTVY2XzB1Y01aR0N5QW5kamQ3ZDdCb0tUQ2FtY0ozMFFtNHlrVUJIZ09jeXZEQUxfVi12NFZYdTV6SUk3TkN5bE1VNW9TTXZnMDlKcXEtQ200azZ1S1R2T1JuWGZSbnBJNldGLWttSWgzU045TGswZkNWUEdQbEZDWXhZOVB3?oc=5"
+  },
   {
    "ts": "2026-10-22T00:16:10.803057+00:00",
    "kind": "news",
@@ -7756,11 +7762,6 @@
    "ts": "2026-10-21T11:16:10.241910+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu hints war in Iran isn’t over, tells Trump ‘We have a job to finish’</b>\n📰 NewsNation · Mer 21/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGJtclFYLUZFeFBNNURfWGtlVkVkbWdlNnNWZGQ5Rk9QRUhObmU3eTNmdnAxdHNieUprWENVYXlRZUk3SUo2S21sYXFjQ0poYmlyU0dlbFFXVHRqb3NaMW4ydzhnRWd2ZEl3WENjd29WYVc5bWwxWU5vM2dCYUZZcTZQVWbSAYoBQVVfeXFMUEdLaTVoSTlGQnhtQ1dwX0Y0Vm9LX2VVY29IaHk3U25wWmE5RWdnUlJGREQ0MUFrNEl6M1dINnE2TmNNOWplRzRMT2ZKNmtrcWV2cWxmVWlEeWhUUHZZeGlfZm9uT2pzZ2V4TW5jZnJQX05nNXhjUzFlTGlGRzNvRUh2dmk0UG5BWnZB?oc=5"
-  },
-  {
-   "ts": "2026-10-21T11:01:43.944093+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine</b>\n📰 CNN · Mer 21/10 09:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNNk5OZXV1WHNSTWpqUTVVQTh5UWhvVTdTYjZ3YjBIZy10VDB4b2dzNnBnN09aWEdnc2s0LUpKVExKSC0yenJHQUZROW5vZHZndmJxUmt6NUVSNUNMMDluYmRZR2M3TkNhYlRscXIzUXV0d1haeXI3WW1FTjlZdVUtSTB0TDBmTTNfdUNmZDFyUQ?oc=5"
   }
  ],
  "daily_forecast": {
