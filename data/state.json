@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "e022b0591f8e",
-  "41d285796495",
-  "74e09d6b911b",
-  "b89ca11da9c4",
-  "dd150a1e5826",
-  "450b99ba7123",
   "0495586394c9",
   "4197b873a490",
   "857513154747",
@@ -3945,7 +3939,13 @@
   "5c032a9b8f54",
   "5338cb6810ef",
   "de4d7d572451",
-  "456d3aca722a"
+  "456d3aca722a",
+  "b55d59b16b28",
+  "339236dc9db8",
+  "dfaf28e28326",
+  "16365d69532f",
+  "0b88e02c4223",
+  "48687c1e9f67"
  ],
  "news": [
   {
@@ -7372,7 +7372,9 @@
   "news|2f750761b85a": 1792671368.7081878,
   "news|383b2a393b0d": 1792672299.678127,
   "news|f3f1f16c6230": 1792672301.251389,
-  "brk|US10Y|pdh|dn|2026-10-22": 1792673167.4691195
+  "brk|US10Y|pdh|dn|2026-10-22": 1792673167.4691195,
+  "brk|US10Y|pwh|dn|2026-10-19/2026-10-25": 1792674098.2677507,
+  "brk|US10Y|h20|dn|2026-10-19/2026-10-25": 1792674099.1567042
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7539,6 +7541,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T13:01:39.156789+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas sur 20 JOURS\nNiveau : 5.037 → prix : <b>5.036</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.28 | 60j -0.25"
+  },
+  {
+   "ts": "2026-10-22T13:01:38.267807+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 5.037 → prix : <b>5.036</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.28 | 60j -0.25"
+  },
   {
    "ts": "2026-10-22T12:46:07.469180+00:00",
    "kind": "breakout",
@@ -7828,16 +7840,6 @@
    "ts": "2026-10-22T02:01:36.628979+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Explosions Reported Near Strategic Strait of Hormuz , Iran Media Confirms</b>\n📰 gulfnews.com · Jeu 22/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://gulfnews.com/world/mena/explosions-heard-near-strait-of-hormuz-iran-state-media-1.500719022"
-  },
-  {
-   "ts": "2026-10-22T02:01:35.694513+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report : US and Israel prepare new Iran strikes after midterm elections</b>\n📰 israelnationalnews.com · Jeu 22/10 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.israelnationalnews.com/flashes/695827"
-  },
-  {
-   "ts": "2026-10-22T02:01:34.709768+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel draw up plans for post-election strikes on Iran — report</b>\n📰 TRT World · Jeu 22/10 03:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSFBzU0hXeVY4eW5XNFU2WlJVb2Q3LVB4S1Q5bmVpUHU2UENabklEXzVkSExrSldCYUY1dmdocXZ4QmtZa29DSnlBcXVIbEJDVzU5ZE9yQ3NubnBIRGVFM0VJM0FxU2FoM2g1MWhTeEdjQTNvUURNMDViajRLSmJNcUdqTVZwb2VVQnZBNTVNcVFyRGxxREVfRmlIeF8yb2xtR3VQU014ZktGRjd1QThCWlpwZk5HOWpxSDVJZVJRSTZMdk8xY0dxQW5qdWRaS0lPRWhlTE1fMkhaTlhpYzZsdm1wbXZ2dw?oc=5"
   }
  ],
  "daily_forecast": {
