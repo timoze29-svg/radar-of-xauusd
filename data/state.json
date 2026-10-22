@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "93d71bd182ad",
-  "f25645ed303a",
-  "2798cd71351a",
-  "49e538b15631",
-  "db59428edc4e",
-  "4d8575698c79",
   "faec42f2db91",
   "ef48ee29e87c",
   "018094a549f9",
@@ -3945,7 +3939,13 @@
   "8d3c78ed9a6e",
   "d3c00c151f2a",
   "c35c7cea2ace",
-  "495235d20fd1"
+  "495235d20fd1",
+  "976904b84ba7",
+  "37c16abffe14",
+  "2f750761b85a",
+  "31a2221b421c",
+  "fbe564ac56db",
+  "b79f1ba9dfff"
  ],
  "news": [
   {
@@ -4160,6 +4160,18 @@
    "published": "2026-10-22T10:21:35+00:00",
    "id": "a3636f04389d",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia pounds Kyiv with missiles and drones, hours after agreeing to peace talks",
+   "source": "NBC News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEdGTWtjTl9xZ0UwUDlueUFBSG5PaXNRZW1oN0o4ZXF6Q1pjbEhrb2RmWkdVVUJTeEQ3ODQ0R1hoSFNjbTFVSEN0aEQ1SF9DeExXSmRubWNLcXhvWG4wSGs5Q0pKM1BjZWd2SExwNUprNWdzeFNBR2hLRjYxVnFCN2stOGh4WmYyb2JZZzZsNVVUdzRENFIxeXFDZVZVRm9Zd0N5N19IY3ZmYzYzbjA4?oc=5",
+   "published": "2026-10-22T10:11:47+00:00",
+   "id": "b79f1ba9dfff",
+   "impact": 1,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4907,6 +4919,18 @@
    "cat": "géopolitique",
    "raison": "Tensions sino-taïwanaises latentes mais incident mineur sans risque de choc immédiat.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: US slashes troop presence in Middle East despite spiralling rhetoric",
+   "source": "Arabian Business",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-10-22T05:06:07+00:00",
+   "id": "2f750761b85a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Russia and Ukraine trade major attacks as Trump touts progress",
@@ -6323,30 +6347,6 @@
    "cat": "commerce",
    "raison": "Contestations tarifaires illustrant l'incertitude commerciale, facteur faiblement porteur pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Egyptian defense of Saudi Arabia not to include strikes on Houthis",
-   "source": "The Jerusalem Post",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xb21kVXJ5NGxCSFJ6VERjckJhX21YbUx6cnFqUFVZa1BSaVJuZndxSVQ3UExreFZhRC1GZkJ0dy13TkFPczA1dmkzMEk5MnBWRUsxUmE0NUo1Tkl2?oc=5",
-   "published": "2026-10-21T17:32:37+00:00",
-   "id": "44d508f7f17f",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Implication égyptienne limitée, réduisant le risque d'escalade régionale au Moyen-Orient.",
-   "method": "IA"
-  },
-  {
-   "title": "Food importer sues Trump administration over 50% tariffs on Canadian goods",
-   "source": "Restaurant Business Magazine",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnR0LWhxa2tweFNFdEd6ZE9XS2c0elVrU2NtaERkVG9FWmFDdWtyZTJsaGxPVmJObEZldjJOeWpwVmNYWkFVeWozX3huZUxmaG5fWGFlMXZ1cTRZSDZ0QlpjVENzSWc1YW1nTFRUc3hvc05fUDlTdG4zS0tsSDV6dm9fVk9UcGctZzNMSU9QOWNTcHpaM1QwWWl2TUVwQ1V5dWh4Z2dhLW1Tdlp6UXNsUzU3UFN5dm9UUGpsZ2h0QQ?oc=5",
-   "published": "2026-10-21T17:26:15+00:00",
-   "id": "b7a99b116414",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Contestation juridique des droits de douane, modérant légèrement les craintes inflationnistes.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7368,7 +7368,8 @@
   "news|a3636f04389d": 1792669582.3599489,
   "news|9ecbfc643cb2": 1792669583.2075193,
   "news|d3c00c151f2a": 1792670510.0618985,
-  "rep|update|2026-10-22": 1792670514.163598
+  "rep|update|2026-10-22": 1792670514.163598,
+  "news|2f750761b85a": 1792671368.7081878
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7535,6 +7536,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T12:16:08.708267+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: US slashes troop presence in Middle East despite spiralling rhetoric</b>\n📰 Arabian Business · Jeu 22/10 07:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
   {
    "ts": "2026-10-22T12:01:53.131925+00:00",
    "kind": "ny_update",
@@ -7829,11 +7835,6 @@
    "ts": "2026-10-22T01:01:34.001890+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel prepare for renewed strikes on Iran after midterms, report says</b>\n📰 Ynetnews · Jeu 22/10 02:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE40aXN2dnFJX3NYeHNwbnVlelAwbXI1SHJycTYyLXVoYTVPdFhsQXN6R2FNNnNTZFZoRjB6VmM0ejg5NE11TUJjdWFJZFlaQWJMaG5rVlpySQ?oc=5"
-  },
-  {
-   "ts": "2026-10-22T00:46:11.434166+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT</b>\n📰 Investing.com · Jeu 22/10 02:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOW9LWkduX0ZhdEwwMTloVE4wSjN1VzBPTHdoWGhjR2lQLTNrc29mbVlKVzVBNm5LOVVvNE9qRnV5NEh5OWlVRjNYRVYzQmVJUHA0SkJhOUk0VlhWUHo4SlZBTzVhVy1IV3k3czBCWnhRc2Z1aFdwcXdYa0l4LUtYcnFZY2s4S2lJU2dDbWw4Q3pBdWpJckFoa3k3dTQ3Q2dQeE1GemJxOGc2Q3U5SE9fNHR1NVZTZ1JlbllZZEcyMzQ?oc=5"
   }
  ],
  "daily_forecast": {
