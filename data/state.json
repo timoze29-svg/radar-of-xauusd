@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "063e0066b49e",
-  "8ddd758bf747",
   "580778d8ccdb",
   "fb422cb8d13b",
   "4a3d2e82db39",
@@ -3945,7 +3943,9 @@
   "e2c9f857cc84",
   "7c9cd0643ba6",
   "3d0f39ad99fe",
-  "686554f7a28b"
+  "686554f7a28b",
+  "e807ab116b3a",
+  "d0cde6767841"
  ],
  "news": [
   {
@@ -7379,7 +7379,9 @@
   "news|28278edc8e20": 1792675886.4567685,
   "news|58f50655ffcd": 1792675887.332519,
   "big|SILVER|2026-10-22": 1792676627.291117,
-  "news|b4f5cd178aee": 1792676770.7019296
+  "news|b4f5cd178aee": 1792676770.7019296,
+  "brk|SILVER|pwh|dn|2026-10-19/2026-10-25": 1792677707.8233626,
+  "brk|SILVER|h20|dn|2026-10-19/2026-10-25": 1792677708.868798
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7546,6 +7548,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T14:01:48.868878+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 55.500 → prix : <b>55.180</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.83 | 60j 0.82"
+  },
+  {
+   "ts": "2026-10-22T14:01:47.823425+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 55.500 → prix : <b>55.180</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.83 | 60j 0.82"
+  },
   {
    "ts": "2026-10-22T13:46:10.701990+00:00",
    "kind": "news",
@@ -7835,16 +7847,6 @@
    "ts": "2026-10-22T04:01:35.258596+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Finds Out ! Washington Is the War Capital of the World</b>\n📰 original.antiwar.com · Jeu 22/10 05:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://original.antiwar.com/david_stockman/2026/10/21/trump-finds-out-washington-is-the-war-capital-of-the-world/"
-  },
-  {
-   "ts": "2026-10-22T03:46:49.997469+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 6.4985 → prix : <b>6.4945</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.33 | 60j 0.39"
-  },
-  {
-   "ts": "2026-10-22T03:46:48.728829+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel Draw Up Postelection Strikes on Iran</b>\n📰 Newser · Jeu 22/10 02:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1VPaTBNT2JRTVY2XzB1Y01aR0N5QW5kamQ3ZDdCb0tUQ2FtY0ozMFFtNHlrVUJIZ09jeXZEQUxfVi12NFZYdTV6SUk3TkN5bE1VNW9TTXZnMDlKcXEtQ200azZ1S1R2T1JuWGZSbnBJNldGLWttSWgzU045TGswZkNWUEdQbEZDWXhZOVB3?oc=5"
   }
  ],
  "daily_forecast": {
