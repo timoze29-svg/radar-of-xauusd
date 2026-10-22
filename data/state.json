@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "2e9fb353a195",
-  "74f373ddf02d",
-  "8628dec93a12",
-  "48014be15298",
   "71011864d01b",
   "27dc8ca669b8",
   "8b0652c7fa73",
@@ -3945,20 +3941,24 @@
   "c07fb79313cf",
   "c0b62f026f79",
   "87b206aa70fd",
-  "81bf4652a5ae"
+  "81bf4652a5ae",
+  "d200410769b9",
+  "a5b499d3e82b",
+  "02884cacc25d",
+  "1e75c91c91bd"
  ],
  "news": [
   {
-   "title": "United States Dollar Index falls to near 101.50 due to Fed rate pause bets | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GeEh6N09fdHFPUUpWRUZUaXVGTmY4bUVOYjdDLXB2a0dnLWVEaUFjT0JveHE0QUZvUDNqaTg1QmU2NVczVzZpT29uZE1nUzl3TjVn?oc=5",
-   "published": "2026-10-22T09:16:59+00:00",
-   "id": "c0b62f026f79",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "title": "Indian government bond yields fall as US Treasury yields drop, triggering value buying",
+   "source": "Prop News Time",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVlYyUUV2V2gxZWE3ZVB1X2xUY2tNX1l5enBCRlJvQWZsWTNUZlplZlRocTJBc0JRYl9fbWRSRHBjbnpDNUlCRUdHMVhGdUVERlR6cENkbmctS19BNm13TFpWVGlUZUcwbXBIN2cxZ3hpWHVQNjlWYmlkenJQN3V3el96cVdLZm1QUWlETktiSW1fZU5kTC0tRVBXUkd4LTJFM2FQTk5rS0kxdFJHTHJxMGhMZU9RVS1VcEpEcUNyaDhlcWFhTUxZdldHQlg4bFlISlI0?oc=5",
+   "published": "2026-10-22T09:30:13+00:00",
+   "id": "1e75c91c91bd",
+   "impact": 2,
+   "cat": "taux",
+   "raison": "La baisse des rendements obligataires américains réduit le coût d'opportunité de l'or.",
+   "method": "IA"
   },
   {
    "title": "U.S. and Israel are planning for a possible post-midterms attack on Iran",
@@ -4222,6 +4222,18 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "Aversion au risque marquée et forte demande de valeur refuge face aux tensions militaires.",
+   "method": "IA"
+  },
+  {
+   "title": "10-Year Treasury Yield Falls to 5.10% as September Inflation Rises",
+   "source": "TOKENPOST",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fS2NBdHMtR0hKenRoWmx4UnFsVlluZjZiaEpiNEpfcVRZbkhqZ1hJVXJYeFdVd1JQcmljaHhrNnZsbmRaX25tTl85cUJuaEZNQ3djRjR1anVCdw?oc=5",
+   "published": "2026-10-22T06:52:32+00:00",
+   "id": "02884cacc25d",
+   "impact": 3,
+   "cat": "taux",
+   "raison": "Rendements en baisse et inflation en hausse compriment les taux réels, soutenant l'or.",
    "method": "IA"
   },
   {
@@ -4894,6 +4906,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Tension feutrée Taïwan-Chine, soutien très marginal comme valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "DW News. . Trump behind bars in Tehran? A provocative art installation drew crowds in Iran as anger over US and Israeli strikes simmers and hopes for renewed talks between Tehran and Washington remain uncertain. #dwnews",
+   "source": "Facebook",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcWVZTzBCWFFnM1V0VFJQVE1NRUs0d2V2SE1nRDNkS3pEMEVoRDFUUGtRUS1Dakg3TS1ZWi03cmRzUS1jOFNXa1lyQlUzZEV0aEJ4Nm9Xc1hSdEJ4enlBMkp2Q0FIX3lyOGtySmlNaGM3ekVDdlVWYzRiMnZhVTZrV2tIcnJVZy1CNXM2ZTVWODNBMkhHTHFXTTJXalpvS2JEY05VRHVqdndwTXNIMWlDZkV3WFQ5UEdzUzU2Vm40OEJkMjEyZXdkcnVsdXFjVktYaGhpdE1mRUpuVTJRS3F3U2dR?oc=5",
+   "published": "2026-10-22T02:35:05+00:00",
+   "id": "d200410769b9",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions persistantes USA-Iran, mais simple fait artistique sans escalade militaire concrète.",
    "method": "IA"
   },
   {
@@ -6322,30 +6346,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Menace directe contre des infrastructures critiques, stimulant l'achat de sécurité.",
-   "method": "IA"
-  },
-  {
-   "title": "Putin agrees to resume trilateral talks between Russia , Ukraine , US",
-   "source": "chicoer.com",
-   "theme": "Géopolitique",
-   "link": "https://www.chicoer.com/2026/10/21/trump-envoy-witkoff-putin-meeting/",
-   "published": "2026-10-21T14:00:00+00:00",
-   "id": "74d0d99e2dce",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Reprise des discussions de paix réduisant la demande de protection refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia releases imprisoned American man",
-   "source": "knoe.com",
-   "theme": "Géopolitique",
-   "link": "https://www.knoe.com/2026/10/21/russia-releases-american-man-imprisoned-charges-fighting-mercenary-ukraine/",
-   "published": "2026-10-21T14:00:00+00:00",
-   "id": "dfc6fe060ac9",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Geste d'apaisement bilatéral USA-Russie modérant légèrement les tensions.",
    "method": "IA"
   }
  ],
