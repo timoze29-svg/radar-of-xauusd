@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1792584077.8420415,
+   "ts": 1792628150.1168292,
    "data": {
     "date": "2026-10-13",
     "net": 207879,
@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "0c0d4ff8e59d",
-  "59c8ad245b7f",
   "c07dafd7caa0",
   "52812d0d7bdb",
   "371d6bce65fa",
@@ -3945,9 +3943,23 @@
   "41020e617be3",
   "bd4aeff70988",
   "92ae377f6b52",
-  "c670f6a2c521"
+  "c670f6a2c521",
+  "7fbc28b12ba8",
+  "859ca422e89f"
  ],
  "news": [
+  {
+   "title": "Midterms and Iran: Congress could change hands, but Trump would still control the war",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBveTZmNEdNYVVhaGo4N19FSC1GcDFiQ3FDVE9UdXc3cW9PaEF5NHdkMC1vYnZiSWJSNmRsaWpwejJmUERydlNSOWx1YUwyaDM1aXBBekxjOE5aU1BnOExSSkRVVDhrcnpTZnUzazRROUg1RnZ5N2NZdUR3?oc=5",
+   "published": "2026-10-22T00:00:00+00:00",
+   "id": "7fbc28b12ba8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "South Florida Ukrainians dismayed by Trump stance on Russia's war on Ukraine",
    "source": "NBC 6 South Florida",
@@ -6335,18 +6347,6 @@
    "cat": "taux",
    "raison": "Mise en garde sur la dette souveraine, effet marginal à très court terme.",
    "method": "IA"
-  },
-  {
-   "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHprb0pxRDJCVXNnZEtEWGluTEQ0WTEtLVgyZUxmSU5ZclBQRUxTQW5mcFdIVjlpRDZoQXVCVzBjQmNmeFRMWDkyOGN6SnpDWHMzam1QTVlxQmJuNVdWRlAxcDlLb3RWT3dxM2V5RXhBcGR5ckNyZ0lwdDNfWGRIU2FfZGJ1cXp0bzd0UHU3VFFXZmt0MkJWM2RwVWk4b19jbW51X0o0ZEpJWm1G0gGyAUFVX3lxTFBYSE9FQmlFLVFmYWdobUQyeG5lWHAwUHFoR2docG5QNl93MG9rbjNVTlprRFRudW1TOTQxZXVhSGswenZiSDJjMmdzVGp4UmJyNUIxVXZVLWV0QktpeV9uREw4dTZYd0lvNmxsWXlLNnhSQWRmUnc3bEJjQ29NVGVseno5OVJjQ2pjdkZNa0g2RVc0TVRrUHZBYXFaTHNWUm9XcWV3YU9mYXBiaTFEblgwLXc?oc=5",
-   "published": "2026-10-20T22:29:14+00:00",
-   "id": "a4c8653a40dd",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Perspective d'apaisement en Ukraine susceptible d'éroder la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7310,7 +7310,8 @@
   "news|41020e617be3": 1792626363.6042778,
   "news|94bb167f1b15": 1792626364.4628117,
   "news|c670f6a2c521": 1792627293.3839085,
-  "news|92ae377f6b52": 1792627294.3580165
+  "news|92ae377f6b52": 1792627294.3580165,
+  "news|7fbc28b12ba8": 1792628170.802978
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -7461,6 +7462,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T00:16:10.803057+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Midterms and Iran: Congress could change hands, but Trump would still control the war</b>\n📰 CNN · Jeu 22/10 02:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFBveTZmNEdNYVVhaGo4N19FSC1GcDFiQ3FDVE9UdXc3cW9PaEF5NHdkMC1vYnZiSWJSNmRsaWpwejJmUERydlNSOWx1YUwyaDM1aXBBekxjOE5aU1BnOExSSkRVVDhrcnpTZnUzazRROUg1RnZ5N2NZdUR3?oc=5"
+  },
   {
    "ts": "2026-10-22T00:01:34.358224+00:00",
    "kind": "news",
@@ -7755,11 +7761,6 @@
    "ts": "2026-10-21T11:01:43.944093+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine</b>\n📰 CNN · Mer 21/10 09:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNNk5OZXV1WHNSTWpqUTVVQTh5UWhvVTdTYjZ3YjBIZy10VDB4b2dzNnBnN09aWEdnc2s0LUpKVExKSC0yenJHQUZROW5vZHZndmJxUmt6NUVSNUNMMDluYmRZR2M3TkNhYlRscXIzUXV0d1haeXI3WW1FTjlZdVUtSTB0TDBmTTNfdUNmZDFyUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-21T10:46:15.269674+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran strikes PAK in latest attack on Kurdish Iranian opposition groups</b>\n📰 jpost.com · Mer 21/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.jpost.com/middle-east/iran-news/article-912396"
   }
  ],
  "daily_forecast": {
