@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "91fa3330b487",
-  "6841cb90bc6a",
-  "8c3be5395d86",
-  "6318e3453ba9",
   "27fbc664a55b",
   "0e9e304603fb",
   "4c56c077531a",
@@ -3945,7 +3941,11 @@
   "13aa9705c640",
   "bb41645aa7ef",
   "25a25a60be4f",
-  "5323635814b8"
+  "5323635814b8",
+  "b96420ba2220",
+  "6f5c3ddd555c",
+  "91b3e21b6f8f",
+  "b6265599fd73"
  ],
  "news": [
   {
@@ -4163,6 +4163,18 @@
    "cat": "géopolitique",
    "raison": "Hausse du pétrole et tensions au Moyen-Orient renforcent la demande refuge et l'inflation.",
    "method": "IA"
+  },
+  {
+   "title": "Saudi Aramco evacuates headquarters amid escalating Houthi attacks",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZ21MaTlZSmV1QmhmeVZqcmlONmFtc2VTc0JlM2RqN0ttdlE1SGR1aWh0OVBjMVQ5eDFfSzBvNE5kRnVaY2ktQXlzaWlxaFBGOWNiVUwtdWNXRGphcWFzTEpuU05EX1ZSR1E?oc=5",
+   "published": "2026-10-22T12:58:54+00:00",
+   "id": "b96420ba2220",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gulf nations brace for possible return to all-out war between US and Iran",
@@ -5135,6 +5147,18 @@
    "cat": "taux",
    "raison": "Rapatriement de capitaux japonais risquant de tendre légèrement les rendements obligataires mondiaux.",
    "method": "IA"
+  },
+  {
+   "title": "States Sue Over Latest Trump Tariff Attempt",
+   "source": "EnergyNow.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZFZGNjRycXRRS3BFX1FUMi1VTk5icTlUYlJzWE1JS01NT2NCZl9aajJ6VmtZcElZcGQtekx5SmxkMFA0a0hUamlIUzl4UDhDMGJSTk1JaXhWa19GSnI4RFc1Ull4ZUtkRTV5VUJNRGMwaG90a3BFRFZjVnE1LVE?oc=5",
+   "published": "2026-10-22T06:26:31+00:00",
+   "id": "6f5c3ddd555c",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "US, Israel plan renewed Iran strikes after midterms: Report",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Frappes directes sur l'Iran, risque majeur d'escalade régionale stimulant fortement l'or refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Escalation in Middle East Possible in Coming Days, Polish PM Says",
-   "source": "EnergyNow.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXBEWEFlSG9EdHRhc2NkY1Npd0puaG1jVWMyX0lNZVBWT05RaTc1MzNoenJwdmIyYW9vYlRRTjR1Mm1sT1EtRnJoRk9DQnJxYk5tLTJwNndQUV9UdFlLMzEtZ0ZURHFVVDR6c1hoWXNYZlpQQVFpNEtRdkxjY1RYQl9iWkJORHN1UmxURXl6dmJtZC1RWVdzNU91VQ?oc=5",
-   "published": "2026-10-21T22:49:47+00:00",
-   "id": "d61f9d9f4206",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Avertissement diplomatique renforçant la nervosité et l'achat préventif de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference",
-   "source": "AP News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWtDUVVQYXZ6WlJZNC1ER0dCcGVTcTg4R0RpdEN1VkZpb25KQzZuV2trZU84UVdPckpSWTNFR1IzMHlsckdKbURUOW5tdTRac2tBbm5hbUZxNTRRMjN1d3ZNYlFzNHhaUVhnclJQOThsb3R1VEY2YW9PcE12UUpXMC12cXFLOC1MRkJoSGVkT1R6N0YyVjR2U3Bva00tc2ptMHc?oc=5",
-   "published": "2026-10-21T22:42:00+00:00",
-   "id": "93c1b77748fa",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Tensions douanières avec le Canada créant de faibles craintes stagflationnistes favorables.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7392,7 +7392,8 @@
   "big|VIX|2026-10-22": 1792681311.0154011,
   "news|c7a5b40f6e2f": 1792682172.9453478,
   "news|fa6eb06da8f3": 1792682174.0105205,
-  "news|c8d2c4addf97": 1792682174.9889452
+  "news|c8d2c4addf97": 1792682174.9889452,
+  "news|b96420ba2220": 1792683091.7774034
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7559,6 +7560,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T15:31:31.777487+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Saudi Aramco evacuates headquarters amid escalating Houthi attacks</b>\n📰 The Jerusalem Post · Jeu 22/10 14:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZ21MaTlZSmV1QmhmeVZqcmlONmFtc2VTc0JlM2RqN0ttdlE1SGR1aWh0OVBjMVQ5eDFfSzBvNE5kRnVaY2ktQXlzaWlxaFBGOWNiVUwtdWNXRGphcWFzTEpuU05EX1ZSR1E?oc=5"
+  },
   {
    "ts": "2026-10-22T15:16:14.989187+00:00",
    "kind": "news",
@@ -7853,11 +7859,6 @@
    "ts": "2026-10-22T05:47:52.653246+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia and Ukraine trade major attacks as Trump touts progress</b>\n📰 South China Morning Post · Jeu 22/10 07:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDlrSkoxT2Z5czM5X0lOTmpPRURLQlQyMjE2RGh1cFNzZDdvYzFuQXV0T3N0aGtuME53akIzMl9zYU44QWJ1QzdSLS1ZZzlRbEVfWEVIekZ6QWktaENfcnYzTmI4X0tOOEk2Z0luWC1aVHUxN096MWNXUEJFTGZWbzk2NVRidFY5Z01QOW9BX05TVkdST0lFcHhZUFI1Z1V3SFhwRDRxNHhnVWsybXJaMUdXWTY?oc=5"
-  },
-  {
-   "ts": "2026-10-22T05:31:21.035418+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Trump’s Son ‘Expressed Private Concerns About Iran War to his Father’</b>\n📰 ASHARQ AL-AWSAT English · Jeu 22/10 07:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTzgzcjAtWVBsV1BMa0JHVjYzb3JiVjVEYkFwaVFwQk5SRkFQR2tkUjZ5M3hHN3RHUk5PUGR3dEZuaXdVbFBqaHBndUhkc0RpZExZSHg0Y1dFRGtCUnFvR09SX0ZuTF9rUmRDQTVobEdQc1hwS05OWHRpNmdwZ1BNc3lIOWIxS0d2OG91RWdEc0ZVV0xxV09vbTUxTFlzT1YwbTRYVjFPQmNkeXIyZDMxN0VnWjBHSWJBN3VqZTByRllMNGVDS2w0OUFMMEpnYTMzeXlwRw?oc=5"
   }
  ],
  "daily_forecast": {
