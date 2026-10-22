@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792689347.6636214,
+   "ts": 1792710949.4263542,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.77,
-     "date": "2026-10-20",
-     "chg5": -0.11,
-     "chg20": 0.15,
+     "last": 2.76,
+     "date": "2026-10-21",
+     "chg5": -0.08,
+     "chg20": 0.13,
      "hist": [
-      1.96,
       1.94,
       1.91,
       1.95,
@@ -129,18 +128,18 @@
       2.78,
       2.74,
       2.8,
-      2.77
+      2.77,
+      2.76
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.37,
-     "date": "2026-10-21",
-     "chg5": 0.02,
-     "chg20": 0.04,
+     "last": 2.32,
+     "date": "2026-10-22",
+     "chg5": 0.0,
+     "chg20": -0.03,
      "hist": [
-      2.46,
       2.48,
       2.5,
       2.47,
@@ -259,18 +258,18 @@
       2.35,
       2.35,
       2.35,
-      2.37
+      2.37,
+      2.32
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.79,
-     "date": "2026-10-20",
-     "chg5": 0.0,
-     "chg20": 0.03,
+     "last": 4.81,
+     "date": "2026-10-21",
+     "chg5": -0.01,
+     "chg20": 0.1,
      "hist": [
-      3.92,
       3.88,
       3.88,
       3.95,
@@ -389,14 +388,15 @@
       4.77,
       4.74,
       4.77,
-      4.79
+      4.79,
+      4.81
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-20",
+     "date": "2026-10-21",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -414,7 +414,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -486,6 +485,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "66463e70d7b0",
-  "e42395d61ad8",
   "cdff268368de",
   "6c416be6c551",
   "1b3246a69c1f",
@@ -3945,9 +3943,23 @@
   "0472e8314064",
   "8284719c58fc",
   "7707c9dba2af",
-  "3fa220cb983d"
+  "3fa220cb983d",
+  "855febd47b82",
+  "e02f7c1f532c"
  ],
  "news": [
+  {
+   "title": "Trump keeps hinting he’ll resume the Iran war after the midterms. These Iowa GOP voters sound wary",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JYzBHenlMcVhid1hEbkMybzdvb2dxQTZKN29OTk1WVnhNZm1yZzhzNkZYNjFaMXhuVUtHUHFIV0lsQ09oaEF3YTE2Z0tUR3lOMUU2V3dWQk50OC1oT3dVdFZxaWVmOGkwczBkeDg0R3o5LWdoNFNwZ2JlMA?oc=5",
+   "published": "2026-10-22T22:29:28+00:00",
+   "id": "855febd47b82",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Rhétorique belliqueuse envers l'Iran alimentant modérément la prime de risque géopolitique.",
+   "method": "IA"
+  },
   {
    "title": "What we know about war plans that Trump and Netanyahu are drawing up",
    "source": "NPR",
@@ -4847,6 +4859,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Bank of England: Firm UK inflation brings November hike into forecast – Danske Bank",
+   "source": "www.tmgm.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0kyaHVtNVVudk1ZWGZ1TjJEeFdlZU1uY24zVmJ2OE1yTE85aEYwQTJCY1UxVTN6YlViWW03VUNieGFaczQ4NXQwWDFMQ3RNc2NXdWtUVFRja05ndU02VE1BZHBpalBQUDV1SlZxWEFnQ25ENnRvOWRyMHdrbWVFNDBDMEZnWWlfQWFQTEg2LWpDSkg2M1B5ZDVRMVNESl9VcXdidHBKcnZKMUN1czQ0ek0xTTdjYnhtbDZDRlpTa3RTQ1BibERhcXJLNTlrcXNhXzUxM294VVJLd1U?oc=5",
+   "published": "2026-10-22T17:29:30+00:00",
+   "id": "e02f7c1f532c",
+   "impact": -1,
+   "cat": "taux",
+   "raison": "Resserrement monétaire mondial anticipé, négatif pour les actifs non rémunérés malgré la pression dollar.",
+   "method": "IA"
   },
   {
    "title": "Qatar, US discuss regional de-escalation, maritime navigation",
@@ -6322,30 +6346,6 @@
    "impact": 3,
    "cat": "dollar",
    "raison": "Affaiblissement du dollar à un plus bas de trois semaines, mécaniquement haussier pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia Pounds Ukraine's Capital Kyiv With Missiles and Drones, Hours After Agreeing to Peace Talks",
-   "source": "U.S. News & World Report",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclJCZDZqckJKaVFjSzJCeHQzTDhLRUd4MEZ1ZXYtZzdGb3ZKUlhob0JDX3hqbC16T3REZEdhME5nZ1AxVE1MVG1LNU1MZS00U0Jpd0pkdWVPRmpRM015eUZ0dmxVRy1CbTlkcEdtYVVaY1pKSjNBRkFJejJHRnY0MWZkc2ZWQnMwcTIwY2E5alM5MnMtRU00MFhtMnhfbkZQamhwb050Zm5QblJaR2pGMk9vZFdNRXg4Q3RWTUpvQmwtWUJsTzhuRlBvVWxCMG9PSjY3Ty1uWmUzQWlRckR1VzVmYlRyNFVW?oc=5",
-   "published": "2026-10-22T07:12:00+00:00",
-   "id": "0759ded5b6fb",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Poursuite du conflit maintenant la prime de risque géopolitique à court terme.",
-   "method": "IA"
-  },
-  {
-   "title": "Stock Futures Sink, Asian Markets Turn Red as US, Israel Draw Up Post-Midterm Iran Strike Plans: Report",
-   "source": "Benzinga",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ1NHblc5Mmd1b3BGRWlmQnpLTlhxNjRIVmRCUUlwQ2J6cmEzeGNHWDk0ejJGb0FBQ0ZxNXBaeW5ZNWJ2NUdzMHlJOFh5RDBfekZsUllRZTl3dFU3MjBCZ1NwWF9OYWFpU3F1dWFBajA2eHRLaFVNZkxjck1HOFZNeW1qRTFTRGtoZ2psS3IxM1l2Zi10X0k5b1lkLXhGUVc1R2JSUUZJaEVTZk1Rc3RiczRpR1JETmNTajRxUGNZTWxwVW03S1ZiXzE1SHQ2NTVEeWFUS3hKd21sdnc1dWFmOEcwdVdwb2tIdnc?oc=5",
-   "published": "2026-10-22T07:06:56+00:00",
-   "id": "1a8dc556c7a6",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Aversion au risque marquée et forte demande de valeur refuge face aux tensions militaires.",
    "method": "IA"
   }
  ],
