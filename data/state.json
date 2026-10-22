@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "84370bc852d3",
-  "0904f5356021",
-  "d70bbf7b07ca",
-  "edccdd47bb19",
-  "c090f1846ac8",
-  "37ad2e4680c3",
   "10ab0e0dd09b",
   "bc705746a93e",
   "a3b1ac36e8b9",
@@ -3945,9 +3939,27 @@
   "89c8542d8375",
   "32a97b441d3d",
   "9fd0bab5acfa",
-  "83b905c2b9c3"
+  "83b905c2b9c3",
+  "cf329765338a",
+  "7d1717c98fe9",
+  "b67e0244a8a1",
+  "771e6f3a01d2",
+  "38abb2c8a2e4",
+  "0e8acd1f465f"
  ],
  "news": [
+  {
+   "title": "Trump Punts on Wind Turbine Tariffs, Allows 180 Days for Talks",
+   "source": "Bloomberg.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGpoQklQcElFSEt1c2t3S0NibFRHRFZsanBOU1VRU3JNcmNQREJXZVNEd0JVMWEzNXVKdHJybnFVbEtfRW9pWURBQ19uQTBIOTBzQUdpSzJRYV9rMFF3Uk1wN2NBUmpJMnBValJ2OW81QlV1Qm5xcWtBTkpBd3BFenlwUEpWUjFpVFNYTXBaMG96VUpKU0w0RVJaSm5OUERVS1RYZVRTU29VUGJCVUFhQlp3?oc=5",
+   "published": "2026-10-22T20:07:58+00:00",
+   "id": "38abb2c8a2e4",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump Enthusiastically Endorses Ramaswamy’s Controversial Attack Ad",
    "source": "notus.org",
@@ -4232,6 +4244,18 @@
    "published": "2026-10-22T18:06:11+00:00",
    "id": "02b3a3676abd",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "President Trump considers next steps in Iran war as tensions escalate",
+   "source": "CNBC",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVpWMVg2VVlVeFhVRFFGLUpwVWZYYXR2bjFMZmpOTUFnR25JT3JKczBJNXRSNkZfVFFNQm05TF9iNFoyZVdjSnZpdEItVkl2NHBkaHZUZ0lJUXFpWDE1ZWNiUHF6SEJ2X2RzLUF3U2xjVTBlSFh1NjdUaUhjMVJPdWQzdTl0MjdfUWFwVHRrVEhuY0NDR2s2RFFlbVpQb2V1VlFCaXBDeF9kMExweDZrTTdR?oc=5",
+   "published": "2026-10-22T17:57:32+00:00",
+   "id": "771e6f3a01d2",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Projets de frappes massives sur l'Iran dopant fortement la demande refuge.",
    "method": "IA"
-  },
-  {
-   "title": "How the Iran war reshaped OPEC+ oil output : Saudi Arabia , Iraq and gulf supply in focus",
-   "source": "businesstoday.in",
-   "theme": "Géopolitique",
-   "link": "https://www.businesstoday.in/world/story/how-the-iran-war-reshaped-opec-oil-output-saudi-arabia-iraq-and-gulf-supply-in-focus-562914-2026-10-22",
-   "published": "2026-10-22T03:30:00+00:00",
-   "id": "83db7df77342",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions d'offre pétrolière liées à l'Iran alimentant un risque d'inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "Qatar , France call for opening of Hormuz and Gaza ceasefire implementation - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-   "source": "dominicanrepublicpost.com",
-   "theme": "Géopolitique",
-   "link": "https://dominicanrepublicpost.com/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation/",
-   "published": "2026-10-22T03:30:00+00:00",
-   "id": "d80a40d20ca1",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Appels diplomatiques à la désescalade maritime limitant temporairement les craintes.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7417,7 +7417,8 @@
   "news|76a21c0e355e": 1792698380.3949566,
   "burst|Iran|165990": 1792698381.6062303,
   "news|46af22d3f6a3": 1792699306.4404094,
-  "rep|recap|2026-10-22": 1792699308.6939573
+  "rep|recap|2026-10-22": 1792699308.6939573,
+  "news|771e6f3a01d2": 1792700167.2234082
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7584,6 +7585,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T20:16:07.223480+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>President Trump considers next steps in Iran war as tensions escalate</b>\n📰 CNBC · Jeu 22/10 19:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVpWMVg2VVlVeFhVRFFGLUpwVWZYYXR2bjFMZmpOTUFnR25JT3JKczBJNXRSNkZfVFFNQm05TF9iNFoyZVdjSnZpdEItVkl2NHBkaHZUZ0lJUXFpWDE1ZWNiUHF6SEJ2X2RzLUF3U2xjVTBlSFh1NjdUaUhjMVJPdWQzdTl0MjdfUWFwVHRrVEhuY0NDR2s2RFFlbVpQb2V1VlFCaXBDeF9kMExweDZrTTdR?oc=5"
+  },
   {
    "ts": "2026-10-22T20:01:47.770801+00:00",
    "kind": "recap",
@@ -7878,11 +7884,6 @@
    "ts": "2026-10-22T10:31:29.708843+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S., Israel Draw Up New Plans to Strike Iran After the Midterms</b>\n📰 La Voce di New York · Jeu 22/10 12:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVViQ2VXYkZWaTgwWVlPV3AxWlJjZ25lUDdOVGxBNlVEcUNvVHExR0MzaXhSUWxVVnRCNXUyT0thTzlaS1kyQ3BwSTVjWi1vWDJLQnNkNms2Qk9vbzJSMHk5bnl1ZXhmTjhEeHJuUENJQkJKNUxoaVdlUDdzUmtRYUxzdlZ2M2k5UTcxbVVjM2dJRTZmTXRTZ1JpczAtSGZKT1o0X3pnV3BaWmVIN0Fr?oc=5"
-  },
-  {
-   "ts": "2026-10-22T10:16:15.123751+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russian strikes hit Kyiv after Witkoff meets Putin</b>\n📰 Al Jazeera · Jeu 22/10 10:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmJwWHBSdTZDQ3F5dGxvRFM2UkY3NDRWX2RCN0hWMnNWeDUtN0twVzlQUjdfTzBpWmR0d0lEYzlKODVoYllyaV9LLUZaeVg3RnFaQ1FuV2ZTdnlXUkYtQ0xYS0NsYW9Tb0lsQVI2NGNXNjV2WW95NkIwYW9xUXg4ZnJ0MGl6OV9fNE5zWU5LYS16eG1NOVJN0gGcAUFVX3lxTFAwQWVoRUJLMUZmdVpINHhTcHY3MncwcG9ucVkzNy1INXYzUlBweE5TaHk2RXJpLU5IUzg0a0JTaU1wOEczS1JQV2tsbnczX192Rm9qYTlqU0dET0U4WlVGRWpYczVNZUt5a0d1U3ZmY1Zwa2xMQUVhMVNZa1FwdDFJTjBQcHQ5bGNJQlJ3YjVUU083QVZQRFBTT2VQbw?oc=5"
   }
  ],
  "daily_forecast": {
