@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "0d3409296236",
-  "7760e3cd1e64",
-  "1663df0d97d8",
   "93d71bd182ad",
   "f25645ed303a",
   "2798cd71351a",
@@ -3945,9 +3942,24 @@
   "9ecbfc643cb2",
   "82cea2951846",
   "47105cc8bdad",
-  "8d3c78ed9a6e"
+  "8d3c78ed9a6e",
+  "d3c00c151f2a",
+  "c35c7cea2ace",
+  "495235d20fd1"
  ],
  "news": [
+  {
+   "title": "Gold Price Forecast: XAU/USD Slips Below $4,076 as Saudi Oil Strike Lifts Fed Hike Bets",
+   "source": "FXLeaders",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm9wWFRSUUtrcTZxWVFVY29qWENOVnoxSGtQOEwwQlpTNXYxTDJQRjBaQUN1RnItUVJBeFVpUW1JMkVacWRtMWFnRUVtRE9GYlBTRk01ajVtaVA3NDJMYmdjT0Z4VEdONi0xQTlDcVFzN0NpUGFpN2dvWTQ5YU91WWdWMVhWWWgtSFJCRzhPT0N0VDZjQlVYa2c5Sm9OSllZWF9jTWtFc0pjRFk1aTA0WGp4MVNiWHJVeDBYTTUyNTFTbEU4VVE?oc=5",
+   "published": "2026-10-22T11:48:14+00:00",
+   "id": "d3c00c151f2a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump needs to focus on ending the Iran war — not making over a D.C. golf course",
    "source": "Inquirer.com",
@@ -6335,18 +6347,6 @@
    "cat": "commerce",
    "raison": "Contestation juridique des droits de douane, modérant légèrement les craintes inflationnistes.",
    "method": "IA"
-  },
-  {
-   "title": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
-   "source": "AP News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-   "published": "2026-10-21T17:08:00+00:00",
-   "id": "1db22133ccfb",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "Ouverture diplomatique sur l'Ukraine diminuant sensiblement la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7366,7 +7366,9 @@
   "news|ea00ad365261": 1792669580.667824,
   "news|2ef1d270de12": 1792669581.5203981,
   "news|a3636f04389d": 1792669582.3599489,
-  "news|9ecbfc643cb2": 1792669583.2075193
+  "news|9ecbfc643cb2": 1792669583.2075193,
+  "news|d3c00c151f2a": 1792670510.0618985,
+  "rep|update|2026-10-22": 1792670514.163598
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7533,6 +7535,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T12:01:53.131925+00:00",
+   "kind": "ny_update",
+   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4078.40</b>  (-27.7$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-16) → maintenant -13 (Neutre)\n✅ Le scénario baissier TIENT\n📏 Range fait : 90$ sur ~63$ attendus (143%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Seven Oil Tankers Damaged in Strait of Hormuz as Middle East War Fears Escalate\n🟢 (+10) Oil Prices Climb Amid Escalating Middle East Tensions and U.S. Strike Plans Against Iran\n🟢 (+10) Trump’s war and tariffs have battered Alaska. A pro-oil Democrat could flip the key Senate seat\n🟢 (+10) Iran: Oil tankers are on fire, damaged in key strait as fears grow over return to war"
+  },
+  {
+   "ts": "2026-10-22T12:01:50.061982+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gold Price Forecast: XAU/USD Slips Below $4,076 as Saudi Oil Strike Lifts Fed Hike Bets</b>\n📰 FXLeaders · Jeu 22/10 13:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxObm9wWFRSUUtrcTZxWVFVY29qWENOVnoxSGtQOEwwQlpTNXYxTDJQRjBaQUN1RnItUVJBeFVpUW1JMkVacWRtMWFnRUVtRE9GYlBTRk01ajVtaVA3NDJMYmdjT0Z4VEdONi0xQTlDcVFzN0NpUGFpN2dvWTQ5YU91WWdWMVhWWWgtSFJCRzhPT0N0VDZjQlVYa2c5Sm9OSllZWF9jTWtFc0pjRFk1aTA0WGp4MVNiWHJVeDBYTTUyNTFTbEU4VVE?oc=5"
+  },
   {
    "ts": "2026-10-22T11:46:23.207648+00:00",
    "kind": "news",
@@ -7822,16 +7834,6 @@
    "ts": "2026-10-22T00:46:11.434166+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT</b>\n📰 Investing.com · Jeu 22/10 02:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOW9LWkduX0ZhdEwwMTloVE4wSjN1VzBPTHdoWGhjR2lQLTNrc29mbVlKVzVBNm5LOVVvNE9qRnV5NEh5OWlVRjNYRVYzQmVJUHA0SkJhOUk0VlhWUHo4SlZBTzVhVy1IV3k3czBCWnhRc2Z1aFdwcXdYa0l4LUtYcnFZY2s4S2lJU2dDbWw4Q3pBdWpJckFoa3k3dTQ3Q2dQeE1GemJxOGc2Q3U5SE9fNHR1NVZTZ1JlbllZZEcyMzQ?oc=5"
-  },
-  {
-   "ts": "2026-10-22T00:46:10.408190+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Midterms first, Iran strikes next? US and Israel prepare new plans</b>\n📰 Firstpost · Jeu 22/10 02:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0x2ZE1lbGYwdXNFS05YY1RGcnpQa0ZEUVRsUXNkZkJyMEhaY25DZFg1VjhWeExrNGxyN0MzRFM0VHRNd1d0SC1ZOHNSY1VVWEw0emtVYTVQLW9VRTdFQlFoSUxkUWdKSFJnMkxxY3NHUnJWTi1TMWNsdTdlbUpGb0lpcHZSaEluSEYwczZlajByU0NkYVgyX1VOdzRIdFpIelpXRnVETk10Q1JnS2pn0gG0AUFVX3lxTE1oMlNOeHJxUENGWFlwZlBjdWtKYk5zZnNuVG5jNHJNWUtqX2VaN1pvVVF5eHlTeUVVM2VES0lLSU5ZdDhaaC10ZFl1dTZTYVJWN0stOWZvX096bXRMckNYNndtZG9KbnNKUGxQUUxWZG4xdnZnbmNtUkU0NXNheG1QUjlqNTFaTWw3d3pkTTBOakZwTXBpQXZMVG4tVlRISUVuNU44LWNfUGZ1U0VVaV8wSGFFRQ?oc=5"
-  },
-  {
-   "ts": "2026-10-22T00:31:26.429574+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel Prepare to Strike Iran After Nov. 3</b>\n📰 Newser · Jeu 22/10 02:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1VPaTBNT2JRTVY2XzB1Y01aR0N5QW5kamQ3ZDdCb0tUQ2FtY0ozMFFtNHlrVUJIZ09jeXZEQUxfVi12NFZYdTV6SUk3TkN5bE1VNW9TTXZnMDlKcXEtQ200azZ1S1R2T1JuWGZSbnBJNldGLWttSWgzU045TGswZkNWUEdQbEZDWXhZOVB3?oc=5"
   }
  ],
  "daily_forecast": {
@@ -7845,8 +7847,8 @@
   "ai": true
  },
  "ny_update": {
-  "date": "2026-10-21T12:01:43.019528+00:00",
-  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4158.50</b>  (+25.8$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-8) → maintenant -3 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 36$ sur ~71$ attendus (50%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🔴 (-9) UK inflation jumps more than expected fuelling rate hike expectations\n🔴 (-9) UK inflation jumps to 3.5% — cementing rate hike expectations\n🟢 (+8) Taiwan risks becoming a bargaining chip in Trump’s China pivot\n🟢 (+8) Strike First: Israel's Inevitable Doctrine for the Iranian Axis",
+  "date": "2026-10-22T12:01:54.163559+00:00",
+  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4078.40</b>  (-27.7$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-16) → maintenant -13 (Neutre)\n✅ Le scénario baissier TIENT\n📏 Range fait : 90$ sur ~63$ attendus (143%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Seven Oil Tankers Damaged in Strait of Hormuz as Middle East War Fears Escalate\n🟢 (+10) Oil Prices Climb Amid Escalating Middle East Tensions and U.S. Strike Plans Against Iran\n🟢 (+10) Trump’s war and tariffs have battered Alaska. A pro-oil Democrat could flip the key Senate seat\n🟢 (+10) Iran: Oil tankers are on fire, damaged in key strait as fears grow over return to war",
   "ai": false
  },
  "track": [
