@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792576877.0061104,
+   "ts": 1792645272.560505,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.8,
-     "date": "2026-10-19",
+     "last": 2.77,
+     "date": "2026-10-20",
      "chg5": -0.11,
-     "chg20": 0.12,
+     "chg20": 0.15,
      "hist": [
-      1.92,
       1.96,
       1.94,
       1.91,
@@ -129,18 +128,18 @@
       2.84,
       2.78,
       2.74,
-      2.8
+      2.8,
+      2.77
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.35,
-     "date": "2026-10-20",
+     "last": 2.37,
+     "date": "2026-10-21",
      "chg5": 0.02,
-     "chg20": 0.01,
+     "chg20": 0.04,
      "hist": [
-      2.46,
       2.46,
       2.48,
       2.5,
@@ -259,18 +258,18 @@
       2.32,
       2.35,
       2.35,
-      2.35
+      2.35,
+      2.37
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.77,
-     "date": "2026-10-19",
-     "chg5": -0.03,
-     "chg20": 0.01,
+     "last": 4.79,
+     "date": "2026-10-20",
+     "chg5": 0.0,
+     "chg20": 0.03,
      "hist": [
-      3.84,
       3.92,
       3.88,
       3.88,
@@ -389,14 +388,15 @@
       4.82,
       4.77,
       4.74,
-      4.77
+      4.77,
+      4.79
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -415,7 +415,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -487,6 +486,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792641668.4730473,
+   "ts": 1792645272.63024,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "a8473e8f1684",
-  "815dfa6d4978",
-  "60e268fd409f",
-  "eaed2cea5194",
-  "767f9f68f131",
   "8227570fad3d",
   "2c277ce8b7de",
   "c183903ed6a3",
@@ -3945,9 +3940,26 @@
   "99f157f6c17b",
   "6341954fcd4a",
   "789e05324aec",
-  "16cb3391835a"
+  "16cb3391835a",
+  "9ebdc7bb2226",
+  "dd4d5e0bf77b",
+  "36da3099f453",
+  "6c6e5298d59b",
+  "568aaf7b0fbc"
  ],
  "news": [
+  {
+   "title": "Canada unveils $6.2bn plan to shield manufacturers as US tariffs bite",
+   "source": "Euronews.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdU05NWpPT1pqeU90NThMWDF1Ykt4VWs3RFdMTGdrR3hfeGdaZm0xUlQyeHdra1ZZNTJxT19mQ2o3b2x1N3VqTndnS21UbnhHN05NdWdNNlZJSUNLeWdtRlNodW5tcksxNnV3WVZhVXc5WGJQdWEwYzRLY2JwbkJaV0RIcncyUXNkOUNYY3d2SmVMdTRZbUFLWTBNMzY3QVotdVdPSDM3SjlMYlh2M1dZSTRR?oc=5",
+   "published": "2026-10-22T04:30:08+00:00",
+   "id": "dd4d5e0bf77b",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
    "source": "Anadolu Ajansı",
@@ -4655,6 +4667,18 @@
    "cat": "géopolitique",
    "raison": "Préparatifs militaires confirmés contre l'Iran stimulant les achats de couverture sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "US, Israel have drawn up detailed plans for renewed strikes on Iran",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5",
+   "published": "2026-10-22T00:18:33+00:00",
+   "id": "9ebdc7bb2226",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US, Israel Prepare to Strike Iran After Nov. 3",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Progrès diplomatiques vers la fin du conflit ukrainien défavorables à la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Iran war adds to U.S. housing woes as Trump faces midterm pressure",
-   "source": "www.calcalistech.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpZmVFS2p5d0NhNnN6a0pXdEhsbVY3dldoOVRYZnd3N2RqM0VNc2ZRNGNaa3VZa1Baa0stcFBEb3FCaURCelJMN2hEdGstUXhmOWp4Z2h3blBZOW9IbFdBS2FHU0NQcHc?oc=5",
-   "published": "2026-10-21T07:31:00+00:00",
-   "id": "583b7c522977",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions avec l'Iran et incertitudes économiques américaines soutenant l'attrait de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Four killed in Russian strikes on Ukraine, prime minister says",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1VpcUFrQ2VwNVlieXZQaWZROUhiV2VKd09xMkZnR0xYeGw2aFV2RGxZZlQtQUZVS3hDRG92N1hReE11cWJ1NHFlNEV6X1h4YnVTbnZJSm4waXBiSEdsQ0J4ajdqdDI2V3Fod1BIXzdoYmoxNWZDQnYzaWJSQXJGOXFuMWpJTGxsSWVrLVBYd2xUSlF1aFJZeUh6ckFFb2JVekIwdFNYdw?oc=5",
-   "published": "2026-10-21T07:19:43+00:00",
-   "id": "da716ba87784",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite tragique du conflit en Ukraine, maintenant une prime de risque marginale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7333,9 +7333,11 @@
   "brk|GOLD|pdh|dn|2026-10-22": 1792642574.1796203,
   "brk|DXY|pdh|dn|2026-10-22": 1792642575.0629938,
   "cyc_end|2026-10-19/2026-10-25": 1792642575.9874332,
-  "cyc_fail|2026-10-19/2026-10-25": 1792642576.8522143
+  "cyc_fail|2026-10-19/2026-10-25": 1792642576.8522143,
+  "news|9ebdc7bb2226": 1792645295.0711849,
+  "rep|daily|2026-10-22": 1792645298.3395405
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -7481,9 +7483,40 @@
     "PDL": 4130.1
    },
    "ts": "2026-10-21T05:01:34.453463+00:00"
+  },
+  "2026-10-22": {
+   "dir": "down",
+   "score": -16,
+   "p0": 4106.1001,
+   "exp_range": 63.2,
+   "levels": {
+    "P": 4144.3,
+    "R1": 4166.3,
+    "S1": 4128.0,
+    "R2": 4182.6,
+    "S2": 4106.0,
+    "PDH": 4160.6,
+    "PDL": 4122.3
+   },
+   "ts": "2026-10-22T05:01:37.465841+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T05:01:37.465858+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — JEUDI 22/10</b>\nPrix : <b>4106.10</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-16/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4106 vs MM20 4173 / MM50 4351\n🔴 Taux réels 10 ans (20j) : 2.77% (+0.15 sur 20j)\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.79% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -52.9$ · plus haut 4164.3 / plus bas 4103.4 (range 61$)\nDXY -0.10% sur la nuit\n⚠️ Plus haut de la veille (4161) déjà cassé\n⚠️ Plus bas de la veille (4122) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~63$</b> (ATR 69$ × profil du jeudi)\nDéjà fait en Asie : 61$ (96% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4182.6 | R1 4166.3 | <b>Pivot 4144.3</b> | S1 4128.0 | S2 4106.0\nVeille : PDH 4160.6 / PDL 4122.3  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>52%</b> du temps (303 jours, ~6.0 ans)\n• Hier : +0.18% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1054 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 0h (11%), 17h (9%) · plus BAS vers 0h (14%), 15h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -35.0$, depuis mercredi -43.9$ → le pattern ÉCHOUE (continuation) ⚠️\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 4144 → R1 4166\nObjectifs : S1 4128 → PDL 4122 → S2 4106\n❌ Invalidation : clôture H1 au-dessus de R1 4166\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 4161 → R2 4183\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
+  {
+   "ts": "2026-10-22T05:01:36.393898+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -16)\nMoteurs principaux : Momentum or (vs MM50) (-14), Taux réels 10 ans (20j) (-10), Fed (2 ans vs taux Fed) (-10)"
+  },
+  {
+   "ts": "2026-10-22T05:01:35.071260+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel have drawn up detailed plans for renewed strikes on Iran</b>\n📰 The Jerusalem Post · Jeu 22/10 02:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5"
+  },
   {
    "ts": "2026-10-22T04:16:16.852260+00:00",
    "kind": "cycle",
@@ -7768,26 +7801,11 @@
    "ts": "2026-10-21T15:46:13.824527+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin agrees to resume trilateral talks on Ukraine war with Kyiv , US</b>\n📰 sandiegouniontribune.com · Mer 21/10 17:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.sandiegouniontribune.com/2026/10/21/trump-envoy-witkoff-putin-meeting/"
-  },
-  {
-   "ts": "2026-10-21T15:46:12.945656+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin agrees to resume talks on Ukraine war with Kyiv and Washington – Kremlin</b>\n📰 burytimes.co.uk · Mer 21/10 17:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.burytimes.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin/"
-  },
-  {
-   "ts": "2026-10-21T15:16:12.670386+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold ETFs to Watch Amid Fed Rate Hike &amp; Oil Risks</b>\n📰 Zacks Investment Research · Mer 21/10 16:33\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpfOXZ5VEpEZUNDZDlSOUl1dURrUmUydnVXblJvSDFIZzlvSGZnN2hIWWp4UE4xVDczd3lyZEJlZUJlelp6d3Izb2FpNnhPOVZuZmZsQk1RckJZaWwwVzBXRHg3QTJ6TklLUWdNeFFMY24tV3ZnSm9lSUZOSVllcm1ySDFBS3ZCbjFMLUQ2ZkZmdw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T15:02:04.802477+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Bitcoin</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 84 249 → prix : <b>84 467</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.44 | 60j 0.51"
   }
  ],
  "daily_forecast": {
-  "date": "2026-10-21T05:01:35.301387+00:00",
-  "text": "☀️ <b>PRÉVISION OR — MERCREDI 21/10</b>\nPrix : <b>4132.70</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4133 vs MM20 4182 / MM50 4358\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -12.1$ · plus haut 4149.8 / plus bas 4130.3 (range 20$)\nDXY +0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~71$</b> (ATR 70$ × profil du mercredi)\nDéjà fait en Asie : 20$ (27% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4194.0 | R1 4168.3 | <b>Pivot 4149.2</b> | S1 4123.5 | S2 4104.4\nVeille : PDH 4174.9 / PDL 4130.1  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -0.42% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 2h (12%), 16h (12%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -52.3$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4124 et R1 4168\nJouer les extrêmes, pas le milieu (pivot 4149). Range attendu ~71$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4175 ou PDL 4130 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-10-22T05:01:38.339505+00:00",
+  "text": "☀️ <b>PRÉVISION OR — JEUDI 22/10</b>\nPrix : <b>4106.10</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-16/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4106 vs MM20 4173 / MM50 4351\n🔴 Taux réels 10 ans (20j) : 2.77% (+0.15 sur 20j)\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.79% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -52.9$ · plus haut 4164.3 / plus bas 4103.4 (range 61$)\nDXY -0.10% sur la nuit\n⚠️ Plus haut de la veille (4161) déjà cassé\n⚠️ Plus bas de la veille (4122) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~63$</b> (ATR 69$ × profil du jeudi)\nDéjà fait en Asie : 61$ (96% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4182.6 | R1 4166.3 | <b>Pivot 4144.3</b> | S1 4128.0 | S2 4106.0\nVeille : PDH 4160.6 / PDL 4122.3  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>52%</b> du temps (303 jours, ~6.0 ans)\n• Hier : +0.18% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1054 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 0h (11%), 17h (9%) · plus BAS vers 0h (14%), 15h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -35.0$, depuis mercredi -43.9$ → le pattern ÉCHOUE (continuation) ⚠️\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 4144 → R1 4166\nObjectifs : S1 4128 → PDL 4122 → S2 4106\n❌ Invalidation : clôture H1 au-dessus de R1 4166\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 4161 → R2 4183\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
