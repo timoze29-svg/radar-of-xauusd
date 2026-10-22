@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "fb3d1fb26f9e",
-  "1877317d4309",
-  "ae8c85dfeb0b",
   "457854963e51",
   "b08ebc79b317",
   "0feebd92e4d2",
@@ -3945,9 +3942,24 @@
   "b02fcb28cdca",
   "00eaf511f83b",
   "f04c01a17af9",
-  "f5b57d7a844c"
+  "f5b57d7a844c",
+  "4b2569b6e94d",
+  "fd1117dfda3e",
+  "2dc2f97084c1"
  ],
  "news": [
+  {
+   "title": "US, Israel prepare for renewed strikes on Iran after midterms, report says",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40aXN2dnFJX3NYeHNwbnVlelAwbXI1SHJycTYyLXVoYTVPdFhsQXN6R2FNNnNTZFZoRjB6VmM0ejg5NE11TUJjdWFJZFlaQWJMaG5rVlpySQ?oc=5",
+   "published": "2026-10-22T00:35:45+00:00",
+   "id": "4b2569b6e94d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Midterms first, Iran strikes next? US and Israel prepare new plans",
    "source": "Firstpost",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Contacts directs USA-Russie pour négocier la paix, allégeant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Today's USD exchange rate (October 21): The US dollar falls as oil prices decline.",
-   "source": "Vietnam.vn",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXhfR041UGVFb3QwYjFyN1AwT3FDTENEODZWU2ZwSmd3YnZHRWd3Ym5VbTFWZkVMdmhzWlNEa0FOb2FxSy1zSGhPZ25fRERKaVExaUZqLUdTU0Q1cVZlZTkxb0Z4b2lMRmRsSTlDaXBIbkpYMDhDUTZ0ZXE5d3k1Y0t5MnhLTkdXdWtleHh3?oc=5",
-   "published": "2026-10-20T23:19:59+00:00",
-   "id": "cf402e7ede5b",
-   "impact": 2,
-   "cat": "dollar",
-   "raison": "La baisse du dollar américain soutient mécaniquement le cours du métal précieux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7314,7 +7314,8 @@
   "news|7fbc28b12ba8": 1792628170.802978,
   "news|6694b3f70e11": 1792629086.4295022,
   "news|7a6ee0561d0f": 1792629970.408132,
-  "news|0c7967386f2e": 1792629971.4339495
+  "news|0c7967386f2e": 1792629971.4339495,
+  "news|4b2569b6e94d": 1792630894.0018117
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -7465,6 +7466,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T01:01:34.001890+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel prepare for renewed strikes on Iran after midterms, report says</b>\n📰 Ynetnews · Jeu 22/10 02:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE40aXN2dnFJX3NYeHNwbnVlelAwbXI1SHJycTYyLXVoYTVPdFhsQXN6R2FNNnNTZFZoRjB6VmM0ejg5NE11TUJjdWFJZFlaQWJMaG5rVlpySQ?oc=5"
+  },
   {
    "ts": "2026-10-22T00:46:11.434166+00:00",
    "kind": "news",
@@ -7759,11 +7765,6 @@
    "ts": "2026-10-21T12:01:40.682394+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Sheer madness': ex-IDF intelligence official warns against new Iran war ahead of elections</b>\n📰 Ynetnews · Mer 21/10 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbXU5ZV9TZm8wOFlyeEVTRVlvckRHSHFtYnpLWldkREdqOFNRbnFWZThXazNCMkZJM2E1eWVwQzJnSHQ1MzZHR2R5QUpESU5oSllIcGVR?oc=5"
-  },
-  {
-   "ts": "2026-10-21T12:01:39.750707+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Taiwan risks becoming a bargaining chip in Trump’s China pivot</b>\n📰 Stagecraft and Statecraft · Mer 21/10 13:54\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVRJNDhBYnBGSjl4MGVWRkVhaFV1aDVQeXBzU04xMHRxTXhySmNITWNEbnBaTDMxM2VzMHJYVl9SMzNIN095ekk2dEt6QlFRZTdGS194OEpQSUVVMXRTNFRLTlN5S3lzTUhTMXR1R1NseEVfREpVSkFEOHlKOUQ1STlNT3BQOWNKWHFLNHpZdU5SRGw0NFRsVTB2NA?oc=5"
   }
  ],
  "daily_forecast": {
