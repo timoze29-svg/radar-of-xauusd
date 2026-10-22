@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "4004c464c2c7",
-  "1f0a33bd0cad",
-  "6e85b9fa2903",
   "32725245880f",
   "3c7b1799efcf",
   "8d830d486411",
@@ -3945,9 +3942,24 @@
   "151383a547ce",
   "910b80f47564",
   "29acdbe9c436",
-  "5fcd20a47a0e"
+  "5fcd20a47a0e",
+  "5f152592b850",
+  "5c41d9123f46",
+  "c8b4bd3d062e"
  ],
  "news": [
+  {
+   "title": "Report: U.S. and Israel prepare plans for possible renewed strikes on Iran",
+   "source": "KTSA",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXpLZVdkNDlNS19pVnRPTlBxeEdvaDVDUnhrZUp3ZWR5d1RwRXhILVRmWWhYVnNWb0ZrcmNOUktsRGl0ZEZHdE5jV0dIWlFFZE56OGpwdFd6TG14NzVMQXQwUW9iM1I5TlVxRWdaR0x2N05JbjRvWGVwUy1mSmFLeXFOb0N4aEJvX2dudHp3T24?oc=5",
+   "published": "2026-10-22T18:10:00+00:00",
+   "id": "5c41d9123f46",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
    "source": "BBC",
@@ -3994,6 +4006,18 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Congress must close this tariff loophole",
+   "source": "The Hill",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUZad1dtSkJoRzRFQVo0M2IwVENkWGtDeEZoeDBHVVFseHdmNGQwOWg3TW5KdjlIdjJrVEt6VkxRcjZJZFlaSVE1NVdmYmFqSkMtd1g1UEhocURaZFZOTXgwRVRWVTRLdElEUDhsdkpxOW95cFN0VGZxVlJTc0pDZDVLUC0wd9IBiwFBVV95cUxQVEJyTnhtTHBLRjY2YWZVMkZRTmRKOURSRXB5dHhLWEVELVBfUWtBY1lRYU5kWktZMWV1LWdtVDNMZ3B6Wl82REZqc3J5VWl0UEc4c0lsR3ZXaVBYT20xSUVoTnRoWTJONVJnaVVkN0RGUGtNdGZHbkZNZ2hNTmFTeXJ0ZENrN2JjUUN3?oc=5",
+   "published": "2026-10-22T17:00:00+00:00",
+   "id": "c8b4bd3d062e",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Ordre d'évacuation d'ambassade américaine en Arabie Saoudite renforçant la demande d'actifs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Bahrain Business : GCC  economies in choppy waters over Hormuz crisis",
-   "source": "gdnonline.com",
-   "theme": "Géopolitique",
-   "link": "https://www.gdnonline.com:443/Details/1410459/GCC-%E2%80%98economies-in-choppy-waters-over-Hormuz-crisis%E2%80%99",
-   "published": "2026-10-22T02:00:00+00:00",
-   "id": "c2a2c0d3ac64",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Crise maritime dans le détroit d'Ormuz menaçant le commerce mondial et soutenant l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "KSA : Drone attack on Saudi Arabia oilfield kills two",
-   "source": "gdnonline.com",
-   "theme": "Géopolitique",
-   "link": "https://www.gdnonline.com:443/Details/1410468/Drone-attack-on-Saudi-Arabia-oilfield-kills-two-",
-   "published": "2026-10-22T02:00:00+00:00",
-   "id": "bc9b8249ed20",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frappe meurtrière sur un champ pétrolier saoudien augmentant le risque géopolitique régional.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7401,7 +7401,8 @@
   "news|e9d7770c5f8b": 1792689368.841298,
   "news|e10a028ccaf5": 1792689369.8012252,
   "news|1d4de3d71f8e": 1792690300.6229641,
-  "big|SPX|2026-10-22": 1792692203.18474
+  "big|SPX|2026-10-22": 1792692203.18474,
+  "news|5c41d9123f46": 1792693663.7700913
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7568,6 +7569,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T18:27:43.770149+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: U.S. and Israel prepare plans for possible renewed strikes on Iran</b>\n📰 KTSA · Jeu 22/10 20:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXpLZVdkNDlNS19pVnRPTlBxeEdvaDVDUnhrZUp3ZWR5d1RwRXhILVRmWWhYVnNWb0ZrcmNOUktsRGl0ZEZHdE5jV0dIWlFFZE56OGpwdFd6TG14NzVMQXQwUW9iM1I5TlVxRWdaR0x2N05JbjRvWGVwUy1mSmFLeXFOb0N4aEJvX2dudHp3T24?oc=5"
+  },
   {
    "ts": "2026-10-22T18:03:23.184792+00:00",
    "kind": "big_move",
@@ -7862,11 +7868,6 @@
    "ts": "2026-10-22T07:46:24.771287+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n-0.1110 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
-  },
-  {
-   "ts": "2026-10-22T06:47:01.483548+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas sur 20 JOURS\nNiveau : 6.4600 → prix : <b>6.4590</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.35 | 60j 0.39"
   }
  ],
  "daily_forecast": {
