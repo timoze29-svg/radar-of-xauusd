@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "ecb1cc758cbc",
-  "9726e9083f13",
-  "a512245a9d05",
-  "6a7dbb53c624",
-  "4780cd78ea35",
-  "e40cd37701b9",
-  "e3bcf9bc0b11",
   "6244638cfa40",
   "58c2a91568ad",
   "557a9fc281dd",
@@ -3945,7 +3938,14 @@
   "573772e1b699",
   "8343094ba33f",
   "182f3789f7b5",
-  "0a3354f0385a"
+  "0a3354f0385a",
+  "11a192df0149",
+  "fefcc7427367",
+  "28e75276d26a",
+  "7888074505c2",
+  "1d4de3d71f8e",
+  "3332fc4ff962",
+  "fe945659e7c3"
  ],
  "news": [
   {
@@ -4309,6 +4309,18 @@
    "method": "IA"
   },
   {
+   "title": "Central Banks Buy 4x More Gold and Pull Some Out of New York",
+   "source": "FourWeekMBA",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnU5ejhHWGVXSDZ4cFExNXpzeTdBNHhTM2hWc3F5V0RkMnV5WURaenJVdUQtcTNWQU95TkV4RjFDTWVGUnByZjU5dzlQWE93ZmZKdmxaTTYtaFR5emZpdERieVBHajM4MTRJT0hMOFlqajlWaThNM1pqQkhXcWYxQ0hiOS0xal9ZTFdnQ2ZR?oc=5",
+   "published": "2026-10-22T13:46:32+00:00",
+   "id": "fe945659e7c3",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure",
    "source": "Bloomberg.com",
    "theme": "Russie/Ukraine",
@@ -4355,6 +4367,18 @@
    "cat": "or",
    "raison": "Commentaire d'analyste ; la thématique de dépréciation monétaire soutient modérément l'or sans choc immédiat.",
    "method": "IA"
+  },
+  {
+   "title": "US voters are angry. But on tariffs and war, the midterms won’t bring quick change",
+   "source": "Chatham House",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjQtVDRuSWp0b3hPWTBXRzVWSWViRWJMR2EwbU5Ld0JibVNnYmhlYjVTUTJES3l4QndTSmJBeW16S2dUSWIxQTF3b25MMXNMNVBoT2hGMEVhSHRqWlNFVVNfYjJQeGp0YkdfWTNlaTg2RHpwODdfTkpBR2c4b0lfa1p3Z1JNY1RBMGV6TGdYZGRibGF3bzNRQmJkcjdYWWtieWtyM2Z6aU8?oc=5",
+   "published": "2026-10-22T13:06:35+00:00",
+   "id": "1d4de3d71f8e",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "War Has Changed Tehran. Washington Should Take Notice.",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Risque accru de frappes militaires au Moyen-Orient dopant fortement la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Report : US and Israel prepare new Iran strikes after midterm elections",
-   "source": "israelnationalnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.israelnationalnews.com/flashes/695827",
-   "published": "2026-10-22T01:15:00+00:00",
-   "id": "b0e6ace8c464",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Préparatifs de frappes maintenant une prime de risque géopolitique élevée sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Explosions Reported Near Strategic Strait of Hormuz , Iran Media Confirms",
-   "source": "gulfnews.com",
-   "theme": "Géopolitique",
-   "link": "https://gulfnews.com/world/mena/explosions-heard-near-strait-of-hormuz-iran-state-media-1.500719022",
-   "published": "2026-10-22T01:15:00+00:00",
-   "id": "b8d55ebb1316",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Incidents militaires au détroit d'Ormuz déclenchant un réflexe immédiat d'achat refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7399,7 +7399,8 @@
   "news|00e0a03fe664": 1792687573.6159558,
   "news|014a7263a253": 1792687574.6620781,
   "news|e9d7770c5f8b": 1792689368.841298,
-  "news|e10a028ccaf5": 1792689369.8012252
+  "news|e10a028ccaf5": 1792689369.8012252,
+  "news|1d4de3d71f8e": 1792690300.6229641
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7566,6 +7567,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T17:31:40.623044+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US voters are angry. But on tariffs and war, the midterms won’t bring quick change</b>\n📰 Chatham House · Jeu 22/10 15:06\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjQtVDRuSWp0b3hPWTBXRzVWSWViRWJMR2EwbU5Ld0JibVNnYmhlYjVTUTJES3l4QndTSmJBeW16S2dUSWIxQTF3b25MMXNMNVBoT2hGMEVhSHRqWlNFVVNfYjJQeGp0YkdfWTNlaTg2RHpwODdfTkpBR2c4b0lfa1p3Z1JNY1RBMGV6TGdYZGRibGF3bzNRQmJkcjdYWWtieWtyM2Z6aU8?oc=5"
+  },
   {
    "ts": "2026-10-22T17:16:09.801345+00:00",
    "kind": "news",
@@ -7860,11 +7866,6 @@
    "ts": "2026-10-22T06:47:00.620311+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — USD/JPY\n-1.118 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-10-22T06:46:59.446309+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel plan renewed Iran strikes after midterms: Report</b>\n📰 Türkiye Today · Jeu 22/10 08:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1JzMS1zZ3ZNVE9vUjJDUlBvTm4wcU1XejdmTzdKUnZOclBJVXhNQ2NQNzUtSFZFNGJfMU04d0N5LU14Zm1BZWJKbjkwWUZhLXlXQ0xlQkJ3TTg3NV9lVmY5U0NpQzN6UWIwa21vUHlsM2Z4TUl6dVpOb09KYnF1WDl6eW5RcW9hLXJyRWo2TmctV09WaXh6VmVvOHdXSnBYYzdR?oc=5"
   }
  ],
  "daily_forecast": {
