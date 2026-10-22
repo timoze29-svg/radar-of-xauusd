@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "d49223297b70",
-  "5f6ecf02e9d4",
-  "05b0b75d03f9",
-  "f53c25724ae1",
   "0ab289c91edc",
   "2423d52782d7",
   "731e91f2e8d0",
@@ -3945,9 +3941,25 @@
   "d442df9630de",
   "f976453ba69c",
   "569731a1b635",
-  "60c5aa24400b"
+  "60c5aa24400b",
+  "67bbe47bfb8d",
+  "4846f33bc149",
+  "e5f438fc85ee",
+  "f6e84161508d"
  ],
  "news": [
+  {
+   "title": "Trump links Iran’s actions in Hormuz to rising oil prices",
+   "source": "Latest news from Azerbaijan",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHQ1UDRRR01jY1JBNWh3QVhUN0VEUnZnaDVQd1BGTzR0d1Y1MkV1QUR6dnhyR0dWUE0xN1o4NE52MHpxTk5uY1ZPd0FfSGJtdU81N3pmaGJFeHZlSVpqMzVveGl5enpLbXRta29iY1VrNTJsb2dFcG9Bb2ZUYjgtck1RZw?oc=5",
+   "published": "2026-10-22T19:06:23+00:00",
+   "id": "e5f438fc85ee",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Monastery hit in new wave of Russian missile attacks on Ukraine",
    "source": "Scripps News",
@@ -6335,18 +6347,6 @@
    "cat": "or",
    "raison": "Commentaire haussier de banque d'investissement apportant un modeste soutien au sentiment de marché.",
    "method": "IA"
-  },
-  {
-   "title": "Stocks drop as Meta dampens AI optimism; Treasury yields fall",
-   "source": "Reuters",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
-   "published": "2026-10-22T02:15:00+00:00",
-   "id": "eab57350fe5f",
-   "impact": 5,
-   "cat": "taux",
-   "raison": "haussier or (taux)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7403,7 +7403,9 @@
   "news|1d4de3d71f8e": 1792690300.6229641,
   "big|SPX|2026-10-22": 1792692203.18474,
   "news|5c41d9123f46": 1792693663.7700913,
-  "news|02b3a3676abd": 1792694769.9911885
+  "news|02b3a3676abd": 1792694769.9911885,
+  "news|e5f438fc85ee": 1792696574.8292713,
+  "big|GOLD|2026-10-22": 1792696576.0731838
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7570,6 +7572,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T19:16:16.073230+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-107.30 aujourd'hui = 1.6× l'ATR"
+  },
+  {
+   "ts": "2026-10-22T19:16:14.829367+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump links Iran’s actions in Hormuz to rising oil prices</b>\n📰 Latest news from Azerbaijan · Jeu 22/10 21:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHQ1UDRRR01jY1JBNWh3QVhUN0VEUnZnaDVQd1BGTzR0d1Y1MkV1QUR6dnhyR0dWUE0xN1o4NE52MHpxTk5uY1ZPd0FfSGJtdU81N3pmaGJFeHZlSVpqMzVveGl5enpLbXRta29iY1VrNTJsb2dFcG9Bb2ZUYjgtck1RZw?oc=5"
+  },
   {
    "ts": "2026-10-22T18:46:09.991245+00:00",
    "kind": "news",
@@ -7859,16 +7871,6 @@
    "ts": "2026-10-22T09:02:06.456644+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran IRGC says 4 ships hit , set ablaze in Gulf ; 3 others strike mines near Hormuz</b>\n📰 middleeaststar.com · Jeu 22/10 10:15\n🧠 Attaques majeures et détroit d'Ormuz miné provoquant une forte ruée vers l'or. [IA]\n🔗 http://www.middleeaststar.com/news/279391539/iran-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-hormuz"
-  },
-  {
-   "ts": "2026-10-22T08:46:14.187683+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Taiwan comedian mocked Xi Jinping as Winnie the Pooh, then was struck in a planned car attack</b>\n📰 Ynetnews · Jeu 22/10 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE40VHo3enlld0hUckZrZVV2cTh3bVVacWFUS1ZvdG1TYXluV3hfVDlUbXhjRzBLSDhybmM4akkwd3NNbC0yVllBcXVwaENuekpQa09IclFB?oc=5"
-  },
-  {
-   "ts": "2026-10-22T08:31:49.903519+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes</b>\n📰 CNBC · Jeu 22/10 07:12\n🧠 Flambée du pétrole et risque d'escalade majeure : demande refuge et craintes inflationnistes massives. [IA]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5"
   }
  ],
  "daily_forecast": {
