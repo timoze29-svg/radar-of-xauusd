@@ -946,36 +946,6 @@
   }
  },
  "seen_news": [
-  "0184bbbb93cc",
-  "e7dfaa75ad5d",
-  "2ee45e484565",
-  "0e90d41f5973",
-  "be840ecb964b",
-  "b6fa15dce342",
-  "fe2801bdcbdf",
-  "87fc248d4292",
-  "46fc68d54b77",
-  "2c3983a6dd50",
-  "5970dc62301f",
-  "484841556334",
-  "2048c5dec0a3",
-  "9536a31f3eb6",
-  "b113e09e42bc",
-  "67dcaef30830",
-  "bcd81edff005",
-  "29548242890d",
-  "db886fa055b8",
-  "22fa0cd9b097",
-  "091487de4bf7",
-  "68f59bed6fb6",
-  "1fc23dcdca70",
-  "76c48e836e8e",
-  "1cf26e473099",
-  "6605c77eb1fb",
-  "6f5794958024",
-  "5d3d6108cded",
-  "a4360a07e070",
-  "e5d88e46f316",
   "7ab1c5609de4",
   "e0472b5519a1",
   "e73aff46be65",
@@ -3945,7 +3915,37 @@
   "8eb192445447",
   "ddcb20167f07",
   "d532f20d2703",
-  "cc3fbd21951b"
+  "cc3fbd21951b",
+  "a1c32ff9c151",
+  "c6e09d3dc58b",
+  "93c1dc90e12c",
+  "9e77872d9dac",
+  "5b5faa812f0f",
+  "9081d129b547",
+  "6192d80c325d",
+  "ed42aaafbeb0",
+  "17c4313535bb",
+  "e399967c38c9",
+  "b9482588162a",
+  "40cd8d62e1fc",
+  "1461f1d82067",
+  "d075d48ae5f3",
+  "c2a2c0d3ac64",
+  "6d2902dac38e",
+  "9d388a39ed60",
+  "0afefaf0d03a",
+  "f6b42183f917",
+  "5e0a16ce8a2b",
+  "52e46a38824d",
+  "c2812c0bfbef",
+  "19ef25ca3ed4",
+  "150bbd4eaadd",
+  "9b2e4637d97f",
+  "6bad3b7b1302",
+  "e932a401ea79",
+  "7d5e875d1777",
+  "bc9b8249ed20",
+  "c11a613f90b3"
  ],
  "news": [
   {
@@ -3958,6 +3958,90 @@
    "impact": 5,
    "cat": "taux",
    "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ground fighting in Yemen intensifies as 2 killed in attempted drone strike on Saudi field",
+   "source": "kenyastar.com",
+   "theme": "Géopolitique",
+   "link": "http://www.kenyastar.com/news/279390936/ground-fighting-in-yemen-intensifies-as-2-killed-in-attempted-drone-strike-on-saudi-field",
+   "published": "2026-10-22T02:00:00+00:00",
+   "id": "93c1dc90e12c",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US orders some diplomats to leave Saudi Arabia ; fears of attacks rise",
+   "source": "bostonherald.com",
+   "theme": "Géopolitique",
+   "link": "https://www.bostonherald.com/2026/10/21/us-diplomats-saudi-arabia-yemen/",
+   "published": "2026-10-22T02:00:00+00:00",
+   "id": "9e77872d9dac",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Roundup : Ground fighting in Yemen intensifies as 2 killed in attempted drone strike on Saudi field",
+   "source": "pakistantelegraph.com",
+   "theme": "Géopolitique",
+   "link": "http://www.pakistantelegraph.com/news/279390908/roundup-ground-fighting-in-yemen-intensifies-as-2-killed-in-attempted-drone-strike-on-saudi-field",
+   "published": "2026-10-22T02:00:00+00:00",
+   "id": "9081d129b547",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "One of the greatest things weve done : Trump claims US prevented Iran from having nuclear weapon",
+   "source": "kenyastar.com",
+   "theme": "Géopolitique",
+   "link": "http://www.kenyastar.com/news/279391066/one-of-the-greatest-things-weve-done-trump-claims-us-prevented-iran-from-having-nuclear-weapon",
+   "published": "2026-10-22T02:00:00+00:00",
+   "id": "6192d80c325d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US orders embassy staff and families to leave Saudi Arabia amid Houthi attacks",
+   "source": "sbs.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.sbs.com.au/news/article/us-embassy-staff-families-leave-saudi-arabia/c9pln34w7",
+   "published": "2026-10-22T02:00:00+00:00",
+   "id": "1461f1d82067",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Bahrain Business : GCC  economies in choppy waters over Hormuz crisis",
+   "source": "gdnonline.com",
+   "theme": "Géopolitique",
+   "link": "https://www.gdnonline.com:443/Details/1410459/GCC-%E2%80%98economies-in-choppy-waters-over-Hormuz-crisis%E2%80%99",
+   "published": "2026-10-22T02:00:00+00:00",
+   "id": "c2a2c0d3ac64",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "KSA : Drone attack on Saudi Arabia oilfield kills two",
+   "source": "gdnonline.com",
+   "theme": "Géopolitique",
+   "link": "https://www.gdnonline.com:443/Details/1410468/Drone-attack-on-Saudi-Arabia-oilfield-kills-two-",
+   "published": "2026-10-22T02:00:00+00:00",
+   "id": "bc9b8249ed20",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6263,90 +6347,6 @@
    "cat": "dollar",
    "raison": "Baisse du dollar et des rendements obligataires américains, configuration haussière classique pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "China confronts US warship near Sabina Shoal as Taiwan tensions escalate",
-   "source": "The Jerusalem Post",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wUTNMdkYxZU9yZGd2WmlhUUNYSjF4ZzRLXzdfY1YwSmJXTmVBOUVNMVBzMGxXNGNST29YSmJpcVBEYThkM2hTZ1N6aHhMelZiZWI4bWVONU5Fb1RoYy1z?oc=5",
-   "published": "2026-10-21T01:46:01+00:00",
-   "id": "d9bf28353939",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Face-à-face naval USA-Chine ravivant les tensions et stimulant les achats refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Report: Is the U.S. Dollar Losing Its Global Dominance?",
-   "source": "CEOWORLD magazine",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEgzZXh0SUdXalJGOWJiRGRQRUtOS0dlS2o3UGc4RE9uMHJJbF9sUVVMazc3T0VzT1VVWEFRR21HNWVwZF9sNW1hUTI2a3FKZU9tZEZISDltOFIyN09nSzQ0ZmFYeVRGWFdKUXZEeHlHNHQ1dWp0SUxVS2E4QVFldmN2c0NQOUhZblhINFFn?oc=5",
-   "published": "2026-10-21T01:22:01+00:00",
-   "id": "d218bae4336b",
-   "impact": 1,
-   "cat": "dollar",
-   "raison": "Débat structurellement favorable à l'or mais impact de court terme quasi nul.",
-   "method": "IA"
-  },
-  {
-   "title": "Checkmate : Russia is winning the war as Ukraine runs out of friends",
-   "source": "smh.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.smh.com.au/world/europe/checkmate-russia-is-winning-the-war-as-ukraine-runs-out-of-friends-20261021-p617aj.html",
-   "published": "2026-10-21T01:15:00+00:00",
-   "id": "0719cb4405d3",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitudes durables sur la sécurité européenne maintenant un modeste soutien refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Don Jr. opposed Iran war and told his dad not to start one: report",
-   "source": "The Independent",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVY5bVlsSkNoM0RTQ1NRaDYydnJ3aDdIajZveDZRUjVJQi1qNU9McWdrZnNNczBZcFJ6V2JxUktVbDRJcU80VlNBOFM4UzdDRWwxb2pmRjEzMmlkajhhZVBmLTNUNVZ3QlZQMmtXWE82dV9VaVlEa3J3d01GX0pNTWNPVjVtQWM2QWZtTTcwVHFrQ0JlWktHOGJ3ejFJeE5RUmZQVHdGb0I?oc=5",
-   "published": "2026-10-21T01:08:00+00:00",
-   "id": "2127477b4a5c",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Pressions internes pour éviter un conflit, réduisant la prime de guerre sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Hypocrisy marks Lai's attempt to divide the country",
-   "source": "China Daily",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iV3JRZ0FyYmQ3Rl9GMjh4c0tnQ2RGT2cxQVZEQmlNRW9PbGktZWN6dTc2Y1FiRWkwNC1aa3pWUVFZNHFXQUhUQjhKUmpQSDlibHJ2Z2FYSkRZVkxxTGsyVHZEMEY4UlNmY0UyYUwxYU03d2M1MWZSNVB1RmROdw?oc=5",
-   "published": "2026-10-21T01:05:36+00:00",
-   "id": "4d1d75050a7a",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rhétorique habituelle Pékin-Taïwan, léger soutien refuge mais aucun impact de marché significatif.",
-   "method": "IA"
-  },
-  {
-   "title": "Oslo talks seek path out of Russia - Ukraine war amid US - Kyiv tensions",
-   "source": "sana.sy",
-   "theme": "Géopolitique",
-   "link": "https://sana.sy/en/politics/2352581/",
-   "published": "2026-10-21T00:45:00+00:00",
-   "id": "7f137b44cf43",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Pourparlers diplomatiques en vue d'un cessez-le-feu, diminuant l'attrait de la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Brent Oil Prices Rise as Hormuz Crisis Threatens Supply",
-   "source": "zalebs.com",
-   "theme": "Géopolitique",
-   "link": "https://zalebs.com/business/brent-nears-110-as-hormuz-disruptions-stoke-supply-fears/",
-   "published": "2026-10-21T00:45:00+00:00",
-   "id": "7c3a64b06fae",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque sur l'approvisionnement pétrolier d'Ormuz : craintes stagflationnistes très favorables à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7321,7 +7321,8 @@
   "news|b0e6ace8c464": 1792634495.6942687,
   "news|b8d55ebb1316": 1792634496.6287663,
   "news|9a91ce81fd55": 1792634497.5384495,
-  "news|b723b61a9ee8": 1792636353.7665188
+  "news|b723b61a9ee8": 1792636353.7665188,
+  "news|6192d80c325d": 1792638103.3286572
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7472,6 +7473,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T03:01:43.328715+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>One of the greatest things weve done : Trump claims US prevented Iran from having nuclear weapon</b>\n📰 kenyastar.com · Jeu 22/10 04:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.kenyastar.com/news/279391066/one-of-the-greatest-things-weve-done-trump-claims-us-prevented-iran-from-having-nuclear-weapon"
+  },
   {
    "ts": "2026-10-22T02:32:33.766595+00:00",
    "kind": "news",
@@ -7766,11 +7772,6 @@
    "ts": "2026-10-21T13:16:28.410477+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report</b>\n📰 Kitco · Mer 21/10 15:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T13:01:47.347108+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin</b>\n📰 CBS News · Mer 21/10 14:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEltSS1zUTlhei1vR08tbC1JbU5zakRMWTA5eExYZmZoX2JrZElRbHF3OHctOGhsTkJicVRyZk9kR2N0bmpsMUU1YjdPSU96SWJkMkRfN1lyMW9CVnFGcVFsalZTdDZhY1h2anA2eEtHWjQtajVxbjBsXzQwU1h0WGdrOVU?oc=5"
   }
  ],
  "daily_forecast": {
