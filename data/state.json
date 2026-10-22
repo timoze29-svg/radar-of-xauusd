@@ -749,19 +749,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792587709.8364468,
+   "ts": 1792659730.9129357,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        14.8
+        15.5
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
@@ -771,108 +771,108 @@
       "low": [
        [
         0,
-        18.3
+        18.1
        ],
        [
         16,
-        10.4
+        10.3
        ],
        [
         2,
-        9.6
+        9.5
        ]
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
        ],
        [
         2,
         9.8
        ],
        [
-        15,
-        9.0
+        14,
+        8.9
        ]
       ],
       "low": [
        [
         16,
-        11.5
+        11.4
        ],
        [
         0,
-        11.5
+        11.4
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 118,
+      "n": 120,
       "high": [
        [
         2,
-        11.9
+        11.7
        ],
        [
         16,
-        11.9
+        11.7
        ],
        [
         17,
-        6.8
+        6.7
        ]
       ],
       "low": [
        [
         0,
-        13.6
+        13.3
        ],
        [
         3,
-        7.6
+        7.5
        ],
        [
         14,
-        7.6
+        7.5
        ]
       ]
      },
      "3": {
-      "n": 119,
+      "n": 118,
       "high": [
        [
         0,
-        10.9
+        11.0
        ],
        [
         17,
-        9.2
+        9.3
        ],
        [
         2,
-        9.2
+        9.3
        ]
       ],
       "low": [
        [
         0,
-        14.3
+        14.4
        ],
        [
         15,
-        10.9
+        11.0
        ],
        [
         16,
-        10.1
+        10.2
        ]
       ]
      },
@@ -884,12 +884,12 @@
         14.4
        ],
        [
-        0,
+        17,
         11.0
        ],
        [
-        17,
-        11.0
+        0,
+        10.2
        ]
       ],
       "low": [
@@ -898,47 +898,47 @@
         11.9
        ],
        [
-        15,
-        8.5
+        2,
+        7.6
        ],
        [
-        2,
+        15,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5938,
+     "n_hours": 5960,
      "horizon_h": 2,
      "base_gold_up": 53.6,
-     "base_dxy_down": 48.3,
+     "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 242,
-       "p_dxy": 52.5,
-       "p_gold": 55.8,
+       "n": 243,
+       "p_dxy": 52.3,
+       "p_gold": 56.0,
        "gold_avg": 1.4
       },
       "4": {
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.6
+       "gold_avg": 0.5
       }
      },
      "up": {
       "3": {
-       "n": 265,
+       "n": 269,
        "p_dxy": 55.8,
-       "p_gold": 49.4,
-       "gold_avg": -0.9
+       "p_gold": 49.1,
+       "gold_avg": -0.7
       },
       "4": {
-       "n": 75,
-       "p_dxy": 58.7,
-       "p_gold": 52.0,
-       "gold_avg": -0.3
+       "n": 77,
+       "p_dxy": 58.4,
+       "p_gold": 51.9,
+       "gold_avg": 0.0
       }
      }
     }
@@ -946,46 +946,6 @@
   }
  },
  "seen_news": [
-  "e64f80e35d52",
-  "f767fac02921",
-  "60acafb3151b",
-  "d0c2d8adb33a",
-  "58bd393e346e",
-  "6a2a7312f877",
-  "a96899554528",
-  "4a92350c58a8",
-  "fb4fb2c6ba1d",
-  "c9287f0d71d0",
-  "6a3537eae63d",
-  "ee575d17ffb1",
-  "9e307c34bc5b",
-  "52b5873ea2f2",
-  "cf695d6e1ef6",
-  "e358aaa19244",
-  "bfcd38249e07",
-  "639ec5fb99e9",
-  "2a108a1e1ac7",
-  "7bf0d5595ea5",
-  "ed7dcd8fa7ec",
-  "798980f7716c",
-  "e73e894c879a",
-  "a2c8f6df49c1",
-  "83b0dc32685a",
-  "7ff0524c6db3",
-  "68cf47ba593d",
-  "a8e9f2b1c757",
-  "b2858e001e26",
-  "7b47d2d64e67",
-  "517ee6005057",
-  "16afdabc6215",
-  "71f343381dab",
-  "010c79dc2b17",
-  "bf66d3aae89b",
-  "4d4c6360b62d",
-  "1069196e8a1b",
-  "901ff284b952",
-  "e5005c57a324",
-  "c97bcbf32d2e",
   "769eb1bbcbe7",
   "0acd722a1263",
   "5d89976cd0aa",
@@ -3945,9 +3905,61 @@
   "36c15320aa79",
   "1e9c8de240a3",
   "db9bef47f058",
-  "b97d2e61e47c"
+  "b97d2e61e47c",
+  "ae6f88d1f37e",
+  "4f111949dab1",
+  "7fc6c2670eff",
+  "54124f1f7d9f",
+  "6678abc71503",
+  "d6f23036f591",
+  "0759ded5b6fb",
+  "12ed3ac26553",
+  "02aa0ab21fc2",
+  "e739d3daabff",
+  "6bd035a23638",
+  "c9a30567c209",
+  "219c985032c7",
+  "93799547202b",
+  "e8c0977fbe60",
+  "e4b13393ccf2",
+  "33c64e520240",
+  "6f6f0aad7379",
+  "b95a5217953e",
+  "1f178ca56f84",
+  "472b74b58fd9",
+  "0ceb859a3767",
+  "0436f9a0aa4f",
+  "cb55edbfaa5f",
+  "047d8a2677e7",
+  "5efa47a59801",
+  "dddceec2270b",
+  "7917fb462b38",
+  "62c144bb188d",
+  "235713638e45",
+  "1e9c007aea74",
+  "e8da70e65f31",
+  "d130d1e5d82b",
+  "bcf3806b33a6",
+  "1d0b90cb0c73",
+  "164ac25fea86",
+  "b42ed7834646",
+  "2695288877c3",
+  "e12006ff80ca",
+  "368d486fde6b"
  ],
  "news": [
+  {
+   "title": "Oil jumps on escalating Middle East conflict",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUJCYWJFR1VUQ2JfYVlWWVBxSzYwMnEzcVQxUU9faWFiYm9qNGxZd2NrX3c1MDZULThNTHRmdG9LOHoxbDdGaHlHcms5aGo0QWxWVGJrSzZSREl6QjJ6eWNGclhyVWpSa0VtMHBIVnBJc2J5YWNMUzdCSVhneWtkTFpqT19Bdw?oc=5",
+   "published": "2026-10-22T08:48:57+00:00",
+   "id": "7fc6c2670eff",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Tensions au Moyen-Orient et pétrole en hausse favorisent la valeur refuge.",
+   "method": "IA"
+  },
   {
    "title": "Taiwan comedian mocked Xi Jinping as Winnie the Pooh, then was struck in a planned car attack",
    "source": "Ynetnews",
@@ -3961,6 +3973,78 @@
    "method": "mots-clés"
   },
   {
+   "title": "Asian stocks sink to 3 - month low on tech angst , Gulf tensions",
+   "source": "thestar.com.my",
+   "theme": "Géopolitique",
+   "link": "https://www.thestar.com.my/business/business-news/2026/10/22/asian-stocks-sink-to-3-month-low-on-tech-angst-gulf-tensions",
+   "published": "2026-10-22T08:30:00+00:00",
+   "id": "6f6f0aad7379",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Aversion au risque boursier et tensions dans le Golfe soutenant l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
+   "source": "oilprice.com",
+   "theme": "Géopolitique",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html",
+   "published": "2026-10-22T08:30:00+00:00",
+   "id": "b95a5217953e",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "Envolée pétrolière et frappes d'infrastructures renforçant l'attrait refuge et le risque stagflationniste.",
+   "method": "IA"
+  },
+  {
+   "title": "Russia signals new talks next month with Ukraine",
+   "source": "dallassun.com",
+   "theme": "Géopolitique",
+   "link": "http://www.dallassun.com/news/279390452/russia-signals-new-talks-next-month-with-ukraine",
+   "published": "2026-10-22T08:30:00+00:00",
+   "id": "472b74b58fd9",
+   "impact": -2,
+   "cat": "géopolitique",
+   "raison": "Signes d'ouverture diplomatique pouvant modérer la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "US Accuses Canada of Election Interference Amid Tariff Dispute Ahead of Midterms",
+   "source": "openthemagazine.com",
+   "theme": "Géopolitique",
+   "link": "https://openthemagazine.com/world/tariff-war-or-poll-meddling-why-the-us-is-accusing-canada-ahead-of-the-midterms",
+   "published": "2026-10-22T08:30:00+00:00",
+   "id": "dddceec2270b",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "Tensions commerciales et tarifaires bilatérales apportant une légère prime d'incertitude.",
+   "method": "IA"
+  },
+  {
+   "title": "Iran IRGC Navy says seven vessels hit , warns US of wider response",
+   "source": "bdnews24.com",
+   "theme": "Géopolitique",
+   "link": "https://bdnews24.com/world/middle-east/bwfe7hf0o9",
+   "published": "2026-10-22T08:30:00+00:00",
+   "id": "d130d1e5d82b",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "Escalade militaire directe dans le Golfe et menaces contre les États-Unis.",
+   "method": "IA"
+  },
+  {
+   "title": "Ethereum tumbles as renewed Middle East tensions weigh on risk sentiment. What's next?",
+   "source": "investingLive",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGNwMURfeWxKdjZ2c3Z3RjdOa2ZaTHlSaDcyc1c4X3dfSGVFaDhQckZsNWJ3TXlhX09WcXFIam1WSEs0ckZWeWxlYWUtRVJJM1RuUnlsU2R4LVVWOFRTSU84ZHBzaVJZNWVjX3hVZG0zNWVHWWszY1RjR2JCaUptM1VuWHFfQ3JOYllXNXlRbHVFc0JhN0RRQm1rdnlYY2QxclYxLVJYOWROb3QyNkI3bU9PWmMySjNsVmtTWW02TVhwdmxL?oc=5",
+   "published": "2026-10-22T08:29:11+00:00",
+   "id": "54124f1f7d9f",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Aversion au risque liée au Moyen-Orient profitable aux valeurs refuges traditionnelles.",
+   "method": "IA"
+  },
+  {
    "title": "Beijing urges Manila to honor one-China principle",
    "source": "China Daily",
    "theme": "Chine/Taïwan",
@@ -3971,6 +4055,42 @@
    "cat": "géopolitique",
    "raison": "Rhétorique diplomatique habituelle en mer de Chine, impact refuge quasi négligeable.",
    "method": "IA"
+  },
+  {
+   "title": "Iran IRGC says 4 ships hit , set ablaze in Gulf ; 3 others strike mines near Hormuz",
+   "source": "middleeaststar.com",
+   "theme": "Géopolitique",
+   "link": "http://www.middleeaststar.com/news/279391539/iran-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-hormuz",
+   "published": "2026-10-22T08:15:00+00:00",
+   "id": "bcf3806b33a6",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "Attaques majeures et détroit d'Ormuz miné provoquant une forte ruée vers l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Iran war live : IRGC threatens US bases if tankers continue  illegal  routes | US - Israel war on Iran News",
+   "source": "aljazeera.com",
+   "theme": "Géopolitique",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?update=5072607",
+   "published": "2026-10-22T08:15:00+00:00",
+   "id": "1d0b90cb0c73",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "Menaces directes sur bases américaines et risque d'embrasement militaire régional majeur.",
+   "method": "IA"
+  },
+  {
+   "title": "Russia pounds Ukraine capital Kyiv with missiles and drones , hours after agreeing to peace talks",
+   "source": "wboc.com",
+   "theme": "Géopolitique",
+   "link": "https://www.wboc.com/news/international/russia-pounds-ukraines-capital-kyiv-with-missiles-and-drones-hours-after-agreeing-to-peace-talks/article_25f82bf3-f9c7-5271-ada0-e1b20194e735.html",
+   "published": "2026-10-22T08:15:00+00:00",
+   "id": "2695288877c3",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold Futures Decline To Rs 1.44 lakh/10 Gram; Silver Prices Drop",
@@ -4055,6 +4175,18 @@
    "cat": "dollar",
    "raison": "Affaiblissement du dollar à un plus bas de trois semaines, mécaniquement haussier pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Russia Pounds Ukraine's Capital Kyiv With Missiles and Drones, Hours After Agreeing to Peace Talks",
+   "source": "U.S. News & World Report",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclJCZDZqckJKaVFjSzJCeHQzTDhLRUd4MEZ1ZXYtZzdGb3ZKUlhob0JDX3hqbC16T3REZEdhME5nZ1AxVE1MVG1LNU1MZS00U0Jpd0pkdWVPRmpRM015eUZ0dmxVRy1CbTlkcEdtYVVaY1pKSjNBRkFJejJHRnY0MWZkc2ZWQnMwcTIwY2E5alM5MnMtRU00MFhtMnhfbkZQamhwb050Zm5QblJaR2pGMk9vZFdNRXg4Q3RWTUpvQmwtWUJsTzhuRlBvVWxCMG9PSjY3Ty1uWmUzQWlRckR1VzVmYlRyNFVW?oc=5",
+   "published": "2026-10-22T07:12:00+00:00",
+   "id": "0759ded5b6fb",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Stock Futures Sink, Asian Markets Turn Red as US, Israel Draw Up Post-Midterm Iran Strike Plans: Report",
@@ -4331,6 +4463,18 @@
    "cat": "géopolitique",
    "raison": "Intensification des combats en Ukraine compensant les espoirs d'un accord diplomatique.",
    "method": "IA"
+  },
+  {
+   "title": "Update | Russia and Ukraine trade major attacks as Trump touts progress",
+   "source": "South China Morning Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDlrSkoxT2Z5czM5X0lOTmpPRURLQlQyMjE2RGh1cFNzZDdvYzFuQXV0T3N0aGtuME53akIzMl9zYU44QWJ1QzdSLS1ZZzlRbEVfWEVIekZ6QWktaENfcnYzTmI4X0tOOEk2Z0luWC1aVHUxN096MWNXUEJFTGZWbzk2NVRidFY5Z01QOW9BX05TVkdST0lFcHhZUFI1Z1V3SFhwRDRxNHhnVWsybXJaMUdXWTbSAbQBQVVfeXFMUDFrRWI0Y3BLeGxqOGllQUY4RVk5a0RXRUt0M1NBZWtZdU9xLVhhQmJ3Z1pKN3dnVzJpNlZMdU93UTh5el9GQkhKY3VXQVI1OUJzWGE2OGpLZ20yNXNCMTJEZGEtRENrQVpKM0FPWFFDNmFwN3ZldUJHQW96VkJDcUNMa2g0U2RtQ0M2UVQwRXVRYnhpeENQM09FVmN6Ti1rM1BoR0E0bW5xWjgzbWZlWkIwOXZt?oc=5",
+   "published": "2026-10-22T05:04:43+00:00",
+   "id": "d6f23036f591",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine, Russia trade strikes after Witkoff talks",
@@ -6203,150 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Reprise des discussions trilatérales diminuant l'attrait des valeurs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Saudi coalition destroys drones near Medina , Houthis deny strike",
-   "source": "siasat.com",
-   "theme": "Géopolitique",
-   "link": "https://www.siasat.com/saudi-coalition-destroys-drones-near-medina-houthis-deny-strike-3562105/",
-   "published": "2026-10-21T13:30:00+00:00",
-   "id": "379349cb7439",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tension résiduelle au Moyen-Orient apportant un soutien marginal au métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "US envoy Witkoff meets Putin , discusses possible end of Ukraine war",
-   "source": "bignewsnetwork.com",
-   "theme": "Géopolitique",
-   "link": "http://www.bignewsnetwork.com/news/279389962/us-envoy-witkoff-meets-putin-discusses-possible-end-of-ukraine-war",
-   "published": "2026-10-21T13:30:00+00:00",
-   "id": "46793cccf368",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Discussions directes USA-Russie sur la fin de la guerre, baissier pour le refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Araghchi Warns of Further Escalation Around Strait of Hormuz",
-   "source": "WANA News Agency",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2M5bTRGYlJTR2htQWJRM1hNbl8zMTdwM1E3SGJ5el9mOUoyNzM1aGREb3JDUFVmZURJSUZQLV85WHZ3dTFXWjZLUmN4a3B3elUwaGg5Qlp2U1F3dmRpdHhjOHRYNEtQak5Ma2RoUlZJeVItd0plbi1SNzZBSFJFMVZncGJDWUE?oc=5",
-   "published": "2026-10-21T13:27:15+00:00",
-   "id": "0e291a7b7c13",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions accrues au détroit d'Ormuz soutenant modérément la demande de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
-   "source": "WFIN",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRU9tTXQ0YXlyNXFybXpKRUkwbk1xMlIyOFFtRTdldW85cG9JTXhPZ296b3hfUF9JbTFZeDB1TFlEYjFOeVBIbWRtME9HT1RSTGZ6dVZZY3U1dmZ3UThQbEN2Y0RQNFRaaDVuYUdjdGN5OHZ0SEdXUlhjUTB3dU10WFQwbkhpM2t5VzVYMWhSTXFkc1ZCRTEyaTlxWjlaaENkdVJTVmRhQ0tNY0RiNklTel9CTnppV2w3Z3dYV25yY01tejBEbkpCTldDZw?oc=5",
-   "published": "2026-10-21T13:24:12+00:00",
-   "id": "475593b84826",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Légère détente diplomatique USA-Russie réduisant marginalement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran prepares new weapons, tactics for possible US-Israel war",
-   "source": "The New Arab",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzFFczZXaWoyWFpQT3RJelI5NzRQdnNVUW5BQXJ6NXpJWG9RSGdYZEpEMjA3eGtLYjZ3MGVhQ0lIM19SZ21XQ2dfb1VqQmhhQ190SHNYZjNfX3RuTlF5aDZOS0MxOXJHR2I3QVgwQWdlV3lNNE5VSnhLQmVUTWRud01SbzAxUHdWX2x3Y2xn?oc=5",
-   "published": "2026-10-21T13:22:35+00:00",
-   "id": "fc789c55c8bc",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Rhétorique martiale iranienne ravivant les craintes d'escalade et soutenant le métal.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzY1d2JNd1BjSXluNDBwdmNIeDVNa0VUTVNxSmxUY2VCM1lmakdmZGZWSmtrRHg5RklyeUFnSzBuckwxcm5kMzl6WEJ3b2s3eVdpR1hLQ0lMelQ3RUJRdjAxY3drdG4zVXRyYkIwQjNnY2hjV1RteS1ZdG9CamprckEwVDhCeG5GdzlMLUhxT1BIaTFlQVpFTnFTWmhCT2tBcXN5aXo3OURSRDRHRG1YT3JDRdIBuAFBVV95cUxPeGdfc1N1T0ZOWE9RNDdXcWx5czRzY1U2SEpEV2NzbzhOV0Ywa21EbWxRZHZUQ3ZNYjh1T3ZIS1dwR3lQUVlyQVJZdDFrUkZEbmNWWnVFS1NTYlAwc0tjRnA4M09BVUZ1SE9KRG5qS3VfZXRzeUZpQnhSVEpjRUdlbUlaZXhmeHJSbVVqOUtIdUl1bXdvY3dpdFJjbkpNZER2QTBKX1lhNHhRYnNWZE55SmtjUDhGOUU5?oc=5",
-   "published": "2026-10-21T13:15:28+00:00",
-   "id": "fc0f4c5a0bad",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "L'initiative diplomatique de Trump pour l'Ukraine détend la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
-   "source": "Kitco",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5",
-   "published": "2026-10-21T13:00:11+00:00",
-   "id": "135c5490a91d",
-   "impact": -1,
-   "cat": "fed",
-   "raison": "Anticipations de taux élevés et fermeté du dollar pesant sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump envoy Witkoff meets Putin for Ukraine war talks",
-   "source": "queanbeyanage.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.queanbeyanage.com.au/story/9373029/trump-envoy-witkoff-meets-putin-for-ukraine-war-talks/",
-   "published": "2026-10-21T13:00:00+00:00",
-   "id": "47c09a9ac389",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Perspective de négociations de paix en Ukraine, repli du statut refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Death toll rises to 60 in Houthi strike on Yemen training camp in deadliest attack in months",
-   "source": "naharnet.com",
-   "theme": "Géopolitique",
-   "link": "https://www.naharnet.com/stories/en/323212-death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months",
-   "published": "2026-10-21T13:00:00+00:00",
-   "id": "9a514385215b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Escalade locale au Yémen, rappel des tensions régionales favorables à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Qatar issues fresh update on F1, MotoGP amid Middle East war escalation",
-   "source": "Crash.net",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUdkOXByNkQyekk1SDh3TGlVUUV6X1hRbFFVdDlLc044a2tuTG5oZlpMbXBhdUI0bXJ5R1NINElmaFpMRXF0RE5STmU3el9hN2RPanRGd09mWFBCMHc5UjhyN1dfbFEzdXdOOW5sVlkzTDd2dS0tWDRHTXVjbVBzdUVINzBRRFozd0dlZFRSWXZXUV9OeTdjeWFjVGt2NWo0OEd1S3BuSlFOdHdNUjRReA?oc=5",
-   "published": "2026-10-21T12:46:12+00:00",
-   "id": "48e6df93c37f",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rappel des tensions au Moyen-Orient, soutien marginal en tant que valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "The US - Iran war is making world hunger much worse | Hawaii Tribune - Herald",
-   "source": "hawaiitribune-herald.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hawaiitribune-herald.com/2026/10/21/opinion/the-us-iran-war-is-making-world-hunger-much-worse/",
-   "published": "2026-10-21T12:45:00+00:00",
-   "id": "51bedbc60a05",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitudes liées aux frictions USA-Iran maintenant un modeste soutien refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Houthis strike Saudi - led coalition targets after saying kingdom killed eight fishermen",
-   "source": "middleeasteye.net",
-   "theme": "Géopolitique",
-   "link": "https://www.middleeasteye.net/news/yemen-houthis-strikes-saudi-led-coalition-targets-kingdom-killed-fishermen",
-   "published": "2026-10-21T12:45:00+00:00",
-   "id": "1478647a7710",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Regain d'escalade militaire en mer Rouge renforçant l'attrait pour l'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7349,9 +7349,12 @@
   "brk|COPPER|h20|dn|2026-10-19/2026-10-25": 1792651621.4834852,
   "big|COPPER|2026-10-22": 1792655184.771248,
   "news|cc97c2078642": 1792657909.9034424,
-  "news|b97d2e61e47c": 1792658774.1876078
+  "news|b97d2e61e47c": 1792658774.1876078,
+  "news|bcf3806b33a6": 1792659726.4565706,
+  "news|1d0b90cb0c73": 1792659727.788161,
+  "news|d6f23036f591": 1792659728.6851342
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -7516,6 +7519,26 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T09:02:10.963509+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -13)\nMoteurs principaux : Momentum or (vs MM50) (-14), Taux réels 10 ans (20j) (-10), Fed (2 ans vs taux Fed) (-10)"
+  },
+  {
+   "ts": "2026-10-22T09:02:08.685405+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Update | Russia and Ukraine trade major attacks as Trump touts progress</b>\n📰 South China Morning Post · Jeu 22/10 07:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDlrSkoxT2Z5czM5X0lOTmpPRURLQlQyMjE2RGh1cFNzZDdvYzFuQXV0T3N0aGtuME53akIzMl9zYU44QWJ1QzdSLS1ZZzlRbEVfWEVIekZ6QWktaENfcnYzTmI4X0tOOEk2Z0luWC1aVHUxN096MWNXUEJFTGZWbzk2NVRidFY5Z01QOW9BX05TVkdST0lFcHhZUFI1Z1V3SFhwRDRxNHhnVWsybXJaMUdXWTbSAbQBQVVfeXFMUDFrRWI0Y3BLeGxqOGllQUY4RVk5a0RXRUt0M1NBZWtZdU9xLVhhQmJ3Z1pKN3dnVzJpNlZMdU93UTh5el9GQkhKY3VXQVI1OUJzWGE2OGpLZ20yNXNCMTJEZGEtRENrQVpKM0FPWFFDNmFwN3ZldUJHQW96VkJDcUNMa2g0U2RtQ0M2UVQwRXVRYnhpeENQM09FVmN6Ti1rM1BoR0E0bW5xWjgzbWZlWkIwOXZt?oc=5"
+  },
+  {
+   "ts": "2026-10-22T09:02:07.788430+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran war live : IRGC threatens US bases if tankers continue  illegal  routes | US - Israel war on Iran News</b>\n📰 aljazeera.com · Jeu 22/10 10:15\n🧠 Menaces directes sur bases américaines et risque d'embrasement militaire régional majeur. [IA]\n🔗 https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?update=5072607"
+  },
+  {
+   "ts": "2026-10-22T09:02:06.456644+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran IRGC says 4 ships hit , set ablaze in Gulf ; 3 others strike mines near Hormuz</b>\n📰 middleeaststar.com · Jeu 22/10 10:15\n🧠 Attaques majeures et détroit d'Ormuz miné provoquant une forte ruée vers l'or. [IA]\n🔗 http://www.middleeaststar.com/news/279391539/iran-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-hormuz"
+  },
   {
    "ts": "2026-10-22T08:46:14.187683+00:00",
    "kind": "news",
@@ -7795,26 +7818,6 @@
    "ts": "2026-10-21T20:16:06.039347+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>Warsh Declares Fed Independence</b>\n📰 The Daily Reckoning · Mer 21/10 17:23\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFB6ZnZfa2piR2VaS3J5OGMtcjFGWG5Wa3JzUXU1aHdILTZaNTYtTENuT0hkLUVlaHg5Rld2Uk5HUktzRDZLaWdZOG9TY3Q5X3N4MF9iS2s0LWJXc2dVME5oWV9lY19UMXdBZmIybmJwRW0?oc=5"
-  },
-  {
-   "ts": "2026-10-21T20:16:04.924885+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump’s approval rating hit a new low just weeks before the midterm elections, driven by broad disapproval of his handling of the economy, the war in Iran and high gas prices, according to a new poll from The New York Times and Siena University. h</b>\n📰 Facebook · Mer 21/10 22:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdEJ0aVdXa1plWk1zN0RhekxySi05ZHp5YnlzMnF2MVhBbW1ZYmFYelhyQlIzR2t0T24yZmhwLUc4aWpJaGhRS1dIek41bVhVYk9aZ3BKbU9WRVNCZUpHdVJfR1NYTGhHQ1IyZDB0ZmZ2S2hiekNuTGJ3Z05MT0VYZmRDc09CcWxRb2NGejRLUE51TERkTUZ4cVdiZXAwUzV3d1NTR200RXVTajN0UHBNRWtLUUduUFUxWFItbkZXZWNoQnFuTGc4VGFGeG1VZjg5bHhB?oc=5"
-  },
-  {
-   "ts": "2026-10-21T20:01:42.081452+00:00",
-   "kind": "recap",
-   "text": "🌙 <b>BILAN DU JOUR — MERCREDI 21/10</b>\nOr : <b>+5.0$</b> depuis minuit · plus haut 4160.6 (14h00) / plus bas 4122.3 (21h00) · range 38$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-8) à 4132.7 → maintenant 4149.8 (+17.1$)\nRange : 38$ réalisé vs ~71$ attendu (54%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 62% de bonnes directions (5 ✅ / 3 ❌ / 0 ➖ sur 8 jours)\n20 derniers jours : 62%  ·  ✅✅✅❌✅❌❌✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.04% · Taux 10 ans +2.9 pb · Pétrole -0.57% · EUR/USD -0.01% · S&P 500 +0.59% · Argent -0.33%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Malaysia Against the Escalation of War in the Region; Condemnation of Genocide in Gaza and Attacks on Lebanon\n🟢 (+10) Ship attacked near Strait of Hormuz : maritime agency | Hellenic Shipping News Worldwide\n🟢 (+8) Stop the war on Iran : Brooklyn peace activists urge Jeffries to help end conflict • Brooklyn Paper\n🟢 (+8) Past the Pump: How Americans are Footing the Costs of Trump’s War of Choice\n\n📅 <b>Demain (jeudi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
-  },
-  {
-   "ts": "2026-10-21T19:31:29.423706+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Army Denies Plans for Strike on Iran as Katz Threatens: “If Iran Attacks Israel, Iran Will Burn”</b>\n📰 شبكة يافا الإخبارية · Mer 21/10 18:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE40cndIcDY3TjNaNTh4MFBfYzVEbk1QUXJlX1RUUFBmak5hOC1iYzk5d29XUmI5UEtVNG10WjZkblJSajZWX01PMUpLX0tIYk5v?oc=5"
-  },
-  {
-   "ts": "2026-10-21T19:31:28.443898+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Malaysia Against the Escalation of War in the Region; Condemnation of Genocide in Gaza and Attacks on Lebanon</b>\n📰 www.taghribnews.com · Mer 21/10 20:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU2U2aW5XZHh4OGZZemlsX1Ata0VsODFxVDNJdWMwMGZmSjR4SkY4Z051UE02Q1l2QW9namt6MzFrUjh0bmdpY010clcxR0ZZLV81aVpCNEV2M2Fib0FSY1BaS2d3QzRXcERJMlR6U0RFWlBqalVfS2VrZGVJX2lnQjRfUmhoa092Z05ZYllTTi04UVQwQm1na01XakRDS2R4UmRaSmFlWGh6R3c4aUtNUXk0ajdVVm9acHE3OTlrWnhBREpKS2dSZ1pnczRwUXEzSGpGQTZwTE8?oc=5"
   }
  ],
  "daily_forecast": {
