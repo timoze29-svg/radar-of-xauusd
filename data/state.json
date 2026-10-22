@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "88d9cb3b4421",
-  "acd4b0ff2545",
-  "16e1c316255b",
-  "46a1c6256e40",
   "d707d4507c5d",
   "ff5df08fd549",
   "e508e47b0b50",
@@ -3945,7 +3941,11 @@
   "0206d2d479f9",
   "8fef0feaee1a",
   "4b748169835a",
-  "0358fd223f01"
+  "0358fd223f01",
+  "780c9e073dbd",
+  "018cfb0eb169",
+  "7e9afdfbff10",
+  "0472e8314064"
  ],
  "news": [
   {
@@ -4303,6 +4303,18 @@
    "link": "https://www.ynetnews.com/article/rjbpkpdhml",
    "published": "2026-10-22T21:00:00+00:00",
    "id": "dca9c8577c64",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Report: IDF chief says no operational need for strike on Iran before Israeli election",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGk4Y3lyVnlzNnlHdHgyYkI2ZENwOXk0TWk2bTA1YVlpU0lJQ1V4VXk3OE8wck9LSFJTZGlEcXhQYWpWZFhLZEVoOU1DUE5qeFJoVHEyRmdUQmJQU3htdHUxaU1aamdjUTN4NGY2Q3o3di1KMEl4d2xCeHhFaEZZWHJaYmlHS3phQlhXaHVmclNkZ2F2NTAzVUM2X09Sc1RDRThxVXFn0gGrAUFVX3lxTE5xSVVyaDMtaG9hVDdMd2FFWUdtN0t2ZGpoNXZMRHVSU01neVRCMmFWZ005anliS1RiVjZ1Z1pNMXVqczAtVVRsUmZmUXNJa0RIejh0aExQbzNUdDBHaW05Z3NJRnRPMUNFek9meVJNa0c3TnhhYm9QM0hrUi0zNlZXdjdYR1czM242WTJyLU1wdkdLZE1GT2wwYjc5Nzc5SFVqZFd5Z3I4VHY1MA?oc=5",
+   "published": "2026-10-22T20:52:00+00:00",
+   "id": "780c9e073dbd",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Aversion au risque marquée et forte demande de valeur refuge face aux tensions militaires.",
    "method": "IA"
-  },
-  {
-   "title": "10-Year Treasury Yield Falls to 5.10% as September Inflation Rises",
-   "source": "TOKENPOST",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fS2NBdHMtR0hKenRoWmx4UnFsVlluZjZiaEpiNEpfcVRZbkhqZ1hJVXJYeFdVd1JQcmljaHhrNnZsbmRaX25tTl85cUJuaEZNQ3djRjR1anVCdw?oc=5",
-   "published": "2026-10-22T06:52:32+00:00",
-   "id": "02884cacc25d",
-   "impact": 3,
-   "cat": "taux",
-   "raison": "Rendements en baisse et inflation en hausse compriment les taux réels, soutenant l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7443,7 +7443,8 @@
   "news|ab11c37fc4fe": 1792706501.1150446,
   "news|4e39732487bf": 1792707380.4450488,
   "news|62e8b6cd7a9e": 1792707381.4331903,
-  "news|301bbba28bdd": 1792707382.3620534
+  "news|301bbba28bdd": 1792707382.3620534,
+  "news|780c9e073dbd": 1792709164.4702501
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7610,6 +7611,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T22:46:04.470335+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: IDF chief says no operational need for strike on Iran before Israeli election</b>\n📰 The Times of Israel · Jeu 22/10 22:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGk4Y3lyVnlzNnlHdHgyYkI2ZENwOXk0TWk2bTA1YVlpU0lJQ1V4VXk3OE8wck9LSFJTZGlEcXhQYWpWZFhLZEVoOU1DUE5qeFJoVHEyRmdUQmJQU3htdHUxaU1aamdjUTN4NGY2Q3o3di1KMEl4d2xCeHhFaEZZWHJaYmlHS3phQlhXaHVmclNkZ2F2NTAzVUM2X09Sc1RDRThxVXFn0gGrAUFVX3lxTE5xSVVyaDMtaG9hVDdMd2FFWUdtN0t2ZGpoNXZMRHVSU01neVRCMmFWZ005anliS1RiVjZ1Z1pNMXVqczAtVVRsUmZmUXNJa0RIejh0aExQbzNUdDBHaW05Z3NJRnRPMUNFek9meVJNa0c3TnhhYm9QM0hrUi0zNlZXdjdYR1czM242WTJyLU1wdkdLZE1GT2wwYjc5Nzc5SFVqZFd5Z3I4VHY1MA?oc=5"
+  },
   {
    "ts": "2026-10-22T22:16:22.362391+00:00",
    "kind": "news",
@@ -7904,11 +7910,6 @@
    "ts": "2026-10-22T15:01:47.830859+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu denies report Trump blocked Iran strike</b>\n📰 JNS.org · Jeu 22/10 14:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlpqTzRCekpCMU5sUG93bnpUeEwtZ1d5WHNfcnRsNE0zczlZREk1emxSdlpIbzRZM1RXa1FTMmlZb245Q0JGZXBCYVRVVl9saTJpbE5vZmV0MkNTczJvZC1pb3hGdlJsaGl6YlRxSndEci1QZ2dpbjFiYTJ5djR2NDZTV0NZWmFYdnZ0VXVKSQ?oc=5"
-  },
-  {
-   "ts": "2026-10-22T14:46:14.493860+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 5 ans\n-0.136 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
   }
  ],
  "daily_forecast": {
