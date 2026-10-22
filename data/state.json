@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "e29dd5675103",
-  "52ce92cb54f4",
-  "2bb2a8a99982",
-  "442148c71435",
-  "ff7ebf655fe6",
-  "8d8a0d1ba1ba",
   "3af54b09d655",
   "0f306c595953",
   "398dbe02d064",
@@ -3945,9 +3939,27 @@
   "569b226ca2ab",
   "b02d5792f022",
   "71eb731e8ca8",
-  "3b87355a5130"
+  "3b87355a5130",
+  "becf1b4ec983",
+  "8c29bf1fcfe6",
+  "664ce88a9cb2",
+  "8aef451c3f62",
+  "2fd80977664b",
+  "0f566ab815c1"
  ],
  "news": [
+  {
+   "title": "Gold prices today, October 23, 2026, are falling sharply, continuing towards their lows. What is the reason for Russia selling its gold reserves for 10 consecutive months?",
+   "source": "Vietnam.vn",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnNzVV9oWFZyU3ROZ1IwRlNrYkVQeENiRm8wS0JPaFNnTFJSUlpPeFZzcmdjWExNZldHWUo1QkNpWUVCNkVmUUppSFBEUTdaNUNzay1iNW54ZDlyNkZWbHJMYXZwREV4ME5IT0VJQmM2T3pXUmZoYjNkUzhwaUJwalV2QWJ4X2x5YkhXclBTRXF5YUt4c2FJdnpaNGREbFN2NG9ma0trZDhCWFgzV2ZseTktVDZoblhwY2kwSXRYSElha0lkVmVJTnJWZw?oc=5",
+   "published": "2026-10-22T14:59:13+00:00",
+   "id": "2fd80977664b",
+   "impact": 2,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
   {
    "title": "Fears of Middle East Escalation Keep Bid in Oil Futures -- Market Talk",
    "source": "Moomoo",
@@ -4139,6 +4151,18 @@
    "cat": "géopolitique",
    "raison": "Craintes d'escalade USA-Iran soutenant le pétrole et la recherche d'actifs de couverture.",
    "method": "IA"
+  },
+  {
+   "title": "Netanyahu denies report Trump blocked Iran strike",
+   "source": "JNS.org",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlpqTzRCekpCMU5sUG93bnpUeEwtZ1d5WHNfcnRsNE0zczlZREk1emxSdlpIbzRZM1RXa1FTMmlZb245Q0JGZXBCYVRVVl9saTJpbE5vZmV0MkNTczJvZC1pb3hGdlJsaGl6YlRxSndEci1QZ2dpbjFiYTJ5djR2NDZTV0NZWmFYdnZ0VXVKSQ?oc=5",
+   "published": "2026-10-22T12:03:24+00:00",
+   "id": "8aef451c3f62",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Long-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid",
@@ -6323,30 +6347,6 @@
    "cat": "commerce",
    "raison": "Tentative législative de limiter les tarifs douaniers, réduisant légèrement le risque inflationniste.",
    "method": "IA"
-  },
-  {
-   "title": "Editorial | Netanyahu's Iran war plans: A dangerous gamble with Israel's election",
-   "source": "Haaretz",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc2JtZnhOalF2T3hqOU13WVVSRVRkdGNXR0Y3U0I0ck5WcG5XRm9HY0Z0dWNGdGFWT1JJcktqaC1fUmJaUmVrbkZ0V1A0eU9RQnNqa0tia0FnTnpld3UxRmkyWi1BZUFvVFpTSEI1ZTFmWjdtWHdtbW9nMEZEa0FXX05qVHdsX1JvMmMyM3B6RG5rRWlLSlpWSHlHem1iYktRczMtbU1nUzgzTlBORDU5c1JhTjh5ZkJISW5rLXMwci1xTDdaYk9Qd3AzX0VXVlJWRmJqWkJKc2VSSFBzNHpkNm5mem8tTldIQXMzUlAxaHJ1NUlHZ2k0d3NVOWgxUjkxbGxrNWZR?oc=5",
-   "published": "2026-10-21T21:38:00+00:00",
-   "id": "5a813d54d163",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Éditorial soulignant le jusqu'au-boutisme militaire israélien, soutien marginal à la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Diplomats Race to Head Off Escalation With Iran",
-   "source": "WSJ",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQME1jZGVvRDlRSl9kaEs0bTJDUlBNSzUtSVVTSl8yR3ZfejNDT0J2QzFqUWhCQ2ZNTy1VQlZXcjN2ampoNFdKWDZ5SGZobkQydlREUGZqQWRDbjVtcEpZY3RZano0N1ZrUEdCQmtBQl9wR0NBSVNkS0k4blFXRlhkU0RhSm9udkJpX1NlY1VSTXZnUDRBSTZmMkRB?oc=5",
-   "published": "2026-10-21T21:33:00+00:00",
-   "id": "7e2a7e4b6a01",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes avec l'Iran soutenant modestement l'or comme valeur refuge face au risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7385,7 +7385,11 @@
   "news|6f03e416464c": 1792678604.13364,
   "brk|DXY|pdh|up|2026-10-22": 1792679652.2660818,
   "big|US10Y|2026-10-22": 1792680373.561567,
-  "big|US05Y|2026-10-22": 1792680374.4938054
+  "big|US05Y|2026-10-22": 1792680374.4938054,
+  "news|8aef451c3f62": 1792681307.8307898,
+  "brk|US05Y|pwh|dn|2026-10-19/2026-10-25": 1792681309.0440392,
+  "brk|US05Y|h20|dn|2026-10-19/2026-10-25": 1792681310.07566,
+  "big|VIX|2026-10-22": 1792681311.0154011
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7552,6 +7556,26 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-22T15:01:51.015447+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n+2.55 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-10-22T15:01:50.075734+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 5 ans</b> casse le plus bas sur 20 JOURS\nNiveau : 4.835 → prix : <b>4.832</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.2 | 60j -0.26"
+  },
+  {
+   "ts": "2026-10-22T15:01:49.044087+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 5 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 4.835 → prix : <b>4.832</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.2 | 60j -0.26"
+  },
+  {
+   "ts": "2026-10-22T15:01:47.830859+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu denies report Trump blocked Iran strike</b>\n📰 JNS.org · Jeu 22/10 14:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlpqTzRCekpCMU5sUG93bnpUeEwtZ1d5WHNfcnRsNE0zczlZREk1emxSdlpIbzRZM1RXa1FTMmlZb245Q0JGZXBCYVRVVl9saTJpbE5vZmV0MkNTczJvZC1pb3hGdlJsaGl6YlRxSndEci1QZ2dpbjFiYTJ5djR2NDZTV0NZWmFYdnZ0VXVKSQ?oc=5"
+  },
   {
    "ts": "2026-10-22T14:46:14.493860+00:00",
    "kind": "big_move",
@@ -7831,26 +7855,6 @@
    "ts": "2026-10-22T05:01:35.071260+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel have drawn up detailed plans for renewed strikes on Iran</b>\n📰 The Jerusalem Post · Jeu 22/10 02:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5"
-  },
-  {
-   "ts": "2026-10-22T04:16:16.852260+00:00",
-   "kind": "cycle",
-   "text": "⚠️ <b>CYCLE HEBDO : PAS D'INVERSION CETTE SEMAINE</b>\nPhase 2 (jeu→ven) : lun→mer = -35.0$, depuis mercredi -43.3$ → le pattern ÉCHOUE (continuation) ⚠️\nLe marché continue dans le sens lun→mer — ne pas forcer le contre-trend."
-  },
-  {
-   "ts": "2026-10-22T04:16:15.987487+00:00",
-   "kind": "cycle",
-   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-35.0$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.9%</b> des semaines baissières (53.8% quand le mouvement est fort)\nRetracement médian quand ça inverse : 88.6%\n\n🎯 Zones de retour : 38.2% 4163.37 | 50% 4167.5 | 61.8% 4171.63\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
-  },
-  {
-   "ts": "2026-10-22T04:16:15.063052+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 101.64 → prix : <b>101.59</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.37 | 60j -0.53"
-  },
-  {
-   "ts": "2026-10-22T04:16:14.179695+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 122.30 → prix : <b>4 106.70</b>\nATR jour : 68.7$ | Pivot hebdo : 4172.8\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 682 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
   }
  ],
  "daily_forecast": {
