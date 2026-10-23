@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792776665.801793,
+   "ts": 1792799146.7115564,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.76,
-     "date": "2026-10-21",
-     "chg5": -0.08,
-     "chg20": 0.13,
+     "last": 2.64,
+     "date": "2026-10-22",
+     "chg5": -0.14,
+     "chg20": -0.12,
      "hist": [
-      1.94,
       1.91,
       1.95,
       1.96,
@@ -129,18 +128,18 @@
       2.74,
       2.8,
       2.77,
-      2.76
+      2.76,
+      2.64
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.32,
-     "date": "2026-10-22",
-     "chg5": 0.0,
-     "chg20": -0.03,
+     "last": 2.34,
+     "date": "2026-10-23",
+     "chg5": -0.01,
+     "chg20": 0.01,
      "hist": [
-      2.48,
       2.5,
       2.47,
       2.42,
@@ -259,18 +258,18 @@
       2.35,
       2.35,
       2.37,
-      2.32
+      2.32,
+      2.34
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.81,
-     "date": "2026-10-21",
-     "chg5": -0.01,
-     "chg20": 0.1,
+     "last": 4.65,
+     "date": "2026-10-22",
+     "chg5": -0.12,
+     "chg20": -0.2,
      "hist": [
-      3.88,
       3.88,
       3.95,
       3.93,
@@ -389,14 +388,15 @@
       4.74,
       4.77,
       4.79,
-      4.81
+      4.81,
+      4.65
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-21",
+     "date": "2026-10-22",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -413,7 +413,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -485,6 +484,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "81282bf909a8",
-  "63811757ed4c",
-  "24e6476062f0",
   "745b2790608d",
   "f9b80bcf6875",
   "563da9e080b4",
@@ -3945,9 +3942,24 @@
   "ef4900d3ac2f",
   "71e6bd9a661a",
   "8e12ad26fcb6",
-  "2c43b56516ce"
+  "2c43b56516ce",
+  "ef26fc89de4d",
+  "f060fae73fd5",
+  "4702d23a72aa"
  ],
  "news": [
+  {
+   "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears",
+   "source": "WSJ",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5",
+   "published": "2026-10-23T23:11:45+00:00",
+   "id": "ef26fc89de4d",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Breaking News: Melania Trump said she brokered a “localized cease-fire” between Ukraine and Russia in Oleshky, a Ukrainian city. She said the cease-fire would allow residents of the frontline city to leave “through a designated safe passageway.”",
    "source": "Facebook",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Persistance des tensions avec l'Iran stimulant les achats d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Russia Set to Hold Key Rate as Ukraine’s Strikes Spur Inflation",
-   "source": "Bloomberg.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDRyTU04MENCdmFQdHN1WkVxRmtkejRROGtNcUhaZy12SWRCd2NjSmhHYWVWTmpSdEZRdkZMME9JU3hoR2cyNEVuay1UMGtnaHhwR0NBOFJTdThuZF9zazNTaFRtcWRUQlVYTjA5RllKWGNFUEVDTmhHdUpyNVE4eUhtREZuX3Vmb2NsRExYTjZiOFVTY1p2aDBIaWdPd3p2ZjZzLTE4cGVvM3RjN3lBZktVQTJSWFZGRXpIcVR5ZU9uTk8yanRTVA?oc=5",
-   "published": "2026-10-23T04:00:00+00:00",
-   "id": "355abf3b5f78",
-   "impact": 1,
-   "cat": "banques centrales",
-   "raison": "Inflation russe persistante mais impact macroéconomique direct quasi nul sur le XAUUSD.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7526,7 +7526,7 @@
   "news|d91268e02c56": 1792790172.0525982,
   "news|adf21f0ec458": 1792797365.522113
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -7707,6 +7707,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T23:46:05.619355+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score +1)\nMoteurs principaux : Momentum or (vs MM50) (-15), Fed (2 ans vs taux Fed) (-9), Taux réels 10 ans (20j) (+8)"
+  },
   {
    "ts": "2026-10-23T23:16:05.522213+00:00",
    "kind": "news",
@@ -8001,11 +8006,6 @@
    "ts": "2026-10-23T05:16:13.691128+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Economists unanimously expect Fed rate hike in December</b>\n📰 israelherald.com · Ven 23/10 06:45\n🧠 baissier or (fed) [mots-clés]\n🔗 http://www.israelherald.com/news/279388134/economists-unanimously-expect-fed-rate-hike-in-december"
-  },
-  {
-   "ts": "2026-10-23T05:04:17.269643+00:00",
-   "kind": "daily",
-   "text": "☀️ <b>PRÉVISION OR — VENDREDI 23/10</b>\nPrix : <b>4018.20</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-2/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 195 news notées, moyenne +0.63\n🔴 Momentum or (vs MM50) : prix 4018 vs MM20 4156 / MM50 4342\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.81% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -24.0$ · plus haut 4047.8 / plus bas 4000.9 (range 47$)\nDXY +0.07% sur la nuit\n⚠️ Plus bas de la veille (4037) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~66$</b> (ATR 70$ × profil du vendredi)\nDéjà fait en Asie : 47$ (71% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4214.7 | R1 4137.5 | <b>Pivot 4087.2</b> | S1 4010.0 | S2 3959.7\nVeille : PDH 4164.3 / PDL 4036.8  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>57%</b> du temps (301 jours, ~6.0 ans)\n• Hier : -2.16% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (211 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 17h (11%) · plus BAS vers 0h (12%), 2h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -35.0$, depuis mercredi -131.8$ → le pattern ÉCHOUE (continuation) ⚠️\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4010 et R1 4138\nJouer les extrêmes, pas le milieu (pivot 4087). Range attendu ~66$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4164 ou PDL 4037 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
