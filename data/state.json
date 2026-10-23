@@ -946,14 +946,6 @@
   }
  },
  "seen_news": [
-  "c14fd1b39d5d",
-  "ff4587730934",
-  "0b86f469eee4",
-  "9a851ce9d9fb",
-  "4b011a10f513",
-  "7675e5a16477",
-  "795954057086",
-  "1d3eb9393791",
   "71c972ff53f7",
   "6e55fb1cfd2e",
   "3cc311872e00",
@@ -3945,9 +3937,29 @@
   "2cd578cbbf3c",
   "de9a6b6af529",
   "749c93a6981e",
-  "c3ea0cdc6167"
+  "c3ea0cdc6167",
+  "435c2461127c",
+  "b420196db6f4",
+  "23aa7b85dc06",
+  "7bad71ee70c0",
+  "460b7187c0b1",
+  "061d7f1b08bc",
+  "0352fd850cbf",
+  "69e8e2fd718d"
  ],
  "news": [
+  {
+   "title": "The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage",
+   "source": "Fortune",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXZOb24wWkpvMXN4YnRTTFFSRVEwMGhsZTBVWnlmdHB0R3lOSngxNlRRZVJ4aV9oeWxzUVpsMGpPMFdwSHpDUW9ISFZQeURJbU9veEs3RU9YSm1Jc2JWcGFlRG1nVWgzRWl1NTVuY3lzTFFKQXdKZGtfWnNnY2k1Z0dB?oc=5",
+   "published": "2026-10-23T03:00:00+00:00",
+   "id": "0352fd850cbf",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
   {
    "title": "Yemen needs political horizon : UN chief calls for restraint in region , condemns Houthi attacks in Saudi Arabia",
    "source": "greekherald.com",
@@ -3994,6 +4006,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmZpbEx6YzBidHFXWVdHQVpwdV9yUWtDYUZhWGJuaWJfa1pGWC1rMzhvOE9Pa0hsQUhKaG4tZ2o5N3VjSHpaMEZQb0V4UnlxY3JNeko1VW5GRzd5Um5fYTVtOEFOcTZteVdLVklYTXRxZDJfSnV2TUdfckJxX05kNWVNaWxjRzlzUVNiTHZDMEVjNGRmYVZSUTFBQW4zWEhrSGxhXzF2RFNOSEnSAbABQVVfeXFMUGhDQk4zTElXU1dFcXNJcHVqN29NTkp4MURWOElJcUNCRHRRVnhrSFlVcVZ0bGVCT1poQXFlYzRkUEh3cjY5NkpZa1pFNzhXaWVEcFREVlV5YThseGxjQXdVRVJPc1hBdktsVmZheE5YTUVsdnZGMF8yVm0tajV3ZWVlTFVYVU1INGVIVWFVRWJwcEtjYzhFNlMweV8wUW50cEExODJhX2ptZTFWdE5hcUU?oc=5",
+   "published": "2026-10-23T01:51:23+00:00",
+   "id": "061d7f1b08bc",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Hiltzik : The war over water starts here - Los Angeles Times",
-   "source": "latimes.com",
-   "theme": "Géopolitique",
-   "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
-   "published": "2026-10-22T10:30:00+00:00",
-   "id": "832d1180773a",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold Strike Reports Assays from First Drill Hole at Florin Project , Returning 400 Metres of 0 . 53 g / t Gold from near Surface , Including 50 m of 1 . 07 g / t Gold",
-   "source": "simcoereformer.ca",
-   "theme": "Géopolitique",
-   "link": "https://www.simcoereformer.ca/press-releases/newsfile/gold-strike-reports-assays-from-first-drill-hole-at-florin-project-returning-400-metres-of-0-53-g-t-gold-from-near-surface-including-50-m-of-1-07-g-t-gold/",
-   "published": "2026-10-22T10:30:00+00:00",
-   "id": "cf25f8d68834",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7463,7 +7463,8 @@
   "news|045bc361929c": 1792721772.3125885,
   "news|9ecfd5e5c3ff": 1792723571.1260364,
   "news|994a1fb9ed0e": 1792723571.988317,
-  "news|749c93a6981e": 1792724502.6867902
+  "news|749c93a6981e": 1792724502.6867902,
+  "news|061d7f1b08bc": 1792725361.4468336
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7630,6 +7631,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T03:16:01.446890+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Musk restored Ukraine’s Starlink access amid Russia war</b>\n📰 Al Jazeera · Ven 23/10 03:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmZpbEx6YzBidHFXWVdHQVpwdV9yUWtDYUZhWGJuaWJfa1pGWC1rMzhvOE9Pa0hsQUhKaG4tZ2o5N3VjSHpaMEZQb0V4UnlxY3JNeko1VW5GRzd5Um5fYTVtOEFOcTZteVdLVklYTXRxZDJfSnV2TUdfckJxX05kNWVNaWxjRzlzUVNiTHZDMEVjNGRmYVZSUTFBQW4zWEhrSGxhXzF2RFNOSEnSAbABQVVfeXFMUGhDQk4zTElXU1dFcXNJcHVqN29NTkp4MURWOElJcUNCRHRRVnhrSFlVcVZ0bGVCT1poQXFlYzRkUEh3cjY5NkpZa1pFNzhXaWVEcFREVlV5YThseGxjQXdVRVJPc1hBdktsVmZheE5YTUVsdnZGMF8yVm0tajV3ZWVlTFVYVU1INGVIVWFVRWJwcEtjYzhFNlMweV8wUW50cEExODJhX2ptZTFWdE5hcUU?oc=5"
+  },
   {
    "ts": "2026-10-23T03:01:42.686869+00:00",
    "kind": "news",
@@ -7924,11 +7930,6 @@
    "ts": "2026-10-22T19:16:16.073230+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-107.30 aujourd'hui = 1.6× l'ATR"
-  },
-  {
-   "ts": "2026-10-22T19:16:14.829367+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump links Iran’s actions in Hormuz to rising oil prices</b>\n📰 Latest news from Azerbaijan · Jeu 22/10 21:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHQ1UDRRR01jY1JBNWh3QVhUN0VEUnZnaDVQd1BGTzR0d1Y1MkV1QUR6dnhyR0dWUE0xN1o4NE52MHpxTk5uY1ZPd0FfSGJtdU81N3pmaGJFeHZlSVpqMzVveGl5enpLbXRta29iY1VrNTJsb2dFcG9Bb2ZUYjgtck1RZw?oc=5"
   }
  ],
  "daily_forecast": {
