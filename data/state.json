@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "12947956742b",
-  "7d65dd6bb0da",
-  "82eebb67c03e",
-  "5924abb6f78f",
   "27ba9e0ed0ca",
   "4468cd37e191",
   "a585304d492e",
@@ -3945,7 +3941,11 @@
   "9a6dd9b5cae5",
   "355abf3b5f78",
   "e1cc681703f8",
-  "3557a931e49e"
+  "3557a931e49e",
+  "a50cf709770d",
+  "62f0a8deca88",
+  "36121312ec4d",
+  "ef79d3ca1de5"
  ],
  "news": [
   {
@@ -6253,6 +6253,18 @@
    "method": "IA"
   },
   {
+   "title": "Oil price gains on worries of Iran-US escalations after midterms",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1lrWWZEZzJjT3ZLejlfMHVYXzhoWkMtMWlJMzZEelp6aWNsNk5wZU9mOFBwZDFhUi04SnpjTU1WQ3NndjZXeUJUNl9sTXBWakw2TTRRN2NWSGVmME9sWnpLcVZreVFfS25heWdwRk16RDZSRzhxbkFxckNxR3NQV244SEF1Yk5HaWJ0c2dVV0xFZnhzRGlzU0l0cm5Bb1dSTlk0NnIwZWhrbEJHdmdLangtUnAwcHJqTmhVTFFVUlFYTFpBb0pOYjlB?oc=5",
+   "published": "2026-10-22T12:07:38+00:00",
+   "id": "36121312ec4d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Netanyahu denies report Trump blocked Iran strike",
    "source": "JNS.org",
    "theme": "Iran / Israël",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Incidents dans le détroit d'Ormuz augmentant les craintes d'un choc pétrolier mondial.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Says US Will Win Iran War ‘Very Soon’",
-   "source": "EnergyNow.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVzR3ODY3eUVfbjZ3d2xzaS1iQ0ZlZ3RnUlZydUVIV3lDb3o4WjZ1enpnWmJVZTlHdkdWSmZrSXc5dHZCb0FER2pjNENsU2hRZXdqVmxGRUI3REJlX00zc0FpcFE3UUpBaUZSMV9aSnpjYV9YcWZUZGFNNlI?oc=5",
-   "published": "2026-10-22T11:30:00+00:00",
-   "id": "73439c5fc747",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7475,7 +7475,8 @@
   "rep|daily|2026-10-23": 1792731858.1544325,
   "news|491736c7847c": 1792732573.691056,
   "news|9ccbac18993c": 1792732574.6191225,
-  "news|705806463321": 1792732575.4476502
+  "news|705806463321": 1792732575.4476502,
+  "news|36121312ec4d": 1792736354.608506
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7658,6 +7659,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T06:19:14.608577+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil price gains on worries of Iran-US escalations after midterms</b>\n📰 Yahoo Finance · Jeu 22/10 14:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1lrWWZEZzJjT3ZLejlfMHVYXzhoWkMtMWlJMzZEelp6aWNsNk5wZU9mOFBwZDFhUi04SnpjTU1WQ3NndjZXeUJUNl9sTXBWakw2TTRRN2NWSGVmME9sWnpLcVZreVFfS25heWdwRk16RDZSRzhxbkFxckNxR3NQV244SEF1Yk5HaWJ0c2dVV0xFZnhzRGlzU0l0cm5Bb1dSTlk0NnIwZWhrbEJHdmdLangtUnAwcHJqTmhVTFFVUlFYTFpBb0pOYjlB?oc=5"
+  },
   {
    "ts": "2026-10-23T05:16:15.447958+00:00",
    "kind": "news",
@@ -7952,11 +7958,6 @@
    "ts": "2026-10-22T20:01:47.770801+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — JEUDI 22/10</b>\nOr : <b>-117.3$</b> depuis minuit · plus haut 4164.3 (00h00) / plus bas 4037.2 (21h45) · range 127$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-16) à 4106.1 → maintenant 4041.7 (-64.4$)\nRange : 127$ réalisé vs ~63$ attendu (201%)\nNiveaux touchés : P, S1, S2, PDH, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 67% de bonnes directions (6 ✅ / 3 ❌ / 0 ➖ sur 9 jours)\n20 derniers jours : 67%  ·  ✅✅✅❌✅❌❌✅✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.06% · Taux 10 ans -19.3 pb · Pétrole +1.34% · EUR/USD -0.15% · S&P 500 -1.21% · Argent -5.69%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war\n🟢 (+10) Iran says 7 oil tankers were attacked in the Strait of Hormuz as fears grow of a return to war\n🟢 (+10) US voters are angry. But on tariffs and war, the midterms won’t bring quick change\n🟢 (+10) Saudi Aramco evacuates headquarters amid escalating Houthi attacks\n\n📅 <b>Demain (vendredi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
-  },
-  {
-   "ts": "2026-10-22T20:01:46.440503+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Enthusiastically Endorses Ramaswamy’s Controversial Attack Ad</b>\n📰 notus.org · Jeu 22/10 21:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOX051cm1wV084NmVVVHRJVEMtbEZYajJWSFd5RGs2UnVNQzVzMWMtZlVQVXgwZWdHc1RVdUFDTkF6VUxSNXRpSVZRZmxZMjlTQ3R2aXZyR3VfZ0xGSW5ZVWpGQy1sUUxPRjBidXFTaWNrZGRid0xrRFhwME5rcF9GVWhKY05PbC1XM1I0WWNVdjF2aHdZVDBVWHI4c0R4YkE3WnVoRkVfQmFiSXpxOFVNbUNUTlZuSXc?oc=5"
   }
  ],
  "daily_forecast": {
