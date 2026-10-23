@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792721753.2138655,
+   "ts": 1792726275.2752647,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "71c972ff53f7",
-  "6e55fb1cfd2e",
-  "3cc311872e00",
   "c47ee77a46c2",
   "784b29299bca",
   "24d8d02a5785",
@@ -3945,7 +3942,10 @@
   "460b7187c0b1",
   "061d7f1b08bc",
   "0352fd850cbf",
-  "69e8e2fd718d"
+  "69e8e2fd718d",
+  "21d3b7056e41",
+  "86c5cf896913",
+  "f5c8ab1af842"
  ],
  "news": [
   {
@@ -4126,6 +4126,18 @@
    "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Donald Trump Spews Vile Insult at Dem Sex Abuse Victim Amy Acton in Attack Ad",
+   "source": "The Daily Beast",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeG5yb0R2T2pvRVp5TXZTYUxIMmlpUTdsdm1zWTd0ZGUtTFptTzliNnY5eVVQNFZlbVNCZHl4ZmFFOE5Rd29VZ3JhZ0RNOUtaTlhhOTVMbHRHTl9HVTJhYVJIdk5CZzg2NXZhWHF6UEVmUC1LTmFTZ3Vlem8yY2FKbWs3WTg3S3Y0MFdqTlVaTWZoSEpM?oc=5",
+   "published": "2026-10-23T00:19:00+00:00",
+   "id": "21d3b7056e41",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "dollar",
    "raison": "Dollar ferme face aux devises émergentes avant le FOMC, freinant XAUUSD.",
    "method": "IA"
-  },
-  {
-   "title": "Netanyahu denies report that Trump halted planned Israeli strike on Iran",
-   "source": "news.az",
-   "theme": "Géopolitique",
-   "link": "https://news.az/news/netanyahu-denies-report-that-trump-halted-planned-israeli-strike-on-iran",
-   "published": "2026-10-22T10:30:00+00:00",
-   "id": "c23bfddf67d4",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7464,7 +7464,8 @@
   "news|9ecfd5e5c3ff": 1792723571.1260364,
   "news|994a1fb9ed0e": 1792723571.988317,
   "news|749c93a6981e": 1792724502.6867902,
-  "news|061d7f1b08bc": 1792725361.4468336
+  "news|061d7f1b08bc": 1792725361.4468336,
+  "news|21d3b7056e41": 1792726295.1098294
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7631,6 +7632,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T03:31:35.109885+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Spews Vile Insult at Dem Sex Abuse Victim Amy Acton in Attack Ad</b>\n📰 The Daily Beast · Ven 23/10 02:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQeG5yb0R2T2pvRVp5TXZTYUxIMmlpUTdsdm1zWTd0ZGUtTFptTzliNnY5eVVQNFZlbVNCZHl4ZmFFOE5Rd29VZ3JhZ0RNOUtaTlhhOTVMbHRHTl9HVTJhYVJIdk5CZzg2NXZhWHF6UEVmUC1LTmFTZ3Vlem8yY2FKbWs3WTg3S3Y0MFdqTlVaTWZoSEpM?oc=5"
+  },
   {
    "ts": "2026-10-23T03:16:01.446890+00:00",
    "kind": "news",
@@ -7925,11 +7931,6 @@
    "ts": "2026-10-22T19:31:34.639041+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump praises Ramaswamy attack ad against Acton, says it shouldn't be taken down</b>\n📰 WSYX · Jeu 22/10 21:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGduU19KV0tnS2ZUNjhkdHBEdldqeVhVaTRKb2s2VW1mNGlIbkN2eFhScXFpOGQwLWhSbmdTeUxDclV6U0lBbDVWdExlVTVVX3hqMGVMaThXRVpyVzNYckRSLUdWaG90SWxjREgyZ29lVlFOME5sWEpIQmVPcEU5eWtMcExPbEctQ29qQ0FJLWFTNl95T3BLREJIWTNTVnRZT3JYTEZYTEgxTVQxZjB5dnFuUzJ5dGw0MHdIMzllNXFkVG5PeVZucVNfVE1qQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-22T19:16:16.073230+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-107.30 aujourd'hui = 1.6× l'ATR"
   }
  ],
  "daily_forecast": {
