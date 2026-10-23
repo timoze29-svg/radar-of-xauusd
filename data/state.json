@@ -946,7 +946,6 @@
   }
  },
  "seen_news": [
-  "9aa1927be027",
   "267163ddf415",
   "a8dfc45ac7af",
   "e2b078d91076",
@@ -3945,7 +3944,8 @@
   "ff18bcc469da",
   "0f3e082a94b7",
   "13eb740986fd",
-  "238a66cab632"
+  "412e4d81b16e",
+  "d6d4f9df63f0"
  ],
  "news": [
   {
@@ -3955,9 +3955,21 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2NhaVA4X0paUnI4dFJwMU83bjYwX1pmVnA5Y2JMcG9mb2FBQU4yX1oxU2pSZ1VxamNRVFdkQ3FHUUJTbGwzaHdBbXZjcDcyNDRwM3ZIZ0FBNE45eTcwNGJBaWdYWTFZemk3OV9zQ1VZbGplY0JiSEkybUdCbE9RLW0ySDd3NjJJeEVJ?oc=5",
    "published": "2026-10-23T21:32:30+00:00",
    "id": "f5b833484ac8",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
+   "raison": "Allègement tarifaire ciblé réduisant légèrement la prime de risque liée aux guerres commerciales.",
+   "method": "IA"
+  },
+  {
+   "title": "'My Name Has Always Been Ilhan Omar': Congresswoman Calls Out 'Creep' Trump",
+   "source": "Common Dreams",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NOWRNMkhrYXdoOXd1Sm5nSktzU082VC04b1dKVXFIa2t0dE5lN3ZXSFlScjhXX1ZiS2tsRVJwYnZVVkx5eGF1cDVJM1IzOXJaVmx5dzA3Z3lfVFVKTXpnN05fdkEyUQ?oc=5",
+   "published": "2026-10-23T21:27:21+00:00",
+   "id": "13eb740986fd",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -3967,10 +3979,10 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
    "published": "2026-10-23T21:08:33+00:00",
    "id": "61b787e69823",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Retrait partiel de droits de douane canadiens atténuant marginalement les craintes protectionnistes.",
+   "method": "IA"
   },
   {
    "title": "Susan Collins Says She Convinced the Trump Administration to Lift Some Tariffs on Canada",
@@ -4017,8 +4029,8 @@
    "id": "d965f988dbb8",
    "impact": 6,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Évacuation diplomatique signalant un risque d'escalade militaire imminent, forte demande refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump, seeking to help Maine Sen. Susan Collins, exempts some Canadian imports from his 50% tariffs",
@@ -4123,10 +4135,10 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUpnNzNYZ2JLYkpCeXo4U0p1dERRR0FEXzJzTTg1WGRZXzE2bkRYWk9XSm9MVy1JRmlidDBscWdWcjc0NUsyTnlRUVZiN2loYTl1dFVxZjZoZGs5bHVVWFlacm4zVHZwQXlvVmk1aU1HNGpFa3J5UU84RXlDWlhBOUxHOGtuS296b1VJVGFlc0V2Zw?oc=5",
    "published": "2026-10-23T20:07:00+00:00",
    "id": "518c6c73b616",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Baisse ciblée de tarifs douaniers, léger apaisement commercial défavorable à l'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump warns of possible new military operation against Iran",
@@ -4243,10 +4255,10 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiUlVZRmEyWHF1andZbE5mUUV6TmFIX1VZZkVQd0RkbDJDRTlqMGVGRzg5ZV90QjV4dWU2Z012eWhpYkxyYkE3UDdJSFZWcXhnSjMyek5ycVViRVNQZmNtMGh5MF9VQmpTWGhXd1RCUUNGejZ3M0E?oc=5",
    "published": "2026-10-23T19:35:00+00:00",
    "id": "8500c26b73be",
-   "impact": -6,
+   "impact": -7,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Hausse surprise des taux et cycle restrictif hawkish propulsant les taux réels.",
+   "method": "IA"
   },
   {
    "title": "Collins touts Trump decision to remove some farm products from Canada tariffs - Portland Press Herald",
@@ -4255,10 +4267,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclE0Z1pfMXl6VHRPMFd6SDNGelBBNGpsaExuSlJ6dXlhSENIWk85bUtKamZXLXlpMWJFWlhjajhhbmhaZnA0UWo5MkFSOG5DWFlPRTVCZGZXY1lyRE9ubFJFSk5mVXRUSUVEZHQ4VW94SmZHR3ZpMzlTTTlteG9DdkI3Rmd6bXdHZVRRSHhMNDk4aVBPQXhhZlNJR25XVGwyV21GYlpBTG9jTXM0YUllaUljN3JYWkcz?oc=5",
    "published": "2026-10-23T19:32:56+00:00",
    "id": "049d3e32bd2f",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Exemptions agricoles limitées réduisant marginalement les tensions commerciales avec le Canada.",
+   "method": "IA"
   },
   {
    "title": "'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms",
@@ -4267,10 +4279,10 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjBMWjJfMmhxTXBZX3FueWRLbE8wRGhGT29SMDM1d2VrbnFQeXdveVpGT1UzZ0hzc1hlaHNoVVBiVzdVbzBBT2l3OU5ldFp4Wk1lTmdSMzNIZURVdms1RzRudTgtRE82MDQtdWN6ZGN6dWxDV1dlMnRTQTZDNW5ocTVEUDBmYUIwNHB5dzFRNUM3Q2s2VkFDWlhQV3hVREVHNjFzag?oc=5",
    "published": "2026-10-23T19:32:03+00:00",
    "id": "244ea4e577e8",
-   "impact": 10,
+   "impact": 7,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menace imminente d'attaque israélo-américaine contre l'Iran, envolée immédiate de la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
@@ -4291,10 +4303,10 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
    "published": "2026-10-23T19:22:00+00:00",
    "id": "a958c727958b",
-   "impact": -5,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Cessez-le-feu local en Ukraine, signal diplomatique positif réduisant un peu la prime refuge.",
+   "method": "IA"
   },
   {
    "title": "Brent crude tops $116 as traders price escalating Middle East conflict",
@@ -4305,8 +4317,8 @@
    "id": "4702e9286adc",
    "impact": 6,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Pétrole à 116 dollars sur risque d'escalade : choc inflationniste et ruée refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump to Cut Some Canada Tariffs in Bid to Aid Maine Senator",
@@ -4315,10 +4327,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjFBMU83aC1GcHBCSm5zbnM4NkRQRmJtOHoycTNVVmd0b0NGTm5RTTVhZ1ktWGR4QTJhaXE5cVd5bm1YY09yMFpsYzF1aWRrVnIzb29BU1VQX1k3Q0VfbWVfc2RjWmFGNnlJRlllbmJxU1hGVkdkbXlDek5kOC1FT3NKeW1sODc4UzFDQzRNQ2F4VzF5Y3hNdzY1MmVKeko1dTJPN2JXRmd3TmpOQjFGU3VR?oc=5",
    "published": "2026-10-23T19:20:24+00:00",
    "id": "a1600cbde532",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Baisse sélective de tarifs douaniers, détendant modérément le risque protectionniste global.",
+   "method": "IA"
   },
   {
    "title": "Oil prices climb to $116 as traders price in Middle East escalation",
@@ -4329,8 +4341,8 @@
    "id": "4aca1b50be83",
    "impact": 6,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Flambée du brut liée aux tensions militaires au Moyen-Orient, très favorable à l'or.",
+   "method": "IA"
   },
   {
    "title": "WSJ: Donald Trump expected to lift some tariffs to help Susan Collins reelection bid",
@@ -4339,10 +4351,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEl6MF93cnptN2N0bm9VLW9vSGFuVXptSmFzdmVmVnp3X1RNeDR1RlF0a1dVSjdMUnlOWWtvdm9lbm1RVXdoMDNFbTA2QXI3OHJBdENKNktiRm9Oc1dvV2JmclZhbEwyRW40S1VZZnRSVDFoQnc2TTgtbHVjWU1aVWEtVjF2SFgyVTRHMFlZZlhJN21sd05jNXJkeW1sTEtteGttN04ycmJvMHNfemp1RmZodkR2NHZPOVJ5c3NwNjg?oc=5",
    "published": "2026-10-23T19:04:06+00:00",
    "id": "ef31aeb541bb",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Anticipation de levée partielle de tarifs, impact baissier marginal sur le risque commercial.",
+   "method": "IA"
   },
   {
    "title": "Maine senator says ‘tariff exemptions’ coming for some Canadian goods",
@@ -4351,10 +4363,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1d2cnRJSjZhOTRNcjUtOFBqRjFNc2QyTHhXRExrUlVPbV9PT2k1SlpFMmQxbURqWTYxb3JLSWlRU1VrVXF2NmQyckkwRG9yb2I4azNlSVNwNnJnZUJDUVl0Yl80OHlNdEFfRXNWbWY3YXRoX0otbGpvUUs5MVJJNWJBOWw?oc=5",
    "published": "2026-10-23T18:59:20+00:00",
    "id": "a4a7a085ac6f",
-   "impact": 1,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Exemptions tarifaires limitées avec le Canada, léger repli des tensions commerciales bilatérales.",
+   "method": "IA"
   },
   {
    "title": "Melania Trump brokered ceasefire at besieged Ukrainian town, White House says",
@@ -4363,10 +4375,10 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3g1ZWdGb1FvTHBDdVRKR093bHZmd2RPQjgxdWd2ZnIwblRXRWR3VDVPd1RBVVN4QzdMbDUyX29vZVpFLS1Ha0hvRWtPdHNYZ0ZkcWhZUTJVYkR3c3VQZnoxakJlMy16eHpuZ2FvRHFaTEdwd2lSay1wWTFqemhNR2JaTXVudVlVa19GTkpjNDRJb0xtS0lIN3BtaTBmOGJfb2tCcFMtNGFsaERNcXBMZ0xJRmFfa3hmdGdneEhR?oc=5",
    "published": "2026-10-23T18:59:02+00:00",
    "id": "a8ad064debf9",
-   "impact": -6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Trêve très localisée en Ukraine, léger soulagement diplomatique mais portée macroéconomique minime.",
+   "method": "IA"
   },
   {
    "title": "Trump administration cancels some Canada tariffs, Sen. Susan Collins says",
@@ -4375,10 +4387,10 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVElRUlRYNE1DeV9WMkYwaXlScS01OTI1MVotc2Rob1AtZW90Tk13eGJuWWFhOVpEQndDUzBZeFQ3ZFlQcWJJZ0ZZdDdtaFlnTHg2WjdTT25wVm1FUkNEMFQwakN0c2NidkVrUlRseEJCd0g3cW1haXJVS1dhVURvWm9iTldyQWZPOHFjS1dIdVBtZk5nTmk5a3NB?oc=5",
    "published": "2026-10-23T18:48:44+00:00",
    "id": "8475344027dd",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Annulation de certaines taxes douanières réduisant modérément les pressions protectionnistes.",
+   "method": "IA"
   },
   {
    "title": "Trump to exempt some Canadian products from tariffs amid midterm pressure",
@@ -4387,10 +4399,10 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUJZT2V3YzhISHZBODlod2VSNFRrZkRBUWZEY2lMdjQ2OVBHaVB3VDc0TXBDYTk4T1pqNVZkSnNfdk1fYzM0ZVRtdXZnUHlUc1BkU3NGYzNMWl9VcnB2Q1k2ZnVyWnllYjNBcUpHaFlaTUtSMVM0ZkM1dW1mYU9pWFJBckQtUQ?oc=5",
    "published": "2026-10-23T18:46:18+00:00",
    "id": "919dca8212c8",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Exemptions ciblées sous pression électorale, modeste recul des craintes de guerre commerciale.",
+   "method": "IA"
   },
   {
    "title": "Trump to lower Canada tariffs for certain agricultural goods, Collins says",
@@ -4399,10 +4411,10 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVW1QX1NqWUlXQmJ1aHRHUDJLUWZMZDRXVHJmOWl6c20zZVJ1THE0Skl4R184VDZoUndEdENOSEFEOFlBd2Z2NkU3YzAtOGw3UHcwdS15T0NlVkNOallTUlV6WGI4eHZBRzFmRXAwRHZuRmtjcFprZmtDSzhkSTI3RERNWEh0VzlWQ2F3TldqYkg4RjZ2NDZmZGFXQWE?oc=5",
    "published": "2026-10-23T18:39:00+00:00",
    "id": "112154622a67",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Baisse de tarifs agricoles canadiens réduisant légèrement les tensions bilatérales.",
+   "method": "IA"
   },
   {
    "title": "Trump expected to ease some Canadian tariffs as Republicans face midterm pressure: WSJ",
@@ -4411,10 +4423,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXNUTUF6R3J4UWdpMzIxY2dnVkxqVVFSSDFURTRGQ1c4ZjRac21MYUw4ZTk5WHRsblZ5SjA0LWMxcWd6Z1JJODIxcWdKTVB3N3JsTHluc0V5MzNoZVlxak42RTZlY3RjVUtHckZ1cHoxT2ZEcnowc25uRUVwRUJ0d1JubDlOdkZaM3NIYWhJalNaemE0czBBdGlFRGtXY01EeGxEajJtZm5FdFR2S2dGUDlzVE4yOUFFUkw3MVdkVFo?oc=5",
    "published": "2026-10-23T18:34:31+00:00",
    "id": "f996dda32be4",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Assouplissement tarifaire attendu face au Canada, marginalement négatif pour le métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Trump doubles down on defending Vivek Ramaswamy’s attack ad against Amy Acton",
@@ -4423,10 +4435,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTFwWEhRNmxoZ0x2a1VhT1lHckI1TmFrbU1PdFJOUlRidGNKYlRTVDhyZU9fZUUxMnZ1VlEtaml3Mll5THNOUVlvRUExWUpqV1NUQ0hYVHZEcXlnQXBBTzZ6U2ZsUGVzc0N3MnE2d1RiMFFPQVBxZGl1VURERHdBV0t6TlRvZkFyQ1pQOVFTaXJiaU9FTW1ZWWRvVS12a1VzekdFdENJNXRuemVMSlg5VWZhUVd1dVRDUlZn?oc=5",
    "published": "2026-10-23T18:31:53+00:00",
    "id": "e1b5b43b73e4",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Polémique électorale locale sans implication sur les taux, l'inflation ou le dollar.",
+   "method": "IA"
   },
   {
    "title": "US could strike Iran this weekend, envoy says",
@@ -4437,8 +4449,8 @@
    "id": "6c9aae0bebf4",
    "impact": 8,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe américaine imminente sur l'Iran : choc géopolitique majeur provoquant un afflux massif.",
+   "method": "IA"
   },
   {
    "title": "US to remove 50% tariffs on some Canadian goods to help Republicans in midterms, WSJ reports",
@@ -4447,10 +4459,10 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
    "published": "2026-10-23T18:26:50+00:00",
    "id": "a7a68d384f31",
-   "impact": 4,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Suppression de tarifs douaniers spécifiques au Canada, léger repli du risque d'escalade commerciale.",
+   "method": "IA"
   },
   {
    "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
@@ -4459,10 +4471,10 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFZqaE1xeDZZczZsQkt3M3ZPNkFaaGpmQlpYS0hYTmxzOTRHUFI3a1I5dmJaTDRhM1UzcHF3M2M4SlFORUcyYm1kSm8xaG53cERwTWYyQkVPZU85MnlhWXdNU3FWZTRaRVQtMlM0YnRSMzZmUjZ3ZEFXMjVUMElTbHlRQVI2LWlwN1FSaXJ30gGOAUFVX3lxTE00VmpoTXF4NllzNmxCS3czdk82QVpoamZCWlhLSFhObHM5NEdQUjdrUjl2YlpMNGEzVTNwcXczYzhKUU5FRzJibWRKbzFobndwRHBNZjJCRU9lTzkyeWFZd01TcVZlNFpFVC0yUzRidFIzNmZSNndkQVcyNVQwSVNseVFBUjYtaXA3UVJpcnc?oc=5",
    "published": "2026-10-23T18:24:42+00:00",
    "id": "898a5f6b31d1",
-   "impact": -5,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Accord de trêve limité à une ville, avancée diplomatique mineure réduisant la prime.",
+   "method": "IA"
   },
   {
    "title": "Report: Iran Has 'detailed' Plans To Hit Gulf Undersea Cables If War Resumes",
@@ -4471,10 +4483,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2xHb1ZhR2ZJYkoyLWtiaU8yOWJSRktTMUd2YkFDTWZuTWdfY2Q0cXVpWnh6WlFtdnF6cmJEYVBLa3pyUkpKek85TUpmWmItbXY3c0MzUGFzNmxfaklxNjk0M1FCYTVVbUJ0VGc1RnJBNWp2SHhZNjRDZjBMYXY4ZmloTFlHWmVoemdSZnl1d2ppMEZRZFBObFByZVd1VU5IMFZlam90Q2FkV1JrbjNwaXh0WTdaUUFPOWQwTWtxcmM?oc=5",
    "published": "2026-10-23T18:21:31+00:00",
    "id": "a8ddefb7eaf1",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces iraniennes contre les infrastructures du Golfe, risque accru de perturbation régionale.",
+   "method": "IA"
   },
   {
    "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
@@ -4483,22 +4495,10 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRldNNFF3MkZkQUhiRlkxWkh2bVRjR2VzR0dZYU1HV1lPNjFNYVU3Qk5ITmR5cWUtNElyY1NMTDVBS3Byd2xhOW5RMGtMUjNkOHpiaWFEMWZKMGxkcUZJWVpUdkNmbVk1cUJxdG9tT2xpVTltLUFmU0R5c9IBgAFBVV95cUxPblFJUHU1ejBUc2tkSldDdEdPOHFld1JPendmRDZwR28zYW9jc0JtemdYZDVqSElTVlNZMUdoUkVzUzlMQWMtcTNWZlFtWkIwWkUwRC1uYjRWUm5tRDNiZzY4cmdRalJUQTUyY1BaQ2FIZWZaOERuUmhIZzdRd3NtOQ?oc=5",
    "published": "2026-10-23T18:18:46+00:00",
    "id": "40dd686d3640",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-   "source": "CNBC",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRldNNFF3MkZkQUhiRlkxWkh2bVRjR2VzR0dZYU1HV1lPNjFNYVU3Qk5ITmR5cWUtNElyY1NMTDVBS3Byd2xhOW5RMGtMUjNkOHpiaWFEMWZKMGxkcUZJWVpUdkNmbVk1cUJxdG9tT2xpVTltLUFmU0R5c9IBgAFBVV95cUxPblFJUHU1ejBUc2tkSldDdEdPOHFld1JPendmRDZwR28zYW9jc0JtemdYZDVqSElTVlNZMUdoUkVzUzlMQWMtcTNWZlFtWkIwWkUwRC1uYjRWUm5tRDNiZzY4cmdRalJUQTUyY1BaQ2FIZWZaOERuUmhIZzdRd3NtOQ?oc=5",
-   "published": "2026-10-23T18:18:46+00:00",
-   "id": "1d14bb0cfe9c",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Abandon de certains droits de douane, réduisant à la marge le risque commercial.",
+   "method": "IA"
   },
   {
    "title": "Trump to Lower Some Canada Tariffs, Maine Senator Collins Says",
@@ -4507,10 +4507,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjFBMU83aC1GcHBCSm5zbnM4NkRQRmJtOHoycTNVVmd0b0NGTm5RTTVhZ1ktWGR4QTJhaXE5cVd5bm1YY09yMFpsYzF1aWRrVnIzb29BU1VQX1k3Q0VfbWVfc2RjWmFGNnlJRlllbmJxU1hGVkdkbXlDek5kOC1FT3NKeW1sODc4UzFDQzRNQ2F4VzF5Y3hNdzY1MmVKeko1dTJPN2JXRmd3TmpOQjFGU3VR?oc=5",
    "published": "2026-10-23T18:09:36+00:00",
    "id": "2ee9399a9608",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Baisse partielle annoncée de tarifs canadiens, léger apaisement commercial défavorable à l'or.",
+   "method": "IA"
   },
   {
    "title": "Report: Trump Eyes Canada Tariff Relief for Collins",
