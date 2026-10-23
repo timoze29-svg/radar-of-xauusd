@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "963aa87d43f4",
-  "e2b9fab81bf1",
-  "110cb483e4ed",
-  "067f7d2545d8",
   "c14fd1b39d5d",
   "ff4587730934",
   "0b86f469eee4",
@@ -3945,7 +3941,11 @@
   "0719c43f8319",
   "cbbcc62925f3",
   "06b76bcb6b77",
-  "f5444ee5fe33"
+  "f5444ee5fe33",
+  "2cd578cbbf3c",
+  "de9a6b6af529",
+  "749c93a6981e",
+  "c3ea0cdc6167"
  ],
  "news": [
   {
@@ -4453,6 +4453,18 @@
    "method": "IA"
   },
   {
+   "title": "“It’s bulls***”: Trump voters blast tariffs | POTUS Promise Check",
+   "source": "MS NOW",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQkN3aXVWS1R1bGRWdHJrTTNFYWg1bWxjeVYxUWprSzB2VXNlVl9CVE1QMEJhTlJ4QmlTT2RmUy1qLXp0dFd1TGg2aGdvelJ3Q3ptTjUyWmtKWnhzOUVjTkRCellMcUtuNERzcWhpeUJWSXFZWnB0VF93WW45djhXcHNsc2RkS2haY3k4azJYY2tFU0xWTHgtNVJYbG9BNGlqWVpWRkh3?oc=5",
+   "published": "2026-10-22T22:03:54+00:00",
+   "id": "c3ea0cdc6167",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
    "source": "WSJ",
    "theme": "Dette US",
@@ -4820,6 +4832,18 @@
    "published": "2026-10-22T20:49:15+00:00",
    "id": "33a290c6f0f6",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US orders diplomats, families to leave Saudi Arabia as Houthi attacks escalate",
+   "source": "Scripps News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUNnRmliM0VZVDFWOGVNQzBJdC1DSENnejNMbGgteDJBZnhIT0Fyb3ZucDN0UjRpMzdwUUJZdTNpX01GakJja3ZTNWN4VndtTGhzQXpFZmtxeENJbnM2aDlZX2JCUXU1RXlLRFN4MF9KLUVCZHgydzlaNkNLdWJWWlN3Um9aNVc3UHFsQjlpaG1fMzJyQzBBaUQ0emNFVDRBQUYzMWJXUUpaSWJ1WE44MEdBc1MxNHR1NjdkT3JDT3I?oc=5",
+   "published": "2026-10-22T20:31:28+00:00",
+   "id": "749c93a6981e",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Indian national killed in Saudi airport attack , 2 others injured",
-   "source": "thehindubusinessline.com",
-   "theme": "Géopolitique",
-   "link": "https://www.thehindubusinessline.com/news/indian-injured-in-drone-attack-targeting-shaybah-oilfield-in-saudi-arabia/article71610540.ece",
-   "published": "2026-10-22T10:30:00+00:00",
-   "id": "68215ee295a3",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Deaths from attack on Saudi airport rise to 2 - Xinhua",
-   "source": "english.news.cn",
-   "theme": "Géopolitique",
-   "link": "https://english.news.cn/20261022/9fc64639e0864d309c183b1ed971523d/c.html",
-   "published": "2026-10-22T10:30:00+00:00",
-   "id": "d03006884b60",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7462,7 +7462,8 @@
   "news|33a290c6f0f6": 1792719977.4792929,
   "news|045bc361929c": 1792721772.3125885,
   "news|9ecfd5e5c3ff": 1792723571.1260364,
-  "news|994a1fb9ed0e": 1792723571.988317
+  "news|994a1fb9ed0e": 1792723571.988317,
+  "news|749c93a6981e": 1792724502.6867902
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7629,6 +7630,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T03:01:42.686869+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US orders diplomats, families to leave Saudi Arabia as Houthi attacks escalate</b>\n📰 Scripps News · Jeu 22/10 22:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUNnRmliM0VZVDFWOGVNQzBJdC1DSENnejNMbGgteDJBZnhIT0Fyb3ZucDN0UjRpMzdwUUJZdTNpX01GakJja3ZTNWN4VndtTGhzQXpFZmtxeENJbnM2aDlZX2JCUXU1RXlLRFN4MF9KLUVCZHgydzlaNkNLdWJWWlN3Um9aNVc3UHFsQjlpaG1fMzJyQzBBaUQ0emNFVDRBQUYzMWJXUUpaSWJ1WE44MEdBc1MxNHR1NjdkT3JDT3I?oc=5"
+  },
   {
    "ts": "2026-10-23T02:46:11.988436+00:00",
    "kind": "news",
@@ -7923,11 +7929,6 @@
    "ts": "2026-10-22T19:16:14.829367+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump links Iran’s actions in Hormuz to rising oil prices</b>\n📰 Latest news from Azerbaijan · Jeu 22/10 21:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHQ1UDRRR01jY1JBNWh3QVhUN0VEUnZnaDVQd1BGTzR0d1Y1MkV1QUR6dnhyR0dWUE0xN1o4NE52MHpxTk5uY1ZPd0FfSGJtdU81N3pmaGJFeHZlSVpqMzVveGl5enpLbXRta29iY1VrNTJsb2dFcG9Bb2ZUYjgtck1RZw?oc=5"
-  },
-  {
-   "ts": "2026-10-22T18:46:09.991245+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>IDF denies Trump halted Iran strike, warns of dangerous miscalculation: 'Attack was never on the table'</b>\n📰 Ynetnews · Jeu 22/10 20:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EQlhvNE9DekFjaGFFRGg1QlVrTWQ2OEp5UFlEeEVaeDFmVE0tdExIWS1fQzUzVlpiMHE3Z2tXeXJfRTI0cERsNDlCQkkwcmFoOFlnSjJR?oc=5"
   }
  ],
  "daily_forecast": {
