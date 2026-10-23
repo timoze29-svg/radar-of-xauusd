@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792785676.6068099,
+   "ts": 1792790150.3770325,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "bb81032ffaf4",
-  "5b3ef6b0263a",
-  "fcf117ec8b9b",
   "d1609cbed4e9",
   "59fe0c9e73b3",
   "6bd6f83b981c",
@@ -3945,7 +3942,10 @@
   "014b4963e4ce",
   "176747caeb4e",
   "ef00df607531",
-  "c070582a99cd"
+  "c070582a99cd",
+  "8e5b15973588",
+  "d91268e02c56",
+  "a7d2c45cb82c"
  ],
  "news": [
   {
@@ -5377,6 +5377,18 @@
    "method": "IA"
   },
   {
+   "title": "WTI Climbs Above $101 a Barrel on U.S.-Iran Escalation Fears",
+   "source": "WSJ",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5",
+   "published": "2026-10-23T10:38:00+00:00",
+   "id": "d91268e02c56",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump accuses Iran of making up attacks and mines to raise oil prices",
    "source": "NewsNation",
    "theme": "Trump / Iran",
@@ -6334,18 +6346,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Blocage persistant sur le dossier nucléaire iranien préservant une prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia bombs Kyiv and Ukraine fires drones towards Moscow , despite talk of renewing negotiations",
-   "source": "internazionale.it",
-   "theme": "Géopolitique",
-   "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/23/missiles-strike-ukraine-s-kyiv-reuters-witness-says",
-   "published": "2026-10-23T00:15:00+00:00",
-   "id": "d219a6ca286d",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Intensification des frappes en Ukraine contredisant les espoirs de désescalade immédiate.",
    "method": "IA"
   }
  ],
@@ -7522,9 +7522,10 @@
   "news|40dd686d3640": 1792787495.5078082,
   "news|af069e392647": 1792787496.424717,
   "news|82ac864d472c": 1792789294.1103194,
-  "news|b381cc649570": 1792789294.9731848
+  "news|b381cc649570": 1792789294.9731848,
+  "news|d91268e02c56": 1792790172.0525982
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -7705,6 +7706,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T21:16:13.237982+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Fed (2 ans vs taux Fed) (-10), Sentiment news 24h (+9)"
+  },
+  {
+   "ts": "2026-10-23T21:16:12.052666+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>WTI Climbs Above $101 a Barrel on U.S.-Iran Escalation Fears</b>\n📰 WSJ · Ven 23/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5"
+  },
   {
    "ts": "2026-10-23T21:01:34.973419+00:00",
    "kind": "news",
@@ -7994,16 +8005,6 @@
    "ts": "2026-10-23T04:16:17.732986+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 036.80 → prix : <b>4 024.40</b>\nATR jour : 70.3$ | Pivot hebdo : 4172.8\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 683 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
-  },
-  {
-   "ts": "2026-10-23T04:16:16.371440+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi Oil Giant Evacuates Staff Amid Attacks By Iran-Aligned Houthi Rebels</b>\n📰 Radio Free Europe/Radio Liberty · Jeu 22/10 07:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
-  },
-  {
-   "ts": "2026-10-23T04:16:15.332116+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. and Israel preparing for possible attack on Iran after elections</b>\n📰 WBUR · Jeu 22/10 21:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE53T1hBbzdvV0JkWjRDZDF2d1QzMk9LZ1ZXVW5xc2VHVFBGZXNEZnkxLUN1TXVIcEtWbXd6TDJJVkIwRXY1dDIyWHhlWjNlRXB6NG52ZF9HTUxuUk42Tk9jZnM3SVk5cEU0c2lQOVBENA?oc=5"
   }
  ],
  "daily_forecast": {
