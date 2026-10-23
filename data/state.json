@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "6a43f845fa29",
-  "d38e15891939",
-  "e8c1144ef208",
-  "5cf14f9bd4d2",
-  "60e86565ddd7",
-  "fe7b66b2a3a0",
-  "c08be71fc0dc",
   "661590c06c12",
   "93eb8b3c1d3a",
   "635864a5a599",
@@ -3945,7 +3938,14 @@
   "84268e35c893",
   "83f85331ea45",
   "a83a03e0cdb3",
-  "1783c6108c81"
+  "1783c6108c81",
+  "aaef55ac7d5b",
+  "95fdd6da33c8",
+  "80352fd400eb",
+  "268237d5b97d",
+  "c1a6fce65688",
+  "8776f18003f9",
+  "40703b958f42"
  ],
  "news": [
   {
@@ -5581,6 +5581,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Israel shares intelligence with Saudi Arabia as strikes weaken Houthis",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fSG1STS1iN3NNLWUxMHlJZzB5dDl5R1c4U3J1OHlJZGRIQ2FUajZiZzNwblJEWEg1cmJPdFh1N3RRaFAwb2NjdHh6ZE8wSjhzVjk0cHRUZVRIVUg3?oc=5",
+   "published": "2026-10-22T16:59:54+00:00",
+   "id": "80352fd400eb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "U.S. Dollar Moves Away From Session Highs As Treasury Yields Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
    "source": "FXEmpire",
    "theme": "Dette US",
@@ -6334,18 +6346,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Report anticipé des frappes diminuant la probabilité d'une déflagration militaire immédiate.",
-   "method": "IA"
-  },
-  {
-   "title": "Benjamin Netanyahu, Katz's warnings of Iranian strikes could lead to attack",
-   "source": "The Jerusalem Post",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSEUweENJV0J2dDlKSkVJZ2dkWkJTbEc3ODA5V0FhSjhacVRqNlpmbmNodnVmZ2NfN2t1d2VYNjdsLUMzV1pRN0ppZk5mS3ZKNHNCVWFmVXoxVTVqRGV1d2d1YS1rVnl2NVVkeVNB?oc=5",
-   "published": "2026-10-22T11:05:40+00:00",
-   "id": "224ba9bbaf7d",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Mises en garde israéliennes augmentant le risque d'une confrontation armée imminente.",
    "method": "IA"
   }
  ],
@@ -7470,7 +7470,8 @@
   "news|d45e936626b7": 1792728974.3213887,
   "news|e33a6d507f2e": 1792728975.3317587,
   "news|8955c77f13a4": 1792728976.3711345,
-  "brk|GOLD|pdh|dn|2026-10-23": 1792728977.7329304
+  "brk|GOLD|pdh|dn|2026-10-23": 1792728977.7329304,
+  "news|80352fd400eb": 1792729885.8760183
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7637,6 +7638,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T04:31:25.876109+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel shares intelligence with Saudi Arabia as strikes weaken Houthis</b>\n📰 The Jerusalem Post · Jeu 22/10 18:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fSG1STS1iN3NNLWUxMHlJZzB5dDl5R1c4U3J1OHlJZGRIQ2FUajZiZzNwblJEWEg1cmJPdFh1N3RRaFAwb2NjdHh6ZE8wSjhzVjk0cHRUZVRIVUg3?oc=5"
+  },
   {
    "ts": "2026-10-23T04:16:17.732986+00:00",
    "kind": "breakout",
@@ -7931,11 +7937,6 @@
    "ts": "2026-10-22T19:46:18.361770+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war</b>\n📰 thegazette.com · Jeu 22/10 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.thegazette.com/news/national/iran-says-7-oil-tankers-attacked-in-the-strait-of-hormuz-as-fears-grow-of/article_07c02078-eb08-55d7-b0f1-e28234dca5e6.html"
-  },
-  {
-   "ts": "2026-10-22T19:46:17.348849+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US , Israel Reportedly Plan To Resume Iran Strikes</b>\n📰 powertalk1360.iheart.com · Jeu 22/10 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://powertalk1360.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/"
   }
  ],
  "daily_forecast": {
