@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "9315d0bfb6eb",
-  "f18bf496df83",
-  "a414932da942",
-  "76e2950de5ac",
-  "05a4b06f0f8c",
-  "ede33504c06d",
   "dc481b5dc887",
   "9b8e8d744e4e",
   "f834e3580820",
@@ -3945,7 +3939,13 @@
   "8694c26b519b",
   "91818c6af08b",
   "9f4cf347477d",
-  "c63f16698e89"
+  "c63f16698e89",
+  "ddc6e919d5c6",
+  "52ec0a540169",
+  "15eabeced5c8",
+  "446e83266bf5",
+  "9ebc2f84561a",
+  "5732a1799acc"
  ],
  "news": [
   {
@@ -3958,6 +3958,18 @@
    "impact": -6,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US envoy: There ‘absolutely’ could be a US strike on Iran ‘this weekend’",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUlCcUNURFc3ZlZXSVhDVkxjbGtiZEZIMUZfSHhQVEZQQmU2eTVBc0RHRmF1ZmNtXzA1eHVZdFZDUTZIbTZFc1ZiUjZGWEJ3MkxmclZDdVM3ekFkdkNUblRueG9mVE5JRWhDTUlJVm9QWDg3OVpnNlVOaDhldFp5Si14UkE4SmZKdDZmRkZ1bDZnQU9FV2FEUHAzVUMxRG41bFBfbWRONkFhd1N3bFpSdE9ibw?oc=5",
+   "published": "2026-10-23T16:19:52+00:00",
+   "id": "ddc6e919d5c6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5377,6 +5389,18 @@
    "method": "IA"
   },
   {
+   "title": "Surging oil prices have reinforced expectations of Federal Reserve rate hikes, pushing gold below key support levels to hit a two-month low.",
+   "source": "Moomoo",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjM2UnBucmJUWm9wM0EtSU5HQU1yTkhfYzVCcGtxUTA4RkhoZ3RwdXZYWG9OT2FUaXRzQ1pCTm5FdS1BLTliTFNUTDRZTVNzdmlnblgxdGgybUlVQ1Zkb1gyR2dZMkg4M1ZrVWJpZkczM2NuSlZ0czFnYmtnbWlLNHlyMFFaYi0xNHBJM1VtQ0RSQ2FaZTFEWXNPa1lxMnBlUktCb2o4WEtaWTlDMnp6cU9oR0haZw?oc=5",
+   "published": "2026-10-23T03:17:02+00:00",
+   "id": "52ec0a540169",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Newmont posts record profit even as gold output drops 8 percent",
    "source": "Startup Fortune",
    "theme": "Or",
@@ -6322,30 +6346,6 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "Pétrole à 113$ et risque de guerre stimulant l'or via inflation et refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "U . S . and Israel are planning for a possible post - midterms attack on Iran : NPR",
-   "source": "npr.org",
-   "theme": "Géopolitique",
-   "link": "https://www.npr.org/transcripts/nx-s1-6011514",
-   "published": "2026-10-22T20:00:00+00:00",
-   "id": "b6167f352f91",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Plan d'attaque crédible contre l'Iran alimentant vigoureusement la demande refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Crude Oil Soars Amid Rising Supply Disruption Concerns Due To Possible Fresh U . S .- Iran Attacks",
-   "source": "finanzen.ch",
-   "theme": "Géopolitique",
-   "link": "https://www.finanzen.ch/nachrichten/aktien/crude-oil-soars-amid-rising-supply-disruption-concerns-due-to-possible-fresh-u-s-iran-attacks-1036656452",
-   "published": "2026-10-22T20:00:00+00:00",
-   "id": "0b5f54ac93d3",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Flambée du brut et risque d'embrasement militaire au Moyen-Orient très favorables à l'or.",
    "method": "IA"
   }
  ],
@@ -7504,7 +7504,8 @@
   "news|9894eae1334c": 1792764104.7299907,
   "news|eb2d6b68cac9": 1792764105.7461712,
   "news|1228366fcd9e": 1792773964.2405026,
-  "news|ca70441678d7": 1792774900.2343128
+  "news|ca70441678d7": 1792774900.2343128,
+  "news|ddc6e919d5c6": 1792775764.5158472
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -7687,6 +7688,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T17:16:04.515939+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US envoy: There ‘absolutely’ could be a US strike on Iran ‘this weekend’</b>\n📰 The Times of Israel · Ven 23/10 18:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUlCcUNURFc3ZlZXSVhDVkxjbGtiZEZIMUZfSHhQVEZQQmU2eTVBc0RHRmF1ZmNtXzA1eHVZdFZDUTZIbTZFc1ZiUjZGWEJ3MkxmclZDdVM3ekFkdkNUblRueG9mVE5JRWhDTUlJVm9QWDg3OVpnNlVOaDhldFp5Si14UkE4SmZKdDZmRkZ1bDZnQU9FV2FEUHAzVUMxRG41bFBfbWRONkFhd1N3bFpSdE9ibw?oc=5"
+  },
   {
    "ts": "2026-10-23T17:01:40.234391+00:00",
    "kind": "news",
@@ -7981,11 +7987,6 @@
    "ts": "2026-10-23T00:16:18.799869+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump invokes Cold War - era Defense Production Act for oil production , refining</b>\n📰 wtvbam.com · Ven 23/10 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://wtvbam.com/2026/10/22/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining/"
-  },
-  {
-   "ts": "2026-10-23T00:16:17.758440+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US - Israel military planning : New strike plans against Iran being developed for post - US election window</b>\n📰 smh.com.au · Ven 23/10 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.smh.com.au/world/middle-east/us-and-israel-are-planning-to-hit-iran-again-once-elections-are-over-20261023-p617zv.html"
   }
  ],
  "daily_forecast": {
