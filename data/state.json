@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "35914c31f79d",
-  "5bdb91c08818",
-  "1a1d906310a7",
-  "2180af3d6fe3",
-  "15d1f91450ca",
-  "1108832207a0",
   "cd5a8d0f7791",
   "8dce514b6e05",
   "c90b50e57f2a",
@@ -3945,9 +3939,27 @@
   "d3b2ef8f51a8",
   "5386fb4e1d32",
   "eaf8c468eecd",
-  "d44fafc2e02b"
+  "d44fafc2e02b",
+  "f8e53613b5b6",
+  "de092e86b959",
+  "883a60cbf665",
+  "13b53ce996a9",
+  "7fdc1805bac9",
+  "4f6c969252ac"
  ],
  "news": [
+  {
+   "title": "US and Israel Draw Up Iran Strike Plans for After November 3",
+   "source": "houseofsaud.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZnBJZi03VGFvQWg4YVZYdHk5Mjd0RzQ2YXc4TG1reFJ6RWw0dTd5Z2lUWWFXbGc1TzhjUmctYW1NY1poWWk2dTh1NHJrTDhuSTJoT2tIZkRDRjJhMElXbjVRXzRpQmM?oc=5",
+   "published": "2026-10-23T10:38:02+00:00",
+   "id": "883a60cbf665",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Port Huron mayor welcomes Trump to Michigan city hurt by tariffs",
    "source": "Detroit Free Press",
@@ -5749,6 +5761,18 @@
    "method": "IA"
   },
   {
+   "title": "New Zealand Dollar loses ground as inflation eases in third quarter | FXStreet",
+   "source": "شبكة تواصل الإخبارية",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ESDhyOG5rdVhaWTIzckZlb1dKbUxCaHM1anRDNWRhdmRJWWxOeHN5ZC1iYlJwdEo1clJITXY0NFRuRm1sempQY2ZaRUw2RWk0eURZ?oc=5",
+   "published": "2026-10-22T18:05:01+00:00",
+   "id": "13b53ce996a9",
+   "impact": 4,
+   "cat": "inflation",
+   "raison": "haussier or (inflation)",
+   "method": "mots-clés"
+  },
+  {
    "title": "President Trump considers next steps in Iran war as tensions escalate",
    "source": "CNBC",
    "theme": "Trump / Iran",
@@ -6322,30 +6346,6 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "Menace d'un conflit imminent USA-Iran amplifiant nettement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia hits Ukraine with missiles , drones after agreeing to peace talks",
-   "source": "wvtm13.com",
-   "theme": "Géopolitique",
-   "link": "https://www.wvtm13.com/article/russia-ukraine-missiles-drones-peace-talks/74213360",
-   "published": "2026-10-22T12:15:00+00:00",
-   "id": "4441479a4a1a",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Poursuite de l'escalade militaire malgré les pourparlers, maintenant une prime de risque active.",
-   "method": "IA"
-  },
-  {
-   "title": "Russian President agrees to resume three - way peace talks with Ukraine , US",
-   "source": "channelafrica.co.za",
-   "theme": "Géopolitique",
-   "link": "https://www.channelafrica.co.za/channelafrica/news/russian-president-agrees-to-resume-three-way-peace-talks-with-ukraine-us/",
-   "published": "2026-10-22T12:15:00+00:00",
-   "id": "6e0edbd870b3",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Espoirs de désescalade diplomatique réduisant la prime de risque géopolitique sur l'or.",
    "method": "IA"
   }
  ],
@@ -7480,7 +7480,8 @@
   "news|d3b3dadeec76": 1792737090.7499087,
   "news|14fd50e97911": 1792741631.32075,
   "news|93c0e81e9583": 1792746240.9670117,
-  "news|3813029c09b5": 1792750565.7433786
+  "news|3813029c09b5": 1792750565.7433786,
+  "news|883a60cbf665": 1792752360.6210287
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7663,6 +7664,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T10:46:00.621080+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel Draw Up Iran Strike Plans for After November 3</b>\n📰 houseofsaud.com · Ven 23/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZnBJZi03VGFvQWg4YVZYdHk5Mjd0RzQ2YXc4TG1reFJ6RWw0dTd5Z2lUWWFXbGc1TzhjUmctYW1NY1poWWk2dTh1NHJrTDhuSTJoT2tIZkRDRjJhMElXbjVRXzRpQmM?oc=5"
+  },
   {
    "ts": "2026-10-23T10:16:05.743456+00:00",
    "kind": "news",
@@ -7957,11 +7963,6 @@
    "ts": "2026-10-22T21:16:17.427214+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U . S . and Israel are planning for a possible post - midterms attack on Iran : NPR</b>\n📰 npr.org · Jeu 22/10 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.npr.org/transcripts/nx-s1-6011514"
-  },
-  {
-   "ts": "2026-10-22T21:16:16.354823+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US , Israel Reportedly Plan To Resume Iran Strikes | News Radio 105 . 5 WERC</b>\n📰 wercfm.iheart.com · Jeu 22/10 22:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://wercfm.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/"
   }
  ],
  "daily_forecast": {
