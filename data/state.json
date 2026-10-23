@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792790150.3770325,
+   "ts": 1792794660.2806675,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "ce53c8fa9134",
-  "d80c20765515",
-  "625b359a76aa",
-  "e2b79b913677",
   "f2b0948e814f",
   "fee15cbb3689",
   "660f8369fbb5",
@@ -3945,7 +3941,11 @@
   "68a38f75f055",
   "6ae0fb423741",
   "96bf035e6ade",
-  "32983a287d5b"
+  "32983a287d5b",
+  "7f6864babaa0",
+  "485e6e674a9d",
+  "6a89c8a24453",
+  "9801c72be0fe"
  ],
  "news": [
   {
@@ -3967,6 +3967,18 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVFPSXgtS0gzRzNiUUtEYVNscDdET3NHd0RPVFktY2Z5YXA5bEotZUh3Tnk0YkZYck54R3lDZ0dmTlJKT0JLbDFSTnVTWklPT3dvQkFHaHhWeDJUbGRlVWtLcWlwUmhiV1NsNEpXRFRyRTR4dGNVZjlYSE1zdnV0WW1BdHhDWW1zNlBCdHNMRmhXbjlaZDQxT21vTVRZNXdLZUJVQTB4NE1hTmVqeU9IcnEzNU11clhOUUNuaFc5Nkh4aThnWldTci05aw?oc=5",
    "published": "2026-10-23T22:09:00+00:00",
    "id": "6ae0fb423741",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins",
+   "source": "Reuters",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
+   "published": "2026-10-23T22:07:23+00:00",
+   "id": "485e6e674a9d",
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
@@ -4079,6 +4091,18 @@
    "cat": "commerce",
    "raison": "Assouplissement des droits de douane canadiens atténuant le risque de guerre commerciale.",
    "method": "IA"
+  },
+  {
+   "title": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
+   "source": "WSJ",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
+   "published": "2026-10-23T20:33:00+00:00",
+   "id": "7f6864babaa0",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Changes Some Canada Tariffs in Bid to Aid Maine Senator",
@@ -5569,6 +5593,18 @@
    "method": "IA"
   },
   {
+   "title": "Wash faces a tough challenge next week: halting rate hikes is easy; how can he anchor inflation expectations?",
+   "source": "富途牛牛",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRmMHhxVTFyNzRGdDlOVWVwVjlXQklxYmlEeXVFSlRJTWEwZWFMdDB6X2JfY1NrZlRfVWFiQVNTeWY1bkgtQXlvN2NybXhKbHZxa3E5dHdnbFBVQWFFRHhLYlh5YVNQU1Y2VTg1bmVkNHVLT0M3X3NVLU9obHZkUVdocGgxVlRQWFUxcTltX2I3NE5ydEpyaTBoaHNnQWIwLXc?oc=5",
+   "published": "2026-10-23T09:45:00+00:00",
+   "id": "6a89c8a24453",
+   "impact": -2,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
    "source": "CNBC",
    "theme": "Russie/Ukraine",
@@ -6311,42 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Rappels de tensions persistantes au Moyen-Orient maintenant un plancher de précaution modeste.",
    "method": "IA"
-  },
-  {
-   "title": "Israel And U.S. Unlikely To Strike Iran Before Elections – Analysis",
-   "source": "Eurasia Review",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUjBKck9qcVJiQzhNdDFzbUl0R3Uzcm81SjdwWXhsZ2hXdWhSUlFXV3BBV2RuOUFTNnhKUXVheXhMTXFxeVdQaXBSTWhIT09jVkpiQ1l0amltSlduUmhNcGJPUWFDeTh0b2NCSzc4c1FqUFo1c2RaZTNLUEwwTTRCejBaSVBaZ2ZZZnR3emJlaExVZlF0WmFCdTlSQnZXOGx5UjhWZ3RHcw?oc=5",
-   "published": "2026-10-23T02:07:29+00:00",
-   "id": "76029647aa9b",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Moindre probabilité d'escalade militaire immédiate, atténuant la demande d'or comme valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Napa Valley's wineries feel Trump's tariff squeeze",
-   "source": "Yahoo Finance UK",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDBGNUxScE1kc2QtWjdfc1hxRVh4Wk0wRDdhMFBOTnpSNy1mbHphcE51enNySlpGVmZJUjl4ZVVpZmREUmxseWhacHQzN01IQ3hXWlhRbG1FZXdUZWNzUUw0S2RZX3BxQ2o0RU5wb3RoUHpsX0V6WlhJT1pBNEFkaGNhNFZKTG5pX1E?oc=5",
-   "published": "2026-10-23T02:04:00+00:00",
-   "id": "d820576e0450",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Craintes protectionnistes alimentant de légers risques inflationnistes et de l'incertitude commerciale.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold prices today, October 23rd, are falling sharply, continuing towards their lows. What is the reason for Russia selling its gold reserves for 10 consecutive months?",
-   "source": "Vietnam.vn",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1daaFMyQnRYZGl2Z25KTlUwUEw2VVRsdFFOTkhCUmtNN2NrRkdNQzlFMFd3VWJaOVlKLWp3RkkwVWRHeVNfMDQwaG9laVlYMko2UEpBenZ2VTlxWmttRlh0QzRLdUZxMmdRUW1DUkk4Nzg0b0l5eWhaUVpmbWZfLXYxSnhMTlV6a1I1WGtlV3NGZkM3TlQ0bHBoUF94QzNObXFkaVRRd25zWHhrYXBrUmE5YXNrWUJ1UWpFdU92Z1p6SkpBZVI3SEhBdzdINzlF?oc=5",
-   "published": "2026-10-23T02:01:33+00:00",
-   "id": "a8ef9e216ab3",
-   "impact": 2,
-   "cat": "banques centrales",
-   "raison": "haussier or (banques centrales)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
