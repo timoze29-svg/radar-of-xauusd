@@ -946,14 +946,6 @@
   }
  },
  "seen_news": [
-  "983e37127045",
-  "272ec6ed186e",
-  "4b296ef2ee30",
-  "ec8002c48a98",
-  "1a166cfba526",
-  "70e319a7bb05",
-  "cc312d9e3281",
-  "977ab6c19621",
   "6a43f845fa29",
   "d38e15891939",
   "e8c1144ef208",
@@ -3945,7 +3937,15 @@
   "01faf83e7e34",
   "fa23cf66cb79",
   "4646ddf8c7bb",
-  "4021361dd58c"
+  "4021361dd58c",
+  "d45e936626b7",
+  "cc2b9629dbbf",
+  "e33a6d507f2e",
+  "8955c77f13a4",
+  "84268e35c893",
+  "83f85331ea45",
+  "a83a03e0cdb3",
+  "1783c6108c81"
  ],
  "news": [
   {
@@ -3955,6 +3955,18 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15Y0tmQUtleW55YUtIbjRIWFRhN2s5cFhNSjZnc1FQVTdBM0RpV1I5NWxtRmZrM1NlUXZ3YUF6MXM5THlid1VpdGhRMTI0YklhRjJpTXhYNi1BaFNKX3pNUXlrelhrdi12?oc=5",
    "published": "2026-10-23T03:39:42+00:00",
    "id": "4dbddda30a60",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Brags What He Told Vivek Over Vile MAGA Attack Ad",
+   "source": "The Daily Beast",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWMwZktJT09IaVJYaUJYMEhwcHRFUFpjM2FEU01OUGZseTQ4VVd2N1FkcnNnSHprUDN6bGJuekNlaXdZZFktYmtndE1Sckh1WHI4WXVWLVlKNTdXVHU4eW5wMnAwQklQUXVncXBUWkVYVFVDVTRXenhvZlJJb2tmUXRjaE5xTW14UWNjdHVIb01tNG1TRjFza2xfUQ?oc=5",
+   "published": "2026-10-23T03:28:00+00:00",
+   "id": "d45e936626b7",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -5293,6 +5305,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "U.S. and Israel preparing for possible attack on Iran after elections",
+   "source": "WBUR",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53T1hBbzdvV0JkWjRDZDF2d1QzMk9LZ1ZXVW5xc2VHVFBGZXNEZnkxLUN1TXVIcEtWbXd6TDJJVkIwRXY1dDIyWHhlWjNlRXB6NG52ZF9HTUxuUk42Tk9jZnM3SVk5cEU0c2lQOVBENA?oc=5",
+   "published": "2026-10-22T19:14:37+00:00",
+   "id": "e33a6d507f2e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump links Iran’s actions in Hormuz to rising oil prices",
    "source": "Latest news from Azerbaijan",
    "theme": "Trump",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Mises en garde israéliennes augmentant le risque d'une confrontation armée imminente.",
    "method": "IA"
-  },
-  {
-   "title": "Netanyahu, Katz's warnings of Iranian strikes could spur regime into attacking first, officials say",
-   "source": "The Jerusalem Post",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSEUweENJV0J2dDlKSkVJZ2dkWkJTbEc3ODA5V0FhSjhacVRqNlpmbmNodnVmZ2NfN2t1d2VYNjdsLUMzV1pRN0ppZk5mS3ZKNHNCVWFmVXoxVTVqRGV1d2d1YS1rVnl2NVVkeVNB?oc=5",
-   "published": "2026-10-22T11:05:40+00:00",
-   "id": "a721e7c0f10c",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque accru de frappe préventive iranienne amplifiant les achats d'urgence sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Could US advances in drone command give it an edge over the PLA in a Taiwan war?",
-   "source": "South China Morning Post",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR09fS0RZdEFiX2VwSjR4VHMxTUJRMVBpVmdRZHo0RkJLUmdLNHZ0QTJ2WjVobDUySjZUeFF3c0pXNXhoWWU2NTNEcHVqSk1IVWJGclliTkx3Rm5Eb2VmcE8zOEIxR0dZWlhkbHdGQlp1d3JQRnZBTnltVFpTR0Vjak9PZWV1SlBlZHNoQ3FxYldfWVNNYUFMNmEyRXFmaDYwazFLYzVsRG1SczBseWV3amFjMUdsc0xkeHpZd3ZVbTBDdGZ20gHEAUFVX3lxTE56YXZWSUthMFdjRVdrLUVZWnVRU1NzZEFiSjdManNwNFF4RV9TcTVfQ2Q0Sm9XdHZabDJ0WndaUHRSa3FmanBET0lXakpaMjFvX1YyMWFXMnZOVHRBdEdDT0JqNGVSZy1NeXdLZm5oMlVXZ0FWQ2NQeFp4VExHa1ZXLXVQWlhhZkhYZkQxNnhHbVFsOC1mQlNqUlFwQ3E1Y3c3T2E3ZzFIdHdpekdWSExDaW1Md0dZVlNZd05PTDNPRl9hakI?oc=5",
-   "published": "2026-10-22T11:00:16+00:00",
-   "id": "d3a73e813ff3",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7466,7 +7466,11 @@
   "news|749c93a6981e": 1792724502.6867902,
   "news|061d7f1b08bc": 1792725361.4468336,
   "news|21d3b7056e41": 1792726295.1098294,
-  "news|4dbddda30a60": 1792727166.8208263
+  "news|4dbddda30a60": 1792727166.8208263,
+  "news|d45e936626b7": 1792728974.3213887,
+  "news|e33a6d507f2e": 1792728975.3317587,
+  "news|8955c77f13a4": 1792728976.3711345,
+  "brk|GOLD|pdh|dn|2026-10-23": 1792728977.7329304
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7633,6 +7637,26 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T04:16:17.732986+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 036.80 → prix : <b>4 024.40</b>\nATR jour : 70.3$ | Pivot hebdo : 4172.8\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 683 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
+   "ts": "2026-10-23T04:16:16.371440+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi Oil Giant Evacuates Staff Amid Attacks By Iran-Aligned Houthi Rebels</b>\n📰 Radio Free Europe/Radio Liberty · Jeu 22/10 07:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
+  },
+  {
+   "ts": "2026-10-23T04:16:15.332116+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. and Israel preparing for possible attack on Iran after elections</b>\n📰 WBUR · Jeu 22/10 21:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE53T1hBbzdvV0JkWjRDZDF2d1QzMk9LZ1ZXVW5xc2VHVFBGZXNEZnkxLUN1TXVIcEtWbXd6TDJJVkIwRXY1dDIyWHhlWjNlRXB6NG52ZF9HTUxuUk42Tk9jZnM3SVk5cEU0c2lQOVBENA?oc=5"
+  },
+  {
+   "ts": "2026-10-23T04:16:14.321467+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Brags What He Told Vivek Over Vile MAGA Attack Ad</b>\n📰 The Daily Beast · Ven 23/10 05:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWMwZktJT09IaVJYaUJYMEhwcHRFUFpjM2FEU01OUGZseTQ4VVd2N1FkcnNnSHprUDN6bGJuekNlaXdZZFktYmtndE1Sckh1WHI4WXVWLVlKNTdXVHU4eW5wMnAwQklQUXVncXBUWkVYVFVDVTRXenhvZlJJb2tmUXRjaE5xTW14UWNjdHVIb01tNG1TRjFza2xfUQ?oc=5"
+  },
   {
    "ts": "2026-10-23T03:46:06.820910+00:00",
    "kind": "news",
@@ -7912,26 +7936,6 @@
    "ts": "2026-10-22T19:46:17.348849+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US , Israel Reportedly Plan To Resume Iran Strikes</b>\n📰 powertalk1360.iheart.com · Jeu 22/10 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://powertalk1360.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/"
-  },
-  {
-   "ts": "2026-10-22T19:46:16.385468+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran yet to deploy all capabilities , seeks terms to prevent new war : Top security official</b>\n📰 presstv.co.uk · Jeu 22/10 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.presstv.co.uk/Detail/2026/10/22/778935/Rezaei-Iran-capabilities-new-war%20class=column-beyond-headlines-h-p"
-  },
-  {
-   "ts": "2026-10-22T19:46:15.413831+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Bond traders are backing off Fed rate hike bets here what it means for mortgage rates</b>\n📰 aol.com · Jeu 22/10 21:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://www.aol.com/articles/bond-traders-backing-off-fed-180507000.html"
-  },
-  {
-   "ts": "2026-10-22T19:46:14.451804+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine , Iran , midterm voting , and the cost of war</b>\n📰 upr.org · Jeu 22/10 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.upr.org/podcast/both-sides-of-the-aisle/2026-10-22/ukraine-iran-midterm-voting-and-the-cost-of-war"
-  },
-  {
-   "ts": "2026-10-22T19:46:13.301861+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Ramaswamy ad, attacks DeWine over criticism</b>\n📰 The Columbus Dispatch · Jeu 22/10 21:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdm0zcnZ6ZEZqZTZhSUJ3cTcxa0lWNjR1b1ZYcHBUQVEyTzhLSnZBMUxKN1JhZHp6VzFER1NJZVB2ZF9NRklhdjE0RGdJUzZubkp2RHlHVE1MMExiTzl1YzRzOEZTTGozRnBBMkxQSHlJZVVhVUxHUmlGbm1CelVxTGVfckctb1lsV3pTVWxmN2gxTm9jamJjU3pza0VJS3l5NkFDMEVaYnpjYnEtUVV0Q0dZdzh0VnAxZWpjT3EyTHRoLUhUd01FUXhEcVpfTTBFbXc?oc=5"
   }
  ],
  "daily_forecast": {
