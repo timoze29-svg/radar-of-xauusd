@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "6db197bedc5c",
-  "3d9c9e2e432c",
   "91cba001a212",
   "fed1f377949a",
   "55477762397f",
@@ -3945,7 +3943,9 @@
   "96d3a6a91bc8",
   "c7f56356474e",
   "46c0797acda3",
-  "1196270ee727"
+  "1196270ee727",
+  "15561a180232",
+  "3e05a731d0a8"
  ],
  "news": [
   {
@@ -3955,6 +3955,18 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMXEyY09IRXU4YnZ3SGVxcjBaTkZub1Rjc3JBSnFIWU16VDNhUlNmTlpFVXNYSC03QWFrUTE0VDZfWDBuRy1BTzhGMnhweDg3Z3c?oc=5",
    "published": "2026-10-23T11:32:09+00:00",
    "id": "0ddec9c7aa67",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared",
+   "source": "NewsCord",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY3U4OEVUVV9BS2FyZDRjVm9tajNZYlMxdVJSX09xTlNRU2RnUEZNVmJwaGxFSUJibjZhTm14YmN4d0hOOFM3c2EwaF8zbTA0dVV6bzJERkFZT09oWExfWUVNR0ZTVHZHS0UtZ2ZCTkpCazRReXdhSS05VHFpRm9mbG9NTVR3YXRlNDh0Rjd5em5uWHYxYkxPZUlwcmFfXzh1M3FvMXNkSVhzMkZhRGhsSmY4cm10LTF4bzdvcVdPSDJOSjl0YmJ0UmdpWmlmVjJPWVBROWZrblU5bEt1LTFFSWNuOFBhVEFGZXc?oc=5",
+   "published": "2026-10-23T11:27:36+00:00",
+   "id": "3e05a731d0a8",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Pression sur l'énergie russe maintenant une légère prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Russia agrees to resume trilateral peace talks on Ukraine war",
-   "source": "France 24",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWWVSNG10MklGNFIwNVhUSWthYmNwMzBEQ3hIdjlybDZsbHRGVVlzX21VTUZqU2Z0YktHS1RvWEx3WV9MbEdoYzhHM1lvaE1tWTZITzQ2WHUxVE4yNlc4TGVuVlVKTTRyWFVvVGlTQ2x4TENGdzhkN2pXMjRRVFFDRmUwT0pzaGkwSnpDQWpFb2xPZEk?oc=5",
-   "published": "2026-10-22T13:34:34+00:00",
-   "id": "7692ad8cd0e0",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Perspective de pourparlers de paix réduisant la prime de risque ukrainienne.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7483,7 +7483,10 @@
   "news|3813029c09b5": 1792750565.7433786,
   "news|883a60cbf665": 1792752360.6210287,
   "news|469f7b920e79": 1792755084.151783,
-  "news|0ddec9c7aa67": 1792755973.2543895
+  "news|0ddec9c7aa67": 1792755973.2543895,
+  "news|3e05a731d0a8": 1792756900.3203852,
+  "big|COPPER|2026-10-23": 1792756901.6147184,
+  "rep|update|2026-10-23": 1792757064.8857398
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7666,6 +7669,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T12:04:24.001960+00:00",
+   "kind": "ny_update",
+   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4041.10</b>  (+22.9$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-2) → maintenant -13 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 47$ sur ~66$ attendus (71%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Alvarado distances himself from Trump on Iran war, tariffs in KY House debate with Dembo\n🟢 (+8) US signals prolonged Iran standoff as Trump weighs new strikes\n🟢 (+8) Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared\n🟢 (+8) US and Israel Draw Up Iran Strike Plans for After November 3\n\n🧠 Oui, le scénario neutre en range tient toujours avec un cours stabilisé à 4041 $ et déjà plus de 70 % de la volatilité quotidienne consommée.\nPour la séance US, privilégiez des micro-rotations ou l'attentisme, avec de légers achats tactiques uniquement sur le bas de zone vers 4025-4036 $.\nLe piège à éviter est de chasser un breakout directionnel tardif ce vendredi alors que le potentiel d'extension du jour est quasi épuisé."
+  },
+  {
+   "ts": "2026-10-23T12:01:41.614767+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.1330 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-10-23T12:01:40.320467+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared</b>\n📰 NewsCord · Ven 23/10 13:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY3U4OEVUVV9BS2FyZDRjVm9tajNZYlMxdVJSX09xTlNRU2RnUEZNVmJwaGxFSUJibjZhTm14YmN4d0hOOFM3c2EwaF8zbTA0dVV6bzJERkFZT09oWExfWUVNR0ZTVHZHS0UtZ2ZCTkpCazRReXdhSS05VHFpRm9mbG9NTVR3YXRlNDh0Rjd5em5uWHYxYkxPZUlwcmFfXzh1M3FvMXNkSVhzMkZhRGhsSmY4cm10LTF4bzdvcVdPSDJOSjl0YmJ0UmdpWmlmVjJPWVBROWZrblU5bEt1LTFFSWNuOFBhVEFGZXc?oc=5"
+  },
   {
    "ts": "2026-10-23T11:46:13.254475+00:00",
    "kind": "news",
@@ -7950,21 +7968,6 @@
    "ts": "2026-10-22T21:31:30.328547+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran</b>\n📰 russiaherald.com · Jeu 22/10 23:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.russiaherald.com/news/279393163/nasdaq-dives-2-6-as-u-s-and-israel-gear-up-for-more-attacks-on-iran"
-  },
-  {
-   "ts": "2026-10-22T21:31:29.380899+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US , Israel Reportedly Plan To Resume Iran Strikes | News Radio 1410 AM &amp; 100 . 9 FM</b>\n📰 newsradio1410.iheart.com · Jeu 22/10 23:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://newsradio1410.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/"
-  },
-  {
-   "ts": "2026-10-22T21:31:28.343937+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Qatar , U . S . discuss regional de - escalation , freedom of navigation in Hormuz Strait</b>\n📰 bignewsnetwork.com · Jeu 22/10 23:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.bignewsnetwork.com/news/279393197/qatar-us-discuss-regional-de-escalation-freedom-of-navigation-in-hormuz-strait"
-  },
-  {
-   "ts": "2026-10-22T21:16:19.462232+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>UAE Residents Alert : Saudi Attacks , Hormuz Tensions , and Travel Updates</b>\n📰 gulfnews.com · Jeu 22/10 21:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://gulfnews.com/uae/what-uae-residents-need-to-know-today-october-22-king-fahd-airport-attack-hormuz-tensions-and-travel-disruptions-1.500720130"
   }
  ],
  "daily_forecast": {
@@ -7978,9 +7981,9 @@
   "ai": true
  },
  "ny_update": {
-  "date": "2026-10-22T12:01:54.163559+00:00",
-  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4078.40</b>  (-27.7$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-16) → maintenant -13 (Neutre)\n✅ Le scénario baissier TIENT\n📏 Range fait : 90$ sur ~63$ attendus (143%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Seven Oil Tankers Damaged in Strait of Hormuz as Middle East War Fears Escalate\n🟢 (+10) Oil Prices Climb Amid Escalating Middle East Tensions and U.S. Strike Plans Against Iran\n🟢 (+10) Trump’s war and tariffs have battered Alaska. A pro-oil Democrat could flip the key Senate seat\n🟢 (+10) Iran: Oil tankers are on fire, damaged in key strait as fears grow over return to war",
-  "ai": false
+  "date": "2026-10-23T12:04:24.885716+00:00",
+  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4041.10</b>  (+22.9$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-2) → maintenant -13 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 47$ sur ~66$ attendus (71%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Alvarado distances himself from Trump on Iran war, tariffs in KY House debate with Dembo\n🟢 (+8) US signals prolonged Iran standoff as Trump weighs new strikes\n🟢 (+8) Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared\n🟢 (+8) US and Israel Draw Up Iran Strike Plans for After November 3\n\n🧠 Oui, le scénario neutre en range tient toujours avec un cours stabilisé à 4041 $ et déjà plus de 70 % de la volatilité quotidienne consommée.\nPour la séance US, privilégiez des micro-rotations ou l'attentisme, avec de légers achats tactiques uniquement sur le bas de zone vers 4025-4036 $.\nLe piège à éviter est de chasser un breakout directionnel tardif ce vendredi alors que le potentiel d'extension du jour est quasi épuisé.",
+  "ai": true
  },
  "track": [
   {
