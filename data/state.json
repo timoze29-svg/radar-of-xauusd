@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "76f0bf8f0200",
-  "b6801dcb983f",
-  "78b322db847b",
-  "f322fdea80c4",
   "8b654d786ef5",
   "562e7da5eaba",
   "840876d2c36a",
@@ -3945,9 +3941,49 @@
   "525beaf64ba5",
   "49bc39f594ec",
   "38d1b9b2a97e",
-  "000a49155033"
+  "000a49155033",
+  "105f112e7969",
+  "21e206dc2f15",
+  "2d0f415a75f6",
+  "49a0b97e84c6"
  ],
  "news": [
+  {
+   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWE5NNWNfS0NVRTFRcmNVZk1BVTZMQ25KRVpwS3hlWXZia1k3Um1MNTA0RGlvRi1IdmdVa180dXZpSWRDRzlCM2VCVll3UHlvcUJWQjlKX0xJeDg?oc=5",
+   "published": "2026-10-23T09:36:43+00:00",
+   "id": "2d0f415a75f6",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold Price Forecast: Goldman Retains $5,400 For End-2027",
+   "source": "Exchange Rates UK",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3dENlNxZ0xJYnc3WXdQbU5tMElLUnpOcDlNdTRiOURuM0w5cm40U0FBbDhCOVcwTmhCRDNxeGxQcDJuVXpDWnE5Rm1McUdsY1kzLXhWRWtTTWIyaWFsNGV3bjN6Q2g4eU9McTFRdDd6VkVUYVZzSFIxQmU3MHgzYk42a25mbmFsdV9zbjFQRmlCejR5RUktTnZiWHI5M2ZzVkI5eGpzTUxkVEdmM3lLRy1ITGs?oc=5",
+   "published": "2026-10-23T09:30:00+00:00",
+   "id": "21e206dc2f15",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
+   "source": "The New York Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWs1SUdKS19URU9XZlFTcGdnQmVPVmxhbjE4NW9GNjU0RGFZdDRrUVpkS1Rqa202cC0yRkFUNWd6cGlWRWFGbE1leWFreGw0OGN1X25Tb2loS2RwNm0wZlFIZXFJeVJTZU5YR1hQZUlhOE5nTmZCVDN1MzNRaHFQMUcyNFRfdlFVYmc?oc=5",
+   "published": "2026-10-23T09:26:55+00:00",
+   "id": "49a0b97e84c6",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Treasury yields rise as traders await more economic data ahead of Fed decision",
    "source": "CNBC",
@@ -3969,8 +4005,8 @@
    "id": "110a9616c13e",
    "impact": 0,
    "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "raison": "Article historique et anecdotique sans aucun impact sur les flux macroéconomiques.",
+   "method": "IA"
   },
   {
    "title": "Trump claims we've beaten Iran. But US isn't close to victory | Opinion",
@@ -3979,10 +4015,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFdaYVQ3VE5iYm5OUHRoZlJObEwzNjlkSW5MQlNwUDRkSldYZ2pYMG82RUwwTGh4MkoyNGhQSWtfd0NtemJTa2pIV3NrUzIxcDJ1M29lZ1hDdXJ6WVFiRTIwUUJDd1lDMmpLdFVkM1B6alNFWnQ1UnktZVdaWl9hNVNlX3JzU2VkM2NqWmdzNHhOejRJUWFrVnFsTWk0TlM2bGgwa3pzSEdzcGM?oc=5",
    "published": "2026-10-23T09:08:00+00:00",
    "id": "090d7eca1ac3",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions persistantes avec l'Iran maintenant une légère prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "When Housing Falters and Inflation Persists, Gold Stands Strong",
@@ -3991,10 +4027,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXNfSjdhQkxoZ2lRNFg3bjZfNDJ5V19XbGJCRnZUZGtMNldSSlVld2lldFhoN0hUeEN4djAyTk1jYjFFbUt3Nml0Z3AxZEVtd2ZGVTlvVlB1WUtPX3JKMm5DWVpNSF9DVng3LVhBNDVIcEtiSlp4Y1NUREw5VmlUMHV0V2VEd0k1?oc=5",
    "published": "2026-10-23T09:05:36+00:00",
    "id": "d746c6eb8200",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "inflation",
+   "raison": "Narratif classique pro-or en contexte stagflationniste, mais sans catalyseur de marché immédiat.",
+   "method": "IA"
   },
   {
    "title": "Iran’s mountain shelters offer Taiwan a China survival playbook",
@@ -4003,10 +4039,10 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0R5SmpuNjdnZnBsT0k3d0k4bVA0cGdxVFZjUWxaOXBHcFNJUS11aXFFS2tyNm9qQUI5N1NkUVVTOTVqLS0ya0dJSGxiS1V4QXI5S3VkdTF3UkJBcmlaXzgzVlVuRE1XRlkxZEFJMk13c3pfSzNNcnZnbU04dzNpQ0MzSW1PV0NUX0ozbFBXOW5MUlYzQnEzMg?oc=5",
    "published": "2026-10-23T09:05:16+00:00",
    "id": "acd2ab6347c4",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Rappel des frictions Taïwan-Chine soutenant très marginalement le statut de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Canadian Cheese Was About to Become the Next Big Thing. Then Came the Tariffs.",
@@ -4027,22 +4063,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUUtV1hHSnRkalE3anI3b3FUeVF0Nlp5N01keWdHcWRGQnBQV1BXLVhuVFRXVklVWkdJWGZyU3Zyd3ozbTducDN0U0pOcWdwRWlQVGtSWkRlTnItcmlTdlpZQmpwVG9xNEo1WGZucHBQanM2dEhqeXhYZ2lfZHJTbEx0cWY4UC1LUEtpTmpVUXZaOFplaHdXc1lpRkNmU2M5aTN6MmFwbUQxdkJwOXNOR0ZhYVk3NHpwcVJ6cjJuUDBTSGs?oc=5",
    "published": "2026-10-23T09:01:22+00:00",
    "id": "5dee6b261817",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump promised $2 gas and cheaper groceries. Here’s what voters got instead.",
-   "source": "NBC News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXFFQnhNYUFlWldmdWxKZEc4UjVwaFZVamVmSXVZVVh2UE1XaXpnVGxlVzhYdThBRTJlQ1FQLUZCVXQyLWFrY242MUhEMGdVbXZJOU1sSDItMVhmYks0djZaWl9DX1dZOFNTaEpGd0x4R2VSUjVNelYyODEyQmYxTWJMVDNlU3NZaXZscUdKWTBSNU9KWnpMck1fck1GWHgzMFExSzhhUHI?oc=5",
-   "published": "2026-10-23T09:00:00+00:00",
-   "id": "8e2d1c7f63c6",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "raison": "Escalade au Moyen-Orient et pressions énergétiques soutenant simultanément prime géopolitique et inflation.",
+   "method": "IA"
   },
   {
    "title": "The Democrats’ looming trade battle",
@@ -4054,18 +4078,6 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "Incertitude commerciale modérée, impact direct marginal sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Typhoon Champi Grounds Taiwan: Nearly 1,000 Flights Cancelled",
-   "source": "MiGFlug",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNEVmRGIwOW9hSTdLX3ZrUFVsRUdIT3JMUWREczdfOW94WVpKZ2JBNWFNSVlKNmFlRWktM1NwMktkNXNrOUVkMk1tMy1BcUZUNy1TSjBTTzY2MFpONEhWOUdlZ3NZNDVxc3IwQkN4b2hLd2xqOXV5X0FzbjlSM25CbkYycw?oc=5",
-   "published": "2026-10-23T08:39:43+00:00",
-   "id": "8eaa781e5c60",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Événement météorologique localisé sans incidence macroéconomique sur l'or.",
    "method": "IA"
   },
   {
@@ -4093,28 +4105,16 @@
    "method": "IA"
   },
   {
-   "title": "Typhoon Champi: 979 Taiwan Flights Cancelled",
-   "source": "MiGFlug",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3gtWGJfUmVHODA5YmU1SWwwM0NFRFc4bnhDUkZDNFpJRHZ1bVlwRzNDSnNBZ2M2bWhTNkpuY2VTMEdVNHNBQ3I1aTQ0V3dQWG1kWEM5VDlVR0xhRFRaMXJKM0ljMmhBaW1LNkhadzVYaVVLN1NFMGI4M3pYMXpobVhmZG5NcXM?oc=5",
-   "published": "2026-10-23T08:32:27+00:00",
-   "id": "c4ccde2ed095",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Perturbation météorologique locale sans impact macroéconomique ou monétaire sur l'or.",
-   "method": "IA"
-  },
-  {
    "title": "US think tank report highlights Chinese interference in Taipei race",
    "source": "Taipei Times",
    "theme": "Chine/Taïwan",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzUlJBNDVLNUFDMUF4TUJBQVozdGtNcTMtcWdJRzQwS0R4eDJDZnllNmJkNmtyVWZjVmVoc0VuaVBoc2drZ2ItSzU4V1BfOTg5V1JsQm9ka1RXcG8zMnF4cGxUM3kxWFE2eFJzdjd1TGpWS2xycWVpYXRB?oc=5",
    "published": "2026-10-23T08:27:43+00:00",
    "id": "50576f6723d0",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions sino-américaines récurrentes offrant un soutien marginal mais continu à l'or.",
+   "method": "IA"
   },
   {
    "title": "Bring the gold home. Build the market at home",
@@ -4123,10 +4123,10 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGRIS2RGUlU5OFpOUDdldDRQVmJmMmFFYzg1SnoxbDBVSjJ6Y1pyRVp0cEhFcW9OYjB3QlJibFVSLWlzdk1vbHpNblRrd0FGRTFPRDZUQzEtclhaSG5Gc2tLQll3Q3Foenl1WlFKMk13NUZOcllaeU1TMC1zLUlaTFBRaVlLV0N5UzJ5ZlJWU0NvUjUwcTQ2T1Q5UUYtWF9MdEHSAacBQVVfeXFMTjdLYXN6SFRwblpsTHkzM1VVdGRuRWJvLXN2WGt2STA1eHhZTldxQ2hlQVh6RXlQc0d4Tm5XOFZSRV9RU3R0bkQyY2kxOUN1VXlVOUJvQk5ubWdHOXR4Z2t2Ujd2VFkyME1MUjdiYXpwWU1nQkF4RER4SXhyVjcwVVEzMDBJTmZYQWl4R0NjRGtlQXpUcGlzNFREVVotR3dIM0FRUGNkNUk?oc=5",
    "published": "2026-10-23T08:24:51+00:00",
    "id": "3c61e89d77dd",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 2,
+   "cat": "banques centrales",
+   "raison": "Tendance au rapatriement physique et dédollarisation des réserves soutenant la demande structurelle.",
+   "method": "IA"
   },
   {
    "title": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
@@ -4135,10 +4135,10 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVdqWGphNTRXVENIcWIzd0kyYkFXcUxSdzAxclNsbFdzRFI5cnEyc1RHTHlPLVEzeGM3SmUzbTJRbXFsSW5RZm5yMW1xSGxpLUwteWZFb3lfUm5nXzFhUndPdFl4YzVZTXF3c3UyZGY4YWxLRGs4aG5Fd3MwX1BLNkljaU9KdFc0SGduVEczZFdoRl9YakxxT01hUm1IZFFlcHFILTZnQ3NmeTlaR3VuOVpja1lBeVFYajRoNEUyVzFoZF82Z0FTeXpPdWZ2c0kwZ01vRzhiMA?oc=5",
    "published": "2026-10-23T08:16:40+00:00",
    "id": "19de8a366c97",
-   "impact": -6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Évocation de négociations de paix susceptible d'éroder marginalement la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Gold Falls as Oil Rallies, Testing Which Miners Can Absorb the Hit",
@@ -4351,10 +4351,10 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaUZPUEplazkzMDJjTzQ4QjAwa1hpQ2dEa1hQTlJIS1Y0VmNMN09GX3pwYktpYzVTSWVKZmVrNFVsdFJDb2RQZ05wRjFzRUZnTU1jdDZzR1lEdVdLZmprNEJSaUZMVFNxb3BmMGFjSzNqQWdfUnZBM0FRTEdUQlV5bkdHNk9WTmh3WW1QMFZOU0Fud1VMU1VVNGk5b1pvYzJLd0s0bUlqbl9hYXM5czc2S1RJMlc3TURaVkE4YVpfNnVWMHNNWGpCeXNyREZoUHB5NWRPSjNXY2VfOXV0dnQ3UjhlYkI?oc=5",
    "published": "2026-10-23T05:30:00+00:00",
    "id": "0eac635cd479",
-   "impact": 4,
+   "impact": 3,
    "cat": "taux",
-   "raison": "haussier or (taux)",
-   "method": "mots-clés"
+   "raison": "Baisse des rendements américains et affaiblissement du dollar : catalyseur haussier classique.",
+   "method": "IA"
   },
   {
    "title": "Global Market: Japan’s core inflation accelerates, putting BOJ rate hikes in focus",
@@ -4507,10 +4507,10 @@
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYlp3V0E4YldVX1NOQXYwN0xJVzlMUVhacktOdVVWWEtQbUp0WUQ2Wmt2QjE1ck1SYUtISFRCcjFQZlRyZVhqU3pZNHhoSGY0ZlN3T1NoakRDOGduenlIdjN0S2pnTkJzQ253YjI0MlR2anhjZ0t0RWNwZHppclQ3bGZYdGFhOWlJRXU3bFFOb1h3ZmV4YzdhYlJIMjFkZWhRYkR2MVdlVE9SczdCX3VQRTM0WW56c2JpTURSWTFleFBhWEQxY0RUTTFoclB0UWhOVWFhWk03VTJMX1RsRWl6a3JIcDNTYXBj?oc=5",
    "published": "2026-10-23T03:41:59+00:00",
    "id": "fe2a75cb5c10",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "dollar",
+   "raison": "Resserrement de la BoJ renforçant le yen et pesant modérément sur le dollar.",
+   "method": "IA"
   },
   {
    "title": "US and Israel deepen plans to attack Iran after elections",
@@ -7481,7 +7481,7 @@
   "news|14fd50e97911": 1792741631.32075,
   "news|93c0e81e9583": 1792746240.9670117
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -7662,6 +7662,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-23T09:48:44.038519+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Fed (2 ans vs taux Fed) (-10), Taux US 10 ans (5j) (+9)"
+  },
   {
    "ts": "2026-10-23T09:04:00.967087+00:00",
    "kind": "news",
@@ -7956,11 +7961,6 @@
    "ts": "2026-10-22T21:16:15.277036+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The 10-year U.S. Treasury yield retreated to 5.00%, as the ebb in AI capital spending acts as \"alternative quantitative easing\" for the bond market.</b>\n📰 富途牛牛 · Jeu 22/10 23:00\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlY5TXZsam55RDFLcVdBYVJvUkdPaDJJd3F2MjRUb3ZUTzVhZHQtNi1HVjFlQzJWcUFIU1NKWm5pUTdpRms3Q0tuM0hmQU03VHdid0JnQUZRM1d6Zkx2V2pMQl9mN29idDJWQVVDN25RRkZUSl85a3R3UE01RC1CWnM4cjBTX2tGeFdEN3RHT0RxLWps?oc=5"
-  },
-  {
-   "ts": "2026-10-22T21:01:40.223414+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel drawing up plans to resume attacks on Iran post-election, sources say - ABC News</b>\n📰 Breaking News, Latest News and Videos · Jeu 22/10 19:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd2d2szU19XZzRNREJQdWV6OG1mRUhtQ0JTWXZYc3Jqa0FOdkFoWTF3b19JMEx3YW9XYkJRbXRlVHkxcWpPbWx3bVVydFBySV9yMW9tVFZRVWljYUNXeEEwNXMzSWJmeEdwdTZwaHh6VG52alZDQ3dmcU5NTXE4MWk1V0w4ZHMzX2FkNXUydndhTktR?oc=5"
   }
  ],
  "daily_forecast": {
