@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "d1c63bedb574",
-  "ee1de027457a",
-  "fce0f22adbb1",
-  "fa0f89c53d4c",
-  "a4905c7a60e9",
   "64ea001211d3",
   "b1ca04870548",
   "c0d936dc2460",
@@ -3945,9 +3940,26 @@
   "c69dc88bc603",
   "081be4448daf",
   "5f4e9bd9c1e3",
-  "81c5272fec03"
+  "81c5272fec03",
+  "40638528830f",
+  "22950c331a9b",
+  "f4e67693e209",
+  "d87c08fef71e",
+  "19c83b806df9"
  ],
  "news": [
+  {
+   "title": "US lawmaker to press Trump to expedite Taiwan arms sales",
+   "source": "Nikkei Asia",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2t3Y0wyc3NCUE5rWExBOExUTTkyMFY1V2x4X0hfT0VEMWQ2cGQwYXF3VFRmQmNiZjhpd2VEWHBxb2x3VThSdU1UcmU5bFJwR1YyaUt2LXZ1QS1hb0xpZ1FEUnZScF9oblB3cUFqREhJNzVBUmM5dndMbkRmQ0hxUllIODJhYmNLcjU2T1dvY0JTa2hyMXZRRG9lSkpYWUE?oc=5",
+   "published": "2026-10-24T08:39:00+00:00",
+   "id": "19c83b806df9",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Tensions sino-américaines accrues autour de Taïwan, apportant un léger soutien refuge à l'or.",
+   "method": "IA"
+  },
   {
    "title": "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street",
    "source": "The Motley Fool",
@@ -4990,6 +5002,18 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Craintes d'escalade régionale et tensions sur le pétrole soutenant la valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Iranian officials: Tehran has detailed plans to hit Gulf undersea cables if war resumes",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWJtNWhGS3FlUlgtRDMyOEpiUjlsNW5PTXB3aDJ3OUNXdXZzSHFvaThIU2FqM0MyRGd6SzRGYXJlc2dwR3p3bWtlaS1RSW9RVWsyaDRhSHVkOHJfZl9hak9Xbm1IZEt3eEdYdHhVaU5yRUg5ZnhpS29GdVdpWEZhM0l1MTVSZjdONGVSRVByVWk0dmZjbUZjdnJjUzlvNHZ0bUJCM0U4dVg4Zi1OMHAyR2JJeXlDaU50UUFDa3JPY0pubTVOT0VGc3ZMaUU?oc=5",
+   "published": "2026-10-23T19:44:52+00:00",
+   "id": "22950c331a9b",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Menaces d'escalade au Moyen-Orient ciblant des infrastructures critiques, renforçant la prime de risque.",
    "method": "IA"
   },
   {
@@ -6322,30 +6346,6 @@
    "impact": 2,
    "cat": "fed",
    "raison": "Perspective d'arrêt des hausses de taux et persistance de l'inflation favorables à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-   "source": "CNBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jdloyeFR3T0d0N211RjZ3YjJSUVM1alJQdVpBZmN6RzJ3Y2luazczV2diYXFaN2RLbTBpR28zYkJlaDBjemJmOGtsWnM5RUt5UUlKWElicG5DeXZSUVNENmZReGljd1NneTRWbm1fZERnaC1PYjFqci1nVdIBgAFBVV95cUxQVTY4c1JvUEQ5TFRMYlNIdG16TDZ3Mld0Z3FuRVBhX2hNSDJGZEFHZUxDZmNFblA4b3R0dUhwX1lTVGN5UzM2WENZZDdfNHhoclpWamJ1VzNRX0xKVnBESHhVbWZoRl9uS0p5cUdSUXVLQmEzMklqelQyOHRTLTduSA?oc=5",
-   "published": "2026-10-23T09:28:29+00:00",
-   "id": "9b7bd55119af",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Échec relatif des tentatives d'apaisement diplomatique, maintenant la prime de risque intacte.",
-   "method": "IA"
-  },
-  {
-   "title": "What is Pickaxe Mountain? Trump says US will hit Iranian nuclear site 'pretty soon' - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDBUM2pSVUtoLUJURTA4cTljdXU4czh6eVVsdHhIOTZOTC0zUS1ZVnkzbmo5bGtSc0V1XzZnUHFOal9IN2d6VFdqRV9Pb0pIUlBNdDVwMHR4enplWmxqRkpkMnNZMnh3VmdLTmRUWXo3RHNDT3R1OEM0MlJFZVpyQTVWdjBTLXJzdzI4TXVEVzM1aVdwY2pVV1YyM0EwX2vSAaQBQVVfeXFMUFVpcFM1Y2RpSUNoNTNFaU9QVjVIUFNKOTYwd25fM3pmOGNkeWpUbzViNENEVE5sM1RPazJQOTl5OHp5SC1seXZwbWNiNXhUUThLUFJzRHpZdkZNemZkMEFxUDlRejl0Vk84Qm9NeXJwREJrOXZxaXk3SEZrZ281enlDbGJmRXBBOV9fRlAtX2EyRVNRdVNYREY4bTZQZXNJT0ZQNG8?oc=5",
-   "published": "2026-10-23T09:14:38+00:00",
-   "id": "7b8226921a45",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Menace explicite de frappes imminentes sur l'Iran, déclenchant un vif afflux vers l'or.",
    "method": "IA"
   }
  ],
