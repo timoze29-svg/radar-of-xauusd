@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "3c2b17846cf9",
-  "cc9265024cb9",
-  "d6f88a36eb08",
   "749849ac3f45",
   "6c3b7b615604",
   "b70b5f664492",
@@ -3945,7 +3942,10 @@
   "2f2fb860cd40",
   "810d72108fc3",
   "38d3cc33baed",
-  "7aded650a73f"
+  "7aded650a73f",
+  "480e52ec5ac0",
+  "2911a9107f7b",
+  "17a5edd33e23"
  ],
  "news": [
   {
@@ -4223,18 +4223,6 @@
    "cat": "inflation",
    "raison": "Inquiétudes persistantes sur l'inflation incitant à des stratégies de couverture d'actifs.",
    "method": "IA"
-  },
-  {
-   "title": "'Fake News': Trump denies plan to remove White House press room, calls suggestion 'stupid'",
-   "source": "KATU",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQN2RZajJIWWd1UzRNUVpBNWxMWk54N2txYk1uUk9IZnl1ekd6YnRTRTB5Tjl6dWF3eWZaNWFfODYzZHdXM2xKSmRvNnl6UG1DaWdiWTdXQzNpSndIRkhnVzRndXUyb2xOdWFXaGFWSjZYRkJRS2wtbHlPbldiNHV4dDY2c196OVB4Sk02Wkpsa1pWZXRpcnk1VDc2VmtrRlMtY1Byakp1Q1QzUVctZzdGWUVVWnpYOXJEamJ3R3E0dVUzYjNTdjA0VVQweTZZVWZsYzFNSUowTGdxTGRFS0tCX3A0N2wyZk5jQTNUSnRGUlN6dkRTUC1NOXcwVDJoZTZSWktCc0RXRkljUnd1d3VPM1V1SmVubHF0WVZ5Y05rVUtpWF9hYVJ4VzlDUDdfbmtXbmc5NWVKQUZZRzU2VXd1azBRQXFUSVZwOHBXQTFueGtFUnZNTkVBQ0ZvSnFsa3lNVE5acmRpcmItcXhKa1RmNWV1aWMxMl9TUUVWNE5JSUhnY2JFSFdKTk9Nd1laSy1h?oc=5",
-   "published": "2026-10-24T13:05:31+00:00",
-   "id": "38d3cc33baed",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
   },
   {
    "title": "Trump Prepares for Iran Escalation After US, Israeli Elections",
@@ -4859,6 +4847,18 @@
    "cat": "géopolitique",
    "raison": "Inquiétudes d'embrasement régional au Moyen-Orient favorables aux valeurs refuges.",
    "method": "IA"
+  },
+  {
+   "title": "How Ukraine is targeting Russia's aviation and travel sectors with drone strikes on Moscow-area airports",
+   "source": "DW.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlE3TWQtWHpqNkRfZUVKUW5RVzdESHVoQ0dMaFNuTms5UU42X3hic1cwQ3d4S3hpcDBmaWNmZTF3LURROEhxZWJHa3ZackJlUmwyZjBiYjFnSDdjYVdWQWozUU9JeTdHVmpsaFFvSVVyTGpYUGFHbkZDV01JNzNFY3R2M1k2MVcxLVpyZXlWSkprdDZEX21mM2xkZWpHTHR4Y1HSAaIBQVVfeXFMUEdFdmx4WC1VYzJzUjJEWjlVN2tyU3dMR1VpX0JhTW9KTmhJbUZqWFl5Wkt5ZHJoM3k2UktnMGdYc3VWcC1nMVQtNkJkVmoweVpjQjdVWWpLMGdPai1CT1lFcEowb0hNVzZ4T0lsYW9QWjBjcHRVTUdpSE9oaEdKWnBjYVV2Y0pvNUotdG04YWx4VXpfT1lvQmtLeW15NVVtM0R3?oc=5",
+   "published": "2026-10-24T06:49:47+00:00",
+   "id": "17a5edd33e23",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump plans to shift some Canada tariffs",
