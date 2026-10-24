@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "4a0327a77ca4",
-  "8f2067147d53",
-  "6bda8564aad3",
   "b610a0030fba",
   "df688053e880",
   "00e3601241a2",
@@ -3945,7 +3942,10 @@
   "b30e4457f9e7",
   "274dd0c90cd2",
   "f8ad97fcb172",
-  "08562e561bf0"
+  "08562e561bf0",
+  "55530523a032",
+  "2d083620a477",
+  "30f26ffd724f"
  ],
  "news": [
   {
@@ -3967,10 +3967,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmQ0aGJteEloeU9EM3VtYWYzLUVQRll1bEp3Vy1RdmtxdTI4WUNZSVpsaFFXYm1YdHpoM2NyY0lUUl9fOXVKUHE1QWdGbjVqa3I0OHM2WjlOTm5rdXc4MWxOVHRXVUpPWEdIa3ZVaWRSaDZKbXQ1NlNzdUtvbi0ySVNMOWtrYzM1XzZnTGRPdFgwZXNCbDF6RGZfZHBSczRlRzBubGpZMEdmZw?oc=5",
    "published": "2026-10-24T11:40:00+00:00",
    "id": "be4c63220a54",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Apaisement modéré des tensions commerciales, réduisant légèrement la prime de risque et l'inflation.",
+   "method": "IA"
   },
   {
    "title": "Azmi Bishara: Trump has backed Netanyahu as his Iran war partner",
@@ -3979,9 +3979,21 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlB0cWFNT3FObDZjaHA5QlhfZWVYQS11UC1TcnFaZ2VlYmhVWm1PVzhob1NRMWNqSF84a2hzRlhtSFdIVkZnY1NCYUtUbDFpQVJ3M3RzVUJYQS1tQWVvbGJ5TFlzQTZuMVFvR0VLZ21zbkNvekxjb0JydXVqQmVCcVlYM1RuR0NjOHppcWlpSmRKYTg?oc=5",
    "published": "2026-10-24T11:05:30+00:00",
    "id": "5d7d7c3fe4fb",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
+   "raison": "Risque accru d'escalade militaire contre l'Iran stimulant les flux vers la valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Treasury Yields Fall on String of Weak Housing Data",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
+   "published": "2026-10-24T11:02:48+00:00",
+   "id": "30f26ffd724f",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -3991,10 +4003,10 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2wybjNPWnM4T3d0OEw5ekpLTVN6TWFxcjR1UnJIVXdTUFdBOHVNRy1kMUhNY3dsV3k1R2RKSWZYZ21EYXlMRi1TeVBva05WbXk0elBaMElmR0ZIN2xZaWp0ZTA3U0JTbkNRMkI2b3hRTno2eGVNR1M5ZV9tNWN0MTJBbnhEUVFkNzFRRHc2bkRyYjdsUlNMekNJQ0liRFVPOXZv0gGoAUFVX3lxTFBPWTh5NE1CTGJwQ19tYko3N0JBaXdDOW00T0pfbGRkRkhkcnFpa1U0WjNveEJsSm9heXJqWUpYNkVaVVExeGhkTGI2eVYtb3RvYUZOT0tyRjQ4Nmp2VXdPNVpGTEkyNlZqUnlrZkd4ZVZZNWFhTG4yTEdJZDQtU3pLR3lFa1I5a3MwYXFTU1ZYUnBOQUIwT1hUdHBIZEJvUkFjYU13ejFnUw?oc=5",
    "published": "2026-10-24T11:00:54+00:00",
    "id": "9ccf1699b04b",
-   "impact": 5,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Constat rétrospectif sans nouvelle impulsion majeure sur les marchés de matières premières.",
+   "method": "IA"
   },
   {
    "title": "Trump: ‘We’ll take care of Cuba on the way back from Iran’",
@@ -4015,22 +4027,10 @@
    "link": "https://www.ksat.com/news/world/2026/10/24/ukraine-and-russia-eye-new-peace-talks-and-melania-trumps-mission-but-steep-obstacles-remain/",
    "published": "2026-10-24T10:30:00+00:00",
    "id": "7b5fb11c08ca",
-   "impact": -6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Brazil Final Debate : Lula Hits Rival Over Trump Tariffs",
-   "source": "riotimesonline.com",
-   "theme": "Géopolitique",
-   "link": "https://www.riotimesonline.com/brazil-final-debate-lula-flavio-trump-globo-2026/",
-   "published": "2026-10-24T10:30:00+00:00",
-   "id": "68a2f1298731",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Perspectives timides de pourparlers de paix réduisant légèrement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
@@ -4039,10 +4039,10 @@
    "link": "http://www.argentinastar.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
    "published": "2026-10-24T10:30:00+00:00",
    "id": "f2f82d0b1419",
-   "impact": 10,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menace directe sur Ormuz et frappes US imminentes, puissant catalyseur pour l'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Iran readies plans to target Gulf undersea cables if US, Israel strike again",
@@ -4051,22 +4051,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQVNlT1haTm1KNTV6Z3lTem5JZnpzQnNpeGpjbXdSY3RCem8yNUdHWFF0RHd2N1pGWldLc0NwZGlWcGE0Nk5tM2k5Y3laR3JGdVBTZE1Wbzhncmp5eEhUMXR1LXA1UlREa2J4RHBySVdxcmdCNG9SQmI1XzcyaVFQdndIQ0tUbjBnWGlCeFF2di1LMS1HOHhLVkphMHhRejllSzJmcDhrOGlhcExtakJZeHlCYUVZYjZZZnFn?oc=5",
    "published": "2026-10-24T10:27:45+00:00",
    "id": "84c3b16d9aa7",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "On Egypt visit , UN chief Guterres says  we need to stop the widening of war",
-   "source": "news.webindia123.com",
-   "theme": "Géopolitique",
-   "link": "https://news.webindia123.com/news/Articles/World/20261024/4514605.html",
-   "published": "2026-10-24T10:15:00+00:00",
-   "id": "15b7f1b212e2",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces de représailles asymétriques iraniennes alimentant l'aversion au risque mondiale.",
+   "method": "IA"
   },
   {
    "title": "Report : Iran Steps up Efforts to Assassinate U . S . Officials in Middle East , Officials Say",
@@ -4075,10 +4063,10 @@
    "link": "https://www.haaretz.com/middle-east-news/iran/2026-10-24/ty-article/report-iran-steps-up-efforts-to-assassinate-u-s-officials-in-middle-east/000001a1-6c48-d34e-a1b9-fe4f04050000",
    "published": "2026-10-24T10:15:00+00:00",
    "id": "0a7260bfda69",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Montée des frictions entre Washington et Téhéran soutenant modestement la couverture refuge.",
+   "method": "IA"
   },
   {
    "title": "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November",
@@ -4087,10 +4075,10 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVN5S3lfV3pKVU1nb2pSTEpZLWNDY3JLd3JhaERaOXI1WUNadm5ZSHZqck9CYjEzZE54ZEVDSEJydTVKR3RDRmR1RVNieEJ0TnJZRWpRZ2hzcklKVmZ0ODdSUWVDUmprV1JOTDJfel9KamZ6U0VDNWJrTjQ3NWNhbg?oc=5",
    "published": "2026-10-24T09:33:45+00:00",
    "id": "849686465c74",
-   "impact": 6,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Ouverture formelle à des pourparlers de paix en Ukraine diminuant la prime géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump Weighs Quick End to Iran War as Tehran Threatens Undersea Cables",
@@ -4099,10 +4087,10 @@
    "link": "https://voiceofvienna.org/trump-weighs-quick-end-to-iran-war-as-tehran-threatens-undersea-cables/",
    "published": "2026-10-24T09:30:00+00:00",
    "id": "1b90164b7af8",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "L'évocation d'une fin rapide du conflit compense les menaces de Téhéran.",
+   "method": "IA"
   },
   {
    "title": "Melania Trump brokers ceasefire deal in Russian - occupied Ukrainian city",
@@ -4111,10 +4099,10 @@
    "link": "https://www.messenger-inquirer.com/news/national/melania-trump-brokers-ceasefire-deal-in-russian-occupied-ukrainian-city/article_4db57e96-fd86-5fb2-aa68-b5727af02fa5.html",
    "published": "2026-10-24T09:30:00+00:00",
    "id": "43c90a69183a",
-   "impact": -6,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Accord local de cessez-le-feu en Ukraine favorisant la désescalade du conflit.",
+   "method": "IA"
   },
   {
    "title": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
@@ -4123,9 +4111,21 @@
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNFVwZTJoOHpncE8tem9MRlpWTTcwdlZ6NDlrN0x1LVNXQUxxaGVEajhtX1RTSS1tY0hzS2ljN0FHLWs3WVVxNV9tTWtJMXk0Sl9nUS1GSFBiUERvMFpXMjc0X0FEcW5aajVaODhWdU9hV05kYkZCa1lzRHctdzNqcHh0RHNEUDVGV1prRzZ5cUJrYlpvSHhNVHg1RERsQ2ZiQ2JsdW04VEQwUXh0Tld5azVrODIzRDBjcmdwR2tPUmhkUENTMFhaeU1PSEVDZDhSb3NUUVJtMEo1N3NRemJMNHlGMHVOd05taGtWRVdZcWR6MjJCYUEzYU5Eay0yWllRSDlJMld3TE5PSXVlelNNODl5ZE9aeF9FNW5ydng0X0FDdHcwdnc?oc=5",
    "published": "2026-10-24T09:29:27+00:00",
    "id": "4145fa73a32b",
-   "impact": -6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
+   "raison": "Espoirs renouvelés de négociations diplomatiques pesant modérément sur la demande refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump Hints at Another ‘Epic Fury’ Military Strike on Iran",
+   "source": "Kyiv Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42VkhkY0Y5d2FuVlJmWVI1b3Fkb1dpWnY2OG83Y3p6cVdOaUdyblFSRjdXSTkyUkVNV0IxRlVLUEJEWDNVSi1oQ05haw?oc=5",
+   "published": "2026-10-24T09:11:19+00:00",
+   "id": "2d083620a477",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4447,10 +4447,10 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcFBqcmZ2aE05S2ZKNXZiUXdxSDFEODlOT25nbVVKNGpOWDNLR2ozZkdCVHlTZ1RYS0d1T2c3eTdVX20yZURnb2dxU2ZWRktXR0prTXVUcTNSb2E0VmtBdXotVTlqUmd5Q0t5MkFaRWFSNk1ZeTJFclZjaEF1U1ktbUxpUWxobnI5S1RHN1hWUVlzNi13ZlZEbDZtekk4MS1aRU1MWERxQm92SUJfcjZIa3BOamZEX3ZQbGJ5dC1BODZxUGI0UWFxZA?oc=5",
    "published": "2026-10-24T07:26:01+00:00",
    "id": "0b187da79ba7",
-   "impact": 5,
+   "impact": 2,
    "cat": "dollar",
-   "raison": "haussier or (dollar)",
-   "method": "mots-clés"
+   "raison": "Repli simultané du billet vert et des rendements obligataires très porteur pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump plans to shift some Canada tariffs",
@@ -4507,10 +4507,10 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzdpV2pWc3JDY1FHNWVPR1I0YktzS09qRWNKaXZ5OU5oVGdmaUxDLWVFUk1hOXJtenZFSDlTYmZPMXZVWWMzeVpTTUlvaEM1TVE2LVI3Tl9yOVZSeVZYRnhFNXhiREM1b090VDk2WW4xUlZGdVJGbGFQRXpWQkdsSWstRnhsVk9wMFYzOWs4LTl6X3dtUDJOTS03ZU82aERyb1pjYllySUMxdkZ3X0lHbjV4VzNTV2tJTnZuU1lhekY5MER2MExOLV9qbVRYZWVB?oc=5",
    "published": "2026-10-24T06:13:00+00:00",
    "id": "1af30fe5c238",
-   "impact": -5,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Cessez-le-feu ciblé et calendrier de pourparlers réduisant les tensions régionales.",
+   "method": "IA"
   },
   {
    "title": "A notable move by the \"big player\" as gold prices continue to fall.",
@@ -4903,10 +4903,10 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNnNzMVdVUEVmTDc1QVB0aGpSWTREdWFMY2g2QUQ5RExzMUxrdlNhdnd6ZGxJWWhnRGltX0kxOFZOMXNhVWI2aWhsaU1DMS1fR1FTT1E0V2lnVFU?oc=5",
    "published": "2026-10-24T00:36:47+00:00",
    "id": "4d5c7dbba9e0",
-   "impact": 4,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Levée partielle de tarifs douaniers dissipant une fraction du risque inflationniste américain.",
+   "method": "IA"
   },
   {
    "title": "Gold nears $4,000: 7 global triggers driving prices that investors cannot ignore",
@@ -5071,10 +5071,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDA5TDdJSGIyM3lYMDFIWVVTUVNJRmVtREJucEE3SGs5a2x1eTFOc0RSS2dxTXVlX0xBNWlwX09PMGdxeTNobm5jYnpMVUI0cUhVNVZlbEd0a2VQdi0yTGtVYmJoa1ByR2JjZ2dzU3JlZ1hhbXpVMkhxUlNfY0ptaWJyVVE4RldjUWFTRjlMYzc?oc=5",
    "published": "2026-10-23T22:27:57+00:00",
    "id": "72c8456d3fc6",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "taux",
+   "raison": "Baisse anticipée des taux obligataires favorable à l'or, malgré la désinflation pétrolière.",
+   "method": "IA"
   },
   {
    "title": "US, allies and China vie for influence through Pacific security deals",
@@ -5131,10 +5131,10 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNXNEUzJJUUduaEx2UG9RZExGRGtwSElKNW8tOGswMERYTWJKWk9kT2l6Z0wyMXlfQTNwZWVFN3lCQmpweEdBeVpvQXc0S0pZWG1UMjVZRHhyQQ?oc=5",
    "published": "2026-10-23T22:06:01+00:00",
    "id": "00290934bd34",
-   "impact": 5,
+   "impact": 4,
    "cat": "taux",
-   "raison": "haussier or (taux)",
-   "method": "mots-clés"
+   "raison": "Chute brutale des taux souverains réels, réduisant le coût d'opportunité de l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump to swap some tariffs on Canadian goods amid midterm pressure",
@@ -7538,7 +7538,8 @@
   "news|1b90164b7af8": 1792836104.7234972,
   "news|84c3b16d9aa7": 1792838914.7739139,
   "news|f2f82d0b1419": 1792839691.3121374,
-  "news|5d7d7c3fe4fb": 1792841480.3442178
+  "news|5d7d7c3fe4fb": 1792841480.3442178,
+  "news|2d083620a477": 1792845214.776821
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7721,6 +7722,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T12:33:34.776906+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Hints at Another ‘Epic Fury’ Military Strike on Iran</b>\n📰 Kyiv Post · Sam 24/10 11:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiS0FVX3lxTE42VkhkY0Y5d2FuVlJmWVI1b3Fkb1dpWnY2OG83Y3p6cVdOaUdyblFSRjdXSTkyUkVNV0IxRlVLUEJEWDNVSi1oQ05haw?oc=5"
+  },
   {
    "ts": "2026-10-24T11:31:20.344276+00:00",
    "kind": "news",
@@ -8015,11 +8021,6 @@
    "ts": "2026-10-23T12:04:24.001960+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4041.10</b>  (+22.9$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-2) → maintenant -13 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 47$ sur ~66$ attendus (71%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Alvarado distances himself from Trump on Iran war, tariffs in KY House debate with Dembo\n🟢 (+8) US signals prolonged Iran standoff as Trump weighs new strikes\n🟢 (+8) Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared\n🟢 (+8) US and Israel Draw Up Iran Strike Plans for After November 3\n\n🧠 Oui, le scénario neutre en range tient toujours avec un cours stabilisé à 4041 $ et déjà plus de 70 % de la volatilité quotidienne consommée.\nPour la séance US, privilégiez des micro-rotations ou l'attentisme, avec de légers achats tactiques uniquement sur le bas de zone vers 4025-4036 $.\nLe piège à éviter est de chasser un breakout directionnel tardif ce vendredi alors que le potentiel d'extension du jour est quasi épuisé."
-  },
-  {
-   "ts": "2026-10-23T12:01:41.614767+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.1330 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
   }
  ],
  "daily_forecast": {
