@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "b13229d36ee9",
-  "72ed3a257907",
-  "09b64ddeb671",
   "8db2fc50a333",
   "5eacb0646528",
   "80b67cf75726",
@@ -3945,7 +3942,10 @@
   "8c45c8563f17",
   "c115163a2f9b",
   "480fda2cc17d",
-  "4fdf14d60417"
+  "4fdf14d60417",
+  "7d277ce13bb9",
+  "3f6a4677be9e",
+  "790908020915"
  ],
  "news": [
   {
@@ -3959,6 +3959,18 @@
    "cat": "or",
    "raison": "Constat rétrospectif de forte baisse, alimentant une pression vendeuse technique à court terme.",
    "method": "IA"
+  },
+  {
+   "title": "'Iran War Has Done A Lot Of Damage': US Republican Candidate Slams Trump",
+   "source": "NDTV",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZy0tSE5nN3ROaXlpTHlqWDZoWmlHTmU1MlBvMFVrTVlZYVU3ZzlqYm94Y3RzanY3NTA2UTc2bXFmQlB2OHNaTXhmSW9OZWdFZXlRUTFsRHpCX215Rm9wSTB6ZXNFM2U4dl9hbWsxODdELVktbGJCd1lmeVd4RDFSaXRkUldVdmtOVktyWEVuTFVxaG41Z1BZdUc0aFhTZnNoQm92QUZ3eG41S1RDZDNF0gG3AUFVX3lxTFBhVkgtRXA5NjF6ZDh1N2tIUzFmYUJiZGpGNzd3WDVFOW9oTHI3dVVSNEhnYUcwWkFobWJURFlfNWRHQjA1Z1RJZnRibHRDc3lwam9xbHhGOHU2dXdCV3JCWDV2ME8yTTVOa3NaQ0p2TElYdHEwelBrRlF4dm1fQzRrcjM0eURRSzk0RFV2TUJLdUVFc3BiYVJWdm5PMXhlNnJfYXBDTlhHTk1fTlhiNk1ZOHJZbFV4Zw?oc=5",
+   "published": "2026-10-24T12:25:55+00:00",
+   "id": "3f6a4677be9e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
@@ -4679,6 +4691,18 @@
    "cat": "géopolitique",
    "raison": "Tensions accrues entre Washington et l'Iran, renforçant la prime de risque valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+   "source": "The New York Times",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5",
+   "published": "2026-10-24T03:46:54+00:00",
+   "id": "790908020915",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump's 'Epic Fury' Warning After US Envoy's 'Strike This Weekend' Remark, Iran Responds",
@@ -6323,30 +6347,6 @@
    "cat": "inflation",
    "raison": "Craintes de stagflation et repli des actions favorisent une légère diversification vers l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Austria expels four Russian diplomats : foreign ministry",
-   "source": "hurriyetdailynews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hurriyetdailynews.com/austria-expels-four-russian-diplomats-foreign-ministry-228521",
-   "published": "2026-10-23T15:00:00+00:00",
-   "id": "4341d999c3b5",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frictions diplomatiques mineures avec Moscou entretenant un climat de tension de fond.",
-   "method": "IA"
-  },
-  {
-   "title": "US bans China BYD from Japan airbase over leak concern - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
-   "source": "nigerianeye.com",
-   "theme": "Géopolitique",
-   "link": "https://www.nigerianeye.com/2026/10/us-bans-chinas-byd-from-japan-airbase.html",
-   "published": "2026-10-23T15:00:00+00:00",
-   "id": "4f9535a8bfc1",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Méfiance technologique sino-américaine persistante, soutenant timidement les primes de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7539,7 +7539,9 @@
   "news|84c3b16d9aa7": 1792838914.7739139,
   "news|f2f82d0b1419": 1792839691.3121374,
   "news|5d7d7c3fe4fb": 1792841480.3442178,
-  "news|2d083620a477": 1792845214.776821
+  "news|2d083620a477": 1792845214.776821,
+  "news|3f6a4677be9e": 1792847764.1453629,
+  "news|790908020915": 1792847765.10552
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7722,6 +7724,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T13:16:05.105873+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say</b>\n📰 The New York Times · Sam 24/10 05:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5"
+  },
+  {
+   "ts": "2026-10-24T13:16:04.145450+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Iran War Has Done A Lot Of Damage': US Republican Candidate Slams Trump</b>\n📰 NDTV · Sam 24/10 14:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZy0tSE5nN3ROaXlpTHlqWDZoWmlHTmU1MlBvMFVrTVlZYVU3ZzlqYm94Y3RzanY3NTA2UTc2bXFmQlB2OHNaTXhmSW9OZWdFZXlRUTFsRHpCX215Rm9wSTB6ZXNFM2U4dl9hbWsxODdELVktbGJCd1lmeVd4RDFSaXRkUldVdmtOVktyWEVuTFVxaG41Z1BZdUc0aFhTZnNoQm92QUZ3eG41S1RDZDNF0gG3AUFVX3lxTFBhVkgtRXA5NjF6ZDh1N2tIUzFmYUJiZGpGNzd3WDVFOW9oTHI3dVVSNEhnYUcwWkFobWJURFlfNWRHQjA1Z1RJZnRibHRDc3lwam9xbHhGOHU2dXdCV3JCWDV2ME8yTTVOa3NaQ0p2TElYdHEwelBrRlF4dm1fQzRrcjM0eURRSzk0RFV2TUJLdUVFc3BiYVJWdm5PMXhlNnJfYXBDTlhHTk1fTlhiNk1ZOHJZbFV4Zw?oc=5"
+  },
   {
    "ts": "2026-10-24T12:33:34.776906+00:00",
    "kind": "news",
@@ -8011,16 +8023,6 @@
    "ts": "2026-10-23T12:16:16.480383+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Earnings flood , Fed meeting pose pivotal tests for rickety AI market rally</b>\n📰 aol.com · Ven 23/10 13:30\n🧠 haussier or (fed) [mots-clés]\n🔗 https://www.aol.com/articles/earnings-flood-fed-meeting-pose-100557000.html"
-  },
-  {
-   "ts": "2026-10-23T12:16:15.526401+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Israel says it thwarted  terror attack , and other Middle East developments</b>\n📰 wsbradio.com · Ven 23/10 13:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.wsbradio.com/news/world/israel-says-it/6AEVSXDG2E4RJBDMRARFJOJA7Q/"
-  },
-  {
-   "ts": "2026-10-23T12:04:24.001960+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4041.10</b>  (+22.9$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-2) → maintenant -13 (Neutre)\n✅ Le range TIENT\n📏 Range fait : 47$ sur ~66$ attendus (71%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Alvarado distances himself from Trump on Iran war, tariffs in KY House debate with Dembo\n🟢 (+8) US signals prolonged Iran standoff as Trump weighs new strikes\n🟢 (+8) Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared\n🟢 (+8) US and Israel Draw Up Iran Strike Plans for After November 3\n\n🧠 Oui, le scénario neutre en range tient toujours avec un cours stabilisé à 4041 $ et déjà plus de 70 % de la volatilité quotidienne consommée.\nPour la séance US, privilégiez des micro-rotations ou l'attentisme, avec de légers achats tactiques uniquement sur le bas de zone vers 4025-4036 $.\nLe piège à éviter est de chasser un breakout directionnel tardif ce vendredi alors que le potentiel d'extension du jour est quasi épuisé."
   }
  ],
  "daily_forecast": {
