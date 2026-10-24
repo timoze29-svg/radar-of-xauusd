@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "14ad8aee032a",
-  "db6dcc6323b7",
-  "583b7c522977",
-  "71f1c4806380",
-  "6589e6e68511",
-  "6a7e9590ceb2",
-  "b26530c7ad6f",
   "afb9dce586d7",
   "20ff83940345",
   "17f218a179df",
@@ -3945,9 +3938,40 @@
   "f3a21d0ad21f",
   "47622886bd35",
   "b6a76e56df53",
-  "58953d0386ae"
+  "58953d0386ae",
+  "92f68976acda",
+  "1b90164b7af8",
+  "da30115ca2e0",
+  "a29d77b78eba",
+  "0249aed4f5a5",
+  "e31be0fc9484",
+  "43c90a69183a"
  ],
  "news": [
+  {
+   "title": "Trump Weighs Quick End to Iran War as Tehran Threatens Undersea Cables",
+   "source": "voiceofvienna.org",
+   "theme": "Géopolitique",
+   "link": "https://voiceofvienna.org/trump-weighs-quick-end-to-iran-war-as-tehran-threatens-undersea-cables/",
+   "published": "2026-10-24T09:30:00+00:00",
+   "id": "1b90164b7af8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Melania Trump brokers ceasefire deal in Russian - occupied Ukrainian city",
+   "source": "messenger-inquirer.com",
+   "theme": "Géopolitique",
+   "link": "https://www.messenger-inquirer.com/news/national/melania-trump-brokers-ceasefire-deal-in-russian-occupied-ukrainian-city/article_4db57e96-fd86-5fb2-aa68-b5727af02fa5.html",
+   "published": "2026-10-24T09:30:00+00:00",
+   "id": "43c90a69183a",
+   "impact": -6,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says This Could Happen Next.",
    "source": "Yahoo Finance",
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Menace accrue de frappes régionales majeures augmentant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Gibo Teodoro warns of  act of war  if China targets BRP Sierra Madre",
-   "source": "tribune.net.ph",
-   "theme": "Géopolitique",
-   "link": "https://tribune.net.ph/2026/10/23/gibo-teodoro-warns-of-act-of-war-if-china-targets-brp-sierra-madre",
-   "published": "2026-10-23T13:00:00+00:00",
-   "id": "07667755e058",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risque d'escalade militaire en mer de Chine méridionale favorisant légèrement l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Fact Sheet: Costs of the Iran War",
-   "source": "Center for American Progress",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXJIX3kycHVERkc3NjZyNUY0cmFIa0dQVFBFZHBuR3dqcHNKZUo0UjJGcm5fdzFHd3R4WTFfem9jMEMxWkNwczRSOTNkQ29GbTdDb1J2c3VvRWRHYnFxSVVFaU5rN1NCdEsxYUtuMnpNb1dYUUF6V0NxSUhFMzA?oc=5",
-   "published": "2026-10-23T12:56:55+00:00",
-   "id": "ca3d030ad6bc",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Déficits budgétaires de guerre accrus affaiblissant la monnaie fiduciaire face à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7534,7 +7534,8 @@
   "news|b4fe58f395b7": 1792812692.964293,
   "news|0463939d4182": 1792815527.8040125,
   "news|cdd231b94a17": 1792817196.99158,
-  "news|5c8b91a26e14": 1792820275.1971545
+  "news|5c8b91a26e14": 1792820275.1971545,
+  "news|1b90164b7af8": 1792836104.7234972
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7717,6 +7718,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T10:01:44.723572+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Weighs Quick End to Iran War as Tehran Threatens Undersea Cables</b>\n📰 voiceofvienna.org · Sam 24/10 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://voiceofvienna.org/trump-weighs-quick-end-to-iran-war-as-tehran-threatens-undersea-cables/"
+  },
   {
    "ts": "2026-10-24T05:37:55.197233+00:00",
    "kind": "news",
@@ -8011,11 +8017,6 @@
    "ts": "2026-10-23T11:31:24.151863+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Alvarado distances himself from Trump on Iran war, tariffs in KY House debate with Dembo</b>\n📰 Lexington Herald Leader · Ven 23/10 13:06\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNbF9oczZhTzBNaFpyMjB1emVzc1RHdklSYno0MVRwRnFzNW1VVHdtcVppN2hKb2s0ZHA1Sl9sRHczZVBrZVlnMHhBREhUaU5LeWp1cDdPUnRWY0UxU0JEcFlmZEp5WDRxNTV5MXIyM256V2ZRTnE2Z25UMnA5VWZTcjVSdTZUc03SAYcBQVVfeXFMT0Q3VVdESklGMUNfeGxzT1NHcW1tNUlQWko3a2U2elRPcTdEYlQtaVg5dGY0SHdlTmxpSmdEb3JYQjd4NHZuR05MOXQ1WXhUckFEeVFPNUhJVUUyR0xNU1ZwNVdkSmV0OVV4eW56cFAzT3A1Qjkta2VqS05GS05aaFY4MExDQ25F?oc=5"
-  },
-  {
-   "ts": "2026-10-23T10:46:00.621080+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel Draw Up Iran Strike Plans for After November 3</b>\n📰 houseofsaud.com · Ven 23/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZnBJZi03VGFvQWg4YVZYdHk5Mjd0RzQ2YXc4TG1reFJ6RWw0dTd5Z2lUWWFXbGc1TzhjUmctYW1NY1poWWk2dTh1NHJrTDhuSTJoT2tIZkRDRjJhMElXbjVRXzRpQmM?oc=5"
   }
  ],
  "daily_forecast": {
