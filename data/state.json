@@ -749,19 +749,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792804627.8699236,
+   "ts": 1792877548.3046844,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 115,
       "high": [
        [
         0,
-        15.5
+        14.8
        ],
        [
         15,
-        9.5
+        9.6
        ],
        [
         22,
@@ -771,59 +771,59 @@
       "low": [
        [
         0,
-        18.1
+        18.3
        ],
        [
         16,
-        10.3
+        10.4
        ],
        [
         2,
-        9.5
+        9.6
        ]
       ]
      },
      "1": {
-      "n": 123,
+      "n": 122,
       "high": [
        [
         22,
-        12.2
+        12.3
        ],
        [
         2,
         9.8
        ],
        [
-        14,
-        8.9
+        15,
+        9.0
        ]
       ],
       "low": [
        [
         16,
-        11.4
+        11.5
        ],
        [
         0,
-        11.4
+        11.5
        ],
        [
         2,
-        8.9
+        8.2
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 119,
       "high": [
        [
         2,
-        11.7
+        11.8
        ],
        [
         16,
-        11.7
+        11.8
        ],
        [
         17,
@@ -833,15 +833,15 @@
       "low": [
        [
         0,
-        13.3
+        13.4
        ],
        [
         3,
-        7.5
+        7.6
        ],
        [
         14,
-        7.5
+        7.6
        ]
       ]
      },
@@ -884,12 +884,12 @@
         14.4
        ],
        [
-        17,
+        0,
         11.0
        ],
        [
-        0,
-        10.2
+        17,
+        11.0
        ]
       ],
       "low": [
@@ -898,47 +898,47 @@
         11.9
        ],
        [
-        2,
-        7.6
+        15,
+        8.5
        ],
        [
-        15,
+        2,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5970,
+     "n_hours": 5946,
      "horizon_h": 2,
-     "base_gold_up": 53.4,
-     "base_dxy_down": 48.1,
+     "base_gold_up": 53.5,
+     "base_dxy_down": 48.3,
      "down": {
       "3": {
-       "n": 244,
-       "p_dxy": 52.0,
-       "p_gold": 55.7,
+       "n": 242,
+       "p_dxy": 52.5,
+       "p_gold": 55.8,
        "gold_avg": 1.4
       },
       "4": {
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.5
+       "gold_avg": 0.6
       }
      },
      "up": {
       "3": {
-       "n": 269,
-       "p_dxy": 55.8,
-       "p_gold": 49.1,
-       "gold_avg": -0.7
+       "n": 266,
+       "p_dxy": 55.6,
+       "p_gold": 49.2,
+       "gold_avg": -0.8
       },
       "4": {
-       "n": 77,
-       "p_dxy": 58.4,
-       "p_gold": 51.9,
-       "gold_avg": 0.0
+       "n": 76,
+       "p_dxy": 57.9,
+       "p_gold": 51.3,
+       "gold_avg": 0.1
       }
      }
     }
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "2170fb57da83",
-  "85d36f34d206",
-  "dd45887a0902",
   "cb0495e28d48",
   "df38285ea45c",
   "da79ee7665ad",
@@ -3945,9 +3942,24 @@
   "b6ff62292b84",
   "072dbb4a7f2c",
   "ff8b8ad9db39",
-  "8c1f6e2e1913"
+  "8c1f6e2e1913",
+  "51863b49e091",
+  "c00fe4cc85ea",
+  "9d57c19f6aeb"
  ],
  "news": [
+  {
+   "title": "Trump says US could strike Iran ‘tomorrow’ or reach ‘big, beautiful’ deal",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVlUV194bG9BWmFubXdJc1ZZTGlYSHZadG5zNERMemhaVkZiNnNqRjlEM1dzMVg3dm1MeHZ4ZjJvNVY1ZEw2QkpSbVR4YW14VnNvcjI2aTBIMUQ3MTRxMk1uMXBJU3BNUGhZdlFSalg1cHBhbU9BTGM4M2Job0tjMDU4QnhSdTFLYnVrRW5GYnBxQVo2eUxkQmV5MW9FTGMtQjBQdVluRVVXNTA?oc=5",
+   "published": "2026-10-24T20:55:01+00:00",
+   "id": "c00fe4cc85ea",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Menace d'escalade militaire avec l'Iran stimulant modérément la demande refuge.",
+   "method": "IA"
+  },
   {
    "title": "Trump says US will do business with Ukraine, Russia after war ends",
    "source": "Anadolu Ajansı",
@@ -4342,6 +4354,18 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Exemptions tarifaires réduisant marginalement les tensions commerciales et l'inflation importée.",
+   "method": "IA"
+  },
+  {
+   "title": "Gold and Silver Break 200-Day Average, but Funds Drove the Selloff",
+   "source": "Discovery Alert",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVnotWml1RE5TZTliZkllaThQUDVtTVplSU5KYktQakhRdjZiZW11QUtTZEZtcE4wSVVmUUc2a0RfYlBGSDlYallzeHc4WFYxVUo4d3VrYUxMMXAwS1NIYmYzMWtGeDZLZ0dNTEstRGU5SG1zOEpiNURqaHVfeHM4WEh1bmgyR3lvVjBtMVln?oc=5",
+   "published": "2026-10-24T13:54:41+00:00",
+   "id": "9d57c19f6aeb",
+   "impact": -3,
+   "cat": "or",
+   "raison": "Rupture technique baissière de la moyenne à 200 jours déclenchant des liquidations de fonds.",
    "method": "IA"
   },
   {
@@ -6322,30 +6346,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Rhétorique belliqueuse sur Ormuz menaçant le pétrole et nourrissant le risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Exclusive | Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-   "source": "WSJ",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-   "published": "2026-10-23T20:33:00+00:00",
-   "id": "c0bf14356a9b",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Assouplissement des droits de douane canadiens atténuant le risque de guerre commerciale.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-   "source": "WSJ",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-   "published": "2026-10-23T20:33:00+00:00",
-   "id": "7f6864babaa0",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Mesure protectionniste édulcorée pour des raisons politiques locales, impact baissier très faible.",
    "method": "IA"
   }
  ],
