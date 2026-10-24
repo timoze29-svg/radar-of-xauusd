@@ -526,14 +526,13 @@
    }
   },
   "cot": {
-   "ts": 1792759557.5009544,
+   "ts": 1792803669.209265,
    "data": {
-    "date": "2026-10-13",
-    "net": 207879,
-    "chg_week": -2456,
-    "percentile_3y": 51,
+    "date": "2026-10-20",
+    "net": 199865,
+    "chg_week": -8014,
+    "percentile_3y": 35,
     "hist": [
-     176609,
      204664,
      202307,
      207069,
@@ -584,7 +583,8 @@
      225853,
      218632,
      210335,
-     207879
+     207879,
+     199865
     ],
     "lecture": "Positionnement neutre"
    }
@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "388f28127b95",
-  "2186b31ff04e",
-  "d1f42ca7d2f5",
-  "54f7089e2473",
-  "aa3fc281ada7",
-  "6b6e9fe4629f",
   "2a9e01140fb6",
   "9f20b0cf6615",
   "d006aea4d22d",
@@ -3945,33 +3939,15 @@
   "6b2b59e1a704",
   "349c751ba481",
   "46ac5ae6bcbb",
-  "2de212be70b9"
+  "2de212be70b9",
+  "d23ba8a59e00",
+  "65013c4bc4c3",
+  "b446368ac2cc",
+  "c1477bb7bf94",
+  "2b74fac037c1",
+  "441879b88cb2"
  ],
  "news": [
-  {
-   "title": "Pres. Trump slams Utah judge over delays in trial for accused Charlie Kirk shooter Tyler Robinson",
-   "source": "Gephardt Daily",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzlLZUFvTnh4akRKQ25mSDhoSUFNa0trbWI1S1ZNQnJpNzRlV3Mxb2pmVFRQUmlJTVNCdFJUQjZOWGxjRURIMzBuaHF5M2NkcTFRTzNTZU1oTC1kZlNsRWxvbnJhelladjUwcDJNZUhFWXZpTmlyVFlNNElTdUhCdlNIeWYzdnlKaEktd2J2RC1qWURDUElsOUo0NG9tVWhDMFp3ZDVIX3o5c2h3eWdRWWJvVDZ1dTEzdXZ6RzlzQlhiRkNlMWVHbA?oc=5",
-   "published": "2026-10-24T00:05:19+00:00",
-   "id": "b4b2559f43be",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Fait divers judiciaire et politique intérieure sans incidence macroéconomique ou monétaire.",
-   "method": "IA"
-  },
-  {
-   "title": "In Florida, Trump vows to deal with Cuba after Iran gets settled",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW1UZUdScXEwTWVUNUJxcDkyWmV1TDREckM1RnRCTFR4VjBuVmk2Vm9OVF83d2FLdTdnSGN2N0FGNURpVXJKbzR4bWI3b05TY3pPWGgzRnZvX2N4SEQ4cmw3blpTZktVMXd4UDlFeWpFcG9jX1FJcTN3OW1WVW5UTnFfQ3BqdHRwNFAzOGRsc1Nyc0N6TENyVDJaeW9ZSExlSl9adExjYmQ?oc=5",
-   "published": "2026-10-23T23:52:55+00:00",
-   "id": "349c751ba481",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Cross-Strait fishery ties strengthened",
    "source": "China Daily",
@@ -4199,6 +4175,18 @@
    "cat": "géopolitique",
    "raison": "Évacuation diplomatique signalant un risque d'escalade militaire imminent, forte demande refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+   "source": "MarketWatch",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTEVxb3Z5WFJWc1JpR3FDc2NoOFBWVEhDT2lsaUdGRG5nNUwycUlfa3Z3d0I4ZXpsUERKVy1QSWtyTFJGckwwRGRwclVrRVoyOThYRmRtZlROcFhnS3JqRE42UEN4UmxHRHN5Z3lsV0E0V0w0Y05nY3hRT2JzWHlkNEw3UnhISGdXbnBrUXRnNHhISV9iZ2RCdkp4aElURHJFS3hEWU1CQk84UEdzbTdrM2RrZF9kMS12cU9BMFFXd29meUlsaDJZdVo4aEhEVmJOamJ5TDI5UG9oN3lIWFFuVkJscFF4aFdsc1Rj?oc=5",
+   "published": "2026-10-23T20:50:00+00:00",
+   "id": "b446368ac2cc",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump, seeking to help Maine Sen. Susan Collins, exempts some Canadian imports from his 50% tariffs",
@@ -4727,6 +4715,18 @@
    "cat": "commerce",
    "raison": "Allégements tarifaires ciblés confirmés, très légère détente sur les frictions commerciales.",
    "method": "IA"
+  },
+  {
+   "title": "Israel And U.S. Prepare Joint Strikes On Iran After Midterms Amid Election Timing Dispute: how 11 outlets framed it",
+   "source": "NewsCord",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFEzbUp3UFpHNlJIcHBQdFc5OFpnMWNuRkYxOVk0aFZzVWdpNlJFZEZDTVotY0pTazVQV2lSZ1FySnVLamt4UGhRSjBib255YjBFcnJ4SmpENTdwYkNFSVJzMXZnMW5qQjlJUTgxODg2MWVXUWdIWERHdGFXbGhXbWFtVXItUy1icldpOFpZUk9lN0VjNGE3ZkEzdGZBWE1LYk5RRjJFMWVRNE9yNVg2ZE9LNk5OdURtUHdkamtoZmgzSlBEMjlJZ3hLZFhQSEU3cVZESHhPWTQtQ3hFZFJVWnU4WTJIYzNW?oc=5",
+   "published": "2026-10-23T17:28:01+00:00",
+   "id": "65013c4bc4c3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US and Israel are warned against launching fresh strikes on Iran",
@@ -6061,6 +6061,18 @@
    "method": "IA"
   },
   {
+   "title": "Rising risk-aversion sentiment, coupled with a decline in U.S. Treasury yields, has kept the U.S. Dollar Index oscillating at elevated levels.",
+   "source": "Moomoo",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSS01c05yY0ZUeXFkM2JaeDJsSUNtM1FYNVN3ekRKa0tzdzNEdDk0bHNyRXY3b0d0VnBkUFdvQmVCYk1kb3JDdUZXTEktRmJwZVZXNkRMSXYyRWpTbHlKZEppWEdUU1g5dXU5MG5vRVpaV3BFWVRmTXVENXI1OE9lVURTTlR6a3VOUFBoaW5NNDJqVkJUZThNNXhoWk1nYnoyVk1OQzl3?oc=5",
+   "published": "2026-10-23T06:31:06+00:00",
+   "id": "c1477bb7bf94",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Gold (XAUUSD) & Silver Price Forecast: Oil Shock Revives Rate Fears, Can Gold Hold $3,950?",
    "source": "FXEmpire",
    "theme": "Or",
@@ -6334,18 +6346,6 @@
    "impact": 2,
    "cat": "taux",
    "raison": "Dette courte privilégiée pouvant comprimer les rendements longs, ce qui soutient l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "US is prepared for long stand-off with Iran, says Trump envoy",
-   "source": "Financial Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlo4TnUzRGxHdXRrbWFCNDBlZE5yaHFLZ0o5N2N6NUpXUG9rVl96c19meGRuaDE5cXZJOUJHRU1iUXE1Z09ucm9pR0RudGtYVTRGemw3cGxsdDFzOVlHY2N0WUpUNDR3b1RNcWtWNG1QOHBRNjZvMVRoWnRJSGV2M0l2M1Y?oc=5",
-   "published": "2026-10-23T04:00:37+00:00",
-   "id": "63a705443617",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Persistance des tensions avec l'Iran stimulant les achats d'or comme valeur refuge.",
    "method": "IA"
   }
  ],
@@ -7524,7 +7524,8 @@
   "news|82ac864d472c": 1792789294.1103194,
   "news|b381cc649570": 1792789294.9731848,
   "news|d91268e02c56": 1792790172.0525982,
-  "news|adf21f0ec458": 1792797365.522113
+  "news|adf21f0ec458": 1792797365.522113,
+  "news|65013c4bc4c3": 1792803691.6008866
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7707,6 +7708,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T01:01:31.600950+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel And U.S. Prepare Joint Strikes On Iran After Midterms Amid Election Timing Dispute: how 11 outlets framed it</b>\n📰 NewsCord · Ven 23/10 19:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFEzbUp3UFpHNlJIcHBQdFc5OFpnMWNuRkYxOVk0aFZzVWdpNlJFZEZDTVotY0pTazVQV2lSZ1FySnVLamt4UGhRSjBib255YjBFcnJ4SmpENTdwYkNFSVJzMXZnMW5qQjlJUTgxODg2MWVXUWdIWERHdGFXbGhXbWFtVXItUy1icldpOFpZUk9lN0VjNGE3ZkEzdGZBWE1LYk5RRjJFMWVRNE9yNVg2ZE9LNk5OdURtUHdkamtoZmgzSlBEMjlJZ3hLZFhQSEU3cVZESHhPWTQtQ3hFZFJVWnU4WTJIYzNW?oc=5"
+  },
   {
    "ts": "2026-10-23T23:46:05.619355+00:00",
    "kind": "bias",
@@ -8001,11 +8007,6 @@
    "ts": "2026-10-23T05:16:14.619410+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iranian lawmaker calls for nuclear response if US launches new attack</b>\n📰 israelnationalnews.com · Ven 23/10 06:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.israelnationalnews.com/news/435043"
-  },
-  {
-   "ts": "2026-10-23T05:16:13.691128+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Economists unanimously expect Fed rate hike in December</b>\n📰 israelherald.com · Ven 23/10 06:45\n🧠 baissier or (fed) [mots-clés]\n🔗 http://www.israelherald.com/news/279388134/economists-unanimously-expect-fed-rate-hike-in-december"
   }
  ],
  "daily_forecast": {
