@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "82e4f90fef90",
-  "4ec09544589f",
   "25b48b546c19",
   "9c9b54f34922",
   "441586f07110",
@@ -3945,7 +3943,9 @@
   "51baf6bb6ec1",
   "0463939d4182",
   "37f486b944a9",
-  "12897b2fce27"
+  "12897b2fce27",
+  "cdd231b94a17",
+  "e8196ecd8a9b"
  ],
  "news": [
   {
@@ -3971,6 +3971,18 @@
    "cat": "autre",
    "raison": "Catastrophe naturelle locale sans incidence macroéconomique ni financière sur le cours de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Typhoon Champi knocks out power to thousands in Taiwan",
+   "source": "France 24",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVFk3QmlkRjlKQ0dDenNudm9ZZEhoRDlRY3cyelhvYXVqOWJRWmxjeE5Kb3NHV0JhVE01S1ZISkhzUEFjSWFUbkpJTWR1WWNXSnJ1VFFRemRqc2FHTlppbFg5ekpka1owbVpWbXNzd0YwandWUFRPaUl0STIwdmdyMmdMNEpqYllWVEJOU0VWeXhhVVBqVEJUcXZia19PTV8teWFZ?oc=5",
+   "published": "2026-10-24T03:22:53+00:00",
+   "id": "e8196ecd8a9b",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
   },
   {
    "title": "Trump's 'Epic Fury' Warning After US Envoy's 'Strike This Weekend' Remark, Iran Responds",
@@ -4343,6 +4355,18 @@
    "cat": "commerce",
    "raison": "Recul partiel sur les tarifs canadiens réduisant légèrement l'incertitude commerciale.",
    "method": "IA"
+  },
+  {
+   "title": "First Disney Now This: Trump Sets Sights on Six Flags in Fiery Attack on Iconic Roller Coaster",
+   "source": "Inside the Magic",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3lIREJwMmJPbFZlWFFiTG9Sa1YwLUhIS0ZqQ25iMUl1RjF5d2l5ekEzMlBaTk5aeEFNUDhXbDJ5YXB0S3dmQllaNW9LMmVlSEx6aFFmbURraTFtMjFHS2dTRWlYekFNWWs2S203Z3E3ZzVLVkNuaV9CRHdFM0dBbEdZajl4ME51SU5wWTdzdTktUHRJRXc0ZjZsS25yR19INWd4bU5iYUo5Wnh6VjNvOUNvV3k?oc=5",
+   "published": "2026-10-23T22:37:32+00:00",
+   "id": "cdd231b94a17",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US, allies and China vie for influence through Pacific security deals",
@@ -5614,30 +5638,6 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "Menaces de frappes et enlisement du conflit iranien renforçant nettement la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Melania Trump secures one-city ceasefire between Russia and Ukraine for humanitarian aid",
-   "source": "CNN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkhJZ25hOEJTTFUwTlpqdnd3SFdpdHRNWWZUVjhPd0xsUWpSMjJ4R1NUS21BM2RtTDRVQmg4MmZTU05EalMzTUJ0OU5PR1RDLTAxVUFXc2VwQ2VwQm9sTnIxV1FRMTN3ZUFUdW5rMFRJZ2F4dDZiWTl2R1lKeEYzZWNDeUE?oc=5",
-   "published": "2026-10-23T14:05:47+00:00",
-   "id": "1dfcc0e8fe7a",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Accord local d'aide humanitaire, négligeable pour les cours de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Melania Trump says she secured one-city ceasefire between Russia and Ukraine for humanitarian aid",
-   "source": "CNN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkhJZ25hOEJTTFUwTlpqdnd3SFdpdHRNWWZUVjhPd0xsUWpSMjJ4R1NUS21BM2RtTDRVQmg4MmZTU05EalMzTUJ0OU5PR1RDLTAxVUFXc2VwQ2VwQm9sTnIxV1FRMTN3ZUFUdW5rMFRJZ2F4dDZiWTl2R1lKeEYzZWNDeUE?oc=5",
-   "published": "2026-10-23T14:05:47+00:00",
-   "id": "8cc6041b1a1c",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Même annonce humanitaire locale, sans conséquence pour l'or.",
    "method": "IA"
   },
   {
@@ -7532,7 +7532,8 @@
   "news|56de59f1c262": 1792807296.0038214,
   "news|62c4942f4b5f": 1792811779.1424592,
   "news|b4fe58f395b7": 1792812692.964293,
-  "news|0463939d4182": 1792815527.8040125
+  "news|0463939d4182": 1792815527.8040125,
+  "news|cdd231b94a17": 1792817196.99158
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7715,6 +7716,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T04:46:36.991647+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>First Disney Now This: Trump Sets Sights on Six Flags in Fiery Attack on Iconic Roller Coaster</b>\n📰 Inside the Magic · Sam 24/10 00:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3lIREJwMmJPbFZlWFFiTG9Sa1YwLUhIS0ZqQ25iMUl1RjF5d2l5ekEzMlBaTk5aeEFNUDhXbDJ5YXB0S3dmQllaNW9LMmVlSEx6aFFmbURraTFtMjFHS2dTRWlYekFNWWs2S203Z3E3ZzVLVkNuaV9CRHdFM0dBbEdZajl4ME51SU5wWTdzdTktUHRJRXc0ZjZsS25yR19INWd4bU5iYUo5Wnh6VjNvOUNvV3k?oc=5"
+  },
   {
    "ts": "2026-10-24T04:18:47.804085+00:00",
    "kind": "news",
@@ -8009,11 +8015,6 @@
    "ts": "2026-10-23T10:16:05.743456+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran War’s Architects Get Ready to Face Frustrated Voters</b>\n📰 Bloomberg.com · Ven 23/10 11:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObWMzdEJ4QWxfZ242VDVLX1hEZGFGS1I4Q3lWN0xGWjhjbXRLaXZzUy1TeW9XeUVzNk1mMnhxUVdHcXdIdVExejhhdllxcWpNN2stQ1FiZGFtaXpZcDUtaEJMWHEwdXlpTjFxNkczWDdKOHU3UWdtUlVzZ1F6eU1yUXBEMjduaUFhem1wZ0pDNkRUUWg5cU51SFhoUHo1T2RJektfSVZLazZqTFBpa1BlZGUxdzdMYmZUVlk1SndUTFlvdDlSZWIxOTRld204a0ktbmRaZldn?oc=5"
-  },
-  {
-   "ts": "2026-10-23T09:48:44.038519+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Fed (2 ans vs taux Fed) (-10), Taux US 10 ans (5j) (+9)"
   }
  ],
  "daily_forecast": {
