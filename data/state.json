@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "ab43d49303a2",
-  "df573dd4b37b",
   "7c3a64b06fae",
   "4af8f3abe4ac",
   "0326862b296c",
@@ -3945,7 +3943,9 @@
   "b0988112a6ab",
   "2953462dc79c",
   "f4dc07b89ae0",
-  "1978a7d99bdb"
+  "1978a7d99bdb",
+  "56de59f1c262",
+  "cea415b3851e"
  ],
  "news": [
   {
@@ -4919,6 +4919,18 @@
    "cat": "géopolitique",
    "raison": "Mises en garde contre des frappes renforçant l'incertitude et la demande d'or refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Iran’s Islamic Revolutionary Guard Corps Prepares Prolonged War as U.S. and Israel Plan Strikes After November 3",
+   "source": "NewsCord",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbS1hSzBsa0NjbkR5Z3E1bGN3Z2FxVmp3TGFHUmo4NFN5THMyWExjbUtVZFhCaWQ2My1KekdsbDRLV1VoYWpPSTdXc2NKVTlwVGtMajRNeUVneWlHZlNSTFR4SjQyamczSzNiRUNPSWxIOWdoMWFSY3JwTnFvSklWMndTYVNQOXZrMm1WMVI1S1plOG1GajdoRE52SnpWQl9BUDJVLTJYb1hyWE8xRi1ILWxBZWktRmliazNjOVloMGo3bXFXd3BjVGFwMjlFSnJfRnA5dThqTHpkLWZtcDFydHd6QzdtZTl5?oc=5",
+   "published": "2026-10-23T17:19:56+00:00",
+   "id": "56de59f1c262",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran has detailed plans to strike undersea cables in the Persian Gulf if war resumes - media",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Le report d'une frappe réduit temporairement la prime de risque géopolitique sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Bill Ackman Ties 2027 Stock Outlook to Easing Iran, Russia-Ukraine Conflicts",
-   "source": "TOKENPOST",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SS0tMWTdXYkV0V2szOE9ZYjBGdmxUOHMwV1pXalphYUVnZDZ5cXo5UmU1VFl1SmEyWUt0YldfcURMa2hBT28zZDFrMl9tSWozVEx3ZVRR?oc=5",
-   "published": "2026-10-23T06:07:02+00:00",
-   "id": "14fd50e97911",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Espoir lointain de détente géopolitique réduisant marginalement la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7528,7 +7528,8 @@
   "news|65013c4bc4c3": 1792803691.6008866,
   "news|11ea6af7e533": 1792805484.2529156,
   "news|270204ce201e": 1792805485.2135482,
-  "news|5930229e02ea": 1792805486.120968
+  "news|5930229e02ea": 1792805486.120968,
+  "news|56de59f1c262": 1792807296.0038214
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7711,6 +7712,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T02:01:36.003897+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s Islamic Revolutionary Guard Corps Prepares Prolonged War as U.S. and Israel Plan Strikes After November 3</b>\n📰 NewsCord · Ven 23/10 19:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbS1hSzBsa0NjbkR5Z3E1bGN3Z2FxVmp3TGFHUmo4NFN5THMyWExjbUtVZFhCaWQ2My1KekdsbDRLV1VoYWpPSTdXc2NKVTlwVGtMajRNeUVneWlHZlNSTFR4SjQyamczSzNiRUNPSWxIOWdoMWFSY3JwTnFvSklWMndTYVNQOXZrMm1WMVI1S1plOG1GajdoRE52SnpWQl9BUDJVLTJYb1hyWE8xRi1ILWxBZWktRmliazNjOVloMGo3bXFXd3BjVGFwMjlFSnJfRnA5dThqTHpkLWZtcDFydHd6QzdtZTl5?oc=5"
+  },
   {
    "ts": "2026-10-24T01:31:26.121106+00:00",
    "kind": "news",
@@ -8005,11 +8011,6 @@
    "ts": "2026-10-23T07:47:11.320846+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bill Ackman Ties 2027 Stock Outlook to Easing Iran, Russia-Ukraine Conflicts</b>\n📰 TOKENPOST · Ven 23/10 08:07\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SS0tMWTdXYkV0V2szOE9ZYjBGdmxUOHMwV1pXalphYUVnZDZ5cXo5UmU1VFl1SmEyWUt0YldfcURMa2hBT28zZDFrMl9tSWozVEx3ZVRR?oc=5"
-  },
-  {
-   "ts": "2026-10-23T06:31:30.749979+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>War fears grow as tankers hit in Strait of Hormuz</b>\n📰 jamaica-gleaner.com · Ven 23/10 08:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://jamaica-gleaner.com/article/world-news/20261023/war-fears-grow-tankers-hit-strait-hormuz"
   }
  ],
  "daily_forecast": {
