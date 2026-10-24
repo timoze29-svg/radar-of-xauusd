@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792851351.750902,
+   "ts": 1792855863.768319,
    "data": [
     {
      "title": "CPI m/m",
@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "fc3795b58829",
-  "015b98f8c043",
-  "894f83dfde5b",
-  "ab354dfc1847",
   "ff79ea0c4e30",
   "3be064b4a6c8",
   "6e0dc8f1443b",
@@ -3945,7 +3941,11 @@
   "b515375dd58d",
   "4921879b3f9c",
   "8c058aabd676",
-  "099e07944a8b"
+  "099e07944a8b",
+  "35057689a3ed",
+  "7572486ec750",
+  "bf9f415fc8c8",
+  "37e058567d0f"
  ],
  "news": [
   {
@@ -4645,6 +4645,18 @@
    "method": "IA"
   },
   {
+   "title": "Fed Over-Tightening: How Much Runway Is Left Before It Bites?",
+   "source": "Seeking Alpha",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHFtRnkxbUdoQndZTzF1N3IzMUtWMTBQSnpVbzVQcV9xVHpkRkc4bWpnMmlLWE1pUUx4UUlUd1o5eFU5eG1qODdoRUJvYl9Ja1hBOFpQTzRDQ0lsbjh2aUk5N2JnZk1NWkM0X2p2UjJSMWxOR0JQUFBZV0xRRm1tV0FnYmotenNScHlCUW9raFVSVnFhVWhjQ2ZfcGdCTElL?oc=5",
+   "published": "2026-10-24T08:30:00+00:00",
+   "id": "37e058567d0f",
+   "impact": -3,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street",
    "source": "The Motley Fool",
    "theme": "Fed",
@@ -4739,6 +4751,18 @@
    "cat": "géopolitique",
    "raison": "Incertitude géopolitique accrue autour de Taïwan, renforçant légèrement l'attrait de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "OPINION: Trump’s ‘Little War’ With Iran Just Got a Lot Bigger",
+   "source": "EnergyNow.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHowOEh3MDJSdVJ2TlQ3S1lYTHA3OEhUdGcwUTViaHRHdmJUc01CaUxGTTZ2Q0NXVXlQWFVZa19OUlFOeGRyRERtX2pxLXdJSFo5REhPamlVWWRkcUVNQjkzTE1CWktMY1QyY1BkQl9PLWlMU3RSWmNJRXZDS0l4bVNmVW1nUXJtMXVaTXZPdXF1dw?oc=5",
+   "published": "2026-10-24T06:53:40+00:00",
+   "id": "7572486ec750",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump plans to shift some Canada tariffs",
@@ -5087,6 +5111,18 @@
    "cat": "inflation",
    "raison": "Inflation persistante favorisant un maintien des taux élevés de la Fed, pesant sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Fed Outlook: Pause in Rate Hikes in October, Potential Resumption in December",
+   "source": "Moomoo",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFpzLTI2aEVjSXVPY2ZzcjlLay1TUXB5VGJaRGliZWNXbHZaTlF3WUR2RXQwOTR1cUNfcWNVOUNUSDhJSFVtTjBiNWxQUEJaZXM1MHZtTGt2eHpUOVRocEJNdTczU3ZEbl9hZE56NzhjZ2tZWjAzMFV0d19rVzByMzJubUpnOWtVYURpTjA4aENGeWFFYW9VSHlncFZpQ1JOamlyR1J3RVB6dkk?oc=5",
+   "published": "2026-10-24T01:35:47+00:00",
+   "id": "bf9f415fc8c8",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "UBS Sees Gold Testing $4,000 Again as Central Bank Buying May Support Prices",
@@ -6311,42 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Efforts diplomatiques de désescalade au Moyen-Orient, susceptible d'éroder un peu la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Exclusive | Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-   "source": "WSJ",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-   "published": "2026-10-23T17:48:00+00:00",
-   "id": "4700559626bd",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Allégements tarifaires ciblés confirmés, très légère détente sur les frictions commerciales.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia Is Selling Its Gold, And That’s Good News For Owners",
-   "source": "GoldSilver",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaEF5dlNGSjRvcWRzZ1dzZzRjLXFySEllRDZ5c2Zrd2RXYmZDeW9hRU5UQjFCZDgzTDE1YXd4ZklsY0V6Qm40UGNYVVRVZDRiay1DMXQzVVFCZU9MeU1uamREcDk5Qld0TVBUelN1TTk4dWNRZlZpNVJvc01oVnZsd3ItYmVPUUo0MHk2bGlPdkhmSU1iOURLWFl3?oc=5",
-   "published": "2026-10-23T17:34:28+00:00",
-   "id": "d6649fdcb66a",
-   "impact": -2,
-   "cat": "banques centrales",
-   "raison": "Ventes potentielles d'or souverain augmentant l'offre physique disponible sur le marché.",
-   "method": "IA"
-  },
-  {
-   "title": "Israel And U.S. Prepare Joint Strikes On Iran After Midterms Amid Election Timing Dispute: how 11 outlets framed it",
-   "source": "NewsCord",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFEzbUp3UFpHNlJIcHBQdFc5OFpnMWNuRkYxOVk0aFZzVWdpNlJFZEZDTVotY0pTazVQV2lSZ1FySnVLamt4UGhRSjBib255YjBFcnJ4SmpENTdwYkNFSVJzMXZnMW5qQjlJUTgxODg2MWVXUWdIWERHdGFXbGhXbWFtVXItUy1icldpOFpZUk9lN0VjNGE3ZkEzdGZBWE1LYk5RRjJFMWVRNE9yNVg2ZE9LNk5OdURtUHdkamtoZmgzSlBEMjlJZ3hLZFhQSEU3cVZESHhPWTQtQ3hFZFJVWnU4WTJIYzNW?oc=5",
-   "published": "2026-10-23T17:28:01+00:00",
-   "id": "65013c4bc4c3",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Risque majeur d'escalade militaire régionale au Moyen-Orient dopant la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7547,7 +7547,8 @@
   "news|1347879f71f7": 1792851913.2451956,
   "news|e743dffadaf4": 1792853168.762407,
   "brk|BTC|pwh|dn|2026-10-19/2026-10-25": 1792855157.7822695,
-  "brk|BTC|h20|dn|2026-10-19/2026-10-25": 1792855158.6493857
+  "brk|BTC|h20|dn|2026-10-19/2026-10-25": 1792855158.6493857,
+  "news|bf9f415fc8c8": 1792856073.1309469
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7730,6 +7731,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T15:34:33.131030+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Outlook: Pause in Rate Hikes in October, Potential Resumption in December</b>\n📰 Moomoo · Sam 24/10 03:35\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFpzLTI2aEVjSXVPY2ZzcjlLay1TUXB5VGJaRGliZWNXbHZaTlF3WUR2RXQwOTR1cUNfcWNVOUNUSDhJSFVtTjBiNWxQUEJaZXM1MHZtTGt2eHpUOVRocEJNdTczU3ZEbl9hZE56NzhjZ2tZWjAzMFV0d19rVzByMzJubUpnOWtVYURpTjA4aENGeWFFYW9VSHlncFZpQ1JOamlyR1J3RVB6dkk?oc=5"
+  },
   {
    "ts": "2026-10-24T15:19:18.649470+00:00",
    "kind": "breakout",
@@ -8024,11 +8030,6 @@
    "ts": "2026-10-23T13:01:37.669778+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Slow news day at the office’: LeBron James shrugs off Trump’s national anthem attack</b>\n📰 The Guardian · Ven 23/10 11:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmNKOVBkQW12cEVSZUVIYnQ1cEJmSmpDZGMzSFRxNTFrVm85LUFBc0xOdmtmdDczaWl1aVBLRW5kQnVFYmxHREVhZ1c3RkQ1cENPM1B4VzhadzBGY1BmOUF6aDVBVmhxbzltT3hzWUVkX3g3RDd5VXdMcGptX3BMR2FyYnF5dzhjOHQxVkpScGxFRW91SVJXVQ?oc=5"
-  },
-  {
-   "ts": "2026-10-23T13:01:36.643252+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Fact Sheet: Costs of the Iran War</b>\n📰 Center for American Progress · Ven 23/10 14:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXJIX3kycHVERkc3NjZyNUY0cmFIa0dQVFBFZHBuR3dqcHNKZUo0UjJGcm5fdzFHd3R4WTFfem9jMEMxWkNwczRSOTNkQ29GbTdDb1J2c3VvRWRHYnFxSVVFaU5rN1NCdEsxYUtuMnpNb1dYUUF6V0NxSUhFMzA?oc=5"
   }
  ],
  "daily_forecast": {
