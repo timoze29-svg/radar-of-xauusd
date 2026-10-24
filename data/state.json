@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "9ec0924dc9ae",
-  "f201d448cbe2",
   "d73c621b35fe",
   "f39159b9abda",
   "a1122bdb6b23",
@@ -3945,7 +3943,9 @@
   "48623407ac20",
   "8e9211f31f44",
   "c6aa30f0f744",
-  "ce2d25334dcd"
+  "ce2d25334dcd",
+  "a8956e299b6d",
+  "5c8b91a26e14"
  ],
  "news": [
   {
@@ -3970,6 +3970,18 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold rate today in Hyderabad, October 24, 2026: Check 22K, 24K and 18K gold prices",
+   "source": "Hyderabad Mail",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2xHX3hRdDcxaGdFal9ROXFSTnc4OUFUVGM0S25DYjVaU250RDByVFR4ck5DNi1iLWJVYVUzOWJ5OEJDZ2JJQS1IT2VkY1pGcmhsQTRBQjJqWE5xb01HRE9UTmZaVC1qYUMxSm8tcVV4TjhLbHRFSGU1a20xU2hDbnBCWXc2Um5hSHlQb2dZZzNpVUU5bVM4Qm5LNlJELV9qV3JDV2tYcWU?oc=5",
+   "published": "2026-10-24T04:28:55+00:00",
+   "id": "a8956e299b6d",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -4297,30 +4309,6 @@
    "method": "IA"
   },
   {
-   "title": "Jon Husted calls for end to war in Iran  on America terms , flexes affordability agenda",
-   "source": "komonews.com",
-   "theme": "Géopolitique",
-   "link": "https://komonews.com/news/nation-world/jon-husted-calls-for-end-to-war-in-iran-on-americas-terms-flexes-affordability-agendaa-data-centers",
-   "published": "2026-10-24T00:45:00+00:00",
-   "id": "11ea6af7e533",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Déclaration politique américaine secondaire sans impact géopolitique direct.",
-   "method": "IA"
-  },
-  {
-   "title": "Nuclear power could more than triple by 2060 , UN agency says",
-   "source": "butlereagle.com",
-   "theme": "Géopolitique",
-   "link": "https://www.butlereagle.com/20261023/nuclear-power-could-more-than-triple-by-2060-un-agency-says/",
-   "published": "2026-10-24T00:45:00+00:00",
-   "id": "04f2fdcf21e6",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Prévision énergétique à très long terme sans pertinence pour l'or à court terme.",
-   "method": "IA"
-  },
-  {
    "title": "Attack in the West Bank kills 2 Israeli soldiers , and other Mideast news",
    "source": "wral.com",
    "theme": "Géopolitique",
@@ -4403,6 +4391,18 @@
    "cat": "inflation",
    "raison": "Anticipation d'inflation poussant les rendements obligataires et le dollar à la hausse.",
    "method": "IA"
+  },
+  {
+   "title": "US quietly moving diplomats from Middle East amid Iran escalation fears: CNN",
+   "source": "Roya News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaZXVfYXpkQW9VT1ZYOEdsTURIS3JkZC1JeV9RRDdFcXFiTmdnYXVaSHlpMzVsRURPdWtoUWlXYVd5bUpXUmRPeg?oc=5",
+   "published": "2026-10-23T23:12:25+00:00",
+   "id": "5c8b91a26e14",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears",
@@ -7533,7 +7533,8 @@
   "news|62c4942f4b5f": 1792811779.1424592,
   "news|b4fe58f395b7": 1792812692.964293,
   "news|0463939d4182": 1792815527.8040125,
-  "news|cdd231b94a17": 1792817196.99158
+  "news|cdd231b94a17": 1792817196.99158,
+  "news|5c8b91a26e14": 1792820275.1971545
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7716,6 +7717,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T05:37:55.197233+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US quietly moving diplomats from Middle East amid Iran escalation fears: CNN</b>\n📰 Roya News · Sam 24/10 01:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaZXVfYXpkQW9VT1ZYOEdsTURIS3JkZC1JeV9RRDdFcXFiTmdnYXVaSHlpMzVsRURPdWtoUWlXYVd5bUpXUmRPeg?oc=5"
+  },
   {
    "ts": "2026-10-24T04:46:36.991647+00:00",
    "kind": "news",
@@ -8010,11 +8016,6 @@
    "ts": "2026-10-23T10:46:00.621080+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel Draw Up Iran Strike Plans for After November 3</b>\n📰 houseofsaud.com · Ven 23/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZnBJZi03VGFvQWg4YVZYdHk5Mjd0RzQ2YXc4TG1reFJ6RWw0dTd5Z2lUWWFXbGc1TzhjUmctYW1NY1poWWk2dTh1NHJrTDhuSTJoT2tIZkRDRjJhMElXbjVRXzRpQmM?oc=5"
-  },
-  {
-   "ts": "2026-10-23T10:16:05.743456+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran War’s Architects Get Ready to Face Frustrated Voters</b>\n📰 Bloomberg.com · Ven 23/10 11:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObWMzdEJ4QWxfZ242VDVLX1hEZGFGS1I4Q3lWN0xGWjhjbXRLaXZzUy1TeW9XeUVzNk1mMnhxUVdHcXdIdVExejhhdllxcWpNN2stQ1FiZGFtaXpZcDUtaEJMWHEwdXlpTjFxNkczWDdKOHU3UWdtUlVzZ1F6eU1yUXBEMjduaUFhem1wZ0pDNkRUUWg5cU51SFhoUHo1T2RJektfSVZLazZqTFBpa1BlZGUxdzdMYmZUVlk1SndUTFlvdDlSZWIxOTRld204a0ktbmRaZldn?oc=5"
   }
  ],
  "daily_forecast": {
