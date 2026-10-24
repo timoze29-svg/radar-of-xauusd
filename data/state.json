@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "3f473c952307",
-  "7e34ef0884fa",
-  "6461f3b5b969",
   "fc3795b58829",
   "015b98f8c043",
   "894f83dfde5b",
@@ -3945,7 +3942,10 @@
   "d7eae9077eea",
   "7956b41170c5",
   "7d710450011c",
-  "b515375dd58d"
+  "b515375dd58d",
+  "4921879b3f9c",
+  "8c058aabd676",
+  "099e07944a8b"
  ],
  "news": [
   {
@@ -7545,7 +7545,9 @@
   "news|827ef6cab832": 1792851911.424813,
   "news|f4a503bbb55a": 1792851912.3516276,
   "news|1347879f71f7": 1792851913.2451956,
-  "news|e743dffadaf4": 1792853168.762407
+  "news|e743dffadaf4": 1792853168.762407,
+  "brk|BTC|pwh|dn|2026-10-19/2026-10-25": 1792855157.7822695,
+  "brk|BTC|h20|dn|2026-10-19/2026-10-25": 1792855158.6493857
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7728,6 +7730,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T15:19:18.649470+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 20 JOURS\nNiveau : 79 736 → prix : <b>79 546</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.53 | 60j 0.53"
+  },
+  {
+   "ts": "2026-10-24T15:19:17.782333+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 79 736 → prix : <b>79 546</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.53 | 60j 0.53"
+  },
   {
    "ts": "2026-10-24T14:46:08.762485+00:00",
    "kind": "news",
@@ -8017,16 +8029,6 @@
    "ts": "2026-10-23T13:01:36.643252+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Fact Sheet: Costs of the Iran War</b>\n📰 Center for American Progress · Ven 23/10 14:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXJIX3kycHVERkc3NjZyNUY0cmFIa0dQVFBFZHBuR3dqcHNKZUo0UjJGcm5fdzFHd3R4WTFfem9jMEMxWkNwczRSOTNkQ29GbTdDb1J2c3VvRWRHYnFxSVVFaU5rN1NCdEsxYUtuMnpNb1dYUUF6V0NxSUhFMzA?oc=5"
-  },
-  {
-   "ts": "2026-10-23T12:46:57.567616+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Fed (2 ans vs taux Fed) (-10), Taux réels 10 ans (20j) (-9)"
-  },
-  {
-   "ts": "2026-10-23T12:16:20.124537+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Prepares For Possible Strikes, Midterm Early Voting, Trump BBC Deposition</b>\n📰 NPR · Ven 23/10 12:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcm1RQ2JpY2Zla1NRSHBpckFudk1vRHRxeTZLMTE4eWZQWGFFSG1UOXYwNFBwOGcwSk1kU2FOMjNMSWs4ME9Vck94alJRVEk1dWw2c1d0MDNuOTlvTndUb0JfQTBzbk9wNV9udm95Q1dKUm5JUnNUUGp0YTE4eXg5N3JVd2lwWXdEaC1WUW5HemM5ZnlmUkpxZHBTSHU5M0ROZGx1RHFzRHdxZmFoa0E0TXhJM0pKVldCamo4?oc=5"
   }
  ],
  "daily_forecast": {
