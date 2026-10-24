@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "c10620838817",
-  "0752c248c6c5",
-  "efaa998d800e",
-  "1658bcdcf879",
-  "74d0d99e2dce",
-  "dfc6fe060ac9",
   "e18948b82f40",
   "a15902d9ef88",
   "3ea780411f09",
@@ -3945,9 +3939,27 @@
   "4d3397f39c3b",
   "1f8372474a76",
   "793f8d7cbb3e",
-  "63c1aa8ae25b"
+  "63c1aa8ae25b",
+  "66a8c805add4",
+  "8a7ebb54bf66",
+  "fc6c771f67e8",
+  "82fd4a5a07cc",
+  "b55de0fa9ba0",
+  "261bd99b0ebe"
  ],
  "news": [
+  {
+   "title": "Voters Are Begging Trump to End the War in Iran",
+   "source": "Mother Jones",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNud0ZsaENmcHZWdFhDOGdFV3hpay1pSENXT01WaGV6R0JmZzRjZ0dmNXNkbjJWTWwxcTVxMVVXMi1oRWM5LWkwVElwR1dGOFVPMWVUUmpuV1J0Rzl3R1JqQ21nUjhyVHRCcEJIQi1yZ01qR0JDaHJmWkt2NkRqT3hpYy1FRHhEY2RzNQ?oc=5",
+   "published": "2026-10-24T19:17:46+00:00",
+   "id": "66a8c805add4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Pentagon Presents President Trump With Options for Renewed Iran Strikes",
    "source": "The Media Line",
@@ -4391,6 +4403,18 @@
    "cat": "inflation",
    "raison": "Inquiétudes persistantes sur l'inflation incitant à des stratégies de couverture d'actifs.",
    "method": "IA"
+  },
+  {
+   "title": "Middle East elections and escalation, with Brett McGurk",
+   "source": "Yahoo",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdF9paE9YNi1wVUtZTVpjODEzdEFIRFp0T1A2WEM5bDJMd3I4NVdrR25HQnd4ck9CbFk3Q0VVZHhWRk9PTk93TnV3SDNEbHh0a1JYdTJkVWswVEdmWlR0Z19HRHZYcjV1TTlvb0FXekJQNlUyNmRmTnZvZk9qbEM1cjlYTDFJRWpwa3lkdzUzdTM?oc=5",
+   "published": "2026-10-24T13:07:58+00:00",
+   "id": "8a7ebb54bf66",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Prepares for Iran Escalation After US, Israeli Elections",
@@ -6323,30 +6347,6 @@
    "cat": "commerce",
    "raison": "Suppression de barrières commerciales apaisant les tensions avec le Canada.",
    "method": "IA"
-  },
-  {
-   "title": "US Ambassador to Turkey: Could there be an Iran strike this weekend? Absolutely",
-   "source": "Israel National News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQk5pcnJTY2h6ODdoZ3h3Zk1RY1lfS2V6SHFGNUVobGVUc0dUYjdycjk3Y0N1ZFVvZmhISXJCd3RDazdtOEVyVzFtSkI5dW5rM3pzaGZqRUlTdw?oc=5",
-   "published": "2026-10-23T19:43:28+00:00",
-   "id": "b381cc649570",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Risque accru de frappe militaire contre l'Iran déclenchant des flux refuges massifs.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
-   "source": "Yahoo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpyOVBKMGxIbF9oUXluaUVMeGxfQlFjdEZHLUY3WHBia0lnMzVSbVNmX2YwcWVISVdORlcxaDdydXFRb0hsdURFV21td3dyb1RpVGs3Q1RHM2JQRm9JR3VuWm1NLWt2bnJhQnpQOWwxdVgxNjZ1Y05tSEx0eFA1RGZ1ODFWcjlPZFFhYjdWT08tUQ?oc=5",
-   "published": "2026-10-23T19:38:50+00:00",
-   "id": "9335bb22158b",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Attaques en mer Rouge et flambée pétrolière stimulant la demande refuge et les anticipations d'inflation.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7554,7 +7554,8 @@
   "news|f75e027f087a": 1792865097.4494011,
   "news|da913e6af3cd": 1792867566.4798658,
   "news|4d569b2c6665": 1792867567.3676517,
-  "news|c8cca0a70cf2": 1792867568.2808714
+  "news|c8cca0a70cf2": 1792867568.2808714,
+  "news|66a8c805add4": 1792870297.9951613
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7737,6 +7738,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T19:31:37.995238+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Voters Are Begging Trump to End the War in Iran</b>\n📰 Mother Jones · Sam 24/10 21:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNud0ZsaENmcHZWdFhDOGdFV3hpay1pSENXT01WaGV6R0JmZzRjZ0dmNXNkbjJWTWwxcTVxMVVXMi1oRWM5LWkwVElwR1dGOFVPMWVUUmpuV1J0Rzl3R1JqQ21nUjhyVHRCcEJIQi1yZ01qR0JDaHJmWkt2NkRqT3hpYy1FRHhEY2RzNQ?oc=5"
+  },
   {
    "ts": "2026-10-24T18:46:08.281181+00:00",
    "kind": "news",
@@ -8031,11 +8037,6 @@
    "ts": "2026-10-23T13:46:18.366104+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Pétrole WTI</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 101.90 → prix : <b>101.95</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.06 | 60j -0.1"
-  },
-  {
-   "ts": "2026-10-23T13:46:17.185366+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. and Israel are planning for a possible attack on Iran, source tells NPR - Oregon Public Broadcasting</b>\n📰 OPB · Jeu 22/10 19:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzBESkJLeFpmRU9LajVVQzdCOXNRdmZYNDdMWG1Sd0QzeXgzaFUzcDM0azlLSXk2bFFtcHhudTNBQ1lza1MycExvTWRSY0EwSXUySTZvMnFzSmF1OHZseXU4VUQwZTZhanZLcTlqYy1KVThsVE1xT0t3SS1iZDFQYi0tVkpvZ0prZ2ZBRTlVNzdDQTdsRG1pOTNUUk1hZnNtLUpwS2RvTnZjVGVXVzhvSw?oc=5"
   }
  ],
  "daily_forecast": {
