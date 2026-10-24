@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "ff79ea0c4e30",
-  "3be064b4a6c8",
-  "6e0dc8f1443b",
-  "bdf67e39bcda",
-  "b6063de1fa78",
-  "7f3c36a6ce75",
-  "135c5490a91d",
   "9e3fbd7565f9",
   "f9d3ac621853",
   "ad37682a2ac9",
@@ -3945,9 +3938,28 @@
   "35057689a3ed",
   "7572486ec750",
   "bf9f415fc8c8",
-  "37e058567d0f"
+  "37e058567d0f",
+  "11821a2e7d3a",
+  "a67db650c79f",
+  "dca7766c6b80",
+  "1737a5e18487",
+  "39ea09c528cd",
+  "92798cad47ad",
+  "05bb36b896d1"
  ],
  "news": [
+  {
+   "title": "'Israel will fire first shot, US will try to seize island': Iran believes attack likely next week - repor",
+   "source": "The Times of India",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZXAtbGxRUU5tMERfamJ5ZHBPMHVWUnNkbm0wMi1vQnBLUC1ldmxXUG5HNjVKa2NINjU0bHdadTVOVWNJWEN2bjVGdnJIVWg3STI1VTIzWHVlZldpOFR1RkY4cFM3UnR1TndFMUM4Y2VfMFpEeXhMSUdDdHU5cDltamszYmJRWnFvM0FNS2VIRzhJMHRDRWI2TkNEbF80cExQRkV6YlJ4R1NPNVBFQm1BOEw4VWJ0YkI5dzJhN1BTeDFRS1d3bWxPRmUwZFB5cVM5ZnZxQnU3OE55bkZreU1Bd29yZHplREJjYUZBNTBfNTh6VmtKTGIzamdPRnZPV1RQZW05c09HMlZWdXhS0gGSAkFVX3lxTFAxUE51QVhJZlVwcUltYk5Ec0xOMmtOSjFMOWhPQUdtVEh3Mm5ZS201X3ZUbFoxMlhkaGNoUlVRZ29sdGF4U1FQOFVYb3BtbXNMc2hhRm85ODdhRUhKdXNFRGlnY2s2YTc1eVVJcDlCLUhwbVlJNEFwR2pOWnp5b25KWGtJSjNSUkpqNjh5c2pNOFlpZHhpVU9LUlRUQmtieG56Smt3Z2ctRkZjZ1g5aEpQekxXeVlvdnpHcDVQTzItcm1JbFhscDRSYXdnelh0cGh5eW5waldTUWw4bUlpZzlwZEplZWJ6QzVFNHg1TFpibFVGTjQzOUVFMnNQOGV0RmF4bnRKSFBXUWF0aFFFVVpDMnc?oc=5",
+   "published": "2026-10-24T15:24:00+00:00",
+   "id": "dca7766c6b80",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump Criticizes Fed Chair Warsh as Rate Hikes Threaten Stocks",
    "source": "SuaraGarut.ID",
@@ -6335,18 +6347,6 @@
    "cat": "commerce",
    "raison": "Baisse modérée des tensions commerciales et du risque tarifaire inflationniste.",
    "method": "IA"
-  },
-  {
-   "title": "Egypt FM joins first R4-E4 ministerial meeting on Middle East de-escalation",
-   "source": "Egyptian Gazette",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMThqZEEzbFhqSG4tZHV4clZDZ2UzdzIxc0xCYlNfWTd3RDVUd2VWRzZjVnVGZGJtWXlPT2s2SXpoY3VkWk9EMzdkZW9jd1J5aWJqS3kweXVpdEgxalFuQmoxaFE1a0V0R0hrT3NCVGt3ODJBa1lTSlRRakIwb2J4WTNKWHhwUkdqWG83MUtsbjBQeUxZZFVwZWZJTjNhVjl5UmlzanBnMXRsbEwzWUVzUw?oc=5",
-   "published": "2026-10-23T17:56:02+00:00",
-   "id": "7cbb1547ba8c",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Efforts diplomatiques de désescalade au Moyen-Orient, susceptible d'éroder un peu la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7548,7 +7548,8 @@
   "news|e743dffadaf4": 1792853168.762407,
   "brk|BTC|pwh|dn|2026-10-19/2026-10-25": 1792855157.7822695,
   "brk|BTC|h20|dn|2026-10-19/2026-10-25": 1792855158.6493857,
-  "news|bf9f415fc8c8": 1792856073.1309469
+  "news|bf9f415fc8c8": 1792856073.1309469,
+  "news|dca7766c6b80": 1792856769.8858502
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7731,6 +7732,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-24T15:46:09.885916+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Israel will fire first shot, US will try to seize island': Iran believes attack likely next week - repor</b>\n📰 The Times of India · Sam 24/10 17:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQZXAtbGxRUU5tMERfamJ5ZHBPMHVWUnNkbm0wMi1vQnBLUC1ldmxXUG5HNjVKa2NINjU0bHdadTVOVWNJWEN2bjVGdnJIVWg3STI1VTIzWHVlZldpOFR1RkY4cFM3UnR1TndFMUM4Y2VfMFpEeXhMSUdDdHU5cDltamszYmJRWnFvM0FNS2VIRzhJMHRDRWI2TkNEbF80cExQRkV6YlJ4R1NPNVBFQm1BOEw4VWJ0YkI5dzJhN1BTeDFRS1d3bWxPRmUwZFB5cVM5ZnZxQnU3OE55bkZreU1Bd29yZHplREJjYUZBNTBfNTh6VmtKTGIzamdPRnZPV1RQZW05c09HMlZWdXhS0gGSAkFVX3lxTFAxUE51QVhJZlVwcUltYk5Ec0xOMmtOSjFMOWhPQUdtVEh3Mm5ZS201X3ZUbFoxMlhkaGNoUlVRZ29sdGF4U1FQOFVYb3BtbXNMc2hhRm85ODdhRUhKdXNFRGlnY2s2YTc1eVVJcDlCLUhwbVlJNEFwR2pOWnp5b25KWGtJSjNSUkpqNjh5c2pNOFlpZHhpVU9LUlRUQmtieG56Smt3Z2ctRkZjZ1g5aEpQekxXeVlvdnpHcDVQTzItcm1JbFhscDRSYXdnelh0cGh5eW5waldTUWw4bUlpZzlwZEplZWJ6QzVFNHg1TFpibFVGTjQzOUVFMnNQOGV0RmF4bnRKSFBXUWF0aFFFVVpDMnc?oc=5"
+  },
   {
    "ts": "2026-10-24T15:34:33.131030+00:00",
    "kind": "news",
@@ -8025,11 +8031,6 @@
    "ts": "2026-10-23T13:01:38.785201+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -12)\nMoteurs principaux : Momentum or (vs MM50) (-15), Fed (2 ans vs taux Fed) (-10), Sentiment news 24h (+9)"
-  },
-  {
-   "ts": "2026-10-23T13:01:37.669778+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Slow news day at the office’: LeBron James shrugs off Trump’s national anthem attack</b>\n📰 The Guardian · Ven 23/10 11:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmNKOVBkQW12cEVSZUVIYnQ1cEJmSmpDZGMzSFRxNTFrVm85LUFBc0xOdmtmdDczaWl1aVBLRW5kQnVFYmxHREVhZ1c3RkQ1cENPM1B4VzhadzBGY1BmOUF6aDVBVmhxbzltT3hzWUVkX3g3RDd5VXdMcGptX3BMR2FyYnF5dzhjOHQxVkpScGxFRW91SVJXVQ?oc=5"
   }
  ],
  "daily_forecast": {
