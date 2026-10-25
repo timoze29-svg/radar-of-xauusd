@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792914352.163593,
+   "ts": 1792918875.4253423,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,8 +1045,6 @@
   }
  },
  "seen_news": [
-  "5cbf74679b7c",
-  "0f8c895e104e",
   "82dfa834ec57",
   "7e5ee52918eb",
   "1880adb0b449",
@@ -4044,7 +4042,9 @@
   "e78bd486dd06",
   "9a2669d22165",
   "0079754102d7",
-  "9bdd5931d517"
+  "9bdd5931d517",
+  "7dd37dbde91a",
+  "36950e030049"
  ],
  "news": [
   {
@@ -4442,6 +4442,18 @@
    "cat": "inflation",
    "raison": "Inflation supérieure aux attentes ravivant le risque de hausse de taux et renforçant les rendements réels.",
    "method": "IA"
+  },
+  {
+   "title": "‘Maybe tomorrow’: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer",
+   "source": "The Times of India",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaHFwYVpvXy1sVDhJM2hrWFEzclR6MVF6MjhfYUw3V2dJNDZkWU5yUDNPUGdrRVN2UE9yWjFfWXlNTHdta0lDY2dSa3VrQTdmN3JHd3JCMjV5ZEdQb2x0eHF6emNJLTBQMkUzN09xWjhmY1p0cEJjRjFmMDh1THc3dy1JZEd2VzFJdDJ4NktidWluMzhmQUk4QVVtS3Z4OVdxa2RFUTJCbWxCa3F3cERYaWRaNXBxNlllLWM5Rzh3TEdUSVV5UTFpQjI5R2tWRXhWelRqNktuN0VfcWEyVEMtYUtWMXNhckd3MXfSAe8BQVVfeXFMTlBUNF9hWERjWEpzUTQ5TThGUVFpVkhNak9OWHAxWmo5WDluX2dWdldITFgxYXhLMVNydG1IdmVvUk8wVnNKTERBcE5MNjRLTHR4X0NUdDV5Wjhla3EzN0dkX1JNLWxzd3JLcXVxbVlVT2xudTNwZm9WNmpPSFp3S0lhVjIxQWVERVJiTnRGZmE4cTVncy1nZ3JHRW9GUm9iUnRXMVdXSE9lU3FxOGNZMWpPNVFGQTRLdkU1eERFSG1kbjB1WUpNcEtvQmhTRjh0Rm1FM243SDZ6VlVqTWVBQzRLbjZmTTdhV3Z4Y3dOd1k?oc=5",
+   "published": "2026-10-25T02:44:00+00:00",
+   "id": "7dd37dbde91a",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Tehran warns of nuclear options and infrastructure strikes if US attacks Iran",
@@ -6434,18 +6446,6 @@
    "cat": "commerce",
    "raison": "Tensions protectionnistes et anticipations d'inflation soutenant modérément l'attrait de couverture de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Goldman Sachs Says Refiners See 'High Probability' Of Sharp Oil Supply Drop As Houthi Attacks Escalate — Crude Oil Prices Hit 6-Month High",
-   "source": "Yahoo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVdFc3p4VEwtNmFzXzVTWkFKay1kMnF5aVVSSm9ZSUJUenJMOEt1b0UzZWhDQi1OT1FVdnE5Z0FkWHpuZkxldnNMWnlyTXdVaWVrajM1SFJlOWRIWlFRYm5hSWhVYzFMWFM3Znh2Z09NeXEtTDFCbXhocXpEYzlzWmgtUnlrWU9LNkxPTVliOElTQQ?oc=5",
-   "published": "2026-10-24T06:28:00+00:00",
-   "id": "57652bc433ea",
-   "impact": 3,
-   "cat": "inflation",
-   "raison": "Flambée du brut et perturbations maritimes ravivant les craintes d'inflation et de refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7677,7 +7677,8 @@
   "news|429f2a8321f7": 1792910770.9109743,
   "news|be0f33a25018": 1792910771.8697827,
   "news|652ea85fa249": 1792914563.7402105,
-  "news|a9a37e40c9f6": 1792917152.8195982
+  "news|a9a37e40c9f6": 1792917152.8195982,
+  "news|7dd37dbde91a": 1792919092.5545175
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7860,6 +7861,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T09:04:52.554600+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>‘Maybe tomorrow’: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer</b>\n📰 The Times of India · Dim 25/10 03:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaHFwYVpvXy1sVDhJM2hrWFEzclR6MVF6MjhfYUw3V2dJNDZkWU5yUDNPUGdrRVN2UE9yWjFfWXlNTHdta0lDY2dSa3VrQTdmN3JHd3JCMjV5ZEdQb2x0eHF6emNJLTBQMkUzN09xWjhmY1p0cEJjRjFmMDh1THc3dy1JZEd2VzFJdDJ4NktidWluMzhmQUk4QVVtS3Z4OVdxa2RFUTJCbWxCa3F3cERYaWRaNXBxNlllLWM5Rzh3TEdUSVV5UTFpQjI5R2tWRXhWelRqNktuN0VfcWEyVEMtYUtWMXNhckd3MXfSAe8BQVVfeXFMTlBUNF9hWERjWEpzUTQ5TThGUVFpVkhNak9OWHAxWmo5WDluX2dWdldITFgxYXhLMVNydG1IdmVvUk8wVnNKTERBcE5MNjRLTHR4X0NUdDV5Wjhla3EzN0dkX1JNLWxzd3JLcXVxbVlVT2xudTNwZm9WNmpPSFp3S0lhVjIxQWVERVJiTnRGZmE4cTVncy1nZ3JHRW9GUm9iUnRXMVdXSE9lU3FxOGNZMWpPNVFGQTRLdkU1eERFSG1kbjB1WUpNcEtvQmhTRjh0Rm1FM243SDZ6VlVqTWVBQzRLbjZmTTdhV3Z4Y3dOd1k?oc=5"
+  },
   {
    "ts": "2026-10-25T08:32:32.819705+00:00",
    "kind": "news",
@@ -8154,11 +8160,6 @@
    "ts": "2026-10-23T21:16:12.052666+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>WTI Climbs Above $101 a Barrel on U.S.-Iran Escalation Fears</b>\n📰 WSJ · Ven 23/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5"
-  },
-  {
-   "ts": "2026-10-23T21:01:34.973419+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Ambassador to Turkey: Could there be an Iran strike this weekend? Absolutely</b>\n📰 Israel National News · Ven 23/10 21:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQk5pcnJTY2h6ODdoZ3h3Zk1RY1lfS2V6SHFGNUVobGVUc0dUYjdycjk3Y0N1ZFVvZmhISXJCd3RDazdtOEVyVzFtSkI5dW5rM3pzaGZqRUlTdw?oc=5"
   }
  ],
  "daily_forecast": {
