@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "6df5c2f90a6d",
-  "1546328b2977",
-  "ed846bf70f17",
-  "adaf8c9f0166",
-  "5baa8cfa515f",
-  "aa518f44fb45",
-  "cea8a8364b08",
   "befd1cfdeae9",
   "e6ec7d9a9eb6",
   "2427ef96e137",
@@ -3945,9 +3938,28 @@
   "8ca4a911700c",
   "50cb758b2264",
   "43d1008ac6be",
-  "c9850dda02f8"
+  "c9850dda02f8",
+  "185028777f4c",
+  "35732eec0fcf",
+  "e7ed85eef419",
+  "b4544aeafe96",
+  "3edaca07e0ca",
+  "d0741bd610d0",
+  "4f316d7f3d39"
  ],
  "news": [
+  {
+   "title": "Live - Trump says Iran strike possible tomorrow, report points to post-election plans",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
+   "published": "2026-10-25T01:36:57+00:00",
+   "id": "35732eec0fcf",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran sends conflicting signals on US deal as Trump raises prospect of strikes",
    "source": "Iran International",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Accord de cessez-le-feu humanitaire local atténuant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-   "source": "BBC",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNnNzMVdVUEVmTDc1QVB0aGpSWTREdWFMY2g2QUQ5RExzMUxrdlNhdnd6ZGxJWWhnRGltX0kxOFZOMXNhVWI2aWhsaU1DMS1fR1FTT1E0V2lnVFU?oc=5",
-   "published": "2026-10-24T00:36:47+00:00",
-   "id": "baec3254d455",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Léger apaisement tarifaire réduisant marginalement l'aversion au risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7569,7 +7569,8 @@
   "news|46be7a41bcfc": 1792890105.9848318,
   "news|5b46f4f6d3e3": 1792892763.0711954,
   "news|0ebb7d322ca7": 1792892763.9583862,
-  "news|665fc010488d": 1792894572.5474567
+  "news|665fc010488d": 1792894572.5474567,
+  "news|35732eec0fcf": 1792895481.7749908
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7752,6 +7753,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T02:31:21.775062+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Trump says Iran strike possible tomorrow, report points to post-election plans</b>\n📰 Iran International · Dim 25/10 02:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5"
+  },
   {
    "ts": "2026-10-25T02:16:12.547529+00:00",
    "kind": "news",
@@ -8046,11 +8052,6 @@
    "ts": "2026-10-23T19:16:13.813421+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : TARIFS DOUANIERS</b>\n6 articles en 45 min (normale ≈ 0.4) → un sujet s'emballe\n\n🥇 Impact moyen : +4.3/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump expected to ease some Canadian tariffs as Republicans face midterm pressure: WSJ — <i>Anadolu Ajansı</i>\n• (+5) Trump to lower Canada tariffs for certain agricultural goods, Collins says — <i>Politico</i>\n• (+5) Trump to exempt some Canadian products from tariffs amid midterm pressure — <i>CBC</i>\n• (+5) Trump administration cancels some Canada tariffs, Sen. Susan Collins says — <i>NBC News</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-10-23T19:16:12.933279+00:00",
-   "kind": "news_burst",
-   "text": "🔥 <b>NEWS EN RAFALE : TRUMP</b>\n6 articles en 45 min (normale ≈ 1.6) → un sujet s'emballe\n\n🥇 Impact moyen : +5.5/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+8) Trump doubles down on defending Vivek Ramaswamy’s attack ad against Amy Acton — <i>NBC News</i>\n• (+5) Trump expected to ease some Canadian tariffs as Republicans face midterm pressure: WSJ — <i>Anadolu Ajansı</i>\n• (+5) Trump to lower Canada tariffs for certain agricultural goods, Collins says — <i>Politico</i>\n• (+5) Trump to exempt some Canadian products from tariffs amid midterm pressure — <i>CBC</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
   }
  ],
  "daily_forecast": {
