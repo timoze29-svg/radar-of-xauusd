@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "1254d52a7b20",
-  "490ca64b9433",
-  "bd6858f16e91",
-  "b0e6ace8c464",
-  "d41d8cd98f00",
   "40f443df9543",
   "e1252ce87669",
   "eba6a2286ab8",
@@ -4044,7 +4039,12 @@
   "4580a0283b62",
   "92ac1506f73f",
   "bc0859c377db",
-  "49f8267a1df0"
+  "49f8267a1df0",
+  "073ca7324dd3",
+  "d077b61355e0",
+  "c797151f2f58",
+  "439d39b8550a",
+  "a369eea2f6ab"
  ],
  "news": [
   {
@@ -4826,6 +4826,18 @@
    "cat": "commerce",
    "raison": "Preuve de l'efficacité tarifaire, léger soutien au dollar limitant l'or.",
    "method": "IA"
+  },
+  {
+   "title": "War clouds intensify as US, Iran set for escalation",
+   "source": "The Financial Express",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FWS1U3V1dQNEFjaFYzbm9mdHVNY3pfYmpoWndsVEhTemw0bWJvVE55TWN1T2VTMjVmNEd5MlFyT29UbmNtd0xSUjNwaWNidjJWcUFvaEhtR0VkNGxqclF1cXcteHpyS2RGMTIyOTFuMjBZMGhVRExIcTFGbUxfaUZnaHNDVF9ncmR1XzRWRjFTVFpZMzIzWk4yTHZMM25aUGcxbFRB0gGsAUFVX3lxTE5jbVdJdnVySG40dURtVzlrd0ZlVDNscFRkdjhndlZpX1dnR0dxbVlzUk55dDVKUnN6cjF6ZS1rMjd5Y1NuY1ZlUG9hMkhaT3hYNFpsTEJsZlBIUGtrRFR2TzNfdmhvYnVtWUo1M1A2a2FZR3VNWFEwMjdINkdjbldqV1JjcThyZFkzQnNidGxjTGRSamlsWkpwdnRhM1gxNDFETXZ1RkdxYm8wMEw?oc=5",
+   "published": "2026-10-25T00:58:00+00:00",
+   "id": "073ca7324dd3",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
@@ -6434,18 +6446,6 @@
    "cat": "inflation",
    "raison": "Flambée du brut ravivant les anticipations d'inflation, propice à la couverture via l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Administration Rolls Back Some Canada Tariffs | Talk Radio 105 . 9",
-   "source": "knrs.iheart.com",
-   "theme": "Géopolitique",
-   "link": "https://knrs.iheart.com/content/2026-10-24-trump-administration-rolls-back-some-canada-tariffs/",
-   "published": "2026-10-24T08:30:00+00:00",
-   "id": "8e9fdb11a934",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Allègement tarifaire diminuant l'incertitude commerciale et apaisant les anticipations d'inflation.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7688,7 +7688,8 @@
   "news|a146d623234d": 1792922498.3906846,
   "news|76375da9202b": 1792922499.2760499,
   "news|194b8c918b7b": 1792923552.233664,
-  "news|47206fa581d3": 1792926096.5168474
+  "news|47206fa581d3": 1792926096.5168474,
+  "news|073ca7324dd3": 1792926968.5169363
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7871,6 +7872,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T11:16:08.516989+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>War clouds intensify as US, Iran set for escalation</b>\n📰 The Financial Express · Dim 25/10 02:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FWS1U3V1dQNEFjaFYzbm9mdHVNY3pfYmpoWndsVEhTemw0bWJvVE55TWN1T2VTMjVmNEd5MlFyT29UbmNtd0xSUjNwaWNidjJWcUFvaEhtR0VkNGxqclF1cXcteHpyS2RGMTIyOTFuMjBZMGhVRExIcTFGbUxfaUZnaHNDVF9ncmR1XzRWRjFTVFpZMzIzWk4yTHZMM25aUGcxbFRB0gGsAUFVX3lxTE5jbVdJdnVySG40dURtVzlrd0ZlVDNscFRkdjhndlZpX1dnR0dxbVlzUk55dDVKUnN6cjF6ZS1rMjd5Y1NuY1ZlUG9hMkhaT3hYNFpsTEJsZlBIUGtrRFR2TzNfdmhvYnVtWUo1M1A2a2FZR3VNWFEwMjdINkdjbldqV1JjcThyZFkzQnNidGxjTGRSamlsWkpwdnRhM1gxNDFETXZ1RkdxYm8wMEw?oc=5"
+  },
   {
    "ts": "2026-10-25T11:01:36.516913+00:00",
    "kind": "news",
@@ -8165,11 +8171,6 @@
    "ts": "2026-10-24T03:31:32.964375+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>R4 Ministers Urge Hormuz Passage as Fidan Warns Iran War Could Widen</b>\n📰 econotimes.com · Sam 24/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://econotimes.com/R4-Ministers-Urge-Hormuz-Passage-as-Fidan-Warns-Iran-War-Could-Widen-1761931"
-  },
-  {
-   "ts": "2026-10-24T03:16:19.142536+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump floats new Iran strikes, says US could take ‘whole country’</b>\n📰 chinadailyhk · Sam 24/10 04:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VcXFZVTlZS3RTVzdWN0NBbUhqNE10ZUxac1hDNkZxSWtpdVRJVXd1emxpYXptd3Z6TnN6bThTbHRKbWFhbGc3VmQ5YWpwWlVuYUtRVFlQWWM?oc=5"
   }
  ],
  "daily_forecast": {
