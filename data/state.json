@@ -848,19 +848,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792877548.3046844,
+   "ts": 1792950374.7918894,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        14.8
+        15.5
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
@@ -870,59 +870,59 @@
       "low": [
        [
         0,
-        18.3
+        18.1
        ],
        [
         16,
-        10.4
+        10.3
        ],
        [
         2,
-        9.6
+        9.5
        ]
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
        ],
        [
         2,
         9.8
        ],
        [
-        15,
-        9.0
+        14,
+        8.9
        ]
       ],
       "low": [
        [
         16,
-        11.5
+        11.4
        ],
        [
         0,
-        11.5
+        11.4
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 119,
+      "n": 120,
       "high": [
        [
         2,
-        11.8
+        11.7
        ],
        [
         16,
-        11.8
+        11.7
        ],
        [
         17,
@@ -932,15 +932,15 @@
       "low": [
        [
         0,
-        13.4
+        13.3
        ],
        [
         3,
-        7.6
+        7.5
        ],
        [
         14,
-        7.6
+        7.5
        ]
       ]
      },
@@ -983,12 +983,12 @@
         14.4
        ],
        [
-        0,
+        17,
         11.0
        ],
        [
-        17,
-        11.0
+        0,
+        10.2
        ]
       ],
       "low": [
@@ -997,47 +997,47 @@
         11.9
        ],
        [
-        15,
-        8.5
+        2,
+        7.6
        ],
        [
-        2,
+        15,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5946,
+     "n_hours": 5970,
      "horizon_h": 2,
-     "base_gold_up": 53.5,
-     "base_dxy_down": 48.3,
+     "base_gold_up": 53.4,
+     "base_dxy_down": 48.1,
      "down": {
       "3": {
-       "n": 242,
-       "p_dxy": 52.5,
-       "p_gold": 55.8,
+       "n": 244,
+       "p_dxy": 52.0,
+       "p_gold": 55.7,
        "gold_avg": 1.4
       },
       "4": {
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.6
+       "gold_avg": 0.5
       }
      },
      "up": {
       "3": {
-       "n": 266,
-       "p_dxy": 55.6,
-       "p_gold": 49.2,
-       "gold_avg": -0.8
+       "n": 269,
+       "p_dxy": 55.8,
+       "p_gold": 49.1,
+       "gold_avg": -0.7
       },
       "4": {
-       "n": 76,
-       "p_dxy": 57.9,
-       "p_gold": 51.3,
-       "gold_avg": 0.1
+       "n": 77,
+       "p_dxy": 58.4,
+       "p_gold": 51.9,
+       "gold_avg": 0.0
       }
      }
     }
@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "8d06553b2a4a",
-  "8616c6f5289a",
-  "de6071287f1b",
-  "6177a6f726b0",
-  "a4b34b488041",
   "cd05dbe59f06",
   "c4ee241f1864",
   "453a7c220156",
@@ -4044,9 +4039,26 @@
   "b1735f9c5b4c",
   "d3fe403d7036",
   "36da3099f453",
-  "a5aa322b7b24"
+  "a5aa322b7b24",
+  "2a1505d190ba",
+  "b317f1695dc3",
+  "b5a6d1a90610",
+  "2a83fe59bdeb",
+  "483e698cef7b"
  ],
  "news": [
+  {
+   "title": "Donald Trump says 'isn’t much going on' at Iranian nuclear sites, Pickaxe Mountain",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uR0ZFU0VxNjhhczZzNkR1RXBKT1dVbjZkWDdVakk0dlJsMXl4M2lFOTJ1YnRTdTJITFdaTVF2MVNtMi15WkZiVURUN25SdWNsbl9WNExHS1dmWmRTTWpGRHRFR0FBeC1uOGc?oc=5",
+   "published": "2026-10-25T17:31:41+00:00",
+   "id": "2a1505d190ba",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Rogers skirts tariff, MAGA questions on 'Meet the Press'",
    "source": "The Detroit News",
@@ -4093,6 +4105,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran vows policies unchanged despite fresh US-Israel strike threats | Tap to know more | Inshorts",
+   "source": "Inshorts",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9sdnZERkdMNHVxYjZoNDRoN2d2SUo0bjZwbEpUdlVxa1Rld0NXbTBBbzlJdEVxZlNMdzVmY2MyMjJIZDBjdE5reFdpUjBFck9EdjVqelZ2bHFwZENwZ3B6cmNzbk1wVm81MHFUc2RMcFRfY1hyTjk2ODJvdzNXd1Roa1BlVEE3NWxZQnFlcW9nMTVaUmZ6Nms1ZWNQS21lbTV4cU5lUVdHODBHakxxNXQ1bkbSAbQBQVVfeXFMTmVvbHZ2REZHTDR1cWI2aDQ0aDdndklKNG42cGxKVHZVcWtUZXdDV20wQW85SXRFcWZTTHc1ZmNjMjIySGQwY3ROa3hXaVIwRXJPRHY1anpWdmxxcGRDcGdwenJjc25NcFZvNTBxVHNkTHBUX2NYck45Njgyb3czV3dUaGtQZVRBNzVsWUJxZXFvZzE1WlJmejZrNWVjUEttZW01eHFOZVFXRzgwR2pMcTV0NW5G?oc=5",
+   "published": "2026-10-25T16:10:55+00:00",
+   "id": "b317f1695dc3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
-   "published": "2026-10-24T13:15:07+00:00",
-   "id": "4cbe0a2e74da",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions militaires directes entre Washington et Téhéran alimentant les flux de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Americans have never had more of their money in stocks not even in the dot - com bubble : Chart of the Day",
-   "source": "aol.com",
-   "theme": "Géopolitique",
-   "link": "https://www.aol.com/articles/americans-never-had-more-money-120127000.html",
-   "published": "2026-10-24T13:15:00+00:00",
-   "id": "d9676ab2377b",
-   "impact": 1,
-   "cat": "autre",
-   "raison": "Exposition record aux actions signalant une complaisance propice à des couvertures refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7721,7 +7721,9 @@
   "news|6a4985c81478": 1792944974.3791437,
   "news|586a1dfe6a30": 1792948748.6781754,
   "news|3d3b1ca63c20": 1792948749.702793,
-  "news|cccbfd799bda": 1792949484.8189843
+  "news|cccbfd799bda": 1792949484.8189843,
+  "news|2a1505d190ba": 1792950371.3329294,
+  "news|b317f1695dc3": 1792950372.2828937
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7904,6 +7906,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T17:46:12.283108+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran vows policies unchanged despite fresh US-Israel strike threats | Tap to know more | Inshorts</b>\n📰 Inshorts · Dim 25/10 17:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9sdnZERkdMNHVxYjZoNDRoN2d2SUo0bjZwbEpUdlVxa1Rld0NXbTBBbzlJdEVxZlNMdzVmY2MyMjJIZDBjdE5reFdpUjBFck9EdjVqelZ2bHFwZENwZ3B6cmNzbk1wVm81MHFUc2RMcFRfY1hyTjk2ODJvdzNXd1Roa1BlVEE3NWxZQnFlcW9nMTVaUmZ6Nms1ZWNQS21lbTV4cU5lUVdHODBHakxxNXQ1bkbSAbQBQVVfeXFMTmVvbHZ2REZHTDR1cWI2aDQ0aDdndklKNG42cGxKVHZVcWtUZXdDV20wQW85SXRFcWZTTHc1ZmNjMjIySGQwY3ROa3hXaVIwRXJPRHY1anpWdmxxcGRDcGdwenJjc25NcFZvNTBxVHNkTHBUX2NYck45Njgyb3czV3dUaGtQZVRBNzVsWUJxZXFvZzE1WlJmejZrNWVjUEttZW01eHFOZVFXRzgwR2pMcTV0NW5G?oc=5"
+  },
+  {
+   "ts": "2026-10-25T17:46:11.332991+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump says 'isn’t much going on' at Iranian nuclear sites, Pickaxe Mountain</b>\n📰 The Jerusalem Post · Dim 25/10 18:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5uR0ZFU0VxNjhhczZzNkR1RXBKT1dVbjZkWDdVakk0dlJsMXl4M2lFOTJ1YnRTdTJITFdaTVF2MVNtMi15WkZiVURUN25SdWNsbl9WNExHS1dmWmRTTWpGRHRFR0FBeC1uOGc?oc=5"
+  },
   {
    "ts": "2026-10-25T17:31:24.819063+00:00",
    "kind": "news",
@@ -8193,16 +8205,6 @@
    "ts": "2026-10-25T00:33:11.984954+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Rubio says US struck Iran fearing it would retaliate for Israeli attack - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 24/10 08:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJ1MnM3VFIyRWxoVEM5c25DbEVtYXlEajY3XzlqWjZIbVFCOXNlZC1lc1lxVnpxbkY5YmtUWE5jTUJnUjhzV2hyNlhNeU5JaVRFYW01VVZvVmJxNjZjUFQtZW1MRGtJc2lHdEtpOTNYYmM0WFRfWk9XYTA0NDdhR19zWktTT1h4ME91dWx1SFZacmVBMEZCLUdfNHltam5jcVlv0gGoAUFVX3lxTFBxUkduQU9kUjVvSnJ5b0ZlWVVBa0JkTjk5cGF5TTlFSzZaMXh1dEE3c1pvOVdDZU0xYmg1SFZEVU5HckVTUURnRmJKdi1NV29KdTlJSXNpYUVwbk8yMDJkU2RuM1VhUGY3Wi1ZSkI5VVRIcVdzcmtyWDdXYlhURGJJenZfLWdLOTNoZTFzZV9HWEE0cHUydHppM0s5Z05EdkRuUkRNZzFBdA?oc=5"
-  },
-  {
-   "ts": "2026-10-24T23:31:23.876909+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Poland's ex-president: Putin's war in Ukraine was a miscalculation</b>\n📰 DW.com · Sam 24/10 13:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW14WFF3WkRfSmpkOThrOGMtSjR6OGFvZGtBUjJzX2NhS3ZFOHhoN1RTQlBmQjRXNjd0cjEyYzR1bHB2YlVTa3FfaEhfbDBGbFB3WUNNeFJ3RnVhWkNzV2pjbmhtNVliY05sdkFIQm01RnpIalNDTVQyRVg2VGNwTmd0OWJva29aQmlzdklScVJIWHBha1kxR3dyZVZtOVNXZ2RFRFVMNlF3Y0NQY2xlX09B?oc=5"
-  },
-  {
-   "ts": "2026-10-24T23:31:22.908922+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead</b>\n📰 Bloomberg.com · Sam 24/10 22:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5"
   }
  ],
  "daily_forecast": {
