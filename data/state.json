@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "9a91ce81fd55",
-  "d2a7b0cad6d6",
-  "97f304370790",
-  "3ef6659ed26e",
-  "e257db8d246f",
-  "693a7cfef023",
   "d751a08a95d8",
   "4e51f7a9d973",
   "dc7449986c32",
@@ -4044,9 +4038,27 @@
   "202cd154d2b5",
   "35b5f14cbc02",
   "5246c8a395f5",
-  "165cc5e4c1a4"
+  "165cc5e4c1a4",
+  "23fb5c5b7df1",
+  "306c2fe4d87a",
+  "47206fa581d3",
+  "1809f33d5a37",
+  "2c6d15d9e96c",
+  "4580a0283b62"
  ],
  "news": [
+  {
+   "title": "Iran threatens to 'make Israel uninhabitable in no more than an hour' if attacked again - Region - World",
+   "source": "Ahram Online",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OYTRtWFk0Mkh6d2RrS0ZZNTQyWnBRb2NfeEdOOWw1di1GRHNGbXZ4eUxUNmpQLVJ2b0xka2l3eFhBb052MXc2LW5qQnVNd0doQ05sNXRFR1o?oc=5",
+   "published": "2026-10-25T10:55:36+00:00",
+   "id": "47206fa581d3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Explainer: How Ukraine's strikes on Russian energy sites deepened the rift with Trump",
    "source": "Reuters",
@@ -4187,6 +4199,18 @@
    "published": "2026-10-25T09:23:02+00:00",
    "id": "e923624b7251",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia, Ukraine report deaths and injuries in overnight strikes",
+   "source": "TRT World",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uMG1ZR051WGUzRGxYWmREam0zUy1jS2gtNVNiQnZ3bFFwOGlpNWxPa1pLSzk3emV4STVuWGtWY3RwTHZnMjVsbm41b3pjUHotQlp1RHA5X28?oc=5",
+   "published": "2026-10-25T09:06:17+00:00",
+   "id": "2c6d15d9e96c",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6422,30 +6446,6 @@
    "cat": "commerce",
    "raison": "Allègement tarifaire diminuant l'incertitude commerciale et apaisant les anticipations d'inflation.",
    "method": "IA"
-  },
-  {
-   "title": "Jordan tightens security after deadly church attack kills seven",
-   "source": "internazionale.it",
-   "theme": "Géopolitique",
-   "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/24/us-embassy-says-security-ramped-up-in-jordan-after-deadly-church-attack",
-   "published": "2026-10-24T08:30:00+00:00",
-   "id": "5b0ef981f323",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Attaque terroriste régionale créant un léger soutien refuge sans contagion globale.",
-   "method": "IA"
-  },
-  {
-   "title": "Fed Over-Tightening: How Much Runway Is Left Before It Bites?",
-   "source": "Seeking Alpha",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHFtRnkxbUdoQndZTzF1N3IzMUtWMTBQSnpVbzVQcV9xVHpkRkc4bWpnMmlLWE1pUUx4UUlUd1o5eFU5eG1qODdoRUJvYl9Ja1hBOFpQTzRDQ0lsbjh2aUk5N2JnZk1NWkM0X2p2UjJSMWxOR0JQUFBZV0xRRm1tV0FnYmotenNScHlCUW9raFVSVnFhVWhjQ2ZfcGdCTElL?oc=5",
-   "published": "2026-10-24T08:30:00+00:00",
-   "id": "37e058567d0f",
-   "impact": 1,
-   "cat": "fed",
-   "raison": "Anticipations de fin de cycle de resserrement face au risque récessif.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7687,7 +7687,8 @@
   "news|0d2e463034a2": 1792922497.351732,
   "news|a146d623234d": 1792922498.3906846,
   "news|76375da9202b": 1792922499.2760499,
-  "news|194b8c918b7b": 1792923552.233664
+  "news|194b8c918b7b": 1792923552.233664,
+  "news|47206fa581d3": 1792926096.5168474
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7870,6 +7871,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T11:01:36.516913+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran threatens to 'make Israel uninhabitable in no more than an hour' if attacked again - Region - World</b>\n📰 Ahram Online · Dim 25/10 11:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OYTRtWFk0Mkh6d2RrS0ZZNTQyWnBRb2NfeEdOOWw1di1GRHNGbXZ4eUxUNmpQLVJ2b0xka2l3eFhBb052MXc2LW5qQnVNd0doQ05sNXRFR1o?oc=5"
+  },
   {
    "ts": "2026-10-25T10:19:12.233783+00:00",
    "kind": "news",
@@ -8164,11 +8170,6 @@
    "ts": "2026-10-24T03:16:19.142536+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump floats new Iran strikes, says US could take ‘whole country’</b>\n📰 chinadailyhk · Sam 24/10 04:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VcXFZVTlZS3RTVzdWN0NBbUhqNE10ZUxac1hDNkZxSWtpdVRJVXd1emxpYXptd3Z6TnN6bThTbHRKbWFhbGc3VmQ5YWpwWlVuYUtRVFlQWWM?oc=5"
-  },
-  {
-   "ts": "2026-10-24T02:01:36.003897+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s Islamic Revolutionary Guard Corps Prepares Prolonged War as U.S. and Israel Plan Strikes After November 3</b>\n📰 NewsCord · Ven 23/10 19:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbS1hSzBsa0NjbkR5Z3E1bGN3Z2FxVmp3TGFHUmo4NFN5THMyWExjbUtVZFhCaWQ2My1KekdsbDRLV1VoYWpPSTdXc2NKVTlwVGtMajRNeUVneWlHZlNSTFR4SjQyamczSzNiRUNPSWxIOWdoMWFSY3JwTnFvSklWMndTYVNQOXZrMm1WMVI1S1plOG1GajdoRE52SnpWQl9BUDJVLTJYb1hyWE8xRi1ILWxBZWktRmliazNjOVloMGo3bXFXd3BjVGFwMjlFSnJfRnA5dThqTHpkLWZtcDFydHd6QzdtZTl5?oc=5"
   }
  ],
  "daily_forecast": {
