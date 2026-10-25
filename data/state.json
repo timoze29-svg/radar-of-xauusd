@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792887342.7516744,
+   "ts": 1792908945.930784,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "2fc22cbc972f",
-  "04be5c675311",
-  "72e279dd0ecb",
-  "1d166a01dbde",
   "4eab542a2c59",
   "d7e371094d67",
   "a1c9e6436825",
@@ -4044,21 +4040,13 @@
   "2310addf7377",
   "e4df2a17bf1c",
   "9677f3d6bd1a",
-  "0d55a6a82d07"
+  "0d55a6a82d07",
+  "ae96d7b026ef",
+  "db32b9f6d8d5",
+  "f4713c5169cd",
+  "875933a27f2a"
  ],
  "news": [
-  {
-   "title": "Obama Attacks Trump Over Iran War While Campaigning For El-Sayed In Michigan",
-   "source": "i24NEWS",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaURwUEsxRVFKdU13SzVsdmdiY0dnY2kxcmllOW1qYlRGTm50Z1dpME9tRjNRZUdRX2pnRC1wSGhfMUY5UWlLQ1gyNTh3VEVMLW4zLUxXOWN4S0hJcXU4el9uMExCU3ZvOENfS1cxeXpNajViNmFLdV9KQ0FYMjdrMU9OZW1WdUV0VEEwS1hLQzRGOTZOZ2FKbkVha0lRUjZ6eFJwcEhweDBWX2IxbUZBT2dsVS1WdnAzYUxtcXBWMkFLTU1wRWh6MlpYbnItaG9j?oc=5",
-   "published": "2026-10-25T05:57:00+00:00",
-   "id": "0d55a6a82d07",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Rhétorique électorale sans impact direct sur le risque géopolitique concret ou les taux.",
-   "method": "IA"
-  },
   {
    "title": "US To Strike Iran Today? Trump Keeps World On Edge With \"Maybe\" Response",
    "source": "NDTV",
@@ -4214,6 +4202,18 @@
    "cat": "géopolitique",
    "raison": "Instabilité sociale en Europe créant une très légère incertitude politique globale.",
    "method": "IA"
+  },
+  {
+   "title": "Trump warns of major war escalation if Iran peace process fails",
+   "source": "DD News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3BHZVp6OWUtYjAxeVJ0RHlfZHowTUp1TUF4QTAzNDlSOWRwY3ZJU0xsY2w2NEU2aE5aSjF1TVZYVzFnczFsTWRXM2ZTWnV6eXN5ZGNDVHdHUTRGa3FOUE1rUGZ3TWM0Wld2T1JjZU51LTBkNFdkZUlSMl81eUtDSF9LQllPb05UTWFhY3NydkNMS1U?oc=5",
+   "published": "2026-10-25T03:09:03+00:00",
+   "id": "db32b9f6d8d5",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says he has to ‘stop’ killing Iranian leaders to know who US is negotiating with",
@@ -7672,7 +7672,8 @@
   "news|35732eec0fcf": 1792895481.7749908,
   "news|c462f8f5bfbc": 1792897376.17132,
   "news|4a37ece3b370": 1792904489.3669558,
-  "news|9464faad0526": 1792907164.4013367
+  "news|9464faad0526": 1792907164.4013367,
+  "news|db32b9f6d8d5": 1792908965.410267
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7855,6 +7856,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T06:16:05.410325+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump warns of major war escalation if Iran peace process fails</b>\n📰 DD News · Dim 25/10 04:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3BHZVp6OWUtYjAxeVJ0RHlfZHowTUp1TUF4QTAzNDlSOWRwY3ZJU0xsY2w2NEU2aE5aSjF1TVZYVzFnczFsTWRXM2ZTWnV6eXN5ZGNDVHdHUTRGa3FOUE1rUGZ3TWM0Wld2T1JjZU51LTBkNFdkZUlSMl81eUtDSF9LQllPb05UTWFhY3NydkNMS1U?oc=5"
+  },
   {
    "ts": "2026-10-25T05:46:04.401407+00:00",
    "kind": "news",
@@ -8149,11 +8155,6 @@
    "ts": "2026-10-23T20:16:14.670383+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Announces $270 Million Bombardier Investment in U.S., Boosting Jobs in Kansas, Texas, Indiana</b>\n📰 Forth.News · Ven 23/10 18:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FaTFMWTFLZnhzOVpIM1YxcVVOUUJSbTJUM1NDZFhFeTN1VEZPSXUwc2g3Y1F1b05ucldGbms3dkRkY2hBdmFYZ21lZmlHYlR1NGZJY2NhdU0xYjZ5VXF6UEd3?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:16:13.846225+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price set for steep weekly loss as rising oil prices bolster Fed rate hike bets</b>\n📰 Mining.com · Ven 23/10 22:08\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRMRnR4aHc0aXgwWW5qZnU3ZlVrMzFHdE90dDh1YzFfeUp1ZmI4SmRrUEtveVNsbnRyczNveG5GaEtYRjk1NTkwODRoQkJuMzgtbVpHRzVLZ0ZpUkhmTnVqeWIySnRJbng1UDVmYXZkRm1ac0xnQ25KNFFNRE5odm9SSTlzWDAtUVR4RWllZ0N2aTRrNjlPUG03b2xQLWl1b1EteGRhTzd0b3EwYk9YYk53?oc=5"
   }
  ],
  "daily_forecast": {
