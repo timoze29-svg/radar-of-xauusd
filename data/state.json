@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "b7a900558059",
-  "1e363fd3b5ac",
-  "37bd2bf79e92",
-  "929443584f90",
-  "65e152300b94",
-  "5587f41bf66c",
   "3de6ce846884",
   "a967bcf22f8c",
   "42fd6d60b7f8",
@@ -4044,9 +4038,27 @@
   "0a43614da63c",
   "90edd2a166b0",
   "a6dc53eaca6b",
-  "cf7e474aa909"
+  "cf7e474aa909",
+  "309154f9de3f",
+  "6ad4133cac3d",
+  "b82fa2fcd605",
+  "5c07225a8d19",
+  "d0a4134ec79c",
+  "a33f0f9c8168"
  ],
  "news": [
+  {
+   "title": "Trump Administration on Russia-Ukraine War| D.C. Debrief October 25, 2026",
+   "source": "News On 6",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDJiaEJaSFR0MVVSQ0JhX2lQM205WDNveVQzRTA3V05Gb0JXa3ZMZ3hpT1liVFhlY2hIeHNkb1pGdXE0WThrb0FxM1NPU2xKVjFneDg0dmsydjBqdGMtSVZrbEFFbjY2NlhTcGw0anhKNF90cXN4UV9RSFJ4ZmlqVmpwUGotMG5EZjV1eGVTUjRZb0pZQzA4U25BQQ?oc=5",
+   "published": "2026-10-25T13:45:00+00:00",
+   "id": "d0a4134ec79c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia-Ukraine War| D.C. Debrief October 25, 2026",
    "source": "News 9",
@@ -4994,6 +5006,18 @@
    "cat": "inflation",
    "raison": "Inflation supérieure aux attentes ravivant le risque de hausse de taux et renforçant les rendements réels.",
    "method": "IA"
+  },
+  {
+   "title": "Crude oil prices slip up to nearly 3 per cent as President Trump signals Hormuz relief",
+   "source": "DD News",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWVYalc0a1RXdDZnQy1HTkMteFoyUXVOczZBOU1MYUo1cDlGX3Ztcm0xZ21ISWtqcE5RSlB4YlN4M2hmcXhWUlFIOUNJUHdyRHpmOVVPRFdFNDl3TE9rU0s3QjllMURxVF8xRUw3RTJxTlhjTWh0STR3dXVRQldWY1hpWW1ncTU4MlhQTWZJa1VEU01VSG0tMTRWLUtrMUlkb3dIT3VzVllwOExvU3pZUzJB?oc=5",
+   "published": "2026-10-25T02:52:59+00:00",
+   "id": "6ad4133cac3d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "‘Maybe tomorrow’: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Tentatives de désescalade au Moyen-Orient détendant légèrement la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "CNN: U.S. Rushes to Relocate Some Diplomats from Middle East",
-   "source": "وكالة سبأ",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XNnQ0QXpEalBhRVR1VDMxVkZSei1ucGgwQk1wSU9NYmUwcFUxcGI1cjdaVjc5Q3NFdXl4blIzb25sVXVFYlJ2QWJ3M3pqSmM?oc=5",
-   "published": "2026-10-24T09:39:45+00:00",
-   "id": "e90f21c63cbf",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Évacuation diplomatique d'urgence signalant une menace militaire concrète, forte demande refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance – Keystone XL Back in Spotlight",
-   "source": "EnergyNow.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
-   "published": "2026-10-24T09:35:25+00:00",
-   "id": "383dd512e74b",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Désescalade tarifaire avec le Canada, apaisant les craintes de guerre commerciale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7708,7 +7708,9 @@
   "news|81a2ae0d0516": 1792935087.4748888,
   "news|717476818b03": 1792936158.368802,
   "news|1d83f1df535f": 1792936159.3803043,
-  "news|4305f05b5419": 1792936160.3349028
+  "news|4305f05b5419": 1792936160.3349028,
+  "news|d0a4134ec79c": 1792936898.5041947,
+  "news|6ad4133cac3d": 1792936899.4147904
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7891,6 +7893,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T14:01:39.414912+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Crude oil prices slip up to nearly 3 per cent as President Trump signals Hormuz relief</b>\n📰 DD News · Dim 25/10 03:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWVYalc0a1RXdDZnQy1HTkMteFoyUXVOczZBOU1MYUo1cDlGX3Ztcm0xZ21ISWtqcE5RSlB4YlN4M2hmcXhWUlFIOUNJUHdyRHpmOVVPRFdFNDl3TE9rU0s3QjllMURxVF8xRUw3RTJxTlhjTWh0STR3dXVRQldWY1hpWW1ncTU4MlhQTWZJa1VEU01VSG0tMTRWLUtrMUlkb3dIT3VzVllwOExvU3pZUzJB?oc=5"
+  },
+  {
+   "ts": "2026-10-25T14:01:38.504281+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Administration on Russia-Ukraine War| D.C. Debrief October 25, 2026</b>\n📰 News On 6 · Dim 25/10 14:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDJiaEJaSFR0MVVSQ0JhX2lQM205WDNveVQzRTA3V05Gb0JXa3ZMZ3hpT1liVFhlY2hIeHNkb1pGdXE0WThrb0FxM1NPU2xKVjFneDg0dmsydjBqdGMtSVZrbEFFbjY2NlhTcGw0anhKNF90cXN4UV9RSFJ4ZmlqVmpwUGotMG5EZjV1eGVTUjRZb0pZQzA4U25BQQ?oc=5"
+  },
   {
    "ts": "2026-10-25T13:49:20.335108+00:00",
    "kind": "news",
@@ -8180,16 +8192,6 @@
    "ts": "2026-10-24T18:46:06.479938+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pentagon Presents President Trump With Options for Renewed Iran Strikes</b>\n📰 The Media Line · Sam 24/10 20:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVhkcXZUQUNhS1hVODRBWWFwVU5paE56dVN6WU9wQ0Z1NUZ0WXVqY01RWmVvaGVtWjhZVmt3R295Tnp3cmZuZzVWallyVzdhbHlYV1Rnb29LZlNaemVDaG5RQS0xZ2ZWdWVndGRFVnBzbHZIQlUyQU03aVBSYXAtckt0UDJOTkxOalFZN25ta09TVDVkVW10dFBELUhMeGpHMHNsVWFZdWdrSzA?oc=5"
-  },
-  {
-   "ts": "2026-10-24T18:04:57.449686+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Claims Ignorance as His Ambassador Threatens Strikes on Iran This Weekend</b>\n📰 Truthout · Sam 24/10 16:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQd05FTDZLQzh5S21pcmZubVU4M2t4eDdGNU1TWVdLbElRVXR0Ti1MdmE4Ym5Xa0R6NlFJaWJ0ZjlHanZhVl95MFhwOXZYWUJYLTN1S2UycTFramYzMjNiTlVJcWlpTGpfTU5kYmJfMUpOanM4WHZrWGFLWl92b21QYTFlVkR6S1pDNVFDLW9IMkhfdXNTS2hnRWtON0Ezb2VNeVdDRk1YWkpNYXhiQWQw?oc=5"
-  },
-  {
-   "ts": "2026-10-24T18:04:56.623780+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s War on Iran Has Broken the Oil Market</b>\n📰 CleanTechnica · Sam 24/10 16:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNc2FHOUtteVFFQzA0YVgwQ0xqcnRjVjktRWZFeml4djJyUzUwWVZvcmJtM0lnQ0lSVDlES1h4U3RNcEhNNkJTeGNpUG9rOGM2Nk1Mc2pEazlRSlVydktrbkREN0wzYjJzMTV2dFk2SzVuWm5QWGNObEloZERLSUhMeWt6Mi1LeThvd1E?oc=5"
   }
  ],
  "daily_forecast": {
