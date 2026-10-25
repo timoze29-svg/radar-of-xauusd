@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "03468c5c10a2",
-  "c052766bf0b3",
-  "8250c25c09b3",
-  "32dc87c41200",
   "f8c8156f7ee6",
   "efb870c5e515",
   "0584c06943fe",
@@ -4044,9 +4040,37 @@
   "b4c958d5eb60",
   "09ddf50a0a1a",
   "6a16bbacaefa",
-  "f18afe279aa6"
+  "f18afe279aa6",
+  "d6adaf73ef89",
+  "74b220beb95d",
+  "68b3f7d5d3b1",
+  "62e53cd1824b"
  ],
  "news": [
+  {
+   "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
+   "source": "Benzinga",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
+   "published": "2026-10-25T15:15:15+00:00",
+   "id": "d6adaf73ef89",
+   "impact": -4,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
+   "source": "WSJ",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5",
+   "published": "2026-10-25T15:11:22+00:00",
+   "id": "68b3f7d5d3b1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach",
    "source": "WRAL",
@@ -6422,30 +6446,6 @@
    "cat": "commerce",
    "raison": "Apaisement modéré des tensions commerciales, réduisant légèrement la prime de risque et l'inflation.",
    "method": "IA"
-  },
-  {
-   "title": "Azmi Bishara: Trump has backed Netanyahu as his Iran war partner",
-   "source": "The New Arab",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlB0cWFNT3FObDZjaHA5QlhfZWVYQS11UC1TcnFaZ2VlYmhVWm1PVzhob1NRMWNqSF84a2hzRlhtSFdIVkZnY1NCYUtUbDFpQVJ3M3RzVUJYQS1tQWVvbGJ5TFlzQTZuMVFvR0VLZ21zbkNvekxjb0JydXVqQmVCcVlYM1RuR0NjOHppcWlpSmRKYTg?oc=5",
-   "published": "2026-10-24T11:05:30+00:00",
-   "id": "5d7d7c3fe4fb",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque accru d'escalade militaire contre l'Iran stimulant les flux vers la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Treasury Yields Fall on String of Weak Housing Data",
-   "source": "WSJ",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
-   "published": "2026-10-24T11:02:48+00:00",
-   "id": "30f26ffd724f",
-   "impact": 3,
-   "cat": "taux",
-   "raison": "Baisse des rendements obligataires réduisant directement le coût d'opportunité de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7713,7 +7713,8 @@
   "news|6ad4133cac3d": 1792936899.4147904,
   "news|5ee62dfc2482": 1792938687.4626448,
   "news|04de5090cec5": 1792940494.5859494,
-  "news|a07f2d81b16b": 1792941367.6345038
+  "news|a07f2d81b16b": 1792941367.6345038,
+  "news|68b3f7d5d3b1": 1792942291.4257593
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7896,6 +7897,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T15:31:31.425845+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist</b>\n📰 WSJ · Dim 25/10 16:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5"
+  },
   {
    "ts": "2026-10-25T15:16:07.634585+00:00",
    "kind": "news",
@@ -8190,11 +8196,6 @@
    "ts": "2026-10-24T20:17:45.011185+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighs new Iran strikes as US sends more warships to Middle East: Report</b>\n📰 Anadolu Ajansı · Sam 24/10 22:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVDQ2dXhwMnBRNnJnVmllVmZxZ3ZsT1JhNGVLQWtoeDNxZnpCU1ZiSHNVSnN3cU5CTHdDUzJoLUZXMU9zMElBOXhzYWJjZTRBOEhybzZSUG1TalRVb2huU2ktZHU1Zlp0Y01jY0lRQl9NckVLNnNweTUxTmRVLS1COVgwcy1IVGcwcWZCbjM5WkZpX09MaG00VnVCWG9wNWMzejNXT0dUbFV4WVp6d2ZsSUJGRVB1ZGZIS29v?oc=5"
-  },
-  {
-   "ts": "2026-10-24T19:31:37.995238+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Voters Are Begging Trump to End the War in Iran</b>\n📰 Mother Jones · Sam 24/10 21:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNud0ZsaENmcHZWdFhDOGdFV3hpay1pSENXT01WaGV6R0JmZzRjZ0dmNXNkbjJWTWwxcTVxMVVXMi1oRWM5LWkwVElwR1dGOFVPMWVUUmpuV1J0Rzl3R1JqQ21nUjhyVHRCcEJIQi1yZ01qR0JDaHJmWkt2NkRqT3hpYy1FRHhEY2RzNQ?oc=5"
   }
  ],
  "daily_forecast": {
