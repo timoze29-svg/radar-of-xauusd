@@ -1045,7 +1045,6 @@
   }
  },
  "seen_news": [
-  "50bb1ca3965b",
   "7ccf3feebf7a",
   "3153f3a9178b",
   "2c7f82ec74c3",
@@ -4044,7 +4043,8 @@
   "159e066dcb8c",
   "47d87691085f",
   "364aa13b50de",
-  "d0688ddad2f9"
+  "d0688ddad2f9",
+  "d0854d7beac4"
  ],
  "news": [
   {
@@ -4189,6 +4189,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "'No more shine' - Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+   "source": "The Star",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1BWOXZCeWs2M29VbWYySGIySXFFNnhwWmdDR2V1OGdyRHJsbVpfWlJ4eUdWNDVUemJGbUxNSkhFQXE4bl9VRGkyWlZ5WVA1X0tCMVFTUC1Zd2lRM2Q5cWpzcHVEdGF2aEd0UjkwVU0yTldSSzV5X1RUeHdKSi1fZERWS3VqZVJSdWNnOEh1bjlIZUJXQl9GeGZJRlVaSWJfNDdhMW5VeTlMbnk4eUVuUFMtb2RYTDZ3ZGhvQmY4ZkhIc2RHV2Y4MGpzMUhaUXN5WVZ6M2ktanhObGQ2d0xuZm85UEZKR25RM1NCWEYwQ25TMHI1MlE?oc=5",
+   "published": "2026-10-25T12:50:00+00:00",
+   "id": "d0854d7beac4",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "L'affaiblissement du soutien américain peut accélérer une fin de conflit, réduisant la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
-   "source": "South China Morning Post",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEVUNjUtX2hydmMxYzlOMXpablI2YmRFTm13clNJcjg0bW0tMmtwbHF0ZUs5R3dtTm9UeWJGOUh4T2ljNlA5bXpXQjJydDZ4ejhZNG1LLXRxOHQ1RndjUUdEWHVScjZNSmpFVng0NVZiUFBKdG9EcnlKdm5rRnk2SzlzUWI4YUNXOG1VOENvRThKcHU3ZjdoWmpYV2R4Y2M3UkRkeXhsZFN4eTAxbHdnTHc1enMwNDkzcXhj0gG7AUFVX3lxTE5jM1B6YXUzZ25Zb1MzWlN0eWZkU04xeTAwTVFkVnlrN2xGRndfSWtYU2pSSV8tYm5qWm9IUWlST01xbEhIUGZISGVNRnV4RmVmdXh2TGdCQzFKcDJUZW5TekhvUHBjRXZoT0RDRG1kT2VndnBsRmhQRGViSVZOWkZaajU1MGM4b1hqbnk0SXhmc2h0NHM0ZDhicGdhY1daTlp1R3VIVUp1T2JjRnhEM3JuMnkxNXBaLWZwcEE?oc=5",
-   "published": "2026-10-24T12:00:14+00:00",
-   "id": "f8ad97fcb172",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rappel des tensions à Taïwan, mais simple analyse sans risque militaire imminent.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7715,7 +7715,8 @@
   "news|04de5090cec5": 1792940494.5859494,
   "news|a07f2d81b16b": 1792941367.6345038,
   "news|68b3f7d5d3b1": 1792942291.4257593,
-  "news|47d87691085f": 1792943171.4972422
+  "news|47d87691085f": 1792943171.4972422,
+  "news|d0854d7beac4": 1792944100.9772
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7898,6 +7899,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T16:01:40.977276+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>'No more shine' - Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets</b>\n📰 The Star · Dim 25/10 13:50\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1BWOXZCeWs2M29VbWYySGIySXFFNnhwWmdDR2V1OGdyRHJsbVpfWlJ4eUdWNDVUemJGbUxNSkhFQXE4bl9VRGkyWlZ5WVA1X0tCMVFTUC1Zd2lRM2Q5cWpzcHVEdGF2aEd0UjkwVU0yTldSSzV5X1RUeHdKSi1fZERWS3VqZVJSdWNnOEh1bjlIZUJXQl9GeGZJRlVaSWJfNDdhMW5VeTlMbnk4eUVuUFMtb2RYTDZ3ZGhvQmY4ZkhIc2RHV2Y4MGpzMUhaUXN5WVZ6M2ktanhObGQ2d0xuZm85UEZKR25RM1NCWEYwQ25TMHI1MlE?oc=5"
+  },
   {
    "ts": "2026-10-25T15:46:11.497329+00:00",
    "kind": "news",
@@ -8192,11 +8198,6 @@
    "ts": "2026-10-24T20:17:46.786764+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US-Israel-Iran war: What UAE residents need to know today, October 24, 2026</b>\n📰 Gulf News · Sam 24/10 16:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXdCaTY0ejZRTEpxZFA3YXZkZkxNU3FVWTZ3Qk9jS255bThleDVTX3pmUkZPWXJKTDRMTk04YXpxWUFlMDBTMGM5dHBfUlNCd1hENUlrZ2FIR1lPdEgwdndZNy1aWDRmTmw5RUZBTnpqQ1ZyY2FOT0NQZXpoc0Q1WGpYOF9tYXpNRUJKS0daaUNoS3E0aWgwUUd6UVNQb3FyNDM4U2x2SE5XTkJGQUHSAb4BQVVfeXFMTUIzaFdEbW1xTzlhOVVCYWRUdVI3OEh3UVM4Rm92d3QyT05XSWVITTlqWlQ3QnJTeENYbWNGN1RpdVJtTThQUEhCUFJERnN3MGJ6U19WSEkxTFNHM0cwRU14c0dxbDlna3dwRGg4OGhzd1drNVpmN3IxOFBjUExPekc5aGI0ZV85enpYOTY4U1Y2czJsQVdvZnktVGR2QmYtVnc5bjBOZElKQThYTm1Za2kxcVZlNXRHN3BWaFdGUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-24T20:17:45.871879+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls controversial Ramaswamy attack ad \"hitting pay dirt\"</b>\n📰 Salon.com · Sam 24/10 19:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJ1UVpoNEdpYmpyX2xHQk1NSGRnWURzdVlQM05Nd0FEdHRmcVZRYUZjMkRVZjI2UkJDQUprS05xb0NmVG1lem1Ja1pxTWJYLUluTlNVQ2c2a0NhQm81TzZnMExYbjc0Q3J5c0pqendBMS02ZVRkbWFRcTNpcG5kNkdCb3NxWkVDRV9VcHFNcTU2SUg4WHlvMWE1VVU?oc=5"
   }
  ],
  "daily_forecast": {
