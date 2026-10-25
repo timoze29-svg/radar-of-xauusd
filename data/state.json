@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "a03a3119537d",
-  "324b2ff81113",
   "88cf20881f59",
   "39f554f92280",
   "ce5cbba54ac9",
@@ -3945,7 +3943,9 @@
   "976d0c62bfa3",
   "04a2d4faa6a5",
   "3524b8b57907",
-  "376dbf13cc91"
+  "376dbf13cc91",
+  "16b81ca31cfe",
+  "4a37ece3b370"
  ],
  "news": [
   {
@@ -4931,6 +4931,18 @@
    "cat": "géopolitique",
    "raison": "Poursuite du conflit sans escalade majeure, impact refuge très limité.",
    "method": "IA"
+  },
+  {
+   "title": "Trump suggests U.S. warships 'do a little stopover' in Cuba after Iran war",
+   "source": "Fortune",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWVc5S0h1c1pjckU4dkZUcGstb2tkT1BZaUlnb0ZUY0d5ZUwxY3daclRTX2w2Yjh3c1BjeWx4ODlWRTMzV1pSLVVQVXhmRkhkX3NDX2JPbk9aeVhNZElGNUY3RjMxMzhLQjh6VEdLRjBsOHFodnppUDhkVTBMS0JhT214eFF5NGpKVWJHekpDd2k5RDlJS1RiS1NR?oc=5",
+   "published": "2026-10-24T14:44:00+00:00",
+   "id": "4a37ece3b370",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Criticizes Fed Chair Warsh as Rate Hikes Threaten Stocks",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Menace d'intervention militaire directe contre l'Iran alimentant fortement la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Is Trump trying to end the war in Ukraine, or helping Putin win it?",
-   "source": "DW.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNi1mRzJtVERQd0dIMW11Q2doNXRMS05Qa0JPeUxEOVhNV005Z2E0ajlCcGM5MzBRRkZBcTMyNVhmWS03UHZyWFRIaVdXTFRxRHlEYnZ5MjlJS2syOTgzaVlPbzVnSjdaVV9NTTlVOFhLSWs0T01UbE5QeS13QXdrT2t5cGpuYUpBRDkzNi1TRmd6b045VEhpRmtYOE9MZ1ZTQmN2WQ?oc=5",
-   "published": "2026-10-24T02:45:53+00:00",
-   "id": "7df41a243368",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Une perspective de fin de conflit réduirait la prime de risque géopolitique sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7571,7 +7571,8 @@
   "news|0ebb7d322ca7": 1792892763.9583862,
   "news|665fc010488d": 1792894572.5474567,
   "news|35732eec0fcf": 1792895481.7749908,
-  "news|c462f8f5bfbc": 1792897376.17132
+  "news|c462f8f5bfbc": 1792897376.17132,
+  "news|4a37ece3b370": 1792904489.3669558
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7754,6 +7755,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T05:01:29.367021+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump suggests U.S. warships 'do a little stopover' in Cuba after Iran war</b>\n📰 Fortune · Sam 24/10 16:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPWVc5S0h1c1pjckU4dkZUcGstb2tkT1BZaUlnb0ZUY0d5ZUwxY3daclRTX2w2Yjh3c1BjeWx4ODlWRTMzV1pSLVVQVXhmRkhkX3NDX2JPbk9aeVhNZElGNUY3RjMxMzhLQjh6VEdLRjBsOHFodnppUDhkVTBMS0JhT214eFF5NGpKVWJHekpDd2k5RDlJS1RiS1NR?oc=5"
+  },
   {
    "ts": "2026-10-25T03:02:56.171416+00:00",
    "kind": "news",
@@ -8048,11 +8054,6 @@
    "ts": "2026-10-23T20:01:45.799132+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — VENDREDI 23/10</b>\nOr : <b>-29.4$</b> depuis minuit · plus haut 4050.2 (15h20) / plus bas 3989.1 (16h30) · range 61$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-2) à 4018.2 → maintenant 4012.8 (-5.4$)\nRange : 61$ réalisé vs ~66$ attendu (93%)\nNiveaux touchés : S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 70% de bonnes directions (7 ✅ / 3 ❌ / 0 ➖ sur 10 jours)\n20 derniers jours : 70%  ·  ✅✅✅❌✅❌❌✅✅✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.19% · Taux 10 ans +3.5 pb · Pétrole +4.64% · EUR/USD -0.21% · S&P 500 -0.53% · Argent -1.32%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) 'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms\n🟢 (+10) Turkish foreign minister warns new attack on Iran would escalate regional conflict\n🟢 (+8) Trump doubles down on defending Vivek Ramaswamy’s attack ad against Amy Acton\n🟢 (+8) US could strike Iran this weekend, envoy says\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
-  },
-  {
-   "ts": "2026-10-23T19:46:12.605719+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms</b>\n📰 Middle East Eye · Ven 23/10 21:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjBMWjJfMmhxTXBZX3FueWRLbE8wRGhGT29SMDM1d2VrbnFQeXdveVpGT1UzZ0hzc1hlaHNoVVBiVzdVbzBBT2l3OU5ldFp4Wk1lTmdSMzNIZURVdms1RzRudTgtRE82MDQtdWN6ZGN6dWxDV1dlMnRTQTZDNW5ocTVEUDBmYUIwNHB5dzFRNUM3Q2s2VkFDWlhQV3hVREVHNjFzag?oc=5"
   }
  ],
  "daily_forecast": {
