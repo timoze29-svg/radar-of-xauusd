@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "137c5fa428e8",
-  "0de739343f42",
-  "ef5b0702380e",
-  "7213ff639ca1",
-  "96c707c4a0cb",
   "75ba04f9fce1",
   "828f7623698c",
   "80b5d65f8cbe",
@@ -4044,9 +4039,26 @@
   "4cd8c6dafc90",
   "ca67e7d55ef4",
   "2050c2d160ee",
-  "317d98c3324f"
+  "317d98c3324f",
+  "10a83f515f13",
+  "8a9db2c0bce3",
+  "424f60e91fbb",
+  "4ab0ee812b87",
+  "1ab8af791d82"
  ],
  "news": [
+  {
+   "title": "Trump rules out Iran strike Sunday as tensions mount across Middle East",
+   "source": "Ynetnews",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwdXRraG93cVdZRVBESjVTT0JEREpoejljd3hHakVyOFR3TWw5MjNiVko5ZXpGZmZFVXlndm50R1NtcGpfX0F6dmJDdURab2tQU0ZfZXFB?oc=5",
+   "published": "2026-10-25T19:39:24+00:00",
+   "id": "8a9db2c0bce3",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
   {
    "title": "Barack Obama mocks President Trump tariff war with Canada",
    "source": "toronto.citynews.ca",
@@ -4093,6 +4105,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "‘Well-known evil empire’: Barack Obama mocks President Trump’s trade war with Canada",
+   "source": "Toronto Star",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbVZxLXloUTVSR0dUSWJIdnZDOWpXQVJLN2RCNmFNU2EzSWRCY0lwMjl4Z3hPTE5RdmRiVkltRVIxdXA2b2dXZ1VPV0gwTXN0dWU5N3VaSGdwckNxVno1cEt5aWJORjNfVjBQbE5GZFF3aGxSanJkenNlZ2lKaHJ2WEJkTG05ejhzWnhuaFo0dVF5bktIbTluSHpnN3dia0pZV2xfNzFaSGJHZ1JtZFEwaldoSG9RREkxc1JseTJQLW1EVWw0c1NJRmFsSDNndEc2eUY4VkJqUUtmUmhOazMxc3AwNVdGTUQtYS11LVdTam9tWkFpS2RibA?oc=5",
+   "published": "2026-10-25T18:30:05+00:00",
+   "id": "424f60e91fbb",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Diplomatie pour éviter l'escalade régionale, réduisant marginalement la demande de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Urgent : Ballistic missile attack triggers loud explosions in Yemen Aden - Xinhua",
-   "source": "english.news.cn",
-   "theme": "Géopolitique",
-   "link": "https://english.news.cn/20261024/f480b0064e5f4a52b736b04d64db5378/c.html",
-   "published": "2026-10-24T15:30:00+00:00",
-   "id": "b77dad2b8492",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tirs de missiles au Yémen ravivant légèrement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-   "source": "postregister.com",
-   "theme": "Géopolitique",
-   "link": "http://www.postregister.com/news/national/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky/article_aa6fb6b8-b96b-5f30-982b-f6cd3d0e070c.html",
-   "published": "2026-10-24T15:30:00+00:00",
-   "id": "cb6f31221671",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Perspective de cessez-le-feu réduisant très marginalement la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7731,7 +7731,8 @@
   "news|56b502da51b7": 1792953972.9569654,
   "news|669ae51008ff": 1792954361.38562,
   "news|0eec59731d91": 1792954902.5573351,
-  "news|87edfa7dc1d8": 1792959375.7630215
+  "news|87edfa7dc1d8": 1792959375.7630215,
+  "news|424f60e91fbb": 1792961167.875309
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7914,6 +7915,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T20:46:07.875377+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>‘Well-known evil empire’: Barack Obama mocks President Trump’s trade war with Canada</b>\n📰 Toronto Star · Dim 25/10 19:30\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbVZxLXloUTVSR0dUSWJIdnZDOWpXQVJLN2RCNmFNU2EzSWRCY0lwMjl4Z3hPTE5RdmRiVkltRVIxdXA2b2dXZ1VPV0gwTXN0dWU5N3VaSGdwckNxVno1cEt5aWJORjNfVjBQbE5GZFF3aGxSanJkenNlZ2lKaHJ2WEJkTG05ejhzWnhuaFo0dVF5bktIbTluSHpnN3dia0pZV2xfNzFaSGJHZ1JtZFEwaldoSG9RREkxc1JseTJQLW1EVWw0c1NJRmFsSDNndEc2eUY4VkJqUUtmUmhOazMxc3AwNVdGTUQtYS11LVdTam9tWkFpS2RibA?oc=5"
+  },
   {
    "ts": "2026-10-25T20:16:15.763096+00:00",
    "kind": "news",
@@ -8208,11 +8214,6 @@
    "ts": "2026-10-25T06:16:05.410325+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump warns of major war escalation if Iran peace process fails</b>\n📰 DD News · Dim 25/10 04:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3BHZVp6OWUtYjAxeVJ0RHlfZHowTUp1TUF4QTAzNDlSOWRwY3ZJU0xsY2w2NEU2aE5aSjF1TVZYVzFnczFsTWRXM2ZTWnV6eXN5ZGNDVHdHUTRGa3FOUE1rUGZ3TWM0Wld2T1JjZU51LTBkNFdkZUlSMl81eUtDSF9LQllPb05UTWFhY3NydkNMS1U?oc=5"
-  },
-  {
-   "ts": "2026-10-25T05:46:04.401407+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US To Strike Iran Today? Trump Keeps World On Edge With \"Maybe\" Response</b>\n📰 NDTV · Dim 25/10 06:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWl2Mmota2RQZEZha3NhRGU3UVRxUnVJaUlpT0FjNG1ZeS01dXFsUDZWUk5FMFNnRHdBR01rbGpvQnJXQXBIZzYzMnQ2bTA4TDE4dHdYZkRwUWRJVy1mdnFxRWszR05RQnpfSkJHTDNkM2FZTFE0YjVYRUxrX0xOMllHRElDN1hkNGE2UkRZYnBfMmtDTGFmenJsS1V3VGVuNUFabFljS2wwcjlFYmJYd2RLNmR3ODRHU0hVZnY1TdIBxwFBVV95cUxQcDBmd0prQVZuNnpyczIwcDZFdlcyM20yS2s5VHdsMGpVelYyeW81VE1yS3Z0djZ1ajBZVmtfYVFSUWphRGp5VFc1TC0zQVhJMThqaHBvTWhNdVJGZU5LRThyYjdMY0E0Y2YzTDlWNVpPamJnOGxJUVVnek1QVVppNk5vRjhnOGROVzlkNDlkYWVjY1FkVExpWWNwa1FralY3dTRya1FIUXV2TzhFTjIwVDRjSnNaUFpQZy1NWlVwem05bmVqOWhZ?oc=5"
   }
  ],
  "daily_forecast": {
