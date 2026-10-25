@@ -1045,8 +1045,6 @@
   }
  },
  "seen_news": [
-  "0286cd74d16c",
-  "32d11939d623",
   "ae73692daafa",
   "d6a7616b14c8",
   "e03ef989fd5c",
@@ -4044,9 +4042,23 @@
   "9da2740acbf3",
   "6a2189952780",
   "669ae51008ff",
-  "b2ce5a447db3"
+  "b2ce5a447db3",
+  "f4268137e69f",
+  "0eec59731d91"
  ],
  "news": [
+  {
+   "title": "The U.S. and Israel have drawn up plans to renew strikes against Iran, creating a sense of anxiety and dread among war-weary residents. “People are under enormous pressure and are being crushed by the economic siege,” said one man who lives in Kerma",
+   "source": "Facebook",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnBpNjQ2cm5iNHVTNVRlUm5yd2VxR21mczU0aVNSQ25ubkpROTZkMGE4XzZjUjRvZGQtZXVCTlJxc3N1Qm5BajNKd3VpYWFuZEQ0dzJnTGNRQjU1TzVHU1ZBU1pUbU5sR0VGazB2ZWxHVkhGRGs3ZW13a0wtc0tpUHlVTlRfUER3Y28zMVRxVkhJcmZtWW43RzBidVNmaTFhQzRJMk5zcjZ6eUxRRFFrTTM2T3VWUFpBWE5ob215b2NGSExnNFJBckh2Z2ZfbHgxaC1n?oc=5",
+   "published": "2026-10-25T18:55:03+00:00",
+   "id": "0eec59731d91",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Politics, not strategy, could mean more Israeli strikes on Iran",
    "source": "The Economist",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Matérialisation du risque de guerre régionale au Moyen-Orient poussant les flux vers l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWNkcVZKWlJMQ0Zxd0RrS0w0bWdFY1E0QzlrZnRKWWpBOG84MFNVRVFlRE9wYmJpd1IzOFZTVGJ3ek5EYVFwMDdxYmU0TWtFckZ6LXBDMHc3ZUxDeC1ubm95YlZBR1N2UmRmT0FWUXJ0NXlialV3Q1VjcENyaXJ0QXFhenk4NnpwYnlrZjkydUw5THdKdVp5blNSOFRxV2w5eDdFeUpUM2RRdnBUdkdEeWQtX3PSAboBQVVfeXFMT0NEdmVTblBycGotZklrLUF6LXhEZ1pmSnU1ZFhSai1uOUFtdnNMMUVHU0dBbFhjY1ZjZWNLOVpYa0RuNkRjcG9zRUl4VURxWWlHM3J6N1NsLUNRU1pGN3NaTV9kZ25EQnlIY2lGcnNFU0NTY3h2UHF3VXRBNHNETi1BNHNwcTJYVUQxTU9Ya3QtenNPRTRoTE1MZ0hZb2ZlMTJIcnJkYlhzY2RqNkQwZEtiQlhXbUlzRGNR?oc=5",
-   "published": "2026-10-24T14:46:33+00:00",
-   "id": "735930380a6b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite du conflit sans escalade majeure, impact refuge très limité.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7729,7 +7729,8 @@
   "news|50b78fa03d63": 1792953093.6941557,
   "burst|Iran|166014": 1792953094.9305935,
   "news|56b502da51b7": 1792953972.9569654,
-  "news|669ae51008ff": 1792954361.38562
+  "news|669ae51008ff": 1792954361.38562,
+  "news|0eec59731d91": 1792954902.5573351
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7912,6 +7913,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-25T19:01:42.557412+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The U.S. and Israel have drawn up plans to renew strikes against Iran, creating a sense of anxiety and dread among war-weary residents. “People are under enormous pressure and are being crushed by the economic siege,” said one man who lives in Kerma</b>\n📰 Facebook · Dim 25/10 19:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnBpNjQ2cm5iNHVTNVRlUm5yd2VxR21mczU0aVNSQ25ubkpROTZkMGE4XzZjUjRvZGQtZXVCTlJxc3N1Qm5BajNKd3VpYWFuZEQ0dzJnTGNRQjU1TzVHU1ZBU1pUbU5sR0VGazB2ZWxHVkhGRGs3ZW13a0wtc0tpUHlVTlRfUER3Y28zMVRxVkhJcmZtWW43RzBidVNmaTFhQzRJMk5zcjZ6eUxRRFFrTTM2T3VWUFpBWE5ob215b2NGSExnNFJBckh2Z2ZfbHgxaC1n?oc=5"
+  },
   {
    "ts": "2026-10-25T18:52:41.385690+00:00",
    "kind": "news",
@@ -8206,11 +8212,6 @@
    "ts": "2026-10-25T05:01:29.367021+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump suggests U.S. warships 'do a little stopover' in Cuba after Iran war</b>\n📰 Fortune · Sam 24/10 16:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPWVc5S0h1c1pjckU4dkZUcGstb2tkT1BZaUlnb0ZUY0d5ZUwxY3daclRTX2w2Yjh3c1BjeWx4ODlWRTMzV1pSLVVQVXhmRkhkX3NDX2JPbk9aeVhNZElGNUY3RjMxMzhLQjh6VEdLRjBsOHFodnppUDhkVTBMS0JhT214eFF5NGpKVWJHekpDd2k5RDlJS1RiS1NR?oc=5"
-  },
-  {
-   "ts": "2026-10-25T03:02:56.171416+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tehran warns of nuclear options and infrastructure strikes if US attacks Iran</b>\n📰 The Jerusalem Post · Dim 25/10 03:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeVBKZWd6VHJ4QjdOdFdSTzNVT2NDQUlsaUpfLXdvbjB6RndMSG4wUFZEbUk2R0M1MVRfOXBNTTU0NU1XRnNpVWxCaUlqUWVEd3B6ZTktX1VENnI2Q2E2cTN5RkxiN1BWVlE?oc=5"
   }
  ],
  "daily_forecast": {
