@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "4c01c641daad",
-  "98da5ad6711a",
-  "f51310aa45fa",
   "0d9966a69973",
   "a704fdcf435f",
   "cd8ce08d9b03",
@@ -4044,9 +4041,24 @@
   "5aa1aeb10366",
   "8c2b5c03d698",
   "8f715f4fcf1f",
-  "12b383816d5c"
+  "12b383816d5c",
+  "912e858b99ba",
+  "7ee5a6ba32c4",
+  "23d0a06eccff"
  ],
  "news": [
+  {
+   "title": "CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation",
+   "source": "KFOX",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNVN0bVFTU2Y3WEtBMWcxYnRGLUF4R2QyaS1IWV9KNV9UZ1J0TzBoVTRLZGExQTdhcWkzQzBWYjk4U2x4U3VkaHpWajVBZGtybDdnNEM3YnFfTWN5b2VwQUZmNVRZUkVqTERXc0ctbExtVGxnVWthblJsemFrVjl2YTdqX04tQXBQeGY2MmNscHdDdTRTbzFjbXdyYkRGVnVmd1gwemFRTFV1UWNBX25BOFdpMGJ3NjBzQjhoTXl4QzRkV21jU3FJZzJjMWxTWF94bWRTY2tIMkZyWnc?oc=5",
+   "published": "2026-10-26T21:31:45+00:00",
+   "id": "912e858b99ba",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
    "source": "The New York Times",
@@ -6434,18 +6446,6 @@
    "cat": "commerce",
    "raison": "Pause tarifaire réduisant le risque inflationniste immédiat, légèrement défavorable à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump’s tariff pause angers some US ranchers, boosts Brazil beef imports",
-   "source": "Al Jazeera",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFlwUDdEdDFiVk83SkxDNHE0cHNIQXhXNWRmdkx0T0V1OENvTDBrVjVvWlA3NzEzRkZzQzRjRzZKRjJsNEdMaEd0ZjZCM2JUZnlJVldIclhrc1NESUNvaGh5T3FLTUkzYVZvQ21lZmpYZ2VlNHlaUkdGMjd5ZXdfQTFaUjlmYXBKX2lncEVDY0VPdkN3NTZNRlVWcFhuNXZQU3pUT28wTFk3UjVkN1lDdXE3ZUE2Rnltcmg00gG7AUFVX3lxTE1oWXBQN0R0MWJWTzdKTEM0cTRwc0hBeFc1ZGZ2THRPRXU4Q29MMGtWNW9aUDc3MTNGRnNDNGNHNkpGMmw0R0xoR3RmNkIzYlRmeUlWV0hyWGtzU0RJQ29oaHlPcUtNSTNhVm9DbWVmalhnZWU0eVpSR0YyN3lld19BMVpSOWZhcEpfaWdwRUNjRU92Q3c1Nk1GVVZwWG41dlBTelRPbzBMWTdSNWQ3WUN1cTdlQTZGeW1yaDQ?oc=5",
-   "published": "2026-10-25T16:42:58+00:00",
-   "id": "b1735f9c5b4c",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Allègement temporaire des barrières douanières, apaisement mineur sur le front commercial.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7809,7 +7809,8 @@
   "news|6c1c53a318bc": 1793045950.4236977,
   "news|869dcc4e51fe": 1793047579.0396137,
   "news|3fa64dedc7ae": 1793048509.1809385,
-  "rep|recap|2026-10-26": 1793048511.5021026
+  "rep|recap|2026-10-26": 1793048511.5021026,
+  "news|912e858b99ba": 1793051167.3896408
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8008,6 +8009,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T21:46:07.389705+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation</b>\n📰 KFOX · Lun 26/10 22:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNVN0bVFTU2Y3WEtBMWcxYnRGLUF4R2QyaS1IWV9KNV9UZ1J0TzBoVTRLZGExQTdhcWkzQzBWYjk4U2x4U3VkaHpWajVBZGtybDdnNEM3YnFfTWN5b2VwQUZmNVRZUkVqTERXc0ctbExtVGxnVWthblJsemFrVjl2YTdqX04tQXBQeGY2MmNscHdDdTRTbzFjbXdyYkRGVnVmd1gwemFRTFV1UWNBX25BOFdpMGJ3NjBzQjhoTXl4QzRkV21jU3FJZzJjMWxTWF94bWRTY2tIMkZyWnc?oc=5"
+  },
   {
    "ts": "2026-10-26T21:01:50.285617+00:00",
    "kind": "recap",
@@ -8302,11 +8308,6 @@
    "ts": "2026-10-26T06:01:55.537244+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — LUNDI 26/10</b>\nPrix : <b>4025.50</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+12/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4026 vs MM20 4148 / MM50 4334\n🟢 Sentiment news 24h : 140 news notées, moyenne +0.47\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.65% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +11.4$ · plus haut 4032.9 / plus bas 3990.9 (range 42$)\nDXY -0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~73$</b> (ATR 72$ × profil du lundi)\nDéjà fait en Asie : 42$ (58% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4076.8 | R1 4042.4 | <b>Pivot 4015.7</b> | S1 3981.3 | S2 3954.6\nVeille : PDH 4050.2 / PDL 3989.1  ·  Semaine passée : 4211 / 3989\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>50%</b> du temps (280 jours, ~6.0 ans)\n• Hier : -1.29% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (212 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +13.3$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 3981 et R1 4042\nJouer les extrêmes, pas le milieu (pivot 4016). Range attendu ~73$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4050 ou PDL 3989 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
-  },
-  {
-   "ts": "2026-10-26T06:01:54.439277+00:00",
-   "kind": "weekly",
-   "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 26/10/2026</b>\nPrix : <b>4025.50</b>  (-3.24% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (+12/100)</b>\n🔴 Momentum or (vs MM50) : prix 4026 vs MM20 4148 / MM50 4334\n🟢 Sentiment news 24h : 140 news notées, moyenne +0.47\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.65% vs Fed 3.88% → hausses anticipées\n🟢 Taux réels 10 ans (20j) : 2.64% (-0.12 sur 20j)\n🟢 Taux US 10 ans (5j) : -11 pb sur 5 jours\n🟢 Dollar (DXY 5j) : -0.27% sur 5 jours\n\n📐 <b>Niveaux clés or</b>\nR2 4291.5 | R1 4149.7 | <b>Pivot 4069.4</b> | S1 3927.6 | S2 3847.3\nSem. passée : PH 4211.2 / PB 3989.1 / clôt. 4007.9\nRange hebdo moyen (10 sem.) : <b>195$</b> | ATR jour : 71.9$\n\n📅 <b>News éco de la semaine</b>\n🔥 Mar 27/10 06:00 — JPY BOJ Core CPI y/y (prév. 1.9%)\n🔥 Mer 28/10 01:30 — AUD CPI m/m (prév. 0.7%)\n🔥 Mer 28/10 01:30 — AUD CPI y/y (prév. 4.2%)\n🔥 Mer 28/10 01:30 — AUD Trimmed Mean CPI m/m (prév. 0.3%)\n🔥 Mer 28/10 19:00 — USD Federal Funds Rate (prév. 4.00%)\n🔥 Mer 28/10 19:00 — USD FOMC Statement\n🔥 Mer 28/10 19:30 — USD FOMC Press Conference\n• Jeu 29/10 13:30 — USD Advance GDP q/q (prév. 3.2%)\n🔥 Jeu 29/10 13:30 — USD Core PCE Price Index m/m (prév. 0.3%)\n• Jeu 29/10 14:15 — EUR Main Refinancing Rate (prév. 2.65%)\n• Jeu 29/10 14:15 — EUR Monetary Policy Statement\n• Jeu 29/10 14:45 — EUR ECB Press Conference\n🔥 Ven 30/10 00:30 — JPY Tokyo Core CPI y/y (prév. 2.6%)\n🔥 Ven 30/10 07:29 — EUR German Prelim CPI m/m (prév. 0.1%)\n🔥 Ven 30/10 08:45 — EUR French Prelim CPI m/m (prév. 0.2%)\n🔥 Ven 30/10 09:00 — EUR Spanish Flash CPI y/y (prév. 4.9%)\n🔥 Ven 30/10 11:00 — EUR Italian Prelim CPI m/m (prév. 0.0%)\n🔥 Ven 30/10 17:00 — USD FOMC Member Daly Speaks\n🔥 Ven 30/10 17:30 — USD FOMC Member Musalem Speaks\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>49.8%</b> des semaines (<b>53.5%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 88.6%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+10) Maine logging, cross-border ties whipsawed by US-Canada tariff war\n🟢 (+10) Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf\n🟢 (+10) Trump Attacks Murkowski As Alaska Senate Fight Escalates: ‘Worst Senator’\n🟢 (+10) Trump Exempts Some Canadian Products From Section 338 Tariffs - But his Illegal Trade War Continues\n🟢 (+10) Barack Obama attacks Donald Trump’s administration and mobilizes voters for Democratic candidates in Ohio\n🟢 (+9) US dollar slides as yields fall, markets brace for data deluge and global rate splits\n\n↔️ <b>Scénario principal : RANGE</b> entre 3928 et 4150.\nAttendre la cassure de la semaine passée (3989 / 4211) ou les grosses news pour prendre une direction. Jouer les extrêmes du range, pas le milieu.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
