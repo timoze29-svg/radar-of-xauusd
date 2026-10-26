@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793021465.5521631,
+   "ts": 1793043949.165307,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "a84c5347a1dc",
-  "ddce45517e65",
-  "f43806af8e7c",
   "b6167f352f91",
   "e3699145bf46",
   "6556861dbe73",
@@ -4044,9 +4041,24 @@
   "cf1bda39bbaf",
   "3b253b841b37",
   "b7d5a6fde215",
-  "cbb951a02800"
+  "cbb951a02800",
+  "6093415e5356",
+  "803a4e82abc9",
+  "931fd03dc8d4"
  ],
  "news": [
+  {
+   "title": "The Iran war needs to end for gold to have a chance to rally - UBWM’s Haworth",
+   "source": "Kitco",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5",
+   "published": "2026-10-26T19:31:03+00:00",
+   "id": "6093415e5356",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Canada’s Carney Navigates Trump Tariffs as Economy Slows",
    "source": "Barron's",
@@ -6434,18 +6446,6 @@
    "cat": "taux",
    "raison": "Hausse des rendements obligataires américains, augmentant le coût d'opportunité de détenir l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-   "source": "WSJ",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5",
-   "published": "2026-10-25T15:11:22+00:00",
-   "id": "68b3f7d5d3b1",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque d'approvisionnement pétrolier et tensions géopolitiques stimulant les anticipations d'inflation et l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7803,7 +7803,8 @@
   "news|4c4ea531753e": 1793035887.205297,
   "news|e652aa188343": 1793036765.922534,
   "news|951b36900c36": 1793037697.8316772,
-  "news|cbb951a02800": 1793043090.9735026
+  "news|cbb951a02800": 1793043090.9735026,
+  "news|6093415e5356": 1793043968.2952845
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8002,6 +8003,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T19:46:08.295379+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Iran war needs to end for gold to have a chance to rally - UBWM’s Haworth</b>\n📰 Kitco · Lun 26/10 20:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5"
+  },
   {
    "ts": "2026-10-26T19:31:30.973598+00:00",
    "kind": "news",
@@ -8296,11 +8302,6 @@
    "ts": "2026-10-26T04:46:18.094383+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says decision nearing on Iran: Strike deal or resume attacks</b>\n📰 The Japan Times · Lun 26/10 02:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdERyUmxTcmVpNm5HY2hOck5uekNNOWZZUU1wLWsxZlkwWklIT0xuTUs3SG5TZkhaZi1yeXhZeTY5Qk1qdnlGX1hjb3Rwa2JlZlpfb3NRZGFrM3pkRE5kc2JjMDNJaldUUktQZ25oMlRwTWp1bVE?oc=5"
-  },
-  {
-   "ts": "2026-10-26T04:34:17.755747+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump prepares new onslaught on Iran in defiance of mass opposition to war</b>\n📰 World Socialist Web Site · Lun 26/10 05:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Y1BWZlZSQmRrdG1fRUdEU2RhVy16c3VSZWF4VlE5eWVUZ3NFR2JPNDJKM3dDT09yTEdEamt6UkhVMEItTUJIMG80dUtZTHRKX0FWLVBmamN6Q1doTWh6MmlTSXIyZnlO?oc=5"
   }
  ],
  "daily_forecast": {
