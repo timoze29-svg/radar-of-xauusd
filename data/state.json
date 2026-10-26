@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "38abb2c8a2e4",
-  "0e8acd1f465f",
-  "12af4ec688b9",
   "7fa32652c2d6",
   "fb6d9d8ed0f5",
   "ed6c0cac890e",
@@ -4044,7 +4041,10 @@
   "537e16fec5ff",
   "4c4ea531753e",
   "8dc15eca1112",
-  "f217fbc55717"
+  "f217fbc55717",
+  "e652aa188343",
+  "1807219d78f3",
+  "16852b215d9d"
  ],
  "news": [
   {
@@ -4177,6 +4177,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran says it's prepared to go back to war amid threat from the U.S. and Israel : Trump's Terms",
+   "source": "NPR",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1MFRuVGc0Qy1MeDl4U2xsQ1ZhYk9NZHZHYTc3MVZDamlvYzZSSmExZC10RDRpbDhaVDdBenRfUHR2eklvZzF3T2RId3JDYVpzQVRnRlRQNlQ?oc=5",
+   "published": "2026-10-26T15:01:23+00:00",
+   "id": "e652aa188343",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran says  nothing will be same  in region after war with US – Middle East Monitor",
-   "source": "middleeastmonitor.com",
-   "theme": "Géopolitique",
-   "link": "https://www.middleeastmonitor.com/20261025-iran-says-nothing-will-be-same-in-region-after-war-with-us/",
-   "published": "2026-10-25T12:45:00+00:00",
-   "id": "1d83f1df535f",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7800,7 +7800,8 @@
   "news|5c5f27f6477e": 1793031372.2682436,
   "news|dbbd45527b4f": 1793033172.5237274,
   "news|8dc15eca1112": 1793035886.37672,
-  "news|4c4ea531753e": 1793035887.205297
+  "news|4c4ea531753e": 1793035887.205297,
+  "news|e652aa188343": 1793036765.922534
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7999,6 +8000,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T17:46:05.922616+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says it's prepared to go back to war amid threat from the U.S. and Israel : Trump's Terms</b>\n📰 NPR · Lun 26/10 16:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1MFRuVGc0Qy1MeDl4U2xsQ1ZhYk9NZHZHYTc3MVZDamlvYzZSSmExZC10RDRpbDhaVDdBenRfUHR2eklvZzF3T2RId3JDYVpzQVRnRlRQNlQ?oc=5"
+  },
   {
    "ts": "2026-10-26T17:31:27.205584+00:00",
    "kind": "news",
@@ -8293,11 +8299,6 @@
    "ts": "2026-10-26T03:16:09.949140+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>US dollar slides as yields fall, markets brace for data deluge and global rate splits</b>\n📰 VT Markets · Lun 26/10 04:14\n🧠 haussier or (dollar, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1VMSXUtREdtc2ZwbERkbmVacDdlM3ptemRsWGJNWTZYbkV2WWNLSnVRVjJmbmk3cjg2XzFSWHF5SkIwaXZadWt1RU1ZUmJVS2lwZlJnSlR3NFF5Y0ZwdFpjY2tFVEpmUmNSdW5TTUJiVmZlaVUwaWxQRDZHSHh5Q3lsbWRMeGt1amtzNVM3b0lDclNzdmhjMzJ2SmtMYmJQR0k5cFNReFJYWUN5UDZBOEdzUDlsdGlaUUVaMnk1SjliWEpWYnFiRkpR?oc=5"
-  },
-  {
-   "ts": "2026-10-26T02:46:10.525761+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Lula Wins Brazil’s Runoff: Will Trump Escalate Tariffs and Sanctions?</b>\n📰 Diplomacy and Law · Lun 26/10 02:31\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTE91UFlteXdRbnduOC1rQnRMZ0xLSnp3dDUxWFRDZnlGbHoteU01N2RReUk4UXZYZGN0akp6bWdyaDZfZWVvVHhUOWhkZlJCajlzSWZiYnJHZmR1RFhnVVJvOXJYdw?oc=5"
   }
  ],
  "daily_forecast": {
