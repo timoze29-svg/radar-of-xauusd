@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "976904b84ba7",
-  "37c16abffe14",
-  "2f750761b85a",
   "31a2221b421c",
   "fbe564ac56db",
   "b79f1ba9dfff",
@@ -4044,7 +4041,10 @@
   "5ae3f39f720d",
   "6438da343860",
   "365372ae9a7c",
-  "143848d369a8"
+  "143848d369a8",
+  "a972254812bd",
+  "4ee7ba320920",
+  "49e58b795b36"
  ],
  "news": [
   {
@@ -4105,6 +4105,18 @@
    "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran signals readiness for war amid claims that strikes have already begun",
+   "source": "Amwaj.media",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFHdzBkSWZpY29vbHpsYXRQanVRQk1aNzRzWmJ2YXZQekFIOEdxd0ltNXRFdG9hU0MzUjJ1cGF6MjN4bTBFNVRnYjM4YWxWVHR0WE5RaDJYR21jOEphcE5SN0lLRmx3dklVbFdwYVlseXFIMXp0MkhlNk80MlhnRVNHdVNLaFFEeUlxd0NneWRLRlU2S2FBYWFIbVB3RjZsM19SenF0LWpHcGI3SWNhUw?oc=5",
+   "published": "2026-10-26T03:47:03+00:00",
+   "id": "a972254812bd",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "or",
    "raison": "Constat descriptif de baisse technique passée, sans nouveau catalyseur macroéconomique majeur.",
    "method": "IA"
-  },
-  {
-   "title": "Russia likely to harden posture on Japan at least until Ukraine war ends",
-   "source": "Japan Today",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaVc3Ql8xV1NSR0dONkM2ZElxS3pIYzJIOHRlLUFkRzBfR3l3cFQyejBXcVJzcWV1Z1VmRmtwTXhhT0tTYTBsMk9FMHR0OGJQamRqZXRkRF92TTZqUXl0aEZTRWNwa2NWSmJZbWpZUC1kc2x1bTl5VE4yZk5pTkx3Y2xsdXFmX3NFLXRKcUJjTXJNR3pBU1YzdEFPTjRVeUdVdTFTTDlvc3MwTzhFZnV2X3FjOGZwQmRlRk1Z?oc=5",
-   "published": "2026-10-24T21:15:00+00:00",
-   "id": "125484e42d43",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions diplomatiques accrues en Asie, soutien très marginal pour la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7747,7 +7747,8 @@
   "news|80e0afecbfd0": 1792989257.7556815,
   "news|03b01e2b6498": 1792989978.0942917,
   "news|e2dcbe5f7335": 1792989979.1207495,
-  "news|fb0796b608a2": 1792991765.5893865
+  "news|fb0796b608a2": 1792991765.5893865,
+  "news|a972254812bd": 1792992712.0551143
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7930,6 +7931,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T05:31:52.055220+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran signals readiness for war amid claims that strikes have already begun</b>\n📰 Amwaj.media · Lun 26/10 04:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFHdzBkSWZpY29vbHpsYXRQanVRQk1aNzRzWmJ2YXZQekFIOEdxd0ltNXRFdG9hU0MzUjJ1cGF6MjN4bTBFNVRnYjM4YWxWVHR0WE5RaDJYR21jOEphcE5SN0lLRmx3dklVbFdwYVlseXFIMXp0MkhlNk80MlhnRVNHdVNLaFFEeUlxd0NneWRLRlU2S2FBYWFIbVB3RjZsM19SenF0LWpHcGI3SWNhUw?oc=5"
+  },
   {
    "ts": "2026-10-26T05:16:05.589473+00:00",
    "kind": "news",
@@ -8224,11 +8230,6 @@
    "ts": "2026-10-25T11:31:31.574799+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Obama Criticizes Trump’s War Against Iran</b>\n📰 8AM Media · Dim 25/10 09:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5xX2pNa3RGNDN5TTM3Mnc1V1pjM2RwaUFrUTlyZzVUY0d6aWhzRDBiVkh3bGlTN0FnTm1WdVVib25lbjNIZUNDbFhMNVFZcW1LOWdfVVoza2Y0d3pDYzRJR1hFUzFiaXJYNjFOazNrTTY?oc=5"
-  },
-  {
-   "ts": "2026-10-25T11:31:30.592722+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran vows an unexpected response to any attack: We will not be intimidated by threats</b>\n📰 صوت الإمارات · Dim 25/10 12:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxObldaUkdwQXpsT3kwakFmeWVBYU1SdFpUNXRha1dYUmJ3djRNTGtXZExDMlJ3aDZ0U0dZLVVFSzBQc1FJOUNIa043cE4tZkxFNk1rMFhrdGhkMFRGVy1GWGlKUGxHNUUxV18zWWRpaGtITllEOC1vZDgzN1U1VFVSTVZTYmR5MEUweUNJRW9OWF9oaVJHUnFOazhNNVRvV1VEbl9oMFpETU82NnJhbTZpNVlGcnRiX3FLYlBXT29ibUtlbHkxLWgyR3J4MVhJdFpXX1E?oc=5"
   }
  ],
  "daily_forecast": {
