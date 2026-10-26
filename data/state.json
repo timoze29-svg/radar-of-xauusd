@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "10ddd1e0cbbe",
-  "fd6efba3900d",
-  "9ea6947c486e",
   "553ff596f27a",
   "d7716ca5c542",
   "10e947a0da38",
@@ -4044,7 +4041,10 @@
   "024f991b73af",
   "0a52916c6039",
   "5027218e6a7f",
-  "904d84af42d8"
+  "904d84af42d8",
+  "0297201967fa",
+  "5c99da83da09",
+  "dc038b3997d9"
  ],
  "news": [
   {
@@ -4189,6 +4189,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trade war with Canada could end ‘pretty soon,’ Trump says during rally",
+   "source": "Global News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5idFphbVNWdGc2RC1kVDBlcndNcnpBYnk0eWF2ZEIzVl9odzJhbkh0YWVjYk1xajZPVGNiRjZKYkFPaVhFdi1IT1VUOGJ1VFhiNWxwbC1MVTNYTERLRWZKSFZpUkpjYTNHRkdTVVJB?oc=5",
+   "published": "2026-10-26T12:20:14+00:00",
+   "id": "5c99da83da09",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "commerce",
    "raison": "La rhétorique protectionniste alimente légèrement les anticipations d'inflation et d'incertitude commerciale.",
    "method": "IA"
-  },
-  {
-   "title": "Trump looks to plunge us deeper into a misconceived Iran war after the midterms",
-   "source": "Inquirer.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFFINU9XQTJEcTVKdzBqem51UV85Z3FROEFjUW9qdHdCUGxhclZidUtKRllXNkVHNjNBN21zZUtvTERwVlFCblNhaVFrRGtoUTBnSmZMN2p1YUI1Q1RZeGphZHdoNERWNHQ5aGFtaHBYZTduSGR4bVc5VVUxNjhKOGEtNi00TTlwTEVJLXljMUx2ZUZJQ0cwRDFIQWpWenc4NmhJdA?oc=5",
-   "published": "2026-10-25T09:45:00+00:00",
-   "id": "0d2e463034a2",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Anticipations d'escalade militaire américaine contre l'Iran favorables aux flux refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7791,7 +7791,8 @@
   "brk|SILVER|h20|dn|2026-10-26/2026-11-01": 1793022553.6848514,
   "brk|EURUSD|pwh|dn|2026-10-26/2026-11-01": 1793022554.599937,
   "news|a26e0083a672": 1793024174.4492629,
-  "news|fd6799fede5e": 1793025091.2288506
+  "news|fd6799fede5e": 1793025091.2288506,
+  "news|5c99da83da09": 1793025977.2812278
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7990,6 +7991,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T14:46:17.281309+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trade war with Canada could end ‘pretty soon,’ Trump says during rally</b>\n📰 Global News · Lun 26/10 13:20\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE5idFphbVNWdGc2RC1kVDBlcndNcnpBYnk0eWF2ZEIzVl9odzJhbkh0YWVjYk1xajZPVGNiRjZKYkFPaVhFdi1IT1VUOGJ1VFhiNWxwbC1MVTNYTERLRWZKSFZpUkpjYTNHRkdTVVJB?oc=5"
+  },
   {
    "ts": "2026-10-26T14:31:31.228921+00:00",
    "kind": "news",
@@ -8284,11 +8290,6 @@
    "ts": "2026-10-26T00:01:37.617940+00:00",
    "kind": "cycle",
    "text": "⚠️ <b>CYCLE HEBDO : PAS D'INVERSION CETTE SEMAINE</b>\nPhase 2 (jeu→ven) : lun→mer = -35.0$, depuis mercredi -142.2$ → le pattern ÉCHOUE (continuation) ⚠️\nLe marché continue dans le sens lun→mer — ne pas forcer le contre-trend."
-  },
-  {
-   "ts": "2026-10-25T23:16:14.799650+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says It’s Time to Strike Iran or Make a Deal</b>\n📰 Bloomberg.com · Dim 25/10 22:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWFjWlV2NUF3UjFHRGcwdjFBYVJCUjhNTFYtSDhGUGNkTUlzRUEtTkdEUTJVVjg1SUVuZ2FfU2tleHpvbzFCRXE1X0FIRkVxV2JvMWJGbmNUc3hkbjZNQk5rR1RyS09uRTNqMHE3cDFzdXlPT0lGSzluWHNNR0RpUDVxTm1jWWhXT3IxR1JHdENtS2RnT1J4LTBJWlpwaVRIU2ZpSE5WZw?oc=5"
   }
  ],
  "daily_forecast": {
