@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "b6167f352f91",
-  "e3699145bf46",
-  "6556861dbe73",
-  "23508d13eb8e",
-  "7f3be4709084",
-  "97bc00c976fd",
   "cc0294cc50f2",
   "b2f61612dfb3",
   "0b5f54ac93d3",
@@ -4044,9 +4038,27 @@
   "cbb951a02800",
   "6093415e5356",
   "803a4e82abc9",
-  "931fd03dc8d4"
+  "931fd03dc8d4",
+  "767ee7ffb1a5",
+  "fb3480656cab",
+  "f4920a7fd21c",
+  "1cd1b8b96762",
+  "affa339ffc2d",
+  "904504aceaa2"
  ],
  "news": [
+  {
+   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
+   "source": "Reuters",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
+   "published": "2026-10-26T19:33:43+00:00",
+   "id": "1cd1b8b96762",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "The Iran war needs to end for gold to have a chance to rally - UBWM’s Haworth",
    "source": "Kitco",
@@ -4054,6 +4066,18 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5",
    "published": "2026-10-26T19:31:03+00:00",
    "id": "6093415e5356",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+   "source": "The Guardian",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw?oc=5",
+   "published": "2026-10-26T19:21:00+00:00",
+   "id": "f4920a7fd21c",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4873,6 +4897,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Rabobank Forecast: Federal Reserve May Hike Another 25 Basis Points in December, With Rate Cuts Not Until 2028",
+   "source": "BigGo Finance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wVzRxTmtIMmt0b2QwTVpiZGZmVVVEMXN0VlRUd2Rwb2w1NDJoMVRJRl9DTGNjRVI2eTNxejROcjlrcHJobnVpNFhqYlFQem9sZGZPVWdYVG9aNm1FZVYwcHQwMUFvam45NEJ2YnpFb3U4QmFFTWc?oc=5",
+   "published": "2026-10-26T10:05:00+00:00",
+   "id": "affa339ffc2d",
+   "impact": 6,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6410,42 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Escalade locale du conflit russo-ukrainien, maintenant une légère prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Iran's threat remains as Israel risks an endless cycle of war",
-   "source": "www.israelhayom.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSF95TUFuaU11LWFiNFAzbTJEOUYxX3pEajg5bTNNNTBYcXEtXzlicWMtajRhRmNJTVR6aHMzMFVjdUVOa0hsN0NnYmJTSVVxa0N2Y0Y5VUZiSDF2Wnp5RFdQUlJRTzdZOFI4UmVlbWw2NTNjYUNRT2IyOC1QWVhQWkZiaTU0QlFDd1F2TFBYTFdDTlpDTU1BSzF2TG1uRHlLSEE?oc=5",
-   "published": "2026-10-25T15:33:48+00:00",
-   "id": "47d87691085f",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Inquiétudes d'un conflit prolongé au Proche-Orient soutenant l'attrait de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Russian strikes on Ukraine kill four and injure 28, authorities say",
-   "source": "Euronews.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZMVm52LXRnOWQxa2pmbHFjM1RNR093Sldsbmh6OG01MENXZWdKTldHRDBTU2V4b0xqbkk0bzhLXzNnX2FJbzdvMFBzMFRIN0NaTXJuNmsxMGpZTTNZYVlYYy1ueEJtQUNnNXlHcnRXd0tnRHlsU2U4MmpWSFZ6TE1MeFNYaG52TUMtR2FtcEUzT2NIN0J0WGd6bkE0VlRvYkRreA?oc=5",
-   "published": "2026-10-25T15:16:37+00:00",
-   "id": "364aa13b50de",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite des hostilités en Ukraine, maintien d'une demande d'assurance géopolitique résiduelle.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
-   "source": "Benzinga",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
-   "published": "2026-10-25T15:15:15+00:00",
-   "id": "d6adaf73ef89",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "Hausse des rendements obligataires américains, augmentant le coût d'opportunité de détenir l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7804,7 +7804,8 @@
   "news|e652aa188343": 1793036765.922534,
   "news|951b36900c36": 1793037697.8316772,
   "news|cbb951a02800": 1793043090.9735026,
-  "news|6093415e5356": 1793043968.2952845
+  "news|6093415e5356": 1793043968.2952845,
+  "news|f4920a7fd21c": 1793044925.9522967
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8003,6 +8004,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T20:02:05.952393+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu reportedly pressured military to attack Iran in run-up to election</b>\n📰 The Guardian · Lun 26/10 20:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw?oc=5"
+  },
   {
    "ts": "2026-10-26T19:46:08.295379+00:00",
    "kind": "news",
@@ -8297,11 +8303,6 @@
    "ts": "2026-10-26T04:46:19.120881+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar pushes for Iran deal, new US strikes remain possible</b>\n📰 Iran International · Lun 26/10 00:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WQlR2UGtzTUQ5TU9ybDdqUVdlVHlCeUVoRXZLVVNMZDd0NVJKbEpJUmo0M2NqWnlBZlNDQTBKc3Z5d3pzUWJiSGpxVHI0TWNveFE?oc=5"
-  },
-  {
-   "ts": "2026-10-26T04:46:18.094383+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says decision nearing on Iran: Strike deal or resume attacks</b>\n📰 The Japan Times · Lun 26/10 02:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdERyUmxTcmVpNm5HY2hOck5uekNNOWZZUU1wLWsxZlkwWklIT0xuTUs3SG5TZkhaZi1yeXhZeTY5Qk1qdnlGX1hjb3Rwa2JlZlpfb3NRZGFrM3pkRE5kc2JjMDNJaldUUktQZ25oMlRwTWp1bVE?oc=5"
   }
  ],
  "daily_forecast": {
