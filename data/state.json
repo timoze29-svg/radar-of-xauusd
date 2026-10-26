@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1792976473.8926198,
+   "ts": 1792998950.9638493,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792995350.4790704,
+   "ts": 1792998951.2149057,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,14 +1045,6 @@
   }
  },
  "seen_news": [
-  "7650634f803d",
-  "ff3ef9c9b22e",
-  "bedbdbb435aa",
-  "63c824fa593c",
-  "9252ba7daaea",
-  "0b4475ff7ff2",
-  "5d3b6f509263",
-  "a76d5749cb0b",
   "27a868ac3034",
   "18fcd2fd39d4",
   "1963831c462e",
@@ -4044,7 +4036,15 @@
   "0e5e526fbdd7",
   "aa96a371d7eb",
   "cd4b7c175cdb",
-  "ed4a3d7b27c0"
+  "ed4a3d7b27c0",
+  "dfc15d049adc",
+  "9f4503e8a8e9",
+  "6e9845ff8d2c",
+  "717cb36515dd",
+  "5b1cb57af621",
+  "2ec6982c8b6a",
+  "bac42a406643",
+  "11acaa3c4892"
  ],
  "news": [
   {
@@ -4070,6 +4070,18 @@
    "cat": "taux",
    "raison": "Rappel de vents contraires via taux élevés, atténué par le soutien géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Russia’s war casualty toll in Ukraine up by 1,990 over past day",
+   "source": "Ukrinform",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHBRb0ZITGFZMjJSMVV2RXlsS1ZuMk00cjJfRGRSVGt1RU5CYkhwUmhpWWl4STFaVnB1OG51VkhLU3IxVUF6Nm9zakZ6Q294TE5RdGY5Rldlcy1GOHg0NVJjUVVLWFhUOUZoZHlPeUdLMzF4OE1RMXZ4NEZrUGd1Z2hnWDZadGlERjA5ZWVlYWRfLUR4WU5UUF9XYjRGV1FQUE1FVzZyWnBuMzNnMnhXVtIBtgFBVV95cUxQb3V4aDZOOTJLZl9uanNILS1nc2h6blRfZldwa2taZExFVXNrREtBV1NiTFNSQUtncE5VZzM1UWt2UkdXVEtha2h2UThUOVlXdnJKYTAtYVZkeHhlZ20tX0p1ZVZFNzB2dU1qVjNFdGNaUnRQeUI2OVVBalNTODRGaXAtMVpCNEQyS2o5bG0yRURlTFRuVEJmODJRNHRNY3hPdkFxZ2ZhazdUanNaMHVkMG5JZ3RBUQ?oc=5",
+   "published": "2026-10-26T06:30:00+00:00",
+   "id": "bac42a406643",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold Miners Go From Record Month to Washout in 21 Sessions",
@@ -6433,18 +6445,6 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "Menace imminente de frappes militaires contre l'Iran, forte poussée de la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Consumer sentiment nears all - time low ahead of midterms",
-   "source": "willmarradio.com",
-   "theme": "Géopolitique",
-   "link": "https://www.willmarradio.com/business/business_news/consumer-sentiment-nears-all-time-low-ahead-of-midterms/collection_0b02a4d4-ed28-5d0c-a5fd-c52847d7ad5f.html",
-   "published": "2026-10-24T23:30:00+00:00",
-   "id": "9a9097278a00",
-   "impact": 2,
-   "cat": "taux",
-   "raison": "Détérioration du moral signalant un ralentissement, pesant sur les rendements obligataires réels.",
    "method": "IA"
   }
  ],
