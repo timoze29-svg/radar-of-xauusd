@@ -1045,7 +1045,6 @@
   }
  },
  "seen_news": [
-  "69ec172725e1",
   "4fb4be415467",
   "362072ab8a61",
   "07e155f4161f",
@@ -4044,9 +4043,22 @@
   "e10716196fd7",
   "2abcafc7817c",
   "c28ef1ac85be",
-  "aea9444e54ae"
+  "aea9444e54ae",
+  "d8017e12b808"
  ],
  "news": [
+  {
+   "title": "Gold rebounds above $4,000 amid hopes of easing US‑Iran tensions",
+   "source": "FXStreet",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2h0TkR3TDJRYzVCLThGNTBZV1lScHB4NU1veVJXRERvaEpwX0o5NUdVSXV3TVB3Z05JMENoQkVIampiOWNrUGZuOGhCLXBqcXdSS0JWbkp5c3BULVdPUVhrLWJtZjFxcmhYM05pLXV5WmJ2VFhlU3g4ZGJoVzNXNjhhWENsVFY1c0cwNnp6UUdGRXJJbk5iRk4zN1kyS1Q2dldmd29DM0pEUQ?oc=5",
+   "published": "2026-10-26T23:20:59+00:00",
+   "id": "d8017e12b808",
+   "impact": 8,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
    "source": "Norwalk Hour",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Incertitude quant à une riposte américaine contre l'Iran, prime refuge positive.",
    "method": "IA"
-  },
-  {
-   "title": "CENTCOM Chief Brad Cooper flies over Hormuz during Middle East visit",
-   "source": "jpost.com",
-   "theme": "Géopolitique",
-   "link": "https://www.jpost.com/middle-east/article-912824",
-   "published": "2026-10-25T18:00:00+00:00",
-   "id": "d991af634eba",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Démonstration de force dans le détroit d'Ormuz maintenant la vigilance des marchés.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7814,7 +7814,8 @@
   "news|19690a870603": 1793053154.405046,
   "news|450fd6cc0ed9": 1793053889.8020222,
   "news|1a39aad1eb95": 1793053890.7267075,
-  "news|176215103f61": 1793055698.9229362
+  "news|176215103f61": 1793055698.9229362,
+  "news|d8017e12b808": 1793057485.2957094
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8013,6 +8014,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T23:31:25.295797+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gold rebounds above $4,000 amid hopes of easing US‑Iran tensions</b>\n📰 FXStreet · Mar 27/10 00:20\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2h0TkR3TDJRYzVCLThGNTBZV1lScHB4NU1veVJXRERvaEpwX0o5NUdVSXV3TVB3Z05JMENoQkVIampiOWNrUGZuOGhCLXBqcXdSS0JWbkp5c3BULVdPUVhrLWJtZjFxcmhYM05pLXV5WmJ2VFhlU3g4ZGJoVzNXNjhhWENsVFY1c0cwNnp6UUdGRXJJbk5iRk4zN1kyS1Q2dldmd29DM0pEUQ?oc=5"
+  },
   {
    "ts": "2026-10-26T23:01:38.923047+00:00",
    "kind": "news",
@@ -8307,11 +8313,6 @@
    "ts": "2026-10-26T08:10:48.742451+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Norway Sucks’: Trump Attacks Country Over Nobel Peace Prize Snub</b>\n📰 Forbes · Lun 26/10 05:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFlDeko0SVhhYlZleW95YnJEQldvdXFSNGhtTmhFbVNLdmdva0ptS3FJTHpZLXZocFhNMmRGX1loaHc5U2xrTHAyQ1dVOUpQTU9qTkFxMDJUVFBTaFUxUHFmYnVQTWdUTjNHek5RMTdONXlkcjV1cjB6a1hKVHpTMHBPcnE3MHJhQl9pbmVKSmM4MTZnaWV4V2dMWUU3RzJ6bThFVkZ3MHJkRE5IbTBPazA5STVYMkE?oc=5"
-  },
-  {
-   "ts": "2026-10-26T08:10:47.931042+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>U.S. Fed likely to opt for a “hawkish hold” amid inflation rebound and midterm-election pressure</b>\n📰 파이낸셜뉴스 · Lun 26/10 08:24\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nRXJYX2c5eHNlNV9FTDVDeFRycElySVVfQnRkZVlGRElCMXJfZnhQZEhFb0JUQV94SlNiaVlSaHZ5N1pBZ1lSbDZjOE0tUVA3aDZsaWt4YVQ?oc=5"
   }
  ],
  "daily_forecast": {
