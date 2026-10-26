@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "31a2221b421c",
-  "fbe564ac56db",
-  "b79f1ba9dfff",
-  "e55aece113ed",
-  "14b6cc3d9786",
   "04233ba1441c",
   "383b2a393b0d",
   "9525e9f486a6",
@@ -4044,9 +4039,50 @@
   "143848d369a8",
   "a972254812bd",
   "4ee7ba320920",
-  "49e58b795b36"
+  "49e58b795b36",
+  "2620d74458cf",
+  "17fc2e02f707",
+  "d347a78dc29d",
+  "280948fe47f1",
+  "87fcffb8fc6f"
  ],
  "news": [
+  {
+   "title": "US Dollar Index falls to near 101.50 amid Fed rate pause odds, easing safe-haven demand",
+   "source": "FXStreet",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ0E2Sy1RZkZvVnNza18wZnR6ZFJCREZPS1dMWEpLRkJtZHozSXhjODdjX2dVUDhVUktRbzloT0swLTNLeGtkbHlneEhqNDlWX2EwcTFnNl9iU0VNN3dwSW9mcElESFBYWkN6RjRoTWE0V3IzY1dhVjZPejZpZklXa2xwVGxLWWV2ZWFSTGRmR3NtQTlUV2hSazlQUEtuYmFjSWlibmhfUzZwRnRkVmY1UGtOcjFUMGx5Rm1zUXBGdUZLRWc3UF9B?oc=5",
+   "published": "2026-10-26T05:32:40+00:00",
+   "id": "d347a78dc29d",
+   "impact": 8,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Six injured in Russian strikes on Ukraine's Zaporizhzhia, Chernihiv, officials say",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFB2N0FmQzU4ZUhMRTdFc1lVazh3YUNhcWYwdGt6ZGlzb25sLVdDZV9YeHROcGZkZ0VuUTA5WVBNMktrOFl4V1YzRWRwVHBxWmJzalljbXF4TEE4R1JDcXM5cXRrTVo3c1EwSnVGdGVjMlJwNlBYMTBPM3k5NkxMZnAtY0drQ1Z4NC1SSWZWaW5OM0FtQ0N6ZGZLc2JQYXhWakQtYV9wV1JQNGliem5nLVU0N2ZXdVBqVlhITmZiMA?oc=5",
+   "published": "2026-10-26T05:32:00+00:00",
+   "id": "87fcffb8fc6f",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump says Canada trade deal coming 'soon'",
+   "source": "Yahoo Finance UK",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWZrM3FJRGxfVk45Ukt2b0xQM00yWEdzc09ZOEdibVR1Ql9xWUFxQk95TW94R2pYLVAxM1Bqd1JEM1lsUmpiOXFlMGRQbU1RWWRhckg0TktwVmVlaVE2Qi1uNnlXQ3JpUVBsY3Y3aGcxc0I4M2tDRXp2amtVLW5BcHoxdw?oc=5",
+   "published": "2026-10-26T05:27:15+00:00",
+   "id": "17fc2e02f707",
+   "impact": -4,
+   "cat": "commerce",
+   "raison": "baissier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Donald Trump Attacks Bill Maher in Scathing, 1,318-Word Social Media Post: “Complete and Total Loser”",
    "source": "The Hollywood Reporter",
@@ -6410,42 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Débat d'opinion publique sur un conflit, impact de marché très négligeable.",
    "method": "IA"
-  },
-  {
-   "title": "Houthis claim 7 attacks on Saudi targets as heavy airstrikes hit Yemen - Xinhua",
-   "source": "english.news.cn",
-   "theme": "Géopolitique",
-   "link": "https://english.news.cn/20261025/016da6920c4d47c9a6462787c98c84d7/c.html",
-   "published": "2026-10-24T22:00:00+00:00",
-   "id": "7587bd79fde2",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Multiplication des frappes houthies ravivant les tensions et la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump says more strikes on Iran before midterms possible, but deal also possible",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanhqSXNGa3VDdWhTZWQ0UGE0b0stU2tfTWNXclNoS3I2cmxrTm1nWFFjOVp3SVlLUWRmSUNTcjRFTFlJSV9TS1U0VUtqYWR4MFZ5c3hHeVZXc1dXUFpaUDBMTnNCZFdnek53aHM3aWswNmxscFhGdmxVdXZlY082SDZwczFzQndBM19PZkZxY0lIakMtNDFuSmo4cU1uRi11aV9WVDk4Qk1kdnphbFNPTDV1aWpycjZsY0F4RW9rN0NNR2s?oc=5",
-   "published": "2026-10-24T21:45:07+00:00",
-   "id": "19cc0c7aa084",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold set for second weekly loss",
-   "source": "Business Recorder",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmSWRTVGMyajJjWDBtUDdsUDRFVjI3cEl4ajY5dEF2YVNrVHl6OU12VjNrd1I5UjBaZjBsaEtGMFBnclI2RjFxeVNxNlJwaXVlcWJPaEhB0gFWQVVfeXFMUGZJZFNUYzJqMmNYMG1QN2xQNEVWMjdwSXhqNjl0QXZhU2tUeXo5TXZWM2t3UjlSMFpmMGxoS0YwUGdyUjZGMXF5U3E2UnBpdWVxYk9oSEE?oc=5",
-   "published": "2026-10-24T21:25:40+00:00",
-   "id": "8e88d8636c0c",
-   "impact": -1,
-   "cat": "or",
-   "raison": "Constat descriptif de baisse technique passée, sans nouveau catalyseur macroéconomique majeur.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7748,7 +7748,8 @@
   "news|03b01e2b6498": 1792989978.0942917,
   "news|e2dcbe5f7335": 1792989979.1207495,
   "news|fb0796b608a2": 1792991765.5893865,
-  "news|a972254812bd": 1792992712.0551143
+  "news|a972254812bd": 1792992712.0551143,
+  "news|d347a78dc29d": 1792993561.443733
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7931,6 +7932,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T05:46:01.443807+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Dollar Index falls to near 101.50 amid Fed rate pause odds, easing safe-haven demand</b>\n📰 FXStreet · Lun 26/10 06:32\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ0E2Sy1RZkZvVnNza18wZnR6ZFJCREZPS1dMWEpLRkJtZHozSXhjODdjX2dVUDhVUktRbzloT0swLTNLeGtkbHlneEhqNDlWX2EwcTFnNl9iU0VNN3dwSW9mcElESFBYWkN6RjRoTWE0V3IzY1dhVjZPejZpZklXa2xwVGxLWWV2ZWFSTGRmR3NtQTlUV2hSazlQUEtuYmFjSWlibmhfUzZwRnRkVmY1UGtOcjFUMGx5Rm1zUXBGdUZLRWc3UF9B?oc=5"
+  },
   {
    "ts": "2026-10-26T05:31:52.055220+00:00",
    "kind": "news",
@@ -8225,11 +8231,6 @@
    "ts": "2026-10-25T11:31:32.490861+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Prepares for Iran Escalation After US, Israeli Polls</b>\n📰 Energy Connects · Dim 25/10 06:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1ByUzRhS3dZZmZYODV2eGJJbGEwRGt0MXgzeU9CLVFaVHBHbm5LZ2E5Z0RlYUhWVGpfNDQ4ZUQ0ZjZnVE9sb0owbDZoOTZpa0tXZi1wdHBwblJPUFRhTGgyZV9vZ1hFU1FoU0FoVHU4aF95WnhiREFGekMwRkVOSE1ycUllUXBVZnNrTFI3WkNGSXVlTDF6cHVGS0pVeDVpWnJRM29oeHZiYUlNME9TNg?oc=5"
-  },
-  {
-   "ts": "2026-10-25T11:31:31.574799+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Obama Criticizes Trump’s War Against Iran</b>\n📰 8AM Media · Dim 25/10 09:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5xX2pNa3RGNDN5TTM3Mnc1V1pjM2RwaUFrUTlyZzVUY0d6aWhzRDBiVkh3bGlTN0FnTm1WdVVib25lbjNIZUNDbFhMNVFZcW1LOWdfVVoza2Y0d3pDYzRJR1hFUzFiaXJYNjFOazNrTTY?oc=5"
   }
  ],
  "daily_forecast": {
