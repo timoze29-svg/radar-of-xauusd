@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793010662.530998,
+   "ts": 1793015152.4760053,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,14 +1045,6 @@
   }
  },
  "seen_news": [
-  "6bc927325d61",
-  "72326d587986",
-  "d03ff7c91098",
-  "e2ef888cf0a4",
-  "32c13dedc503",
-  "25da57db83a9",
-  "b4f283bf3fb7",
-  "4d98319a19ee",
   "fd9e892bc6d4",
   "19b6c1449452",
   "405b0e4aa088",
@@ -4044,9 +4036,29 @@
   "39f7e3041085",
   "f7ea77416f35",
   "560167df8ea8",
-  "4bb76d556516"
+  "4bb76d556516",
+  "1e172d6fa2b1",
+  "92eeadeadaa2",
+  "d92678c2e00e",
+  "85fc65505520",
+  "a72263ac152e",
+  "dce7a80860b5",
+  "9661b21b6b6c",
+  "25b4d5496b9c"
  ],
  "news": [
+  {
+   "title": "Trump, Netanyahu and the politics of escalation against Iran",
+   "source": "Financial Times",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzROZEVjU1JBRktyZ1ZvZG1lVEp1bFh0ckpFS2VYMjBDUGFSWTdpaXR1MDZLc3RWRW5xUUlrNG5hc19Yd01fUjVTY19UNWtXS2JwaDZEVENIUFRxem03MnFBakY2TFVNdEFXcWVoMVpPaExySmhoZmxmNXlIbTBCc0xFS1A?oc=5",
+   "published": "2026-10-26T11:37:21+00:00",
+   "id": "a72263ac152e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia says Ukraine has repeatedly struck Oleshky with artillery and drones ahead of local ceasefire",
    "source": "Reuters",
@@ -4141,6 +4153,18 @@
    "impact": -3,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Watch Saudi Defense Minister Set for Tehran Talks, Trump Weighs Iran Deal or New Strikes",
+   "source": "Bloomberg.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFE5T290aXNva2R2cTFnTzJhS0pSUzEtbEhlNmd1UThKdFdQZU9vY21uRl9aUmtpSU5fV0FzYXJIMkxDSFRmMXpXN0gwbzdvbmlERVdObGIzS1ZzaEhacmo0NURhQWVKZFZaaUVNTDhIVEpQZV84ZmtQcXhfTEpwS08yMUpCbWtRa0V0bDYxWnNtd2pwOGl2dA?oc=5",
+   "published": "2026-10-26T09:05:38+00:00",
+   "id": "85fc65505520",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Perspective de paix réduisant à la marge la prime de risque géopolitique mondiale.",
    "method": "IA"
-  },
-  {
-   "title": "Riyadh airport resumes flights after two - week closure following Houthi attacks",
-   "source": "newindianexpress.com",
-   "theme": "Géopolitique",
-   "link": "https://www.newindianexpress.com/world/2026/Oct/25/riyadh-airport-resumes-flights-after-two-week-closure-following-houthi-attacks",
-   "published": "2026-10-25T05:30:00+00:00",
-   "id": "d98e4384765e",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Réouverture de l'aéroport marquant une accalmie, réduisant marginalement la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump keeps Iran strike option open , says deal possible ; Tehran accuses US of derailing talks",
-   "source": "newindianexpress.com",
-   "theme": "Géopolitique",
-   "link": "https://www.newindianexpress.com/world/2026/Oct/25/trump-keeps-iran-strike-option-open-says-deal-possible-tehran-accuses-us-of-derailing-talks",
-   "published": "2026-10-25T05:30:00+00:00",
-   "id": "be0f33a25018",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes et risque militaire maintenant une prime géopolitique modérée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7772,7 +7772,9 @@
   "news|60fa83bedff7": 1793012392.1484873,
   "brk|DXY|pdh|up|2026-10-26": 1793012393.3097444,
   "news|d43f151c1cbc": 1793014464.5215456,
-  "news|b4ed6703a793": 1793014465.3406932
+  "news|b4ed6703a793": 1793014465.3406932,
+  "news|a72263ac152e": 1793015169.9401078,
+  "news|85fc65505520": 1793015170.9384859
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7971,6 +7973,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T11:46:10.938716+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch Saudi Defense Minister Set for Tehran Talks, Trump Weighs Iran Deal or New Strikes</b>\n📰 Bloomberg.com · Lun 26/10 10:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFE5T290aXNva2R2cTFnTzJhS0pSUzEtbEhlNmd1UThKdFdQZU9vY21uRl9aUmtpSU5fV0FzYXJIMkxDSFRmMXpXN0gwbzdvbmlERVdObGIzS1ZzaEhacmo0NURhQWVKZFZaaUVNTDhIVEpQZV84ZmtQcXhfTEpwS08yMUpCbWtRa0V0bDYxWnNtd2pwOGl2dA?oc=5"
+  },
+  {
+   "ts": "2026-10-26T11:46:09.940178+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, Netanyahu and the politics of escalation against Iran</b>\n📰 Financial Times · Lun 26/10 12:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzROZEVjU1JBRktyZ1ZvZG1lVEp1bFh0ckpFS2VYMjBDUGFSWTdpaXR1MDZLc3RWRW5xUUlrNG5hc19Yd01fUjVTY19UNWtXS2JwaDZEVENIUFRxem03MnFBakY2TFVNdEFXcWVoMVpPaExySmhoZmxmNXlIbTBCc0xFS1A?oc=5"
+  },
   {
    "ts": "2026-10-26T11:34:25.341088+00:00",
    "kind": "news",
@@ -8260,16 +8272,6 @@
    "ts": "2026-10-25T16:16:13.221672+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>‘Well-known evil empire’: Barack Obama mocks President Trump’s tariff war with Canada</b>\n📰 Toronto Star · Dim 25/10 16:58\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbVZxLXloUTVSR0dUSWJIdnZDOWpXQVJLN2RCNmFNU2EzSWRCY0lwMjl4Z3hPTE5RdmRiVkltRVIxdXA2b2dXZ1VPV0gwTXN0dWU5N3VaSGdwckNxVno1cEt5aWJORjNfVjBQbE5GZFF3aGxSanJkenNlZ2lKaHJ2WEJkTG05ejhzWnhuaFo0dVF5bktIbTluSHpnN3dia0pZV2xfNzFaSGJHZ1JtZFEwaldoSG9RREkxc1JseTJQLW1EVWw0c1NJRmFsSDNndEc2eUY4VkJqUUtmUmhOazMxc3AwNVdGTUQtYS11LVdTam9tWkFpS2RibA?oc=5"
-  },
-  {
-   "ts": "2026-10-25T16:01:40.977276+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>'No more shine' - Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets</b>\n📰 The Star · Dim 25/10 13:50\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1BWOXZCeWs2M29VbWYySGIySXFFNnhwWmdDR2V1OGdyRHJsbVpfWlJ4eUdWNDVUemJGbUxNSkhFQXE4bl9VRGkyWlZ5WVA1X0tCMVFTUC1Zd2lRM2Q5cWpzcHVEdGF2aEd0UjkwVU0yTldSSzV5X1RUeHdKSi1fZERWS3VqZVJSdWNnOEh1bjlIZUJXQl9GeGZJRlVaSWJfNDdhMW5VeTlMbnk4eUVuUFMtb2RYTDZ3ZGhvQmY4ZkhIc2RHV2Y4MGpzMUhaUXN5WVZ6M2ktanhObGQ2d0xuZm85UEZKR25RM1NCWEYwQ25TMHI1MlE?oc=5"
-  },
-  {
-   "ts": "2026-10-25T15:46:11.497329+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's threat remains as Israel risks an endless cycle of war</b>\n📰 www.israelhayom.com · Dim 25/10 16:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNSF95TUFuaU11LWFiNFAzbTJEOUYxX3pEajg5bTNNNTBYcXEtXzlicWMtajRhRmNJTVR6aHMzMFVjdUVOa0hsN0NnYmJTSVVxa0N2Y0Y5VUZiSDF2Wnp5RFdQUlJRTzdZOFI4UmVlbWw2NTNjYUNRT2IyOC1QWVhQWkZiaTU0QlFDd1F2TFBYTFdDTlpDTU1BSzF2TG1uRHlLSEE?oc=5"
   }
  ],
  "daily_forecast": {
