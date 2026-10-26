@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "cc0294cc50f2",
-  "b2f61612dfb3",
-  "0b5f54ac93d3",
-  "694219c5ee35",
-  "1d27510757e7",
   "2071833fe5e5",
   "57bf0dd2834b",
   "8fe456512e7b",
@@ -4044,7 +4039,12 @@
   "f4920a7fd21c",
   "1cd1b8b96762",
   "affa339ffc2d",
-  "904504aceaa2"
+  "904504aceaa2",
+  "a0a068e26649",
+  "6c1c53a318bc",
+  "7969a7bc035b",
+  "5879663cf7e5",
+  "597f5b2efa72"
  ],
  "news": [
   {
@@ -4117,6 +4117,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Fed Rate Hikes In 2027 What You Should Know",
+   "source": "Forbes",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjBfRl9BdjJ4TE9UMk9BY1NmYWp3MFVuNWkwYnIweWpuRldsZU8zQk9rWFBTRUhpVXQyYW9WZWFXd0EzVWZ2VnZwdUljYmFuQmE1QmstWXpmcUZOaDVlZ1pJbnB6anFMUEZIdnU2S1loUGtnV2Z3R2ktbkgtek5VNThFUnFVUHhpbGF5NEEyd1dIR0p6X0tGc0tuYUY?oc=5",
+   "published": "2026-10-26T18:29:54+00:00",
+   "id": "6c1c53a318bc",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "commerce",
    "raison": "Désescalade commerciale entre USA et Canada, réduisant l'incertitude et la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Four killed in two drone attacks in Russia's Belgorod region",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHRUX2c1M1VjUTdxb1pfekVNSTlXNlpIQzFJRkZjSXhCVEZyaXZ3MHk0RWlKalZhVjhwTHNQYWU1V0pWRHAzZ3A5UkR5TXpPVzYyblFTcDFKNmdDNmh2NEU0T1lZMy1BSllDck9UeU5JbEpWeUdmdlhBTDNDZnpUaEx5M3hCS0lXVUUwblRWaU9TWS0xaGRnNUNVb0ZTS1BZU29KaDc0cnphWEJWVXJ4Y0dyWDg?oc=5",
-   "published": "2026-10-25T15:56:13+00:00",
-   "id": "a5aa322b7b24",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Escalade locale du conflit russo-ukrainien, maintenant une légère prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7805,7 +7805,8 @@
   "news|951b36900c36": 1793037697.8316772,
   "news|cbb951a02800": 1793043090.9735026,
   "news|6093415e5356": 1793043968.2952845,
-  "news|f4920a7fd21c": 1793044925.9522967
+  "news|f4920a7fd21c": 1793044925.9522967,
+  "news|6c1c53a318bc": 1793045950.4236977
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8004,6 +8005,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T20:19:10.423773+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Rate Hikes In 2027 What You Should Know</b>\n📰 Forbes · Lun 26/10 19:29\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjBfRl9BdjJ4TE9UMk9BY1NmYWp3MFVuNWkwYnIweWpuRldsZU8zQk9rWFBTRUhpVXQyYW9WZWFXd0EzVWZ2VnZwdUljYmFuQmE1QmstWXpmcUZOaDVlZ1pJbnB6anFMUEZIdnU2S1loUGtnV2Z3R2ktbkgtek5VNThFUnFVUHhpbGF5NEEyd1dIR0p6X0tGc0tuYUY?oc=5"
+  },
   {
    "ts": "2026-10-26T20:02:05.952393+00:00",
    "kind": "news",
@@ -8298,11 +8304,6 @@
    "ts": "2026-10-26T05:16:05.589473+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Attacks Bill Maher in Scathing, 1,318-Word Social Media Post: “Complete and Total Loser”</b>\n📰 The Hollywood Reporter · Lun 26/10 06:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1JKQzVfX1J4ZmtHRjhmMGdxQXVISHdyakpKMGlhVThWTTRJUlVIcUVFSUJTejdERDUtTjZyenBfN0pLNVI4SVoyMWl1LU1abUgtWlJrSHo4aGF3cnF0Ujc2bFZGanNuS2poZ3dMaGtabDltbDh4YjhPVHI5ZmtQbXV0bnBXbGFDTFhCY2Y4bUxKeF9DTkFvcjBydDVibmVmckJGS2lWRWlqM2hJUFEwSEJR?oc=5"
-  },
-  {
-   "ts": "2026-10-26T04:46:19.120881+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar pushes for Iran deal, new US strikes remain possible</b>\n📰 Iran International · Lun 26/10 00:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WQlR2UGtzTUQ5TU9ybDdqUVdlVHlCeUVoRXZLVVNMZDd0NVJKbEpJUmo0M2NqWnlBZlNDQTBKc3Z5d3pzUWJiSGpxVHI0TWNveFE?oc=5"
   }
  ],
  "daily_forecast": {
