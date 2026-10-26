@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "04233ba1441c",
-  "383b2a393b0d",
-  "9525e9f486a6",
-  "ccc83c1cd559",
-  "261cbf848194",
-  "28169ee5f4d1",
-  "4117be6e1b8d",
   "83eec3be02c7",
   "a608e66d05c0",
   "21cfa24b57d8",
@@ -4044,7 +4037,14 @@
   "17fc2e02f707",
   "d347a78dc29d",
   "280948fe47f1",
-  "87fcffb8fc6f"
+  "87fcffb8fc6f",
+  "7f2ed7829475",
+  "f856801e5521",
+  "812afb48d328",
+  "b893c6bc0b66",
+  "9af8ed88f168",
+  "41aa28878f39",
+  "c1c89825b477"
  ],
  "news": [
   {
@@ -4081,6 +4081,18 @@
    "impact": -4,
    "cat": "commerce",
    "raison": "baissier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil Prices Fall as Hopes for US-Iran De-Escalation Grow",
+   "source": "Caspian Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeGEtZ0doeUtZdHVoS25waUJRM1lEUmJDOENneHlwX2RMTFdGY1NIZUJsVVpHWk9KM25yWG84THlaU2VNQWhUdVlHbkFqMUJrOFNhTFVNMWwya2F4WENaeXdGb1BIWVlHWXVDZmVTZ1ZUVnY1TjZUM0dpaEpvRGtOdEdLeXdvZHN1amZYTw?oc=5",
+   "published": "2026-10-26T05:27:00+00:00",
+   "id": "812afb48d328",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4766,6 +4778,18 @@
    "cat": "commerce",
    "raison": "Allègement temporaire des barrières douanières, apaisement mineur sur le front commercial.",
    "method": "IA"
+  },
+  {
+   "title": "Rising threat of war between Washington and Tehran: A new confrontation facing a US strategy at a dead end",
+   "source": "جريدة القدس",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sb1hJQzlhYTVYRzFmX0Rxc2tWN3hHZ2hla0YwZjBjLW1DaDBxZjBuNk9LdkVOLUl4b0xaNTdVVF9PdnZIM2ZYQ1NR?oc=5",
+   "published": "2026-10-25T16:37:15+00:00",
+   "id": "b893c6bc0b66",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump rules out Sunday military strikes on Iran",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Signaux d'ouverture diplomatique réduisant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Small businesses struggling with inflation amid Trump tariffs ahead of midterms",
-   "source": "CBS News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdrS3lkN3dlSDJJZXBEVzM4Rk9DaHVwUml6dm1teXVxQW5HUnBXelVSTDdXc294c2xIOGlMeG53ZmM5SjE1ZzdfSVFvM21HTHFiTlhQMElUb1UzUGtyVldYckhMaGlaSDVKcGw5bHR3UkVRNDhnVDkyZjhVcnY2Vk1aS0tsQzlGSDJGNVR5akxKX2dSbGNZM0xSa1VOdTNfYzA3T0NZaS1PdnJHV2lJ?oc=5",
-   "published": "2026-10-24T22:09:00+00:00",
-   "id": "6e6a32c4b94a",
-   "impact": 2,
-   "cat": "inflation",
-   "raison": "Pressions tarifaires et risques de stagflation soutenant la demande d'or comme couverture.",
-   "method": "IA"
-  },
-  {
-   "title": "How popular is the Iran War?",
-   "source": "Silver Bulletin",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
-   "published": "2026-10-24T22:01:51+00:00",
-   "id": "313d0a2ce647",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Débat d'opinion publique sur un conflit, impact de marché très négligeable.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7749,7 +7749,9 @@
   "news|e2dcbe5f7335": 1792989979.1207495,
   "news|fb0796b608a2": 1792991765.5893865,
   "news|a972254812bd": 1792992712.0551143,
-  "news|d347a78dc29d": 1792993561.443733
+  "news|d347a78dc29d": 1792993561.443733,
+  "rep|weekly|2026-10-26": 1792994515.4201775,
+  "rep|daily|2026-10-26": 1792994516.506167
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7929,9 +7931,35 @@
     "PDL": 4036.8
    },
    "ts": "2026-10-23T05:04:17.269623+00:00"
+  },
+  "2026-10-26": {
+   "dir": "range",
+   "score": 12,
+   "p0": 4025.5,
+   "exp_range": 72.6,
+   "levels": {
+    "P": 4015.73,
+    "R1": 4042.37,
+    "S1": 3981.27,
+    "R2": 4076.83,
+    "S2": 3954.63,
+    "PDH": 4050.2,
+    "PDL": 3989.1
+   },
+   "ts": "2026-10-26T06:01:55.537224+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T06:01:55.537244+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — LUNDI 26/10</b>\nPrix : <b>4025.50</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+12/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4026 vs MM20 4148 / MM50 4334\n🟢 Sentiment news 24h : 140 news notées, moyenne +0.47\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.65% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +11.4$ · plus haut 4032.9 / plus bas 3990.9 (range 42$)\nDXY -0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~73$</b> (ATR 72$ × profil du lundi)\nDéjà fait en Asie : 42$ (58% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4076.8 | R1 4042.4 | <b>Pivot 4015.7</b> | S1 3981.3 | S2 3954.6\nVeille : PDH 4050.2 / PDL 3989.1  ·  Semaine passée : 4211 / 3989\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>50%</b> du temps (280 jours, ~6.0 ans)\n• Hier : -1.29% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (212 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +13.3$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 3981 et R1 4042\nJouer les extrêmes, pas le milieu (pivot 4016). Range attendu ~73$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4050 ou PDL 3989 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
+  {
+   "ts": "2026-10-26T06:01:54.439277+00:00",
+   "kind": "weekly",
+   "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 26/10/2026</b>\nPrix : <b>4025.50</b>  (-3.24% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (+12/100)</b>\n🔴 Momentum or (vs MM50) : prix 4026 vs MM20 4148 / MM50 4334\n🟢 Sentiment news 24h : 140 news notées, moyenne +0.47\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.65% vs Fed 3.88% → hausses anticipées\n🟢 Taux réels 10 ans (20j) : 2.64% (-0.12 sur 20j)\n🟢 Taux US 10 ans (5j) : -11 pb sur 5 jours\n🟢 Dollar (DXY 5j) : -0.27% sur 5 jours\n\n📐 <b>Niveaux clés or</b>\nR2 4291.5 | R1 4149.7 | <b>Pivot 4069.4</b> | S1 3927.6 | S2 3847.3\nSem. passée : PH 4211.2 / PB 3989.1 / clôt. 4007.9\nRange hebdo moyen (10 sem.) : <b>195$</b> | ATR jour : 71.9$\n\n📅 <b>News éco de la semaine</b>\n🔥 Mar 27/10 06:00 — JPY BOJ Core CPI y/y (prév. 1.9%)\n🔥 Mer 28/10 01:30 — AUD CPI m/m (prév. 0.7%)\n🔥 Mer 28/10 01:30 — AUD CPI y/y (prév. 4.2%)\n🔥 Mer 28/10 01:30 — AUD Trimmed Mean CPI m/m (prév. 0.3%)\n🔥 Mer 28/10 19:00 — USD Federal Funds Rate (prév. 4.00%)\n🔥 Mer 28/10 19:00 — USD FOMC Statement\n🔥 Mer 28/10 19:30 — USD FOMC Press Conference\n• Jeu 29/10 13:30 — USD Advance GDP q/q (prév. 3.2%)\n🔥 Jeu 29/10 13:30 — USD Core PCE Price Index m/m (prév. 0.3%)\n• Jeu 29/10 14:15 — EUR Main Refinancing Rate (prév. 2.65%)\n• Jeu 29/10 14:15 — EUR Monetary Policy Statement\n• Jeu 29/10 14:45 — EUR ECB Press Conference\n🔥 Ven 30/10 00:30 — JPY Tokyo Core CPI y/y (prév. 2.6%)\n🔥 Ven 30/10 07:29 — EUR German Prelim CPI m/m (prév. 0.1%)\n🔥 Ven 30/10 08:45 — EUR French Prelim CPI m/m (prév. 0.2%)\n🔥 Ven 30/10 09:00 — EUR Spanish Flash CPI y/y (prév. 4.9%)\n🔥 Ven 30/10 11:00 — EUR Italian Prelim CPI m/m (prév. 0.0%)\n🔥 Ven 30/10 17:00 — USD FOMC Member Daly Speaks\n🔥 Ven 30/10 17:30 — USD FOMC Member Musalem Speaks\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>49.8%</b> des semaines (<b>53.5%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 88.6%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+10) Maine logging, cross-border ties whipsawed by US-Canada tariff war\n🟢 (+10) Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf\n🟢 (+10) Trump Attacks Murkowski As Alaska Senate Fight Escalates: ‘Worst Senator’\n🟢 (+10) Trump Exempts Some Canadian Products From Section 338 Tariffs - But his Illegal Trade War Continues\n🟢 (+10) Barack Obama attacks Donald Trump’s administration and mobilizes voters for Democratic candidates in Ohio\n🟢 (+9) US dollar slides as yields fall, markets brace for data deluge and global rate splits\n\n↔️ <b>Scénario principal : RANGE</b> entre 3928 et 4150.\nAttendre la cassure de la semaine passée (3989 / 4211) ou les grosses news pour prendre une direction. Jouer les extrêmes du range, pas le milieu.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>"
+  },
   {
    "ts": "2026-10-26T05:46:01.443807+00:00",
    "kind": "news",
@@ -8221,27 +8249,17 @@
    "ts": "2026-10-25T11:46:15.304293+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says resumption of war with US would not change its mind</b>\n📰 abc.net.au · Dim 25/10 12:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004"
-  },
-  {
-   "ts": "2026-10-25T11:46:14.310139+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Prepares Another Strike as Iran Warns Islamic Revolutionary Guard Corps Response Several Times Greater</b>\n📰 NewsCord · Dim 25/10 12:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSDRvQlJYZFNpR1lLeXp3eUQ0dVZDOUdjYTVabms3aHlHeWNTWHVib0syVTVtcm1MWC1hUmNkcHJXcF9BeW4tVWoydDBpR2ZWX1dzMmp5M1VZcmRlLWxNdTF5cUd6ajVvb09KdTREajZIaDIxbUVYTXIzcmdoOVlxcjhoZHl0X0d6UDlvMnB2S0M0c2FLTmxYTVpCTXdlTFlLaV95V3VMNjY2cm1HSkdnYnN3ZXpkRXlUZTNqQy1PV25TZWFvQ3F0Z2hNRERydWZENmpuMDBMWlY5V1JhRnBZNk9pRFFSclVBeWc?oc=5"
-  },
-  {
-   "ts": "2026-10-25T11:31:32.490861+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Prepares for Iran Escalation After US, Israeli Polls</b>\n📰 Energy Connects · Dim 25/10 06:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1ByUzRhS3dZZmZYODV2eGJJbGEwRGt0MXgzeU9CLVFaVHBHbm5LZ2E5Z0RlYUhWVGpfNDQ4ZUQ0ZjZnVE9sb0owbDZoOTZpa0tXZi1wdHBwblJPUFRhTGgyZV9vZ1hFU1FoU0FoVHU4aF95WnhiREFGekMwRkVOSE1ycUllUXBVZnNrTFI3WkNGSXVlTDF6cHVGS0pVeDVpWnJRM29oeHZiYUlNME9TNg?oc=5"
   }
  ],
  "daily_forecast": {
-  "date": "2026-10-23T05:04:18.154371+00:00",
-  "text": "☀️ <b>PRÉVISION OR — VENDREDI 23/10</b>\nPrix : <b>4018.20</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-2/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 195 news notées, moyenne +0.63\n🔴 Momentum or (vs MM50) : prix 4018 vs MM20 4156 / MM50 4342\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.81% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -24.0$ · plus haut 4047.8 / plus bas 4000.9 (range 47$)\nDXY +0.07% sur la nuit\n⚠️ Plus bas de la veille (4037) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~66$</b> (ATR 70$ × profil du vendredi)\nDéjà fait en Asie : 47$ (71% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4214.7 | R1 4137.5 | <b>Pivot 4087.2</b> | S1 4010.0 | S2 3959.7\nVeille : PDH 4164.3 / PDL 4036.8  ·  Semaine passée : 4242 / 4095\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>57%</b> du temps (301 jours, ~6.0 ans)\n• Hier : -2.16% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (211 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 17h (11%) · plus BAS vers 0h (12%), 2h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -35.0$, depuis mercredi -131.8$ → le pattern ÉCHOUE (continuation) ⚠️\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4010 et R1 4138\nJouer les extrêmes, pas le milieu (pivot 4087). Range attendu ~66$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4164 ou PDL 4037 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-10-26T06:01:56.506129+00:00",
+  "text": "☀️ <b>PRÉVISION OR — LUNDI 26/10</b>\nPrix : <b>4025.50</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+12/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4026 vs MM20 4148 / MM50 4334\n🟢 Sentiment news 24h : 140 news notées, moyenne +0.47\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.65% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +11.4$ · plus haut 4032.9 / plus bas 3990.9 (range 42$)\nDXY -0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~73$</b> (ATR 72$ × profil du lundi)\nDéjà fait en Asie : 42$ (58% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4076.8 | R1 4042.4 | <b>Pivot 4015.7</b> | S1 3981.3 | S2 3954.6\nVeille : PDH 4050.2 / PDL 3989.1  ·  Semaine passée : 4211 / 3989\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>50%</b> du temps (280 jours, ~6.0 ans)\n• Hier : -1.29% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (212 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +13.3$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 3981 et R1 4042\nJouer les extrêmes, pas le milieu (pivot 4016). Range attendu ~73$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4050 ou PDL 3989 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
-  "date": "2026-10-19T05:01:42.146369+00:00",
-  "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 19/10/2026</b>\nPrix : <b>4201.80</b>  (+0.27% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (-5/100)</b>\n🔴 Momentum or (vs MM50) : prix 4202 vs MM20 4205 / MM50 4370\n🟢 Dollar (DXY 5j) : -0.75% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.77% vs Fed 3.88% → hausses anticipées\n🟢 Taux US 10 ans (5j) : -15 pb sur 5 jours\n🔴 Taux réels 10 ans (20j) : 2.78% (+0.10 sur 20j)\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.11\n\n📐 <b>Niveaux clés or</b>\nR2 4320.1 | R1 4250.6 | <b>Pivot 4172.8</b> | S1 4103.3 | S2 4025.5\nSem. passée : PH 4242.3 / PB 4095.0 / clôt. 4181.1\nRange hebdo moyen (10 sem.) : <b>187$</b> | ATR jour : 73.0$\n\n📅 <b>News éco de la semaine</b>\n🔥 Lun 19/10 14:30 — CAD CPI m/m (prév. 0.2%)\n🔥 Lun 19/10 14:30 — CAD Median CPI y/y (prév. 2.0%)\n🔥 Lun 19/10 14:30 — CAD Trimmed CPI y/y (prév. 1.9%)\n🔥 Lun 19/10 14:30 — CAD Common CPI y/y (prév. 2.6%)\n🔥 Lun 19/10 14:30 — CAD Core CPI m/m\n🔥 Mer 21/10 08:00 — GBP CPI y/y (prév. 3.4%)\n🔥 Mer 21/10 08:00 — GBP Core CPI y/y (prév. 2.8%)\n🔥 Mer 21/10 23:45 — NZD CPI q/q (prév. 0.8%)\n🔥 Ven 23/10 01:30 — JPY National Core CPI y/y (prév. 2.1%)\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>50.2%</b> des semaines (<b>54.1%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 89.1%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+5) Trump says US may ‘soon finish the job’ on Iran, Netanyahu vows to topple regime\n🟢 (+4) Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand\n🔴 (-4) U.S. Treasury Prices Drop to Second-Largest Since 1787\n🟢 (+4) Europe sent its gold to the U.S. for safe keeping during World War II. Central banks are now reshuffling their reserves for a new era of uncertainty\n🟢 (+4) Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News\n🟢 (+4) Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide\n\n🧠 <b>Analyse IA</b>\n1. Le contexte en 3 phrases\nL'or cote 4201$ dans un marché tiraillé entre le repli du dollar (DXY -0.75% sur 5j à 101.81) et la pression des taux réels élevés à 2.78%. Les tensions géopolitiques extrêmes autour de l'Iran et les menaces de Trump soutiennent les flux refuges, propulsant le VIX vers 20. La tendance de fond reste toutefois coiffée sous la SMA50 (4370$) et la SMA20 (4205$), maintenant un biais tactique neutre.\n\n2. Scénario principal (55%)\nAttention à ton idée reçue : sur 313 semaines, le retournement jeudi-vendredi n'arrive qu'à 50.2% (autant jouer à pile ou face), bien qu'après une hausse il monte à 46.6% de réversion.\n- Lun→Mer : Hausse d'inertie refuge vers la résistance R1 à 4250$. Achat sur repli vers le pivot 4173$ ou cassure confirmée des 4208$ (PH sem.).\n- Jeu→Ven : Essoufflement sous 4242$-4250$ (PWH/R1) et consolidation vendeuse vers 4180$.\n- Invalidation : Cassure nette sous 4167$ (PDL), qui annulerait la poussée initiale pour viser 4103$ (S1).\n\n3. Scénario alternatif (45%)\nCassure baissière immédiate déclenchée par un apaisement brutal sur le front iranien ou un rebond des rendements US (2 ans déjà tendu à 4.77%). Si le cours casse les 4167$, vente directe pour viser le support majeur 4095$-4103$ (PWL/S1), sans rebond en fin de semaine.\n\n4. Jours / heures dangereux\nSemaine calme sur les chiffres US de premier plan, le danger vient des gros titres géopolitiques imprévisibles et de l'ouverture US quotidienne (14h30-16h00). Surveille les CPI Canada (lundi 14h30) et UK (mercredi 08h00) pour la volatilité devises. Règle : réduis la taille de 50% sur les extensions au-delà de l'ATR (73$) et ne tente pas de shorter aveuglément mercredi soir sur simple croyance du cycle.\n\n5. Les 3 choses à surveiller en priorité\n- Les frappes/déclarations USA-Iran autour du détroit d'Ormuz (driver #1 du refuge).\n- Le seuil pivot des 4205$ (SMA20) en clôture 4h.\n- L'évolution du Dollar Index (DXY) sur le support des 101.80.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>",
-  "ai": true
+  "date": "2026-10-26T06:01:55.420144+00:00",
+  "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 26/10/2026</b>\nPrix : <b>4025.50</b>  (-3.24% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (+12/100)</b>\n🔴 Momentum or (vs MM50) : prix 4026 vs MM20 4148 / MM50 4334\n🟢 Sentiment news 24h : 140 news notées, moyenne +0.47\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.65% vs Fed 3.88% → hausses anticipées\n🟢 Taux réels 10 ans (20j) : 2.64% (-0.12 sur 20j)\n🟢 Taux US 10 ans (5j) : -11 pb sur 5 jours\n🟢 Dollar (DXY 5j) : -0.27% sur 5 jours\n\n📐 <b>Niveaux clés or</b>\nR2 4291.5 | R1 4149.7 | <b>Pivot 4069.4</b> | S1 3927.6 | S2 3847.3\nSem. passée : PH 4211.2 / PB 3989.1 / clôt. 4007.9\nRange hebdo moyen (10 sem.) : <b>195$</b> | ATR jour : 71.9$\n\n📅 <b>News éco de la semaine</b>\n🔥 Mar 27/10 06:00 — JPY BOJ Core CPI y/y (prév. 1.9%)\n🔥 Mer 28/10 01:30 — AUD CPI m/m (prév. 0.7%)\n🔥 Mer 28/10 01:30 — AUD CPI y/y (prév. 4.2%)\n🔥 Mer 28/10 01:30 — AUD Trimmed Mean CPI m/m (prév. 0.3%)\n🔥 Mer 28/10 19:00 — USD Federal Funds Rate (prév. 4.00%)\n🔥 Mer 28/10 19:00 — USD FOMC Statement\n🔥 Mer 28/10 19:30 — USD FOMC Press Conference\n• Jeu 29/10 13:30 — USD Advance GDP q/q (prév. 3.2%)\n🔥 Jeu 29/10 13:30 — USD Core PCE Price Index m/m (prév. 0.3%)\n• Jeu 29/10 14:15 — EUR Main Refinancing Rate (prév. 2.65%)\n• Jeu 29/10 14:15 — EUR Monetary Policy Statement\n• Jeu 29/10 14:45 — EUR ECB Press Conference\n🔥 Ven 30/10 00:30 — JPY Tokyo Core CPI y/y (prév. 2.6%)\n🔥 Ven 30/10 07:29 — EUR German Prelim CPI m/m (prév. 0.1%)\n🔥 Ven 30/10 08:45 — EUR French Prelim CPI m/m (prév. 0.2%)\n🔥 Ven 30/10 09:00 — EUR Spanish Flash CPI y/y (prév. 4.9%)\n🔥 Ven 30/10 11:00 — EUR Italian Prelim CPI m/m (prév. 0.0%)\n🔥 Ven 30/10 17:00 — USD FOMC Member Daly Speaks\n🔥 Ven 30/10 17:30 — USD FOMC Member Musalem Speaks\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>49.8%</b> des semaines (<b>53.5%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 88.6%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+10) Maine logging, cross-border ties whipsawed by US-Canada tariff war\n🟢 (+10) Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf\n🟢 (+10) Trump Attacks Murkowski As Alaska Senate Fight Escalates: ‘Worst Senator’\n🟢 (+10) Trump Exempts Some Canadian Products From Section 338 Tariffs - But his Illegal Trade War Continues\n🟢 (+10) Barack Obama attacks Donald Trump’s administration and mobilizes voters for Democratic candidates in Ohio\n🟢 (+9) US dollar slides as yields fall, markets brace for data deluge and global rate splits\n\n↔️ <b>Scénario principal : RANGE</b> entre 3928 et 4150.\nAttendre la cassure de la semaine passée (3989 / 4211) ou les grosses news pour prendre une direction. Jouer les extrêmes du range, pas le milieu.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>",
+  "ai": false
  },
  "ny_update": {
   "date": "2026-10-23T12:04:24.885716+00:00",
