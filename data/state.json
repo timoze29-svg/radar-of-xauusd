@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "a47c23302284",
-  "5bcc9cf7a18d",
-  "d1ef7f82f893",
-  "92a30759b4f7",
-  "fb9227a5eded",
-  "90762605270b",
   "d7bdf5bf9a59",
   "e9d7770c5f8b",
   "e10a028ccaf5",
@@ -4044,7 +4038,13 @@
   "8c56acbecb42",
   "1cd656df67b5",
   "e961b864e468",
-  "265c2f4ef124"
+  "265c2f4ef124",
+  "702985b03e76",
+  "bbbdd8bd4714",
+  "7cc6127ca841",
+  "b16b10b760a0",
+  "ffafd3892a69",
+  "5fb0a1999d99"
  ],
  "news": [
   {
@@ -4414,6 +4414,18 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2VfSTNIT3VIcUtpb2pWdVU2UVg3cUt5MzlnY0J6YW1Na0pjd0l0aGJ5TzF3ZEI0TEl5OXBGNnJVSy14UXpUYjFXRUdJRlJCclVhZkFZcDZWdUlCUVozRUZHWXJvUVUzc2tLb3Q2TEwyRVNnazdxWV9RdFV1QTFwVlRtSk9lWEE2dURyc0dxVjZFeGlCNGcza3d1VzhFWnFXOFB3dVM2Z0FFNW5JeTY4X0NVYUQ?oc=5",
    "published": "2026-10-26T07:44:00+00:00",
    "id": "8c56acbecb42",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "‘Within 96 hours’: US ready for major Iran strikes if Trump gives order",
+   "source": "Ynetnews",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xV1Y3Yzh6dTJoWHY1TUN6QVNqTzBObVFCVlh6VVU3QngyYWREbElxSlFwdmNDd1l1ZGFMc3pwdVBHWndUT2lXMmRNUDF2V1dfY0E4YU5R?oc=5",
+   "published": "2026-10-26T07:39:09+00:00",
+   "id": "bbbdd8bd4714",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6434,18 +6446,6 @@
    "cat": "banques centrales",
    "raison": "Flux mitigés : les achats chinois et polonais compensent les ventes d'autres banques centrales.",
    "method": "IA"
-  },
-  {
-   "title": "Netanyahu could order strike on Iran even if he loses election",
-   "source": "www.israelhayom.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1hESUl4V0R4dE41TW1oYzhaSG9acXgtU1gyMkpjWk1mWnprM084eHdVZHdfU19nUWFMS1lKZUk0amJyalYtZzdfZVJ6WDlDeUlmc1puYXhhSW1uZWYtc0lLWk9QNnN0ZjZBTndBSWkwN2h6M2ZEQmZCcTlKTTlQbEhBMkxSSmttblk1X3ZwcXlNS1pELU1zbHluUGdQaXIxb05yQw?oc=5",
-   "published": "2026-10-25T06:49:24+00:00",
-   "id": "cdb5820e75e8",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque accru de frappe sur l'Iran soutenant la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7777,7 +7777,8 @@
   "news|85fc65505520": 1793015170.9384859,
   "news|c75b002c821f": 1793016105.0674076,
   "news|3994eec07f78": 1793016105.9874814,
-  "news|8c56acbecb42": 1793016106.8797972
+  "news|8c56acbecb42": 1793016106.8797972,
+  "news|bbbdd8bd4714": 1793016965.5055602
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7976,6 +7977,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T12:16:05.505629+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Within 96 hours’: US ready for major Iran strikes if Trump gives order</b>\n📰 Ynetnews · Lun 26/10 08:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xV1Y3Yzh6dTJoWHY1TUN6QVNqTzBObVFCVlh6VVU3QngyYWREbElxSlFwdmNDd1l1ZGFMc3pwdVBHWndUT2lXMmRNUDF2V1dfY0E4YU5R?oc=5"
+  },
   {
    "ts": "2026-10-26T12:01:46.880010+00:00",
    "kind": "news",
@@ -8270,11 +8276,6 @@
    "ts": "2026-10-25T17:31:24.819063+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US won’t strike Iran today, amid rising tensions</b>\n📰 The Times of Israel · Dim 25/10 17:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHhTZzcwNHBoX2MtUUNwZ1NZcUx3T1NZSVFHY3BZU200SnF5YS1TdzJrZThxRkNfODNOWnMwVHkyTFZDZGYydUw4Y2xoeTBLS1VnYXNMUGFJN0JpbG9xSE9vNGZWSWpneFFVamVFZ2I4VDJkVkNERDkzODdVZ0UxQWotSXI2SG5SbDZkWjk2S195dHdSNWFGX1EwUGVwUjZlei10aUJR?oc=5"
-  },
-  {
-   "ts": "2026-10-25T17:19:09.703053+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Obama criticizes Trump’s tariff war with Canada at U.S. midterm rallies</b>\n📰 The Globe and Mail · Dim 25/10 15:07\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNNE9NajVkcy0wWlJ6czluSjU0LThtakZvOVUyaFdIMFJNZWxMUFJQYXdnRkdVV2kxS3ZPaXlxM3B3dmhGTWl1OUw0bEhlb2VPM2pXdFpNS29vWmIwbGxDdTNJNUk5XzlfZFhsYWhET3BZYm5vR1M2aGNvWWx0SkVxMzNsTG1KUW1yNGZ5aHMxWlQ?oc=5"
   }
  ],
  "daily_forecast": {
