@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792975548.8802497,
+   "ts": 1792980072.208718,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "1a938346d0e3",
-  "8d3584ff914e",
-  "6e0b5a709f7d",
-  "cbcb117b9a8d",
-  "2df730846194",
-  "074f84e1001d",
   "eae800296956",
   "d7ab9b5f6ddf",
   "ccc84d7f0ffb",
@@ -4044,9 +4038,27 @@
   "5d0aedeececd",
   "5496e63326c7",
   "97e9a548b9d6",
-  "803bd9a00761"
+  "803bd9a00761",
+  "8d609a17f991",
+  "f52d279b4f5c",
+  "543576e85335",
+  "1439c243e828",
+  "6381a7fe46e6",
+  "9b34623911fb"
  ],
  "news": [
+  {
+   "title": "Fed expected to pause rate hikes ahead of US midterms",
+   "source": "The Economic Times",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVJCZXdzaUFVeU1SRlY1ajhfWHhYYkc0S0dnbW1scjg3cmI2V3EzV2pGbG9EQS1rMFNVVjU0ME1mb1VYR2ZEeE1ZLWFvREFHaDBaZ0dkOHF2eE9jRnlseF9Id1lzUm1ZMHd1aGx6X0t4TlU2Vk1HanJ2cnFIN0pPcGNrc2t6NzgxN0U1R21PSDM3Rm0yN21VSDdLVTEyR1o2bWt5X080SkJtUy02SFBVQmx0dVhSS2t1a0tUZ2dQZFl6TlE1ejYtSmF30gHPAUFVX3lxTE8tVzl4V2Z0SkQ1N0ZucnpFQU9majA3V296a2lONm1CS2ZZV1dlYldPUXI4ckZ1TlktVFNOY21PUTRxY3JSbnhxRGF2TkwycllDdkxDVE1rZ3FKYUJqSVktUldscUs1YlFveWF5TVU2MjJDU3dpc3dVZV90dFkwRHRHQUtjTHF2U21HV1Q2cDZwcHk2MlhSX3JuWEk1Y2hSbmlQaVpzdzJFOVFkRzJvSnZwV0l6a0FmOU9Wd3RGWWdRNVd1cTBmM1ZhQXczQUpJQQ?oc=5",
+   "published": "2026-10-26T01:44:05+00:00",
+   "id": "543576e85335",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine war briefing: Trilateral peace talks with Russia to restart, says Zelenskyy",
    "source": "The Guardian",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Options concrètes de frappes militaires présentées, augmentant la demande d'or refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Brent crude oil prices remain above $116 per barrel after surge amid escalating tensions in Middle East",
-   "source": "Open4business.com.ua.",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUg4RlhuRU5ISTM2cDBXSW9yOXRKX3kxX29QbFR0eTc1bnJRV2ZtTW5SdXpTamJuOVBSNmVYdnFka05RMXF4TWxaR2RCMExTbEl1clpXMWc1dU1EQmtiTWdjNkRDeER4dEcyN0U0SXR4VEQ2SHd6bDlGTFVWY1pVRWdBSVpmRU9MYWtfamFFQlBTOWM0Z3dZZ3FNQVFjdzUzVUEtazBQb19rY1Q3Q2NDcGVJRWpWSXlqVlN1VTJWRmNnRHR0V01TNGc1WHduLUtr?oc=5",
-   "published": "2026-10-24T18:28:56+00:00",
-   "id": "b199de8c118d",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Pétrole au-dessus de 116$ : choc géopolitique et pressions inflationnistes haussiers.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7739,7 +7739,8 @@
   "news|496b661db1f7": 1792974686.525488,
   "news|f61baee91f0a": 1792976497.580523,
   "news|c0f8d9b6d301": 1792977364.2913685,
-  "news|34e352aae0bb": 1792979167.7945058
+  "news|34e352aae0bb": 1792979167.7945058,
+  "news|543576e85335": 1792980099.7135596
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7922,6 +7923,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T02:01:39.713642+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed expected to pause rate hikes ahead of US midterms</b>\n📰 The Economic Times · Lun 26/10 02:44\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVJCZXdzaUFVeU1SRlY1ajhfWHhYYkc0S0dnbW1scjg3cmI2V3EzV2pGbG9EQS1rMFNVVjU0ME1mb1VYR2ZEeE1ZLWFvREFHaDBaZ0dkOHF2eE9jRnlseF9Id1lzUm1ZMHd1aGx6X0t4TlU2Vk1HanJ2cnFIN0pPcGNrc2t6NzgxN0U1R21PSDM3Rm0yN21VSDdLVTEyR1o2bWt5X080SkJtUy02SFBVQmx0dVhSS2t1a0tUZ2dQZFl6TlE1ejYtSmF30gHPAUFVX3lxTE8tVzl4V2Z0SkQ1N0ZucnpFQU9majA3V296a2lONm1CS2ZZV1dlYldPUXI4ckZ1TlktVFNOY21PUTRxY3JSbnhxRGF2TkwycllDdkxDVE1rZ3FKYUJqSVktUldscUs1YlFveWF5TVU2MjJDU3dpc3dVZV90dFkwRHRHQUtjTHF2U21HV1Q2cDZwcHk2MlhSX3JuWEk1Y2hSbmlQaVpzdzJFOVFkRzJvSnZwV0l6a0FmOU9Wd3RGWWdRNVd1cTBmM1ZhQXczQUpJQQ?oc=5"
+  },
   {
    "ts": "2026-10-26T01:46:07.794577+00:00",
    "kind": "news",
@@ -8216,11 +8222,6 @@
    "ts": "2026-10-25T10:01:36.322573+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump wants 'business with both' Ukraine, Russia after war ends</b>\n📰 The Kyiv Independent · Dim 25/10 10:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWI4b1lHLUg1N09rWndRMzc1TUVEMXRfZ2NES3VmdkJXa1Y4OHlIS0pLN2RHUlMxcmNUMEs0cmFTT3ZjSWpOUEU2ZldKeXFFRzBDZGtmSmtTclp3UmlkR2RaMUNhNDlMYXBpQjk0LXFXalFCRGdMUS1nMm5SSkQ0bGZsbXNQbUY5STJzeml3T1YyQ0E?oc=5"
-  },
-  {
-   "ts": "2026-10-25T09:34:38.147444+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms</b>\n📰 Al Jazeera · Dim 25/10 09:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmpMTzVMV0M5WU04b2s2LW1QeWlLWVVSdnRJQ2xQeW9WeVdXVjZYVkVwVFgzWTd5U25HZHJ4VFFIb0xfZDBrOVNJYzVsWndCcmhfdEkycExMaVoxelNzcWtuTWhxdjFKWVZxeVhGemVZdi0wNjBaX1pwdWE0aTBOS1gtUlNUcjRwRXNzcXNkdnF6ZDlrTFBJejVCQ1kwUGRjQWQ2MTNHai10OUlhQ29TdFNn0gG3AUFVX3lxTE9zVTVQVDdCLWlial92eERzejVzYnlMSnRwdTRiOFd5WTZCcFE2VnVabkJYOFNwV0NQRl90a0R1ZllSc2NDUDdPLVd3bXBUV0dLcU01a0MzbVhNVUlHczgzUTlYOW95YkZFVVdFOW8zVmROUUN0alc1aTZzRnNuTUxZcHg1a1VTQktVYkNhSTBNMzZiampRSUFtbjBFaDBSZURlVDBiYnh4MjBBRDNuYlVNTnpPcVdJaw?oc=5"
   }
  ],
  "daily_forecast": {
