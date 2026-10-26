@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "bcdd4efeb6f2",
-  "d42ba436ec2a",
-  "c2751548f6ca",
-  "d387e60bfcc2",
-  "c9e4f07c768d",
-  "702ba2755a1e",
-  "95b22d60d5b4",
   "99f5904e49a5",
   "e8a6be1fd470",
   "979dfb72cee4",
@@ -4044,9 +4037,28 @@
   "028a609c28ba",
   "87543379c424",
   "0ab7e3204ae0",
-  "e6a767d42151"
+  "e6a767d42151",
+  "4688ac68ae09",
+  "eae8eb59267a",
+  "55a9e4815074",
+  "73937045f9fe",
+  "ce87bc2c0077",
+  "57f50ac8009c",
+  "415f69296541"
  ],
  "news": [
+  {
+   "title": "Trump's Tariffs Are Politically Toxic",
+   "source": "Reason Magazine",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BQ1hxdG1lUmppTzVESGtjRnlwSmNrbzFHS2czNmxqMDBRYndkc2ZGbjNWc3Q4Y0NwR0tWOGRRcGhPOF9XaFhvZWJGR21iNmw0NlZSSGV3dnU4Mmt6bWc0aFNNTVVFUnV5NEdlMDFEaDBTRFYxZUE?oc=5",
+   "published": "2026-10-26T15:40:31+00:00",
+   "id": "ce87bc2c0077",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump adjusts list of Canadian packaging, products subject to tariffs",
    "source": "Packaging Dive",
@@ -4079,6 +4091,18 @@
    "published": "2026-10-26T15:15:45+00:00",
    "id": "028a609c28ba",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hezbollah readies for new regional war with funds from Iran, sources say",
+   "source": "Reuters",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5",
+   "published": "2026-10-26T14:53:43+00:00",
+   "id": "55a9e4815074",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Menaces houthies persistantes sur Riyad bien que les perturbations restent contenues.",
    "method": "IA"
-  },
-  {
-   "title": "Report : Hezbollah tells Berri it wont intervene if war is waged on Iran",
-   "source": "naharnet.com",
-   "theme": "Géopolitique",
-   "link": "https://www.naharnet.com/stories/en/323328-report-hezbollah-tells-berri-it-won-t-intervene-if-war-is-waged-on-iran",
-   "published": "2026-10-25T11:15:00+00:00",
-   "id": "6cb1ed1b96e8",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Non-intervention du Hezbollah réduisant le risque d'embrasement régional total, prime refuge atténuée.",
-   "method": "IA"
-  },
-  {
-   "title": "Saudi - Led Coalition Reports 12 Missile Interceptions in Separate Bulletins",
-   "source": "econotimes.com",
-   "theme": "Géopolitique",
-   "link": "https://econotimes.com/Saudi-Led-Coalition-Reports-12-Missile-Interceptions-in-Separate-Bulletins-1762925",
-   "published": "2026-10-25T11:15:00+00:00",
-   "id": "fd2c258b5d40",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frictions récurrentes au Yémen déjà largement intégrées par les marchés financiers mondiaux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7795,7 +7795,8 @@
   "news|5c99da83da09": 1793025977.2812278,
   "news|8fcec140e8e3": 1793026912.2943327,
   "news|575ccffacedd": 1793027960.128058,
-  "news|2b401fd069ab": 1793029567.0495157
+  "news|2b401fd069ab": 1793029567.0495157,
+  "news|55a9e4815074": 1793030501.73848
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7994,6 +7995,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T16:01:41.738549+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hezbollah readies for new regional war with funds from Iran, sources say</b>\n📰 Reuters · Lun 26/10 15:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5"
+  },
   {
    "ts": "2026-10-26T15:46:07.049609+00:00",
    "kind": "news",
@@ -8288,11 +8294,6 @@
    "ts": "2026-10-26T01:01:37.580608+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump invokes 9/11 in attacking Senate Muslim candidate El-Sayed</b>\n📰 Honolulu Star-Advertiser · Lun 26/10 01:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVVOZml3YVRsVUxGVV9IdHBwM3RxWlVVOVRsTWFFOWNuYXJKTjUyenQ1azRKZWRaMUVpVkdyTFNDSnF2YTFVR1N2aTY2ZXotZmVMY1JIWEgyamRrNURMV3lFdWtqVTJHQ2EtWGNiaHlLOUNCazFCZVhhb0FtZ3RBUlUyVUVXSXpEaDgwa2pUbVNUR010T2d5T01HNzBFSDVnNWZOSTEzcEhrUVBuc1J6alowWkh5TkY2ZDZNcg?oc=5"
-  },
-  {
-   "ts": "2026-10-26T00:50:08.247465+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +10)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+12), Fed (2 ans vs taux Fed) (-9)"
   }
  ],
  "daily_forecast": {
