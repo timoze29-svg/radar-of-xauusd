@@ -1045,16 +1045,6 @@
   }
  },
  "seen_news": [
-  "b6265599fd73",
-  "153a2f72907e",
-  "73439c5fc747",
-  "1b9ad6ec1075",
-  "3714648a51b7",
-  "373c8699afcb",
-  "c4bcb936be75",
-  "209d9609f700",
-  "83214f38967f",
-  "3a3b17569008",
   "7c3accc460d4",
   "82d99f0e96d4",
   "d24615fb334e",
@@ -4044,7 +4034,17 @@
   "dc494e6cf4aa",
   "6c378803f302",
   "3972afc0bdef",
-  "77eaf5d98527"
+  "77eaf5d98527",
+  "a3cdf0df40c1",
+  "8d079fe3139f",
+  "86a399741bc5",
+  "a6bc93443d44",
+  "1d10757a32c4",
+  "b99145210179",
+  "66361529d24a",
+  "4b48e55d7b7f",
+  "d24447015315",
+  "c076bbc697cb"
  ],
  "news": [
   {
@@ -4105,6 +4105,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Fed to pause rate hikes ahead of US midterms 2026? Seth R. Freeman explains why a December rate move is possible | Expert Take",
+   "source": "ET Now",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWFFwN1VvdDBob0dpdkpxQXlWQVZMZ1ZVek1tRWZvUDBwWWQwNGhYRmgyMVZVRmgwZGZPWHJhRXlxQjhFYWRNNFVkRGhHeHE3RlZteVRiVmg1eXFucmFYYmt0RV9GRXJuYlkyZkNkMzJXR19zNnNzUmJicGtEanNxcWlCS0lLM1JKTHQwTjF0X3puLWNEM0F4TTJaUDA1bkRPWHVtOWtmWW10NnNRWnRIRDJuTEtXSTlFc3M3akZWYTZwaVRXeUhMR1dIUW1UOEp3THgwc0FPc0RxSWtZS1BoVTdEVXBKUEljRjNLbURpbmszWDI3MUpOMGtTc1J3Yko1WTVCZQ?oc=5",
+   "published": "2026-10-26T08:39:01+00:00",
+   "id": "a6bc93443d44",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "autre",
    "raison": "Crainte d'une correction boursière sur l'IA pouvant déclencher un réflexe refuge vers l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Gen Z are leading the European protests . Here why theyre angry | National",
-   "source": "kitv.com",
-   "theme": "Géopolitique",
-   "link": "https://www.kitv.com/news/national/gen-z-are-leading-the-european-protests-here-s-why-they-re-angry/article_03adc711-769b-524a-8fd6-d212ca764d06.html",
-   "published": "2026-10-25T03:30:00+00:00",
-   "id": "376dbf13cc91",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Instabilité sociale en Europe créant une très légère incertitude politique globale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7764,7 +7764,8 @@
   "news|3ba6bf3e64e2": 1793005660.4329908,
   "news|b34fa80c6481": 1793006166.7626426,
   "news|2cba8d4cfdcb": 1793007086.5289385,
-  "news|4f14414d1f18": 1793007087.4446356
+  "news|4f14414d1f18": 1793007087.4446356,
+  "news|a6bc93443d44": 1793009769.9971962
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7963,6 +7964,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T10:16:09.997249+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed to pause rate hikes ahead of US midterms 2026? Seth R. Freeman explains why a December rate move is possible | Expert Take</b>\n📰 ET Now · Lun 26/10 09:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPWFFwN1VvdDBob0dpdkpxQXlWQVZMZ1ZVek1tRWZvUDBwWWQwNGhYRmgyMVZVRmgwZGZPWHJhRXlxQjhFYWRNNFVkRGhHeHE3RlZteVRiVmg1eXFucmFYYmt0RV9GRXJuYlkyZkNkMzJXR19zNnNzUmJicGtEanNxcWlCS0lLM1JKTHQwTjF0X3puLWNEM0F4TTJaUDA1bkRPWHVtOWtmWW10NnNRWnRIRDJuTEtXSTlFc3M3akZWYTZwaVRXeUhMR1dIUW1UOEp3THgwc0FPc0RxSWtZS1BoVTdEVXBKUEljRjNLbURpbmszWDI3MUpOMGtTc1J3Yko1WTVCZQ?oc=5"
+  },
   {
    "ts": "2026-10-26T09:31:27.444898+00:00",
    "kind": "news",
@@ -8257,11 +8263,6 @@
    "ts": "2026-10-25T13:49:20.335108+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Attacks Murkowski As Alaska Senate Fight Escalates: ‘Worst Senator’</b>\n📰 Newsweek · Dim 25/10 12:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzhFVDNXX3FTdl9zdE1fVTJNNGx0cXdhNVZiQm1oUGNZUEZ5LTFvZ2tHT3lBRHQxQ3RXZG4waXlnV0FUYUNsZmVJdmtkUVcxdk44Q1E3Vk9TR2N4WW1IT1oxeEVyQWdjRjlWeWNqYkhlN3EyOTVOcDFHRGpNdGUwTnpDZlVsbmpfcTFobF90R2RZV0hyMTBLTUtVMGJoUU9Kd2hDQ1Nkdw?oc=5"
-  },
-  {
-   "ts": "2026-10-25T13:49:19.380535+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says  nothing will be same  in region after war with US – Middle East Monitor</b>\n📰 middleeastmonitor.com · Dim 25/10 13:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middleeastmonitor.com/20261025-iran-says-nothing-will-be-same-in-region-after-war-with-us/"
   }
  ],
  "daily_forecast": {
