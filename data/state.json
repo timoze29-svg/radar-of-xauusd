@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "68215ee295a3",
-  "d2732163b511",
-  "28e0f1b8bc5c",
   "ca9a98d9d47f",
   "d03006884b60",
   "514c1e39947e",
@@ -4044,9 +4041,24 @@
   "71d50c512582",
   "a611975b09ea",
   "26ead8c12a41",
-  "5357a1cd0ff9"
+  "5357a1cd0ff9",
+  "202a4a1f64cd",
+  "80e0afecbfd0",
+  "b5a2ef5133a9"
  ],
  "news": [
+  {
+   "title": "Trump prepares new onslaught on Iran in defiance of mass opposition to war",
+   "source": "World Socialist Web Site",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Y1BWZlZSQmRrdG1fRUdEU2RhVy16c3VSZWF4VlE5eWVUZ3NFR2JPNDJKM3dDT09yTEdEamt6UkhVMEItTUJIMG80dUtZTHRKX0FWLVBmamN6Q1doTWh6MmlTSXIyZnlO?oc=5",
+   "published": "2026-10-26T04:13:18+00:00",
+   "id": "80e0afecbfd0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US has plans for major Iran strikes if Trump chooses",
    "source": "CNN",
@@ -6434,18 +6446,6 @@
    "cat": "politique US",
    "raison": "Rhétorique politique intérieure sans escalade militaire concrète immédiate au Moyen-Orient.",
    "method": "IA"
-  },
-  {
-   "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
-   "source": "Bloomberg.com",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5",
-   "published": "2026-10-24T20:00:00+00:00",
-   "id": "118c1ab1a888",
-   "impact": -4,
-   "cat": "fed",
-   "raison": "Pause belliciste (hawkish) de la Fed : dollar fort et taux réels hauts.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7743,7 +7743,8 @@
   "news|543576e85335": 1792980099.7135596,
   "news|fd990a2bbd31": 1792982770.5256703,
   "news|29880bfcc4e5": 1792984569.9490747,
-  "news|a611975b09ea": 1792988164.1619
+  "news|a611975b09ea": 1792988164.1619,
+  "news|80e0afecbfd0": 1792989208.7485359
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7926,6 +7927,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T04:33:28.748616+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump prepares new onslaught on Iran in defiance of mass opposition to war</b>\n📰 World Socialist Web Site · Lun 26/10 05:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Y1BWZlZSQmRrdG1fRUdEU2RhVy16c3VSZWF4VlE5eWVUZ3NFR2JPNDJKM3dDT09yTEdEamt6UkhVMEItTUJIMG80dUtZTHRKX0FWLVBmamN6Q1doTWh6MmlTSXIyZnlO?oc=5"
+  },
   {
    "ts": "2026-10-26T04:16:04.161987+00:00",
    "kind": "news",
@@ -8220,11 +8226,6 @@
    "ts": "2026-10-25T10:19:12.233783+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran vows ‘apocalyptic war’ if U.S. strikes again</b>\n📰 The Hindu · Sam 24/10 19:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXJ2ckJqZG5lTU1acFZlT1AxMVBWNWh1OXNaUS1zdE9NeklvUXlpR29EeDNwbmNJT3p3N2lHZnVaTmhnZ0lOMWc2YmJ3a1oyQUV4dHdMakJMLUlTeXZCVU1lQl9fZ25KSlFKYXM2T0lhX1BwS0ZJeFlxbU9QbEJCNmd0SUw3WWFURnJXR0JjUFVmek9XQmZUSzJ2bTh3YWhxV051aDR0eVhQV0dpSks1ZNIBtwFBVV95cUxORDRNUTlQcElOQlYxSXAyeW1DSXZSYnoteXA0NjBMNlJnRllYUHQzSjd2SmVVRkNxd0cxZjh4THhybFlGRGNHdXhCV2dtb3pGb2VmeVRfQ3N0aHMwNGFJamRvMWNSVTdIdmJldDd6SHQwMjZ5Q3ZBNldMR2JCNFdHSUJDX2lMOFFHZm1scXNhM0xLdkhhRUhDcVpjajYyLXM2bEJ0b3FPSU1la0JvSDRHSmZTVXExR3c?oc=5"
-  },
-  {
-   "ts": "2026-10-25T10:01:39.276164+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Zelensky celebrates as Ukraine hits Putin war factory with British missile</b>\n📰 mirror.co.uk · Dim 25/10 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.mirror.co.uk/news/world-news/ukraine-starlink-returns-putin-war-37807919"
   }
  ],
  "daily_forecast": {
