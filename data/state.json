@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "4fb4be415467",
-  "362072ab8a61",
-  "07e155f4161f",
-  "0a6980ee6688",
-  "0b392e3042a2",
-  "e47846033480",
   "5eddda9180b9",
   "a4b69bc46bb6",
   "730671fb28cf",
@@ -4044,9 +4038,27 @@
   "2abcafc7817c",
   "c28ef1ac85be",
   "aea9444e54ae",
-  "d8017e12b808"
+  "d8017e12b808",
+  "7f239c5d873b",
+  "d35b2a6a58ba",
+  "6b059a93bf81",
+  "534832cee76f",
+  "8959c1b61973",
+  "2623d26e5b6f"
  ],
  "news": [
+  {
+   "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
+   "source": "France 24",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2xPX1ZwcnFVTEM2WXNaLUhkWS00SHdzbmVoU2tMclo2YnZWdmcxOVdYZUhQcHFpRm5sV2pvRm53d2pzVzV2YkNtT0ZhQzBaLXVWS0lVbDBCdi1iTXkwZVgza2dmNlp6TWl0Ymw3Rjh4anN3Q1lNZ0FXRzBKV01xeG9JdWZNLWlIMXc?oc=5",
+   "published": "2026-10-26T23:24:00+00:00",
+   "id": "d35b2a6a58ba",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold rebounds above $4,000 amid hopes of easing US‑Iran tensions",
    "source": "FXStreet",
@@ -4057,6 +4069,18 @@
    "impact": 8,
    "cat": "fed",
    "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Today's USD exchange rate (October 27): The US dollar rises slightly.",
+   "source": "Vietnam.vn",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrczM3N2RnRVZMYTdxUDd2ZXRqZWdQY0RxODhsaXFFcTZEZW82MlpxdC0zbi1LVlh2aXE0cTQza1FGRzZ5OW9BM2ZHdEx0X0hKNnJrVm43djZjMlZLYzctel9xcEdxZW9OcUE4Zjg1NVFtVzRpQVpr?oc=5",
+   "published": "2026-10-26T23:07:19+00:00",
+   "id": "534832cee76f",
+   "impact": -5,
+   "cat": "dollar",
+   "raison": "baissier or (dollar)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Menaces d'infrastructures critiques régionales, légère hausse du risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Iranians fear return to all - out war with US and Israeli elections",
-   "source": "ketv.com",
-   "theme": "Géopolitique",
-   "link": "https://www.ketv.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
-   "published": "2026-10-25T18:00:00+00:00",
-   "id": "350ef89a0008",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Sentiment d'escalade imminente avec l'Iran, soutien modéré au statut refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump has  a decision to make  on Iran as concerns over renewed strikes deepen",
-   "source": "thenationalnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/",
-   "published": "2026-10-25T18:00:00+00:00",
-   "id": "50b78fa03d63",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Incertitude quant à une riposte américaine contre l'Iran, prime refuge positive.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7815,7 +7815,8 @@
   "news|450fd6cc0ed9": 1793053889.8020222,
   "news|1a39aad1eb95": 1793053890.7267075,
   "news|176215103f61": 1793055698.9229362,
-  "news|d8017e12b808": 1793057485.2957094
+  "news|d8017e12b808": 1793057485.2957094,
+  "news|d35b2a6a58ba": 1793058366.901995
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8014,6 +8015,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T23:46:06.902093+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mecca pact nations hold talks with Iran to prevent renewed Middle East war</b>\n📰 France 24 · Mar 27/10 00:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2xPX1ZwcnFVTEM2WXNaLUhkWS00SHdzbmVoU2tMclo2YnZWdmcxOVdYZUhQcHFpRm5sV2pvRm53d2pzVzV2YkNtT0ZhQzBaLXVWS0lVbDBCdi1iTXkwZVgza2dmNlp6TWl0Ymw3Rjh4anN3Q1lNZ0FXRzBKV01xeG9JdWZNLWlIMXc?oc=5"
+  },
   {
    "ts": "2026-10-26T23:31:25.295797+00:00",
    "kind": "news",
@@ -8308,11 +8314,6 @@
    "ts": "2026-10-26T08:16:46.324198+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US ready to strike Iran 'within 96 hours' of Trump's order, Israel pushes for joint attack - report</b>\n📰 The Jerusalem Post · Lun 26/10 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZU1JDSGJNNVB1VHM4YWpqZlhIRjRoVU41TnJYVjVKSlJEUjNma2tJdUNBczh2Z01rcDAyUi1MZDVxdl9fQ0pUdzZMVXJ2NzFYWHl6bE1vblhpVl85dUs3RGxDY1V5UU43ZXc?oc=5"
-  },
-  {
-   "ts": "2026-10-26T08:10:48.742451+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Norway Sucks’: Trump Attacks Country Over Nobel Peace Prize Snub</b>\n📰 Forbes · Lun 26/10 05:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFlDeko0SVhhYlZleW95YnJEQldvdXFSNGhtTmhFbVNLdmdva0ptS3FJTHpZLXZocFhNMmRGX1loaHc5U2xrTHAyQ1dVOUpQTU9qTkFxMDJUVFBTaFUxUHFmYnVQTWdUTjNHek5RMTdONXlkcjV1cjB6a1hKVHpTMHBPcnE3MHJhQl9pbmVKSmM4MTZnaWV4V2dMWUU3RzJ6bThFVkZ3MHJkRE5IbTBPazA5STVYMkE?oc=5"
   }
  ],
  "daily_forecast": {
