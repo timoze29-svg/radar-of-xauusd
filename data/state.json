@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1792978269.9343815,
+   "ts": 1793022349.830547,
    "data": {
     "date": "2026-10-20",
     "net": 199865,
@@ -848,19 +848,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1792950374.7918894,
+   "ts": 1793022552.7894561,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 115,
       "high": [
        [
         0,
-        15.5
+        15.7
        ],
        [
         15,
-        9.5
+        9.6
        ],
        [
         22,
@@ -870,15 +870,15 @@
       "low": [
        [
         0,
-        18.1
+        18.3
        ],
        [
         16,
-        10.3
+        10.4
        ],
        [
         2,
-        9.5
+        9.6
        ]
       ]
      },
@@ -890,11 +890,11 @@
         12.2
        ],
        [
-        2,
-        9.8
+        14,
+        8.9
        ],
        [
-        14,
+        15,
         8.9
        ]
       ],
@@ -1008,15 +1008,15 @@
      }
     },
     "dollar": {
-     "n_hours": 5970,
+     "n_hours": 5962,
      "horizon_h": 2,
      "base_gold_up": 53.4,
      "base_dxy_down": 48.1,
      "down": {
       "3": {
-       "n": 244,
-       "p_dxy": 52.0,
-       "p_gold": 55.7,
+       "n": 243,
+       "p_dxy": 51.9,
+       "p_gold": 55.6,
        "gold_avg": 1.4
       },
       "4": {
@@ -1045,16 +1045,6 @@
   }
  },
  "seen_news": [
-  "50b54685a8b6",
-  "61855576332d",
-  "9c93196e8f83",
-  "47bd3dbfdec7",
-  "4397f9c25a3e",
-  "d9cd2dd3f3bd",
-  "5a1c6db68c92",
-  "5940f7d88ddb",
-  "5d7baaa1645e",
-  "ac21c7a4d212",
   "f45e1d93e94e",
   "0d2d67cc6f3d",
   "9cc36e19a459",
@@ -4044,9 +4034,43 @@
   "152c00b67008",
   "089de4121683",
   "d6f943a696b5",
-  "4c1005ae8959"
+  "4c1005ae8959",
+  "abeb7bf42655",
+  "de2fe1c09499",
+  "eefa9f90d358",
+  "e086ea436efe",
+  "f977e16b94f2",
+  "907375b8ee6e",
+  "98395fee6db5",
+  "4b2675005bbc",
+  "5796634e7896",
+  "6e43731c0927"
  ],
  "news": [
+  {
+   "title": "Israeli press review: Netanyahu accused of pushing Iran escalation ahead of election",
+   "source": "Middle East Eye",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalBjS3laREFWLUN0clFrUmdVdVYyenY0MDBvdHI0bVd6NW9VcXllRDFfWGRkY1hVeHhlS3d5MjhOSkQ3b2Z2VjZMY1FheXpxbTdjZml5Qm1VaHQyUm82SWF6dEVaZG8wYXdyUFktTmxyT0t3ejJOMGhQYk9GVlJDWXFSUzBjSjRvT0J6MDZ1cGNOUHZRYWo5RjdISVRoWVF5OE9NSFBBbFJ1ZHNoV1o4Ry1n?oc=5",
+   "published": "2026-10-26T13:40:00+00:00",
+   "id": "eefa9f90d358",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump lifts some Canadian tariffs to help Senator Susan Collins",
+   "source": "Fox Business",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zdy1TWVB1NDhrVWhwTEhtV09fLS1yUEtTWHVPYlctSFdXYXhzMWUtNndaZUdHTlJYNnVfMmNXSjB5YzBaQlNRMW5yMGczLW9vOXM5UzhLd3lNZkE?oc=5",
+   "published": "2026-10-26T13:25:57+00:00",
+   "id": "e086ea436efe",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
    "source": "Reuters",
@@ -4055,6 +4079,18 @@
    "published": "2026-10-26T13:07:46+00:00",
    "id": "79d8d52ba67d",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Concert of classic folk songs from across Taiwan Strait aired",
+   "source": "巴士的報",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnp2WWt6OGNIZVZZcXN5bV9lQl9IWno3MDBVUFQ3Ym5ZU0pWSkxFdllqQzlCQ3Vpd3JfTzdWeTRxcGZNZlhUUVNVSWxmeE54di0tN2x1alUwclZEZFg4ejdHdXlUZWJTQUl6N0JfNE1NaUFpenF5U3hPaWo3ODJsbXJ5Z0Y4MEN2VGtTeHBTZ1JOcFREU1Rtd3BlbDIyUXk2R1lZN0RQeHdNaWRmc0QyM1BvVQ?oc=5",
+   "published": "2026-10-26T12:47:19+00:00",
+   "id": "6e43731c0927",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4213,6 +4249,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia Says Ukraine Peace Talks Won’t Slow War, Open to Local Truces",
+   "source": "Kyiv Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pZ3JGeHFXS2NqV2hoQU1KNi1JMVpaX3B6Yl8xRjI4WDk2Q2RZRWJxcXY4UmtJTElNM0ExWUcwN3JrbHZFQmZHSVRiQQ?oc=5",
+   "published": "2026-10-26T11:41:46+00:00",
+   "id": "5796634e7896",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5006,6 +5054,18 @@
    "cat": "géopolitique",
    "raison": "Détente sur le pétrole suggérant un repli des primes de risque géopolitiques.",
    "method": "IA"
+  },
+  {
+   "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+   "source": "Britannica",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+   "published": "2026-10-26T05:00:00+00:00",
+   "id": "de2fe1c09499",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "‘Norway Sucks’: Trump Attacks Country Over Nobel Peace Prize Snub",
@@ -6386,66 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Barack Obama attacks Donald Trump’s administration and mobilizes voters for Democratic candidates in Ohio",
-   "source": "Informat.ro",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDV3N3RBUG1aNmotTm1OUEJGaTVNaEQ2UTBVSE1vZm01WW5mQU9KVzNFYzY5SnU3dzZ5TjBDczlfc0U2aEtUN3g4bl9EU1dtZnYxVldoMmlEVVpJVWNJdm9ESzdmWjVBLXBFR1F4R1c3ZThWRlRnZFhtSE5ONHFjUl83YlNqVGJsVFNlWWpPZzYyckhlWkYzUHpkcjd6NFJ3dHdpWUhEVm1FOE4yN3dVZWxFRmZBb1E?oc=5",
-   "published": "2026-10-25T09:23:02+00:00",
-   "id": "e923624b7251",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "The risk of US-Iran conflict escalating from a stalemate remains.",
-   "source": "Vietnam.vn",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YRGZPNEhvSm9mYU9YUUltRFFwRjJINUNlNkR3R183YTdzTWQtTzhWSnRzbEF3RXJCWXBySC1CbXBfM0t2SUN4UXNjeE1rZGlLUllzRUd6THVoY0JmN24xY3h1VkZXbjFVTi1RbmxnczZBQ0ljeVE1UDNwNmtXRlU?oc=5",
-   "published": "2026-10-25T09:17:27+00:00",
-   "id": "81a2ae0d0516",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Live - Araghchi says war would not alter Iran policy as Trump raises prospect of strike",
-   "source": "Iran International",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
-   "published": "2026-10-25T09:12:07+00:00",
-   "id": "7838df400ab1",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia, Ukraine report deaths and injuries in overnight strikes",
-   "source": "TRT World",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uMG1ZR051WGUzRGxYWmREam0zUy1jS2gtNVNiQnZ3bFFwOGlpNWxPa1pLSzk3emV4STVuWGtWY3RwTHZnMjVsbm41b3pjUHotQlp1RHA5X28?oc=5",
-   "published": "2026-10-25T09:06:17+00:00",
-   "id": "2c6d15d9e96c",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump started a trade war with Canada. GOP candidates became casualties.",
-   "source": "The Washington Post",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFBHZlRreWd4WG1mTlk4ZTVjME5pUkJFTVdDaGxRNldybXRjVlFVNkRsbHJqdFhoWmVIbWUzX21WZVFKellXamZVaExlVXl5UUpsTG5ITVNYR2psSmFHNHY0NV9jX055Qi1LS2lVNE96TnEycVRvM0c4cjNzM19YSmFMR1NsT0lQb2Y5blh5T1cwUEZBTF9ic0VocnBBQ3BVUTNuX01ST2JkX054MVV4TGg0TlVFZ0M5Z0E?oc=5",
-   "published": "2026-10-25T09:01:31+00:00",
-   "id": "86a0f77c3106",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7785,7 +7785,11 @@
   "news|a130ccdc9853": 1793019890.4526086,
   "rep|update|2026-10-26": 1793019893.0615656,
   "news|79d8d52ba67d": 1793020764.625234,
-  "news|091043237648": 1793020765.5834076
+  "news|091043237648": 1793020765.5834076,
+  "news|eefa9f90d358": 1793022550.2696018,
+  "brk|SILVER|pwh|dn|2026-10-26/2026-11-01": 1793022552.80061,
+  "brk|SILVER|h20|dn|2026-10-26/2026-11-01": 1793022553.6848514,
+  "brk|EURUSD|pwh|dn|2026-10-26/2026-11-01": 1793022554.599937
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7984,6 +7988,26 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T13:49:14.599970+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 1.11871 → prix : <b>1.11857</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.22 | 60j -0.04"
+  },
+  {
+   "ts": "2026-10-26T13:49:13.684895+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 53.711 → prix : <b>53.700</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.82 | 60j 0.83"
+  },
+  {
+   "ts": "2026-10-26T13:49:12.800650+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 53.711 → prix : <b>53.700</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.82 | 60j 0.83"
+  },
+  {
+   "ts": "2026-10-26T13:49:10.269669+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli press review: Netanyahu accused of pushing Iran escalation ahead of election</b>\n📰 Middle East Eye · Lun 26/10 14:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQalBjS3laREFWLUN0clFrUmdVdVYyenY0MDBvdHI0bVd6NW9VcXllRDFfWGRkY1hVeHhlS3d5MjhOSkQ3b2Z2VjZMY1FheXpxbTdjZml5Qm1VaHQyUm82SWF6dEVaZG8wYXdyUFktTmxyT0t3ejJOMGhQYk9GVlJDWXFSUzBjSjRvT0J6MDZ1cGNOUHZRYWo5RjdISVRoWVF5OE9NSFBBbFJ1ZHNoV1o4Ry1n?oc=5"
+  },
   {
    "ts": "2026-10-26T13:19:25.583693+00:00",
    "kind": "news",
@@ -8263,26 +8287,6 @@
    "ts": "2026-10-25T20:46:07.875377+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>‘Well-known evil empire’: Barack Obama mocks President Trump’s trade war with Canada</b>\n📰 Toronto Star · Dim 25/10 19:30\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbVZxLXloUTVSR0dUSWJIdnZDOWpXQVJLN2RCNmFNU2EzSWRCY0lwMjl4Z3hPTE5RdmRiVkltRVIxdXA2b2dXZ1VPV0gwTXN0dWU5N3VaSGdwckNxVno1cEt5aWJORjNfVjBQbE5GZFF3aGxSanJkenNlZ2lKaHJ2WEJkTG05ejhzWnhuaFo0dVF5bktIbTluSHpnN3dia0pZV2xfNzFaSGJHZ1JtZFEwaldoSG9RREkxc1JseTJQLW1EVWw0c1NJRmFsSDNndEc2eUY4VkJqUUtmUmhOazMxc3AwNVdGTUQtYS11LVdTam9tWkFpS2RibA?oc=5"
-  },
-  {
-   "ts": "2026-10-25T20:16:15.763096+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Barack Obama mocks President Trump tariff war with Canada</b>\n📰 toronto.citynews.ca · Dim 25/10 20:15\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://toronto.citynews.ca/2026/10/25/well-known-evil-empire-barack-obama-mocks-president-trumps-tariff-war-with-canada/"
-  },
-  {
-   "ts": "2026-10-25T19:01:42.557412+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The U.S. and Israel have drawn up plans to renew strikes against Iran, creating a sense of anxiety and dread among war-weary residents. “People are under enormous pressure and are being crushed by the economic siege,” said one man who lives in Kerma</b>\n📰 Facebook · Dim 25/10 19:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnBpNjQ2cm5iNHVTNVRlUm5yd2VxR21mczU0aVNSQ25ubkpROTZkMGE4XzZjUjRvZGQtZXVCTlJxc3N1Qm5BajNKd3VpYWFuZEQ0dzJnTGNRQjU1TzVHU1ZBU1pUbU5sR0VGazB2ZWxHVkhGRGs3ZW13a0wtc0tpUHlVTlRfUER3Y28zMVRxVkhJcmZtWW43RzBidVNmaTFhQzRJMk5zcjZ6eUxRRFFrTTM2T3VWUFpBWE5ob215b2NGSExnNFJBckh2Z2ZfbHgxaC1n?oc=5"
-  },
-  {
-   "ts": "2026-10-25T18:52:41.385690+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Exempts Some Canadian Products From Section 338 Tariffs - But his Illegal Trade War Continues</b>\n📰 Reason Magazine · Dim 25/10 12:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdHhPekdMSnFvWWlESjI1c3JGbzN3NXpiXzI5YmZhOTlab2ExVUJjZUlmaUpHNmQ1bXVIbDRXOThaejJENHJkR1ZqOGxEVndGSVRNNDlLR2lvNDNkRWhvT3g5Z21yV0hWREtSRV92R1NXdDNSTjlBSll6VWJfRmJuSmpVbjFHRURZX2lkUHBveEc3TUM1MGd4TjFBSUhwX3RhQkVYT0lmMUc2UEg3NklLS3dWNHR3dFBmVUlmd0NDbkFKaDdaQUdXcnNpS1pWbHJHWm9kNUNlWFlBbGtseFZvNFRKcw?oc=5"
-  },
-  {
-   "ts": "2026-10-25T18:46:12.957035+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Politics, not strategy, could mean more Israeli strikes on Iran</b>\n📰 The Economist · Dim 25/10 19:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2JHeGwwWlVfNFp6OE5XQUpnZE9LY1BPQXdzZnkzRVhvNkdkQXhPcXNvOUFvdGJJR0FXTllYaFlfenBneXpDQ1NBZ25ia3gtRU9fWG1HWW1kNXRoMllhcUYyQTZpN2E1eEk0SVkwT1lKdDJGNVp4OHdOTFg0cnpqQjZ3VTlld0JPVU13eGJucjlpdTNKRTZ1dXNQMFNnTGZTdzJKMmUxWHNYTFYwNl90T3N1YnZqNWE4ZFFjcm9n?oc=5"
   }
  ],
  "daily_forecast": {
