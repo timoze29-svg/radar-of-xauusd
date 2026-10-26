@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "1d3fbc39c8bd",
-  "c2c52435bfc3",
-  "414b89cd14aa",
-  "dc92711b9812",
-  "9c875b48db02",
-  "ff50804eb4ac",
-  "0f1022a58c44",
   "10ddd1e0cbbe",
   "fd6efba3900d",
   "9ea6947c486e",
@@ -4044,9 +4037,28 @@
   "a26e0083a672",
   "aa6f97b652e9",
   "49030c72bcde",
-  "9575f261aefa"
+  "9575f261aefa",
+  "48d28d5d1237",
+  "a0fd417a0477",
+  "fd6799fede5e",
+  "024f991b73af",
+  "0a52916c6039",
+  "5027218e6a7f",
+  "904d84af42d8"
  ],
  "news": [
+  {
+   "title": "New details emerge about attack Netanyahu planned against Iran",
+   "source": "www.israelhayom.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHRLQ0NWbXNobkFZM2w4TzBPVElFWGZLUVd2eDdDRlJ0dlpZV1VsRHVKbldyOWUwbkkwV2YxY3NFak0xd0dtMVJ3cHJ4UzAtNDhUUVZTSGI0WU5WS1YxaGpCc3lRRWFnU0RzMGNOajJRNGxaTnBUdlhJRGtTaHRrdm5tUlduVHBuakRyM0p3UnowRnFrM0VTOVU4NDN3OHpZVGtLMQ?oc=5",
+   "published": "2026-10-26T14:01:32+00:00",
+   "id": "fd6799fede5e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia Says Ukraine Has Repeatedly Struck Oleshky With Artillery, Drones Ahead of Local Ceasefire",
    "source": "The Moscow Times",
@@ -4057,6 +4069,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "UN chief says 'essential to stop escalation' with Tehran meetings",
+   "source": "L'Orient Today",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGYzbjJtbHRUQUE4aGFvYUc3ZWFpcVpjaVBDd1k1X3Z6akhneDRvWnBqNU1sblV5aVZVOWFaN3Qyb29UOTV6M3JnVkhFMGNtSk52YmpoNDlvYmJkQUhzSVIzNWhqS3ZfSm5NWS1QVmNKTWV0ZzdvNWhwd2J4eF9FcUFhN3FqNE9LMmQwZDJDbkYyUWd6WUNGLUI0eEhUY3JMNEZYWktUUlhQakE5NmExMVEwdzhnMWc?oc=5",
+   "published": "2026-10-26T13:41:54+00:00",
+   "id": "024f991b73af",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5272,6 +5296,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "The AI bull market is entering a \"critical week of reckoning\": earnings reports from the three major cloud giants, the Federal Reserve's decision, and the PCE price index will all play pivotal roles in shaping market direction.",
+   "source": "富途牛牛",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2tQZkRzVlhfZXFVRlVqY0ZaZlQ5bHo3bU9EQ24wdmVpbTkzVEs1Z25wOG1ZSkU1dDFTcEpFM3JnUExTNW5idnBWS3hIUXVTWkRBdU9qbkUtZVNMQ2RHdEZTX3o1RWdJWjFycTB1c3hneFVrNG9FeDVsTjlUeDdQOEVUNUsxQ3MyZ3VPUTl3UXBvWVlKemIw?oc=5",
+   "published": "2026-10-26T01:46:53+00:00",
+   "id": "0a52916c6039",
+   "impact": 6,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Fed expected to pause rate hikes ahead of US midterms",
    "source": "The Economic Times",
    "theme": "Fed",
@@ -6409,42 +6445,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Anticipations d'escalade militaire américaine contre l'Iran favorables aux flux refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump prepares for fresh Iran strikes after US midterms, Israel elections",
-   "source": "ThePrint",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0lMSS1VVzAza0Y2RTA0V1czT2FCdkg5VFlzNEhGLXQ2QTRINUhnTXBZTGw0RkM3dWtrVklCZ1FzZVR5cEVHcW5xNEpLeFMwTXppVVJDQXpyVGh6ZlBobUx1dzlxU1cxTTBSdktoWVZXbXBFX09JR2dTcDV3LU5vVkFDaDFOUUtLZDNNQkQwVlkyOGY3cUtnSXl3SWVoYkJ3S0ZDZnR3UGhQRTjSAbABQVVfeXFMTllDMWtEWGhTVXpCM1I2SXo0WFE4bUh2YkxMaE9YYmJETVVEVFJCeVAyMlUyTm9uWG1QQ2EyWUQxMTJFb2taLXlpUHpkR2hrS3pCaHZFbkJwbzNIcTlZbFVNcEJ3MHB3YWRJeXZoUE1uNTktcTA5dzFZWTU3ekFoWVhwNVU4RzI4UFZBT1RMTkhORVNWTTNVNl9DaVdTVEwyb240REp5d0R6Mk42WlAtUC0?oc=5",
-   "published": "2026-10-25T09:40:00+00:00",
-   "id": "3fbb23ca983a",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Planification de frappes imminentes contre l'Iran déclenchant des achats préventifs d'or.",
-   "method": "IA"
-  },
-  {
-   "title": "How France Became the Poster Child for Debt Woes",
-   "source": "WSJ",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWEFaVHhUN2RPVlA2dHFSTFNRWFJDVFdqY2U0N3RYUV9vUXBNc3EyYTVZQ1JQbl9PQ2hjalN0R0lxT3FlVWYzYTQ1VUY2ZDd5c0ZWS19USFh5bVdEMFNEbTdYN3cxbEZELXlmVGNEemIxcHF0ZlJLdWh1bkZuaFRRLVF6Z0VEcWdMYXRfcW9DWURqNUdL?oc=5",
-   "published": "2026-10-25T09:30:00+00:00",
-   "id": "740d500da1e6",
-   "impact": 1,
-   "cat": "taux",
-   "raison": "Inquiétudes budgétaires françaises créant une légère prime de risque, compensée par le dollar fort.",
-   "method": "IA"
-  },
-  {
-   "title": "Rubio Defends Trump Diesel Sanctions Relief as  Very Wise",
-   "source": "kyivpost.com",
-   "theme": "Géopolitique",
-   "link": "https://www.kyivpost.com/post/88091",
-   "published": "2026-10-25T09:30:00+00:00",
-   "id": "a66af9b8bacc",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Détente sur les sanctions énergétiques allégeant les anticipations d'inflation, légèrement baissier.",
    "method": "IA"
   }
  ],
@@ -7790,7 +7790,8 @@
   "brk|SILVER|pwh|dn|2026-10-26/2026-11-01": 1793022552.80061,
   "brk|SILVER|h20|dn|2026-10-26/2026-11-01": 1793022553.6848514,
   "brk|EURUSD|pwh|dn|2026-10-26/2026-11-01": 1793022554.599937,
-  "news|a26e0083a672": 1793024174.4492629
+  "news|a26e0083a672": 1793024174.4492629,
+  "news|fd6799fede5e": 1793025091.2288506
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7989,6 +7990,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T14:31:31.228921+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>New details emerge about attack Netanyahu planned against Iran</b>\n📰 www.israelhayom.com · Lun 26/10 15:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHRLQ0NWbXNobkFZM2w4TzBPVElFWGZLUVd2eDdDRlJ0dlpZV1VsRHVKbldyOWUwbkkwV2YxY3NFak0xd0dtMVJ3cHJ4UzAtNDhUUVZTSGI0WU5WS1YxaGpCc3lRRWFnU0RzMGNOajJRNGxaTnBUdlhJRGtTaHRrdm5tUlduVHBuakRyM0p3UnowRnFrM0VTOVU4NDN3OHpZVGtLMQ?oc=5"
+  },
   {
    "ts": "2026-10-26T14:16:14.449342+00:00",
    "kind": "news",
@@ -8283,11 +8289,6 @@
    "ts": "2026-10-25T23:16:14.799650+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says It’s Time to Strike Iran or Make a Deal</b>\n📰 Bloomberg.com · Dim 25/10 22:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWFjWlV2NUF3UjFHRGcwdjFBYVJCUjhNTFYtSDhGUGNkTUlzRUEtTkdEUTJVVjg1SUVuZ2FfU2tleHpvbzFCRXE1X0FIRkVxV2JvMWJGbmNUc3hkbjZNQk5rR1RyS09uRTNqMHE3cDFzdXlPT0lGSzluWHNNR0RpUDVxTm1jWWhXT3IxR1JHdENtS2RnT1J4LTBJWlpwaVRIU2ZpSE5WZw?oc=5"
-  },
-  {
-   "ts": "2026-10-25T22:16:06.922342+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack</b>\n📰 The Media Line · Dim 25/10 21:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTJQTVpHXzl0ejdmN0Vya0FNRlpVa3k5NXU2UVJBU3VUN244X0xTOVQ0dU02c2tnY1FKTmtrcXJhRktTbVNURGoxQkdnOVFjaW5lamFOU0tielZhOURVemdOWC16NU9IQkJtbHB3c25faEl4aGxzbDNTdkpEazhJcjdVcmNzWTBxLWQ4aXJtWHdNb290bWdGX3BjZW8yV2t5bHZXeA?oc=5"
   }
  ],
  "daily_forecast": {
