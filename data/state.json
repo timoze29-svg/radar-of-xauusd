@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793019676.9199638,
+   "ts": 1793023277.364855,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -608,7 +608,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-10-27T10:00:00-04:00",
-     "forecast": "80.5",
+     "forecast": "80.7",
      "previous": "81.9",
      "actual": "",
      "gold_label": "",
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "f45e1d93e94e",
-  "0d2d67cc6f3d",
-  "9cc36e19a459",
-  "19a514cea3ab",
-  "16e258ab92f2",
-  "38f1f2d2d55d",
   "0c14209a4c79",
   "59dc309efa25",
   "500d440fda65",
@@ -4044,9 +4038,27 @@
   "98395fee6db5",
   "4b2675005bbc",
   "5796634e7896",
-  "6e43731c0927"
+  "6e43731c0927",
+  "2c36a84e5fa0",
+  "479828b47560",
+  "0b0bc174f61a",
+  "3c6d59796abf",
+  "9ab9861aff63",
+  "953c0e3efeeb"
  ],
  "news": [
+  {
+   "title": "Russia Says Ukraine Has Repeatedly Struck Oleshky With Artillery, Drones Ahead of Local Ceasefire",
+   "source": "The Moscow Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN0lBY1EzWmNyRzJ3MldEb2wwQ1U4ZFNTSzh3OWNyUEM0d2dhRVBydTlJQS1qa2h3Q29hbElNcHotQ280MGpjb2t0X2ZMRm95bkhfNWFfdDBpTmVwZEV0OUZkdzhxMjhJbUtEY3VQd0RYSXJfdjRDWUVneThGQm1NMFNDbWNGa0lYUUd2YnlQajhZeEtFZnFKNTF3QV81NldoU1k4UzAwLTg3RWE4NXdlSG1BQmo3VkRCdHZ5ZE41cXFkZ1FpVkRDTkVlcGh1cnRJY0RpYkhQX3k3d1VrNGc?oc=5",
+   "published": "2026-10-26T13:50:09+00:00",
+   "id": "953c0e3efeeb",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Israeli press review: Netanyahu accused of pushing Iran escalation ahead of election",
    "source": "Middle East Eye",
@@ -4381,6 +4393,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Tanker Rates for Saudi Crude Rise as Regional Tensions Escalate",
+   "source": "WSJ",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk9kRWJfSkYwUzNmQ3pfOUVSU21YWjFpWjJDb3YydFREdDBHSF93TUhjYTkzaXdXQkExcTdUZEJCQ1A3M2FnWG04NFpTaXBQdFVFdnZzOUhGakFrVlgyNWNZV2VwUlFiLXp6TVdkelRhU0tUWnNqQWlqR3NfcS1fY0FVZkNkYzR0RGVoa05GMmJQM1ZldUFPcmstazJVM1dTS2c?oc=5",
+   "published": "2026-10-26T09:32:00+00:00",
+   "id": "0b0bc174f61a",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Utilisation d'armes britanniques en Russie augmentant le risque d'escalade directe OTAN-Russie.",
    "method": "IA"
-  },
-  {
-   "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist , and other Mideast news",
-   "source": "erienewsnow.com",
-   "theme": "Géopolitique",
-   "link": "https://www.erienewsnow.com/news/national/saudi-arabia-reopens-airport-as-attacks-by-houthi-rebels-persist-and-other-mideast-news/article_5a02721e-196a-523c-9cc0-91b8861ebe8a.html",
-   "published": "2026-10-25T09:30:00+00:00",
-   "id": "ada09349efd5",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Saudi - led coalition claims to intercept Houthi missile launched towards Riyadh",
-   "source": "iranherald.com",
-   "theme": "Géopolitique",
-   "link": "http://www.iranherald.com/news/279397324/saudi-led-coalition-claims-to-intercept-houthi-missile-launched-towards-riyadh",
-   "published": "2026-10-25T09:30:00+00:00",
-   "id": "da9ab668ef5b",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
