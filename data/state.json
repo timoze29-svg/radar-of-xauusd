@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "e106bf57b85d",
-  "5f0023ad7f68",
-  "c3c8652666c2",
-  "70ba577719e2",
-  "499aa3775172",
   "4441479a4a1a",
   "027c688803d0",
   "498235ad0dee",
@@ -4044,9 +4039,26 @@
   "4a4248ac82f2",
   "6701618dd27e",
   "79c58be90800",
-  "9257683d46c3"
+  "9257683d46c3",
+  "fa8613336297",
+  "7309dd2cefb0",
+  "dfb9dbc0d485",
+  "032346137a6f",
+  "deb08fbbf77e"
  ],
  "news": [
+  {
+   "title": "US ready to strike Iran if Donald Trump gives order as Israel pushes for joint attack",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZU1JDSGJNNVB1VHM4YWpqZlhIRjRoVU41TnJYVjVKSlJEUjNma2tJdUNBczh2Z01rcDAyUi1MZDVxdl9fQ0pUdzZMVXJ2NzFYWHl6bE1vblhpVl85dUs3RGxDY1V5UU43ZXc?oc=5",
+   "published": "2026-10-26T07:37:49+00:00",
+   "id": "dfb9dbc0d485",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Economic Calendar - German Ifo index, Middle East escalation, and Wall Street giants' earnings",
    "source": "XTB.com",
@@ -4079,6 +4091,18 @@
    "published": "2026-10-26T06:30:00+00:00",
    "id": "bac42a406643",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Netanyahu denies clash with IDF chief over Iran as mystery Iraq strikes raise tensions",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieTRBMVpnUWJfUWdQa3lSM0xnSjhoRFh2OWpHWWE3ZGtvb245MTE1Ym43dldjLXlWNWV4M09zZ25acklyeUl3aWhfNTZRTlVGX2xfUVVR?oc=5",
+   "published": "2026-10-26T06:29:11+00:00",
+   "id": "7309dd2cefb0",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Risque d'escalade militaire majeure USA-Iran, provoquant une fuite vers la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "An 80 - Year - Old Voter Turns to Wood Heat as US Heating Oil Passes $6 a Gallon",
-   "source": "ibtimes.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.ibtimes.co.uk/us-heating-oil-prices-voters-midterm-elections-1827607",
-   "published": "2026-10-24T23:30:00+00:00",
-   "id": "da1a8fcf97f2",
-   "impact": 1,
-   "cat": "inflation",
-   "raison": "Symptôme de cherté énergétique persistante, soutenant légèrement l'or comme couverture inflationniste.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Envoy : Iran Strike  Absolutely  Possible This Weekend , After White House Says  Will Not Be Attacking Iran  Before Midterms",
-   "source": "2paragraphs.com",
-   "theme": "Géopolitique",
-   "link": "https://2paragraphs.com/2026/10/trump-envoy-iran-strike-absolutely-possible-this-weekend-after-white-house-says-will-not-be-attacking-iran-before-midterms/",
-   "published": "2026-10-24T23:30:00+00:00",
-   "id": "de98895879b2",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Menace imminente de frappes militaires contre l'Iran, forte poussée de la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7752,7 +7752,9 @@
   "news|d347a78dc29d": 1792993561.443733,
   "rep|weekly|2026-10-26": 1792994515.4201775,
   "rep|daily|2026-10-26": 1792994516.506167,
-  "news|e6772e8cb1f3": 1792995380.9188173
+  "news|e6772e8cb1f3": 1792995380.9188173,
+  "news|dfb9dbc0d485": 1793001143.4162889,
+  "news|7309dd2cefb0": 1793001144.4006946
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7951,6 +7953,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T07:52:24.400955+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu denies clash with IDF chief over Iran as mystery Iraq strikes raise tensions</b>\n📰 Ynetnews · Lun 26/10 07:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieTRBMVpnUWJfUWdQa3lSM0xnSjhoRFh2OWpHWWE3ZGtvb245MTE1Ym43dldjLXlWNWV4M09zZ25acklyeUl3aWhfNTZRTlVGX2xfUVVR?oc=5"
+  },
+  {
+   "ts": "2026-10-26T07:52:23.416415+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US ready to strike Iran if Donald Trump gives order as Israel pushes for joint attack</b>\n📰 The Jerusalem Post · Lun 26/10 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZU1JDSGJNNVB1VHM4YWpqZlhIRjRoVU41TnJYVjVKSlJEUjNma2tJdUNBczh2Z01rcDAyUi1MZDVxdl9fQ0pUdzZMVXJ2NzFYWHl6bE1vblhpVl85dUs3RGxDY1V5UU43ZXc?oc=5"
+  },
   {
    "ts": "2026-10-26T06:16:20.918901+00:00",
    "kind": "news",
@@ -8240,16 +8252,6 @@
    "ts": "2026-10-25T11:46:17.922853+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Araghchi says war would not alter Iran policy as Trump raises prospect of strike</b>\n📰 Iran International · Dim 25/10 10:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5"
-  },
-  {
-   "ts": "2026-10-25T11:46:17.003316+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Netanyahu publishes AI image of nuclear strike on Tel Aviv, warning of 'second Holocaust' by Iran</b>\n📰 The Times of Israel · Dim 25/10 12:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2pXWktwRnpLblNSMjRUS1ZVdmk3VEJmd25KQXU4YWVkUVpacmR3WFNNYUxMOFZ4UENMUW1pRFRya0JoNWViZ1B5YWZQWXRrTFJpeWdvV2tiNkRxbWVPMzRUSTZHTmRvWm9jX0ZrSHJoTF9nc0h4dWtiOTB1S2tJNC1jTFZBRE5NMjB2b29waGVjUldZYlczcV9vTFM5RjJnTVJzZU1RdU5NUEp3OXVRZVdUNHR4d0tiVG53REV6a0JDbWdPcWtiN1AtcG9CYUdhWWFJUW9yMA?oc=5"
-  },
-  {
-   "ts": "2026-10-25T11:46:16.155326+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says resumption of war would not change its stances</b>\n📰 arynews.tv · Dim 25/10 12:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://arynews.tv/iran-resumption-of-war-would-not-change-stances"
   }
  ],
  "daily_forecast": {
