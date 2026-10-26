@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "0c14209a4c79",
-  "59dc309efa25",
-  "500d440fda65",
-  "ac8ae7a050eb",
-  "ffb92a200810",
   "1d3fbc39c8bd",
   "c2c52435bfc3",
   "414b89cd14aa",
@@ -4044,7 +4039,12 @@
   "0b0bc174f61a",
   "3c6d59796abf",
   "9ab9861aff63",
-  "953c0e3efeeb"
+  "953c0e3efeeb",
+  "e55f608754cc",
+  "a26e0083a672",
+  "aa6f97b652e9",
+  "49030c72bcde",
+  "9575f261aefa"
  ],
  "news": [
   {
@@ -4057,6 +4057,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump lifts some Canadian tariffs to help embattled senator",
+   "source": "Fox News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5reG9tcUNKSWYwNUhDNmN2NWUxTXRMRXNsM29OX29TaDJXdl9zaU5LN09xN2E4bEUydEd3RmlmaXdMeUJBclJib2NldDJaTDRjRWdRMVFB?oc=5",
+   "published": "2026-10-26T13:41:27+00:00",
+   "id": "aa6f97b652e9",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -4321,6 +4333,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Watch War in Iran: Trump Says Decision Nearing on Next Step for US",
+   "source": "Bloomberg.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE8xNEZOdThKQ203ZkM1OFVrSmhvdVpLbnlYQm5UWVAwbWVmdDNmVC1OckZXU0tpNUZkLTdZQklBcVhWZDBmV01tNlBuZkZmWklkcDlwWE9qNml1SGlmaDdGZmFxX3llWVBIdnRObzZTYkdqU05MT2FtTF8tWlhfelY4akJiQ2J6Q0hKZ2NxQlkteVRxSWs2ZVVTemtZaUpla2pMYkl3?oc=5",
+   "published": "2026-10-26T11:07:52+00:00",
+   "id": "a26e0083a672",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "politique US",
    "raison": "Détente sur les sanctions énergétiques allégeant les anticipations d'inflation, légèrement baissier.",
    "method": "IA"
-  },
-  {
-   "title": "Obama slams Trump over Iran war , rising cost of living",
-   "source": "promptnewsonline.com",
-   "theme": "Géopolitique",
-   "link": "https://promptnewsonline.com/obama-slams-trump-over-iran-war-rising-cost-of-living/",
-   "published": "2026-10-25T09:30:00+00:00",
-   "id": "a146d623234d",
-   "impact": 1,
-   "cat": "inflation",
-   "raison": "Débat politique soulignant la persistance de l'inflation liée aux conflits armés.",
-   "method": "IA"
-  },
-  {
-   "title": "Zelensky celebrates as Ukraine hits Putin war factory with British missile",
-   "source": "mirror.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.mirror.co.uk/news/world-news/ukraine-starlink-returns-putin-war-37807919",
-   "published": "2026-10-25T09:30:00+00:00",
-   "id": "76375da9202b",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Utilisation d'armes britanniques en Russie augmentant le risque d'escalade directe OTAN-Russie.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7789,7 +7789,8 @@
   "news|eefa9f90d358": 1793022550.2696018,
   "brk|SILVER|pwh|dn|2026-10-26/2026-11-01": 1793022552.80061,
   "brk|SILVER|h20|dn|2026-10-26/2026-11-01": 1793022553.6848514,
-  "brk|EURUSD|pwh|dn|2026-10-26/2026-11-01": 1793022554.599937
+  "brk|EURUSD|pwh|dn|2026-10-26/2026-11-01": 1793022554.599937,
+  "news|a26e0083a672": 1793024174.4492629
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7988,6 +7989,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T14:16:14.449342+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch War in Iran: Trump Says Decision Nearing on Next Step for US</b>\n📰 Bloomberg.com · Lun 26/10 12:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE8xNEZOdThKQ203ZkM1OFVrSmhvdVpLbnlYQm5UWVAwbWVmdDNmVC1OckZXU0tpNUZkLTdZQklBcVhWZDBmV01tNlBuZkZmWklkcDlwWE9qNml1SGlmaDdGZmFxX3llWVBIdnRObzZTYkdqU05MT2FtTF8tWlhfelY4akJiQ2J6Q0hKZ2NxQlkteVRxSWs2ZVVTemtZaUpla2pMYkl3?oc=5"
+  },
   {
    "ts": "2026-10-26T13:49:14.599970+00:00",
    "kind": "breakout",
@@ -8282,11 +8288,6 @@
    "ts": "2026-10-25T22:16:06.922342+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack</b>\n📰 The Media Line · Dim 25/10 21:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTJQTVpHXzl0ejdmN0Vya0FNRlpVa3k5NXU2UVJBU3VUN244X0xTOVQ0dU02c2tnY1FKTmtrcXJhRktTbVNURGoxQkdnOVFjaW5lamFOU0tielZhOURVemdOWC16NU9IQkJtbHB3c25faEl4aGxzbDNTdkpEazhJcjdVcmNzWTBxLWQ4aXJtWHdNb290bWdGX3BjZW8yV2t5bHZXeA?oc=5"
-  },
-  {
-   "ts": "2026-10-25T20:46:07.875377+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>‘Well-known evil empire’: Barack Obama mocks President Trump’s trade war with Canada</b>\n📰 Toronto Star · Dim 25/10 19:30\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbVZxLXloUTVSR0dUSWJIdnZDOWpXQVJLN2RCNmFNU2EzSWRCY0lwMjl4Z3hPTE5RdmRiVkltRVIxdXA2b2dXZ1VPV0gwTXN0dWU5N3VaSGdwckNxVno1cEt5aWJORjNfVjBQbE5GZFF3aGxSanJkenNlZ2lKaHJ2WEJkTG05ejhzWnhuaFo0dVF5bktIbTluSHpnN3dia0pZV2xfNzFaSGJHZ1JtZFEwaldoSG9RREkxc1JseTJQLW1EVWw0c1NJRmFsSDNndEc2eUY4VkJqUUtmUmhOazMxc3AwNVdGTUQtYS11LVdTam9tWkFpS2RibA?oc=5"
   }
  ],
  "daily_forecast": {
