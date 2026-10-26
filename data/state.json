@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1792983677.8552463,
+   "ts": 1792988142.9147804,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "9d625c3b5f1e",
-  "88560bf01b55",
-  "b8430e349506",
-  "c6ee7a1f7a4e",
-  "8fb4dbfd49cc",
   "68215ee295a3",
   "d2732163b511",
   "28e0f1b8bc5c",
@@ -4044,9 +4039,26 @@
   "a23c382e15b1",
   "34306e90055b",
   "3c05293dc43e",
-  "0183b91382c9"
+  "0183b91382c9",
+  "cb86e3bd4f2b",
+  "71d50c512582",
+  "a611975b09ea",
+  "26ead8c12a41",
+  "5357a1cd0ff9"
  ],
  "news": [
+  {
+   "title": "US has plans for major Iran strikes if Trump chooses",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMkYxX0xCdEJNR19IcUM5QTlEN09sZS1zODJGam1TWTNMZGxUN0dRVTJNR0hhRENuYWo1SURGd2pQbTJYNGdiNmVMdlBCRmE4QUZDLXFXMjVnLWRSNXZfb3JERnBYa1U2a0d1ZnVPQnpEZm1w?oc=5",
+   "published": "2026-10-26T04:00:15+00:00",
+   "id": "a611975b09ea",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US dollar slides as yields fall, markets brace for data deluge and global rate splits",
    "source": "VT Markets",
@@ -6434,18 +6446,6 @@
    "cat": "fed",
    "raison": "Pause belliciste (hawkish) de la Fed : dollar fort et taux réels hauts.",
    "method": "IA"
-  },
-  {
-   "title": "Macro pulse: US bank earnings could reveal the hidden cost of surging Treasury yields",
-   "source": "investingLive",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm1uR1dhbjBnSmdmd1E2UlNDM19ndkx4N3ZIUy1MZlN3dkJBYmZyY1dMcTFqNkhsZ2h0TU0wNFp6QW1WNy1vRk9MM2NialBpUXRDVS1wZVRZa2cydzRSeUR6cUdWMDNDRDNsRm5NdTZIakcxZk5TTXBpSEdHZC1kNGM4cUZUWE5QTS1IVFJmYk9sSFhJNmtBeFF1Z01DQU16dHlaUjhGNEt0X1hodXU3UHlRZUFOdXJ2aUtnNFZR?oc=5",
-   "published": "2026-10-24T19:50:35+00:00",
-   "id": "c2c0fd7987c9",
-   "impact": -1,
-   "cat": "taux",
-   "raison": "Rendements obligataires en hausse défavorables à l'or, malgré un éventuel risque bancaire sous-jacent.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7742,7 +7742,8 @@
   "news|34e352aae0bb": 1792979167.7945058,
   "news|543576e85335": 1792980099.7135596,
   "news|fd990a2bbd31": 1792982770.5256703,
-  "news|29880bfcc4e5": 1792984569.9490747
+  "news|29880bfcc4e5": 1792984569.9490747,
+  "news|a611975b09ea": 1792988164.1619
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -7925,6 +7926,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T04:16:04.161987+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US has plans for major Iran strikes if Trump chooses</b>\n📰 CNN · Lun 26/10 05:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMkYxX0xCdEJNR19IcUM5QTlEN09sZS1zODJGam1TWTNMZGxUN0dRVTJNR0hhRENuYWo1SURGd2pQbTJYNGdiNmVMdlBCRmE4QUZDLXFXMjVnLWRSNXZfb3JERnBYa1U2a0d1ZnVPQnpEZm1w?oc=5"
+  },
   {
    "ts": "2026-10-26T03:16:09.949140+00:00",
    "kind": "news",
@@ -8219,11 +8225,6 @@
    "ts": "2026-10-25T10:01:39.276164+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Zelensky celebrates as Ukraine hits Putin war factory with British missile</b>\n📰 mirror.co.uk · Dim 25/10 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.mirror.co.uk/news/world-news/ukraine-starlink-returns-putin-war-37807919"
-  },
-  {
-   "ts": "2026-10-25T10:01:38.390879+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Obama slams Trump over Iran war , rising cost of living</b>\n📰 promptnewsonline.com · Dim 25/10 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://promptnewsonline.com/obama-slams-trump-over-iran-war-rising-cost-of-living/"
   }
  ],
  "daily_forecast": {
