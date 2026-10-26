@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793043065.0584266,
+   "ts": 1793047554.440852,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -608,7 +608,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-10-27T10:00:00-04:00",
-     "forecast": "80.7",
+     "forecast": "81.2",
      "previous": "81.9",
      "actual": "",
      "gold_label": "",
@@ -707,7 +707,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-10-29T08:30:00-04:00",
-     "forecast": "3.5%",
+     "forecast": "3.3%",
      "previous": "6.2%",
      "actual": "",
      "gold_label": "Croissance",
@@ -772,7 +772,7 @@
      "title": "German Prelim CPI m/m",
      "country": "EUR",
      "impact": "Medium",
-     "date": "2026-10-30T02:29:00-04:00",
+     "date": "2026-10-30T03:29:00-04:00",
      "forecast": "0.1%",
      "previous": "0.6%",
      "actual": "",
@@ -806,7 +806,7 @@
      "country": "EUR",
      "impact": "Low",
      "date": "2026-10-30T06:00:00-04:00",
-     "forecast": "0.0%",
+     "forecast": "0.1%",
      "previous": "0.7%",
      "actual": "",
      "gold_label": "Inflation (CPI) — gros impact via la Fed",
@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "40377499fca0",
-  "e04f492fbc53",
-  "914a487682af",
-  "b33ebbc38e6b",
   "cc662b759ea9",
   "6d0844eabcf3",
   "f2edfb350067",
@@ -4044,9 +4040,37 @@
   "597f5b2efa72",
   "2a66ddc4bf9e",
   "8354da66a428",
-  "3ea18a4f2692"
+  "3ea18a4f2692",
+  "27a7073c406b",
+  "869dcc4e51fe",
+  "8a98a15df8f6",
+  "522d8df80ab5"
  ],
  "news": [
+  {
+   "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
+   "source": "The New York Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFcwOXA2NUNKRFV5ODlvcDVhejVzUkl3bVpGaUltQmJwLUhDYWlfYXlpY0RiUnNzNTUwaUVXMDU5cTF0MXBhN1EtQ1N0UHBvcmJKUTdmdXdzUlZaTmJnZW5ycGd4YktNWWRvOWtMeHQ4M2lVbHFZTlRKYjZsVHpBNG5ienYxSHc1ZHY5ZVN3?oc=5",
+   "published": "2026-10-26T20:15:41+00:00",
+   "id": "522d8df80ab5",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
+   "source": "The Washington Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
+   "published": "2026-10-26T19:55:37+00:00",
+   "id": "869dcc4e51fe",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
    "source": "Reuters",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Persistance des tensions avec l'Iran maintenant un plancher sécuritaire sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Iranians fear a return to all-out war as U.S. and Israeli elections approach",
-   "source": "Los Angeles Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb1dqMUtOTDc0VUdrckZzUU0xeDVGbV9sX0FwQ3V4WHhDc2dDWHFOY2l3QVR3aHpWa1ZZbEtMVWI2REEzY21QVmx3eld1UnZFNlFkZ0RfQlNaTC1MV19KR1p2aHNRSUxTblhmSUxiTEM2dkh0U1czWGJXdkNWazcyMkhSSVJIc292a2dYOEtlbmVya0czbHMtQ0o3MzZmOUpnMFZYbUw2Y3YxRWhacDAwT0ZmOFVQTXZRZzRQWkdLakY?oc=5",
-   "published": "2026-10-25T16:09:41+00:00",
-   "id": "e7a1472ea531",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Craintes d'embrasement militaire régional au Moyen-Orient favorisant les flux vers l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "U.S., Canada nearing trade deal as negotiations gain momentum, Hassett says",
-   "source": "Seeking Alpha",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJyNUZaaGNoR1pYU2h5azY2WkNWUHpQY0NzaUJKOTAybzNKMk5mV0JkYkhXSG1EYUdCSGM5S2U4VkZoTWEtb0RSRlZ3bkQ2WjZhRjI2OUxzazdSbzdIblpUUE9WY2taS21mZnR2dkdXRlFPQXJ2V3RXQzlGTjlLcC11TGxSYXlWX3lHdUFUT3R3VU1NNVczTGVNNmV2cW9sbGNzQTZBTEQ1TG1OM204?oc=5",
-   "published": "2026-10-25T16:04:38+00:00",
-   "id": "26d7a2291669",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Désescalade commerciale entre USA et Canada, réduisant l'incertitude et la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7806,7 +7806,8 @@
   "news|cbb951a02800": 1793043090.9735026,
   "news|6093415e5356": 1793043968.2952845,
   "news|f4920a7fd21c": 1793044925.9522967,
-  "news|6c1c53a318bc": 1793045950.4236977
+  "news|6c1c53a318bc": 1793045950.4236977,
+  "news|869dcc4e51fe": 1793047579.0396137
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8005,6 +8006,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-26T20:46:19.039703+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war</b>\n📰 The Washington Post · Lun 26/10 20:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5"
+  },
   {
    "ts": "2026-10-26T20:19:10.423773+00:00",
    "kind": "news",
@@ -8299,11 +8305,6 @@
    "ts": "2026-10-26T05:31:52.055220+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran signals readiness for war amid claims that strikes have already begun</b>\n📰 Amwaj.media · Lun 26/10 04:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFHdzBkSWZpY29vbHpsYXRQanVRQk1aNzRzWmJ2YXZQekFIOEdxd0ltNXRFdG9hU0MzUjJ1cGF6MjN4bTBFNVRnYjM4YWxWVHR0WE5RaDJYR21jOEphcE5SN0lLRmx3dklVbFdwYVlseXFIMXp0MkhlNk80MlhnRVNHdVNLaFFEeUlxd0NneWRLRlU2S2FBYWFIbVB3RjZsM19SenF0LWpHcGI3SWNhUw?oc=5"
-  },
-  {
-   "ts": "2026-10-26T05:16:05.589473+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Attacks Bill Maher in Scathing, 1,318-Word Social Media Post: “Complete and Total Loser”</b>\n📰 The Hollywood Reporter · Lun 26/10 06:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1JKQzVfX1J4ZmtHRjhmMGdxQXVISHdyakpKMGlhVThWTTRJUlVIcUVFSUJTejdERDUtTjZyenBfN0pLNVI4SVoyMWl1LU1abUgtWlJrSHo4aGF3cnF0Ujc2bFZGanNuS2poZ3dMaGtabDltbDh4YjhPVHI5ZmtQbXV0bnBXbGFDTFhCY2Y4bUxKeF9DTkFvcjBydDVibmVmckJGS2lWRWlqM2hJUFEwSEJR?oc=5"
   }
  ],
  "daily_forecast": {
