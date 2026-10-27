@@ -1045,15 +1045,6 @@
   }
  },
  "seen_news": [
-  "dd1293d94276",
-  "491736c7847c",
-  "83483e35f083",
-  "56857bb586ff",
-  "630e86f6cf0a",
-  "afbe657240dc",
-  "8967608c61c9",
-  "49bfed009468",
-  "62103e9025fe",
   "a39ec41b2bb2",
   "952f9579b043",
   "9ccbac18993c",
@@ -4044,7 +4035,16 @@
   "19d890267488",
   "a3c9eae60a51",
   "cd9ad126e322",
-  "dfa8cfe40484"
+  "dfa8cfe40484",
+  "a7be6c1c0f8e",
+  "81e5c46fc24d",
+  "ab2b893fd8e5",
+  "8265cdc23bdc",
+  "f9c5cbdaac61",
+  "cf66ae4603ed",
+  "53388c75b63d",
+  "414e90c12d84",
+  "5361c7896b40"
  ],
  "news": [
   {
@@ -4117,6 +4117,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+   "source": "Al Jazeera",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWQ?oc=5",
+   "published": "2026-10-27T15:27:30+00:00",
+   "id": "81e5c46fc24d",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia says Ukraine has repeatedly struck Oleshky with artillery and drones ahead of local ceasefire",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVU4VllFekloVHRyNjhMLXpvbm9KWnY3b2MtaFlJeFRjWE9rT0lWSmxVNXB2QjcwdF8yTDB1dGVaYkthTmZUZXRYQW5Zbnd4R1RBaW15YkFfUnFsNWRiNjhpSV9Sa3hzeVc0dXl1ejBTTDZMc2ItV29ncjUzdnZfN3pvUmE0TUI3clV0ZFlLSHpDNWxkNnVKQkJ0OEV0MjM3UXpsenFvQnI3MzZpeFJicTVLcThrOWcxRlVlQmV0WnBHSTZQ?oc=5",
-   "published": "2026-10-26T11:14:33+00:00",
-   "id": "f7ea77416f35",
-   "impact": -5,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7847,7 +7847,8 @@
   "brk|US10Y|pdh|up|2026-10-27": 1793110582.2519422,
   "news|74b01b9e6b20": 1793112367.4113877,
   "big|COPPER|2026-10-27": 1793113299.4995475,
-  "news|66c5c3ec33a0": 1793117763.925839
+  "news|66c5c3ec33a0": 1793117763.925839,
+  "news|81e5c46fc24d": 1793121371.3891554
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8062,6 +8063,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T17:16:11.389218+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran’s calculations as US escalation looms: Trust, midterms, Hormuz</b>\n📰 Al Jazeera · Mar 27/10 16:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWQ?oc=5"
+  },
   {
    "ts": "2026-10-27T16:16:03.926023+00:00",
    "kind": "news",
@@ -8356,11 +8362,6 @@
    "ts": "2026-10-26T13:49:14.599970+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 1.11871 → prix : <b>1.11857</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.22 | 60j -0.04"
-  },
-  {
-   "ts": "2026-10-26T13:49:13.684895+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 53.711 → prix : <b>53.700</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.82 | 60j 0.83"
   }
  ],
  "daily_forecast": {
