@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "3e0cd540d163",
-  "7ee8be2e52f2",
-  "bd0153541738",
-  "baf2419365d6",
-  "daf96ac2f3b5",
-  "6dffa71032fb",
   "dfc34530be02",
   "f3b1b3383611",
   "44be6254e8c4",
@@ -4044,9 +4038,27 @@
   "7b2e2ac63c12",
   "ebde3a076716",
   "5ee05e314ade",
-  "6c266c4de92b"
+  "6c266c4de92b",
+  "f15532c6183e",
+  "6931cdcfb253",
+  "66508f9fe924",
+  "9761f7108b4f",
+  "a07ebb9af289",
+  "5820208f6fc3"
  ],
  "news": [
+  {
+   "title": "China Conducts Unannounced Missile Drills Amid Taiwan Tensions",
+   "source": "조선일보",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDJROFF4emkwYzVRdHN1c2lqTm51U3hBUUpWMHlPaVM1LTM1TFBLdDIxamxJclpMQ25GZ1g1T29BOV9rVGpleUo4S2RJTTB6OWp3UHJsVjI4VGM0MVY4WnNuUmxqSFJWbzNQcTEtSnJ5NWNqQ1ZUbnBtZ2RiVERhdnBSZnQ?oc=5",
+   "published": "2026-10-27T06:56:15+00:00",
+   "id": "a07ebb9af289",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold's Floor Is Official: Central Banks Buy More Than They Admit",
    "source": "ad-hoc-news.de",
@@ -4526,6 +4538,18 @@
    "cat": "fed",
    "raison": "Attente des propos de Powell, incertitude modérée soutenant légèrement l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+   "source": "The Jakarta Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xjeEU1dTFYUU5kN2xwQ0dzM2ktWXM5WlNpZXgtM1FQZUpVZ1RqY3NtdzlvMVJTVHRyNHRJV19CeWZYVkcwWVJ2SVNvQW85Y015Y0hGWkVBeThYTEYwWXZvUlNjazJDMkI2V3Bpb3E1VHd3bTdINjRvOHhOOUNfSWlsSTQ4UFBkRHprdVpsT3p5dVRRdmRJRkljVnpUSVpzNjdHRG5Zb0NQRndSV0FiLWZXd21PWlN2bkRveHEwanhkYjVX?oc=5",
+   "published": "2026-10-27T00:00:49+00:00",
+   "id": "66508f9fe924",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "‘Norway Sucks’: Trump Attacks Country Over Nobel Peace Prize Snub",
-   "source": "Forbes",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFlDeko0SVhhYlZleW95YnJEQldvdXFSNGhtTmhFbVNLdmdva0ptS3FJTHpZLXZocFhNMmRGX1loaHc5U2xrTHAyQ1dVOUpQTU9qTkFxMDJUVFBTaFUxUHFmYnVQTWdUTjNHek5RMTdONXlkcjV1cjB6a1hKVHpTMHBPcnE3MHJhQl9pbmVKSmM4MTZnaWV4V2dMWUU3RzJ6bThFVkZ3MHJkRE5IbTBPazA5STVYMkE?oc=5",
-   "published": "2026-10-26T04:21:46+00:00",
-   "id": "c59e61175930",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump prepares new onslaught on Iran in defiance of mass opposition to war",
-   "source": "World Socialist Web Site",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Y1BWZlZSQmRrdG1fRUdEU2RhVy16c3VSZWF4VlE5eWVUZ3NFR2JPNDJKM3dDT09yTEdEamt6UkhVMEItTUJIMG80dUtZTHRKX0FWLVBmamN6Q1doTWh6MmlTSXIyZnlO?oc=5",
-   "published": "2026-10-26T04:13:18+00:00",
-   "id": "80e0afecbfd0",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7828,7 +7828,8 @@
   "news|6264c4acbe56": 1793074561.5427086,
   "brk|DXY|pdh|up|2026-10-27": 1793078352.013843,
   "rep|daily|2026-10-27": 1793080895.705227,
-  "news|3ba02544233f": 1793082681.6481252
+  "news|3ba02544233f": 1793082681.6481252,
+  "news|66508f9fe924": 1793085529.9448614
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8043,6 +8044,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T07:18:49.944946+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Egypt approves military support for Saudi Arabia after Houthi attacks escalate</b>\n📰 The Jakarta Post · Mar 27/10 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xjeEU1dTFYUU5kN2xwQ0dzM2ktWXM5WlNpZXgtM1FQZUpVZ1RqY3NtdzlvMVJTVHRyNHRJV19CeWZYVkcwWVJ2SVNvQW85Y015Y0hGWkVBeThYTEYwWXZvUlNjazJDMkI2V3Bpb3E1VHd3bTdINjRvOHhOOUNfSWlsSTQ4UFBkRHprdVpsT3p5dVRRdmRJRkljVnpUSVpzNjdHRG5Zb0NQRndSV0FiLWZXd21PWlN2bkRveHEwanhkYjVX?oc=5"
+  },
   {
    "ts": "2026-10-27T06:31:21.648215+00:00",
    "kind": "news",
@@ -8337,11 +8343,6 @@
    "ts": "2026-10-26T10:59:53.309802+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 101.85 → prix : <b>101.86</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.28 | 60j -0.5"
-  },
-  {
-   "ts": "2026-10-26T10:59:52.148576+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump prepares for Iran escalation after U.S., Israeli elections are done</b>\n📰 PressReader · Lun 26/10 03:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE52bTJuRjVMLVVBcEx1ckhPWDc2YldCNzRBNkV5bzI0SVp6OWQwLWFjbXhzZ3JXeXFiYnluMlNfem1oZGtnNzNoSmtJM1UwTEhORVpxUlJUR0p5OHZvMW1Sd195cWxpOWNYM2ZZaE82dk91eUZRdzF1MA?oc=5"
   }
  ],
  "daily_forecast": {
