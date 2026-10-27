@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793119546.632546,
+   "ts": 1793123149.9075096,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "9ccbac18993c",
-  "705806463321",
-  "e6cfc39b396f",
-  "787960bbc546",
-  "46f1b013a60a",
   "8cbb903ff88a",
   "84da1d831088",
   "028ef82d9e24",
@@ -4044,7 +4039,12 @@
   "414e90c12d84",
   "5361c7896b40",
   "e8677816be69",
-  "4b39260b95c6"
+  "4b39260b95c6",
+  "1258352b4e2d",
+  "7770f3ce5f20",
+  "61b95262d72d",
+  "cfb15f7d3f01",
+  "686999550269"
  ],
  "news": [
   {
@@ -4139,6 +4139,18 @@
    "published": "2026-10-27T14:59:56+00:00",
    "id": "6322c8348c76",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Norway and Finland hold rare call with Putin to discuss ending war",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+   "published": "2026-10-27T14:23:05+00:00",
+   "id": "cfb15f7d3f01",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump, Netanyahu and the politics of escalation against Iran",
-   "source": "Financial Times",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzROZEVjU1JBRktyZ1ZvZG1lVEp1bFh0ckpFS2VYMjBDUGFSWTdpaXR1MDZLc3RWRW5xUUlrNG5hc19Yd01fUjVTY19UNWtXS2JwaDZEVENIUFRxem03MnFBakY2TFVNdEFXcWVoMVpPaExySmhoZmxmNXlIbTBCc0xFS1A?oc=5",
-   "published": "2026-10-26T11:37:21+00:00",
-   "id": "a72263ac152e",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7848,7 +7848,8 @@
   "news|74b01b9e6b20": 1793112367.4113877,
   "big|COPPER|2026-10-27": 1793113299.4995475,
   "news|66c5c3ec33a0": 1793117763.925839,
-  "news|81e5c46fc24d": 1793121371.3891554
+  "news|81e5c46fc24d": 1793121371.3891554,
+  "news|cfb15f7d3f01": 1793123170.6316674
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8063,6 +8064,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T17:46:10.631754+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Norway and Finland hold rare call with Putin to discuss ending war</b>\n📰 BBC · Mar 27/10 15:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5"
+  },
   {
    "ts": "2026-10-27T17:16:11.389218+00:00",
    "kind": "news",
@@ -8357,11 +8363,6 @@
    "ts": "2026-10-26T14:16:14.449342+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch War in Iran: Trump Says Decision Nearing on Next Step for US</b>\n📰 Bloomberg.com · Lun 26/10 12:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE8xNEZOdThKQ203ZkM1OFVrSmhvdVpLbnlYQm5UWVAwbWVmdDNmVC1OckZXU0tpNUZkLTdZQklBcVhWZDBmV01tNlBuZkZmWklkcDlwWE9qNml1SGlmaDdGZmFxX3llWVBIdnRObzZTYkdqU05MT2FtTF8tWlhfelY4akJiQ2J6Q0hKZ2NxQlkteVRxSWs2ZVVTemtZaUpla2pMYkl3?oc=5"
-  },
-  {
-   "ts": "2026-10-26T13:49:14.599970+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 1.11871 → prix : <b>1.11857</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.22 | 60j -0.04"
   }
  ],
  "daily_forecast": {
