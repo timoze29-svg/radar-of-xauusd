@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "0eac635cd479",
-  "c659ff6c3cf0",
-  "310825e3c067",
-  "82781b17893f",
-  "bcee4e44b322",
-  "05e45976ac61",
   "c7a3f36ba1fa",
   "2d4c7590ae2c",
   "c4ccde2ed095",
@@ -4044,7 +4038,13 @@
   "d2f92597d248",
   "bf3dc307873c",
   "3c2bf221823d",
-  "f7834a3500ef"
+  "f7834a3500ef",
+  "f44e514a8620",
+  "ebe5783331a3",
+  "b22fc87f0d6e",
+  "99234e34207a",
+  "19df37789510",
+  "ce52403842ad"
  ],
  "news": [
   {
@@ -4057,6 +4057,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump says U.S. is making a 'fortune' off Iran war during Corpus Christi rally",
+   "source": "San Antonio Express-News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDh3eTNNTUdtdExlbWtacU5TRVFCNUVxQ25kbmw5R1FJR2JRTFZncVRTQ2N2MEdIUklxSHNXaC1FZm0tZHhYbmRUZ3VjYnlpTnVIYXZyRjh2MkMzTDFxYXgxc3NkdFVOZGg0UFF1RVNISVNJQm94NllpRkZIejJhY2l0Y0MzOU94cVpBTA?oc=5",
+   "published": "2026-10-27T21:40:59+00:00",
+   "id": "f44e514a8620",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4298,6 +4310,18 @@
    "cat": "géopolitique",
    "raison": "Progrès diplomatique et cessez-le-feu local réduisant marginalement la prime géopolitique sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Congress passes war powers resolution, offering rare rebuke of Trump - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
+   "published": "2026-10-27T17:12:58+00:00",
+   "id": "ebe5783331a3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "First lady Melania Trump says Ukraine-Russia ceasefire expanded within Kherson",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russian Gold Reserves Down 62 Tonnes This Year as They Support the Wartime Economy",
-   "source": "LinkedIn",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFhuQ2paanRsVk5tQTVkTlNQNm84RDBRWDBKbXp0QmpfaVdPeFhRd1d3YjQwc3B0VjFKN0dXcVo4eVBxcnFkZXFTaDYzSUQzY1p6dG9aLWxxenVmdk9nemVGbTJ0RDZneWhWZWV4UGIxV1F5VXFjcHNKMzIxcEVhRTNQRDNvcmZ0ZWVLYmFNXzJaMzNDVEZKYW53?oc=5",
-   "published": "2026-10-26T14:28:36+00:00",
-   "id": "d65ad1bf39f8",
-   "impact": 5,
-   "cat": "banques centrales",
-   "raison": "haussier or (banques centrales)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Dollar Strengthens to Kick Off the Week",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUnMyWjdqemxmM1RIVkRoUGZwR1lBR3dVN3Z5MnU1WXR1ckh2NzRaTjNpQi1KNGd1d1FYVjl2UE5OWm0xQmhkSklOaFNHVXQ3X1NHcUdXYlJRY0dQY3BvNjNJQXFlVjZrd0JtQ0FCOXZvOGpoOTVTOG1EeElfRXlzZWU2djdJMU1IU2c0ZmQtTlk3djJN?oc=5",
-   "published": "2026-10-26T14:07:53+00:00",
-   "id": "35f3e6ec5bfd",
-   "impact": -5,
-   "cat": "dollar",
-   "raison": "baissier or (dollar)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7856,7 +7856,9 @@
   "rep|recap|2026-10-27": 1793134902.4973404,
   "news|00ea542c8450": 1793135774.5440943,
   "news|98ce95918e84": 1793136682.8403087,
-  "news|9ace014a4c6a": 1793137571.5455089
+  "news|9ace014a4c6a": 1793137571.5455089,
+  "news|f44e514a8620": 1793139548.379102,
+  "news|ebe5783331a3": 1793139549.2280078
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8071,6 +8073,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T22:19:09.228220+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Congress passes war powers resolution, offering rare rebuke of Trump - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 27/10 18:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5"
+  },
+  {
+   "ts": "2026-10-27T22:19:08.379186+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says U.S. is making a 'fortune' off Iran war during Corpus Christi rally</b>\n📰 San Antonio Express-News · Mar 27/10 22:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDh3eTNNTUdtdExlbWtacU5TRVFCNUVxQ25kbmw5R1FJR2JRTFZncVRTQ2N2MEdIUklxSHNXaC1FZm0tZHhYbmRUZ3VjYnlpTnVIYXZyRjh2MkMzTDFxYXgxc3NkdFVOZGg0UFF1RVNISVNJQm94NllpRkZIejJhY2l0Y0MzOU94cVpBTA?oc=5"
+  },
   {
    "ts": "2026-10-27T21:46:11.545599+00:00",
    "kind": "news",
@@ -8360,16 +8372,6 @@
    "ts": "2026-10-26T17:31:26.376841+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump pivots away from Ukraine and toward Russia</b>\n📰 The Week · Lun 26/10 16:20\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWotd1pPMDRmXzdMT01mSXlYNTVVX08xTlRGMGpFRzRsTzZnVDVtWlZpdkYxQnY2Z3Z2dzdWN0ZwbnFkS3ZpX01QbUNZYWxpSUZRT1pldjdXeXF4Mm12RDE5T0R0WFNLNFllYlNhaGNmNDBUT2lKOV9uYUlqbmFOZVcxVWh0UQ?oc=5"
-  },
-  {
-   "ts": "2026-10-26T16:46:12.523804+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's brutal Truth Social attack on Bill Maher after dinner sparks confusion online</b>\n📰 Fox News · Lun 26/10 17:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQQW5HWG5YVENtd05zcWpfY0RpQkVSbTFybjJDV1c5SzQyTnR5dG9YX2VhTTQ1bnk2Z1E4emp0ZlRnR2RmLXFnMjVzT2dkQi1wbTVoXzJCYUg4SC1BZ1l6Qy04NThqczEtay1SQ1VjNEZ6cDRZR0lYR1lqNkQzdkJpNW4xeXpsSVpaN01VQ0dCYXhHdUJjNDJMSngzOUZ6MFctOFJVS2J3Z1NUdXRoNnJwag?oc=5"
-  },
-  {
-   "ts": "2026-10-26T16:16:12.268310+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Election 2026 • Katz denies pre-election Iran war push; Lieberman seeks probe of PM for treason</b>\n📰 Haaretz · Lun 26/10 16:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxNZ3VnWmpkV3h6QnpTbVhOQllDaHdwcXJXZFNFdXlVSnRkQkNKenFBZ3pwOTJiSEpVSTRJcWhpcmNsWGpmRzB2dThfM1o1WVMzMVM0UmtXQkItQnNRRUVkc0lESW9qYm9lUXJMeWFDcjhqamtlMFJYQzlVNWRRWGZuR0ptMmFWdHMtN2VqZUpWVUYxcmNjbHJ0cXFxbzU3emhLZFVKM25yMDAycWV4MHdYdC05dXVqajMxNHhHUUJJUjFzRjRlM1R3YXhaMUI1TWtvRzA3aDZoUjg4RUt6UWZfRUdZYzVPM0gxNlotZFR5UUpEYXpaMUkzMXdZb3c0X1hIcWduSUltekZWM0ZYS2Z5b294bFp5dw?oc=5"
   }
  ],
  "daily_forecast": {
