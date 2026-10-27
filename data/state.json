@@ -1045,17 +1045,6 @@
   }
  },
  "seen_news": [
-  "21d3b7056e41",
-  "86c5cf896913",
-  "f5c8ab1af842",
-  "02823fabec30",
-  "a69e69cde5f9",
-  "4dbddda30a60",
-  "16fbce597993",
-  "01faf83e7e34",
-  "fa23cf66cb79",
-  "4646ddf8c7bb",
-  "4021361dd58c",
   "d45e936626b7",
   "cc2b9629dbbf",
   "e33a6d507f2e",
@@ -4044,7 +4033,18 @@
   "74b01b9e6b20",
   "05d939e33fd3",
   "942563916bc7",
-  "364e307436e7"
+  "364e307436e7",
+  "269ce4d56dae",
+  "1b77a731f4d7",
+  "17b932e82a05",
+  "311309245760",
+  "5705cb44c358",
+  "554156ff3344",
+  "bf83226796cc",
+  "1e61f99a95e8",
+  "dedc045ede6b",
+  "ebf8fd4f0b76",
+  "858f0db221ba"
  ],
  "news": [
   {
@@ -4055,6 +4055,18 @@
    "published": "2026-10-27T14:10:42+00:00",
    "id": "942563916bc7",
    "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Photos show Ukraine's Starlink was throttled during Russian strike that killed 5 in park",
+   "source": "CBS News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjlESGNFdXVmNG9RelZfdWVPLUZZV0dJaXFabjZIQ2NqZ1g4YVlxUmN6TS1iN3dIZzYwNkZTSTljU1ViVXV5QXhWbjVVTmJvTTg3RmNyMzAybjZDWmYyM3ZlMVdMdmZCM0NhRGp4akFfRkRFakFZcHlPeEFCNE5oa2JSNC1Oblk2S3RFdTJJS0xtcVFQaUZv?oc=5",
+   "published": "2026-10-27T13:54:37+00:00",
+   "id": "ebf8fd4f0b76",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4117,6 +4129,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. Asks to Keep Collecting Trump’s Tariffs After Court Loss",
+   "source": "EnergyNow.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9JN2Vlb2FpV0NGUnlXTklZb1V0RHdWVnB6TWk1NEdqa3dYMGs0WXAwQkpmWk1NTi1nRHJwWHE4Y0RUYm1rVHJkNGpoWjBQRVQ0NEFtRzByTWFzTjlzQ1pLUExmX0NlSXNkNVA5YWxZX0FDbWhzTDhWcDZTSTY2U2p3Y25FbUcyVVdwc1dWRlpobnhn?oc=5",
+   "published": "2026-10-27T12:57:48+00:00",
+   "id": "1e61f99a95e8",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Oil Prices Fall As Hopes Of US-Iran De-escalation Ease Supply Fears -",
-   "source": "TVC News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX25jRngydHpkaUtOekE3Y25TQ1ZFUGVYM2piY2Z4NzhLNzliVHZ0QmpvZGtGLWxfaTFJTVllTi1JYzRudVM5Z0tTSFZrZUFIWGZKc2U2SUJIZGtsRlVfUUMwVjdISmZTTmRCNXR6dXdHZkYyZUhWSThjcjZ3RGtreUo4SmxJRDZydlVfREJWb1Vqamh6Z0E?oc=5",
-   "published": "2026-10-26T09:28:00+00:00",
-   "id": "4a474aa7e6fc",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Storm before Israel polls: Katz reacts to 'Netanyahu-IDF rift' over Iran strike plans",
-   "source": "The Times of India",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN1QzbE9zNll6UjdrcVhNYUw0UDRESmZkQ3AtM25vdVFhZmNTZndJTkExNTdRTjFhbE15dEpCc0tWcFlxaVdRWEdmdmxZOXBJRUhwempsaFd4blF6QWJvZy1uXzBLc3l5RFZjOGk5OFQtMWpVdkNYbHZBV0pYU2JGaGVmeDZ6Mjhob1o3SFpIUGNaWlE1d0EteWFyRXdvdnBRaFQxODlSNS1CLTJNZEk1VFlxNVBWc0VDOEtDSTVJSzhPb0Y4MmZuejlrNGZKVW9mNkRsR29TTzQ4N1JwYXBFeUJKb0c0Q0VPQmNMUHhETkZCOFRl0gH6AUFVX3lxTFBVOWVhSEdsaE54VnJHbzFtdnFMUUNCWUUybm0xQ3BUY3dCUTJ1SDAzcE0wZE54a1ZDSnFSdVROZmxfcXBfUVFEai1hVUVna0tNcVhrSTNPMS02YlZrMDVXWUJWNzhQV3dHR1djWVVXTUZsaElBdVExYlVhUUQyendpWDF6Vlo5RGNYa096MUppQnZrVGJsMmZoSWlqS1JLUU5VT0l3VE4xUlRjanZ0VXNrcmMwYXJMWTMtUmtFelJ2TFRtdFZhb2JXRlgwRXktaGtJYXRWRWhBWk1XeFc3STNLZ0NYQ1ZSTkJFa05qak0zdVh3RmdpZl9BX0E?oc=5",
-   "published": "2026-10-26T09:21:00+00:00",
-   "id": "a130ccdc9853",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7845,7 +7845,8 @@
   "news|8d68e2c9d3d0": 1793107902.9707124,
   "brk|GOLD|pdh|up|2026-10-27": 1793110581.3725493,
   "brk|US10Y|pdh|up|2026-10-27": 1793110582.2519422,
-  "news|74b01b9e6b20": 1793112367.4113877
+  "news|74b01b9e6b20": 1793112367.4113877,
+  "big|COPPER|2026-10-27": 1793113299.4995475
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8060,6 +8061,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T15:01:39.499610+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.1305 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
   {
    "ts": "2026-10-27T14:46:07.411472+00:00",
    "kind": "news",
@@ -8354,11 +8360,6 @@
    "ts": "2026-10-26T13:49:12.800650+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 53.711 → prix : <b>53.700</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.82 | 60j 0.83"
-  },
-  {
-   "ts": "2026-10-26T13:49:10.269669+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli press review: Netanyahu accused of pushing Iran escalation ahead of election</b>\n📰 Middle East Eye · Lun 26/10 14:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQalBjS3laREFWLUN0clFrUmdVdVYyenY0MDBvdHI0bVd6NW9VcXllRDFfWGRkY1hVeHhlS3d5MjhOSkQ3b2Z2VjZMY1FheXpxbTdjZml5Qm1VaHQyUm82SWF6dEVaZG8wYXdyUFktTmxyT0t3ejJOMGhQYk9GVlJDWXFSUzBjSjRvT0J6MDZ1cGNOUHZRYWo5RjdISVRoWVF5OE9NSFBBbFJ1ZHNoV1o4Ry1n?oc=5"
   }
  ],
  "daily_forecast": {
