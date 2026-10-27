@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793123149.9075096,
+   "ts": 1793126752.9967096,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,8 +1045,6 @@
   }
  },
  "seen_news": [
-  "3557a931e49e",
-  "a50cf709770d",
   "62f0a8deca88",
   "36121312ec4d",
   "ef79d3ca1de5",
@@ -4044,9 +4042,23 @@
   "245a2ede0add",
   "7e093b008976",
   "f52eb8b1e052",
-  "330ec74d8287"
+  "330ec74d8287",
+  "939e5b784dde",
+  "45b6034eaeb2"
  ],
  "news": [
+  {
+   "title": "After Canada fires back with retaliatory tariffs, Trump and Carney move to ease trade war in 2 sectors as South Africa braces for U.S. duty slap",
+   "source": "Business Insider Africa",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR3NEblJUV2RBUzV3MXZiRnJtMy1YM1dxbFBCN0lUS0RqM3JtdkZFdkFweUZ3MV9FWFlnek5yNkxabXBmUW9sYWIwQ09XbWVVbERtd3BfdFBCZnpUcVVWNnNXS0kzMmMycmZMdVdLZG5BcEN1dllzaGNHVDhGcjRoaWtvNHk5dVVTZnRfUkhDN0dhSV82Y1EwWTNmSGpzSHpNWlpOZTJBTEYzenpNcGxJeXVBd2VaMlgzUE9fbWtWVVh6NVlRMWVwVUU1SGpjcFdfX0R6bEJNWmQ?oc=5",
+   "published": "2026-10-27T18:24:23+00:00",
+   "id": "45b6034eaeb2",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
    "source": "The Guardian",
@@ -6434,18 +6446,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump's tariff promised trouble for China, though Goldman Sachs notes growth of 4.5%",
-   "source": "Fortune",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLWliUWNkdTdVNlNacG11VW1WUk5DUmhlRWh3dzkxYmNWcGhIalpIS1J1Ymd2SDdhYjNoOVplZzBaZFpISFIxN0tDaG1zUGtuWmp1dEN6SDgxMC00M0NJbkpLWHZrckpXY1JfTlctX002VVQ1LTFGQjY0SmJETnNZWG9DYV9kMEhpcUhGTWlFM2VLQQ?oc=5",
-   "published": "2026-10-26T11:57:09+00:00",
-   "id": "1cd656df67b5",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7850,7 +7850,8 @@
   "news|66c5c3ec33a0": 1793117763.925839,
   "news|81e5c46fc24d": 1793121371.3891554,
   "news|cfb15f7d3f01": 1793123170.6316674,
-  "news|8651e5fe282b": 1793125883.4276223
+  "news|8651e5fe282b": 1793125883.4276223,
+  "news|45b6034eaeb2": 1793126781.0158267
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8065,6 +8066,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T18:46:21.015917+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>After Canada fires back with retaliatory tariffs, Trump and Carney move to ease trade war in 2 sectors as South Africa braces for U.S. duty slap</b>\n📰 Business Insider Africa · Mar 27/10 19:24\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR3NEblJUV2RBUzV3MXZiRnJtMy1YM1dxbFBCN0lUS0RqM3JtdkZFdkFweUZ3MV9FWFlnek5yNkxabXBmUW9sYWIwQ09XbWVVbERtd3BfdFBCZnpUcVVWNnNXS0kzMmMycmZMdVdLZG5BcEN1dllzaGNHVDhGcjRoaWtvNHk5dVVTZnRfUkhDN0dhSV82Y1EwWTNmSGpzSHpNWlpOZTJBTEYzenpNcGxJeXVBd2VaMlgzUE9fbWtWVVh6NVlRMWVwVUU1SGpjcFdfX0R6bEJNWmQ?oc=5"
+  },
   {
    "ts": "2026-10-27T18:31:23.427696+00:00",
    "kind": "news",
@@ -8359,11 +8365,6 @@
    "ts": "2026-10-26T14:46:17.281309+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trade war with Canada could end ‘pretty soon,’ Trump says during rally</b>\n📰 Global News · Lun 26/10 13:20\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE5idFphbVNWdGc2RC1kVDBlcndNcnpBYnk0eWF2ZEIzVl9odzJhbkh0YWVjYk1xajZPVGNiRjZKYkFPaVhFdi1IT1VUOGJ1VFhiNWxwbC1MVTNYTERLRWZKSFZpUkpjYTNHRkdTVVJB?oc=5"
-  },
-  {
-   "ts": "2026-10-26T14:31:31.228921+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>New details emerge about attack Netanyahu planned against Iran</b>\n📰 www.israelhayom.com · Lun 26/10 15:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHRLQ0NWbXNobkFZM2w4TzBPVElFWGZLUVd2eDdDRlJ0dlpZV1VsRHVKbldyOWUwbkkwV2YxY3NFak0xd0dtMVJ3cHJ4UzAtNDhUUVZTSGI0WU5WS1YxaGpCc3lRRWFnU0RzMGNOajJRNGxaTnBUdlhJRGtTaHRrdm5tUlduVHBuakRyM0p3UnowRnFrM0VTOVU4NDN3OHpZVGtLMQ?oc=5"
   }
  ],
  "daily_forecast": {
