@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793099752.125004,
+   "ts": 1793104263.5713265,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "e8241c5a47dd",
-  "4276776b64b7",
-  "269088e2889b",
-  "8eed225f4c0e",
-  "c509a5fe6042",
-  "0412a2cedb36",
-  "095bb43fe9b3",
   "4bab44e6e420",
   "73c60bb4b678",
   "05d939e33fd3",
@@ -4044,7 +4037,14 @@
   "f263ff625ffb",
   "51916b9d0101",
   "c6b9e1c3286f",
-  "bafe31d086ab"
+  "bafe31d086ab",
+  "1d3e6160ae96",
+  "0b4214a73057",
+  "22e4ea195523",
+  "fe7eeb02dc41",
+  "d4bd7d1ca0cd",
+  "3a71b8e83322",
+  "a24cd5a452b7"
  ],
  "news": [
   {
@@ -4057,6 +4057,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oleshky ceasefire begins in Ukraine city where residents ate weeds to survive",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUnlnMk5HcGo3aFhDUHJyM3l4R2tmdEJLT1hhakpqRnpTZTRKcEFjenlYSnJpTXhmWVRyY2J5OUhOWUpkNVIzM2FVRDB2VXU2MVY2YThZTzF1aU0?oc=5",
+   "published": "2026-10-27T11:53:57+00:00",
+   "id": "d4bd7d1ca0cd",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5006,6 +5018,18 @@
    "cat": "banques centrales",
    "raison": "Ralentissement des achats officiels combiné au durcissement monétaire pénalisant lourdement l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Trump's promise of 300,000 tons of tariff-reduced beef imports to reduce grocery costs falls short",
+   "source": "Fortune",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjl2azB4cDZKRlEyUkpPZUpKQ2VWcXI2TmZWQ25HQXR4TU5IRmR6WUJEcnpuRS1vWDZpQTBwbkZxb1NYUmxuQ2ZKZk9OdFVCY2lkWkkyT0UyQ3U3V0JEWXFIdmpzWTNoWXJGYjNaU0JLM2o2bHVva2otVjdGS18xVExuTGJKVTRYdDFvTHVTdw?oc=5",
+   "published": "2026-10-26T22:03:00+00:00",
+   "id": "22e4ea195523",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Not even sky high gas prices or the Iran war will stop Trump supporters voting MAGA",
@@ -6419,30 +6443,6 @@
    "published": "2026-10-26T07:48:00+00:00",
    "id": "23e41f0a0d4c",
    "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gas prices top $4 a gallon as Iran war escalates - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3VGQk4yNlhfVlFWeWNlQ0tGSmJ0Zl9FZTNYVXRqNTVjWFdVS3RpNGt3MGw5WEtEUmF3Y0hJNlpkTkFTeGZuZUUxZVZNQkp3djRNWnpsR3d1SDNlS1BKbVU1bDQ0WTVGY1ZGOV9xWk9QZDY3MkJkQ2hYdUg0aF9LaFVvU05GZEE2ZHk5ZtIBkgFBVV95cUxOVHhfbDNEbG9OM3dDTm5ueTVHbUNrOWU4Smp5LThnNWxlNEdvaFF1QWRaMnJab1NLRGtTT2JubHo5SHBRZV9MZC1nRUhtZDAwOTByamgtckN6Qzhqa3JucHJnQUlDT0ZEY2hUU1VjQW43MGIwR3BQd2dHbHVHbE5UM1ZwcTNhX2dvVGl6NC1MeW9BUQ?oc=5",
-   "published": "2026-10-26T07:47:30+00:00",
-   "id": "93d71bd182ad",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Top Saudi, Turkish Officials Travel to Iran to Quell War Tension",
-   "source": "Bloomberg.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2VfSTNIT3VIcUtpb2pWdVU2UVg3cUt5MzlnY0J6YW1Na0pjd0l0aGJ5TzF3ZEI0TEl5OXBGNnJVSy14UXpUYjFXRUdJRlJCclVhZkFZcDZWdUlCUVozRUZHWXJvUVUzc2tLb3Q2TEwyRVNnazdxWV9RdFV1QTFwVlRtSk9lWEE2dURyc0dxVjZFeGlCNGcza3d1VzhFWnFXOFB3dVM2Z0FFNW5JeTY4X0NVYUQ?oc=5",
-   "published": "2026-10-26T07:44:00+00:00",
-   "id": "8c56acbecb42",
-   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
