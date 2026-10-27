@@ -1045,7 +1045,6 @@
   }
  },
  "seen_news": [
-  "38d1b9b2a97e",
   "000a49155033",
   "105f112e7969",
   "21e206dc2f15",
@@ -4044,7 +4043,8 @@
   "40fe3e25169f",
   "4f9a5fba5eab",
   "7941faaf6008",
-  "863d19445b38"
+  "863d19445b38",
+  "2e9c751f6fda"
  ],
  "news": [
   {
@@ -4177,6 +4177,18 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to More",
+   "source": "Kathleen Hays Presents: Central Bank Central",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3N6X084ek5zdGMxa0piMnhWYkk0ZEY3V3lpVG9YaUx1NzRtTXRaVmtKN013emp1OUtLMlROSHJtQUtEUHVFR05zckRyM2x2bks0RUdvdjBHRXRCSDFLdTRQNU9ZblY3cU80WFpWZ2RUdUlVbXBtVlU3Uk41WDRjWXln?oc=5",
+   "published": "2026-10-27T20:08:15+00:00",
+   "id": "2e9c751f6fda",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "With reports Netanyahu sought to attack Iran before elections, could vote be postponed?",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzBBYWdFV3hHdGxIY2d0M2c2Ml9yVlQ0NnpqWW81R25acmdBUTdFNmhpOHlSMmcxSTZpU25OaWxEc3JaS0UyOXJJMzF0eUY3QmVIMHZMZDFhaTY4ME1IMUZiWjZXVF9iZnZkemxMR0hlalhrMVlyOWZDRWxZMC1TQXdWd3I1X3ZqaG9CanN3a1RFZHVOSlhreW1RQ0h2eFlPZktEeEZrX3pxTTVZbm1LSmJHd3lxZ2_SAbwBQVVfeXFMUEhFU3RKT2dTT05hTjFnWl9sWk1tQzZ6VWhzVVdsWUYwNmZXczJBQWdNNkZRbFFhOVNmWjhuQ2xzREZudGFDTkoxZWVtOTJ0RmRaTjROUVQtWEV6LTlhUk04bGxYVm5qajZteUJLano5dldhWWlOam5VTU1udUdGWWJkelhuU3U5djBTME5ZS1EwbnpWNzdjSENEMWN2NEFLUHp1cURQR1ZZN3JpWmZqcmlFYmNQdzM3N1VWeFM?oc=5",
-   "published": "2026-10-26T15:02:48+00:00",
-   "id": "3f32472bef69",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7860,7 +7860,8 @@
   "news|f44e514a8620": 1793139548.379102,
   "news|ebe5783331a3": 1793139549.2280078,
   "news|974132f0d93b": 1793142100.0585907,
-  "news|40fe3e25169f": 1793142970.4110959
+  "news|40fe3e25169f": 1793142970.4110959,
+  "news|2e9c751f6fda": 1793143888.1773388
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8075,6 +8076,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T23:31:28.177434+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to More</b>\n📰 Kathleen Hays Presents: Central Bank Central · Mar 27/10 21:08\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3N6X084ek5zdGMxa0piMnhWYkk0ZEY3V3lpVG9YaUx1NzRtTXRaVmtKN013emp1OUtLMlROSHJtQUtEUHVFR05zckRyM2x2bks0RUdvdjBHRXRCSDFLdTRQNU9ZblY3cU80WFpWZ2RUdUlVbXBtVlU3Uk41WDRjWXln?oc=5"
+  },
   {
    "ts": "2026-10-27T23:16:10.411161+00:00",
    "kind": "news",
@@ -8369,11 +8375,6 @@
    "ts": "2026-10-26T18:01:37.831754+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Iran says nuclear issue off table in talks with regional powers</b>\n📰 Iran International · Lun 26/10 18:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5"
-  },
-  {
-   "ts": "2026-10-26T17:46:05.922616+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says it's prepared to go back to war amid threat from the U.S. and Israel : Trump's Terms</b>\n📰 NPR · Lun 26/10 16:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1MFRuVGc0Qy1MeDl4U2xsQ1ZhYk9NZHZHYTc3MVZDamlvYzZSSmExZC10RDRpbDhaVDdBenRfUHR2eklvZzF3T2RId3JDYVpzQVRnRlRQNlQ?oc=5"
   }
  ],
  "daily_forecast": {
