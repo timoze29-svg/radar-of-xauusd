@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793043949.165307,
+   "ts": 1793066263.860002,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.64,
-     "date": "2026-10-22",
-     "chg5": -0.14,
-     "chg20": -0.12,
+     "last": 2.66,
+     "date": "2026-10-23",
+     "chg5": -0.08,
+     "chg20": -0.19,
      "hist": [
-      1.91,
       1.95,
       1.96,
       1.94,
@@ -129,18 +128,18 @@
       2.8,
       2.77,
       2.76,
-      2.64
+      2.64,
+      2.66
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
      "last": 2.34,
-     "date": "2026-10-23",
+     "date": "2026-10-26",
      "chg5": -0.01,
-     "chg20": 0.01,
+     "chg20": 0.0,
      "hist": [
-      2.5,
       2.47,
       2.42,
       2.45,
@@ -259,18 +258,18 @@
       2.35,
       2.37,
       2.32,
+      2.34,
       2.34
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.65,
-     "date": "2026-10-22",
-     "chg5": -0.12,
-     "chg20": -0.2,
+     "last": 4.69,
+     "date": "2026-10-23",
+     "chg5": -0.05,
+     "chg20": -0.18,
      "hist": [
-      3.88,
       3.95,
       3.93,
       3.87,
@@ -389,14 +388,15 @@
       4.77,
       4.79,
       4.81,
-      4.65
+      4.65,
+      4.69
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -412,7 +412,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -484,6 +483,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1793022349.830547,
+   "ts": 1793066264.5331326,
    "data": {
     "date": "2026-10-20",
     "net": 199865,
@@ -1045,14 +1045,6 @@
   }
  },
  "seen_news": [
-  "74051d62046d",
-  "e7a546c242c5",
-  "fce4dde3e16f",
-  "a01e65bd02e3",
-  "ce7af2cc73cb",
-  "881495a9b9d8",
-  "7694859f2081",
-  "c39ee6955ded",
   "6d1083ba28e3",
   "7c39f796844a",
   "bf5cce153283",
@@ -4044,7 +4036,15 @@
   "f180c9341aad",
   "b77b06f55372",
   "93eaba843435",
-  "abbbdf595fb3"
+  "abbbdf595fb3",
+  "b3c64a5af266",
+  "8553babd6245",
+  "4335a1a4e7ef",
+  "3e8055701769",
+  "2bdd68e33ced",
+  "b482b5b56b13",
+  "80a4b15a06ce",
+  "d73352c9ea43"
  ],
  "news": [
   {
@@ -4115,6 +4115,18 @@
    "published": "2026-10-27T00:45:00+00:00",
    "id": "7ce625dc28ab",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Watch ‘My Undesirable Friends’ Director Julia Loktev Recall the Week Russia Invaded Ukraine",
+   "source": "IndieWire",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1JzOUVMd05PNkhoU1RWaUZwazZFYUYxTWs4NnlkZzIxTVBCSk1pUk0xdXpvVUlzMVlwd3BtNjdJLWtYQllWeHVDY042ZlZLNzFXR3U2c0pBU2F2anN6WWlPbWprb2MyMy1BbnFVdUROejRENEZCZVNPWHJZTFpCV203MWVNUU5ySXl5QkJkN2s4YU1PUEFsQXB5NDdBdWNQYzFlTnJmVnEtTXh6U3c?oc=5",
+   "published": "2026-10-27T00:30:00+00:00",
+   "id": "b482b5b56b13",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4921,6 +4933,18 @@
    "impact": -5,
    "cat": "taux",
    "raison": "baissier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1NNM0tTeE1oc2ZkTUdxRUlwZ2h1OFpGdWd0bjZqbmYxb0NkM1JpVEF6Sm0tQzBfU05IZ2pnb2FkaXVGQUc2Y213MWJWclA3cl9tT3BlZlplek9rTlhGLXNrdzZPNHEtc2ZCU0pxWXJ3NHowTXgxN2JVekgyM2RRYlBmM2YzbW5jdTJMWGFLODZYSnkyb3BxNHhtYWY3dw?oc=5",
+   "published": "2026-10-26T13:30:00+00:00",
+   "id": "8553babd6245",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Risque accru de frappe israélienne sur l'Iran, demande accrue de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Says It’s Time to Strike Iran or Make a Deal",
-   "source": "Bloomberg.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWFjWlV2NUF3UjFHRGcwdjFBYVJCUjhNTFYtSDhGUGNkTUlzRUEtTkdEUTJVVjg1SUVuZ2FfU2tleHpvbzFCRXE1X0FIRkVxV2JvMWJGbmNUc3hkbjZNQk5rR1RyS09uRTNqMHE3cDFzdXlPT0lGSzluWHNNR0RpUDVxTm1jWWhXT3IxR1JHdENtS2RnT1J4LTBJWlpwaVRIU2ZpSE5WZw?oc=5",
-   "published": "2026-10-25T21:33:54+00:00",
-   "id": "365e8a74e0b9",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Menace explicite de frappes contre l'Iran, accentuant la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Treasury Selloff Returns, Rate Hike Bets Rise & AI Debt Builds Khamzat Chimaev (e9pTqHnU57)",
-   "source": "Unisba Media",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS01Gazk0QmdOdFZZWkYzR1lxTVlNQ0tZcUZKWlc5ME1yTG9ac0lQQTJGU2M4cFdLOGROcXBZS0syYUk2TlJWY0swQ2JkWWd3RHFoUlQtb19KQnlvZ1VCWEZ2UG04NG0tZDloWVlTVjk3MHUtQU9YZWNRYW9oT2VGdFhTdw?oc=5",
-   "published": "2026-10-25T21:11:11+00:00",
-   "id": "ce1fef8bec92",
-   "impact": -4,
-   "cat": "taux",
-   "raison": "Hausse des rendements des Treasuries et spéculations de hausse de taux pesant lourdement.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7821,7 +7821,8 @@
   "news|7ce625dc28ab": 1793063258.3723533,
   "brk|DXY|pwh|up|2026-10-26/2026-11-01": 1793063768.9859774,
   "news|95ed2b71dcfa": 1793065600.2419698,
-  "brk|COPPER|pwh|up|2026-10-26/2026-11-01": 1793065601.6024861
+  "brk|COPPER|pwh|up|2026-10-26/2026-11-01": 1793065601.6024861,
+  "news|8553babd6245": 1793066295.743033
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8020,6 +8021,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T01:58:15.743116+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war</b>\n📰 CBS News · Lun 26/10 14:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNU1NNM0tTeE1oc2ZkTUdxRUlwZ2h1OFpGdWd0bjZqbmYxb0NkM1JpVEF6Sm0tQzBfU05IZ2pnb2FkaXVGQUc2Y213MWJWclA3cl9tT3BlZlplek9rTlhGLXNrdzZPNHEtc2ZCU0pxWXJ3NHowTXgxN2JVekgyM2RRYlBmM2YzbW5jdTJMWGFLODZYSnkyb3BxNHhtYWY3dw?oc=5"
+  },
   {
    "ts": "2026-10-27T01:46:41.602551+00:00",
    "kind": "breakout",
@@ -8314,11 +8320,6 @@
    "ts": "2026-10-26T09:31:26.529009+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>On the financial costs of Trump’s war with Iran [letter]</b>\n📰 LancasterOnline · Lun 26/10 10:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZHY5QktFR3ZWZ2p4TDA4dWNzRmhXcUYtZ3lldjNGSTNZMlpBR25pYlk4Vl9RcW9YRHFsaFpQRTFZMVROb0dKbGRka3d6NTE2NWs0d0d0NkhWRklaejY5N0Iwd3BUYUhsNFdjSkdaSzF4el8yVVZ5VG5kazlveTZKS3dDTnUtUEV3REFTb09mRmNfQ29vZzdrNWRRbVhEVEtVWFdBQm5GZUx2VkszYnBpZnRVa0hpRnprSkQ0V3A5LTd4eExEczlDLXVINVh4SldOdGdMMUozY0VjTDJoTUFxMzU5MVMzaldHc3V5X1FuYw?oc=5"
-  },
-  {
-   "ts": "2026-10-26T09:16:06.762747+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi, Turkish, Pakistani Officials Set For Iran Talks Amid Houthi Attacks</b>\n📰 Radio Free Europe/Radio Liberty · Lun 26/10 06:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
   }
  ],
  "daily_forecast": {
