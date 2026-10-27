@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "2c93617e53e6",
-  "b2e97f72c9a8",
-  "63a705443617",
-  "8397ed3935b9",
   "5a40b1294370",
   "4884195bc786",
   "6456b02fc122",
@@ -4044,9 +4040,25 @@
   "ebd4d9b29727",
   "0e1aa2f020ff",
   "619d3aaa4d21",
-  "46d56e7edff7"
+  "46d56e7edff7",
+  "275401556ca3",
+  "c00e7c967ccc",
+  "66c5c3ec33a0",
+  "ead9818b0152"
  ],
  "news": [
+  {
+   "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
+   "published": "2026-10-27T16:04:08+00:00",
+   "id": "66c5c3ec33a0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "How the War in Iran Could Escalate",
    "source": "Time Magazine",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
-   "source": "Bozeman Daily Chronicle",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQU1yUkJzSzB0bHhoSjB1SWVZcHBuQTNwdHE2UVUzZ1VCZHB1RkRaeVV3YndKRnd6WE9KZWVORFQ1cG9lZG54Z091Si1kb1pWY0hITjNrdnFCRnZ1WktrMWZaaElaVFo0Unl0RUc1T1JsTm54TGRoZ3d2eEdua0txd0FGQlZkTDNsTGI0cmp6bWx3OFJVNUJWb0lUT1VwallWci1BQ0U5djBvVm5YM0gwMTU5VUxHSlFrRk1jeUpyODVESVprdUp5TzJLUzNZSlVPX1l3TkIwYlB3eWhlQzNGNk1DM3dIZndIVmFNYUpFLW5hZjE3UXlKemhibGhUb3huaF80cjJkMnNOQUE?oc=5",
-   "published": "2026-10-26T10:25:42+00:00",
-   "id": "fa289321caff",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7846,7 +7846,8 @@
   "brk|GOLD|pdh|up|2026-10-27": 1793110581.3725493,
   "brk|US10Y|pdh|up|2026-10-27": 1793110582.2519422,
   "news|74b01b9e6b20": 1793112367.4113877,
-  "big|COPPER|2026-10-27": 1793113299.4995475
+  "big|COPPER|2026-10-27": 1793113299.4995475,
+  "news|66c5c3ec33a0": 1793117763.925839
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8061,6 +8062,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T16:16:03.926023+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans</b>\n📰 Reuters · Mar 27/10 17:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5"
+  },
   {
    "ts": "2026-10-27T15:01:39.499610+00:00",
    "kind": "big_move",
@@ -8355,11 +8361,6 @@
    "ts": "2026-10-26T13:49:13.684895+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 53.711 → prix : <b>53.700</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.82 | 60j 0.83"
-  },
-  {
-   "ts": "2026-10-26T13:49:12.800650+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 53.711 → prix : <b>53.700</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.82 | 60j 0.83"
   }
  ],
  "daily_forecast": {
