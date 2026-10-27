@@ -1045,14 +1045,6 @@
   }
  },
  "seen_news": [
-  "a2e60152e63f",
-  "da811211805a",
-  "ddc2d4c9875e",
-  "173505e5050d",
-  "cb454189872d",
-  "fde4c6234a3f",
-  "f3933ad9252d",
-  "099f1b0b08fe",
   "97d3a4c66e94",
   "2ba8da4a4261",
   "c800b160d9f4",
@@ -4044,7 +4036,15 @@
   "45738f0be5be",
   "0fd2000b41ca",
   "47c180af2ca7",
-  "1a9fd0184144"
+  "1a9fd0184144",
+  "da24033c1695",
+  "cb60f8681835",
+  "03f51d0f8822",
+  "7ae499cd1571",
+  "1a6cb8c3a77d",
+  "3ba4f2955c53",
+  "4ff04beb1deb",
+  "f30cda80299e"
  ],
  "news": [
   {
@@ -4054,10 +4054,46 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR3NEblJUV2RBUzV3MXZiRnJtMy1YM1dxbFBCN0lUS0RqM3JtdkZFdkFweUZ3MV9FWFlnek5yNkxabXBmUW9sYWIwQ09XbWVVbERtd3BfdFBCZnpUcVVWNnNXS0kzMmMycmZMdVdLZG5BcEN1dllzaGNHVDhGcjRoaWtvNHk5dVVTZnRfUkhDN0dhSV82Y1EwWTNmSGpzSHpNWlpOZTJBTEYzenpNcGxJeXVBd2VaMlgzUE9fbWtWVVh6NVlRMWVwVUU1SGpjcFdfX0R6bEJNWmQ?oc=5",
    "published": "2026-10-27T18:24:23+00:00",
    "id": "45b6034eaeb2",
-   "impact": 10,
+   "impact": -1,
+   "cat": "commerce",
+   "raison": "Désescalade commerciale partielle réduisant la prime de risque et le statut de valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Ukraine talks in Oslo fail better",
+   "source": "Peace Research Institute Oslo (PRIO)",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9STm9KNFRLNXhEUnBZaXlLRVByRVg0bUNUWE8tdjlUZnFaUl8yTDRCUGgzQU82bzk5MU5raGVmRGFNTE13N2ttUVR3?oc=5",
+   "published": "2026-10-27T17:54:52+00:00",
+   "id": "4ff04beb1deb",
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
+   "raison": "L'absence de percée diplomatique pour la paix préserve la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "Egon von Greyerz on the Swiss Gold Referendum - A Yes Vote Would Be A Shock in the Gold Market",
+   "source": "GoldBroker",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTRjUXo5aWhmWGlLRFhQNXp4a1J3UTEzY0RNTDhCR082NXBEbXBTYzlqVi1vQkJzYjVqWTlXQWpvRDFoS3R1bUZZQ0l3ZnFBbFpCMzNEel9yUzRPcjlpci10M0FTYVIzWnhhR3dTVmtwSEpSTTZHZG16SUlqNDl5WThqOElpTzBJaDZ3b0p3a2tDeVZVSU5YcTc2czdQOWRpRy1qbG8wSWoxQVJjOW9kMW5MaVlHc1Y4STlCNE9xX1RmMnFERkE?oc=5",
+   "published": "2026-10-27T17:43:17+00:00",
+   "id": "cb60f8681835",
+   "impact": 1,
+   "cat": "banques centrales",
+   "raison": "Commentaire d'opinion hypothétique stimulant le sentiment pro-or sans catalyseur immédiat concret.",
+   "method": "IA"
+  },
+  {
+   "title": "Indian Lenders Defer US Dollar Debt Plans Amid Rising Treasury Yields and Hedging Costs",
+   "source": "CNBC TV18",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWV8zaFAyQ0ZKNjFPQk9ydE1ubjdMcXl6eEk3UkMyV0F5SzQ2aHFHXzhDUnhnWnMxczdlQlFNQ2tackpRZVV4VG8yYTlGRzQ0ZnVKaUxvb3ZnZHNpMmN3cW9GVnktdkliMDQ3YjZXMzlHLUlLdjJwdi1waVZLOWdoRjRJUGZoN0EwYW0tc3F6XzdLMzVhN2c5QVJoWWV1ZjV3YXdOUE1Nb1RzZlNzMkNBbHNWNNIBuAFBVV95cUxQbHRVV2FKUHJDc0QzLVJZcFlEQmJVSGhNZ0JYVHYxbm9vSkNYRzYtZm1YWjltQXh3R3hBb082bjNDNy1LUEc0MHc3M0tZdlFYS1ZRRXJWRXlOZTBWX2NHdTFiQ1hPOWpTQ1VyYTdJbGpUNUVyTG5XTm9OSmVMc3dza0pyLVd4YlJ3Y3hsRTJqczhsSzlTSmNodWdWTmZKN3l2dU80R3JuODdSZ1JpaVByYUhqYXJCSFRI?oc=5",
+   "published": "2026-10-27T17:37:52+00:00",
+   "id": "f30cda80299e",
+   "impact": -2,
+   "cat": "taux",
+   "raison": "La tension sur les rendements obligataires américains augmente le coût d'opportunité du métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
@@ -4066,10 +4102,10 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2M5OGFiak5tNUNUVzR6ang0dy1MV3FtYl95SjNZUDY2c2x2aDF0OE5TT2xLdVV4MmlJYTdtV2RuUHF2emhmVHM4SzFudmRGVXA3ZU5BQ2FkaVd6ZW1FcHNLaUlSdHlIWW95UlQxNGdxVGFKUUljWjhfQ3ZOQXlzQ2Y1QjF4cW8?oc=5",
    "published": "2026-10-27T17:18:00+00:00",
    "id": "f52eb8b1e052",
-   "impact": -6,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Progrès diplomatique et cessez-le-feu local réduisant marginalement la prime géopolitique sur l'or.",
+   "method": "IA"
   },
   {
    "title": "First lady Melania Trump says Ukraine-Russia ceasefire expanded within Kherson",
@@ -4078,10 +4114,10 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjRfZjIydmRqbFpXUzdxTTVZbXpoSEkwaFByRHhtU09xa1dBbzM4Si03S3BkV0UtOU9pMWVLZnpDNV9XX3JkQXlvbF8zR0RZZGFSaklSYjZ4OHdnN21PcFRRdUxiT0t4YWxDU2x1S1EyVkFYbUl5aWd4bk1zR2dONQ?oc=5",
    "published": "2026-10-27T16:46:09+00:00",
    "id": "dfa8cfe40484",
-   "impact": -6,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Extension du cessez-le-feu local en Ukraine, apaisant les craintes d'escalade immédiate.",
+   "method": "IA"
   },
   {
    "title": "Trump nears Canada trade deal as tariff talks gain steam",
@@ -4090,10 +4126,10 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2Y090dFlmWW1vOGNPRzBZc3dfRTZwSVN4TFRUeldhc2lubVpBbHRSQzlkbjhDNlpjcXNQTEEzcEhpZUlFZnBDU2t0dk5wZ2dXdVZWZGdHZGJsa0E?oc=5",
    "published": "2026-10-27T16:44:54+00:00",
    "id": "f20b2d27dc5c",
-   "impact": 1,
+   "impact": -2,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Diminution des tensions tarifaires canado-américaines, favorable au risque et défavorable à l'or.",
+   "method": "IA"
   },
   {
    "title": "US first lady says Ukraine-Russia localized ceasefire expanded within Kherson",
@@ -4102,10 +4138,10 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUt3MFZuNUZpYnZMODZmWEVJTXdvN3lfTjBCOTB1ei04SDdWTWIwOElRTTVwd2VJUjZZYTY4QkFHUl9ieU55TEdoVlZWZk43LU9rdG9LRjRYQlltSWRjcm5HSzEzY3JhZy1RVWdsOURZcTdNcFpUTFJyVHBtek5sOGJDMWJYeEdkLXVrZmlMbVlQcGZFNWR6UGE5YjVnQTdqYi1UNTRFeTV4RmFDclVHRzE1bkpUbTBkVDc3NWs2Z0piWGdHbmtnZw?oc=5",
    "published": "2026-10-27T16:43:25+00:00",
    "id": "cf5f2679adda",
-   "impact": -5,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Expansion d'une trêve locale réduisant modestement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Russia-Ukraine ceasefire in one city in effect after Melania Trump, Pope Leo appeal to Putin",
@@ -4114,10 +4150,10 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeHgxNUp6TllQdlZVNUlUbjJIWVRnYU5uajhhUUNIWWItcnp4VkQ1dUNybDB3ZzRZS2E4M0tjUnpZZ25FQUZqaXFtZjZuM3ZaYmRENFRqcGk1M3dqbWlKVXEwOXNfYVFzVGxCQU8yYVpaOVZCaDFIbEpiTlVqZ1ZMNVV5dFJYUVg2RHhWVFR6OTNPUEFWOVREazJvbGpjaXpVQ0NXTUZCOUpJTVR2YUpCOXVNdFpET01MUENlXzVvTHY3RUl5TjZuOFJ2OXc?oc=5",
    "published": "2026-10-27T16:31:15+00:00",
    "id": "29132e4f97e9",
-   "impact": -6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Cessez-le-feu très localisé, impact limité mais légèrement baissier pour la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
@@ -4126,10 +4162,10 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUpyTTM2TU5YNVRXWmxZMzUxQWVIN3d6Q1lxczFqd253Ylc5NFlYQ3pnRVdHMUhBVjZsN0JFenJiaDlTT3h6M1J2NW1OR3hiakxTNDFfTHRfSnhCNUJ0ekpZVVh1Y2hscE8wSUdqZE9rOWNOM21CVnR5a0NYZGFQakZJem1WOHlIZVZZOEJfVWdKZ2szM1V0WWJvcmJuM1FHNGtCZ3JWWlNZWTNnbmZSaDJPaW5kTllDTUk4RzJyWG9DaU54eVZB?oc=5",
    "published": "2026-10-27T16:30:00+00:00",
    "id": "bc9b248f61a6",
-   "impact": -6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Lueur diplomatique et trêve locale atténuant temporairement la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Exclusive: U.S. Diplomat Suspects Trump Tied Netanyahu Nod to Iran Strike Delay",
@@ -4138,10 +4174,10 @@
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OcmQwdWVyX1FURXlMbFBOd2FYeUVqLTFuSE5VNnFWUXRzal9rN0JTSl9JVFppZHJYbjNwd3ppZUFJZw?oc=5",
    "published": "2026-10-27T16:14:03+00:00",
    "id": "3456fa4e6211",
-   "impact": -4,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "raison": "Report des frappes contre l'Iran, repoussant l'escalade militaire immédiate au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
@@ -4150,10 +4186,22 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
    "published": "2026-10-27T16:04:08+00:00",
    "id": "66c5c3ec33a0",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Dialogue diplomatique accru réduisant marginalement l'aversion au risque global.",
+   "method": "IA"
+  },
+  {
+   "title": "Inflation measure closely watched by Fed seen accelerating in Sept - Truflation",
+   "source": "Yahoo Finance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3JtNlJibmxSRmhjSHNaSHBDQlRmSjJxT1VjTElwbHA5UzYwNmRybVVUY09SQWdhN1BJdVRzZndHWDRkZktWd1RkQ1Rja2VfUXNaRlNTQ09rN3lZdk5wWnpRRnI0SWljZ2t0WXlZa0U3Z2U3b2NaMlVMQ0ZsOXdlNWwtU0ZCZ2ZnU2FVNVpzVUFjaS16Z1Q2eWZ5R2N3YndJX09MeA?oc=5",
+   "published": "2026-10-27T16:02:00+00:00",
+   "id": "7ae499cd1571",
+   "impact": -2,
+   "cat": "inflation",
+   "raison": "Un rebond de l'inflation repousse l'assouplissement de la Fed et soutient les rendements réels.",
+   "method": "IA"
   },
   {
    "title": "Supreme Court Rules That Trump’s Sweeping Emergency Tariffs Are Illegal",
@@ -4162,22 +4210,10 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa09Gd3lobnhkX19sYVlEbE90UTdPTV9SczhXRndqaVU2RWJheXJQWkhIcElyb29fa2hndFFWMy1qbEYzcGtOdUgydXlxbEwzeThmQTVpVmt3S21FZnBkaGh2LU5IX192WnVReUJoZ1pBaWZ6RXBHU09CMzVhMUhHeTZDTmRTc2tnQkVRbGh0UjdZV2lVUkJBV3RKUDJhY2pWMXdB?oc=5",
    "published": "2026-10-27T16:00:32+00:00",
    "id": "47c180af2ca7",
-   "impact": 5,
+   "impact": -3,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Understanding Trump's tariff reversals",
-   "source": "Peterson Institute for International Economics",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHQ5ZHJrMHNTSU14WVQ1UTB2LW82d2JHQlRibVV3U2VmTWpGZW9LcmFxaVdYalhuVWRUT040SzgxYjFmRHhyd1NfNDd1VGtRZWZvSTdGNXktY3Y2U3U5VHRPd0YxX0R6TzVRY3JVZVlsSjItdDNZbW5HWHhtRFJlM0xoZ2ZZVk01VjNSM3h3ZVM1dw?oc=5",
-   "published": "2026-10-27T15:51:41+00:00",
-   "id": "dafe0cdc12ae",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "L'invalidation des tarifs réduit le risque d'inflation douanière et l'incertitude commerciale mondiale.",
+   "method": "IA"
   },
   {
    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
@@ -4186,10 +4222,10 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDVKNHJCemJmeWhwdU90TEp4d25ST2xFWk00MmNlanhyMGVBQlMtbUc4aGlydFlIVEplN3JUdV9TZEQ4bnQwelladTVoOE5RbURubUpHa0JhcUw2Q2k2TzNUMjF0UURQRHBzZ2hzT0JQY3BCVldDdXdmc0tDMGEwWmZGNFlQaU5iYWVOV09lc1pNZEc0WjIzenBhVTY4T3pTZlHSAacBQVVfeXFMTWhvLS10MTdQZ3V5VjJVRnFsUjFKVXo0QktxWkxkMGVRNU9KdmY0NXh4eTZma2pfaHVtSnBWNGhlTkJvYTc2ZmRicVZBbmlCRW9hX1dWTnRtWlhhS3NuZ0l5Z2tWNWtNQzN3MGhVYnVfMFhoRGpMbmJDby1XeVJRNl9jRjlvenAwVHhqYzJXUzBRVTkzMnVtS2xyYjlfWDBVMk1sUzkyVzg?oc=5",
    "published": "2026-10-27T15:45:57+00:00",
    "id": "85ed74f233a3",
-   "impact": 4,
+   "impact": 1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Craintes de perturbations économiques majeures liées aux tarifs, léger soutien valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
@@ -4198,10 +4234,22 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWQ?oc=5",
    "published": "2026-10-27T15:27:30+00:00",
    "id": "81e5c46fc24d",
-   "impact": 10,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque persistant d'escalade militaire avec l'Iran et menace sur le détroit d'Ormuz.",
+   "method": "IA"
+  },
+  {
+   "title": "Ukraine faces loss of key US-affiliated satellite support amid tensions between Trump and Zelenskyy - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2MwekRHZ0dmM2x0a0dCNTJGb2hMXy0yRk40bmpGM2NOZ19PdVhyUkU0WFhRcDR3RzJPdktid0VzbDJkTmNFM1o1T2R3S0Jmb0FvTm05aF93elAyUTBITnBxYmoxdWc0R2tJb2RjYzg0SHkzNFpQWmFCcTF6cmJwdjJuUlBUQnRMTDgwOEgxakp3Z1pKSzRNWnFUa2VZMFBjZ201ctIBqgFBVV95cUxOTmtEWV9mWkJ4bnAzN1BocVZoOWw0UkxkRzJCM2xNSU1ycXh1ZW5hVWdRZ1NSVklFZ19ITmUzdF92dzIxemZUVEk5Ukx4U1dLUVRWVzFlMTN0RkptaHlQdnRoSGRVYmdPNHFSN2d5N2ttMVBCVHpHMzBMblJFbzdtc3ZPenU2SWxIbElEV1VKN0R0TU9rSy1objdzSkhaMWQ5YkxsYWplaUZZQQ?oc=5",
+   "published": "2026-10-27T15:01:21+00:00",
+   "id": "3ba4f2955c53",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Incertitudes militaires accrues en Ukraine et risque Trump renforcent la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "How the War in Iran Could Escalate",
@@ -4210,10 +4258,10 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xQWhzR0ktMDFnUlVBRWhEWnhsNU1TMC1Rb2lNTzBpUnB1cVh5aERIcC11SVFFUWNWOEFqaE16cjcyNGJHdFAtTGhkb1MyaFhsN1Vfano1alhybjN2a2tvZExweHMxQTVCd1V6ZllRZkZvZC1Zb2lQVmFYRQ?oc=5",
    "published": "2026-10-27T14:59:56+00:00",
    "id": "6322c8348c76",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspectives d'escalade d'un conflit armé renforçant la demande d'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Oil falls as Middle East talks outweigh concern over fresh strikes",
@@ -4222,10 +4270,10 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkRSSnhZS0hONm9MdE1qcVpHMjFlY254SEt0UjF2WnFfQmpRYXlSY2pJeWMxTzR5SF9UQWxhZlNGbVZObDNlaFV0QnhsZ1dMV1RPR20xal94SE42cEsxd1YtMGk3MEdldUZ4SGpraThFcWhaZWJ5NGR2aHJqNjd4bnY2TQ?oc=5",
    "published": "2026-10-27T14:24:30+00:00",
    "id": "45738f0be5be",
-   "impact": 6,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Baisse du pétrole et espoirs de pourparlers réduisant la prime géopolitique et inflationniste.",
+   "method": "IA"
   },
   {
    "title": "Norway and Finland hold rare call with Putin to discuss ending war",
@@ -4234,10 +4282,10 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
    "published": "2026-10-27T14:23:05+00:00",
    "id": "cfb15f7d3f01",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tentatives diplomatiques européennes réduisant légèrement les tensions avec Moscou.",
+   "method": "IA"
   },
   {
    "title": "Russia and Ukraine Trade Drone Attacks Despite Local Ceasefire in Russian-Occupied Oleshky",
@@ -4248,8 +4296,8 @@
    "id": "942563916bc7",
    "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "La persistance des combats fragilise les espoirs d'apaisement, maintenant la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "What the US says is in the potential Iran war agreement - ABC News",
@@ -4258,10 +4306,10 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV?oc=5",
    "published": "2026-10-27T13:56:52+00:00",
    "id": "55bb6c2bce0d",
-   "impact": 3,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspectives d'un accord sur l'Iran diminuant le risque de guerre régionale ouverte.",
+   "method": "IA"
   },
   {
    "title": "Photos show Ukraine's Starlink was throttled during Russian strike that killed 5 in park",
@@ -4270,22 +4318,10 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjlESGNFdXVmNG9RelZfdWVPLUZZV0dJaXFabjZIQ2NqZ1g4YVlxUmN6TS1iN3dIZzYwNkZTSTljU1ViVXV5QXhWbjVVTmJvTTg3RmNyMzAybjZDWmYyM3ZlMVdMdmZCM0NhRGp4akFfRkRFakFZcHlPeEFCNE5oa2JSNC1Oblk2S3RFdTJJS0xtcVFQaUZv?oc=5",
    "published": "2026-10-27T13:54:37+00:00",
    "id": "ebf8fd4f0b76",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNVQW5uV3pYd3hISHo5Q2YtalI4U3pOM2FSbTlXX2FOclZ4a3hxRnJxN3dLRGctdnM1ZFctX3RCQWYxdDRCOXdXcVluVmJMNDVVTVRXc29ybG1XNE9VQW5hTFpRbG02T00tdno2cTV1X0x1QUFGT2IzeVM5SHhnbjN5ZHJYUjZYT2lyZzNIbFllREVPcjA5Tm9xRHF2aUQ0NG9iOVRfSTVpQnFoRlhJ0gG0AUFVX3lxTE5aMVc2Mml2aDIwRGpFTHRyM0RlQko5d1lGMXdGVjZOM0NyMVlaamJPbG50SHFEN0tPZXZfMVR3VEpmbWJsSWw2NW1qeVlpWGJ6aVlYdjRqX3ZwOERmb0VtWnIwNHo0ZlpLUjdrb2Fncl92MldnM053WVpsT0liNjlhN3haVC1oVjBpQVJXTFlXUVZkbXRDS0pMZUh6eGd1T3hIY0JyQVlNMGpkd2VyNWhTQWx5Yw?oc=5",
-   "published": "2026-10-27T13:45:15+00:00",
-   "id": "f5e659c0e215",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite de la violence meurtrière en Ukraine, maintenant un niveau de risque latent.",
+   "method": "IA"
   },
   {
    "title": "S&P 500 rebounds as US-Iran escalation fears fade, but bearish drivers remain intact. What's next?",
@@ -4294,22 +4330,10 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc29hcGhzN0dlMW5BckxRTEM4OVNWYlJhcmtEczdXZ0pXYV9vZFZSTmRub2NfRlV4VG0wSGpQVC14MzQzMTR4OF9taUhzaHhGZUlmVjQ4ZFNwOTZuX2NxWm0tQXhmRGppZTlaRW85aFdJQVhfTVZUS25GcldtS2o5Z1VQclh2bGQ2amcxWnd3b0kwTWpiT3ppM0RNdF9hOG5HUHIwWlItUWJtUlVja3hfb0c0YXg2YnpvWjVad3hCbGtWRFVneWNxRA?oc=5",
    "published": "2026-10-27T13:29:43+00:00",
    "id": "63393323a984",
-   "impact": 3,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia, Ukraine begin ceasefire in city of Oleshky as deadly strikes continue elsewhere",
-   "source": "CBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wRnRCLVlCaUZxN1NodnhOdFVoaU9kcmRJUEw3d3A2LTVjanJqeS1iNWlFZDNtRGNUTWxUMU1jN0wzdjhzUjVKUFZPM2JkMFJ5LXBvQTB4b1N0OEFfQ0dQcGJZT2VpTWpSMzF0Z1czZWVrYjVFdlJmWm9OUnI?oc=5",
-   "published": "2026-10-27T13:29:14+00:00",
-   "id": "0153c0845446",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Apaisement des craintes US-Iran et retour de l'appétit pour le risque boursier.",
+   "method": "IA"
   },
   {
    "title": "Iranians brace for renewed attacks after Israeli, US elections",
@@ -4814,6 +4838,18 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Trump tells Israel not to repeat strikes on Iranian energy as crisis deepens",
+   "source": "DD News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmdwTmhDV24zRDdoVERqQWpabndjT01GMlo5WVJFc1liUzhvTTllTmlhZGlKTlFhbmp0OW5LVWhJVC1SQzZmeXlhTHludkRqSGhNa0VjMHRmc2JEcGlMNG1PakthX3dLUU4tQWhsUnN6Y2VqTHdzM3cxY3ZDXzRqdFlwd3RFb05HelRWNExlWkNFUmZPYi05ck9VcDB6UjB1ODNDSQ?oc=5",
+   "published": "2026-10-27T07:11:30+00:00",
+   "id": "03f51d0f8822",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "L'aggravation des tensions au Moyen-Orient alimente la prime de risque géopolitique sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump Orders Talks on Wind Turbine Imports Instead of New Tariffs",
@@ -6409,42 +6445,6 @@
    "impact": 10,
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump administration to exempt Canadian products used by Maine farmers from tariffs amid close Senate race",
-   "source": "WBUR",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcklVdGQyVzRUcEx6WmhhdkpQWlFLVENXckZMSzNtT1RzRHpXUnB3clhma2o3YllMLVROQUVxQkppdjA0cUZ1N1BaZXlaTy1vWHh1elVQSDgwbEhuTXg4TTV6VmNFcFZMcFJIN3otM2s1MGNVcjZoZGJkcmJXSC1tUi1JcEc1WEstVWx4cThfd2pfVEE?oc=5",
-   "published": "2026-10-26T12:19:56+00:00",
-   "id": "279d62025c03",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "President Trump announces upcoming Canada trade deal, lifts certain tariffs",
-   "source": "Fox Business",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeXM5czhBekZ1SVRrTjdLOFhFaWt1azNQRThBSFY4R2dTRWw1T1pRLXhzMlRyM00wdExFUzFvNVF5ZzNDZ1BTbkZzUzZfTUFfakZGTHVVMkhodm8?oc=5",
-   "published": "2026-10-26T12:18:13+00:00",
-   "id": "bb6b9a7fcf85",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia to stage World Weightlifting Championships, first major hosting since full-scale Ukraine invasion",
-   "source": "The New York Times",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3FNS1ZhOURJTHk4S3FtVkNWWUszTE9rWlgxNml6c3RheURtV2t5N3psM1JUbEs3bm1GS3d5c1JBUDVHYlZxbjI2QUw5UGJ4TmhGTE8tc1NxMGVhTHhOWXpvMGY1ckhWcENlNjBEcG85Yk5uaWQwZG5uV2t3eFYtYi16Q2paLV9DZ1M5SzFCZ0YtYWI1NVZwNg?oc=5",
-   "published": "2026-10-26T12:17:21+00:00",
-   "id": "a7b6e0525783",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   }
  ],
