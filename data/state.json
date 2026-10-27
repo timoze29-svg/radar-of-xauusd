@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793066263.860002,
+   "ts": 1793088073.3499808,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "0cd2b7038d11",
-  "12d0983a3fd9",
-  "3675399c0e40",
-  "e89c460ed1ec",
-  "08619e929ea6",
-  "a49878e2c22d",
-  "5cffd349b4e7",
   "adf703d3b23b",
   "56c5358d64ce",
   "058cb7f73311",
@@ -4044,7 +4037,14 @@
   "bfa063eab0d3",
   "16b296322045",
   "cc66b3e08d02",
-  "9c0bbca1e194"
+  "9c0bbca1e194",
+  "db4c1c28dcdf",
+  "bb8d71147d97",
+  "f7a505b589a8",
+  "dc85961dd1a4",
+  "463391455f85",
+  "567d6e07f00d",
+  "2c2102ba4668"
  ],
  "news": [
   {
@@ -4514,6 +4514,18 @@
    "cat": "géopolitique",
    "raison": "Menace imminente de guerre ouverte avec l'Iran déclenchant une forte ruée refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Australia CPI Preview: Core inflation expected to exceed forecasts for consecutive periods; over half of rate hike pricing already reflected",
+   "source": "Moomoo",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeTZqZnR0WlkzTFRHbU9UcVgxMlpVOGdGUHo0eVlONVhGWlJMSWJYXzIxdVRTODFoSFVFMWc1dHlsMUhJUGR5elMydHhDelRudENoTmpKV3hKSFg0X1NkS0JxSVpEME5acEsyYUEzdU4yZjd2bUF1MnZaWWI4Ny1RWFFTYlozQkZxVVptQ1pWdHZXWmNaRTRVWDNBc1F2WElzQWJKR3pFRjl2V3BXd0wwRTZFaw?oc=5",
+   "published": "2026-10-27T00:26:56+00:00",
+   "id": "dc85961dd1a4",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Vance’s ‘tin-pot dictator’ gas price remark draws Trump comparison as Iran war drives costs higher",
@@ -6433,18 +6445,6 @@
    "impact": 1,
    "cat": "autre",
    "raison": "Aversion au risque globale sur les actions favorisant modestement les valeurs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil declines from six - month high as traders assess Mideast risks",
-   "source": "businesstimes.com.sg",
-   "theme": "Géopolitique",
-   "link": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
-   "published": "2026-10-26T05:00:00+00:00",
-   "id": "56c2e2048b8a",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Détente sur le pétrole suggérant un repli des primes de risque géopolitiques.",
    "method": "IA"
   }
  ],
