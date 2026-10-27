@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "add174a96c20",
-  "31886e9fcdc8",
-  "a134bf9d630a",
-  "3797f255e119",
   "dc8e55f41e0f",
   "74954f98f193",
   "db5fefdc7ffe",
@@ -4044,7 +4040,11 @@
   "04c5d72c16cb",
   "0454acb154e8",
   "9c48ad4ffa43",
-  "a14b4bee1083"
+  "a14b4bee1083",
+  "bbf380a35153",
+  "3238b56e871f",
+  "6264c4acbe56",
+  "9891ea63bb10"
  ],
  "news": [
   {
@@ -4787,6 +4787,18 @@
    "published": "2026-10-26T15:15:45+00:00",
    "id": "028a609c28ba",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "In Egypt, Guterres warns against Iran-US escalation",
+   "source": "Global Issues.Org",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1La2VkWTlqajg1SDZnTjhRbzVRNjJTU2xoM2I2VG9feTBjbmN4d0dBZ0hMQTZQTnZuX2wtZmktRWEzcVZIaFgwaEFTTEo5cUNkdnM0T2NsWWpEU2pzdWNJ0gFkQVVfeXFMTXdfbEY2T0NXdC1yZmhPRkxZU1ZoUlRVTERJTlM0U2RUUW5VbElqOFBqdldFUEU5d0gwcU93VE1PS2pIZ3N6clZPMG1OMHlhSVltUUh0cTZualdsQWd2d1pDYXVmMA?oc=5",
+   "published": "2026-10-26T15:12:16+00:00",
+   "id": "6264c4acbe56",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6434,18 +6446,6 @@
    "cat": "or",
    "raison": "Baisse des cours tempérée par des achats physiques opportunistes en Chine.",
    "method": "IA"
-  },
-  {
-   "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
-   "source": "Fox News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEpKSGFOVGozVnNXR0cyU3Uzc0ZsX2EzZ2RwZDdhNXlVYklkbWt0M1lCZk56M1UtbmpHeXBYZWdoNG8yOHhfZlBhR1JLeTYwVndtYWRiTFNyS0NNRVpvOGpRcDg2bktyV1Rva1dadUFmRUszSzA3TGxJTHA4X0t0QlJVS0VMUExUeHFJUnMtckxlYnlmYnNYNUpaWXlBb1M2OEN3T1VZempvcVpUMGc?oc=5",
-   "published": "2026-10-26T00:42:24+00:00",
-   "id": "c0f8d9b6d301",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7824,7 +7824,8 @@
   "brk|COPPER|pwh|up|2026-10-26/2026-11-01": 1793065601.6024861,
   "news|8553babd6245": 1793066295.743033,
   "news|f9557448e611": 1793067373.8748484,
-  "news|6432d85ec529": 1793071885.9855275
+  "news|6432d85ec529": 1793071885.9855275,
+  "news|6264c4acbe56": 1793074561.5427086
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8023,6 +8024,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T04:16:01.542771+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>In Egypt, Guterres warns against Iran-US escalation</b>\n📰 Global Issues.Org · Lun 26/10 16:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE1La2VkWTlqajg1SDZnTjhRbzVRNjJTU2xoM2I2VG9feTBjbmN4d0dBZ0hMQTZQTnZuX2wtZmktRWEzcVZIaFgwaEFTTEo5cUNkdnM0T2NsWWpEU2pzdWNJ0gFkQVVfeXFMTXdfbEY2T0NXdC1yZmhPRkxZU1ZoUlRVTERJTlM0U2RUUW5VbElqOFBqdldFUEU5d0gwcU93VE1PS2pIZ3N6clZPMG1OMHlhSVltUUh0cTZualdsQWd2d1pDYXVmMA?oc=5"
+  },
   {
    "ts": "2026-10-27T03:31:25.985596+00:00",
    "kind": "news",
@@ -8317,11 +8323,6 @@
    "ts": "2026-10-26T10:31:22.477228+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Attacks Bill Maher In 1,300-Word Post Days After White House Dinner—Calls Him ‘Coward’ And ‘Pothead’</b>\n📰 Forbes · Lun 26/10 10:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX1F2TTgtUzV3V2hXYjVkQWx3RGdwT3g3MXZpVXdreW9WQk9jSEdKZkxfdTFEYzNoaXRZYkVxQ1FxUjQtOGw0LUhZNjYtbnhUOWJJOEhhejBZMXNXU1FPQ0xEYnYzdVdGSnlDWWNSUVFuS29nbGltREUxaEV3WXJxMXVzUG1hcnVDQ1N4NHkxckxxNmptV25TMGZvdGt1UUFvbGt5NEpMQW1nTEF1N29NYTM4c1RZb2NsdWV3cGhRaElSODhPOVdBUC1zM05oOHpaUjZBa1hKLUs0WDgwZE1iS0U2aWRhMk84NXRR?oc=5"
-  },
-  {
-   "ts": "2026-10-26T10:16:09.997249+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed to pause rate hikes ahead of US midterms 2026? Seth R. Freeman explains why a December rate move is possible | Expert Take</b>\n📰 ET Now · Lun 26/10 09:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPWFFwN1VvdDBob0dpdkpxQXlWQVZMZ1ZVek1tRWZvUDBwWWQwNGhYRmgyMVZVRmgwZGZPWHJhRXlxQjhFYWRNNFVkRGhHeHE3RlZteVRiVmg1eXFucmFYYmt0RV9GRXJuYlkyZkNkMzJXR19zNnNzUmJicGtEanNxcWlCS0lLM1JKTHQwTjF0X3puLWNEM0F4TTJaUDA1bkRPWHVtOWtmWW10NnNRWnRIRDJuTEtXSTlFc3M3akZWYTZwaVRXeUhMR1dIUW1UOEp3THgwc0FPc0RxSWtZS1BoVTdEVXBKUEljRjNLbURpbmszWDI3MUpOMGtTc1J3Yko1WTVCZQ?oc=5"
   }
  ],
  "daily_forecast": {
