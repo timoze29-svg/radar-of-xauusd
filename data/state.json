@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "9bc9a180424e",
-  "a822b654675f",
-  "c2db52100e9f",
-  "6a9ebfa954e3",
   "e5ebc04b5ad7",
   "229e2c7c5a95",
   "1612fb6f6db2",
@@ -4044,7 +4040,11 @@
   "4b9121a6c429",
   "5b97afd5da91",
   "b35152fa0197",
-  "54eedafd56bf"
+  "54eedafd56bf",
+  "f2bdec77e5ea",
+  "c36be5d4b65f",
+  "2669da7dbcd4",
+  "0cf0ca3b325c"
  ],
  "news": [
   {
@@ -4105,6 +4105,18 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel’s Military Chief Reportedly Opposed Pre-Election Strike on Iran",
+   "source": "The Defense Watch",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXpfcVllcm1Ydm91MEpSSFRWVEo3b1NSSjJpN0RVZjJRUzZEdXY2VUxKeHJ2UlQyVzJhaE80WmFGZERpME55YjBnUzd1em04V1o1MTlnWjU3WXgwMEFzbDRCTUhJT3JyRnJ3T1lzdXRSbHFVb1J1dEpXZmFWYVRkNW1vaXlERXowT3Ziam1qMm5HN2RWWWNz?oc=5",
+   "published": "2026-10-27T08:03:45+00:00",
+   "id": "c36be5d4b65f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Taiwan: 166 Chinese military aircraft and 309 vessels detected in the Strait since early October",
-   "source": "Agenzia Nova",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGVOMXlWc2tTYUJ4ak5xV0pUOWxGRWVKZ2FUTWhhV01hZGNOczlfNnAyWDh0WHY3S1hHZTc4eHFqTzE5cXhabFNpbERIUF9QTWRIeExLSXA4U1h2SXdVbUxWdFAxZ3FBR1h3SEQwb0ZYUFl3OFFWbDlVOEYtY3ZzanQwd0JwVHZhU2lHcnVFNGhJSGNtVnBqckRNcUdOTWRvOWFIRjFyT1FoWFdJcFVJeFk1ZnpDWE1nYmVIVmRMVVpxcE5NV3VPdTJR?oc=5",
-   "published": "2026-10-26T05:05:13+00:00",
-   "id": "bbd9300b2407",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7831,7 +7831,8 @@
   "news|3ba02544233f": 1793082681.6481252,
   "news|66508f9fe924": 1793085529.9448614,
   "news|d13d47863eb9": 1793089145.93441,
-  "news|4b9121a6c429": 1793092587.2522383
+  "news|4b9121a6c429": 1793092587.2522383,
+  "news|c36be5d4b65f": 1793093487.1350698
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8046,6 +8047,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T09:31:27.135143+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel’s Military Chief Reportedly Opposed Pre-Election Strike on Iran</b>\n📰 The Defense Watch · Mar 27/10 09:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXpfcVllcm1Ydm91MEpSSFRWVEo3b1NSSjJpN0RVZjJRUzZEdXY2VUxKeHJ2UlQyVzJhaE80WmFGZERpME55YjBnUzd1em04V1o1MTlnWjU3WXgwMEFzbDRCTUhJT3JyRnJ3T1lzdXRSbHFVb1J1dEpXZmFWYVRkNW1vaXlERXowT3Ziam1qMm5HN2RWWWNz?oc=5"
+  },
   {
    "ts": "2026-10-27T09:16:27.252338+00:00",
    "kind": "news",
@@ -8340,11 +8346,6 @@
    "ts": "2026-10-26T11:46:09.940178+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, Netanyahu and the politics of escalation against Iran</b>\n📰 Financial Times · Lun 26/10 12:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzROZEVjU1JBRktyZ1ZvZG1lVEp1bFh0ckpFS2VYMjBDUGFSWTdpaXR1MDZLc3RWRW5xUUlrNG5hc19Yd01fUjVTY19UNWtXS2JwaDZEVENIUFRxem03MnFBakY2TFVNdEFXcWVoMVpPaExySmhoZmxmNXlIbTBCc0xFS1A?oc=5"
-  },
-  {
-   "ts": "2026-10-26T11:34:25.341088+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says decision nearing on Iran as he weighs diplomacy or renewed strikes</b>\n📰 The Japan Times · Lun 26/10 03:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdERyUmxTcmVpNm5HY2hOck5uekNNOWZZUU1wLWsxZlkwWklIT0xuTUs3SG5TZkhaZi1yeXhZeTY5Qk1qdnlGX1hjb3Rwa2JlZlpfb3NRZGFrM3pkRE5kc2JjMDNJaldUUktQZ25oMlRwTWp1bVE?oc=5"
   }
  ],
  "daily_forecast": {
