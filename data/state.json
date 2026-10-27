@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "5cc5934fa494",
-  "93a273cf60a3",
-  "10e3e2c920cf",
-  "e030325e9baf",
-  "fe2a75cb5c10",
-  "d041ba230789",
-  "3c61e89d77dd",
   "19de8a366c97",
   "2a1c24ed51af",
   "0eac635cd479",
@@ -4044,9 +4037,28 @@
   "98ce95918e84",
   "574758119f6c",
   "fe616f67fb29",
-  "1054af4ab488"
+  "1054af4ab488",
+  "fba4a579edea",
+  "9ace014a4c6a",
+  "a904126457d7",
+  "9d336cae3546",
+  "752402cdf8eb",
+  "d2f92597d248",
+  "bf3dc307873c"
  ],
  "news": [
+  {
+   "title": "Ohio Democrats like some tariffs — but not Trump’s",
+   "source": "Punchbowl News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NQm40eUc3Tjh1d3FVd0Q3RGRJVmN5OHQyWFUybTNVdzAwdEVHQTNWVFlWcUtnVGtlTHE3V0otTkFOb2tlQU9ma0wzMnJ1SjVkZ1NWbHNMNW5DRzNTaldvWmVyTUticU5PZ2I3dGV0bFF5dGUzLXc?oc=5",
+   "published": "2026-10-27T21:43:19+00:00",
+   "id": "9d336cae3546",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "UN report: Russian attacks on Ukraine’s power grid are a ‘crime against humanity’",
    "source": "Atlantic Council",
@@ -4202,6 +4214,18 @@
    "cat": "commerce",
    "raison": "Désescalade commerciale partielle réduisant la prime de risque et le statut de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Says US to Start Blockading the Strait of Hormuz Immediately",
+   "source": "EnergyNow.com",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlVBMkRyNHpFcC1HMGVUWW1UMzJDLXM0STRvQ2FERlE4WUdzWDFSRVhocW9DanhyX09rd3M2RVNVWEY0UXlyWC04eFh5cHZleDBkTi1lWkVBYndCYkY4ODlNLUFMSmZNdHpzZ2h0c200Um12dUI1cWF1Z19pZ1ZDUVVTNU5kQUtyclRlVERvZlF6UENpZmVpZkl1ckVidw?oc=5",
+   "published": "2026-10-27T17:57:22+00:00",
+   "id": "9ace014a4c6a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine talks in Oslo fail better",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump tariffs challenged: Cheese importer case follows similar Burlap & Barrel bid",
-   "source": "FoodNavigator.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWdHQ2VKSUhTTnp0d3RoaTc4WUZwbGpRN3ExTC03VHU1dDM0dXM1cl9HNUwtSXBiWmhHREs2d0pwUzZPOHZoaUh2VEk1eHFLR3VzSEZGT1Q3bWRrZW90TEZKQjh6NWowaFpjVUNueUgtdmQwck1BREFPS2U4Nkx0N1ljb3VSaHNOSnpxbHdnc0NmaWR2WUlBN2hLbTVHUGhBSFI4SXgtbVQ?oc=5",
-   "published": "2026-10-26T14:05:40+00:00",
-   "id": "6c91117e34b5",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "New details emerge about attack Netanyahu planned against Iran",
-   "source": "www.israelhayom.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHRLQ0NWbXNobkFZM2w4TzBPVElFWGZLUVd2eDdDRlJ0dlpZV1VsRHVKbldyOWUwbkkwV2YxY3NFak0xd0dtMVJ3cHJ4UzAtNDhUUVZTSGI0WU5WS1YxaGpCc3lRRWFnU0RzMGNOajJRNGxaTnBUdlhJRGtTaHRrdm5tUlduVHBuakRyM0p3UnowRnFrM0VTOVU4NDN3OHpZVGtLMQ?oc=5",
-   "published": "2026-10-26T14:01:32+00:00",
-   "id": "fd6799fede5e",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7855,7 +7855,8 @@
   "news|7989b8747d1d": 1793132347.7550817,
   "rep|recap|2026-10-27": 1793134902.4973404,
   "news|00ea542c8450": 1793135774.5440943,
-  "news|98ce95918e84": 1793136682.8403087
+  "news|98ce95918e84": 1793136682.8403087,
+  "news|9ace014a4c6a": 1793137571.5455089
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8070,6 +8071,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T21:46:11.545599+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says US to Start Blockading the Strait of Hormuz Immediately</b>\n📰 EnergyNow.com · Mar 27/10 18:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNWlVBMkRyNHpFcC1HMGVUWW1UMzJDLXM0STRvQ2FERlE4WUdzWDFSRVhocW9DanhyX09rd3M2RVNVWEY0UXlyWC04eFh5cHZleDBkTi1lWkVBYndCYkY4ODlNLUFMSmZNdHpzZ2h0c200Um12dUI1cWF1Z19pZ1ZDUVVTNU5kQUtyclRlVERvZlF6UENpZmVpZkl1ckVidw?oc=5"
+  },
   {
    "ts": "2026-10-27T21:31:22.840419+00:00",
    "kind": "news",
@@ -8364,11 +8370,6 @@
    "ts": "2026-10-26T16:16:12.268310+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Election 2026 • Katz denies pre-election Iran war push; Lieberman seeks probe of PM for treason</b>\n📰 Haaretz · Lun 26/10 16:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxNZ3VnWmpkV3h6QnpTbVhOQllDaHdwcXJXZFNFdXlVSnRkQkNKenFBZ3pwOTJiSEpVSTRJcWhpcmNsWGpmRzB2dThfM1o1WVMzMVM0UmtXQkItQnNRRUVkc0lESW9qYm9lUXJMeWFDcjhqamtlMFJYQzlVNWRRWGZuR0ptMmFWdHMtN2VqZUpWVUYxcmNjbHJ0cXFxbzU3emhLZFVKM25yMDAycWV4MHdYdC05dXVqajMxNHhHUUJJUjFzRjRlM1R3YXhaMUI1TWtvRzA3aDZoUjg4RUt6UWZfRUdZYzVPM0gxNlotZFR5UUpEYXpaMUkzMXdZb3c0X1hIcWduSUltekZWM0ZYS2Z5b294bFp5dw?oc=5"
-  },
-  {
-   "ts": "2026-10-26T16:01:41.738549+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hezbollah readies for new regional war with funds from Iran, sources say</b>\n📰 Reuters · Lun 26/10 15:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5"
   }
  ],
  "daily_forecast": {
