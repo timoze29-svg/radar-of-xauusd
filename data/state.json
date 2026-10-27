@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "3f6d4776abe6",
-  "14fd50e97911",
-  "641426ecc42b",
-  "4c76af66db05",
-  "e3f9673cb5ab",
   "5cc5934fa494",
   "93a273cf60a3",
   "10e3e2c920cf",
@@ -4044,7 +4039,12 @@
   "c5639dfcaf34",
   "26a0f5e96664",
   "f2771cf40d71",
-  "7fe38c344db2"
+  "7fe38c344db2",
+  "f120ae262036",
+  "98ce95918e84",
+  "574758119f6c",
+  "fe616f67fb29",
+  "1054af4ab488"
  ],
  "news": [
   {
@@ -4151,6 +4151,18 @@
    "published": "2026-10-27T19:38:49+00:00",
    "id": "ba242ff17c78",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "New Report: Trump’s Wealth From Oil & Gas Stocks Climbs To As Much As $81.6 Million Amid Iran War, Surging Costs For Americans",
+   "source": "Senate.gov",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDRtMHZCYUNNemtFVHlBdmNJU01zX1hmOGswMUttNGJycDVwTG5tQ0gzVE1vWkxUcm5TX3paZW0xbm92Q0ZyQ0hVMnVjLV90S1JWbi1zQmIyUkM1YnVsZkZ4NUR6VWljbXk3X2lWT2JHLU1sd3N5eDNrQTFzc1NiY3g1bGtoRGFVdW1rT1RRNTI1aDR6WWtGMU8wSXNNd1Qxa1RxNUZlci1qTTVsMnJQVzNyalJoUVhpcnJzaG9JbVRDLTc3ejVWMzdUTXdYX1hhMWhjR1hsMDhqZFo3Y2R3RHQ2S2pxRHZGcS1DZ3J2c3E2Q3lYaTVIZVNuaVdpMElDSUlobg?oc=5",
+   "published": "2026-10-27T19:18:45+00:00",
+   "id": "98ce95918e84",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "McConnell: Latest Trump bid to end Russia-Ukraine war ‘certain to fail’",
-   "source": "The Hill",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzRYQnlicUM5WVhnT2k5MTdyRWprdjBqY2NlNE1KcHQtUDYzSm1XTzJmZFdVREExLVFpRTFDNkt5Z0gzZzdVWnMydUZLVEdQeVRFdWxPZmZGb0dac3NqMXBrWnZ4V1dnal96eGxqMWh1MTFFenZyNEtEeWRRVHFsbkdNWjBLem4xbk15a0N3WjBPUdIBlwFBVV95cUxQVnlaZXpaVmZ0bUNzeDZzRUNud2VCXzZEYms2bEV5OVRFbGhmUldlckNlbWJ2U3hFNmxEclBIdFhvbVhjRjVPdzZWNVV5bGdpbUlhVnhwdW8wR2s4S2xnNTVQbktYcm1obGs1alRQejZCcGprclF2UENXRFhTZkwyd2JEYkZocVdSWkNIWktUSEFlamhRdmFJ?oc=5",
-   "published": "2026-10-26T14:00:00+00:00",
-   "id": "cbb951a02800",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7854,7 +7854,8 @@
   "news|45b6034eaeb2": 1793126781.0158267,
   "news|7989b8747d1d": 1793132347.7550817,
   "rep|recap|2026-10-27": 1793134902.4973404,
-  "news|00ea542c8450": 1793135774.5440943
+  "news|00ea542c8450": 1793135774.5440943,
+  "news|98ce95918e84": 1793136682.8403087
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8069,6 +8070,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-27T21:31:22.840419+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>New Report: Trump’s Wealth From Oil &amp; Gas Stocks Climbs To As Much As $81.6 Million Amid Iran War, Surging Costs For Americans</b>\n📰 Senate.gov · Mar 27/10 20:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxObDRtMHZCYUNNemtFVHlBdmNJU01zX1hmOGswMUttNGJycDVwTG5tQ0gzVE1vWkxUcm5TX3paZW0xbm92Q0ZyQ0hVMnVjLV90S1JWbi1zQmIyUkM1YnVsZkZ4NUR6VWljbXk3X2lWT2JHLU1sd3N5eDNrQTFzc1NiY3g1bGtoRGFVdW1rT1RRNTI1aDR6WWtGMU8wSXNNd1Qxa1RxNUZlci1qTTVsMnJQVzNyalJoUVhpcnJzaG9JbVRDLTc3ejVWMzdUTXdYX1hhMWhjR1hsMDhqZFo3Y2R3RHQ2S2pxRHZGcS1DZ3J2c3E2Q3lYaTVIZVNuaVdpMElDSUlobg?oc=5"
+  },
   {
    "ts": "2026-10-27T21:16:14.544184+00:00",
    "kind": "news",
@@ -8363,11 +8369,6 @@
    "ts": "2026-10-26T16:01:41.738549+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hezbollah readies for new regional war with funds from Iran, sources say</b>\n📰 Reuters · Lun 26/10 15:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5"
-  },
-  {
-   "ts": "2026-10-26T15:46:07.049609+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran insider warns of limited US strikes now, major war after midterms</b>\n📰 Iran International · Dim 25/10 19:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BM24xODU0RGRmN2xmUklMdEI2UjFkY3VoaE5TRVVUdXE0VmVUWk1KakJsREtMckVCazdoOEhwYk1JUUNnSk1MYzdHbjN4MEFxLVE?oc=5"
   }
  ],
  "daily_forecast": {
