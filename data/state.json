@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "a6a4bf068aba",
-  "1f617f6fac67",
-  "b428544d698a",
-  "d132ae242c53",
-  "232c9b4204e9",
-  "7167513c003f",
-  "7b8226921a45",
   "469f7b920e79",
   "8522bfaf1b58",
   "9e93e77bd766",
@@ -4044,9 +4037,28 @@
   "8a0407ce6209",
   "23fe38bd030b",
   "632cc55029dd",
-  "a0b63d9eff56"
+  "a0b63d9eff56",
+  "45e928e5268d",
+  "7d52952076d4",
+  "4ba7885d09d9",
+  "b28a2640f533",
+  "270459725eff",
+  "63fd32cda0ee",
+  "de428b4c08f1"
  ],
  "news": [
+  {
+   "title": "Australian inflation runs hot in 3Q, adds to rate hike risk",
+   "source": "The Edge Malaysia",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YWmtLTFNkTFQ2aGdfSjBrcHhmVFpXUjZqWmE3T25tcHBMT1Z1WXlvOUo3dmpxYWZkYjBZX05ycHJYSUhsUHpqVjRabXQ4eHVSR1Fz?oc=5",
+   "published": "2026-10-28T01:22:03+00:00",
+   "id": "b28a2640f533",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
    "source": "WSJ",
@@ -4430,6 +4442,18 @@
    "cat": "taux",
    "raison": "La tension sur les rendements obligataires américains augmente le coût d'opportunité du métal jaune.",
    "method": "IA"
+  },
+  {
+   "title": "Iran Warns Against New Escalation by US and Allies",
+   "source": "EnergyNow",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWJYTFI0TFNwSVF3NVhpUWtqejRtdDNmcVZVV2NlWTR5VHVKN1E3aVREcnMyQmt2X0N5d05wVm1UbWdsbG80QmJLMG1YaFRybU5fSE91WFFmSFY3OEdQWmdpVWdKaHNxQmNoRkNSUE81aG1tTmVidHRBWUctX2R2cVc5akQyaU0?oc=5",
+   "published": "2026-10-27T17:34:05+00:00",
+   "id": "45e928e5268d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
@@ -5524,6 +5548,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "UN chief says ‘essential to stop escalation’ with Iran meetings",
+   "source": "Macau Business",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNanJLeTVEWk5tZUp1SDF5WEs5c1g5TEhsS20zOV9yVTA3N1Fmbm9jYVVDdFYzbXFlSk9MSEVFanpBb2dUbTQtUmhOeXlPbzRtSjVhMlphVTZqZmNodUdJdjJISG1SbkNJRkNIMGFVOWxRMzQ1ZkZaZXlBQmNDY3VrUllrekd5a2FWTGtLMDFabzJIZw?oc=5",
+   "published": "2026-10-27T05:08:38+00:00",
+   "id": "4ba7885d09d9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Insurers bullish on private markets even as government bond yields rise",
    "source": "Financial Times",
    "theme": "Dette US",
@@ -6410,42 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Resigned Trump counterterror adviser Joe Kent says 'Israel drove the decision' to strike Iran - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhsUzdIbkRKd1JhaE5hOVlFTWdIWmxRMmJXMDZNbDloOEFnQ1JCdEZoQ2ZSU3QyYlhuVmY5N3dvbjhPbTFiZ3psYVhsQzVQMTEzZmpuNjA3UklBOUpwYTFzQnVCeWV0YXM5MEpqbU9jcFRCRTNQd0dVd2g1Z2ZodkhyalhrV1ptVVFySGNCWHdoLW1XSkgtQ2VDRUk3SF9VdWtOQ05ZeHhMUdIBrwFBVV95cUxNSFZCSmxFdENxcDRHaUJOSXZTaVdwRGRoQ0c1LTVkc2ZuSGlid2tyYllFUXlxYk96MWp6alBKUUNxWTVZZU1LdWpKVFEtNlRiTUduMm9zaUx4aEtTSTh6QU1OajBvTDN3NUpCa3VRV3ViazhKa2JuY3VYdjI5bWFaREdoQWI5ZUF5eWU2ek94dlpXUVlwWGdIdHM3eWJfQlFrMnNMR05KdHJJa2h1M2VZ?oc=5",
-   "published": "2026-10-26T17:03:37+00:00",
-   "id": "349726b25626",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Saudi Arabia, Turkey and Pakistan Hold De-Escalation Talks With Iran Amid Regional Tensions",
-   "source": "Haaretz",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZUFJSmMyd3h1Z1QxZF9oRGpGWnFtR0l3aXRHTWNWckdMbXpQakNpRzdhTm9IbjBuZDVMNUVIUHYyZWllYVltNGZyeG81QnlabHVkTjdBT1ltcEY3cGhiM0ZyVGlhYTNET3I2QTVzUEFfMzEtOUhjaTdLekMtVVhIRHVHMmlnR2hpcHVZWHBpSVVYS09PX0lwN3RMbUJldnJjNjVmU0FjNkFEVmNJaFlsb3pVLUJycXZ6WkU1NGJxeDZTX0gtekg1VDRvd3B3MFBUay1YTUpKWXJ2V0N0eERVZHo2SkZqcmJYZjFsY0RaQkFqRVhJNE00TmwwOA?oc=5",
-   "published": "2026-10-26T17:00:00+00:00",
-   "id": "3ca8f49f133a",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Australian Dollar: Yield advantage set to strengthen on inflation data – BBH",
-   "source": "www.tmgm.com",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmx5cF9GbDdaNmdJYWw2TlliZHhYVmU2d0lldGpBWXl6ZjEyNU1iYjRnLUFzamMwWnBFUzlWbjBfUlVCVXk2MkhXNWFhOGdwRTk1dVI4d0VTemNlM2k0NjBkVm9lZm9NRDVVa2dUajY5UEFGenBkUHRmY3RiSFBuUTZVVC1pUmtuRGVqOFdZMl9yTzBwYlhGWUJYTEJzY01vVl96TS1JeGwzVjlxVkYyUlVRTHQ0Q0NGMUVDc3k4M3FHdUp5cFE?oc=5",
-   "published": "2026-10-26T16:33:09+00:00",
-   "id": "88bcf02d054a",
-   "impact": 1,
-   "cat": "dollar",
-   "raison": "Attrait accru des rendements australiens pesant marginalement sur le dollar américain.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7865,7 +7865,9 @@
   "news|fa20aa741358": 1793148367.37164,
   "news|ac73ebd0e631": 1793148368.306278,
   "news|1f795839b2dc": 1793149299.0021002,
-  "news|8a0407ce6209": 1793151094.466405
+  "news|8a0407ce6209": 1793151094.466405,
+  "news|45e928e5268d": 1793152000.097581,
+  "news|4ba7885d09d9": 1793152000.963023
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8080,6 +8082,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T01:46:40.963141+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>UN chief says ‘essential to stop escalation’ with Iran meetings</b>\n📰 Macau Business · Mar 27/10 06:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNanJLeTVEWk5tZUp1SDF5WEs5c1g5TEhsS20zOV9yVTA3N1Fmbm9jYVVDdFYzbXFlSk9MSEVFanpBb2dUbTQtUmhOeXlPbzRtSjVhMlphVTZqZmNodUdJdjJISG1SbkNJRkNIMGFVOWxRMzQ1ZkZaZXlBQmNDY3VrUllrekd5a2FWTGtLMDFabzJIZw?oc=5"
+  },
+  {
+   "ts": "2026-10-28T01:46:40.097679+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Warns Against New Escalation by US and Allies</b>\n📰 EnergyNow · Mar 27/10 18:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxORWJYTFI0TFNwSVF3NVhpUWtqejRtdDNmcVZVV2NlWTR5VHVKN1E3aVREcnMyQmt2X0N5d05wVm1UbWdsbG80QmJLMG1YaFRybU5fSE91WFFmSFY3OEdQWmdpVWdKaHNxQmNoRkNSUE81aG1tTmVidHRBWUctX2R2cVc5akQyaU0?oc=5"
+  },
   {
    "ts": "2026-10-28T01:31:34.466474+00:00",
    "kind": "news",
@@ -8369,16 +8381,6 @@
    "ts": "2026-10-26T21:01:49.181023+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>EU’s Kallas warns of ‘serious risk’ of renewed US-Iran escalation</b>\n📰 Middle East Monitor · Lun 26/10 20:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVEweDhNZnRfVHJheEt4d1VuakFTOUkyeVdSNy1QbW80UHN5Rjk4ZHdpUTJsb1dWRG51Z3dub0F2b2dBNHdXREFFelVBNXpLSThiYjdERmxRZWdSS2RKQy1wV092c28wWWZLYW51eEF1cmplM3M3dUtQWmIwYzNmMllSb3VzUGdyckFwZlU1eFMyLTJjT1V0NlV4U0syQXhoYXRsOWl0SGFMUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-26T20:46:19.039703+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war</b>\n📰 The Washington Post · Lun 26/10 20:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5"
-  },
-  {
-   "ts": "2026-10-26T20:19:10.423773+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Rate Hikes In 2027 What You Should Know</b>\n📰 Forbes · Lun 26/10 19:29\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjBfRl9BdjJ4TE9UMk9BY1NmYWp3MFVuNWkwYnIweWpuRldsZU8zQk9rWFBTRUhpVXQyYW9WZWFXd0EzVWZ2VnZwdUljYmFuQmE1QmstWXpmcUZOaDVlZ1pJbnB6anFMUEZIdnU2S1loUGtnV2Z3R2ktbkgtek5VNThFUnFVUHhpbGF5NEEyd1dIR0p6X0tGc0tuYUY?oc=5"
   }
  ],
  "daily_forecast": {
