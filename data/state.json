@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "2afcacd9357b",
-  "10c6bbe85c1a",
-  "0295398e5983",
-  "366398c57972",
-  "8194b3de1c8e",
   "a6a4bf068aba",
   "1f617f6fac67",
   "b428544d698a",
@@ -4044,9 +4039,26 @@
   "cef5ac9d0f45",
   "2856dc7fad2e",
   "ef97e2c9dd4f",
-  "5ce0aece7b76"
+  "5ce0aece7b76",
+  "a7a086b6549e",
+  "8a0407ce6209",
+  "23fe38bd030b",
+  "632cc55029dd",
+  "a0b63d9eff56"
  ],
  "news": [
+  {
+   "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+   "published": "2026-10-28T01:02:43+00:00",
+   "id": "8a0407ce6209",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "🇮🇱 🇮🇷 Israel’s generals reportedly blocked a strike on Iran before the vote... and the weeks after it could look very different. The army chief pushed back hard on Netanyahu before Tuesday’s election, but Netanyahu stays on as caretaker while coalition talks pl",
    "source": "X",
@@ -6434,18 +6446,6 @@
    "cat": "dollar",
    "raison": "Attrait accru des rendements australiens pesant marginalement sur le dollar américain.",
    "method": "IA"
-  },
-  {
-   "title": "Trump's brutal Truth Social attack on Bill Maher after dinner sparks confusion online",
-   "source": "Fox News",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQW5HWG5YVENtd05zcWpfY0RpQkVSbTFybjJDV1c5SzQyTnR5dG9YX2VhTTQ1bnk2Z1E4emp0ZlRnR2RmLXFnMjVzT2dkQi1wbTVoXzJCYUg4SC1BZ1l6Qy04NThqczEtay1SQ1VjNEZ6cDRZR0lYR1lqNkQzdkJpNW4xeXpsSVpaN01VQ0dCYXhHdUJjNDJMSngzOUZ6MFctOFJVS2J3Z1NUdXRoNnJwag?oc=5",
-   "published": "2026-10-26T16:17:24+00:00",
-   "id": "dbbd45527b4f",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7864,7 +7864,8 @@
   "news|2e9c751f6fda": 1793143888.1773388,
   "news|fa20aa741358": 1793148367.37164,
   "news|ac73ebd0e631": 1793148368.306278,
-  "news|1f795839b2dc": 1793149299.0021002
+  "news|1f795839b2dc": 1793149299.0021002,
+  "news|8a0407ce6209": 1793151094.466405
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8079,6 +8080,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T01:31:34.466474+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms</b>\n📰 WSJ · Mer 28/10 02:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5"
+  },
   {
    "ts": "2026-10-28T01:01:39.002185+00:00",
    "kind": "news",
@@ -8373,11 +8379,6 @@
    "ts": "2026-10-26T20:19:10.423773+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Rate Hikes In 2027 What You Should Know</b>\n📰 Forbes · Lun 26/10 19:29\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjBfRl9BdjJ4TE9UMk9BY1NmYWp3MFVuNWkwYnIweWpuRldsZU8zQk9rWFBTRUhpVXQyYW9WZWFXd0EzVWZ2VnZwdUljYmFuQmE1QmstWXpmcUZOaDVlZ1pJbnB6anFMUEZIdnU2S1loUGtnV2Z3R2ktbkgtek5VNThFUnFVUHhpbGF5NEEyd1dIR0p6X0tGc0tuYUY?oc=5"
-  },
-  {
-   "ts": "2026-10-26T20:02:05.952393+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu reportedly pressured military to attack Iran in run-up to election</b>\n📰 The Guardian · Lun 26/10 20:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw?oc=5"
   }
  ],
  "daily_forecast": {
