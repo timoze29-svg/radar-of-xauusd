@@ -1045,15 +1045,6 @@
   }
  },
  "seen_news": [
-  "e931c29207e6",
-  "99536fcf7e0e",
-  "3813029c09b5",
-  "e462e94d1ec6",
-  "27c13c15c660",
-  "1c878c05d875",
-  "9b7bd55119af",
-  "d3b2ef8f51a8",
-  "5386fb4e1d32",
   "eaf8c468eecd",
   "d44fafc2e02b",
   "f8e53613b5b6",
@@ -4044,9 +4035,30 @@
   "0f1a361ba99d",
   "c79b8627dc7d",
   "2fc4a3ecfabc",
-  "d91bdb69a4db"
+  "d91bdb69a4db",
+  "359f70d00e14",
+  "28b356ae9971",
+  "ac23df0433bd",
+  "a3d5a81cdf91",
+  "cde2293acc4d",
+  "6f5c3ddd555c",
+  "f390b46c2132",
+  "924f61eba218",
+  "55f5ba272404"
  ],
  "news": [
+  {
+   "title": "Will Australia CPI back RBA’s hawkish outlook?",
+   "source": "FXStreet",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkgwRVZiamNSUmJ4Rm9GLTFieE5rbUIwd2pYUjFZeXYwYjk1RUQ4dnZvdHRVTjNOZHZ3VlJYMUtnMG44dFdoaS1rVzJoWjlvZnJoVVk1UWVLM2ZFZkNCR0dpWUJnZDE1amEtWjRhc215LWhOeXhsbkQxZ1VYR19Wb0YxTWpKQ09jNXFXZDN2R2ZhWEtfczJv?oc=5",
+   "published": "2026-10-27T23:30:00+00:00",
+   "id": "f390b46c2132",
+   "impact": -2,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "‘The same issue’: Why the US and Canada are still a ways from a trade deal",
    "source": "Politico",
@@ -4456,6 +4468,18 @@
    "method": "IA"
   },
   {
+   "title": "Netanyahu ‘pushed Trump for Iran strikes’ to delay first wartime Israeli election",
+   "source": "Acast",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2l4Yy1JLXhtVWJpOXRub2l6ZXgtcjlrdmEtT0cxWHJkcDNvampwanBjRTN1a2ptUm84TUN2LVhkSERkZHduT2RLNEh6V1h1Y2V6a1ZEQmk5U1VUdlFvRnBfbTRSdXcxTk14bEx6ODFRS2dpclJ5Ri1oRjE5YnhQTW1kVE5FOTk0ekxFcFliUUpwRF9UM096QVRtQmZiU1BNU0JacWtUaU5XZE5zX2RGVU9uOWpHVDV3bnc?oc=5",
+   "published": "2026-10-27T16:09:05+00:00",
+   "id": "a3d5a81cdf91",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
    "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
    "source": "Reuters",
    "theme": "Russie/Ukraine",
@@ -4490,6 +4514,18 @@
    "cat": "commerce",
    "raison": "L'invalidation des tarifs réduit le risque d'inflation douanière et l'incertitude commerciale mondiale.",
    "method": "IA"
+  },
+  {
+   "title": "States Sue Over Latest Trump Tariff Attempt",
+   "source": "EnergyNow.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZFZGNjRycXRRS3BFX1FUMi1VTk5icTlUYlJzWE1JS01NT2NCZl9aajJ6VmtZcElZcGQtekx5SmxkMFA0a0hUamlIUzl4UDhDMGJSTk1JaXhWa19GSnI4RFc1Ull4ZUtkRTV5VUJNRGMwaG90a3BFRFZjVnE1LVE?oc=5",
+   "published": "2026-10-27T15:52:13+00:00",
+   "id": "6f5c3ddd555c",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
@@ -5222,6 +5258,18 @@
    "cat": "géopolitique",
    "raison": "L'aggravation des tensions au Moyen-Orient alimente la prime de risque géopolitique sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Oil sinks 11% as Trump predicts Middle East de-escalation",
+   "source": "DD News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2hqLUw4WGZwUTdsMThqWm1iOS1WY3gyQm1EaEZIRy1Lb0VtRWktaHNNd2NuWHhGLS1SR2lrLVkzUG1JRzhGZUM0WjRxSlhWcnNfTXJfRGdQWTNHQmd6enNpdVpXTlpKNl9QcjdmZXRlektOdkFNZDB3TEdKVnZJNXYtZGlrWWVTVFE?oc=5",
+   "published": "2026-10-27T07:07:11+00:00",
+   "id": "cde2293acc4d",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Orders Talks on Wind Turbine Imports Instead of New Tariffs",
@@ -6397,54 +6445,6 @@
    "impact": 8,
    "cat": "fed",
    "raison": "haussier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Israel Election 2026 • Katz denies pre-election Iran war push; Lieberman seeks probe of PM for treason",
-   "source": "Haaretz",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZ3VnWmpkV3h6QnpTbVhOQllDaHdwcXJXZFNFdXlVSnRkQkNKenFBZ3pwOTJiSEpVSTRJcWhpcmNsWGpmRzB2dThfM1o1WVMzMVM0UmtXQkItQnNRRUVkc0lESW9qYm9lUXJMeWFDcjhqamtlMFJYQzlVNWRRWGZuR0ptMmFWdHMtN2VqZUpWVUYxcmNjbHJ0cXFxbzU3emhLZFVKM25yMDAycWV4MHdYdC05dXVqajMxNHhHUUJJUjFzRjRlM1R3YXhaMUI1TWtvRzA3aDZoUjg4RUt6UWZfRUdZYzVPM0gxNlotZFR5UUpEYXpaMUkzMXdZb3c0X1hIcWduSUltekZWM0ZYS2Z5b294bFp5dw?oc=5",
-   "published": "2026-10-26T15:19:00+00:00",
-   "id": "5c5f27f6477e",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-   "source": "UN News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QZi1CdTQ1WjhXVWxQTjhDalI0anJZSmo4TVJPMGc0bG1mLUZ0OVctc3JVWTRCV3k3ZG5qZks3X3R2YVZnT0tvcjZrVTFBT2pTZERvZS01aw?oc=5",
-   "published": "2026-10-26T15:15:45+00:00",
-   "id": "028a609c28ba",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "In Egypt, Guterres warns against Iran-US escalation",
-   "source": "Global Issues.Org",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1La2VkWTlqajg1SDZnTjhRbzVRNjJTU2xoM2I2VG9feTBjbmN4d0dBZ0hMQTZQTnZuX2wtZmktRWEzcVZIaFgwaEFTTEo5cUNkdnM0T2NsWWpEU2pzdWNJ0gFkQVVfeXFMTXdfbEY2T0NXdC1yZmhPRkxZU1ZoUlRVTERJTlM0U2RUUW5VbElqOFBqdldFUEU5d0gwcU93VE1PS2pIZ3N6clZPMG1OMHlhSVltUUh0cTZualdsQWd2d1pDYXVmMA?oc=5",
-   "published": "2026-10-26T15:12:16+00:00",
-   "id": "6264c4acbe56",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Elon Musk's Starlink and Starshield, and what they mean to Ukraine in the war against Russia",
-   "source": "CBS News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YkxWSndGS2t3eDRzeXBLclJjSVlXTHh5SkxUYk5fRW9nWUt2a0t1S0RxNWpkbXBHdzhMWUh6OWhXZE01bG91QW9rQlVVMUpFb1hzU2FwVXJqUmtzS2lOR21hSG0tVjVTQ1pSeXNjeWJBRFNjN3U2SjZLQ212ZUk?oc=5",
-   "published": "2026-10-26T15:11:52+00:00",
-   "id": "82cea2951846",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   }
  ],
