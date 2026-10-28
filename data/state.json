@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "0cc1173b27f5",
-  "45eb776f829f",
-  "b5724ba18e53",
-  "946001efba82",
-  "67613b514bd5",
   "159ddd1d1d41",
   "4a279283e5f7",
   "bd89090968a2",
@@ -4044,7 +4039,12 @@
   "6f4367cdd3bb",
   "c52e752eac53",
   "78e5e0760a67",
-  "ec6fd0c494d7"
+  "ec6fd0c494d7",
+  "1d0bdf1363fc",
+  "8a79a5f2e149",
+  "6815acc8dca7",
+  "aec52514e283",
+  "01ed6f671ab5"
  ],
  "news": [
   {
@@ -4522,6 +4522,18 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
    "published": "2026-10-27T17:12:58+00:00",
    "id": "ebe5783331a3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Bibi failed to strike Iran before election, may strike before new government",
+   "source": "Foundation for Defense of Democracies",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2JUQWFMOEhBNDZ4QTFjejBmLVpteGg4SHVNMzNhUjJmbk5EWEVRazY2aVdYZ1Z6R3ExajBoc3cxbVFLUFFiUUROLXE4bnBzMElFek9VbDdKZG5YNkc1MFJDcW1xNDJuaXpoMmxka0JaRzI0emN0X3dpTzJERUR6SEV2NU5RX2E5UEpxdGRnblhtbmkxakpNWG40aGtOY2pqdm8wLVRpZWhWbVJs?oc=5",
+   "published": "2026-10-27T17:00:18+00:00",
+   "id": "1d0bdf1363fc",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6434,18 +6446,6 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-   "source": "Fondation Institut kurde de Paris",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbzAwVDNRYklxdWxHV0RqLXM0RFJ4UmRzNlI4dWdLamdBQUc0dTdsWWlEbHBfNEJLMGhnelFWbVBfUGZNOXhna0swMm9MdU1mVldOa1ZJRmZ1ZDFnRnlxVWlWclJXcDJ0UmJOT01YcS1Pelp5Tms0ZG9TQ0tkTDEtWVVhd3U3QS1Uc3pudWhuMk9yV3hXY2JDUUNoNTRzWWxabU1PRkhJS2xiMnUzajVYQWVYbGtOSGVPTml4alRn?oc=5",
-   "published": "2026-10-26T18:05:18+00:00",
-   "id": "3b253b841b37",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7870,7 +7870,8 @@
   "news|4ba7885d09d9": 1793152000.963023,
   "news|037b48bd44f1": 1793152901.7168021,
   "news|9a4e8df9fd78": 1793154689.6577368,
-  "news|a19d717fd9fe": 1793154690.671177
+  "news|a19d717fd9fe": 1793154690.671177,
+  "news|1d0bdf1363fc": 1793155633.8327906
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8085,6 +8086,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T02:47:13.832874+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bibi failed to strike Iran before election, may strike before new government</b>\n📰 Foundation for Defense of Democracies · Mar 27/10 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2JUQWFMOEhBNDZ4QTFjejBmLVpteGg4SHVNMzNhUjJmbk5EWEVRazY2aVdYZ1Z6R3ExajBoc3cxbVFLUFFiUUROLXE4bnBzMElFek9VbDdKZG5YNkc1MFJDcW1xNDJuaXpoMmxka0JaRzI0emN0X3dpTzJERUR6SEV2NU5RX2E5UEpxdGRnblhtbmkxakpNWG40aGtOY2pqdm8wLVRpZWhWbVJs?oc=5"
+  },
   {
    "ts": "2026-10-28T02:31:30.671444+00:00",
    "kind": "news",
@@ -8379,11 +8385,6 @@
    "ts": "2026-10-26T22:31:29.802089+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Outlook 2026: Central Bank Demand Stalls Amid Iran Conflict, Fed Tightening - News and Statistics</b>\n📰 IndexBox · Lun 26/10 23:10\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFE0S2pzT2Q3MGwtV2pDWWVyMWRkZ01nME1XRUdfSXZaV0pwdDJjUWpuakFlZ2E5WWJGREhRc1BFVWZzR00yRXlQeXJwX1VRTlNQanhIOE5NRzFYdjJfT1JTT21BeEp2X2l6aGN0REJ2OU9HWlZOdUlwZUFLMXJNbXhJbGlGS2U4MVVGR0JJRUk0LW5vYTBhUjhhMFBtdHlZVnl6U0VBOWtPLUtoSktVeGx1Nm9rN1JEdlJkZmlvS2w?oc=5"
-  },
-  {
-   "ts": "2026-10-26T22:19:14.405122+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say</b>\n📰 The New York Times · Lun 26/10 22:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5"
   }
  ],
  "daily_forecast": {
