@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "13eb740986fd",
-  "412e4d81b16e",
-  "d6d4f9df63f0",
   "f2b4223425a4",
   "68a38f75f055",
   "6ae0fb423741",
@@ -4044,7 +4041,10 @@
   "395c6fb8019a",
   "b3cabf80cbf9",
   "666c2fc9f5f8",
-  "8f0ddc16c2a7"
+  "8f0ddc16c2a7",
+  "ac526b8be764",
+  "dca8350d9044",
+  "1f61feed2fbb"
  ],
  "news": [
   {
@@ -4178,6 +4178,18 @@
    "cat": "géopolitique",
    "raison": "Soutien américain à des frappes imminentes en Iran, forte impulsion refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump weighing next move in war with Iran",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JWWhlWTBLQkpJUG1YeW00WmxOdUlXRkRsQ2hzcHpKTzRsQnlELXZ0OVVfRll4T0wzVUpjeFpvejktcE9aNWdqaWtYbGF2RlZPU0ZxRjRB?oc=5",
+   "published": "2026-10-28T16:20:13+00:00",
+   "id": "ac526b8be764",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran war costs rise to $47 billion, U.S. military estimates",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Africa Feeds Russia’s War Machine in Ukraine",
-   "source": "Bloomberg.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDl1cWtGajNpM3ZHdm9hbUx6QTFxQUU4TDBpSE1FV1U3dm0wRm5mdjZrTW4yR3Fwa3BreU01WTNITGpNSktnZ29STzE3TXFud3FYUkpxU3ZXa2pjUllHQVJKRHZYSFkyRmxlWHQ5VUo5YWlYZEZSSUtMeUhUNEwtNEhCUW1lNEVuY0pFdHc5ekV3YndfWkVVMU5CQ2NhQzRldXlTRnN2N1M1QURs?oc=5",
-   "published": "2026-10-27T13:00:07+00:00",
-   "id": "8d988ad79990",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7928,7 +7928,8 @@
   "post|2026-10-28T14:00:00-04:00": 1793212289.9038177,
   "news|5ac90ccc4f7c": 1793214458.5463078,
   "news|f4a9cb271a23": 1793214459.4745889,
-  "post|2026-10-28T14:30:00-04:00": 1793214460.6162102
+  "post|2026-10-28T14:30:00-04:00": 1793214460.6162102,
+  "news|ac526b8be764": 1793215129.7581813
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8159,6 +8160,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T19:18:49.758294+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighing next move in war with Iran</b>\n📰 Fox News · Mer 28/10 17:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JWWhlWTBLQkpJUG1YeW00WmxOdUlXRkRsQ2hzcHpKTzRsQnlELXZ0OVVfRll4T0wzVUpjeFpvejktcE9aNWdqaWtYbGF2RlZPU0ZxRjRB?oc=5"
+  },
   {
    "ts": "2026-10-28T19:07:40.617242+00:00",
    "kind": "post_event",
@@ -8453,11 +8459,6 @@
    "ts": "2026-10-28T03:01:35.839610+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US costs of Iran war rise to over $47 billion, according to Pentagon estimate</b>\n📰 Reuters · Mer 28/10 02:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5"
-  },
-  {
-   "ts": "2026-10-28T02:47:13.832874+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bibi failed to strike Iran before election, may strike before new government</b>\n📰 Foundation for Defense of Democracies · Mar 27/10 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2JUQWFMOEhBNDZ4QTFjejBmLVpteGg4SHVNMzNhUjJmbk5EWEVRazY2aVdYZ1Z6R3ExajBoc3cxbVFLUFFiUUROLXE4bnBzMElFek9VbDdKZG5YNkc1MFJDcW1xNDJuaXpoMmxka0JaRzI0emN0X3dpTzJERUR6SEV2NU5RX2E5UEpxdGRnblhtbmkxakpNWG40aGtOY2pqdm8wLVRpZWhWbVJs?oc=5"
   }
  ],
  "daily_forecast": {
