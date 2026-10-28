@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "469f7b920e79",
-  "8522bfaf1b58",
-  "9e93e77bd766",
-  "6f028310af34",
   "9bf034277822",
   "9419938002ec",
   "2ca7f95db6e8",
@@ -4044,9 +4040,25 @@
   "b28a2640f533",
   "270459725eff",
   "63fd32cda0ee",
-  "de428b4c08f1"
+  "de428b4c08f1",
+  "b80b7f3ccfd9",
+  "626dd50f72a6",
+  "037b48bd44f1",
+  "ce0a6d0bd935"
  ],
  "news": [
+  {
+   "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEo5Rm5rNDMwMXVnR3h3T2NrZE1vd0ljZ2NGZGRNcnpTeFZUa2lyb0FiNVNzNk91NGpMbElVM1hsMTJRTGNxYThlQTZGUlJzbnFOckw1RE9lazlfVVp1cWJwaVdJUHprcW5ZSFpWRUpyNTFJWWRXVlU2TElBNk5FWjhqeFlBYTBQMnpvRTNQcnpBWXVUWXpyV2lpQTRmOGZZOWloY3V3YkEzVmRKSDE2X1puQXZOR1JPbXAzc0ZMSDN6eU5jbDFvQ09aVXM1MEpFWWMyOGtjQlhaNGk3aXNZV0l5LS1vMGVYcXc?oc=5",
+   "published": "2026-10-28T01:39:00+00:00",
+   "id": "037b48bd44f1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Australian inflation runs hot in 3Q, adds to rate hike risk",
    "source": "The Edge Malaysia",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia committed ‘crimes against humanity’ through attacks on Ukraine’s energy infrastructure: UN inquiry",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRUpZWHJSVldDUzVpYlg0YXBQUTNFODM3bjhlVVFkaEdiS2xCTEhFLVl2OVVJMndOcjhOWm41MUkxanBXc2dpZjdWTVpvdEdxMDdzWk5XSmVId1hOWXVzaUpZVkNjT0xwUTNXQ3hYZF81dE5HdXh1N25ialBvTDlFanFxb1Z4bXV6MGhmWnJzZklidHhIMWJBa1lNYk9kOEYwRldSMmo5VHBUV0tpX3l5MVRmYjZJZlBVSWJNbHZjWTlvc3VGSWtZR0R6SHMySzFaWllmVTc3TG94QQ?oc=5",
-   "published": "2026-10-26T17:08:35+00:00",
-   "id": "0b206b599947",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7867,7 +7867,8 @@
   "news|1f795839b2dc": 1793149299.0021002,
   "news|8a0407ce6209": 1793151094.466405,
   "news|45e928e5268d": 1793152000.097581,
-  "news|4ba7885d09d9": 1793152000.963023
+  "news|4ba7885d09d9": 1793152000.963023,
+  "news|037b48bd44f1": 1793152901.7168021
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8082,6 +8083,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T02:01:41.716885+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict</b>\n📰 The Guardian · Mer 28/10 02:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEo5Rm5rNDMwMXVnR3h3T2NrZE1vd0ljZ2NGZGRNcnpTeFZUa2lyb0FiNVNzNk91NGpMbElVM1hsMTJRTGNxYThlQTZGUlJzbnFOckw1RE9lazlfVVp1cWJwaVdJUHprcW5ZSFpWRUpyNTFJWWRXVlU2TElBNk5FWjhqeFlBYTBQMnpvRTNQcnpBWXVUWXpyV2lpQTRmOGZZOWloY3V3YkEzVmRKSDE2X1puQXZOR1JPbXAzc0ZMSDN6eU5jbDFvQ09aVXM1MEpFWWMyOGtjQlhaNGk3aXNZV0l5LS1vMGVYcXc?oc=5"
+  },
   {
    "ts": "2026-10-28T01:46:40.963141+00:00",
    "kind": "news",
@@ -8376,11 +8382,6 @@
    "ts": "2026-10-26T21:01:50.285617+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — LUNDI 26/10</b>\nOr : <b>+15.6$</b> depuis minuit · plus haut 4044.0 (18h10) / plus bas 3990.9 (02h00) · range 53$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+12) à 4025.5 → maintenant 4029.7 (+4.2$)\nRange : 53$ réalisé vs ~73$ attendu (73%)\nNiveaux touchés : P, R1\n\n📈 <b>Fiabilité des prévisions</b> : 73% de bonnes directions (8 ✅ / 3 ❌ / 0 ➖ sur 11 jours)\n20 derniers jours : 73%  ·  ✅✅❌✅❌❌✅✅✅✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.26% · Taux 10 ans -0.2 pb · Pétrole -0.87% · EUR/USD -0.22% · S&P 500 +0.70% · Argent -0.14%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) As Russia’s War on Ukraine Drags On, Sanctions Remain Essential\n🟢 (+10) Middle East delegations meet in Iran as fears of war escalation mount\n🟢 (+10) Trade war with Canada could end ‘pretty soon,’ Trump says during rally\n🟢 (+10) Middle East tensions escalate as Iran-US stand-off deepens, Sri Lanka repatriates 40 Iranian sailors, Ansar Allah attacks threaten Saudi Arabia and Israeli operations displace more Palestinians - Muslim News UK\n\n📅 <b>Demain (mardi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
-  },
-  {
-   "ts": "2026-10-26T21:01:49.181023+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>EU’s Kallas warns of ‘serious risk’ of renewed US-Iran escalation</b>\n📰 Middle East Monitor · Lun 26/10 20:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVEweDhNZnRfVHJheEt4d1VuakFTOUkyeVdSNy1QbW80UHN5Rjk4ZHdpUTJsb1dWRG51Z3dub0F2b2dBNHdXREFFelVBNXpLSThiYjdERmxRZWdSS2RKQy1wV092c28wWWZLYW51eEF1cmplM3M3dUtQWmIwYzNmMllSb3VzUGdyckFwZlU1eFMyLTJjT1V0NlV4U0syQXhoYXRsOWl0SGFMUQ?oc=5"
   }
  ],
  "daily_forecast": {
