@@ -848,19 +848,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793095488.6080515,
+   "ts": 1793168172.2859895,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 115,
       "high": [
        [
         0,
-        15.5
+        14.8
        ],
        [
         15,
-        9.5
+        9.6
        ],
        [
         22,
@@ -870,15 +870,15 @@
       "low": [
        [
         0,
-        18.1
+        18.3
        ],
        [
         16,
-        10.3
+        10.4
        ],
        [
         2,
-        10.3
+        10.4
        ]
       ]
      },
@@ -890,11 +890,11 @@
         12.3
        ],
        [
-        14,
+        15,
         9.0
        ],
        [
-        15,
+        2,
         9.0
        ]
       ],
@@ -909,38 +909,38 @@
        ],
        [
         2,
-        9.0
+        8.2
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 118,
       "high": [
        [
         2,
-        11.7
+        11.9
        ],
        [
         16,
-        11.7
+        11.9
        ],
        [
-        17,
-        6.7
+        14,
+        6.8
        ]
       ],
       "low": [
        [
         0,
-        13.3
+        13.6
        ],
        [
         14,
-        7.5
+        7.6
        ],
        [
         15,
-        6.7
+        6.8
        ]
       ]
      },
@@ -983,12 +983,12 @@
         14.4
        ],
        [
-        17,
+        0,
         11.0
        ],
        [
-        0,
-        10.2
+        17,
+        11.0
        ]
       ],
       "low": [
@@ -997,25 +997,25 @@
         11.9
        ],
        [
-        2,
-        7.6
+        15,
+        8.5
        ],
        [
-        15,
+        2,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5960,
+     "n_hours": 5936,
      "horizon_h": 2,
-     "base_gold_up": 53.4,
+     "base_gold_up": 53.5,
      "base_dxy_down": 48.1,
      "down": {
       "3": {
-       "n": 243,
-       "p_dxy": 51.9,
+       "n": 241,
+       "p_dxy": 52.3,
        "p_gold": 55.6,
        "gold_avg": 1.4
       },
@@ -1023,21 +1023,21 @@
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.5
+       "gold_avg": 0.6
       }
      },
      "up": {
       "3": {
-       "n": 269,
-       "p_dxy": 55.8,
-       "p_gold": 49.1,
-       "gold_avg": -0.7
+       "n": 266,
+       "p_dxy": 55.6,
+       "p_gold": 49.2,
+       "gold_avg": -0.8
       },
       "4": {
-       "n": 77,
-       "p_dxy": 58.4,
-       "p_gold": 51.9,
-       "gold_avg": 0.0
+       "n": 76,
+       "p_dxy": 57.9,
+       "p_gold": 51.3,
+       "gold_avg": 0.1
       }
      }
     }
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "18c6ac261f24",
-  "dcfa918f7d4c",
-  "aaa896bc9b7d",
-  "bdf4d56974b9",
-  "698886095abf",
-  "6bcfad97c4df",
   "37c0398ab869",
   "0a267ae3c8f0",
   "c119fc13de41",
@@ -4044,9 +4038,39 @@
   "42d28e2a1c58",
   "50b81fd4e956",
   "02cf54b2022f",
-  "a08281c11677"
+  "a08281c11677",
+  "f5714a80243f",
+  "5c2eef13ac99",
+  "f0d7ddb44cd1",
+  "26ff848bf439",
+  "9c12dacfe4a4",
+  "6f85c9432fe6"
  ],
  "news": [
+  {
+   "title": "UK Tightens Middle East Travel Advice Amid Escalation Risk",
+   "source": "www.thetraveler.org",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzY4OGJxQjFVM1B0Y1NmN1UwN3RNeFRzd20zcHZXREx1TEJ6b2NtOE5WVWVoRktsMlBfeWI1MGFrN1dQbS1DNl9faldtOTFET1JCaHJIN25Fb2J5SXY5aDRyN2ZpVmFDREpRSzJRakV3QXdtaWJ1RHBlWG9RMU80VG9ocWdUWTV0eXh1cDlLYWI?oc=5",
+   "published": "2026-10-28T06:10:32+00:00",
+   "id": "9c12dacfe4a4",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Britain has tightened its travel advice for its citizens visiting Iran, warning of a high risk of a sudden escalation of tensions in the Middle East. Al Jazeera reported early Wednesday, October 28, that Britain issued the warning in an updated travel advisory for Iran",
+   "source": "Facebook",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1RGbWZIdTVTdDU2MnpiaDNaS3VOdzg4bFJ5RVJyMVFFLXBWWVVkNkVwX0lJNUJRbmI5dVpqTDJfQkFEdXFCdnFwLWZ5QnIzTGk2WjB0Qlo2UFJ0MGpNY1BSa3ExVmZhd2JneXkyck5pd3B3WDFKTENVTVBwQ20tYmM2Z1EwVmVmUVdIa0JqaGV5bWJXbjZ1aGk2dnlDeDhPZkVUNlBHTERZM0x6alFFcjBkdHd0aF9RRHFrT1N3TW83djVDTXdhaG90SGRuaVIxRDZ2STF3?oc=5",
+   "published": "2026-10-28T05:02:18+00:00",
+   "id": "26ff848bf439",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Transcript: What a local ceasefire means for the Russia-Ukraine war",
    "source": "Financial Times",
@@ -6422,30 +6446,6 @@
    "cat": "dollar",
    "raison": "Légère fermeté du dollar américain pesant mécaniquement sur les cours de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Netanyahu touts Trump endorsement on eve of vote, suggests restarting Iran war",
-   "source": "South China Morning Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTndpUEZjcS1BNWNHUENhVWxMWVk3VUFVX2JsY2ZPcmNCZnRESTVYY0dRZVRBdjNrV0tKYmo5Zzd3X3g1ajF5NnhYaEJENmMtWVhLdzNwdC1DYnNpTmtzbHJvd0Z5N3ExYmlFR2RKMC1ab0ZvcDc5ei1PSkRMM3JBbFZoZnFXbHJvZnJKa0x6ZHRSV2xha3duVjByOUY3Mm5LOXY5WWNLT3V0aFQ1QUNLQThHVzdfc0FKYWg2ZTgyZ19pdHB2VWVFLVhmNmpKLWxVZ3p30gHTAUFVX3lxTE9TVWVoYjRqRkRxN1pLYkpVVUV5dE1lODlYd3VOWDN3NEpoOFRuM3FIcldVa3hIemR1eHRLYVRyc0NOMzRVYjhhaEVXTGJfa1h6OU5tRWgwMWZHTzFfNXVLdjh6bU9RNDQ1eW9BczBQSkR2N2hXVVZpVWFIb1dDX1NubjVKcnEzcFdEeXl1S0lGWTNBTzUzS1FHbVlLT2oyOWR1OF9GQ2J6RXViTm9qdDlFSngtNGdVQjdIVWF0T2RIWEtxUW9mbndoamROUkZVenVHaHM?oc=5",
-   "published": "2026-10-26T22:29:05+00:00",
-   "id": "176215103f61",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Menaces explicites d'action militaire contre l'Iran augmentant nettement la prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Outlook 2026: Central Bank Demand Stalls Amid Iran Conflict, Fed Tightening - News and Statistics",
-   "source": "IndexBox",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFE0S2pzT2Q3MGwtV2pDWWVyMWRkZ01nME1XRUdfSXZaV0pwdDJjUWpuakFlZ2E5WWJGREhRc1BFVWZzR00yRXlQeXJwX1VRTlNQanhIOE5NRzFYdjJfT1JTT21BeEp2X2l6aGN0REJ2OU9HWlZOdUlwZUFLMXJNbXhJbGlGS2U4MVVGR0JJRUk0LW5vYTBhUjhhMFBtdHlZVnl6U0VBOWtPLUtoSktVeGx1Nm9rN1JEdlJkZmlvS2w?oc=5",
-   "published": "2026-10-26T22:10:55+00:00",
-   "id": "450fd6cc0ed9",
-   "impact": -3,
-   "cat": "banques centrales",
-   "raison": "Ralentissement des achats officiels combiné au durcissement monétaire pénalisant lourdement l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7881,7 +7881,8 @@
   "news|cdda6d79771a": 1793162765.8876185,
   "news|9e62982b1cfd": 1793166366.2045698,
   "news|f1e8164de2d4": 1793166367.3613572,
-  "rep|daily|2026-10-28": 1793167484.2004628
+  "rep|daily|2026-10-28": 1793167484.2004628,
+  "news|26ff848bf439": 1793168169.7417393
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8112,6 +8113,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T06:16:09.741819+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Britain has tightened its travel advice for its citizens visiting Iran, warning of a high risk of a sudden escalation of tensions in the Middle East. Al Jazeera reported early Wednesday, October 28, that Britain issued the warning in an updated travel advisory for Iran</b>\n📰 Facebook · Mer 28/10 06:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1RGbWZIdTVTdDU2MnpiaDNaS3VOdzg4bFJ5RVJyMVFFLXBWWVVkNkVwX0lJNUJRbmI5dVpqTDJfQkFEdXFCdnFwLWZ5QnIzTGk2WjB0Qlo2UFJ0MGpNY1BSa3ExVmZhd2JneXkyck5pd3B3WDFKTENVTVBwQ20tYmM2Z1EwVmVmUVdIa0JqaGV5bWJXbjZ1aGk2dnlDeDhPZkVUNlBHTERZM0x6alFFcjBkdHd0aF9RRHFrT1N3TW83djVDTXdhaG90SGRuaVIxRDZ2STF3?oc=5"
+  },
   {
    "ts": "2026-10-28T06:04:43.271661+00:00",
    "kind": "daily",
@@ -8406,11 +8412,6 @@
    "ts": "2026-10-27T02:16:13.874922+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bibi denies reports about escalation with Iran in last day before polls</b>\n📰 The Times of India · Mar 27/10 02:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY25yNjFWd09IWklNWjJnUFRLNUZZWUJNMmQzaUd1aldFUE1pNkFEMnZ1ODdVaDh1MDdUT2NJN19fX0V2b0dWclBrak14WUJCREdiMkpPdjhONHNHV1NVcm13azg5dGFXV1pUcmlheFlabXdFMktfNTlOQ19MRFB4Qks2LUlXVThvY2YyNUlvaG5wdndZTWttajJxdzNFZ20xbHZ6T01PNi1LcVRQbkZ1Vno0SEt2V05XakdWQ3BmY2RBYktiZHNzRm4yMDNjYk1sZWVna0NPOUpSb1lZcWpITUxSRjRYZ9IB6wFBVV95cUxPdTBnTWVsTlNPMDl0eTZrS2QwVkdEMHExYm80b1Fyd2JBTS1HajhQSXlaNkpmMHQ4NzJ3Yk84Uk1zZkxCSzFLRlVJdkk4cU5ITnA2c0xueUFYT05mV2M5cHl0SERUZk14RTdOelg5THBEM0NkMk1ZSldIQ251UGQzNnJTYnc4bFgtVE1zdDhKejdDYWtGZXJ1X0JQZWhDdVFLczVGaklEVnByeUpQSFQtb09rWEh3ekJfYTMyV3o0TWR6bVdBQjJST0FCWFdOYmZlREFNR1dWN2JHZWJNY0FHaGJsMlZheEpILXo0?oc=5"
-  },
-  {
-   "ts": "2026-10-27T01:58:15.743116+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war</b>\n📰 CBS News · Lun 26/10 14:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNU1NNM0tTeE1oc2ZkTUdxRUlwZ2h1OFpGdWd0bjZqbmYxb0NkM1JpVEF6Sm0tQzBfU05IZ2pnb2FkaXVGQUc2Y213MWJWclA3cl9tT3BlZlplek9rTlhGLXNrdzZPNHEtc2ZCU0pxWXJ3NHowTXgxN2JVekgyM2RRYlBmM2YzbW5jdTJMWGFLODZYSnkyb3BxNHhtYWY3dw?oc=5"
   }
  ],
  "daily_forecast": {
