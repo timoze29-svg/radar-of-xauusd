@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "6aa2c36a6b20",
-  "6620c10bfd88",
-  "e1b5b43b73e4",
-  "6c9aae0bebf4",
-  "8475344027dd",
   "415fe6114259",
   "75f874147429",
   "74b0d6d69de2",
@@ -4044,9 +4039,26 @@
   "b4d7486fad44",
   "8ff0629eea44",
   "3cb8c3d89893",
-  "48f4d0d6ce51"
+  "48f4d0d6ce51",
+  "35b2bb0330d1",
+  "e6bf05bb4607",
+  "78264112f077",
+  "3f13872d38cb",
+  "8c7e24a1960c"
  ],
  "news": [
+  {
+   "title": "Iran Warns Of Global Energy Shock If Israel Strikes Again",
+   "source": "i24NEWS",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1BzYmhrUThZQWhJYzVjdjdJYTRxY0w3ZnppUERHZXRZVjhLRU5ydHhGUC1mQzBURmdmZTZhRlVzUXpUc3Z3RzBCNlRaMm1ySHpQLWN3a0pNZXdoZGo1VmRCV3FSVVlMVk1SVE1mWkhhVkhxbWNGLTMtZ2V1blZBck5zaHU4UzlURWxIck9ZV1NnOGRCRlhXNDFQYXd2WVZqamxTRi1xeFlxbE41UVdWRmhkbUdzWXlkblJsR1U4NG5pcU0?oc=5",
+   "published": "2026-10-28T15:45:59+00:00",
+   "id": "e6bf05bb4607",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
    "source": "The Record from Recorded Future News",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "China's economy is outpacing the US despite Trump's tariffs. Here's what JPMorgan says it could mean for your money",
-   "source": "Yahoo Finance",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUlsZVJJRXFQWnVDcVFQM0NSNkhzVE9PNFUwNlZielJqWUNMZFItSTlnTGJXT1FaeHFBNkptdzZBbXhjWnVBSjFFeklGLTlLMU5xR1hIUzYwRUY4aUhHTGhQaXpGc2o5SzV5Ymk0eXFVRDRIb2ZIZXpSeVJQOVBFUzhvcWdfc3JFNEhNdjNweEFOMUxnUFNlVw?oc=5",
-   "published": "2026-10-27T10:00:00+00:00",
-   "id": "38eb3325fdd2",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7912,7 +7912,8 @@
   "news|8f84dc3cf0f5": 1793200571.3436284,
   "news|d9ab0d293cf2": 1793200572.375976,
   "news|f77196a29726": 1793201487.2954435,
-  "news|a25970d8e3ec": 1793202368.158996
+  "news|a25970d8e3ec": 1793202368.158996,
+  "news|e6bf05bb4607": 1793203301.7508035
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8143,6 +8144,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T16:01:41.750900+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Warns Of Global Energy Shock If Israel Strikes Again</b>\n📰 i24NEWS · Mer 28/10 16:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1BzYmhrUThZQWhJYzVjdjdJYTRxY0w3ZnppUERHZXRZVjhLRU5ydHhGUC1mQzBURmdmZTZhRlVzUXpUc3Z3RzBCNlRaMm1ySHpQLWN3a0pNZXdoZGo1VmRCV3FSVVlMVk1SVE1mWkhhVkhxbWNGLTMtZ2V1blZBck5zaHU4UzlURWxIck9ZV1NnOGRCRlhXNDFQYXd2WVZqamxTRi1xeFlxbE41UVdWRmhkbUdzWXlkblJsR1U4NG5pcU0?oc=5"
+  },
   {
    "ts": "2026-10-28T15:46:08.159096+00:00",
    "kind": "news",
@@ -8437,11 +8443,6 @@
    "ts": "2026-10-27T21:31:22.840419+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>New Report: Trump’s Wealth From Oil &amp; Gas Stocks Climbs To As Much As $81.6 Million Amid Iran War, Surging Costs For Americans</b>\n📰 Senate.gov · Mar 27/10 20:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxObDRtMHZCYUNNemtFVHlBdmNJU01zX1hmOGswMUttNGJycDVwTG5tQ0gzVE1vWkxUcm5TX3paZW0xbm92Q0ZyQ0hVMnVjLV90S1JWbi1zQmIyUkM1YnVsZkZ4NUR6VWljbXk3X2lWT2JHLU1sd3N5eDNrQTFzc1NiY3g1bGtoRGFVdW1rT1RRNTI1aDR6WWtGMU8wSXNNd1Qxa1RxNUZlci1qTTVsMnJQVzNyalJoUVhpcnJzaG9JbVRDLTc3ejVWMzdUTXdYX1hhMWhjR1hsMDhqZFo3Y2R3RHQ2S2pxRHZGcS1DZ3J2c3E2Q3lYaTVIZVNuaVdpMElDSUlobg?oc=5"
-  },
-  {
-   "ts": "2026-10-27T21:16:14.544184+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu sought Iran strike ahead of elections, IDF chief resisted, report says</b>\n📰 Ynetnews · Mar 27/10 14:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TX3RPcUl3bDAxSkgyRXlObHplbFprdWxZWlZ1emtVVWx6bjY0NmxRczFteExoX1doRWxoSHM3dUJ0THFOOWJCdnVFUlNPOXNpVlBBa1ZB?oc=5"
   }
  ],
  "daily_forecast": {
