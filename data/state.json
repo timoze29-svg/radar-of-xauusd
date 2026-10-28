@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "71e6bd9a661a",
-  "8e12ad26fcb6",
-  "2c43b56516ce",
-  "ef26fc89de4d",
-  "f060fae73fd5",
   "4702d23a72aa",
   "6c69a03d547c",
   "b4b2559f43be",
@@ -4044,7 +4039,12 @@
   "1a39a56a9ea3",
   "f3b0c075428d",
   "75df95bb8292",
-  "0e468108b97c"
+  "0e468108b97c",
+  "826fe8fbb673",
+  "40850d1162e9",
+  "497d015b33b1",
+  "e4a3d7228df5",
+  "d788cb17beaf"
  ],
  "news": [
   {
@@ -4070,6 +4070,18 @@
    "cat": "commerce",
    "raison": "Limites des tarifs suggérant un risque de guerre commerciale légèrement amoindri.",
    "method": "IA"
+  },
+  {
+   "title": "Trump says imported robotics pose national security risks, no tariffs imposed",
+   "source": "TradingView",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVXpNb0FHSmhBY2NDMEgxRTE1bWhmLUJnandmMkxJTmdiUHRDd0ZjMUtqUWg1Mjduc3pEMFdYYlJaSnN0ZDVtc21JMU9BckhISjdWN1psQTFlXzVvSnlwSk5za1dWWk5wcHFQczcwSWNmN3dwSlRuZ1ZOWUthbFpWeHRVNGsxdXQ1Rld0Yk5Yb2RMSGJ6cVhwenZKSnNYSlVNcUF3eHZ3WUZ3TE9YYjhzVFJtYXJza2s2Si1YU2dBUEFlWWliV05yWHNMM0RaNE53NDlBUFdUUHU4MlJXcm53?oc=5",
+   "published": "2026-10-28T20:11:38+00:00",
+   "id": "40850d1162e9",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump signals possible end to Iran war as US reportedly prepares for post election strikes",
@@ -6434,18 +6446,6 @@
    "cat": "or",
    "raison": "Sentiment d'hésitation technique signalant un essoufflement et des prises de profits.",
    "method": "IA"
-  },
-  {
-   "title": "Oil falls as Middle East talks outweigh concern over fresh strikes",
-   "source": "Yahoo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkRSSnhZS0hONm9MdE1qcVpHMjFlY254SEt0UjF2WnFfQmpRYXlSY2pJeWMxTzR5SF9UQWxhZlNGbVZObDNlaFV0QnhsZ1dMV1RPR20xal94SE42cEsxd1YtMGk3MEdldUZ4SGpraThFcWhaZWJ5NGR2aHJqNjd4bnY2TQ?oc=5",
-   "published": "2026-10-27T14:24:30+00:00",
-   "id": "45738f0be5be",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Baisse du pétrole et espoirs de pourparlers réduisant la prime géopolitique et inflationniste.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7931,7 +7931,8 @@
   "post|2026-10-28T14:30:00-04:00": 1793214460.6162102,
   "news|ac526b8be764": 1793215129.7581813,
   "news|8e9c51846a01": 1793216952.2222104,
-  "brk|GOLD|pdh|up|2026-10-28": 1793217695.984735
+  "brk|GOLD|pdh|up|2026-10-28": 1793217695.984735,
+  "rep|recap|2026-10-28": 1793221301.3644001
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8162,6 +8163,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T21:01:40.382144+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — MERCREDI 28/10</b>\nOr : <b>+6.8$</b> depuis minuit · plus haut 4097.2 (21h00) / plus bas 4036.9 (19h30) · range 60$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-2) à 4046.2 → maintenant 4083.8 (+37.6$)\nRange : 60$ réalisé vs ~69$ attendu (87%)\nNiveaux touchés : P, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 62% de bonnes directions (8 ✅ / 5 ❌ / 0 ➖ sur 13 jours)\n20 derniers jours : 62%  ·  ❌✅❌❌✅✅✅✅❌❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.23% · Taux 10 ans +5.2 pb · Pétrole +2.07% · EUR/USD +0.23% · S&P 500 +0.32% · Argent -0.91%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs\n🟢 (+10) Trump Threatens to Escalate Iran War as U.S. Heads Into Critical Midterm Election\n🟢 (+10) Iran war live: UAE’s Gargash issues call for calm amid escalation fears\n🟢 (+10) US warns Gulf countries of possible Iran war escalation after midterm elections\n\n📅 <b>Demain (jeudi)</b>\n🔥 <b>13:30</b> 🇺🇸 Advance GDP q/q (prév. 3.2%)\n🔥 <b>13:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n🔥 <b>14:15</b> 🇪🇺 Main Refinancing Rate (prév. 2.65%)\n🔥 <b>14:15</b> 🇪🇺 Monetary Policy Statement\n🔥 <b>14:45</b> 🇪🇺 ECB Press Conference"
+  },
   {
    "ts": "2026-10-28T20:01:35.984788+00:00",
    "kind": "breakout",
@@ -8456,11 +8462,6 @@
    "ts": "2026-10-28T03:31:32.733929+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Day 243 | Regional tensions escalate as Saudi Arabia intercepts missiles, Iran warns US</b>\n📰 Roya News · Mer 28/10 04:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIYWxwRXZsbHBQbU9rcDZBRjh6SGNXOGhyRF9uZ043OF9TaUJlYWxLYU03UWFfTVBGM2pueWZUR21UNU5ETFVBbw?oc=5"
-  },
-  {
-   "ts": "2026-10-28T03:16:12.571691+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Strait of Hormuz Tensions Escalate as Iran Seizes Ships, US Maintains Pressure Amid Fragile Diplomacy</b>\n📰 DD News · Mar 27/10 08:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3VIeHItTWJRb1lGNExhak4yRVhnVldPZkdUb1Y4YUlYa0RJUGxZeE1lRUdSY2NDSjFQZjlHanI3TG9uc01rRjh1QUhzc2sydThMVlNjWlhnaFZ2YWRQdkN6bWQ0bGsxbHhTMjBCM2UyT0M2anVKel9zWEgwbkdFZkZlajVXblNpZUJWZFlqa3VCQnV2N2hhUm1WTTBHRDVrYnNabVliek95aWVJTVhLQzloV09qVlRVaVpEVXp2OW9RZHJU?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8574,11 +8575,19 @@
    "mv": 51.3,
    "range": 77.8,
    "exp": 62.9
+  },
+  {
+   "date": "2026-10-28",
+   "dir": "range",
+   "res": "miss",
+   "mv": 37.6,
+   "range": 60.3,
+   "exp": 69.1
   }
  ],
  "evening_recap": {
-  "date": "2026-10-27T21:01:42.497297+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — MARDI 27/10</b>\nOr : <b>+47.8$</b> depuis minuit · plus haut 4079.4 (18h35) / plus bas 4001.6 (09h50) · range 78$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+5) à 4023.2 → maintenant 4074.5 (+51.3$)\nRange : 78$ réalisé vs ~63$ attendu (124%)\nNiveaux touchés : P, R1, S1, R2, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 67% de bonnes directions (8 ✅ / 4 ❌ / 0 ➖ sur 12 jours)\n20 derniers jours : 67%  ·  ✅❌✅❌❌✅✅✅✅❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.35% · Taux 10 ans +0.7 pb · Pétrole -1.09% · EUR/USD -0.43% · S&P 500 +0.60% · Argent +1.08%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) European infrastructure is vulnerable as Putin escalates Russia’s hybrid war\n🟢 (+10) Russia strikes major Kyiv road bridge in what Zeleskiy calls serious escalation\n🟢 (+10) Iran war escalation raises concern over civilian death toll\n🟢 (+10) Trump faces escalating oil crisis over Iran blocking Strait of Hormuz - ABC News\n\n📅 <b>Demain (mercredi)</b>\n🔥 <b>19:00</b> 🇺🇸 Federal Funds Rate (prév. 4.00%)\n🔥 <b>19:00</b> 🇺🇸 FOMC Statement\n🔥 <b>19:30</b> 🇺🇸 FOMC Press Conference",
+  "date": "2026-10-28T21:01:41.364352+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — MERCREDI 28/10</b>\nOr : <b>+6.8$</b> depuis minuit · plus haut 4097.2 (21h00) / plus bas 4036.9 (19h30) · range 60$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-2) à 4046.2 → maintenant 4083.8 (+37.6$)\nRange : 60$ réalisé vs ~69$ attendu (87%)\nNiveaux touchés : P, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 62% de bonnes directions (8 ✅ / 5 ❌ / 0 ➖ sur 13 jours)\n20 derniers jours : 62%  ·  ❌✅❌❌✅✅✅✅❌❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.23% · Taux 10 ans +5.2 pb · Pétrole +2.07% · EUR/USD +0.23% · S&P 500 +0.32% · Argent -0.91%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs\n🟢 (+10) Trump Threatens to Escalate Iran War as U.S. Heads Into Critical Midterm Election\n🟢 (+10) Iran war live: UAE’s Gargash issues call for calm amid escalation fears\n🟢 (+10) US warns Gulf countries of possible Iran war escalation after midterm elections\n\n📅 <b>Demain (jeudi)</b>\n🔥 <b>13:30</b> 🇺🇸 Advance GDP q/q (prév. 3.2%)\n🔥 <b>13:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n🔥 <b>14:15</b> 🇪🇺 Main Refinancing Rate (prév. 2.65%)\n🔥 <b>14:15</b> 🇪🇺 Monetary Policy Statement\n🔥 <b>14:45</b> 🇪🇺 ECB Press Conference",
   "ai": false
  },
  "dp_last": {
