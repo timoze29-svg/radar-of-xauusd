@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "159ddd1d1d41",
-  "4a279283e5f7",
-  "bd89090968a2",
   "46640d107fd0",
   "36386389c87d",
   "a2e3ca637c4d",
@@ -4044,7 +4041,10 @@
   "8a79a5f2e149",
   "6815acc8dca7",
   "aec52514e283",
-  "01ed6f671ab5"
+  "01ed6f671ab5",
+  "a6034bc1b346",
+  "5990a1d1beb8",
+  "d336868452c7"
  ],
  "news": [
   {
@@ -4081,6 +4081,30 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
+   "published": "2026-10-28T01:01:00+00:00",
+   "id": "5990a1d1beb8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Australia’s CPI inflation rises to 4.3% YoY in September, vs. 4.2% expected",
+   "source": "FXStreet",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkgwRVZiamNSUmJ4Rm9GLTFieE5rbUIwd2pYUjFZeXYwYjk1RUQ4dnZvdHRVTjNOZHZ3VlJYMUtnMG44dFdoaS1rVzJoWjlvZnJoVVk1UWVLM2ZFZkNCR0dpWUJnZDE1amEtWjRhc215LWhOeXhsbkQxZ1VYR19Wb0YxTWpKQ09jNXFXZDN2R2ZhWEtfczJv?oc=5",
+   "published": "2026-10-28T00:59:23+00:00",
+   "id": "d336868452c7",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "politique US",
    "raison": "Sondage politique mentionnant inflation et tensions en Iran, impact de marché très marginal.",
    "method": "IA"
-  },
-  {
-   "title": "Opinion | Brace yourself, GOP. Trump’s Iran war and tariffs are going to sting.",
-   "source": "The Washington Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0ZZWUVxTE90YTY4SERGdVhsMlFxNUF6ZWdlSmxPcERBNk9YUWxRV0RIRzY4czJrX29ocEVJeE5rN0d0VFJ0TTlVMVJpNTdJck04QThZLVdYTm9CRXp1OEg5V0NMZGM0WGhEU1lxMWZkQWhQMDU4cmxmbm1XSm5YWDV1RjEyeDc2d1picmtqZlFwaFFQajhUY242QVNPTU9fZ21ScnBNdHJ3TkJ0ZDNHeQ?oc=5",
-   "published": "2026-10-26T18:30:00+00:00",
-   "id": "080e65c05fec",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Fed Rate Hikes In 2027 What You Should Know",
-   "source": "Forbes",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjBfRl9BdjJ4TE9UMk9BY1NmYWp3MFVuNWkwYnIweWpuRldsZU8zQk9rWFBTRUhpVXQyYW9WZWFXd0EzVWZ2VnZwdUljYmFuQmE1QmstWXpmcUZOaDVlZ1pJbnB6anFMUEZIdnU2S1loUGtnV2Z3R2ktbkgtek5VNThFUnFVUHhpbGF5NEEyd1dIR0p6X0tGc0tuYUY?oc=5",
-   "published": "2026-10-26T18:29:54+00:00",
-   "id": "6c1c53a318bc",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7871,7 +7871,8 @@
   "news|037b48bd44f1": 1793152901.7168021,
   "news|9a4e8df9fd78": 1793154689.6577368,
   "news|a19d717fd9fe": 1793154690.671177,
-  "news|1d0bdf1363fc": 1793155633.8327906
+  "news|1d0bdf1363fc": 1793155633.8327906,
+  "news|5990a1d1beb8": 1793156495.8395193
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8086,6 +8087,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T03:01:35.839610+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US costs of Iran war rise to over $47 billion, according to Pentagon estimate</b>\n📰 Reuters · Mer 28/10 02:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5"
+  },
   {
    "ts": "2026-10-28T02:47:13.832874+00:00",
    "kind": "news",
@@ -8380,11 +8386,6 @@
    "ts": "2026-10-26T22:31:30.726835+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Not even sky high gas prices or the Iran war will stop Trump supporters voting MAGA</b>\n📰 Fox News · Lun 26/10 23:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHZFWEwtTWZmTHFvamNqVmYtaE5KSTdzVlFSVzZFRFNnYkRVTzhYTW5yREtsb25MMDc5SkViRmIzTmtmOUxwM0ppb1RQWExaaDNweEFQOUNwc092dXpMRHhpbmJHUVEybzIzQnRyQVhYNDhNQjZaMThDY0YwSXE3TkVWei12M3VSLUg3YmFPQjBLUDdsb09jZlA4R19ZVWpiRHfSAacBQVVfeXFMTkxQZTg0V25zTTdlbE9BSWIzU0xhVDdLRGZfRS1QQ08wWkxQSkszY2RXZml5UXpsSGFoZFJPNXh1ZXREZGdxM2gyRVNXcWd4NlhDNW56bk1qNWt4aWUxcFM2S1JqbHhwdUw3dy10NmFTTGtHQ1JxWjFWeENXZVN4Qk9PMnJQeTRJMkpHZGd3WXhQTmFLZjlHYm1nZFIxUVQ1X0lqQ2YzRUU?oc=5"
-  },
-  {
-   "ts": "2026-10-26T22:31:29.802089+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Outlook 2026: Central Bank Demand Stalls Amid Iran Conflict, Fed Tightening - News and Statistics</b>\n📰 IndexBox · Lun 26/10 23:10\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFE0S2pzT2Q3MGwtV2pDWWVyMWRkZ01nME1XRUdfSXZaV0pwdDJjUWpuakFlZ2E5WWJGREhRc1BFVWZzR00yRXlQeXJwX1VRTlNQanhIOE5NRzFYdjJfT1JTT21BeEp2X2l6aGN0REJ2OU9HWlZOdUlwZUFLMXJNbXhJbGlGS2U4MVVGR0JJRUk0LW5vYTBhUjhhMFBtdHlZVnl6U0VBOWtPLUtoSktVeGx1Nm9rN1JEdlJkZmlvS2w?oc=5"
   }
  ],
  "daily_forecast": {
