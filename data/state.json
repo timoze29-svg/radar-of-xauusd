@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "1dfcc0e8fe7a",
-  "86259c741363",
-  "ca70441678d7",
-  "95cc1ea5ac69",
   "8694c26b519b",
   "91818c6af08b",
   "9f4cf347477d",
@@ -4044,21 +4040,13 @@
   "96caee6a48f5",
   "636a59d2978e",
   "832e12bffabf",
-  "4fceeff00dd9"
+  "4fceeff00dd9",
+  "cf43ca70e2ce",
+  "b267ada6196c",
+  "21a63dacbf80",
+  "1161168d66d6"
  ],
  "news": [
-  {
-   "title": "Gold Price Forecast: $4,096–$4,125 Zone Sets the Tone After Fed Decision",
-   "source": "FXEmpire",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUY3RWlHbmg1RVl5SFIzOGJpZnkxZWVEQkcxRlVvTkd1MVRoQ2tEVW5uRzh0eEVvUmdNTHJLZ2s4cEhiUXZITWRkeThreEZDS3ExbWdkUkMtMk8taVpZMkRuQXMxS1JzSjNxanVfanRZRFpPNzhpQURSZWZaSnYzdkhJa0d1MldYSHFQOXlsdTdnRTJObG83VTlERHBZTEtwZHk2OVdtaHIzcWFiMUxlUi1mS0g0cXRrZHc?oc=5",
-   "published": "2026-10-28T13:42:08+00:00",
-   "id": "90f99f73c503",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Turkey warns against further attacks by Russia, Ukraine on Black Sea vessels",
    "source": "Reuters",
@@ -4214,6 +4202,18 @@
    "cat": "taux",
    "raison": "Taux US 10 ans au-dessus de 5% : hausse majeure du coût d'opportunité.",
    "method": "IA"
+  },
+  {
+   "title": "Trump, Congress set to clash over Hegseth, Iran war, Ukraine after election",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWGN5NHVUMFZKR3VPVDJiTFA0ZkZhUnBTd3UwTmJHRmdac0xjOVR2ZVZVQ0RQeXhlZ1pfWDhRTUhNNE1xM29DQnBHWkYxQjgzTEJVMEhUcU5xaFBxRUotSGVTaHBwU2d6UkdKeFFLWXZLel80aWRaV0lrRHU2SWs0X1A5OHVoNEVyNHkxMTB5bWg5cFnSAZgBQVVfeXFMTi1mX1FpZ3hsTV9DVVpvcXMxU0lDX0pKbmIzdENOMG1QWTFjTzU2YnRMOU9vNUdJYVVjRnVSX0o2SG1QdWt1ai1JVFA5QXJmQ1RZSFlsUDh6VkttZDd0MEhjb2JicVVHV0k1ZzktSUZzeThCWGRsM0U0TF8zUFEzekVGUXFITENpZlRoYVZaVlAtVUNoWGFpcjQ?oc=5",
+   "published": "2026-10-28T11:00:00+00:00",
+   "id": "cf43ca70e2ce",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Cross-Strait Ties: Chinese mainland slams Taiwan's DPP authorities' budget for US military observers",
@@ -7903,7 +7903,8 @@
   "news|a8e462eb092d": 1793192502.0791073,
   "rep|update|2026-10-28": 1793192504.224476,
   "news|4d1ecfa7c6cc": 1793193381.2997558,
-  "news|a11dfef2fbb6": 1793194377.935417
+  "news|a11dfef2fbb6": 1793194377.935417,
+  "news|cf43ca70e2ce": 1793196103.7596629
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8134,6 +8135,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T14:01:43.759727+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, Congress set to clash over Hegseth, Iran war, Ukraine after election</b>\n📰 The Hill · Mer 28/10 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNWGN5NHVUMFZKR3VPVDJiTFA0ZkZhUnBTd3UwTmJHRmdac0xjOVR2ZVZVQ0RQeXhlZ1pfWDhRTUhNNE1xM29DQnBHWkYxQjgzTEJVMEhUcU5xaFBxRUotSGVTaHBwU2d6UkdKeFFLWXZLel80aWRaV0lrRHU2SWs0X1A5OHVoNEVyNHkxMTB5bWg5cFnSAZgBQVVfeXFMTi1mX1FpZ3hsTV9DVVpvcXMxU0lDX0pKbmIzdENOMG1QWTFjTzU2YnRMOU9vNUdJYVVjRnVSX0o2SG1QdWt1ai1JVFA5QXJmQ1RZSFlsUDh6VkttZDd0MEhjb2JicVVHV0k1ZzktSUZzeThCWGRsM0U0TF8zUFEzekVGUXFITENpZlRoYVZaVlAtVUNoWGFpcjQ?oc=5"
+  },
   {
    "ts": "2026-10-28T13:32:57.935503+00:00",
    "kind": "news",
@@ -8428,11 +8434,6 @@
    "ts": "2026-10-27T14:46:07.411472+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's oil and gas stocks gained millions in value amid Iran war, according to Democrats' report</b>\n📰 CBS News · Mar 27/10 12:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2tOMndQRDhRMHZ1SjlVLXpiMFE3UkFDQTA3Z1Q1MzFtaVUtLVdVbDdrMS16RWlkYjFEazBXSmM5VHVMUXVVTjdGelZRLTItR2VNbVEwT2l6cDVnS2FscGRWMUNNdzlNeVA3S2NOVUtYM2xYSUp3a1dReHRzdlJsWFB2SzNYcHY2RGhhMEEtQmpTSnlYRGRuSk5Bdw?oc=5"
-  },
-  {
-   "ts": "2026-10-27T14:16:22.252008+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.003 → prix : <b>5.005</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.13 | 60j -0.19"
   }
  ],
  "daily_forecast": {
