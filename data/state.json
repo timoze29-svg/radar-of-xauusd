@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1793153746.9732902,
+   "ts": 1793196949.5774148,
    "data": {
     "date": "2026-10-20",
     "net": 199865,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793192478.1912837,
+   "ts": 1793196949.6341934,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "8694c26b519b",
-  "91818c6af08b",
-  "9f4cf347477d",
-  "c63f16698e89",
-  "ddc6e919d5c6",
-  "52ec0a540169",
   "15eabeced5c8",
   "446e83266bf5",
   "9ebc2f84561a",
@@ -4044,9 +4038,39 @@
   "cf43ca70e2ce",
   "b267ada6196c",
   "21a63dacbf80",
-  "1161168d66d6"
+  "1161168d66d6",
+  "22bc292843da",
+  "0d9c30934d15",
+  "041b4c10d2f2",
+  "b34789e64b75",
+  "b50224baefd5",
+  "31ad2e2baa4b"
  ],
  "news": [
+  {
+   "title": "Federal Reserve expected to pass on interest rate hike, for now",
+   "source": "upi",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZYR3Vjakp1SUxsRVNKUDdzbndmdUVRV2hDdTRPMzNhWGVpY1hzdTcxa2hVYXBkbFdKbE9mRzZqem1Oc1V0UUhYQm40dXZ3emJPVnlralNwRXF1SDc4ajhPRHVVLUxiX3A4ZzF1aUJIQlhBU0d6cnBpUFA4alRaQnpZYlVnUVZORGpObThHcTJtdi1FRWVpNzloM2RpeWVCMm1PUl9OSVRSdnhS0gGyAUFVX3lxTE40X3hBWTlweUxqWVl5Y1lBWFBYZXZNRWR0NzBOS25FX1Z0UTNKdGFJQWxnY2h4R0MzQ2lzd3ZHRmsxaC1za08wN1c4Q043TGlUa0FaYVc3LUxheUNpWGFuWVZjWGRDRGlLazRQMUF3bEVQYzhCQjZaYUp6bGpuNnM0T2h1X1ZGeldaTkR4VmxkR1FIelBWbEJjeHBPdFpva3REMm1OUjVRZDNaNWJiV1hmQmc?oc=5",
+   "published": "2026-10-28T14:03:09+00:00",
+   "id": "b34789e64b75",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "President Trump’s Steel and Aluminum Tariffs: 1.0 vs. 2.0",
+   "source": "The American Action Forum",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWJGdlVBWU54VE1ZdVlmTTFTRkV5SEl5YXhVSTI3UmdLMkxZYVZKTGZMcEtnaF95Slh2OVZEcXkyQUtYVnFCSVlVTTBya1dfWktUOWNDeVJ0Y1ZiLXlYMXBZVngwZm5PUjlseG9rQTljakd2bVM3QUswbHNLWC1Hb1lWd1R4X24yZnVYTjR4bjJmQXc4Y25MVkJ0Q2ZjcnZx?oc=5",
+   "published": "2026-10-28T13:50:52+00:00",
+   "id": "041b4c10d2f2",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Turkey warns against further attacks by Russia, Ukraine on Black Sea vessels",
    "source": "Reuters",
@@ -4057,6 +4081,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Local ceasefire in Russia-occupied Ukrainian city holds for second day",
+   "source": "France 24",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOempxV2xZYTNRVUJQcWFOU2ZscmFWTmxwYVlzSDlqOVRZNDZBWXZaR3hjRmxZLU1ackhFdXBWUllRTldPR2RVSDBtUEg4bTRtYmw0ZXlhbXhWcGRhQU5CcmtUcWVSNUN4Z2JXX01xTmdseGZlMGJmYVRxQ19MZHVCZmtzZGdjVlAwVEJFdHlTUExGMzRQSnJMYzVPdTlzbk51WnE3VHl1U2Mybzh1dHpZSTR2SER5d05w?oc=5",
+   "published": "2026-10-28T13:26:35+00:00",
+   "id": "31ad2e2baa4b",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4166,6 +4202,18 @@
    "cat": "géopolitique",
    "raison": "Geste diplomatique symbolique sans répercussion macroéconomique notable sur les marchés mondiaux.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: UAE’s Gargash issues call for calm amid escalation fears",
+   "source": "Arabian Business",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-10-28T11:38:17+00:00",
+   "id": "0d9c30934d15",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "WTI Price Forecast: Fears of fresh escalation in Middle East conflicts boost prices above $100",
@@ -6398,54 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Vestas stays well positioned in US despite new Trump tariff uncertainty",
-   "source": "EnergyWatch",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TLUUwN2pPbzJubzBUS1VPTHFKa1IwbnZSTHdTbmlxbmRFOGJtaGxld1ZsRWRkRWFPMHMtcE1ZUGpRRUhOTHBoYXFtelVrUldVVW1kaUJfOVFldUd5ei03Ukl0Rzlyem01a09J?oc=5",
-   "published": "2026-10-27T08:07:32+00:00",
-   "id": "8480f88d37ad",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "What to Know About the Cease-Fire for a Besieged Ukrainian City",
-   "source": "The New York Times",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hOTY5VDcxV2FzdURPNmRPb1lPMUZ1NzZUNmkzM1pxa3dDNzZfQTZ6Q1NFbkwwY2hVY2tDWVBHM0tocl9sY0V1U0VnUHNibTIwZXpZajVzQmkzcHlxMGVyR2NLc1pFVzNYbkhRamdWR1FqbU5yUlNfVFVwMA?oc=5",
-   "published": "2026-10-27T08:07:21+00:00",
-   "id": "5a92405c599c",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Israel’s Military Chief Reportedly Opposed Pre-Election Strike on Iran",
-   "source": "The Defense Watch",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXpfcVllcm1Ydm91MEpSSFRWVEo3b1NSSjJpN0RVZjJRUzZEdXY2VUxKeHJ2UlQyVzJhaE80WmFGZERpME55YjBnUzd1em04V1o1MTlnWjU3WXgwMEFzbDRCTUhJT3JyRnJ3T1lzdXRSbHFVb1J1dEpXZmFWYVRkNW1vaXlERXowT3Ziam1qMm5HN2RWWWNz?oc=5",
-   "published": "2026-10-27T08:03:45+00:00",
-   "id": "c36be5d4b65f",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Iran war escalation raises concern over civilian death toll",
-   "source": "DD News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFRjeUJtcDhnRHlxVkNTRTRoUEsxNFF2NzFzWFU2TlNoNk9pc0FSY0RSSzdkLU82TFFiR3RPelF1SmI2T0syNnlDeHlPUFdxN29Lc3EyMkllaGJxRUVDdWN3c3lSRHZ3R0VoSFFzVFIzb2FKcWJhRHFNRHkwbzZXWjE0ZndCYWVtRmRSU1pJMWhldkg1SlE?oc=5",
-   "published": "2026-10-27T07:50:36+00:00",
-   "id": "e44426f3467a",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7904,7 +7904,8 @@
   "rep|update|2026-10-28": 1793192504.224476,
   "news|4d1ecfa7c6cc": 1793193381.2997558,
   "news|a11dfef2fbb6": 1793194377.935417,
-  "news|cf43ca70e2ce": 1793196103.7596629
+  "news|cf43ca70e2ce": 1793196103.7596629,
+  "news|0d9c30934d15": 1793196976.524777
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8135,6 +8136,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T14:16:16.524876+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war live: UAE’s Gargash issues call for calm amid escalation fears</b>\n📰 Arabian Business · Mer 28/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
   {
    "ts": "2026-10-28T14:01:43.759727+00:00",
    "kind": "news",
@@ -8429,11 +8435,6 @@
    "ts": "2026-10-27T15:01:39.499610+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.1305 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-10-27T14:46:07.411472+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's oil and gas stocks gained millions in value amid Iran war, according to Democrats' report</b>\n📰 CBS News · Mar 27/10 12:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2tOMndQRDhRMHZ1SjlVLXpiMFE3UkFDQTA3Z1Q1MzFtaVUtLVdVbDdrMS16RWlkYjFEazBXSmM5VHVMUXVVTjdGelZRLTItR2VNbVEwT2l6cDVnS2FscGRWMUNNdzlNeVA3S2NOVUtYM2xYSUp3a1dReHRzdlJsWFB2SzNYcHY2RGhhMEEtQmpTSnlYRGRuSk5Bdw?oc=5"
   }
  ],
  "daily_forecast": {
