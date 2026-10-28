@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793197867.1298096,
+   "ts": 1793220348.7792153,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.66,
-     "date": "2026-10-26",
-     "chg5": -0.14,
-     "chg20": -0.17,
+     "last": 2.64,
+     "date": "2026-10-27",
+     "chg5": -0.13,
+     "chg20": -0.26,
      "hist": [
-      1.96,
       1.94,
       1.96,
       1.93,
@@ -129,7 +128,8 @@
       2.76,
       2.64,
       2.66,
-      2.66
+      2.66,
+      2.64
      ],
      "gold_rel": -1
     },
@@ -265,12 +265,11 @@
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.68,
-     "date": "2026-10-26",
+     "last": 4.7,
+     "date": "2026-10-27",
      "chg5": -0.09,
-     "chg20": -0.13,
+     "chg20": -0.22,
      "hist": [
-      3.93,
       3.87,
       3.92,
       3.9,
@@ -389,14 +388,15 @@
       4.81,
       4.65,
       4.69,
-      4.68
+      4.68,
+      4.7
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-26",
+     "date": "2026-10-27",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -408,7 +408,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -480,6 +479,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793215865.7839663,
+   "ts": 1793220348.9222262,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "a31c4e1eb7ab",
-  "8e3c4c8b7ead",
-  "977750e85184",
-  "adf21f0ec458",
-  "5c39098b3fe4",
-  "ef4900d3ac2f",
   "71e6bd9a661a",
   "8e12ad26fcb6",
   "2c43b56516ce",
@@ -4044,9 +4038,27 @@
   "b70c0ac7b3fd",
   "cda8e331f7b7",
   "a3c32cae3e1f",
-  "ee1f60e0eb68"
+  "ee1f60e0eb68",
+  "a68cf8acce80",
+  "e027823df9f2",
+  "1a39a56a9ea3",
+  "f3b0c075428d",
+  "75df95bb8292",
+  "0e468108b97c"
  ],
  "news": [
+  {
+   "title": "Trump Delays Robotics, Machinery Tariffs in Favor of More Talks",
+   "source": "Bloomberg.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUp2SjdYSFFKSDRxY0lWTkNjV1BGSjVrams3dnc4NFRpdGpINkxVa1ZMYjBGRmpHTDRqZXV1azI1OEtiV3AyTDhobGpEcnFGWGYyU1FrT3hkSlV3U0hSMm9tZmVhbXM2MVdTcnc1a2ZCNUw0WnpIZS1EejhFakZEOUNyTTBOME5fa25UTFhjdklncGVjUFFFM3lBMWtCejZCSGxfZkxIbFNUNmtfRFBSc01zbw?oc=5",
+   "published": "2026-10-28T20:37:13+00:00",
+   "id": "e027823df9f2",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Canada Shows the Limits of Trump’s Hardball Trade Tactics",
    "source": "Council on Foreign Relations",
@@ -4070,6 +4082,18 @@
    "cat": "géopolitique",
    "raison": "Menace de frappes américaines créant une légère prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Exclusive | Vance Reaches Out to Iranian Hard-Liner in Bid to Restart Peace Talks",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzVvb25ndkFLZDV5RnM2dGE2NGRlcHZNTV8wMFl2Z3lNdFk2TnpqSUQ5QXJkSkNlZThnMzI0ai1iVW1YMWxsZUdGcFRBdmNudmR0SFZqOTJMOUNIVjRzNV84OWVoMkhvZy16VzFsel8zOVVyLXpxajV2WlQ3TVdScTFwZGh6NTUzbjBxa0I3bzVDWDFHUFBRUHFPcW9GeU41cVpKN0xMYTdJek54VXQtSlVEZVM4M1k?oc=5",
+   "published": "2026-10-28T19:59:00+00:00",
+   "id": "a68cf8acce80",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Middle East latest: Yemen says Houthis attacked Aden airport twice with ballistic missiles",
@@ -6421,30 +6445,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Baisse du pétrole et espoirs de pourparlers réduisant la prime géopolitique et inflationniste.",
-   "method": "IA"
-  },
-  {
-   "title": "Norway and Finland hold rare call with Putin to discuss ending war",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-   "published": "2026-10-27T14:23:05+00:00",
-   "id": "cfb15f7d3f01",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Tentatives diplomatiques européennes réduisant légèrement les tensions avec Moscou.",
-   "method": "IA"
-  },
-  {
-   "title": "Russia and Ukraine Trade Drone Attacks Despite Local Ceasefire in Russian-Occupied Oleshky",
-   "source": "Democracy Now!",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEVvYndBbXRWaGZHcG91Z3lWaTB3RGlkX0VTNkkwZWN0ZVdWa2psc0tZZV80YjMzSWplVHY1azJQX0loclRLdktmeTZXY21sREpsU1VXZTJ6bXoya1k2ZXJzMGxub2FHM2hvbFNpM3RTQnAtS3ZqMnhnMkNjX0JZdmN6amFmaTgzbXBnSWtrQUlKMnpGV1RoUG9yUWpBUnU4MkZBRTFsdlZ4Y194QjU2RjdkaktjNXBzanVnR0dTS2k1eFdhR0phUFJSa1RQanRJY1Nxb1FlVQ?oc=5",
-   "published": "2026-10-27T14:10:42+00:00",
-   "id": "942563916bc7",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "La persistance des combats fragilise les espoirs d'apaisement, maintenant la prime de risque.",
    "method": "IA"
   }
  ],
