@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "36d21e3d7b60",
-  "9c04bfe5c71a",
-  "d9ab79f5898f",
-  "cc56107be2ab",
-  "d1190c96efd0",
-  "218cd959a0a1",
   "4d0517d14daf",
   "c45d4083400d",
   "9894eae1334c",
@@ -4044,9 +4038,27 @@
   "5b99fdda5af4",
   "3dad5d694947",
   "002af5d1c354",
-  "0cf4cd39dd3c"
+  "0cf4cd39dd3c",
+  "1d1aa1d12f9f",
+  "9e5b3a224646",
+  "c5f2bae350a8",
+  "3b9f9d0407c8",
+  "039b51840d6f",
+  "eefbe791265d"
  ],
  "news": [
+  {
+   "title": "Official Price Tag of Iran War Jumps to $47 Billion as Trump Says It Will End 'Whenever I Want It To'",
+   "source": "Common Dreams",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JOEJhU1ZMc2xNTDBRY2pIejFuNWdmU0xFeDFGTE1XbkFJcDJETEdDeGVwS0hSM1ZWbXpMelJ5V3ZHV3RGVm4tWFF2WEM1clNnNDNPdVhTRjMxeUM0TlFkTGFyQXpWYVU?oc=5",
+   "published": "2026-10-28T09:56:10+00:00",
+   "id": "9e5b3a224646",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "China denies Taiwan’s claim it orchestrated attack on comedian who mocked Xi Jinping",
    "source": "NBC News",
@@ -4115,6 +4127,18 @@
    "published": "2026-10-28T09:14:34+00:00",
    "id": "23e611c9cf88",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "China dismisses Taiwan’s accusations of involvement in attack on comedian",
+   "source": "Sowetan",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVRpRF9ZYTNuMmVHdy01a0Q3ajA1bXVRak82NFdXWUlkeWtURk9nTDh3TEotNGtNcndLRWRQelVRWmpGRmc0UFJLUXhDN1lFS2R3ZFpzRGZrNXY3bnZBa1dhU0d0dmo1SVA0OWRTbmY1Nm9mYkJDU3NQVE9DOWpKdjBnMXB4WFlfQlg3TktRWHVvNVdZdlFPWmVTanpzekpuQlJ0d2V2YTFCQ1BwZURidkhZY0VERTRhWU1Mb2FB?oc=5",
+   "published": "2026-10-28T09:12:55+00:00",
+   "id": "eefbe791265d",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Menaces sur le détroit d'Ormuz, risque élevé de perturbation d'approvisionnement mondial.",
    "method": "IA"
-  },
-  {
-   "title": "Dollar Holds Firm as Fed Meeting Looms",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmNMTjg2RXBwMkw3UEpBUUlBMkNUUVhreFJ2WndUVW41RkkwdVcwOEVPSE8wZlpCU25nWk9GZldScGp0c29BMEMzZ1hUTnNwSlRzVV9BajROWHI5ZnFkN2ljd0RaTkNmX3ZHT1MxTUhwWklCSklOVHQ1UUVXZFNNMHg5Y0cwRFZfZG5YSXotXy0ycmc?oc=5",
-   "published": "2026-10-27T02:28:04+00:00",
-   "id": "42b7210ba06e",
-   "impact": -2,
-   "cat": "dollar",
-   "raison": "La fermeté du dollar américain pèse mécaniquement à court terme sur le métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "'Iraq-first' message from Iran ally sparks calls for retaliation",
-   "source": "Iran International",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92V2dmUUhwemZpd2MybDdUbl85czk1RUgyZFVfSFFnUm91blkzOFhqOU1OTGF0bm52UEdham1RMFd0SkVGeUI0TXdpMnM1X0NSZ0E?oc=5",
-   "published": "2026-10-27T02:00:03+00:00",
-   "id": "6432d85ec529",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions en Irak et risque de représailles soutenant modestement la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7891,7 +7891,8 @@
   "news|194fab35ed78": 1793180768.6078868,
   "news|f2c7cfeaa218": 1793180769.5328856,
   "news|23e611c9cf88": 1793180770.4360635,
-  "news|f6c502b7b0ba": 1793180771.3110352
+  "news|f6c502b7b0ba": 1793180771.3110352,
+  "news|9e5b3a224646": 1793182562.3863914
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8122,6 +8123,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T10:16:02.386452+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Official Price Tag of Iran War Jumps to $47 Billion as Trump Says It Will End 'Whenever I Want It To'</b>\n📰 Common Dreams · Mer 28/10 10:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JOEJhU1ZMc2xNTDBRY2pIejFuNWdmU0xFeDFGTE1XbkFJcDJETEdDeGVwS0hSM1ZWbXpMelJ5V3ZHV3RGVm4tWFF2WEM1clNnNDNPdVhTRjMxeUM0TlFkTGFyQXpWYVU?oc=5"
+  },
   {
    "ts": "2026-10-28T09:46:11.311332+00:00",
    "kind": "news",
@@ -8416,11 +8422,6 @@
    "ts": "2026-10-27T10:04:45.687982+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu pushed for Iran strike before Israel election, but military chief resisted</b>\n📰 Gulf News · Mar 27/10 10:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOUFNrb3FvUFJoaG5qbkdpeC1jWkQxTnVEazF6bXVhTGlRM09lQmtISkoyX05heHN5dDVwbk5ZcEVPOV85dFBMNEM3d0FnTi0xak9VMUl6U2c5OFE5Z3BNdEtMMkdPVGMzX0k1YXBjQTM4Q2FKMkN3Sk1UWklybE5yR2J3R08walJXTXY3ZjE3TVJyR0hBV2JDNkpTUjYzcW1nbmR4X0d5RG1vTGNJUVdCVU1CNnVYYVpvZUdmSDVVMmxxcVd1LUHSAdgBQVVfeXFMTVp4WFRIcGNyWGNQUWUzN1l0Zi1TYTE0ZFR2NnA3SFgzYl80T3JscXp2ZUdhUUhPU1dhZVctZ2F4WE80YllrZURsWmNLcnpsVEU5bExGNGFhUk04MG5NWXVmSTVOSXhhdmtlZEdnU2VTVF9XRVVsWnY1WkE5dFRvSnZsWm83cTNIaUFFNVVBdzJDSXJ6em1zNHZMT0JabW5HeE1fVGszdmJ4cF9KTXJsdlNZWWlfVVoxTXB4ZWNvYm1jNzUzX3hIQTVJcmxGbFJCNUcxWFNJV2xf?oc=5"
-  },
-  {
-   "ts": "2026-10-27T09:31:27.135143+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel’s Military Chief Reportedly Opposed Pre-Election Strike on Iran</b>\n📰 The Defense Watch · Mar 27/10 09:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXpfcVllcm1Ydm91MEpSSFRWVEo3b1NSSjJpN0RVZjJRUzZEdXY2VUxKeHJ2UlQyVzJhaE80WmFGZERpME55YjBnUzd1em04V1o1MTlnWjU3WXgwMEFzbDRCTUhJT3JyRnJ3T1lzdXRSbHFVb1J1dEpXZmFWYVRkNW1vaXlERXowT3Ziam1qMm5HN2RWWWNz?oc=5"
   }
  ],
  "daily_forecast": {
