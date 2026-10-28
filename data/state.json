@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793132148.4012334,
+   "ts": 1793154660.4411116,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
      "last": 2.66,
-     "date": "2026-10-23",
-     "chg5": -0.08,
-     "chg20": -0.19,
+     "date": "2026-10-26",
+     "chg5": -0.14,
+     "chg20": -0.17,
      "hist": [
-      1.95,
       1.96,
       1.94,
       1.96,
@@ -129,18 +128,18 @@
       2.77,
       2.76,
       2.64,
+      2.66,
       2.66
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.34,
-     "date": "2026-10-26",
-     "chg5": -0.01,
-     "chg20": 0.0,
+     "last": 2.35,
+     "date": "2026-10-27",
+     "chg5": 0.0,
+     "chg20": 0.01,
      "hist": [
-      2.47,
       2.42,
       2.45,
       2.45,
@@ -259,18 +258,18 @@
       2.37,
       2.32,
       2.34,
-      2.34
+      2.34,
+      2.35
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.69,
-     "date": "2026-10-23",
-     "chg5": -0.05,
-     "chg20": -0.18,
+     "last": 4.68,
+     "date": "2026-10-26",
+     "chg5": -0.09,
+     "chg20": -0.13,
      "hist": [
-      3.95,
       3.93,
       3.87,
       3.92,
@@ -389,14 +388,15 @@
       4.79,
       4.81,
       4.65,
-      4.69
+      4.69,
+      4.68
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-23",
+     "date": "2026-10-26",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -409,9 +409,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
-      3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -483,6 +480,9 @@
       3.63,
       3.63,
       3.63,
+      3.88,
+      3.88,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793150149.7157795,
+   "ts": 1793154660.5625129,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "498a39c55ca3",
-  "96d3a6a91bc8",
-  "c7f56356474e",
-  "46c0797acda3",
-  "1196270ee727",
-  "15561a180232",
-  "3e05a731d0a8",
   "0cc1173b27f5",
   "45eb776f829f",
   "b5724ba18e53",
@@ -4044,7 +4037,14 @@
   "549eba7be750",
   "c229011231f5",
   "0cd21fe327b1",
-  "24d6364ddc0a"
+  "24d6364ddc0a",
+  "04d0199f3f00",
+  "a19d717fd9fe",
+  "9a4e8df9fd78",
+  "6f4367cdd3bb",
+  "c52e752eac53",
+  "78e5e0760a67",
+  "ec6fd0c494d7"
  ],
  "news": [
   {
@@ -5236,6 +5236,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Russia strikes major Kyiv road bridge in what Zelenskyy calls serious escalation",
+   "source": "Al Arabiya English",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOU11c1lTaUR3dkdiSHpuQmJTUFNoYlJrdlg4OXlHVE5GRmRnSXJUOGlOOS1JMG9TVVQ4N3hKX2UzREo5Mmp5RFZxX09mb2NXWVBLTkc1YWFWUEFNZTl3bXlKMHNRSnF2c2xOc0ZIcm5qb2M5YlpSX3ltTkRvRHpqQVV6X052elNXemRtS2loeU9IM2wtcVdvMHVvZjhlRE5kX0tHbEJzMkVYcXItaExfbnEyenB3LVdsQnFtb3dOT3hGYkF1SGVjVmFXQ0nSAdIBQVVfeXFMUFVOWEIyT2p4Z0RyUFZlc0kydXJRRWdlRXBtZFU0N19FdjBmMXhzWXgtVnBzbFZCZkRuWVdkdHczNHFYUmpHWnRvSzhSa1hVcmdGM3RBS0Yxd2J4S0JpSlFPQU1wNm9mYnZ6dzJKR2E5cDlXNklBRVVqVWo2R1ctNGVXa2xhbnYxb2NvdnRIVjJ0dXdQb0hfSDdkZVVnaXNpZ1hMTVRXLXd5b1ZDRXlGZ3NvRE5YQTAwUGFzcVhjRlRTMllVYUs5X1NyTXA1cy0zc3Jn?oc=5",
+   "published": "2026-10-27T09:13:00+00:00",
+   "id": "9a4e8df9fd78",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Gulf states worry U.S. could pull most troops from region after Iran war",
    "source": "NBC News",
    "theme": "Trump / Iran",
@@ -5459,6 +5471,18 @@
    "published": "2026-10-27T06:43:06+00:00",
    "id": "c20a15748dc1",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israeli Military Chief Resisted Netanyahu's Iran Attack Plan: NYT",
+   "source": "Kurdistan24",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1lWMjZkRjNwRzdVU25pS2VNM0VzaFhwZHJsbEdwelp5bzFsWXNEU0FUaDJMb3ljT1FnblhDWURCamx4UjdxaVNUSHFsc2c2am5SM0hwTWlpam5uNzZ0aWFKM2ZvdHVSX0RHYURCZ1NGQUtXTGxKQ19JQ2N4OGVhMk9OdVQ5NW9fNU1QY3Y0aVVDT3ZYdy1scUdPVnRfeGt2RkFFRWZOXzVFOEk?oc=5",
+   "published": "2026-10-27T06:41:00+00:00",
+   "id": "a19d717fd9fe",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6419,30 +6443,6 @@
    "published": "2026-10-26T18:05:18+00:00",
    "id": "3b253b841b37",
    "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump tariffs bring jobs as Barack Obama warns of rising costs",
-   "source": "Fox Business",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10cENFTHZiWnppY3prUG90WjN0WGNCU0lpcWJCRGZvNmpEZVh5NHFsTVE2T3NqeXN2V3lCU1dLaDNpVkZubTJEZmNfNHZyNUduTFZHcDgxbWZTdU0?oc=5",
-   "published": "2026-10-26T18:04:22+00:00",
-   "id": "d20aa496f5c6",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Middle East Officials Meet Discuss Deescalation Amidst Continued Houthi Attacks",
-   "source": "Marine News Magazine",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tNmlXd0FNd05BLVFodnh6ZE1IMk9JZldaYk96VnB5T3ZaVEF3eFhWY3AzWFRiWTZLZnU0dVJvdENRZ1g5c0RHTWMxVGllS2c3eVBfU2U3azdWaTJ3TUVMRnpIMWxVVVBscnZPbkM0OENiOHkwZTBVandpdTdSZw?oc=5",
-   "published": "2026-10-26T18:01:10+00:00",
-   "id": "a3c9eae60a51",
-   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -7868,7 +7868,9 @@
   "news|8a0407ce6209": 1793151094.466405,
   "news|45e928e5268d": 1793152000.097581,
   "news|4ba7885d09d9": 1793152000.963023,
-  "news|037b48bd44f1": 1793152901.7168021
+  "news|037b48bd44f1": 1793152901.7168021,
+  "news|9a4e8df9fd78": 1793154689.6577368,
+  "news|a19d717fd9fe": 1793154690.671177
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8083,6 +8085,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T02:31:30.671444+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Military Chief Resisted Netanyahu's Iran Attack Plan: NYT</b>\n📰 Kurdistan24 · Mar 27/10 07:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1lWMjZkRjNwRzdVU25pS2VNM0VzaFhwZHJsbEdwelp5bzFsWXNEU0FUaDJMb3ljT1FnblhDWURCamx4UjdxaVNUSHFsc2c2am5SM0hwTWlpam5uNzZ0aWFKM2ZvdHVSX0RHYURCZ1NGQUtXTGxKQ19JQ2N4OGVhMk9OdVQ5NW9fNU1QY3Y0aVVDT3ZYdy1scUdPVnRfeGt2RkFFRWZOXzVFOEk?oc=5"
+  },
+  {
+   "ts": "2026-10-28T02:31:29.657824+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia strikes major Kyiv road bridge in what Zelenskyy calls serious escalation</b>\n📰 Al Arabiya English · Mar 27/10 10:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQOU11c1lTaUR3dkdiSHpuQmJTUFNoYlJrdlg4OXlHVE5GRmRnSXJUOGlOOS1JMG9TVVQ4N3hKX2UzREo5Mmp5RFZxX09mb2NXWVBLTkc1YWFWUEFNZTl3bXlKMHNRSnF2c2xOc0ZIcm5qb2M5YlpSX3ltTkRvRHpqQVV6X052elNXemRtS2loeU9IM2wtcVdvMHVvZjhlRE5kX0tHbEJzMkVYcXItaExfbnEyenB3LVdsQnFtb3dOT3hGYkF1SGVjVmFXQ0nSAdIBQVVfeXFMUFVOWEIyT2p4Z0RyUFZlc0kydXJRRWdlRXBtZFU0N19FdjBmMXhzWXgtVnBzbFZCZkRuWVdkdHczNHFYUmpHWnRvSzhSa1hVcmdGM3RBS0Yxd2J4S0JpSlFPQU1wNm9mYnZ6dzJKR2E5cDlXNklBRVVqVWo2R1ctNGVXa2xhbnYxb2NvdnRIVjJ0dXdQb0hfSDdkZVVnaXNpZ1hMTVRXLXd5b1ZDRXlGZ3NvRE5YQTAwUGFzcVhjRlRTMllVYUs5X1NyTXA1cy0zc3Jn?oc=5"
+  },
   {
    "ts": "2026-10-28T02:01:41.716885+00:00",
    "kind": "news",
@@ -8372,16 +8384,6 @@
    "ts": "2026-10-26T22:19:14.405122+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say</b>\n📰 The New York Times · Lun 26/10 22:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5"
-  },
-  {
-   "ts": "2026-10-26T21:46:07.389705+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation</b>\n📰 KFOX · Lun 26/10 22:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNVN0bVFTU2Y3WEtBMWcxYnRGLUF4R2QyaS1IWV9KNV9UZ1J0TzBoVTRLZGExQTdhcWkzQzBWYjk4U2x4U3VkaHpWajVBZGtybDdnNEM3YnFfTWN5b2VwQUZmNVRZUkVqTERXc0ctbExtVGxnVWthblJsemFrVjl2YTdqX04tQXBQeGY2MmNscHdDdTRTbzFjbXdyYkRGVnVmd1gwemFRTFV1UWNBX25BOFdpMGJ3NjBzQjhoTXl4QzRkV21jU3FJZzJjMWxTWF94bWRTY2tIMkZyWnc?oc=5"
-  },
-  {
-   "ts": "2026-10-26T21:01:50.285617+00:00",
-   "kind": "recap",
-   "text": "🌙 <b>BILAN DU JOUR — LUNDI 26/10</b>\nOr : <b>+15.6$</b> depuis minuit · plus haut 4044.0 (18h10) / plus bas 3990.9 (02h00) · range 53$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+12) à 4025.5 → maintenant 4029.7 (+4.2$)\nRange : 53$ réalisé vs ~73$ attendu (73%)\nNiveaux touchés : P, R1\n\n📈 <b>Fiabilité des prévisions</b> : 73% de bonnes directions (8 ✅ / 3 ❌ / 0 ➖ sur 11 jours)\n20 derniers jours : 73%  ·  ✅✅❌✅❌❌✅✅✅✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.26% · Taux 10 ans -0.2 pb · Pétrole -0.87% · EUR/USD -0.22% · S&P 500 +0.70% · Argent -0.14%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) As Russia’s War on Ukraine Drags On, Sanctions Remain Essential\n🟢 (+10) Middle East delegations meet in Iran as fears of war escalation mount\n🟢 (+10) Trade war with Canada could end ‘pretty soon,’ Trump says during rally\n🟢 (+10) Middle East tensions escalate as Iran-US stand-off deepens, Sri Lanka repatriates 40 Iranian sailors, Ansar Allah attacks threaten Saudi Arabia and Israeli operations displace more Palestinians - Muslim News UK\n\n📅 <b>Demain (mardi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
   }
  ],
  "daily_forecast": {
