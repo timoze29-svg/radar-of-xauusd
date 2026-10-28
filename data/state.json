@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793170876.420372,
+   "ts": 1793175350.6151702,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "585d572c8e95",
-  "98ecb0f05dba",
-  "943d253a49fd",
-  "6598d704eefd",
   "8ba094837f29",
   "7e7cdfb15413",
   "c1a343cca9dc",
@@ -4044,9 +4040,25 @@
   "ae986827fe44",
   "1f356df36e7d",
   "b67d6d79b504",
-  "7c169c7a8823"
+  "7c169c7a8823",
+  "7e2a83f22e84",
+  "fda9956441b6",
+  "b652c31c8e31",
+  "baeb6c54bfda"
  ],
  "news": [
+  {
+   "title": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027",
+   "source": "The Motley Fool",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlRyNUl6MDFVMGc4UGV5M3I0WkNjRVpBQ2ZCRVhyTkthTm9HbGdZblRhNU1HemFFRVJiX0lZNW5yeG5adElmb0x6QkxjVmRjZFdpcWk1NElROGZYcVJpV0ZURFAwMEFIaW1CcXdNaDRtUHFHbFVJM3pGWFdTN3FkQURSbEtCM2NGWk5WTERUTDgyU1BxcXRKWkpuVHpZU05LVVh4a2t5WXhhT014NWhKN21FR3hYOE9jY3JPb1U0Rm0xMzF4WUhzUVhiV2JIUQ?oc=5",
+   "published": "2026-10-28T08:08:31+00:00",
+   "id": "fda9956441b6",
+   "impact": -1,
+   "cat": "fed",
+   "raison": "Perspective de hausses de taux lointaines légèrement défavorable à l'actif sans rendement.",
+   "method": "IA"
+  },
   {
    "title": "Egypt, Saudi Arabia, UAE discuss regional de-escalation, with Türkiye-led mediation mechanism in focus",
    "source": "Anadolu Ajansı",
@@ -4058,6 +4070,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "JPMorgan: The Federal Reserve is expected to hold rates steady tonight as the $4.1 trillion financing gap looms; the main event for U.S. Treasuries awaits next week.",
+   "source": "Moomoo",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLTdCVzFweWYyQXRQSnNnV09IbGZyU1pwWEl2ZldGakZfVHVEa0NfemtFeTN1MTBSTWlTQlV5RFdaT3ktdFZTbEVLR2x3bjlKOElFckZYc0RZd19sdzZBelBoTW5UTXVOazdOYkpHbEVZZHF5enhoOWVvOGZLbGRxOUVKZE13dGxaZXhjenJKUlY4Y19TZllPNXJkRFJWMEVTY2tjbnZ5dmk?oc=5",
+   "published": "2026-10-28T07:08:25+00:00",
+   "id": "baeb6c54bfda",
+   "impact": -1,
+   "cat": "taux",
+   "raison": "Déficit d'émission massif pouvant tendre les rendements obligataires, léger frein pour l'or.",
+   "method": "IA"
   },
   {
    "title": "DXY: Dollar Holds Near Two-Week High Ahead of Fed Decision. To Hike or Not to Hike?",
@@ -4117,6 +4141,18 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Avertissement diplomatique signalant une montée des tensions régionales, modeste soutien refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "WSJ: US Warns Gulf Countries to Prepare For Iran War After Elections",
+   "source": "Kurdistan24",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlB2ZFNJMmt0Y29Cd05xUVhKZHdaN05SVE1HT3ptSFdHQ3VWVml4TGhUVnhmZzQtZ2pLVEtsSEhFSHl3bUh1TS1DMEtsaFNjY1FXOU5NaTdGbVFOcmpic1JLUGM4OHo4cTJNZjRPLUJGWkRBTTdySVVYeUI5Wi10Q3haZGFpc0plRnB0dGw0YkZ3VHk3Z25YTmd4djRXZjdTX1B6ZmFmRFF0WEMzallEYQ?oc=5",
+   "published": "2026-10-28T05:51:18+00:00",
+   "id": "7e2a83f22e84",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "Risque accru d'escalade militaire majeure avec l'Iran stimulant fortement la demande refuge.",
    "method": "IA"
   },
   {
@@ -6409,42 +6445,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Poursuite des frappes directes contre l'Iran, risque de guerre régionale ouverte.",
-   "method": "IA"
-  },
-  {
-   "title": "After months of threats by Trump, resumption of Iran war now seems inevitable",
-   "source": "The Times of Israel",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVJJZ0tBXzluNmZ1YjhWUnVBRVczRnZhSW9acG1vSUQ5dFUxa0dvTktRMGZ1MndGSjU0Q0pQTUpDb2dBSEFqRXhCVEdnZFZQb0lNTDJaa2RJbjl0cGJhMWM1MmQxQzczb0tWbVlGMXZ2eW50Q282RWpSM0hYa0N1WEVqVXplcUh1cl9fOGJNN0RheHhvUTNrNFdKQkNuQlRReUtFUEV4bTcwZXPSAbABQVVfeXFMTTd3QUZkZ0I0eUl6Yk1BYU80ektzQjJKSXctWE0tVnowenpKeURhcmtvRDFDY3IyMVQ4ZUo2d09vd2wydEZPckZiN3hSR3pSeEVnVnlyU3FSYkdldkFTZ3kxRTh5VmhxZTdGM243RV9mbFdfeENkSEg5UFU3cVpPam5OSXJMUnhPSG81eTkwZGtqYThWWGpFYUwzN1Y4VXZIYjVyVWN1eGloMGdCRThjeEU?oc=5",
-   "published": "2026-10-27T00:45:00+00:00",
-   "id": "7ce625dc28ab",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Menace imminente de guerre ouverte avec l'Iran déclenchant une forte ruée refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Australia CPI Preview: Core inflation expected to exceed forecasts for consecutive periods; over half of rate hike pricing already reflected",
-   "source": "Moomoo",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeTZqZnR0WlkzTFRHbU9UcVgxMlpVOGdGUHo0eVlONVhGWlJMSWJYXzIxdVRTODFoSFVFMWc1dHlsMUhJUGR5elMydHhDelRudENoTmpKV3hKSFg0X1NkS0JxSVpEME5acEsyYUEzdU4yZjd2bUF1MnZaWWI4Ny1RWFFTYlozQkZxVVptQ1pWdHZXWmNaRTRVWDNBc1F2WElzQWJKR3pFRjl2V3BXd0wwRTZFaw?oc=5",
-   "published": "2026-10-27T00:26:56+00:00",
-   "id": "dc85961dd1a4",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Vance’s ‘tin-pot dictator’ gas price remark draws Trump comparison as Iran war drives costs higher",
-   "source": "Anadolu Ajansı",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNGlBQkpxV0pJRThmV0x4bUlsaHU3Sk9nWUFLb0VHcUVwaHd6UV9NUE42clNBUnJ5bmFyeFZZck5FUE1BcW1OLV9rNEhmSkg0WU9MT2lZckVGQWZ1LVg0TGd2aVJnSTFnYXN4bDRzZElFRzhDcmx2VXMzRlc1dC1aaUpDdG41LXBaMWxFYk4tYWFRbGR5RkFESDFVaW5QdDJja29VdVlLOUI1b2hZcklaQmJ0UmpGeGRZMUxqSmJyLTBpb0wzUThWRmkzNUtZM1I4dk1BNA?oc=5",
-   "published": "2026-10-27T00:11:27+00:00",
-   "id": "92641a7c0936",
-   "impact": 2,
-   "cat": "inflation",
-   "raison": "Pression haussière sur l'énergie liée à l'Iran renforçant l'attrait de couverture contre l'inflation.",
    "method": "IA"
   }
  ],
