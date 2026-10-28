@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "2ee9399a9608",
-  "1e7a48918461",
-  "ec09c4d3b24a",
-  "85a610790dc3",
-  "112154622a67",
-  "f996dda32be4",
   "6aa2c36a6b20",
   "6620c10bfd88",
   "e1b5b43b73e4",
@@ -4044,7 +4038,13 @@
   "01dd70925c56",
   "ca6cf3f79da2",
   "2ce8e416b651",
-  "859e3feea422"
+  "859e3feea422",
+  "17d5fe058d62",
+  "a25970d8e3ec",
+  "b4d7486fad44",
+  "8ff0629eea44",
+  "3cb8c3d89893",
+  "48f4d0d6ce51"
  ],
  "news": [
   {
@@ -4114,6 +4114,18 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORGJscUN2T0N0M29UTHI4c1hFdnA5dC0xVktGZlRTdEo1cm5UcndPVmlFbzJvRGFEejFxWm04M0RIdlNBY29paFVoMG1XR29XelVGWW5tWkFLT29sVGNoXy1zMDlNTTRNRU1laG8yY2s3aVl3TGl2ek1yVXZ5M3dRWkh5SWdhS2owNHRSMnlnYW82NWs4Z2x1QmFGU2dZNHZlamMtN0MxUm1qdExZTzBHNGZkX2ZsTElxMkhZetIBwgFBVV95cUxQSmZhNTd6cGRYNjJIWWdaSmpodlR1U29aSmUzRmZ3VUx6VDdaTGZkS0VkLTFVd2tKSHJHR0ltM1piZEJHMnN5ZVVhREZzQS1NMHdnQl94UDEtaUQ2dzRJQ1RENzVPVld0cTRCU1oybldRQ19jUWtGSEUxdEh0cGJER05DOE9aRHY1Z2p2TVBiTFhsLUlEM3gwY2YzLTQ4bkhhaVpxb3hLemt1LUxXUzNJbGNHUFVGSUVWbmJyWW1fc0taQQ?oc=5",
    "published": "2026-10-28T14:19:40+00:00",
    "id": "2af3a5e44221",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran war will end \"whenever I want it to end,\" Trump says as cost tops $47 billion",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlE4T2h2OTd3eElwN2RoWWcxZEl4c2x3ektnbTJ3M2c3cnprRVJDX1hqdGJsZzh2NHV3WXlOUU1TenlQc2Y0VHY5NklIZmFpallkb2thWDdDellfMUlqbmdrYnVLampJZTF6RktLNkJ6VlpFOHdXQmZIdVhXa1RzNnlfZW45NEZXT2pYQndOeTZuZVc0NFFnYjM0ZFlQckZTaHQ4NXpsQV9UYWNUQkE?oc=5",
+   "published": "2026-10-28T14:04:00+00:00",
+   "id": "a25970d8e3ec",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6434,18 +6446,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Netanyahu pushed for Iran strike before Israel election, but military chief resisted",
-   "source": "Gulf News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUFNrb3FvUFJoaG5qbkdpeC1jWkQxTnVEazF6bXVhTGlRM09lQmtISkoyX05heHN5dDVwbk5ZcEVPOV85dFBMNEM3d0FnTi0xak9VMUl6U2c5OFE5Z3BNdEtMMkdPVGMzX0k1YXBjQTM4Q2FKMkN3Sk1UWklybE5yR2J3R08walJXTXY3ZjE3TVJyR0hBV2JDNkpTUjYzcW1nbmR4X0d5RG1vTGNJUVdCVU1CNnVYYVpvZUdmSDVVMmxxcVd1LUHSAdgBQVVfeXFMTVp4WFRIcGNyWGNQUWUzN1l0Zi1TYTE0ZFR2NnA3SFgzYl80T3JscXp2ZUdhUUhPU1dhZVctZ2F4WE80YllrZURsWmNLcnpsVEU5bExGNGFhUk04MG5NWXVmSTVOSXhhdmtlZEdnU2VTVF9XRVVsWnY1WkE5dFRvSnZsWm83cTNIaUFFNVVBdzJDSXJ6em1zNHZMT0JabW5HeE1fVGszdmJ4cF9KTXJsdlNZWWlfVVoxTXB4ZWNvYm1jNzUzX3hIQTVJcmxGbFJCNUcxWFNJV2xf?oc=5",
-   "published": "2026-10-27T09:41:07+00:00",
-   "id": "b5c169d352c3",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7911,7 +7911,8 @@
   "news|2af3a5e44221": 1793199700.0687232,
   "news|8f84dc3cf0f5": 1793200571.3436284,
   "news|d9ab0d293cf2": 1793200572.375976,
-  "news|f77196a29726": 1793201487.2954435
+  "news|f77196a29726": 1793201487.2954435,
+  "news|a25970d8e3ec": 1793202368.158996
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8142,6 +8143,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T15:46:08.159096+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war will end \"whenever I want it to end,\" Trump says as cost tops $47 billion</b>\n📰 CBS News · Mer 28/10 15:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlE4T2h2OTd3eElwN2RoWWcxZEl4c2x3ektnbTJ3M2c3cnprRVJDX1hqdGJsZzh2NHV3WXlOUU1TenlQc2Y0VHY5NklIZmFpallkb2thWDdDellfMUlqbmdrYnVLampJZTF6RktLNkJ6VlpFOHdXQmZIdVhXa1RzNnlfZW45NEZXT2pYQndOeTZuZVc0NFFnYjM0ZFlQckZTaHQ4NXpsQV9UYWNUQkE?oc=5"
+  },
   {
    "ts": "2026-10-28T15:31:27.295559+00:00",
    "kind": "news",
@@ -8436,11 +8442,6 @@
    "ts": "2026-10-27T21:16:14.544184+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu sought Iran strike ahead of elections, IDF chief resisted, report says</b>\n📰 Ynetnews · Mar 27/10 14:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TX3RPcUl3bDAxSkgyRXlObHplbFprdWxZWlZ1emtVVWx6bjY0NmxRczFteExoX1doRWxoSHM3dUJ0THFOOWJCdnVFUlNPOXNpVlBBa1ZB?oc=5"
-  },
-  {
-   "ts": "2026-10-27T21:01:41.421542+00:00",
-   "kind": "recap",
-   "text": "🌙 <b>BILAN DU JOUR — MARDI 27/10</b>\nOr : <b>+47.8$</b> depuis minuit · plus haut 4079.4 (18h35) / plus bas 4001.6 (09h50) · range 78$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+5) à 4023.2 → maintenant 4074.5 (+51.3$)\nRange : 78$ réalisé vs ~63$ attendu (124%)\nNiveaux touchés : P, R1, S1, R2, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 67% de bonnes directions (8 ✅ / 4 ❌ / 0 ➖ sur 12 jours)\n20 derniers jours : 67%  ·  ✅❌✅❌❌✅✅✅✅❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.35% · Taux 10 ans +0.7 pb · Pétrole -1.09% · EUR/USD -0.43% · S&P 500 +0.60% · Argent +1.08%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) European infrastructure is vulnerable as Putin escalates Russia’s hybrid war\n🟢 (+10) Russia strikes major Kyiv road bridge in what Zeleskiy calls serious escalation\n🟢 (+10) Iran war escalation raises concern over civilian death toll\n🟢 (+10) Trump faces escalating oil crisis over Iran blocking Strait of Hormuz - ABC News\n\n📅 <b>Demain (mercredi)</b>\n🔥 <b>19:00</b> 🇺🇸 Federal Funds Rate (prév. 4.00%)\n🔥 <b>19:00</b> 🇺🇸 FOMC Statement\n🔥 <b>19:30</b> 🇺🇸 FOMC Press Conference"
   }
  ],
  "daily_forecast": {
