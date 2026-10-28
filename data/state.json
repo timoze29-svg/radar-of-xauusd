@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793204151.0674608,
+   "ts": 1793207754.1490912,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "8500c26b73be",
-  "c82680fa3ec7",
-  "00461779b9b7",
-  "f5de45d6d47c",
-  "9be4faf4b5fc",
   "ea98dfe72e04",
   "fdd45bab919b",
   "ff98bd83538b",
@@ -4044,7 +4039,12 @@
   "19afab3d7a10",
   "c2ad3b822fda",
   "e3d38039e6fc",
-  "0c2d3e205ef5"
+  "0c2d3e205ef5",
+  "c126becee613",
+  "bd45c5fa65aa",
+  "f88630c0ac73",
+  "41f459ee877e",
+  "b2008af2cb30"
  ],
  "news": [
   {
@@ -4177,6 +4177,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil Futures Rise on Concerns of Escalation Post U.S. Midterms -- Market Talk",
+   "source": "Moomoo",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEFHbFFlQ2RhMHBfaXlRYmNvNWRCN3dOM1Bkbi1Wak9hcGtUeGl2UTdaT0VySzE2QjBXS0FLX2o5VHhGanFzQXJKUUU1M2dIWGl0U2FmRC1tWDg3cTBVYVZwM1VZbFVkYXJBYmlGYTBIcE1WT1JydGtHSFNaX0NiZnBjaFEyQ01keGVMdVlTVmFMcjAxeWRNaXZTN0NQTzNKRERvQWtB?oc=5",
+   "published": "2026-10-28T14:31:20+00:00",
+   "id": "f88630c0ac73",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Local Russia-Ukraine truce brokered by Melania Trump takes effect amid strikes",
-   "source": "CNBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTlmOWt6VmhDTlpIZ3d1cFJQbG9OQk5TZGc2UEJZMEZfMUI4YVdGTWR4aVJTcW1EMUVmcTBzbTVCNmVfZGRDck9yWXk0V3BtWVZHYjA5SEJmT0gtT3JMWE1ILXoyWVYzOWtmWWFvRlllZmpwQUtSRGJ0RUJlckp0ekNzQ3QxVEhBbVpGLU93SUR4TFZlRXBLR1ZQbFpFNjRJWnBFNkxHYjdpR1lkVW9YUkZaV2JieEJGTzlLdjJB?oc=5",
-   "published": "2026-10-27T10:47:56+00:00",
-   "id": "6f79ddc5a146",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7916,7 +7916,8 @@
   "news|e6bf05bb4607": 1793203301.7508035,
   "news|cd16387882bf": 1793205091.2474236,
   "news|18ddd386f453": 1793205092.1665914,
-  "pre1h|2026-10-28T14:00:00-04:00": 1793205968.3418908
+  "pre1h|2026-10-28T14:00:00-04:00": 1793205968.3418908,
+  "pre1h|2026-10-28T14:30:00-04:00": 1793207899.0265942
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8147,6 +8148,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T17:18:19.027045+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 72 MIN — 19:30</b>\n\n🇺🇸 <b>FOMC Press Conference</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.12% aujourd'hui · taux 10 ans +3 pb · biais or -1 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 68$ → attends-toi à des mèches rapides."
+  },
   {
    "ts": "2026-10-28T16:46:08.342165+00:00",
    "kind": "pre_event",
@@ -8441,11 +8447,6 @@
    "ts": "2026-10-27T23:01:40.058680+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump appears to downplay Iran war deaths in social posts comparing them to previous conflicts - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 27/10 19:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTF4ZlFPdTA0ZzRpWmEwVmVhZHpIbUZFRlpqQWpyTkY1WlNmNUxNcFhTV2wxYVA5TnpKVWtFQmU5aVZ2emtKWmFiMlNIN0JXMl9nZ1NaaGc1dFZvNzE3ajJ2MGFVRDkxaEgyS082LVJIdFZwU1VWajJ4bW85cmN0RmhEQmpmQ1U2TTRnWUtJcUZUYnhMWl9VVGp1RjFMUHl40gGmAUFVX3lxTE01RXRQcXhxZ1JwM0poeUlueG1STkNBT1FFSDFlRXN1enM3TE1oWUoxdTNSZHpxdE5YVm9SUkl0T2JzcEtlNWZ3bW5NZ2ZFbjFhSGdBZEc2ODNCS25BeTNKY3dLTHRZV1lubDFZN1gwWElSMzd6N0hnbjdpbmM5TTBBaU14QzNzWFE3R2YyV0d3RGFZZ1dpT253Ry1UMDhhallXQVJQdkE?oc=5"
-  },
-  {
-   "ts": "2026-10-27T22:19:09.228220+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Congress passes war powers resolution, offering rare rebuke of Trump - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 27/10 18:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5"
   }
  ],
  "daily_forecast": {
