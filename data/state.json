@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793176265.4226995,
+   "ts": 1793197867.1298096,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "15eabeced5c8",
-  "446e83266bf5",
-  "9ebc2f84561a",
-  "5732a1799acc",
-  "017d057d74e4",
-  "837f32161992",
   "63b0597e60b1",
   "a8ef9e216ab3",
   "7a17528bc1a2",
@@ -4044,7 +4038,13 @@
   "041b4c10d2f2",
   "b34789e64b75",
   "b50224baefd5",
-  "31ad2e2baa4b"
+  "31ad2e2baa4b",
+  "2d6a601e8c36",
+  "e464102d50fb",
+  "ca4f0e67feb9",
+  "237555dfcde5",
+  "1e979277d7df",
+  "2480db3ddadf"
  ],
  "news": [
   {
@@ -4130,6 +4130,18 @@
    "cat": "commerce",
    "raison": "Effet stagflationniste potentiel des droits de douane, modérément porteur pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Houthis call for evacuation of Yemen’s Aden airport amid escalation",
+   "source": "Anadolu Ajansı",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWhsRmFITjZNdWQ1bjE2X1ZmWHdYY3Ria0htZWJBWnRadnMteHVDNzNJRlJSa2VKOExYb0NmRHRpZnBMZ3Y1V2EyZ2JRLU84M2tJcEZsMnB0eFo5dXN2djdhSEVWLXN0NFBJWk02SW9Cdy0xbU5lZExhdVFiUWZHZmw0X1JpanM4X2JDNHlIcUY2VXI5UEdfbWl0dGJ4cFFzLVN6SlVwMW1CbUFueWhSd3pB?oc=5",
+   "published": "2026-10-28T12:35:35+00:00",
+   "id": "1e979277d7df",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold Traders Weigh Asian Buying Against a Hawkish Fed and Firmer Dollar",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia strikes major Kyiv road bridge in what Zeleskiy calls serious escalation",
-   "source": "Devdiscourse",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkFhQVNwbGdpZDctQnd1cG5TWW1NLTlwS3VTLV9IVTZxb1I5d01QelVBcTJVNW5KR1ZscksyMWJVLWNydWRJWnVQZ3AzWnp1ZjVaUDRWVWl6ZDNIdnRleGhVbVpPUmMxazQ0LUpBeUJsV3d6dm1yQVFWVGtvWGxfOTlUcXZiT0FMNnUwSXE5YlVQSkVEZ2JyUTlwQXN3em4tTXB2aURibVlvcmhwVVI4bFctNnF5RWxKbk5UMk5iZTFPY2c5TUpldWV2TWkyXzRlQ1JpbGdKcld5Z9IB2gFBVV95cUxQNkFhQVNwbGdpZDctQnd1cG5TWW1NLTlwS3VTLV9IVTZxb1I5d01QelVBcTJVNW5KR1ZscksyMWJVLWNydWRJWnVQZ3AzWnp1ZjVaUDRWVWl6ZDNIdnRleGhVbVpPUmMxazQ0LUpBeUJsV3d6dm1yQVFWVGtvWGxfOTlUcXZiT0FMNnUwSXE5YlVQSkVEZ2JyUTlwQXN3em4tTXB2aURibVlvcmhwVVI4bFctNnF5RWxKbk5UMk5iZTFPY2c5TUpldWV2TWkyXzRlQ1JpbGdKcld5Zw?oc=5",
-   "published": "2026-10-27T08:41:12+00:00",
-   "id": "111cf83726eb",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7905,7 +7905,8 @@
   "news|4d1ecfa7c6cc": 1793193381.2997558,
   "news|a11dfef2fbb6": 1793194377.935417,
   "news|cf43ca70e2ce": 1793196103.7596629,
-  "news|0d9c30934d15": 1793196976.524777
+  "news|0d9c30934d15": 1793196976.524777,
+  "brk|US10Y|pdh|up|2026-10-28": 1793197888.6787953
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8136,6 +8137,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T14:31:28.678864+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.007 → prix : <b>5.013</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.12 | 60j -0.17"
+  },
   {
    "ts": "2026-10-28T14:16:16.524876+00:00",
    "kind": "news",
@@ -8430,11 +8436,6 @@
    "ts": "2026-10-27T16:16:03.926023+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans</b>\n📰 Reuters · Mar 27/10 17:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5"
-  },
-  {
-   "ts": "2026-10-27T15:01:39.499610+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.1305 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
   }
  ],
  "daily_forecast": {
