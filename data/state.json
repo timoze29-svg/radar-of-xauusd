@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "985b6dc6acb2",
-  "244ea4e577e8",
-  "17e060a346ff",
   "2e9020bbe1bd",
   "a7a68d384f31",
   "049d3e32bd2f",
@@ -4044,7 +4041,10 @@
   "18ddd386f453",
   "afe6bc5987cc",
   "85f4550b5b9a",
-  "ae5967a3ed98"
+  "ae5967a3ed98",
+  "57c0ba0fa21b",
+  "d31d07d4559d",
+  "19afab3d7a10"
  ],
  "news": [
   {
@@ -7915,7 +7915,8 @@
   "news|a25970d8e3ec": 1793202368.158996,
   "news|e6bf05bb4607": 1793203301.7508035,
   "news|cd16387882bf": 1793205091.2474236,
-  "news|18ddd386f453": 1793205092.1665914
+  "news|18ddd386f453": 1793205092.1665914,
+  "pre1h|2026-10-28T14:00:00-04:00": 1793205968.3418908
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8146,6 +8147,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-28T16:46:08.342165+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 74 MIN — 19:00</b>\n\n🇺🇸 <b>Federal Funds Rate</b>  prév. 4.00% | préc. 4.00%\n🇺🇸 <b>FOMC Statement</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.09% aujourd'hui · taux 10 ans +4 pb · biais or -2 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 68$ → attends-toi à des mèches rapides."
+  },
   {
    "ts": "2026-10-28T16:31:32.166779+00:00",
    "kind": "news",
@@ -8440,11 +8446,6 @@
    "ts": "2026-10-27T22:19:09.228220+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Congress passes war powers resolution, offering rare rebuke of Trump - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 27/10 18:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5"
-  },
-  {
-   "ts": "2026-10-27T22:19:08.379186+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says U.S. is making a 'fortune' off Iran war during Corpus Christi rally</b>\n📰 San Antonio Express-News · Mar 27/10 22:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDh3eTNNTUdtdExlbWtacU5TRVFCNUVxQ25kbmw5R1FJR2JRTFZncVRTQ2N2MEdIUklxSHNXaC1FZm0tZHhYbmRUZ3VjYnlpTnVIYXZyRjh2MkMzTDFxYXgxc3NkdFVOZGg0UFF1RVNISVNJQm94NllpRkZIejJhY2l0Y0MzOU94cVpBTA?oc=5"
   }
  ],
  "daily_forecast": {
