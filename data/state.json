@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "226e60d06069",
-  "8e9fdb11a934",
-  "5b0ef981f323",
-  "65b10c35515a",
-  "2827385bec8a",
-  "baf0478f838e",
   "fb2712d82425",
   "3e0e5b60b975",
   "e9311ecd2019",
@@ -4044,9 +4038,39 @@
   "d91e9ce85f02",
   "781692656567",
   "b9fcffecb9b5",
-  "079b77f1b33b"
+  "079b77f1b33b",
+  "05318c331cb6",
+  "d458956f2130",
+  "46ad20018a1b",
+  "007714254d79",
+  "896a3c0a9480",
+  "9fd8f2ec037a"
  ],
  "news": [
+  {
+   "title": "How AI drones are influencing the course of the Ukraine war",
+   "source": "NPR",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qdXhNZHo1TFh4QmdLbVVmc3dZdlZRVEUwak9VT3lSUVBPNndwMUQ2c1BGcVJJd2N2TUs3OW1wTWNiTVM5TGc4aU01eEFDMTNXY2FrMVIzMTNOS2pic3dXQjdKWnFJYWV2alEyM3UyV1NWaVg5Z3l2d09zTQ?oc=5",
+   "published": "2026-10-29T09:02:00+00:00",
+   "id": "007714254d79",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Rappel du conflit ukrainien persistant, soutien marginal à la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "Taiwan alleges Chinese pressure after Pakistan restricts airline access",
+   "source": "Free Press Kashmir",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2VpZXBoTXVqMTFWRWZfMi1oN3UzSVdxbEVZZjBRUks3bEE1RUVKc09PZ0laRzV6VGFMUWQ4VVRlUnZFWWRRV0Q1LVZnWGFjbTh6ZXJ6SjdVT2x2UkNGYm5pZ0lBV3E1LXQ4OW1DM3Fucl9UR2FsZUc0U1dBbzRLRGx4MW45QVlfWDVyc0tpREJSbTlYMHZZeWNSVE4wVXp5bWt1UWt5M0kwMmdpZWdJeTk2NNIBuAFBVV95cUxNcmRDV3Bva1VONVZZM24wX3NIV09zemprSjhFUTBwRWRQN2xkaUZhMXdKWDNENlJ3cHBndmlGSG12OE1WWnZCNFBxLWt1cG84NHRkZXc0Uld2cHd6YUFKYXFFaG4zQjNNQ250bUcySEt4N0NEaW51eWxqMFd0eFpOeGxWV19ZUGgwbGE1eEM5Y2tTbTBLU1FJdHNtbS13eDlqMjlWSkdrYUdxR3lQTVJZR1h6VERMWm5j?oc=5",
+   "published": "2026-10-29T09:00:00+00:00",
+   "id": "9fd8f2ec037a",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Friction diplomatique mineure autour de Taïwan, effet haussier très limité et non systémique.",
+   "method": "IA"
+  },
   {
    "title": "Gold Price Forecast: Dow Ratio Warns of More Downside as Yields Rise",
    "source": "FXEmpire",
@@ -4082,6 +4106,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Trump's increasing support for Russia carries existential danger for Canada",
+   "source": "CBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTI0NnRRYU93anVSV1BZeGRseXJudGpYRnlERFJueWN1SHg5SmQ2bkI2OGdnR1g4TGE3TWotWWY0UV9NTW5STldUVFZ5eHpTWXJ1LVNuQ3VRS3B2cWZnME14Z0pLYmJUMHZQbU1xcHZsUXl4eTctWXB3Nm1hREpfbU5kSmM?oc=5",
+   "published": "2026-10-29T08:00:00+00:00",
+   "id": "896a3c0a9480",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Incertitudes sur les futures alliances occidentales favorisant modérément les actifs refuges à long terme.",
+   "method": "IA"
   },
   {
    "title": "How to stop the US-Israel war on Iran",
@@ -6409,42 +6445,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Report temporaire d'une frappe israélienne maintenant une forte incertitude latente.",
-   "method": "IA"
-  },
-  {
-   "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
-   "source": "The Guardian",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObWtkU3c1UVJMVjBQQkNvblJMeV95Rl9GWWRkQkNobU5XTEtFcC0xZmNSbHRJSEEzQnZwbGJxODVldHZqdFZkWWFDZ0FKYTB0dm5PbDREaWhiMGJtZHdlYk9WTmd4SVF3RWEyRGpwWk1JdV9LWFFoVm9NVzRVejJaaW54aVFqVTZZd3VCTGVNQUNQMHVmb3NmaklXQlQ0bEljQkZVaHZnQUoxdWx0ejgyanI3b0JuZ1R2MXpwYjBWaXJ4SkpkdThvLQ?oc=5",
-   "published": "2026-10-28T00:36:00+00:00",
-   "id": "c229011231f5",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "Craintes de hausses de taux d'intérêt mondiales défavorables aux actifs non rémunérés.",
-   "method": "IA"
-  },
-  {
-   "title": "Bitcoin Reclaims $80,000 as AI Tech Rally, Middle East De-escalation Revive Risk Appetite",
-   "source": "BigGo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMNHJDWXF5ZWRlQXlSRFdfR3Y1QUZ1ZFBwV2ZrWUNnT00tcEs0OXlpY1pFVm5ZVlBnY09tME9CcTEzN2pJRDJ3OGtvTFphOXBqbVlXcEYzRjBfQ3FISGdvZXFhbVAwbDlHT1NkWUNaMnVWWC1HTGc?oc=5",
-   "published": "2026-10-28T00:25:00+00:00",
-   "id": "ef97e2c9dd4f",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "La désescalade au Moyen-Orient et le retour du risque pèsent sur l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil And US Yields Knock Indian Bonds Off Course",
-   "source": "Finimize",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZk9TYUliamJ2bS1KbEU2UVdzZnNyT3lKWDJnLXJGUGdYSk1ZMFRTQzVpTVFzcWRsZUtQVkR3bWVxdWZFUVdkVFlsTzJiaXB3NkswU3NQRmgtY0NVMm9JeWFuaXlsS0gxNW9lTWhMZTBHYzFPeFY4d3czZk1Oa2l4TTZB?oc=5",
-   "published": "2026-10-27T23:38:14+00:00",
-   "id": "c83dc127ff51",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "La hausse des rendements américains augmente le coût d'opportunité de l'or.",
    "method": "IA"
   }
  ],
