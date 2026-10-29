@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "f9ec6ed18184",
-  "33a8cd5a61d6",
-  "2834abc87760",
   "2540f135141a",
   "77ddbd96b23c",
   "dd510103b652",
@@ -4044,9 +4041,24 @@
   "af1904a0656b",
   "f27af3d2fb89",
   "433677fb5d4e",
-  "f4c71926612d"
+  "f4c71926612d",
+  "725103730890",
+  "cd52adb2902d",
+  "dae3f9296358"
  ],
  "news": [
+  {
+   "title": "Volkswagen posts $6.8 billion quarterly loss with China slump, Trump tariffs and Porsche writedown",
+   "source": "Fortune",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZXRDZVd0bXhzXzNvWjhWcnR6dGZhdXJlT0NsRlc5NDlVZnh4ckx1Q1R4SXhJdi1QcHpWTlBQcEg4ZHJ4enA2TG16RlhEdDVEdXBicWZMb3czQ2QxcHU0R19GLU41Q0loVmpQUUVfVjk2a0k1d2JORGlKc2FLY2dhOFByaG51Zw?oc=5",
+   "published": "2026-10-29T14:58:39+00:00",
+   "id": "cd52adb2902d",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Israel seeks US approval to strike Iranian energy facilities as Trump signals end to war",
    "source": "AzerNews",
@@ -6434,18 +6446,6 @@
    "cat": "fed",
    "raison": "Craintes d'un resserrement monétaire renforcé face à l'inflation, poussant taux et dollar.",
    "method": "IA"
-  },
-  {
-   "title": "A ceasefire in a devastated Ukrainian city holds for its first 30 hours, officials say",
-   "source": "Audacy",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjFQb0FyeWZFN0lZVmRvZWJVUmUzM09zeERVRmFxbHJqWklrNjBkMnpjLVo0NXp3YjNrWjRRUXhmMl9xOFhDTHRTUEQ1LUQxVUluMWRyRWs2aU1sd2xtVzB0ZEctZEJJSGZoSGgxc2MzWUVSb28xbUlpOTdOR0xicmNiY3JtWFJDbjNyaXZlUlRZamVQLTdjY1dnRHhYQ0VIVU01MlRyeHZTSmlXNDRN?oc=5",
-   "published": "2026-10-28T09:27:51+00:00",
-   "id": "5f675eca59f5",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Accalmie très localisée en Ukraine, léger frein marginal à la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8237,6 +8237,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-10-29T15:16:13.200732+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY -0.17%\n▫️ Taux US 10 ans -1.1 pb\n✅ Pétrole -0.62%\n✅ EUR/USD +0.26%\n▫️ News dollar/Fed : 1 (impact moyen or +5.0)\n   • Volkswagen posts $6.8 billion quarterly loss with China slump, Trump tariffs and Porsche writedown\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à baisser dans <b>52%</b> des cas sur 2h,\net l'or a monté dans <b>56%</b> des cas (moyenne +1.4$, sur 243 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
+  },
+  {
    "ts": "2026-10-29T15:01:50.966839+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 102.05 → prix : <b>102.04</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.27 | 60j -0.46"
@@ -8530,11 +8535,6 @@
    "ts": "2026-10-28T22:31:23.922705+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>FOMC Recap: Fed Holds, but Warsh Falls Short of a Full Hawkish Hold</b>\n📰 FOREX.com · Mer 28/10 21:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFEtb1BkR2w5N1M4NGpfdUY1bmtCMHVXYUZGbUNXOEh0RXY4NGEtNjkxdnRxQTZYUTFHYXhsdUdUakRiMTRKTzhRNU53clFqNFI0T2U4SDM2LXRiMnpzNkU2T3ZsVUtNbmpkU2NCSXBWdUlwU0RKcXR5VUFZeXp3eG8wbzQ3anBYRk94azVYMTFsUHpoMWtwZEd6eTBMMUFIWG00SHpqcVVIcU5RbzJua0J3WnN1TkZZMmxhMUVB0gG-AUFVX3lxTFBoUS1vUGRHbDk3Uzg0al91RjVua0IwdVdhRkZtQ1c4SHRFdjg0YS02OTF2dHFBNlhRMUdheGx1R1RqRGIxNEpPOFE1TndyUWo0UjRPZThIMzYtdGIyenM2RTZPdmxVS01uamRTY0JJcFZ1SXBTREpxdHlVQVl5end4bzBvNDdqcFhGT3hrNVgxMWxQemgxa3BkR3p5MEwxQUhYbTRIempxVUhxTlFvMm5rQndac3VORlkybGExRUE?oc=5"
-  },
-  {
-   "ts": "2026-10-28T21:32:05.139317+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Tracking Trump: Fed keeps interest rates steady; Iran war cost update; RFK Jr.’s peptide plan; and more</b>\n📰 The Washington Post · Mer 28/10 22:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQempyZ1I4MFlrRjBnVzZma19IcnlkNFUyM1R0aGx0eVU5REpVZTJoUmNiLWpSSlVXMGYtVkl6TV9tU1NoNnpCSk9oYm5mUzA1a2g5WEhpUUtpcDF6ZTJaQXNENmRWWmdNZGRNbjVtcmRaUWluN2Rka1RVNGlGTXA4dnQ5ODY5aXZVVzlGU1AyTEJNWGFLa1hEQ0lGd284UlB0VVBfdS14bjZYWUpvQVNOa1RibGwtMzlnMlRwdEVGOS0tVGFLdkRDZVhmTU1XYl9ianc4MmtZV0w0Ny1aMDE4MG1URXhvLUU?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8664,7 +8664,7 @@
   "ai": false
  },
  "dp_last": {
-  "status": "up",
-  "ts": "2026-10-28T18:31:28.953584+00:00"
+  "status": "down",
+  "ts": "2026-10-29T15:16:13.200693+00:00"
  }
 }
