@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793286085.4119883,
+   "ts": 1793308551.1721141,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.64,
-     "date": "2026-10-27",
-     "chg5": -0.13,
-     "chg20": -0.26,
+     "last": 2.67,
+     "date": "2026-10-28",
+     "chg5": -0.09,
+     "chg20": -0.24,
      "hist": [
-      1.94,
       1.96,
       1.93,
       1.95,
@@ -129,18 +128,18 @@
       2.64,
       2.66,
       2.66,
-      2.64
+      2.64,
+      2.67
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.38,
-     "date": "2026-10-28",
-     "chg5": 0.01,
-     "chg20": 0.03,
+     "last": 2.35,
+     "date": "2026-10-29",
+     "chg5": 0.03,
+     "chg20": -0.01,
      "hist": [
-      2.45,
       2.45,
       2.47,
       2.47,
@@ -259,18 +258,18 @@
       2.34,
       2.34,
       2.35,
-      2.38
+      2.38,
+      2.35
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.7,
-     "date": "2026-10-27",
-     "chg5": -0.09,
+     "last": 4.67,
+     "date": "2026-10-28",
+     "chg5": -0.14,
      "chg20": -0.22,
      "hist": [
-      3.87,
       3.92,
       3.9,
       3.95,
@@ -389,14 +388,15 @@
       4.65,
       4.69,
       4.68,
-      4.7
+      4.7,
+      4.67
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -407,7 +407,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -479,6 +478,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "735930380a6b",
-  "4702c4536639",
-  "42a8c2c18e8a",
-  "2e6828fd1477",
-  "50cb30f1e995",
-  "48a9699f9317",
-  "9421bbdc56a4",
   "7fc45a503942",
   "2f2fb860cd40",
   "810d72108fc3",
@@ -4044,9 +4037,40 @@
   "ad8f6dc36077",
   "c5299ac6d3c4",
   "8fa443818aa3",
-  "8d40b444eb4b"
+  "8d40b444eb4b",
+  "56bc5327f3d9",
+  "9c3059e260ed",
+  "91d290ee2a18",
+  "5718799edcbb",
+  "fb724a3ed2e3",
+  "0737a295ebe7",
+  "6a87eafec9f9"
  ],
  "news": [
+  {
+   "title": "Schumer blames Trump tariffs for rising Oswego prices, touts End Trump’s Tariffs Act",
+   "source": "WSTM",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVF9mdk0weVZ3Z29wdE5fa1laTTRRMWZiSFlWd2dCaVNQT01DSkQ5THY5aVBGMEpSSU81TFcwdjA0OHdGd3NkUU1yenFDX3dSNkFxclBGYTRMMERHNzJlekpWZ3RmUWE2OHdZTGN4NldLR2l6a0ZOSERGWFA3eEVLTXdFNE1mYVhTTEJqVmtuWHpaLVZPcVMzN0VkVWtFS1JvTVF5aWlaYkRWS2xhdFdZZjBPWDluTG8?oc=5",
+   "published": "2026-10-29T21:00:01+00:00",
+   "id": "fb724a3ed2e3",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo",
+   "source": "Radio Free Europe/Radio Liberty",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhWQXBvU0MtM2NLWUVrTlNXaGlVd21NMDctbG9iN1Jyd0MxTXh6RS01WUU2VW5rYlFzX3Z4N0RObDJxUl8wS2Z2YjRQVmo0NVdGaU9BclZKa2NwSWdxQ2dKZFZmZE85cDdEbmpqM2lldFZGNmgzckxCc3R2NVQ5MHhBR0p3MVQxRVpDUFFteU1HcWo3YXfSAZgBQVVfeXFMTWN3NVoyRUZHQ3RzMEk1UEVEVXlKM1l1enhMNGMtVlkySEd4c0taRXAzMnFRRTZ6STNlM0V2bzZ4dmVkZDRid3UyU2FxamJSWFZIeWRyVnRDTmN5OUR2TFk2ZjRZX3pKbzdMRDVIdHJyeExkdUIwaEZUb1NTTVJsWDBTMVJrOWhManFSdzVhbnJNU2s5a2NnbkY?oc=5",
+   "published": "2026-10-29T20:54:12+00:00",
+   "id": "6a87eafec9f9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Schumer, Standing At The Port Of Oswego With Families And Businesses Being Crushed By Trump’s Reckless Tariff War, Launches New Legislation To End Costly Tariffs And Lower Prices In Communities Across Central & Northern NY",
    "source": "Oswego County Today",
@@ -4072,6 +4096,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Washington Warns Allies of Possible New Strikes on Iran After US Midterm Elections",
+   "source": "EU Today",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakRHWnBfYTlBQlliQTdTeHRuUzhqd0lqaFFPUXNod2V2X00yMkdvSlNCbS1zXzduWTBScVNmdXlnb3hCbXFNZVBKdk1ZWUFEcG9lZUxzTWZDQzJzQzNkd1Rwb1VYOVd2UXhHdVAzZThJV1ltTlJVY1doTFdPVmVsdU90MFU?oc=5",
+   "published": "2026-10-29T20:22:04+00:00",
+   "id": "5718799edcbb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation”",
    "source": "Truthout",
    "theme": "Trump / Iran",
@@ -4079,6 +4115,18 @@
    "published": "2026-10-29T20:17:00+00:00",
    "id": "d488806ecc5a",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US senator briefed on Trump's plans to restart Iran war says proposal is 'insane'",
+   "source": "Middle East Eye",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXdXdk13ZjVJRWltT3VyU2NWekdVcEhxS0E3b2JxN1g0UkpPeGhpVEhWY1JLNENWcWlCZXU3VEJjaU55WGF1OXJDUlZKendoVmpkOFpLcDhkLTNNb3JDRVlCMlNqM3FXTmE4eFFhUk5ReEdKdGEyakRiamZ6d0xUYlJXRVFBZzdHNXJiQ1B2VEhtWGdQT1VHclcwYm5XWGdqWnlPUg?oc=5",
+   "published": "2026-10-29T19:59:00+00:00",
+   "id": "91d290ee2a18",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5740,6 +5788,18 @@
    "method": "IA"
   },
   {
+   "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland",
+   "source": "EnergyNow.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGl4TGh6NXhISExseWhVM1oyb3MyS2xwSk9oZ3BEU0NudjYyWkRqRDhDZ3AxeGZ4NVlhTnZ4TkZUV3IwVExZLXFDRnpqcW14Q1FTRjRfU0pNenlUOENya1oyWVByVDU3NkMwLUdFbi1QeWV2RjI0ZXNvRnVKZTRmcUNUVVFCTWI0dVo2aW5lWlQwR2FWeE5KeUNUTWdVWlFxVUwxSm5rWkc0YTB4U0FyOUltYkxoLWhaQW5IczA5bWdMY3FzclpKLUJn?oc=5",
+   "published": "2026-10-29T02:04:56+00:00",
+   "id": "9c3059e260ed",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Tokyo CPI and BoJ Decision Round Off Central Bank Week for the Yen",
    "source": "www.tmgm.com",
    "theme": "Inflation US",
@@ -6385,66 +6445,6 @@
    "impact": 1,
    "cat": "politique US",
    "raison": "Déficit budgétaire américain accru par les dépenses militaires, facteur haussier diffus.",
-   "method": "IA"
-  },
-  {
-   "title": "Caretaker role could limit Netanyahu but not rule out war with Iran",
-   "source": "Reuters",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1JMOG03aUh5UHZjRGhLalZmOVhWc0F4YjFJY3hnN0pQcUlFdHlJN0xKZF9PWmNOT1JtN1czaGV6d3JqWUNzdEs2cWtQWnc1eU4xclJBT0haR3R2dmx3TEhSRWo2X3VIY1U1UjBpY29mZ0hnUkdqRjlZUGJFMGtsREpUajdFM1dHM09hSzVEM1JreDBubzVuMUQ3aDJDbHJ5QndDaHNFazNkcFFwSlpQTVMzN1hPR3di?oc=5",
-   "published": "2026-10-28T17:22:50+00:00",
-   "id": "a05982ea7246",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump backs Netanyahu as Israel readies for new Iran strikes",
-   "source": "AOL.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlVUeWdNRW9hdG9KNFRleHBfdUV1NWk3LVphNjZlRkRfTXlEd1R1NG5nRjNqWkF0bXlXQ0pyZjVzVXJFZV9Uck9mMm83bGpxSy1HdW5OcEEtdy1WYlZ2UzI3MzM0bkFFb0JzZW9hdlA0TGItQzdLX3dSSXNNby1kbW1mLUFaQ0U?oc=5",
-   "published": "2026-10-28T16:46:56+00:00",
-   "id": "b19ae2b68e9d",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Soutien américain à des frappes imminentes en Iran, forte impulsion refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Caretaker role will limit Netanyahu though he’ll retain war powers, as possible Iran attack looms",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNck9RTF9WRzNyVm12TzJ4eUMtVVQzVF85UkZ3YVdTbUktcjFSX0xlOGpYejgwdUllcEVRczVRc1ZNR29xQjJLOW5aU21LczJSWnBTa3BjYUthdXc3eVFYVlJMOHBZcnlrbGtHeEQzdHdzQUFJUVdtOEdmbm9HWWd3eFpkVnR2d2o2SEpWUk82WmhlU3BRanUzdldVTkNhc1ZwYUtyWTB5ZU8yRXB4X0F0aS1NVE9FY0EtYlBzaERubkFOR2I00gHKAUFVX3lxTE1rNzNJMjMwdnRkMFNHR3VHRzFIZGRGQ1dmSEhYQW96VVVQeVpVdGl4RVhDd1dZWGlnRDZkTklQWEZLT3lMWkhXQ2xycVpaeGRKMWdiRG1FenAyb0FJdjFrRWJoLWFINzA1ekh6c0hTM3dOTFVVWW1xVTV5N2pDS2hjREIzbVhyeHdlSkNSc21GblhsTkpNQjc5NENWMTJiTXZ0ZDNENFRJeHZrY29TOFgxdEFQbElvMVJoSlA3UVc4eVV4Rld1a00xT2c?oc=5",
-   "published": "2026-10-28T16:29:00+00:00",
-   "id": "92a1c0831eaf",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Menace d'attaque iranienne persistante maintenant une tension géopolitique sous-jacente.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump weighing next move in war with Iran",
-   "source": "Fox News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JWWhlWTBLQkpJUG1YeW00WmxOdUlXRkRsQ2hzcHpKTzRsQnlELXZ0OVVfRll4T0wzVUpjeFpvejktcE9aNWdqaWtYbGF2RlZPU0ZxRjRB?oc=5",
-   "published": "2026-10-28T16:20:13+00:00",
-   "id": "ac526b8be764",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Incertitude guerrière directe avec l'Iran stimulant les achats refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran war costs rise to $47 billion, U.S. military estimates",
-   "source": "The Washington Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ?oc=5",
-   "published": "2026-10-28T16:16:50+00:00",
-   "id": "cd16387882bf",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Coûts de guerre élevés renforçant la thématique de dégradation budgétaire américaine.",
    "method": "IA"
   }
  ],
@@ -8020,7 +8020,10 @@
   "news|9128202327f0": 1793306769.3600028,
   "brk|BTC|pwh|dn|2026-10-26/2026-11-01": 1793306770.4644089,
   "brk|BTC|h20|dn|2026-10-26/2026-11-01": 1793306771.415607,
-  "rep|recap|2026-10-29": 1793307703.651264
+  "rep|recap|2026-10-29": 1793307703.651264,
+  "news|6a87eafec9f9": 1793308593.343641,
+  "news|5718799edcbb": 1793308594.547448,
+  "news|91d290ee2a18": 1793308595.5555403
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8267,6 +8270,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T21:16:35.555683+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US senator briefed on Trump's plans to restart Iran war says proposal is 'insane'</b>\n📰 Middle East Eye · Jeu 29/10 20:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXdXdk13ZjVJRWltT3VyU2NWekdVcEhxS0E3b2JxN1g0UkpPeGhpVEhWY1JLNENWcWlCZXU3VEJjaU55WGF1OXJDUlZKendoVmpkOFpLcDhkLTNNb3JDRVlCMlNqM3FXTmE4eFFhUk5ReEdKdGEyakRiamZ6d0xUYlJXRVFBZzdHNXJiQ1B2VEhtWGdQT1VHclcwYm5XWGdqWnlPUg?oc=5"
+  },
+  {
+   "ts": "2026-10-29T21:16:34.547576+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Washington Warns Allies of Possible New Strikes on Iran After US Midterm Elections</b>\n📰 EU Today · Jeu 29/10 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQakRHWnBfYTlBQlliQTdTeHRuUzhqd0lqaFFPUXNod2V2X00yMkdvSlNCbS1zXzduWTBScVNmdXlnb3hCbXFNZVBKdk1ZWUFEcG9lZUxzTWZDQzJzQzNkd1Rwb1VYOVd2UXhHdVAzZThJV1ltTlJVY1doTFdPVmVsdU90MFU?oc=5"
+  },
+  {
+   "ts": "2026-10-29T21:16:33.343743+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo</b>\n📰 Radio Free Europe/Radio Liberty · Jeu 29/10 21:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhWQXBvU0MtM2NLWUVrTlNXaGlVd21NMDctbG9iN1Jyd0MxTXh6RS01WUU2VW5rYlFzX3Z4N0RObDJxUl8wS2Z2YjRQVmo0NVdGaU9BclZKa2NwSWdxQ2dKZFZmZE85cDdEbmpqM2lldFZGNmgzckxCc3R2NVQ5MHhBR0p3MVQxRVpDUFFteU1HcWo3YXfSAZgBQVVfeXFMTWN3NVoyRUZHQ3RzMEk1UEVEVXlKM1l1enhMNGMtVlkySEd4c0taRXAzMnFRRTZ6STNlM0V2bzZ4dmVkZDRid3UyU2FxamJSWFZIeWRyVnRDTmN5OUR2TFk2ZjRZX3pKbzdMRDVIdHJyeExkdUIwaEZUb1NTTVJsWDBTMVJrOWhManFSdzVhbnJNU2s5a2NnbkY?oc=5"
+  },
   {
    "ts": "2026-10-29T21:01:42.649487+00:00",
    "kind": "recap",
@@ -8551,21 +8569,6 @@
    "ts": "2026-10-29T11:46:05.209169+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Kan: Israel has asked the U.S. for permission to strike energy facilities in Iran</b>\n📰 شبكة تواصل الإخبارية · Jeu 29/10 12:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OOXRibzZOREwtZE5TWlJlOG5wVnY2VnNOcERFZmlESlJ4TkkyV0t3RGxvT01scUM3dnA0TS13Tk5MUTh2bV9qeTk4a3FtX3VaRnpr?oc=5"
-  },
-  {
-   "ts": "2026-10-29T11:31:38.874112+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Fed decides no interest rate hike: Outcome impact on gold prices in India and your investments; experts weigh in</b>\n📰 Livemint · Jeu 29/10 10:31\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQUGtuTzBhbHdvS1FhN3JpaVV6TnZHMHhEYVpzekFwV0ZPd3NGR3MtRjdpMl9PQjBBbVNBdHdoRkZjTTNYZTBtYUZkbnZHRUQ4SWNTTlVWVDN0SmxKd3REVlNyRllUeUlOM2ZHalNsOUhrcURLT3BVTHoyVXVUVnNHY1pzWTVITEthR2NveDdscFlJZmNjODlwVXdYSWZOV2JXUDg1RW04MjhFb0pnR2xBeV8wQzFWNmdfQ0l3MHhqUllPdlRpbVh6YW9sV21wVENXVjNQbi1XVU1GU1M5dkNlNFFibEk1MHdRTVRsdy1qUXdRQkpfQkdibHJleWMzQllFUTdyUTMtQW02M2FHc2fSAZMCQVVfeXFMTjExVXFobkRfd0lNU1RfN29pR1ZUSExBQllXN1FNbEl6NjdXaDlDZ0JwZklJVnMxNWxYWTlqc3A3MFBGMGE4YzJXYnk0V1l2WVl2N0VpTkVjWEVONTFRQkFwZjdpWmRkSmZIZGw3NHNMakp0d0E4dEY4c3ZkaHZ5MWVHTFR5SVV1TW9mUGQ4WWJGYTg2Rk41cHhGRDUzNGJRUENVRHRRbGYtS2NHUVg4dEpLT0RqWTdYSXRwQjNvcXpRUTZzNWU3ekwxVkNTRVh0dmsxejNqVVhYWjFvVmQyd0E1RnNVU21LZFdOVzNOblF2eElIbmgxdGdlNXRXcFY0MkxWUGxmS2JHMEhrM3QyOW1sTVk?oc=5"
-  },
-  {
-   "ts": "2026-10-29T11:16:12.307671+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 74 MIN — 13:30</b>\n\n🇺🇸 <b>Advance GDP q/q</b>  prév. 3.2% | préc. 1.5%\n🇺🇸 <b>Core PCE Price Index m/m</b>  prév. 0.3% | préc. 0.2%\n🥇 Inflation préférée de la Fed\n\n<b>Scénarios pour l'or :</b>\n🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n\n📌 Contexte : DXY +0.00% aujourd'hui · taux 10 ans +0 pb · biais or -1 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 69$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-10-29T11:16:11.101494+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pressure mounts on Iran as US, Israel prepare week-long strikes</b>\n📰 Gulf News · Jeu 29/10 12:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHBWbnNzVmU0NEhQMW1xSEE0Rmk3T3U0elZDNmV6M3hmamxVelpQSmwxM0FtZGNPLWlrRnNEQ3lCT19BTU5nZmo5VmJYd1N6Q1o3MzBrcVJyMUFhUUx6NlZPVUJ4UmFzNzM3Uk9wMHR6QkVvc0R3bXlyZnBWcGV6RXFzYjZWVWQ4ZlZUUkRYZm14akRsb0xKVFZzQ0xUUGlxTV9vaGxDWm1SZ3FrUlE1UEZoXzFYMGpKTHNjanRXaV9iNWhmZ2gyZHVoVkPSAd8BQVVfeXFMTzljYjM0TVQtaHpmNWdGcEc5Wm1hUXZfQ0JLeXRvd3pnckQ3UVd3aERJRDNobE9WbF9hSDFXazB0RWJwNjBuZmx3ZEF1eTFEUkFpN2dwZ0lEUFJHdlVzWTRQVGdzeG5EWUFTcW1aYlJqYlhQR0JMYWJaa3hFN3pNNzVfNzdHYWZqMVhaV0hrVlJ5aFg4ZlZfdnFPT1VsdXVWUjItVTI3QzdhM3lnT1A5TXV4bXZwa3VNTUpwaTh2WTFPYk5UMldMdkJBNW05MHp5Ty1oZ3MxYmVtZXVjQXJJVQ?oc=5"
   }
  ],
  "daily_forecast": {
