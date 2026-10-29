@@ -848,19 +848,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793168172.2859895,
+   "ts": 1793240346.831351,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        14.8
+        15.5
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
@@ -870,77 +870,77 @@
       "low": [
        [
         0,
-        18.3
+        18.1
        ],
        [
         16,
-        10.4
+        10.3
        ],
        [
         2,
-        10.4
+        10.3
        ]
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
+       ],
+       [
+        14,
+        8.9
        ],
        [
         15,
-        9.0
-       ],
-       [
-        2,
-        9.0
+        8.9
        ]
       ],
       "low": [
        [
         0,
-        11.5
+        11.4
        ],
        [
         16,
-        10.7
+        10.6
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 118,
+      "n": 120,
       "high": [
        [
         2,
-        11.9
+        11.7
        ],
        [
         16,
-        11.9
+        11.7
        ],
        [
-        14,
-        6.8
+        21,
+        6.7
        ]
       ],
       "low": [
        [
         0,
-        13.6
+        13.3
        ],
        [
         14,
-        7.6
+        7.5
        ],
        [
         15,
-        6.8
+        6.7
        ]
       ]
      },
@@ -983,12 +983,12 @@
         14.4
        ],
        [
-        0,
+        17,
         11.0
        ],
        [
-        17,
-        11.0
+        0,
+        10.2
        ]
       ],
       "low": [
@@ -997,25 +997,25 @@
         11.9
        ],
        [
-        15,
-        8.5
+        2,
+        7.6
        ],
        [
-        2,
+        15,
         7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5936,
+     "n_hours": 5970,
      "horizon_h": 2,
-     "base_gold_up": 53.5,
-     "base_dxy_down": 48.1,
+     "base_gold_up": 53.4,
+     "base_dxy_down": 48.0,
      "down": {
       "3": {
-       "n": 241,
-       "p_dxy": 52.3,
+       "n": 243,
+       "p_dxy": 51.9,
        "p_gold": 55.6,
        "gold_avg": 1.4
       },
@@ -1023,21 +1023,21 @@
        "n": 54,
        "p_dxy": 51.9,
        "p_gold": 57.4,
-       "gold_avg": 0.6
+       "gold_avg": 0.5
       }
      },
      "up": {
       "3": {
-       "n": 266,
-       "p_dxy": 55.6,
-       "p_gold": 49.2,
-       "gold_avg": -0.8
+       "n": 269,
+       "p_dxy": 55.8,
+       "p_gold": 49.1,
+       "gold_avg": -0.7
       },
       "4": {
-       "n": 76,
-       "p_dxy": 57.9,
-       "p_gold": 51.3,
-       "gold_avg": 0.1
+       "n": 77,
+       "p_dxy": 58.4,
+       "p_gold": 51.9,
+       "gold_avg": 0.0
       }
      }
     }
@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "f50c172c6a4f",
-  "42ec6071496f",
-  "2707a5ab1ad8",
-  "e0551b79cfbd",
-  "543fae9f9c1a",
   "4bd3d2096d37",
   "ee37c577c8bc",
   "7d55841d532c",
@@ -4044,9 +4039,26 @@
   "05b70247d55c",
   "265096d2d581",
   "489d8fd6a7e2",
-  "ac1b7e862841"
+  "ac1b7e862841",
+  "179d710c86fe",
+  "01129280d0b8",
+  "17627ce65687",
+  "a4cc49f4acbf",
+  "d50f79d6e14c"
  ],
  "news": [
+  {
+   "title": "Trump touts Venezuela victory, Iran strikes and rips Obama's nuclear deal agreement",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUkxKZ3FBbmRzWjBjZVVpOFJvNmZuX2twOEZIa01yTXE5VDc2dzlhbWdWTk1GTUlfbzU0bjJoRHJOMEIxSG9Mb2syQWxyMFRrNXJZTnJn?oc=5",
+   "published": "2026-10-29T01:33:22+00:00",
+   "id": "17627ce65687",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump Gives Robots Trade Talks After Drones Got Up to 100% Tariffs",
    "source": "DroneXL",
@@ -4081,6 +4093,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump confirms Vance penned letter to top Iranian official as part of latest peace talks",
+   "source": "New York Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODJBYndnOWw0X09TRTFBa1ZmN1RVcWlwanVOeTYxdWV5ZW9jdG9MTUJWUjVud2R4NWtxMXhKam1jZW1UZjAzUnRQVXJ6cWM4WVZSUXFpWEhkeDVmVktuTFVNTEpVSlR0dVk5VnNicmZvWjVaamlPNVN1R2FnaElQZ0RZSlJLaGx4WVRzeDRqQnVaODdxUWhpVDFqdW1yNzNWVUE?oc=5",
+   "published": "2026-10-29T00:36:00+00:00",
+   "id": "01129280d0b8",
+   "impact": -6,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2M5OGFiak5tNUNUVzR6ang0dy1MV3FtYl95SjNZUDY2c2x2aDF0OE5TT2xLdVV4MmlJYTdtV2RuUHF2emhmVHM4SzFudmRGVXA3ZU5BQ2FkaVd6ZW1FcHNLaUlSdHlIWW95UlQxNGdxVGFKUUljWjhfQ3ZOQXlzQ2Y1QjF4cW8?oc=5",
-   "published": "2026-10-27T17:18:00+00:00",
-   "id": "f52eb8b1e052",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Progrès diplomatique et cessez-le-feu local réduisant marginalement la prime géopolitique sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Congress passes war powers resolution, offering rare rebuke of Trump - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
-   "published": "2026-10-27T17:12:58+00:00",
-   "id": "ebe5783331a3",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7943,7 +7943,8 @@
   "news|e566669bb128": 1793232103.4512148,
   "news|6b73a9a60979": 1793236564.7566638,
   "news|9182aebc9585": 1793237679.9395516,
-  "news|b0abe94b7ed3": 1793238546.2972772
+  "news|b0abe94b7ed3": 1793238546.2972772,
+  "news|17627ce65687": 1793240344.2284012
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8174,6 +8175,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T02:19:04.228465+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump touts Venezuela victory, Iran strikes and rips Obama's nuclear deal agreement</b>\n📰 Fox News · Jeu 29/10 02:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUkxKZ3FBbmRzWjBjZVVpOFJvNmZuX2twOEZIa01yTXE5VDc2dzlhbWdWTk1GTUlfbzU0bjJoRHJOMEIxSG9Mb2syQWxyMFRrNXJZTnJn?oc=5"
+  },
   {
    "ts": "2026-10-29T01:49:06.297368+00:00",
    "kind": "news",
@@ -8468,11 +8474,6 @@
    "ts": "2026-10-28T09:16:08.170635+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US warns Gulf countries of possible Iran war escalation after midterm elections</b>\n📰 The Mirror · Mer 28/10 07:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVFNQ0lETDZOWVc4MENQVW5CMF9VZXlTUHFmZFIyc2NVUmU3SUN1dDhJRi1oVzN0Y1BNR3dfTTBhNnFLQW9YaG5ocEtlSldsOUR3U255QU1UQVJjOGlONXZmTjI1OVBJY1BXUzI4eVItNDl6SEYxMUJqU3RfdUh5RmdNMEjSAYQBQVVfeXFMT3FRTUNJREw2TllXODBDUFVuQjBfVWV5U1BxZmRSMnNjVVJlN0lDdXQ4SUYtaFczdGNQTUd3X00wYTZxS0FvWGhuaHBLZUpXbDlEd1NueUFNVEFSYzhpTjV2Zk4yNTlQSWNQV1MyOHlSLTQ5ekhGMTFCalN0X3VIeUZnTTBI?oc=5"
-  },
-  {
-   "ts": "2026-10-28T08:01:49.027850+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says</b>\n📰 AP News · Mer 28/10 04:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5"
   }
  ],
  "daily_forecast": {
