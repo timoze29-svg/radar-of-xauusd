@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "11821a2e7d3a",
-  "a67db650c79f",
-  "dca7766c6b80",
   "1737a5e18487",
   "39ea09c528cd",
   "92798cad47ad",
@@ -4044,9 +4041,24 @@
   "8b67a5b702c1",
   "31d2606ccdae",
   "c3c6d4d80b1f",
-  "545d6443b5ce"
+  "545d6443b5ce",
+  "abc8a12a41bb",
+  "a23f4522ff46",
+  "2a4f2aa79c6a"
  ],
  "news": [
+  {
+   "title": "Exclusive | Top Admiral Briefs Trump On Iran Attack Options",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR?oc=5",
+   "published": "2026-10-29T19:13:00+00:00",
+   "id": "abc8a12a41bb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast",
    "source": "Foreign Policy",
@@ -6434,18 +6446,6 @@
    "cat": "or",
    "raison": "Faiblesse persistante de l'argent métal pesant légèrement par contagion sur le complexe précieux.",
    "method": "IA"
-  },
-  {
-   "title": "Oil Futures Rise on Concerns of Escalation Post U.S. Midterms -- Market Talk",
-   "source": "Moomoo",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEFHbFFlQ2RhMHBfaXlRYmNvNWRCN3dOM1Bkbi1Wak9hcGtUeGl2UTdaT0VySzE2QjBXS0FLX2o5VHhGanFzQXJKUUU1M2dIWGl0U2FmRC1tWDg3cTBVYVZwM1VZbFVkYXJBYmlGYTBIcE1WT1JydGtHSFNaX0NiZnBjaFEyQ01keGVMdVlTVmFMcjAxeWRNaXZTN0NQTzNKRERvQWtB?oc=5",
-   "published": "2026-10-28T14:31:20+00:00",
-   "id": "f88630c0ac73",
-   "impact": 2,
-   "cat": "inflation",
-   "raison": "Hausse du brut et craintes géopolitiques soutenant la demande d'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8007,7 +8007,8 @@
   "news|c81db7fb37e1": 1793298691.7786846,
   "news|db78b948892b": 1793300500.4854612,
   "news|78ca9d8239f7": 1793301371.369958,
-  "news|ee33cbe581e3": 1793301372.4142947
+  "news|ee33cbe581e3": 1793301372.4142947,
+  "news|abc8a12a41bb": 1793302471.3977041
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8254,6 +8255,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T19:34:31.397810+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Exclusive | Top Admiral Briefs Trump On Iran Attack Options</b>\n📰 WSJ · Jeu 29/10 20:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR?oc=5"
+  },
   {
    "ts": "2026-10-29T19:16:12.414717+00:00",
    "kind": "news",
@@ -8548,11 +8554,6 @@
    "ts": "2026-10-29T06:34:28.141530+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Price Forecast: XAU/USD Rejected at $4,074 Ahead of PCE After Hawkish Fed Hold</b>\n📰 FXLeaders · Jeu 29/10 07:14\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWE1tbUxVeXpzVGtlaGFmMjNROVpCVzlTcW5JVVZ6Z3Z0UDAtWkQ4NDdCNGF0TUljT3QxZzFaNDRyV1hnWWVEc0R2T3JMVUx6Rlctb055SkNvY2hpUjVfT1RzXzFOYWREY1h5UzNLX0V3Y1VnamtpS1Z0Z29ycjdOQ2lwZ25QXzl4NWVDa2VaQjJQcUNWbm5Jemw3dzVZQ3NWUjNSUHVhUUt6eG5vTGdPaHFTYmdUWTZkaGljMUVnUXA?oc=5"
-  },
-  {
-   "ts": "2026-10-29T06:16:05.654253+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hegseth fires Pentagon’s top military planner as Trump weighs new Iran strikes</b>\n📰 South China Morning Post · Jeu 29/10 05:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUW1Tdm9JcndmQ1IyeU5VQmhHWEVJcXJoRVo1Q0d6ZGl5NExaTGFPVWlGLVRTd1VaUFRSaHhKOVZ0WlIxNGJicGp2eUZtMGZqcThtZVhhcm5xb2ItZm5rWDVBVEN6UHhzT3ZZMzdmU1N5SUtFQ3dlLWlQUTBoUkhCZnVnRjE3OXQtOEJob3R1S2xBZGlSd3RVT1RnRURDQXN4Z1FDU05ONm11cFFsdGhYQkZ0UExOZnplS1RBS0ZCclBGSzU4WThlckhvLXh0S1d1cEN3aXJmM25NOFHSAdsBQVVfeXFMUFFtU3ZvSXJ3ZkNSMnlOVUJoR1hFSXFyaEVaNUNHemRpeTRMWkxhT1VpRi1UU3dVWlBUUmh4SjlWdFpSMTRiYnBqdnlGbTBmanE4bWVYYXJucW9iLWZua1g1QVRDelB4c092WTM3ZlNTeUlLRUN3ZS1pUFEwaFJIQmZ1Z0YxNzl0LThCaG90dUtsQWRpUnd0VU9UZ0VEQ0FzeGdRQ1NOTjZtdXBRbHRoWEJGdFBMTmZ6ZUtUQUtGQnJQRks1OFk4ZXJIby14dEtXdXBDd2lyZjNuTThR?oc=5"
   }
  ],
  "daily_forecast": {
