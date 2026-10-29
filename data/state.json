@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "af951a9b30b3",
-  "6e7ea0711516",
-  "961a402e9d26",
-  "27361535cd91",
-  "e2852d8924e1",
-  "0cf18324b45b",
   "3996e735e858",
   "bdf5686bae40",
   "ecb18df266b4",
@@ -4044,9 +4038,39 @@
   "2783c92c06d0",
   "2f8e97e596a2",
   "84a7879df86e",
-  "72c8456d3fc6"
+  "72c8456d3fc6",
+  "f8ee8b26ade8",
+  "d41861da58c0",
+  "1efc48b03fdb",
+  "2e3180041a9c",
+  "ca8d0147b159",
+  "a388f5f4cfc0"
  ],
  "news": [
+  {
+   "title": "Humanitarian aid set to enter Oleshky as a rare Russia-Ukraine truce holds for a third day",
+   "source": "Fox 59",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUd4aDZsT2xpeDNKWWtFbG9kVkZ2ZnhuRkFMRFlyYTl2cGZmN3IyQmlKQ0ZOVnpXS1BtVDc1NW1ya1h6aFlHM0hKaXBJcm5fLV9rTFdaZzRXR1Rwem44NHpGb1lzMHdYOFBuTTRnX3pwNU1pOEFOcGtqb2xVZUswaURsa185WV9YVkhId0tNRWRBa043eWF4TTd2a04zX1BwdllCdXlaRXNyd3B3YzRVelQ1WGRXUnJRLTM5b3JkV1BXSzRXQzFCTHViX0xiNTZqTi1oTmNKTUhhcVhQNGt2eS1MVdIB6AFBVV95cUxQaVgzT2h5YnI4OWJDSGZXX1kzRlFXZkZEVjhoa3NnYTFncUhmeHNnQkotSHJ5UzNIUnJ1MGJaU0RiUm0zRTUtb3JxSF9tSmc3cWxadUZWb3VxQ05ZZ1Y0NlE1VkV6c1pNbDJRN2lfOW9PU2RpSGVYSHpUZkt1Nkt0RnJPal9RTllKYXVFNUFFcDZWWnhrWlVoNU55MEtlVGVHNFJFM2ZsV214aTJnRjU2RV9NOFM0VFhCdmlTdC1JclBkbkV3NnEtNDNVX3hsT0IteUVoc2VVM0IwRkhaUEpNaGRSSW9LZmZC?oc=5",
+   "published": "2026-10-29T10:06:57+00:00",
+   "id": "2e3180041a9c",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil falls as diplomacy hopes outweigh Middle East escalation fears, Money News",
+   "source": "AsiaOne.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDBFNXBORWxlbmJPdXFnNTlNcTdySGdHTVhlUVNiRTlET0k3NnVidVM4WG5EekMwU3NwX3ktdUZwdHU4QkJvZzZMbGlxcG95dnI2Z2c3MlE4bWhza3NScWM5Y0FDTEEtcE84R0h1WkNrWGxSeVRLWTZxYy1OU1ZOekREeVkzdDlpbTZCNkd6ckU5WURiYWd2TQ?oc=5",
+   "published": "2026-10-29T09:54:53+00:00",
+   "id": "d41861da58c0",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oil falls as diplomacy hopes outweigh Middle East escalation fears",
    "source": "London South East",
@@ -6421,30 +6445,6 @@
    "impact": 3,
    "cat": "politique US",
    "raison": "Incertitude géopolitique persistante et rhétorique imprévisible de Trump soutenant la prime d'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Day 243 | Regional tensions escalate as Saudi Arabia intercepts missiles, Iran warns US",
-   "source": "Roya News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIYWxwRXZsbHBQbU9rcDZBRjh6SGNXOGhyRF9uZ043OF9TaUJlYWxLYU03UWFfTVBGM2pueWZUR21UNU5ETFVBbw?oc=5",
-   "published": "2026-10-28T03:00:00+00:00",
-   "id": "c4aeeb51c36a",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Interceptions de missiles au Moyen-Orient confirmant une confrontation armée imminente et violente.",
-   "method": "IA"
-  },
-  {
-   "title": "Nuclear submarines deployed as Foreign Office warns of 'sudden escalation' in Middle East",
-   "source": "Manchester Evening News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVDR4eUFXaXJJWndfRUJRS204b3g0T2tsUGlGbno2YW9aelY1a0tqNmhzUWZHWG5WdUV4VVR5c0RLREZNeHE2MjM0VE91NkhDeTZDb19YeHhrOTItbnBUQlVCRjlRVGxZSVdvX25aRjAyMzRrTk9kc2hCSjdpMXpYNy1QaDBqeTVmZ3VDRDVndmpqUFcwcVFmeW92bTlIZXE4aGFYRS03TXlWckNL0gGsAUFVX3lxTE1UNHh5QVdpcklad19FQlFLbThveDRPa2xQaUZuejZhb1p6VjVrS2o2aHNRZkdYblZ1RXhVVHlzREtERk14cTYyMzRUT3U2SEN5NkNvX1h4eGs5Mi1ucFRCVUJGOVFUbFlJV29fblpGMDIzNGtOT2RzaEJKN2kxelg3LVBoMGp5NWZndUNENWd2ampQVzBxUWZ5b3ZtOUhlcThoYVhFLTdNeVZyQ0s?oc=5",
-   "published": "2026-10-28T02:58:00+00:00",
-   "id": "82bb91f87c8b",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Déploiement naval lourd signalant un risque critique d'escalade, propice à l'or refuge.",
    "method": "IA"
   }
  ],
