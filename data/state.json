@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "faa30b79bd01",
-  "ccd288dae7a1",
-  "f58cbd42ae1e",
-  "8733f13df17b",
   "7131f9509d41",
   "cb1e2f39567f",
   "320d5f3dc2ff",
@@ -4044,7 +4040,11 @@
   "d50f79d6e14c",
   "a8379db3df45",
   "146120e5be87",
-  "4b9cf44f52dc"
+  "4b9cf44f52dc",
+  "5b52b058a00e",
+  "ad1847d1b30e",
+  "6ffa444a4a7f",
+  "247ebd354704"
  ],
  "news": [
   {
@@ -4105,6 +4105,18 @@
    "impact": -6,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Tom Lee Says CPI Could Be ‘Pivot Point’ For Markets – Sees ‘Pretty Sizable’ Stock Rally If Inflation Cools",
+   "source": "Stocktwits",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdBTzJVdG1peUtzVXJuVXZZdjhTXzFzRTdTRVNOTFFYdTJlaXV5ZTI4dlFyc19EVGxvVjVGdGJ1dHFWUlpnYWp5VlZoLS1KVENHelR5V05KOFNMcXYtQ01LU0dMUDRjVlJSaVh2bVVIaS1QS1pxbnBPczFzcVFOenZmWlozcmFlaUlyZ0llbVd4ZGJseHM3eVExclJHdGlVRUFBcmJib0F0WUxITU1xZjAwZ3RuTEVQME90X1VJNjdUS3VOYjhPRlZzZk8yZHc0TTBfTGxSaWpkVERmYUE?oc=5",
+   "published": "2026-10-29T00:35:34+00:00",
+   "id": "247ebd354704",
+   "impact": 10,
+   "cat": "inflation",
+   "raison": "haussier or (fed, inflation)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "taux",
    "raison": "La tension sur les rendements obligataires américains augmente le coût d'opportunité du métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGVuZmI2Sjh5TjRhZXdKdk4xOGNyNV9oQ3lfQ0ttWmtfbFJWUnRaQUVld2JwTzNNSzI4dksxcXZ1VUVlMUpNT09ibTVLUm1kanhicWZJbzh2cEdGMFhTbU0tdk5zVGRBcFJJUUtqNHA3NmNrYmgxUE1Va0ZmaHRlMnVyYjNyaDhWWHJxRzAybFpBVk00ODlLODBiM0ZHWlVBSHhBbFNmY9IBrAFBVV95cUxNS0ZKYVVBS0R5Z1RsZGtFaDFocGNIS1pwSTRhYTRqb2pMRnZLZnhOelZRVmo1clJuZzFpZlI2YnVwMHQyMnphY21wc0dDR1NCVVRXUjQxbUJiNlNJSV8wRW1Gc3dwQ1cya19NY0xyX2VJakJ5dFBJWDAycmx3YV9FNGV0WHNFSDEwSng5cGhYbzNudTFYVVo3aW9QYXhMajI4dkE2eDhUT1Rjb2cw?oc=5",
-   "published": "2026-10-27T17:36:58+00:00",
-   "id": "abc224acad9d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7944,7 +7944,8 @@
   "news|6b73a9a60979": 1793236564.7566638,
   "news|9182aebc9585": 1793237679.9395516,
   "news|b0abe94b7ed3": 1793238546.2972772,
-  "news|17627ce65687": 1793240344.2284012
+  "news|17627ce65687": 1793240344.2284012,
+  "news|247ebd354704": 1793241079.3004968
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8175,6 +8176,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T02:31:19.300558+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tom Lee Says CPI Could Be ‘Pivot Point’ For Markets – Sees ‘Pretty Sizable’ Stock Rally If Inflation Cools</b>\n📰 Stocktwits · Jeu 29/10 01:35\n🧠 haussier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdBTzJVdG1peUtzVXJuVXZZdjhTXzFzRTdTRVNOTFFYdTJlaXV5ZTI4dlFyc19EVGxvVjVGdGJ1dHFWUlpnYWp5VlZoLS1KVENHelR5V05KOFNMcXYtQ01LU0dMUDRjVlJSaVh2bVVIaS1QS1pxbnBPczFzcVFOenZmWlozcmFlaUlyZ0llbVd4ZGJseHM3eVExclJHdGlVRUFBcmJib0F0WUxITU1xZjAwZ3RuTEVQME90X1VJNjdUS3VOYjhPRlZzZk8yZHc0TTBfTGxSaWpkVERmYUE?oc=5"
+  },
   {
    "ts": "2026-10-29T02:19:04.228465+00:00",
    "kind": "news",
@@ -8469,11 +8475,6 @@
    "ts": "2026-10-28T09:46:08.607962+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China denies Taiwan’s claim it orchestrated attack on comedian who mocked Xi Jinping</b>\n📰 NBC News · Mer 28/10 10:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWVMNjN3Ql9CM3BHcmdHd1E1TzUzX1NnaHVGaGIwVHZHeDRvZy1YQ3dnZDVwMnB4M3FtMmtNVWdwMzlWWHB6cU5RcG1nWE1oZWFFdmZpQ0Myb3N1VWMzQnBEQUJrUmtmdTBpRjg0OFpkR2U0UjJwcWFLbjdmaXE4ZlpQWWduaTlaTXpMWHpQUHdwNjVaSXFEclFzTVlUWno0UVRQblpnSE9Ndw?oc=5"
-  },
-  {
-   "ts": "2026-10-28T09:16:08.170635+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US warns Gulf countries of possible Iran war escalation after midterm elections</b>\n📰 The Mirror · Mer 28/10 07:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVFNQ0lETDZOWVc4MENQVW5CMF9VZXlTUHFmZFIyc2NVUmU3SUN1dDhJRi1oVzN0Y1BNR3dfTTBhNnFLQW9YaG5ocEtlSldsOUR3U255QU1UQVJjOGlONXZmTjI1OVBJY1BXUzI4eVItNDl6SEYxMUJqU3RfdUh5RmdNMEjSAYQBQVVfeXFMT3FRTUNJREw2TllXODBDUFVuQjBfVWV5U1BxZmRSMnNjVVJlN0lDdXQ4SUYtaFczdGNQTUd3X00wYTZxS0FvWGhuaHBLZUpXbDlEd1NueUFNVEFSYzhpTjV2Zk4yNTlQSWNQV1MyOHlSLTQ5ekhGMTFCalN0X3VIeUZnTTBI?oc=5"
   }
  ],
  "daily_forecast": {
