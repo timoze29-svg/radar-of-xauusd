@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793312148.169497,
+   "ts": 1793315748.733393,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "1c9417cb2c19",
-  "0aba2999f6a4",
-  "bb07c325317d",
   "a78e6936d46d",
   "783c10dc199e",
   "be2402c88c93",
@@ -4044,7 +4041,10 @@
   "a2fc6092af74",
   "3fda0e19042d",
   "cbc33ac2ac11",
-  "2960840957c8"
+  "2960840957c8",
+  "1d0bb156a4e7",
+  "74256afdf097",
+  "b80372574406"
  ],
  "news": [
   {
@@ -4054,10 +4054,10 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTFBS2RPZGQ5VFV4QVlhVDRWQlZ1elFLZDJXLUhld3pXaGt4SWVjRzBVXzU1dklLT0pRVE54MkF1MldaNEhtaUtIV0trSmdiWlpVV3NKWUJ0ejJTRzZzUTVBLS1vOTFzTncweEo3dzYyYWlHa1Y0U3U4QVFXaFRqTDBITGhYUTJYc0pBQ0p3dDhsendjYW1DMEg0TU5MeWZGaW5rNmRRZHRFSkxjRUlVWE1BMGo1Rlk?oc=5",
    "published": "2026-10-29T22:55:52+00:00",
    "id": "cbc33ac2ac11",
-   "impact": 6,
+   "impact": 7,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque de confrontation directe USA-Chine déclenchant une ruée majeure vers la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Israel deadlocked / Trump, Iran and the midterms : Sources & Methods",
@@ -4066,10 +4066,10 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDhFRTk0X2UwdXRNR19OSjBESnIxNFY2RE53LWNVZGVpMmFPYlA1ak1aTk1vaU05WjR2Snd0aHg4c0NFeHFFQ3JlcGluVmdWSWFhaUF2QkotMWo3OVVCYnUyLWtUV1BneGcyYmkzQXhxNGREdTRSci1NTWZBRkhSZ2xHcmFZUXRsNHpsd1pBZThGbHB3?oc=5",
    "published": "2026-10-29T22:13:51+00:00",
    "id": "5a164ddc4c2f",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Incertitude géopolitique et politique américaine persistante mais sans catalyseur immédiat.",
+   "method": "IA"
   },
   {
    "title": "Schumer announces bill to end latest Trump tariffs during Oswego visit",
@@ -4090,10 +4090,10 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qZkNaOVd6aUNwTlBQQWRURWtQTUNpMEhQV2w4X2FoZUxGcXp5WEh6U2x4V2E4ZHE1dm8tTV9PeEI0MXRxZFFPcFV6dFdtSHd2bEcyREpYYWxTM2hLcFgzWVdPUE1jTWZLSlB4RA?oc=5",
    "published": "2026-10-29T21:55:35+00:00",
    "id": "ec98c54813a5",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque accru de frappe préventive contre l'Iran alimentant une prime géopolitique modérée.",
+   "method": "IA"
   },
   {
    "title": "Trump Claims His Rallies Are Drawing ‘Biggest Crowds In History’—Despite Some Tiny Venues",
@@ -4103,9 +4103,9 @@
    "published": "2026-10-29T21:17:35+00:00",
    "id": "58b83232cfaa",
    "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "cat": "politique US",
+   "raison": "Bruit de campagne électorale sans aucun impact macroéconomique ni financier.",
+   "method": "IA"
   },
   {
    "title": "Exclusive | Top Military Admiral Briefs Trump on Iran Options",
@@ -4117,6 +4117,18 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Options militaires contre l'Iran, prime de risque géopolitique accrue.",
+   "method": "IA"
+  },
+  {
+   "title": "Schwab's Kevin Gordon: Strong GDP and Sticky Inflation Make This a 'Hall of Mirrors Economy'",
+   "source": "BigGo Finance",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1c0Q3d0h5V3ZXa2k3UlFWaFR6YTFOMGE1a0dlWFltYXQ5RW1aUEZVR3ppaUlBVDlINGhvd0FScW9Ea1p1eS1oTlVFaTI3OTJEdUk1NTh3MGx4SlU?oc=5",
+   "published": "2026-10-29T21:08:00+00:00",
+   "id": "1d0bb156a4e7",
+   "impact": -2,
+   "cat": "inflation",
+   "raison": "PIB solide et inflation persistante repoussent les baisses de taux de la Fed.",
    "method": "IA"
   },
   {
@@ -4175,9 +4187,9 @@
    "published": "2026-10-29T20:45:33+00:00",
    "id": "4d05d43767b1",
    "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "cat": "or",
+   "raison": "Analyse micro-minière spécifique à long terme, neutre pour le cours au comptant.",
+   "method": "IA"
   },
   {
    "title": "Schumer, Standing At The Port Of Oswego With Families And Businesses Being Crushed By Trump’s Reckless Tariff War, Launches New Legislation To End Costly Tariffs And Lower Prices In Communities Across Central & Northern NY",
@@ -4211,9 +4223,9 @@
    "published": "2026-10-29T20:32:41+00:00",
    "id": "0c0ae557a7eb",
    "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "cat": "or",
+   "raison": "Vidéo thématique générale sans catalyseur macroéconomique à court terme.",
+   "method": "IA"
   },
   {
    "title": "Washington Warns Allies of Possible New Strikes on Iran After US Midterm Elections",
@@ -4235,9 +4247,9 @@
    "published": "2026-10-29T20:19:00+00:00",
    "id": "2960840957c8",
    "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "cat": "taux",
+   "raison": "Rapport de routine sur les rendements, sans direction claire ni surprise macroéconomique.",
+   "method": "IA"
   },
   {
    "title": "Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation”",
@@ -4480,6 +4492,18 @@
    "method": "IA"
   },
   {
+   "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
+   "published": "2026-10-29T16:40:36+00:00",
+   "id": "b80372574406",
+   "impact": -2,
+   "cat": "taux",
+   "raison": "La hausse des rendements américains et la faiblesse de l'euro pèsent sur l'or.",
+   "method": "IA"
+  },
+  {
    "title": "U.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety",
    "source": "WSJ",
    "theme": "Dette US",
@@ -4630,10 +4654,10 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2tWX0xvV1Q2UEUzam1wZmc5NVpjMFM3WjZjWG1wYXc0WU85RkpHVW9qamFkcWZkLTdoWTdMbXZjZy1PZHJkS2NTOEhsdGdObTZsWkxXcmJnWlZ4TFV2d2hGc0Q2ZDd5OWh3ZDRjVDRQUlBBR3lKSHJsbk5WUVROTC0zT1JxZXJfYVc1a1ZVYm16ZjVDQ2ZMZzQyMW1FZw?oc=5",
    "published": "2026-10-29T14:50:19+00:00",
    "id": "af419d6709f9",
-   "impact": 3,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Spéculations sur une escalade militaire au Moyen-Orient maintenant une prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Donald Trump seeks stronger deal than Obama's to delay Iran strikes",
@@ -4642,10 +4666,10 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQUM4M0FFYlhhT0Fta2MyTWptLXQ0dHpHcHhQMFFmQXV3N1pHNFpnN0VpcHpwTW1PSF96bVpMLXZ1QUZjRkVUa1BGTzNxWUZoX19Ib205UGw1WE9JX0VwV1J4X3BPdWx5VGc?oc=5",
    "published": "2026-10-29T14:43:38+00:00",
    "id": "afcbb5578c2b",
-   "impact": -4,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "raison": "Perspective de négociations diplomatiques retardant un conflit armé immédiat.",
+   "method": "IA"
   },
   {
    "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
@@ -4654,10 +4678,10 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNy1ZTkhRcTV2Y181WFVZblhrTDJGTnNQanRHNGJORUkwS09mSDNsOVV3d0NYUkw5TGdkYi1sRzhnalpDRWRNSldzNER5WUVFVVNVUDRwRFVHWE0?oc=5",
    "published": "2026-10-29T14:17:35+00:00",
    "id": "58a62da74441",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tragique mais s'inscrit dans la guerre en cours, impact marginal sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Fed Rate Hike Odds Archives",
@@ -4666,10 +4690,10 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiUW9uaTRVbUdYWVlPbzFmd3dHcU5OMHB4aEo2azNIUHdiMG9fRnh5d3ozZlZsNmM2VnBfN1MxdzZyR282ekhIcGxNaUtRV0lBVUs4ZGt1d0xlQTBGUWVzWXM3OW1SeHpMaVZiWkNn?oc=5",
    "published": "2026-10-29T14:01:28+00:00",
    "id": "982a0b2a1959",
-   "impact": -8,
+   "impact": 0,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Page d'archives sans actualité monétaire nouvelle pour le marché.",
+   "method": "IA"
   },
   {
    "title": "Strong US inflation and growth will keep Fed on a tightening path",
@@ -4678,10 +4702,10 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZlBJclhlMUl0SS1hRnJLUnBMekVNT2UxTG9Wa2pqY0owaGtRbDFnMW5hRllBcVBwNEF4UzBxdmZxZ0xCN2E1ZDJxQmlRTThLQ0FTYTdZZG9KY25sRmk2LUtleEFxUldNeUJKTFo3Zm4?oc=5",
    "published": "2026-10-29T14:00:18+00:00",
    "id": "af1904a0656b",
-   "impact": -8,
+   "impact": -5,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Perspectives de taux élevés durables renforçant le dollar et les rendements réels.",
+   "method": "IA"
   },
   {
    "title": "Canadian Dollar weakens as US PCE inflation and GDP back hawkish Fed bets",
@@ -4690,10 +4714,10 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVFxTEhzMHBZVVNGVVlDQkJrM0ExdEVhRkplenFNV1lTa0ppNWxrOTl1R3hJRWNQSnhZYTNvTWtXOFdzVVF2N19QV1VCNTdIMDNuUks4OWJJeWFJVzBlS293U0MzVGJvWFkyVG5Lc3Q4QzVDY3ppcDNyMzFNVk1EclE5YVdNcm9IMkkyTnVPSHhKUU41d1dSMVhxckE2NWZoLVIwLTF6bDlwM2ZvZU5zZjNMdE9IYUE?oc=5",
    "published": "2026-10-29T13:55:44+00:00",
    "id": "fd6bc21911f7",
-   "impact": -1,
+   "impact": -4,
    "cat": "dollar",
-   "raison": "baissier or (dollar, fed)",
-   "method": "mots-clés"
+   "raison": "Données américaines solides soutenant le dollar et repoussant les baisses de taux.",
+   "method": "IA"
   },
   {
    "title": "U.S. allies tell residents to stockpile, Trump warns of possible Iranian retaliation",
@@ -4702,10 +4726,10 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGl2ZEdDbktwektxdDFLcFFqNEFLcmgyY0RNYVRXanlfX2xHUDJqRWtxX1NJZ3J0S28xcGN6QjNYM2FwMzZOMDF1Q2w4LXcxT1hjMEJkZFNqa2VsaVdOa0wxd2N0OWkzbWJGWmJaNnczbWFFcWtxUWRsLUR6aEdJVzVrRzVFLWFSLXZnS3dneUx4UnlncFJUbHlDaWhwX0Q4Z2hKNTktbDhmeUN5NW5FaFVteUpfWTA?oc=5",
    "published": "2026-10-29T13:49:00+00:00",
    "id": "5e33163dc9da",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Préparatifs de crise et menace de représailles iraniennes dopant l'aversion au risque.",
+   "method": "IA"
   },
   {
    "title": "US and Israel prepare weeklong bombing campaign against Iran – Axios",
@@ -4714,10 +4738,10 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTA0cmNfT2dqU2tyWnczNjN2bnpXUTk3b2hsRjkzZGgwTE94RHp3SVBLYzBTZGpEMkpvRGphQnBWLXhjRkgzczZ6c1RTWTBsZndEb0RyNHU0VFBVYnlXQ0pCbnJfcVF6V0E1X0tEdnNPWERrSHhDM2lVVHMwTDIyQmR4Z1hSSFhSQzQyT3VCdXV4bVFWbXJfa2otVQ?oc=5",
    "published": "2026-10-29T13:45:45+00:00",
    "id": "775b6e2ab083",
-   "impact": 8,
+   "impact": 7,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque imminent de guerre ouverte majeure au Moyen-Orient propulsant l'or valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Exclusive | Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
@@ -4726,10 +4750,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUpKcVNybjJHYmNxUVRITlRaVW9qQVdrQjI4MFZvTkJ6bU8tSVNKQzNIWG54bXVMWGl2QzhMX3VpUVdWRERaYlhhNENWcW0yNUJKdWFFVzduQ0pzamh6aWJhQlJDem9JWm1EUUxLQzBjVjBMVTg4MFNHOElhaUptVno3d3dLUUhmMmRKSmMzOVExM0NBaG5yQnZXUlpLQjg4YlpnNTc1bmd5M3BYcmx4MUJpbndqZ2JfMG5MRDZqLWE?oc=5",
    "published": "2026-10-29T13:36:00+00:00",
    "id": "c15b1addc55b",
-   "impact": 1,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Assouplissement ciblé des tarifs réduisant légèrement les craintes inflationnistes et commerciales.",
+   "method": "IA"
   },
   {
    "title": "Ukraine: 14 killed in Russian drone strike on crowded Dnipro train station",
@@ -4738,10 +4762,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0pSTndXZGNGWjZ6a3VIb3BHM19XV1IyVndOajVRcTR0VlVoVF9wNVY2NVFWd1pxT0hIQWhKaDl5Sjl2bU5QcFJPQ282Y2FzdkJhdkdoQU1nNW1FaGVKSDJyU2FsNXJPd290eUFGcW1Vc2tMNzZyRnVvUmMtb2hoT1RkR2lwOUhHbDB4Z3UyLVpqZ2pWV1BQY1pSTDU3aHlXS0dySmhrdkhJQdIBqgFBVV95cUxNVVhsUEMzMkFhQmRPZmlpMXhOUGdENW5CRW9OOWdrNm1YaXlEdXZoM19jMHNmVnNjcHB5dWx4ekVNV3k0aDVoN2RyTHNrNloyejN2ODJXU0VTcEU4R3JOU1ctZE5nS05LWWkzZHpsd2V3MUpRUUw2WXpHRUFoMHY5cFBBd05CV2ZjQUJsX0FVUUNtMzhSUDZEcldvZnlfZVNqSkVQRkFSZG9oQQ?oc=5",
    "published": "2026-10-29T13:22:54+00:00",
    "id": "af2fdb7cf82f",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe meurtrière connue maintenant le statu quo de tension en Ukraine.",
+   "method": "IA"
   },
   {
    "title": "Russia, Ukraine report ceasefire holding in southern Ukrainian town awaiting aid",
@@ -4750,10 +4774,10 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTYzVkpjYWd6SjBwSmNsNkFUMTZqMGNmMXNiRUg0YjBIUHFzay1vRnJNS3ZmZmYtMGFNUDRGX2N5V1V0U2JxTlRqXzVfOFBWc2EtanRFRVZZUkE5R1VxVWoyVXAxWmlkZFRYeGZ4UWFWRzExeTQ1T0ZYNkIwZTdDZUpTMzFyVndmSzBjMERKNzIwU1hDUnZ6T2h6UTVjTTNsZ19NM0xrUHJMNjZ2UlUxU0E5N2RUcGI4RVNteA?oc=5",
    "published": "2026-10-29T13:17:18+00:00",
    "id": "837e1cd47a64",
-   "impact": -5,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Accalmie très locale réduisant marginalement la tension géopolitique globale.",
+   "method": "IA"
   },
   {
    "title": "Above 102.00: US Dollar Index Price Forecast remains bullish as gains hold",
@@ -4774,22 +4798,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNOVzAtejhZWTl2QlFRUG1kYkN5SzI3ZDZsZU1MS1dveGFKaW9vczFvZHF2REFGQ0JHX3hranA0eXJWR3paN1NQU21uZ3hXRV9HSDd2dVFfLTZnaWk5RUI2QkxSWVlvMXNla2luVXM5TTdIVHVhRklSbFNrMmFNRDJ0RkhRVGsyVDZaWGtPTEc3dWlzNmMyemR4MlBacFNqeGhXcTlxMmZZdw?oc=5",
    "published": "2026-10-29T13:04:37+00:00",
    "id": "6bc0dbfc2195",
-   "impact": -8,
+   "impact": -5,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Pete Buttigieg Uses $17.50 Waffle House Meal to Slam Trump’s Tariffs, Says Americans are 'Paying the Pric",
-   "source": "Benzinga",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONktUTjNEaDlzdllJNjM0NkFCZVBNdGlvc0FoWWcxQU8wY3F3anJTNG8taEtUZU5TSG11bS1jaE51SmY5SWp0MVc2cWxjSXZGTl94TUt3NjJlRzVKVDFCTldsMHZrcnZuWGdlVDduZnJ4RVJyaExoNHZTWkRWdXg4NV9kcjBPQngzM1F6RVpFSjlqdDRUTkxxb3IzTXlkTGhmakFSTFpLOWh4WmZYRE5GUndnUE9ienpCRzhFS3hYMkdzTTVxbDZoSUQ1WmVpSE1FME1DUFRtQXFHR1d6NTJ4TlFESEdMWjYtTlJVNA?oc=5",
-   "published": "2026-10-29T13:04:09+00:00",
-   "id": "14ec46c11bff",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Inflation PCE élevée alimentant les hausses de taux Fed, très défavorable aux métaux.",
+   "method": "IA"
   },
   {
    "title": "Russian drone strike kills at least 14 on Ukrainian rail platform",
@@ -4810,22 +4822,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWN5dFVlV0FrMjdfWjNkODRJUGp5SDBab2pyUDhCT2wweDh2VkcwbXVIcjh0aUVrSTdEZTM0Z1NkWWNUM0ZHc0NQZmhiY05aNlZtNWpIc3BWVEtqNzJzUWNIV3V6VjNYaHpXdFp2YkxjdHpQVy00ZVc2WnhONjVqa0hOaGlQekpZQkJVRklydzVHRGx1SWtrZFRxRXAxVWcxandjMFZrNkJsZw?oc=5",
    "published": "2026-10-29T13:01:15+00:00",
    "id": "d7d6b86f1930",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams",
-   "source": "AP News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkdacW5ISTg1djZDV3kzbVhqOUVkNXhyQVh2bFJRT25NZ3VpSHBwZlBLZ3l4Q1lWU0lpdUhCY21BOVRMbzJtbmxxeHZ3b3VkQUZPRUNCVXY5OXdpS056emN4VU5VQjgtbFYwVjdSalkxeF84NWxHTGNoeTFlUGJvQlM2bkRaTlFTTnVQa0REX2Q4eGdISkwwdjIyc2tTYjg?oc=5",
-   "published": "2026-10-29T12:54:00+00:00",
-   "id": "891c26f93f6f",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -2,
+   "cat": "dollar",
+   "raison": "Posture hawkish maintenant le dollar fort, pesant mécaniquement sur l'or libellé USD.",
+   "method": "IA"
   },
   {
    "title": "October FOMC: DéJà Vu As Warsh Risks Repeating Powell's Biggest 2021 Mistake (SPX)",
@@ -4840,16 +4840,28 @@
    "method": "IA"
   },
   {
+   "title": "30 Year Treasury Yield at a 24-Year High: What It Means",
+   "source": "Admirals",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZU01MVJRNnB2dWxhMkRYNFI1SjcxU2ZmX29remZqdzJPb1I0V0xvUDhUay1GLTlVTjFULUdlaGFjUDM4SjhVX3ZiNW5WNGQtdmo3Z0xDcHJ5anhzRTJFOGdXNGRIQzdad3ZZNERST0R5LVgxckU1RW1jalZMNTBMdzh2TkEwOTZzeXpESm93?oc=5",
+   "published": "2026-10-29T12:46:56+00:00",
+   "id": "74256afdf097",
+   "impact": -3,
+   "cat": "taux",
+   "raison": "Des rendements souverains à 24 ans au sommet augmentent fortement le coût d'opportunité.",
+   "method": "IA"
+  },
+  {
    "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
    "source": "BBC",
    "theme": "Russie/Ukraine",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNy1ZTkhRcTV2Y181WFVZblhrTDJGTnNQanRHNGJORUkwS09mSDNsOVV3d0NYUkw5TGdkYi1sRzhnalpDRWRNSldzNER5WUVFVVNVUDRwRFVHWE0?oc=5",
    "published": "2026-10-29T12:38:40+00:00",
    "id": "1120fddcc449",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Répétition de l'attaque sur la gare, prime géopolitique déjà intégrée.",
+   "method": "IA"
   },
   {
    "title": "Yemen escalation kills nearly 1,700, injures over 7,000 since August: UN agency",
@@ -4858,10 +4870,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ3dMVWxqMU9QRXY2TzNLM2JGbUxPM3R3ZldHdkFyTmZwSjg3a1RHUlRFVFRocGE4WkRsczNtQTc1bU9kdVRkZzFwMUplVl9vYk9lUkNDa0x4eHVpM2Joc2R0dExXX2U3ZUFHcjNuV196NFA2ZzhTWEpOb2h0WlhNYjhnQ1NINFpUTEc3UEJVU1RCa1ZMSlVwdUNLcTIzQ1dJOGhJOVZtM3JyaTdDa0diQnc4a2x2Qk9XRnA1WUtFcW4?oc=5",
    "published": "2026-10-29T12:15:00+00:00",
    "id": "4d3ca23b670a",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Bilan tragique de long terme ne provoquant pas de choc immédiat.",
+   "method": "IA"
   },
   {
    "title": "India's 10-year bond has best day in 3 months on Treasury rally, easing oil",
@@ -4870,22 +4882,10 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnpKVDAxT0hvRnFFWXdIOFNBbUU0V2hFRVFfTUwzTVpwampiLXVUdnVuUVlGNlFrRDNabHUwNDJKM2Z3enRWY0FxZHJqdWx3S08zX0NmRExDbFozYWRJRFYtVFFidTBTM3V5akE4cHZmeTdQYVpKT1BLN1ZZZ0RLRnZQcGh5V1ZrQmtRWVRFTGs3X3Y1dERKejB0NVkwc1VaZnhvZTZiZzUxQ0hJM3lIODY0Q19PQ0s0RHJRZGQ1WWMxeGlMRzVOTzVuYTgyOG9VcmRxRW5SWi3SAd4BQVVfeXFMUGJMZ1BfLU8zMEhaeU5CZDRUZFNaWlA0WmVqNDlrZnozRXNLT2dIN1JPQTU5aWZwaW1HSlRqRjJNSVU5cHUxcWhMbUI3V09ZNUd0dzFnTFg3blpxNTc5TGNydThaNkYwaEJkaXlzYkhMaW1FcnQ0NVVSQUpIOHo1bHhBX3RFc1FqUlRRcnJBbVRwSHFqY3BUdVI0MVlYRFBKZ21tbk0xLXkxVGVNYWxBZVQzWXZ3ZWoxR09LSGRiRVdHdFVjeTZEX0RGaHBHeDczaXdBT2dDZFZDR1B0SXZ3?oc=5",
    "published": "2026-10-29T12:11:44+00:00",
    "id": "8acb5c0e1dc7",
-   "impact": 8,
-   "cat": "fed",
-   "raison": "haussier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "US First Lady praised for Oleshky relief truce as Moscow strikes Ukrainian commuters",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb181OURQbFRFR1NyNmlZamlYdUppa18yeko2a0YycFZ1MEFzR1FRX1VYV1dqZGxlQ1EzTm5OS3lsNDNaSnhuOTNpT0NPRUhJa3FYdzg4R25fTzF5azY4VDJvb0VaNjZodWZtaGNKWEloMVpaM2VIMHFoMXQyQXYySUxBQmpJUTZCbFdOczhvYlFmeEU4UTJpbFdVTFU0QzR6MnhIS1VLckEwSU5HZ29PNjlzOGJIZ2RYSWlGVmVzNnRsQkk?oc=5",
-   "published": "2026-10-29T12:11:09+00:00",
-   "id": "68755c135a38",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 2,
+   "cat": "taux",
+   "raison": "Baisse des rendements souverains réduisant le coût d'opportunité de l'or.",
+   "method": "IA"
   },
   {
    "title": "Russian Strike on Ukrainian Train Station Kills 13",
@@ -4894,10 +4894,10 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0NVWmpnY28xQ1h6VjF4RjRMcFRLNVhIZjlSdzQ0cWdrVG05WUp4OG9CUTg0cFFLY2VLNm9jWXNCOUpQeEtLb3RZTW5kTnpKV0Nud1Q4TThxdV9aM0lZUktkNVgzS1d3TFpSVHhEYXpEN182RXJuNFV0WG5seS1MQ2NXZnZjWjA?oc=5",
    "published": "2026-10-29T12:06:10+00:00",
    "id": "3fce0be36160",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Même événement tragique déjà intégré, soutien marginal lié au contexte géopolitique.",
+   "method": "IA"
   },
   {
    "title": "At least 13 people killed in Russian attack on Dnipro train station",
