@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793232949.0452313,
+   "ts": 1793237466.6776106,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,8 +1045,6 @@
   }
  },
  "seen_news": [
-  "1b8bbbee4939",
-  "9c0b7fdda459",
   "c4844d977096",
   "795658376869",
   "62c4942f4b5f",
@@ -4044,7 +4042,9 @@
   "d20617cd695f",
   "37da2db76154",
   "ecc6aa927d98",
-  "e2e100adb0a0"
+  "e2e100adb0a0",
+  "9182aebc9585",
+  "709f107cca68"
  ],
  "news": [
   {
@@ -4057,18 +4057,6 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "‘Politics played no role’: Fed hits pause button ahead of midterms",
-   "source": "SMH.com.au",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE1nYUZEQTc2MmxjemIxS3I2MUFMdWgycDFMY1FWTnpEbjZCelRFVjRUVHBXTlVOelk2RlJqSnc3aUNxVUxkcXpjWTVIdGU5MkE3dmFOUS1VRnBRaGpQejB0U1VKRmZtQU9GWlI2eUd4ZXZfS09vTzRXNnFBUndCLXBsSDBfQl9VLUJFU3FtcmhhLXBtLWxnbmZJaUJXOXk0enVDT2F5Wm42aGtIaVdHUk80UGNXbUJzRlEzc3RYN2JBM2dhTFp3?oc=5",
-   "published": "2026-10-29T01:04:09+00:00",
-   "id": "ecc6aa927d98",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -4346,6 +4334,18 @@
    "cat": "inflation",
    "raison": "Craintes d'escalade soutenant l'énergie, alimentant la couverture contre l'inflation.",
    "method": "IA"
+  },
+  {
+   "title": "IRGC-linked outlet promotes nuclear bomb as popular demand",
+   "source": "Iran International",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UUEpPcllFZnVheS0td2VhVTBWSUo4V1NOZ0lEUVNFanp6cmEyMWR6ekRMVUVQbHg1UkpkS09SckJqUndlMlVrWFpuMkFodTFuZ2c?oc=5",
+   "published": "2026-10-28T18:38:48+00:00",
+   "id": "9182aebc9585",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "WTI Price Forecast: Prices rise above $100 as fears mount over renewed escalation in Middle East conflicts",
@@ -7941,7 +7941,8 @@
   "news|92a1c0831eaf": 1793229368.0879114,
   "news|d7e1d14e9b2f": 1793232102.5368242,
   "news|e566669bb128": 1793232103.4512148,
-  "news|6b73a9a60979": 1793236564.7566638
+  "news|6b73a9a60979": 1793236564.7566638,
+  "news|9182aebc9585": 1793237679.9395516
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8172,6 +8173,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T01:34:39.939633+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>IRGC-linked outlet promotes nuclear bomb as popular demand</b>\n📰 Iran International · Mer 28/10 19:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UUEpPcllFZnVheS0td2VhVTBWSUo4V1NOZ0lEUVNFanp6cmEyMWR6ekRMVUVQbHg1UkpkS09SckJqUndlMlVrWFpuMkFodTFuZ2c?oc=5"
+  },
   {
    "ts": "2026-10-29T01:16:04.756752+00:00",
    "kind": "news",
@@ -8466,11 +8472,6 @@
    "ts": "2026-10-28T08:01:48.010658+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ali Motahari Says U.S. And Israel Won’t Strike Iran Before November 12 Elections: 5 outlets compared</b>\n📰 NewsCord · Mer 28/10 06:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTM1SHpJTllOZXBnY1h0amRWVHY3RUtod3lEaE9NRlg0YnM0NlRWRTFOeXdtTVFNa2xWWm9KWGNiUFF5TXBudzZFazh2WVJ3Q0tYZWFHUFB2LVJMckpaUklSN2hUX3h0X3RGM2Vyc2RVUWFoLS0wTUhkbDdZYmNqUlU2NVFZN3BVSElJd0dGVzBmTU16UmUxUlBQWnVKcnNmRmR2c2V4VVBJUDFnTXlIM1U4Umc1djBXOXc2eFUtUXYzT0xRMmN4RWhvLXlPejJFU0ZSb0J5MkFhckJr?oc=5"
-  },
-  {
-   "ts": "2026-10-28T07:37:08.124428+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Oil Prices Rise as Houthi Attacks Threaten Middle East De-escalation Efforts</b>\n📰 PUKmedia یەکێتیی نیشتمانیی کوردستان · Mer 28/10 07:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CYmVmaW9kcGZJT0JHaWlxbmFyVVpQLVJkcHdod1kzTnNOMldNQkd5NVRoZVFpaXZ2Q29kSkpiTVBERndoZldlaFlGR2RNcXR4WjZZ?oc=5"
   }
  ],
  "daily_forecast": {
