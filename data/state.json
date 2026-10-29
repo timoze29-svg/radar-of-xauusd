@@ -1045,11 +1045,6 @@
   }
  },
  "seen_news": [
-  "ddd1c2399e47",
-  "d8544ee4fc7e",
-  "1fa6f85f56a3",
-  "83648d98f2aa",
-  "224c78715abb",
   "1b8bbbee4939",
   "9c0b7fdda459",
   "c4844d977096",
@@ -4044,28 +4039,33 @@
   "2e83d9a7d133",
   "07e95b7e1f0a",
   "edd481f55d47",
-  "522bd37a3942"
+  "522bd37a3942",
+  "6b73a9a60979",
+  "d20617cd695f",
+  "37da2db76154",
+  "ecc6aa927d98",
+  "e2e100adb0a0"
  ],
  "news": [
   {
-   "title": "Fed Holds Rates Steady for Second Straight Meeting; Two Officials Rarely Push for a Hike; Bitcoin Rally Proves Fleeting",
-   "source": "BigGo Finance",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nTjBUaDUtSU5wZFlUenZxUXRNaGM5S3E1eFpQck1vVVp5clVEcmRJdUxKeE52b2RGZU1yY3RYYXNIOF9XdDF4bzdLQThuX09wbVlZSktkZHVuWGxucXVMWEJpZVltek1CX2I4a1Q3X0NTTHNOU3c?oc=5",
-   "published": "2026-10-29T00:35:00+00:00",
-   "id": "eb58901ca20b",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "Bloomberg strikes deal for faster access to Trump’s posts",
+   "source": "Talking Biz News",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGlWTkVUbWFrOVo0aENYaFFrai14aDdCcGxKZTgxMm1ETERhWDFRc0hFS0R6bnBBVkpPZ182dVZXd0Q0YTJXT1RDOGZ5WXR3NUJiaVc1NWZ4c2RMQVJMTzVMd0JRdmMydVowdU1SWTZuWU8wdmxUdnJ5dXc3UGxGajUyYkNGV2pzbTFNYUhpRXp2Qzc5MFNjeEtISQ?oc=5",
+   "published": "2026-10-29T01:10:18+00:00",
+   "id": "6b73a9a60979",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
-   "title": "Taiwan’s AerosoarX collaborates with US firms on AI drones",
-   "source": "Taipei Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16Z3AtY21ua3VGSE93a3duNTQtdjQ5RVdrNl9RNTI4ZENuZjFrVHp2ckc1WkVObHpqMnBxN2M3QzB4Nm1PQm9vX1M2RjY0NVVUYTVHLWVFNWs2eWRqNmx4b201RjR2M0tyTUVQNXBsSUw2bkNFUkw5Q0tB?oc=5",
-   "published": "2026-10-29T00:25:44+00:00",
-   "id": "522bd37a3942",
+   "title": "‘Politics played no role’: Fed hits pause button ahead of midterms",
+   "source": "SMH.com.au",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE1nYUZEQTc2MmxjemIxS3I2MUFMdWgycDFMY1FWTnpEbjZCelRFVjRUVHBXTlVOelk2RlJqSnc3aUNxVUxkcXpjWTVIdGU5MkE3dmFOUS1VRnBRaGpQejB0U1VKRmZtQU9GWlI2eUd4ZXZfS09vTzRXNnFBUndCLXBsSDBfQl9VLUJFU3FtcmhhLXBtLWxnbmZJaUJXOXk0enVDT2F5Wm42aGtIaVdHUk80UGNXbUJzRlEzc3RYN2JBM2dhTFp3?oc=5",
+   "published": "2026-10-29T01:04:09+00:00",
+   "id": "ecc6aa927d98",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -7940,7 +7940,8 @@
   "news|2ccab504f223": 1793229367.2689073,
   "news|92a1c0831eaf": 1793229368.0879114,
   "news|d7e1d14e9b2f": 1793232102.5368242,
-  "news|e566669bb128": 1793232103.4512148
+  "news|e566669bb128": 1793232103.4512148,
+  "news|6b73a9a60979": 1793236564.7566638
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8171,6 +8172,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T01:16:04.756752+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bloomberg strikes deal for faster access to Trump’s posts</b>\n📰 Talking Biz News · Jeu 29/10 02:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGlWTkVUbWFrOVo0aENYaFFrai14aDdCcGxKZTgxMm1ETERhWDFRc0hFS0R6bnBBVkpPZ182dVZXd0Q0YTJXT1RDOGZ5WXR3NUJiaVc1NWZ4c2RMQVJMTzVMd0JRdmMydVowdU1SWTZuWU8wdmxUdnJ5dXc3UGxGajUyYkNGV2pzbTFNYUhpRXp2Qzc5MFNjeEtISQ?oc=5"
+  },
   {
    "ts": "2026-10-29T00:01:43.451500+00:00",
    "kind": "news",
@@ -8465,11 +8471,6 @@
    "ts": "2026-10-28T07:37:08.124428+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Oil Prices Rise as Houthi Attacks Threaten Middle East De-escalation Efforts</b>\n📰 PUKmedia یەکێتیی نیشتمانیی کوردستان · Mer 28/10 07:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CYmVmaW9kcGZJT0JHaWlxbmFyVVpQLVJkcHdod1kzTnNOMldNQkd5NVRoZVFpaXZ2Q29kSkpiTVBERndoZldlaFlGR2RNcXR4WjZZ?oc=5"
-  },
-  {
-   "ts": "2026-10-28T06:46:10.969616+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel To Strike Iran After Midterms? Team Trump's Warning To Gulf</b>\n📰 NDTV · Mer 28/10 07:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWG1EMVo1UFBvWXBzNDFxY1E1VDZsbTNYOEY4aHhrLS1UeE1ldGhqcFRIZWJTTXllRWFHc1JFTlRJcFlFTzdwaXJua3RZM3Z3TEs1bjRBT2FWRERSSHJMRkRPNHJ5T3otdEF4bEhncnFLekFsUm45ZDZMNHpOeGYwTDBQYjJLb0FLNXZZV1EyNUpoODRXZklNRFpxVUZIcWFGMXQ2QWNabURKUzZuaS1TVmRkSXpVUmlJOXBpadIBxAFBVV95cUxPbVZKX045c1dFbFgxckx3Z2xPSHg1M0c4ODZtXzJWUVJrWFVqSGZkaGg1eVVUSG5nYjg1c1JGMzFYd1VLbHJyZHRFYVpjWjdDQVRSNWQ3d01naHo1dkQzZHA1U2d0emMyck1KNC1WZmNlaDRVS0NRYWpUcWc4YkNVd2RDUGtsc3lXQkdtVTFYdVVlcDhBc1RzLUR3SFowTTA0X0hwSTlHdnNkQ2Z5Qy1tbndmZC1zSzhScWxKcy1jY1RjWWxC?oc=5"
   }
  ],
  "daily_forecast": {
