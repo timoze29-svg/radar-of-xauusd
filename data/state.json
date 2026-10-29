@@ -1045,14 +1045,6 @@
   }
  },
  "seen_news": [
-  "480fda2cc17d",
-  "4fdf14d60417",
-  "7d277ce13bb9",
-  "3f6a4677be9e",
-  "790908020915",
-  "03d55699f9a3",
-  "09b64ddeb671",
-  "f32335b31a44",
   "70cdc8da1d7b",
   "f042f895c945",
   "e2118407a5be",
@@ -4044,7 +4036,15 @@
   "4d3ca23b670a",
   "9f0fa862744e",
   "e0899a7d6df3",
-  "fd6bc21911f7"
+  "fd6bc21911f7",
+  "a98df121bae4",
+  "bf34f041f10d",
+  "47e5b45bfb3b",
+  "48e76a7fdd1a",
+  "c8d42b1caabf",
+  "837e1cd47a64",
+  "3f15fc919720",
+  "938785a82c59"
  ],
  "news": [
   {
@@ -4081,6 +4081,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia, Ukraine report ceasefire holding in southern Ukrainian town awaiting aid",
+   "source": "Anadolu Ajansı",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTYzVkpjYWd6SjBwSmNsNkFUMTZqMGNmMXNiRUg0YjBIUHFzay1vRnJNS3ZmZmYtMGFNUDRGX2N5V1V0U2JxTlRqXzVfOFBWc2EtanRFRVZZUkE5R1VxVWoyVXAxWmlkZFRYeGZ4UWFWRzExeTQ1T0ZYNkIwZTdDZUpTMzFyVndmSzBjMERKNzIwU1hDUnZ6T2h6UTVjTTNsZ19NM0xrUHJMNjZ2UlUxU0E5N2RUcGI4RVNteA?oc=5",
+   "published": "2026-10-29T13:17:18+00:00",
+   "id": "837e1cd47a64",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4202,6 +4214,18 @@
    "cat": "géopolitique",
    "raison": "Attaque meurtrière en Ukraine, maintien d'une légère prime de risque réflexe.",
    "method": "IA"
+  },
+  {
+   "title": "Live Updates: LIVE: Iran-US war",
+   "source": "Business Recorder",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSHl0eU1BSjNISDdIZVRJOEJuaHlycEtBbzJPQlpPZnVTdV9lcDh3M2xfeHp6eWxmTWlBcEpPb0o5dG5oUmR2eHFtZFVRUGR6ZGhJMTR1RDZWZw?oc=5",
+   "published": "2026-10-29T11:46:53+00:00",
+   "id": "bf34f041f10d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Kan: Israel has asked the U.S. for permission to strike energy facilities in Iran",
@@ -4607,6 +4631,18 @@
    "published": "2026-10-29T08:21:11+00:00",
    "id": "f53bcc1fcfe8",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Above $100: WTI Price Forecast as Fears of Renewed Middle East Escalation Lift Prices",
+   "source": "www.tmgm.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQWZfYksxVUJKTHlzY01RRmFXS0hIVXFzZklyZ3FEcnZOQ0pzTjA1ZGJUNV9QUF9yUERDaXJGY2VUSUhCU2thUXRaYnF5VEw5eUlXNlJ5dThqbHNobHU4X3dEXzE4Qm1DSkl2NDhHc2x0X2JwTGttQjdnUVFhN0s5anU5UVl6cDBUV0tjOUN2bnVsYzZVVEgyYkxHazl2UFlXVG0zWlBBLWtXcHYzQTVMS2NjeDQzbXRmbEdXOTJ1cDd3QVBaSkV1Skp1MEg4cWRUSDRJUDFjeU4zNnR0dk1XckhOVUJvdW0wd01ZRm85MVY?oc=5",
+   "published": "2026-10-29T08:13:56+00:00",
+   "id": "47e5b45bfb3b",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6410,42 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Pourparlers de désescalade régionale susceptibles de détendre la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Middle East latest: Qatari mediators present Iran with deal to end war, official says",
-   "source": "The National",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lem9tb1QwUDdzdGVId2ZLZXBTc0tsTGs1aTdHS29mRjR1di1IOThPYVFLQUp6MFdoN3VBZF9GWWZzQVp4RmpRQTFucmhOMEF6eUZpdXpCa05SQjlkVVdhbFJOVnFBMDVXaFg0WDBfZi1nQmsyYnVCdXhFQmVRdw?oc=5",
-   "published": "2026-10-28T08:28:24+00:00",
-   "id": "0ce379c824c6",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Perspective d'accord diplomatique au Moyen-Orient pesant sur la demande d'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "How Netanyahu could attack Iran to force Israel into unity government after elections",
-   "source": "Al-Monitor",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEJhMUdvNkVVcS1BZG9CMW1iR0JwYjRMc09nczFKSjgyUmR0cDIzbEc0N1V2bDBVdS1NTElmOHRVN3hFSUk3aHJWSDJJWE9DVTZGYlBHQmdDZHA2TU1jd0RFVXlzbFM5ZUY4d2hGdHpJTkNnUmJZTDlVWGhUTkFtN1Y0V2RhY1FkSmc3NmpnRHlCUXhKUng0YlF6RENwV0JGMnFZcG1Ic3lRdzZUbnI0NGVDRDNCSUQ4cnpxeFFrMA?oc=5",
-   "published": "2026-10-28T08:23:38+00:00",
-   "id": "832e12bffabf",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque d'attaque préventive contre l'Iran stimulant fortement les achats refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs",
-   "source": "EnergyNow.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3RTOWs4Qk9rNklURkFLNWhENC1YdFBPUGFwUHFqUVE4YnBPc3J0OE50ZkFLQnBlNFdZRUxITGFNSGc0X0Z0a0ZwS1ZoQl82YVRkMmJKdTVsV1hGSXI1S3gxZnBkcldXM3BYRndjWGNEUDJ5bXpaS2EyS2VsNmFyMmhQUnRzM1g5b19zeTZudjZYYzNDMHcw?oc=5",
-   "published": "2026-10-28T08:10:55+00:00",
-   "id": "2112e9d3a3b8",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Optimisme sur un apaisement tarifaire favorisant le sentiment de risque mondial.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7983,7 +7983,9 @@
   "news|8acb5c0e1dc7": 1793281570.6212788,
   "post|2026-10-29T09:15:00-04:00": 1793281572.7418664,
   "news|775b6e2ab083": 1793282694.88606,
-  "brk|US10Y|pdh|dn|2026-10-29": 1793282696.2007763
+  "brk|US10Y|pdh|dn|2026-10-29": 1793282696.2007763,
+  "news|bf34f041f10d": 1793283369.6934352,
+  "post|2026-10-29T09:45:00-04:00": 1793283371.0048916
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8230,6 +8232,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T14:16:11.006257+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>ECB Press Conference</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.10%\nTaux 10 ans +1.1 pb\nOr +4.8$ (extrême +9.4$, range 10.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-10-29T14:16:09.693543+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live Updates: LIVE: Iran-US war</b>\n📰 Business Recorder · Jeu 29/10 12:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSHl0eU1BSjNISDdIZVRJOEJuaHlycEtBbzJPQlpPZnVTdV9lcDh3M2xfeHp6eWxmTWlBcEpPb0o5dG5oUmR2eHFtZFVRUGR6ZGhJMTR1RDZWZw?oc=5"
+  },
   {
    "ts": "2026-10-29T14:04:56.200860+00:00",
    "kind": "breakout",
@@ -8519,16 +8531,6 @@
    "ts": "2026-10-28T19:49:12.222302+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Threatens to Escalate Iran War as U.S. Heads Into Critical Midterm Election</b>\n📰 Between The Lines · Mer 28/10 14:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOWS1ZTU5kQWxZVkNKX0w2ZnAyWm11dl9wZlFPLUI2T2RRbzJGb3htaFhuMXp2NWtnNFNlQkZyWXFYenZTN1VvekZlbEhhaS1TMUxMUk9zMWcxVDdRQzRrZmoydVRDZ196dlpCSmwwMl9PbGJxaHBPdWIydXlWMkZORW5UMDVJeEhPR004eG1OT0FkbkNBOTktbTdRSTdrQ2VORzJOMkx3?oc=5"
-  },
-  {
-   "ts": "2026-10-28T19:18:49.758294+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighing next move in war with Iran</b>\n📰 Fox News · Mer 28/10 17:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JWWhlWTBLQkpJUG1YeW00WmxOdUlXRkRsQ2hzcHpKTzRsQnlELXZ0OVVfRll4T0wzVUpjeFpvejktcE9aNWdqaWtYbGF2RlZPU0ZxRjRB?oc=5"
-  },
-  {
-   "ts": "2026-10-28T19:07:40.617242+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 37 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Press Conference</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.29%\nTaux 10 ans -1.2 pb\nOr +17.8$ (extrême +31.8$, range 44.3$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n➖ Mouvement en partie repris"
   }
  ],
  "daily_forecast": {
