@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "b4a83aceed7e",
-  "7df41a243368",
-  "5d9c1b2a2f1b",
-  "c5799ce1717e",
   "ba231688c9d7",
   "df576926b93f",
   "97f7d3c8b51c",
@@ -4044,21 +4040,13 @@
   "96c953fd5d4e",
   "85c9bdbeccd1",
   "4135a87515d7",
-  "e166494e7285"
+  "e166494e7285",
+  "de93456452e5",
+  "3db13c73e4d7",
+  "3352d7187fa5",
+  "63ed6d892ab0"
  ],
  "news": [
-  {
-   "title": "President Lai meets delegates to Formosa Club Annual Conference held in Taipei -News releases-News & activities",
-   "source": "Office of the President Republic of China(Taiwan)",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01MHVFVDlpSGxvbGJLR3I4Y01OTlo4cUl3VEFxZlppNFdLZEZQdTJGb3ZseGo0emZINzFCa3VPV2NzSzVIZVVCRDh4YTlSTmRiRGJTTg?oc=5",
-   "published": "2026-10-29T07:10:35+00:00",
-   "id": "4135a87515d7",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Spirit Halloween’s CEO says tariffs nearly put it out of business. Then it had its best year ever",
    "source": "Fortune",
@@ -4082,6 +4070,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Gold falls toward $4,040 as Fed outlook leaves traders awaiting inflation data",
+   "source": "Investing.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUpsZi16cVBvbXg5bWFlS2ZDOUM1R1N2QnVTYUEzSzJQVFZqaWFCd1RKTFBTNTZjTl9IZFJfVmVPblpfRHdENlAwVVpFV3ZQbEJLcVlGOHJsWEFSeTduMk15V2t1UngwaVJzUnZYUnI1ejF1Y0QxY0FHYUdqLURVNTNoRmZRY0w1d1VOVkpQUERkU2hGMW81TmZ0dHhvcjU5cmgzdEtobzNPR0JrdjAwZjktbUFRYlU?oc=5",
+   "published": "2026-10-29T06:52:46+00:00",
+   "id": "de93456452e5",
+   "impact": -2,
+   "cat": "fed",
+   "raison": "Prudence face à la Fed maintenant une légère pression baissière à court terme.",
+   "method": "IA"
   },
   {
    "title": "US Dollar Index Price Forecast: Holds gains above 102.00, bullish bias remains intact",
@@ -4201,6 +4201,18 @@
    "impact": -1,
    "cat": "fed",
    "raison": "Attentisme et prudence avant la Fed, limitant les flux acheteurs sur le métal jaune.",
+   "method": "IA"
+  },
+  {
+   "title": "Gold fell to $4,053.90 per ounce following the U.S. Federal Reserve's decision on interest rates",
+   "source": "Українські Національні Новини (УНН)",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWU5ODFHeXQzVXJYODh5SkpBczQ5UDhoUWRDVGplM2xQN182ZFc5Ty11YUlPNnNWYzd6WXBIb05aVHp4TWk3VFE0ZjBhYklsQ182cDhpMzc5eUk4WXpJMm4xbml5OGVpNktNVGJmTWNaYzgyTXR2SmpWV2lmNE9UbE42NHpxYzR4Q1lqQVlnUlV6M2JRUkRDd0dTbnVfay0wd0F1SDI1QlJGM2Z0aVM3a1VIWmRadFROV0HSAboBQVVfeXFMT01lOTgxR3l0M1VyWDg4eUpKQXM0OVA4aFFkQ1RqZTNsUDdfNmRXOU8tdWFJTzZzVmM3ellwSG9OWlR6eE1pN1RRNGYwYWJJbENfNnA4aTM3OXlJOFl6STJuMW5peThlaTZLTVRiZk1jWmM4Mk10dkpqVldpZjRPVGxONjR6cWM0eENZakFZZ1JVejNiUVJEQ3dHU251X2stMHdBdUgyNUJSRjNmdGlTN2tVSFpkWnRUTldB?oc=5",
+   "published": "2026-10-29T04:37:19+00:00",
+   "id": "3db13c73e4d7",
+   "impact": -3,
+   "cat": "fed",
+   "raison": "Décision restrictive de la Fed soutenant le dollar au détriment de l'or.",
    "method": "IA"
   },
   {
@@ -6433,18 +6445,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "L'extension d'un cessez-le-feu local en Ukraine diminue temporairement la prime de guerre.",
-   "method": "IA"
-  },
-  {
-   "title": "Why Ukraine and Russia agreed to a ceasefire in just one city",
-   "source": "NPR",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjZub3owR0N5S3lzZVhsNjB4OS0zRVVnNFJkMWZkbnVhR0pyQmVleDk2akZRbEdxZ19YMV9fT3p6TlJiNlFCcU9GMmF0Ty1Ma3Q5cldwWm5LTVhrYWl6cVdNNEs0dk4ybUc1X2M5U0VYOEtTR0JPaXVyUFFvaHJQdDB2M0lRWVViN2RPSGs5T19XWFpBVG9jNW1QR3ZxRTAwcWdlZEhPZW4zdw?oc=5",
-   "published": "2026-10-27T20:11:40+00:00",
-   "id": "b068abcdedeb",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Cessez-le-feu très localisé montrant que le conflit global reste non résolu.",
    "method": "IA"
   }
  ],
