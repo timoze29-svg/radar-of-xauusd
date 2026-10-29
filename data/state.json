@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "0a4b5bb5fec8",
-  "e5b575cf44f7",
-  "ac7f818acf4f",
-  "c0bd5fd1237c",
-  "7032fbcd6ff9",
-  "6c5ac1157854",
-  "567e647ab1a2",
   "410add26560c",
   "15e8f535863b",
   "a551b00ebe80",
@@ -4044,9 +4037,28 @@
   "d5f903bd41fd",
   "edd8f894fc79",
   "1b4f2e6cd957",
-  "3bf9eca7d0fa"
+  "3bf9eca7d0fa",
+  "437c88bc9f03",
+  "e01050cf0724",
+  "8892828f98f8",
+  "fb7f6ccbe26d",
+  "56faba121c4c",
+  "c53bf2a8c76e",
+  "6bf23902adcb"
  ],
  "news": [
+  {
+   "title": "Russia drone strike on Ukrainian railway station kills 13",
+   "source": "UN News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuYTlXOE9ZMGh3bGZPSXBCbXhWeWNtT2RpT3RadW8zaUdJM0hHUE1uT1M4dXpsdHB5N0k3Q29Hb2V0T29Ya0g3NFdFbXJDZUNLa2t4aVJncw?oc=5",
+   "published": "2026-10-29T16:49:50+00:00",
+   "id": "c53bf2a8c76e",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Here’s How Much You’re Paying for Trump’s Tariffs and Iran War",
    "source": "Bloomberg.com",
@@ -4054,6 +4066,18 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDBvaXE2U0Q5QTlPTUJTZnNPUnNZakNvVlB0QWgtbURJSDhJNUZzdzZRSUs0MGN0dmpBY0tnN2NSUDV4ZkV2NkZ2X28xSTVjQ1hiTU9SUEpqQnphUUhXMktXYUhFV2EwMkQwWF8xTHV2NWZDRkw0V1J6UzdWU2NiT2tyN2wyMWYzM0R6SzUzaUVHZHNyQlhjSEFiQ3lrdUp5Wlh3SUtR?oc=5",
    "published": "2026-10-29T16:41:13+00:00",
    "id": "d5f903bd41fd",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump’s Tariffs and Iran War Costs Add Up to Voters’ Discontent",
+   "source": "Bloomberg Law News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWpUaERHY1RseE1nQk5SdDI5bmJPaU0ydEl4ZjR3emZUT2xGd2NXMkNVOUppODRaLVNYQXQ4cDFMcnFFWDBWTkJJMzdlN3pKcldRejMwamZxYTk5cEVUdTMwQ2xxYlFnX2pYLS1RYlhkX2xHR1BiX3BlQmVFM093SUdsZHN1cmlDekhWTFZDZURraUtxZk9TM01RbTRPQ0VKTUMxNGFXUWx5X3MyX0pUSQ?oc=5",
+   "published": "2026-10-29T16:41:00+00:00",
+   "id": "8892828f98f8",
    "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (commerce, géopolitique)",
@@ -5344,6 +5368,18 @@
    "method": "IA"
   },
   {
+   "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5",
+   "published": "2026-10-29T01:14:20+00:00",
+   "id": "e01050cf0724",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Iran war live: UAE calls for de-escalation and diplomatic solutions to Middle East crises",
    "source": "Arabian Business",
    "theme": "Iran / Israël",
@@ -6409,42 +6445,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Appel au calme confirmant un climat régional particulièrement tendu et incertain.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation",
-   "source": "WSJ",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5",
-   "published": "2026-10-28T11:36:40+00:00",
-   "id": "757c78ff86fc",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Appréhension d'une extension du conflit au Proche-Orient portant le brut et l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "WTI Price Forecast: Fears of fresh escalation in Middle East conflicts boost prices above $100",
-   "source": "FXStreet",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0J5QzRwYW5EV081N2lDcDRwd0tZbTkteFhXTk80ZWNmb2tqWHprLUNKMTlST0cwQ1NqeElqcTVxeldnSl9HXzk1WC1VQkthdW96OGZtczFJNWd6S0d2dWF6UUdXQVA0ei1XaGR5R1UzTUVyTXVCWWFjajBmMGd1RGZmTFlpdDd2UGpXQkQ1SUJtRFhaZ3NFQ0FXeWotUmtMeTI2WUdMdjRaZk4wYWNHWU9Xc0thdHoyVDNlUHFCWmt5LXlyMWhOR2VyN3hkei1W?oc=5",
-   "published": "2026-10-28T11:23:36+00:00",
-   "id": "4c0c27f5664f",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Pétrole à plus de 100 dollars et risques d'escalade : fort moteur stagflationniste et refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "A ceasefire in a Russian-occupied Ukrainian city holds for its first 30 hours, officials say",
-   "source": "KTVN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNzc4RTV4NHpOWVh4LUxZQWduS01WZHZ4Z19xZGhKNk1LSzlKYVNKMnZpWlFaMThyVVRLaFZJZ0Y5NUc1cjZWcVdjRS0tdmFxQkdKU1pDTUtQNGhNMktNU083OTRXMi0zQkJwY0FmcWY2OG1tTkxXZllsOWpEZHVrNnFvMVh2Z2RQUm80Mk5GN3dDTEVSWnQtZkVSbEpIZXViS3VzNWwwV013TXZWcGowWGI3T2h3ck9NMUV4T2pXUm5Ud1ZDdXBkQnROMzFsRHVVMnIyRGxzeWJhRm43d1l3eFE2bmZLWTR2b3lDZlV4T242LUpLOWhUaVZzNXVacnc?oc=5",
-   "published": "2026-10-28T11:16:23+00:00",
-   "id": "7ede354fdfc9",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Cessez-le-feu local en Ukraine réduisant marginalement la prime de risque géopolitique.",
    "method": "IA"
   }
  ],
@@ -7995,7 +7995,8 @@
   "news|926fa9924ab8": 1793287895.3052747,
   "brk|VIX|pwh|dn|2026-10-26/2026-11-01": 1793287896.5141015,
   "news|d5f903bd41fd": 1793292373.2109823,
-  "news|60a83f2160cb": 1793292374.2474816
+  "news|60a83f2160cb": 1793292374.2474816,
+  "news|8892828f98f8": 1793293299.9851065
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8242,6 +8243,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T17:01:39.985194+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump’s Tariffs and Iran War Costs Add Up to Voters’ Discontent</b>\n📰 Bloomberg Law News · Jeu 29/10 17:41\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWpUaERHY1RseE1nQk5SdDI5bmJPaU0ydEl4ZjR3emZUT2xGd2NXMkNVOUppODRaLVNYQXQ4cDFMcnFFWDBWTkJJMzdlN3pKcldRejMwamZxYTk5cEVUdTMwQ2xxYlFnX2pYLS1RYlhkX2xHR1BiX3BlQmVFM093SUdsZHN1cmlDekhWTFZDZURraUtxZk9TM01RbTRPQ0VKTUMxNGFXUWx5X3MyX0pUSQ?oc=5"
+  },
   {
    "ts": "2026-10-29T16:46:14.247797+00:00",
    "kind": "news",
@@ -8536,11 +8542,6 @@
    "ts": "2026-10-29T01:34:39.939633+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>IRGC-linked outlet promotes nuclear bomb as popular demand</b>\n📰 Iran International · Mer 28/10 19:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UUEpPcllFZnVheS0td2VhVTBWSUo4V1NOZ0lEUVNFanp6cmEyMWR6ekRMVUVQbHg1UkpkS09SckJqUndlMlVrWFpuMkFodTFuZ2c?oc=5"
-  },
-  {
-   "ts": "2026-10-29T01:16:04.756752+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bloomberg strikes deal for faster access to Trump’s posts</b>\n📰 Talking Biz News · Jeu 29/10 02:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGlWTkVUbWFrOVo0aENYaFFrai14aDdCcGxKZTgxMm1ETERhWDFRc0hFS0R6bnBBVkpPZ182dVZXd0Q0YTJXT1RDOGZ5WXR3NUJiaVc1NWZ4c2RMQVJMTzVMd0JRdmMydVowdU1SWTZuWU8wdmxUdnJ5dXc3UGxGajUyYkNGV2pzbTFNYUhpRXp2Qzc5MFNjeEtISQ?oc=5"
   }
  ],
  "daily_forecast": {
