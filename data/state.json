@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793295066.7137208,
+   "ts": 1793298671.089973,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "edf265889915",
-  "95ca847b7df4",
-  "ffde3791f3e8",
-  "0e3b61e508ee",
-  "e57a31ee1b47",
-  "46563cef37b9",
   "53066a4e6080",
   "66a37fb5508c",
   "e743dffadaf4",
@@ -4044,7 +4038,13 @@
   "241c36730dac",
   "f33744d1eeb6",
   "f35ffdb06086",
-  "0445002a62d9"
+  "0445002a62d9",
+  "a5b30bae23ec",
+  "c81db7fb37e1",
+  "f2e9a2e61334",
+  "ec0d39b725b9",
+  "03bac37276ae",
+  "4d4171ef704b"
  ],
  "news": [
   {
@@ -4237,6 +4237,18 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold price falls as PCE data fuels US rate hike bets",
+   "source": "Mining.com.au",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0RTOG5yNmpOYl9VU2hfbE1vN2l1dnF1NlNvaXE5WjQ1M19SakpYa3dkcDVNWUEtR2xPUUtBZzJSMURRZGZxYi12SjZMeXlmUjVPLVk4NVFDWmN0eHkzRDFOdzRzVVpjMi13aHZTTHBDeXBCdnlSTHQtbkVCa0tTcg?oc=5",
+   "published": "2026-10-29T15:44:21+00:00",
+   "id": "03bac37276ae",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -5620,6 +5632,18 @@
    "method": "IA"
   },
   {
+   "title": "Iran warns of ‘devastating’ economic fallout from any new Israeli attack",
+   "source": "アラブニュース",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONndXcUhmdUxtbWkxTFdwUFJxOXBQV1p5SGJOLVFOU0ppRFZRTDZ3VFZ3QTU1U1NjbUlNeTJDazN0XzhuQXNjTXVIeWJSUmYybGNsSjFoa2hzNURLejlJb2ZkUms1Nk5KOVRMdGxZUENMa0Z0Z3RLVUxpcEExcmcwdFo3Nno3d2ZOamJidTRrTUxFdUtNTXgyT2tlNUVIcU9vWWFLbXAxblA5STlTX1FRM2xvdGMtQVQy?oc=5",
+   "published": "2026-10-29T00:08:12+00:00",
+   "id": "c81db7fb37e1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war",
    "source": "The Washington Post",
    "theme": "Trump / Iran",
@@ -6421,30 +6445,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Menaces de frappes israéliennes contre l'Iran renforçant la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
-   "source": "USNI News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVFSNEwwVjZuY18yNV96bDdpYkpwVWxhNVFkWVh1QjJ6WWR3dnpIVUZIVjZHTjFJRkdOeWhORVM4TkVOT0ZiUmM2MU96UlR2V2xwOVJzay1VVjNCYnZwNVg2eDk5YWt3NVlpRnBIS05yTi1BMUwxTFJqOTFBSDFWbWlTVU5Vblgxa1lFbVJwWlhidFBXVGtDMm8zWS1QcmtvZDdmbVBmcjEtaWMzRnd3MU9teUZpRHMtVEVV?oc=5",
-   "published": "2026-10-28T13:47:00+00:00",
-   "id": "c2130bfe4777",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Confirmation d'opérations militaires contre l'Iran maintenant les tensions géopolitiques élevées.",
-   "method": "IA"
-  },
-  {
-   "title": "Turkey warns against further attacks by Russia, Ukraine on Black Sea vessels",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmI1bDFoNk1OMkN2bGpWazh3MmpIVHdTcnktNFFlT2FnQ1o2WXRhYkRqeVF3WGxTTHhNdFAwaFJ0d0dsaTdOaG0xazNmalBQLURoNW83VkptS2ZHUHR5MGQ3ODBHLUxKM3IwWXZBMERiOG1hVk1fRUlQdld5S0hneGZXS2hzckJsWEl4MXo1c1R1NnZ1WXhBZ2JyMFNfQTZvcnJIN295OWlJXzRSeWdVM3JLY0FWakNkTHBFSlJFYmhiVjlt?oc=5",
-   "published": "2026-10-28T13:28:52+00:00",
-   "id": "4fceeff00dd9",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Risques sur les voies maritimes en mer Noire ajoutant une légère prime sécuritaire.",
    "method": "IA"
   }
  ],
@@ -8003,7 +8003,8 @@
   "news|7767bba10ef1": 1793295089.955384,
   "news|abd6ac412ed0": 1793296154.0619466,
   "news|c69f7fdc6da0": 1793296899.763577,
-  "news|60db53ef52ce": 1793297958.2212274
+  "news|60db53ef52ce": 1793297958.2212274,
+  "news|c81db7fb37e1": 1793298691.7786846
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8250,6 +8251,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T18:31:31.778777+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns of ‘devastating’ economic fallout from any new Israeli attack</b>\n📰 アラブニュース · Jeu 29/10 01:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxONndXcUhmdUxtbWkxTFdwUFJxOXBQV1p5SGJOLVFOU0ppRFZRTDZ3VFZ3QTU1U1NjbUlNeTJDazN0XzhuQXNjTXVIeWJSUmYybGNsSjFoa2hzNURLejlJb2ZkUms1Nk5KOVRMdGxZUENMa0Z0Z3RLVUxpcEExcmcwdFo3Nno3d2ZOamJidTRrTUxFdUtNTXgyT2tlNUVIcU9vWWFLbXAxblA5STlTX1FRM2xvdGMtQVQy?oc=5"
+  },
   {
    "ts": "2026-10-29T18:19:18.221320+00:00",
    "kind": "news",
@@ -8544,11 +8550,6 @@
    "ts": "2026-10-29T04:16:10.180241+00:00",
    "kind": "cycle",
    "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>+39.4$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>46.2%</b> des semaines haussières (53.2% quand le mouvement est fort)\nRetracement médian quand ça inverse : 89.1%\n\n🎯 Zones de retour : 38.2% 4036.55 | 50% 4031.9 | 61.8% 4027.25\n📉 Biais jeu→ven : RETOUR À LA BAISSE — à confirmer avec le biais macro."
-  },
-  {
-   "ts": "2026-10-29T03:52:18.239222+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran rejects 'unacceptable' proposal by Qatar to end war with US</b>\n📰 Middle East Eye · Mer 28/10 13:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNWW5vRGtSc3NWdDAtV2JuYXZZa1hHVTlqb1VyaFUxOW1pM3VlMDRXbEJnWFhqbTNhZzFkZUZTdnJUODJSZ3RvcnBlM2lRUDNCbjU2TmN4bmF0RVRUclBzNHh1V0I4dGtia21tcW1CbWJqRjhpelpLa1V1QUtpTVpBcE9QcDVXd2RqUFRZNTV6Yw?oc=5"
   }
  ],
  "daily_forecast": {
