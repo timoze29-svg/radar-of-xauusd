@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793290551.8981256,
+   "ts": 1793295066.7137208,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,14 +1045,6 @@
   }
  },
  "seen_news": [
-  "dd584dfcb702",
-  "a4e9e2565a9a",
-  "5e4cbe301874",
-  "2c4c2a954131",
-  "c291d610e634",
-  "18a7a389c856",
-  "e4ecd72d98eb",
-  "4be98f88df17",
   "f0da59dfd26b",
   "69122ea767b7",
   "f4a503bbb55a",
@@ -4044,9 +4036,29 @@
   "6aa24420e0a5",
   "f5e9cba48733",
   "a3784f642474",
-  "102c692c8fad"
+  "102c692c8fad",
+  "cd7007e8a833",
+  "7767bba10ef1",
+  "b4e7663b4c50",
+  "84d6ab8b30e5",
+  "638b1fce41c9",
+  "4e36d10967c5",
+  "940e27926680",
+  "e5177bdf6fd6"
  ],
  "news": [
+  {
+   "title": "Gold remains stuck as the Fed takes a hawkish pause - TDS’ Melek",
+   "source": "Kitco",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXc0WmY1cTBwYXd0OVhjejV6em9BWjc3VzBzQkc2cVVYamJ6MkVxNHN3ZzI5YWJkN2x0MkJocXk4LWtVRUVrdm9UaUJQbi1YWDg4ZjRLdVNiZWF0UFN6SGNrLWl0ZDB3MG1HWjNkbUxkcXFKV2ktUVV0ZXNPOWl3bmRGRlNrTzhrNy1qMFV1RGRwcFJCT0dYMGJoY08tUU0?oc=5",
+   "published": "2026-10-29T17:25:02+00:00",
+   "id": "cd7007e8a833",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine war continues despite Trump’s promise to end it",
    "source": "KPTV",
@@ -4057,6 +4069,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ontario deficit hits record $16.9B as Trump tariffs batter economy",
+   "source": "Toronto Star",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdkVXYWx5a09RYjAxdmJRbjJqREdaUVJHOWZKOFFSWjFJcVNNRXJ0UjBqUGJzTmljcjQ5WG1XV2RfaGt0emxLajJnZ2lacnRiWTNvLXQtS3d3MExVdmpQSkV6eXUyanZxNWdHQndhRDFieGlSTkRWbGhLbXZORDJQNl8yZ0JzRWFNVEVOVlhxNi0wcmdlSzlaaTFBRlllOG5TTTB0akRycXBYZEstLWtTbXROZDdWTFJEemxoNmVYbV96ODF0NXZnUElSQUczVUlqYXJzWHNYUVFoeDZNN3JaWWh0Um1ROTYyXzRrYWZFSkI?oc=5",
+   "published": "2026-10-29T17:00:00+00:00",
+   "id": "4e36d10967c5",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -4096,6 +4120,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope",
+   "source": "CBS News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
+   "published": "2026-10-29T16:33:07+00:00",
+   "id": "940e27926680",
+   "impact": -6,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russian drone strike kills 14 on Ukrainian rail platform",
    "source": "Reuters",
    "theme": "Russie/Ukraine",
@@ -4129,6 +4165,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "The Arab world is watching: could Netanyahu expand the Iran war before forming a government?",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50c1E0QWotM3pqSGxIdFNPUHFlak9XQkg2cUdXTXlPOFE5My1lTkNLU3Z3WlRjVmx3ZmRUZXZyTXU2UGVybWF1TEhfN0Z5b2dfOGhVWWdERnJqOXlkWHA4VkxNcXBlNkR6UUVQWlZB?oc=5",
+   "published": "2026-10-29T15:51:47+00:00",
+   "id": "b4e7663b4c50",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4792,6 +4840,18 @@
    "method": "IA"
   },
   {
+   "title": "Oil prices fall as diplomacy hopes outweigh escalation fears in Middle East war",
+   "source": "The Globe and Mail",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3pCRjNsMC1FLThxSkVYNHdLS3BuTmlNY2U2elRvaU80VS0wZlA2ODVZMXVydlBQT3FRc2hERVhjRVBxU2E5MG1LdXJlV19scHlmb0F2VnItMmgyUEtCbm5VcGQwbnd6MnJMTFFvMElEUGNlRnJHMW1qQXVwMDdBdkRSWFktVjNnRDhDMV9wVEZoWDVZVnFvR2xsVmcwRU9ETlZ4ZmlQb2IzS2VxUk1tWVIwbE00a3dC?oc=5",
+   "published": "2026-10-29T09:17:42+00:00",
+   "id": "638b1fce41c9",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "How AI drones are influencing the course of the Ukraine war",
    "source": "NPR",
    "theme": "Russie/Ukraine",
@@ -5380,6 +5440,18 @@
    "method": "IA"
   },
   {
+   "title": "US Bombs Iran for Ninth Day as Standoff Over Hormuz Deepens",
+   "source": "EnergyNow.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F?oc=5",
+   "published": "2026-10-29T01:45:46+00:00",
+   "id": "84d6ab8b30e5",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump touts Venezuela victory, Iran strikes and rips Obama's nuclear deal agreement",
    "source": "Fox News",
    "theme": "Trump / Iran",
@@ -5722,6 +5794,18 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDA5TDdJSGIyM3lYMDFIWVVTUVNJRmVtREJucEE3SGs5a2x1eTFOc0RSS2dxTXVlX0xBNWlwX09PMGdxeTNobm5jYnpMVUI0cUhVNVZlbEd0a2VQdi0yTGtVYmJoa1ByR2JjZ2dzU3JlZ1hhbXpVMkhxUlNfY0ptaWJyVVE4RldjUWFTRjlMYzc?oc=5",
    "published": "2026-10-28T19:45:22+00:00",
    "id": "72c8456d3fc6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "American taxpayers' bill for Iran war grows to estimated $47.1 billion",
+   "source": "PBS",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0d2a2hMS0Q2T3ZQRmNKNGFBckFxbWNUVmtJOHJ3TlUwQV9kaEw1U2ZGaGw2QlNpVDgxVzg0LTdLWGpGazg2SUFFeTM2RDJFa1RGdDEtZ0pKT044bDRzZTdHVElfYlpqYk1zajl1aGwxVXQtRFoxd2w2MDlsOUtBMVA0XzBpWmRJa3M4bjhUNFBSeVpVd2R4SG5IazBTMkZUMGJqRVlB0gGrAUFVX3lxTE1QdGhuM0JjUml4MXdvdVZNTFZ5UkV3RFVDNVJieWxFU0NGbENUemMzbjFVNTVMRnhWUXFMeUdpS1lfUHNMN3lFeE5rSlM4TktWQXR1VWZua0lmQXlWUW83SW9DaWpZZVZ1THJUOGlHbk5zS0RBUDBGaFNnM3RZejdhMzdQQXpvZ0lnY2dWc2R6bzJGd0FZWjlpVVBJV1ptc3RlZ2lvM3J3MUtUTQ?oc=5",
+   "published": "2026-10-28T19:40:33+00:00",
+   "id": "7767bba10ef1",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6361,90 +6445,6 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "Effet stagflationniste potentiel des droits de douane, modérément porteur pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Houthis call for evacuation of Yemen’s Aden airport amid escalation",
-   "source": "Anadolu Ajansı",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWhsRmFITjZNdWQ1bjE2X1ZmWHdYY3Ria0htZWJBWnRadnMteHVDNzNJRlJSa2VKOExYb0NmRHRpZnBMZ3Y1V2EyZ2JRLU84M2tJcEZsMnB0eFo5dXN2djdhSEVWLXN0NFBJWk02SW9Cdy0xbU5lZExhdVFiUWZHZmw0X1JpanM4X2JDNHlIcUY2VXI5UEdfbWl0dGJ4cFFzLVN6SlVwMW1CbUFueWhSd3pB?oc=5",
-   "published": "2026-10-28T12:35:35+00:00",
-   "id": "1e979277d7df",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions régionales accrues au Yémen apportant un soutien marginal à la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Traders Weigh Asian Buying Against a Hawkish Fed and Firmer Dollar",
-   "source": "ad-hoc-news.de",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmg3Q2ZES2ZkTFljSjJlMzhuOENOVXgxU3Yxb1R1WTlDdFhleUYyTVoxZ1VIdXVuQXFQNzJySFk4SXJwSzBoLU04MlFxWEpkU1R1cVFOY3dtSTdCM1B2SV9BcjA5eXQzb1NSUng2T19rV3p6a2ptQW5KNmJRRi12M09mc1MtSnlVaVpEbnRGdS1jZjRDV1hwdHJydUxWRDR6NFZmOWE3WDJycUhJOUhBMDM0MGZFRzBPN0lLRTRkNWxQNktoM1pXN2cwUVhibE5qQ2NFaWNadzBOUVk?oc=5",
-   "published": "2026-10-28T12:21:36+00:00",
-   "id": "fc66419e147a",
-   "impact": -1,
-   "cat": "or",
-   "raison": "Le dollar ferme et la Fed restrictive contrebalancent la demande asiatique.",
-   "method": "IA"
-  },
-  {
-   "title": "In support of One-China policy, Pakistan bans Taiwanese airlines from using its airspace: Report",
-   "source": "Anadolu Ajansı",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGNGV3F6OG1xWEZwM09MaHlxSEhaTTFhTTlzYWpnbmVzUWNObzJQeTI4NmxpY2xqVk5LVWdSRlhxM3VEbUZfOGVGb0ZVNnhhUmhHa2stUHlXcFpOblJzOWpqU0NNMXRqTHp0dl83YklRTDhmOUxLeHk2dlNRWFVaR3g5UDNqWmhZWjFKVjl0QkduMEZzVE9EQUNQaHV0RzFiQTUtVzh6Nml5eHRYUk9zc2U2bVBZWEV4NHFDTnc2VWlKSWY3TmhJaDkyY0pmdmFDZ01YaFNtSQ?oc=5",
-   "published": "2026-10-28T12:20:22+00:00",
-   "id": "340e7086a3a7",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions diplomatiques mineures sans risque d'escalade immédiate affectant les marchés financiers.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
-   "published": "2026-10-28T12:20:04+00:00",
-   "id": "21c70041ce77",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Échec des pourparlers maintenant le risque d'escalade régionale et la prime de sécurité.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran rejects 'unacceptable' proposal by Qatar to end war with US",
-   "source": "Middle East Eye",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWW5vRGtSc3NWdDAtV2JuYXZZa1hHVTlqb1VyaFUxOW1pM3VlMDRXbEJnWFhqbTNhZzFkZUZTdnJUODJSZ3RvcnBlM2lRUDNCbjU2TmN4bmF0RVRUclBzNHh1V0I4dGtia21tcW1CbWJqRjhpelpLa1V1QUtpTVpBcE9QcDVXd2RqUFRZNTV6Yw?oc=5",
-   "published": "2026-10-28T12:14:00+00:00",
-   "id": "c25c46bec37f",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Rejet des pourparlers maintenant le risque d'escalade militaire au Moyen-Orient.",
-   "method": "IA"
-  },
-  {
-   "title": "Middle East Escalation Could Delay Ukraine-Russia-US Talks in Abu Dhabi, Zelenskyy Warns",
-   "source": "UNITED24 Media",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWIzQWh2ZkItZGdiMlBvbXExamJ3ZFZ2Tkd4WDA5cDBNejR1cHVka3VWNWVNZ25xQU1NNUt2ajNNOE5NU3M3dy1UZWhKM2RUNndKcGdRRjhIdDNWVEdDc2tUZF9JR3dwbkRoaU5zOFRaM2t2am1IcFRSS1Q3S0ExbXNTaXg4cGxqSU95X3JwR2R1N1d5SFZWNS1fMWJzRlJ3TFpReDZhdE04TGt1S2V1QUx0X2c1Nk5BUXlHRld4dU1RV19wZFFvR05UbV9oc3dX?oc=5",
-   "published": "2026-10-28T12:12:08+00:00",
-   "id": "bec39504c93a",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Incertitude géopolitique prolongée sur plusieurs fronts favorisant la demande pour l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "US Hits Chinese Trailers With Tariffs to Aid Domestic Producers",
-   "source": "Bloomberg.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGx1YmYzOHhfSnRjeGxPb1FncjBicVUxN3R0ZlNsRFlvMnRDUThSVFVHZG5IeXNfQjAzSXZhdWNJbkpzRnJhcVllZVBkZEJFenNmVE1QNVlzbElZbmpxVzNOZWZDRTN1UkYxV29RZjExSi1XMnJMaWJwUllNLTEtOUFyR2pUZWQ1YTFlaDluMHplSVREVTdRX3pzakNnanpFWk1iSVNFbEZRNjVzQVdpZFJNU0c?oc=5",
-   "published": "2026-10-28T12:00:00+00:00",
-   "id": "e3bcc2001dc8",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Micro-friction commerciale US-Chine soutenant très légèrement la prime protectionniste.",
    "method": "IA"
   }
  ],
@@ -7997,7 +7997,10 @@
   "news|d5f903bd41fd": 1793292373.2109823,
   "news|60a83f2160cb": 1793292374.2474816,
   "news|8892828f98f8": 1793293299.9851065,
-  "news|f79afac5bdd0": 1793294175.8378115
+  "news|f79afac5bdd0": 1793294175.8378115,
+  "news|cd7007e8a833": 1793295088.148827,
+  "news|638b1fce41c9": 1793295089.0649033,
+  "news|7767bba10ef1": 1793295089.955384
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8244,6 +8247,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T17:31:29.955662+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>American taxpayers' bill for Iran war grows to estimated $47.1 billion</b>\n📰 PBS · Mer 28/10 20:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0d2a2hMS0Q2T3ZQRmNKNGFBckFxbWNUVmtJOHJ3TlUwQV9kaEw1U2ZGaGw2QlNpVDgxVzg0LTdLWGpGazg2SUFFeTM2RDJFa1RGdDEtZ0pKT044bDRzZTdHVElfYlpqYk1zajl1aGwxVXQtRFoxd2w2MDlsOUtBMVA0XzBpWmRJa3M4bjhUNFBSeVpVd2R4SG5IazBTMkZUMGJqRVlB0gGrAUFVX3lxTE1QdGhuM0JjUml4MXdvdVZNTFZ5UkV3RFVDNVJieWxFU0NGbENUemMzbjFVNTVMRnhWUXFMeUdpS1lfUHNMN3lFeE5rSlM4TktWQXR1VWZua0lmQXlWUW83SW9DaWpZZVZ1THJUOGlHbk5zS0RBUDBGaFNnM3RZejdhMzdQQXpvZ0lnY2dWc2R6bzJGd0FZWjlpVVBJV1ptc3RlZ2lvM3J3MUtUTQ?oc=5"
+  },
+  {
+   "ts": "2026-10-29T17:31:29.065140+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil prices fall as diplomacy hopes outweigh escalation fears in Middle East war</b>\n📰 The Globe and Mail · Jeu 29/10 10:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3pCRjNsMC1FLThxSkVYNHdLS3BuTmlNY2U2elRvaU80VS0wZlA2ODVZMXVydlBQT3FRc2hERVhjRVBxU2E5MG1LdXJlV19scHlmb0F2VnItMmgyUEtCbm5VcGQwbnd6MnJMTFFvMElEUGNlRnJHMW1qQXVwMDdBdkRSWFktVjNnRDhDMV9wVEZoWDVZVnFvR2xsVmcwRU9ETlZ4ZmlQb2IzS2VxUk1tWVIwbE00a3dC?oc=5"
+  },
+  {
+   "ts": "2026-10-29T17:31:28.148900+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold remains stuck as the Fed takes a hawkish pause - TDS’ Melek</b>\n📰 Kitco · Jeu 29/10 18:25\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXc0WmY1cTBwYXd0OVhjejV6em9BWjc3VzBzQkc2cVVYamJ6MkVxNHN3ZzI5YWJkN2x0MkJocXk4LWtVRUVrdm9UaUJQbi1YWDg4ZjRLdVNiZWF0UFN6SGNrLWl0ZDB3MG1HWjNkbUxkcXFKV2ktUVV0ZXNPOWl3bmRGRlNrTzhrNy1qMFV1RGRwcFJCT0dYMGJoY08tUU0?oc=5"
+  },
   {
    "ts": "2026-10-29T17:16:15.837888+00:00",
    "kind": "news",
@@ -8528,21 +8546,6 @@
    "ts": "2026-10-29T03:16:01.653195+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Gulf states to prepare for ‘possible short, intense renewal of Iran war’ after US midterms: Report</b>\n📰 The Indian Express · Jeu 29/10 03:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWZpeEZUWHNPMUVsazZ0cFczaTZUVWdFZFFXYUtHQUNBU3hER0dXSHVBQlhjWnBjNkFzRGpnMFZXckcySG5VQzVER1lVVTRUdTlUeGdJeWFXbzNNRnp6Z3pTa1ItbVNYVndQOVNHbkM3aDN2ZThNczZCWEI0TkUwQXhOLWtBSmJMWUJ4SEtMc2lhWWF5MmZWWjNFN3MtSXhVTlpaLUhZVlNHUdIBsAFBVV95cUxOSU5WU3RqZHNkMXFOQW12aG5GWEpkSXBJVjFoSzMyUDhHSDJPcVV0YzZmbVB0ZFlPZXlMYkd0MXlBS0g0X1pFazlhRUdtQy1GbENXUzhQbmhQTWctWWpub1A3Y2JyOWNGcXFYTVRwZlBZSzQtbEFhTWpXWFBlLVpma3RLTEw5OFJFRGpfTkE0ZF9QMGNjX3BpQ3E2V3hoUnlwSUhObTlTRGJ1cGczQ3FlYw?oc=5"
-  },
-  {
-   "ts": "2026-10-29T02:31:19.300558+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tom Lee Says CPI Could Be ‘Pivot Point’ For Markets – Sees ‘Pretty Sizable’ Stock Rally If Inflation Cools</b>\n📰 Stocktwits · Jeu 29/10 01:35\n🧠 haussier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdBTzJVdG1peUtzVXJuVXZZdjhTXzFzRTdTRVNOTFFYdTJlaXV5ZTI4dlFyc19EVGxvVjVGdGJ1dHFWUlpnYWp5VlZoLS1KVENHelR5V05KOFNMcXYtQ01LU0dMUDRjVlJSaVh2bVVIaS1QS1pxbnBPczFzcVFOenZmWlozcmFlaUlyZ0llbVd4ZGJseHM3eVExclJHdGlVRUFBcmJib0F0WUxITU1xZjAwZ3RuTEVQME90X1VJNjdUS3VOYjhPRlZzZk8yZHc0TTBfTGxSaWpkVERmYUE?oc=5"
-  },
-  {
-   "ts": "2026-10-29T02:19:04.228465+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump touts Venezuela victory, Iran strikes and rips Obama's nuclear deal agreement</b>\n📰 Fox News · Jeu 29/10 02:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUkxKZ3FBbmRzWjBjZVVpOFJvNmZuX2twOEZIa01yTXE5VDc2dzlhbWdWTk1GTUlfbzU0bjJoRHJOMEIxSG9Mb2syQWxyMFRrNXJZTnJn?oc=5"
-  },
-  {
-   "ts": "2026-10-29T01:49:06.297368+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war’s critics highlight eight-month milestone</b>\n📰 Roll Call · Jeu 29/10 01:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWdFSDRxUHlYVGpMR3U5X0s4ZkNyYjVtTks2cGF1YlQtZ3lBZEVvNmJWc0FTUjRlWG5XUEN0QVctTHdvXzFraVRzc3RESnpvN2RzNzNCRExSSG1TMTRIbjdNMXBtVkxTek5LNDdkSHR0YmlIZWZYX0V5MVBtWWlyT3JHOXRpejFxUHc?oc=5"
   }
  ],
  "daily_forecast": {
