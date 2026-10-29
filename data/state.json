@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793274347.2056475,
+   "ts": 1793277957.1548421,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "d2c4fd563fdf",
-  "2cf00da455a8",
-  "42c476f4e7e6",
-  "8e1fd5fbddf5",
-  "ca0e8cd0abd3",
-  "db870a6d7806",
-  "ef3fb3a150e1",
   "4a0d1d912b95",
   "2d1e269e2e69",
   "0a7260bfda69",
@@ -4044,7 +4037,14 @@
   "08d0abdeb3d3",
   "79873cbca051",
   "f9cc1166a6d5",
-  "30dbcab7b379"
+  "30dbcab7b379",
+  "ec9a87a7715b",
+  "287e7946547f",
+  "046d5a74182c",
+  "4433cc02fd82",
+  "e5f3f11d4c85",
+  "76f5d8c7a335",
+  "464b1f5e1af6"
  ],
  "news": [
   {
@@ -4114,6 +4114,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU5fcnlfcDQ3Y3IwZ2UxMWNoVXJqZjBRU1pEd05BVnVxNjF0V3BSbmpFallYSUtRazRCbGpkQWhsTURZdGZyTHpNOFNpREZpMjFENnFpY3VXY1ZtX0t5YUljUWJ4aVdkdjhWT05XVWVwU0Q1Wjc1YkZjWW5PNjdNLUNNdWFnWWpVTmlTZVppWFplVFBnQUx1aXJLVGVOLVJjeGI1d0JvOVJaZ9IBqgFBVV95cUxPYVZ2ZHRtTE1QMUNNWlFod0xjaWxHaktacl9CYWJvZjhobXdWWmZqcmUyTnVGRmlmSjF2RGljRkx6RExDZlVtWmpqUlE1OUNZYXUxYTZkWUc0OHJtaWw3WTJQN3BqOTJ6UnpXZDBieUJ6Q1VodmVoTEQ5dlNxUlNFaUdRdm1sZzh3d0kzeGJhMjlNRlozeDFkQnYxOW5QN0JJY244U3NVNjZUQQ?oc=5",
    "published": "2026-10-29T11:37:28+00:00",
    "id": "79873cbca051",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
+   "source": "France 24",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUQyVHFBOVpJOHJOdXNsMWVZeno0S29wLWRMUmRHbmZaR2NHLTIzT2hwYXpiV194QnMxRk9jeGtIUl9wZnc5WWo0c3Bpc0dZMGdIYVl3b3FPR2locWVwQVZ4ZElBaE5Gd1dtRlUtb2lMTUt1aUJPeDZGVU1IQ2NGczVyWmI4WWoza29NY2JqWE5kdGQzV011S3RxcWZkeHljVnlNaXZPM1JZYjgtQ016VGsweGRBZ2dwLWNpNA?oc=5",
+   "published": "2026-10-29T11:36:35+00:00",
+   "id": "e5f3f11d4c85",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6434,18 +6446,6 @@
    "cat": "banques centrales",
    "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US warns Gulf countries of possible Iran war escalation after midterm elections",
-   "source": "The Mirror",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVFNQ0lETDZOWVc4MENQVW5CMF9VZXlTUHFmZFIyc2NVUmU3SUN1dDhJRi1oVzN0Y1BNR3dfTTBhNnFLQW9YaG5ocEtlSldsOUR3U255QU1UQVJjOGlONXZmTjI1OVBJY1BXUzI4eVItNDl6SEYxMUJqU3RfdUh5RmdNMEjSAYQBQVVfeXFMT3FRTUNJREw2TllXODBDUFVuQjBfVWV5U1BxZmRSMnNjVVJlN0lDdXQ4SUYtaFczdGNQTUd3X00wYTZxS0FvWGhuaHBLZUpXbDlEd1NueUFNVEFSYzhpTjV2Zk4yNTlQSWNQV1MyOHlSLTQ5ekhGMTFCalN0X3VIeUZnTTBI?oc=5",
-   "published": "2026-10-28T06:58:00+00:00",
-   "id": "dcc40e2bd0f2",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -7977,7 +7977,7 @@
   "pre15m|2026-10-29T08:30:00-04:00": 1793276322.0420263,
   "pre1h|2026-10-29T09:45:00-04:00": 1793277082.7720244
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8222,6 +8222,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T12:46:14.536362+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-14), Taux réels 10 ans (20j) (+13), Dollar (DXY 5j) (-9)"
+  },
   {
    "ts": "2026-10-29T12:31:22.772496+00:00",
    "kind": "pre_event",
@@ -8516,11 +8521,6 @@
    "ts": "2026-10-28T17:31:40.503702+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war's cost to American taxpayers grows to an estimated $47.1 billion</b>\n📰 Spectrum News · Mer 28/10 18:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU1Lb1ZmNDYyekhqQ0pOUld3QkFOMTJ5dVVuTEV5MUVqNjRWeG9CcjB4bnRlQWF4Yk9CRjhWWEFnWGhxdGVtbE5MaDJSWmF0WGNuSDlQTk9Ka0ZDQ05wLWQxT29KZXo0MDRXeFF3N2JVZjBBVDRmdExaZVJua2RaRlVpa25XdEpkNF9PRGM2XzBxMUthRGVhOHl0UXE0VFBrRUlQOUt5dGV5b2JWZHZab1hkSQ?oc=5"
-  },
-  {
-   "ts": "2026-10-28T17:18:19.027045+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 72 MIN — 19:30</b>\n\n🇺🇸 <b>FOMC Press Conference</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.12% aujourd'hui · taux 10 ans +3 pb · biais or -1 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 68$ → attends-toi à des mèches rapides."
   }
  ],
  "daily_forecast": {
