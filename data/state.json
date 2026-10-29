@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "6e3f568b121e",
-  "ece89b1cd369",
-  "65a71813cf8b",
-  "8248fbdbf544",
-  "d4e4bbcf2770",
-  "2b55a59270c2",
-  "3e92f7cca419",
   "35e59d018bdc",
   "b4fe58f395b7",
   "7d6b78918e25",
@@ -4044,7 +4037,14 @@
   "125222a712f1",
   "e4d823f60891",
   "6d8d100e5ae1",
-  "9ab765e94028"
+  "9ab765e94028",
+  "44cd6fee43b2",
+  "1589eddaa5c2",
+  "73380b6af6da",
+  "8943cbef2efc",
+  "918b8292155c",
+  "d8e98866a9ac",
+  "848fd864aa76"
  ],
  "news": [
   {
@@ -4058,6 +4058,18 @@
    "cat": "géopolitique",
    "raison": "Tensions avec l'Iran et risque d'escalade militaire renforçant la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump warns Gulf states to prepare for ‘possible short, intense renewal of Iran war’ after US midterms: Report",
+   "source": "The Indian Express",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWZpeEZUWHNPMUVsazZ0cFczaTZUVWdFZFFXYUtHQUNBU3hER0dXSHVBQlhjWnBjNkFzRGpnMFZXckcySG5VQzVER1lVVTRUdTlUeGdJeWFXbzNNRnp6Z3pTa1ItbVNYVndQOVNHbkM3aDN2ZThNczZCWEI0TkUwQXhOLWtBSmJMWUJ4SEtMc2lhWWF5MmZWWjNFN3MtSXhVTlpaLUhZVlNHUdIBsAFBVV95cUxOSU5WU3RqZHNkMXFOQW12aG5GWEpkSXBJVjFoSzMyUDhHSDJPcVV0YzZmbVB0ZFlPZXlMYkd0MXlBS0g0X1pFazlhRUdtQy1GbENXUzhQbmhQTWctWWpub1A3Y2JyOWNGcXFYTVRwZlBZSzQtbEFhTWpXWFBlLVpma3RLTEw5OFJFRGpfTkE0ZF9QMGNjX3BpQ3E2V3hoUnlwSUhObTlTRGJ1cGczQ3FlYw?oc=5",
+   "published": "2026-10-29T02:20:54+00:00",
+   "id": "73380b6af6da",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump touts Venezuela victory, Iran strikes and rips Obama's nuclear deal agreement",
@@ -6434,18 +6446,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Egon von Greyerz on the Swiss Gold Referendum - A Yes Vote Would Be A Shock in the Gold Market",
-   "source": "GoldBroker",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTRjUXo5aWhmWGlLRFhQNXp4a1J3UTEzY0RNTDhCR082NXBEbXBTYzlqVi1vQkJzYjVqWTlXQWpvRDFoS3R1bUZZQ0l3ZnFBbFpCMzNEel9yUzRPcjlpci10M0FTYVIzWnhhR3dTVmtwSEpSTTZHZG16SUlqNDl5WThqOElpTzBJaDZ3b0p3a2tDeVZVSU5YcTc2czdQOWRpRy1qbG8wSWoxQVJjOW9kMW5MaVlHc1Y4STlCNE9xX1RmMnFERkE?oc=5",
-   "published": "2026-10-27T17:43:17+00:00",
-   "id": "cb60f8681835",
-   "impact": 1,
-   "cat": "banques centrales",
-   "raison": "Commentaire d'opinion hypothétique stimulant le sentiment pro-or sans catalyseur immédiat concret.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7945,7 +7945,8 @@
   "news|9182aebc9585": 1793237679.9395516,
   "news|b0abe94b7ed3": 1793238546.2972772,
   "news|17627ce65687": 1793240344.2284012,
-  "news|247ebd354704": 1793241079.3004968
+  "news|247ebd354704": 1793241079.3004968,
+  "news|73380b6af6da": 1793243761.653129
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8176,6 +8177,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T03:16:01.653195+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Gulf states to prepare for ‘possible short, intense renewal of Iran war’ after US midterms: Report</b>\n📰 The Indian Express · Jeu 29/10 03:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWZpeEZUWHNPMUVsazZ0cFczaTZUVWdFZFFXYUtHQUNBU3hER0dXSHVBQlhjWnBjNkFzRGpnMFZXckcySG5VQzVER1lVVTRUdTlUeGdJeWFXbzNNRnp6Z3pTa1ItbVNYVndQOVNHbkM3aDN2ZThNczZCWEI0TkUwQXhOLWtBSmJMWUJ4SEtMc2lhWWF5MmZWWjNFN3MtSXhVTlpaLUhZVlNHUdIBsAFBVV95cUxOSU5WU3RqZHNkMXFOQW12aG5GWEpkSXBJVjFoSzMyUDhHSDJPcVV0YzZmbVB0ZFlPZXlMYkd0MXlBS0g0X1pFazlhRUdtQy1GbENXUzhQbmhQTWctWWpub1A3Y2JyOWNGcXFYTVRwZlBZSzQtbEFhTWpXWFBlLVpma3RLTEw5OFJFRGpfTkE0ZF9QMGNjX3BpQ3E2V3hoUnlwSUhObTlTRGJ1cGczQ3FlYw?oc=5"
+  },
   {
    "ts": "2026-10-29T02:31:19.300558+00:00",
    "kind": "news",
@@ -8470,11 +8476,6 @@
    "ts": "2026-10-28T09:46:09.533155+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>At 2:00 a.m. tonight, the Federal Reserve will announce its decision: With inflation running hotter than ever, will it hit the brakes on rate hikes? For Chairman Powell, this is a major test of his credibility.</b>\n📰 富途牛牛 · Mer 28/10 10:30\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVlyWHJsMnZEUFVsc05JRVN0X3N1Um5DaHdNQW1ELTgybmxHdWFYWllsRmEtZWNJYnlHaVJwc3E0MDUyYzFMN2VZLW1lY3E1MktzMkllTXMtbW4tY0MxdlhITGFjWWpUNTZvNUlUZGdLS25PX0JmdDROS1UxZnI0ZUx0aTFkbmI1Y2l3bkRIaFhIanpsWVNLYkVOTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-28T09:46:08.607962+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China denies Taiwan’s claim it orchestrated attack on comedian who mocked Xi Jinping</b>\n📰 NBC News · Mer 28/10 10:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWVMNjN3Ql9CM3BHcmdHd1E1TzUzX1NnaHVGaGIwVHZHeDRvZy1YQ3dnZDVwMnB4M3FtMmtNVWdwMzlWWHB6cU5RcG1nWE1oZWFFdmZpQ0Myb3N1VWMzQnBEQUJrUmtmdTBpRjg0OFpkR2U0UjJwcWFLbjdmaXE4ZlpQWWduaTlaTXpMWHpQUHdwNjVaSXFEclFzTVlUWno0UVRQblpnSE9Ndw?oc=5"
   }
  ],
  "daily_forecast": {
