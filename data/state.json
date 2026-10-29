@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "f41729c88982",
-  "1e895cde6137",
-  "eec5a998e7bc",
   "cc3f047758cb",
   "a2c9a3be7f9e",
   "ccd35066728b",
@@ -4044,9 +4041,24 @@
   "93c07b4e5bee",
   "4f939aff8053",
   "c13da243dd18",
-  "a6ffd6c4f4e3"
+  "a6ffd6c4f4e3",
+  "9512819d5504",
+  "ea687fa17db4",
+  "f6700504369a"
  ],
  "news": [
+  {
+   "title": "Gold Price Forecast: XAU/USD Rejected at $4,074 Ahead of PCE After Hawkish Fed Hold",
+   "source": "FXLeaders",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWE1tbUxVeXpzVGtlaGFmMjNROVpCVzlTcW5JVVZ6Z3Z0UDAtWkQ4NDdCNGF0TUljT3QxZzFaNDRyV1hnWWVEc0R2T3JMVUx6Rlctb055SkNvY2hpUjVfT1RzXzFOYWREY1h5UzNLX0V3Y1VnamtpS1Z0Z29ycjdOQ2lwZ25QXzl4NWVDa2VaQjJQcUNWbm5Jemw3dzVZQ3NWUjNSUHVhUUt6eG5vTGdPaHFTYmdUWTZkaGljMUVnUXA?oc=5",
+   "published": "2026-10-29T06:14:43+00:00",
+   "id": "9512819d5504",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
    "source": "Al Jazeera",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Cessez-le-feu très localisé montrant que le conflit global reste non résolu.",
    "method": "IA"
-  },
-  {
-   "title": "Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to More",
-   "source": "Kathleen Hays Presents: Central Bank Central",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3N6X084ek5zdGMxa0piMnhWYkk0ZEY3V3lpVG9YaUx1NzRtTXRaVmtKN013emp1OUtLMlROSHJtQUtEUHVFR05zckRyM2x2bks0RUdvdjBHRXRCSDFLdTRQNU9ZblY3cU80WFpWZ2RUdUlVbXBtVlU3Uk41WDRjWXln?oc=5",
-   "published": "2026-10-27T20:08:15+00:00",
-   "id": "2e9c751f6fda",
-   "impact": -4,
-   "cat": "fed",
-   "raison": "La perspective de nouvelles hausses de taux par la Fed pénalise l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7953,7 +7953,8 @@
   "cyc_end|2026-10-26/2026-11-01": 1793247370.1801856,
   "news|57614de860cd": 1793248283.420118,
   "rep|daily|2026-10-29": 1793253697.0437303,
-  "news|7440b5552a1a": 1793254565.6541877
+  "news|7440b5552a1a": 1793254565.6541877,
+  "news|9512819d5504": 1793255668.1414468
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8200,6 +8201,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T06:34:28.141530+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Price Forecast: XAU/USD Rejected at $4,074 Ahead of PCE After Hawkish Fed Hold</b>\n📰 FXLeaders · Jeu 29/10 07:14\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWE1tbUxVeXpzVGtlaGFmMjNROVpCVzlTcW5JVVZ6Z3Z0UDAtWkQ4NDdCNGF0TUljT3QxZzFaNDRyV1hnWWVEc0R2T3JMVUx6Rlctb055SkNvY2hpUjVfT1RzXzFOYWREY1h5UzNLX0V3Y1VnamtpS1Z0Z29ycjdOQ2lwZ25QXzl4NWVDa2VaQjJQcUNWbm5Jemw3dzVZQ3NWUjNSUHVhUUt6eG5vTGdPaHFTYmdUWTZkaGljMUVnUXA?oc=5"
+  },
   {
    "ts": "2026-10-29T06:16:05.654253+00:00",
    "kind": "news",
@@ -8494,11 +8500,6 @@
    "ts": "2026-10-28T11:01:35.593076+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s Araghchi: Any ‘Israel-instigated’ attack would be ‘devastating’ for global markets</b>\n📰 The Times of Israel · Mer 28/10 11:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTQ0TEI0SlZjRkVFMmQ0MU1nQ3lrUHRWMG1Cbzl3ZUxWSmlzU2twbHBlaE12cnRYUlJaS3ByMGI3eDZUQThSVTVka0ZBeFh1Ty1ub3VQUXFvU0lRTUtaUjhaemIzOGNwWThXTDZMSzB2NWptYl9GNy1kMnFiNk5NYXVtb3FodkNVZFVNT2pqVk5HSnZqS3RUUTEwOWR2OFpMNEdfdHk3bUlHNldyVDI5eG5DUkZZWFN4WDhwWm5DTV90eEVGbUc1dA?oc=5"
-  },
-  {
-   "ts": "2026-10-28T10:46:06.368651+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: US tells Gulf allies to prepare for Iran strikes after midterms</b>\n📰 Israel National News · Mer 28/10 03:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KRUQyVmoybW5LZ1g1Z3ZUSjlRUDJ3b0FPLW42dElFdnBrTGgxa0FLUzVGYnhsTEcxU3kwWmF0UzAwVU1GM2hkUVVJRHduc3Vrb2VqVW9La2pNZw?oc=5"
   }
  ],
  "daily_forecast": {
