@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793263555.3934042,
+   "ts": 1793286085.4119883,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793282479.0420601,
+   "ts": 1793286085.5389001,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,18 +1045,6 @@
   }
  },
  "seen_news": [
-  "84f71af9c8bb",
-  "02783b53b6d2",
-  "78fb73c28774",
-  "d4e8bb76423b",
-  "b487929becc5",
-  "d9676ab2377b",
-  "c3870cdaab62",
-  "7971e530a3ba",
-  "0f5f762ba954",
-  "ec6b9e97af04",
-  "bc8fcf125563",
-  "7c8c0ad45c95",
   "f9ec6ed18184",
   "33a8cd5a61d6",
   "2834abc87760",
@@ -4044,9 +4032,33 @@
   "c15b1addc55b",
   "49a3f1b77635",
   "e2a5abf952c0",
-  "f315275016f4"
+  "f315275016f4",
+  "59924c465d06",
+  "fe543c0840bf",
+  "862a5be2a147",
+  "9558d165c1a6",
+  "5e33163dc9da",
+  "bde215a58c85",
+  "40c3abc0db57",
+  "421937419834",
+  "af1904a0656b",
+  "f27af3d2fb89",
+  "433677fb5d4e",
+  "f4c71926612d"
  ],
  "news": [
+  {
+   "title": "Israel seeks US approval to strike Iranian energy facilities as Trump signals end to war",
+   "source": "AzerNews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83am9tU0hNSWlTMHhDeWgyeWNBYy11elY1QU1pNGVFS28xMl9JTnZjV0V5b18wYW1DNkl5ZG9LdVE1X0wtR1VIM1paTXVxOTRxYVBUcQ?oc=5",
+   "published": "2026-10-29T14:51:00+00:00",
+   "id": "bde215a58c85",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
    "source": "BBC",
@@ -4060,6 +4072,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Strong US inflation and growth will keep Fed on a tightening path",
+   "source": "Financial Times",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZlBJclhlMUl0SS1hRnJLUnBMekVNT2UxTG9Wa2pqY0owaGtRbDFnMW5hRllBcVBwNEF4UzBxdmZxZ0xCN2E1ZDJxQmlRTThLQ0FTYTdZZG9KY25sRmk2LUtleEFxUldNeUJKTFo3Zm4?oc=5",
+   "published": "2026-10-29T14:00:18+00:00",
+   "id": "af1904a0656b",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Canadian Dollar weakens as US PCE inflation and GDP back hawkish Fed bets",
    "source": "FXStreet",
    "theme": "Dollar",
@@ -4069,6 +4093,18 @@
    "impact": -1,
    "cat": "dollar",
    "raison": "baissier or (dollar, fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. allies tell residents to stockpile, Trump warns of possible Iranian retaliation",
+   "source": "WSMV",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGl2ZEdDbktwektxdDFLcFFqNEFLcmgyY0RNYVRXanlfX2xHUDJqRWtxX1NJZ3J0S28xcGN6QjNYM2FwMzZOMDF1Q2w4LXcxT1hjMEJkZFNqa2VsaVdOa0wxd2N0OWkzbWJGWmJaNnczbWFFcWtxUWRsLUR6aEdJVzVrRzVFLWFSLXZnS3dneUx4UnlncFJUbHlDaWhwX0Q4Z2hKNTktbDhmeUN5NW5FaFVteUpfWTA?oc=5",
+   "published": "2026-10-29T13:49:00+00:00",
+   "id": "5e33163dc9da",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6410,42 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Accalmie très localisée en Ukraine, léger frein marginal à la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Mortgage Rates Above 7% Put Downward Pressure on U.S. Home Prices, With Relief From High Rates Uncertain as War Drags On",
-   "source": "https://economy.ac/",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSkhKX1d5aHZfUmFvZ0pNNlJlSUtMeC0xTXRVVmdINGotUHNFdHVnYURJMHBqZjEzSnFEcm1uaXJuRmFuME13S2Z0R1djMkF2Nk9CemdxMA?oc=5",
-   "published": "2026-10-28T09:25:24+00:00",
-   "id": "675ce8c1f006",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "Taux élevés persistants augmentant le coût d'opportunité de détention de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Several Republicans vote with Democrats to pass Ukraine aid, Russia sanctions package - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHdrTGxMZUpZTFJQZjRNZU5lVFhJYVNmdEUzYVNCZ09zTkxEMUFJaDJfNGxHOFpNZUNiQk5qQ3JBWG5qeTlLOVp6bzE4YVZpNGtKZ2tUaUV4SFhqLTlYZTBDUzUtOTIwVDBiTVZfNmdlalllemFmMTZhMHdJazhsZFdTc05BdnQ0REtuTUZhbVBSUEFNd0t4NV9iSXhRZVNSazBzZHZTNGVKS1FM0gGyAUFVX3lxTFBWc2NUSVBWYzVyNVF0dVFmV282dHpZY1Y5Snh5ZWppNnEwYzZLYXlHVHpZLW5RbVg3aHhRMlVWTDlCMXRUR0M1WDFEV3R2MV9KUEZzVWhacTVxR1dxQllKWlpuUDBkSE8tSXBMVEhYemF0cDMtbDMzcDhvc3NiLTBxemo3Y1NvV0FFUzBvSEd4c0xDblJLUUc0YkZ5b0JlUGhuMnBnWE43Si11WDlPMmhsOWc?oc=5",
-   "published": "2026-10-28T09:23:48+00:00",
-   "id": "f93c0fdbfeb8",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite de l'aide militaire actant l'enlisement du conflit, soutien modéré pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Federal Reserve likely to skip rate hike as elevated inflation drives voters to the polls",
-   "source": "WRAL",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmc1QWhpbVFESkhwdWxUaFQ2bF9GN0cwUU1fTXJLNzItcktwU0xnZ3dTRGxScmpNQlZUU2RvVV83WENQQmxJb1E4R1BXNGh3eU55c05MdGNBeTZTR2tjcVBGQ0FjOEV0ck5sNDZITURXRUpieWNIOGhXR2ZLa0VMOGxicHlHSm9EdkttdThSQjIyU3pHc0pXdVNIa0tvYWo5T2dzRFFR?oc=5",
-   "published": "2026-10-28T09:22:30+00:00",
-   "id": "768e08b23293",
-   "impact": 3,
-   "cat": "fed",
-   "raison": "Pause de la Fed face aux incertitudes, profitable aux actifs sans rendement.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7985,7 +7985,11 @@
   "news|775b6e2ab083": 1793282694.88606,
   "brk|US10Y|pdh|dn|2026-10-29": 1793282696.2007763,
   "news|bf34f041f10d": 1793283369.6934352,
-  "post|2026-10-29T09:45:00-04:00": 1793283371.0048916
+  "post|2026-10-29T09:45:00-04:00": 1793283371.0048916,
+  "news|bde215a58c85": 1793286107.9510925,
+  "news|af1904a0656b": 1793286108.8435433,
+  "news|5e33163dc9da": 1793286109.7395642,
+  "brk|DXY|pdh|dn|2026-10-29": 1793286110.9667587
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8232,6 +8236,26 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T15:01:50.966839+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 102.05 → prix : <b>102.04</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.27 | 60j -0.46"
+  },
+  {
+   "ts": "2026-10-29T15:01:49.739872+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. allies tell residents to stockpile, Trump warns of possible Iranian retaliation</b>\n📰 WSMV · Jeu 29/10 14:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGl2ZEdDbktwektxdDFLcFFqNEFLcmgyY0RNYVRXanlfX2xHUDJqRWtxX1NJZ3J0S28xcGN6QjNYM2FwMzZOMDF1Q2w4LXcxT1hjMEJkZFNqa2VsaVdOa0wxd2N0OWkzbWJGWmJaNnczbWFFcWtxUWRsLUR6aEdJVzVrRzVFLWFSLXZnS3dneUx4UnlncFJUbHlDaWhwX0Q4Z2hKNTktbDhmeUN5NW5FaFVteUpfWTA?oc=5"
+  },
+  {
+   "ts": "2026-10-29T15:01:48.843900+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Strong US inflation and growth will keep Fed on a tightening path</b>\n📰 Financial Times · Jeu 29/10 15:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZlBJclhlMUl0SS1hRnJLUnBMekVNT2UxTG9Wa2pqY0owaGtRbDFnMW5hRllBcVBwNEF4UzBxdmZxZ0xCN2E1ZDJxQmlRTThLQ0FTYTdZZG9KY25sRmk2LUtleEFxUldNeUJKTFo3Zm4?oc=5"
+  },
+  {
+   "ts": "2026-10-29T15:01:47.951196+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel seeks US approval to strike Iranian energy facilities as Trump signals end to war</b>\n📰 AzerNews · Jeu 29/10 15:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE83am9tU0hNSWlTMHhDeWgyeWNBYy11elY1QU1pNGVFS28xMl9JTnZjV0V5b18wYW1DNkl5ZG9LdVE1X0wtR1VIM1paTXVxOTRxYVBUcQ?oc=5"
+  },
   {
    "ts": "2026-10-29T14:16:11.006257+00:00",
    "kind": "post_event",
@@ -8511,26 +8535,6 @@
    "ts": "2026-10-28T21:32:05.139317+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Tracking Trump: Fed keeps interest rates steady; Iran war cost update; RFK Jr.’s peptide plan; and more</b>\n📰 The Washington Post · Mer 28/10 22:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQempyZ1I4MFlrRjBnVzZma19IcnlkNFUyM1R0aGx0eVU5REpVZTJoUmNiLWpSSlVXMGYtVkl6TV9tU1NoNnpCSk9oYm5mUzA1a2g5WEhpUUtpcDF6ZTJaQXNENmRWWmdNZGRNbjVtcmRaUWluN2Rka1RVNGlGTXA4dnQ5ODY5aXZVVzlGU1AyTEJNWGFLa1hEQ0lGd284UlB0VVBfdS14bjZYWUpvQVNOa1RibGwtMzlnMlRwdEVGOS0tVGFLdkRDZVhmTU1XYl9ianc4MmtZV0w0Ny1aMDE4MG1URXhvLUU?oc=5"
-  },
-  {
-   "ts": "2026-10-28T21:16:08.832245+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz</b>\n📰 The Washington Post · Mer 28/10 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNSnBuVWJnSDhLNTdMSEc0aEJpWUdBWjJMSVY0VjFaZ1BtMlk2a2pXdUhGb1hMZU9UbFVDdklSRzM3SUExUGl1MHZUSGR2dmVmakNsWXpUbU42R2JnTGxQNWJlMVNvcldSdnpKUXpoWHR6UXBCSmFvTWxnOWFETDFjTVRRV2lxMmVtSVc1Vkg0cEtqeXREOVNrT2xJbU9kNDFwczhUM09YX1FmZWEyaHVILWlTZnJBcmhsOHpTUUxRUk1qWVAtaWdUbG9IdzhiMzhfcHg5bkdJUmhFekV0aGFxQ0R1SFpJZzdWVlBudHhBLWViUXRLQ0g5OThSS0E1M0ZhQ2dMS2hocmF5SWJXeVJFOEtYUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-28T21:01:40.382144+00:00",
-   "kind": "recap",
-   "text": "🌙 <b>BILAN DU JOUR — MERCREDI 28/10</b>\nOr : <b>+6.8$</b> depuis minuit · plus haut 4097.2 (21h00) / plus bas 4036.9 (19h30) · range 60$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-2) à 4046.2 → maintenant 4083.8 (+37.6$)\nRange : 60$ réalisé vs ~69$ attendu (87%)\nNiveaux touchés : P, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 62% de bonnes directions (8 ✅ / 5 ❌ / 0 ➖ sur 13 jours)\n20 derniers jours : 62%  ·  ❌✅❌❌✅✅✅✅❌❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.23% · Taux 10 ans +5.2 pb · Pétrole +2.07% · EUR/USD +0.23% · S&P 500 +0.32% · Argent -0.91%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs\n🟢 (+10) Trump Threatens to Escalate Iran War as U.S. Heads Into Critical Midterm Election\n🟢 (+10) Iran war live: UAE’s Gargash issues call for calm amid escalation fears\n🟢 (+10) US warns Gulf countries of possible Iran war escalation after midterm elections\n\n📅 <b>Demain (jeudi)</b>\n🔥 <b>13:30</b> 🇺🇸 Advance GDP q/q (prév. 3.2%)\n🔥 <b>13:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n🔥 <b>14:15</b> 🇪🇺 Main Refinancing Rate (prév. 2.65%)\n🔥 <b>14:15</b> 🇪🇺 Monetary Policy Statement\n🔥 <b>14:45</b> 🇪🇺 ECB Press Conference"
-  },
-  {
-   "ts": "2026-10-28T20:01:35.984788+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 079.40 → prix : <b>4 079.50</b>\nATR jour : 67.8$ | Pivot hebdo : 4069.4\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 783 cas)."
-  },
-  {
-   "ts": "2026-10-28T19:49:12.222302+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Threatens to Escalate Iran War as U.S. Heads Into Critical Midterm Election</b>\n📰 Between The Lines · Mer 28/10 14:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOWS1ZTU5kQWxZVkNKX0w2ZnAyWm11dl9wZlFPLUI2T2RRbzJGb3htaFhuMXp2NWtnNFNlQkZyWXFYenZTN1VvekZlbEhhaS1TMUxMUk9zMWcxVDdRQzRrZmoydVRDZ196dlpCSmwwMl9PbGJxaHBPdWIydXlWMkZORW5UMDVJeEhPR004eG1OT0FkbkNBOTktbTdRSTdrQ2VORzJOMkx3?oc=5"
   }
  ],
  "daily_forecast": {
