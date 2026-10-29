@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "d3f424d8d16a",
-  "d6649fdcb66a",
-  "c0f188e13fbb",
-  "5dffe19da5ef",
-  "dfcdf180b7ba",
-  "517c164cb960",
   "ddd1c2399e47",
   "d8544ee4fc7e",
   "1fa6f85f56a3",
@@ -4044,7 +4038,13 @@
   "4a484e0a38f6",
   "d93176c569a2",
   "06160b289d64",
-  "eb58901ca20b"
+  "eb58901ca20b",
+  "a49c2fa8bdd6",
+  "358bc87804ed",
+  "2e83d9a7d133",
+  "07e95b7e1f0a",
+  "edd481f55d47",
+  "522bd37a3942"
  ],
  "news": [
   {
@@ -4054,6 +4054,18 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nTjBUaDUtSU5wZFlUenZxUXRNaGM5S3E1eFpQck1vVVp5clVEcmRJdUxKeE52b2RGZU1yY3RYYXNIOF9XdDF4bzdLQThuX09wbVlZSktkZHVuWGxucXVMWEJpZVltek1CX2I4a1Q3X0NTTHNOU3c?oc=5",
    "published": "2026-10-29T00:35:00+00:00",
    "id": "eb58901ca20b",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Taiwan’s AerosoarX collaborates with US firms on AI drones",
+   "source": "Taipei Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16Z3AtY21ua3VGSE93a3duNTQtdjQ5RVdrNl9RNTI4ZENuZjFrVHp2ckc1WkVObHpqMnBxN2M3QzB4Nm1PQm9vX1M2RjY0NVVUYTVHLWVFNWs2eWRqNmx4b201RjR2M0tyTUVQNXBsSUw2bkNFUkw5Q0tB?oc=5",
+   "published": "2026-10-29T00:25:44+00:00",
+   "id": "522bd37a3942",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -4108,18 +4120,6 @@
    "method": "IA"
   },
   {
-   "title": "U.S. Midterm Elections Focus Voters on Trump’s Iran War and Tariffs: how 6 outlets framed it",
-   "source": "NewsCord",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNjhRMXJWOFRmLVFpMEI1WGcyajA0OUxUSWZEUnV0M3BJUHp3bmRXZ2U5cWthcWFFNWhzSHlvZk92NTBzNDBJbzdNQzlpdnZYY3phRS1wNGZNVWp6bGtuOEJxbU1EVk1obnUzdVNLbGUyZExxTGlYQjFnZ1VheWU4RDc3c1REd3BKWmxMeFVHcHNEaVRsa0RBQWh0NU51WFpndzFBYlM4V1luT0lWWk42NXhMRFpGTVhtMUpSUnl4Zk9KRHJIOUgtcnBtX19tSUpOdkNoTXhBdDJzLUh5TlFjd05jU2lVdw?oc=5",
-   "published": "2026-10-28T23:31:23+00:00",
-   "id": "e566669bb128",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Simple cadrage médiatique électoral, sans impact macroéconomique direct et immédiat.",
-   "method": "IA"
-  },
-  {
    "title": "Vance ‘reaches out to Iran for peace talks’ days after Trump threatens new bombing campaign",
    "source": "The Independent",
    "theme": "Trump / Iran",
@@ -4168,16 +4168,16 @@
    "method": "IA"
   },
   {
-   "title": "Netherlands Russia Ukraine War",
-   "source": "Columbia Missourian",
+   "title": "Ukraine's military reveals what Russia's war has cost Moscow — in dollars, arms, and lives",
+   "source": "The Kyiv Independent",
    "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzZtSmpXcVFUVTB6enZLSUNfVTFYREI0T1BGUDRucFMyQjc5VUpIN2xKNWtKcUM0V1F0ZE1wQWo3RnJkRmJTd3BaVjNfMGVkVlJFZl9oMDJ4TlhOMnUtbTRQS01ERXdSS0NXdDk1U3ZYM1AtTTN2ZDdHMFE4R1EtYU9aWWxueGtaeHJ4TmhBMEZpWGJQYWdIRTJJV25mdVFWa09UZ0VpdjBYUm1IM2poV2lobTgzYW82V0E0UzUtSDZOYnVEZUc1dGttUQ?oc=5",
-   "published": "2026-10-28T21:38:10+00:00",
-   "id": "cf95c44de281",
-   "impact": 0,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1U3OGYwMTZDRWJKTFVULXphc2ZmMGgwRzVVRzItMVpldVVfYVpVdjVLdXNUVnRsMGxpU1Jpb1VwSnpLY0RIWTNCeFVhcHg2bk1uVTJXMkYybmdNXzVxX2ZrUDJHM0ZhQ1hTMy1yakhMTFhjSDh6UW5ldVNnWVlmczRDcFcxdF9Zak83MmtEdTJsMmlqd0kwdWk4SDJCSnN4aWZHWDN3RmFqRGg0d1VzeXVadw?oc=5",
+   "published": "2026-10-28T21:20:17+00:00",
+   "id": "edd481f55d47",
+   "impact": 6,
    "cat": "géopolitique",
-   "raison": "Titre trop générique et sans substance informationnelle actionnable pour le marché.",
-   "method": "IA"
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz",
