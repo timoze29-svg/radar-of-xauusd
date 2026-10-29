@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793303153.0151138,
+   "ts": 1793307681.868074,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "239bb481bb54",
-  "5767e9b0fb0e",
-  "5fa6656a8856",
   "735930380a6b",
   "4702c4536639",
   "42a8c2c18e8a",
@@ -4044,7 +4041,10 @@
   "9128202327f0",
   "f60eee1e32f3",
   "c0bd5fd1237c",
-  "ad8f6dc36077"
+  "ad8f6dc36077",
+  "c5299ac6d3c4",
+  "8fa443818aa3",
+  "8d40b444eb4b"
  ],
  "news": [
   {
@@ -8019,7 +8019,8 @@
   "news|ad8f6dc36077": 1793306768.422097,
   "news|9128202327f0": 1793306769.3600028,
   "brk|BTC|pwh|dn|2026-10-26/2026-11-01": 1793306770.4644089,
-  "brk|BTC|h20|dn|2026-10-26/2026-11-01": 1793306771.415607
+  "brk|BTC|h20|dn|2026-10-26/2026-11-01": 1793306771.415607,
+  "rep|recap|2026-10-29": 1793307703.651264
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8266,6 +8267,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T21:01:42.649487+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — JEUDI 29/10</b>\nOr : <b>-33.1$</b> depuis minuit · plus haut 4081.0 (02h25) / plus bas 4016.3 (19h25) · range 65$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-2) à 4044.3 → maintenant 4031.2 (-13.1$)\nRange : 65$ réalisé vs ~64$ attendu (102%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 64% de bonnes directions (9 ✅ / 5 ❌ / 0 ➖ sur 14 jours)\n20 derniers jours : 64%  ·  ✅❌❌✅✅✅✅❌❌✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.28% · Taux 10 ans -5.6 pb · Pétrole +0.81% · EUR/USD +0.22% · S&P 500 -0.35% · Argent -3.27%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Schumer, Standing At The Port Of Oswego With Families And Businesses Being Crushed By Trump’s Reckless Tariff War, Launches New Legislation To End Costly Tariffs And Lower Prices In Communities Across Central &amp; Northern NY\n🟢 (+10) Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation”\n🟢 (+10) Trump strikes warmer tone on Canada despite tariff tensions | Daily Sabah\n🔴 (-10) US inflation rises to 3.6% in September, strengthening bets on Fed rate hike in December | Hindustan Times\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>17:00</b> 🇺🇸 FOMC Member Daly Speaks\n🔥 <b>17:30</b> 🇺🇸 FOMC Member Musalem Speaks"
+  },
   {
    "ts": "2026-10-29T20:46:11.415686+00:00",
    "kind": "breakout",
@@ -8560,11 +8566,6 @@
    "ts": "2026-10-29T11:16:11.101494+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pressure mounts on Iran as US, Israel prepare week-long strikes</b>\n📰 Gulf News · Jeu 29/10 12:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHBWbnNzVmU0NEhQMW1xSEE0Rmk3T3U0elZDNmV6M3hmamxVelpQSmwxM0FtZGNPLWlrRnNEQ3lCT19BTU5nZmo5VmJYd1N6Q1o3MzBrcVJyMUFhUUx6NlZPVUJ4UmFzNzM3Uk9wMHR6QkVvc0R3bXlyZnBWcGV6RXFzYjZWVWQ4ZlZUUkRYZm14akRsb0xKVFZzQ0xUUGlxTV9vaGxDWm1SZ3FrUlE1UEZoXzFYMGpKTHNjanRXaV9iNWhmZ2gyZHVoVkPSAd8BQVVfeXFMTzljYjM0TVQtaHpmNWdGcEc5Wm1hUXZfQ0JLeXRvd3pnckQ3UVd3aERJRDNobE9WbF9hSDFXazB0RWJwNjBuZmx3ZEF1eTFEUkFpN2dwZ0lEUFJHdlVzWTRQVGdzeG5EWUFTcW1aYlJqYlhQR0JMYWJaa3hFN3pNNzVfNzdHYWZqMVhaV0hrVlJ5aFg4ZlZfdnFPT1VsdXVWUjItVTI3QzdhM3lnT1A5TXV4bXZwa3VNTUpwaTh2WTFPYk5UMldMdkJBNW05MHp5Ty1oZ3MxYmVtZXVjQXJJVQ?oc=5"
-  },
-  {
-   "ts": "2026-10-29T11:16:10.046394+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump defends war in Iran, tariffs during Texas campaign swing</b>\n📰 Houston Chronicle · Jeu 29/10 12:05\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVG1ZX1NNSWJyYWtBcEpvZlRsVFhxLVlDY0pYUTNhRWQtZ1VUY3pVeHBWMDUxeDBVcTNOQzFZbWxNVFpGbDJOdlBGX1RrNVFyUnpla3JIdDN4V2IzamN6blpCWW1ZVXNYVHREWjh1OXFSWHNKWEJReFZDS2ZDYktZYnI3Mzg0NExibE5PRE00Z2o4ZGp6LTVvQXRTeE5pR3NNTHMxa3dUcFZFM2ptdllROEVKNzNjTTRONl9r?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8686,11 +8687,19 @@
    "mv": 37.6,
    "range": 60.3,
    "exp": 69.1
+  },
+  {
+   "date": "2026-10-29",
+   "dir": "range",
+   "res": "hit",
+   "mv": -13.1,
+   "range": 64.7,
+   "exp": 63.5
   }
  ],
  "evening_recap": {
-  "date": "2026-10-28T21:01:41.364352+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — MERCREDI 28/10</b>\nOr : <b>+6.8$</b> depuis minuit · plus haut 4097.2 (21h00) / plus bas 4036.9 (19h30) · range 60$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-2) à 4046.2 → maintenant 4083.8 (+37.6$)\nRange : 60$ réalisé vs ~69$ attendu (87%)\nNiveaux touchés : P, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 62% de bonnes directions (8 ✅ / 5 ❌ / 0 ➖ sur 13 jours)\n20 derniers jours : 62%  ·  ❌✅❌❌✅✅✅✅❌❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.23% · Taux 10 ans +5.2 pb · Pétrole +2.07% · EUR/USD +0.23% · S&P 500 +0.32% · Argent -0.91%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs\n🟢 (+10) Trump Threatens to Escalate Iran War as U.S. Heads Into Critical Midterm Election\n🟢 (+10) Iran war live: UAE’s Gargash issues call for calm amid escalation fears\n🟢 (+10) US warns Gulf countries of possible Iran war escalation after midterm elections\n\n📅 <b>Demain (jeudi)</b>\n🔥 <b>13:30</b> 🇺🇸 Advance GDP q/q (prév. 3.2%)\n🔥 <b>13:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n🔥 <b>14:15</b> 🇪🇺 Main Refinancing Rate (prév. 2.65%)\n🔥 <b>14:15</b> 🇪🇺 Monetary Policy Statement\n🔥 <b>14:45</b> 🇪🇺 ECB Press Conference",
+  "date": "2026-10-29T21:01:43.651223+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — JEUDI 29/10</b>\nOr : <b>-33.1$</b> depuis minuit · plus haut 4081.0 (02h25) / plus bas 4016.3 (19h25) · range 65$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-2) à 4044.3 → maintenant 4031.2 (-13.1$)\nRange : 65$ réalisé vs ~64$ attendu (102%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 64% de bonnes directions (9 ✅ / 5 ❌ / 0 ➖ sur 14 jours)\n20 derniers jours : 64%  ·  ✅❌❌✅✅✅✅❌❌✅\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.28% · Taux 10 ans -5.6 pb · Pétrole +0.81% · EUR/USD +0.22% · S&P 500 -0.35% · Argent -3.27%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Schumer, Standing At The Port Of Oswego With Families And Businesses Being Crushed By Trump’s Reckless Tariff War, Launches New Legislation To End Costly Tariffs And Lower Prices In Communities Across Central &amp; Northern NY\n🟢 (+10) Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation”\n🟢 (+10) Trump strikes warmer tone on Canada despite tariff tensions | Daily Sabah\n🔴 (-10) US inflation rises to 3.6% in September, strengthening bets on Fed rate hike in December | Hindustan Times\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>17:00</b> 🇺🇸 FOMC Member Daly Speaks\n🔥 <b>17:30</b> 🇺🇸 FOMC Member Musalem Speaks",
   "ai": false
  },
  "dp_last": {
