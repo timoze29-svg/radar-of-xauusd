@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "e8196ecd8a9b",
-  "199f33637170",
-  "68f46d4d0135",
-  "4445a2699f3c",
-  "48623407ac20",
-  "8e9211f31f44",
-  "c6aa30f0f744",
   "ce2d25334dcd",
   "a8956e299b6d",
   "5c8b91a26e14",
@@ -4044,7 +4037,14 @@
   "1bf0165e07bf",
   "3006a2e4371b",
   "1afacf2be364",
-  "bac008b7cb9c"
+  "bac008b7cb9c",
+  "d0b40fac6fc7",
+  "662ec8a6b03b",
+  "2f39798e2273",
+  "c6096af944cf",
+  "57614de860cd",
+  "3a9840b9a0f9",
+  "441473ad06a6"
  ],
  "news": [
   {
@@ -4382,6 +4382,18 @@
    "cat": "commerce",
    "raison": "Limites des tarifs suggérant un risque de guerre commerciale légèrement amoindri.",
    "method": "IA"
+  },
+  {
+   "title": "Dollar Falls Back After FOMC Results Have a Dovish Tint",
+   "source": "TradingView",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1FYcWNTRURocnVVY3dpV3Jac1p5QXp6YVg1bmNxb0NMdlBGemdxSzkxQnZ5M2F4QTZGb3o0cmdZYWYydzZtUXNhLWVmX3pUSVIzVHpMcWVLX3NTaGhXTU5lYXVKX0FSanc3SDc4S3VzVWI3b0V2ZmY1M2ZvVExRMnBvZXBMRUUyWjFOeWR3WTB0OTl5RUFMTnFjSkhqckUzeWNodG5UcUJFQ2NCLTZhSWUzbFI?oc=5",
+   "published": "2026-10-28T20:16:44+00:00",
+   "id": "57614de860cd",
+   "impact": 10,
+   "cat": "dollar",
+   "raison": "haussier or (dollar, fed)",
+   "method": "mots-clés"
   },
   {
    "title": "FOMC Recap: Fed Holds, but Warsh Falls Short of a Full Hawkish Hold",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "After Canada fires back with retaliatory tariffs, Trump and Carney move to ease trade war in 2 sectors as South Africa braces for U.S. duty slap",
-   "source": "Business Insider Africa",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR3NEblJUV2RBUzV3MXZiRnJtMy1YM1dxbFBCN0lUS0RqM3JtdkZFdkFweUZ3MV9FWFlnek5yNkxabXBmUW9sYWIwQ09XbWVVbERtd3BfdFBCZnpUcVVWNnNXS0kzMmMycmZMdVdLZG5BcEN1dllzaGNHVDhGcjRoaWtvNHk5dVVTZnRfUkhDN0dhSV82Y1EwWTNmSGpzSHpNWlpOZTJBTEYzenpNcGxJeXVBd2VaMlgzUE9fbWtWVVh6NVlRMWVwVUU1SGpjcFdfX0R6bEJNWmQ?oc=5",
-   "published": "2026-10-27T18:24:23+00:00",
-   "id": "45b6034eaeb2",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Désescalade commerciale partielle réduisant la prime de risque et le statut de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7950,7 +7950,8 @@
   "news|21df6033eaf8": 1793245936.3001797,
   "news|57abedd90737": 1793245937.292857,
   "news|c25c46bec37f": 1793245938.2389977,
-  "cyc_end|2026-10-26/2026-11-01": 1793247370.1801856
+  "cyc_end|2026-10-26/2026-11-01": 1793247370.1801856,
+  "news|57614de860cd": 1793248283.420118
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8181,6 +8182,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T04:31:23.420206+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Dollar Falls Back After FOMC Results Have a Dovish Tint</b>\n📰 TradingView · Mer 28/10 21:16\n🧠 haussier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON1FYcWNTRURocnVVY3dpV3Jac1p5QXp6YVg1bmNxb0NMdlBGemdxSzkxQnZ5M2F4QTZGb3o0cmdZYWYydzZtUXNhLWVmX3pUSVIzVHpMcWVLX3NTaGhXTU5lYXVKX0FSanc3SDc4S3VzVWI3b0V2ZmY1M2ZvVExRMnBvZXBMRUUyWjFOeWR3WTB0OTl5RUFMTnFjSkhqckUzeWNodG5UcUJFQ2NCLTZhSWUzbFI?oc=5"
+  },
   {
    "ts": "2026-10-29T04:16:10.180241+00:00",
    "kind": "cycle",
@@ -8475,11 +8481,6 @@
    "ts": "2026-10-28T10:46:04.621753+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatari mediators present Iran with new deal to end the war, official says</b>\n📰 Reuters · Mer 28/10 10:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5"
-  },
-  {
-   "ts": "2026-10-28T10:46:03.677859+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US deploys Patriot system in Israel amid preparations for Iran strikes</b>\n📰 The Jerusalem Post · Mer 28/10 11:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE9MeGxMWXcyX3piREtnVDJPOGF3OTdFQmVoUHNxZlM0ODA5bk45aGdoNDhvVUVZc21XVlJ1VEthSktfRnVtWm84NVRFdTVSNHl4VWxqemlIM2NJYy13T0dET212V3ZpTnBySFNjZERR?oc=5"
   }
  ],
  "daily_forecast": {
