@@ -1045,7 +1045,6 @@
   }
  },
  "seen_news": [
-  "cdd231b94a17",
   "e8196ecd8a9b",
   "199f33637170",
   "68f46d4d0135",
@@ -4044,7 +4043,8 @@
   "2b27fba20f31",
   "1bf0165e07bf",
   "3006a2e4371b",
-  "1afacf2be364"
+  "1afacf2be364",
+  "bac008b7cb9c"
  ],
  "news": [
   {
@@ -7949,7 +7949,8 @@
   "news|73380b6af6da": 1793243761.653129,
   "news|21df6033eaf8": 1793245936.3001797,
   "news|57abedd90737": 1793245937.292857,
-  "news|c25c46bec37f": 1793245938.2389977
+  "news|c25c46bec37f": 1793245938.2389977,
+  "cyc_end|2026-10-26/2026-11-01": 1793247370.1801856
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8180,6 +8181,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-29T04:16:10.180241+00:00",
+   "kind": "cycle",
+   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>+39.4$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>46.2%</b> des semaines haussières (53.2% quand le mouvement est fort)\nRetracement médian quand ça inverse : 89.1%\n\n🎯 Zones de retour : 38.2% 4036.55 | 50% 4031.9 | 61.8% 4027.25\n📉 Biais jeu→ven : RETOUR À LA BAISSE — à confirmer avec le biais macro."
+  },
   {
    "ts": "2026-10-29T03:52:18.239222+00:00",
    "kind": "news",
@@ -8474,11 +8480,6 @@
    "ts": "2026-10-28T10:46:03.677859+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US deploys Patriot system in Israel amid preparations for Iran strikes</b>\n📰 The Jerusalem Post · Mer 28/10 11:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE9MeGxMWXcyX3piREtnVDJPOGF3OTdFQmVoUHNxZlM0ODA5bk45aGdoNDhvVUVZc21XVlJ1VEthSktfRnVtWm84NVRFdTVSNHl4VWxqemlIM2NJYy13T0dET212V3ZpTnBySFNjZERR?oc=5"
-  },
-  {
-   "ts": "2026-10-28T10:16:02.386452+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Official Price Tag of Iran War Jumps to $47 Billion as Trump Says It Will End 'Whenever I Want It To'</b>\n📰 Common Dreams · Mer 28/10 10:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JOEJhU1ZMc2xNTDBRY2pIejFuNWdmU0xFeDFGTE1XbkFJcDJETEdDeGVwS0hSM1ZWbXpMelJ5V3ZHV3RGVm4tWFF2WEM1clNnNDNPdVhTRjMxeUM0TlFkTGFyQXpWYVU?oc=5"
   }
  ],
  "daily_forecast": {
