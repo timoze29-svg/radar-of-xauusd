@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "261bd99b0ebe",
-  "2400a3e78aef",
-  "84ca4f1a897d",
   "980c0819974b",
   "e5ab21be1e51",
   "cea526587029",
@@ -4044,9 +4041,24 @@
   "26a0b177b864",
   "4d278a6b951a",
   "20453b6ab847",
-  "c7b847ee84be"
+  "c7b847ee84be",
+  "b92f1612ead7",
+  "ca7dc55dc5b4",
+  "b437ed950da6"
  ],
  "news": [
+  {
+   "title": "Xi Jinping expels dozens of top officials as purge deepens",
+   "source": "AFR",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMU1wM3FiV0JmdHlEX3BmSHdUVzhPS0FITTE5SUt0S2xIbW5aR04xQXcxblFtOG9oNjdYX2V3c1dkUlRPTy02NHRycUQ1dHJiRGU4SmhWRHM5NHVONGpkZG9iX0hOb2EzdVlGSml5UHZQUXFKbnhNYXBnOHBCUDlkdlNyMFByVjUwTTUzNkJXSzRSSnVwajhqV0lPNzAxUkFkMHFyeFZKeUJqUUJQYVRLWDI1azNUUQ?oc=5",
+   "published": "2026-10-30T03:04:00+00:00",
+   "id": "b437ed950da6",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions politiques internes en Chine offrant un soutien marginal d'actif refuge.",
+   "method": "IA"
+  },
   {
    "title": "Australian Dollar edges higher as hot CPI inflation and hawkish RBA lift rate hike bets | FXStreet",
    "source": "شبكة تواصل الإخبارية",
@@ -4105,6 +4117,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Poursuite des frappes en Ukraine sans embrasement systémique majeur, léger soutien refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Breaking: Tokyo CPI inflation in Japan rises 2.8% in October",
+   "source": "www.tmgm.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGluakM4Wk5aY2U2TWZfWnNRVGhlUHdPbXhfMU4xaG1TU1R1SG5qOUJwaEFZNXFUMzgwcld6UW5oVFdaN1J1TjRhOXp2WHNDLXNrckdDOU1SWHc1WDQ3RG1ZSjFheHNVQXB3X2dWX1JJV3Q0U2VIN1c4WTNlY09oY3RadFM4enBPLXhvUVh1VEtvbG1DbUdhRWtmRUFpUHhxZld6Q05qT1EyMktVNDBCVjVITFZYQ1BCZXZhRVRHTjJfSEE?oc=5",
+   "published": "2026-10-30T01:04:34+00:00",
+   "id": "b92f1612ead7",
+   "impact": 2,
+   "cat": "inflation",
+   "raison": "Pression haussière sur la BoJ, raffermissant le yen et affaiblissant le dollar.",
    "method": "IA"
   },
   {
@@ -6422,30 +6446,6 @@
    "cat": "taux",
    "raison": "haussier or (taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Two hike votes as Fed holds: Dollar Index recovers after dip",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnl0MmlPaEg1MFU2SW9aRlY4ZlN0bUlMSDlPSDI4bzdrdjFTOVpXaE5RdXE2cEtHbWpqZFlWeXhZNlFnbjhuTkh4TFlwTkdZOUNveTAtWk5LSlNoYnZ4TnFaRDRSX0VtcElEUUt3R2dLR2k1cWZva0FOc3BTYUxBZDFLSUNyeUJqcHhLZ01WdFQ2anpnRjVaM1Bvem9xT2FZSjNTckpaSHZteEFkQnZSOE5Ob19oal81VldhZXhNYkdXM01XbENXYlJXUjJDR0U?oc=5",
-   "published": "2026-10-28T21:13:01+00:00",
-   "id": "293df642f609",
-   "impact": -3,
-   "cat": "fed",
-   "raison": "Dissidence hawkish à la Fed et rebond du dollar défavorables aux cours de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz",
-   "source": "The Washington Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSnBuVWJnSDhLNTdMSEc0aEJpWUdBWjJMSVY0VjFaZ1BtMlk2a2pXdUhGb1hMZU9UbFVDdklSRzM3SUExUGl1MHZUSGR2dmVmakNsWXpUbU42R2JnTGxQNWJlMVNvcldSdnpKUXpoWHR6UXBCSmFvTWxnOWFETDFjTVRRV2lxMmVtSVc1Vkg0cEtqeXREOVNrT2xJbU9kNDFwczhUM09YX1FmZWEyaHVILWlTZnJBcmhsOHpTUUxRUk1qWVAtaWdUbG9IdzhiMzhfcHg5bkdJUmhFekV0aGFxQ0R1SFpJZzdWVlBudHhBLWViUXRLQ0g5OThSS0E1M0ZhQ2dMS2hocmF5SWJXeVJFOEtYUQ?oc=5",
-   "published": "2026-10-28T21:00:00+00:00",
-   "id": "2c30f9a84cd2",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions maritimes détroit d'Ormuz stimulant la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8040,7 +8040,7 @@
   "news|5854555cf26b": 1793329299.7606447,
   "news|68b639c62997": 1793330166.2513154
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8285,6 +8285,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T03:48:27.288930+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+12), Fed (2 ans vs taux Fed) (-9)"
+  },
   {
    "ts": "2026-10-30T03:16:06.251417+00:00",
    "kind": "news",
@@ -8579,11 +8584,6 @@
    "ts": "2026-10-29T13:46:12.743233+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Main Refinancing Rate</b> : prév. 2.65% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>Monetary Policy Statement</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.04%\nTaux 10 ans -1.6 pb\nOr +8.0$ (extrême +11.1$, range 16.0$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-29T13:46:11.913631+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -13)\nMoteurs principaux : Momentum or (vs MM50) (-14), Taux réels 10 ans (20j) (+13), Sentiment news 24h (+10)"
   }
  ],
  "daily_forecast": {
