@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "ddfaacd1854a",
-  "058e0eb3eb06",
-  "810c92847336",
-  "5e071c42c86b",
   "f9c9a46e6e1e",
   "b6ff62292b84",
   "072dbb4a7f2c",
@@ -4044,7 +4040,11 @@
   "487c6d19cb03",
   "d4df829814ba",
   "59985b647023",
-  "8cf073fda105"
+  "8cf073fda105",
+  "fa0621573d4f",
+  "4b98df3a1545",
+  "ac9f06514751",
+  "aea382c8ce29"
  ],
  "news": [
   {
@@ -4108,6 +4108,30 @@
    "method": "IA"
   },
   {
+   "title": "Opinion | The White House sees an Iranian hard-liner as the best hope for peace",
+   "source": "The Washington Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjloNUpHX2J6SGw3cUhGazdxaWZUUnd1TXg3WjNNZ0Zlc0VZZExkLXJfSmZGa2dTTVlLN292akwtb3A2N3JLSXZpdERsY0xMSTd5Q19fM0V3T1RKTzhxalRfeWFLXzQzREZKb24xS0tjRUtvQk5PaHo4QjZMckxwdzU5YVJxSHU4YjhpcE9PV0V3d2h2UG4wZ1R3R1UzNERXdUQ3NWFaMmh2QQ?oc=5",
+   "published": "2026-10-30T03:49:00+00:00",
+   "id": "ac9f06514751",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Espoir d'apaisement avec l'Iran réduisant modérément la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
+   "source": "FXEmpire",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGZOS0VFblE5RVJPNTBlb3k5Y25fWldYX21abE5pYmJpUmVHdS1NSDExX29ZWnZKSkx1c1Y4WHdoVFpYYnpuR2JxLTM5Q2YwS2NCT2F0bTJGT2pSR2Excng4UXg4ZU1pRkdtR2dZemVMSWtIRkd4ODlTbFpJRFpBM3dwVGxVUUwxR3FrT1JGUHZEVEYwWkJEWXBrSGMxRWNlU3hMVTBidVFRU1dBWVM3NENOS0JtMTg?oc=5",
+   "published": "2026-10-30T03:44:48+00:00",
+   "id": "fa0621573d4f",
+   "impact": -3,
+   "cat": "fed",
+   "raison": "La résurgence des craintes de hausse des taux soutient les rendements réels.",
+   "method": "IA"
+  },
+  {
    "title": "Xi Jinping expels dozens of top officials as purge deepens",
    "source": "AFR",
    "theme": "Chine/Taïwan",
@@ -4138,10 +4162,10 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrdkFTR0p3X0hTWE1EbUtJU1UwVWFSVVZpUWRmd0hlRGdQVTlyTmt6VTkyN2d1bXdmRzNqLV9GVldLYk40RE9XNlRGeW13bTRSUmNz?oc=5",
    "published": "2026-10-30T03:02:09+00:00",
    "id": "6271a8e53962",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "taux",
+   "raison": "Inflation australienne et RBA hawkish soutiennent les rendements mondiaux, pesant marginalement sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Heightened expectations of U.S. rate hikes, driven by stronger-than-expected PCE data, have weighed on gold prices, with the metal oscillating around the $4,000 level.",
@@ -4162,10 +4186,22 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFQd1NuZnc2MUpLVVpyTFlrNUVfTlNwZUFuYkN6QXd4OE1tR0M3bDB2UTdXQjlKcHFUVmszTmhqRnFoSFFKbHVhenNWTDZwZjJ1VEEwTnp0LWxhZk5DR216WTFTNHFhdkQzTGFmT3ZyMGU4Z1A1Z2NBR01GWmprOGVkSmRYc21lSV9sLUhlZWRxQms4T0RHZjBRbEZfYUVQV2l6WEY3TDMtSUp0ZHAwNC04OUx5Mk5CWVMyQldCc0FIbEVBSlRkNVZn?oc=5",
    "published": "2026-10-30T02:56:28+00:00",
    "id": "d36516ee2314",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "taux",
+   "raison": "Anticipations de resserrement en Australie, impact baissier très faible via les taux globaux.",
+   "method": "IA"
+  },
+  {
+   "title": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+   "source": "Bloomberg",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUN6SVNKYlRQbEVSTHhPbWNJZEltZHRnb2FKUU1ld285b0ZNaHhReVF5NmZPUkNXbEF6ekg2TU96VmJqbXlTVFlSeG9IN0I4bEt6RlljWlhYS05ITEs3dERHMDZia3ZVenRDaHNHc2hyNUhXaWhkNkJPOHNBTGlSNXJIMjhsMkRYODhBSlNLeGVHVTlQRE5mbzhJSEd0bXZFdjJfUDBfbmd1UGEyTlVzdUd6bGU?oc=5",
+   "published": "2026-10-30T02:50:00+00:00",
+   "id": "4b98df3a1545",
+   "impact": -2,
+   "cat": "taux",
+   "raison": "Le maintien de paris restrictifs sur les taux freine le potentiel haussier.",
+   "method": "IA"
   },
   {
    "title": "Gold and silver sink as strong US GDP revives Fed rate hike bets",
@@ -4174,10 +4210,10 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONmo1dlpvbkppTm1lR185WnZ6c1BfaTBFVjd2Wk15ZDdLNFd2YU5vSlVvaTktQ2JhQmtUMHJBdGpRMkJWSzhZajhnbHZlZ2VEeG5EYTctVDk1VGZ2bmN3b1RRY0l0Zm42N1pObW1nb25qRk5SNzRHUUtEQmxsY093Z2ljcnoxYXl6VUYzbzBNMFBxQU1DX0U4?oc=5",
    "published": "2026-10-30T02:49:52+00:00",
    "id": "5854555cf26b",
-   "impact": -8,
+   "impact": -5,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "PIB US fort et anticipations de durcissement monétaire renforcent le dollar et les rendements.",
+   "method": "IA"
   },
   {
    "title": "US tells allies to prepare for possible Iran strikes after midterms",
@@ -4200,8 +4236,8 @@
    "id": "7738fb922a08",
    "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque accru de frappes sur l'Iran stimulant les achats d'or comme valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
@@ -4258,10 +4294,10 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzRwZjRhSTRCWExya3Z3cXViLVE1MVRNT0hLOGlQUFBidEM4eVdBM0VkRWdKVU9pa1VDdTduV2F1X3dSMldRcVJ5RDY0UVItSFhTWWVYbzBraHZOZU12WU0xUmZCR1paTW9wRmV1bVdLTTZVX0tmUDdSbE16ZGtDNk1HWExsbEx6TG9QNkVGR0hBRDlscU1NaEVtRy1OaEI1RjRkaGxzSjhJMTVhOXpxcGl1TS1wWExHZ3c0QkFJMU1YLWhn?oc=5",
    "published": "2026-10-30T00:28:00+00:00",
    "id": "d3556e869f83",
-   "impact": -4,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "raison": "Désescalade partielle en Ukraine réduisant temporairement la prime de risque géopolitique de l'or.",
+   "method": "IA"
   },
   {
    "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus",
@@ -4396,6 +4432,18 @@
    "method": "IA"
   },
   {
+   "title": "Fed plans to reduce annual interest rate decisions; Wall Street warns of heightened volatility in the $32 trillion U.S. Treasury market",
+   "source": "Moomoo",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDcxT2pINFl1TVVaT3l5aGNUa21yTGFXTzVlbk9ObGlqaUZscTNrUWQ2MnhxeFNnVEVSdzJHVVp0MDBvcGswU3E4cnhTXzJsaWl2NUw5VW5scVV3WF9FWF9yT25yaFBONFpFN2RQdWJIYkRveWlSTnZVU1RNdnRiXzZOSE5RR2hodmlIOHZqaDFFSlNBNEdfTkpTRUZ6d0hHbUxrR2NNS09BUQ?oc=5",
+   "published": "2026-10-29T22:55:08+00:00",
+   "id": "aea382c8ce29",
+   "impact": 2,
+   "cat": "fed",
+   "raison": "L'incertitude et la volatilité sur la dette souveraine soutiennent la valeur refuge.",
+   "method": "IA"
+  },
+  {
    "title": "US envoy says Iran talks ‘very close’ to agreement on de-escalation process",
    "source": "Middle East Eye",
    "theme": "Moyen-Orient",
@@ -4510,10 +4558,10 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uVUpCcGFqRXZhVkxfNTBhcWpHUmJ6eHVoWE9NeHFxSlVZQUNiaE0yQmROdHBJSzhxcUgwUGo5bGZ1dXVyaWJJb2xsaDJLNzJGYU1BSFZ4ajEyb0E3cm5mdG11LWVrLWs?oc=5",
    "published": "2026-10-29T20:49:29+00:00",
    "id": "71e8c9f9f8d9",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Apaisement sur les tarifs douaniers avec le Canada, affaiblissant légèrement la demande refuge.",
+   "method": "IA"
   },
   {
    "title": "Putin’s quest to reclaim ‘historical Russian lands’ is a recipe for endless war",
@@ -4582,10 +4630,10 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZ6MUpQX1d3VEpvYjUwWWlJZ2RmNEY2WTk3YldIRVpVRFBqcVdodzhjZzd4QjdUQmlWR1VDRnUyQ0VGLTd4Qk1vMHBpZzZYNldWTFdZdWprb3hVQkMxSnRNTWQ3MVNSU2t5NXlLUWlIOTlPQTFabkRhTnp5UkxtQjdFT09WVGhjdnZMMzdobG5sZw?oc=5",
    "published": "2026-10-29T19:46:53+00:00",
    "id": "e2641461b4c7",
-   "impact": 3,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rappel des tensions persistantes au Moyen-Orient maintenant un soutien refuge minimal.",
+   "method": "IA"
   },
   {
    "title": "From the Iran War to Gas Prices: How Foreign Policy Is Driving the 2026 Midterms",
@@ -4598,18 +4646,6 @@
    "cat": "géopolitique",
    "raison": "Rappel des tensions géopolitiques persistantes et du risque inflationniste énergétique.",
    "method": "IA"
-  },
-  {
-   "title": "How War, Tariffs, and Other Foreign Policy Issues Could Affect the U.S. Midterms",
-   "source": "Council on Foreign Relations",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVlPVkVnYnAxQlg3WXpENjk5YlhnM1M5eXYwYm9hektFZjNEeHU5ZkI0NVZCVzBZR25jdmJSdVFnVW1jOUZnUVV6Tm1aVFpMdG9MVGpMYjNPeGxDX19RSWxEdFRQc3BXenktMkpMVUhPNHZHNURzek1sdmgxemwtYmtLTmduSzdlZTA0UG12YTFhc3ZOT0pmRjkyTXBNRXJyWTgxeFg3MnN2VmNN?oc=5",
-   "published": "2026-10-29T19:33:03+00:00",
-   "id": "90d0c92b8e17",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
   },
   {
    "title": "Exclusive | Top Admiral Briefs Trump On Iran Attack Options",
@@ -4966,10 +5002,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGFQQjcxZ1I0dlhqVTd1U0NkY0h6SkVGMlAzdTBIWnNKN1pEMUx0MlNGTTA0TU9CcENXd24wQjdoRV9Va0hIaGRxZzUzRkhFMlJIbUh5dU0wandfS1NIQ1FybFJRczdfakJKbnlnVmNmRnlvRnlBYTBZZlExNXVKcGJERGJlNXZ2QkU4QkxWeklnenhibUY2cERlR1NCU2VmS2lDVHNvU3NleTB3STRYSFB3?oc=5",
    "published": "2026-10-29T15:08:32+00:00",
    "id": "68b639c62997",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspective de nouvelles frappes contre l'Iran ravivant la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "US moves Patriot missile defence system to Israel amid preparations for possible Iran strikes",
@@ -5218,10 +5254,10 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fc2JQQXhkME04WG1NQ05ESF9pZHlRQ011UTZIdFpScnJ0ZTZXTGFXWEZya19xVTZnMmp3V2hzSlFScUllODZLbmVBcEwzX3dpcXdORW5UNjIxTVFuR3UxdnZQM1FFdlBxMnl3SV9LX1JCRW05WWFIaTBVZ0FidUE?oc=5",
    "published": "2026-10-29T12:37:10+00:00",
    "id": "0b568718b15d",
-   "impact": -3,
+   "impact": -4,
    "cat": "inflation",
-   "raison": "baissier or (inflation)",
-   "method": "mots-clés"
+   "raison": "Core PCE supérieur aux attentes repoussant les baisses de taux Fed et boostant l'USD.",
+   "method": "IA"
   },
   {
    "title": "Yemen escalation kills nearly 1,700, injures over 7,000 since August: UN agency",
@@ -6409,42 +6445,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Détente diplomatique au Moyen-Orient, réduisant la prime de risque et la demande refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump confirms Vance penned letter to top Iranian official as part of latest peace talks",
-   "source": "New York Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODJBYndnOWw0X09TRTFBa1ZmN1RVcWlwanVOeTYxdWV5ZW9jdG9MTUJWUjVud2R4NWtxMXhKam1jZW1UZjAzUnRQVXJ6cWM4WVZSUXFpWEhkeDVmVktuTFVNTEpVSlR0dVk5VnNicmZvWjVaamlPNVN1R2FnaElQZ0RZSlJLaGx4WVRzeDRqQnVaODdxUWhpVDFqdW1yNzNWVUE?oc=5",
-   "published": "2026-10-29T00:36:00+00:00",
-   "id": "01129280d0b8",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Confirmation de pourparlers avec l'Iran désamorçant la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Tom Lee Says CPI Could Be ‘Pivot Point’ For Markets – Sees ‘Pretty Sizable’ Stock Rally If Inflation Cools",
-   "source": "Stocktwits",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdBTzJVdG1peUtzVXJuVXZZdjhTXzFzRTdTRVNOTFFYdTJlaXV5ZTI4dlFyc19EVGxvVjVGdGJ1dHFWUlpnYWp5VlZoLS1KVENHelR5V05KOFNMcXYtQ01LU0dMUDRjVlJSaVh2bVVIaS1QS1pxbnBPczFzcVFOenZmWlozcmFlaUlyZ0llbVd4ZGJseHM3eVExclJHdGlVRUFBcmJib0F0WUxITU1xZjAwZ3RuTEVQME90X1VJNjdUS3VOYjhPRlZzZk8yZHc0TTBfTGxSaWpkVERmYUE?oc=5",
-   "published": "2026-10-29T00:35:34+00:00",
-   "id": "247ebd354704",
-   "impact": 1,
-   "cat": "inflation",
-   "raison": "Refroidissement espéré de l'inflation confortant de futures baisses de taux réels.",
-   "method": "IA"
-  },
-  {
-   "title": "US oil prices fall as investors gauge risks to Mideast supply",
-   "source": "Yahoo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTk3aFRZLWlqbTFLeE5MMW9NYTBHUVZfcTNsMGtWeEZaM2NWekVBTkN3X3kwRjh2RkUzMXNSaHdlS0tDWFNNeTk5TUFoVTJRUUFJYS0wT1dfNVA2WEhTaGdUaVZIaUdOa1Z0ZVp6bHZfTWplV1RCWlQ2OVFtZXp1WkdoeHNUdXhqcGdTZ2Z3?oc=5",
-   "published": "2026-10-29T00:27:00+00:00",
-   "id": "4c9a31c6827b",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Baisse du pétrole réduisant les tensions inflationnistes et la prime de risque géopolitique.",
    "method": "IA"
   }
  ],
