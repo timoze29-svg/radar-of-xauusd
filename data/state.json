@@ -1045,8 +1045,6 @@
   }
  },
  "seen_news": [
-  "f647a0386e2b",
-  "eace6259f17c",
   "1aed5afd989a",
   "531a71bb7b8d",
   "724f5bf5c3b6",
@@ -4044,7 +4042,9 @@
   "90d0c92b8e17",
   "71e8c9f9f8d9",
   "2023519f78c7",
-  "d95429d97a04"
+  "d95429d97a04",
+  "0b568718b15d",
+  "627c6b5e9b99"
  ],
  "news": [
   {
@@ -5114,6 +5114,18 @@
    "cat": "géopolitique",
    "raison": "Répétition de l'attaque sur la gare, prime géopolitique déjà intégrée.",
    "method": "IA"
+  },
+  {
+   "title": "US core PCE inflation rises, exceeding forecast",
+   "source": "Crypto Briefing",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fc2JQQXhkME04WG1NQ05ESF9pZHlRQ011UTZIdFpScnJ0ZTZXTGFXWEZya19xVTZnMmp3V2hzSlFScUllODZLbmVBcEwzX3dpcXdORW5UNjIxTVFuR3UxdnZQM1FFdlBxMnl3SV9LX1JCRW05WWFIaTBVZ0FidUE?oc=5",
+   "published": "2026-10-29T12:37:10+00:00",
+   "id": "0b568718b15d",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
+   "method": "mots-clés"
   },
   {
    "title": "Yemen escalation kills nearly 1,700, injures over 7,000 since August: UN agency",
@@ -6433,18 +6445,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Menace concrète de frappes contre l'Iran renforçant la demande d'or valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
-   "source": "investingLive",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnFMV3cyNVJJMVU1LWxwRFcycXY2S0F3LVE0T0dsM19KanNxY3p2bng3bGlvVTk5MnphMjIxOFJCRHUwcF9XSzlhclMzWDR2U05ibWhrSG9qLXZGZjd2dU40SWE5S2YtWUVWOVFtZXBvM2lsRlBxRkEwVElPOUF2YjNyd3BYUGtTanBMWjJHa2ItUnFubGs5b1dUcW1XWkQyT1RSOTV1U1RVSVdEZHlyUnpDQUo1QzRZYmc4ek9wNms5SlhpYWU3cUZqLWJpdw?oc=5",
-   "published": "2026-10-28T22:41:36+00:00",
-   "id": "2ccab504f223",
-   "impact": -1,
-   "cat": "or",
-   "raison": "Constat technique baissier actant la pression conjointe du dollar et des rendements.",
    "method": "IA"
   }
  ],
@@ -8038,9 +8038,11 @@
   "big|SILVER|2026-10-29": 1793323015.1749418,
   "news|9de595bf6ed1": 1793323908.426032,
   "news|5854555cf26b": 1793329299.7606447,
-  "news|68b639c62997": 1793330166.2513154
+  "news|68b639c62997": 1793330166.2513154,
+  "brk|GOLD|pdh|dn|2026-10-30": 1793333773.8319035,
+  "brk|DXY|pdh|dn|2026-10-30": 1793333774.7443833
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8285,6 +8287,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T04:16:15.626191+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -11)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+12), Fed (2 ans vs taux Fed) (-9)"
+  },
+  {
+   "ts": "2026-10-30T04:16:14.744450+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 101.85 → prix : <b>101.74</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.25 | 60j -0.44"
+  },
+  {
+   "ts": "2026-10-30T04:16:13.831976+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 016.30 → prix : <b>3 999.00</b>\nATR jour : 68.2$ | Pivot hebdo : 4069.4\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 682 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
   {
    "ts": "2026-10-30T03:48:27.288930+00:00",
    "kind": "bias",
@@ -8569,21 +8586,6 @@
    "ts": "2026-10-29T14:16:09.693543+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live Updates: LIVE: Iran-US war</b>\n📰 Business Recorder · Jeu 29/10 12:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSHl0eU1BSjNISDdIZVRJOEJuaHlycEtBbzJPQlpPZnVTdV9lcDh3M2xfeHp6eWxmTWlBcEpPb0o5dG5oUmR2eHFtZFVRUGR6ZGhJMTR1RDZWZw?oc=5"
-  },
-  {
-   "ts": "2026-10-29T14:04:56.200860+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.991 → prix : <b>4.974</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.12 | 60j -0.17"
-  },
-  {
-   "ts": "2026-10-29T14:04:54.886180+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel prepare weeklong bombing campaign against Iran – Axios</b>\n📰 RBC-Ukraine · Jeu 29/10 14:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTA0cmNfT2dqU2tyWnczNjN2bnpXUTk3b2hsRjkzZGgwTE94RHp3SVBLYzBTZGpEMkpvRGphQnBWLXhjRkgzczZ6c1RTWTBsZndEb0RyNHU0VFBVYnlXQ0pCbnJfcVF6V0E1X0tEdnNPWERrSHhDM2lVVHMwTDIyQmR4Z1hSSFhSQzQyT3VCdXV4bVFWbXJfa2otVQ?oc=5"
-  },
-  {
-   "ts": "2026-10-29T13:46:12.743233+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Main Refinancing Rate</b> : prév. 2.65% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>Monetary Policy Statement</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.04%\nTaux 10 ans -1.6 pb\nOr +8.0$ (extrême +11.1$, range 16.0$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
