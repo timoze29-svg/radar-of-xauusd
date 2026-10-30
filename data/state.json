@@ -1056,8 +1056,6 @@
   }
  },
  "seen_news": [
-  "acbfddce7b01",
-  "740d500da1e6",
   "f3016aab55b4",
   "9373b2faf829",
   "0d2e463034a2",
@@ -4055,7 +4053,9 @@
   "2fbed9b95586",
   "d3d74f5a5866",
   "031a044ad91b",
-  "8687a4f51eff"
+  "8687a4f51eff",
+  "cc945533d07c",
+  "b0b911f2c76b"
  ],
  "news": [
   {
@@ -4066,9 +4066,9 @@
    "published": "2026-10-30T20:30:21+00:00",
    "id": "8687a4f51eff",
    "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "cat": "géopolitique",
+   "raison": "Politique locale taïwanaise à long terme, aucun impact sur les flux or.",
+   "method": "IA"
   },
   {
    "title": "Houthis target Medina, Yemen's presidential palace again in fresh escalation",
@@ -4077,10 +4077,10 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHZrZXpEZzNHbmZzQWhTUTZVSzdoZWF2ZnVUd0habXQ3MEUteEtBMDJOS2UyQTlCUHlpVHItQzFvRGwwRGFXMUJ3YlZMOUVBbDctdE5rMzJGOHdybXNCUlROdXNGNmtwMjkzT1FGTkN4djVMNmRiNV8wdmtrd3Y3b2p4TnBJZ2pRelV1Q0txUHpPVUJhWWh5bXhLZlZDQUJXSjBtcTdVRFF2R3RQYUc3Y2FLSGpfU29nVHlKQUtFNkJETVo2TGU0UVhWbjk5RWg5aXhLZ3VwbDVXUlnSAeABQVVfeXFMUFNVMkpCd2hscjBsU244QnhKZk42ejQ4bjF1NC1QSTdOazB4N0VyeFIxVS1oV3pNTlI2bkRyXzU4SUFjYXNwUFBVQ2dYU3dfeFp3VjItOXhWeXpVcmpPU3V2OFYzMDZzbUNkdExmelp2X1RLRmJQX2hvZUwtbDJqQ0lFVHRwV1c4QjhJUEtmZEM0dXRaZkhxbTNSa0VwR3RzaC1CQnU2SFA4N3VQZHJTZjZ3ODZaazlPbGpXcXMtV0lwNXhDNXROT0pXbmhqak9IQ3FRSUVvcjRpdm1ka1cwOU4?oc=5",
    "published": "2026-10-30T20:26:32+00:00",
    "id": "2fbed9b95586",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Escalade militaire au Moyen-Orient renforçant légèrement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Residents evacuated from Russian-occupied Oleshky during U.S.-brokered ceasefire",
@@ -4089,10 +4089,10 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXNsNTItVHM1OEhvNXlncGlVVWdzbFZwNHdyR01ZNHRjcEZvV0o1RnF5XzgzYmttS3dZQk5uWFlFZTVvM1AyVzU3NHlJN0RXMWR1V2ZmU1BmQVpTRklBTzVmM0U1OHJtVFZTMFlMQ3ZreDZvV3M5MndPNGxNX2hNd3JaRWIwQQ?oc=5",
    "published": "2026-10-30T20:16:38+00:00",
    "id": "031a044ad91b",
-   "impact": -5,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Cessez-le-feu négocié réduisant temporairement la demande pour la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump says Iran war will end soon, US military insists Hormuz is secure",
@@ -4155,6 +4155,18 @@
    "method": "IA"
   },
   {
+   "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices",
+   "source": "NBC News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhodndJTm9MRlp4bnZKWjNpSmlKa1I1VUJON1d4NnFHcVdGeVpmb0JHalhYdGFma3NjOUdJN05wWnk1U3RfenFvUi1nVENLcG91VGZFTlF4WjJpZ1RyS1I2RjEwdGJINUYtSUZmQ2NEQXpPTnE3MDJ3OXB6M3FLSWhwYnU0UVpsWHdGa1prN29ZRDBRUEtTQW03WGNZZmtV?oc=5",
+   "published": "2026-10-30T19:06:03+00:00",
+   "id": "cc945533d07c",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
    "title": "Another Russian refinery is aflame despite Trump’s warning to Kyiv",
    "source": "The Washington Post",
    "theme": "Russie/Ukraine",
@@ -4209,10 +4221,10 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjNNdkw2ZU5oS0lBSnFFNmpCOGZtbXh4cWVIT3J2Wl9sZzJ2LV9LWC1pSnBsN2E3bEZ0aDk4N3BUVXF3Y09PbzhKci1scTBIMHVJQUdoejdGd2xHNWdSQmpTenl5NEdpTW1udDVSdGd3S1ZNelJiTXJMZ0JLZzBta2FfbEM4UGZKLW9sbC1JOHJ1X0lRTENkaWpWOHA3Q3QtdVcwSWN6Nk9QNDhGV1NhakdvR1ZvZw?oc=5",
    "published": "2026-10-30T17:41:18+00:00",
    "id": "d3d74f5a5866",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "fed",
+   "raison": "Incertitude accrue sur le fonctionnement futur de la Fed, volatilité favorable au métal.",
+   "method": "IA"
   },
   {
    "title": "Trump Says Iran War Will End Soon While Qatar Carries New Terms to Tehran",
@@ -4557,10 +4569,10 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnU2NkJRbGtnYmg5dFVWVk1lSDJsQWN6cmU3cjBIbkdFY1NsZm5ocW9wb2p5UVFuZkpGMkZQLUQwUU9fSksyR3k4NlU1Q2wxTDhTeUpvMGcyTWRxamhmLXpsRTZqVjg1WnFDbXdROElGbnFIdkFRN0xnUUZVVWVIMg?oc=5",
    "published": "2026-10-30T13:01:04+00:00",
    "id": "3fd7f3823b6b",
-   "impact": 6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Mise en œuvre d'une trêve locale réduisant marginalement les tensions géopolitiques.",
+   "method": "IA"
   },
   {
    "title": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
@@ -4593,10 +4605,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSmQ5alhCeHRlYUgzRWhfSmRhX3BUMGktZWtmMUxXaENCd0ZJRUFPdk55THVoWjNfUVByYzdRTHlsYVBQZm1za3dDQ19oMFJSM3o3VFl4Tlh6VS11MXpEdTFSdGZzU1hQMF9MY2pRbkJwQkJBNnpTdU9rZjh4eWh6bGRUX29Yb2l0QmY5Tkh4QnhBYmpQTVZBT01DWUJobFhKdTdVQ0pXSDVSeFFEQlJ5R1ZQc0luWXVpM2Zn?oc=5",
    "published": "2026-10-30T12:52:14+00:00",
    "id": "e67470b2b1ff",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -2,
+   "cat": "or",
+   "raison": "Momentum baissier et craintes que le pétrole cher ne retarde les baisses de taux.",
+   "method": "IA"
   },
   {
    "title": "US Dollar Index falls despite hawkish Fed outlook: Why is the Greenback struggling?",
@@ -4653,10 +4665,10 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVQUNkNFlsdU9MYkNVUnpGaXZJd29JdEtkSFB0S3NVVGtLTzRNZWRKMHhTOTdwUWpGLUtONmswVE81d21aMFlIa205WXo0V3N2Zzc2a3hxNmN3Um8?oc=5",
    "published": "2026-10-30T12:08:00+00:00",
    "id": "b5cd0701a76c",
-   "impact": -8,
+   "impact": 2,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Moins de resserrement monétaire anticipé par ce modèle, baisse des rendements obligataires.",
+   "method": "IA"
   },
   {
    "title": "What is happening in Oleshky, the occupied Ukrainian town at the center of a Melania Trump ceasefire?",
@@ -4665,10 +4677,10 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGF1MDFIYUhFUU5FM2RxQ05CSWJ5LWpWb2lTQk51ckI3bERLcVdDU21Zdnc1Q25BV1BiSzd4bHNUSWtnZllvam1zQ0tWZ3pqU0djazFyZmZEMlRlV1JsWWd2aEZycXNUbFRzYjdEUDJOM0NzWWFuck82MTJTdVZhRHh5eU9QWTZWZzhNTS13?oc=5",
    "published": "2026-10-30T12:05:01+00:00",
    "id": "87eb03f3976f",
-   "impact": -3,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Médiation et cessez-le-feu diminuant légèrement l'aversion au risque mondiale.",
+   "method": "IA"
   },
   {
    "title": "Hundreds evacuate Ukrainian city of Oleshky under Melania Trump-brokered ceasefire",
@@ -4677,10 +4689,10 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGF1MDFIYUhFUU5FM2RxQ05CSWJ5LWpWb2lTQk51ckI3bERLcVdDU21Zdnc1Q25BV1BiSzd4bHNUSWtnZllvam1zQ0tWZ3pqU0djazFyZmZEMlRlV1JsWWd2aEZycXNUbFRzYjdEUDJOM0NzWWFuck82MTJTdVZhRHh5eU9QWTZWZzhNTS13?oc=5",
    "published": "2026-10-30T12:05:01+00:00",
    "id": "f47cdba0342e",
-   "impact": -6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Trêve opérationnelle confirmée, érosion graduelle de la prime de guerre.",
+   "method": "IA"
   },
   {
    "title": "Trump on Iran War: It will end soon",
@@ -4713,10 +4725,10 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3c0TGs4Z3lJR01uU3BrOFc0cUowblFNU0VydjVwV1luTDFPckFpNU1Bamh3YmdIS2VyQ2x0aTNUMnExWkZ2ejhVOUtVMzd4RDNEV2Z3cVhGcURmRkJrTUVieHhDVkQ2N0JFUThOdk1GNTIwZkpiQXBoUE5VS1VhSW9CTkNwVUhBZXNuMWJ2bDVycGl6bTZJ?oc=5",
    "published": "2026-10-30T12:02:31+00:00",
    "id": "7b15540891b6",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspective d'une fin rapide du conflit iranien, débouclement des positions refuges.",
+   "method": "IA"
   },
   {
    "title": "Trump on Iran war: It's going to get wrapped up soon",
@@ -4849,30 +4861,6 @@
    "cat": "inflation",
    "raison": "L'inflation persistante soutient l'or mais l'horizon 2026 limite l'impact immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
-   "source": "The New York Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNiUjUzdFh6a1pRNzRJazBScGR1cVkxRDRqMnYwUFRleGRlWTZZYWdTRGRsVkZ6Y1NldWRNeHV5REJLc3VvR0h3UlRUcVY2Rl9jS3VxTXgxcnZ2Zjcta0tqSUtLRERVZ25xZ3pTN2V0Y0JDZDdOZVNDazBubGQtR2gwbDMwZ0QxeEYteGdXbEY1WlhubnFiWXZXQThWUFhXdkRxVQ?oc=5",
-   "published": "2026-10-30T10:35:33+00:00",
-   "id": "8cedf8c013ab",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Polish inflation falls more than expected as core pressures weaken",
-   "source": "ing think",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDBkUkxESGdRaW5aclo4ajhpNEJHT2lxUDhHVWJOUkhKbm5RRlJ5RDVTT3ZhUVJSWllHMXU2Z1lFS1RMS3U5UmoxZjNSS2doUDZfdXY1SmVyVF9GZWpCcVNsaEtIQTVnRmZOR01JVk5lMFkyNzREYzFzajNQTG9MNXpDWmRRaTlmWlByRjJmWWJEeWJ4SGFOZUJiTmd6aEZYNTJ5VmM4MmNNamFU?oc=5",
-   "published": "2026-10-30T10:21:15+00:00",
-   "id": "1c2f276cbe3d",
-   "impact": 4,
-   "cat": "inflation",
-   "raison": "haussier or (inflation)",
-   "method": "mots-clés"
   },
   {
    "title": "Commerzbank Says Treasury Yields Up as Technology Stocks Lead Broader Sell-Off, Brent Oil Gains",
@@ -5049,10 +5037,10 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFM1aDFZOUctUnRuU1duTVBROHhDMFB0QllYd2Q1RmtWMzlJQndMRjJSWjB2TUYyWjdQcW9zQ0d0cWdBNzJZNUE5R3NSYUdGaVlCTFlJNlV0dHJvMTNrc2xGSHhrbW53R0ZJemYtMkNZamxlbmlwNjd0NE5LbEpTdkxxNmRCSWVPcW9Qd3RoeGFiWU02NklmRllfT1RfejVW?oc=5",
    "published": "2026-10-30T09:15:54+00:00",
    "id": "86f305aa5e37",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rhéthorique apaisante limitant le risque d'escalade prolongée au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "US-Dollar-Index-Kursprognose: DXY kämpft nahe 101,75 inmitten fallender Anleiherenditen",
@@ -5161,6 +5149,18 @@
    "cat": "taux",
    "raison": "La baisse des rendements obligataires soutient mécaniquement l'or sans rendement.",
    "method": "IA"
+  },
+  {
+   "title": "Treasury yields fall as investors await more economic data",
+   "source": "CNBC",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUzdmdnZUZHUxOE1CV0xGYzQwOENIc2xvcmdfSTVhWklWMkRRLUkwQktBdURkcHo1cVZHWmlzc1RBUFV5QlljNFJYajlRMGtlUEUwYTJ5LUtqZ1luS29qSDI0aGI0YUMxMjcxNFhQcG5xcW52Rk5wQmwzNEdYMGPSAYQBQVVfeXFMUEVTdlR1RDZpc1ZDalJPOXdkeWMwbFFnZnNzVVUwdEdCY0d6R21ZbTF4Q21LdE5MQTh3dW5feVg3cWxPVEZyQTlHT1ZpYzBzUm5uYkNFTWVmb0EtNjcxdVZOakFZWjRVZmFkTFRzQ3QwZ1Z2RTJnWnFwc0lMYTNoZWd6aUMw?oc=5",
+   "published": "2026-10-30T08:09:48+00:00",
+   "id": "b0b911f2c76b",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump holds off overcapacity tariffs as US midterms near",
@@ -5721,10 +5721,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
    "published": "2026-10-30T02:27:00+00:00",
    "id": "53f1ecccb72a",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Attaques maritimes soutenant les anticipations inflationnistes et la demande de couverture.",
+   "method": "IA"
   },
   {
    "title": "Breaking: 2.8% in October as Japan’s Tokyo CPI inflation rises",
