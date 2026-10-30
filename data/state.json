@@ -1045,14 +1045,6 @@
   }
  },
  "seen_news": [
-  "6dec3ea70514",
-  "976d0c62bfa3",
-  "04a2d4faa6a5",
-  "3524b8b57907",
-  "376dbf13cc91",
-  "16b81ca31cfe",
-  "4a37ece3b370",
-  "a7dc6bb8e544",
   "3b5241368d58",
   "00835687fcb0",
   "9c71ee89987e",
@@ -4044,7 +4036,15 @@
   "73e8ee4e9fcf",
   "e132d071f602",
   "1a00e8e6dc7a",
-  "f82b66a2a581"
+  "f82b66a2a581",
+  "6eb220f3e7c4",
+  "88b0385217eb",
+  "7180096d216b",
+  "a844fe7f098b",
+  "3fd7f3823b6b",
+  "a8eb1c574729",
+  "bf49bee72bff",
+  "261bd99b0ebe"
  ],
  "news": [
   {
@@ -4235,6 +4235,18 @@
    "published": "2026-10-30T13:01:59+00:00",
    "id": "1ca4844c1704",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukrainian lawmaker says some residents have been evacuated from the war-ravaged city of Oleshk",
+   "source": "Boston Herald",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnU2NkJRbGtnYmg5dFVWVk1lSDJsQWN6cmU3cjBIbkdFY1NsZm5ocW9wb2p5UVFuZkpGMkZQLUQwUU9fSksyR3k4NlU1Q2wxTDhTeUpvMGcyTWRxamhmLXpsRTZqVjg1WnFDbXdROElGbnFIdkFRN0xnUUZVVWVIMg?oc=5",
+   "published": "2026-10-30T13:01:04+00:00",
+   "id": "3fd7f3823b6b",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6434,18 +6446,6 @@
    "cat": "dollar",
    "raison": "Un dollar fort pèse mécaniquement sur le cours de l'or libellé en USD.",
    "method": "IA"
-  },
-  {
-   "title": "Gold drops 1% as US PCE inflation strengthens case for December Fed rate hike",
-   "source": "FXStreet",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNOVzAtejhZWTl2QlFRUG1kYkN5SzI3ZDZsZU1MS1dveGFKaW9vczFvZHF2REFGQ0JHX3hranA0eXJWR3paN1NQU21uZ3hXRV9HSDd2dVFfLTZnaWk5RUI2QkxSWVlvMXNla2luVXM5TTdIVHVhRklSbFNrMmFNRDJ0RkhRVGsyVDZaWGtPTEc3dWlzNmMyemR4MlBacFNqeGhXcTlxMmZZdw?oc=5",
-   "published": "2026-10-29T13:04:37+00:00",
-   "id": "6bc0dbfc2195",
-   "impact": -5,
-   "cat": "fed",
-   "raison": "Inflation PCE élevée alimentant les hausses de taux Fed, très défavorable aux métaux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8078,7 +8078,8 @@
   "news|1ca4844c1704": 1793373367.9366765,
   "pre1h|2026-10-30T12:30:00-04:00": 1793373369.1023448,
   "news|62dffc567b2f": 1793374289.0978303,
-  "news|7b91930c3b60": 1793374290.218851
+  "news|7b91930c3b60": 1793374290.218851,
+  "pre15m|2026-10-30T12:00:00-04:00": 1793375351.4869282
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8341,6 +8342,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T15:49:11.486990+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>11 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
   {
    "ts": "2026-10-30T15:31:30.219077+00:00",
    "kind": "news",
@@ -8635,11 +8641,6 @@
    "ts": "2026-10-29T21:16:34.547576+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Washington Warns Allies of Possible New Strikes on Iran After US Midterm Elections</b>\n📰 EU Today · Jeu 29/10 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQakRHWnBfYTlBQlliQTdTeHRuUzhqd0lqaFFPUXNod2V2X00yMkdvSlNCbS1zXzduWTBScVNmdXlnb3hCbXFNZVBKdk1ZWUFEcG9lZUxzTWZDQzJzQzNkd1Rwb1VYOVd2UXhHdVAzZThJV1ltTlJVY1doTFdPVmVsdU90MFU?oc=5"
-  },
-  {
-   "ts": "2026-10-29T21:16:33.343743+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo</b>\n📰 Radio Free Europe/Radio Liberty · Jeu 29/10 21:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhWQXBvU0MtM2NLWUVrTlNXaGlVd21NMDctbG9iN1Jyd0MxTXh6RS01WUU2VW5rYlFzX3Z4N0RObDJxUl8wS2Z2YjRQVmo0NVdGaU9BclZKa2NwSWdxQ2dKZFZmZE85cDdEbmpqM2lldFZGNmgzckxCc3R2NVQ5MHhBR0p3MVQxRVpDUFFteU1HcWo3YXfSAZgBQVVfeXFMTWN3NVoyRUZHQ3RzMEk1UEVEVXlKM1l1enhMNGMtVlkySEd4c0taRXAzMnFRRTZ6STNlM0V2bzZ4dmVkZDRid3UyU2FxamJSWFZIeWRyVnRDTmN5OUR2TFk2ZjRZX3pKbzdMRDVIdHJyeExkdUIwaEZUb1NTTVJsWDBTMVJrOWhManFSdzVhbnJNU2s5a2NnbkY?oc=5"
   }
  ],
  "daily_forecast": {
