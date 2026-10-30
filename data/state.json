@@ -1056,8 +1056,6 @@
   }
  },
  "seen_news": [
-  "da9ab668ef5b",
-  "1d3f90fcc52f",
   "2c2c6a1c1eeb",
   "572683276e91",
   "bf1dc4274ac0",
@@ -4055,7 +4053,9 @@
   "a5605c0a58b3",
   "5e344adfdc26",
   "d1d7e9a08e37",
-  "7cb05a7349b1"
+  "7cb05a7349b1",
+  "8a93450fb279",
+  "c61e94ff82d9"
  ],
  "news": [
   {
@@ -4393,6 +4393,18 @@
    "cat": "géopolitique",
    "raison": "Trêve locale circonscrite réduisant très légèrement l'aversion au risque.",
    "method": "IA"
+  },
+  {
+   "title": "US Dollar Index struggles as tech sell-off overshadows hawkish Fed",
+   "source": "www.tmgm.com",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYUpRbXo5ZEJkdWFOYWdsekV6MjZDM1FfejExRVM0ME5uWlpfeVZIVmxHV1pYem5pcFoyVlE2dmx5SVdmbHFvUGNEZjlHZXZzUGpxVV90QzBxTUZodjhnd2NCWHFUaGpDSVhRdFEyX19fSno4a29qdGpHOVFPTVg5ekk5XzlkZ3gyUVI0TEdjS0VkY09tX3RpY0JsMDJ6eHY4QlVEc1RlbmJnNmFVWHRwR09JZjQ5S2pmbllpcWI4UDVfM00zM1owZTBKZWc?oc=5",
+   "published": "2026-10-30T15:45:21+00:00",
+   "id": "8a93450fb279",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Predicts Near End to Iran War Without Offering Details",
@@ -6445,34 +6457,9 @@
    "cat": "commerce",
    "raison": "Négociations privilégiées aux droits de douane, réduisant légèrement l'aversion au risque.",
    "method": "IA"
-  },
-  {
-   "title": "Netanyahu Signals Possible New Iran Strikes After Israel Vote",
-   "source": "الحرة",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIWW5VRDZlYkU5RTBmRlp2QV9IcF81enZuN2MyUVllQmJoUDBGUEVLVnl4RXB3ZENhZjAtOEpXZ2oyUQ?oc=5",
-   "published": "2026-10-29T18:46:40+00:00",
-   "id": "db78b948892b",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Signal d'escalade imminente d'Israël contre l'Iran, forte incitation aux couvertures refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|c7f916072001": 1791586562.3699586,
-  "news|8425af90e49b": 1791586563.4561913,
-  "news|907c331a14a3": 1791586564.4756575,
-  "news|3a84ea4f7b0e": 1791586565.4607587,
-  "news|2cf172b2bbf5": 1791586566.4433105,
-  "news|b09679022ca2": 1791586567.4346035,
-  "news|fcf3d3308141": 1791586568.4201488,
-  "news|7e8902155051": 1791586569.3972614,
-  "news|319fbcfe6d96": 1791586570.3927321,
-  "news|ec3e09f625fb": 1791586571.3814886,
-  "news|e9264c5b1717": 1791586572.3993363,
-  "news|83acb0e6d015": 1791586573.3800845,
-  "news|de2fe1c09499": 1791586574.3745978,
   "news|e1d2b14352fe": 1791598005.5658102,
   "news|f701fe0f9115": 1791598006.6423388,
   "news|5f50d75c4868": 1791598009.7708197,
@@ -8059,7 +8046,8 @@
   "news|0c0ab8881f6b": 1793396762.1052988,
   "news|b5424cb06e28": 1793398933.489386,
   "news|3e55d1008773": 1793398934.3600585,
-  "news|a5605c0a58b3": 1793400366.6855762
+  "news|a5605c0a58b3": 1793400366.6855762,
+  "news|8a93450fb279": 1793401292.4689176
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8322,6 +8310,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T23:01:32.468993+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Index struggles as tech sell-off overshadows hawkish Fed</b>\n📰 www.tmgm.com · Ven 30/10 16:45\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOYUpRbXo5ZEJkdWFOYWdsekV6MjZDM1FfejExRVM0ME5uWlpfeVZIVmxHV1pYem5pcFoyVlE2dmx5SVdmbHFvUGNEZjlHZXZzUGpxVV90QzBxTUZodjhnd2NCWHFUaGpDSVhRdFEyX19fSno4a29qdGpHOVFPTVg5ekk5XzlkZ3gyUVI0TEdjS0VkY09tX3RpY0JsMDJ6eHY4QlVEc1RlbmJnNmFVWHRwR09JZjQ5S2pmbllpcWI4UDVfM00zM1owZTBKZWc?oc=5"
+  },
   {
    "ts": "2026-10-30T22:46:06.685667+00:00",
    "kind": "news",
@@ -8616,11 +8609,6 @@
    "ts": "2026-10-30T09:07:31.386358+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms</b>\n📰 CNBC · Ven 30/10 07:33\n🧠 Menace critique sur le détroit d'Ormuz provoquant une forte prime de risque géopolitique. [IA]\n🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZMUhKdzZpUlk1T1d3d0tKckIxb055TmdyTFk3ckZtdFVZOGVYYWFGMXZ4U1VaWXNuUm0yVEEzX1ZXYzBNMFZGUWFaTE5PekJjVEpqRnEyaEx5YlJhY2xGLWVVOGlvVHZYV01aUnQ3SWI2TEJGbURBSG1hVdIBgAFBVV95cUxNTzJSUUREZC0xSTk0R1ltcGR2a2VfRzlaZGhYaWxjZG5qMnppMlJGYlZ0MXhDdmlSS3dmOGRkYkt0WktJQnNjVmJuTGtHRjE0RFB0U0dMN1ZES2NFMVU4dW9xanl3aFdMZUlERzU5RDQ0aGh3ZEtOTzl0Y0FMb3ZlNQ?oc=5"
-  },
-  {
-   "ts": "2026-10-30T08:02:48.680464+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas sur 20 JOURS\nNiveau : 3 989.10 → prix : <b>3 982.10</b>\nATR jour : 68.2$ | Pivot hebdo : 4069.4\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>38%</b> des cas (extension médiane 11$, 131 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
   }
  ],
  "daily_forecast": {
