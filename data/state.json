@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793379679.073024,
+   "ts": 1793384151.5534387,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -839,6 +839,17 @@
      "country": "USD",
      "impact": "Low",
      "date": "2026-10-30T12:30:00-04:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Logan Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-10-30T13:30:00-04:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -8089,7 +8100,8 @@
   "big|VIX|2026-10-30": 1793380572.613128,
   "news|13b378653881": 1793381670.9015355,
   "news|7b15540891b6": 1793382551.7006333,
-  "big|COPPER|2026-10-30": 1793383313.1791983
+  "big|COPPER|2026-10-30": 1793383313.1791983,
+  "post|2026-10-30T13:30:00-04:00": 1793384282.2572377
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8352,6 +8364,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T18:18:02.258241+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 48 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Logan Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans +0.4 pb\nOr -10.6$ (extrême -13.0$, range 14.1$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
   {
    "ts": "2026-10-30T18:01:53.179267+00:00",
    "kind": "big_move",
@@ -8646,11 +8663,6 @@
    "ts": "2026-10-30T00:16:09.302902+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Rushes Patriot Missiles From Texas To Israel As Trump Weighs Fresh Iran Strikes</b>\n📰 The Times of India · Ven 30/10 00:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOemdLZjl2S3pMSE8ydlpESC1pU05MbFl0bU1LRVRWQWItaHVuUWV0V1VYeU9id3A4SzJudUFEYUZ5c0MtWkh6SzJobXozTFY3U2tMTnpBRDlQT0dmNTFHbVFNbmJBM2dZVjlhV0ZiLXdZWjMySEtaRE41RlhJZDYzN3ZJY3RfSFRLejhWeEtCdFJybmdEMERoaTdPSFZydGdfeG1yRjk3RnEzd3haRmMydTRYelc0aUFaWUJjRi0ycl91RjB2RW1rbng1OFlGY2hCVnBxVUpqNGZPTDRnX2pXTkFIQUpJSTZCSUhKcHAyQ0tNUDJLTlpz0gH8AUFVX3lxTE9HOVNtSE02ZTh2aDZMY2dLQVdNWE1WOG50ZUk0NFg0TE5BZGNwbTlRSkM0VHlVVEFrNm9xWTg2ZUszM2ttU3Qybzl2NHpFbHdRSU13QjVWTVV2dFJ5dm1XTTI5ZlFnMEZCcnMwVGwwSERBNXVsY3V6bDFWbEpTbUFlVG54aUZiQ3VYMjRhbXBSNWFpWHZnT0JwR0JYamZ6bnpZdVgxQUpJNEZiWE5SVkQ1ajJmSERPdnk0R2VKdHhfVzB3OTI1NjMtY2NwVG5mdVNhQUZ4UHAwNlcxeFdqRHJsYWRZRDJOWU4zVUVLQlA1eERTXy1JUHlFb19VUg?oc=5"
-  },
-  {
-   "ts": "2026-10-30T00:01:45.939331+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-3 581 aujourd'hui = 1.9× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
