@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793353552.4592838,
+   "ts": 1793375382.726706,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793371558.6214573,
+   "ts": 1793375382.8192036,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -4037,14 +4037,14 @@
   "e132d071f602",
   "1a00e8e6dc7a",
   "f82b66a2a581",
+  "765b7fe96cc7",
   "6eb220f3e7c4",
   "88b0385217eb",
   "7180096d216b",
   "a844fe7f098b",
   "3fd7f3823b6b",
-  "a8eb1c574729",
   "bf49bee72bff",
-  "261bd99b0ebe"
+  "fa642e6aade6"
  ],
  "news": [
   {
@@ -4057,6 +4057,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Spot Gold Plunges 3% to Breach $3,900: What Caused the Drop in Gold Prices?",
+   "source": "TradingKey",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnJ4TmNNYlNoZGlMelZ2S3F1T3FUdGhKZUZVdkRRaGtJdlM2NWczVEthUFBjejM2LWtSZXRjSVpnY2JLenB1SUFMTWEtcnFJUUhZbFBRZy1aTEJpRVNoRkp4NlNsQWdPMFRKVTBQTWdIcHhFSVdSMmo2eE9mZjZTemZmcUJIOGVsLXMxNkMwN1VFOG5uRF9udktjVl9mWTdsNzZ2STdzZ3hFdktJdTlMNjMzTFhUcGpXR2lOclFDS3RJc3M0NzJBMzZmYk82OHJXQ3c?oc=5",
+   "published": "2026-10-30T14:50:12+00:00",
+   "id": "765b7fe96cc7",
+   "impact": -1,
+   "cat": "or",
+   "raison": "baissier or (or)",
    "method": "mots-clés"
   },
   {
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Accalmie très locale réduisant marginalement la tension géopolitique globale.",
    "method": "IA"
-  },
-  {
-   "title": "Above 102.00: US Dollar Index Price Forecast remains bullish as gains hold",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbW5hTHdTTlcyRVlaaEV3Z3A4b2FINzVYS2F5ZVZHMDdmNDQxN00xM19rbE1xZHA2ZFZwUkNxSkFIa1d2LTc5MWJWRWVMWWZLTzBmNGc4Yk1iZTVyY1JnTk1yaEwweXhTV19LR2NaQjdQb3UzSmZYOFFld3BHRjRJLWJhczFVdXdkZEZmNEt0NlJWZlZHaFpwZ0tjUjZrMk1OYmdkNG5tY1BlczJhMUx0WFJibmFISEw4RUtGSElWS1Rwa0ZzeXFQRjJaNTdWWVFZS21pR3kweEcwTFMxcWdwa1dsQQ?oc=5",
-   "published": "2026-10-29T13:09:27+00:00",
-   "id": "4b0f37bc1b92",
-   "impact": -2,
-   "cat": "dollar",
-   "raison": "Un dollar fort pèse mécaniquement sur le cours de l'or libellé en USD.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8079,7 +8079,7 @@
   "pre1h|2026-10-30T12:30:00-04:00": 1793373369.1023448,
   "news|62dffc567b2f": 1793374289.0978303,
   "news|7b91930c3b60": 1793374290.218851,
-  "pre15m|2026-10-30T12:00:00-04:00": 1793375351.4869282
+  "pre15m|2026-10-30T12:00:00-04:00": 1793375588.0254707
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8343,9 +8343,9 @@
  },
  "alerts": [
   {
-   "ts": "2026-10-30T15:49:11.486990+00:00",
+   "ts": "2026-10-30T15:53:08.025527+00:00",
    "kind": "pre_event",
-   "text": "⏰ <b>11 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+   "text": "⏰ <b>7 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   },
   {
    "ts": "2026-10-30T15:31:30.219077+00:00",
