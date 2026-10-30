@@ -1045,8 +1045,6 @@
   }
  },
  "seen_news": [
-  "b976e3af5f09",
-  "01cc7d125c8d",
   "7102fe8b380d",
   "7e24ec5c4a1d",
   "2310addf7377",
@@ -4044,7 +4042,9 @@
   "3539c9d51a6c",
   "95ebd361ad03",
   "b2ea24b813ac",
-  "261bd99b0ebe"
+  "261bd99b0ebe",
+  "87c1c6275b45",
+  "6e7fb9944816"
  ],
  "news": [
   {
@@ -8080,7 +8080,8 @@
   "news|62dffc567b2f": 1793374289.0978303,
   "news|7b91930c3b60": 1793374290.218851,
   "pre15m|2026-10-30T12:00:00-04:00": 1793375588.0254707,
-  "pre15m|2026-10-30T12:30:00-04:00": 1793376967.9686656
+  "pre15m|2026-10-30T12:30:00-04:00": 1793376967.9686656,
+  "post|2026-10-30T12:00:00-04:00": 1793377890.7320096
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8343,6 +8344,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T16:31:30.733147+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.03%\nTaux 10 ans -0.6 pb\nOr -0.7$ (extrême -3.8$, range 8.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
   {
    "ts": "2026-10-30T16:16:07.968715+00:00",
    "kind": "pre_event",
@@ -8637,11 +8643,6 @@
    "ts": "2026-10-29T21:43:11.392405+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>CENTCOM chief briefs Trump on options for renewed attacks on Iran: Report</b>\n📰 Anadolu Ajansı · Jeu 29/10 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzM5MVRoQVFkR25NUi1HSEZtMGNmXzFMbFp4c3Zha0gya19LNFRWdXJfSkdxa0M4bjZXajU1M3dlRm81X2Ytd0p4RVFtT1lhdUVHemk4MTNuV1NkR3llOVJSZEx6X2lmLVd2dzNIWDVLQ2lfRjNIcHN3ZTFiNXE3dVFGemVzMmctTDEtejlWZmRLWkhLVHptaEgzdlZlWWlsVFRMYzBwVDI0U3pNUW9LZDBZTnJjLUMwTzhrTGhIbFBRQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-29T21:16:35.555683+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US senator briefed on Trump's plans to restart Iran war says proposal is 'insane'</b>\n📰 Middle East Eye · Jeu 29/10 20:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXdXdk13ZjVJRWltT3VyU2NWekdVcEhxS0E3b2JxN1g0UkpPeGhpVEhWY1JLNENWcWlCZXU3VEJjaU55WGF1OXJDUlZKendoVmpkOFpLcDhkLTNNb3JDRVlCMlNqM3FXTmE4eFFhUk5ReEdKdGEyakRiamZ6d0xUYlJXRVFBZzdHNXJiQ1B2VEhtWGdQT1VHclcwYm5XWGdqWnlPUg?oc=5"
   }
  ],
  "daily_forecast": {
