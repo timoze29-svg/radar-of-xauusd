@@ -859,7 +859,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793312469.0645404,
+   "ts": 1793385091.3643043,
    "data": {
     "gold_hours": {
      "0": {
@@ -994,12 +994,12 @@
         14.4
        ],
        [
-        17,
+        0,
         11.0
        ],
        [
-        0,
-        10.2
+        17,
+        11.0
        ]
       ],
       "low": [
@@ -1019,9 +1019,9 @@
      }
     },
     "dollar": {
-     "n_hours": 5970,
+     "n_hours": 5967,
      "horizon_h": 2,
-     "base_gold_up": 53.4,
+     "base_gold_up": 53.3,
      "base_dxy_down": 48.1,
      "down": {
       "3": {
@@ -1039,16 +1039,16 @@
      },
      "up": {
       "3": {
-       "n": 268,
-       "p_dxy": 55.6,
-       "p_gold": 48.9,
-       "gold_avg": -0.7
+       "n": 267,
+       "p_dxy": 55.4,
+       "p_gold": 48.7,
+       "gold_avg": -0.6
       },
       "4": {
-       "n": 77,
-       "p_dxy": 58.4,
-       "p_gold": 51.9,
-       "gold_avg": 0.0
+       "n": 76,
+       "p_dxy": 57.9,
+       "p_gold": 51.3,
+       "gold_avg": 0.1
       }
      }
     }
@@ -1056,16 +1056,6 @@
   }
  },
  "seen_news": [
-  "01c45c50c554",
-  "97d6480b3fb3",
-  "a7731da27968",
-  "f7c4ddf90738",
-  "091dfdd0ca07",
-  "aad8e90c7245",
-  "cdb5820e75e8",
-  "225b67bb8517",
-  "96f8f9071a6a",
-  "32c6c500744c",
   "bddbd0237f4a",
   "d41bda49eefd",
   "36fb322769a8",
@@ -4055,7 +4045,17 @@
   "4bc7016b703b",
   "3f02ab22b557",
   "4e4e400d32f6",
-  "78efa67ecd53"
+  "78efa67ecd53",
+  "4669fd01d666",
+  "1cfe3d0d6f20",
+  "3d879dad4652",
+  "026d16110ce5",
+  "5172ae9a9998",
+  "53f1ecccb72a",
+  "ae328838fe1c",
+  "1da68d2da2b1",
+  "940965176f00",
+  "9f384bf793e4"
  ],
  "news": [
   {
@@ -4068,6 +4068,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Says Iran War Will End Soon While Qatar Carries New Terms to Tehran",
+   "source": "Northeast Times",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5",
+   "published": "2026-10-30T17:40:54+00:00",
+   "id": "026d16110ce5",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4107,6 +4119,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region",
+   "source": "AP News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
+   "published": "2026-10-30T16:53:00+00:00",
+   "id": "9f384bf793e4",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Facing a potential $40M US tariff bill, this American importer is suing Trump to end some tariffs on Canada",
    "source": "CBC",
    "theme": "Tarifs",
@@ -4140,6 +4164,18 @@
    "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3UkpoZS02YnR1RFJfOG03U3NnUnZaMEF3ZFgxNENoc3JLS0ZGRkYzb1ZrZTVzTEhXOG5aaTEwQ0VvbVY2Y1J5WW4ybGZKcHBveXpBT2owSmZWc0k?oc=5",
+   "published": "2026-10-30T16:26:11+00:00",
+   "id": "940965176f00",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5487,6 +5523,18 @@
    "method": "IA"
   },
   {
+   "title": "Oil prices set for fourth straight monthly gains as tanker attack highlights supply risks",
+   "source": "Reuters",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
+   "published": "2026-10-30T02:27:00+00:00",
+   "id": "53f1ecccb72a",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Breaking: 2.8% in October as Japan’s Tokyo CPI inflation rises",
    "source": "www.tmgm.com",
    "theme": "Inflation US",
@@ -6408,54 +6456,6 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Priorité aux négociations plutôt qu'aux tarifs, désescalade protectionniste.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump is promising automakers tariff relief if they commit to U.S. factories",
-   "source": "Quartz",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0RTdnZzNDZjZnBZejdXZThKSENJWlJKNmE1QVNGOWRqLXlWRkJ4ME9ZejUwUnFkWmtoaE05SDNxZ0NNeDk1LWtRM2M4dmI2THd1M3hnUDEyUFljRnRuNFdDVmNnSG1tV1dxbmVsU3RnNEx2dzFFdlFMQzRMcldxNHYzaWQ?oc=5",
-   "published": "2026-10-29T15:27:20+00:00",
-   "id": "e3c76af8b611",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Exemptions tarifaires promises, atténuation des frictions commerciales.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump is promising automakers tariff relief for U.S. factories",
-   "source": "Quartz",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0RTdnZzNDZjZnBZejdXZThKSENJWlJKNmE1QVNGOWRqLXlWRkJ4ME9ZejUwUnFkWmtoaE05SDNxZ0NNeDk1LWtRM2M4dmI2THd1M3hnUDEyUFljRnRuNFdDVmNnSG1tV1dxbmVsU3RnNEx2dzFFdlFMQzRMcldxNHYzaWQ?oc=5",
-   "published": "2026-10-29T15:26:56+00:00",
-   "id": "0c94aa5e86a4",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Mesures de soulagement tarifaire réduisant le choc inflationniste anticipé.",
-   "method": "IA"
-  },
-  {
-   "title": "Inflation Is Sending Its Scariest Warning in 3 Years",
-   "source": "24/7 Wall St.",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVc2emprRFl3N1RKYVJaZ1c0X1Z6OGVmV3NyMm5LRHllT1kyb1h6cDZyTEU5bkpfWmdfcXpZNHh0MFFEMWV5dndGR3lUMnVrNGtxSm9lMzdnemx6dWs4cHNxMkFJWFVfZlVyT0hySFpVSW9BUlkxMUlFakZjTmRtQ2NVRFo1Vnh6cktabjJBQUJXczYzTy1NOVNQb18?oc=5",
-   "published": "2026-10-29T15:16:00+00:00",
-   "id": "3e80ae784e3f",
-   "impact": 2,
-   "cat": "inflation",
-   "raison": "Regain des craintes inflationnistes ravivant la demande d'or comme actif de couverture.",
-   "method": "IA"
-  },
-  {
-   "title": "Israeli election results raise prospect of new Iran attack",
-   "source": "The National",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGFQQjcxZ1I0dlhqVTd1U0NkY0h6SkVGMlAzdTBIWnNKN1pEMUx0MlNGTTA0TU9CcENXd24wQjdoRV9Va0hIaGRxZzUzRkhFMlJIbUh5dU0wandfS1NIQ1FybFJRczdfakJKbnlnVmNmRnlvRnlBYTBZZlExNXVKcGJERGJlNXZ2QkU4QkxWeklnenhibUY2cERlR1NCU2VmS2lDVHNvU3NleTB3STRYSFB3?oc=5",
-   "published": "2026-10-29T15:08:32+00:00",
-   "id": "68b639c62997",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Perspective de nouvelles frappes contre l'Iran ravivant la prime de risque géopolitique.",
    "method": "IA"
   }
  ],
@@ -8101,7 +8101,8 @@
   "news|13b378653881": 1793381670.9015355,
   "news|7b15540891b6": 1793382551.7006333,
   "big|COPPER|2026-10-30": 1793383313.1791983,
-  "post|2026-10-30T13:30:00-04:00": 1793384282.2572377
+  "post|2026-10-30T13:30:00-04:00": 1793384282.2572377,
+  "news|026d16110ce5": 1793385088.9225166
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8364,6 +8365,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T18:31:28.922610+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says Iran War Will End Soon While Qatar Carries New Terms to Tehran</b>\n📰 Northeast Times · Ven 30/10 18:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5"
+  },
   {
    "ts": "2026-10-30T18:18:02.258241+00:00",
    "kind": "post_event",
@@ -8658,11 +8664,6 @@
    "ts": "2026-10-30T00:16:10.362459+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Social Security Payments Are Getting a Boost Due to the Iran War</b>\n📰 AOL.com · Jeu 29/10 10:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWRsTS1NeUI3Zk56NF9jbHJBZEFiUUhONl9aRGxURG9weXBQRDhjYmQzVEU4QjFETlk1b2h2MG9Ic01jU1RUTXFWSVp2TWxjVndVYWtGMmFWNWgybnBsVVRDV1Z4UHZfOUJzRU5ySjEwVnNwNEdQemFSN1QxeEF6bjF3WW90WURnR0E?oc=5"
-  },
-  {
-   "ts": "2026-10-30T00:16:09.302902+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Rushes Patriot Missiles From Texas To Israel As Trump Weighs Fresh Iran Strikes</b>\n📰 The Times of India · Ven 30/10 00:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOemdLZjl2S3pMSE8ydlpESC1pU05MbFl0bU1LRVRWQWItaHVuUWV0V1VYeU9id3A4SzJudUFEYUZ5c0MtWkh6SzJobXozTFY3U2tMTnpBRDlQT0dmNTFHbVFNbmJBM2dZVjlhV0ZiLXdZWjMySEtaRE41RlhJZDYzN3ZJY3RfSFRLejhWeEtCdFJybmdEMERoaTdPSFZydGdfeG1yRjk3RnEzd3haRmMydTRYelc0aUFaWUJjRi0ycl91RjB2RW1rbng1OFlGY2hCVnBxVUpqNGZPTDRnX2pXTkFIQUpJSTZCSUhKcHAyQ0tNUDJLTlpz0gH8AUFVX3lxTE9HOVNtSE02ZTh2aDZMY2dLQVdNWE1WOG50ZUk0NFg0TE5BZGNwbTlRSkM0VHlVVEFrNm9xWTg2ZUszM2ttU3Qybzl2NHpFbHdRSU13QjVWTVV2dFJ5dm1XTTI5ZlFnMEZCcnMwVGwwSERBNXVsY3V6bDFWbEpTbUFlVG54aUZiQ3VYMjRhbXBSNWFpWHZnT0JwR0JYamZ6bnpZdVgxQUpJNEZiWE5SVkQ1ajJmSERPdnk0R2VKdHhfVzB3OTI1NjMtY2NwVG5mdVNhQUZ4UHAwNlcxeFdqRHJsYWRZRDJOWU4zVUVLQlA1eERTXy1JUHlFb19VUg?oc=5"
   }
  ],
  "daily_forecast": {
