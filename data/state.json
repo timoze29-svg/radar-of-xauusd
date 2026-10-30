@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "b219004d4d94",
-  "a917f9ef42c7",
-  "decd8ead7e11",
   "0bee6d6fc5b1",
   "c2c0fd7987c9",
   "125484e42d43",
@@ -4044,7 +4041,10 @@
   "02e9c55af430",
   "6b6ca69fb2de",
   "a27536e974c3",
-  "a52381f04f70"
+  "a52381f04f70",
+  "dc9ecae6a596",
+  "8e6aa3f55b68",
+  "4422a1c7b02a"
  ],
  "news": [
   {
@@ -8042,7 +8042,8 @@
   "brk|GOLD|pdh|dn|2026-10-30": 1793333773.8319035,
   "brk|DXY|pdh|dn|2026-10-30": 1793333774.7443833,
   "news|84be11455516": 1793336490.7654023,
-  "news|02e9c55af430": 1793339164.8987377
+  "news|02e9c55af430": 1793339164.8987377,
+  "rep|daily|2026-10-30": 1793340098.6818094
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8286,9 +8287,30 @@
     "PDL": 4036.9
    },
    "ts": "2026-10-29T06:01:36.076973+00:00"
+  },
+  "2026-10-30": {
+   "dir": "range",
+   "score": -13,
+   "p0": 4009.6001,
+   "exp_range": 65.5,
+   "levels": {
+    "P": 4043.13,
+    "R1": 4069.97,
+    "S1": 4004.57,
+    "R2": 4108.53,
+    "S2": 3977.73,
+    "PDH": 4081.7,
+    "PDL": 4016.3
+   },
+   "ts": "2026-10-30T06:01:37.798430+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T06:01:37.798447+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — VENDREDI 30/10</b>\nPrix : <b>4009.60</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-13/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4010 vs MM20 4121 / MM50 4297\n🟢 Taux réels 10 ans (20j) : 2.67% (-0.24 sur 20j)\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.67% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -24.0$ · plus haut 4034.2 / plus bas 3997.0 (range 37$)\nDXY -0.02% sur la nuit\n⚠️ Plus bas de la veille (4016) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~65$</b> (ATR 68$ × profil du vendredi)\nDéjà fait en Asie : 37$ (57% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4108.5 | R1 4070.0 | <b>Pivot 4043.1</b> | S1 4004.6 | S2 3977.7\nVeille : PDH 4081.7 / PDL 4016.3  ·  Semaine passée : 4211 / 3989\n\n📅 <b>Annonces du jour</b>\n🔥 <b>17:00</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>17:30</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>56%</b> du temps (301 jours, ~6.0 ans)\n• Hier : -0.50% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 17h (11%) · plus BAS vers 0h (12%), 2h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = +39.4$, depuis mercredi -42.0$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4005 et R1 4070\nJouer les extrêmes, pas le milieu (pivot 4043). Range attendu ~65$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4082 ou PDL 4016 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
   {
    "ts": "2026-10-30T05:46:04.898798+00:00",
    "kind": "news",
@@ -8583,16 +8605,11 @@
    "ts": "2026-10-29T15:01:48.843900+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Strong US inflation and growth will keep Fed on a tightening path</b>\n📰 Financial Times · Jeu 29/10 15:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZlBJclhlMUl0SS1hRnJLUnBMekVNT2UxTG9Wa2pqY0owaGtRbDFnMW5hRllBcVBwNEF4UzBxdmZxZ0xCN2E1ZDJxQmlRTThLQ0FTYTdZZG9KY25sRmk2LUtleEFxUldNeUJKTFo3Zm4?oc=5"
-  },
-  {
-   "ts": "2026-10-29T15:01:47.951196+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel seeks US approval to strike Iranian energy facilities as Trump signals end to war</b>\n📰 AzerNews · Jeu 29/10 15:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE83am9tU0hNSWlTMHhDeWgyeWNBYy11elY1QU1pNGVFS28xMl9JTnZjV0V5b18wYW1DNkl5ZG9LdVE1X0wtR1VIM1paTXVxOTRxYVBUcQ?oc=5"
   }
  ],
  "daily_forecast": {
-  "date": "2026-10-29T06:01:37.043687+00:00",
-  "text": "☀️ <b>PRÉVISION OR — JEUDI 29/10</b>\nPrix : <b>4044.30</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-2/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4044 vs MM20 4129 / MM50 4309\n🟢 Taux réels 10 ans (20j) : 2.64% (-0.26 sur 20j)\n🟢 Sentiment news 24h : 150 news notées, moyenne +0.37\n\n🌏 <b>Session Asie</b> (depuis minuit) : -20.4$ · plus haut 4081.0 / plus bas 4039.2 (range 42$)\nDXY +0.07% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~64$</b> (ATR 69$ × profil du jeudi)\nDéjà fait en Asie : 42$ (66% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4122.2 | R1 4086.9 | <b>Pivot 4061.9</b> | S1 4026.6 | S2 4001.6\nVeille : PDH 4097.2 / PDL 4036.9  ·  Semaine passée : 4211 / 3989\n\n📅 <b>Annonces du jour</b>\n🔥 <b>13:30</b> 🇺🇸 Advance GDP q/q (prév. 3.2%)\n    🔺 Au-dessus de 3.2% (économie plus forte que prévu) → moins de raisons de baisser les taux → dollar ↑ → <b>or ↓</b>\n    🔻 En dessous de 3.2% → effet inverse → <b>or ↑</b>\n🔥 <b>13:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n🔥 <b>14:15</b> 🇪🇺 Main Refinancing Rate (prév. 2.65%)\n    🇪🇺 Chiffre fort → euro ↑ → DXY ↓ → <b>or ↑</b>\n    🇪🇺 Chiffre faible → euro ↓ → DXY ↑ → <b>or ↓</b>\n🔥 <b>14:15</b> 🇪🇺 Monetary Policy Statement\n🔥 <b>14:45</b> 🇪🇺 ECB Press Conference\n    🇪🇺 Chiffre fort → euro ↑ → DXY ↓ → <b>or ↑</b>\n    🇪🇺 Chiffre faible → euro ↓ → DXY ↑ → <b>or ↓</b>\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>52%</b> du temps (303 jours, ~6.0 ans)\n• Hier : -0.56% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 0h (12%), 17h (9%) · plus BAS vers 0h (14%), 15h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = +39.4$, depuis mercredi -7.3$ → en attente\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4027 et R1 4087\nJouer les extrêmes, pas le milieu (pivot 4062). Range attendu ~64$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4097 ou PDL 4037 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-10-30T06:01:38.681776+00:00",
+  "text": "☀️ <b>PRÉVISION OR — VENDREDI 30/10</b>\nPrix : <b>4009.60</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-13/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 4010 vs MM20 4121 / MM50 4297\n🟢 Taux réels 10 ans (20j) : 2.67% (-0.24 sur 20j)\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.67% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : -24.0$ · plus haut 4034.2 / plus bas 3997.0 (range 37$)\nDXY -0.02% sur la nuit\n⚠️ Plus bas de la veille (4016) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~65$</b> (ATR 68$ × profil du vendredi)\nDéjà fait en Asie : 37$ (57% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4108.5 | R1 4070.0 | <b>Pivot 4043.1</b> | S1 4004.6 | S2 3977.7\nVeille : PDH 4081.7 / PDL 4016.3  ·  Semaine passée : 4211 / 3989\n\n📅 <b>Annonces du jour</b>\n🔥 <b>17:00</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>17:30</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>56%</b> du temps (301 jours, ~6.0 ans)\n• Hier : -0.50% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1053 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 17h (11%) · plus BAS vers 0h (12%), 2h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = +39.4$, depuis mercredi -42.0$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 4005 et R1 4070\nJouer les extrêmes, pas le milieu (pivot 4043). Range attendu ~65$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4082 ou PDL 4016 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
