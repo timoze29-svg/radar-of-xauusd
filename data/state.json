@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "f8ba6e1d8f74",
-  "cf03575d7b18",
-  "508ac462f024",
   "681640853615",
   "e41db7793cb4",
   "45f3e529bbe1",
@@ -4044,7 +4041,10 @@
   "f8d889592890",
   "8fc813d3a4c1",
   "2a3ff799e975",
-  "fbbc28e8c02a"
+  "fbbc28e8c02a",
+  "fb8dca4a3982",
+  "6c969e38f747",
+  "edaad0b05369"
  ],
  "news": [
   {
@@ -4054,6 +4054,18 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WVdEVUlOZ093SnRfbDBxc0xNaGdLZF82cVF2cjZFLUtWWnRSblBhVWtLV3F6QXNXWWdaeW8tNTFabVBrYWo0RGlrbnpRUUxKSHVVMFdR?oc=5",
    "published": "2026-10-29T23:28:07+00:00",
    "id": "8fc813d3a4c1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US sends 10 military cargo planes to Israel amid Iran strike preparations",
+   "source": "Operativ Məlumat Mərkəzi",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjJxdHpwcEVTc2ZwbmNYZFUtYURNZmRmaFdxOS1LZGR0enUwYnJxQXJxYXJweDhZbWswcklyQkgxRUtnWm1EdWt6ejVCZmkwNVYyNkVBZm1lZnVDZDU2Z0NYcXUxUDF3TkVISEM1TGZhak1OTDBDLWhJTjlIZy1iRTFHaHB0YmNhNGZ1V2pDbmt5MFlwSWFzeXBDcldBUkRILUt6OGJ6NDlMaDBpQnc?oc=5",
+   "published": "2026-10-29T23:23:17+00:00",
+   "id": "6c969e38f747",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4082,6 +4094,18 @@
    "cat": "géopolitique",
    "raison": "Risque de confrontation directe USA-Chine déclenchant une ruée majeure vers la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Saudi Arabia asks Donald Trump to give Iran negotiations a chance before striking",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CX3I0RHNFX1cxaW85Q0dzcE1qdl9xQXo4RFI4OEpOdGE4SUItWVNwbEd3bmp5MnpzRl9TUzNFUUhRdkhKUnFpTE9JM1N6ZFltbFdGUmVfSUsyTzlVWDhkVlNwM2FhS2RxQ0E?oc=5",
+   "published": "2026-10-29T22:23:14+00:00",
+   "id": "fb8dca4a3982",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
   },
   {
    "title": "Israel deadlocked / Trump, Iran and the midterms : Sources & Methods",
@@ -4156,18 +4180,6 @@
    "method": "IA"
   },
   {
-   "title": "Schumer blames Trump tariffs for rising Oswego prices, touts End Trump’s Tariffs Act",
-   "source": "WSTM",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVF9mdk0weVZ3Z29wdE5fa1laTTRRMWZiSFlWd2dCaVNQT01DSkQ5THY5aVBGMEpSSU81TFcwdjA0OHdGd3NkUU1yenFDX3dSNkFxclBGYTRMMERHNzJlekpWZ3RmUWE2OHdZTGN4NldLR2l6a0ZOSERGWFA3eEVLTXdFNE1mYVhTTEJqVmtuWHpaLVZPcVMzN0VkVWtFS1JvTVF5aWlaYkRWS2xhdFdZZjBPWDluTG8?oc=5",
-   "published": "2026-10-29T21:00:01+00:00",
-   "id": "fb724a3ed2e3",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Déclaration d'opposition sans impact législatif immédiat sur l'inflation ou les tarifs.",
-   "method": "IA"
-  },
-  {
    "title": "Trump Holds Off on New Machinery, Robotics Tariffs in Win for Manufacturers - National Association of Manufacturers",
    "source": "NAM",
    "theme": "Tarifs",
@@ -4201,18 +4213,6 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Allègement tarifaire ciblé réduisant légèrement les tensions commerciales.",
-   "method": "IA"
-  },
-  {
-   "title": "Integra's Recovery Dip Sets Up a Gold Price & Grade Test for 2027",
-   "source": "Crux Investor",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnhOVl91UXJENWRpNklLaGpkY1VMQ0Rac3RvMFN4NmZzT0tRbk1xN0RxZHdjQnA4RHBpSlZ4NHpMTm1IOEFpV2hnOEEtc193MWZUYTF6VkRNUkhaMjRfTTN5TW1tYzZuOEY2QTMyUGxSemZJVE5ZbWlFNTZadEZRRG1DNm9KQjJYSGxDcWZqT25UOHdSTzJ5WHpqU0h2QQ?oc=5",
-   "published": "2026-10-29T20:45:33+00:00",
-   "id": "4d05d43767b1",
-   "impact": 0,
-   "cat": "or",
-   "raison": "Analyse micro-minière spécifique à long terme, neutre pour le cours au comptant.",
    "method": "IA"
   },
   {
@@ -8030,7 +8030,9 @@
   "news|ec98c54813a5": 1793313251.5174704,
   "news|8fc813d3a4c1": 1793317575.5015395,
   "news|2a3ff799e975": 1793317576.5986905,
-  "big|BTC|2026-10-29": 1793317577.8293018
+  "big|BTC|2026-10-29": 1793317577.8293018,
+  "news|6c969e38f747": 1793318504.652521,
+  "big|BTC|2026-10-30": 1793318505.939256
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8277,6 +8279,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T00:01:45.939331+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-3 581 aujourd'hui = 1.9× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-10-30T00:01:44.652634+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US sends 10 military cargo planes to Israel amid Iran strike preparations</b>\n📰 Operativ Məlumat Mərkəzi · Ven 30/10 00:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjJxdHpwcEVTc2ZwbmNYZFUtYURNZmRmaFdxOS1LZGR0enUwYnJxQXJxYXJweDhZbWswcklyQkgxRUtnWm1EdWt6ejVCZmkwNVYyNkVBZm1lZnVDZDU2Z0NYcXUxUDF3TkVISEM1TGZhak1OTDBDLWhJTjlIZy1iRTFHaHB0YmNhNGZ1V2pDbmt5MFlwSWFzeXBDcldBUkRILUt6OGJ6NDlMaDBpQnc?oc=5"
+  },
   {
    "ts": "2026-10-29T23:46:17.829353+00:00",
    "kind": "big_move",
@@ -8566,16 +8578,6 @@
    "ts": "2026-10-29T13:03:51.748046+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 33 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Advance GDP q/q</b> : prév. 3.2% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>Core PCE Price Index m/m</b> : prév. 0.3% (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans -2.1 pb\nOr -2.7$ (extrême -5.2$, range 13.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-29T13:03:50.647507+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+13), Dollar (DXY 5j) (-10)"
-  },
-  {
-   "ts": "2026-10-29T12:46:14.536362+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-14), Taux réels 10 ans (20j) (+13), Dollar (DXY 5j) (-9)"
   }
  ],
  "daily_forecast": {
