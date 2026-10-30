@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "de98895879b2",
-  "a384cca4bf18",
-  "f9bea557c987",
-  "9a9097278a00",
   "4ee14b19abb2",
   "eaafa5d7808c",
   "c68a92937ce1",
@@ -4044,9 +4040,25 @@
   "6994e3757945",
   "1d687d024817",
   "89910710d98c",
-  "3b1ab1888554"
+  "3b1ab1888554",
+  "81c4503f16f8",
+  "c3e4b612ee24",
+  "cb38f061c8eb",
+  "928d3a7de50b"
  ],
  "news": [
+  {
+   "title": "Qatar MotoGP latest as US senator warns of \"insane\" Middle East war escalation",
+   "source": "Crash.net",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1A4eXVzSWNkVzUxRXpsYWVzbzhEZXhYRXloQ2dIdjRWRFBQUERmUE1CRk9uVmpzaWJwb3NaTDNDM3dOTk93V09qNGMtS1AxSXM4Q1Zkem54MklzNU5zeDBLMGRkdTN2UnAwZmpiUjBNcHE5Z3VDVU4zXzlXczBnOGhWRWloWFRNZm9ZTkx1ZG91bGIzNVBBX0x1UkVDLWpwR1labW1TRWgtR0Uwa1l5WGN6NFc?oc=5",
+   "published": "2026-10-30T10:53:55+00:00",
+   "id": "81c4503f16f8",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Inquiétudes géopolitiques au Moyen-Orient modérément haussières, mais source secondaire sans impact majeur immédiat.",
+   "method": "IA"
+  },
   {
    "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
    "source": "Al Jazeera",
@@ -4237,6 +4249,18 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Risque accru de frappes américaines contre l'Iran stimulant la demande de valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "US-Dollar-Index-Kursprognose: DXY kämpft nahe 101,75 inmitten fallender Anleiherenditen",
+   "source": "TradingView",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfWGdlOXlLNmRySVZHYXAyOEg1TlJCZ0t4NE1lYjVLTDNwTnBQbm5UMjMyVGhEUi1zWmtQN185NUMtR3hJcWZVUzUzWlFhYUtmemxhcklZNzBodEhmODF0eGlLSXQwd3MyUEE?oc=5",
+   "published": "2026-10-30T09:09:32+00:00",
+   "id": "c3e4b612ee24",
+   "impact": 3,
+   "cat": "dollar",
+   "raison": "Faiblesse du dollar et baisse des rendements obligataires mécaniquement favorables à l'or.",
    "method": "IA"
   },
   {
@@ -6421,30 +6445,6 @@
    "impact": 2,
    "cat": "fed",
    "raison": "Fin du cycle de hausse confirmé, taux réels plafonnés profitables au métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump claims fallen soldiers said 'we cannot let Iran have a nuclear weapon' - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw?oc=5",
-   "published": "2026-10-29T09:31:01+00:00",
-   "id": "4ec42960e424",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rhétorique ferme contre le nucléaire iranien, entretenant une sourde tension géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil prices fall as diplomacy hopes outweigh escalation fears in Middle East war",
-   "source": "The Globe and Mail",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3pCRjNsMC1FLThxSkVYNHdLS3BuTmlNY2U2elRvaU80VS0wZlA2ODVZMXVydlBQT3FRc2hERVhjRVBxU2E5MG1LdXJlV19scHlmb0F2VnItMmgyUEtCbm5VcGQwbnd6MnJMTFFvMElEUGNlRnJHMW1qQXVwMDdBdkRSWFktVjNnRDhDMV9wVEZoWDVZVnFvR2xsVmcwRU9ETlZ4ZmlQb2IzS2VxUk1tWVIwbE00a3dC?oc=5",
-   "published": "2026-10-29T09:17:42+00:00",
-   "id": "638b1fce41c9",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Baisse du pétrole et espoirs diplomatiques réduisent la prime de risque.",
    "method": "IA"
   }
  ],
