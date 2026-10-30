@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "9d57c19f6aeb",
-  "03e6a4ee2edd",
-  "71b5bb7589d7",
-  "6ac9da586714",
   "b219004d4d94",
   "a917f9ef42c7",
   "decd8ead7e11",
@@ -4044,9 +4040,25 @@
   "66e8ec9e25d1",
   "7b7cbb33a240",
   "d6530b4baa15",
-  "d52a9292b009"
+  "d52a9292b009",
+  "02e9c55af430",
+  "6b6ca69fb2de",
+  "a27536e974c3",
+  "a52381f04f70"
  ],
  "news": [
+  {
+   "title": "Asia week ahead: RBA rate hike, data from China, Taiwan, Japan, Korea",
+   "source": "ing think",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yYmtPejAtcC10cEllbDhKWXNJYkkxV2pZVFlpaTVzUlBSVk1VS3ZRUFZOYVNscXJjanEtcUw2QlhqbVdYcnVyckk0ZnFEN3FVRTk1OThEeDJuRHhxRU5YY1gtTjI?oc=5",
+   "published": "2026-10-30T04:45:57+00:00",
+   "id": "a27536e974c3",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold Price Forecast: XAU/USD falls below $4,000 as strong US data strengthen case for Fed rate hike",
    "source": "FXStreet",
@@ -4226,6 +4238,18 @@
    "cat": "géopolitique",
    "raison": "Préparatifs de frappes contre l'Iran déclenchant une nette hausse de la prime refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: Saudi Arabia intercepts two Houthi missiles over Riyadh as falling debris injures resident",
+   "source": "Arabian Business",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-10-30T02:21:22+00:00",
+   "id": "02e9c55af430",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Wounded at home, will Netanyahu, Trump bomb Iran again?",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Risque sur l'offre pétrolière alimentant l'inflation et l'attrait pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Iran war live: UAE calls for de-escalation and diplomatic solutions to Middle East crises",
-   "source": "Arabian Business",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "published": "2026-10-29T00:52:31+00:00",
-   "id": "57abedd90737",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Appels régionaux à l'apaisement diplomatique au Moyen-Orient calmant légèrement l'anxiété marchande.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil prices fall as diplomacy hopes outweigh escalation fears in Middle East war By Reuters",
-   "source": "Investing.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEtsaEMwMmxYWTFJYUI5WXF1MGswbk9ZVW9meUFqR0xYS3Exb0JmVUlWM2l6a2pxVTlWeXdBd1I1VFRsbUlGMVRaM2xQbVNRSXJkdzNhSXhmWE1rR2NjNG5zOWF1RWdjY29hOXRqaDhUcmh4T2ZzaEZtWkd4cUljM1BzVGNPMENPZDI5RzZzQ21hV1dPM1pzb0U1ZW5idWtrNUlCd3E5VnFQQmZ6Qm5aQlU5YXM1SUd6?oc=5",
-   "published": "2026-10-29T00:36:56+00:00",
-   "id": "c69f7fdc6da0",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Espoirs diplomatiques et repli pétrolier allégeant la prime de risque sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8041,7 +8041,8 @@
   "news|68b639c62997": 1793330166.2513154,
   "brk|GOLD|pdh|dn|2026-10-30": 1793333773.8319035,
   "brk|DXY|pdh|dn|2026-10-30": 1793333774.7443833,
-  "news|84be11455516": 1793336490.7654023
+  "news|84be11455516": 1793336490.7654023,
+  "news|02e9c55af430": 1793339164.8987377
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8288,6 +8289,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T05:46:04.898798+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Saudi Arabia intercepts two Houthi missiles over Riyadh as falling debris injures resident</b>\n📰 Arabian Business · Ven 30/10 03:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
   {
    "ts": "2026-10-30T05:01:30.765491+00:00",
    "kind": "news",
@@ -8582,11 +8588,6 @@
    "ts": "2026-10-29T15:01:47.951196+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel seeks US approval to strike Iranian energy facilities as Trump signals end to war</b>\n📰 AzerNews · Jeu 29/10 15:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE83am9tU0hNSWlTMHhDeWgyeWNBYy11elY1QU1pNGVFS28xMl9JTnZjV0V5b18wYW1DNkl5ZG9LdVE1X0wtR1VIM1paTXVxOTRxYVBUcQ?oc=5"
-  },
-  {
-   "ts": "2026-10-29T14:16:11.006257+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>ECB Press Conference</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.10%\nTaux 10 ans +1.1 pb\nOr +4.8$ (extrême +9.4$, range 10.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
