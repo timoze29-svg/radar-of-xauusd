@@ -1045,13 +1045,6 @@
   }
  },
  "seen_news": [
-  "a3852833174e",
-  "d98e4384765e",
-  "d203ebd6f9f4",
-  "c952fcdc700b",
-  "678298e38649",
-  "be0f33a25018",
-  "ddbadd6f7fa3",
   "e65017548991",
   "ffa74a973c4e",
   "01c45c50c554",
@@ -4044,7 +4037,14 @@
   "a2ece7b947b6",
   "7acc19e82e07",
   "d818eb8e342d",
-  "e72132037542"
+  "e72132037542",
+  "d8e2ced8c995",
+  "7b15540891b6",
+  "76c7b1fd991f",
+  "d08b317c5368",
+  "d5715517f949",
+  "4bc7016b703b",
+  "3f02ab22b557"
  ],
  "news": [
   {
@@ -4093,6 +4093,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. midterms 101: Who holds the cards in the Canada-U.S. trade war?",
+   "source": "BNN Bloomberg",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdDJGV0dLMjBwd3A4QmVuRnhiZFV0UWFkWmw2bHJTb3UyVzM4SjFJZkc3VWNkRGVaV0dtdG5HcDJ0amNiRTM0clRPU0pfeXJBa0NWQ2dxckVhUFUwYk1hRDlFMm1rZzRveFpyTTF0RUFmTndfcXlFUTRMbEtPRjNSVXFzYVdnYUgzUXNUdzZCcW9SakZ5M3puNHpMR1RCR1h1cWR6TDZMVFZKZGExWVM2WGFLNmZNSlFNdjkyTg?oc=5",
+   "published": "2026-10-30T16:41:57+00:00",
+   "id": "76c7b1fd991f",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4478,6 +4490,18 @@
    "cat": "géopolitique",
    "raison": "Trêve locale respectée en Ukraine, léger recul de l'aversion au risque.",
    "method": "IA"
+  },
+  {
+   "title": "Trump claims Iran war will ‘get wrapped up soon’",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3c0TGs4Z3lJR01uU3BrOFc0cUowblFNU0VydjVwV1luTDFPckFpNU1Bamh3YmdIS2VyQ2x0aTNUMnExWkZ2ejhVOUtVMzd4RDNEV2Z3cVhGcURmRkJrTUVieHhDVkQ2N0JFUThOdk1GNTIwZkpiQXBoUE5VS1VhSW9CTkNwVUhBZXNuMWJ2bDVycGl6bTZJ?oc=5",
+   "published": "2026-10-30T12:02:31+00:00",
+   "id": "7b15540891b6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump on Iran war: It's going to get wrapped up soon",
@@ -6422,30 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Déploiement militaire US vers Israël, risque imminent d'escalade avec l'Iran.",
    "method": "IA"
-  },
-  {
-   "title": "Israel seeks US approval to strike Iranian energy facilities as Trump signals end to war",
-   "source": "AzerNews",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83am9tU0hNSWlTMHhDeWgyeWNBYy11elY1QU1pNGVFS28xMl9JTnZjV0V5b18wYW1DNkl5ZG9LdVE1X0wtR1VIM1paTXVxOTRxYVBUcQ?oc=5",
-   "published": "2026-10-29T14:51:00+00:00",
-   "id": "bde215a58c85",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Menace sur les infrastructures énergétiques iraniennes stimulant l'achat refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Will Israel strike Iran amid election uncertainty?",
-   "source": "thenationalnews.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2tWX0xvV1Q2UEUzam1wZmc5NVpjMFM3WjZjWG1wYXc0WU85RkpHVW9qamFkcWZkLTdoWTdMbXZjZy1PZHJkS2NTOEhsdGdObTZsWkxXcmJnWlZ4TFV2d2hGc0Q2ZDd5OWh3ZDRjVDRQUlBBR3lKSHJsbk5WUVROTC0zT1JxZXJfYVc1a1ZVYm16ZjVDQ2ZMZzQyMW1FZw?oc=5",
-   "published": "2026-10-29T14:50:19+00:00",
-   "id": "af419d6709f9",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Spéculations sur une escalade militaire au Moyen-Orient maintenant une prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8087,7 +8087,8 @@
   "news|a51e94308a86": 1793380570.2222352,
   "brk|VIX|pwh|up|2026-10-26/2026-11-01": 1793380571.643692,
   "big|VIX|2026-10-30": 1793380572.613128,
-  "news|13b378653881": 1793381670.9015355
+  "news|13b378653881": 1793381670.9015355,
+  "news|7b15540891b6": 1793382551.7006333
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8350,6 +8351,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T17:49:11.700728+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump claims Iran war will ‘get wrapped up soon’</b>\n📰 The Times of Israel · Ven 30/10 13:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3c0TGs4Z3lJR01uU3BrOFc0cUowblFNU0VydjVwV1luTDFPckFpNU1Bamh3YmdIS2VyQ2x0aTNUMnExWkZ2ejhVOUtVMzd4RDNEV2Z3cVhGcURmRkJrTUVieHhDVkQ2N0JFUThOdk1GNTIwZkpiQXBoUE5VS1VhSW9CTkNwVUhBZXNuMWJ2bDVycGl6bTZJ?oc=5"
+  },
   {
    "ts": "2026-10-30T17:34:30.901627+00:00",
    "kind": "news",
@@ -8644,11 +8650,6 @@
    "ts": "2026-10-30T00:01:44.652634+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US sends 10 military cargo planes to Israel amid Iran strike preparations</b>\n📰 Operativ Məlumat Mərkəzi · Ven 30/10 00:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjJxdHpwcEVTc2ZwbmNYZFUtYURNZmRmaFdxOS1LZGR0enUwYnJxQXJxYXJweDhZbWswcklyQkgxRUtnWm1EdWt6ejVCZmkwNVYyNkVBZm1lZnVDZDU2Z0NYcXUxUDF3TkVISEM1TGZhak1OTDBDLWhJTjlIZy1iRTFHaHB0YmNhNGZ1V2pDbmt5MFlwSWFzeXBDcldBUkRILUt6OGJ6NDlMaDBpQnc?oc=5"
-  },
-  {
-   "ts": "2026-10-29T23:46:17.829353+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-3 264 aujourd'hui = 1.8× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
