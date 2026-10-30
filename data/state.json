@@ -1045,9 +1045,6 @@
   }
  },
  "seen_news": [
-  "f9c9a46e6e1e",
-  "b6ff62292b84",
-  "072dbb4a7f2c",
   "ff8b8ad9db39",
   "8c1f6e2e1913",
   "51863b49e091",
@@ -4044,7 +4041,10 @@
   "fa0621573d4f",
   "4b98df3a1545",
   "ac9f06514751",
-  "aea382c8ce29"
+  "aea382c8ce29",
+  "84be11455516",
+  "74fb68129f83",
+  "5e0278612248"
  ],
  "news": [
   {
@@ -4514,6 +4514,18 @@
    "cat": "inflation",
    "raison": "PIB solide et inflation persistante repoussent les baisses de taux de la Fed.",
    "method": "IA"
+  },
+  {
+   "title": "Gold price slides as higher US inflation reinforces Fed tightening bets",
+   "source": "Mining.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVI5aElvYWUzT3dEbko0M3lNY1dKX0VKZUlZc1BVdlgwRDVVZXAyWHotQUhMTmZYYndkSjhOdml5QlR0UDlQUF9pOXVNdnRQRG1ueGlGeGg1UjQtUEZFU2lxS1BpLXJlTkpXcjRhR2t1d2hMcmlud1dJZHp1V1ZLQjY5TUxLY2pkNEhGeEhsMmhRaXpQUU9Edw?oc=5",
+   "published": "2026-10-29T21:01:29+00:00",
+   "id": "84be11455516",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Holds Off on New Machinery, Robotics Tariffs in Win for Manufacturers - National Association of Manufacturers",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Espoirs diplomatiques et repli pétrolier allégeant la prime de risque sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns By Reuters",
-   "source": "Investing.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEtsaEMwMmxYWTFJYUI5WXF1MGswbk9ZVW9meUFqR0xYS3Exb0JmVUlWM2l6a2pxVTlWeXdBd1I1VFRsbUlGMVRaM2xQbVNRSXJkdzNhSXhmWE1rR2NjNG5zOWF1RWdjY29hOXRqaDhUcmh4T2ZzaEZtWkd4cUljM1BzVGNPMENPZDI5RzZzQ21hV1dPM1pzb0U1ZW5idWtrNUlCd3E5VnFQQmZ6Qm5aQlU5YXM1SUd6?oc=5",
-   "published": "2026-10-29T00:36:56+00:00",
-   "id": "276d3f43a9d5",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Détente diplomatique au Moyen-Orient, réduisant la prime de risque et la demande refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8040,7 +8040,8 @@
   "news|5854555cf26b": 1793329299.7606447,
   "news|68b639c62997": 1793330166.2513154,
   "brk|GOLD|pdh|dn|2026-10-30": 1793333773.8319035,
-  "brk|DXY|pdh|dn|2026-10-30": 1793333774.7443833
+  "brk|DXY|pdh|dn|2026-10-30": 1793333774.7443833,
+  "news|84be11455516": 1793336490.7654023
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8287,6 +8288,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T05:01:30.765491+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price slides as higher US inflation reinforces Fed tightening bets</b>\n📰 Mining.com · Jeu 29/10 22:01\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVI5aElvYWUzT3dEbko0M3lNY1dKX0VKZUlZc1BVdlgwRDVVZXAyWHotQUhMTmZYYndkSjhOdml5QlR0UDlQUF9pOXVNdnRQRG1ueGlGeGg1UjQtUEZFU2lxS1BpLXJlTkpXcjRhR2t1d2hMcmlud1dJZHp1V1ZLQjY5TUxLY2pkNEhGeEhsMmhRaXpQUU9Edw?oc=5"
+  },
   {
    "ts": "2026-10-30T04:16:15.626191+00:00",
    "kind": "bias",
@@ -8581,11 +8587,6 @@
    "ts": "2026-10-29T14:16:11.006257+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>ECB Press Conference</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.10%\nTaux 10 ans +1.1 pb\nOr +4.8$ (extrême +9.4$, range 10.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-29T14:16:09.693543+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live Updates: LIVE: Iran-US war</b>\n📰 Business Recorder · Jeu 29/10 12:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSHl0eU1BSjNISDdIZVRJOEJuaHlycEtBbzJPQlpPZnVTdV9lcDh3M2xfeHp6eWxmTWlBcEpPb0o5dG5oUmR2eHFtZFVRUGR6ZGhJMTR1RDZWZw?oc=5"
   }
  ],
  "daily_forecast": {
