@@ -1045,8 +1045,6 @@
   }
  },
  "seen_news": [
-  "e65017548991",
-  "ffa74a973c4e",
   "01c45c50c554",
   "97d6480b3fb3",
   "a7731da27968",
@@ -4044,9 +4042,23 @@
   "d08b317c5368",
   "d5715517f949",
   "4bc7016b703b",
-  "3f02ab22b557"
+  "3f02ab22b557",
+  "4e4e400d32f6",
+  "78efa67ecd53"
  ],
  "news": [
+  {
+   "title": "President Trump Reportedly Promised Audi Tariff Relief for Building Georgia Factory",
+   "source": "Road & Track",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3htaGN0ZVVFRnVLN0JmOGNxaDhValJqeWg2N0hjZzVTbk1BYktrV3RkbmwtT3g3bVhvekJpOFdvSGRGb0M2em1GT3dyRXpGbGlFOS1JbUFXNXBoNmhmbmlrakJWU0lIdzIyMTdLdE5MX1ZnaDRFNW90OXlzcVQzRWFlZjZILTdMYm9FUTlB?oc=5",
+   "published": "2026-10-30T17:42:00+00:00",
+   "id": "4e4e400d32f6",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "What now? Israel faces another Iran war and a reckoning with Washington",
    "source": "Ynetnews",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Perspective de nouvelles frappes contre l'Iran ravivant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "US moves Patriot missile defence system to Israel amid preparations for possible Iran strikes",
-   "source": "The Jewish Chronicle",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOERvZm9QcmxoaUI2VXNsZ2h0X3plZm13TDRoUUoyY1BfNmtVT25YRFA0TEliSmhTaG1xM3pvUzg5UXBsY3kzNGNheGhMQnFjMlo3dVEwbktXVGdQdTlGNjNqOUlEZFo3bkpOR25IaHlBU2JMaDdmSFNpcFBNSlJMcGpkX2VYeVZmdW1HSFFEQ1dpcFJLSWNWQg?oc=5",
-   "published": "2026-10-29T14:59:19+00:00",
-   "id": "60a83f2160cb",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Déploiement militaire US vers Israël, risque imminent d'escalade avec l'Iran.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8088,7 +8088,8 @@
   "brk|VIX|pwh|up|2026-10-26/2026-11-01": 1793380571.643692,
   "big|VIX|2026-10-30": 1793380572.613128,
   "news|13b378653881": 1793381670.9015355,
-  "news|7b15540891b6": 1793382551.7006333
+  "news|7b15540891b6": 1793382551.7006333,
+  "big|COPPER|2026-10-30": 1793383313.1791983
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8351,6 +8352,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T18:01:53.179267+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n-0.1260 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
   {
    "ts": "2026-10-30T17:49:11.700728+00:00",
    "kind": "news",
@@ -8645,11 +8651,6 @@
    "ts": "2026-10-30T00:01:45.939331+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-3 581 aujourd'hui = 1.9× l'ATR\n🥇 🔴 baissier pour l'or"
-  },
-  {
-   "ts": "2026-10-30T00:01:44.652634+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US sends 10 military cargo planes to Israel amid Iran strike preparations</b>\n📰 Operativ Məlumat Mərkəzi · Ven 30/10 00:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjJxdHpwcEVTc2ZwbmNYZFUtYURNZmRmaFdxOS1LZGR0enUwYnJxQXJxYXJweDhZbWswcklyQkgxRUtnWm1EdWt6ejVCZmkwNVYyNkVBZm1lZnVDZDU2Z0NYcXUxUDF3TkVISEM1TGZhak1OTDBDLWhJTjlIZy1iRTFHaHB0YmNhNGZ1V2pDbmt5MFlwSWFzeXBDcldBUkRILUt6OGJ6NDlMaDBpQnc?oc=5"
   }
  ],
  "daily_forecast": {
