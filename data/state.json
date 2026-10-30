@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793358078.7328486,
+   "ts": 1793362552.6880176,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "46be7a41bcfc",
-  "87e5ae348fb1",
-  "df9f7ccf9f2f",
-  "5cb7ce25403e",
-  "c1ccac354d1b",
-  "c2e6a532f85d",
   "1bd60b92cae6",
   "8fcc9248b353",
   "f8638497a14e",
@@ -4044,7 +4038,13 @@
   "351ec68fa6cc",
   "6209515d92ca",
   "5c198fbee2f0",
-  "1533e1e62f38"
+  "1533e1e62f38",
+  "0ae150d8a854",
+  "689728305e95",
+  "bc479cecc537",
+  "a0642c352996",
+  "3260c0c6e271",
+  "8f803b7cab3d"
  ],
  "news": [
   {
@@ -4082,6 +4082,18 @@
    "cat": "or",
    "raison": "Commentaire de marché constatant des prises de bénéfices sous un seuil technique.",
    "method": "IA"
+  },
+  {
+   "title": "Ringgit extends rally against US dollar as traders reassess Fed rate hike prospects",
+   "source": "KLSE Screener",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2xneDN5YUUtWWxTMFQ5bmlBcGRCVHJZaTJpTEY0YlBVVDZNVF9DVUhPbFIxUGdHSm13UUF5R0EwcWo5U1VuTmh0VjdMX2RWYzc1WkJRSkZORkhmZ1BOLTBwNnpnbnM3Y2hCVkNVZThqTkt1LXZNaGRNUXpabmh6X09saWNVMHo1RzRMdnJpLUN6d2VsVnlicEVVWGVHZEtlWjVEazVLbkp6SzdZdTVONURXdDhMRGRXZWFxZHFuVEY0c3NVbEg4U3lOeXF1Zw?oc=5",
+   "published": "2026-10-30T11:11:59+00:00",
+   "id": "bc479cecc537",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "US pressures allies amid a push for a Russia-Ukraine truce",
@@ -6434,18 +6446,6 @@
    "cat": "géopolitique",
    "raison": "Accalmie locale temporaire, retrait minime d'une fraction de la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Oil falls as diplomacy hopes outweigh Middle East escalation fears, Money News",
-   "source": "AsiaOne.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDBFNXBORWxlbmJPdXFnNTlNcTdySGdHTVhlUVNiRTlET0k3NnVidVM4WG5EekMwU3NwX3ktdUZwdHU4QkJvZzZMbGlxcG95dnI2Z2c3MlE4bWhza3NScWM5Y0FDTEEtcE84R0h1WkNrWGxSeVRLWTZxYy1OU1ZOekREeVkzdDlpbTZCNkd6ckU5WURiYWd2TQ?oc=5",
-   "published": "2026-10-29T09:54:53+00:00",
-   "id": "d41861da58c0",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Détente diplomatique et chute du brut, diminuant le risque et les craintes d'inflation.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8051,7 +8051,8 @@
   "news|d53648cc7a01": 1793351775.761797,
   "news|b27faa4f984c": 1793351776.7943046,
   "news|1eccc5dff26c": 1793357334.0038908,
-  "big|SILVER|2026-10-30": 1793359956.884752
+  "big|SILVER|2026-10-30": 1793359956.884752,
+  "news|bc479cecc537": 1793362571.4529936
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8314,6 +8315,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T12:16:11.453072+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit extends rally against US dollar as traders reassess Fed rate hike prospects</b>\n📰 KLSE Screener · Ven 30/10 12:11\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2xneDN5YUUtWWxTMFQ5bmlBcGRCVHJZaTJpTEY0YlBVVDZNVF9DVUhPbFIxUGdHSm13UUF5R0EwcWo5U1VuTmh0VjdMX2RWYzc1WkJRSkZORkhmZ1BOLTBwNnpnbnM3Y2hCVkNVZThqTkt1LXZNaGRNUXpabmh6X09saWNVMHo1RzRMdnJpLUN6d2VsVnlicEVVWGVHZEtlWjVEazVLbkp6SzdZdTVONURXdDhMRGRXZWFxZHFuVEY0c3NVbEg4U3lOeXF1Zw?oc=5"
+  },
   {
    "ts": "2026-10-30T11:32:36.884797+00:00",
    "kind": "big_move",
@@ -8608,11 +8614,6 @@
    "ts": "2026-10-29T16:46:14.247797+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US moves Patriot missile defence system to Israel amid preparations for possible Iran strikes</b>\n📰 The Jewish Chronicle · Jeu 29/10 15:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNOERvZm9QcmxoaUI2VXNsZ2h0X3plZm13TDRoUUoyY1BfNmtVT25YRFA0TEliSmhTaG1xM3pvUzg5UXBsY3kzNGNheGhMQnFjMlo3dVEwbktXVGdQdTlGNjNqOUlEZFo3bkpOR25IaHlBU2JMaDdmSFNpcFBNSlJMcGpkX2VYeVZmdW1HSFFEQ1dpcFJLSWNWQg?oc=5"
-  },
-  {
-   "ts": "2026-10-29T16:46:13.211071+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Here’s How Much You’re Paying for Trump’s Tariffs and Iran War</b>\n📰 Bloomberg.com · Jeu 29/10 17:41\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDBvaXE2U0Q5QTlPTUJTZnNPUnNZakNvVlB0QWgtbURJSDhJNUZzdzZRSUs0MGN0dmpBY0tnN2NSUDV4ZkV2NkZ2X28xSTVjQ1hiTU9SUEpqQnphUUhXMktXYUhFV2EwMkQwWF8xTHV2NWZDRkw0V1J6UzdWU2NiT2tyN2wyMWYzM0R6SzUzaUVHZHNyQlhjSEFiQ3lrdUp5Wlh3SUtR?oc=5"
   }
  ],
  "daily_forecast": {
