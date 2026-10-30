@@ -1045,10 +1045,6 @@
   }
  },
  "seen_news": [
-  "3e981ccd0d15",
-  "a495b08dbca9",
-  "c67b7302494e",
-  "58c4dd8406d2",
   "672b5b69b210",
   "4d3397f39c3b",
   "1f8372474a76",
@@ -4044,9 +4040,37 @@
   "b688cf902199",
   "fb823e84dada",
   "e2641461b4c7",
-  "66b09859de75"
+  "66b09859de75",
+  "5854555cf26b",
+  "d36516ee2314",
+  "363ec1833fba",
+  "d99a02582116"
  ],
  "news": [
+  {
+   "title": "Australian Dollar edges higher as hot CPI inflation and hawkish RBA lift rate hike bets",
+   "source": "FXStreet",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFQd1NuZnc2MUpLVVpyTFlrNUVfTlNwZUFuYkN6QXd4OE1tR0M3bDB2UTdXQjlKcHFUVmszTmhqRnFoSFFKbHVhenNWTDZwZjJ1VEEwTnp0LWxhZk5DR216WTFTNHFhdkQzTGFmT3ZyMGU4Z1A1Z2NBR01GWmprOGVkSmRYc21lSV9sLUhlZWRxQms4T0RHZjBRbEZfYUVQV2l6WEY3TDMtSUp0ZHAwNC04OUx5Mk5CWVMyQldCc0FIbEVBSlRkNVZn?oc=5",
+   "published": "2026-10-30T02:56:28+00:00",
+   "id": "d36516ee2314",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold and silver sink as strong US GDP revives Fed rate hike bets",
+   "source": "Startup Fortune",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONmo1dlpvbkppTm1lR185WnZ6c1BfaTBFVjd2Wk15ZDdLNFd2YU5vSlVvaTktQ2JhQmtUMHJBdGpRMkJWSzhZajhnbHZlZ2VEeG5EYTctVDk1VGZ2bmN3b1RRY0l0Zm42N1pObW1nb25qRk5SNzRHUUtEQmxsY093Z2ljcnoxYXl6VUYzbzBNMFBxQU1DX0U4?oc=5",
+   "published": "2026-10-30T02:49:52+00:00",
+   "id": "5854555cf26b",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
    "source": "The Guardian",
@@ -6422,30 +6446,6 @@
    "cat": "commerce",
    "raison": "Report des tarifs douaniers, détente commerciale favorable au risque au détriment de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Canada Shows the Limits of Trump’s Hardball Trade Tactics",
-   "source": "Council on Foreign Relations",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObURnSlgzZE9rQWxKSlVzT0Z0bjN2SjloSFBUbmZ3Z2pGa2xkbW1hcTlPOFI1VFBJZThNZnlCVDZycFk4NFB0MmVPclJlY0ZwOF9RbWlnaG5sYmhhdkh5dXhhNFdoSzNwMlVfYXVPSmJGTVFBRHRSTEJwdk1kSHJtY3pLUDlRQWVQUGZ1cjBB?oc=5",
-   "published": "2026-10-28T20:18:01+00:00",
-   "id": "a3c32cae3e1f",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Limites des tarifs suggérant un risque de guerre commerciale légèrement amoindri.",
-   "method": "IA"
-  },
-  {
-   "title": "Dollar Falls Back After FOMC Results Have a Dovish Tint",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1FYcWNTRURocnVVY3dpV3Jac1p5QXp6YVg1bmNxb0NMdlBGemdxSzkxQnZ5M2F4QTZGb3o0cmdZYWYydzZtUXNhLWVmX3pUSVIzVHpMcWVLX3NTaGhXTU5lYXVKX0FSanc3SDc4S3VzVWI3b0V2ZmY1M2ZvVExRMnBvZXBMRUUyWjFOeWR3WTB0OTl5RUFMTnFjSkhqckUzeWNodG5UcUJFQ2NCLTZhSWUzbFI?oc=5",
-   "published": "2026-10-28T20:16:44+00:00",
-   "id": "57614de860cd",
-   "impact": 4,
-   "cat": "fed",
-   "raison": "Baisse du dollar et ton accommodant de la Fed favorisent mécaniquement l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8036,7 +8036,8 @@
   "news|16f00e8a317b": 1793319369.3028252,
   "news|45fc6646ee92": 1793319370.3622203,
   "big|SILVER|2026-10-29": 1793323015.1749418,
-  "news|9de595bf6ed1": 1793323908.426032
+  "news|9de595bf6ed1": 1793323908.426032,
+  "news|5854555cf26b": 1793329299.7606447
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8283,6 +8284,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T03:01:39.760748+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold and silver sink as strong US GDP revives Fed rate hike bets</b>\n📰 Startup Fortune · Ven 30/10 03:49\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxONmo1dlpvbkppTm1lR185WnZ6c1BfaTBFVjd2Wk15ZDdLNFd2YU5vSlVvaTktQ2JhQmtUMHJBdGpRMkJWSzhZajhnbHZlZ2VEeG5EYTctVDk1VGZ2bmN3b1RRY0l0Zm42N1pObW1nb25qRk5SNzRHUUtEQmxsY093Z2ljcnoxYXl6VUYzbzBNMFBxQU1DX0U4?oc=5"
+  },
   {
    "ts": "2026-10-30T01:31:48.426160+00:00",
    "kind": "news",
@@ -8577,11 +8583,6 @@
    "ts": "2026-10-29T13:46:10.621362+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>India's 10-year bond has best day in 3 months on Treasury rally, easing oil</b>\n📰 The Economic Times · Jeu 29/10 13:11\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnpKVDAxT0hvRnFFWXdIOFNBbUU0V2hFRVFfTUwzTVpwampiLXVUdnVuUVlGNlFrRDNabHUwNDJKM2Z3enRWY0FxZHJqdWx3S08zX0NmRExDbFozYWRJRFYtVFFidTBTM3V5akE4cHZmeTdQYVpKT1BLN1ZZZ0RLRnZQcGh5V1ZrQmtRWVRFTGs3X3Y1dERKejB0NVkwc1VaZnhvZTZiZzUxQ0hJM3lIODY0Q19PQ0s0RHJRZGQ1WWMxeGlMRzVOTzVuYTgyOG9VcmRxRW5SWi3SAd4BQVVfeXFMUGJMZ1BfLU8zMEhaeU5CZDRUZFNaWlA0WmVqNDlrZnozRXNLT2dIN1JPQTU5aWZwaW1HSlRqRjJNSVU5cHUxcWhMbUI3V09ZNUd0dzFnTFg3blpxNTc5TGNydThaNkYwaEJkaXlzYkhMaW1FcnQ0NVVSQUpIOHo1bHhBX3RFc1FqUlRRcnJBbVRwSHFqY3BUdVI0MVlYRFBKZ21tbk0xLXkxVGVNYWxBZVQzWXZ3ZWoxR09LSGRiRVdHdFVjeTZEX0RGaHBHeDczaXdBT2dDZFZDR1B0SXZ3?oc=5"
-  },
-  {
-   "ts": "2026-10-29T13:20:15.950780+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>25 MIN — ZONE DANGEREUSE</b>\n\n🇪🇺 <b>ECB Press Conference</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
