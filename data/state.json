@@ -1045,12 +1045,6 @@
   }
  },
  "seen_news": [
-  "c5d41f78f179",
-  "775ffa0d29c8",
-  "4948255b3b31",
-  "0589316538c8",
-  "9464faad0526",
-  "445afdbec189",
   "b976e3af5f09",
   "01cc7d125c8d",
   "7102fe8b380d",
@@ -4044,7 +4038,13 @@
   "fa642e6aade6",
   "0ff8c4d0e93d",
   "0a97ba2d1747",
-  "ef3ffe3a2cac"
+  "ef3ffe3a2cac",
+  "6d69ca230b9a",
+  "faac16887d40",
+  "3539c9d51a6c",
+  "95ebd361ad03",
+  "b2ea24b813ac",
+  "261bd99b0ebe"
  ],
  "news": [
   {
@@ -8079,7 +8079,8 @@
   "pre1h|2026-10-30T12:30:00-04:00": 1793373369.1023448,
   "news|62dffc567b2f": 1793374289.0978303,
   "news|7b91930c3b60": 1793374290.218851,
-  "pre15m|2026-10-30T12:00:00-04:00": 1793375588.0254707
+  "pre15m|2026-10-30T12:00:00-04:00": 1793375588.0254707,
+  "pre15m|2026-10-30T12:30:00-04:00": 1793376967.9686656
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8342,6 +8343,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T16:16:07.968715+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
   {
    "ts": "2026-10-30T15:53:08.025527+00:00",
    "kind": "pre_event",
@@ -8636,11 +8642,6 @@
    "ts": "2026-10-29T21:16:35.555683+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US senator briefed on Trump's plans to restart Iran war says proposal is 'insane'</b>\n📰 Middle East Eye · Jeu 29/10 20:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXdXdk13ZjVJRWltT3VyU2NWekdVcEhxS0E3b2JxN1g0UkpPeGhpVEhWY1JLNENWcWlCZXU3VEJjaU55WGF1OXJDUlZKendoVmpkOFpLcDhkLTNNb3JDRVlCMlNqM3FXTmE4eFFhUk5ReEdKdGEyakRiamZ6d0xUYlJXRVFBZzdHNXJiQ1B2VEhtWGdQT1VHclcwYm5XWGdqWnlPUg?oc=5"
-  },
-  {
-   "ts": "2026-10-29T21:16:34.547576+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Washington Warns Allies of Possible New Strikes on Iran After US Midterm Elections</b>\n📰 EU Today · Jeu 29/10 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQakRHWnBfYTlBQlliQTdTeHRuUzhqd0lqaFFPUXNod2V2X00yMkdvSlNCbS1zXzduWTBScVNmdXlnb3hCbXFNZVBKdk1ZWUFEcG9lZUxzTWZDQzJzQzNkd1Rwb1VYOVd2UXhHdVAzZThJV1ltTlJVY1doTFdPVmVsdU90MFU?oc=5"
   }
  ],
  "daily_forecast": {
