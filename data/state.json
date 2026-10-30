@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793400346.6996396,
+   "ts": 1793403949.8781111,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1056,12 +1056,6 @@
   }
  },
  "seen_news": [
-  "fe34749540cc",
-  "27f683f95005",
-  "ad1da07cca46",
-  "9439e1a50291",
-  "202cd154d2b5",
-  "35b5f14cbc02",
   "5246c8a395f5",
   "165cc5e4c1a4",
   "23fb5c5b7df1",
@@ -4055,7 +4049,13 @@
   "055f1dd75ced",
   "19a79c88714c",
   "d20ceda179cf",
-  "89c371b5ab29"
+  "89c371b5ab29",
+  "03d713728274",
+  "c3472813ffa6",
+  "4fd527b30b4c",
+  "9ce4874fbf76",
+  "f41a555a9746",
+  "f78a44629442"
  ],
  "news": [
   {
@@ -4549,6 +4549,18 @@
    "cat": "commerce",
    "raison": "Tarifs durables stimulant l'inflation et l'incertitude commerciale, modérément haussier pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Report: US deploys 10 military cargo planes to Israel amid preparations for possible strike on Iran",
+   "source": "Middle East Monitor",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTBGd2lCallmRGRteHJWT01zTEJMYnU2ZFJKNWE2ZkxQRzlmSUw4OWRDUjMxNHBnN3lsZXR1QS1LVTQ4UnphUFdIUFJkNG9qaEdCejd6WVY3LWl3VEtpemxvbDBQTnlZSmJqVWhKUWlIY1NPR2RKcGxWVng3TTJpbUJ6djVlc3hYVFI2bHVMaFo2SWliWHB6SGNnb2xaTXpnMUpVWEoxU0tjQXoyVmJGWjJiVkYybGdEWTlhbzA2NXJ5ZlZTNTNTREZMMVZJMkgwYk5idFlJRVZjZw?oc=5",
+   "published": "2026-10-30T13:52:00+00:00",
+   "id": "4fd527b30b4c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
@@ -6445,18 +6457,6 @@
    "cat": "géopolitique",
    "raison": "Analyse stratégique confirmant le climat de tension géopolitique extrême au Moyen-Orient.",
    "method": "IA"
-  },
-  {
-   "title": "Connecticut senator says Trump's plan to resume Iran war after midterms is 'insane'",
-   "source": "The National Desk",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ2laMWRIeVJVT1J3V3d5X1JhRW9kRXh3NHVrekxmb29wbnp2eURleEZpTGxKdVdOS3pycnpTUlRaMEZ5LTRaU0Z3amNIcHQ0cVUwV3ZfRGRZdndWT0ZnN3B3ZEMwakl4VllYOGtOWXdJNE1hc2FyTHRfVHY0SnQxYzJ4el93cU55R0wxLXlVWk41Ni1fVmcwbmVqTDZ5ekdTTDAzNEFFRVotaU41RHY2MnZPckI3SjVIYlVkRmZfRkVySG15akRBdXUxMUZHX0kwUXhyWVk4YWpMV3YyWE5KZC1PQ2NkbXdM?oc=5",
-   "published": "2026-10-29T18:57:37+00:00",
-   "id": "7723e9bdf6ff",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Amplification médiatique du risque d'escalade armée contre l'Iran.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8048,7 +8048,8 @@
   "news|3e55d1008773": 1793398934.3600585,
   "news|a5605c0a58b3": 1793400366.6855762,
   "news|8a93450fb279": 1793401292.4689176,
-  "news|055f1dd75ced": 1793403089.0923648
+  "news|055f1dd75ced": 1793403089.0923648,
+  "news|4fd527b30b4c": 1793403967.3403358
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8311,6 +8312,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-30T23:46:07.340429+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: US deploys 10 military cargo planes to Israel amid preparations for possible strike on Iran</b>\n📰 Middle East Monitor · Ven 30/10 14:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTBGd2lCallmRGRteHJWT01zTEJMYnU2ZFJKNWE2ZkxQRzlmSUw4OWRDUjMxNHBnN3lsZXR1QS1LVTQ4UnphUFdIUFJkNG9qaEdCejd6WVY3LWl3VEtpemxvbDBQTnlZSmJqVWhKUWlIY1NPR2RKcGxWVng3TTJpbUJ6djVlc3hYVFI2bHVMaFo2SWliWHB6SGNnb2xaTXpnMUpVWEoxU0tjQXoyVmJGWjJiVkYybGdEWTlhbzA2NXJ5ZlZTNTNTREZMMVZJMkgwYk5idFlJRVZjZw?oc=5"
+  },
   {
    "ts": "2026-10-30T23:31:29.092449+00:00",
    "kind": "news",
@@ -8605,11 +8611,6 @@
    "ts": "2026-10-30T09:16:15.761975+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>IDF fears U.S. may seek short Iran war that ends before Israel meets goals</b>\n📰 Haaretz · Ven 30/10 10:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZUxURFE3em5WQmJ3QlNhRm5pMjZNYVhmdDg2dzF3cnhPR2hPSzdsWW51NzZ1dWVfT3Z6M1RYMTYtQlE3Yl9acTZjenJ0RENNTzBYZTRocjJ0QS1XWV9IaEJ4bDB6SHptNHN4cTY1MmlYNjdYSW00RWFSRVAxS1dpYUNmeGNIZmcxRkdNZ0xKVHRMYWJPNjRBQlZGV0ViS3MxeTFQOHctM3NZZW9ydmQ0RkZ3LWdpOVZHT1EzUTlLV1gxQmR1Z3Z6TGxaTjdYdldLekdJSXR3RU9uZkdEQ1ZqU3QyMjJWR1B1eGRxQVNnQTBiNlZBRk9tX2YtZ1lkRVlCazJzWXIzUXFPSU1ubldj?oc=5"
-  },
-  {
-   "ts": "2026-10-30T09:16:14.636058+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Fourth District Candidates Clash On Trump, Mamdani And Iran War In Thursday Debate</b>\n📰 CT News Junkie · Ven 30/10 10:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTdxSHpHdEJsTFJ2TV9zMnh4R1M1eFBVWmJkV1JnNmhpMC1YTHphYVNGQlAxV2t0bWJHTVJmNmtSUk04LU5UOHlPSm5kODd1emdrazJlY2pOaW85VHZ1V21YRGttRzNqaHdNRHR2UkVLVFBrbGozYVBhVkZYdXp5M184a1Q5NXFTaWYtaTQzNExZWDNEekF4dTVxMXZTRXFqNmJZT1lJLWdKNkpYRVhOTW9pYnJpTE50d3c?oc=5"
   }
  ],
  "daily_forecast": {
