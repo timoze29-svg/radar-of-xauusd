@@ -1056,7 +1056,6 @@
   }
  },
  "seen_news": [
-  "1f53070de88a",
   "a400867151a9",
   "6cb1ed1b96e8",
   "b1710a44d151",
@@ -4055,7 +4054,8 @@
   "e5586279e19a",
   "c65b71e3a886",
   "52e3d6463d53",
-  "50d2c118567b"
+  "50d2c118567b",
+  "08eeedb28663"
  ],
  "news": [
   {
@@ -4441,6 +4441,18 @@
    "cat": "géopolitique",
    "raison": "Flambée pétrolière majeure alimentant le risque géopolitique et la couverture contre l'inflation.",
    "method": "IA"
+  },
+  {
+   "title": "St. Louis Fed President Says Further Rate Hikes \"Needed Promptly\" as Sticky Inflation Pressures Fed",
+   "source": "BigGo Finance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GRnlra0JSRUxid0drdW41M29aY0tZZ3pCeG85RFUwd1RNbnE4QlZoOXpRbzFaeUVjWTZqMU1PUWItSFZhZUtLdk9HdjVxU2hWZWdldG1vM3Y3c3RYY0xhdjRNUjVjLV9ZM2s4MXUxakgtRjZCWXc?oc=5",
+   "published": "2026-10-30T18:55:00+00:00",
+   "id": "08eeedb28663",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Michigan's midterm race may decide the next U.S. Congress — and tariffs are the main issue",
@@ -6445,18 +6457,6 @@
    "cat": "commerce",
    "raison": "Projet démocrate sans majorité, léger signal d'apaisement protectionniste.",
    "method": "IA"
-  },
-  {
-   "title": "Israel’s 53-48 Election Deadlock Leaves Iran Strike in Caretaker Hands",
-   "source": "https://houseofsaud.com/",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qZkNaOVd6aUNwTlBQQWRURWtQTUNpMEhQV2w4X2FoZUxGcXp5WEh6U2x4V2E4ZHE1dm8tTV9PeEI0MXRxZFFPcFV6dFdtSHd2bEcyREpYYWxTM2hLcFgzWVdPUE1jTWZLSlB4RA?oc=5",
-   "published": "2026-10-29T21:55:35+00:00",
-   "id": "ec98c54813a5",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risque accru de frappe préventive contre l'Iran alimentant une prime géopolitique modérée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8050,7 +8050,8 @@
   "news|0896f8e16852": 1793408491.2781537,
   "news|8fcf3d773ebe": 1793409367.064366,
   "news|7d3e0f9f9abd": 1793413882.4427128,
-  "news|2ab451467f85": 1793414768.1217067
+  "news|2ab451467f85": 1793414768.1217067,
+  "news|08eeedb28663": 1793417479.0286605
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8313,6 +8314,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T03:31:19.028732+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>St. Louis Fed President Says Further Rate Hikes \"Needed Promptly\" as Sticky Inflation Pressures Fed</b>\n📰 BigGo Finance · Ven 30/10 19:55\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE9GRnlra0JSRUxid0drdW41M29aY0tZZ3pCeG85RFUwd1RNbnE4QlZoOXpRbzFaeUVjWTZqMU1PUWItSFZhZUtLdk9HdjVxU2hWZWdldG1vM3Y3c3RYY0xhdjRNUjVjLV9ZM2s4MXUxakgtRjZCWXc?oc=5"
+  },
   {
    "ts": "2026-10-31T02:46:08.121802+00:00",
    "kind": "news",
@@ -8607,11 +8613,6 @@
    "ts": "2026-10-30T12:46:12.662682+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 4.939 → prix : <b>4.919</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.14"
-  },
-  {
-   "ts": "2026-10-30T12:46:11.835647+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.949 → prix : <b>4.919</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.14"
   }
  ],
  "daily_forecast": {
