@@ -1056,12 +1056,6 @@
   }
  },
  "seen_news": [
-  "32daed37fde4",
-  "3e736efd5762",
-  "4ea850944b4a",
-  "1fb7e43481bc",
-  "f3f861fc68a5",
-  "301ea96ee2b3",
   "ad50d2f7c276",
   "9b97dc17463e",
   "f4b897a82a09",
@@ -4055,7 +4049,13 @@
   "0fa5d06e77e3",
   "3ddcc1b5ac2e",
   "c8bd2227b349",
-  "5bee6bc9b0aa"
+  "5bee6bc9b0aa",
+  "05b03e70cbf0",
+  "8654bf598bd4",
+  "e39b6f58de9c",
+  "e053ddaf27bd",
+  "c47ffae790b8",
+  "4196f7103b28"
  ],
  "news": [
   {
@@ -4441,6 +4441,18 @@
    "cat": "géopolitique",
    "raison": "Menace de riposte maximale augmentant sensiblement l'attrait pour la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Pro-Israel group in Spain denounces new escalation of accusations against Israel and the Jewish community",
+   "source": "European Jewish Press",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFo4Mzl5RW10TlNabW13cjJZVnc5b0s5Y2Vwd2ZxdGk2NDZNUmdkcjgxUVJxUVVoY0VoaEthZDc4ZkhlSnI2eXNwQU5PVGhRRmd2OVNvWlJad1hsbjI2dEwtVkFqT25rTVhIN1JQVVU1M041MXJ4Y2NSdHhSYlNmSW5jeGE1X3lWREZoRm1wallLbjhIU3g1RG5ZS3NPbVlPU1l5MHBkcDd6T3FYeEpHeEo5VDRUY1F2YzVpa2txRy12MlBT?oc=5",
+   "published": "2026-10-31T11:38:49+00:00",
+   "id": "05b03e70cbf0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump may order major Iran strike if Republicans suffer losses in midterm election: Axios",
@@ -6445,22 +6457,9 @@
    "cat": "géopolitique",
    "raison": "Attaques sur les infrastructures russes alimentant modérément la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "CENTCOM Chief Presents Iran Military Options to Trump",
-   "source": "IranWire",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVlTckF3YVgxRDNOR2lEeXlRdi1iYkFqb2dvamFVazA5eHpkTzNxNnI2TDd5dV91cTdiNHV1RnBpN1gtWXlmMnAyTGMtaHVpeXQ3SVBpRjNkVzY3NmVqUHR4bWlLQ2pXVUJVdGN4eWNNLTlZdkRIcS1sbHlacEU1dEJ5dl85ZFVLVHczYWVRbG5WeXAt?oc=5",
-   "published": "2026-10-30T09:15:54+00:00",
-   "id": "274529ddc1bf",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque accru de frappes américaines contre l'Iran stimulant la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|c1ccac354d1b": 1791657974.9436562,
   "news|8c87de179ed2": 1791658902.135299,
   "news|c43a2c375c1a": 1791659609.8457694,
   "news|b4db5ab21d3b": 1791660678.3108025,
@@ -8059,7 +8058,8 @@
   "news|1b6edab25f57": 1793468771.6130836,
   "news|031c571731ee": 1793469718.5365765,
   "news|3ae968141342": 1793471112.2447236,
-  "news|3ddcc1b5ac2e": 1793471485.1518996
+  "news|3ddcc1b5ac2e": 1793471485.1518996,
+  "news|05b03e70cbf0": 1793473299.2248564
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8322,6 +8322,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T19:01:39.224954+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pro-Israel group in Spain denounces new escalation of accusations against Israel and the Jewish community</b>\n📰 European Jewish Press · Sam 31/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFo4Mzl5RW10TlNabW13cjJZVnc5b0s5Y2Vwd2ZxdGk2NDZNUmdkcjgxUVJxUVVoY0VoaEthZDc4ZkhlSnI2eXNwQU5PVGhRRmd2OVNvWlJad1hsbjI2dEwtVkFqT25rTVhIN1JQVVU1M041MXJ4Y2NSdHhSYlNmSW5jeGE1X3lWREZoRm1wallLbjhIU3g1RG5ZS3NPbVlPU1l5MHBkcDd6T3FYeEpHeEo5VDRUY1F2YzVpa2txRy12MlBT?oc=5"
+  },
   {
    "ts": "2026-10-31T18:31:25.151994+00:00",
    "kind": "news",
@@ -8616,11 +8621,6 @@
    "ts": "2026-10-30T21:31:42.473310+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Rate Hike in December: What It Means for Crypto</b>\n📰 CryptoTicker.io · Ven 30/10 22:17\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTFA3dV9QYWlzaXJUZ1o3Yl95Rmk5Zm9hbEEycTZHdHJiQm5WTnVqelBLcUNIUWM5VTlnVWZVNGdNUmtVdDZNVzlrcWZCbXN6cDNlRTM4dUQtRDFWSXkydm5Ra1h2Q1FMUFQ3OEtKT2wxQ1p3WXc?oc=5"
-  },
-  {
-   "ts": "2026-10-30T21:16:06.890455+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran</b>\n📰 Reuters · Ven 30/10 03:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
   }
  ],
  "daily_forecast": {
