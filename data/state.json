@@ -526,14 +526,13 @@
    }
   },
   "cot": {
-   "ts": 1793371558.2566006,
+   "ts": 1793415673.5158858,
    "data": {
-    "date": "2026-10-20",
-    "net": 199865,
-    "chg_week": -8014,
-    "percentile_3y": 35,
+    "date": "2026-10-27",
+    "net": 186451,
+    "chg_week": -13414,
+    "percentile_3y": 26,
     "hist": [
-     204664,
      202307,
      207069,
      210339,
@@ -584,7 +583,8 @@
      218632,
      210335,
      207879,
-     199865
+     199865,
+     186451
     ],
     "lecture": "Positionnement neutre"
    }
@@ -1056,8 +1056,6 @@
   }
  },
  "seen_news": [
-  "e500c89e83a2",
-  "229f777dbb79",
   "af9510056ee6",
   "b4e16097897b",
   "f6b1b2386743",
@@ -4055,7 +4053,9 @@
   "2ab451467f85",
   "8f69a1807214",
   "311f005ac2ba",
-  "64c0803a5266"
+  "64c0803a5266",
+  "b2a48eba0ed3",
+  "c541e90252ff"
  ],
  "news": [
   {
@@ -4065,6 +4065,18 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UMjI2WDJpQ2VVZk9rRmM2bzBUR083SmE2c2V4MHg3SmZaLUMtV3JfWUtKQnBTQV8wYnM2TURNY2xhaHJ5NkJUWVNNY0FkU0Y2dnRFZXAzdE1fUmM?oc=5",
    "published": "2026-10-31T02:39:25+00:00",
    "id": "311f005ac2ba",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+   "source": "BBC",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VMWh2R0I3M0tkWWJqNkZ0T2k5WEFCTkZWT0NETVhoN0sxZzE3OVRjMVp0bWZ5MEVGNnJDYVlTS2RBc3ZnQS0xaUFGTnBDVWFRV0tSS1c5c1AyRExGc1E?oc=5",
+   "published": "2026-10-31T02:39:25+00:00",
+   "id": "b2a48eba0ed3",
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
@@ -4140,6 +4152,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hotter-than-Expected September CPI Reopens October Hike Debate",
+   "source": "The Conference Board",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGZzS0VPbmpWOTB2VFpBNnBVbG92N2Y1N1kySE0yU2tWWGphQlFrcDVJVzgtaV9nNTQtTzBqc1dXYkxGbDJOUzBmT3lOVnlzR1dicFlWd3R2Y2RfcGdhZk1VQzlhbkJFSTE3ZWJsQXF2cExOME5aN2VUSXE4ay10Y2F6UGJMQVAwZ2Uzb01tX2ZhdjZ3V1E?oc=5",
+   "published": "2026-10-31T00:09:24+00:00",
+   "id": "c541e90252ff",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
    "method": "mots-clés"
   },
   {
@@ -6432,30 +6456,6 @@
    "impact": -2,
    "cat": "inflation",
    "raison": "PIB solide et inflation persistante repoussent les baisses de taux de la Fed.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold price slides as higher US inflation reinforces Fed tightening bets",
-   "source": "Mining.com",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVI5aElvYWUzT3dEbko0M3lNY1dKX0VKZUlZc1BVdlgwRDVVZXAyWHotQUhMTmZYYndkSjhOdml5QlR0UDlQUF9pOXVNdnRQRG1ueGlGeGg1UjQtUEZFU2lxS1BpLXJlTkpXcjRhR2t1d2hMcmlud1dJZHp1V1ZLQjY5TUxLY2pkNEhGeEhsMmhRaXpQUU9Edw?oc=5",
-   "published": "2026-10-29T21:01:29+00:00",
-   "id": "84be11455516",
-   "impact": -4,
-   "cat": "fed",
-   "raison": "Anticipations de durcissement monétaire de la Fed propulsant les rendements obligataires et le dollar.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Holds Off on New Machinery, Robotics Tariffs in Win for Manufacturers - National Association of Manufacturers",
-   "source": "NAM",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlY4M0NsY21PWkxrNG5KSHUyYjQzYTVKRF9UZ1laMk4yZEhuRlhXZVdSSUczaFVuaGRRMFRBa3JYeTFxTzhGV3kwLUhmYThmc2Y0bV90U1ZWR2F5aHNrYUxOaGJCUWg5aXJ4aHRjRGFfYklhN2lDZVc0ajd2RVFOaHhtWlIzN3Q4dmFGdWdTQUZKT0lwM0E?oc=5",
-   "published": "2026-10-29T20:56:13+00:00",
-   "id": "4bc45aaf572d",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Pause tarifaire apaisant les craintes inflationnistes, léger vent contraire pour l'or.",
    "method": "IA"
   }
  ],
