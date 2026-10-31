@@ -1056,14 +1056,6 @@
   }
  },
  "seen_news": [
-  "d04632f8b1a4",
-  "2b53f848d89d",
-  "62b34ef4119d",
-  "796eac64126f",
-  "b5b97e9976a0",
-  "cd94f5880920",
-  "fdf54919d317",
-  "0a15cc0a7d85",
   "ff76bdf85f47",
   "c7d17d0fc49c",
   "1c8796a7693a",
@@ -4055,7 +4047,15 @@
   "7b2628974f8f",
   "94a2569eefca",
   "fbb3a7dec9f0",
-  "2f02399d3970"
+  "2f02399d3970",
+  "34c150e1472b",
+  "4bc204ffa180",
+  "ecd8871b6662",
+  "fc93520a0cfd",
+  "e94e8b6052cf",
+  "76460aaa9f87",
+  "031c571731ee",
+  "6302bf9464d4"
  ],
  "news": [
   {
@@ -4101,6 +4101,18 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnN1SE9HNVFSSHE4S1VrZmVzM1R0N1UxRUNVMHBHbjBNZk5sWldDd1h2UHo2eFlvRTl5MFdQTURsZ1FzTW9vYWI2WWZVZGNrSThBS3dzeDZpakswMXAxOW5KVVdub1RwRnVzYU51UklFbHhiQkVKdkhSSXJWbUlES1duUzJGY2VWa2VnSk8xQjY?oc=5",
    "published": "2026-10-31T16:59:00+00:00",
    "id": "1b6edab25f57",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran strikes on US Mideast bases first took out early-warning systems, analyses finds",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0t0VEdfVUlkRDRaUVg4ZC1jRzlwRTRBd1U1cFRWRG13bWh1R3BDWm1BLUFUdmt6NWg1NDlQSkR3d2QtVkl6UG93SUJYRHJ0cFZlX3ZBQ3kzUDVWaXFDcmZSTHc2eDlNVjdablhyTjZGVll0a2NENWFPSWM5eW1PLVFCV3hXTFNYN042MDRvTlJ3UnZ6YkRLcmlkR2xJeFR5MXNWVEVJVjNzUE9relN0LVBrY0VTZ9IBuwFBVV95cUxNYWQ4UGJnRnN6djJJVGhOMm10enR2RGMtZXd4b3BiRjBIMzV3ZWc2eWhKaU5oQWFHU3BVZnpPbE5oOE10bG1QcHRlVWhNUVdzdV90OWl5LUc1UkFpd1BrazF4bmZHUFpxY0dXdkd3aXZZR3BtVW5EdFBJOVpIc20zSldWNllzR2hFTm1pa2JuLXdzcDRvcHd0aXB6V1NtbU53VFlOS3VXd2RBcHl6aU8yWTZMdHdJbVpTc3ln?oc=5",
+   "published": "2026-10-31T16:45:27+00:00",
+   "id": "031c571731ee",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4402,6 +4414,18 @@
    "published": "2026-10-31T11:25:08+00:00",
    "id": "d15e8bf6e062",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold's 3.6% Slide: Liquidity Squeeze and Rate Fears Strike Together",
+   "source": "ad-hoc-news.de",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeVB5Yl9nNnhEMVZmdFZoak15NC1WVHA0X0V5bmxLRWFRV0F6NFJ3NHZOOVJ4bVhQYjlvcGhuTlRHWEszYndQZ2tnajhkNWZXQUtSTEFYd1JncmtnQUFTYWVlQjBtdFVFRFVuamlBT2dCZ21XWDFCOGV6WEZoYzJTQVp2aEhwSlIyMUItWWZ1Mk1aYnB0RFVxV2ZHUEVqZDdvVXRKUHJvVEFWU1FJc2d0YnluSDEzOUs2UklMdi1ubFVwUE5zOGV0RnItTzNaaDhqOUtr?oc=5",
+   "published": "2026-10-31T11:20:43+00:00",
+   "id": "6302bf9464d4",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6433,35 +6457,9 @@
    "cat": "géopolitique",
    "raison": "Tensions géopolitiques avec l'Iran stimulant les achats d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. Treasury yields fall as markets assess Fed rate hold and upcoming labor data",
-   "source": "Traders Union",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXV1dXYxTWhVOHdJUHNZYjRHTUJHRXJZMHNJd0lzNFA0cHVjNC0xUWhtMU9yaTZITFc0MGtzYmRwT1g5MGlxUnJ1MGtiU1kwQjAzV0JtQW9oYW42anFoZkZjb2tvM2FWNVhCa2prekZVMjQ0dlFXd0hPTFY3UDBZREdZZ0RVTGdHdTdRU3NPU1U2d3hIZ1E?oc=5",
-   "published": "2026-10-30T08:28:35+00:00",
-   "id": "3d5be543071c",
-   "impact": 2,
-   "cat": "taux",
-   "raison": "Baisse des rendements obligataires américains réduisant le coût d'opportunité de détenir de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine War, Day 1,709: Russia Murders 14 Civilians on a Train Platform in Dnipro",
-   "source": "EA WorldView",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajlkb2RDaFZxVjNsQkk1YkRocVlqeFEybndaaWN1MzI3eHdWdnVlYy0taUs4eC1xWkc0WklsOVFoNjhmRmtweUg2ek9pN0RDWElDQUhEaVJFdlpSMGVScFN0NTRPZW8zeFhWeTdnamtsMzRCYlFCR1NuaHJ6Q204cXN6UVVxN1ZlZGcwWnlIa0FsZ1N3Z1FVcExQYkFkVlNz?oc=5",
-   "published": "2026-10-30T08:28:08+00:00",
-   "id": "94a63fbe0e56",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Légère prime refuge géopolitique, mais événement déjà largement intégré par les marchés.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|4e07e09666bb": 1791655288.117117,
-  "news|404e34d3ac95": 1791655289.0719955,
   "news|704c0290c78f": 1791657079.6944797,
   "news|c1ccac354d1b": 1791657974.9436562,
   "news|8c87de179ed2": 1791658902.135299,
@@ -8059,7 +8057,8 @@
   "news|0ce267a9095d": 1793466970.6595278,
   "news|3d778c7e9961": 1793468769.8809383,
   "news|93494c889e1e": 1793468770.768881,
-  "news|1b6edab25f57": 1793468771.6130836
+  "news|1b6edab25f57": 1793468771.6130836,
+  "news|031c571731ee": 1793469718.5365765
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8322,6 +8321,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T18:01:58.536651+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran strikes on US Mideast bases first took out early-warning systems, analyses finds</b>\n📰 The Times of Israel · Sam 31/10 17:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0t0VEdfVUlkRDRaUVg4ZC1jRzlwRTRBd1U1cFRWRG13bWh1R3BDWm1BLUFUdmt6NWg1NDlQSkR3d2QtVkl6UG93SUJYRHJ0cFZlX3ZBQ3kzUDVWaXFDcmZSTHc2eDlNVjdablhyTjZGVll0a2NENWFPSWM5eW1PLVFCV3hXTFNYN042MDRvTlJ3UnZ6YkRLcmlkR2xJeFR5MXNWVEVJVjNzUE9relN0LVBrY0VTZ9IBuwFBVV95cUxNYWQ4UGJnRnN6djJJVGhOMm10enR2RGMtZXd4b3BiRjBIMzV3ZWc2eWhKaU5oQWFHU3BVZnpPbE5oOE10bG1QcHRlVWhNUVdzdV90OWl5LUc1UkFpd1BrazF4bmZHUFpxY0dXdkd3aXZZR3BtVW5EdFBJOVpIc20zSldWNllzR2hFTm1pa2JuLXdzcDRvcHd0aXB6V1NtbU53VFlOS3VXd2RBcHl6aU8yWTZMdHdJbVpTc3ln?oc=5"
+  },
   {
    "ts": "2026-10-31T17:46:11.613210+00:00",
    "kind": "news",
@@ -8616,11 +8620,6 @@
    "ts": "2026-10-30T20:16:05.074202+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump says Iran war will end soon, US military insists Hormuz is secure</b>\n📰 アラブニュース · Ven 30/10 21:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1JWSG1laVhwRzA1MnVaOGdFUnQyZE9KbjE3ZzlTZUE1bGN4dUlfWEhXWF9Oc2NMVXFNM19WekZXMGlsbENjQ2toVTRCMTVmZWVrbVVualNkd09jZ1BmNFM5ZTJTWk9aRGloVW53ZVlQVzdvZTQ1Z1hwNTMtM0p3SkpVb0YyM2lUQ0MxbkhWSVcwZDU0Qjhqa3NxWG9uYzYwcjlpVUxsLWtWZHF5X1IydU16S1paTEYw?oc=5"
-  },
-  {
-   "ts": "2026-10-30T19:46:10.095153+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War</b>\n📰 The New York Times · Ven 30/10 11:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNiUjUzdFh6a1pRNzRJazBScGR1cVkxRDRqMnYwUFRleGRlWTZZYWdTRGRsVkZ6Y1NldWRNeHV5REJLc3VvR0h3UlRUcVY2Rl9jS3VxTXgxcnZ2Zjcta0tqSUtLRERVZ25xZ3pTN2V0Y0JDZDdOZVNDazBubGQtR2gwbDMwZ0QxeEYteGdXbEY1WlhubnFiWXZXQThWUFhXdkRxVQ?oc=5"
   }
  ],
  "daily_forecast": {
