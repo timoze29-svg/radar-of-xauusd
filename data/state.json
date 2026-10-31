@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793441751.2844255,
+   "ts": 1793464260.2711017,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793459750.5058327,
+   "ts": 1793464260.3926423,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1056,9 +1056,6 @@
   }
  },
  "seen_news": [
-  "b2f90f1bb900",
-  "e09ca7d8c717",
-  "622f49055a93",
   "0cb4c568eb09",
   "144b21719c2e",
   "a128a5ad98a8",
@@ -4055,7 +4052,10 @@
   "7d90e3b4cdee",
   "32f41744f025",
   "f1e1acd03e41",
-  "5931f0ca5e2a"
+  "5931f0ca5e2a",
+  "e7a4dc436ddd",
+  "2091df6e0fef",
+  "07fd38509dd6"
  ],
  "news": [
   {
@@ -5101,6 +5101,18 @@
    "cat": "géopolitique",
    "raison": "Validation de ventes d'armes soutenant l'effort de guerre, risque européen maintenu.",
    "method": "IA"
+  },
+  {
+   "title": "Oil Climbs on Signs US May Resume Military Strikes Against Iran",
+   "source": "Bloomberg.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5",
+   "published": "2026-10-30T20:33:07+00:00",
+   "id": "2091df6e0fef",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Houthis target Medina, Yemen's presidential palace again in fresh escalation",
@@ -6445,25 +6457,9 @@
    "cat": "politique US",
    "raison": "Tensions politiques internes sur l'Ukraine sans impact macroéconomique tangible à court terme.",
    "method": "IA"
-  },
-  {
-   "title": "US military cargo planes land in Israel as Iran strikes loom; PM Netanyahu retains war powers despite election deadlock",
-   "source": "Organiser",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdHJvdkhxSTJlcWJXQjBvSHBZSXEzSTRscFpYMjRONnhkZ2p3X0JRTHUtMWtzRldsX3JybHprQ21XVVRyeVk3OGlaNG1uS0UtaU9Kb1E1czlBMWFTeWd1ZEZ0eE5mNmNuLVVWUTRpWVBBQnVxQm4wOG1SamF2ZHVmSzdXcjNoSGhpQ1FncjRlMlBSRDRJdHJ4elp0OEVvVFc0ak5TRndEN1VXdFE2MnZYMmRJbC1DVnk0clY3UjA2ZXJreEY0ZTdOVzZDY1V1UlMtTkpCVWJxck94OXFfaWlWdG1sSjE1cjBBaEZRaXpqRmhzOV9ZYzBFV2RvaWYxQmFtZ1RB0gGIAkFVX3lxTE8zaUVqeDRmRUlzTEpGcHFCbjYzeFlVYnd6eVFpUmQ3Y0Y3ZEV4NVZlSTVKRmZFV2wwR2ZnbFFPeWJuX0IxTlBEU1JKNFBNd0FBeENUZXdiSEJ1M04tbDJqRHRzSTVnQXlERVdaOVNJM2xEMmt2NlJ5b2trSXFMWFlKdTViMkhsV0JoaEpKMlhOYUdmQjdsdWMtTDN5NTdVaW5KVUpnRVB0T3ZHdndiS0pieTBvd3VNeDJvZXJyaHN0LVQwM2VUMlJUZUpXMXFDWHlPXzR5SVRfZ3JaLWlMNXlaRnRoSmw2RDRqdXpVLUFFTndLQUlSeUh2MlpzbTJFTXotci0tWGphWQ?oc=5",
-   "published": "2026-10-30T07:45:59+00:00",
-   "id": "b27faa4f984c",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque imminent de frappes militaires au Moyen-Orient stimulant les flux de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|7b70c6d8644a": 1791648276.3894746,
-  "news|71627d5d4bbd": 1791648277.2987092,
-  "news|906eb2101c86": 1791648973.7380865,
-  "news|7d8ca8891044": 1791648974.7249,
   "news|a10a7b744a53": 1791650769.3698044,
   "news|c23b57d3a838": 1791650770.4764411,
   "news|a7a1a0ec4ba0": 1791651698.0143461,
@@ -8060,7 +8056,8 @@
   "news|f306343aa961": 1793460683.1670396,
   "news|e939d5cc69b4": 1793460684.0335774,
   "news|4099a33ec8e5": 1793462492.1053798,
-  "news|0c5da0224a43": 1793462493.0451956
+  "news|0c5da0224a43": 1793462493.0451956,
+  "news|2091df6e0fef": 1793464283.7695365
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8323,6 +8320,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T16:31:23.769606+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Climbs on Signs US May Resume Military Strikes Against Iran</b>\n📰 Bloomberg.com · Ven 30/10 21:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5"
+  },
   {
    "ts": "2026-10-31T16:01:33.045367+00:00",
    "kind": "news",
@@ -8617,11 +8619,6 @@
    "ts": "2026-10-30T18:18:02.258241+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 48 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Logan Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans +0.4 pb\nOr -10.6$ (extrême -13.0$, range 14.1$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-30T18:01:53.179267+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n-0.1260 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
