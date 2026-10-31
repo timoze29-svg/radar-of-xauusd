@@ -1056,11 +1056,6 @@
   }
  },
  "seen_news": [
-  "6f2a326535bf",
-  "69b5187f957d",
-  "cc144d50f744",
-  "9452b46d1154",
-  "b5fbf0b274db",
   "834e7b9e18b1",
   "9ddda9cea0be",
   "4347672f39b4",
@@ -4055,7 +4050,12 @@
   "a289afc60600",
   "5aafe142d0df",
   "27e4ae403a64",
-  "2b5421e4963b"
+  "2b5421e4963b",
+  "1ec541e60fc2",
+  "f612d9ad30fa",
+  "ece14dbb096c",
+  "de341f2f4fb7",
+  "19600146ae12"
  ],
  "news": [
   {
@@ -4129,6 +4129,18 @@
    "cat": "géopolitique",
    "raison": "Crainte d'escalade militaire régionale au Moyen-Orient stimulant les achats refuges.",
    "method": "IA"
+  },
+  {
+   "title": "Egyptian foreign minister 'extremely worried' US-Iran escalation will have major impact on Mideast",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dXVoYmJWdDFKajNYd01QS2lyeExkdWtWNXo5NEdLb2pDS1FzdnJ3MW9TLWtwZXRscUF0aEplSzdicWZZdFpVYWVRcjEyVlNpbFl5QlhjTGI0M2QxSFlLQXhIZDdQRW14akE?oc=5",
+   "published": "2026-10-31T08:08:08+00:00",
+   "id": "1ec541e60fc2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Egypt fears escalation in US-Iran war would be more destructive, foreign minister says",
@@ -4969,6 +4981,18 @@
    "cat": "géopolitique",
    "raison": "Trêve locale circonscrite réduisant très légèrement l'aversion au risque.",
    "method": "IA"
+  },
+  {
+   "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3UkpoZS02YnR1RFJfOG03U3NnUnZaMEF3ZFgxNENoc3JLS0ZGRkYzb1ZrZTVzTEhXOG5aaTEwQ0VvbVY2Y1J5WW4ybGZKcHBveXpBT2owSmZWc0k?oc=5",
+   "published": "2026-10-30T16:26:11+00:00",
+   "id": "de341f2f4fb7",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US Dollar Index struggles as tech sell-off overshadows hawkish Fed",
@@ -6432,30 +6456,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Attaques maritimes soutenant les anticipations inflationnistes et la demande de couverture.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
-   "source": "Reuters",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
-   "published": "2026-10-30T02:27:00+00:00",
-   "id": "30c2a906375d",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Poussée des craintes sur l'Iran et risque d'inflation pétrolière très favorables à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Breaking: 2.8% in October as Japan’s Tokyo CPI inflation rises",
-   "source": "www.tmgm.com",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORENfalIxMTVSLVZxd3lMdEdpRVlqYnV5cU9hV0pULVEtSHNabkhTRGhhM2FFNWgwNjF5T3luREtUd2JtYXBtaWlVNEI3a000Nmc0bWFYdjlYVVc2WFFtWnAyOHV0YzNoRldBdTVnZmNEUTM0OWFGQy1PSk9ITkpJT0NBZElRYmhTN3VSZ1R0aG9QdlFFcHRneFdLU0QtejNPSmJwSVFLT3FMbmpidXBNNW5pSmdIQjFnRUtUeUh5MDg?oc=5",
-   "published": "2026-10-30T02:22:59+00:00",
-   "id": "093ed8eb515f",
-   "impact": 1,
-   "cat": "inflation",
-   "raison": "L'inflation japonaise alimente la force du yen face à un dollar sous pression.",
    "method": "IA"
   }
  ],
@@ -8054,7 +8054,8 @@
   "news|eaafafb6c29b": 1793434762.8399165,
   "news|48c37a0821de": 1793434763.8484015,
   "news|9b5bb67309ef": 1793434764.71279,
-  "news|6e2ca04eaf5c": 1793438402.4371052
+  "news|6e2ca04eaf5c": 1793438402.4371052,
+  "news|1ec541e60fc2": 1793439085.6222544
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8317,6 +8318,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T09:31:25.622323+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egyptian foreign minister 'extremely worried' US-Iran escalation will have major impact on Mideast</b>\n📰 The Jerusalem Post · Sam 31/10 09:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dXVoYmJWdDFKajNYd01QS2lyeExkdWtWNXo5NEdLb2pDS1FzdnJ3MW9TLWtwZXRscUF0aEplSzdicWZZdFpVYWVRcjEyVlNpbFl5QlhjTGI0M2QxSFlLQXhIZDdQRW14akE?oc=5"
+  },
   {
    "ts": "2026-10-31T09:20:02.437238+00:00",
    "kind": "news",
@@ -8611,11 +8617,6 @@
    "ts": "2026-10-30T14:16:20.655595+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say</b>\n📰 The Guardian · Ven 30/10 13:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5"
-  },
-  {
-   "ts": "2026-10-30T14:01:59.675906+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-104.20 aujourd'hui = 1.5× l'ATR"
   }
  ],
  "daily_forecast": {
