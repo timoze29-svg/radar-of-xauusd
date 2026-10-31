@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793421062.503197,
+   "ts": 1793425550.226953,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1056,8 +1056,6 @@
   }
  },
  "seen_news": [
-  "88a5c3855c4d",
-  "9b6979909da3",
   "5ed17d6e1545",
   "c55e6641f48b",
   "769cc7a6259e",
@@ -4055,7 +4053,9 @@
   "6197fff917ef",
   "59c344e3297d",
   "4aa20acb2409",
-  "b87da60a2c5f"
+  "b87da60a2c5f",
+  "7e3014e91ff4",
+  "cbbf89315fb3"
  ],
  "news": [
   {
@@ -4114,6 +4114,18 @@
    "published": "2026-10-31T04:10:03+00:00",
    "id": "8c1549e3f6f4",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump's oil holdings surge 43% amid Iran war, raising conflict of interest concerns - report",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWUR1MTI0emxfZV9vT29kODhGRm1vM0RZUjlLaTNVVm42T0xDcDhjYkFaR0RYWUtWM2VvQWQtaHpReHVVQm01aGphdUdmc0xOeDJtUDhWakZZcmc0cXJr?oc=5",
+   "published": "2026-10-31T04:10:03+00:00",
+   "id": "7e3014e91ff4",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5077,6 +5089,18 @@
    "cat": "or",
    "raison": "Momentum baissier et craintes que le pétrole cher ne retarde les baisses de taux.",
    "method": "IA"
+  },
+  {
+   "title": "Japanese Yen: Weakness against US Dollar to persist despite hawkish BoJ – ING",
+   "source": "FXStreet",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0s3d09sVlVIeVRZN2I5NzdXMTVYa3dSaFpTU3BYOHU1OXdDU3Eza2IySUYzdDdtS2hsT0hDdUlWV0tseGtrTjY4bmphSDN4ZVY4SDlEamF2RFhLOXJGMXF5Q1ZiWnFBaENxR0lSbThVa2w1NWp6T05NTDZpSTlfSFNScWs4b1hSVnlIckI3cHluYVBGdFMxbmJFV1RJeTBUeGtJdkd3M0dpRXM0VU4wNXRfSmNicHB1?oc=5",
+   "published": "2026-10-30T12:48:58+00:00",
+   "id": "cbbf89315fb3",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "US Dollar Index falls despite hawkish Fed outlook: Why is the Greenback struggling?",
@@ -6432,30 +6456,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Préparatifs militaires accrus renforçant le statut de valeur refuge à court terme.",
-   "method": "IA"
-  },
-  {
-   "title": "Bitcoin Rides Out Fed Hawks, 3.6% Inflation and AI Capex Fears",
-   "source": "Cryptonews.net",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzRy1haTgtbG95YjJuZEt5Q1MwX0dHLW5vYWZRbXpYQ1RFQnZCVkZ0ZFhIOG1USlJ1ck1TVkZGQ2gzSllLVTc2NEszRzZQUjJfV0ZvSWFPOVc?oc=5",
-   "published": "2026-10-29T23:21:38+00:00",
-   "id": "5f967381a96d",
-   "impact": -1,
-   "cat": "fed",
-   "raison": "Rappel d'une Fed restrictive et d'inflation tenace, pesant légèrement sur le non-rendement.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold falls to near $4,000 as US PCE data reinforces December Fed hike odds",
-   "source": "FXStreet",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV21WSjl6c1BWTC1UTmtKbkhXNXJHdlhTSEFqZmhxM1JvUFFiWS1YNlRWdlh3cGFLTFVleWIyTmJlZ0hza1dPNHBwT0FvbmxycS1FczVIbThueVVhVWYxeFJNdlBPZ2NTZE52Q1MzbE9ZQjJjU1JNZjgxbjFGY3BMSU82dm5kdndzTFdhdnJleEVoZmtPQTc0TWpEczVOZGVBeXl1aFJsdGEweDFLRXFvT2wwUFlnbkk?oc=5",
-   "published": "2026-10-29T23:18:51+00:00",
-   "id": "90a8cedda2b6",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "PCE robuste renforçant le scénario de hausse des taux, très défavorable à l'or.",
    "method": "IA"
   }
  ],
@@ -8054,7 +8054,8 @@
   "news|08eeedb28663": 1793417479.0286605,
   "news|95fc03dc5b67": 1793418366.060189,
   "news|ac57a2c97a78": 1793420188.3204494,
-  "news|4b85e492036b": 1793423088.8659203
+  "news|4b85e492036b": 1793423088.8659203,
+  "news|7e3014e91ff4": 1793425569.0070434
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8317,6 +8318,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T05:46:09.007136+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's oil holdings surge 43% amid Iran war, raising conflict of interest concerns - report</b>\n📰 The Jerusalem Post · Sam 31/10 05:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWUR1MTI0emxfZV9vT29kODhGRm1vM0RZUjlLaTNVVm42T0xDcDhjYkFaR0RYWUtWM2VvQWQtaHpReHVVQm01aGphdUdmc0xOeDJtUDhWakZZcmc0cXJr?oc=5"
+  },
   {
    "ts": "2026-10-31T05:04:48.866004+00:00",
    "kind": "news",
@@ -8611,11 +8617,6 @@
    "ts": "2026-10-30T13:01:41.482534+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3966.00</b>  (-43.6$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-13) → maintenant -4 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n📏 Range fait : 71$ sur ~66$ attendus (109%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>17:00</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>17:30</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Trump on Iran War: It will end soon\n🔴 (-8) Ringgit extends rally against US dollar as traders reassess Fed rate hike prospects\n🟢 (+6) WHO: Yemen escalation leaves over 9,000 dead or injured, displaces 276,000\n🟢 (+5) Trump announces ‘Golden age’ as inflation falls and incomes rise"
-  },
-  {
-   "ts": "2026-10-30T12:46:15.248535+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 5 ans</b> casse le plus bas sur 20 JOURS\nNiveau : 4.746 → prix : <b>4.714</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.33 | 60j -0.15"
   }
  ],
  "daily_forecast": {
