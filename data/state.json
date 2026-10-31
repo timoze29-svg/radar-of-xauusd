@@ -859,7 +859,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793385091.3643043,
+   "ts": 1793457979.359641,
    "data": {
     "gold_hours": {
      "0": {
@@ -1019,7 +1019,7 @@
      }
     },
     "dollar": {
-     "n_hours": 5967,
+     "n_hours": 5970,
      "horizon_h": 2,
      "base_gold_up": 53.3,
      "base_dxy_down": 48.1,
@@ -1056,18 +1056,6 @@
   }
  },
  "seen_news": [
-  "d4bda9ea4721",
-  "0059990912ba",
-  "45e9dcd0e099",
-  "8e6531a2492e",
-  "a1b00d79922c",
-  "170afeee54db",
-  "086f21421523",
-  "9e603c8004e8",
-  "2f1080515dbf",
-  "29e0a4f85909",
-  "e33577ea19ec",
-  "ad19cc769e5f",
   "c335922b6df2",
   "c9f96787c937",
   "9ddc7ee2f438",
@@ -4055,21 +4043,21 @@
   "3f4e5caea1b2",
   "9c066cbb328c",
   "53e86cdfcb6d",
-  "46ed9016cf11"
+  "46ed9016cf11",
+  "c562bded4c9c",
+  "b0562aa03248",
+  "4574a5df2f7a",
+  "7fe909b97c92",
+  "024239b36758",
+  "5565b50d0b7d",
+  "678931d4ed0f",
+  "d7c351202a9c",
+  "7a5da6db5656",
+  "68f93cbdaed9",
+  "98e8c04f6bcf",
+  "414f4de5ab5b"
  ],
  "news": [
-  {
-   "title": "China’s coast guard conducts patrols east of Taiwan, CCTV reports",
-   "source": "Internazionale",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdTJjRWxZTmx2cHpBSEhTcmNzbUxybm5leHhGaDFxRmVhZlhvWVNVZlgtRTFkdzJHMEhRU0k5aUptQl95Skg0UzhwRnZ3dkNPbkV4V3d2S1U1TUJLWXNkWVpLdVhlMDFVcVEtc05EMXE2Zy1OcUpnYWJrMHEyaFJmZE1OUFBKb2o2U0wtMERJZWg2VGR3b2d5MWNSMU1kVHZxYnlmdjh5OUNLZ0kyNS16UW52M2Z5MkdkbVdCNnFRcTNPNTNJNFNJ?oc=5",
-   "published": "2026-10-31T14:15:57+00:00",
-   "id": "46ed9016cf11",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Russia Ukraine War",
    "source": "Post Register",
@@ -4078,6 +4066,18 @@
    "published": "2026-10-31T13:43:32+00:00",
    "id": "a29ea6ef94a0",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep",
+   "source": "The Washington Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5",
+   "published": "2026-10-31T13:33:41+00:00",
+   "id": "7fe909b97c92",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4105,6 +4105,18 @@
    "cat": "géopolitique",
    "raison": "Trêve très ponctuelle sans influence majeure sur le conflit ukrainien global.",
    "method": "IA"
+  },
+  {
+   "title": "Iran supreme leader warns US, Israel against strikes",
+   "source": "香港電台",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkJoZ3c2U0pnQWVoYU9XYUVrVHRaQ3dVX05KX3pUYVRpMk1VQko0OXFJbkRobVRLNk41STVrTDFtQ3dsR081Z253QmxMVUhkWkxzdXJxUTRUb0xXRnhrbnFWVzdfUkZKZ2ZYWUdWTWt4QzhzZlVZeXFLS2Vxc1pOWENEcDBJeXBKaWFTck1IbjBzenlqZ3BER29UdTJTWGRRcWpF?oc=5",
+   "published": "2026-10-31T13:00:00+00:00",
+   "id": "5565b50d0b7d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Israel weighs Iran escalation, Gaza offensive after US vote",
@@ -4369,6 +4381,18 @@
    "cat": "géopolitique",
    "raison": "Craintes d'escalade US-Iran soutenant légèrement la prime de risque géopolitique pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Live - Tehran threatens wider strikes if attacked as talks continue in Doha",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
+   "published": "2026-10-31T07:59:51+00:00",
+   "id": "024239b36758",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Report: Trump Planning to Resume Iran Strikes as Soon as One Day After Midterms",
@@ -6433,50 +6457,9 @@
    "cat": "taux",
    "raison": "Attractivité des rendements obligataires élevés, pénalisant l'or en tant qu'actif sans rendement.",
    "method": "IA"
-  },
-  {
-   "title": "US-Iran hopes temper safe-haven demand as United States Dollar Index edges lower",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd01JT3paa2tzLVFwdmxkbXZyRW1NczdvSHNocVZBUk5Tei04bXJ4ek1PYVE0Rnp3U1JfenFTZDhEel8xWW9PZ1p6bnJ3a2dtQzlVTEd0VlNpMFR3OEpBY0NPTUJpc190d3hmMWRJX0NkdDlMSHpnSFVsMG02MDRudlhySW9WaFZsWndKQTAzaGZCOC1Bam9RajZ2aFZlMFpQWktld0NMU1BDQUhfZHY3Sjg0SGhQWVJMTmtiZUR0V3NrTmJiSnBuNUVRMjAzVHRmUUVj?oc=5",
-   "published": "2026-10-30T05:50:10+00:00",
-   "id": "b0eaa602d7c3",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Baisse de l'aversion au risque moyen-oriental pesant directement sur la prime refuge de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Brent Crude Surges Near $118 as Middle East Supply Fears Escalate",
-   "source": "https://streamlinefeed.co.ke/",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEc2SWNySVBkV21Ic29nVzRHQ3BTTEdmQVVFVlk5YnRFOWFXZVNhQUtzQmJSZ1ZPUlpEbTd1c3JOaFNPZk44R2MyWlhOVlF2R0FpdXZBak56b24wSVFUMHl3bS1QYjBGYU04bThpalduc3ZIbnV1T0dTS25WS0I4akZ3TWpGa1JLRzhNVDdISzRLRnNGRGUzLVpCNHhhcTg?oc=5",
-   "published": "2026-10-30T05:43:10+00:00",
-   "id": "ae95cb9eeb94",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Flambée pétrolière et craintes géopolitiques alimentant l'inflation et la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|650d2153f1d3": 1791641796.1962054,
-  "news|4db55abbcf61": 1791641797.2830515,
-  "news|5c4e5395fe9d": 1791641798.318406,
-  "news|bd66b7d4987b": 1791641799.300666,
-  "news|6c1164ede12d": 1791641800.2954862,
-  "news|3b16350f9982": 1791641801.3293042,
-  "news|17fa4e9e570b": 1791641802.3456047,
-  "news|2656cab16bf2": 1791641803.4111109,
-  "news|5838b9e801bf": 1791641804.4220548,
-  "news|0032583c751d": 1791641805.4871006,
-  "news|e740f02b3097": 1791641806.480207,
-  "news|d63e861d76ab": 1791641807.5523696,
-  "news|30b206084989": 1791641808.558303,
-  "news|bc22c8fc0d89": 1791641809.567421,
-  "news|09b2c1b5f390": 1791641810.6582854,
-  "news|93f2a6598bd0": 1791642319.4329133,
-  "news|02b59c20d633": 1791643321.317878,
   "news|7b70c6d8644a": 1791648276.3894746,
   "news|71627d5d4bbd": 1791648277.2987092,
   "news|906eb2101c86": 1791648973.7380865,
@@ -8068,7 +8051,9 @@
   "news|c47f28615723": 1793452569.5447202,
   "news|00d8014d3731": 1793452570.413154,
   "news|71cc9539bff2": 1793453533.592773,
-  "news|d1f4ea3e9367": 1793454366.2006717
+  "news|d1f4ea3e9367": 1793454366.2006717,
+  "news|7fe909b97c92": 1793457975.740029,
+  "news|5565b50d0b7d": 1793457976.7013855
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8331,6 +8316,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T14:46:16.701506+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran supreme leader warns US, Israel against strikes</b>\n📰 香港電台 · Sam 31/10 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkJoZ3c2U0pnQWVoYU9XYUVrVHRaQ3dVX05KX3pUYVRpMk1VQko0OXFJbkRobVRLNk41STVrTDFtQ3dsR081Z253QmxMVUhkWkxzdXJxUTRUb0xXRnhrbnFWVzdfUkZKZ2ZYWUdWTWt4QzhzZlVZeXFLS2Vxc1pOWENEcDBJeXBKaWFTck1IbjBzenlqZ3BER29UdTJTWGRRcWpF?oc=5"
+  },
+  {
+   "ts": "2026-10-31T14:46:15.740094+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Persian Gulf scrambling to prevent Iran war from again hitting its doorstep</b>\n📰 The Washington Post · Sam 31/10 14:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5"
+  },
   {
    "ts": "2026-10-31T13:46:06.200748+00:00",
    "kind": "news",
@@ -8620,16 +8615,6 @@
    "ts": "2026-10-30T17:01:44.571392+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance: Trump Will Not Allow Iran Conflict to Become Endless War</b>\n📰 IranWire · Ven 30/10 10:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFM1aDFZOUctUnRuU1duTVBROHhDMFB0QllYd2Q1RmtWMzlJQndMRjJSWjB2TUYyWjdQcW9zQ0d0cWdBNzJZNUE5R3NSYUdGaVlCTFlJNlV0dHJvMTNrc2xGSHhrbW53R0ZJemYtMkNZamxlbmlwNjd0NE5LbEpTdkxxNmRCSWVPcW9Qd3RoeGFiWU02NklmRllfT1RfejVW?oc=5"
-  },
-  {
-   "ts": "2026-10-30T16:31:30.733147+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.03%\nTaux 10 ans -0.6 pb\nOr -0.7$ (extrême -3.8$, range 8.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-10-30T16:16:07.968715+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
