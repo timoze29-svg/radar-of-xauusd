@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1793415673.5158858,
+   "ts": 1793459750.4488215,
    "data": {
     "date": "2026-10-27",
     "net": 186451,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793455276.6308608,
+   "ts": 1793459750.5058327,
    "data": [
     {
      "title": "BOJ Core CPI y/y",
@@ -1056,9 +1056,6 @@
   }
  },
  "seen_news": [
-  "5d09dd3c492b",
-  "350ef89a0008",
-  "0bdf78aee9c8",
   "ff6a23c2247d",
   "49e58d503f20",
   "50b78fa03d63",
@@ -4055,7 +4052,10 @@
   "5863bab98cb7",
   "deffa54ee5e8",
   "0f9bbdc03e08",
-  "40ceb679a1f2"
+  "40ceb679a1f2",
+  "d61da2a697db",
+  "d15e8bf6e062",
+  "79319d1f5f39"
  ],
  "news": [
   {
@@ -4213,6 +4213,18 @@
    "cat": "géopolitique",
    "raison": "Menace de riposte maximale augmentant sensiblement l'attrait pour la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump may order major Iran strike if Republicans suffer losses in midterm election: Axios",
+   "source": "The Express Tribune",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGxTb09DMmltVXZ2UXY1Rnlxd18wa1dFeUxpNVlqam5nTUxENmlHaEt6M3pub2lwRG1tZHVjeUVaOUxHR3JQOUZMUjBsS2V0UldxdDB1REx2RElINWtHUENsdUFsMUJMclh1RW44U0U2Wi1FTmxxXzBaNDlqbUh1ZDYzOEQ3Z01HaVNVNjBRVWk4ellnOVRFWUVrUWVwMWg0YktMdEtzUDF3dzhocmZmeXdWVzE2TmpmYzNaTzNsQVFOSm8?oc=5",
+   "published": "2026-10-31T11:25:08+00:00",
+   "id": "d15e8bf6e062",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump admin threatens Iran with 'consequences' as allies convene amid threats of post-election escalation",
@@ -6445,18 +6457,6 @@
    "cat": "géopolitique",
    "raison": "Baisse des tensions géopolitiques au Moyen-Orient réduisant la prime de risque sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Confirms Receiving Vance Letter Seeking Renewed Talks, Says No Response Yet - Report",
-   "source": "i24NEWS",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEs2NDdBcmd4RzVfZVR5UlF5U3p4dXJVMTEzdmxhTTdvREwxSF9wNFN6WmtCUzJqQThsb2JSVDh1V3BBbVdzSWVaSENweEtoMEgzck53MElONEpWeHFMcWEyZXVoUlg2UWxzdFdzb3FMdHo0aGpBZDlNRHNqb0owa1dQLVZNVlFyQ1BScjZ6SE9CTnU1NVJsVGNuSFV0UlBMVEgzSXV0aktLYzk2SDVyQzFaTVp3MTZBbFlmYkU2UWstaXBSaTBlRmlpUGtjUk55Qnp0M054YklKQXFtWEE?oc=5",
-   "published": "2026-10-30T06:17:00+00:00",
-   "id": "7744e010bdf3",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Ouverture diplomatique naissante réduisant marginalement la prime de risque géopolitique sur le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8054,7 +8054,8 @@
   "news|d1f4ea3e9367": 1793454366.2006717,
   "news|7fe909b97c92": 1793457975.740029,
   "news|5565b50d0b7d": 1793457976.7013855,
-  "news|221905407927": 1793458890.2176716
+  "news|221905407927": 1793458890.2176716,
+  "news|d15e8bf6e062": 1793459768.4770715
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8317,6 +8318,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T15:16:08.477228+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump may order major Iran strike if Republicans suffer losses in midterm election: Axios</b>\n📰 The Express Tribune · Sam 31/10 12:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGxTb09DMmltVXZ2UXY1Rnlxd18wa1dFeUxpNVlqam5nTUxENmlHaEt6M3pub2lwRG1tZHVjeUVaOUxHR3JQOUZMUjBsS2V0UldxdDB1REx2RElINWtHUENsdUFsMUJMclh1RW44U0U2Wi1FTmxxXzBaNDlqbUh1ZDYzOEQ3Z01HaVNVNjBRVWk4ellnOVRFWUVrUWVwMWg0YktMdEtzUDF3dzhocmZmeXdWVzE2TmpmYzNaTzNsQVFOSm8?oc=5"
+  },
   {
    "ts": "2026-10-31T15:01:30.217746+00:00",
    "kind": "news",
@@ -8611,11 +8617,6 @@
    "ts": "2026-10-30T17:16:10.222342+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>A resumed Iran war after midterms would put fragile gains in Hormuz to the test</b>\n📰 The Washington Post · Ven 30/10 17:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5"
-  },
-  {
-   "ts": "2026-10-30T17:01:45.801378+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.02%\nTaux 10 ans -0.2 pb\nOr -5.9$ (extrême -7.0$, range 8.5$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
