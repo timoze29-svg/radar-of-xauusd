@@ -1056,7 +1056,6 @@
   }
  },
  "seen_news": [
-  "c17bd94759af",
   "5b81769c5330",
   "59f4a1ab1c2f",
   "8931809cc444",
@@ -4055,7 +4054,8 @@
   "f211f40b3e17",
   "d3cc7c27d4c0",
   "376d68c995b2",
-  "49d5fae84d9b"
+  "49d5fae84d9b",
+  "4f47ed60f2ce"
  ],
  "news": [
   {
@@ -4149,6 +4149,18 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWUR1MTI0emxfZV9vT29kODhGRm1vM0RZUjlLaTNVVm42T0xDcDhjYkFaR0RYWUtWM2VvQWQtaHpReHVVQm01aGphdUdmc0xOeDJtUDhWakZZcmc0cXJr?oc=5",
    "published": "2026-10-31T04:10:03+00:00",
    "id": "7e3014e91ff4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil prices near four-year high as US-Iran tensions escalate",
+   "source": "The Eastleigh Voice",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTJpWGpJVWtxQUpsd0NsN3prcllTZXpnbkhoTEgzd0lONl9HMHYzeklGQWZuSUNCZnN6ZkdhVGY2b2tseVFPYjBOQ3VLUEp1NllDNlJFZER2RGxfempHbkQ5ckduTkZ6QzZ6ZzNFUTVYYTJPVWUzZzNSSEZONV9CeHNJQ1hwekw2NWEwbUJGMXlqZlJ2Q0VBeFJkcDctQzNRVE9IZHZLMA?oc=5",
+   "published": "2026-10-31T03:48:22+00:00",
+   "id": "4f47ed60f2ce",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6445,18 +6457,6 @@
    "cat": "fed",
    "raison": "PCE élevé ravivant les anticipations de hausse de taux Fed, stimulant dollar et rendements.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine pauses strikes on Russian refineries after pressure from Trump, WSJ reports",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzRwZjRhSTRCWExya3Z3cXViLVE1MVRNT0hLOGlQUFBidEM4eVdBM0VkRWdKVU9pa1VDdTduV2F1X3dSMldRcVJ5RDY0UVItSFhTWWVYbzBraHZOZU12WU0xUmZCR1paTW9wRmV1bVdLTTZVX0tmUDdSbE16ZGtDNk1HWExsbEx6TG9QNkVGR0hBRDlscU1NaEVtRy1OaEI1RjRkaGxzSjhJMTVhOXpxcGl1TS1wWExHZ3c0QkFJMU1YLWhn?oc=5",
-   "published": "2026-10-30T00:28:00+00:00",
-   "id": "d3556e869f83",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Désescalade partielle en Ukraine réduisant temporairement la prime de risque géopolitique de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8055,7 +8055,8 @@
   "news|95fc03dc5b67": 1793418366.060189,
   "news|ac57a2c97a78": 1793420188.3204494,
   "news|4b85e492036b": 1793423088.8659203,
-  "news|7e3014e91ff4": 1793425569.0070434
+  "news|7e3014e91ff4": 1793425569.0070434,
+  "news|4f47ed60f2ce": 1793429174.667423
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8318,6 +8319,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T06:46:14.667524+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil prices near four-year high as US-Iran tensions escalate</b>\n📰 The Eastleigh Voice · Sam 31/10 04:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTJpWGpJVWtxQUpsd0NsN3prcllTZXpnbkhoTEgzd0lONl9HMHYzeklGQWZuSUNCZnN6ZkdhVGY2b2tseVFPYjBOQ3VLUEp1NllDNlJFZER2RGxfempHbkQ5ckduTkZ6QzZ6ZzNFUTVYYTJPVWUzZzNSSEZONV9CeHNJQ1hwekw2NWEwbUJGMXlqZlJ2Q0VBeFJkcDctQzNRVE9IZHZLMA?oc=5"
+  },
   {
    "ts": "2026-10-31T05:46:09.007136+00:00",
    "kind": "news",
@@ -8612,11 +8618,6 @@
    "ts": "2026-10-30T13:16:08.609087+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks</b>\n📰 Reuters · Ven 30/10 03:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
-  },
-  {
-   "ts": "2026-10-30T13:01:41.482534+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3966.00</b>  (-43.6$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-13) → maintenant -4 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n📏 Range fait : 71$ sur ~66$ attendus (109%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>17:00</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>17:30</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Trump on Iran War: It will end soon\n🔴 (-8) Ringgit extends rally against US dollar as traders reassess Fed rate hike prospects\n🟢 (+6) WHO: Yemen escalation leaves over 9,000 dead or injured, displaces 276,000\n🟢 (+5) Trump announces ‘Golden age’ as inflation falls and incomes rise"
   }
  ],
  "daily_forecast": {
