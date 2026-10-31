@@ -1056,9 +1056,6 @@
   }
  },
  "seen_news": [
-  "e9ccd1db6610",
-  "280a16731c27",
-  "2cc4e0f4d36f",
   "7c0f934c4b4b",
   "35ca09a4f7ac",
   "4e96460893c6",
@@ -4055,9 +4052,24 @@
   "2c3c92de84d8",
   "cc4314f43764",
   "cb50ebea8272",
-  "3a2c6f657e0d"
+  "3a2c6f657e0d",
+  "4b85e492036b",
+  "49b0de35e6df",
+  "6197fff917ef"
  ],
  "news": [
+  {
+   "title": "Reports confirm Trump’s plans to resume Iran war including strikes on civilian infrastructure",
+   "source": "World Socialist Web Site",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85MHNYTkZFQzh2WWQ3VjB6cjlxcXlJMVI5dWphYUdicTB6bmc0RnlBbGZTY3hDREZwcExTbVNIVTJyVzl4aEI5SzdNcG9GdFNyaU5UQWJFM1hmVWpIcVd1VkdWcW1hRWpv?oc=5",
+   "published": "2026-10-31T04:26:28+00:00",
+   "id": "4b85e492036b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta",
    "source": "The Guardian",
@@ -6445,18 +6457,6 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire imminente au Moyen-Orient stimulant la demande de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "'This is the test': All eyes on US Fed to tackle high inflation",
-   "source": "The Business Standard",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVQ5RjNhNlNrUHpwV0FLeEhJakk0NDZrRUw2aEdqUTNqUmNOa3BKWWVKV3ZVN1pETUxQS3JvanZYMENMQTlLbzNwWWphX1Y5Z2QyYlhja2RXOHlRdFYzZUJ1aTNHUFNHNTRZa2s2anNyRG5XTGtocEdoOEFHVEdwV2dlQ3JFTDA?oc=5",
-   "published": "2026-10-29T23:11:55+00:00",
-   "id": "972dee452fcf",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Pression sur la Fed pour durcir le ton, favorisant le maintien de taux élevés.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8053,7 +8053,8 @@
   "news|2ab451467f85": 1793414768.1217067,
   "news|08eeedb28663": 1793417479.0286605,
   "news|95fc03dc5b67": 1793418366.060189,
-  "news|ac57a2c97a78": 1793420188.3204494
+  "news|ac57a2c97a78": 1793420188.3204494,
+  "news|4b85e492036b": 1793423088.8659203
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8316,6 +8317,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T05:04:48.866004+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Reports confirm Trump’s plans to resume Iran war including strikes on civilian infrastructure</b>\n📰 World Socialist Web Site · Sam 31/10 05:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE85MHNYTkZFQzh2WWQ3VjB6cjlxcXlJMVI5dWphYUdicTB6bmc0RnlBbGZTY3hDREZwcExTbVNIVTJyVzl4aEI5SzdNcG9GdFNyaU5UQWJFM1hmVWpIcVd1VkdWcW1hRWpv?oc=5"
+  },
   {
    "ts": "2026-10-31T04:16:28.320576+00:00",
    "kind": "news",
@@ -8610,11 +8616,6 @@
    "ts": "2026-10-30T12:46:15.248535+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 5 ans</b> casse le plus bas sur 20 JOURS\nNiveau : 4.746 → prix : <b>4.714</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.33 | 60j -0.15"
-  },
-  {
-   "ts": "2026-10-30T12:46:14.389090+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 5 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 4.746 → prix : <b>4.714</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.33 | 60j -0.15"
   }
  ],
  "daily_forecast": {
