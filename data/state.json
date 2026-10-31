@@ -1056,8 +1056,6 @@
   }
  },
  "seen_news": [
-  "f18afe279aa6",
-  "d6adaf73ef89",
   "74b220beb95d",
   "68b3f7d5d3b1",
   "62e53cd1824b",
@@ -4055,9 +4053,23 @@
   "bfd4ac7f90a8",
   "3daa6d608448",
   "5de1b96f13bb",
-  "5b6449b61b1f"
+  "5b6449b61b1f",
+  "8d8c8f3e498e",
+  "be15ec68e692"
  ],
  "news": [
+  {
+   "title": "Iran warns any new US strike will engulf wider region",
+   "source": "The Sun Malaysia",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNHhXemFJcnB6NkY5TW9Qb2lQd016dHdOeGw1b1k0SUZoTFNzMHFnekQ1OUVkZ0NHMlRFaU5qYUJDNTJhNTlaWUdqUWZwNFVjemVaUEdxU1RZSTVtWlc0SWNrV1JEQWQwdXhUNlZ3Mkk0b0hZYXByQVVaaGVudw?oc=5",
+   "published": "2026-10-31T12:03:37+00:00",
+   "id": "8d8c8f3e498e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "A new strike on Iran? Trump and Netanyahu may not be on the same page",
    "source": "Ynetnews",
@@ -6445,18 +6457,6 @@
    "cat": "fed",
    "raison": "La résurgence des craintes de hausse des taux soutient les rendements réels.",
    "method": "IA"
-  },
-  {
-   "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
-   "source": "Reuters",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
-   "published": "2026-10-30T03:24:00+00:00",
-   "id": "afb738cfad01",
-   "impact": -4,
-   "cat": "or",
-   "raison": "Liquidations forcées sur l'or pour couvrir les appels de marge des marchés actions.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8061,7 +8061,8 @@
   "news|45775a2c4192": 1793448970.699841,
   "news|7a6b5cbb172a": 1793448971.598675,
   "news|40d89aa2175b": 1793448972.4211333,
-  "news|5b649d45b7da": 1793448973.2686872
+  "news|5b649d45b7da": 1793448973.2686872,
+  "news|8d8c8f3e498e": 1793449889.6723704
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8324,6 +8325,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T12:31:29.672456+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns any new US strike will engulf wider region</b>\n📰 The Sun Malaysia · Sam 31/10 13:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNHhXemFJcnB6NkY5TW9Qb2lQd016dHdOeGw1b1k0SUZoTFNzMHFnekQ1OUVkZ0NHMlRFaU5qYUJDNTJhNTlaWUdqUWZwNFVjemVaUEdxU1RZSTVtWlc0SWNrV1JEQWQwdXhUNlZ3Mkk0b0hZYXByQVVaaGVudw?oc=5"
+  },
   {
    "ts": "2026-10-31T12:16:13.269020+00:00",
    "kind": "news",
@@ -8618,11 +8624,6 @@
    "ts": "2026-10-30T15:01:46.095835+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Gold drops below $4,000, silver tumbles as Hormuz attack lifts oil prices - Kitco AM Report</b>\n📰 Kitco · Ven 30/10 13:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSmQ5alhCeHRlYUgzRWhfSmRhX3BUMGktZWtmMUxXaENCd0ZJRUFPdk55THVoWjNfUVByYzdRTHlsYVBQZm1za3dDQ19oMFJSM3o3VFl4Tlh6VS11MXpEdTFSdGZzU1hQMF9MY2pRbkJwQkJBNnpTdU9rZjh4eWh6bGRUX29Yb2l0QmY5Tkh4QnhBYmpQTVZBT01DWUJobFhKdTdVQ0pXSDVSeFFEQlJ5R1ZQc0luWXVpM2Zn?oc=5"
-  },
-  {
-   "ts": "2026-10-30T15:01:45.199189+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Rushes 10 Military Aircraft To Israel As Trump Weighs Fresh Iran Strikes</b>\n📰 The Times of India · Ven 30/10 15:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOUp6VWhad0cwVy1OMUJyUlRDRklsZUJkZ3ZDWWlQR3F1MDRNbmdFbi1FbWlqc01XZ3R5S3A3YUhrVUlsaUk1b2k0RlVKbDVEUmF1N1Frc204bXp6Tjl3cHRoYlF1ci1IX1JMaGcyT2N6SkxnbGNWaExUV3R6ekJiS255NkdST2thQ01GUUwwZS1sOEQ5eWExX2ctLWo5VVhEakdiQVZrR3hXOExrcEVFRHRucEdpVTRZSjlOYVNWTy1zNUNwNjNUS3JSSExaQ0diTHd3MFJSdHBPMDRyNVU3eHNWYWd1Nnp5b3I2T3dB0gHzAUFVX3lxTE82akRzM2ZVRmhaTDlRTVRaN2M0YWF6ZWZ5LWk3d1JITC1qZVBLcGotMWdlSXpjQW0tNTUyM1N3Ullwb0dSa3ZJbUR2VHR4QUxVckxpTF9rc3FLMEZIM0l3RjVwN0wtUmJWTTBRcUFkcVBtWndnV19hTVNxZkRxSlh5VWplVHJGSEhoc0VCSndjTk4zNl82dWFWNDc5SFJxUFFQS19MVjh4eTFwMlVhbzI5N2JYQUt3amZldE9NWlBEZlIxSDdPMGsya3VRRm1NeVBPU2RrTWUxVmhpWllyYmgyYzFjdTdZY1pTVTYtYW9aVDByaw?oc=5"
   }
  ],
  "daily_forecast": {
