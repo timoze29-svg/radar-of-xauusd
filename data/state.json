@@ -1056,9 +1056,6 @@
   }
  },
  "seen_news": [
-  "835943ed0b42",
-  "f210baa2d78a",
-  "dd5cc1124d57",
   "cccbfd799bda",
   "3de283a4944b",
   "b1735f9c5b4c",
@@ -4055,7 +4052,10 @@
   "532082afc396",
   "332144d01400",
   "9265d6a88a48",
-  "3dbe9b1e54f5"
+  "3dbe9b1e54f5",
+  "64605b3e9392",
+  "71cc9539bff2",
+  "3de3ecf07445"
  ],
  "news": [
   {
@@ -4113,6 +4113,18 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhKTDRHUm1CcU9YcEY1OWtxWGZtV1l4TU1EbnRXWWxMcmRkTnlUVjY0MVNldDBwRG1NSUY2QWhKdEExQVBvQ2MxcnU5T2IyTlVnTXhmbzl5RS1wRjFmZ3NCZGJHeDF5eXZLZl9OdkRkT1NVNkVaaWtlZG05YXBmWmxJamdabUZmMW1KNHVoUFBtc21CaVhwdWxfRzljWmZnTVlDSE9jYzN6UkYzNEQ2N0gyWmtESnVK0gG-AUFVX3lxTE9WbXN6bVJjcHNaMHp3bXdRTHJ6TFhtcW5RejJEOWVRYkZxSHhaLUxBT3dqc3E0Wk0xV21ueklxSkZlTk9sMDBabXdHYzNJcjhUNUZCZndjZ2VyWUNkaFlpc0l4dDY4YVd4dXhCalJWVmlzSHVtbENfMy1hNTloNWtEOXg4aUhrZWJLWTRlZGNmRjZOMzZaVm16Nkg2YUhxakxtcWZtQWg3aDNtYzVqbXNGOWxRRFVFZjBEd1M2WVE?oc=5",
    "published": "2026-10-31T12:15:37+00:00",
    "id": "c47f28615723",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Egypt fears escalation in Iran war would be more destructive",
+   "source": "Al Arabiya English",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFZZSjlJVXlrR2pRMHhPc2lROFR4MF9RVFktUEhtc3RDWFZTdWNYSWc1SVFFdVYyY1Z5LUpXTEJXNGp3RW1pQWhtTEJHMXFocDBMMkxNM3JvU3BlX21hOGVWN3VwX2pXcHB5aXk2TVNTTEFobWFnV3ZyUVFLWUtqc0diWE91N1ozOHptUEYyRmpwWVdhLUZSal9lcEhlV2FjMTgwTE9pWWd6WE5VbFQ2bDhlTENuTGo2TWUzVHZaQdIBvwFBVV95cUxQSFZZSjlJVXlrR2pRMHhPc2lROFR4MF9RVFktUEhtc3RDWFZTdWNYSWc1SVFFdVYyY1Z5LUpXTEJXNGp3RW1pQWhtTEJHMXFocDBMMkxNM3JvU3BlX21hOGVWN3VwX2pXcHB5aXk2TVNTTEFobWFnV3ZyUVFLWUtqc0diWE91N1ozOHptUEYyRmpwWVdhLUZSal9lcEhlV2FjMTgwTE9pWWd6WE5VbFQ2bDhlTENuTGo2TWUzVHZaQQ?oc=5",
+   "published": "2026-10-31T12:08:00+00:00",
+   "id": "71cc9539bff2",
    "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6445,18 +6457,6 @@
    "cat": "fed",
    "raison": "Anticipations de hausse de taux de la Fed renforçant les rendements et le dollar.",
    "method": "IA"
-  },
-  {
-   "title": "Gold Falls As Sticky US Inflation Fuels Bets On Fed Interest Rate Hike This Year By Kedia Advisory",
-   "source": "Investing.com India",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbS1oaWFVSGJuS1NOUHFzcE9YTXlIUUlRdVZjR3BjQ0I3LV8yc3p1ek41dDZkM2JiNGxlYmdPOEM2TUpOdDNMaTFKcWtSTlhQa2lQcUxkNm9jaXdoSnBqNXNQVFRxVGFYemNQTzFlWGtieWhrdlI3WUFBdFEwaWU1N1Q2QXRuS1d1WkhhYjA2dFNKNldnTkJBcUhjTG1Md09pSTNPTW9WTFctdWVWR0RyOGEteEV4dUZUZ0RUV21oSVV5Zk1YWEtwRV9QUU9tYWlF?oc=5",
-   "published": "2026-10-30T04:23:09+00:00",
-   "id": "d4df829814ba",
-   "impact": -4,
-   "cat": "fed",
-   "raison": "Inflation persistante poussant la Fed à durcir les taux, ce qui pénalise l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8066,7 +8066,8 @@
   "news|bdec437237a3": 1793450766.62495,
   "news|c8fabda69b3e": 1793451856.4215562,
   "news|c47f28615723": 1793452569.5447202,
-  "news|00d8014d3731": 1793452570.413154
+  "news|00d8014d3731": 1793452570.413154,
+  "news|71cc9539bff2": 1793453533.592773
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8329,6 +8330,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T13:32:13.592856+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Egypt fears escalation in Iran war would be more destructive</b>\n📰 Al Arabiya English · Sam 31/10 13:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFZZSjlJVXlrR2pRMHhPc2lROFR4MF9RVFktUEhtc3RDWFZTdWNYSWc1SVFFdVYyY1Z5LUpXTEJXNGp3RW1pQWhtTEJHMXFocDBMMkxNM3JvU3BlX21hOGVWN3VwX2pXcHB5aXk2TVNTTEFobWFnV3ZyUVFLWUtqc0diWE91N1ozOHptUEYyRmpwWVdhLUZSal9lcEhlV2FjMTgwTE9pWWd6WE5VbFQ2bDhlTENuTGo2TWUzVHZaQdIBvwFBVV95cUxQSFZZSjlJVXlrR2pRMHhPc2lROFR4MF9RVFktUEhtc3RDWFZTdWNYSWc1SVFFdVYyY1Z5LUpXTEJXNGp3RW1pQWhtTEJHMXFocDBMMkxNM3JvU3BlX21hOGVWN3VwX2pXcHB5aXk2TVNTTEFobWFnV3ZyUVFLWUtqc0diWE91N1ozOHptUEYyRmpwWVdhLUZSal9lcEhlV2FjMTgwTE9pWWd6WE5VbFQ2bDhlTENuTGo2TWUzVHZaQQ?oc=5"
+  },
   {
    "ts": "2026-10-31T13:16:10.413477+00:00",
    "kind": "news",
@@ -8623,11 +8629,6 @@
    "ts": "2026-10-30T15:53:08.025527+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>7 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-10-30T15:31:30.219077+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps</b>\n📰 TradingView · Ven 30/10 14:41\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5"
   }
  ],
  "daily_forecast": {
