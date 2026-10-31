@@ -1056,8 +1056,6 @@
   }
  },
  "seen_news": [
-  "a90a49d156bf",
-  "6fdcf08798c8",
   "8105813ef5f4",
   "bf387b9ddc4b",
   "08f05a13de49",
@@ -4055,9 +4053,23 @@
   "61181b151838",
   "b0739c3b0703",
   "0896f8e16852",
-  "fe067be8dad5"
+  "fe067be8dad5",
+  "8fcf3d773ebe",
+  "4b9f67881a2f"
  ],
  "news": [
+  {
+   "title": "Russian Invaders Use AI To Make Deepfake Videos Of Triumphs In Ukraine",
+   "source": "Forbes",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ19UYXZvQm5YWUZMV3pmbEVzWXptX09ON2RNWHc3QjBUVHVNdi1JSy1QQjhIcTZBdEIzeEdhSlZMQmQ0WXB1Y1plY1A1MUxrQ3VtVlVBMnZuaUJVekZHaDlWbVJLLUFOSUk2eFZVTlRmU1hBOVZ4eVRyWm9qN0xGVW5ieWVuRkY5TDFzZzRZQ3BoMWpsYXZMcUFJQnE0YmIxdG9FRnAzTXo0Q2JTaUlCQ0pfdWQ3MmMtV2lYTjBJcUthbnVTaVpz?oc=5",
+   "published": "2026-10-31T01:08:49+00:00",
+   "id": "4b9f67881a2f",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says Iran war will end ‘soon’",
    "source": "The Hill",
@@ -4068,18 +4080,6 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Sterling Advances Against Dollar and Euro as US Bond Yields Decline",
-   "source": "BigGo Finance",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBINUtqS3dRQmlBaGpzRG1lRGlOejVfa2duVjBvTTRqd3RHZWdDd2RmRUhhNDhTdzhyX2hXcHgxUTJON2lIa0Zub25ucEY0VVdiMXJKV2loWW0xODZDbWk4Ui1wQnkxcTdlclJlTnY5WHFpVVFYb3c?oc=5",
-   "published": "2026-10-31T00:35:00+00:00",
-   "id": "b0739c3b0703",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -4129,6 +4129,18 @@
    "cat": "taux",
    "raison": "La fermeté des rendements obligataires mondiaux accroît le coût d'opportunité du métal jaune.",
    "method": "IA"
+  },
+  {
+   "title": "Trump says Iran war will end \"soon\" as Qatar pushes for U.S.-Iran deal",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX0paR2dfa2VNSTM2Ni1sdDQwS1dzckJXV2dTNDBpZGlHZjhrLUZqRFFwNUFfYmdMMlRta013VmNHdjQxQkRlVFR3b3QyUmZEQnlDNzdlUmFLMG5lMURWaU1ueVJrVm1QMUwzdjJGV0Q0X3FOMDJ5eXZyT2R1UllCbHBNbGJWQkhfZHM3MFd4LXJQT05xTmZ5ZUhGRjRtZw?oc=5",
+   "published": "2026-10-30T22:09:00+00:00",
+   "id": "8fcf3d773ebe",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says Iran war goal met as gas prices rise",
@@ -6445,18 +6457,6 @@
    "cat": "géopolitique",
    "raison": "Rappel des tensions persistantes au Moyen-Orient maintenant un soutien refuge minimal.",
    "method": "IA"
-  },
-  {
-   "title": "From the Iran War to Gas Prices: How Foreign Policy Is Driving the 2026 Midterms",
-   "source": "Council on Foreign Relations",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVlPVkVnYnAxQlg3WXpENjk5YlhnM1M5eXYwYm9hektFZjNEeHU5ZkI0NVZCVzBZR25jdmJSdVFnVW1jOUZnUVV6Tm1aVFpMdG9MVGpMYjNPeGxDX19RSWxEdFRQc3BXenktMkpMVUhPNHZHNURzek1sdmgxemwtYmtLTmduSzdlZTA0UG12YTFhc3ZOT0pmRjkyTXBNRXJyWTgxeFg3MnN2VmNN?oc=5",
-   "published": "2026-10-29T19:33:03+00:00",
-   "id": "3bc48e5a6ee0",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rappel des tensions géopolitiques persistantes et du risque inflationniste énergétique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8053,7 +8053,8 @@
   "news|6c86b92bedd3": 1793404896.9319482,
   "news|38f31ddbd288": 1793406681.1573093,
   "news|31da065be385": 1793406682.1161087,
-  "news|0896f8e16852": 1793408491.2781537
+  "news|0896f8e16852": 1793408491.2781537,
+  "news|8fcf3d773ebe": 1793409367.064366
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8316,6 +8317,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-10-31T01:16:07.064453+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war will end \"soon\" as Qatar pushes for U.S.-Iran deal</b>\n📰 CBS News · Ven 30/10 23:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOX0paR2dfa2VNSTM2Ni1sdDQwS1dzckJXV2dTNDBpZGlHZjhrLUZqRFFwNUFfYmdMMlRta013VmNHdjQxQkRlVFR3b3QyUmZEQnlDNzdlUmFLMG5lMURWaU1ueVJrVm1QMUwzdjJGV0Q0X3FOMDJ5eXZyT2R1UllCbHBNbGJWQkhfZHM3MFd4LXJQT05xTmZ5ZUhGRjRtZw?oc=5"
+  },
   {
    "ts": "2026-10-31T01:01:31.278248+00:00",
    "kind": "news",
@@ -8610,11 +8616,6 @@
    "ts": "2026-10-30T12:46:09.815656+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump on Iran War: It will end soon</b>\n📰 Arab News · Ven 30/10 13:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBlcTVUWmVfRHNBT244ZjZJeEM5RndWTEY3OUlCeHNvaDY4bDBqRkN1SHNWeGhOTW9LRjQyNnhtTlJaTXdkdkZLQVpsWi16c2stS18yZ3JPUzVuOXNDZktMTExVYUxfRDNTQV9EN05yLVM5YkFqNGtySm5keVZkdw?oc=5"
-  },
-  {
-   "ts": "2026-10-30T12:16:11.453072+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit extends rally against US dollar as traders reassess Fed rate hike prospects</b>\n📰 KLSE Screener · Ven 30/10 12:11\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2xneDN5YUUtWWxTMFQ5bmlBcGRCVHJZaTJpTEY0YlBVVDZNVF9DVUhPbFIxUGdHSm13UUF5R0EwcWo5U1VuTmh0VjdMX2RWYzc1WkJRSkZORkhmZ1BOLTBwNnpnbnM3Y2hCVkNVZThqTkt1LXZNaGRNUXpabmh6X09saWNVMHo1RzRMdnJpLUN6d2VsVnlicEVVWGVHZEtlWjVEazVLbkp6SzdZdTVONURXdDhMRGRXZWFxZHFuVEY0c3NVbEg4U3lOeXF1Zw?oc=5"
   }
  ],
  "daily_forecast": {
