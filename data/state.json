@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "6c916e6b32d8",
-  "edc3d572a850",
-  "7ffb810e547d",
-  "0e5e526fbdd7",
-  "aa96a371d7eb",
   "cd4b7c175cdb",
   "ed4a3d7b27c0",
   "dfc15d049adc",
@@ -4000,7 +3995,12 @@
   "9f0752c1eb0a",
   "15c494ee2e7b",
   "5db07dadee74",
-  "3198dbfb43e1"
+  "3198dbfb43e1",
+  "48de0dde3f5a",
+  "450342eb5a0a",
+  "4f7ae77ee504",
+  "d57fb5c86918",
+  "29e9d6329367"
  ],
  "news": [
   {
@@ -4098,6 +4098,18 @@
    "cat": "géopolitique",
    "raison": "Menaces de frappes contre l'Iran alimentant l'attrait pour la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump's 'Can Strike Iran In 10 Minutes' Warning As Mojtaba Khamenei Updates 'Target List'",
+   "source": "NDTV",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdVZrUC1lUVhFNVlSTTJuT2xuUWpCUVJScldVdlJ5WEN1aHZxbV96RFJwLUsyeElRakRjSmtDTHAzcXpTY2JlUlpTMXVMU1RsUHI3OWtjMUY0YkdWbDB1ZG1yVER6Tm1YQWFkLTMyZmRzenNEM01PNXY0QThSa25DMXZCcGFYbUtGekJXY18tcHF5NzdCVEp4TVdzU21rNGk4SG52eW5GZTBNM1k5U25tUElFOUZfV1VoS2ZRc3dWd0VzWFJEVmZsRUNOcnp4YjBPSE50enI4SmJ5MUZFRk92amlXWGlCRmFfNDdLQ2FGZkplU1FnaGRr0gH_AUFVX3lxTE9EQUkxM1pYX2tXMS1ramswQmVZcDJvVkE2QlJqSHJlcUdKOXZLblhWeGFhY1pSUnlEM2FvRTY1R0RMMHJySFpIT2xOWmFoUHVzQzFfTnI5Nno2OWZfUHVBT1RTSmpUbXg0N2phdHI5TmtXYlB6amhYczJxanFpUHJWVVRndVFfczRZN09GVVhUWEZnNUdXSERCTkRMc01aams4c2l4YWlCZ3BFTGFmWE52X3BnOEZXNUMyTldGZ1B4N2pIZDV0YjZqckQ5TktJSmtnajJuUVU4akFwMnNsZkhKcktPa1R0OERIWV9Bd3VNWkY5REp2b0NMX3I4ZTVtMA?oc=5",
+   "published": "2026-11-01T03:09:15+00:00",
+   "id": "450342eb5a0a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report",
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Déploiements militaires annonçant une action imminente contre l'Iran, puissant catalyseur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
-   "source": "TradingView",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
-   "published": "2026-10-30T13:41:21+00:00",
-   "id": "7b91930c3b60",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "Anticipations accrues de hausses de taux Fed pénalisant lourdement l'or face au dollar.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|17a99af8efd9": 1791700291.3552873,
   "news|a179dc14892f": 1791703888.8802454,
   "news|a4ecccafb9ba": 1791711269.4236526,
   "news|7e1aa3d606df": 1791713769.6225677,
@@ -7998,7 +7997,8 @@
   "news|55c752f7a7c3": 1793511085.826196,
   "news|b79d3917eaa3": 1793511966.2641191,
   "news|663707ef289d": 1793513767.9286432,
-  "news|5db07dadee74": 1793514677.1892142
+  "news|5db07dadee74": 1793514677.1892142,
+  "news|450342eb5a0a": 1793515562.0478895
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8261,6 +8261,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T06:46:02.047964+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's 'Can Strike Iran In 10 Minutes' Warning As Mojtaba Khamenei Updates 'Target List'</b>\n📰 NDTV · Dim 01/11 04:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdVZrUC1lUVhFNVlSTTJuT2xuUWpCUVJScldVdlJ5WEN1aHZxbV96RFJwLUsyeElRakRjSmtDTHAzcXpTY2JlUlpTMXVMU1RsUHI3OWtjMUY0YkdWbDB1ZG1yVER6Tm1YQWFkLTMyZmRzenNEM01PNXY0QThSa25DMXZCcGFYbUtGekJXY18tcHF5NzdCVEp4TVdzU21rNGk4SG52eW5GZTBNM1k5U25tUElFOUZfV1VoS2ZRc3dWd0VzWFJEVmZsRUNOcnp4YjBPSE50enI4SmJ5MUZFRk92amlXWGlCRmFfNDdLQ2FGZkplU1FnaGRr0gH_AUFVX3lxTE9EQUkxM1pYX2tXMS1ramswQmVZcDJvVkE2QlJqSHJlcUdKOXZLblhWeGFhY1pSUnlEM2FvRTY1R0RMMHJySFpIT2xOWmFoUHVzQzFfTnI5Nno2OWZfUHVBT1RTSmpUbXg0N2phdHI5TmtXYlB6amhYczJxanFpUHJWVVRndVFfczRZN09GVVhUWEZnNUdXSERCTkRMc01aams4c2l4YWlCZ3BFTGFmWE52X3BnOEZXNUMyTldGZ1B4N2pIZDV0YjZqckQ5TktJSmtnajJuUVU4akFwMnNsZkhKcktPa1R0OERIWV9Bd3VNWkY5REp2b0NMX3I4ZTVtMA?oc=5"
+  },
   {
    "ts": "2026-11-01T06:31:17.189285+00:00",
    "kind": "news",
@@ -8555,11 +8560,6 @@
    "ts": "2026-10-31T09:20:02.437238+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egypt warns US-Iran escalation risks unprecedented devastation across Middle East</b>\n📰 Middle East Online · Sam 31/10 09:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXFFeG1RZTlsTXZTZGMxSS1UR0xOUXVOZTVMR2l4WnJncXU4aWJMbDE3bUJyR24wRnU3SUREMkQzMHIxb191akJiTEh1YmFrbGZEelFYR0dCWjNFOUVBU25fTjJsamxvVFg5UkZBQ2lNT3RRSlAxWWpoQ0NVLW5FUVlLOTdsanhPR09ibUJJeW5oUktGbnBuU3AzMHNDV19wVFI3V0hTOWpObFNyUkdFUGNGSFExQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-31T08:19:24.713065+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: US warns Gulf allies of possible Iran strikes as early as November 4</b>\n📰 The Times of Israel · Sam 31/10 07:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTVGMUcxbl9yQVYtZlRIeHJ4T0NGTFNSXzFmcklIcVRiTWtwaXE0TUtlYkw0ZGVXQTJzUmdWRWdHbld4cE42OWtHUEw5X24yRmxpUEluejNqN2dwYk9lYkpJVGNZaUxyUE10UWI4Z0FQNDVYaGhrcXM0Z0k2d3V1UlpDaW1pNXhXQ2YwcFdwRWJyY3huTEVRT0JKOU9hZU9PeVBfYzdhVExFSV93Ym93dVlPdlRvTDNKamtZaVBn?oc=5"
   }
  ],
  "daily_forecast": {
