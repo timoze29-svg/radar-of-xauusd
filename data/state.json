@@ -1001,12 +1001,6 @@
   }
  },
  "seen_news": [
-  "4af6069f827b",
-  "73ff818b7018",
-  "5e758f1ae435",
-  "533c7fd9499b",
-  "59f464167249",
-  "b592fdf0a456",
   "5f9799c94953",
   "ff70d534db97",
   "4b7109a9eb7d",
@@ -4000,9 +3994,27 @@
   "85a8fb6004bf",
   "b46dd0a4bb3d",
   "f242e6025393",
-  "808cb228eaa5"
+  "808cb228eaa5",
+  "7b09f77ac300",
+  "70cdc8da1d7b",
+  "ca0f7866b782",
+  "5873bff75ea1",
+  "b2becaf566ea",
+  "28a3e01b8336"
  ],
  "news": [
+  {
+   "title": "Trump says US could strike Iran's remaining nuclear sites in '10 minutes'",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclNtN1RfbEt4ajNpQzBGNnJxVkRmN3pQcHBnRHFPRlNrc3R0OFYzQS11RUNicmszR01JWEE4RFA4S3N1cEFObTRCY2xDNTJZcXR5Wms4UDk2ZTdFdjBwUUdYWjNkbm1zd2VTYndqOHdfbVNxSjdTaHdmZmoyQ1BjQXppY2g4MFV3bnpUNTlJT3VidWhwdDBBRWxVUDlFbjB3YmNkWnkxSnh3b2c4OHVxY2ZB?oc=5",
+   "published": "2026-11-01T08:34:14+00:00",
+   "id": "ca0f7866b782",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Traders bet big on a December Fed rate cut despite a data blackout",
    "source": "Startup Fortune",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Accumulation de foyers de tensions internationales incitant à la diversification vers l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Spot Gold Plunges 3% to Breach $3,900: What Caused the Drop in Gold Prices?",
-   "source": "TradingKey",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnJ4TmNNYlNoZGlMelZ2S3F1T3FUdGhKZUZVdkRRaGtJdlM2NWczVEthUFBjejM2LWtSZXRjSVpnY2JLenB1SUFMTWEtcnFJUUhZbFBRZy1aTEJpRVNoRkp4NlNsQWdPMFRKVTBQTWdIcHhFSVdSMmo2eE9mZjZTemZmcUJIOGVsLXMxNkMwN1VFOG5uRF9udktjVl9mWTdsNzZ2STdzZ3hFdktJdTlMNjMzTFhUcGpXR2lOclFDS3RJc3M0NzJBMzZmYk82OHJXQ3c?oc=5",
-   "published": "2026-10-30T14:50:12+00:00",
-   "id": "765b7fe96cc7",
-   "impact": -3,
-   "cat": "or",
-   "raison": "Cassure technique majeure sous 3 900 $ entraînant des ventes forcées par momentum.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7999,7 +7999,8 @@
   "news|5db07dadee74": 1793514677.1892142,
   "news|450342eb5a0a": 1793515562.0478895,
   "news|196c4246b860": 1793518470.5029871,
-  "news|7b5ad2a26548": 1793520394.1899416
+  "news|7b5ad2a26548": 1793520394.1899416,
+  "news|ca0f7866b782": 1793522767.9224148
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8262,6 +8263,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T08:46:07.922508+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump says US could strike Iran's remaining nuclear sites in '10 minutes'</b>\n📰 Anadolu Ajansı · Dim 01/11 09:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPclNtN1RfbEt4ajNpQzBGNnJxVkRmN3pQcHBnRHFPRlNrc3R0OFYzQS11RUNicmszR01JWEE4RFA4S3N1cEFObTRCY2xDNTJZcXR5Wms4UDk2ZTdFdjBwUUdYWjNkbm1zd2VTYndqOHdfbVNxSjdTaHdmZmoyQ1BjQXppY2g4MFV3bnpUNTlJT3VidWhwdDBBRWxVUDlFbjB3YmNkWnkxSnh3b2c4OHVxY2ZB?oc=5"
+  },
   {
    "ts": "2026-11-01T08:06:34.190050+00:00",
    "kind": "news",
@@ -8556,11 +8562,6 @@
    "ts": "2026-10-31T10:31:30.022569+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections</b>\n📰 The New York Times · Sam 31/10 10:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktaLU9ndHRTeW11V3cwLWI1anZkMDJjeXNvZXVONEp2bXA0Z3o2N3BnSmRGM3ZCZURuS3phc2M0N3plU1JGeVN0amJYd21uS0NUNEFtUE1IMFNHaWVoZWpmd05CNkNfRUk4cE1EWjRKbjE2WWgtYUloczRMem1Ya1FIN0ZrMkprRHFHUnlTd000bFd1UE1JdndzamhTeFRWeVQ0?oc=5"
-  },
-  {
-   "ts": "2026-10-31T10:31:28.922626+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egypt: New US-Iran escalation could be more 'destructive'</b>\n📰 Breakingthenews.net · Sam 31/10 10:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTV5cEZMRUlUdUVtdkJvOXRKX2s0MjBSTDhPb3ItQlVuOThKdUt4elZJS3ozZG9ydndiTG5EdG5BcHFIWGY5elBtZEV6WEdaYkYwb3ZobEFla1poSnZtTFJHaU5menotUnd3WHFvZzc4YkNTNjBKY1FHZWNBbFhfeTY5Wmx1am1qT0VHdTFtalZtNGVpOTh0UUVrTVZmRzg1a29hMQ?oc=5"
   }
  ],
  "daily_forecast": {
