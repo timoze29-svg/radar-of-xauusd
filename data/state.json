@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "24607d749094",
-  "b6c645f2cf39",
   "2478693646d2",
   "52b4e6cd045a",
   "f8ce850fb75c",
@@ -4000,7 +3998,9 @@
   "99a8489428e6",
   "d414997b5f54",
   "47f3f9f92d59",
-  "ee5d91966eb8"
+  "ee5d91966eb8",
+  "30e924f6e50b",
+  "3236ce4bdeb2"
  ],
  "news": [
   {
@@ -4023,6 +4023,18 @@
    "published": "2026-11-01T18:25:28+00:00",
    "id": "60e10a436419",
    "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Netanyahu pressing Trump to strike Iran immediately after midterms - Axios",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMWHhmYWlnWlRIbVQ0bFl5MzFlSkhjQ1lydTBuUHg5R1doRlZfZXJzTE9BNm1KMHNVTGZXaUU4MmgxQzlZR1hIcmpvRWFfOThSZGc?oc=5",
+   "published": "2026-11-01T18:25:28+00:00",
+   "id": "3236ce4bdeb2",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Incidents militaires dans le détroit d'Ormuz augmentant nettement la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says Iran war will end ‘soon’",
-   "source": "The Hill",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjB3T0NqSGozLWlBa3N3alJrOVhCS0ZNYTd4X2Q3VGEwN0hhSF83c3lfUktYVjZlUVNLREtzSzRfa09CMktQTjVPR2NaaUFTa1RPUG10blIyaHBmOEZqU0o4MTZJc0pUWFdLNVc3akhmWnpYdEFwejNuY2ZIRXVGN2V5MXpkbFROTk9semlKelJoQUxDSjVFVNIBngFBVV95cUxOYmRBblFSS09odGE1bmJ5eUdSMzBMdTFLMDlKZ1lEWWRiWURGejF0YzhBUC1ZaFlrVUU2RVduUEoycDdmRTJpX2FGZWk1SGFpREFwWjJ1ckd0WFlOQ1lrMXU5WThzekVRYUZSSEptazdYdFFQeVpfdll4cC01ek0zNmJOMnJmclMteVZaSmVWLUgwN3RrQzBBUkV6WUh1Zw?oc=5",
-   "published": "2026-10-31T00:53:30+00:00",
-   "id": "0896f8e16852",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Perspective d'une résolution rapide du conflit avec l'Iran dégonflant la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7987,7 +7987,8 @@
   "news|0f1e9bd2d04b": 1793559699.6616175,
   "news|db9cae72280e": 1793559700.7128165,
   "news|967f42ca03cc": 1793560568.46918,
-  "news|d677ff958ff2": 1793560569.5507889
+  "news|d677ff958ff2": 1793560569.5507889,
+  "news|3236ce4bdeb2": 1793562367.4772346
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8250,6 +8251,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T19:46:07.477343+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu pressing Trump to strike Iran immediately after midterms - Axios</b>\n📰 Iran International · Dim 01/11 19:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMWHhmYWlnWlRIbVQ0bFl5MzFlSkhjQ1lydTBuUHg5R1doRlZfZXJzTE9BNm1KMHNVTGZXaUU4MmgxQzlZR1hIcmpvRWFfOThSZGc?oc=5"
+  },
   {
    "ts": "2026-11-01T19:16:09.551025+00:00",
    "kind": "news",
@@ -8544,11 +8550,6 @@
    "ts": "2026-10-31T17:16:10.659619+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel ready for another Iran war, but Trump has yet to decide</b>\n📰 Ynetnews · Sam 31/10 18:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTFBJODRsSElXRjVjblBtNk9EZk0xRU5zaU1TMzA0dHZMb1JsUldEZmJ2Y2wzN1diejM1a0ZCeUs4TUEtekNuMjV0NFo0WW9zM2VVVjFtWGRZR0JWelVMNTNuWjlVUzQ2UzFTSlVDbUl3?oc=5"
-  },
-  {
-   "ts": "2026-10-31T16:46:12.544520+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran conflict widens as Israel launches Lebanon strikes</b>\n📰 The Canberra Times · Sam 31/10 11:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGxkaUNRd0lJcjNVMnkyal8zNW5EcDd2WkVDb1ZkakdQcjZGd0s0Rm5RTHBrakVnQVhxVm9OX1otWkIwcElkNTNnSk41bG55U0FwMWtyMTdHTk5peFVMS0Vja3FIOG9PdkdSMGhNaXFhazFRM0w4WnhySG5FRjVoS2hTRmlIeU9fOUx4WVRfOUFzLXlzTkV5RHZFQ0NDeUZZVHctRnFR?oc=5"
   }
  ],
  "daily_forecast": {
