@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793486745.4737432,
+   "ts": 1793508350.1226373,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,255 +590,178 @@
    }
   },
   "calendar": {
-   "ts": 1793503859.8223321,
+   "ts": 1793508350.5175738,
    "data": [
     {
-     "title": "BOJ Core CPI y/y",
-     "country": "JPY",
-     "impact": "Low",
-     "date": "2026-10-27T01:00:00-04:00",
-     "forecast": "1.9%",
-     "previous": "1.8%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "CB Consumer Confidence",
+     "title": "ISM Manufacturing PMI",
      "country": "USD",
      "impact": "Medium",
-     "date": "2026-10-27T10:00:00-04:00",
-     "forecast": "81.2",
-     "previous": "81.9",
+     "date": "2026-11-02T10:00:00-05:00",
+     "forecast": "54.7",
+     "previous": "54.5",
      "actual": "",
-     "gold_label": "",
-     "gold_weight": 4
+     "gold_label": "Activité (ISM/PMI)",
+     "gold_weight": 5
     },
     {
      "title": "CPI m/m",
-     "country": "AUD",
-     "impact": "High",
-     "date": "2026-10-27T20:30:00-04:00",
-     "forecast": "0.7%",
-     "previous": "0.4%",
+     "country": "CHF",
+     "impact": "Medium",
+     "date": "2026-11-03T02:30:00-05:00",
+     "forecast": "0.0%",
+     "previous": "0.0%",
      "actual": "",
      "gold_label": "Inflation (CPI) — gros impact via la Fed",
      "gold_weight": 9
     },
     {
-     "title": "CPI y/y",
-     "country": "AUD",
-     "impact": "High",
-     "date": "2026-10-27T20:30:00-04:00",
-     "forecast": "4.2%",
-     "previous": "4.0%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "Trimmed Mean CPI m/m",
-     "country": "AUD",
-     "impact": "High",
-     "date": "2026-10-27T20:30:00-04:00",
-     "forecast": "0.3%",
-     "previous": "0.2%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "Federal Funds Rate",
-     "country": "USD",
-     "impact": "High",
-     "date": "2026-10-28T14:00:00-04:00",
-     "forecast": "4.00%",
-     "previous": "4.00%",
-     "actual": "",
-     "gold_label": "Fed — décision / discours",
-     "gold_weight": 10
-    },
-    {
-     "title": "FOMC Statement",
-     "country": "USD",
-     "impact": "High",
-     "date": "2026-10-28T14:00:00-04:00",
-     "forecast": "",
-     "previous": "",
-     "actual": "",
-     "gold_label": "Fed — décision / discours",
-     "gold_weight": 10
-    },
-    {
-     "title": "FOMC Press Conference",
-     "country": "USD",
-     "impact": "High",
-     "date": "2026-10-28T14:30:00-04:00",
-     "forecast": "",
-     "previous": "",
-     "actual": "",
-     "gold_label": "Fed — décision / discours",
-     "gold_weight": 10
-    },
-    {
-     "title": "Advance GDP q/q",
-     "country": "USD",
-     "impact": "High",
-     "date": "2026-10-29T08:30:00-04:00",
-     "forecast": "3.2%",
-     "previous": "1.5%",
-     "actual": "",
-     "gold_label": "Croissance",
-     "gold_weight": 6
-    },
-    {
-     "title": "Core PCE Price Index m/m",
-     "country": "USD",
-     "impact": "High",
-     "date": "2026-10-29T08:30:00-04:00",
-     "forecast": "0.3%",
-     "previous": "0.2%",
-     "actual": "",
-     "gold_label": "Inflation préférée de la Fed",
-     "gold_weight": 8
-    },
-    {
-     "title": "Advance GDP Price Index q/q",
+     "title": "JOLTS Job Openings",
      "country": "USD",
      "impact": "Medium",
-     "date": "2026-10-29T08:30:00-04:00",
-     "forecast": "3.2%",
-     "previous": "6.2%",
+     "date": "2026-11-03T10:00:00-05:00",
+     "forecast": "7.11M",
+     "previous": "7.08M",
      "actual": "",
-     "gold_label": "Croissance",
+     "gold_label": "Emploi (indicateur avancé)",
      "gold_weight": 6
+    },
+    {
+     "title": "Congressional Elections",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-11-03T10:16:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "",
+     "gold_weight": 7
+    },
+    {
+     "title": "Core CPI Flash Estimate y/y",
+     "country": "EUR",
+     "impact": "Medium",
+     "date": "2026-11-04T05:00:00-05:00",
+     "forecast": "2.5%",
+     "previous": "2.5%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "CPI Flash Estimate y/y",
+     "country": "EUR",
+     "impact": "Medium",
+     "date": "2026-11-04T05:00:00-05:00",
+     "forecast": "4.0%",
+     "previous": "3.8%",
+     "actual": "",
+     "gold_label": "Inflation (CPI) — gros impact via la Fed",
+     "gold_weight": 9
+    },
+    {
+     "title": "ADP Non-Farm Employment Change",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-04T08:15:00-05:00",
+     "forecast": "68K",
+     "previous": "90K",
+     "actual": "",
+     "gold_label": "Emploi US (NFP) — LE gros mouvement de l'or",
+     "gold_weight": 10
+    },
+    {
+     "title": "ISM Services PMI",
+     "country": "USD",
+     "impact": "Medium",
+     "date": "2026-11-04T10:00:00-05:00",
+     "forecast": "54.9",
+     "previous": "54.9",
+     "actual": "",
+     "gold_label": "Activité (ISM/PMI)",
+     "gold_weight": 5
     },
     {
      "title": "Unemployment Claims",
      "country": "USD",
      "impact": "Medium",
-     "date": "2026-10-29T08:30:00-04:00",
-     "forecast": "198K",
+     "date": "2026-11-05T08:30:00-05:00",
+     "forecast": "197K",
      "previous": "194K",
      "actual": "",
      "gold_label": "Chômage",
      "gold_weight": 6
     },
     {
-     "title": "Main Refinancing Rate",
-     "country": "EUR",
-     "impact": "High",
-     "date": "2026-10-29T09:15:00-04:00",
-     "forecast": "2.65%",
-     "previous": "2.65%",
-     "actual": "",
-     "gold_label": "",
-     "gold_weight": 7
-    },
-    {
-     "title": "Monetary Policy Statement",
-     "country": "EUR",
-     "impact": "High",
-     "date": "2026-10-29T09:15:00-04:00",
-     "forecast": "",
-     "previous": "",
-     "actual": "",
-     "gold_label": "",
-     "gold_weight": 7
-    },
-    {
-     "title": "ECB Press Conference",
-     "country": "EUR",
-     "impact": "High",
-     "date": "2026-10-29T09:45:00-04:00",
-     "forecast": "",
-     "previous": "",
-     "actual": "",
-     "gold_label": "",
-     "gold_weight": 7
-    },
-    {
-     "title": "Tokyo Core CPI y/y",
-     "country": "JPY",
-     "impact": "Medium",
-     "date": "2026-10-29T19:30:00-04:00",
-     "forecast": "2.6%",
-     "previous": "2.7%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "German Prelim CPI m/m",
-     "country": "EUR",
-     "impact": "Medium",
-     "date": "2026-10-30T03:29:00-04:00",
-     "forecast": "0.1%",
-     "previous": "0.6%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "French Prelim CPI m/m",
-     "country": "EUR",
-     "impact": "Low",
-     "date": "2026-10-30T03:45:00-04:00",
-     "forecast": "0.2%",
-     "previous": "-0.3%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "Spanish Flash CPI y/y",
-     "country": "EUR",
-     "impact": "Low",
-     "date": "2026-10-30T04:00:00-04:00",
-     "forecast": "4.9%",
-     "previous": "4.9%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "Italian Prelim CPI m/m",
-     "country": "EUR",
-     "impact": "Low",
-     "date": "2026-10-30T06:00:00-04:00",
-     "forecast": "0.1%",
-     "previous": "0.7%",
-     "actual": "",
-     "gold_label": "Inflation (CPI) — gros impact via la Fed",
-     "gold_weight": 9
-    },
-    {
-     "title": "Employment Cost Index q/q",
-     "country": "USD",
-     "impact": "Medium",
-     "date": "2026-10-30T08:30:00-04:00",
-     "forecast": "0.8%",
-     "previous": "0.9%",
-     "actual": "",
-     "gold_label": "",
-     "gold_weight": 4
-    },
-    {
-     "title": "FOMC Member Daly Speaks",
+     "title": "FOMC Member Hammack Speaks",
      "country": "USD",
      "impact": "Low",
-     "date": "2026-10-30T12:00:00-04:00",
+     "date": "2026-11-05T08:50:00-05:00",
      "forecast": "",
      "previous": "",
      "actual": "",
      "gold_label": "Fed — décision / discours",
      "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Barkin Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-05T09:10:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Williams Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-06T04:30:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "Average Hourly Earnings m/m",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-11-06T08:30:00-05:00",
+     "forecast": "0.3%",
+     "previous": "0.1%",
+     "actual": "",
+     "gold_label": "",
+     "gold_weight": 7
+    },
+    {
+     "title": "Non-Farm Employment Change",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-11-06T08:30:00-05:00",
+     "forecast": "63K",
+     "previous": "29K",
+     "actual": "",
+     "gold_label": "Emploi US (NFP) — LE gros mouvement de l'or",
+     "gold_weight": 10
+    },
+    {
+     "title": "Unemployment Rate",
+     "country": "USD",
+     "impact": "High",
+     "date": "2026-11-06T08:30:00-05:00",
+     "forecast": "4.2%",
+     "previous": "4.2%",
+     "actual": "",
+     "gold_label": "Chômage",
+     "gold_weight": 6
     },
     {
      "title": "FOMC Member Musalem Speaks",
      "country": "USD",
      "impact": "Low",
-     "date": "2026-10-30T12:30:00-04:00",
+     "date": "2026-11-06T09:10:00-05:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -846,10 +769,32 @@
      "gold_weight": 10
     },
     {
-     "title": "FOMC Member Logan Speaks",
+     "title": "Prelim UoM Consumer Sentiment",
+     "country": "USD",
+     "impact": "Medium",
+     "date": "2026-11-06T10:00:00-05:00",
+     "forecast": "47.8",
+     "previous": "46.3",
+     "actual": "",
+     "gold_label": "Anticipations d'inflation (Michigan)",
+     "gold_weight": 6
+    },
+    {
+     "title": "Prelim UoM Inflation Expectations",
+     "country": "USD",
+     "impact": "Medium",
+     "date": "2026-11-06T10:00:00-05:00",
+     "forecast": "",
+     "previous": "4.7%",
+     "actual": "",
+     "gold_label": "Anticipations d'inflation (Michigan)",
+     "gold_weight": 6
+    },
+    {
+     "title": "FOMC Member Bowman Speaks",
      "country": "USD",
      "impact": "Low",
-     "date": "2026-10-30T13:30:00-04:00",
+     "date": "2026-11-06T12:15:00-05:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -1056,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "52ce92cb54f4",
-  "120a4505b3e1",
-  "c898bf6fbfd2",
   "64b70a86afce",
   "a3d204e70d86",
   "624f90a03035",
@@ -4055,7 +3997,10 @@
   "2e184622dc4a",
   "a5ea17f359a9",
   "d531aeede1fc",
-  "6cae5041932f"
+  "6cae5041932f",
+  "16b81ca31cfe",
+  "d61f9d9f4206",
+  "a2f294301b98"
  ],
  "news": [
   {
@@ -4237,6 +4182,18 @@
    "cat": "géopolitique",
    "raison": "Report temporaire d'une frappe militaire allégeant à court terme la prime de risque.",
    "method": "IA"
+  },
+  {
+   "title": "Escalation in Middle East Possible in Coming Days, Polish PM Says",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXBEWEFlSG9EdHRhc2NkY1Npd0puaG1jVWMyX0lNZVBWT05RaTc1MzNoenJwdmIyYW9vYlRRTjR1Mm1sT1EtRnJoRk9DQnJxYk5tLTJwNndQUV9UdFlLMzEtZ0ZURHFVVDR6c1hoWXNYZlpQQVFpNEtRdkxjY1RYQl9iWkJORHN1UmxURXl6dmJtZC1RWVdzNU91VQ?oc=5",
+   "published": "2026-10-31T21:55:08+00:00",
+   "id": "d61f9d9f4206",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "War with Iran looms as Israeli politicians focus on their own agendas",
@@ -6444,18 +6401,6 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Mise en œuvre d'une trêve locale réduisant marginalement les tensions géopolitiques.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
-   "source": "The Guardian",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5",
-   "published": "2026-10-30T12:57:00+00:00",
-   "id": "b6170be94f2a",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Craintes d'escalade mondiale et incertitude électorale alimentant la demande d'actifs refuges.",
    "method": "IA"
   }
  ],
