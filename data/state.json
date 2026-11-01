@@ -1001,19 +1001,6 @@
   }
  },
  "seen_news": [
-  "2e4d644b4bf2",
-  "aca70a306ce5",
-  "dbbd45527b4f",
-  "6c91117e34b5",
-  "50fc82e9d85c",
-  "362ddb2f1548",
-  "f32201e1f38a",
-  "2f0875034ad3",
-  "0e6a6c6673d3",
-  "ce52de3569b0",
-  "1ca2a74cba54",
-  "96b18f8c92a2",
-  "a73b335bb875",
   "20a9ca81eb52",
   "dce8eae91730",
   "3ca8f49f133a",
@@ -4000,9 +3987,34 @@
   "34a1394991ed",
   "66388a1db4d8",
   "8ceaca56c8f3",
-  "30fefa0368d1"
+  "30fefa0368d1",
+  "7ac126e699a3",
+  "a9a62e3a9d9d",
+  "8c50a08261b2",
+  "d74d7e54d07b",
+  "27d15ec03f9b",
+  "45715f4db367",
+  "219194a43bbb",
+  "224705122e2c",
+  "9ef5bf47b3bd",
+  "0c17d9aefa45",
+  "dea93cc25ef5",
+  "4a198b5eaadc",
+  "a3099a185c14"
  ],
  "news": [
+  {
+   "title": "Trump, Netanyahu discuss Iran as Tehran reports tanker explosions in Strait of Hormuz",
+   "source": "Ynetnews",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbUc0c2hsZWh1cUQ4VHZoYUdMVnFNdjFtSHVRZ3BJVVFOcG9neXRwbXh3T3BXNlBDdU4tNWdDS2xJY3hkNUFYMm9hck1UMFpmbzNwblZB?oc=5",
+   "published": "2026-11-01T21:43:27+00:00",
+   "id": "9ef5bf47b3bd",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oleshky ceasefire between Russia, Ukraine ends with no violations reported",
    "source": "Anadolu Ajansı",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Flambée du brut et risque d'embrasement stimulant l'or comme refuge et rempart inflationniste.",
    "method": "IA"
-  },
-  {
-   "title": "Slow squeeze on Taiwan? China’s aircraft & warships keep Trump's Asian ally on their toes | Xi, war | Videos",
-   "source": "Hindustan Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS2ZQZnZrX0JhWERDeWM1YUtrV2UtX1E1bE9ZSkxnajVWRDVFVDhaNENZTG1YbWJLTnVxWUo4VUNuOVFkNG1NeXJnQVRjUXZfM3JpdjRiemVjQk5ldzJGUHlaUTU3cFo5SVd4N2l3ZlNRVGR2UUgxMmRnXzM4ZFUySWRwQkZMYzJsUmRmWHZqS0EzQjAyemt6UjNCZVVOZ1N0T3dQSGRZOVdVeU9SdTRHM19EYW52dVl3aVhYSXEtdmswWldUSERPZUhqYi0wMDNNV1ktdXFCOVd6dEd4N0czcGxrTFNJQdIB6wFBVV95cUxPVDFmTFgwaEdyT0EzSjMwMFRZZFQ0UXA4ZV9sRWE2NUxnd1Nlcm5lY2dvOGE2eFo3N3BTQlduaURQZnN0ZTJNUGdUV29naERFaW1SQy12bzMtT0ZjWGJqZThCaVRtVThwd1hPYm1Xd2c0Mmp0VmZzNUJ2ZUh6Yk1wcTJHYVhMenJIbF9MbF9jYklqSHZVV0ZJbFNodVFUaUpkeGRfZ0x5UkZ4VzdtaEV6UzJLRzlkcFZwNFZlMDFiX0NMMWozSW1HbGljNzJHMV9COHBUaWtsdFM3V1EzYWo3Z2pmZjVoRk0zOTA0?oc=5",
-   "published": "2026-10-31T03:22:48+00:00",
-   "id": "95fc03dc5b67",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Pression militaire chinoise de routine maintenant une légère prime de risque en Asie.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7985,7 +7985,8 @@
   "news|b25c8d9ce935": 1793563474.310542,
   "news|1f424839ec67": 1793567773.2410686,
   "news|8ceaca56c8f3": 1793570505.0895138,
-  "news|30fefa0368d1": 1793570505.969272
+  "news|30fefa0368d1": 1793570505.969272,
+  "news|9ef5bf47b3bd": 1793571368.705972
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8248,6 +8249,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T22:16:08.706071+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, Netanyahu discuss Iran as Tehran reports tanker explosions in Strait of Hormuz</b>\n📰 Ynetnews · Dim 01/11 22:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbUc0c2hsZWh1cUQ4VHZoYUdMVnFNdjFtSHVRZ3BJVVFOcG9neXRwbXh3T3BXNlBDdU4tNWdDS2xJY3hkNUFYMm9hck1UMFpmbzNwblZB?oc=5"
+  },
   {
    "ts": "2026-11-01T22:01:45.969406+00:00",
    "kind": "news",
@@ -8542,11 +8548,6 @@
    "ts": "2026-10-31T19:01:39.224954+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pro-Israel group in Spain denounces new escalation of accusations against Israel and the Jewish community</b>\n📰 European Jewish Press · Sam 31/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFo4Mzl5RW10TlNabW13cjJZVnc5b0s5Y2Vwd2ZxdGk2NDZNUmdkcjgxUVJxUVVoY0VoaEthZDc4ZkhlSnI2eXNwQU5PVGhRRmd2OVNvWlJad1hsbjI2dEwtVkFqT25rTVhIN1JQVVU1M041MXJ4Y2NSdHhSYlNmSW5jeGE1X3lWREZoRm1wallLbjhIU3g1RG5ZS3NPbVlPU1l5MHBkcDd6T3FYeEpHeEo5VDRUY1F2YzVpa2txRy12MlBT?oc=5"
-  },
-  {
-   "ts": "2026-10-31T18:31:25.151994+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu says US-Israeli war on Iran ‘not going to take years’</b>\n📰 DD News · Sam 31/10 09:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOWU5ad2lUeFlyckhsSUxSZ0E4bFRXdEVLN21PUkZWZXNtWjVxWWVKUy12aThQdWJaVVdWd1FMSFBIMi1xemFpcnNlYm4ybUFQX1Z5LTZ0eGtkT2FLNVlnUzI1OHFhckJuWEljcjE0RVpvSEhZOExqUmRZNi1OSGMtNkNwWWJHQ0t5RVpjQy1PdVI?oc=5"
   }
  ],
  "daily_forecast": {
