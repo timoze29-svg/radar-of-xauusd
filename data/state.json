@@ -1056,11 +1056,6 @@
   }
  },
  "seen_news": [
-  "83ccf0f4a575",
-  "287128809b99",
-  "b5a2ef5133a9",
-  "126a8d8f7bd5",
-  "405a0f53a107",
   "7b241446f867",
   "03b01e2b6498",
   "e2dcbe5f7335",
@@ -4055,7 +4050,12 @@
   "5111320a6fab",
   "0503640ee441",
   "4559e250ea37",
-  "513aff221aee"
+  "513aff221aee",
+  "c970b2f79bc4",
+  "8ef325bd2a7f",
+  "87ccb25423e0",
+  "5bad3d64d36e",
+  "47a57afebf8f"
  ],
  "news": [
   {
@@ -4117,6 +4117,30 @@
    "cat": "géopolitique",
    "raison": "Discussions militaires stratégiques signalant un risque d'escalade armée au Moyen-Orient.",
    "method": "IA"
+  },
+  {
+   "title": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
+   "published": "2026-10-31T23:54:07+00:00",
+   "id": "8ef325bd2a7f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Saudi Arabia faces fresh Houthi attacks amid renewed diplomatic efforts",
+   "source": "The Arab Weekly",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGdoSkpwVEkxQW5IRVluUS1CTF9MMzZSM1pmcEg0d1JyRm1ZSHIwamRxNGQ4QTVSUGNKOUUyblZQdWpDYTh3NGxKMEx6QlozazJtRVlLaEJxemJaRmpILXV4WTJVbVlWNUlzRU1USjNBZzU1ajFsdXJBUksyNDdiMVBtb185WDY3T3hkZkR6VVdOdzJWMzZ3SVh5MWVldw?oc=5",
+   "published": "2026-10-31T23:43:38+00:00",
+   "id": "5bad3d64d36e",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Report: Trump, Netanyahu Speak As US Weighs Renewed Iran Strikes",
@@ -6433,34 +6457,9 @@
    "cat": "or",
    "raison": "Simple constat rétrospectif d'une baisse des cours, momentum baissier à court terme.",
    "method": "IA"
-  },
-  {
-   "title": "Russia observes rare Ukraine ceasefire to allow evacuations",
-   "source": "Financial Times",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rYm9KNVJqZFVhbFVzWDZNQ0h2VmliSm0wTWg2ZjE5MlRaZUZSaWpsa3pmWmlSR2lvX3lPcmF4NkozVU5vb0pqei12NGpUN2pPdHZ1dzF0NUJGLW1CaFhHZkdxSGxXNDAyYjNZOUVaSnA?oc=5",
-   "published": "2026-10-30T12:11:45+00:00",
-   "id": "e43da6684490",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Brève accalmie géopolitique réduisant temporairement la prime de risque sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "After Q3 GDP Beats Expectations: CLS Model Says Fed December Rate Hike Odds Below 20%, Betting Against Market's 80% Pricing",
-   "source": "BigGo Finance",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVQUNkNFlsdU9MYkNVUnpGaXZJd29JdEtkSFB0S3NVVGtLTzRNZWRKMHhTOTdwUWpGLUtONmswVE81d21aMFlIa205WXo0V3N2Zzc2a3hxNmN3Um8?oc=5",
-   "published": "2026-10-30T12:08:00+00:00",
-   "id": "b5cd0701a76c",
-   "impact": 2,
-   "cat": "fed",
-   "raison": "Moins de resserrement monétaire anticipé par ce modèle, baisse des rendements obligataires.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|a25f3b131627": 1791686766.5694218,
   "news|26d48df492e3": 1791692167.6621773,
   "news|e6ceeefed988": 1791693114.390683,
   "news|591e30476867": 1791693967.7672522,
@@ -8050,7 +8049,8 @@
   "news|1b76ad67157d": 1793497563.6323013,
   "news|5111320a6fab": 1793500283.7847993,
   "news|f55c82adcd82": 1793500284.5947325,
-  "news|0503640ee441": 1793500285.4021754
+  "news|0503640ee441": 1793500285.4021754,
+  "news|8ef325bd2a7f": 1793501168.418725
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8313,6 +8313,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T02:46:08.418827+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Trump, Netanyahu speak, US weighs renewed Iran strikes</b>\n📰 Iran International · Dim 01/11 00:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5"
+  },
   {
    "ts": "2026-11-01T02:31:25.402410+00:00",
    "kind": "news",
@@ -8607,11 +8612,6 @@
    "ts": "2026-10-31T03:31:19.028732+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>St. Louis Fed President Says Further Rate Hikes \"Needed Promptly\" as Sticky Inflation Pressures Fed</b>\n📰 BigGo Finance · Ven 30/10 19:55\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE9GRnlra0JSRUxid0drdW41M29aY0tZZ3pCeG85RFUwd1RNbnE4QlZoOXpRbzFaeUVjWTZqMU1PUWItSFZhZUtLdk9HdjVxU2hWZWdldG1vM3Y3c3RYY0xhdjRNUjVjLV9ZM2s4MXUxakgtRjZCWXc?oc=5"
-  },
-  {
-   "ts": "2026-10-31T02:46:08.121802+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bill Maher Responds to Trump’s Truth Social Attack—Watch</b>\n📰 LateNighter · Sam 31/10 03:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUU0aWRHX3lQcFBndTVPdjQ4ejdsME14SVpESDkzLUYtNlFLVnRIYVFLYXBYX3NKQ1JaWV9SUXB5MEd3dFJhWmxua1pyMWNqMFJ4aFQ2Mm1zWnFtN0l5c3BGRnRHcXJqX2FCRHBya2MyRTZkWWczVUVUMHdBSUEzRnd1c3ZhVXF4bHJ3TTNB?oc=5"
   }
  ],
  "daily_forecast": {
