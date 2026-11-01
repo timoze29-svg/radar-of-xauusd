@@ -1056,12 +1056,6 @@
   }
  },
  "seen_news": [
-  "26ead8c12a41",
-  "5357a1cd0ff9",
-  "202a4a1f64cd",
-  "80e0afecbfd0",
-  "044215efdd73",
-  "d29209c91c01",
   "83ccf0f4a575",
   "287128809b99",
   "b5a2ef5133a9",
@@ -4055,21 +4049,15 @@
   "ab1ea6bdb81c",
   "b84a1a9a44a6",
   "aea744fb958f",
-  "3344cf16c085"
+  "3344cf16c085",
+  "03cb7a97fae8",
+  "f55c82adcd82",
+  "5111320a6fab",
+  "0503640ee441",
+  "4559e250ea37",
+  "513aff221aee"
  ],
  "news": [
-  {
-   "title": "Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals",
-   "source": "finance.biggo.com",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SVUycURHbkpNR1RUaGR1SFA0Z1h2MG9oLW5fOGhDVHdQR1JfNkRTN0NFYzdJX3NmWDVMeEhoUTZIUVFmM3JCMktSNFRSblBDR2d2aDdiWTFmeUJVNXl5UDFRRzgyajh5QnZva19vVlNNZ003QkE?oc=5",
-   "published": "2026-11-01T02:05:00+00:00",
-   "id": "b84a1a9a44a6",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Trump’s tariff craze has derailed the GOP’s hopes to maintain their authority after the 2026 midterms",
    "source": "New York Post",
@@ -4093,6 +4081,18 @@
    "cat": "emploi",
    "raison": "Rebond de l'emploi relançant les hausses de taux Fed, négatif via taux réels.",
    "method": "IA"
+  },
+  {
+   "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
+   "source": "The Japan Times",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KeW1GQ01OYkk5NGJWdHUxOXNPTkNOWUxlZW1zR3hTMm1EckNyYlBVNUdsT21wMVRWSkJ0M3hib2xpYmtYVzYyemxHU3hoOVg5TTZtSXFoaHVuQlBvYnVuTk1zamhfcmFkQThyWE5hN3h2bkRtRW5xcThLNjk?oc=5",
+   "published": "2026-11-01T00:55:00+00:00",
+   "id": "5111320a6fab",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump held call with Netanyahu amid preparations to renew strikes on Iran — WSJ",
@@ -4227,18 +4227,6 @@
    "method": "IA"
   },
   {
-   "title": "Lundin Gold Inc. (LUGDF) Stock Price, News, Quote & History",
-   "source": "Yahoo! Finance Canada",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MNzJaNHZzTU8ydGpoOWIzekpFMy1ZVTNmUFBweDNwRkgxRzZlMXg2a00tb1kwLTNRdG9RVXNqVkNhQTlQa0hDRXVfN2NPU3QzOEFR?oc=5",
-   "published": "2026-10-31T20:20:49+00:00",
-   "id": "ab1ea6bdb81c",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
    "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
    "source": "Bloomberg.com",
    "theme": "Inflation US",
@@ -4285,6 +4273,18 @@
    "cat": "or",
    "raison": "Sorties massives d'ETF et cassure technique négative avant les chiffres de l'emploi.",
    "method": "IA"
+  },
+  {
+   "title": "Overweight Trump, 80, Doubles Down in Vile Attack on Reporter",
+   "source": "Yahoo News Canada",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTa2dJM1drWXAtRTM0bFZfVEREZzltRHl3d0luajhReDlJZGsta2UzU1NyNkdaLU1CRldNLTBqclJrOENSMzFLRWl1azBTMURoc3o5QTdIVnFMQ29tUy1scEJScEtnNjhWenFmdWZnRFIyTndsajl0R3NINExLQQ?oc=5",
+   "published": "2026-10-31T18:49:44+00:00",
+   "id": "f55c82adcd82",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
@@ -4957,6 +4957,18 @@
    "cat": "géopolitique",
    "raison": "Déclarations diplomatiques maintenant une prime de risque géopolitique modérée sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "US and Israel strike Iran, targeting its top leaders",
+   "source": "DD News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekM1T0RBSDNVOEZjTHp1cE1Sbk15RGQ5dG9ZRVhhb3JjeHNEYzIzX2FwUTlkc1VMcDAzRVpyVi14VWl2R0hBQTUyRGppc3kwTXhQX25ScjlfVEgwYTFraXpJcjh0bWZvTTlYcXNZaHgtSWpxMkpNMWxEYkJNcGx4U0Rkbw?oc=5",
+   "published": "2026-10-31T08:19:37+00:00",
+   "id": "0503640ee441",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "President Donald Trump Claims, \"Tariffs Are Making Us Much Richer,\" but Economists Show They Have Unintended Consequences",
@@ -6445,25 +6457,9 @@
    "cat": "fed",
    "raison": "Moins de resserrement monétaire anticipé par ce modèle, baisse des rendements obligataires.",
    "method": "IA"
-  },
-  {
-   "title": "What is happening in Oleshky, the occupied Ukrainian town at the center of a Melania Trump ceasefire?",
-   "source": "CNN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGF1MDFIYUhFUU5FM2RxQ05CSWJ5LWpWb2lTQk51ckI3bERLcVdDU21Zdnc1Q25BV1BiSzd4bHNUSWtnZllvam1zQ0tWZ3pqU0djazFyZmZEMlRlV1JsWWd2aEZycXNUbFRzYjdEUDJOM0NzWWFuck82MTJTdVZhRHh5eU9QWTZWZzhNTS13?oc=5",
-   "published": "2026-10-30T12:05:01+00:00",
-   "id": "87eb03f3976f",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Médiation et cessez-le-feu diminuant légèrement l'aversion au risque mondiale.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|f8249b084ce7": 1791684093.3306234,
-  "news|2a2857ce3b67": 1791684975.922292,
-  "news|6a168d07e848": 1791685877.4223197,
-  "news|72c8456d3fc6": 1791685878.4498668,
   "news|a25f3b131627": 1791686766.5694218,
   "news|26d48df492e3": 1791692167.6621773,
   "news|e6ceeefed988": 1791693114.390683,
@@ -8051,7 +8047,10 @@
   "news|32efae8f00bc": 1793493965.249616,
   "news|6b51800339f9": 1793493966.6581218,
   "news|253f7595503f": 1793494888.3739362,
-  "news|1b76ad67157d": 1793497563.6323013
+  "news|1b76ad67157d": 1793497563.6323013,
+  "news|5111320a6fab": 1793500283.7847993,
+  "news|f55c82adcd82": 1793500284.5947325,
+  "news|0503640ee441": 1793500285.4021754
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8314,6 +8313,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T02:31:25.402410+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel strike Iran, targeting its top leaders</b>\n📰 DD News · Sam 31/10 09:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPekM1T0RBSDNVOEZjTHp1cE1Sbk15RGQ5dG9ZRVhhb3JjeHNEYzIzX2FwUTlkc1VMcDAzRVpyVi14VWl2R0hBQTUyRGppc3kwTXhQX25ScjlfVEgwYTFraXpJcjh0bWZvTTlYcXNZaHgtSWpxMkpNMWxEYkJNcGx4U0Rkbw?oc=5"
+  },
+  {
+   "ts": "2026-11-01T02:31:24.594990+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Overweight Trump, 80, Doubles Down in Vile Attack on Reporter</b>\n📰 Yahoo News Canada · Sam 31/10 19:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBTa2dJM1drWXAtRTM0bFZfVEREZzltRHl3d0luajhReDlJZGsta2UzU1NyNkdaLU1CRldNLTBqclJrOENSMzFLRWl1azBTMURoc3o5QTdIVnFMQ29tUy1scEJScEtnNjhWenFmdWZnRFIyTndsajl0R3NINExLQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-01T02:31:23.784899+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats</b>\n📰 The Japan Times · Dim 01/11 01:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5KeW1GQ01OYkk5NGJWdHUxOXNPTkNOWUxlZW1zR3hTMm1EckNyYlBVNUdsT21wMVRWSkJ0M3hib2xpYmtYVzYyemxHU3hoOVg5TTZtSXFoaHVuQlBvYnVuTk1zamhfcmFkQThyWE5hN3h2bkRtRW5xcThLNjk?oc=5"
+  },
   {
    "ts": "2026-11-01T01:46:03.632375+00:00",
    "kind": "news",
@@ -8598,21 +8612,6 @@
    "ts": "2026-10-31T02:46:08.121802+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bill Maher Responds to Trump’s Truth Social Attack—Watch</b>\n📰 LateNighter · Sam 31/10 03:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUU0aWRHX3lQcFBndTVPdjQ4ejdsME14SVpESDkzLUYtNlFLVnRIYVFLYXBYX3NKQ1JaWV9SUXB5MEd3dFJhWmxua1pyMWNqMFJ4aFQ2Mm1zWnFtN0l5c3BGRnRHcXJqX2FCRHBya2MyRTZkWWczVUVUMHdBSUEzRnd1c3ZhVXF4bHJ3TTNB?oc=5"
-  },
-  {
-   "ts": "2026-10-31T02:31:22.442807+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war live: Qatar calls for immediate, unconditional reopening of Strait of Hormuz</b>\n📰 Arabian Business · Sam 31/10 01:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-31T01:16:07.064453+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war will end \"soon\" as Qatar pushes for U.S.-Iran deal</b>\n📰 CBS News · Ven 30/10 23:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOX0paR2dfa2VNSTM2Ni1sdDQwS1dzckJXV2dTNDBpZGlHZjhrLUZqRFFwNUFfYmdMMlRta013VmNHdjQxQkRlVFR3b3QyUmZEQnlDNzdlUmFLMG5lMURWaU1ueVJrVm1QMUwzdjJGV0Q0X3FOMDJ5eXZyT2R1UllCbHBNbGJWQkhfZHM3MFd4LXJQT05xTmZ5ZUhGRjRtZw?oc=5"
-  },
-  {
-   "ts": "2026-10-31T01:01:31.278248+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war will end ‘soon’</b>\n📰 The Hill · Sam 31/10 01:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjB3T0NqSGozLWlBa3N3alJrOVhCS0ZNYTd4X2Q3VGEwN0hhSF83c3lfUktYVjZlUVNLREtzSzRfa09CMktQTjVPR2NaaUFTa1RPUG10blIyaHBmOEZqU0o4MTZJc0pUWFdLNVc3akhmWnpYdEFwejNuY2ZIRXVGN2V5MXpkbFROTk9semlKelJoQUxDSjVFVNIBngFBVV95cUxOYmRBblFSS09odGE1bmJ5eUdSMzBMdTFLMDlKZ1lEWWRiWURGejF0YzhBUC1ZaFlrVUU2RVduUEoycDdmRTJpX2FGZWk1SGFpREFwWjJ1ckd0WFlOQ1lrMXU5WThzekVRYUZSSEptazdYdFFQeVpfdll4cC01ek0zNmJOMnJmclMteVZaSmVWLUgwN3RrQzBBUkV6WUh1Zw?oc=5"
   }
  ],
  "daily_forecast": {
