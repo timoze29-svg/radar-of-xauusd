@@ -1001,15 +1001,6 @@
   }
  },
  "seen_news": [
-  "2ec6982c8b6a",
-  "bac42a406643",
-  "11acaa3c4892",
-  "4a4248ac82f2",
-  "6701618dd27e",
-  "79c58be90800",
-  "9257683d46c3",
-  "fa8613336297",
-  "7309dd2cefb0",
   "dfb9dbc0d485",
   "032346137a6f",
   "deb08fbbf77e",
@@ -4000,9 +3991,42 @@
   "196c4246b860",
   "f161a02a9ab8",
   "7f3b1fb597fe",
-  "abc3dbc34393"
+  "abc3dbc34393",
+  "1b838f09ad82",
+  "ae6e4947349b",
+  "7b5ad2a26548",
+  "5918afec3088",
+  "feb8a4b7ecaa",
+  "9b61b55e5bae",
+  "c594bfe542c5",
+  "b6451c26d10c",
+  "583a300b0a7e"
  ],
  "news": [
+  {
+   "title": "Traders bet big on a December Fed rate cut despite a data blackout",
+   "source": "Startup Fortune",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeURKZTIxaV9rSVNtVkhSTDVlOG9iMXpmRWpkUDhZck5sM3RHUjYyS2FhVGVCTXQwZEtnY25uaV9COGY1MXVTaWQ3OFNaTEl5NGdvLVlJNnpGN3pVcUdCZk4tcXB6YmxSeTNaR1JVdGtKcUprelVGWFd6aVhObXNpd2VjYzFERGxQZkhxbE81QVNXWmVSSVhla0VB?oc=5",
+   "published": "2026-11-01T07:57:31+00:00",
+   "id": "7b5ad2a26548",
+   "impact": 8,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Commentary | Should Israel Strike In Iran?",
+   "source": "Israel Defense",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50aTlEWHBfZ1oxRm9VTDJ6RGFaQTJVZWFoWXdseWZEOTM1aEljRldFcjZLRTNSbDZEU09oa0dGaURFdzhBazN4a3NSaHRwczZESUNiVXY2S1Q?oc=5",
+   "published": "2026-11-01T07:40:47+00:00",
+   "id": "ae6e4947349b",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "UPDATES: US War on Iran, Day 248 — Trump Camp Threatens Attacks on November 4",
    "source": "EA WorldView",
@@ -4010,10 +4034,10 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnVISUktczY3MTRQc25YMEhQc1ZUdWtqRDlYSl9kY183c3BNOTZaT0xKWkNfYlI2cnlYeWduUlF2Q2dXRm51dE9pS1J5c0FEVXNpQm0yUE1WT2JmVzlTYVFKc09LRGJKbXhLaHVEa01QYmltNTY5TTNPWnZrWldpc2p2T0RLd19KOGc?oc=5",
    "published": "2026-11-01T07:23:14+00:00",
    "id": "196c4246b860",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces de frappes contre l'Iran alimentant marginalement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Russia-Ukraine war ‘no longer sustainable’: Turkish foreign minister",
@@ -4022,6 +4046,18 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dZNXFySUJRQjA0U2NyLU1rV1VzOS1Od3RVWEFoVGlLSzZxYnVicHJEbU9BWFB0ZEtBXzJDazctQWNGM3RQWW5RSmgtQnU3aW9iSHNTTzEtRzkzTnNTYzc5eWN0ekhfZ0xUQ19SazVVZUtjQzVkVlJZSkMxNGRsMXkzX1FidWM3Y1FSWklCMHBFMEJiczN6Vm9HOVEzc3ltYjhzUEhzcl9JbXZW?oc=5",
    "published": "2026-11-01T06:45:14+00:00",
    "id": "d00c6907353e",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Évocations diplomatiques d'un cessez-le-feu en Ukraine réduisant très légèrement la demande refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Russia's war casualty toll in Ukraine up by 2,100 over past day",
+   "source": "Ukrinform",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1ByaS1tTUc2SEs0ZldMRlZkNHlLdHlmT09vejR2bTB0T2tsdFZjUmZwbXM5ZXdiNFBJNGxOY2F3WFFqRGJYV2VLMm5WWEVWUFhwTTExVzZyVzd3TmRWMzdFMDVWak9ZVm9WWDZlYVBYTFhMblJpR1BsekpsNEpudUxWekxGV0s4SlJZRUQyNlVIODM5U1BuYkF3UHMtbGdVVFZocFlCejlWRGlQanZnQQ?oc=5",
+   "published": "2026-11-01T06:45:00+00:00",
+   "id": "c594bfe542c5",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4038,18 +4074,6 @@
    "cat": "géopolitique",
    "raison": "Simple rhétorique diplomatique sans escalade concrète, effet valeur refuge quasi négligeable.",
    "method": "IA"
-  },
-  {
-   "title": "Could Taipei’s unexpectedly tight mayoral race add to cross-strait tensions?",
-   "source": "South China Morning Post",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRU4yd1dZc3lLb0lpR3liVTBxRDhJS0RvYjRKQjJfOEM0SnNnbk9ZMUE0bUxGNmQyNGkzVEl2Xy1UVGppNWNYMERXNUt6OWtKM1Vwek5OMWhwVjVHZkJ6V0xIM25zbTVRejZneXdCR1dhLTNoVzc0UHJyUGFTaEItMF9JcV9QNTVITV9FZldFZS02Z0NOamh2clEwM0EyaU1veWR6V2VhYy1FdG1UUFgxUGUwSnk4YjluWlFFdUFJUHZVc21FMHlZ0gHHAUFVX3lxTFBhZXl0ZktMYmowMmdSek5ldEFqbVd0dUhITVFqZnM1WG9EVWxzS2hLRnZFd3pGUFJ6Q08tQW9SaDRweUxwOGZvUHFlS0RWb2hlZHU5VVZIMWpPT2c2NzlNbGFsUjJiZHVPWHFPTThyS0FvRGNqbjBHbHpxOHFYMnJvczg5M1BUR3QtRE9NeHhrZThUd09kaGM3MXVRc0JDMkYxaTlSSFVVSmNiaDhPeHpXbU1zeFZOa2dicTg4VERuVFRGU0dfN2s?oc=5",
-   "published": "2026-11-01T06:00:18+00:00",
-   "id": "15c494ee2e7b",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   },
   {
    "title": "Trump Says Again That Iran Wants a “Deal”",
@@ -4106,10 +4130,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmVyOHd3MUJERWVPUG9BQzVDSVRvOVNaaEVFMGFmSVlZVnhFcWtzOU1qLTY5N05nbnJmWUZyWEN1Y3VjY05rS3Rhc1Vub2FTTERBVm1vRkszN3YxdFpMX1JUbVNFdzIzOHQzbVdKbXFrT2prb2dMTGpFdnkzYVphcVNvcDlYdE92QWhHV3FvVElGamRSQVJubUpOSlJ6bnBmNUlIRHMzcW0?oc=5",
    "published": "2026-11-01T04:57:28+00:00",
    "id": "663707ef289d",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menace explicite de riposte iranienne soutenant la demande d'or comme valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
@@ -4142,10 +4166,10 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdVZrUC1lUVhFNVlSTTJuT2xuUWpCUVJScldVdlJ5WEN1aHZxbV96RFJwLUsyeElRakRjSmtDTHAzcXpTY2JlUlpTMXVMU1RsUHI3OWtjMUY0YkdWbDB1ZG1yVER6Tm1YQWFkLTMyZmRzenNEM01PNXY0QThSa25DMXZCcGFYbUtGekJXY18tcHF5NzdCVEp4TVdzU21rNGk4SG52eW5GZTBNM1k5U25tUElFOUZfV1VoS2ZRc3dWd0VzWFJEVmZsRUNOcnp4YjBPSE50enI4SmJ5MUZFRk92amlXWGlCRmFfNDdLQ2FGZkplU1FnaGRr0gH_AUFVX3lxTE9EQUkxM1pYX2tXMS1ramswQmVZcDJvVkE2QlJqSHJlcUdKOXZLblhWeGFhY1pSUnlEM2FvRTY1R0RMMHJySFpIT2xOWmFoUHVzQzFfTnI5Nno2OWZfUHVBT1RTSmpUbXg0N2phdHI5TmtXYlB6amhYczJxanFpUHJWVVRndVFfczRZN09GVVhUWEZnNUdXSERCTkRMc01aams4c2l4YWlCZ3BFTGFmWE52X3BnOEZXNUMyTldGZ1B4N2pIZDV0YjZqckQ5TktJSmtnajJuUVU4akFwMnNsZkhKcktPa1R0OERIWV9Bd3VNWkY5REp2b0NMX3I4ZTVtMA?oc=5",
    "published": "2026-11-01T03:09:15+00:00",
    "id": "450342eb5a0a",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rhétorique belliqueuse envers l'Iran maintenant un climat d'incertitude favorable à l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report",
@@ -4202,10 +4226,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNDVVFrTlBWTFhQbl9oanYyUkVnakwzcWk2ZG9nWlRoUXdUX1VaN3RoNmRpN0xPTDVpamlES1ZmbkRjekR1d0dYM3FKenY0ZDVySU5uQzNNLUFQODVSdkdFM0lUU25YWHI1dTUwVVdDNmI4UkxPYWpjVVJNY0EzbFp6Sm8tSHlfVjNGVnJKcTVFa2RCY25CNER1RUlUZExoY3VFNG53Q0hycUlKZHlOWkxhREd2ZFdtTFNYSzZTMkM?oc=5",
    "published": "2026-11-01T01:03:16+00:00",
    "id": "5db07dadee74",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Préparatifs crédibles de frappes imminentes au Moyen-Orient renforçant l'attrait pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
@@ -6378,30 +6402,6 @@
    "cat": "inflation",
    "raison": "Inflation allemande en baisse, soutenant le dollar face à un euro affaibli.",
    "method": "IA"
-  },
-  {
-   "title": "Gold plunges, but UBS isn’t budging on its price target",
-   "source": "TheStreet",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81dVliUTd1MnU3OUFubUk4RGhfc0lWdURoMS1pM1BHSnVLQ2hIMkl1U0pHc1VBX21WNlNqX3dZNm02d0lUT1lhOFg0d3FxZXZBRjhTajRhVE5aUXYzSkt4eThmc3BpRmZwVjhaMU9BYw?oc=5",
-   "published": "2026-10-30T14:17:00+00:00",
-   "id": "1c2dc78f142e",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Maintien des objectifs haussiers d'UBS soutenant la confiance institutionnelle à court terme.",
-   "method": "IA"
-  },
-  {
-   "title": "Treasury sets I Bond’s fixed rate at 1.40%; composite rate rises to 5.51%",
-   "source": "https://tipswatch.com/",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG5LTDNVcnI1b0VqUFBLWEthMng3aU9Qa0FoNnYyWGIyM2E1Q1VMNXZyaUVya0c5UWE0V0d5WjRzQ2pyN3BoSjdobm5IMkhvdlBOcVNfdVl0TmM4V1ZfaHJtVjZDc1kwNWlsay1Tck1CWVVvc0hLbWM4QVVsSVhXSVVNUmhOQmJvckI1djExV0VwSEMxU0x3TWdYTEpLandWWkx3MUh3?oc=5",
-   "published": "2026-10-30T14:10:24+00:00",
-   "id": "8201d4f2884e",
-   "impact": -1,
-   "cat": "taux",
-   "raison": "Rendements réels sans risque attractifs augmentant le coût d'opportunité du métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7998,7 +7998,8 @@
   "news|663707ef289d": 1793513767.9286432,
   "news|5db07dadee74": 1793514677.1892142,
   "news|450342eb5a0a": 1793515562.0478895,
-  "news|196c4246b860": 1793518470.5029871
+  "news|196c4246b860": 1793518470.5029871,
+  "news|7b5ad2a26548": 1793520394.1899416
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8261,6 +8262,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T08:06:34.190050+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Traders bet big on a December Fed rate cut despite a data blackout</b>\n📰 Startup Fortune · Dim 01/11 08:57\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPeURKZTIxaV9rSVNtVkhSTDVlOG9iMXpmRWpkUDhZck5sM3RHUjYyS2FhVGVCTXQwZEtnY25uaV9COGY1MXVTaWQ3OFNaTEl5NGdvLVlJNnpGN3pVcUdCZk4tcXB6YmxSeTNaR1JVdGtKcUprelVGWFd6aVhObXNpd2VjYzFERGxQZkhxbE81QVNXWmVSSVhla0VB?oc=5"
+  },
   {
    "ts": "2026-11-01T07:34:30.503108+00:00",
    "kind": "news",
@@ -8555,11 +8561,6 @@
    "ts": "2026-10-31T10:31:28.922626+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egypt: New US-Iran escalation could be more 'destructive'</b>\n📰 Breakingthenews.net · Sam 31/10 10:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTV5cEZMRUlUdUVtdkJvOXRKX2s0MjBSTDhPb3ItQlVuOThKdUt4elZJS3ozZG9ydndiTG5EdG5BcHFIWGY5elBtZEV6WEdaYkYwb3ZobEFla1poSnZtTFJHaU5menotUnd3WHFvZzc4YkNTNjBKY1FHZWNBbFhfeTY5Wmx1am1qT0VHdTFtalZtNGVpOTh0UUVrTVZmRzg1a29hMQ?oc=5"
-  },
-  {
-   "ts": "2026-10-31T09:31:25.622323+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egyptian foreign minister 'extremely worried' US-Iran escalation will have major impact on Mideast</b>\n📰 The Jerusalem Post · Sam 31/10 09:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dXVoYmJWdDFKajNYd01QS2lyeExkdWtWNXo5NEdLb2pDS1FzdnJ3MW9TLWtwZXRscUF0aEplSzdicWZZdFpVYWVRcjEyVlNpbFl5QlhjTGI0M2QxSFlLQXhIZDdQRW14akE?oc=5"
   }
  ],
  "daily_forecast": {
