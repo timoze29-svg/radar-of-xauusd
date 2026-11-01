@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "9f4503e8a8e9",
-  "6e9845ff8d2c",
-  "717cb36515dd",
   "5b1cb57af621",
   "2ec6982c8b6a",
   "bac42a406643",
@@ -4000,9 +3997,24 @@
   "29e9d6329367",
   "52a83ba81fc5",
   "37fe7ab39c67",
-  "d00c6907353e"
+  "d00c6907353e",
+  "196c4246b860",
+  "f161a02a9ab8",
+  "7f3b1fb597fe"
  ],
  "news": [
+  {
+   "title": "UPDATES: US War on Iran, Day 248 — Trump Camp Threatens Attacks on November 4",
+   "source": "EA WorldView",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnVISUktczY3MTRQc25YMEhQc1ZUdWtqRDlYSl9kY183c3BNOTZaT0xKWkNfYlI2cnlYeWduUlF2Q2dXRm51dE9pS1J5c0FEVXNpQm0yUE1WT2JmVzlTYVFKc09LRGJKbXhLaHVEa01QYmltNTY5TTNPWnZrWldpc2p2T0RLd19KOGc?oc=5",
+   "published": "2026-11-01T07:23:14+00:00",
+   "id": "196c4246b860",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia-Ukraine war ‘no longer sustainable’: Turkish foreign minister",
    "source": "Türkiye Today",
@@ -6390,22 +6402,9 @@
    "cat": "taux",
    "raison": "Rendements réels sans risque attractifs augmentant le coût d'opportunité du métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "Sen. Chris Murphy Calls Trump’s Plans to Renew Attacks on Iran “Insane”",
-   "source": "Democracy Now!",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkprcVRKSFdBbWRBOHpEZEd0X3p5TDV5RHAzdmZtb1A3U0RmY2QwR1NGeGhUQktHc1VvR3JxUTAtTkh3U0pSZVFEa1NxQkEwUGc4dFFkM0FXTXNiRW9ieFBCSUxWRWdVakgwZXhvSFFPWVJuSjZtTVNaX2wyRFJXOUYzQkVtbXctb250U19QX3hXbEpBNjFtbmxWUTAwTVZ2YnRmbVBOUEt6UTVacHdnSHhZUUpIdjBq?oc=5",
-   "published": "2026-10-30T14:03:14+00:00",
-   "id": "0226a779543c",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Confirmation politique de projets de frappes en Iran accentuant le risque d'embrasement.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|a179dc14892f": 1791703888.8802454,
   "news|a4ecccafb9ba": 1791711269.4236526,
   "news|7e1aa3d606df": 1791713769.6225677,
   "news|6b895ead6630": 1791713770.6410143,
@@ -7998,7 +7997,8 @@
   "news|b79d3917eaa3": 1793511966.2641191,
   "news|663707ef289d": 1793513767.9286432,
   "news|5db07dadee74": 1793514677.1892142,
-  "news|450342eb5a0a": 1793515562.0478895
+  "news|450342eb5a0a": 1793515562.0478895,
+  "news|196c4246b860": 1793518470.5029871
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8261,6 +8261,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T07:34:30.503108+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>UPDATES: US War on Iran, Day 248 — Trump Camp Threatens Attacks on November 4</b>\n📰 EA WorldView · Dim 01/11 08:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnVISUktczY3MTRQc25YMEhQc1ZUdWtqRDlYSl9kY183c3BNOTZaT0xKWkNfYlI2cnlYeWduUlF2Q2dXRm51dE9pS1J5c0FEVXNpQm0yUE1WT2JmVzlTYVFKc09LRGJKbXhLaHVEa01QYmltNTY5TTNPWnZrWldpc2p2T0RLd19KOGc?oc=5"
+  },
   {
    "ts": "2026-11-01T06:46:02.047964+00:00",
    "kind": "news",
@@ -8555,11 +8560,6 @@
    "ts": "2026-10-31T09:31:25.622323+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egyptian foreign minister 'extremely worried' US-Iran escalation will have major impact on Mideast</b>\n📰 The Jerusalem Post · Sam 31/10 09:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dXVoYmJWdDFKajNYd01QS2lyeExkdWtWNXo5NEdLb2pDS1FzdnJ3MW9TLWtwZXRscUF0aEplSzdicWZZdFpVYWVRcjEyVlNpbFl5QlhjTGI0M2QxSFlLQXhIZDdQRW14akE?oc=5"
-  },
-  {
-   "ts": "2026-10-31T09:20:02.437238+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egypt warns US-Iran escalation risks unprecedented devastation across Middle East</b>\n📰 Middle East Online · Sam 31/10 09:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXFFeG1RZTlsTXZTZGMxSS1UR0xOUXVOZTVMR2l4WnJncXU4aWJMbDE3bUJyR24wRnU3SUREMkQzMHIxb191akJiTEh1YmFrbGZEelFYR0dCWjNFOUVBU25fTjJsamxvVFg5UkZBQ2lNT3RRSlAxWWpoQ0NVLW5FUVlLOTdsanhPR09ibUJJeW5oUktGbnBuU3AzMHNDV19wVFI3V0hTOWpObFNyUkdFUGNGSFExQQ?oc=5"
   }
  ],
  "daily_forecast": {
