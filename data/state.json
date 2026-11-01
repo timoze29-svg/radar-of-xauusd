@@ -1001,12 +1001,6 @@
   }
  },
  "seen_news": [
-  "966b12bd3b54",
-  "cf819229074d",
-  "c9adc14c9e7b",
-  "2e87a63ed2fc",
-  "5e82413cdf94",
-  "3d437e413595",
   "f3fe536d13a5",
   "a948cd587fa9",
   "7d5b15956305",
@@ -4000,9 +3994,27 @@
   "55c752f7a7c3",
   "be96ee771f54",
   "b4632d9b4c55",
-  "00af476ab265"
+  "00af476ab265",
+  "37289b0a6832",
+  "7956b41170c5",
+  "e405a57efd17",
+  "b79d3917eaa3",
+  "a8f72a6aaa3c",
+  "661ad8a75f38"
  ],
  "news": [
+  {
+   "title": "Israel prepares for renewed Iran strikes as Trump points to Pickaxe Mountain",
+   "source": "Türkiye Today",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUY1Y2RZQ180WFZLZkk1aGdlbzhqbmgtcW1MNW9Wa2dSSjVMMTFxUFhPU0VSTm5aSjhTZEEyWlA3NmdPTk12NUI0WjFMRXNYa3lreXlYN0k4cTl3emxKY051Vkxwd0xVZDVzeGZiRVRjWDFkSkEwR1U3ZHMxVkR1S0RWbmZDTEVnNzljTTJSNWFmS05CWW9ON2hlZEIzRE41NmdHeFZnem5GcE1aQUF1UzJ5Rkh5WFl4QW5TVQ?oc=5",
+   "published": "2026-11-01T05:25:53+00:00",
+   "id": "b79d3917eaa3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
    "source": "The Guardian",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Efforts concrets de médiation pour un accord de paix réduisant l'attrait refuge.",
    "method": "IA"
-  },
-  {
-   "title": "China’s central bank continues to build up gold reserves",
-   "source": "www.bofit.fi",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQ2NKaTRXSDNxeFZuN0RSdXN4aFFoQzNZOGZnR0xHX1FidG0tTXpZRGtsS0g1U3FnVzZCdGxmdXltTUMwajJHNnlCMGo0QUpUdHJxenpRQzRFekNKRWZMOTUwd1FYTGNVN3c?oc=5",
-   "published": "2026-10-30T13:10:07+00:00",
-   "id": "3df2632fdb72",
-   "impact": 4,
-   "cat": "banques centrales",
-   "raison": "Achats soutenus d'or par la Chine apportant un socle acheteur structurel majeur.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7995,7 +7995,8 @@
   "news|d531aeede1fc": 1793507479.3251748,
   "news|2e184622dc4a": 1793507480.354108,
   "news|be96ee771f54": 1793511084.740266,
-  "news|55c752f7a7c3": 1793511085.826196
+  "news|55c752f7a7c3": 1793511085.826196,
+  "news|b79d3917eaa3": 1793511966.2641191
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8258,6 +8259,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T05:46:06.264194+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel prepares for renewed Iran strikes as Trump points to Pickaxe Mountain</b>\n📰 Türkiye Today · Dim 01/11 06:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUY1Y2RZQ180WFZLZkk1aGdlbzhqbmgtcW1MNW9Wa2dSSjVMMTFxUFhPU0VSTm5aSjhTZEEyWlA3NmdPTk12NUI0WjFMRXNYa3lreXlYN0k4cTl3emxKY051Vkxwd0xVZDVzeGZiRVRjWDFkSkEwR1U3ZHMxVkR1S0RWbmZDTEVnNzljTTJSNWFmS05CWW9ON2hlZEIzRE41NmdHeFZnem5GcE1aQUF1UzJ5Rkh5WFl4QW5TVQ?oc=5"
+  },
   {
    "ts": "2026-11-01T05:31:25.826501+00:00",
    "kind": "news",
@@ -8552,11 +8558,6 @@
    "ts": "2026-10-31T08:19:22.840051+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Egypt fears escalation in US-Iran war will have major impact on Mideast</b>\n📰 The Jerusalem Post · Sam 31/10 09:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dXVoYmJWdDFKajNYd01QS2lyeExkdWtWNXo5NEdLb2pDS1FzdnJ3MW9TLWtwZXRscUF0aEplSzdicWZZdFpVYWVRcjEyVlNpbFl5QlhjTGI0M2QxSFlLQXhIZDdQRW14akE?oc=5"
-  },
-  {
-   "ts": "2026-10-31T08:04:43.317661+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Trump plans new Iran strikes after midterms, Iran negotiators head to Doha</b>\n📰 Iran International · Sam 31/10 05:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5"
   }
  ],
  "daily_forecast": {
