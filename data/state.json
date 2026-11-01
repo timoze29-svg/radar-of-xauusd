@@ -1056,12 +1056,6 @@
   }
  },
  "seen_news": [
-  "11f0c57725b5",
-  "f8249b084ce7",
-  "41c1d944f5cf",
-  "c0e31c75fffc",
-  "50dd6e70d1f1",
-  "f622a2f52f72",
   "a8a41defa9bb",
   "a23c382e15b1",
   "34306e90055b",
@@ -4055,9 +4049,27 @@
   "739a84c2c22a",
   "cf52cc809deb",
   "081a97e0d3df",
-  "9e54d089cc67"
+  "9e54d089cc67",
+  "c3a419b5c121",
+  "06a6780cbbd2",
+  "eedf3385422c",
+  "1b76ad67157d",
+  "e6ef8e22e4f4",
+  "16ca112c5f21"
  ],
  "news": [
+  {
+   "title": "U.S. Job Growth Seen Rebounding, Boosting Odds of Another Fed Rate Hike",
+   "source": "bloomingbit",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95a2ExV2xtSVdVSmpuMGJHNXZMamVRQTd6bkZLcjdyUDI4TjZCX1J6bS03V05pVjNjaDhNRnhHLV9lS2l5ZTdKQkdyNmRpcFJBV0E5RA?oc=5",
+   "published": "2026-11-01T01:33:53+00:00",
+   "id": "1b76ad67157d",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump held call with Netanyahu amid preparations to renew strikes on Iran — WSJ",
    "source": "The Times of Israel",
@@ -6445,22 +6457,9 @@
    "cat": "géopolitique",
    "raison": "Trêve opérationnelle confirmée, érosion graduelle de la prime de guerre.",
    "method": "IA"
-  },
-  {
-   "title": "Trump on Iran War: It will end soon",
-   "source": "Arab News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlcTVUWmVfRHNBT244ZjZJeEM5RndWTEY3OUlCeHNvaDY4bDBqRkN1SHNWeGhOTW9LRjQyNnhtTlJaTXdkdkZLQVpsWi16c2stS18yZ3JPUzVuOXNDZktMTExVYUxfRDNTQV9EN05yLVM5YkFqNGtySm5keVZkdw?oc=5",
-   "published": "2026-10-30T12:04:53+00:00",
-   "id": "f2a76ea4c9b4",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Perspective de fin du conflit iranien comprimant la prime de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|dc567e637eea": 1791683161.7363403,
   "news|f8249b084ce7": 1791684093.3306234,
   "news|2a2857ce3b67": 1791684975.922292,
   "news|6a168d07e848": 1791685877.4223197,
@@ -8051,7 +8050,8 @@
   "news|3face0309948": 1793492171.5853498,
   "news|32efae8f00bc": 1793493965.249616,
   "news|6b51800339f9": 1793493966.6581218,
-  "news|253f7595503f": 1793494888.3739362
+  "news|253f7595503f": 1793494888.3739362,
+  "news|1b76ad67157d": 1793497563.6323013
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8314,6 +8314,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T01:46:03.632375+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>U.S. Job Growth Seen Rebounding, Boosting Odds of Another Fed Rate Hike</b>\n📰 bloomingbit · Dim 01/11 02:33\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE95a2ExV2xtSVdVSmpuMGJHNXZMamVRQTd6bkZLcjdyUDI4TjZCX1J6bS03V05pVjNjaDhNRnhHLV9lS2l5ZTdKQkdyNmRpcFJBV0E5RA?oc=5"
+  },
   {
    "ts": "2026-11-01T01:01:28.374042+00:00",
    "kind": "news",
@@ -8608,11 +8613,6 @@
    "ts": "2026-10-31T01:01:31.278248+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war will end ‘soon’</b>\n📰 The Hill · Sam 31/10 01:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjB3T0NqSGozLWlBa3N3alJrOVhCS0ZNYTd4X2Q3VGEwN0hhSF83c3lfUktYVjZlUVNLREtzSzRfa09CMktQTjVPR2NaaUFTa1RPUG10blIyaHBmOEZqU0o4MTZJc0pUWFdLNVc3akhmWnpYdEFwejNuY2ZIRXVGN2V5MXpkbFROTk9semlKelJoQUxDSjVFVNIBngFBVV95cUxOYmRBblFSS09odGE1bmJ5eUdSMzBMdTFLMDlKZ1lEWWRiWURGejF0YzhBUC1ZaFlrVUU2RVduUEoycDdmRTJpX2FGZWk1SGFpREFwWjJ1ckd0WFlOQ1lrMXU5WThzekVRYUZSSEptazdYdFFQeVpfdll4cC01ek0zNmJOMnJmclMteVZaSmVWLUgwN3RrQzBBUkV6WUh1Zw?oc=5"
-  },
-  {
-   "ts": "2026-10-31T00:31:22.116259+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Taylor says she would vote to end tariffs and Iran war</b>\n📰 Virginia Scope · Ven 30/10 19:31\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUhGSWRTaXVWbFJvcVlzeEVxYjhOZVdHZUd5TTBYdFNzMDQ5VmxiQTRMNDNhSWw2aTlWU2F3WnRPa2tJRzA3UF9JM2kzV2ctZS1HZks3N3RmaVQtMzZGd0hic1lscWxvZEhMSldIcVNrbll3akFvN3dFVVdmNlFLMFlqcFRYUFpDcWxlT0hR?oc=5"
   }
  ],
  "daily_forecast": {
