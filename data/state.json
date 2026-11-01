@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "089de4121683",
-  "d6f943a696b5",
-  "4c1005ae8959",
-  "abeb7bf42655",
-  "de2fe1c09499",
-  "eefa9f90d358",
-  "e086ea436efe",
-  "f977e16b94f2",
   "907375b8ee6e",
   "98395fee6db5",
   "4b2675005bbc",
@@ -4000,9 +3992,29 @@
   "a3c1d0bdfc34",
   "b6124838cc85",
   "54cfdbdc0cb1",
-  "0be2a2279695"
+  "0be2a2279695",
+  "9b4cca955654",
+  "61ead858033b",
+  "e49357ca7760",
+  "54effddddcfc",
+  "fe5df6611355",
+  "088fe830d1a3",
+  "ac5718e8cb54",
+  "87fad66c66b4"
  ],
  "news": [
+  {
+   "title": "Ukraine defies Trump to resume attacks on Russian oil",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
+   "published": "2026-11-01T17:22:00+00:00",
+   "id": "87fad66c66b4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump announces $15 billion in farm aid ahead of midterms as tariffs, Iran war drive up costs",
    "source": "Firstpost",
@@ -6390,24 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Menace directe de frappes imminentes en Iran déclenchant une nette fuite vers la sécurité.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Keeps Hinting That the Iran War Is About to Heat Up Again",
-   "source": "Slate",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWk5eVVLd3F0MF9xWTY5bEdXbG94a0NDWENuX2ZzaUtMTUwtMXFXZG9WNkZRM1A3UHZhQWI0cDhtcGZwajdYNVFwaExFMlphb0dmVFUxOXZXQXd2WE1sSnNfX01yQkFxSmtmWjlFMkRUaDRVSjQxSlJ2UE85QU51VEVDcVRPWGk5Y01lV2tkWWV6NUsxeWl3?oc=5",
-   "published": "2026-10-30T21:20:00+00:00",
-   "id": "a5605c0a58b3",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "La rhétorique belliqueuse envers l'Iran entretient une prime de risque haussière.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|e454ffa7cf1f": 1791738121.7816472,
-  "news|cda41dd33c4c": 1791738969.6716418,
-  "news|7e4df7a9aada": 1791738970.6835706,
   "news|2df7abedb579": 1791741565.9429145,
   "news|21f547b0dcbd": 1791742570.2339137,
   "news|2d6f5220b2cc": 1791743483.49113,
@@ -7985,7 +7982,8 @@
   "news|227c7a2fee37": 1793542702.0619748,
   "news|bb7891080a5b": 1793547968.731995,
   "news|526dfab92856": 1793548614.1059725,
-  "news|89ac5a0ae34c": 1793552508.528635
+  "news|89ac5a0ae34c": 1793552508.528635,
+  "news|87fad66c66b4": 1793554287.546564
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8248,6 +8246,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T17:31:27.546685+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine defies Trump to resume attacks on Russian oil</b>\n📰 The Guardian · Dim 01/11 18:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5"
+  },
   {
    "ts": "2026-11-01T17:01:48.528727+00:00",
    "kind": "news",
@@ -8542,11 +8545,6 @@
    "ts": "2026-10-31T14:46:15.740094+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Persian Gulf scrambling to prevent Iran war from again hitting its doorstep</b>\n📰 The Washington Post · Sam 31/10 14:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5"
-  },
-  {
-   "ts": "2026-10-31T13:46:06.200748+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bill Maher’s feud with Trump escalates with Taylor Swift comparison</b>\n📰 The Independent · Sam 31/10 14:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHJLMW5OYkw0bVdsTlp2YWZ5SEFKMV81dk5sRVFDOFgxUmJuaFVGUm1WMnU3RXM3ZFMtX0dlQVhJNVNIYkFfaGpaU2xhVERsaVA4Rk5oSmJfS1BaaENSdnM5Y293eFB0Sy1IVXdNbXUxNll0aUI0OUdGc2hwd1dETENCcHNTSEJjcnpNcUF0WUVtNEVLeVJJVGN5TjJjYjNfNG44WC1JYkg?oc=5"
   }
  ],
  "daily_forecast": {
