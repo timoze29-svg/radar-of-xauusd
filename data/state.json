@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "24f6b668193b",
-  "eff06daec0b4",
-  "6b7d0bd21648",
   "cfe678788063",
   "9d04bbe31071",
   "868649771e8a",
@@ -4000,7 +3997,10 @@
   "46428dc25218",
   "3c564cd4f813",
   "db1aab767487",
-  "9d626b1fa147"
+  "9d626b1fa147",
+  "5df59ac9d06d",
+  "1f424839ec67",
+  "7a6f86b40388"
  ],
  "news": [
   {
@@ -4023,6 +4023,18 @@
    "published": "2026-11-01T20:22:08+00:00",
    "id": "46428dc25218",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel ready to strike Iran with US, but specific joint goals remain unclear - sources",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5",
+   "published": "2026-11-01T20:22:06+00:00",
+   "id": "1f424839ec67",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4266,6 +4278,18 @@
    "cat": "géopolitique",
    "raison": "Attaques sur le pétrole russe ravivant le risque géopolitique et les pressions inflationnistes.",
    "method": "IA"
+  },
+  {
+   "title": "Tariffs are taxes, and Congress, not the president, gets to impose them | Opinion",
+   "source": "NJ.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzFXZGlnSVlVTHo2VXpnaDNnRjJEb1ExRDFkVEF6UlJtSVRZWkdtanMzaXJ3OU9lS29LS1pqbkNEOFppT21QT2Z3a2tkSmhYcElTZ1pBNkNtSktsVVppRkRnd1MyTkJCYy0yNTlsOGhmTkRKSVNrRFoxS3dZODdLYkFOSGhGcUlZSEtqcFBkeE5RR2hnc2VocXBEVkNfckhQanZUS0M2VjZ4d09HQ1hEWHFvNFhBbnM?oc=5",
+   "published": "2026-11-01T17:00:00+00:00",
+   "id": "7a6f86b40388",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Evening recap: Israeli threats of advancing as far as Saida, escalation continues in the South, and record cocaine seizure at Beirut Airport",
@@ -6378,36 +6402,9 @@
    "cat": "commerce",
    "raison": "Illustration locale des tensions tarifaires, rappelant les risques protectionnistes et stagflationnistes.",
    "method": "IA"
-  },
-  {
-   "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-   "source": "BBC",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VMWh2R0I3M0tkWWJqNkZ0T2k5WEFCTkZWT0NETVhoN0sxZzE3OVRjMVp0bWZ5MEVGNnJDYVlTS2RBc3ZnQS0xaUFGTnBDVWFRV0tSS1c5c1AyRExGc1E?oc=5",
-   "published": "2026-10-31T02:39:25+00:00",
-   "id": "b2a48eba0ed3",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Impact microéconomique de droits de douane, effet négligeable sur les cours globaux.",
-   "method": "IA"
-  },
-  {
-   "title": "The fight to save Canadian town threatened by Trump's tariffs",
-   "source": "BBC",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UMjI2WDJpQ2VVZk9rRmM2bzBUR083SmE2c2V4MHg3SmZaLUMtV3JfWUtKQnBTQV8wYnM2TURNY2xhaHJ5NkJUWVNNY0FkU0Y2dnRFZXAzdE1fUmM?oc=5",
-   "published": "2026-10-31T02:39:25+00:00",
-   "id": "10e5644d4866",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Incertitudes tarifaires persistantes sous Trump, facteur de soutien marginal.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|996da829a7bf": 1791749767.6722984,
-  "news|1b969af21ae2": 1791751573.6675336,
-  "news|99d7b1f537d8": 1791752493.9158566,
   "news|445e2ba19d90": 1791754286.1640828,
   "news|9254d32b0b84": 1791754287.054096,
   "news|a00a6d56c079": 1791755202.2906904,
@@ -7988,7 +7985,8 @@
   "news|3236ce4bdeb2": 1793562367.4772346,
   "news|43a772701801": 1793563472.437815,
   "news|0bb93dbcb120": 1793563473.3968587,
-  "news|b25c8d9ce935": 1793563474.310542
+  "news|b25c8d9ce935": 1793563474.310542,
+  "news|1f424839ec67": 1793567773.2410686
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8251,6 +8249,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T21:16:13.241156+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel ready to strike Iran with US, but specific joint goals remain unclear - sources</b>\n📰 The Jerusalem Post · Dim 01/11 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5"
+  },
   {
    "ts": "2026-11-01T20:04:34.310838+00:00",
    "kind": "news",
@@ -8545,11 +8548,6 @@
    "ts": "2026-10-31T18:01:58.536651+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran strikes on US Mideast bases first took out early-warning systems, analyses finds</b>\n📰 The Times of Israel · Sam 31/10 17:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0t0VEdfVUlkRDRaUVg4ZC1jRzlwRTRBd1U1cFRWRG13bWh1R3BDWm1BLUFUdmt6NWg1NDlQSkR3d2QtVkl6UG93SUJYRHJ0cFZlX3ZBQ3kzUDVWaXFDcmZSTHc2eDlNVjdablhyTjZGVll0a2NENWFPSWM5eW1PLVFCV3hXTFNYN042MDRvTlJ3UnZ6YkRLcmlkR2xJeFR5MXNWVEVJVjNzUE9relN0LVBrY0VTZ9IBuwFBVV95cUxNYWQ4UGJnRnN6djJJVGhOMm10enR2RGMtZXd4b3BiRjBIMzV3ZWc2eWhKaU5oQWFHU3BVZnpPbE5oOE10bG1QcHRlVWhNUVdzdV90OWl5LUc1UkFpd1BrazF4bmZHUFpxY0dXdkd3aXZZR3BtVW5EdFBJOVpIc20zSldWNllzR2hFTm1pa2JuLXdzcDRvcHd0aXB6V1NtbU53VFlOS3VXd2RBcHl6aU8yWTZMdHdJbVpTc3ln?oc=5"
-  },
-  {
-   "ts": "2026-10-31T17:46:11.613210+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Iran race to revive Qatar talks as Trump weighs new strikes after midterms</b>\n📰 New York Post · Sam 31/10 17:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnN1SE9HNVFSSHE4S1VrZmVzM1R0N1UxRUNVMHBHbjBNZk5sWldDd1h2UHo2eFlvRTl5MFdQTURsZ1FzTW9vYWI2WWZVZGNrSThBS3dzeDZpakswMXAxOW5KVVdub1RwRnVzYU51UklFbHhiQkVKdkhSSXJWbUlES1duUzJGY2VWa2VnSk8xQjY?oc=5"
   }
  ],
  "daily_forecast": {
