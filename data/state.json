@@ -1056,11 +1056,6 @@
   }
  },
  "seen_news": [
-  "99effdd98c0f",
-  "777f28a4b67c",
-  "8d316e5f4b1a",
-  "ed2beeab08a5",
-  "42fb264173a6",
   "ce37e188aead",
   "976ca005c939",
   "11f0c57725b5",
@@ -4055,9 +4050,26 @@
   "ba1aa78d1752",
   "ef8647d6eb5e",
   "c8d8058edd4e",
-  "625ae9d03b75"
+  "625ae9d03b75",
+  "253f7595503f",
+  "a3bc77432d6f",
+  "30ad5b0385c4",
+  "739a84c2c22a",
+  "cf52cc809deb"
  ],
  "news": [
+  {
+   "title": "Trump held call with Netanyahu amid preparations to renew strikes on Iran — WSJ",
+   "source": "The Times of Israel",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNDVVFrTlBWTFhQbl9oanYyUkVnakwzcWk2ZG9nWlRoUXdUX1VaN3RoNmRpN0xPTDVpamlES1ZmbkRjekR1d0dYM3FKenY0ZDVySU5uQzNNLUFQODVSdkdFM0lUU25YWHI1dTUwVVdDNmI4UkxPYWpjVVJNY0EzbFp6Sm8tSHlfVjNGVnJKcTVFa2RCY25CNER1RUlUZExoY3VFNG53Q0hycUlKZHlOWkxhREd2ZFdtTFNYSzZTMkM?oc=5",
+   "published": "2026-11-01T00:37:58+00:00",
+   "id": "253f7595503f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Donald Trump speaks with Benjamin Netanyahu after discussing war with senior military commanders",
    "source": "The Jerusalem Post",
@@ -6445,18 +6457,6 @@
    "cat": "géopolitique",
    "raison": "Perspective de fin du conflit iranien comprimant la prime de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Oleshky Aid Mission and Evacuations Begin as Local Russia-Ukraine Truce Holds",
-   "source": "U.S. News & World Report",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWdIaUtYY2toUU8wbWpKQlJhejlqQmM0R1F4Y0cyU3B1dlFmUmNUOXEyUE5OdjVfNjJ5eEhWVmRIdVNab3lGeW5OaGRaS1dfcTRNQVV3MGI1MUhsbUZxMmJ6b2pCM1RmU19JbEdVcUN0elk1dzByRmE1VE1qcWstMUxyNXJUZkpLM0dGZGhKLWVoNWVrT0tMdWdkaWxXTmxWdnkxVWNobVg5Wm93ZjVhTVl5QlU2eVVVQ3N0Y0pMWkVRTkRldGJkWU9XYw?oc=5",
-   "published": "2026-10-30T12:04:01+00:00",
-   "id": "b576f8f39e5c",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Trêve locale respectée en Ukraine, léger recul de l'aversion au risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8050,7 +8050,8 @@
   "news|ea30aabc6e61": 1793489484.1809218,
   "news|3face0309948": 1793492171.5853498,
   "news|32efae8f00bc": 1793493965.249616,
-  "news|6b51800339f9": 1793493966.6581218
+  "news|6b51800339f9": 1793493966.6581218,
+  "news|253f7595503f": 1793494888.3739362
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8313,6 +8314,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T01:01:28.374042+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump held call with Netanyahu amid preparations to renew strikes on Iran — WSJ</b>\n📰 The Times of Israel · Dim 01/11 01:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNDVVFrTlBWTFhQbl9oanYyUkVnakwzcWk2ZG9nWlRoUXdUX1VaN3RoNmRpN0xPTDVpamlES1ZmbkRjekR1d0dYM3FKenY0ZDVySU5uQzNNLUFQODVSdkdFM0lUU25YWHI1dTUwVVdDNmI4UkxPYWpjVVJNY0EzbFp6Sm8tSHlfVjNGVnJKcTVFa2RCY25CNER1RUlUZExoY3VFNG53Q0hycUlKZHlOWkxhREd2ZFdtTFNYSzZTMkM?oc=5"
+  },
   {
    "ts": "2026-11-01T00:46:06.658399+00:00",
    "kind": "news",
@@ -8607,11 +8613,6 @@
    "ts": "2026-10-31T00:31:22.116259+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Taylor says she would vote to end tariffs and Iran war</b>\n📰 Virginia Scope · Ven 30/10 19:31\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUhGSWRTaXVWbFJvcVlzeEVxYjhOZVdHZUd5TTBYdFNzMDQ5VmxiQTRMNDNhSWw2aTlWU2F3WnRPa2tJRzA3UF9JM2kzV2ctZS1HZks3N3RmaVQtMzZGd0hic1lscWxvZEhMSldIcVNrbll3akFvN3dFVVdmNlFLMFlqcFRYUFpDcWxlT0hR?oc=5"
-  },
-  {
-   "ts": "2026-10-31T00:31:21.157366+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Iran War Strategy: Out of the Frying Pan, Into the Fire</b>\n📰 Slate · Ven 30/10 22:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWk5eVVLd3F0MF9xWTY5bEdXbG94a0NDWENuX2ZzaUtMTUwtMXFXZG9WNkZRM1A3UHZhQWI0cDhtcGZwajdYNVFwaExFMlphb0dmVFUxOXZXQXd2WE1sSnNfX01yQkFxSmtmWjlFMkRUaDRVSjQxSlJ2UE85QU51VEVDcVRPWGk5Y01lV2tkWWV6NUsxeWl3?oc=5"
   }
  ],
  "daily_forecast": {
