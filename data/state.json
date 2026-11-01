@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "56c2e2048b8a",
-  "891069c1a005",
   "6c916e6b32d8",
   "edc3d572a850",
   "7ffb810e547d",
@@ -4000,7 +3998,9 @@
   "663707ef289d",
   "d55a7ee042c6",
   "9f0752c1eb0a",
-  "15c494ee2e7b"
+  "15c494ee2e7b",
+  "5db07dadee74",
+  "3198dbfb43e1"
  ],
  "news": [
   {
@@ -4146,6 +4146,18 @@
    "cat": "géopolitique",
    "raison": "Perspective d'une fin de conflit réduisant légèrement la prime de risque.",
    "method": "IA"
+  },
+  {
+   "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — WSJ",
+   "source": "The Times of Israel",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNDVVFrTlBWTFhQbl9oanYyUkVnakwzcWk2ZG9nWlRoUXdUX1VaN3RoNmRpN0xPTDVpamlES1ZmbkRjekR1d0dYM3FKenY0ZDVySU5uQzNNLUFQODVSdkdFM0lUU25YWHI1dTUwVVdDNmI4UkxPYWpjVVJNY0EzbFp6Sm8tSHlfVjNGVnJKcTVFa2RCY25CNER1RUlUZExoY3VFNG53Q0hycUlKZHlOWkxhREd2ZFdtTFNYSzZTMkM?oc=5",
+   "published": "2026-11-01T01:03:16+00:00",
+   "id": "5db07dadee74",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
@@ -6390,18 +6402,6 @@
    "cat": "fed",
    "raison": "Anticipations accrues de hausses de taux Fed pénalisant lourdement l'or face au dollar.",
    "method": "IA"
-  },
-  {
-   "title": "Gold hits a 4-month low as inflation fuels Fed rate hike fears",
-   "source": "Quartz",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVzNmMTNiWlJGZDJ4VkpnbDQyNndXc2VWN3E3dGVUOGNpQ1Q1OFNyWkNTbzlLMHNJbU1jdC1wUV9kdFI1YzFTekZrQUNnTWhLLUttY0VIX1RlTUN4X2lUVVk0ZTlQTllXODFDeU9rdmFHd1k?oc=5",
-   "published": "2026-10-30T13:40:59+00:00",
-   "id": "bc9ac3816726",
-   "impact": -5,
-   "cat": "fed",
-   "raison": "Résurgence des craintes de hausse de taux, augmentant les taux réels défavorables à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7997,7 +7997,8 @@
   "news|be96ee771f54": 1793511084.740266,
   "news|55c752f7a7c3": 1793511085.826196,
   "news|b79d3917eaa3": 1793511966.2641191,
-  "news|663707ef289d": 1793513767.9286432
+  "news|663707ef289d": 1793513767.9286432,
+  "news|5db07dadee74": 1793514677.1892142
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8260,6 +8261,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T06:31:17.189285+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump holds call with Netanyahu amid preparations to renew strikes on Iran — WSJ</b>\n📰 The Times of Israel · Dim 01/11 02:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNDVVFrTlBWTFhQbl9oanYyUkVnakwzcWk2ZG9nWlRoUXdUX1VaN3RoNmRpN0xPTDVpamlES1ZmbkRjekR1d0dYM3FKenY0ZDVySU5uQzNNLUFQODVSdkdFM0lUU25YWHI1dTUwVVdDNmI4UkxPYWpjVVJNY0EzbFp6Sm8tSHlfVjNGVnJKcTVFa2RCY25CNER1RUlUZExoY3VFNG53Q0hycUlKZHlOWkxhREd2ZFdtTFNYSzZTMkM?oc=5"
+  },
   {
    "ts": "2026-11-01T06:16:07.928724+00:00",
    "kind": "news",
@@ -8554,11 +8560,6 @@
    "ts": "2026-10-31T08:19:24.713065+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: US warns Gulf allies of possible Iran strikes as early as November 4</b>\n📰 The Times of Israel · Sam 31/10 07:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTVGMUcxbl9yQVYtZlRIeHJ4T0NGTFNSXzFmcklIcVRiTWtwaXE0TUtlYkw0ZGVXQTJzUmdWRWdHbld4cE42OWtHUEw5X24yRmxpUEluejNqN2dwYk9lYkpJVGNZaUxyUE10UWI4Z0FQNDVYaGhrcXM0Z0k2d3V1UlpDaW1pNXhXQ2YwcFdwRWJyY3huTEVRT0JKOU9hZU9PeVBfYzdhVExFSV93Ym93dVlPdlRvTDNKamtZaVBn?oc=5"
-  },
-  {
-   "ts": "2026-10-31T08:19:23.848669+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Trump Planning to Resume Iran Strikes as Soon as One Day After Midterms</b>\n📰 Haaretz · Sam 31/10 08:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOam82SDR4VWt2QnZfd0pRMURSUGlDS2M1bGZZeURjcmhTWWRNdVNFRDNQbHlDWWE0TWRycjhEMmFJaTROMDQ2RGUwTmxicXNzR2lqZ0d3bjB4dmpQVVNmVXhfRFlDaDZIeGlVVk15Ml80SkI1V0pkSE1DOGVtakVWTDNMVDhNZjlOdjA4eHhRMnRvMkk5OFk3ZHVVX21peDk4V0tqYWRFU1hrQzFpZ3MxV0JCXzBkMTdwMVpnTURsZzV4dXVJOFdiczUzWTNja3VkQWtVZF92aFBrMURVOFloY184MkljVDRQWmVDOXN4dWdudEtteDB4NkhZTGtDRUp6eUNnRUI0SUVwcmh5YkFpMEoxZw?oc=5"
   }
  ],
  "daily_forecast": {
