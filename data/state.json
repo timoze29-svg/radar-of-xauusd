@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793552473.9574537,
+   "ts": 1793574947.610761,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1001,12 +1001,6 @@
   }
  },
  "seen_news": [
-  "8cff8ab3d768",
-  "531b93d669d3",
-  "cc4aa69cf5a1",
-  "537e16fec5ff",
-  "4c4ea531753e",
-  "8dc15eca1112",
   "f217fbc55717",
   "e652aa188343",
   "1807219d78f3",
@@ -4000,7 +3994,13 @@
   "a3c10fab8791",
   "a0563ec8ca23",
   "b0787b386db5",
-  "a9792ce248f6"
+  "a9792ce248f6",
+  "c169f97491bf",
+  "441e246979b3",
+  "508136b00ac1",
+  "36058154ede8",
+  "894217361e69",
+  "444f66635842"
  ],
  "news": [
   {
@@ -5276,6 +5276,18 @@
    "method": "IA"
   },
   {
+   "title": "Iran war live: Trump has not decided on renewed Iran military action: Rubio",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-10-31T23:09:05+00:00",
+   "id": "508136b00ac1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Rubio Casts Doubts On Quick Deal To End War In Ukraine, Defends Russian Contacts",
    "source": "Radio Free Europe/Radio Liberty",
    "theme": "Russie/Ukraine",
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Tensions militaires élevées compensées en partie par l'ouverture de négociations à Doha.",
    "method": "IA"
-  },
-  {
-   "title": "Reports confirm Trump’s plans to resume Iran war including strikes on civilian infrastructure",
-   "source": "World Socialist Web Site",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85MHNYTkZFQzh2WWQ3VjB6cjlxcXlJMVI5dWphYUdicTB6bmc0RnlBbGZTY3hDREZwcExTbVNIVTJyVzl4aEI5SzdNcG9GdFNyaU5UQWJFM1hmVWpIcVd1VkdWcW1hRWpv?oc=5",
-   "published": "2026-10-31T04:26:28+00:00",
-   "id": "4b85e492036b",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Risque majeur d'escalade militaire totale au Moyen-Orient dopant fortement la demande refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|f968b0b31724": 1791759688.9783432,
   "news|72dc03ce76e7": 1791760565.856217,
   "news|74621cd7bdc2": 1791761481.3960357,
   "news|223f6fb3b8f9": 1791761482.2603574,
@@ -7986,7 +7985,8 @@
   "news|1f424839ec67": 1793567773.2410686,
   "news|8ceaca56c8f3": 1793570505.0895138,
   "news|30fefa0368d1": 1793570505.969272,
-  "news|9ef5bf47b3bd": 1793571368.705972
+  "news|9ef5bf47b3bd": 1793571368.705972,
+  "news|508136b00ac1": 1793574964.9924881
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8249,6 +8249,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-01T23:16:04.992564+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump has not decided on renewed Iran military action: Rubio</b>\n📰 Arabian Business · Dim 01/11 00:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
   {
    "ts": "2026-11-01T22:16:08.706071+00:00",
    "kind": "news",
@@ -8543,11 +8548,6 @@
    "ts": "2026-10-31T19:46:02.541463+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran conflict widens as Israel strikes Lebanon after Hezbollah attacks</b>\n📰 DD News · Sam 31/10 10:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNdWREVkpSYVozQlhLZ1ZxWVBBSlJkZEtSWXlYcmx5VUYyTmNnWWJIeFRoQUd2UmhwemlnWG5zV3JselVTbXNaQnlPcWdwWWtwU0NSTHhzaWtjRXQtVURzZjAzMEhmU3NTNnI4NzdhLUpadDRKc3hTU0hCV2tpMkxOZVc0NldYVmM0MWZXMF9aeWNTT0wtdEM0QmdBdFk?oc=5"
-  },
-  {
-   "ts": "2026-10-31T19:01:39.224954+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pro-Israel group in Spain denounces new escalation of accusations against Israel and the Jewish community</b>\n📰 European Jewish Press · Sam 31/10 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFo4Mzl5RW10TlNabW13cjJZVnc5b0s5Y2Vwd2ZxdGk2NDZNUmdkcjgxUVJxUVVoY0VoaEthZDc4ZkhlSnI2eXNwQU5PVGhRRmd2OVNvWlJad1hsbjI2dEwtVkFqT25rTVhIN1JQVVU1M041MXJ4Y2NSdHhSYlNmSW5jeGE1X3lWREZoRm1wallLbjhIU3g1RG5ZS3NPbVlPU1l5MHBkcDd6T3FYeEpHeEo5VDRUY1F2YzVpa2txRy12MlBT?oc=5"
   }
  ],
  "daily_forecast": {
