@@ -804,19 +804,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793529993.8740242,
+   "ts": 1793603089.3913853,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 115,
       "high": [
        [
         0,
-        15.5
+        15.7
        ],
        [
         15,
-        9.5
+        9.6
        ],
        [
         22,
@@ -826,15 +826,15 @@
       "low": [
        [
         0,
-        18.1
+        18.3
        ],
        [
         16,
-        10.3
+        10.4
        ],
        [
         2,
-        10.3
+        10.4
        ]
       ]
      },
@@ -964,7 +964,7 @@
      }
     },
     "dollar": {
-     "n_hours": 5970,
+     "n_hours": 5960,
      "horizon_h": 2,
      "base_gold_up": 53.3,
      "base_dxy_down": 48.1,
@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "e16dab0e3187",
-  "04c5d72c16cb",
-  "0454acb154e8",
-  "9c48ad4ffa43",
-  "a14b4bee1083",
   "bbf380a35153",
   "3238b56e871f",
   "6264c4acbe56",
@@ -4000,7 +3995,12 @@
   "f30302298a6d",
   "4731af6f5738",
   "1ab4dae31a65",
-  "bb0ff2dd91e0"
+  "bb0ff2dd91e0",
+  "1301feb88f01",
+  "82dbf246dced",
+  "d1dc4a5efa35",
+  "14a34eb2f839",
+  "bb676da4282d"
  ],
  "news": [
   {
@@ -4013,6 +4013,42 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine and Russia say air raid alert apps hit by cyberattacks after truce ends",
+   "source": "Euronews.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmUxSjVxdnZMVEFRTTJ4cG16Zm1icDA3Q0VISVdoYTVSbDkyTkZ1LVZCNDlhOF9kbXNiZDVtNnBxc2FERVpHbTRGdndiT0lNYzF3LXd6V1dqNllyTnV6N3B3bG9vNHZWcmFFVmRKRTJaVW9VM2owN0pqSlM5LVZIbVhuM1V4Mlc3QWJkUzRuZVVKR2N3Wk51cm9aRnp6cG00UW1jYzkya3FFY2MtdjlVSUJJS1Nmdw?oc=5",
+   "published": "2026-11-02T06:25:13+00:00",
+   "id": "d1dc4a5efa35",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Tucker Carlson claims Netanyahu pushing Trump toward nuclear strike on Iran",
+   "source": "Türkiye Today",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkdGMTEwUm40SWplVEUtdnkteWFnRDdvM0xzd2ZHbjRlUHpRUkNHQjFza2RnUHREelhoR3lFWVhYWmcwYTFXNlBXdXVfQ3lrWUlKbnh2NUh0RTFBZFY5eEJDMWdteVY5UmU2QVdkUEhyYkU4Q1Z1WVNZWGpyV1Y3N3o4aFdQMlhCbk9aS05XcnVaUTE0U2VOYU9YZDE4eTJIeW8telJqdjQydGxaMnloRkFLZDBwZWF4d1E?oc=5",
+   "published": "2026-11-02T06:20:11+00:00",
+   "id": "1301feb88f01",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Cyber Atacks hit Russia, Ukraine After Truce Ends",
+   "source": "Kyiv Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Cejg3bDlVSUVtZFJObzcxLUFGemJjcm54bTRMM2lhX0N4UEdjNU5xeDh0cHVrOUlfMzQycFBmQm92QU9mNERCb1lCNA?oc=5",
+   "published": "2026-11-02T06:15:13+00:00",
+   "id": "14a34eb2f839",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6366,42 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Risque imminent d'escalade militaire majeure contre l'Iran stimulant fortement la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "USD/CAD reversal risk builds as central bank showdown looms",
-   "source": "StoneX",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlVNR1Vna3FjSS16Unp5aWIzd2EwYVJOTUN3aUc4WnVDRGxZb1RzQmI1eVZfaVBVVXN5OFZ0NktJTVF2VFZEWWVadDhxZmthTmJOYTlIcHNNSVJVZFBNbXh0c2M3Y0w5c3ppX0tqa29IM29sNWtESHV2aXlnNmZwRUhSaHhBTTZ1bVp5Wk5BMzZxYVV5bF8wcGNJVEdPcFFnMWFiMVBIY2dUb2M?oc=5",
-   "published": "2026-10-31T13:14:54+00:00",
-   "id": "77104298b059",
-   "impact": 1,
-   "cat": "dollar",
-   "raison": "Risque de repli du dollar face au CAD, effet marginalement positif pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
-   "source": "CNN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGhpMlhFeDZzcmJkMy1NWFRHTDU0NDhNTG5GQ0ZTbGw1TVFURXZ3LTlnYjRuYkEtckVNS2d4Z2ZnMWNvSHozc0p3ZzBJZy1CeS1DNHl3b1hmLV9JYURQUHpjZXBiaFNSZEN4SGNMVjdqRWVVUzdZanFmdmx6OWM4Ymt4ZXBsN3NqYWNEQQ?oc=5",
-   "published": "2026-10-31T13:07:47+00:00",
-   "id": "07227401e252",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Cessez-le-feu très localisé réduisant marginalement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Residents evacuated from Russian-occupied Oleshky reach Ukraine after localized ceasefire",
-   "source": "Union-Bulletin",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdUhNTm1VcmZ5cTRnMG9oRXVHb2NWS2Flbm5mcmtONFlVdnBlOWo2emh6aGRPWTdOSjRXZ21KMHpBNFhSQ2wwSmp3andQREVBRUFxQVhRTFltSE9HOEJIaFAyQ05ybEVfT0xQOERjTUgxUUFNcjI3NTF1bHRxTEFXRWtfY3BMdDV3cW9hYjk4WmtkSno3bVhOQ3Y5cnRjTjUyZVJVdXh2RkVPaUZrS0l4MnlDV045cElSMllFRUNtMDY5S0VTemdId0swYkZGeFZTVDlOR2ktc0Y2SE9yc2pkdjg0V1NwMFkwbm1YRmJjUDkyaTlqM3JHV1QtMUg3cFVRSTcxOXFTZDMyaWItNnNFOEJR?oc=5",
-   "published": "2026-10-31T13:04:49+00:00",
-   "id": "0b12857ebd7a",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Trêve très ponctuelle sans influence majeure sur le conflit ukrainien global.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7992,7 +7992,8 @@
   "news|3c124e399846": 1793600167.8247747,
   "news|020a84367df8": 1793600168.7784193,
   "news|eec6d3ec3dce": 1793600169.6906145,
-  "news|4760d9489d4c": 1793601974.097631
+  "news|4760d9489d4c": 1793601974.097631,
+  "news|1301feb88f01": 1793603086.5588987
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8271,6 +8272,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T07:04:46.558992+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tucker Carlson claims Netanyahu pushing Trump toward nuclear strike on Iran</b>\n📰 Türkiye Today · Lun 02/11 07:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkdGMTEwUm40SWplVEUtdnkteWFnRDdvM0xzd2ZHbjRlUHpRUkNHQjFza2RnUHREelhoR3lFWVhYWmcwYTFXNlBXdXVfQ3lrWUlKbnh2NUh0RTFBZFY5eEJDMWdteVY5UmU2QVdkUEhyYkU4Q1Z1WVNZWGpyV1Y3N3o4aFdQMlhCbk9aS05XcnVaUTE0U2VOYU9YZDE4eTJIeW8telJqdjQydGxaMnloRkFLZDBwZWF4d1E?oc=5"
+  },
   {
    "ts": "2026-11-02T06:46:14.097708+00:00",
    "kind": "news",
@@ -8565,11 +8571,6 @@
    "ts": "2026-11-01T08:46:07.922508+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump says US could strike Iran's remaining nuclear sites in '10 minutes'</b>\n📰 Anadolu Ajansı · Dim 01/11 09:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPclNtN1RfbEt4ajNpQzBGNnJxVkRmN3pQcHBnRHFPRlNrc3R0OFYzQS11RUNicmszR01JWEE4RFA4S3N1cEFObTRCY2xDNTJZcXR5Wms4UDk2ZTdFdjBwUUdYWjNkbm1zd2VTYndqOHdfbVNxSjdTaHdmZmoyQ1BjQXppY2g4MFV3bnpUNTlJT3VidWhwdDBBRWxVUDlFbjB3YmNkWnkxSnh3b2c4OHVxY2ZB?oc=5"
-  },
-  {
-   "ts": "2026-11-01T08:06:34.190050+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Traders bet big on a December Fed rate cut despite a data blackout</b>\n📰 Startup Fortune · Dim 01/11 08:57\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPeURKZTIxaV9rSVNtVkhSTDVlOG9iMXpmRWpkUDhZck5sM3RHUjYyS2FhVGVCTXQwZEtnY25uaV9COGY1MXVTaWQ3OFNaTEl5NGdvLVlJNnpGN3pVcUdCZk4tcXB6YmxSeTNaR1JVdGtKcUprelVGWFd6aVhObXNpd2VjYzFERGxQZkhxbE81QVNXWmVSSVhla0VB?oc=5"
   }
  ],
  "daily_forecast": {
