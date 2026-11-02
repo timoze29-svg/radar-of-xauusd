@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "79e901244637",
-  "3e5d2f81d5f5",
-  "18e9edaacfb8",
-  "dbdc0cc4ca78",
-  "318fc27b053f",
-  "9ad4c532baa8",
-  "20ddc3c9a264",
-  "b33df41e2d14",
   "f277c5cb8fc1",
   "6b0cba5c0bd5",
   "4c08cf2b722e",
@@ -4000,20 +3992,28 @@
   "496ff15bcab4",
   "bddadc3f0c8d",
   "147c55b1e78b",
-  "dba9590d77a6"
+  "dba9590d77a6",
+  "495108c26bf7",
+  "1df4f10fe7a0",
+  "54dc203a0ba0",
+  "d26c9f9191d6",
+  "9252a4c67d93",
+  "4dfbfd10c4e0",
+  "0264183d1289",
+  "b00226e76d27"
  ],
  "news": [
   {
-   "title": "PSX sheds over 630 points in intraday trading as selling pressure persists",
-   "source": "The Express Tribune",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFJ6WjJlMzgtWHEzeDVIUDlCd0VvUXlPSUNwaHV0Q0J3WTB0YW02UUlJVFRRYkFGdWVhT3pYNTIxUU1peFlfa2poci1EbkotcmRzWk5vamdET1k0aW85T2V1SGdZRGljOHZ1UWhOUl9ZdEc3MXhQU3FVeUY1bXUyVzdRMGpjTjltN2FDR0V3VW0xNXhhYVZyaEszbWM5al9wZ29OMkpWcVRUUlFTQmpad9IBuAFBVV95cUxNQmQ1TnBlM3d0cmJOREV2VFV3cjA1RjJweVVXQmVOcWtDcWhZU1NEam9HUDFQTGkybjJkVEZzdUNsTTUzNU9kczJ6UncyQlBta2FZMmJ0enRjN2N3U09RcTJON0tOcVdpb0ZRbHZTMExBeUF3bHhldnZHYXhiWFlGdkZKQk9aNVpXQzJuRzBQODRmTV9SZ2hQRHlsVkhtdVBDeFN2TFlhM3Z0VkVUSmhHRV9JQno2dzlV?oc=5",
-   "published": "2026-11-02T08:38:21+00:00",
-   "id": "147c55b1e78b",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Baisse boursière locale au Pakistan sans influence sur le marché mondial de l'or.",
-   "method": "IA"
+   "title": "Polish Zloty: Inflation dip seen delaying tightening – Commerzbank",
+   "source": "www.tmgm.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRm9WZjBOMWJNM3lTaE9abWVDMTAwOGRuVVJhdzhWVHB2emppNjMweF9kVkhyTE1qRFgyVzZBaE1QU0Vab1E1bWI2dHhnTC16SHlxQllUdTZIN1B4OUdXLUp4cHVTOXF0ZU1Cc1FpLU9fME5TSVhDYXVVV0JZem5pS2xuME9fMTJBNmFEVWdwZG5ETHE1X015ZjVNYU02M1ZJVGJPMHhMUWhiUk8zZE5CTnJVQnNIOGRrZEFHZGp3UW5BVENoNXliMg?oc=5",
+   "published": "2026-11-02T08:10:51+00:00",
+   "id": "d26c9f9191d6",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump could launch nuclear strike on Iran within days, commentator claims",
@@ -6405,11 +6405,6 @@
   }
  ],
  "fired": {
-  "news|c1e8b41819b3": 1791793026.9172626,
-  "news|e7bbaa514e12": 1791793027.9214132,
-  "news|189c6b30f623": 1791794786.8435853,
-  "news|8fafa64be87e": 1791795748.982661,
-  "news|ee1e68fa43bf": 1791795749.9629867,
   "news|c01dc63209c6": 1791796747.823738,
   "brk|USDJPY|pwh|up|2026-10-12/2026-10-18": 1791797486.4795465,
   "big|COPPER|2026-10-12": 1791798370.2549276,
@@ -7998,7 +7993,10 @@
   "news|29bc78ba6a73": 1793604704.718774,
   "news|ca3a06c5f99b": 1793607050.6590543,
   "news|eea35dcd7bee": 1793607051.6360946,
-  "news|d1c5cdb5e3d8": 1793607052.611461
+  "news|d1c5cdb5e3d8": 1793607052.611461,
+  "brk|DXY|pdh|dn|2026-11-02": 1793610473.0554972,
+  "brk|DXY|pwh|dn|2026-11-02/2026-11-08": 1793610474.2224262,
+  "brk|EURUSD|pwh|up|2026-11-02/2026-11-08": 1793610475.2895906
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8277,6 +8275,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T09:07:55.289657+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>EUR/USD</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 1.12271 → prix : <b>1.12334</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.34 | 60j -0.08"
+  },
+  {
+   "ts": "2026-11-02T09:07:54.222520+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 101.54 → prix : <b>101.54</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.2 | 60j -0.38"
+  },
+  {
+   "ts": "2026-11-02T09:07:53.055589+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 101.54 → prix : <b>101.54</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.2 | 60j -0.38"
+  },
   {
    "ts": "2026-11-02T08:10:52.611729+00:00",
    "kind": "news",
@@ -8561,21 +8574,6 @@
    "ts": "2026-11-01T14:18:22.062284+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran, Qatari mediators hold third day of talks to end US-Iran war</b>\n📰 Reuters · Dim 01/11 14:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5"
-  },
-  {
-   "ts": "2026-11-01T14:18:21.127085+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Troops ‘Can’t Feel Genuinely Safe’ as Trump Weighs Iran Escalation</b>\n📰 notus.org · Dim 01/11 15:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNRldsNU1tUVc3V0xRc1YwQ0M0bTR5RWVidkNhcjZKbDFXcElkb2ljbndvUFZqTi1UZXBsbHIwZHROMjNDNHRvcWQzbVBBazJZdXZDd2xEVWZVVkVBWm5QV2tGQVpkRVlmZF9tYm03TkFGa2RyMlNieTJmWUVlclpla2NLTy1lTGpBV1poSllvRXcxR0dvOUlYYQ?oc=5"
-  },
-  {
-   "ts": "2026-11-01T13:31:24.100723+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iranian negotiators in Doha to continue talks to end the US-Iran war, official says</b>\n📰 Reuters · Dim 01/11 13:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5"
-  },
-  {
-   "ts": "2026-11-01T13:19:07.959802+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Iran warns any new war could spread beyond the Middle East</b>\n📰 Iran International · Dim 01/11 12:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5"
   }
  ],
  "daily_forecast": {
