@@ -1001,13 +1001,6 @@
   }
  },
  "seen_news": [
-  "5879663cf7e5",
-  "597f5b2efa72",
-  "2a66ddc4bf9e",
-  "8354da66a428",
-  "3ea18a4f2692",
-  "27a7073c406b",
-  "869dcc4e51fe",
   "8a98a15df8f6",
   "522d8df80ab5",
   "3fa64dedc7ae",
@@ -4000,19 +3993,26 @@
   "488c1f5a90f1",
   "538d9da62da6",
   "3f92dbbd122b",
-  "f6be5631bc4f"
+  "f6be5631bc4f",
+  "a13122ddd2a4",
+  "f9043ba8e70a",
+  "8605fd7e65aa",
+  "8bc8f987d438",
+  "2a2599220f92",
+  "28adeba39e90",
+  "deb41b45f32b"
  ],
  "news": [
   {
-   "title": "Gold, silver lose sheen",
-   "source": "The Hindu",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHZuTVFDWjY5M1UzNzJGUG1icDk4NE4tckdCZjRNc3lrLThHc0tLSnZfOTR0RjZMcV9FUHh0OG5aQzl0V2J5RHJ2LW5EYk11cTlBekE0V2NSenlTTEhzci1xTS1ZandSVmtDQVdvbTl5YjRWQWUzbDAzRlZRTHhvQk9uZFlCSUo5WGVkadIBkwFBVV95cUxQNXdSUmhqempKVlM3MWk3cUlWSnpkU3BBenpSX29maWlyQnhqaXJvQzExdm00T21mMXNPc2FwcmpmU3NQdG9faTd6X0RBNG04RWstUUVUX0JXVUQ1dWVOVWl1OHl4b0lMcWhMRXk5VDZ5dExCbWNFMjF1aDlPVHpveFdzY2xTVkUwTnlOMEwyRmlobFE?oc=5",
-   "published": "2026-11-02T01:21:00+00:00",
-   "id": "488c1f5a90f1",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "Iran’s nuclear bomb debate gains ground on official platforms",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ncU5lU042bEhlZ2RxWkFMeFl3TFdqeHoyU045dTlPQ3EzTHpBRU1lOHBWblNBdGtFbEpQbEFZS3hRUmlfVzl5V2hxZm1VZEpyZWc?oc=5",
+   "published": "2026-11-02T00:40:00+00:00",
+   "id": "f9043ba8e70a",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6405,10 +6405,6 @@
   }
  ],
  "fired": {
-  "news|b650a02a8959": 1791765963.9200726,
-  "brk|SILVER|pwh|up|2026-10-05/2026-10-11": 1791765965.259133,
-  "news|2dfed4c85b8d": 1791766897.5281427,
-  "brk|GOLD|pdh|up|2026-10-11": 1791767404.4824693,
   "news|4e4334d961af": 1791771370.9892282,
   "news|adae0d817f10": 1791776763.6031332,
   "news|5ee7f39672d5": 1791778570.9211984,
@@ -7988,7 +7984,8 @@
   "news|de2fe1c09499": 1793578569.2197413,
   "news|4b20b975d169": 1793579594.0351384,
   "news|139c9ea141cc": 1793579594.9375494,
-  "news|0f3c2ebb9fe7": 1793579595.8366292
+  "news|0f3c2ebb9fe7": 1793579595.8366292,
+  "news|f9043ba8e70a": 1793583969.6351204
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8251,6 +8248,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T01:46:09.635206+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran’s nuclear bomb debate gains ground on official platforms</b>\n📰 Iran International · Lun 02/11 01:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ncU5lU042bEhlZ2RxWkFMeFl3TFdqeHoyU045dTlPQ3EzTHpBRU1lOHBWblNBdGtFbEpQbEFZS3hRUmlfVzl5V2hxZm1VZEpyZWc?oc=5"
+  },
   {
    "ts": "2026-11-02T00:33:15.837050+00:00",
    "kind": "news",
@@ -8545,11 +8547,6 @@
    "ts": "2026-11-01T01:01:28.374042+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump held call with Netanyahu amid preparations to renew strikes on Iran — WSJ</b>\n📰 The Times of Israel · Dim 01/11 01:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNDVVFrTlBWTFhQbl9oanYyUkVnakwzcWk2ZG9nWlRoUXdUX1VaN3RoNmRpN0xPTDVpamlES1ZmbkRjekR1d0dYM3FKenY0ZDVySU5uQzNNLUFQODVSdkdFM0lUU25YWHI1dTUwVVdDNmI4UkxPYWpjVVJNY0EzbFp6Sm8tSHlfVjNGVnJKcTVFa2RCY25CNER1RUlUZExoY3VFNG53Q0hycUlKZHlOWkxhREd2ZFdtTFNYSzZTMkM?oc=5"
-  },
-  {
-   "ts": "2026-11-01T00:46:06.658399+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Live: Iran could revisit nuclear weapons ban if war resumes</b>\n📰 Middle East Eye · Sam 31/10 09:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2dqR0tHT2ZrV1FKNmI1RXVhS0lqYjVZdjFxeUVrcjJVOHNPLXBTNzcyVmg3WjdDUWtQZk5pX3dESWxKRWFfMmRfNk55THhpNm52TVZ6SjVQdkx6cFhCN2swaWprVU94ZTBSWThiY0VSbXJfYTJKUFNpSzBWUUxMMXNiUS1wenJsOU80YWt4VjBTSVAtcHc?oc=5"
   }
  ],
  "daily_forecast": {
