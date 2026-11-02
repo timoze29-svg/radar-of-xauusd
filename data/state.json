@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "bbf380a35153",
-  "3238b56e871f",
-  "6264c4acbe56",
   "9891ea63bb10",
   "58f28531abba",
   "7a60bfc2fe50",
@@ -4000,7 +3997,10 @@
   "82dbf246dced",
   "d1dc4a5efa35",
   "14a34eb2f839",
-  "bb676da4282d"
+  "bb676da4282d",
+  "78a4f78fd1d9",
+  "420b2841f7a7",
+  "65bf9cb3821e"
  ],
  "news": [
   {
@@ -4410,6 +4410,18 @@
    "cat": "commerce",
    "raison": "Relance des tarifs douaniers ravivant l'incertitude commerciale et les craintes d'inflation.",
    "method": "IA"
+  },
+  {
+   "title": "Gulf states drive mediation as US, Israel weigh renewed strikes on Iran",
+   "source": "Chosunbiz",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUdzYzBKLTFhRDJjOGFjUk5zS0dPbjVERDhFdWZBTDhZUWxURUFiRVdqcWJOLVBBT3NqWDZ6VnQ5ZmVBM3pacDNwOHk1UUZJWExaVHFsbkx1NEg1TDRUNHhhRFhVQ04xc0xEMnd6WUoxU1hIckV6MmtnUGR0RlBKQkxLQmRmbEZj0gGcAUFVX3lxTFBZWDIwUlNBREEwbTkycUJyOUJmaTA2RkpNTzF5M1VVR0gzMXFQWU42a1hCMGc0QW1QUzJaTFlOQ3lxcDJYZTNici1XaUZXRG11dXA4a09GM1VpdGtsRml2ZzdueUNPTTJvSUx1LUtaeWVqanctWWp1RGVUemZnZXZFMExrNERCMHA5cE02TUFNY0JCem5MZWFBTzFSLQ?oc=5",
+   "published": "2026-11-02T01:29:00+00:00",
+   "id": "420b2841f7a7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Tentatives de médiation régionales reflétant une tension persistante mais limitant l'embrasement immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "‘A Very Dangerous Moment’: Regional Powers Race to Head Off New U.S.-Israeli Strikes on Iran",
-   "source": "الحرة",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56OERPcG1zQjBhaDlTb0lDMEhKS3FGc0JEMVpKSjlqS1RZWnZWOUx4U1RDUXlMcWYyRGh0RldSRE1EQQ?oc=5",
-   "published": "2026-10-31T13:27:56+00:00",
-   "id": "4ffbbf382683",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Risque imminent d'escalade militaire majeure contre l'Iran stimulant fortement la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7993,7 +7993,8 @@
   "news|020a84367df8": 1793600168.7784193,
   "news|eec6d3ec3dce": 1793600169.6906145,
   "news|4760d9489d4c": 1793601974.097631,
-  "news|1301feb88f01": 1793603086.5588987
+  "news|1301feb88f01": 1793603086.5588987,
+  "news|420b2841f7a7": 1793603766.3862476
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8272,6 +8273,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T07:16:06.386342+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gulf states drive mediation as US, Israel weigh renewed strikes on Iran</b>\n📰 Chosunbiz · Lun 02/11 02:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUdzYzBKLTFhRDJjOGFjUk5zS0dPbjVERDhFdWZBTDhZUWxURUFiRVdqcWJOLVBBT3NqWDZ6VnQ5ZmVBM3pacDNwOHk1UUZJWExaVHFsbkx1NEg1TDRUNHhhRFhVQ04xc0xEMnd6WUoxU1hIckV6MmtnUGR0RlBKQkxLQmRmbEZj0gGcAUFVX3lxTFBZWDIwUlNBREEwbTkycUJyOUJmaTA2RkpNTzF5M1VVR0gzMXFQWU42a1hCMGc0QW1QUzJaTFlOQ3lxcDJYZTNici1XaUZXRG11dXA4a09GM1VpdGtsRml2ZzdueUNPTTJvSUx1LUtaeWVqanctWWp1RGVUemZnZXZFMExrNERCMHA5cE02TUFNY0JCem5MZWFBTzFSLQ?oc=5"
+  },
   {
    "ts": "2026-11-02T07:04:46.558992+00:00",
    "kind": "news",
@@ -8566,11 +8572,6 @@
    "ts": "2026-11-01T11:46:19.000093+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump threatens to strike 'one or two targets' still left in Iran | Daily Sabah</b>\n📰 Daily Sabah · Dim 01/11 11:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTFicUJ4V3RMcVR6ZnpqMlVWY2s3NG9ha1l1cXlpWVRXMGRiMWM5MDZuYlYteThXQkxtVWJqUHYzUHVrODNHY1ZpcWlmQnphVWN3OEZyYkRYSmRWU1lMOGxtdU1hZDZTcThMMkxxM2RvdUV5T1pNWksza0EwSmlNZ3JRTDJ6Snd3VUY0RXNRSGQwNlFqc1hSTWh0eWtoSERHamJocXlfbzfSAa4BQVVfeXFMTlJQLXdkZkhIREVUd1BETG10MWVORGotQkJTSDRVZHd6YkFaMWpyV01LbFlfMC1pclFnRG1qOVNmT3RGWEszZF8yY0plQTI3N1AyYmczN0tPUW9vbWEtYnNJOFFhYWNaNExqX29JZTBzb09va1dSLS1DcmhJM2FLWVp4YjVPcG1BV2hhSXZ4Zlk3SG0xeGc4cTNaX0l0VWxJMHNnNlJiUklsZ1dWNWxn?oc=5"
-  },
-  {
-   "ts": "2026-11-01T08:46:07.922508+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump says US could strike Iran's remaining nuclear sites in '10 minutes'</b>\n📰 Anadolu Ajansı · Dim 01/11 09:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPclNtN1RfbEt4ajNpQzBGNnJxVkRmN3pQcHBnRHFPRlNrc3R0OFYzQS11RUNicmszR01JWEE4RFA4S3N1cEFObTRCY2xDNTJZcXR5Wms4UDk2ZTdFdjBwUUdYWjNkbm1zd2VTYndqOHdfbVNxSjdTaHdmZmoyQ1BjQXppY2g4MFV3bnpUNTlJT3VidWhwdDBBRWxVUDlFbjB3YmNkWnkxSnh3b2c4OHVxY2ZB?oc=5"
   }
  ],
  "daily_forecast": {
