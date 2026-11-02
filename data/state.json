@@ -1001,13 +1001,6 @@
   }
  },
  "seen_news": [
-  "52eaf3b99f4a",
-  "833da5e72a52",
-  "6ca7c36f9f2f",
-  "95017ef5c9a9",
-  "ef623ca8957e",
-  "78923b041cab",
-  "296564e503e1",
   "750ba530a22f",
   "3a311d2fd70f",
   "47a52f5eeeec",
@@ -4000,7 +3993,14 @@
   "50f6be7079b7",
   "f1a0976b533b",
   "ebd0f356255a",
-  "f7d97aa550c0"
+  "f7d97aa550c0",
+  "152576532e5b",
+  "103d52422982",
+  "624e4cd7ba78",
+  "697eb0d0e2a1",
+  "cacb62f2b6c8",
+  "01ba2c8a6642",
+  "dd63893d19d9"
  ],
  "news": [
   {
@@ -4016,6 +4016,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGUwUW9rQ2ZHNURiZzhMRDEyQXVMUkQ0c3dreUlKakhxR2JRTzV1dUlKWm9KbWFqd3ZRVWF4Qk1rTi1jdDBSZm9aRVNFd1hOVlI5dUJSTTdKbFUtSGw1MGFac1pWUXUtcFRzd282c2RMdXh0bW12WUJnVUlkdDE2RllDTy04NE92aDlvTnBXaHBTSkVHVmJncUV6SkE3emxqbHZSX25FTTZFaGVhWm52QU1HbzdaYjNfRTQ0RnBzWkkxQmtEN0JtWA?oc=5",
+   "published": "2026-11-02T11:06:00+00:00",
+   "id": "dd63893d19d9",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
+  {
    "title": "A Hard Winter War is Coming in Russia Too, Not Just Ukraine",
    "source": "Bloomberg",
    "theme": "Russie/Ukraine",
@@ -4023,6 +4035,18 @@
    "published": "2026-11-02T10:59:14+00:00",
    "id": "82b79af1df86",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia and Ukraine given fake warnings of nuclear strikes in cyber attack",
+   "source": "The Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3FWSU4yLUQ3OWNBUDJadE52OEJ5bmRKMlJNbGpDcTlEVkljT1JfcDRFV1NyVldoV2h2UDhFb0I2X3cwUnhGVk5uSmxNaURhNnVXRy1JblNrVkozRmpYTkdVN05ST3BQQnktRmhUNUlJejVxbWJPQmxtYW5RY1lKRVJDZk9SM0xGd2ZEUko0SHUwdmVzX3dPUl9nSWszbENqbDhMR0F3NEtXUkdTZmw3dk5tU2hpMThOVFlLQg?oc=5",
+   "published": "2026-11-02T10:55:00+00:00",
+   "id": "cacb62f2b6c8",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4482,6 +4506,18 @@
    "cat": "fed",
    "raison": "Craintes d'inflation tenace ravivant les anticipations de hausse des taux réels.",
    "method": "IA"
+  },
+  {
+   "title": "Trump says war in Iran will be put away very soon \"one way or the other\"",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk?oc=5",
+   "published": "2026-11-02T04:15:00+00:00",
+   "id": "152576532e5b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Netanyahu pushing Donald Trump for nuclear strike on Iran? US commentator makes big claim",
@@ -6366,42 +6402,6 @@
    "cat": "fed",
    "raison": "Perspectives de resserrement monétaire de la Fed stimulant le dollar contre l'or.",
    "method": "IA"
-  },
-  {
-   "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
-   "source": "Stocktwits",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX0E2dXEwWjNSZlJPY0tnMWl6NHNlRW9vMktYd2dpNGc4amYyYnQ5aE9MS3RwZXhIdGZaNkRmbXk5N09EcWwxR1dnLWh6MG42VEhZQzZtdTBwdXg1M1lBdkxFbktVQXI1ZlJGdXk2SUg5NmFMZ3FEeWxtdUw0cHVBbVp1WTU4OE1NSG1mRVZlWXF6MXlyeHJMM3NoREI2ZXNsbmRfX2tuUlhGbXVMLUZVRUw0cWlyTXRlb3FqQXg3WFZpS1hyTTE3dzY5dVpmZUpnSWxBa3BpMy1hRnh0cHBQODhhdXJqRHJUQlZpVGNhVFVjOWZZQmVPQ2pkVmNQNU1TalNyaEo0eTh4OU1BYmJGbmhwajI1djc0dVNVSEhGS2ktS0U?oc=5",
-   "published": "2026-10-31T19:41:37+00:00",
-   "id": "74d414be9529",
-   "impact": -5,
-   "cat": "emploi",
-   "raison": "Emploi très robuste ravivant les craintes de hausse des taux, très baissier.",
-   "method": "IA"
-  },
-  {
-   "title": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic",
-   "source": "WSJ",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW05UHQ5YjRDajJGVFZOdDRXWVM4YWZ0ZVZEakU1R2xFWk02Z1MwWHBic3Q0ZW1BUVk0YXFRLUpwd3d1MTAtdkxsNjVxenAtLVpJakpZTDJXOEVxSHFOYVotNjc3QWE4MEhEbWktZ3cycndLc0dERDJzaU01N1EyRGJwSU1pVXliOG13TmZUZllNU1c1ak00TWVoRDlFSFFEWXBuSlBYd1pnckJKdUJQTWNqa2Y2Zw?oc=5",
-   "published": "2026-10-31T19:32:20+00:00",
-   "id": "cd94f5880920",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Extension géographique des tensions maritimes avec la Russie soutenant l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump calls on US central bank head to quit immediately",
-   "source": "The Namibian",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmp3WEtDUlhmd3NQbUxnNnBTUmJYd2dVNExWVmhWUTlIWHdyemRQV3NYcEhwM0JLRzJ6c3ZDMFF4X1NmZGlDOW9XUDBpbVR6MUtvMjhTdDJ5X0FOa0hJcGR2enllLWFYQ0J6QlV5YmRrY016SlhvcTgxN3VtbnhSZzZuWmJtUFk?oc=5",
-   "published": "2026-10-31T19:29:43+00:00",
-   "id": "b24709ffcfe7",
-   "impact": 4,
-   "cat": "politique US",
-   "raison": "Menace sur l'indépendance de la Fed, affaiblissant le dollar au profit de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7994,7 +7994,9 @@
   "news|028008c5d632": 1793613707.671918,
   "news|57e98a72158d": 1793613708.7208219,
   "news|1cef4ff5d893": 1793617432.0150745,
-  "brk|OIL|pwh|dn|2026-11-02/2026-11-08": 1793619267.5048413
+  "brk|OIL|pwh|dn|2026-11-02/2026-11-08": 1793619267.5048413,
+  "news|cacb62f2b6c8": 1793619969.7312515,
+  "news|152576532e5b": 1793619970.621599
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8273,6 +8275,16 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T11:46:10.621898+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says war in Iran will be put away very soon \"one way or the other\"</b>\n📰 CBS News · Lun 02/11 05:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk?oc=5"
+  },
+  {
+   "ts": "2026-11-02T11:46:09.731375+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia and Ukraine given fake warnings of nuclear strikes in cyber attack</b>\n📰 The Times · Lun 02/11 11:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3FWSU4yLUQ3OWNBUDJadE52OEJ5bmRKMlJNbGpDcTlEVkljT1JfcDRFV1NyVldoV2h2UDhFb0I2X3cwUnhGVk5uSmxNaURhNnVXRy1JblNrVkozRmpYTkdVN05ST3BQQnktRmhUNUlJejVxbWJPQmxtYW5RY1lKRVJDZk9SM0xGd2ZEUko0SHUwdmVzX3dPUl9nSWszbENqbDhMR0F3NEtXUkdTZmw3dk5tU2hpMThOVFlLQg?oc=5"
+  },
   {
    "ts": "2026-11-02T11:34:27.504907+00:00",
    "kind": "breakout",
@@ -8562,16 +8574,6 @@
    "ts": "2026-11-01T18:16:14.247207+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump has frank call with Netanyahu about next move in Iran war</b>\n📰 Axios · Dim 01/11 19:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9MVUdNZ28zQzRiOVNwaDQyMC1WblRmazY5Y3VIbktXSk5BYkpNUFBHWG1GbnJ2RTg0dTFiMHZCbTRCME5ONEplcDZWVlRpQW1nZF9jdzAwT1dnNVNDWi0zdG1ySy1yc3k3UEVmZ2pucGZDNFJ4NzRPd0ln?oc=5"
-  },
-  {
-   "ts": "2026-11-01T18:16:13.385630+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Gulf braced for escalation of war between US-Israel alliance and Iran</b>\n📰 Financial Times · Dim 01/11 19:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlZjTzdFYjAzeVItVzFIMWE4QXVhblR1SlVvMnFjLWxBczktR3o3V0kyMGRvMXFibUhmOUNoRGlQZ0dTanNhaUktM1dOeXBIcU9PS3Nyc01GbEhtX0t2VDZDckdQMGg5NGluZ3ZzOE11a3BYVGp4RHNEY243U0VUbGU5dk0?oc=5"
-  },
-  {
-   "ts": "2026-11-01T18:16:12.405593+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel ready to strike Iran with US, but certain goals remain unclear</b>\n📰 The Jerusalem Post · Dim 01/11 19:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5"
   }
  ],
  "daily_forecast": {
