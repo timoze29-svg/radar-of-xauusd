@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "ebf8fd4f0b76",
-  "858f0db221ba",
-  "96b9fd2c7b85",
   "6322c8348c76",
   "4e498dea565d",
   "8ad82f8b5620",
@@ -4000,7 +3997,10 @@
   "deef23993c17",
   "11f812f6633c",
   "e9189959025a",
-  "505893be260d"
+  "505893be260d",
+  "5d1f40c78902",
+  "3602b65d7ed2",
+  "9081f6d5448f"
  ],
  "news": [
   {
@@ -4758,6 +4758,18 @@
    "cat": "géopolitique",
    "raison": "Simple rumeur alarmiste d'un commentateur, mais renforce légèrement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Live: Iran warns new war could last longer after Trump threatens strikes",
+   "source": "Middle East Eye",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2dqR0tHT2ZrV1FKNmI1RXVhS0lqYjVZdjFxeUVrcjJVOHNPLXBTNzcyVmg3WjdDUWtQZk5pX3dESWxKRWFfMmRfNk55THhpNm52TVZ6SjVQdkx6cFhCN2swaWprVU94ZTBSWThiY0VSbXJfYTJKUFNpSzBWUUxMMXNiUS1wenJsOU80YWt4VjBTSVAtcHc?oc=5",
+   "published": "2026-11-02T07:58:54+00:00",
+   "id": "3602b65d7ed2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Sharp unwind for oil if Iran military escalation fails to materialize after U.S. midterms: Energy Aspects",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Attaque maritime concrète près d'Ormuz augmentant les primes de risque mondiales.",
    "method": "IA"
-  },
-  {
-   "title": "Yen Carry Trade Unwind: Japan Inflation and US Stocks",
-   "source": "Equiti Global",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFIbk9WbjNxemFsZ09CSDJHRlJPcHBKVlNoYlZYZ3dKb0xxRHNKR0hma0VhNDRtYUVoMlZIaVhQTWxXcVc1TnRxMjZuVmQtRF9QNzdGbzZncFI3NU1oRGlocHIwblk1WHhyUVZwcmphMmlfalI2em1Kd3lNanRROHRVbnYtYU5vb2dXTGRpZEl5aHREVkUxN0cydzJBTGY5?oc=5",
-   "published": "2026-11-01T08:00:24+00:00",
-   "id": "a369eea2f6ab",
-   "impact": -1,
-   "cat": "taux",
-   "raison": "Le débouclage du carry trade peut déclencher des ventes d'or pour couvrir des liquidités.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8000,7 +8000,8 @@
   "news|0814f4124e43": 1793637091.205059,
   "news|757c5231446c": 1793639774.7309504,
   "news|e9189959025a": 1793640766.8937507,
-  "news|deef23993c17": 1793640767.8933132
+  "news|deef23993c17": 1793640767.8933132,
+  "news|3602b65d7ed2": 1793641569.8299632
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8279,6 +8280,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T17:46:09.830041+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live: Iran warns new war could last longer after Trump threatens strikes</b>\n📰 Middle East Eye · Lun 02/11 08:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2dqR0tHT2ZrV1FKNmI1RXVhS0lqYjVZdjFxeUVrcjJVOHNPLXBTNzcyVmg3WjdDUWtQZk5pX3dESWxKRWFfMmRfNk55THhpNm52TVZ6SjVQdkx6cFhCN2swaWprVU94ZTBSWThiY0VSbXJfYTJKUFNpSzBWUUxMMXNiUS1wenJsOU80YWt4VjBTSVAtcHc?oc=5"
+  },
   {
    "ts": "2026-11-02T17:32:47.893440+00:00",
    "kind": "news",
@@ -8573,11 +8579,6 @@
    "ts": "2026-11-02T06:06:33.834790+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — LUNDI 02/11</b>\nPrix : <b>3923.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3924 vs MM20 4103 / MM50 4280\n🟢 Taux réels 10 ans (20j) : 2.63% (-0.30 sur 20j)\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.61% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +20.8$ · plus haut 3928.1 / plus bas 3900.0 (range 28$)\nDXY -0.14% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~76$</b> (ATR 75$ × profil du lundi)\nDéjà fait en Asie : 28$ (37% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4097.7 | R1 3998.3 | <b>Pivot 3938.8</b> | S1 3839.4 | S2 3779.9\nVeille : PDH 4038.2 / PDL 3879.3  ·  Semaine passée : 4097 / 3879\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>50%</b> du temps (280 jours, ~6.0 ans)\n• Hier : -3.29% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (212 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +33.8$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 3839 et R1 3998\nJouer les extrêmes, pas le milieu (pivot 3939). Range attendu ~76$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4038 ou PDL 3879 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
-  },
-  {
-   "ts": "2026-11-02T06:03:30.456293+00:00",
-   "kind": "weekly",
-   "text": "🗓 <b>PRÉVISION OR — SEMAINE DU 02/11/2026</b>\nPrix : <b>3923.80</b>  (-2.84% sur 5j)\n\n🧭 <b>Biais macro or : Neutre (+8/100)</b>\n🔴 Momentum or (vs MM50) : prix 3924 vs MM20 4103 / MM50 4280\n🟢 Taux réels 10 ans (20j) : 2.63% (-0.30 sur 20j)\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.61% vs Fed 3.88% → hausses anticipées\n🟢 Sentiment news 24h : 126 news notées, moyenne +0.30\n🟢 Taux US 10 ans (5j) : -6 pb sur 5 jours\n🟢 Dollar (DXY 5j) : -0.13% sur 5 jours\n\n📐 <b>Niveaux clés or</b>\nR2 4176.4 | R1 4037.6 | <b>Pivot 3958.5</b> | S1 3819.7 | S2 3740.6\nSem. passée : PH 4097.2 / PB 3879.3 / clôt. 3898.9\nRange hebdo moyen (10 sem.) : <b>186$</b> | ATR jour : 75.0$\n\n📅 <b>News éco de la semaine</b>\n🔥 Mar 03/11 08:30 — CHF CPI m/m (prév. 0.0%)\n• Mar 03/11 16:16 — USD Congressional Elections\n🔥 Mer 04/11 11:00 — EUR Core CPI Flash Estimate y/y (prév. 2.5%)\n🔥 Mer 04/11 11:00 — EUR CPI Flash Estimate y/y (prév. 4.0%)\n🔥 Mer 04/11 14:15 — USD ADP Non-Farm Employment Change (prév. 68K)\n🔥 Jeu 05/11 14:50 — USD FOMC Member Hammack Speaks\n🔥 Jeu 05/11 15:10 — USD FOMC Member Barkin Speaks\n🔥 Ven 06/11 10:30 — USD FOMC Member Williams Speaks\n• Ven 06/11 14:30 — USD Average Hourly Earnings m/m (prév. 0.3%)\n🔥 Ven 06/11 14:30 — USD Non-Farm Employment Change (prév. 63K)\n• Ven 06/11 14:30 — USD Unemployment Rate (prév. 4.2%)\n🔥 Ven 06/11 15:10 — USD FOMC Member Musalem Speaks\n🔥 Ven 06/11 18:15 — USD FOMC Member Bowman Speaks\n\n🔄 <b>Cycle hebdo (sur 313 semaines)</b>\nInversion jeu→ven vs lun→mer : <b>49.8%</b> des semaines (<b>53.5%</b> si lun→mer est fort, > 23$)\nRetracement médian quand ça inverse : 89.7%\nPlus haut de la semaine le plus souvent : Ven (31.9%) | plus bas : Lun (33.5%)\n\n📰 <b>Ce qui a bougé ce week-end / fin de semaine</b>\n🟢 (+10) Fake nuclear attack alerts hit millions of Ukrainians and Russians on the same day\n🟢 (+10) Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns\n🟢 (+10) Netanyahu pushing Donald Trump for nuclear strike on Iran? US commentator makes big claim\n🔴 (-8) Federal Reserve Votes Unanimously to Raise Rates 25 Basis Points to 3.75%-4.00%; Warsh Defies White House Pressure to Launch Tightening Cycle\n🟢 (+6) AI boom comes with a debt bomb: Magnificent Seven borrowing surges 45% to $578 billion\n🟢 (+6) North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent\n\n↔️ <b>Scénario principal : RANGE</b> entre 3820 et 4038.\nAttendre la cassure de la semaine passée (3879 / 4097) ou les grosses news pour prendre une direction. Jouer les extrêmes du range, pas le milieu.\n\n<i>Outil d'aide à la décision, pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
