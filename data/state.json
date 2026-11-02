@@ -1001,7 +1001,6 @@
   }
  },
  "seen_news": [
-  "bc9b248f61a6",
   "1a8cf57a57d8",
   "a39fbad229f7",
   "19d890267488",
@@ -4000,9 +3999,22 @@
   "6aa1cd58c15b",
   "0a0817cecc65",
   "566a8a4ec5d8",
-  "1d467bbb8c21"
+  "1d467bbb8c21",
+  "e314221e2e9e"
  ],
  "news": [
+  {
+   "title": "Netanyahu is pressing Trump to attack Iran after the midterms, officials say",
+   "source": "Anchorage Daily News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSW52V1dJcGtXRVlCQU1IYjdCeDhmd2tIbUF0dGhVek9UNnZSbm1hNlVkdURNN0VCMHZXc2VoT050dDVRZVRmaTZIOWN5STlEYXdGU2VQYUpxVTBMbzdONjUwZU15WDlYenBOQksxclItRUlYU3RTLUhaaEFWMFJEZjYyVUtrZS16b1FZcDgwZ0JzYjJnYk5CNWhWNHpMNDRXSXg5RVI2ZVp4TWw3VXZXbjNHNTRCQ1o1RkN0Xw?oc=5",
+   "published": "2026-11-02T19:14:47+00:00",
+   "id": "e314221e2e9e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine says Russian strikes dash peace progress hopes after more than 20 killed",
    "source": "Courthouse News",
@@ -6390,18 +6402,6 @@
    "cat": "commerce",
    "raison": "Rappel des frictions commerciales sous-jacentes entre les États-Unis et la Chine.",
    "method": "IA"
-  },
-  {
-   "title": "Iran has 'no intention' to engage in peace talks with US as war looms",
-   "source": "Middle East Eye",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0xaOE5xblkyb2NlVjU3d21VQk1RV1VFMXF3SWloanBMUkF2U1oxXy1jVFdzWlhVSjJkRDVQNnE3MHJIWVotbFVINXZNd2pUZzJFUTdHRnk0ektBQm9jUzUwLTBHeDRfLUpsc05mRUNtT0I5MkFKV0lXMnYwN1Z4c2hkYmJSV2dCcHljR2xmSTJrenQ4RXF0V2ItWjZKMnNz?oc=5",
-   "published": "2026-11-01T11:39:00+00:00",
-   "id": "a2622e04b86b",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque accru d'affrontement militaire US-Iran, alimentant les flux vers l'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8002,7 +8002,8 @@
   "news|3602b65d7ed2": 1793641569.8299632,
   "news|dd2e2747f289": 1793646106.4133902,
   "news|0a0817cecc65": 1793646976.3116038,
-  "news|6aa1cd58c15b": 1793646977.32329
+  "news|6aa1cd58c15b": 1793646977.32329,
+  "news|e314221e2e9e": 1793647888.3816946
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8281,6 +8282,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T19:31:28.381793+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu is pressing Trump to attack Iran after the midterms, officials say</b>\n📰 Anchorage Daily News · Lun 02/11 20:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSW52V1dJcGtXRVlCQU1IYjdCeDhmd2tIbUF0dGhVek9UNnZSbm1hNlVkdURNN0VCMHZXc2VoT050dDVRZVRmaTZIOWN5STlEYXdGU2VQYUpxVTBMbzdONjUwZU15WDlYenBOQksxclItRUlYU3RTLUhaaEFWMFJEZjYyVUtrZS16b1FZcDgwZ0JzYjJnYk5CNWhWNHpMNDRXSXg5RVI2ZVp4TWw3VXZXbjNHNTRCQ1o1RkN0Xw?oc=5"
+  },
   {
    "ts": "2026-11-02T19:16:17.323407+00:00",
    "kind": "news",
@@ -8575,11 +8581,6 @@
    "ts": "2026-11-02T06:46:14.097708+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Doomsday Iran strike loading? Israel polls, US mid-terms and Trump's big dilemma</b>\n📰 India Today · Lun 02/11 07:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzdrMkVzVFFUUWNVd3B0dHdsVlhwMWE5M2VWdFVvdmlmUVM1UTVhaDk4ZHFNQWtjbnA3RDg0bElFc0xqemppSjZTYTE5eXZHZXVkMXRWbHo0Y01vUy1TM3lSU2Q5QUJ3M3JHNFRTLTBiR0dDd0VRUThuQW03Y3FaLVc1aDNQWXFjVW5MQlV3U0tfWHZKTkp5RmJDdGQzdExkamtmQ002OERMNDVnZTJla09EbldYRTVTd2JZMDlCQXpWWmdPYW00d0UzaVJuUVotcjM5SDBB0gHWAUFVX3lxTE13N2syRXNUUVRRY1V3cHR0d2xWWHAxYTkzZVZ0VW92aWZRUzVRNWFoOThkcU1Ba2NucDdEODRsSUVzTGp6amlKNlNhMTl5dkdldWQxdFZsejRjTW9TLVMzeVJTZDlBQnczckc0VFMtMGJHR0N3RVFROG5BbTdjcVotVzVoM1BZcWNVbkxCVXdTS19YdkpOSnlGYkN0ZDN0TGRqa2ZDTTY4REw0NWdlMmVrT0RuV1hFNVN3YlkwOUJBelZaZ09hbTR3RTNpUm5RWi1yMzlIMEE?oc=5"
-  },
-  {
-   "ts": "2026-11-02T06:16:09.690884+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel prepares for renewed Iran war as Trump, Netanyahu speak ahead of US midterms</b>\n📰 India Today · Dim 01/11 14:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRFFDUDB5c2h5Ykl4b0Y2VzNvSnd5dW02ZDM2VFJySFFvM2xsWE9LVkpuRHdlVDRyRFZESmZ1Ql9rcEhqUnZ0VEdSc2dMZWZDTXRpTHlhc1JsaVN3dXZZVkdlRmVCTWdIbGY4bUN2Z1FMVk5aSy1kRXlnQ0Y5Yy1nR2dOM0h6ZVZJNnlNZkI5VTgxNHJwXzBjS0tSS1RsZXFqOE1fRlJlOEt0SVVoZXJ4Rjg5WUFhZFRJcGpEakZEcmhEUDdlUjVESzcwcmlUcnFYRm16czF30gHbAUFVX3lxTE9TaExMRDJjamZNUnF2dDhGbDRVdWdWSDdrY2ZhaHQxbEppQmhoTW1wTk55ekcwUEZRbmJ1aXdnN2NSMmdZMnJlZVRydHBYZXZxbEVua0FMdHYwN1d4Vk5lVElEVlZ5Q1NObW9LODBMdlpFRXMydUtaSjNrNzdZMHBNV3REclY2eVR3OU1nOHhYSm1vUjJPS1h2T2dPUjVJc0NoeFoxYnFzUWNPSEljLWNxSFpTVG1JUlh0RklvQ19DWGFETkNzSjRQc0lQMlpOeWptTzJQVW9SSFRaQQ?oc=5"
   }
  ],
  "daily_forecast": {
