@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "9a792c849fc0",
-  "1750936b4c71",
-  "6705ef86e48f",
   "52eaf3b99f4a",
   "833da5e72a52",
   "6ca7c36f9f2f",
@@ -4000,9 +3997,24 @@
   "42bbfe348a5a",
   "7825d0cbc8c4",
   "82b79af1df86",
-  "50f6be7079b7"
+  "50f6be7079b7",
+  "f1a0976b533b",
+  "ebd0f356255a",
+  "f7d97aa550c0"
  ],
  "news": [
+  {
+   "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+   "source": "CNBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQllmMnQ0eTliZGFCbFFOWHFVaHkwT09icWRRaXhMamIyUllPNTgyZG83OFpnSUJJZFRKcmJtMFVqRGlEWGdPLWRJTGNkY3dENmdHTUdWNkxGLW15MFhVS3FUOWtwb3p5TzlKZkpJTnZzOFpJQ2o1X0p4ZXNHTXNfbWRJT0RxQdIBiwFBVV95cUxNUTlQeS1Hc1dRZmFBdzlLSjNNUHFMbFNlRmoxc0NQQUY1SXNFdjFURXM0eFBYMDQtMGR6TFloRUJNZzRnUUNOc2lhQ0ZuelZibEtlaVQ2b3Exb3kzSWJ0VTJjLUl6VmoxZ3lnak10VDJWRldTb0RhemU2clJDbTdhUFFUb2VRNWFFT2Rj?oc=5",
+   "published": "2026-11-02T11:18:05+00:00",
+   "id": "ebd0f356255a",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "A Hard Winter War is Coming in Russia Too, Not Just Ukraine",
    "source": "Bloomberg",
@@ -6390,18 +6402,6 @@
    "cat": "politique US",
    "raison": "Menace sur l'indépendance de la Fed, affaiblissant le dollar au profit de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
-   "source": "Benzinga",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmlJeHZyaXRzNmFFSW5iX0ZPMHBINFpuU1BtZGIyQlF6djRvUFlBT2F4eThQN3gxcUNSRjJlRjBab2xkV0dleU0zeExjOFFUdFVybC14ajJHYUJvNU94RnY4QkVPUTRldmt6blVOV3hzZGllUG5RUEdQNVIwNE14MGMteGtFaElIM0RQaG4wNjVEU2xuQUUtVVpma1l2OHVyOEE1LWM3cVJqTnhWNVE5czFBaDdwOUJnY0ZGa19IR0hDcmg2eVctdUNuMA?oc=5",
-   "published": "2026-10-31T19:15:06+00:00",
-   "id": "28f9579cac49",
-   "impact": -3,
-   "cat": "or",
-   "raison": "Sorties massives d'ETF et cassure technique négative avant les chiffres de l'emploi.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -7993,7 +7993,8 @@
   "news|bf4c9be4deef": 1793612768.8911257,
   "news|028008c5d632": 1793613707.671918,
   "news|57e98a72158d": 1793613708.7208219,
-  "news|1cef4ff5d893": 1793617432.0150745
+  "news|1cef4ff5d893": 1793617432.0150745,
+  "brk|OIL|pwh|dn|2026-11-02/2026-11-08": 1793619267.5048413
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8272,6 +8273,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T11:34:27.504907+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 99.44 → prix : <b>99.37</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.25 | 60j -0.13"
+  },
   {
    "ts": "2026-11-02T11:03:52.015177+00:00",
    "kind": "news",
@@ -8566,11 +8572,6 @@
    "ts": "2026-11-01T18:16:12.405593+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel ready to strike Iran with US, but certain goals remain unclear</b>\n📰 The Jerusalem Post · Dim 01/11 19:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5"
-  },
-  {
-   "ts": "2026-11-01T18:01:40.532238+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israeli targets, timelines, priorities for a potential third Iran war</b>\n📰 The Jerusalem Post · Dim 01/11 17:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE?oc=5"
   }
  ],
  "daily_forecast": {
