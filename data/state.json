@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "46db604422b3",
-  "5d653f954b9f",
-  "71d7b7f4c281",
-  "78af2c200737",
-  "3e18f613e8c4",
   "77d0196f689d",
   "3eccfd42b214",
   "2ef896e79cfa",
@@ -4000,7 +3995,12 @@
   "d0563c9f3a9d",
   "47fb681fa721",
   "3847aa48a4f5",
-  "df989ead10bd"
+  "df989ead10bd",
+  "d8d0aa9c43cc",
+  "64e4f71ecb4a",
+  "de978114ad9e",
+  "edbb3b7c12d8",
+  "f5240cab5356"
  ],
  "news": [
   {
@@ -4062,6 +4062,18 @@
    "cat": "commerce",
    "raison": "Rhétorique protectionniste légèrement inflationniste, mais simple bruit électoral sans impact immédiat.",
    "method": "IA"
+  },
+  {
+   "title": "Dollar Rallied Last Week Amidst Rate Hike Bets",
+   "source": "RTTNews",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFRKYlNydGV5UE5acUJjeFBiLTVKRTZTbkxxbGpna19HcXJQOHdYdW9USWx1QWVFSWhKRkk3cFA3SWNCQ2dpdERUX2l5bnlzRGFSZDdSeV9MQW9XbFdjNVJwU2RHNmRlam1MWnBEUU55WUsxSm9PbHQxVDNLVXBCeko2a0N5TGRaTDl5VE9VRy0?oc=5",
+   "published": "2026-11-02T12:05:00+00:00",
+   "id": "de978114ad9e",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Russia and Iran challenge IMO shipping lane debate as conflicts threaten further escalation",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Escalade verbale majeure sur le nucléaire iranien renforçant nettement le statut refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes",
-   "source": "Iran International",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
-   "published": "2026-10-31T23:54:07+00:00",
-   "id": "8ef325bd2a7f",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Anticipation de frappes militaires au Moyen-Orient favorisant les flux vers l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8001,7 +8001,7 @@
   "rep|update|2026-11-02": 1793624695.4287217,
   "news|a9a25c8a6b23": 1793625389.711266
  },
- "last_bias_label": "Haussier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8278,6 +8278,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T13:34:29.800731+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+14), Sentiment news 24h (+11)"
+  },
   {
    "ts": "2026-11-02T13:16:29.711358+00:00",
    "kind": "news",
@@ -8572,11 +8577,6 @@
    "ts": "2026-11-01T20:04:34.310838+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>The US-China trade war seems to have subsided – but the sense of calm is misleading</b>\n📰 The Guardian · Dim 01/11 13:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5"
-  },
-  {
-   "ts": "2026-11-01T20:04:33.397082+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East latest: Iran offers to open strait in two days if US meets demands</b>\n📰 The National · Dim 01/11 18:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U?oc=5"
   }
  ],
  "daily_forecast": {
