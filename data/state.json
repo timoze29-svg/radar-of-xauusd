@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793640675.4359176,
+   "ts": 1793663158.1935165,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.63,
-     "date": "2026-10-29",
-     "chg5": -0.01,
-     "chg20": -0.3,
+     "last": 2.6,
+     "date": "2026-10-30",
+     "chg5": -0.06,
+     "chg20": -0.28,
      "hist": [
-      1.93,
       1.95,
       1.99,
       1.99,
@@ -129,18 +128,18 @@
       2.66,
       2.64,
       2.67,
-      2.63
+      2.63,
+      2.6
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.34,
-     "date": "2026-10-30",
-     "chg5": 0.0,
-     "chg20": -0.02,
+     "last": 2.29,
+     "date": "2026-11-02",
+     "chg5": -0.05,
+     "chg20": -0.07,
      "hist": [
-      2.47,
       2.47,
       2.47,
       2.47,
@@ -259,18 +258,18 @@
       2.35,
       2.38,
       2.35,
-      2.34
+      2.34,
+      2.29
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.61,
-     "date": "2026-10-29",
-     "chg5": -0.04,
-     "chg20": -0.27,
+     "last": 4.56,
+     "date": "2026-10-30",
+     "chg5": -0.13,
+     "chg20": -0.22,
      "hist": [
-      3.9,
       3.95,
       4.0,
       3.98,
@@ -389,14 +388,15 @@
       4.68,
       4.7,
       4.67,
-      4.61
+      4.61,
+      4.56
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -405,7 +405,6 @@
       3.63,
       3.63,
       3.63,
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -477,6 +476,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -1001,13 +1001,6 @@
   }
  },
  "seen_news": [
-  "9ba9939ead1b",
-  "56469e896932",
-  "b068abcdedeb",
-  "ba242ff17c78",
-  "eb295badf47d",
-  "547498db2155",
-  "43fd9d3e13b3",
   "62725554828b",
   "d22a5318b4e8",
   "2e9037b9a1a2",
@@ -4000,7 +3993,14 @@
   "2a566dfe7a9d",
   "f059a414c399",
   "a23df9b45caa",
-  "139709cc87e2"
+  "139709cc87e2",
+  "bbf75b25d390",
+  "df1f06548005",
+  "1f784306fba3",
+  "07bfd8be54e0",
+  "bd7b2347abca",
+  "f04d0c31ae3f",
+  "69405ea10fb1"
  ],
  "news": [
   {
@@ -4119,6 +4119,18 @@
    "published": "2026-11-02T21:18:27+00:00",
    "id": "a388e82f8061",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Reigniting War With Iran Would Be a ‘Huge Gamble’",
+   "source": "Foreign Policy",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUU1mMVR3aWRtNXRVRUxFMnA0MVJVb3B5TDN5ZGNfQWFjSGJhWHRBWXhXNjVZWkFhNTNqWlBpdTh5Zld3Uk4xNVA2S1U0NlRGYnFYSDduOEJwdE5URG1BdmJiTFFKZUlSdnlyOHRVT2hFaGNad2ZtTWlJTGw1eWlLZDNlT3ZzU2FSdVk0dFE5X0J4LVp6d1BjZng3U3ZBQVNJNWhVeQ?oc=5",
+   "published": "2026-11-02T21:06:59+00:00",
+   "id": "07bfd8be54e0",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Reprise des combats locaux ravivant modérément la prime de risque globale.",
    "method": "IA"
-  },
-  {
-   "title": "Israel ready to strike Iran with US, but certain goals remain unclear",
-   "source": "The Jerusalem Post",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5",
-   "published": "2026-11-01T18:07:02+00:00",
-   "id": "775a9981ba23",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Préparatifs de frappes conjointes contre l'Iran soutenant la prime de guerre.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|78010262dd38": 1791848770.017201,
   "news|197453f96c1f": 1791851480.715605,
   "news|1015d22d58be": 1791854173.715902,
   "news|1287b29bef69": 1791856891.917158,
@@ -8012,7 +8011,8 @@
   "news|2dd47366371b": 1793660506.9939165,
   "news|b09d8bd866d3": 1793660507.8691778,
   "news|bc82050a1036": 1793661376.9975748,
-  "news|139709cc87e2": 1793662291.1375825
+  "news|139709cc87e2": 1793662291.1375825,
+  "news|07bfd8be54e0": 1793663178.926271
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8291,6 +8291,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T23:46:18.926357+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Reigniting War With Iran Would Be a ‘Huge Gamble’</b>\n📰 Foreign Policy · Lun 02/11 22:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPUU1mMVR3aWRtNXRVRUxFMnA0MVJVb3B5TDN5ZGNfQWFjSGJhWHRBWXhXNjVZWkFhNTNqWlBpdTh5Zld3Uk4xNVA2S1U0NlRGYnFYSDduOEJwdE5URG1BdmJiTFFKZUlSdnlyOHRVT2hFaGNad2ZtTWlJTGw1eWlLZDNlT3ZzU2FSdVk0dFE5X0J4LVp6d1BjZng3U3ZBQVNJNWhVeQ?oc=5"
+  },
   {
    "ts": "2026-11-02T23:31:31.137691+00:00",
    "kind": "news",
@@ -8585,11 +8590,6 @@
    "ts": "2026-11-02T12:16:27.748955+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump said weighing who to scapegoat for Iran war as he clashes with Netanyahu over renewed attack</b>\n📰 The Times of Israel · Lun 02/11 10:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5"
-  },
-  {
-   "ts": "2026-11-02T11:46:10.621898+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says war in Iran will be put away very soon \"one way or the other\"</b>\n📰 CBS News · Lun 02/11 05:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk?oc=5"
   }
  ],
  "daily_forecast": {
