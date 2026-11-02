@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793657753.8927076,
+   "ts": 1793662261.8061795,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "615a16aa043d",
-  "1f391684884f",
-  "7989b8747d1d",
   "9ba9939ead1b",
   "56469e896932",
   "b068abcdedeb",
@@ -4000,9 +3997,24 @@
   "45dd9f5afbf6",
   "688847efb39b",
   "87a2309aec99",
-  "2a566dfe7a9d"
+  "2a566dfe7a9d",
+  "f059a414c399",
+  "a23df9b45caa",
+  "139709cc87e2"
  ],
  "news": [
+  {
+   "title": "Oil Prices Plunge 7.4%, Easing Inflation Anxiety as U.S. 10-Year Treasury Yield Falls Below 4.87%",
+   "source": "BigGo Finance",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBubER5d0NVZHhQSXBGSnI1cEgzandoc1Z6OWNYbTZBekE3VDRjNzJRNkRMd0Y4aWM0SENCaDhlTVJnY3pXZldYcmduN0g4ZDJQd2xici1JV2RYSXM2SDRlUE5YWnFjWWNfQUFvaGVydEpkQjlsOUE?oc=5",
+   "published": "2026-11-02T23:05:00+00:00",
+   "id": "139709cc87e2",
+   "impact": 10,
+   "cat": "taux",
+   "raison": "haussier or (fed, taux)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump's tariffs hit Alaska residents as economic concerns continue to grow",
    "source": "CP24",
@@ -4049,6 +4061,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump signals possible Iran deal, rules out strikes immediately after US midterms",
+   "source": "Ynetnews",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zejBsR2xZRUNzRFlmdGxZQzJuZlpabHowbDFWbzdhSE1haWpveV9uaUVHUVA5bGFmbnhqVm1TY2stOV9SUlFTWTQxYm5pZW84UlZzdDBB?oc=5",
+   "published": "2026-11-02T22:08:40+00:00",
+   "id": "a23df9b45caa",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
    "method": "mots-clés"
   },
   {
@@ -6378,30 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Préparatifs de frappes conjointes contre l'Iran soutenant la prime de guerre.",
    "method": "IA"
-  },
-  {
-   "title": "Israel ready to strike Iran with US, but specific joint goals remain unclear, source tells 'Post'",
-   "source": "The Jerusalem Post",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5",
-   "published": "2026-11-01T18:07:02+00:00",
-   "id": "0f1e9bd2d04b",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menace imminente d'action militaire conjointe alimentant les achats d'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
-   "source": "Financial Times",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlZjTzdFYjAzeVItVzFIMWE4QXVhblR1SlVvMnFjLWxBczktR3o3V0kyMGRvMXFibUhmOUNoRGlQZ0dTanNhaUktM1dOeXBIcU9PS3Nyc01GbEhtX0t2VDZDckdQMGg5NGluZ3ZzOE11a3BYVGp4RHNEY243U0VUbGU5dk0?oc=5",
-   "published": "2026-11-01T18:02:52+00:00",
-   "id": "d21cefda6110",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Crainte d'escalade majeure au Moyen-Orient renforçant massivement la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8011,7 +8011,8 @@
   "news|adea67db1953": 1793659585.4286463,
   "news|2dd47366371b": 1793660506.9939165,
   "news|b09d8bd866d3": 1793660507.8691778,
-  "news|bc82050a1036": 1793661376.9975748
+  "news|bc82050a1036": 1793661376.9975748,
+  "news|139709cc87e2": 1793662291.1375825
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8290,6 +8291,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T23:31:31.137691+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil Prices Plunge 7.4%, Easing Inflation Anxiety as U.S. 10-Year Treasury Yield Falls Below 4.87%</b>\n📰 BigGo Finance · Mar 03/11 00:05\n🧠 haussier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBubER5d0NVZHhQSXBGSnI1cEgzandoc1Z6OWNYbTZBekE3VDRjNzJRNkRMd0Y4aWM0SENCaDhlTVJnY3pXZldYcmduN0g4ZDJQd2xici1JV2RYSXM2SDRlUE5YWnFjWWNfQUFvaGVydEpkQjlsOUE?oc=5"
+  },
   {
    "ts": "2026-11-02T23:16:16.997693+00:00",
    "kind": "news",
@@ -8584,11 +8590,6 @@
    "ts": "2026-11-02T11:46:10.621898+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says war in Iran will be put away very soon \"one way or the other\"</b>\n📰 CBS News · Lun 02/11 05:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk?oc=5"
-  },
-  {
-   "ts": "2026-11-02T11:46:09.731375+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia and Ukraine given fake warnings of nuclear strikes in cyber attack</b>\n📰 The Times · Lun 02/11 11:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3FWSU4yLUQ3OWNBUDJadE52OEJ5bmRKMlJNbGpDcTlEVkljT1JfcDRFV1NyVldoV2h2UDhFb0I2X3cwUnhGVk5uSmxNaURhNnVXRy1JblNrVkozRmpYTkdVN05ST3BQQnktRmhUNUlJejVxbWJPQmxtYW5RY1lKRVJDZk9SM0xGd2ZEUko0SHUwdmVzX3dPUl9nSWszbENqbDhMR0F3NEtXUkdTZmw3dk5tU2hpMThOVFlLQg?oc=5"
   }
  ],
  "daily_forecast": {
