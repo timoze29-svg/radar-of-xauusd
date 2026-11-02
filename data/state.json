@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793628958.083824,
+   "ts": 1793633466.822259,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "3a71b8e83322",
-  "a24cd5a452b7",
-  "c8eb22c88de7",
-  "38eb3325fdd2",
-  "8da3d37e201b",
-  "baee3f5f3083",
-  "776226a1ff5c",
-  "b5d2d05a5f09",
   "e31f45ee0dc0",
   "9fa948a1e8ad",
   "2b125cb55d1f",
@@ -4000,7 +3992,15 @@
   "4a5ad3109ba0",
   "950ecc4c21f4",
   "381a25da7802",
-  "31779ba13593"
+  "31779ba13593",
+  "c95b40ecc8cb",
+  "b1e4fa15dd79",
+  "5b32c7123012",
+  "973742f7543b",
+  "a50bd884ffd7",
+  "67fcc81985db",
+  "9fbbcf1cef00",
+  "3a3c052a856c"
  ],
  "news": [
   {
@@ -4049,6 +4049,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran war live: UAE will be better prepared if US launches new war on Iran, says Energy Minister",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-02T13:53:54+00:00",
+   "id": "a50bd884ffd7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Menace explicite de riposte iranienne soutenant la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzh1ZFludjdBZGphNlBMM09jOFpiaTBrWWxjMkV2TmphTWItT2pxcXlxQzNmMWZadUFYUi1kdEktZWxZQVpoNFN6R1d1WFJlS2RHNWlwSlBNaXhOM3RyWnc3dnkxWFdfTmpQNi0xM2lZdDFkdmVBNDZnUzhveDVBb0xUeXJUTkVrNW5Fa1dhZ2oyWEFYVmw1dUtFSF9iS1MtSlBnQUxYNE5xRlhfQ3lpNTRQVDZvRXA4c1A3NDhlYTN4UDBicVE?oc=5",
-   "published": "2026-11-01T04:17:00+00:00",
-   "id": "d531aeede1fc",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Signaux de désescalade en Ukraine réduisant modérément la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8004,7 +8004,8 @@
   "brk|US05Y|h20|dn|2026-11-02/2026-11-08": 1793630773.430967,
   "news|244f1f4db837": 1793631703.8457546,
   "news|22053ebbd069": 1793632570.0644586,
-  "news|ebbb623f11f5": 1793632572.1727781
+  "news|ebbb623f11f5": 1793632572.1727781,
+  "news|a50bd884ffd7": 1793633491.253272
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8283,6 +8284,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T15:31:31.253364+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: UAE will be better prepared if US launches new war on Iran, says Energy Minister</b>\n📰 Arabian Business · Lun 02/11 14:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
   {
    "ts": "2026-11-02T15:16:12.173117+00:00",
    "kind": "news",
@@ -8577,11 +8583,6 @@
    "ts": "2026-11-02T00:33:15.837050+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran threatens to expand war beyond Middle East as US weighs new strikes</b>\n📰 www.israelhayom.com · Dim 01/11 13:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXk1Q2pVZFltaVR5eG85S0hCWWRIYjZ4T0U2bXF2UFpaRGVxWTd2UVdVSWhVNi00b3lkanFyZzViSy1qQ19jUnlTMURsS2xyNUkwMm9meEdCN2h1d0d5Wm0wM1FGOXFTR01tUERUZDJaa29YUEpzdFk3QngyZzB0UUVlbFN1VWN0bno0bVQyVllZSHpWbzd3TEtXN01XbmluY2xZVEljaW5XQTlVaGZGd3pn?oc=5"
-  },
-  {
-   "ts": "2026-11-02T00:33:14.937957+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says more military action “still possible” as the Iran War continues</b>\n📰 NBC News · Lun 02/11 01:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQclJ5Z2xoZkFWUnVfZ291YlpDVzBRTUUzcFRMSVRLNm9jZ25KWVh1SmpfOVhwaDVmWDVISzRfWVB1aEtYd2JCVWtyY3dYVkVnbkFYSWZOSklydXcyenVRNjJ1ZFBTMlNCQklGdFpRY0I5WGVFMEhpMkxoYjdHVFBEUG9iTExkMW9DU3JjazhVYWhZcFM3US1sS3Vid2ZJLTBOSUVIdHFVbXZ6X0JyeU1DbDJxbGZ6Mnltd2Z2ei1UeThhTVQ1NmxR?oc=5"
   }
  ],
  "daily_forecast": {
