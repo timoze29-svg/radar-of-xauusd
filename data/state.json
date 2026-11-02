@@ -1001,12 +1001,6 @@
   }
  },
  "seen_news": [
-  "6322c8348c76",
-  "4e498dea565d",
-  "8ad82f8b5620",
-  "8d988ad79990",
-  "01fb041e6aed",
-  "e0a304765485",
   "f08fe60302ae",
   "f88c5194508a",
   "63393323a984",
@@ -4000,9 +3994,27 @@
   "505893be260d",
   "5d1f40c78902",
   "3602b65d7ed2",
-  "9081f6d5448f"
+  "9081f6d5448f",
+  "035bd1cca7f2",
+  "b433adb5b4ab",
+  "a73b335bb875",
+  "22503dc141d9",
+  "615114be1841",
+  "dc924f5144b4"
  ],
  "news": [
+  {
+   "title": "A brief ceasefire between Russia and Ukraine opens a perilous escape window from Kherson's riverside kill zone",
+   "source": "PBS",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3UxZ3JSV0pqV3Zzc1NaVks3aWpHOGdhZVRLb0VzSWJaTE1POFJiQkJ5RkN1bVhObjBFTmRvTm8xNF9vOWpMUFVmbjQ2dXc1bG5sYXpZZERWMzFBV0taYTM4em1ZamV0eHZXeTRZVjUxc2U0cUxJY1hMc0tTOURiODJkZ2l5UnpUVWQwUXFQRjBDYW81UFRJM3Z3VjV0cjBFVS13V2hCSGdqaE5YVkdCTDVhY2M1ZHlMOUdxdzhOUVpWTVBQN296RFlOOHFjdjh1QTcwU2NXd0JRNFk20gHiAUFVX3lxTFBhd09nZW9VeEFBNEwyYW93cW15VlZ4TF9FMkx6Q3p4SW9XcFJ6NDE0YjZIcnlhbTVjR2VYSVF4dUNfZ3lBWUl5TEIwMEFzNUhYQzI5V1lodVdQX0JmNU5rdzJpdFFYMGcxODZXUHdCaG1DeUxTbzZZSzhIMGJsckJ5cjc5cHhubHlUV19OZ1VRbHB1TEN0VVZSTWhxcU1wTDJZU1RHSlhONzlULWpyekFSZGxLOW9iYnpSUXB1Y0pCYW9qQ3ZtT1Q4dnFzRWQxSER0QnJISGhoRVNUZnlJSWwweUE?oc=5",
+   "published": "2026-11-02T17:38:11+00:00",
+   "id": "dc924f5144b4",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine and Russia's emergency alert apps both hacked, residents warned of fake nuclear, chemical strikes",
    "source": "CBS News",
@@ -4011,6 +4023,18 @@
    "published": "2026-11-02T17:26:45+00:00",
    "id": "e9189959025a",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "How the US midterm elections factor into Donald Trump's plans for the Iran war",
+   "source": "DW.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2pOdXNyS1piLXFua2JQcTV3dWdJSDBHS3ROblZpeEJhY0Y2RUZPd3NYZ2ZxT1JDMjh1UHBaSkVWWV8yelJZTFZkS0dQQktBdC1qajd4NjNhTDJ3alBmay1kSS1JNmk1cVRIZVVkYTAybTBRdWhwOTAzeF82V005NXN1R3h4YU1xTk0wNUlfX0RMeTB6ZGl6QVlBYzJpaWNSUHpJX9IBpAFBVV95cUxNSWQxQmZocDUwSVlxeWN4TGVuT25KUjdVVVJCbThxcWpWSkg0OHJ3SDNyMFF2ZE1LdVRnNFpUWlNPWFRoY3ZBSmlQdFFXb2tHMXZsTWh0U3k3b3NqeEtmVXBDeno5bnAyT1JVLTdaZm4yZGZTNEFoUnI4Zm81ajU4ZWNNckdQSWN1aGhIYVFmeTd3N21sN3RGcnBlaWxaSERDbmtmYg?oc=5",
+   "published": "2026-11-02T17:13:15+00:00",
+   "id": "035bd1cca7f2",
+   "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6377,30 +6401,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Rhétorique belliqueuse sur le nucléaire iranien, catalyseur classique de hausse de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
-   "published": "2026-11-01T08:23:07+00:00",
-   "id": "672b81a7cdf3",
-   "impact": 3,
-   "cat": "commerce",
-   "raison": "Tarifs douaniers massifs et représailles, stimulant la demande de protection contre l'inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "Pakistan-Bound Cargo Vessel Targeted Near Hormuz Strait",
-   "source": "Radio Free Europe/Radio Liberty",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5",
-   "published": "2026-11-01T08:07:39+00:00",
-   "id": "d3a9e849a165",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Attaque maritime concrète près d'Ormuz augmentant les primes de risque mondiales.",
    "method": "IA"
   }
  ],
