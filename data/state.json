@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793653277.6631942,
+   "ts": 1793657753.8927076,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -619,7 +619,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-11-03T10:00:00-05:00",
-     "forecast": "7.11M",
+     "forecast": "7.15M",
      "previous": "7.08M",
      "actual": "",
      "gold_label": "Emploi (indicateur avancé)",
@@ -663,7 +663,7 @@
      "country": "USD",
      "impact": "Low",
      "date": "2026-11-04T08:15:00-05:00",
-     "forecast": "68K",
+     "forecast": "67K",
      "previous": "90K",
      "actual": "",
      "gold_label": "Emploi US (NFP) — LE gros mouvement de l'or",
@@ -674,7 +674,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-11-04T10:00:00-05:00",
-     "forecast": "54.9",
+     "forecast": "54.8",
      "previous": "54.9",
      "actual": "",
      "gold_label": "Activité (ISM/PMI)",
@@ -740,7 +740,7 @@
      "country": "USD",
      "impact": "High",
      "date": "2026-11-06T08:30:00-05:00",
-     "forecast": "63K",
+     "forecast": "65K",
      "previous": "29K",
      "actual": "",
      "gold_label": "Emploi US (NFP) — LE gros mouvement de l'or",
@@ -773,7 +773,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-11-06T10:00:00-05:00",
-     "forecast": "47.8",
+     "forecast": "48.1",
      "previous": "46.3",
      "actual": "",
      "gold_label": "Anticipations d'inflation (Michigan)",
@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "45b6034eaeb2",
-  "45738f0be5be",
-  "0fd2000b41ca",
-  "47c180af2ca7",
-  "1a9fd0184144",
   "da24033c1695",
   "cb60f8681835",
   "03f51d0f8822",
@@ -4000,9 +3995,26 @@
   "78bd38a44740",
   "6795cc03f6ba",
   "1e57df1588b9",
-  "48f2c75a10ef"
+  "48f2c75a10ef",
+  "e4efbd142c03",
+  "a4585d67edeb",
+  "4dde69608a01",
+  "43f7f335b5c1",
+  "13ad45d1457a"
  ],
  "news": [
+  {
+   "title": "Trump, Vance signal progress in talks with Iran to avert renewed war",
+   "source": "Naharnet",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUV4TGJBWWJXLXpSdlo2cU9ndmo2d1BjM3FsS2FiYkxuSnRhRkJCLWlwNEZkYWY3Mk9QYmFQSEFYTjliOXYtVkYtc0N3NWUwWjExQTJsRXQ3UFlzT25DazN1STdFVjN2V1hJOFRRRGp5UFBEQ1h2a3dEWXZDRjNfa25ULVJXc0I3M3F4cW8wQTJWU0ozYmc0cDEyWGNrRl85Y1NkZGtpb01DX2dsVnlv?oc=5",
+   "published": "2026-11-02T22:03:00+00:00",
+   "id": "a4585d67edeb",
+   "impact": -3,
+   "cat": "géopolitique",
+   "raison": "Désescalade avec l'Iran diminuant la prime de risque géopolitique sur l'or.",
+   "method": "IA"
+  },
   {
    "title": "Renewed Ukraine peace talks face test as Russia presses on with attacks",
    "source": "WXLV",
@@ -4038,6 +4050,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Trump Signals Possible Iran Deal, Declares No Resumption of Strikes",
+   "source": "Forth.News",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Q1lzanhqeWVaZmpuTHg1TEMzdFZoWVUwZ0xsbkR4VmtNRmVVcTNrU1VqenhEY1REaFdOOHFNWWJoYUVZQ1ZxemV1VFVnNUVCUldHNnFHWFIzVWtrYmFUVDRn?oc=5",
+   "published": "2026-11-02T20:58:41+00:00",
+   "id": "e4efbd142c03",
+   "impact": -3,
+   "cat": "géopolitique",
+   "raison": "Perspective d'accord avec Téhéran apaisant les tensions et réduisant la prime refuge.",
+   "method": "IA"
   },
   {
    "title": "Blaming Tariffs Won’t Fix the Cost-of-Living Crisis",
@@ -4098,6 +4122,18 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Wall Street braces for the biggest adjustment to U.S. Treasury issuance in years: long-term debt supply may be cut ahead of schedule, while the share of short-term financing faces a test.",
+   "source": "富途牛牛",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXVjMEltRjZZN0oySUtmSXpWUWVhMmQ2WWRLUkd2a1JmNkQ4TnRxVzFHdVVZdkpQT21mdk5mdFFrS09RNVhMcFFxNkxHbjFEYjA3c0oyRHczN3FCRVA4NDJRYW12TmNUNlY2TFJBdkVHY1ExUFcyTG5BMWZrNW1xQUc5QjJLUE9QYU03TzQwUmFUS2RFMEZrNHpHSEtlTTBFZ2ZvRE13?oc=5",
+   "published": "2026-11-02T20:07:21+00:00",
+   "id": "43f7f335b5c1",
+   "impact": 2,
+   "cat": "taux",
+   "raison": "Moins d'émissions longues peut détendre les rendements réels, ce qui soutient l'or.",
+   "method": "IA"
   },
   {
    "title": "At Least 24 Killed in Russian Attack on Ukrainian Humanitarian Hub",
@@ -5336,6 +5372,18 @@
    "method": "IA"
   },
   {
+   "title": "Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus",
+   "source": "Business Recorder",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XcENab1Q5NjNLMHRmUmhlVlNuNWFrWFNsdzZLbm1LNndnekVDcWZ0dXdBbU5lYkpXOFplVDBTdjVRblJwUk4tS0h4bXowZmY00gFWQVVfeXFMT0UyMXdUZHBISEx1MnB5X2FWUmZaSzV4akFmQW9pNFd6aERHcVVnYXYxRkNRX3B1c245MmdwYUQxdktUWmxybzFPNkRGSTJHbHM0ZEJZOXc?oc=5",
+   "published": "2026-11-02T06:31:30+00:00",
+   "id": "4dde69608a01",
+   "impact": 1,
+   "cat": "dollar",
+   "raison": "La vigueur du yuan traduit un dollar sous pression, légèrement favorable à l'or.",
+   "method": "IA"
+  },
+  {
    "title": "Ukraine and Russia say air raid alert apps hit by cyberattacks after truce ends",
    "source": "Euronews.com",
    "theme": "Russie/Ukraine",
@@ -6353,54 +6401,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Aversion au risque sur les actions due au Moyen-Orient profitable à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Evening recap: Israeli threats of advancing as far as Saida, escalation continues in the South, and record cocaine seizure at Beirut Airport",
-   "source": "L'Orient Today",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOS1QWkJtOTNsLVJTdU1sdzZZSDNpM0xRdGdSTUdvSGhUSDFkajBJUlhYWW1Oc0p3bWowQkFsa0htT1pyT3JKT1NOdmp1aC12WFp2TXc0Z1FxLTFnRTZ4WEVNNkpCY01pa2JHUG45MDQ5dU5aUWNCUzZhNlhLMF9CeU9aRU90dFlTUnBKcjZyUGtJbktzRk1XTGswU2RMRnpGYkMzUXp4OC1Vd2dwNEY1YlFkYTB1YjFwQ0JQcTZUc01QMEpzM2E4OTdmQzdoZUtZeEVGVGFlREJDXzJabGtPWUpxbjhjcUZuNkpUc1E5eW1vczM0ZHA4bWtNbWh0MS1YS2pTRnY5NEtHN3QwZ0NjLVp4ZThiUQ?oc=5",
-   "published": "2026-11-01T16:58:18+00:00",
-   "id": "15211e125001",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Expansion des opérations terrestres au Liban entretenant le climat sécuritaire délétère.",
-   "method": "IA"
-  },
-  {
-   "title": "US, Israeli targets, timelines, priorities for a potential third Iran war",
-   "source": "The Jerusalem Post",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE?oc=5",
-   "published": "2026-11-01T16:51:43+00:00",
-   "id": "0fabef4b5d41",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Planification concrète de frappes contre l'Iran soutenant durablement la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Again",
-   "source": "Bloomberg.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn?oc=5",
-   "published": "2026-11-01T16:36:17+00:00",
-   "id": "d677ff958ff2",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Peur de représailles iraniennes étendues au Golfe, très favorable au métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump announces $15 billion in farm aid ahead of midterms as tariffs, Iran war drive up costs",
-   "source": "Firstpost",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0RfaWI2TnhmaFRCZ0w3cEhnZG5tdlU4SjdYYjhYNjRDSVRCSjIwWmxTVDZzQmhkV0FST1hRQjVidFZsOVFLek1yQkhCbklSSWI2Y2VrU25FZXhjZmZJakdnTjJjWGtRYy1OWGc1LW1vN3VNemRCWEhzblVweXd6bVFmOGh3WFQ2YjhLa2hEbE1HeDl1b0h2eGpOcFJTX3R2c1FQek5sdTNrYTl4N1BpZ3lpVmRhbTZEZnZJdXg4aTdFOWsxZW9YN2VRTXNjOUloanFnMnlnc2J1R21mVHJlUlZhZU1kd9IB6wFBVV95cUxPc1huXy1qUzBONHM5S2N3WklTdW14SEZ3bGpzaGJMQjRaMkFmVnpvT0sxT3J2d09UT0N0QTMzS0lXZ1pWWDNGVVE1S3AyZ29PMGRQS1d2N0RFdzBmTVg5RldFUlA4NHlHWXVtWXBHTWVCRmx0czU4OWFzM0dsNld0eDdGc3R4aU1BcFlYQVl3QWctb0lyMUktcnAtdkVLY3piaHdLc0NGUjRmbHNOdmZKY0NOYm8ycWJyVnZhSHl0MnRHVUpSbUtya3FpaXppUk0zaHlzMl84eTVJdVo5NUE5cUdPR1k1SVRlUzdZ?oc=5",
-   "published": "2026-11-01T16:11:51+00:00",
-   "id": "89ac5a0ae34c",
-   "impact": 2,
-   "cat": "politique US",
-   "raison": "Relance budgétaire et pressions inflationnistes liées aux tarifs douaniers favorables à l'or.",
    "method": "IA"
   }
  ],
