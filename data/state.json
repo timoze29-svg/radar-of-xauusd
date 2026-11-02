@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "dcd5972de37f",
-  "0d0ee7811eeb",
-  "b5993c8383ea",
-  "01423cc2f53d",
   "485e912d29da",
   "f8595c8f13f4",
   "947c827ee74c",
@@ -4000,7 +3996,11 @@
   "d8ebc0b6b11d",
   "524725020197",
   "e2ccd3d31070",
-  "7ca3d12d11a3"
+  "7ca3d12d11a3",
+  "6d03c76b9157",
+  "e5697156d8d4",
+  "b6c09633ed6d",
+  "cf2df258bb2f"
  ],
  "news": [
   {
@@ -6405,10 +6405,6 @@
   }
  ],
  "fired": {
-  "news|aa82bb4e85a5": 1791813707.8060813,
-  "news|05fd9d2c5105": 1791813708.80245,
-  "news|eb5c1fab1fbd": 1791815484.4377851,
-  "news|84933b1dfce5": 1791815485.4234903,
   "news|7f7c54dd61a8": 1791816367.5014417,
   "pre1h|2026-10-12T12:10:00-04:00": 1791817298.148059,
   "news|22306eb51777": 1791819965.679098,
@@ -8003,7 +7999,8 @@
   "news|53e17f411c83": 1793627172.3397863,
   "brk|US10Y|pdh|dn|2026-11-02": 1793628101.410815,
   "brk|US10Y|pwh|dn|2026-11-02/2026-11-08": 1793628102.3302724,
-  "brk|US10Y|h20|dn|2026-11-02/2026-11-08": 1793628103.2685199
+  "brk|US10Y|h20|dn|2026-11-02/2026-11-08": 1793628103.2685199,
+  "big|OIL|2026-11-02": 1793629904.591553
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8282,6 +8279,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T14:31:44.591621+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Pétrole WTI\n-6.51 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
   {
    "ts": "2026-11-02T14:01:43.268613+00:00",
    "kind": "breakout",
@@ -8576,11 +8578,6 @@
    "ts": "2026-11-01T23:31:27.964209+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Rubio: Trump is READY FOR WAR with Iran</b>\n📰 Fox News · Dim 01/11 21:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zWWo0N19WaUFDbm8yTTdHckVRVEZZVVhOZi02VjBvY1dyUEs3V1U5aHlWOEkwYnlRSWJYbDVyXzU4aEpZWnBqc3d4UFg0amhXQjNMdW1n?oc=5"
-  },
-  {
-   "ts": "2026-11-01T23:16:04.992564+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump has not decided on renewed Iran military action: Rubio</b>\n📰 Arabian Business · Dim 01/11 00:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
