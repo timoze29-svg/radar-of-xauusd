@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "a1f9782cfe03",
-  "1c36cd523a4a",
-  "6ac88e85b31f",
   "d20aa496f5c6",
   "0324a1df8084",
   "0542db808e07",
@@ -4000,7 +3997,10 @@
   "00f844e42b7d",
   "7fb4f3800694",
   "7e5e569cda57",
-  "f1f67d185d9a"
+  "f1f67d185d9a",
+  "3152b811e91b",
+  "cebc583d3ba7",
+  "59de54ea11c4"
  ],
  "news": [
   {
@@ -6405,7 +6405,6 @@
   }
  ],
  "fired": {
-  "cyc_rev|2026-10-12/2026-10-18": 1791763297.0709975,
   "news|b650a02a8959": 1791765963.9200726,
   "brk|SILVER|pwh|up|2026-10-05/2026-10-11": 1791765965.259133,
   "news|2dfed4c85b8d": 1791766897.5281427,
@@ -7984,7 +7983,8 @@
   "news|508136b00ac1": 1793574964.9924881,
   "news|9fdc29d6cab4": 1793575887.964117,
   "news|460b8bad4078": 1793575888.9733098,
-  "news|e583f294dfe7": 1793576772.9354353
+  "news|e583f294dfe7": 1793576772.9354353,
+  "cyc_rev|2026-11-02/2026-11-08": 1793577701.1949887
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8247,6 +8247,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T00:01:41.195031+00:00",
+   "kind": "cycle",
+   "text": "✅ <b>INVERSION HEBDO CONFIRMÉE</b>\nPhase 2 (jeu→ven) : lun→mer = +39.4$, depuis mercredi -145.4$ → inversion en cours ✅\nRetracement actuel : 369.0% du mouvement lun→mer"
+  },
   {
    "ts": "2026-11-01T23:46:12.935518+00:00",
    "kind": "news",
@@ -8541,11 +8546,6 @@
    "ts": "2026-10-31T23:31:23.214982+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Jobs Pickup May Keep Fed on Track to Hike Rates Again</b>\n📰 Bloomberg.com · Sam 31/10 21:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjA5czFvNHJVY3pfd3I2ZGt0eGlkWDZCa3llcU5VRjUxV3pHc2pOUFI5NGZERThCY0lZNkJQZXFPMUphdmw4OEJOV2V2blZ2NGlDakI4NDRVM3VYR0ViSkhGbS1SR2Q0Sk03TmFRd1FvOW90U1Q4TnJYVFJIbVpUSEhpMTVMUmNrbGxpNldwOUZTbXVjV3hpTVV5d00tRHpPOHVJdmVOaEM1ZWc?oc=5"
-  },
-  {
-   "ts": "2026-10-31T21:46:09.778957+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gulf states scramble to avert another U.S.-Israeli war on Iran they cannot stop</b>\n📰 Mondoweiss · Sam 31/10 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkgtcVNJbGVYS0ZDLUY3bTRybDFCMTdQYklSMm96QlVwZlZ0UkRuSUk1WEZwX1RRclFjQjNLQmRFZ3dHOGcyNWNoWGpLYXhrVU5weFBqMWRrd1VfR1VKN1VnU2UtMGZBQlpNdi1uRXVMeDlYazlMN0lGaDBNVmFRV2hyejZMbVJGV280ZVIxdnJvbS1jLW5xMmIxb21TOURMZ3h3dTA0cXJjalVfQ3hJ?oc=5"
   }
  ],
  "daily_forecast": {
