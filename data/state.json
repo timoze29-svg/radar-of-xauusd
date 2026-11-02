@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "0413fad4891b",
-  "cd6f68a79207",
-  "aa28ec89c5bc",
-  "3e6a1039f063",
   "f574250dfedb",
   "8c312d646eae",
   "38a0b09bc501",
@@ -4000,7 +3996,11 @@
   "644f0f58db73",
   "de856e80d68c",
   "100820f0208b",
-  "9ef13b1a591d"
+  "9ef13b1a591d",
+  "6f17147f6ea8",
+  "e30c9a471ae6",
+  "3f17620a1705",
+  "032cb13b000e"
  ],
  "news": [
   {
@@ -8281,6 +8281,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-02T17:01:52.022276+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n▫️ DXY -0.01%\n✅ Taux US 10 ans -2.4 pb\n✅ Pétrole -0.78%\n▫️ EUR/USD +0.09%\n✅ News dollar/Fed : 2 (impact moyen or +5.0)\n   • My New Dispatch Article on the Legal Case Against Trump's Section 338 Tariffs Targeting Canadian Imports\n   • Trump’s Tariffs Are On the Ballot in Michigan\n\n<i>Pas assez d'historique pour chiffrer cette configuration : à confirmer avec ta technique.</i>"
+  },
+  {
    "ts": "2026-11-02T16:31:32.432808+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +16)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+14), Sentiment news 24h (+13)"
@@ -8574,11 +8579,6 @@
    "ts": "2026-11-02T05:01:37.440618+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Netanyahu pushing Donald Trump for nuclear strike on Iran? US commentator makes big claim</b>\n📰 The Times of India · Lun 02/11 05:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMVZhcGxWam4zYmRvMEhnNFBYbVd5S2NLTU4tMGFjYnEzRFlvZHh0Ym5jcXAwcExabFBsVUg1MUxyTVI5VU9WRExNZkFnZTI2dExPSnhEdm9IN2I3TTNxc0xHQWctZl9kRmNCUHJWcGh1eVlELVpGSnlVTFVmSDVtOHJuSTU4VjFCUEJEbmh2eENyY2ZTWnYzcVlPNFlhbkJJd3l3M2k0UUR1cTE1QXZYbi1PaGdndW50WDdONDVnWDJXWDVRcGxLSks5blBWa2NXeGl1bl9McDh3Rk5mdGs3QWN0c2w4Q0RVMVNQS3V3cEzSAfYBQVVfeXFMTXFkOERUYzFxSm1neERBblNZLUtjZjd6eWxReWFhY2VQU2RxRE1BeWk3bGtVTzFjbHpRaEFkRElnMlZRbzUyNUNaZmFvdmFiNTk4Y2h4N2Frd3VGMmhWV281RFZXZDBEMlcwYU9kQUFXSVFmUkdzRjdkZUtydzZ5YjdOcEZUY0VuS3N4MFZ6ZWllX2c5NkFGTm9oQkdWY054bFA4eEFzVjZsYktLNFMxWFdGQi1nTmZyQUJMT0tXcmVQVzAyNHZ6RVk2blBfblo3RWM3RVlUQnR1bElqRkxCenlhR3BIUVdDalJVdGJlNXFwMWF1MUNn?oc=5"
-  },
-  {
-   "ts": "2026-11-02T04:31:27.998163+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil slips more than 1% as talks continue on ending Iran war</b>\n📰 Business Recorder · Lun 02/11 03:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zS0ZXU1ZjUVlUTEd6a3JuTElaMEExWFd0V3BEX1hRYTdVVXNTa3JPOE9JR2pHZTJOTnZBbnpLeG4tdUhETUZvcEktYmlNVy1h0gFWQVVfeXFMT2tDcDhDazFrUktCTGZnVlpmUHlWQnJ2LU9HUGdVcjh4bHdLanVHNGt3cG5PWW1IODZzcmdncWo4Q1lsN1FHNWpRaHZZOFV3VmF5cTBDanc?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8724,7 +8724,7 @@
   "ai": false
  },
  "dp_last": {
-  "status": "up",
-  "ts": "2026-11-02T16:16:19.751912+00:00"
+  "status": "down",
+  "ts": "2026-11-02T17:01:52.022245+00:00"
  }
 }
