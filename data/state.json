@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "d0bddd7521ec",
-  "88bcf02d054a",
-  "86da3dd9889d",
-  "ab1b2af0f019",
-  "fd08d9984869",
   "7c6c833b871b",
   "92641a7c0936",
   "166b8c46c010",
@@ -4000,9 +3995,26 @@
   "2644b6e73dee",
   "2386649bd593",
   "85a904e2b48a",
-  "087df4b4c799"
+  "087df4b4c799",
+  "c56491203686",
+  "5a5d93fc0444",
+  "6563e9f40283",
+  "6e064c8a48f3",
+  "25dc9ddee597"
  ],
  "news": [
+  {
+   "title": "United States Dollar Index maintains position amid safe-haven demand",
+   "source": "FXStreet",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzA5X1hLU21EMDJYUjVmdzN3Ty1wX3NZU1NTYU1ubENtZXpkelFEak9yQ0NCUTVQb09CQjRaYXVWTGc1VTNRS3BicmF3bTZBNFhMNUN2N1ctWWItZWUtZFFVZzgyOTU3akxGeU5kS0xLci1iMFFVandGSFdSaU1hQ0MxM2tGSkg1cF9iVFlrM1lFZE9GUmhmbFhBVTRBbDFIdkpQYXUzV3dHYV9sZmZHTw?oc=5",
+   "published": "2026-11-02T03:41:15+00:00",
+   "id": "6e064c8a48f3",
+   "impact": -2,
+   "cat": "dollar",
+   "raison": "Un dollar fort soutenu comme refuge pèse mécaniquement sur l'or.",
+   "method": "IA"
+  },
   {
    "title": "Gold Price Forecast: XAU/USD recovers modestly as oil prices decline, US elections in focus",
    "source": "FXStreet",
@@ -4016,6 +4028,18 @@
    "method": "IA"
   },
   {
+   "title": "Gold Price is Attempting to Offload its Oversold Conditions – Analysis –02-11-2026",
+   "source": "Economies.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNW1hU2phd2RsU0ktVFpSOG9zZHNDX2NtTkRWLXlnLXNYTUc5a0pjN1dxXzlSWHM1SkY3TDlRVEdnay1hTHJtTWdjdFF0LUYybkYyY0VlMF9PNkNfdnQ3MzR2TklZbFVnRGtGU2s3U1BtbU9fbHlJSURhVkN2TENBODhrUURfQmFMQXdkNU1OXzkwSWtzSDRYNHVtc2xydDI0dVZWSmRfV0Q5ei1jdXhhOXVWMnBPVGtUTllTd3F3NjRsazN1VXFGOUZzN09kMFNVaW5ZSEcxTG5USlBrdVp0dTUyTXM3Wk5jT2lqLXRR?oc=5",
+   "published": "2026-11-02T03:28:00+00:00",
+   "id": "c56491203686",
+   "impact": 1,
+   "cat": "or",
+   "raison": "Rebond technique anticipé face à des conditions de marché survendues.",
+   "method": "IA"
+  },
+  {
    "title": "Trump says ‘at some point’ US will have to give Iran ‘the hammer’",
    "source": "Arab News",
    "theme": "Trump / Iran",
@@ -4025,6 +4049,18 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Menaces de Trump contre l'Iran soutenant modestement la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "European Gas Prices Fall on Hopes for Middle East Diplomacy",
+   "source": "TradingView",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0lBSzhMdDByeGVPQXZ6bmNZUEo2XzE0ODJ1R3JqUlppSi0ybUtoVkRPemtOZUM4eVdCNjc5UUhSYkt5aTd6WnBaYi1xRWNEbmtiZHRmREhGNnlDbHJjZEMyMGJjYXRkOU5ja1czLXEtV2xFLTlkbGlMamNiTXk5bzk0ZGNkVlpPTzFVVGhVVlI4a055ZWc2VVBuTU5hZ0dEWHA2OVFXTHlTWmVVLUg4?oc=5",
+   "published": "2026-11-02T03:11:00+00:00",
+   "id": "6563e9f40283",
+   "impact": -3,
+   "cat": "géopolitique",
+   "raison": "L'apaisement diplomatique au Moyen-Orient érode la prime de risque géopolitique.",
    "method": "IA"
   },
   {
@@ -6365,42 +6401,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Perturbations du trafic aérien illustrant la persistance durable du risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump imposes new global tariffs, drawing protests from trading partners",
-   "source": "DD News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0NjTmp1aFctaUVTVTdVRVRKc05TVVFmQ1R0bFhsdUtTME45em5rRDZSNFNqeWMyclJZNC11UXV6ZjVwbG81OXM2c1phQTZJclpGVGV5dl9NWHI0c0R2UERQR0Q1VWpXdW9maHJLc3p0cVhUZS1RYmYtQTVBalA1N0lLdjhxZGlHQjZWZmlaNnlYRXN4TjRBQnJxSmtoQQ?oc=5",
-   "published": "2026-10-31T09:08:44+00:00",
-   "id": "8c29902ca370",
-   "impact": 3,
-   "cat": "commerce",
-   "raison": "Nouveaux tarifs douaniers mondiaux attisant les risques d'inflation et de récession.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-   "source": "The New York Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktaLU9ndHRTeW11V3cwLWI1anZkMDJjeXNvZXVONEp2bXA0Z3o2N3BnSmRGM3ZCZURuS3phc2M0N3plU1JGeVN0amJYd21uS0NUNEFtUE1IMFNHaWVoZWpmd05CNkNfRUk4cE1EWjRKbjE2WWgtYUloczRMem1Ya1FIN0ZrMkprRHFHUnlTd000bFd1UE1JdndzamhTeFRWeVQ0?oc=5",
-   "published": "2026-10-31T09:05:41+00:00",
-   "id": "01ca4f9a9d57",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Perspective d'escalade prolongée impliquant l'Iran, soutenant le statut de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Egypt warns US-Iran escalation risks unprecedented devastation across Middle East",
-   "source": "Middle East Online",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXFFeG1RZTlsTXZTZGMxSS1UR0xOUXVOZTVMR2l4WnJncXU4aWJMbDE3bUJyR24wRnU3SUREMkQzMHIxb191akJiTEh1YmFrbGZEelFYR0dCWjNFOUVBU25fTjJsamxvVFg5UkZBQ2lNT3RRSlAxWWpoQ0NVLW5FUVlLOTdsanhPR09ibUJJeW5oUktGbnBuU3AzMHNDV19wVFI3V0hTOWpObFNyUkdFUGNGSFExQQ?oc=5",
-   "published": "2026-10-31T08:43:58+00:00",
-   "id": "6e2ca04eaf5c",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rhétorique alarmiste régionale maintenant la prime géopolitique sans choc immédiat.",
    "method": "IA"
   }
  ],
