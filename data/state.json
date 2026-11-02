@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "e5e0b264a1ce",
-  "20620dd2622c",
-  "f263ff625ffb",
   "51916b9d0101",
   "c6b9e1c3286f",
   "bafe31d086ab",
@@ -4000,9 +3997,24 @@
   "780a156faeff",
   "0d557509ee15",
   "addabe1fdd7b",
-  "9cac17f7fd5c"
+  "9cac17f7fd5c",
+  "25e3b22ae9f4",
+  "11a6f4ebd571",
+  "244f1f4db837"
  ],
  "news": [
+  {
+   "title": "EU 'strongly' condemns Houthi escalation in Yemen, attacks on Saudi Arabia",
+   "source": "Anadolu Ajansı",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3JXTldnVTA2TlU4M3BrdDA3NjNab1RJNnZwUHp3b1FNa0tleTIwVVJDWkNaQjlxZ2JuNnRGWENMMUNrdVoxSFVTTjBDNXRNN25ia0F4bTdZdlR6TXRtSVRSZFNtMDV2Yl9tSkR6YU1JVVNDNVF0OS1iSUFyNzl3WGtKWG42THlpaUtHTmc0cGo2Tjl6enFNZGdQcU1vM1QtY0RzSTZHN1FieWlLT3ZWcUo2Vm9yUFk?oc=5",
+   "published": "2026-11-02T14:51:10+00:00",
+   "id": "244f1f4db837",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump’s Iran threat renews Gulf fears of a war with unpredictable consequences",
    "source": "The Arab Weekly",
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Rhétorique belliqueuse envers l'Iran maintenant un climat d'incertitude favorable à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report",
-   "source": "The Times of Israel",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWluR210TDk5VTZTZHNNRklLcVFDN3A4bDBRTzUxQmJpSmJBcjRTdUctZlB5c3Y3TlBqVm96dXluVV9nUjhVOXJaUkVjRnNkUnZjdjRUVFVoaXpKZEpXdFV4T2NVNXFjWExqZmVxTDFwc2IyRjhaWXZsZWJ3UnduN1F0NFBJOVFLNV9kUm1WNnEwTHhtdG1NdWwwQ0txVXFpREpaT29rdVBRQjJXS0hfSGtn0gG3AUFVX3lxTE9USVRTN3ZxWWV4ZVVWbWRRdXk4ZlM1Y1FGcTJWTFlja2V6MDJ6OXFhOTJ2OEt2Uk9ma3poaWkyMHdaeDBUdEJxWlFqY1hxSHFLczloQ1RYbDY0akMwVzV2TURxeWdjc2M0aUxHM1BlWTRXZHlBdUMzX3VYMUFoWkFrSURtVUFRWmtDa0hVSDR2QjRaOHpRQnBKRlRMZFJ6dXJpOElNczhQUjQ0OS12ZlRIeHNsVUdfWQ?oc=5",
-   "published": "2026-11-01T02:36:32+00:00",
-   "id": "d8518a30b779",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque accru d'escalade militaire régionale stimulant les achats défensifs d'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "pre1h|2026-10-12T12:10:00-04:00": 1791817298.148059,
   "news|22306eb51777": 1791819965.679098,
   "pre15m|2026-10-12T12:10:00-04:00": 1791819966.930864,
   "news|910cce8162fe": 1791820903.411372,
@@ -8002,7 +8001,8 @@
   "big|OIL|2026-11-02": 1793629904.591553,
   "news|fd7b079448ca": 1793630771.3822577,
   "brk|US05Y|pwh|dn|2026-11-02/2026-11-08": 1793630772.535586,
-  "brk|US05Y|h20|dn|2026-11-02/2026-11-08": 1793630773.430967
+  "brk|US05Y|h20|dn|2026-11-02/2026-11-08": 1793630773.430967,
+  "news|244f1f4db837": 1793631703.8457546
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8281,6 +8281,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T15:01:43.845853+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>EU 'strongly' condemns Houthi escalation in Yemen, attacks on Saudi Arabia</b>\n📰 Anadolu Ajansı · Lun 02/11 15:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3JXTldnVTA2TlU4M3BrdDA3NjNab1RJNnZwUHp3b1FNa0tleTIwVVJDWkNaQjlxZ2JuNnRGWENMMUNrdVoxSFVTTjBDNXRNN25ia0F4bTdZdlR6TXRtSVRSZFNtMDV2Yl9tSkR6YU1JVVNDNVF0OS1iSUFyNzl3WGtKWG42THlpaUtHTmc0cGo2Tjl6enFNZGdQcU1vM1QtY0RzSTZHN1FieWlLT3ZWcUo2Vm9yUFk?oc=5"
+  },
   {
    "ts": "2026-11-02T14:46:13.431057+00:00",
    "kind": "breakout",
@@ -8575,11 +8580,6 @@
    "ts": "2026-11-02T00:16:09.219827+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, &amp; Conflict</b>\n📰 Britannica · Dim 01/11 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-02T00:01:41.195031+00:00",
-   "kind": "cycle",
-   "text": "✅ <b>INVERSION HEBDO CONFIRMÉE</b>\nPhase 2 (jeu→ven) : lun→mer = +39.4$, depuis mercredi -145.4$ → inversion en cours ✅\nRetracement actuel : 369.0% du mouvement lun→mer"
   }
  ],
  "daily_forecast": {
