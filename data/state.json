@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "f08fe60302ae",
-  "f88c5194508a",
-  "63393323a984",
-  "db9df8d7b171",
-  "544c890db53d",
   "6cdfdcb13b58",
   "ebd4d9b29727",
   "0e1aa2f020ff",
@@ -4000,7 +3995,12 @@
   "a73b335bb875",
   "22503dc141d9",
   "615114be1841",
-  "dc924f5144b4"
+  "dc924f5144b4",
+  "70e12c59a7e1",
+  "ad89f1129dea",
+  "4e76a440d6e7",
+  "761ecbfbd721",
+  "35b36553e88d"
  ],
  "news": [
   {
@@ -4023,6 +4023,18 @@
    "published": "2026-11-02T17:26:45+00:00",
    "id": "e9189959025a",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US and Iran resume 'very intensive' peace talks on ending war — as Trump threatens new strikes",
+   "source": "New York Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVBkZVlzOTZ5ZXhyMGlkVEt0WW53UWpLU0R1OHVVUlBFcldtakduUTJtY01hSk5PckpuTlJIZnVZbUVwV2plaVBCSEQ5TE91eUFHd2NxckFBUmRVZ3ExRlVOeW94SkU3TTl0OFFISDJQVmNfOWZjeG1ocVpweS05dDN3N3V5TEJOemN6My1pTE84bDFzNXoyTEN4MU0yUmtJRXNlVUJrVDcyZE1mN0F0Z2labjZ6bTk3d2M0eHBSdlA4MmpoaHpwbmhVRVM?oc=5",
+   "published": "2026-11-02T17:15:00+00:00",
+   "id": "ad89f1129dea",
+   "impact": 1,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5204,6 +5216,18 @@
    "method": "IA"
   },
   {
+   "title": "Global Portfolio Manager Digest: Rate Hikes and a Wait-and-See Approach",
+   "source": "富途牛牛",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmNBWU56d21qOTJyWEY3dGpFekZNWkZPRV92ZVNUbkw2dXczNUJKbU9RSGlxZ3NBNTZNc0dCMEtsdzJhTHBhYUF5amNvc3dVR3oyUmg1T1FGczBqejZ0TnhMNTM4WXR2cExTNFJYU1hIM1BpN09PdFQtMWZNbTIyY3dEUWc4TGlVX3MtUDAzR21OX21BeW9VcmQydkh0bVNqa3c?oc=5",
+   "published": "2026-11-02T03:29:59+00:00",
+   "id": "761ecbfbd721",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Gold Price is Attempting to Offload its Oversold Conditions – Analysis –02-11-2026",
    "source": "Economies.com",
    "theme": "Or",
@@ -6377,30 +6401,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Gesticulation verbale iranienne maintenant un climat anxiogène modéré sur les marchés.",
-   "method": "IA"
-  },
-  {
-   "title": "GOP Rep. Turner: 'Not a lot of options' for Trump in Iran - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGkxNDhsdlNIY1p5YURsdlUyR1B6Tk90MGhVYmtTQTRuc19Qbzh0VXZ4Q2tINGtUTXBwS19xYXRNLTBIa1dzcHAyemNXQWVOSWJDQkx3R1B2X0Vpa0VvM1FSeXhmSWRYWW9uenEwT0ljQUVBN29vZVNld3p2ZFg3UHRoTHZoQXItT210Y2VB0gGTAUFVX3lxTFB2TUlZaHAtdTV2MEVrTnlSNUZBNGZPeEZMT2xyV1RwekFyM0hDdkx2dzFNMG03ckh6NXN0dUUzNnNLZEhiLXJLR3hjTE5LZzRELWx0RVZ0RERTUjFYREZkZ3QyYUhvQnBwdHUyR0ktWWdjUUxDYmJDMW9UTW1YYk9mRno2N2ZLTE1LR1VvcHQ1alhoOA?oc=5",
-   "published": "2026-11-01T08:56:22+00:00",
-   "id": "ffde3791f3e8",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Tempère les anticipations d'une intervention militaire immédiate et massive contre l'Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump says US could strike Iran's remaining nuclear sites in '10 minutes'",
-   "source": "Anadolu Ajansı",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclNtN1RfbEt4ajNpQzBGNnJxVkRmN3pQcHBnRHFPRlNrc3R0OFYzQS11RUNicmszR01JWEE4RFA4S3N1cEFObTRCY2xDNTJZcXR5Wms4UDk2ZTdFdjBwUUdYWjNkbm1zd2VTYndqOHdfbVNxSjdTaHdmZmoyQ1BjQXppY2g4MFV3bnpUNTlJT3VidWhwdDBBRWxVUDlFbjB3YmNkWnkxSnh3b2c4OHVxY2ZB?oc=5",
-   "published": "2026-11-01T08:34:14+00:00",
-   "id": "ca0f7866b782",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Rhétorique belliqueuse sur le nucléaire iranien, catalyseur classique de hausse de l'or.",
    "method": "IA"
   }
  ],
