@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793588476.8477135,
+   "ts": 1793592949.0268307,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "7c6c833b871b",
-  "92641a7c0936",
   "166b8c46c010",
   "ee26e00ec623",
   "7ce625dc28ab",
@@ -4000,9 +3998,23 @@
   "5a5d93fc0444",
   "6563e9f40283",
   "6e064c8a48f3",
-  "25dc9ddee597"
+  "25dc9ddee597",
+  "c8d69482fa17",
+  "4c21104e524c"
  ],
  "news": [
+  {
+   "title": "Countdown until US midterm elections are over feels like waiting for war with Iran - editorial",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KRGFHVjhuU1FqNTZFb2tVTlV3bGQwUXZtVXQ1OGE5MHlXTlFneGhMV0szd0FJZ05NWVoyX3BMNVRXUkttMDZtbU53TjUxbG5WLVVVdlJwSQ?oc=5",
+   "published": "2026-11-02T03:58:07+00:00",
+   "id": "4c21104e524c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "United States Dollar Index maintains position amid safe-haven demand",
    "source": "FXStreet",
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Escalade des combats entre Israël et le Hezbollah favorisant la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Middle East Escalation Keeps Singapore Airlines Away From Dubai Until February 2027",
-   "source": "Arab Times Kuwait News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWJXYmZqWU5OVkZaQ2tiNVRULVAxZGJYWWNQLVFwU1RFX21NMHlSdExXZEEzX19rMHRTMnk4MzF4UlhqV0ZIZkRoWFJfRzhNZHVvbHU4N0Jad3RmS3NHRm1BY0RXMUh6aXE2cVZkYTlpb3hia3dOMFRQTTZmaFZDMEx6WTdiMXF1cC1xSVM2N090TVhCS0w4SEFHUGVNUE5La0dRWWNiUDQ0dHBuZFFGbHRQaThMM2VKVXc0ZGdR?oc=5",
-   "published": "2026-10-31T09:09:13+00:00",
-   "id": "1222c77ef19c",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Perturbations du trafic aérien illustrant la persistance durable du risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|adae0d817f10": 1791776763.6031332,
   "news|5ee7f39672d5": 1791778570.9211984,
   "news|75d7b878609c": 1791778571.9180324,
   "brk|COPPER|pwh|up|2026-10-12/2026-10-18": 1791778573.1363046,
@@ -7990,7 +7989,8 @@
   "news|2eff21a9383f": 1793587568.0878785,
   "news|c4d14af7237e": 1793588552.3591821,
   "news|895f762199e4": 1793589549.8050828,
-  "news|218bfa044090": 1793589550.700548
+  "news|218bfa044090": 1793589550.700548,
+  "news|4c21104e524c": 1793592969.0058603
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8253,6 +8253,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T04:16:09.005939+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Countdown until US midterm elections are over feels like waiting for war with Iran - editorial</b>\n📰 The Jerusalem Post · Lun 02/11 04:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KRGFHVjhuU1FqNTZFb2tVTlV3bGQwUXZtVXQ1OGE5MHlXTlFneGhMV0szd0FJZ05NWVoyX3BMNVRXUkttMDZtbU53TjUxbG5WLVVVdlJwSQ?oc=5"
+  },
   {
    "ts": "2026-11-02T03:19:10.700731+00:00",
    "kind": "news",
@@ -8547,11 +8552,6 @@
    "ts": "2026-11-01T03:01:36.066266+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Weighs Quick End to Iran War Against Letting Conflict ‘Wither’</b>\n📰 EnergyNow.com · Dim 01/11 02:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1JUbHZHOXp6eDNRUnRBRGQ0VHRMa0haZ1VRMXNDMXBva01uUmUyZk5qWTZndXg3TWgyV2VyanNyOFlWYk5jZmViZ3kwQS1yUmtWUzlPTjhuN3I0THVhRWc0TGN2UGRzRXdScUd2eHVtazhhWHRCNHduSWFmYnR4a1Z3cHIza05mbkpzeE52dUpFdFJQYTFnMlBzbFBldw?oc=5"
-  },
-  {
-   "ts": "2026-11-01T03:01:35.051926+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report</b>\n📰 The Times of Israel · Dim 01/11 03:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWluR210TDk5VTZTZHNNRklLcVFDN3A4bDBRTzUxQmJpSmJBcjRTdUctZlB5c3Y3TlBqVm96dXluVV9nUjhVOXJaUkVjRnNkUnZjdjRUVFVoaXpKZEpXdFV4T2NVNXFjWExqZmVxTDFwc2IyRjhaWXZsZWJ3UnduN1F0NFBJOVFLNV9kUm1WNnEwTHhtdG1NdWwwQ0txVXFpREpaT29rdVBRQjJXS0hfSGtn0gG3AUFVX3lxTE9USVRTN3ZxWWV4ZVVWbWRRdXk4ZlM1Y1FGcTJWTFlja2V6MDJ6OXFhOTJ2OEt2Uk9ma3poaWkyMHdaeDBUdEJxWlFqY1hxSHFLczloQ1RYbDY0akMwVzV2TURxeWdjc2M0aUxHM1BlWTRXZHlBdUMzX3VYMUFoWkFrSURtVUFRWmtDa0hVSDR2QjRaOHpRQnBKRlRMZFJ6dXJpOElNczhQUjQ0OS12ZlRIeHNsVUdfWQ?oc=5"
   }
  ],
  "daily_forecast": {
