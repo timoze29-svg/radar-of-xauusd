@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "f277c5cb8fc1",
-  "6b0cba5c0bd5",
-  "4c08cf2b722e",
-  "ce5718a5f571",
-  "8af0c65517d2",
-  "a293ae659561",
-  "dd00a885e7b1",
-  "a58521e71e7d",
   "ffcec94b3ecb",
   "e6ceeefed988",
   "7e892b53c863",
@@ -4000,7 +3992,15 @@
   "9252a4c67d93",
   "4dfbfd10c4e0",
   "0264183d1289",
-  "b00226e76d27"
+  "b00226e76d27",
+  "9bd13f213731",
+  "577d5af2328a",
+  "d382215fd415",
+  "3d643e1c2f86",
+  "b1534a71115a",
+  "c3c82f91a9a0",
+  "11f2d289e237",
+  "95bf1b3fd106"
  ],
  "news": [
   {
@@ -4026,6 +4026,18 @@
    "cat": "géopolitique",
    "raison": "Simple rumeur alarmiste d'un commentateur, mais renforce légèrement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Russian Strikes Deepen Ukraine’s Foreign-Aid Needs, Report Says",
+   "source": "Bloomberg",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa21ZbEt4N0JPdlZPdW03ZjRETVhHdmVmLWw0blpJRVhFNm5KQkotZ2RweU5EYW1vSzNjXzBOVzhDdGNVZ3J1QWplQzhvWFdDampDdGIyTWFOdUwtdGpMRFIyZ2xQSDZDUlpsVEUyZUJTR3JmT3BIZHhEUEoxQWp4bTVxLUY3ZlZuOUlkc2lLamRrdlpQYUttREw5dHdDV3pFTWU0OUZUZ1Vtck5Sd0ZPQnpGbw?oc=5",
+   "published": "2026-11-02T07:48:00+00:00",
+   "id": "11f2d289e237",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Military alert in Israel and coordination with Washington in anticipation of potential American strikes on Iran following the elections",
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Crainte de reprise des hostilités soutenant modérément les achats défensifs d'or.",
    "method": "IA"
-  },
-  {
-   "title": "Middle East tensions escalate as Israeli attacks hit Lebanon, Gaza and West Bank; Iran warns of wider conflict if attacked by US-Israel - Muslim News UK",
-   "source": "The Muslim News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZDFIWTQza2Fmb1hDMGlpTkZxZ2tPMElyc0hTRWhyb1g2UFlNSjlZNkUzSDk0cWlEbVpQQUJha2xBaVFJOVRTbDdkQ3JFOFZacWlZZUN1MzhLZzdJc01fUWcxM29lYU1pZktEYkRRcWtzQUJxR2VfTXNsalZoMHJXR19CYkFnT0szd1JSSWl6S3EzUm5ZSEV4Ui1HWDVBV1pWakxhVUdEZEsyR2RCbHhrQk0tajJxSmthS0xrTW9JN3lTb2JrcE4yS0N0aV9vMnRYUXNnYUdpemFMbWpGSTFZYXBOS0FObF9CbklNSzY1YldSOE54cFM1RFdTSWlER0tKMlFHakJrbzFUcTdkb3ZwRg?oc=5",
-   "published": "2026-10-31T16:37:42+00:00",
-   "id": "9c3e90a90b3b",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Multiplication des fronts au Proche-Orient alimentant l'aversion au risque mondiale.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|c01dc63209c6": 1791796747.823738,
   "brk|USDJPY|pwh|up|2026-10-12/2026-10-18": 1791797486.4795465,
   "big|COPPER|2026-10-12": 1791798370.2549276,
   "news|14c2ca81db08": 1791799314.9151938,
@@ -7996,7 +7995,8 @@
   "news|d1c5cdb5e3d8": 1793607052.611461,
   "brk|DXY|pdh|dn|2026-11-02": 1793610473.0554972,
   "brk|DXY|pwh|dn|2026-11-02/2026-11-08": 1793610474.2224262,
-  "brk|EURUSD|pwh|up|2026-11-02/2026-11-08": 1793610475.2895906
+  "brk|EURUSD|pwh|up|2026-11-02/2026-11-08": 1793610475.2895906,
+  "brk|DXY|h20|dn|2026-11-02/2026-11-08": 1793611351.3385675
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8275,6 +8275,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T09:22:31.338620+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas sur 20 JOURS\nNiveau : 101.45 → prix : <b>101.44</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.2 | 60j -0.38"
+  },
   {
    "ts": "2026-11-02T09:07:55.289657+00:00",
    "kind": "breakout",
@@ -8569,11 +8574,6 @@
    "ts": "2026-11-01T15:46:08.732097+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran Warns of Longer War with US as Gulf States Brace for Renewed Escalation</b>\n📰 Kurdistan24 · Dim 01/11 16:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPWl9seHlfdHpJTmo2cEs5M3Nwb0ZFOExrR1AzRVl3QTNxQTVfQzkzZGRBNWtxX0Z5bkZLWjdfbDh1TXg0SHVBbUF4bGQxaUg1Z2Q3MlljZTN3OGxDXzhMaVlOaUlhTXpUMFkyNUZhUk9hajBtc3ZfZnBCZWVHeEJZc1RCalh4OUc5TWQyRnJBS01jdVVER1BzcEdOWFRwWmJhNmpaQTN0UTBOdEJzTzJpUFBEOUc1R1BNdC0xZA?oc=5"
-  },
-  {
-   "ts": "2026-11-01T14:18:22.062284+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran, Qatari mediators hold third day of talks to end US-Iran war</b>\n📰 Reuters · Dim 01/11 14:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5"
   }
  ],
  "daily_forecast": {
