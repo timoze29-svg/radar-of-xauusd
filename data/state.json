@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793648753.3676047,
+   "ts": 1793653277.6631942,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,7 +1001,6 @@
   }
  },
  "seen_news": [
-  "cfb15f7d3f01",
   "686999550269",
   "1abfd7bdc36d",
   "55bb6c2bce0d",
@@ -4000,9 +3999,22 @@
   "678dce50133f",
   "550a3e415bf9",
   "6719327000c5",
-  "ade596c6ab50"
+  "ade596c6ab50",
+  "9faf95bd96f2"
  ],
  "news": [
+  {
+   "title": "Blaming Tariffs Won’t Fix the Cost-of-Living Crisis",
+   "source": "Coalition For A Prosperous America",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1NuM0w4V2VZY1FIbXVkQnhkRVhDWlpjbEVXcklsd0diN3dCV0UtQ1VwbC1zTDlRanJwbFpPN3RFSmdnbE1JdHBQa1V4Tm94eURsY2hkaXNEeDJHUkN1M2Q4SkR6WWtEamZRYzZNc0pjVUt3X0FwMzVoakk3YWhZcFBZcmRTOXdt?oc=5",
+   "published": "2026-11-02T20:55:58+00:00",
+   "id": "9faf95bd96f2",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "How U.S. border state midterm races are shaping up amid ‘insane tariffs’",
    "source": "Global News",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Tension militaire locale en Ukraine n'entraînant pas de choc d'aversion au risque global.",
    "method": "IA"
-  },
-  {
-   "title": "Troops ‘Can’t Feel Genuinely Safe’ as Trump Weighs Iran Escalation",
-   "source": "notus.org",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRldsNU1tUVc3V0xRc1YwQ0M0bTR5RWVidkNhcjZKbDFXcElkb2ljbndvUFZqTi1UZXBsbHIwZHROMjNDNHRvcWQzbVBBazJZdXZDd2xEVWZVVkVBWm5QV2tGQVpkRVlmZF9tYm03TkFGa2RyMlNieTJmWUVlclpla2NLTy1lTGpBV1poSllvRXcxR0dvOUlYYQ?oc=5",
-   "published": "2026-11-01T14:03:53+00:00",
-   "id": "3b2a55e8245d",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Inquiétudes accrues quant à une frappe contre l'Iran favorisant la couverture en or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8006,7 +8006,8 @@
   "news|0404a33e7c9d": 1793648775.8930547,
   "news|7dc9b7edaf0a": 1793649699.8831925,
   "news|c21d1c0fb682": 1793651488.961197,
-  "news|00020fa9855e": 1793651489.8897085
+  "news|00020fa9855e": 1793651489.8897085,
+  "rep|recap|2026-11-02": 1793653482.1385517
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8285,6 +8286,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T21:04:41.260947+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — LUNDI 02/11</b>\nOr : <b>+48.7$</b> depuis minuit · plus haut 3980.8 (17h40) / plus bas 3900.0 (02h00) · range 81$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+8) à 3923.8 → maintenant 3951.7 (+27.9$)\nRange : 81$ réalisé vs ~76$ attendu (106%)\nNiveaux touchés : P\n\n📈 <b>Fiabilité des prévisions</b> : 56% de bonnes directions (9 ✅ / 7 ❌ / 0 ➖ sur 16 jours)\n20 derniers jours : 56%  ·  ❌✅✅✅✅❌❌✅❌❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.23% · Taux 10 ans -3.5 pb · Pétrole -7.91% · EUR/USD +0.27% · S&P 500 -0.51% · Argent +2.52%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Rubio Says Trump Wants 'Peace' With Iran, but Tucker Carlson Claims a Nuclear Strike Could Be Days Away\n🟢 (+10) Ukraine and Russia's emergency alert apps both hacked, residents warned of fake nuclear, chemical strikes\n🟢 (+10) Tucker Carlson says Trump could launch nuclear strike on Iran within days under pressure from Netanyahu\n🟢 (+10) EU 'strongly' condemns Houthi escalation in Yemen, attacks on Saudi Arabia\n\n📅 <b>Demain (mardi)</b>\n🔥 <b>16:16</b> 🇺🇸 Congressional Elections"
+  },
   {
    "ts": "2026-11-02T20:31:29.889996+00:00",
    "kind": "news",
@@ -8579,11 +8585,6 @@
    "ts": "2026-11-02T09:07:53.055589+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 101.54 → prix : <b>101.54</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.2 | 60j -0.38"
-  },
-  {
-   "ts": "2026-11-02T08:10:52.611729+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns new war with US could last longer as Trump threatens ‘the hammer’</b>\n📰 South China Morning Post · Lun 02/11 06:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQWJ6R2RKbHV0dTBfd08xMU9MSE4yVlVCV1huRDZaT09FTXU5cTdtZFpWcGtGcnZJVzNDUFJQb04yaXluQmR4M3BlcVdkSFpodk1oemdhU1Y3ekNYSEFjX0htYTVra0xzRS1BM0gzZlZQcjdEbDJFTXZ4YnRheXlibHpTbEQ0Q2RZZFJkMC1pLVAwS015RHF6ZldOTWszemoyZkRnMWk3NnRYb3VxNDFfdHczcVhVRllocGpzUzA1bGVueEF4Yk1aclhiZ2EyUlRKandDeEthTHRYNlJKUUZRNENDbngxMEU?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8721,11 +8722,19 @@
    "mv": -126.7,
    "range": 154.9,
    "exp": 65.5
+  },
+  {
+   "date": "2026-11-02",
+   "dir": "range",
+   "res": "miss",
+   "mv": 27.9,
+   "range": 80.8,
+   "exp": 76.4
   }
  ],
  "evening_recap": {
-  "date": "2026-10-30T21:01:40.947624+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — VENDREDI 30/10</b>\nOr : <b>-151.2$</b> depuis minuit · plus haut 4034.2 (00h00) / plus bas 3879.3 (20h45) · range 155$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-13) à 4009.6 → maintenant 3882.9 (-126.7$)\nRange : 155$ réalisé vs ~66$ attendu (236%)\nNiveaux touchés : S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 60% de bonnes directions (9 ✅ / 6 ❌ / 0 ➖ sur 15 jours)\n20 derniers jours : 60%  ·  ❌❌✅✅✅✅❌❌✅❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.08% · Taux 10 ans -6.0 pb · Pétrole -0.01% · EUR/USD -0.26% · S&P 500 -1.81% · Argent -5.59%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+7) Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms\n🟢 (+6) Fears of escalation after US elections push oil to highs, Brent already at $117.5\n🔴 (-6) Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps\n🔴 (-5) Gold hits a 4-month low as inflation fuels Fed rate hike fears\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻",
+  "date": "2026-11-02T21:04:42.138509+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — LUNDI 02/11</b>\nOr : <b>+48.7$</b> depuis minuit · plus haut 3980.8 (17h40) / plus bas 3900.0 (02h00) · range 81$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+8) à 3923.8 → maintenant 3951.7 (+27.9$)\nRange : 81$ réalisé vs ~76$ attendu (106%)\nNiveaux touchés : P\n\n📈 <b>Fiabilité des prévisions</b> : 56% de bonnes directions (9 ✅ / 7 ❌ / 0 ➖ sur 16 jours)\n20 derniers jours : 56%  ·  ❌✅✅✅✅❌❌✅❌❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.23% · Taux 10 ans -3.5 pb · Pétrole -7.91% · EUR/USD +0.27% · S&P 500 -0.51% · Argent +2.52%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Rubio Says Trump Wants 'Peace' With Iran, but Tucker Carlson Claims a Nuclear Strike Could Be Days Away\n🟢 (+10) Ukraine and Russia's emergency alert apps both hacked, residents warned of fake nuclear, chemical strikes\n🟢 (+10) Tucker Carlson says Trump could launch nuclear strike on Iran within days under pressure from Netanyahu\n🟢 (+10) EU 'strongly' condemns Houthi escalation in Yemen, attacks on Saudi Arabia\n\n📅 <b>Demain (mardi)</b>\n🔥 <b>16:16</b> 🇺🇸 Congressional Elections",
   "ai": false
  },
  "dp_last": {
