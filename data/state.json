@@ -1001,13 +1001,6 @@
   }
  },
  "seen_news": [
-  "c20a15748dc1",
-  "66f93b7b0b75",
-  "22de4f1974f2",
-  "bd1a09e44c5d",
-  "6f79ddc5a146",
-  "656ee3f849ed",
-  "bfac458403af",
   "2bcce4fec815",
   "36cce35de986",
   "fc0dbd5f26de",
@@ -4000,7 +3993,14 @@
   "8a4555a08320",
   "53e17f411c83",
   "11154c1ce340",
-  "b376986c79d1"
+  "b376986c79d1",
+  "c0cea2fd3c2e",
+  "b1c71ac18c50",
+  "ae7acd5bd716",
+  "ce80e38d23cc",
+  "aaee279195d8",
+  "a8c382aa3db9",
+  "d8ebc0b6b11d"
  ],
  "news": [
   {
@@ -4025,6 +4025,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+   "published": "2026-11-02T12:44:48+00:00",
+   "id": "ce80e38d23cc",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Préparatifs crédibles de frappes imminentes au Moyen-Orient renforçant l'attrait pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
-   "source": "The Japan Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KeW1GQ01OYkk5NGJWdHUxOXNPTkNOWUxlZW1zR3hTMm1EckNyYlBVNUdsT21wMVRWSkJ0M3hib2xpYmtYVzYyemxHU3hoOVg5TTZtSXFoaHVuQlBvYnVuTk1zamhfcmFkQThyWE5hN3h2bkRtRW5xcThLNjk?oc=5",
-   "published": "2026-11-01T00:55:00+00:00",
-   "id": "5111320a6fab",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes et menaces de riposte maintenant la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8000,7 +8000,10 @@
   "news|713000876d49": 1793623576.3652253,
   "rep|update|2026-11-02": 1793624695.4287217,
   "news|a9a25c8a6b23": 1793625389.711266,
-  "news|53e17f411c83": 1793627172.3397863
+  "news|53e17f411c83": 1793627172.3397863,
+  "brk|US10Y|pdh|dn|2026-11-02": 1793628101.410815,
+  "brk|US10Y|pwh|dn|2026-11-02/2026-11-08": 1793628102.3302724,
+  "brk|US10Y|h20|dn|2026-11-02/2026-11-08": 1793628103.2685199
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8279,6 +8282,21 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-02T14:01:43.268613+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas sur 20 JOURS\nNiveau : 4.908 → prix : <b>4.906</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.11"
+  },
+  {
+   "ts": "2026-11-02T14:01:42.330352+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 4.908 → prix : <b>4.906</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.11"
+  },
+  {
+   "ts": "2026-11-02T14:01:41.410864+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.908 → prix : <b>4.906</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.11"
+  },
   {
    "ts": "2026-11-02T13:46:13.759344+00:00",
    "kind": "bias",
@@ -8563,21 +8581,6 @@
    "ts": "2026-11-01T23:16:04.992564+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump has not decided on renewed Iran military action: Rubio</b>\n📰 Arabian Business · Dim 01/11 00:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-01T22:16:08.706071+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, Netanyahu discuss Iran as Tehran reports tanker explosions in Strait of Hormuz</b>\n📰 Ynetnews · Dim 01/11 22:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbUc0c2hsZWh1cUQ4VHZoYUdMVnFNdjFtSHVRZ3BJVVFOcG9neXRwbXh3T3BXNlBDdU4tNWdDS2xJY3hkNUFYMm9hck1UMFpmbzNwblZB?oc=5"
-  },
-  {
-   "ts": "2026-11-01T22:01:45.969406+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Israel Will Attack Top US Gulf Ally &amp; NATO Nation Next': Iran's Rezaei's Explosive Warning | Watch</b>\n📰 The Times of India · Dim 01/11 10:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOcUtLLTBaaDc2cXRNdFlXenpmMmo0WUVDRmh2TEkzWUZwT2FMS3kyNTl2VUR6b3Y5TGVPc1dnaDlFV0R2REJOTmswcHZkMjJKZE96OTVlUmZUdTZGcW9EeExXSjZhQ3pHMUJ0eGlxbTEyb0hMdzBvVTc4UnJDdFozbXFqTGN6SW5WWEJsUU9jMWxwSG9LRGVsaFM0RjItMlc4elpfaWxJN3RaU21qQm5xY2F4Tl9DUzh6UlBxX3UzTlJVZnpvLW11cnVJQy1xa3VBLTRnT01oNW02ZlZ2TzhTd00zQndZdXZEVkIyQTIybE5uWWlMOVFEQ2dMdTJMcmwt0gGGAkFVX3lxTE8zLVU3dFhMVkpmbk1ySmRrMlY3RDUzMzV6emJNa1RXVU5rcjF6cWNTV3dBZzFnRnpFZk5oMjcxSWs5SUxHcVc3aVQ4Q1AxMEZXTm5VbDlRZ1dsREJMQjc2TkdueUpoWU9pM3dwR3FqMmpqMDVVZ3JOcFMwQlV1R05Td1hsR0hSdjhsUVpJMlU4QkQ4cTFGbWx6VzBvcTNVanAwNkdKOEVackYzODFLQXNKUk00RmJzSkNxREhxWlM2MnYxWmRjQnJkQzFES2F2UVdVX0JSclg4bzRxOVBwTEs3WEdEckZXel8zR25nczFncFpOaTlUYnNQQmNKUWI4X2RTUHZTTVE?oc=5"
-  },
-  {
-   "ts": "2026-11-01T22:01:45.089606+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Netanyahu pressed Trump to resume Iran war after US midterms; president undecided</b>\n📰 The Times of Israel · Dim 01/11 19:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVRYX3JzMmwyZ1NrZG1PaGNfRld5Z1U2N3VZdFlld0xleldDMFY1Z1lBLUdLdTFVeG9GLXVjRFUzV3E2M1UyQlVPRGlVWmRMQU5mTGJoRzdWaHZQVzUxOExsbWN5TGktMkhkOVJNYjExV1FIcFBGMFF6UEd0WkhYTFJMaFMxOTdxa1VxeXZlVHRmdU1sMm10Z05NYzFtbmdiUldmMzVybWxiOXdJWDBiMnFqUkdZbGc0WWVkM1B6YUc4S1BZeHRIbHFTV2NBQQ?oc=5"
   }
  ],
  "daily_forecast": {
