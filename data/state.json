@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793666754.242503,
+   "ts": 1793670354.518895,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "752402cdf8eb",
-  "d2f92597d248",
-  "bf3dc307873c",
   "3c2bf221823d",
   "f7834a3500ef",
   "f44e514a8620",
@@ -4000,9 +3997,24 @@
   "d135a0c1c637",
   "e9b6395cb8dc",
   "fce82ef8f313",
-  "ff79bd9783e9"
+  "ff79bd9783e9",
+  "47d3fd24324c",
+  "c11859a91ece",
+  "a5df66ccfcf0"
  ],
  "news": [
+  {
+   "title": "Oil rises after report of US strike on Iran's Qeshm Island",
+   "source": "Reuters",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5",
+   "published": "2026-11-03T01:27:00+00:00",
+   "id": "47d3fd24324c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
    "source": "Al Jazeera",
@@ -6390,30 +6402,6 @@
    "cat": "géopolitique",
    "raison": "L'option diplomatique avec l'Iran atténue la prime de risque géopolitique sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump holds call with Netanyahu over state of Iran war: report",
-   "source": "Arab News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHNUUXBSTWdURW14R1NoQXMxbUNaMW1HbWYyZ0xWNTNNM2ZzYnY5U0V4d1hCemYxeEF4M1dXTkItU29GZmdkSUxENkV2ZzRjM1I1N0wwWUVfeWZMRXhyRkhsNmFUSmhFZWh1YnhPMlBKZGNmSEFEVUZFUGpLa0tWVzJoMFJnSTdqV0gwOVFadHNRenJ4UklTY0Zic1pNZi1OQnFuS1g5Y1NsZw?oc=5",
-   "published": "2026-11-01T19:31:24+00:00",
-   "id": "43a772701801",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Discussions militaires actives maintenant une prime de risque géopolitique modérée.",
-   "method": "IA"
-  },
-  {
-   "title": "Carney says Canada, US to work towards trade deal in coming weeks after call with Trump",
-   "source": "Firstpost",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1VVVnZkUkZkeDRkZWlfNUhQektyTHRwRHk5dHZSZ0l2TzNCd0s1VGgtNGVpOWlZU0xoSXJFTU1zU2JOd3NMUHJBTWRQdVVSanJCcVJzd0kwdHdSUzVnbWtRSUJNQUJ5eGNsRDFSaUp1eUtLWUJleHFQbnhxVFNUTThHTWNDWEtYOTk5UTN2SW44WjBzTjZiSl8yRXpZVjFCNHJraUM2OGxyazdHRl9QQk1hUFVYUUk2X1J2WTZoMFlqalRVaVNGRTh2M2TSAdIBQVVfeXFMTnNXdnNkaEkzUUVoNHNaWnY5U2NwTTdYYjNpdDhXdWx0Rm1ROTk4V0c3QjRLZVRPakkzejA1cER1ZEtqWHdHRlpHNE5tczN3S1cxN1NMdl9hMVV3TzFpLWRiZHZzZVJ0NjRMVmRYSk9FOWJrekJHSW54SGZGNHRHMkVMMzVSdDROMEp5NGpLdVZoWkkwU2dsamlfUkpzQUp1QjJxM2xQQVgzVDM3QjU2ZC1QRlhrTUtWLVhHY29ldnNSMWxGaWxZQklQTUhCYzNVUjVB?oc=5",
-   "published": "2026-11-01T19:22:50+00:00",
-   "id": "d19aa284c180",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Dialogue bilatéral apaisant le spectre de hausses tarifaires immédiates.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8026,7 +8014,8 @@
   "news|6eaaaf77e0a4": 1793664101.9593585,
   "news|34b52d4c14fb": 1793665882.3340216,
   "news|e019eae62ee8": 1793667702.4900699,
-  "news|fce82ef8f313": 1793669581.3595762
+  "news|fce82ef8f313": 1793669581.3595762,
+  "news|47d3fd24324c": 1793670430.0036242
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8305,6 +8294,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-03T01:47:10.003739+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil rises after report of US strike on Iran's Qeshm Island</b>\n📰 Reuters · Mar 03/11 02:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5"
+  },
   {
    "ts": "2026-11-03T01:33:01.359673+00:00",
    "kind": "news",
@@ -8599,11 +8593,6 @@
    "ts": "2026-11-02T12:46:15.534068+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil drops over 4% on hopes of progress in talks on ending US-Iran war</b>\n📰 Business Recorder · Lun 02/11 12:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQbW5HVEVXTXIyTWs3ZzdFbURDQWxtN0E5MGxzczU4Vk1jU2YyY3g2T0NoMzJRNEo3a3lRQjR0dWlaU2ZTTGtPWkhjdVZTZmgwZkF1VXM0NkxxM0RUMHBqQjRNQzBKOVNMd21UdEFDUGdxdzNKenF1Qms1YnBxak9MeFFhSHcyX1IzYW9fTWlNeHdzMi1iYU9SUkNKUTlRV05LWVRpS0hJT0JMTWx30gFWQVVfeXFMT2tDcDhDazFrUktCTGZnVlpmUHlWQnJ2LU9HUGdVcjh4bHdLanVHNGt3cG5PWW1IODZzcmdncWo4Q1lsN1FHNWpRaHZZOFV3VmF5cTBDanc?oc=5"
-  },
-  {
-   "ts": "2026-11-02T12:46:14.647646+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Psychological warfare: Iran, US and Israel show off war damage, trade nuclear warnings amid possible renewal of strikes</b>\n📰 WION · Lun 02/11 12:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMFVSc2NFUlg2d0tfN2xkSXhWZmRWYkZvamx0VXJxTVZxVDhxa2RWdGNrdzJsbmZnNjNRMHBfM0RGX2UyT1duanRoWU5Md1cyUlVFYnVNbEhoaHJCbU9FVDZhVTRLd2lqUjJiOTVMZU42RVBkdmNRN0lDb1VNSWhvOE4zR09qSzQ1NUJOS0hkSWUtR0dWaDBHUjBxdG9ySFJRNnM4bGFxTU9zamNDanpnT0tHeUMyX09sbmRPLWdvVUxMWlhlV3VMZDBjM0lURDJNUkM4c0haaVNJTk5OeFFmTDFmNWpHbnhwSHItaEtvdHY1d9IB9wFBVV95cUxNbVJZdmFUMDBxdmJjVTdWRk9mS0FxWjNPM3dOYW5EcjkxdmRldHQ5cVB5b1BLSHFNT21XNzZUUzkxRVRzbEVpNDlCTEY4YmpqRThqUzhDR1dRUkhwVHl1bkEyRFVveDRBNDlSa3JUVmJkblhsRGkzdWtPcjg3QmNYaGdBUTRWMVdDOFJwUHRxNFRJaGpPRXZkbDVvNzMzbXJ1U0RyVzd2OUN2bHhYalpGcmVldW56N05NZDNsVklLTXFGQ0xhNmVYOWxoY3FJa0E1YXNkZDZLekhObVJaQWRJcDl2UHZtbjlCU2x2a2xqRFJCNkpMUjBz?oc=5"
   }
  ],
  "daily_forecast": {
