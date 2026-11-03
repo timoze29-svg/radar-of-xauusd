@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "ce52403842ad",
-  "87f099edfe87",
-  "a841e7264c13",
-  "de7c190680cf",
   "a9a65a5f7cbd",
   "30fe93320055",
   "d770af9ea69e",
@@ -4000,9 +3996,25 @@
   "d44acc769170",
   "1c95f41a89bf",
   "455e1af99a2d",
-  "26c8608ca640"
+  "26c8608ca640",
+  "57633ffb680a",
+  "d7e87d368b0b",
+  "c6ce801475c5",
+  "bf786aa81bb8"
  ],
  "news": [
+  {
+   "title": "US-Iran war news: US conducts defensive strikes in Strait of Hormuz; Benjamin Netanyahu pushed Donald Trump for more Iran strikes",
+   "source": "ABC7 Chicago",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcnRsNF9UWTFSUUN5S3BrelRwMnFDaHpJdC1SSjdHclFHZ0JLcEVKZ3lLMkxvRFdWZzNuSDNTdmJadzhaQmNiN1ZKQVJ0OTBzN1FrQVBFcC0tRXVoMHpueXc1V1pWOUtpbE9ucDcxR2FxQ3NEX1NiS2w4eTh2ck04SHdLT2hFbU8yWjdleGJlUTYyRWZpM1FoTTh5NE9OMFFWMzVRWW5rN05ocVdxQ1BJX3dNcGphdC1SMkVIazZvckxNUC1sek9DeXlkdm9XWHE3dWtaZ0gyV2x3N2t5d3hjelV1MWZsaWPSAewBQVVfeXFMTWdWZ2hJaVFTMndmb0xXNktTTjZERXNxeWYzcUxHTnh0UURCWm5Ib2hodnhtVG5MMXRKc21sUldadFh6cE9FZW5vZDU1QURtOG9WMnA0NUVvTzVaMkFHY1V1VXVKWkxnMElBT0xaRXRfVDZnMnlCcndaSEVJc1NIY1Y1M0hTbzhDclNNemNpYmtJX0pzZDlPQ1EtakE1YWdaSU5jLTlXSVN1OUxNR216RVg0ZUNEd2hHRHhqc255bWJuOU1NZWF5WFdkZVktTlh4aFBpdHNhS1NUQmw4ejlTTHFrSzhTdkVaMnZDYXo?oc=5",
+   "published": "2026-11-03T02:15:00+00:00",
+   "id": "d7e87d368b0b",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
    "source": "AP News",
@@ -6390,22 +6402,9 @@
    "cat": "commerce",
    "raison": "Progrès commercial apaisant les craintes tarifaires et réduisant l'aversion au risque.",
    "method": "IA"
-  },
-  {
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk?oc=5",
-   "published": "2026-11-01T21:01:58+00:00",
-   "id": "b0787b386db5",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Reprise des frappes en Ukraine, soutien géopolitique mineur et habituel pour l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|ce229fd3d11a": 1791857769.9791424,
   "news|0865b74e459b": 1791859564.6829875,
   "news|4421098d6c74": 1791862289.666856,
   "news|d448b81255c9": 1791864966.7761626,
@@ -8016,7 +8015,8 @@
   "news|fce82ef8f313": 1793669581.3595762,
   "news|47d3fd24324c": 1793670430.0036242,
   "news|fefd586412e9": 1793671302.1350873,
-  "news|2286de3db1d6": 1793671302.9840283
+  "news|2286de3db1d6": 1793671302.9840283,
+  "news|d7e87d368b0b": 1793673097.7823193
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8295,6 +8295,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-03T02:31:37.782410+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Iran war news: US conducts defensive strikes in Strait of Hormuz; Benjamin Netanyahu pushed Donald Trump for more Iran strikes</b>\n📰 ABC7 Chicago · Mar 03/11 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcnRsNF9UWTFSUUN5S3BrelRwMnFDaHpJdC1SSjdHclFHZ0JLcEVKZ3lLMkxvRFdWZzNuSDNTdmJadzhaQmNiN1ZKQVJ0OTBzN1FrQVBFcC0tRXVoMHpueXc1V1pWOUtpbE9ucDcxR2FxQ3NEX1NiS2w4eTh2ck04SHdLT2hFbU8yWjdleGJlUTYyRWZpM1FoTTh5NE9OMFFWMzVRWW5rN05ocVdxQ1BJX3dNcGphdC1SMkVIazZvckxNUC1sek9DeXlkdm9XWHE3dWtaZ0gyV2x3N2t5d3hjelV1MWZsaWPSAewBQVVfeXFMTWdWZ2hJaVFTMndmb0xXNktTTjZERXNxeWYzcUxHTnh0UURCWm5Ib2hodnhtVG5MMXRKc21sUldadFh6cE9FZW5vZDU1QURtOG9WMnA0NUVvTzVaMkFHY1V1VXVKWkxnMElBT0xaRXRfVDZnMnlCcndaSEVJc1NIY1Y1M0hTbzhDclNNemNpYmtJX0pzZDlPQ1EtakE1YWdaSU5jLTlXSVN1OUxNR216RVg0ZUNEd2hHRHhqc255bWJuOU1NZWF5WFdkZVktTlh4aFBpdHNhS1NUQmw4ejlTTHFrSzhTdkVaMnZDYXo?oc=5"
+  },
   {
    "ts": "2026-11-03T02:01:42.984276+00:00",
    "kind": "news",
@@ -8589,11 +8594,6 @@
    "ts": "2026-11-02T13:04:54.575912+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:04</b>\nPrix : <b>3910.20</b>  (-13.6$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (+8) → maintenant +15 (Haussier)\n✅ Le range TIENT\n📏 Range fait : 28$ sur ~76$ attendus (37%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Psychological warfare: Iran, US and Israel show off war damage, trade nuclear warnings amid possible renewal of strikes\n🟢 (+10) Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps\n🟢 (+10) Russia and Ukraine given fake warnings of nuclear strikes in cyber attack\n🟢 (+10) Oil falls on Hormuz deal hopes as Trump keeps strikes on the table"
-  },
-  {
-   "ts": "2026-11-02T12:46:17.601478+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+14), Sentiment news 24h (+12)"
   }
  ],
  "daily_forecast": {
