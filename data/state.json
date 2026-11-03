@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "8a79a5f2e149",
-  "6815acc8dca7",
-  "aec52514e283",
-  "01ed6f671ab5",
-  "a6034bc1b346",
   "5990a1d1beb8",
   "d336868452c7",
   "2ce19641d184",
@@ -4000,7 +3995,12 @@
   "5ccbadfa4983",
   "f9904277f995",
   "e1a767794758",
-  "d5dc4b7f1a18"
+  "d5dc4b7f1a18",
+  "583cac0782dd",
+  "4dbe1fec83df",
+  "19783516c0ff",
+  "94fd9794ab2e",
+  "f16e5dd753b8"
  ],
  "news": [
   {
@@ -4196,6 +4196,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8?oc=5",
+   "published": "2026-11-03T02:00:00+00:00",
+   "id": "94fd9794ab2e",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
    "source": "AP News",
    "theme": "Trump / Iran",
@@ -4325,6 +4337,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russian bombing kills 26 in village in southeastern Ukraine, emergency services say",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5",
+   "published": "2026-11-02T23:51:45+00:00",
+   "id": "f16e5dd753b8",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4625,6 +4649,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Dollar Falls with Crude Oil Prices and Bond Yields",
+   "source": "TradingView",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1Jma0FWdjF0OWpabTRDMEZQN3VOa3dpcGJaWTZsNWdrbERpY0w5ZVUyQ1lMTFpsWmZIUk8yRURUUF81MU9rS2djR3h4OUpuSWdueUNMVEFWZEU4cHhoOU9ZMDZQb2VFZ3lNMnpEbHFyOEQ5N2JZdzNtajdkaDdTaXFkR1JDWmtOa3A3M1BYNDNIT00zT243UVF2Wkc3V2FQTTVkeGd6OGR2VE5kNkE?oc=5",
+   "published": "2026-11-02T20:35:38+00:00",
+   "id": "19783516c0ff",
+   "impact": 5,
+   "cat": "dollar",
+   "raison": "haussier or (dollar)",
    "method": "mots-clés"
   },
   {
@@ -6365,42 +6401,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Espoirs d'apaisement avec l'Iran et baisse du pétrole réduisant la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil drops 6% as Iran signals openness to peace talks",
-   "source": "Business Recorder",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zS0ZXU1ZjUVlUTEd6a3JuTElaMEExWFd0V3BEX1hRYTdVVXNTa3JPOE9JR2pHZTJOTnZBbnpLeG4tdUhETUZvcEktYmlNVy1h0gFWQVVfeXFMT2tDcDhDazFrUktCTGZnVlpmUHlWQnJ2LU9HUGdVcjh4bHdLanVHNGt3cG5PWW1IODZzcmdncWo4Q1lsN1FHNWpRaHZZOFV3VmF5cTBDanc?oc=5",
-   "published": "2026-11-02T02:40:07+00:00",
-   "id": "062749be4674",
-   "impact": -3,
-   "cat": "inflation",
-   "raison": "Baisse marquée du pétrole réduisant les anticipations d'inflation et apaisement des tensions géopolitiques.",
-   "method": "IA"
-  },
-  {
-   "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-   "source": "CNBC",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11eUlzaXI3dkRUenBJc3owdTRDRVUwR09hSmgxT3JnZzgtaDdxYnFFUnBCcVNBNWNwTld6Zy16Wkd3aFhkMjhmYVhOSnVBbGxHOE9GX2x5bWVxbHUteXQwTnI5WThiV25rdTN1YlNDSkQzQnpQaUHSAXtBVV95cUxNM01TMzdYYUozdjc1Qmd0S1YtVXVKMklRNVFieFRMdG1OenhzZXZ3VEhnMVlTUHpLUFJyOUZaQkpXWG9SdFlPTUh3ellpYk1FRHpIQXRHalczUXptZ1JUNnJxeWJpc2NrcUIwQVlpc3RYOHBwdC1xNHdrcmc?oc=5",
-   "published": "2026-11-02T02:38:00+00:00",
-   "id": "2eff21a9383f",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "La diplomatie tempère l'escalade, mais les préparatifs militaires maintiennent une prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "'I Want To Be Nice': Trump Signals Possible Fresh US Strikes On Iran, Discusses Move With Israel's Netanyahu",
-   "source": "NDTV Profit",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXFVeHZsVWJndmhIRFdiSWRXeC1FVUlYLWVSTF9WdXJqV19sTnBFY2pPNDVkM1VubXRiWnNDVDhKbWJzMlJ3LXNlWjVodTI4UVZjdzliUm43NXFPUVB0cUtOUVBGY01fS1ZvS0QzOGhaSlRycFZMVDVZdkl1eGtSSjR0ZTNwUlpYYVBKWVpRQjhTalVDNGV0S2JfUklZZEhHY0tPcGw5Qnh1RkhVUXI0cERTVjA5NW1KRWd2cmlUbnpnTzVod2RQN3NUX0xkeUx0cFRMTmw2ZllBT1p0TlHSAeYBQVVfeXFMUEFBaWw1RXEzMkxFWnJWMWlSQnREcV9OWFhNendiZzhtOENwUENnN29IdTZRU1RqSkFReGVjSFgxRjZnMWdCNTdOdTZtSVR1QnVzY3B2TWphSF9EdHdYX3ZMMjZiM1dIZDJXZWtpdmNXTUpodnloUDJGYm5wVG5DMmc5ZHpCaU1zeElJc0ZwU2J1RnE3M1g0OHZiMUZGRExZUkpsOGJsUng3Rk52QWZ0cjNkbmtDQlEyazRJU3ZhMWFnNmRNUTdwQUhXUVdtbHBWMnhmVzFPbktOblRDYUpsa01FUkZiMnc?oc=5",
-   "published": "2026-11-02T02:34:42+00:00",
-   "id": "c4d14af7237e",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Menaces de frappes directes contre l'Iran alimentant fortement l'attrait pour la valeur refuge.",
    "method": "IA"
   }
  ],
