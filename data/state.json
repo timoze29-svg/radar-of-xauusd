@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "8bd47f1691d6",
-  "93f66fdfb5e3",
-  "d022c9fb8145",
-  "c5639dfcaf34",
   "26a0f5e96664",
   "f2771cf40d71",
   "7fe38c344db2",
@@ -4000,9 +3996,25 @@
   "747cc93ddc40",
   "2fa320d550ec",
   "889131d0dfaa",
-  "fc34ff611ed8"
+  "fc34ff611ed8",
+  "34b52d4c14fb",
+  "5477fe3608fe",
+  "e6123dd542de",
+  "0797bd0dd9d6"
  ],
  "news": [
+  {
+   "title": "US-Iran war news: Israel's Benjamin Netanyahu wants Donald Trump administration to carry out new Iran strikes, officials tell AP",
+   "source": "ABC7 Chicago",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcnRsNF9UWTFSUUN5S3BrelRwMnFDaHpJdC1SSjdHclFHZ0JLcEVKZ3lLMkxvRFdWZzNuSDNTdmJadzhaQmNiN1ZKQVJ0OTBzN1FrQVBFcC0tRXVoMHpueXc1V1pWOUtpbE9ucDcxR2FxQ3NEX1NiS2w4eTh2ck04SHdLT2hFbU8yWjdleGJlUTYyRWZpM1FoTTh5NE9OMFFWMzVRWW5rN05ocVdxQ1BJX3dNcGphdC1SMkVIazZvckxNUC1sek9DeXlkdm9XWHE3dWtaZ0gyV2x3N2t5d3hjelV1MWZsaWPSAewBQVVfeXFMTWdWZ2hJaVFTMndmb0xXNktTTjZERXNxeWYzcUxHTnh0UURCWm5Ib2hodnhtVG5MMXRKc21sUldadFh6cE9FZW5vZDU1QURtOG9WMnA0NUVvTzVaMkFHY1V1VXVKWkxnMElBT0xaRXRfVDZnMnlCcndaSEVJc1NIY1Y1M0hTbzhDclNNemNpYmtJX0pzZDlPQ1EtakE1YWdaSU5jLTlXSVN1OUxNR216RVg0ZUNEd2hHRHhqc255bWJuOU1NZWF5WFdkZVktTlh4aFBpdHNhS1NUQmw4ejlTTHFrSzhTdkVaMnZDYXo?oc=5",
+   "published": "2026-11-03T00:11:15+00:00",
+   "id": "34b52d4c14fb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
    "source": "Axios",
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Pressions d'escalade contre l'Iran, mais temporisation américaine limitant la réaction immédiate.",
    "method": "IA"
-  },
-  {
-   "title": "Live - UKMTO reports vessel hit in Hormuz as IRGC claims two tankers struck mines",
-   "source": "Iran International",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
-   "published": "2026-11-01T18:36:11+00:00",
-   "id": "aa0336f2e325",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Attaques physiques de pétroliers à Ormuz : choc d'approvisionnement et ruée vers l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|197453f96c1f": 1791851480.715605,
   "news|1015d22d58be": 1791854173.715902,
   "news|1287b29bef69": 1791856891.917158,
   "news|ce229fd3d11a": 1791857769.9791424,
@@ -8013,7 +8012,8 @@
   "news|bc82050a1036": 1793661376.9975748,
   "news|139709cc87e2": 1793662291.1375825,
   "news|07bfd8be54e0": 1793663178.926271,
-  "news|6eaaaf77e0a4": 1793664101.9593585
+  "news|6eaaaf77e0a4": 1793664101.9593585,
+  "news|34b52d4c14fb": 1793665882.3340216
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8292,6 +8292,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-03T00:31:22.334091+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US-Iran war news: Israel's Benjamin Netanyahu wants Donald Trump administration to carry out new Iran strikes, officials tell AP</b>\n📰 ABC7 Chicago · Mar 03/11 01:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcnRsNF9UWTFSUUN5S3BrelRwMnFDaHpJdC1SSjdHclFHZ0JLcEVKZ3lLMkxvRFdWZzNuSDNTdmJadzhaQmNiN1ZKQVJ0OTBzN1FrQVBFcC0tRXVoMHpueXc1V1pWOUtpbE9ucDcxR2FxQ3NEX1NiS2w4eTh2ck04SHdLT2hFbU8yWjdleGJlUTYyRWZpM1FoTTh5NE9OMFFWMzVRWW5rN05ocVdxQ1BJX3dNcGphdC1SMkVIazZvckxNUC1sek9DeXlkdm9XWHE3dWtaZ0gyV2x3N2t5d3hjelV1MWZsaWPSAewBQVVfeXFMTWdWZ2hJaVFTMndmb0xXNktTTjZERXNxeWYzcUxHTnh0UURCWm5Ib2hodnhtVG5MMXRKc21sUldadFh6cE9FZW5vZDU1QURtOG9WMnA0NUVvTzVaMkFHY1V1VXVKWkxnMElBT0xaRXRfVDZnMnlCcndaSEVJc1NIY1Y1M0hTbzhDclNNemNpYmtJX0pzZDlPQ1EtakE1YWdaSU5jLTlXSVN1OUxNR216RVg0ZUNEd2hHRHhqc255bWJuOU1NZWF5WFdkZVktTlh4aFBpdHNhS1NUQmw4ejlTTHFrSzhTdkVaMnZDYXo?oc=5"
+  },
   {
    "ts": "2026-11-03T00:01:41.959444+00:00",
    "kind": "news",
@@ -8586,11 +8591,6 @@
    "ts": "2026-11-02T12:46:12.909806+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran</b>\n📰 Financial Times · Lun 02/11 12:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlFWlBkbjhDNnRfR1RhcC1JY3k4ejczWDdMQkdGd2JHcGJQeUg3ektpR19odFE1S085aGJMZFpjdEg2a3laUW4tWEtYVE9jQThjRzllRjZKWUxydGx3RVU5SGlFd2pGMEk0Z1FIZ1JRS184WTBJUU92cjZUWE9yZmwxZi0?oc=5"
-  },
-  {
-   "ts": "2026-11-02T12:46:12.026477+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's Iran threat renews Gulf fears of a war it didn't choose</b>\n📰 Reuters · Lun 02/11 13:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJwa2lIdnVGZzJIX3NYSDNzLU9mUTU5MjVBeGFmbmNOR1NiQ1I0a0J6OGdnd2VhbHd5ZWZMakp3NzlwcFJ6OVZDcmc4T0FSQ2lORnltSk5md0psZ19nd3ZtRmE2Vlg3bHdBY3JQV3hMbko5NlFJY2dRVVRsTkJ3ajZVOFQ3clU1eHFBQnFUZUg1SV9takV2bVllN2ZVNHRuanMzLWh5REkzaU9vYWw4?oc=5"
   }
  ],
  "daily_forecast": {
