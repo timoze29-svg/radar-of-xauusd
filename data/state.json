@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "2d6a601e8c36",
-  "e464102d50fb",
-  "ca4f0e67feb9",
-  "237555dfcde5",
   "1e979277d7df",
   "2480db3ddadf",
   "7abdf8413723",
@@ -4000,9 +3996,37 @@
   "e7797883e6d5",
   "dbf230c1fcba",
   "d8ffa90838ef",
-  "b4e0ca931733"
+  "b4e0ca931733",
+  "7d0fbd59f938",
+  "37c2e636a6a3",
+  "cc2642b9d60c",
+  "f6b6315b22b3"
  ],
  "news": [
+  {
+   "title": "Christina Bohannan says Trump’s tariffs are costing families $4,200. That’s Mostly False.",
+   "source": "The Daily Iowan",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3VqTHdUTDh2MGJ1V2NwTGJzblVPN3JwVzFaX3E1WC1mRjgzN0hXMTBDaHp3bVpFNTZQYzBJX3VmbWVCWGZEZjkxZ3ZQUVdLeUFVeFJNTlJ0LVJjTGxCLWJEOWlRRENXTXhIZ3hVdnJBUFFYeEJ4WjRyNFBLejNLaHFUZ1lVN1F0Y3Y1STh6U0FaY1p4RFl3cUhUNmlMTFpqX2diVGdjUFhnTGgtX09sbTdzdHZWZGxHUkE?oc=5",
+   "published": "2026-11-03T14:10:09+00:00",
+   "id": "cc2642b9d60c",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran: US strikes Qeshm Island. Trump: ‘Military aid to Israel to end by the end of the year’",
+   "source": "Il Sole 24 ORE",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWFtTmsxdWw1MnlJeGYxWlg0UEIwWmZOLUJMdklIUDl5enlWMnZlTjJyRWhXbG0tRTVSdlFHQnQ5b2NFZlMtX1l2b0FPOVViR2dJbUZTdGxJQnJyZzJQaXI2bS0zOG1ueVFweUhOWC10SnpVYk9ic21Tc3hMLXBPWWJ1MzJVaXQ5YzU4dy1reGhLb0hvMk9QMS1NeGZ1aUw3My1ISDVWX05iM3BDTmln?oc=5",
+   "published": "2026-11-03T14:07:26+00:00",
+   "id": "37c2e636a6a3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
    "source": "CNBC",
@@ -6378,30 +6402,6 @@
    "cat": "commerce",
    "raison": "Rhétorique protectionniste légèrement inflationniste, mais simple bruit électoral sans impact immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "Dollar Rallied Last Week Amidst Rate Hike Bets",
-   "source": "RTTNews",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFRKYlNydGV5UE5acUJjeFBiLTVKRTZTbkxxbGpna19HcXJQOHdYdW9USWx1QWVFSWhKRkk3cFA3SWNCQ2dpdERUX2l5bnlzRGFSZDdSeV9MQW9XbFdjNVJwU2RHNmRlam1MWnBEUU55WUsxSm9PbHQxVDNLVXBCeko2a0N5TGRaTDl5VE9VRy0?oc=5",
-   "published": "2026-11-02T12:05:00+00:00",
-   "id": "de978114ad9e",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia and Iran challenge IMO shipping lane debate as conflicts threaten further escalation",
-   "source": "Lloyd's List",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX29US09PWW0xbUlaS3dYSkdTZmNIejFwWjRFekFTbVY5Q1RabF84QXAxSEtoSmpBUzk5RWl1bXpRQUhhQm1MRnZnZmFkVFhUR2RZTndCXzc2ZWgtM2FaX2o2MXdyU28tRVFTSlpZYUJER2FQOEFCWGJpVlNGa3c0aXZtOV84V3hDRXI0Z2tFZnZCYUJkTFVIbVZ5ZjU1WFlxSEZ2ekdWaklPRlZRYUZVZWkzbjZkcFZxQ3k4SXVmNW1wYXZ1SEY4?oc=5",
-   "published": "2026-11-02T11:57:29+00:00",
-   "id": "a9a25c8a6b23",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8038,7 +8038,8 @@
   "rep|update|2026-11-03": 1793711079.973546,
   "news|ae225c9fb5ac": 1793714501.0471554,
   "news|39c2fbcba830": 1793714502.0174043,
-  "pre1h|2026-11-03T10:16:00-05:00": 1793714503.312329
+  "pre1h|2026-11-03T10:16:00-05:00": 1793714503.312329,
+  "news|37c2e636a6a3": 1793715372.9051847
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8334,6 +8335,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-03T14:16:12.905266+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: US strikes Qeshm Island. Trump: ‘Military aid to Israel to end by the end of the year’</b>\n📰 Il Sole 24 ORE · Mar 03/11 15:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWFtTmsxdWw1MnlJeGYxWlg0UEIwWmZOLUJMdklIUDl5enlWMnZlTjJyRWhXbG0tRTVSdlFHQnQ5b2NFZlMtX1l2b0FPOVViR2dJbUZTdGxJQnJyZzJQaXI2bS0zOG1ueVFweUhOWC10SnpVYk9ic21Tc3hMLXBPWWJ1MzJVaXQ5YzU4dy1reGhLb0hvMk9QMS1NeGZ1aUw3My1ISDVWX05iM3BDTmln?oc=5"
+  },
+  {
    "ts": "2026-11-03T14:01:43.312986+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 74 MIN — 16:16</b>\n\n🇺🇸 <b>Congressional Elections</b>  prév. — | préc. —\n🥇 Annonce à fort impact\n\n<b>Scénarios pour l'or :</b>\nImpact surtout via le dollar : surprise forte pour l'économie US → dollar ↑ → or ↓\n\n📌 Contexte : DXY -0.01% aujourd'hui · taux 10 ans +1 pb · biais or +27 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 78$ → attends-toi à des mèches rapides."
@@ -8627,11 +8633,6 @@
    "ts": "2026-11-02T23:16:16.997693+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump said weighing whom to scapegoat for Iran war as he clashes with Netanyahu over renewed attack</b>\n📰 The Times of Israel · Lun 02/11 10:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5"
-  },
-  {
-   "ts": "2026-11-02T23:01:47.869485+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Considers the Next Two Months a \"Window of Opportunity\" to Strike Iran</b>\n📰 وكالة صدى نيوز · Lun 02/11 21:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRMEVlbzRHS1M0OFp4QTBDbXYzdlFKMGhVMlI2YW5VenVRdFhBclZNT01NVlNTbG0tWTBVbXlCRzZtb2xxbVlQYjN2a1ZJMFNCOHI2R3Zn?oc=5"
   }
  ],
  "daily_forecast": {
