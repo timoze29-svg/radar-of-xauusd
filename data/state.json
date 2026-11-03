@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793663158.1935165,
+   "ts": 1793685677.0617933,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "6216ac96f5d0",
-  "82bb91f87c8b",
-  "13fe416af96d",
-  "5df97b433168",
-  "5eb59ddf8cf7",
-  "6b3f36f6aeb7",
-  "aede6476561f",
-  "be02f88b7fba",
   "598d4809d222",
   "2d95bdf1679e",
   "cdda6d79771a",
@@ -4000,7 +3992,15 @@
   "72b9aff4741f",
   "c4a963ab1f3b",
   "ba502ade58c3",
-  "e4eceb1aacb9"
+  "e4eceb1aacb9",
+  "50f8e87847fe",
+  "69a29a57a0c4",
+  "18daff1428a9",
+  "2ac647044971",
+  "0914e97fb467",
+  "2048eb22db5c",
+  "b52767c85e7a",
+  "16ae7b2b3ea5"
  ],
  "news": [
   {
@@ -4346,6 +4346,18 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWTdYYkNwNDM4VUhlRy1IUmhUd3BiS3d2bTIyTTN3NDRyTDl5ekttOWdIbnBQdnQwcEVyMzRJZVJxMG9LR1RFMU9aR21xbjhLcTNFbjZXb3Q1cERyNUZWVmJBdWo5a1B5ZFlwdTM4ZGs0Nk5qcVlXTzdsakE5YzVpSmFnOUMwOGZGcHduSmtNeWFMMk91d2p0SVhUcGhLYkU?oc=5",
    "published": "2026-11-03T00:53:04+00:00",
    "id": "fce82ef8f313",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "A Nuclear Strike On Iran? It Sounds Absurd Because It Is. Let’s Talk About It",
+   "source": "TWZ",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3BtMk9VWUlqTHNSNjhPOTB3SW00RlhreUx0NE1sdXRnU1VkNzQ3a19qRlBzVm5jb01KR3VJd3VTaHBkR05UejBQLU4tdE1GbFdwQ3dXY3NPRWJ1T1lHdnU0S2RRRGFmWDhfVXB1ZFVXdmYzem5xQUxIMHF3bFpPWFJvTk52dmIxVUJfZ2FPcERHVVRHRXBoNm9NZ1BzOW0wLVlyQg?oc=5",
+   "published": "2026-11-03T00:49:12+00:00",
+   "id": "69a29a57a0c4",
    "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Menaces de Trump contre l'Iran soutenant modestement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "European Gas Prices Fall on Hopes for Middle East Diplomacy",
-   "source": "TradingView",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0lBSzhMdDByeGVPQXZ6bmNZUEo2XzE0ODJ1R3JqUlppSi0ybUtoVkRPemtOZUM4eVdCNjc5UUhSYkt5aTd6WnBaYi1xRWNEbmtiZHRmREhGNnlDbHJjZEMyMGJjYXRkOU5ja1czLXEtV2xFLTlkbGlMamNiTXk5bzk0ZGNkVlpPTzFVVGhVVlI4a055ZWc2VVBuTU5hZ0dEWHA2OVFXTHlTWmVVLUg4?oc=5",
-   "published": "2026-11-02T03:11:00+00:00",
-   "id": "6563e9f40283",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "L'apaisement diplomatique au Moyen-Orient érode la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8024,7 +8024,9 @@
   "news|6a1cb0cb86dd": 1793680287.7859983,
   "news|bf1674bf0047": 1793680288.8356824,
   "brk|COPPER|pwh|dn|2026-11-02/2026-11-08": 1793682969.3809888,
-  "news|ba502ade58c3": 1793684765.6588233
+  "news|ba502ade58c3": 1793684765.6588233,
+  "news|69a29a57a0c4": 1793685704.7000556,
+  "rep|daily|2026-11-03": 1793685707.1189797
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8300,9 +8302,35 @@
     "PDL": 3879.3
    },
    "ts": "2026-11-02T06:06:33.834762+00:00"
+  },
+  "2026-11-03": {
+   "dir": "up",
+   "score": 28,
+   "p0": 3932.69995,
+   "exp_range": 71.4,
+   "levels": {
+    "P": 3946.47,
+    "R1": 4003.93,
+    "S1": 3912.13,
+    "R2": 4038.27,
+    "S2": 3854.67,
+    "PDH": 3980.8,
+    "PDL": 3889.0
+   },
+   "ts": "2026-11-03T06:01:46.170699+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-03T06:01:46.170723+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — MARDI 03/11</b>\nPrix : <b>3932.70</b>  ·  Biais du jour : <b>📈 HAUSSIER</b> (+28/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 175 news notées, moyenne +0.65\n🔴 Momentum or (vs MM50) : prix 3933 vs MM20 4093 / MM50 4265\n🟢 Taux réels 10 ans (20j) : 2.60% (-0.28 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : -26.5$ · plus haut 3974.5 / plus bas 3926.5 (range 48$)\nDXY -0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~71$</b> (ATR 78$ × profil du mardi)\nDéjà fait en Asie : 48$ (67% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4038.3 | R1 4003.9 | <b>Pivot 3946.5</b> | S1 3912.1 | S2 3854.7\nVeille : PDH 3980.8 / PDL 3889.0  ·  Semaine passée : 4097 / 3879\n\n📅 <b>Annonces du jour</b>\n🔥 <b>16:16</b> 🇺🇸 Congressional Elections\n    Impact surtout via le dollar : surprise forte pour l'économie US → dollar ↑ → or ↓\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>56%</b> du temps (311 jours, ~6.0 ans)\n• Hier : +1.81% → après une veille en FORTE HAUSSE, l'or a monté le lendemain <b>50%</b> du temps (242 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 14h (9%) · plus BAS vers 0h (11%), 16h (11%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +42.7$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — achats sur repli</b>\nZone d'achat : Pivot 3946 → S1 3912\nObjectifs : PDH 3981 → R1 4004 → R2 4038\n❌ Invalidation : clôture H1 sous S1 3912\n\n🔁 <b>Alternatif</b> : cassure de S1 → vente vers PDL 3889 → S2 3855\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
+  {
+   "ts": "2026-11-03T06:01:44.700143+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>A Nuclear Strike On Iran? It Sounds Absurd Because It Is. Let’s Talk About It</b>\n📰 TWZ · Mar 03/11 01:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3BtMk9VWUlqTHNSNjhPOTB3SW00RlhreUx0NE1sdXRnU1VkNzQ3a19qRlBzVm5jb01KR3VJd3VTaHBkR05UejBQLU4tdE1GbFdwQ3dXY3NPRWJ1T1lHdnU0S2RRRGFmWDhfVXB1ZFVXdmYzem5xQUxIMHF3bFpPWFJvTk52dmIxVUJfZ2FPcERHVVRHRXBoNm9NZ1BzOW0wLVlyQg?oc=5"
+  },
   {
    "ts": "2026-11-03T05:46:05.658896+00:00",
    "kind": "news",
@@ -8592,21 +8620,11 @@
    "ts": "2026-11-02T15:31:31.253364+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: UAE will be better prepared if US launches new war on Iran, says Energy Minister</b>\n📰 Arabian Business · Lun 02/11 14:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-02T15:16:12.173117+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal</b>\n📰 The New York Times · Lun 02/11 14:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGZTblZsbjZNdDJDekcwZEpYeXN6V0k5dnl2RnRzNzJuQkNsb2UwYzlyRUFzbXpTX01VREdNRnVGcG5UNDBzeE1VRWdTUkhJTFF3dWlzZjBFZVNHLThzQ08zRmVGVnB5Qkt0V084UzUtbzc0SC1QbmNuV09UaTgwQmVMUlJGTlFka2Yw?oc=5"
-  },
-  {
-   "ts": "2026-11-02T15:16:10.064563+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran is turning deterrence into a weapon of escalation</b>\n📰 Middle East Monitor · Lun 02/11 15:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNRERhUFY3bVlLOHI4aWlJWjUxR3VOMnU2V29ERmszSUptUEo1N3gxeXE5U3F2NEswMDBfR0FFMEg3MkhDLU0xa0FLaTBraHpqeDFrTXRWZmRvZG5uek0wYWxhUjlmN0pMZ2h0REVaTXV6b1dfNnVuUi1pZnQ3Tjh4dzNBUVNYXzdkdmlfUjhCMkU3WGFuODFUTXRpdElWeVU?oc=5"
   }
  ],
  "daily_forecast": {
-  "date": "2026-11-02T06:06:34.907691+00:00",
-  "text": "☀️ <b>PRÉVISION OR — LUNDI 02/11</b>\nPrix : <b>3923.80</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+8/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3924 vs MM20 4103 / MM50 4280\n🟢 Taux réels 10 ans (20j) : 2.63% (-0.30 sur 20j)\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.61% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +20.8$ · plus haut 3928.1 / plus bas 3900.0 (range 28$)\nDXY -0.14% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~76$</b> (ATR 75$ × profil du lundi)\nDéjà fait en Asie : 28$ (37% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4097.7 | R1 3998.3 | <b>Pivot 3938.8</b> | S1 3839.4 | S2 3779.9\nVeille : PDH 4038.2 / PDL 3879.3  ·  Semaine passée : 4097 / 3879\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>50%</b> du temps (280 jours, ~6.0 ans)\n• Hier : -3.29% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (212 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (16%), 15h (10%) · plus BAS vers 0h (18%), 16h (10%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +33.8$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 3839 et R1 3998\nJouer les extrêmes, pas le milieu (pivot 3939). Range attendu ~76$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 4038 ou PDL 3879 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-11-03T06:01:47.118938+00:00",
+  "text": "☀️ <b>PRÉVISION OR — MARDI 03/11</b>\nPrix : <b>3932.70</b>  ·  Biais du jour : <b>📈 HAUSSIER</b> (+28/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 175 news notées, moyenne +0.65\n🔴 Momentum or (vs MM50) : prix 3933 vs MM20 4093 / MM50 4265\n🟢 Taux réels 10 ans (20j) : 2.60% (-0.28 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : -26.5$ · plus haut 3974.5 / plus bas 3926.5 (range 48$)\nDXY -0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~71$</b> (ATR 78$ × profil du mardi)\nDéjà fait en Asie : 48$ (67% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4038.3 | R1 4003.9 | <b>Pivot 3946.5</b> | S1 3912.1 | S2 3854.7\nVeille : PDH 3980.8 / PDL 3889.0  ·  Semaine passée : 4097 / 3879\n\n📅 <b>Annonces du jour</b>\n🔥 <b>16:16</b> 🇺🇸 Congressional Elections\n    Impact surtout via le dollar : surprise forte pour l'économie US → dollar ↑ → or ↓\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>56%</b> du temps (311 jours, ~6.0 ans)\n• Hier : +1.81% → après une veille en FORTE HAUSSE, l'or a monté le lendemain <b>50%</b> du temps (242 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 14h (9%) · plus BAS vers 0h (11%), 16h (11%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +42.7$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — achats sur repli</b>\nZone d'achat : Pivot 3946 → S1 3912\nObjectifs : PDH 3981 → R1 4004 → R2 4038\n❌ Invalidation : clôture H1 sous S1 3912\n\n🔁 <b>Alternatif</b> : cassure de S1 → vente vers PDL 3889 → S2 3855\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
