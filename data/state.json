@@ -804,19 +804,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793603089.3913853,
+   "ts": 1793675785.3744967,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        15.7
+        15.5
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
@@ -826,15 +826,15 @@
       "low": [
        [
         0,
-        18.3
-       ],
-       [
-        16,
-        10.4
+        18.1
        ],
        [
         2,
-        10.4
+        11.2
+       ],
+       [
+        16,
+        10.3
        ]
       ]
      },
@@ -964,22 +964,22 @@
      }
     },
     "dollar": {
-     "n_hours": 5960,
+     "n_hours": 5970,
      "horizon_h": 2,
-     "base_gold_up": 53.3,
-     "base_dxy_down": 48.1,
+     "base_gold_up": 53.4,
+     "base_dxy_down": 48.0,
      "down": {
       "3": {
-       "n": 243,
-       "p_dxy": 51.9,
-       "p_gold": 55.6,
-       "gold_avg": 1.4
+       "n": 244,
+       "p_dxy": 51.6,
+       "p_gold": 55.7,
+       "gold_avg": 1.5
       },
       "4": {
-       "n": 54,
-       "p_dxy": 51.9,
-       "p_gold": 57.4,
-       "gold_avg": 0.5
+       "n": 55,
+       "p_dxy": 50.9,
+       "p_gold": 58.2,
+       "gold_avg": 0.9
       }
      },
      "up": {
@@ -1001,44 +1001,6 @@
   }
  },
  "seen_news": [
-  "df40f78be460",
-  "728d6f9f5548",
-  "a934d024a8db",
-  "01e758624f63",
-  "5922c6cfcc27",
-  "40fe3e25169f",
-  "4f9a5fba5eab",
-  "7941faaf6008",
-  "863d19445b38",
-  "2e9c751f6fda",
-  "4116a3123558",
-  "a8440250c8b4",
-  "fc4b9a2393ad",
-  "55b2abb9d26e",
-  "7c2758bfc097",
-  "0f1a361ba99d",
-  "c79b8627dc7d",
-  "2fc4a3ecfabc",
-  "d91bdb69a4db",
-  "359f70d00e14",
-  "28b356ae9971",
-  "ac23df0433bd",
-  "a3d5a81cdf91",
-  "cde2293acc4d",
-  "6f5c3ddd555c",
-  "f390b46c2132",
-  "924f61eba218",
-  "55f5ba272404",
-  "5e3949284e05",
-  "fa20aa741358",
-  "ac73ebd0e631",
-  "9338eee0f4c1",
-  "26baa2b85db3",
-  "1f795839b2dc",
-  "64d4c72ebf4a",
-  "ac0e22468e5f",
-  "c90cb4fd4316",
-  "cef5ac9d0f45",
   "2856dc7fad2e",
   "ef97e2c9dd4f",
   "5ce0aece7b76",
@@ -4000,7 +3962,45 @@
   "0576a5080c10",
   "978e717d14a5",
   "459de38f1aca",
-  "375000548371"
+  "375000548371",
+  "cd946d50eb1a",
+  "db032f048827",
+  "7caf65fa0e33",
+  "d526a60757ff",
+  "655091991230",
+  "5934535b6323",
+  "d52df4f2c189",
+  "311db8c8b758",
+  "3080fabf8b30",
+  "f8f5baf278da",
+  "8516d4d2f21b",
+  "f42478ed4838",
+  "d758eaa90a65",
+  "5051287615f9",
+  "e36c5fa62578",
+  "1038a3ee26b7",
+  "6c9b97f7286f",
+  "a6256efe08e9",
+  "c99b08565307",
+  "1579874e2fd3",
+  "614d4f7e446e",
+  "d3a8f1f54a16",
+  "7066d89c846d",
+  "8cfc3ad4fa10",
+  "2428eeb6167d",
+  "1eeca2001cc9",
+  "93c03147c5c9",
+  "977474fb32ab",
+  "16eaea5e8e7c",
+  "ae9e335316c0",
+  "8852255033a4",
+  "dc5e5fb0ccfb",
+  "e825c27b8562",
+  "05c59b5cad9a",
+  "b7fc25622344",
+  "473f485b20e9",
+  "9cf0774a0d03",
+  "daaaf44cfc93"
  ],
  "news": [
   {
@@ -4059,6 +4059,66 @@
    "published": "2026-11-03T02:15:00+00:00",
    "id": "d7e87d368b0b",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US military strikes Iran Qeshm Island",
+   "source": "newcastleherald.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.newcastleherald.com.au/story/9384711/us-military-strikes-irans-qeshm-island/",
+   "published": "2026-11-03T02:15:00+00:00",
+   "id": "f8f5baf278da",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+   "source": "dominicanrepublicpost.com",
+   "theme": "Géopolitique",
+   "link": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
+   "published": "2026-11-03T02:15:00+00:00",
+   "id": "8852255033a4",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U . S . strikes Iran Qeshm Island : report",
+   "source": "thehindu.com",
+   "theme": "Géopolitique",
+   "link": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
+   "published": "2026-11-03T02:15:00+00:00",
+   "id": "e825c27b8562",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "IRIB says US attacked two fishing boats near Qeshm Island",
+   "source": "el-balad.com",
+   "theme": "Géopolitique",
+   "link": "https://www.el-balad.com/17063414",
+   "published": "2026-11-03T02:15:00+00:00",
+   "id": "05c59b5cad9a",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Declares No Resumption of Iran Strikes, Signals Possible Deal",
+   "source": "Forth.News",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Q1lzanhqeWVaZmpuTHg1TEMzdFZoWVUwZ0xsbkR4VmtNRmVVcTNrU1VqenhEY1REaFdOOHFNWWJoYUVZQ1ZxemV1VFVnNUVCUldHNnFHWFIzVWtrYmFUVDRn?oc=5",
+   "published": "2026-11-03T02:03:25+00:00",
+   "id": "cd946d50eb1a",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6342,66 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Rhétorique belliqueuse renforçant la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says more military action “still possible” as the Iran War continues",
-   "source": "NBC News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclJ5Z2xoZkFWUnVfZ291YlpDVzBRTUUzcFRMSVRLNm9jZ25KWVh1SmpfOVhwaDVmWDVISzRfWVB1aEtYd2JCVWtyY3dYVkVnbkFYSWZOSklydXcyenVRNjJ1ZFBTMlNCQklGdFpRY0I5WGVFMEhpMkxoYjdHVFBEUG9iTExkMW9DU3JjazhVYWhZcFM3US1sS3Vid2ZJLTBOSUVIdHFVbXZ6X0JyeU1DbDJxbGZ6Mnltd2Z2ei1UeThhTVQ1NmxR?oc=5",
-   "published": "2026-11-02T00:13:55+00:00",
-   "id": "139c9ea141cc",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Menace crédible d'escalade militaire américaine soutenant fortement les achats défensifs.",
-   "method": "IA"
-  },
-  {
-   "title": "Middle East War updates: Iran warns of expanded strikes against US despite progress in talks",
-   "source": "www.tmgm.com",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRE5aTkVpYnVPb1ZWWEU2YnNzbVJZSWhJZWV6cDBfeFBlblkxczR1aGZ0RlNreGpQNEEzRkR2ejk4VXJjOXJUWkZSbGd6amdNOVJ2YVBQM3VYYmJvSnEyYnpraWVWRHZKRmd2a3VVZ0tWRGFxb1l3Wkkxak5VNEx1eUU4NHRqZ0JPaWR3X09XaVp2Wk5XZi1EbERpS0xQS0NMNE5PaEpaVWphdVVmbTlaOU85XzgyakE4NnpHRVR1bW5vbFdjWXczbVRmaVZpZFpIaW5FT3lsRnQ3YlZ2c2RtUi1BV25EZFhyMVVlcTRn?oc=5",
-   "published": "2026-11-02T00:10:45+00:00",
-   "id": "d8f8d09b25cb",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces iraniennes directes contre les États-Unis stimulant l'achat d'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine: Russia’s increased attacks on energy and heating infrastructure ‘creating a deadly situation for civilians’",
-   "source": "Amnesty International",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2tYMjJmRmR3cG9BZnh3Tm85NGRWY1pKWkZoT2RrZ1BuRnRmeHhkaDYxRkxoeEx3SHBMMWc1WFB3SFZmYzZDcG1NWHJvbzBndTJpekhnV1ZfV1VUM3ZfX3lIRWprbFMxNDZudFprVWNwQXNOZ0RFcXEzSHY0RWJ5UWJlalB3MnZGSkRoUWpjRTlBbFFLNjRaLVlfUDlXNldDc1N6OTBUWW9nTHFFemk4M1lZTkpQbkk1dWZxb1dlMU5LY0paZDhwbXZrdWVHbm9DcS1tZVQwVGRtQmdGb0NsdTh6VGxjUkNTbTJxdXhncnlHQQ?oc=5",
-   "published": "2026-11-02T00:01:00+00:00",
-   "id": "4e3cb7779efa",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Intensification de la crise ukrainienne maintenant un climat géopolitique anxiogène.",
-   "method": "IA"
-  },
-  {
-   "title": "Netanyahu Presses Trump To Strike Iran After U.S. Midterm Elections: 14 outlets compared",
-   "source": "NewsCord",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ0U4eW96U0NwcVVLb2NFeGlGdjgtbE9aTm8zME1QN253NmFQa3dJUnRUUlJnMC1sN0Z6dTlWM0ZlRWFzd2FlMFNRR1ZvTUIwSlE2SlF0TGtld1VURmpyNk12TXNtZUJ6NlowUlZ3ZklFTE55QkIxUmRHc1lmQUx2UTc2ckZ6UFFja0pKR0s0TGd4WGg2NDZlaG1Jck1xYUZUVkJ2QnNneTQyanlMaU1LVkxGMDdYLUlIejJUMExiSG1fZGpYb1czWnhpSllCRDgwVzl1ZUVR?oc=5",
-   "published": "2026-11-01T23:21:01+00:00",
-   "id": "e583f294dfe7",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque d'escalade militaire au Moyen-Orient soutenant la demande de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Zelenskyy: Sell Us Patriot Missiles, We'll Stop Strikes On Russian Refineries",
-   "source": "Radio Free Europe/Radio Liberty",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlE4REhWV1ktT1p0ZW5yUkxXWXBWTVUwTWtRZjZDb1NJamZ6UDRiT0tPMTVoN1ViWDlBeFBYbmU3UEZxTU40cFVDa3E2MkFUTHdQQWFLT2dMZWp0UjBNVW8zZmJrNEdVZUFUMHlkTmJYMUR2OUdSZl9uRFd0S3MxMVdadzNtUnd5aXExUjJ30gGQAUFVX3lxTE5uRzJyVnFSWi0zaXVKZmpvbUFNbDNXMUZHbmJIVGVXclpWb2Mxei1BMEk0bGRfdzJzOTRLVW9IRzBGa1NlbFNleHBUbVRVWFgyWWN0dW5iOG5TeS0yYk55NFZRYjRhMGFyVkhILVN5VVV4MjgyVkZKVUd0eWNUYWhHeWxKZTFuMk9JeEFsOHJRcw?oc=5",
-   "published": "2026-11-01T23:00:50+00:00",
-   "id": "f9bba739ff73",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Accalmie possible sur le pétrole réduisant légèrement les anticipations d'inflation.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8018,7 +8018,11 @@
   "news|d7e87d368b0b": 1793673097.7823193,
   "news|f145334af4c3": 1793673969.1275108,
   "news|f070402752c0": 1793673970.1489735,
-  "news|59f8d9d88b3a": 1793674905.599956
+  "news|59f8d9d88b3a": 1793674905.599956,
+  "news|f8f5baf278da": 1793675780.3166687,
+  "news|8852255033a4": 1793675781.1555026,
+  "news|e825c27b8562": 1793675781.9787734,
+  "news|cd946d50eb1a": 1793675782.7996032
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8298,6 +8302,26 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-03T03:16:22.799891+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Declares No Resumption of Iran Strikes, Signals Possible Deal</b>\n📰 Forth.News · Mar 03/11 03:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Q1lzanhqeWVaZmpuTHg1TEMzdFZoWVUwZ0xsbkR4VmtNRmVVcTNrU1VqenhEY1REaFdOOHFNWWJoYUVZQ1ZxemV1VFVnNUVCUldHNnFHWFIzVWtrYmFUVDRn?oc=5"
+  },
+  {
+   "ts": "2026-11-03T03:16:21.979062+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U . S . strikes Iran Qeshm Island : report</b>\n📰 thehindu.com · Mar 03/11 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece"
+  },
+  {
+   "ts": "2026-11-03T03:16:21.155631+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel &amp; Culture</b>\n📰 dominicanrepublicpost.com · Mar 03/11 03:15\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/"
+  },
+  {
+   "ts": "2026-11-03T03:16:20.316757+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US military strikes Iran Qeshm Island</b>\n📰 newcastleherald.com.au · Mar 03/11 03:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.newcastleherald.com.au/story/9384711/us-military-strikes-irans-qeshm-island/"
+  },
+  {
    "ts": "2026-11-03T03:01:45.600069+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US strikes Iran's Qeshm Island as Trump signals progress in talks</b>\n📰 France 24 · Mar 03/11 03:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVOWHBGVlBPVTVGZHQyb2x2dUZOdGNidWIyTk5JcUpOSlhabS1lSjBEN014aDZ6MTh0elFDSnJ3eHNPTzhHejBUWjQyam9kOVZsaDlDYm5sanN4RUU1QmY2djFOemhpc01DRk5kQWpBS2dFRkJmcnI5b09jT01SZzRFZXN2aklROEYwMFBYbXc1SzB3NmJtOW5rQUVtVUE4al80b093cU1ibkRQM0hvTFJn?oc=5"
@@ -8576,26 +8600,6 @@
    "ts": "2026-11-02T14:01:43.268613+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas sur 20 JOURS\nNiveau : 4.908 → prix : <b>4.906</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.11"
-  },
-  {
-   "ts": "2026-11-02T14:01:42.330352+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 4.908 → prix : <b>4.906</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.11"
-  },
-  {
-   "ts": "2026-11-02T14:01:41.410864+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.908 → prix : <b>4.906</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.11"
-  },
-  {
-   "ts": "2026-11-02T13:46:13.759344+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+14), Sentiment news 24h (+12)"
-  },
-  {
-   "ts": "2026-11-02T13:46:12.339878+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says contacts over ending war continue as talks end with no breakthrough</b>\n📰 Business Recorder · Lun 02/11 14:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVkWUctNHJaMGdNNVVWUnQ0eVBKNC1wdWJoLVN4S0lXTndtN04wRU1kS0RDSDdFSjFxUHI0eWt1V1h5eFlzd0dWZFNyUGsxUXc2a1p4eUliS3lFSkdjMlZzV295UFJqRDBRa1hOU0VzVFhNQ2d5a1Z2RHJ1SFBJNFYxb1BwNVlQczZQcEVkM2k4MjN1dm1yU0hNd210UmZJc2hDTVVMbmZ4U2NFZDlvZ2laS25kR3JE0gFWQVVfeXFMT3J1U1o4Q0tWM1Z6RC0zUlJrb0F6RzBxV3NHU1FJMGNMSFhMUFQ1dGlfcWtTQlhyTkQ5U1I5Q1VHS0RLSldsWWhYdndiS0VVQzVrWGpqVWc?oc=5"
   }
  ],
  "daily_forecast": {
