@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793670354.518895,
+   "ts": 1793674880.5865388,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "19df01225384",
-  "974132f0d93b",
-  "b3ab5fdbdd11",
-  "028618baa79a",
-  "f8f55e3c0427",
   "df40f78be460",
   "728d6f9f5548",
   "a934d024a8db",
@@ -4000,7 +3995,12 @@
   "f070402752c0",
   "f145334af4c3",
   "96e883e03b97",
-  "4fe98141c184"
+  "4fe98141c184",
+  "59f8d9d88b3a",
+  "0576a5080c10",
+  "978e717d14a5",
+  "459de38f1aca",
+  "375000548371"
  ],
  "news": [
   {
@@ -4023,6 +4023,18 @@
    "published": "2026-11-03T02:38:00+00:00",
    "id": "96e883e03b97",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+   "source": "France 24",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVOWHBGVlBPVTVGZHQyb2x2dUZOdGNidWIyTk5JcUpOSlhabS1lSjBEN014aDZ6MTh0elFDSnJ3eHNPTzhHejBUWjQyam9kOVZsaDlDYm5sanN4RUU1QmY2djFOemhpc01DRk5kQWpBS2dFRkJmcnI5b09jT01SZzRFZXN2aklROEYwMFBYbXc1SzB3NmJtOW5rQUVtVUE4al80b093cU1ibkRQM0hvTFJn?oc=5",
+   "published": "2026-11-03T02:28:07+00:00",
+   "id": "59f8d9d88b3a",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4913,6 +4925,18 @@
    "impact": -4,
    "cat": "commerce",
    "raison": "baissier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Dollar Slides with Crude Oil Prices and Bond Yields",
+   "source": "TradingView",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1c4eGxBS2JVVkdWOWE1ci1Fd1dDbEExTGx6RHFaOE9PUVlMMnViS29lR3AwM0c1SmpsbU9xbmlGNnUwWHIteHBRX25qaUM3eHI5RXZHaWZyOGZ1YkdkX3gwaEpBMU5tWlVjaElvMTNRU3ZCRjl2UjV0c0t1di14MzdsNEdIOVZMRHpySEZ2LUFfWmIzNE8wWlBkQzI5RE9ZcXVZWGw2WWtRVFM3ZXE0?oc=5",
+   "published": "2026-11-02T15:32:27+00:00",
+   "id": "978e717d14a5",
+   "impact": 5,
+   "cat": "dollar",
+   "raison": "haussier or (dollar)",
    "method": "mots-clés"
   },
   {
@@ -6377,30 +6401,6 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Accalmie possible sur le pétrole réduisant légèrement les anticipations d'inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine’s leader says will stop hitting Russia refineries if US provides interceptor missiles",
-   "source": "Arab News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWdEdEJRUnRWZkdaRi1rV3FsdVBMNm1aNllURjQzLVRHTnRlekdoMEduMnlfXzRwM3ZvY1lOVk1rY1d2UmpqUWs2Q1BZVUctYjk2NE1nZmlnRDZXMnFYOEdDV3hGUTJEUTZZcTBUYnhiYVo3XzBtS0NXWVBHT29UNHp3MXZlSGRqNG5wRG9Pb3JaM1FvLVRkUGJjb25hU3F1bXhNeVpLN210ZkVTdFJ0OTRsdEpLaUdtSlN5eWVVVjhhS2w2WTJrd2dmWQ?oc=5",
-   "published": "2026-11-01T22:30:12+00:00",
-   "id": "a9792ce248f6",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Légère détente sur les frappes énergétiques russes, impact marginal sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Chinese ships threaten naval blockade of Taiwan as US prepares for possible 2027 conflict",
-   "source": "IntelliNews",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmUzOGp5WlQ0QnNYRllMZWxqTTI2NVIyXzV0TDM5S2FBZUtCZXljWkVWak5tb2cxQWFacFVXRkw1S0NRS1A1aWZsLUxiLWJsWVBaTGhoMHZjdzNKX3BZUmVJdzRwWmVra3Y5UmFONzZwLVJNZkVLSzVpTU9nZ3phV0ZNdUN1VDNLSnNMUGlLQUFQUzA4aXB4ZnM5MWlLLVlGeElGNXBLWm5MYlI1NFpIRFpRY1llamNjOFUyamtfSDdiRWRLUEpObVhZY21KTmlpakpN?oc=5",
-   "published": "2026-11-01T22:28:56+00:00",
-   "id": "1d1471afdeae",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions accrues autour de Taïwan renforçant l'attrait pour la valeur refuge.",
    "method": "IA"
   }
  ],
@@ -8017,7 +8017,8 @@
   "news|2286de3db1d6": 1793671302.9840283,
   "news|d7e87d368b0b": 1793673097.7823193,
   "news|f145334af4c3": 1793673969.1275108,
-  "news|f070402752c0": 1793673970.1489735
+  "news|f070402752c0": 1793673970.1489735,
+  "news|59f8d9d88b3a": 1793674905.599956
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8296,6 +8297,11 @@
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-03T03:01:45.600069+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US strikes Iran's Qeshm Island as Trump signals progress in talks</b>\n📰 France 24 · Mar 03/11 03:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVOWHBGVlBPVTVGZHQyb2x2dUZOdGNidWIyTk5JcUpOSlhabS1lSjBEN014aDZ6MTh0elFDSnJ3eHNPTzhHejBUWjQyam9kOVZsaDlDYm5sanN4RUU1QmY2djFOemhpc01DRk5kQWpBS2dFRkJmcnI5b09jT01SZzRFZXN2aklROEYwMFBYbXc1SzB3NmJtOW5rQUVtVUE4al80b093cU1ibkRQM0hvTFJn?oc=5"
+  },
   {
    "ts": "2026-11-03T02:46:10.149209+00:00",
    "kind": "news",
@@ -8590,11 +8596,6 @@
    "ts": "2026-11-02T13:46:12.339878+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says contacts over ending war continue as talks end with no breakthrough</b>\n📰 Business Recorder · Lun 02/11 14:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVkWUctNHJaMGdNNVVWUnQ0eVBKNC1wdWJoLVN4S0lXTndtN04wRU1kS0RDSDdFSjFxUHI0eWt1V1h5eFlzd0dWZFNyUGsxUXc2a1p4eUliS3lFSkdjMlZzV295UFJqRDBRa1hOU0VzVFhNQ2d5a1Z2RHJ1SFBJNFYxb1BwNVlQczZQcEVkM2k4MjN1dm1yU0hNd210UmZJc2hDTVVMbmZ4U2NFZDlvZ2laS25kR3JE0gFWQVVfeXFMT3J1U1o4Q0tWM1Z6RC0zUlJrb0F6RzBxV3NHU1FJMGNMSFhMUFQ1dGlfcWtTQlhyTkQ5U1I5Q1VHS0RLSldsWWhYdndiS0VVQzVrWGpqVWc?oc=5"
-  },
-  {
-   "ts": "2026-11-02T13:34:29.800731+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux réels 10 ans (20j) (+14), Sentiment news 24h (+11)"
   }
  ],
  "daily_forecast": {
