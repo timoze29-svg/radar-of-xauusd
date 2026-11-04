@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793796350.4879968,
+   "ts": 1793818881.1993198,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793814350.7280576,
+   "ts": 1793818881.2647352,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "c162b5de81cb",
-  "e11816a1dfd3",
   "f8d889592890",
   "8fc813d3a4c1",
   "2a3ff799e975",
@@ -4000,9 +3998,23 @@
   "571472bc6861",
   "1201451af75b",
   "2d48c765eb92",
-  "54fb4807bde0"
+  "54fb4807bde0",
+  "0192d0641380",
+  "77e38ce93b3e"
  ],
  "news": [
+  {
+   "title": "Iran: MP threatens: ‘If the US attacks us, we will strike Europe and Italia’",
+   "source": "Il Sole 24 ORE",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEh3eUpvZEE3RmtURWlJT254WnE0SWpsZzRMWkladm9zTDk3WThic1c0bHlnM2N5dXlNdGEzZHUzd2NnaDlFMUpURnRnQWxfckFBb0xkMFBXclRkWW9ISldOOTAzcGFROE9LcVVFMlRuX3JQWDU3bkRlQ1BDQW1HWFlrTFdHZjVCYWtUWXZwZS0wVDVBbHpuWg?oc=5",
+   "published": "2026-11-04T18:46:16+00:00",
+   "id": "77e38ce93b3e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump’s Midterm Loss Leaves Canada to Weigh a Trade Deal or Wait",
    "source": "Bloomberg.com",
@@ -6390,23 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Section 338 Tariffs on Canada Put Congress at a Crossroads",
-   "source": "Legis1",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MTERCcVlWdkpkRURfa2kxbWVYMUdLR3VLUFBGTDZSQUJzYm9nTF80OXFpa1RoMl82NkJsN3VucnRGaHc0c2hndnNRSDRhX0NFQ251ci16Q2h3X01yTXdJcGhyellHZDRWTGlsYWtOZjc2WUFY?oc=5",
-   "published": "2026-11-03T15:14:25+00:00",
-   "id": "d8dc7cce417b",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "brk|US10Y|pdh|dn|2026-10-14": 1792003590.0946355,
-  "pre15m|2026-10-14T15:00:00-04:00": 1792003591.1471488,
   "news|3723fd76efd0": 1792005364.6153932,
   "news|4aab3b8d26cd": 1792005365.6055465,
   "news|7a57f9c48cd4": 1792005366.4975772,
@@ -8050,7 +8048,8 @@
   "news|3f7e157154b5": 1793816171.177876,
   "big|VIX|2026-11-04": 1793816172.3928142,
   "news|f89589f3a7fb": 1793817097.4030273,
-  "news|d1ddb0304987": 1793817966.0409555
+  "news|d1ddb0304987": 1793817966.0409555,
+  "news|77e38ce93b3e": 1793818906.7603817
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8362,6 +8361,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T19:01:46.760473+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: MP threatens: ‘If the US attacks us, we will strike Europe and Italia’</b>\n📰 Il Sole 24 ORE · Mer 04/11 19:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEh3eUpvZEE3RmtURWlJT254WnE0SWpsZzRMWkladm9zTDk3WThic1c0bHlnM2N5dXlNdGEzZHUzd2NnaDlFMUpURnRnQWxfckFBb0xkMFBXclRkWW9ISldOOTAzcGFROE9LcVVFMlRuX3JQWDU3bkRlQ1BDQW1HWFlrTFdHZjVCYWtUWXZwZS0wVDVBbHpuWg?oc=5"
+  },
+  {
    "ts": "2026-11-04T18:46:07.195490+00:00",
    "kind": "dollar_pressure",
    "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.11%\n▫️ Taux US 10 ans +1.0 pb\n✅ Pétrole +1.08%\n✅ EUR/USD -0.10%\n▫️ News dollar/Fed : 5 (impact moyen or +3.6)\n   • U.S. Midterms: Trump's Next Trade War Could Be With Congress\n   • Euro holds gains as US Dollar weakens following midterm elections\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>55%</b> des cas sur 2h,\net l'or a baissé dans <b>49%</b> des cas (moyenne -0.7$, sur 264 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
@@ -8655,11 +8659,6 @@
    "ts": "2026-11-04T08:03:49.620687+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress</b>\n📰 CNBC · Mer 04/11 07:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQWVvV2lYYkw1NHNpRkh2VnYzcnNqVlN0LTUxSWZLVEp4UGd2QTQ3eVF2bDJnR2ZzZW94ZXdWT2U1WWNFRW1McWhfVG5EbmxRQkUySnBoc3NoR24wZnZBTU5MTzdsZTFFLVpFaWR6NW1ma0M5T0Y0dXhCV2x4eTTSAYQBQVVfeXFMT1ZON21PNll2N2lwUnNkWXQ4Ym9nSGtvX2R4cnJCZy04WXZTdHE5TF9tY2RLb0dMcS11YmJraFljT05kaGROdFdxbFNVX0FoV1lGcnh4cFBlc0hnM1VtTk1SU3VvSnJHVEI5c2htSEtzTWVWUzBoMzdFQm1zSHN0djZfTHVf?oc=5"
-  },
-  {
-   "ts": "2026-11-04T08:03:48.542974+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Declares 'Total War' On US &amp; Israel; Tehran Threatens Global Oil, Energy And Military Targets</b>\n📰 The Times of India · Mer 04/11 07:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOSDN2N3JMZGJJeGppMlFSR2U1U2ZsQi1XOUV0b1kydTFzZ01famo3X2VycWpfQk10YUpiWUxuVGRPdEtGY0dHTHgxZ3BPZDV0YWxEY0JTNmUyN1lyZ2N3NkpJN1llT3pwbDBPaXg4U29mSWtjc3BJRW9DUFNmU1dvVGc2TzM0dFR1WXdjY2hkSDNlTG5jNWNGWHRaMDJZRVM4bjJTU3gxbHFEZWNxOTBzaXcxQlBWZzl1ZTJQR0hBczRPVHNtWkptaXNTZU9QbF9vVl9PM1hZQ0FHallYcExycFh5TmVnM0FWZC03ZkhQUGhBbDNHQ0Q0enFRanV6RDZ1c1Ew0gGIAkFVX3lxTFBwOFRESmIzWnN2VlJ0ZkwwbHV4VVNWWFlzcUlhazNpZmJlLTF0NUx6Z2lQMzg5dXpVSjZ5M29uZmUzSnBLVFpfemxsYnh2YU0ybTVBM3h6YmlTVEE2WXJ2bjl3TUw3bWRxajUyNTF4UDJGX0Z4TXY3N0wwZkNIYlo0aDMzTmdBQmktZmRUeWVHYmRYNlJLUjVIT0lLdTQ2aDNubjVBWGZONWJTWlpick1lcEZHODB0Umw5N2JIc1hQQVI1ZTItSW9nRVl6RFFIdXFraW1jbkdVSGx0X25XNWtYbGNPVlVrLTl5eERzaFl6ZmVMSUhMZ0RhXzJnUTE1VGN3dmk1blZqSQ?oc=5"
   }
  ],
  "daily_forecast": {
