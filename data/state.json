@@ -8051,7 +8051,8 @@
   "news|294c3ae1e59c": 1793770287.2005632,
   "news|ccf135dea346": 1793770288.0260825,
   "news|ee82cdcfdb04": 1793770288.8327777,
-  "brk|GOLD|pdh|up|2026-11-04": 1793771165.3143077
+  "brk|GOLD|pdh|up|2026-11-04": 1793771165.3143077,
+  "rep|daily|2026-11-04": 1793772108.7121277
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8343,9 +8344,30 @@
     "PDL": 3889.0
    },
    "ts": "2026-11-03T06:01:46.170699+00:00"
+  },
+  "2026-11-04": {
+   "dir": "up",
+   "score": 24,
+   "p0": 4008.5,
+   "exp_range": 79.9,
+   "levels": {
+    "P": 3942.07,
+    "R1": 3980.03,
+    "S1": 3902.43,
+    "R2": 4019.67,
+    "S2": 3864.47,
+    "PDH": 3981.7,
+    "PDL": 3904.1
+   },
+   "ts": "2026-11-04T06:01:47.673707+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-04T06:01:47.673732+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — MERCREDI 04/11</b>\nPrix : <b>4008.50</b>  ·  Biais du jour : <b>📈 HAUSSIER</b> (+24/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 174 news notées, moyenne +0.55\n🔴 Momentum or (vs MM50) : prix 4008 vs MM20 4087 / MM50 4252\n🟢 Taux réels 10 ans (20j) : 2.62% (-0.30 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : +67.6$ · plus haut 4011.6 / plus bas 3928.2 (range 83$)\nDXY -0.44% sur la nuit\n⚠️ Plus haut de la veille (3982) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~80$</b> (ATR 76$ × profil du mercredi)\nDéjà fait en Asie : 83$ (104% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4019.7 | R1 3980.0 | <b>Pivot 3942.1</b> | S1 3902.4 | S2 3864.5\nVeille : PDH 3981.7 / PDL 3904.1  ·  Semaine passée : 4097 / 3879\n\n📅 <b>Annonces du jour</b>\n🔥 <b>14:15</b> 🇺🇸 ADP Non-Farm Employment Change (prév. 67K)\n    🔺 Au-dessus de 67K (économie plus forte que prévu) → moins de raisons de baisser les taux → dollar ↑ → <b>or ↓</b>\n    🔻 En dessous de 67K → effet inverse → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -0.74% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1051 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 2h (12%), 16h (12%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +118.5$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — achats sur repli</b>\nZone d'achat : Pivot 3942 → S1 3902\nObjectifs : R1 3980 → PDH 3982 → R2 4020\n❌ Invalidation : clôture H1 sous S1 3902\n\n🔁 <b>Alternatif</b> : cassure de S1 → vente vers PDL 3904 → S2 3864\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
   {
    "ts": "2026-11-04T05:46:05.314367+00:00",
    "kind": "breakout",
@@ -8640,16 +8662,11 @@
    "ts": "2026-11-03T14:31:30.799348+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Fed rate cuts could help the US balance its budget as debt pressures mount</b>\n📰 Business Upturn · Mar 03/11 15:12\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQaC1fLTNUM2tMZzFaaFdZM3ZuWWw0UUE3bVE4S2pvODNuMTBmWnRXZ1haeDlZajZiZjN6SEZnRmxRd2RxVHB6MTFoM01TZ25XNjZSWHRBajJLWUpDdklPNkdLRkxDbVhjb0R0LUptSlg1WG5mR1VRUm1CM2hkOUpMZEFad1ltOEJqYWh0WTZ1U0g1ZTJWQklLSjFoeFBVaWJmTUVOWndkc2tWTE9EdjNiQUxTTmV2cVFhYkVvVm1heDJFNWhY?oc=5"
-  },
-  {
-   "ts": "2026-11-03T14:16:12.905266+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: US strikes Qeshm Island. Trump: ‘Military aid to Israel to end by the end of the year’</b>\n📰 Il Sole 24 ORE · Mar 03/11 15:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWFtTmsxdWw1MnlJeGYxWlg0UEIwWmZOLUJMdklIUDl5enlWMnZlTjJyRWhXbG0tRTVSdlFHQnQ5b2NFZlMtX1l2b0FPOVViR2dJbUZTdGxJQnJyZzJQaXI2bS0zOG1ueVFweUhOWC10SnpVYk9ic21Tc3hMLXBPWWJ1MzJVaXQ5YzU4dy1reGhLb0hvMk9QMS1NeGZ1aUw3My1ISDVWX05iM3BDTmln?oc=5"
   }
  ],
  "daily_forecast": {
-  "date": "2026-11-03T06:01:47.118938+00:00",
-  "text": "☀️ <b>PRÉVISION OR — MARDI 03/11</b>\nPrix : <b>3932.70</b>  ·  Biais du jour : <b>📈 HAUSSIER</b> (+28/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 175 news notées, moyenne +0.65\n🔴 Momentum or (vs MM50) : prix 3933 vs MM20 4093 / MM50 4265\n🟢 Taux réels 10 ans (20j) : 2.60% (-0.28 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : -26.5$ · plus haut 3974.5 / plus bas 3926.5 (range 48$)\nDXY -0.05% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~71$</b> (ATR 78$ × profil du mardi)\nDéjà fait en Asie : 48$ (67% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4038.3 | R1 4003.9 | <b>Pivot 3946.5</b> | S1 3912.1 | S2 3854.7\nVeille : PDH 3980.8 / PDL 3889.0  ·  Semaine passée : 4097 / 3879\n\n📅 <b>Annonces du jour</b>\n🔥 <b>16:16</b> 🇺🇸 Congressional Elections\n    Impact surtout via le dollar : surprise forte pour l'économie US → dollar ↑ → or ↓\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>56%</b> du temps (311 jours, ~6.0 ans)\n• Hier : +1.81% → après une veille en FORTE HAUSSE, l'or a monté le lendemain <b>50%</b> du temps (242 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 14h (9%) · plus BAS vers 0h (11%), 16h (11%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +42.7$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — achats sur repli</b>\nZone d'achat : Pivot 3946 → S1 3912\nObjectifs : PDH 3981 → R1 4004 → R2 4038\n❌ Invalidation : clôture H1 sous S1 3912\n\n🔁 <b>Alternatif</b> : cassure de S1 → vente vers PDL 3889 → S2 3855\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-11-04T06:01:48.712088+00:00",
+  "text": "☀️ <b>PRÉVISION OR — MERCREDI 04/11</b>\nPrix : <b>4008.50</b>  ·  Biais du jour : <b>📈 HAUSSIER</b> (+24/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 174 news notées, moyenne +0.55\n🔴 Momentum or (vs MM50) : prix 4008 vs MM20 4087 / MM50 4252\n🟢 Taux réels 10 ans (20j) : 2.62% (-0.30 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : +67.6$ · plus haut 4011.6 / plus bas 3928.2 (range 83$)\nDXY -0.44% sur la nuit\n⚠️ Plus haut de la veille (3982) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~80$</b> (ATR 76$ × profil du mercredi)\nDéjà fait en Asie : 83$ (104% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4019.7 | R1 3980.0 | <b>Pivot 3942.1</b> | S1 3902.4 | S2 3864.5\nVeille : PDH 3981.7 / PDL 3904.1  ·  Semaine passée : 4097 / 3879\n\n📅 <b>Annonces du jour</b>\n🔥 <b>14:15</b> 🇺🇸 ADP Non-Farm Employment Change (prév. 67K)\n    🔺 Au-dessus de 67K (économie plus forte que prévu) → moins de raisons de baisser les taux → dollar ↑ → <b>or ↓</b>\n    🔻 En dessous de 67K → effet inverse → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -0.74% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1051 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 2h (12%), 16h (12%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +118.5$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — achats sur repli</b>\nZone d'achat : Pivot 3942 → S1 3902\nObjectifs : R1 3980 → PDH 3982 → R2 4020\n❌ Invalidation : clôture H1 sous S1 3902\n\n🔁 <b>Alternatif</b> : cassure de S1 → vente vers PDL 3904 → S2 3864\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
