@@ -1001,13 +1001,6 @@
   }
  },
  "seen_news": [
-  "e2641461b4c7",
-  "66b09859de75",
-  "5854555cf26b",
-  "d36516ee2314",
-  "363ec1833fba",
-  "d99a02582116",
-  "68b639c62997",
   "7738fb922a08",
   "6271a8e53962",
   "b0a3a5864d05",
@@ -4000,7 +3993,14 @@
   "d3497b37fa8a",
   "9edbf0e2114d",
   "c3b2f69d58b1",
-  "114aa613064f"
+  "114aa613064f",
+  "61ee1963af99",
+  "98f9906df453",
+  "fe4901452372",
+  "10d631ae0645",
+  "68e44776c872",
+  "6306c1404fd7",
+  "9f6521377877"
  ],
  "news": [
   {
@@ -4062,6 +4062,18 @@
    "cat": "commerce",
    "raison": "Tensions tarifaires persistantes alimentant l'inflation et l'incertitude macroéconomique, facteur de soutien pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Oil prices fall on Vance's post-midterms Iran war repudiation",
+   "source": "Politico",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
+   "published": "2026-11-04T20:46:00+00:00",
+   "id": "fe4901452372",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
@@ -4158,6 +4170,18 @@
    "cat": "géopolitique",
    "raison": "Menaces iraniennes contre l'Europe stimulant immédiatement la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Gold price heads for biggest daily gain since August as dollar weakens",
+   "source": "Mining.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbThtaVVIT29jZTZWaEFYRS1DbmE3MkFDY1RZRGx6LWtWal9Nd0RWZE5OdHdaazRnRnpDN1lSRVBEVHg4Y1NyQlJvYWk3S3FMOFJFS0Rpby1faEkxMlJPZEctVUNacWdpVkFrZ0FtTnFZeHlXS2VMdGY3YTBuelNsMnNZemNmVjNydi1KVWJJankzRklvZTU4?oc=5",
+   "published": "2026-11-04T18:32:40+00:00",
+   "id": "61ee1963af99",
+   "impact": 5,
+   "cat": "dollar",
+   "raison": "haussier or (dollar)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump’s Midterm Loss Leaves Canada to Weigh a Trade Deal or Wait",
@@ -6378,30 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Efforts diplomatiques de désescalade au Moyen-Orient érodant marginalement la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Changes Which Canadian Goods Face 50 Percent Tariffs",
-   "source": "Legis1",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KU21UbUNMbWFlNlJwSlBKd0JyNXhwcHpFVnBrUmxDaHE0S1Z4TlZJVndZeE4wQVIzaHZWM2RCR0NxRG1oZmdxUGxoS3dkQkFBSXJWTjc0RFZod3haZ0RNazZyWUx0RzNvaG5vY1NjNWJDZmFuSlBMMnJTQTdDZw?oc=5",
-   "published": "2026-11-03T17:38:48+00:00",
-   "id": "06627204f049",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Ajustement tarifaire ciblé avec le Canada, léger regain de tensions protectionnistes.",
-   "method": "IA"
-  },
-  {
-   "title": "Ford May Get Tariff Relief As Trump, Carney Say Trade Talks Progressing",
-   "source": "Ford Authority",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakJ2c0FlWGZ5R0V6NmZMdS1CRFIzZm9OaEdoWmRzYmhWMFpzLW5VR1dUa2lROEVpZnhQbkhZY3BxeUQxaWZkTjU2Nm9RY2xibFp5X2ZQQVpOM0ZFZms3Z29GOVVWN3JodFhyNThBWjBlRFJ6ZEk2TzN2NDBMVkkwVVQ0NThXMVM2WVhiS1VzcjRUUnR2ZEMzdkRTcWo2cm81cUlrYVJ2el8?oc=5",
-   "published": "2026-11-03T17:33:37+00:00",
-   "id": "ffb0e9d7409e",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8047,7 +8047,8 @@
   "news|a6a777c69ba9": 1793827890.2172058,
   "news|e01050cf0724": 1793828780.013227,
   "news|d3497b37fa8a": 1793831487.5364118,
-  "news|4c1f98d50cea": 1793831488.459506
+  "news|4c1f98d50cea": 1793831488.459506,
+  "news|fe4901452372": 1793832369.5655684
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8359,6 +8360,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T22:46:09.565658+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil prices fall on Vance's post-midterms Iran war repudiation</b>\n📰 Politico · Mer 04/11 21:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5"
+  },
+  {
    "ts": "2026-11-04T22:31:28.459743+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump concedes Iran war angered voters, triggered Democratic landslide</b>\n📰 The Washington Post · Mer 04/11 23:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxONUlGcnVxOUNGdUpRN1hoM2FIcHRHMGdqQUpGRGZJeWVqb0NBNmgtbzBXV3I2eWt4bVd1U3h6MXJQTURlRnRVc1RZMEZRNm4zSlNSQnUwNzhrMWxqNmcyVFdtdmFwN3Awd0ZSNmpEckdmbXlhUkM0NmdYSjQtQlNYZllyVXRsOW9EU1BWNU9rMTJDcTAtR2FWTjdaSE9OR2RpU2JFV3c5cw?oc=5"
@@ -8652,11 +8658,6 @@
    "ts": "2026-11-04T11:46:12.900074+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>Bitcoin Falls to $75,500 as Warsh Backs Fed Independence</b>\n📰 CoinMarketCap · Mer 04/11 08:48\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxONFJLU19UbWVPUDFtenhnajhPbkhENldlNUZLelFEX21LRU5nUDFPU2RTblFxRUg0dDlrQ0dxb25lMmpGUTdfTUpDRUd6eXVKbFhxdmE1MFJJV0lKTk1PQ0htc21Tb2lvLWwtcF9kaGx0akFkWC01MXRUa3Z0QTdXNDZuRnpEd19SXzJLT2lFUG9xQTA2TnBnaGVpenFzNW14cmt3bg?oc=5"
-  },
-  {
-   "ts": "2026-11-04T11:46:11.969434+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses</b>\n📰 WSJ · Mer 04/11 12:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5"
   }
  ],
  "daily_forecast": {
