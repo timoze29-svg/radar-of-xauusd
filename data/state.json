@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "925471a9f379",
-  "4d05d43767b1",
-  "c005cd7deffa",
-  "a2fc6092af74",
-  "3fda0e19042d",
   "cbc33ac2ac11",
   "2960840957c8",
   "1d0bb156a4e7",
@@ -4000,9 +3995,26 @@
   "70fba082d242",
   "ab2381abfa06",
   "e06c9ec87b95",
-  "ca398c1d0909"
+  "ca398c1d0909",
+  "03205d9fc8aa",
+  "f89589f3a7fb",
+  "81f45b395f5b",
+  "3a3fe6d45d38",
+  "c79d7110f28c"
  ],
  "news": [
+  {
+   "title": "Euro holds gains as US Dollar weakens following midterm elections",
+   "source": "FXStreet",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHNpc1RiM05CZ05RUGItZER2QW9mQ2R4ekhXM21SMlRmTTBXTU0za00tM25mX29WTWdlOXR3NXU4TzBzbXpMRTdLRktva1NYMWtJN2FoQXFqYWs0VTFEYkFCYXFJM0RyR2lreGRpcjBqbEl1M2d1ZHhFZGJPWjBaY1RpblJuT19peExOeDE1Nmd1c2lVLW5ZRDZHS1cwamZfOE95d1hQNExmdUtF?oc=5",
+   "published": "2026-11-04T18:22:26+00:00",
+   "id": "c79d7110f28c",
+   "impact": 5,
+   "cat": "dollar",
+   "raison": "haussier or (dollar)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress",
    "source": "Foreign Policy",
@@ -4406,6 +4418,18 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDlQRHRUMGc3SmZqTUpwcEY0UWRDQ2k4aTRYd1R4bWRySVlXWjRSTjREUno3bzdlWDNqanhyeHQ5cjc2dHdDR0JfWmNSYXZxeGV6YUZrQzVfNHNmemZkZHFoUWxDbnE2N1BCWUlMMnVlMm91R2FXTHIzbmlvNHR1dVp5cExuYjNDZEdRNWhkME9QbEJxaGEybUxn?oc=5",
    "published": "2026-11-04T13:56:00+00:00",
    "id": "a7ef3f64ffd7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Plays Down Prospect of Iran Strikes After Midterm Rout",
+   "source": "Bloomberg.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHRkUkRMbVBDMGNsRFFDZVliSXJlNkFZSTkxQWdxeXpoUHFEZ2U4d1l4UFJsck5ldWJmcFFkWUFqNGs5OS1US0U1T1hEQWR5bmgyd082VTQta3FBSUNTRUx2ZURvbTlLV203OVFSOXV4SXN5RU1xUnlQMHhQREV4dmh2V1Fhckc2enFZY3FMelZzcElFX2NoWFRXS3lPajUtOW9KVWhBaml2REVEREtybEl4Z3o?oc=5",
+   "published": "2026-11-04T13:55:29+00:00",
+   "id": "f89589f3a7fb",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6378,34 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump says Fed rate cuts could help the US balance its budget as debt pressures mount",
-   "source": "Business Upturn",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaC1fLTNUM2tMZzFaaFdZM3ZuWWw0UUE3bVE4S2pvODNuMTBmWnRXZ1haeDlZajZiZjN6SEZnRmxRd2RxVHB6MTFoM01TZ25XNjZSWHRBajJLWUpDdklPNkdLRkxDbVhjb0R0LUptSlg1WG5mR1VRUm1CM2hkOUpMZEFad1ltOEJqYWh0WTZ1U0g1ZTJWQklLSjFoeFBVaWJmTUVOWndkc2tWTE9EdjNiQUxTTmV2cVFhYkVvVm1heDJFNWhY?oc=5",
-   "published": "2026-11-03T14:12:00+00:00",
-   "id": "607d3ae44ee2",
-   "impact": 8,
-   "cat": "fed",
-   "raison": "haussier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Christina Bohannan says Trump’s tariffs are costing families $4,200. That’s Mostly False.",
-   "source": "The Daily Iowan",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3VqTHdUTDh2MGJ1V2NwTGJzblVPN3JwVzFaX3E1WC1mRjgzN0hXMTBDaHp3bVpFNTZQYzBJX3VmbWVCWGZEZjkxZ3ZQUVdLeUFVeFJNTlJ0LVJjTGxCLWJEOWlRRENXTXhIZ3hVdnJBUFFYeEJ4WjRyNFBLejNLaHFUZ1lVN1F0Y3Y1STh6U0FaY1p4RFl3cUhUNmlMTFpqX2diVGdjUFhnTGgtX09sbTdzdHZWZGxHUkE?oc=5",
-   "published": "2026-11-03T14:10:09+00:00",
-   "id": "cc2642b9d60c",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|6385af1f1eda": 1792002686.6435578,
   "brk|US10Y|pdh|dn|2026-10-14": 1792003590.0946355,
   "pre15m|2026-10-14T15:00:00-04:00": 1792003591.1471488,
   "news|3723fd76efd0": 1792005364.6153932,
@@ -8049,7 +8048,8 @@
   "brk|OIL|h20|dn|2026-11-02/2026-11-08": 1793814375.5072236,
   "news|2ce9169e6883": 1793815333.4017415,
   "news|3f7e157154b5": 1793816171.177876,
-  "big|VIX|2026-11-04": 1793816172.3928142
+  "big|VIX|2026-11-04": 1793816172.3928142,
+  "news|f89589f3a7fb": 1793817097.4030273
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8361,6 +8361,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T18:31:37.403141+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Plays Down Prospect of Iran Strikes After Midterm Rout</b>\n📰 Bloomberg.com · Mer 04/11 14:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHRkUkRMbVBDMGNsRFFDZVliSXJlNkFZSTkxQWdxeXpoUHFEZ2U4d1l4UFJsck5ldWJmcFFkWUFqNGs5OS1US0U1T1hEQWR5bmgyd082VTQta3FBSUNTRUx2ZURvbTlLV203OVFSOXV4SXN5RU1xUnlQMHhQREV4dmh2V1Fhckc2enFZY3FMelZzcElFX2NoWFRXS3lPajUtOW9KVWhBaml2REVEREtybEl4Z3o?oc=5"
+  },
+  {
    "ts": "2026-11-04T18:16:12.392877+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-4.11 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
@@ -8654,11 +8659,6 @@
    "ts": "2026-11-04T07:01:51.343045+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump cuts $5bn in aid to Israel, confirms secret strike on Iran</b>\n📰 Herald Sun · Mer 04/11 07:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNNTZoSzNDeDFyUDd1YTdGRUdvMXQ2NExrTU02VXJrT0dMVGRvRGVPVWZaOENiRlROdjMtMkVZSWdnc0lBcEVUeUZVV0w0MFgwX1hKbWV2b1Rld1RzaE9WTTBMajA5S1doSDV1WlYwU2VfTm9VbnNFaVg5dVNyUVhBdUZpb2VVSXFNRWIzQmlxdVA4ZEhLZHdCbkhtS1V6dVBMd1BOT0VDdW5nZFViMlRsSHd5dFRfOEVfa1FfYUJTb2otTGRpUFVWR0swTV9rZEFYdnhlZmtJQ1h1N25wRjVZQ1dUVEZPVU1BRHEyVlQ4a3RDTzBtTTE3bldJX294SUtJUU1FLWNn?oc=5"
-  },
-  {
-   "ts": "2026-11-04T06:31:32.657213+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n+2.198 aujourd'hui = 1.7× l'ATR\n🥇 🟢 haussier pour l'or"
   }
  ],
  "daily_forecast": {
