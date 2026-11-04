@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1793721679.4832265,
+   "ts": 1793765750.5500042,
    "data": {
     "date": "2026-10-27",
     "net": 186451,
@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "cc6a928df501",
-  "37d2453cbb78",
-  "c1889320a0ef",
-  "fcd9684e048f",
   "44457c3a8f2f",
   "11bde23d9393",
   "31dc263fc9e4",
@@ -4000,7 +3996,11 @@
   "c73e441eb011",
   "13add2d6c4d2",
   "110043eef1ae",
-  "28dfad78ca9a"
+  "28dfad78ca9a",
+  "6866bcd539fc",
+  "4542fbbc6a20",
+  "c5097d6d0504",
+  "b77f57a0181e"
  ],
  "news": [
   {
@@ -4253,6 +4253,18 @@
    "impact": 10,
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US has no immediate plans to strike Iran but is 'locked and loaded,' Donald Trump says",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01dHUwTm5ZYmVBZ19kMzVITlBod19LUEtlT2pYVVJaTVJTNldTZ2tOWGZJSl82ZFdvNVdsMWVKQlpSZlM4REZqcFdwS3cxOG05RVdselFCTk5tT0JRRmJMLURTaVFCNkdJaEE?oc=5",
+   "published": "2026-11-03T23:52:36+00:00",
+   "id": "c5097d6d0504",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,23 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
-   "published": "2026-11-03T00:39:00+00:00",
-   "id": "e019eae62ee8",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|dd4b97179b75": 1791950489.8041306,
-  "brk|DXY|pdh|dn|2026-10-14": 1791951370.560926,
   "news|e097dcc6b456": 1791952289.5965223,
   "news|55b0a6d6c011": 1791954090.9130929,
   "news|049416c29d02": 1791954091.830632,
@@ -8048,7 +8046,8 @@
   "news|ac3882778068": 1793763087.3831506,
   "news|b01655b899f5": 1793763088.3918788,
   "news|9bbd103e2d4a": 1793763089.3550658,
-  "news|d8069c198df7": 1793763971.4290764
+  "news|d8069c198df7": 1793763971.4290764,
+  "news|c5097d6d0504": 1793765784.651273
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8344,6 +8343,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T04:16:24.651363+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US has no immediate plans to strike Iran but is 'locked and loaded,' Donald Trump says</b>\n📰 The Jerusalem Post · Mer 04/11 00:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE01dHUwTm5ZYmVBZ19kMzVITlBod19LUEtlT2pYVVJaTVJTNldTZ2tOWGZJSl82ZFdvNVdsMWVKQlpSZlM4REZqcFdwS3cxOG05RVdselFCTk5tT0JRRmJMLURTaVFCNkdJaEE?oc=5"
+  },
+  {
    "ts": "2026-11-04T03:46:11.429178+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Democrats projected to win House as voters rebuke Trump’s Iran war</b>\n📰 Al-Monitor · Mer 04/11 04:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTJjVGc3bFUxU29qbjMtU3BHRnozU2ZmdDB6RndPVUY5YjAyUHNxR3pWX2hSN1dOdWdrdVB2X2dQMzlyc2FsNkRIelR1QmdZSWtCRVozY0x5Z3Z3S2ZVTExheEZNdV9STU9mdnlWejAwemtpM0FIekFlN000dFh5dWpoUXVrRHNKQ1VtMldvZVlaMERpY0VIeFluMFZ2LW82UXYteHJobw?oc=5"
@@ -8637,11 +8641,6 @@
    "ts": "2026-11-03T12:16:05.007262+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest</b>\n📰 Al Jazeera · Mar 03/11 11:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3VQMEhEWThtQUQ1MnNyMzlyTTNkVE5YQTljdkRXOHFsNjc4WVRMSVE1UDhxb0V2MnpVd3otLVJSempBQnRwVEdIbFN3emJKRGdWMGZOZ2ZuYm9zODY1V0RmZFFWV3ZLYkxZZ1ZySmY4WWU1bWwtcUwyT011eENIMlUxLWdCV294SXZxcHZ4ZjJPT2VGODFjN2xkRjNLX1RzSHVNQ0cwTldvaDdlbzFfMg?oc=5"
-  },
-  {
-   "ts": "2026-11-03T12:16:03.994616+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Deeply Alarming': Hours Before Midterm Elections, Trump Bombs Iran's Qeshm Island</b>\n📰 Common Dreams · Mar 03/11 12:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1uaWpqVGp2Y0RneDdDSkM2N1hvMjBkT0FBZDRRbk1zdC1ncGE5QWVlNm1ZQ1BkTE9tMklLak92ZmZwc2o0SEtTZG1NVGZpb05aaDVseWRQelI4bWhKdGx2Qjkwc1gxRWVzMENROGhqVkRIMlBY?oc=5"
   }
  ],
  "daily_forecast": {
