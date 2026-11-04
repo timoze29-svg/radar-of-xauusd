@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "545d6443b5ce",
-  "abc8a12a41bb",
-  "a23f4522ff46",
-  "2a4f2aa79c6a",
-  "1169dda8064d",
-  "7fb63a6dbd05",
-  "d944a0d51254",
-  "62eb872d0e7c",
   "3bc48e5a6ee0",
   "72da2c05431e",
   "0d2d315aa02c",
@@ -4000,9 +3992,41 @@
   "d3a4e32a8a85",
   "0f168d9f6e3e",
   "bad1219373f9",
-  "19e406543349"
+  "19e406543349",
+  "01f9a714785e",
+  "a69919f7d019",
+  "723c23b15a8f",
+  "15ea3bba500c",
+  "ee3f4cf15ed4",
+  "8af01db16d71",
+  "2a178fee2832",
+  "3ddfc586d91d"
  ],
  "news": [
+  {
+   "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+   "source": "Al Jazeera",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdF9kYVI3SGNySm5CRUp6OWpWc1F3TzZYN09vMnJHTmFFTnJoOUpacUdHbnJ5Ty1WSmZab21Ea0Y0R2w3MERTcjd6ajBqN1FkQ3JCaGl4XzRxU091eFROMm9yUnBzODV0Zm8xMTh3WkxBMFpUVXV6YlB2d1R0bm9SMElIdktra1FJWTdabURGN1B3UzM1TWRqT1JkME5VcndzWExPbjBn0gGrAUFVX3lxTE0tSXQyTjAyWHRXMUl5dVJ0c0ZMSFdDSTFKNGtTU3pqMlUwd3ZMMmROb0NnbS01THhRYkloXzNQOGE4Uzc3RTdHekFIS3BJYUppYTA2b2NrcWVucmZBTkNaR1VrTGRfM3FueUNzMzNSSGlZZU8xQ0pzYTFyQWpULWhtU09zalFRY0xkSkh5N1hJWi1YS0Z3cjkxOTlURzlidGlEU2htVHZBa0Nfaw?oc=5",
+   "published": "2026-11-04T15:22:30+00:00",
+   "id": "723c23b15a8f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. strikes Qeshm Island after missile fire as Iran warns its response could have \"no geographical limits\"",
+   "source": "Latin Times",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdXhTYWdoRVFvYWZBMTVEQkVvNFh5OG1GSDVVTk5jeDlDYzJpUWNHLTVreFpCelpFZHRXaVAyMEh1RExqazVveWlTN3RzS0JnYWxadEo3YkJaU292VUQ3WEdHTkJJSG9YRDJzMGlCYm05QlZWelAtdnZDaWpYd1k?oc=5",
+   "published": "2026-11-04T15:22:02+00:00",
+   "id": "15ea3bba500c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
    "source": "The Washington Post",
@@ -6378,30 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
-   "source": "wfmz.com",
-   "theme": "Géopolitique",
-   "link": "https://www.wfmz.com/news/ap/ap-national/iran-s-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/article_4cd51f4d-14df-5d20-90c9-21ddc855c56c.html",
-   "published": "2026-11-03T11:15:00+00:00",
-   "id": "e5c8dc711b97",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-   "source": "wdov.iheart.com",
-   "theme": "Géopolitique",
-   "link": "https://wdov.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-   "published": "2026-11-03T11:15:00+00:00",
-   "id": "80e031449caf",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8045,7 +8045,9 @@
   "big|SPX|2026-11-04": 1793803569.704657,
   "news|32aa35c7e8ba": 1793804502.1748827,
   "news|1d93fd09c429": 1793806306.3357427,
-  "big|BTC|2026-11-04": 1793806307.590224
+  "big|BTC|2026-11-04": 1793806307.590224,
+  "news|723c23b15a8f": 1793807204.938166,
+  "news|15ea3bba500c": 1793807205.7676966
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8357,6 +8359,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T15:46:45.767830+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. strikes Qeshm Island after missile fire as Iran warns its response could have \"no geographical limits\"</b>\n📰 Latin Times · Mer 04/11 16:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdXhTYWdoRVFvYWZBMTVEQkVvNFh5OG1GSDVVTk5jeDlDYzJpUWNHLTVreFpCelpFZHRXaVAyMEh1RExqazVveWlTN3RzS0JnYWxadEo3YkJaU292VUQ3WEdHTkJJSG9YRDJzMGlCYm05QlZWelAtdnZDaWpYd1k?oc=5"
+  },
+  {
+   "ts": "2026-11-04T15:46:44.938251+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iranian leaders welcome US midterms, but Trump may still attack</b>\n📰 Al Jazeera · Mer 04/11 16:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNdF9kYVI3SGNySm5CRUp6OWpWc1F3TzZYN09vMnJHTmFFTnJoOUpacUdHbnJ5Ty1WSmZab21Ea0Y0R2w3MERTcjd6ajBqN1FkQ3JCaGl4XzRxU091eFROMm9yUnBzODV0Zm8xMTh3WkxBMFpUVXV6YlB2d1R0bm9SMElIdktra1FJWTdabURGN1B3UzM1TWRqT1JkME5VcndzWExPbjBn0gGrAUFVX3lxTE0tSXQyTjAyWHRXMUl5dVJ0c0ZMSFdDSTFKNGtTU3pqMlUwd3ZMMmROb0NnbS01THhRYkloXzNQOGE4Uzc3RTdHekFIS3BJYUppYTA2b2NrcWVucmZBTkNaR1VrTGRfM3FueUNzMzNSSGlZZU8xQ0pzYTFyQWpULWhtU09zalFRY0xkSkh5N1hJWi1YS0Z3cjkxOTlURzlidGlEU2htVHZBa0Nfaw?oc=5"
+  },
+  {
    "ts": "2026-11-04T15:31:48.657272+00:00",
    "kind": "dollar_pressure",
    "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.17%\n✅ Taux US 10 ans +3.7 pb\n✅ Pétrole +0.75%\n✅ EUR/USD -0.28%\n▫️ News dollar/Fed : 1 (impact moyen or -5.0)\n   • Canadian Dollar rises to seven-week high as markets digest US election results\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu 4/4 signaux dans ce sens,\nle dollar a continué à monter dans <b>57%</b> des cas sur 2h,\net l'or a baissé dans <b>51%</b> des cas (moyenne +0.1$, sur 75 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
@@ -8645,16 +8657,6 @@
    "ts": "2026-11-04T03:31:27.383228+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump confirms strikes on Iran as Tehran warns against return to war</b>\n📰 AFP.com · Mer 04/11 03:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRNMk9XMXBCU3hrZFo3Z1NKcFVKYlF3Q251cXZnZ0U3eFI5TmFUaU1SUWV6VFFNWUh2YjRZOGhIanBPb1lzLUp6NHhFY1JqWUprdDNEczhjSEI1MG4yMnRNbWVCSkdrTnE4MEVMMlNEMFVYTHhZYnZ2TWl5dTJybllGZXB0OUQxelE?oc=5"
-  },
-  {
-   "ts": "2026-11-04T03:01:51.934737+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 20 JOURS\nNiveau : 76 190 → prix : <b>75 871</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.34 | 60j 0.52"
-  },
-  {
-   "ts": "2026-11-04T03:01:51.008578+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 76 190 → prix : <b>75 871</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.34 | 60j 0.52"
   }
  ],
  "daily_forecast": {
