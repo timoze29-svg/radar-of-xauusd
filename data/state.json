@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793751353.1871552,
+   "ts": 1793773869.6019187,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1001,15 +1001,6 @@
   }
  },
  "seen_news": [
-  "007714254d79",
-  "896a3c0a9480",
-  "9fd8f2ec037a",
-  "eafc12ffda83",
-  "34ea999ff807",
-  "d86ee62a6cd6",
-  "8dc01b526593",
-  "a9a35e5ac033",
-  "dc37a81afa95",
   "5c0f6c955d1a",
   "e820e624c9f7",
   "3e2348dae807",
@@ -4000,7 +3991,16 @@
   "a0b4d9f6b26d",
   "a2f3e12f7434",
   "76c381341f65",
-  "b4376426d18c"
+  "b4376426d18c",
+  "955806204770",
+  "15ecfe4a3d51",
+  "d2f3fbf06fc7",
+  "d9d1f2c1e4c2",
+  "236db90d64fa",
+  "55e7371ed2f4",
+  "c0f364c275ba",
+  "aa20db3608e5",
+  "a8015f31f8a8"
  ],
  "news": [
   {
@@ -4146,6 +4146,18 @@
    "cat": "dollar",
    "raison": "Le repli du dollar rend l'or mécaniquement plus attractif pour les investisseurs.",
    "method": "IA"
+  },
+  {
+   "title": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+   "published": "2026-11-04T02:10:00+00:00",
+   "id": "236db90d64fa",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Central Bank Buying Offsets Weaker Retail Gold Demand in Q3",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
-   "source": "France 24",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVOWHBGVlBPVTVGZHQyb2x2dUZOdGNidWIyTk5JcUpOSlhabS1lSjBEN014aDZ6MTh0elFDSnJ3eHNPTzhHejBUWjQyam9kOVZsaDlDYm5sanN4RUU1QmY2djFOemhpc01DRk5kQWpBS2dFRkJmcnI5b09jT01SZzRFZXN2aklROEYwMFBYbXc1SzB3NmJtOW5rQUVtVUE4al80b093cU1ibkRQM0hvTFJn?oc=5",
-   "published": "2026-11-03T02:28:07+00:00",
-   "id": "59f8d9d88b3a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8051,7 +8051,9 @@
   "news|ee82cdcfdb04": 1793770288.8327777,
   "brk|GOLD|pdh|up|2026-11-04": 1793771165.3143077,
   "rep|daily|2026-11-04": 1793772108.7121277,
-  "news|a0b4d9f6b26d": 1793772970.7725234
+  "news|a0b4d9f6b26d": 1793772970.7725234,
+  "news|236db90d64fa": 1793773891.6023781,
+  "big|SILVER|2026-11-04": 1793773892.6571655
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8363,6 +8365,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T06:31:32.657213+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n+2.198 aujourd'hui = 1.7× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-11-04T06:31:31.602468+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil rises on Iran war uncertainty after Trump's Republicans face election rout</b>\n📰 Reuters · Mer 04/11 03:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5"
+  },
+  {
    "ts": "2026-11-04T06:16:10.772618+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Major losses could spur Trump to escalate war before year's end</b>\n📰 Responsible Statecraft · Mer 04/11 06:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFB5Sks4TGpzbWJPNGxHcWdQQ3k5Y3hIZW1rQWRCUGJac01rYUl1MkppWXJ4aFdST3ZBeDFjeU55Mi15NUkwbTBQSlk2QnE4ME05b2NrTmh2WmZMOHZRMHBESHVqZzlfRWVwZlE?oc=5"
@@ -8651,16 +8663,6 @@
    "ts": "2026-11-03T15:01:50.106406+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Congressional Elections</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-03T15:01:48.884033+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gold gains, silver slips as U.S. midterms and Iran strikes unsettle markets - Kitco AM Report</b>\n📰 Kitco · Mar 03/11 14:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnA5S0hlcXVfc0h5V0dlanBjU2hJdm80cUE1eGEyQXhmb1R0WnNoOGF5LW1ySlFtMi1aaXEwQnZWbGxTV1RSSDQ0c19TN3AxN2VMV0l3SFBMRHN5S29Yc0pvOTFxSjNSUzhYWVh0ei10b0hxQk82azVIV21oWFVGSTgzUGxhVUU5aHhoWHZ3S2ZjbC1QWHNQd05IU0g4cE1xeDdSaFNvWG1kQkx1MXBQQVZ0MVFPU0JOS3RSR1Vn?oc=5"
-  },
-  {
-   "ts": "2026-11-03T14:31:31.971658+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 4.921 → prix : <b>4.923</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.22 | 60j -0.12"
   }
  ],
  "daily_forecast": {
