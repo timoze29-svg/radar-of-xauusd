@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "e820e624c9f7",
-  "3e2348dae807",
-  "a3c134e3bf5d",
-  "0db08ee25565",
-  "0c8006c22cd2",
-  "d520002062c1",
-  "2783c92c06d0",
-  "2f8e97e596a2",
   "84a7879df86e",
   "72c8456d3fc6",
   "f8ee8b26ade8",
@@ -4000,7 +3992,15 @@
   "c0f364c275ba",
   "aa20db3608e5",
   "a8015f31f8a8",
-  "378259420f59"
+  "378259420f59",
+  "a67db650c79f",
+  "3afa26af105e",
+  "07534a844c3e",
+  "a08a5f63d3c1",
+  "93417bace741",
+  "3f112fa8c35f",
+  "5f624461940a",
+  "f1aae16b9956"
  ],
  "news": [
   {
@@ -4013,6 +4013,18 @@
    "impact": 3,
    "cat": "or",
    "raison": "haussier or (or)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump cuts $5bn in aid to Israel, confirms secret strike on Iran",
+   "source": "Herald Sun",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNTZoSzNDeDFyUDd1YTdGRUdvMXQ2NExrTU02VXJrT0dMVGRvRGVPVWZaOENiRlROdjMtMkVZSWdnc0lBcEVUeUZVV0w0MFgwX1hKbWV2b1Rld1RzaE9WTTBMajA5S1doSDV1WlYwU2VfTm9VbnNFaVg5dVNyUVhBdUZpb2VVSXFNRWIzQmlxdVA4ZEhLZHdCbkhtS1V6dVBMd1BOT0VDdW5nZFViMlRsSHd5dFRfOEVfa1FfYUJTb2otTGRpUFVWR0swTV9rZEFYdnhlZmtJQ1h1N25wRjVZQ1dUVEZPVU1BRHEyVlQ4a3RDTzBtTTE3bldJX294SUtJUU1FLWNn?oc=5",
+   "published": "2026-11-04T06:10:55+00:00",
+   "id": "07534a844c3e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,22 +6402,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says",
-   "source": "AP News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
-   "published": "2026-11-03T02:38:00+00:00",
-   "id": "f145334af4c3",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|bfac0c2ea9e6": 1791960368.837421,
   "brk|GOLD|pdh|dn|2026-10-14": 1791963305.2664158,
   "news|ff187a181b84": 1791965812.1106384,
   "pre1h|2026-10-14T05:40:00-04:00": 1791966685.946275,
@@ -8053,7 +8052,8 @@
   "rep|daily|2026-11-04": 1793772108.7121277,
   "news|a0b4d9f6b26d": 1793772970.7725234,
   "news|236db90d64fa": 1793773891.6023781,
-  "big|SILVER|2026-11-04": 1793773892.6571655
+  "big|SILVER|2026-11-04": 1793773892.6571655,
+  "news|07534a844c3e": 1793775711.342951
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8365,6 +8365,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T07:01:51.343045+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump cuts $5bn in aid to Israel, confirms secret strike on Iran</b>\n📰 Herald Sun · Mer 04/11 07:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNNTZoSzNDeDFyUDd1YTdGRUdvMXQ2NExrTU02VXJrT0dMVGRvRGVPVWZaOENiRlROdjMtMkVZSWdnc0lBcEVUeUZVV0w0MFgwX1hKbWV2b1Rld1RzaE9WTTBMajA5S1doSDV1WlYwU2VfTm9VbnNFaVg5dVNyUVhBdUZpb2VVSXFNRWIzQmlxdVA4ZEhLZHdCbkhtS1V6dVBMd1BOT0VDdW5nZFViMlRsSHd5dFRfOEVfa1FfYUJTb2otTGRpUFVWR0swTV9rZEFYdnhlZmtJQ1h1N25wRjVZQ1dUVEZPVU1BRHEyVlQ4a3RDTzBtTTE3bldJX294SUtJUU1FLWNn?oc=5"
+  },
+  {
    "ts": "2026-11-04T06:31:32.657213+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n+2.198 aujourd'hui = 1.7× l'ATR\n🥇 🟢 haussier pour l'or"
@@ -8658,11 +8663,6 @@
    "ts": "2026-11-03T15:16:06.913174+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump to Unveil More Tariffs After Midterms as $40 Trillion Debt and War Costs Raise Revenue Pressure, Say Top Economists</b>\n📰 TradingView · Mar 03/11 14:47\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQck02RUdYV0NFaWdxd1dtXzFKd1dabk5veEwtNDVpWkdhUG5xejNLRUhKVTJ6RWpDTjZjNGpPSS1WRDdHZENsV0VfUjBsWmc0NnFmTFBXUWlJVmhKY1BDWTFOa19wR3JEU0Y4b09rR2JKckt2NzhOYkYtdDU3c285OFllMzA1UUJhUG5Ra2RtdkhiT0xvMHBSbGQyU0xsRHd2dkIyelZrOTNIYTBMZlluOFlxWmd0T2dPdUpYaHJTX0lob0I5R2V4N0MtZG1EX21lM3FwcGdoZlVUdHoyanNmM2NiTm5FZFhrYUZ5OVN3amgwQjg3eEdzZzJtOUZzaDJJZ2l5MDFMQ1FsUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-03T15:01:50.106406+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Congressional Elections</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
