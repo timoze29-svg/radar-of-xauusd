@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793766666.0127246,
+   "ts": 1793771145.2079818,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,16 +1001,6 @@
   }
  },
  "seen_news": [
-  "10b7be446004",
-  "291e2115ae4c",
-  "bf3696f8ab0e",
-  "f53bcc1fcfe8",
-  "1b2b397cfbbb",
-  "c09d289190a6",
-  "d270b3bc109c",
-  "df43dc8468a0",
-  "bc6ff50e9851",
-  "ded5ea254c38",
   "5df811f119ab",
   "d91e9ce85f02",
   "781692656567",
@@ -4000,7 +3990,17 @@
   "ee82cdcfdb04",
   "ccf135dea346",
   "4ed179928e44",
-  "6ab3e397d473"
+  "6ab3e397d473",
+  "7b893e3c1a4e",
+  "fdc604497a08",
+  "c6431a207651",
+  "d68e970a30a1",
+  "c16087ca2534",
+  "00d3f51ac3ef",
+  "83c3fa0a58b9",
+  "8c88fdd3c612",
+  "f2eba9de810f",
+  "4290f328de35"
  ],
  "news": [
   {
@@ -4302,6 +4302,18 @@
    "cat": "dollar",
    "raison": "Faiblesse du dollar pré-électorale offrant un soutien mécanique au cours de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Gold rises as dollar weakens; Democrats score early wins in US midterm elections",
+   "source": "Reuters",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
+   "published": "2026-11-04T00:58:00+00:00",
+   "id": "7b893e3c1a4e",
+   "impact": 5,
+   "cat": "dollar",
+   "raison": "haussier or (dollar)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump administration's mixed messaging on war with Iran: ANALYSIS - ABC News",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "U . S . strikes Iran Qeshm Island : report",
-   "source": "thehindu.com",
-   "theme": "Géopolitique",
-   "link": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
-   "published": "2026-11-03T02:15:00+00:00",
-   "id": "e825c27b8562",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8050,7 +8050,8 @@
   "brk|DXY|pdh|dn|2026-11-04": 1793769532.813374,
   "news|294c3ae1e59c": 1793770287.2005632,
   "news|ccf135dea346": 1793770288.0260825,
-  "news|ee82cdcfdb04": 1793770288.8327777
+  "news|ee82cdcfdb04": 1793770288.8327777,
+  "brk|GOLD|pdh|up|2026-11-04": 1793771165.3143077
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8346,6 +8347,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T05:46:05.314367+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 3 981.70 → prix : <b>3 986.60</b>\nATR jour : 76.1$ | Pivot hebdo : 3958.5\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 781 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-04T05:31:28.833100+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Democrats on track to win Senate control, setting up Iran war showdown</b>\n📰 Al-Monitor · Mer 04/11 05:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDV3M1FFMS0wWFBGMVNldm4xSzRwMjBhczBhYlFhTFJ5ZVRKdXFtdXU3TmUzMG9DbG1UcmhFZU5ULWlHVF9SSmpjTnZQTEZGWlEzZFN4MXZ5b1NIT0NIWjRBX2d3aVNic1VMa3o5TkJRUEFqZUktUlF1cXVjUlZ2Qnp3bVdqSWpFTk1CV1VjM0VZUEMtakZVVHVFZmhPRDZYUUhQOFlycDM?oc=5"
@@ -8639,11 +8645,6 @@
    "ts": "2026-11-03T14:16:12.905266+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: US strikes Qeshm Island. Trump: ‘Military aid to Israel to end by the end of the year’</b>\n📰 Il Sole 24 ORE · Mar 03/11 15:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWFtTmsxdWw1MnlJeGYxWlg0UEIwWmZOLUJMdklIUDl5enlWMnZlTjJyRWhXbG0tRTVSdlFHQnQ5b2NFZlMtX1l2b0FPOVViR2dJbUZTdGxJQnJyZzJQaXI2bS0zOG1ueVFweUhOWC10SnpVYk9ic21Tc3hMLXBPWWJ1MzJVaXQ5YzU4dy1reGhLb0hvMk9QMS1NeGZ1aUw3My1ISDVWX05iM3BDTmln?oc=5"
-  },
-  {
-   "ts": "2026-11-03T14:01:43.312986+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 74 MIN — 16:16</b>\n\n🇺🇸 <b>Congressional Elections</b>  prév. — | préc. —\n🥇 Annonce à fort impact\n\n<b>Scénarios pour l'or :</b>\nImpact surtout via le dollar : surprise forte pour l'économie US → dollar ↑ → or ↓\n\n📌 Contexte : DXY -0.01% aujourd'hui · taux 10 ans +1 pb · biais or +27 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 78$ → attends-toi à des mèches rapides."
   }
  ],
  "daily_forecast": {
