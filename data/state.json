@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793818881.2647352,
+   "ts": 1793823347.092168,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "5af1eeddf096",
-  "d699e67adffb",
-  "86392c9ced41",
-  "0a4549c21676",
-  "1263d3300b45",
   "14967bb20c14",
   "90a8cedda2b6",
   "f638db7399b3",
@@ -4000,9 +3995,26 @@
   "349726b25626",
   "f8e9936a7c6c",
   "c7e7179ef20f",
-  "3b85471bfe56"
+  "3b85471bfe56",
+  "de29877c9658",
+  "7a5d73354a01",
+  "fe08eb0e4088",
+  "2fa299171949",
+  "c8d01d458f15"
  ],
  "news": [
+  {
+   "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+   "source": "AP News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
+   "published": "2026-11-04T20:05:00+00:00",
+   "id": "fe08eb0e4088",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him",
    "source": "Reuters",
@@ -6390,23 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US Job Openings Jump to 7.52 Million in September as Layoffs Fall",
-   "source": "BigGo Finance",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLajQ3amo3aDlOZk1sM2M3WWJ6Q241WHh1N0ROTzI5U0ptaGxNYnVpXy1RSTNmaFZvdGxRdXFoaTRPb0I0WXdCYm0wczBHWGpJX0xJRlNuM2FCNVRZSGZpelU5VUd5bUVKUy14eW1iM2dxYnA3MlE?oc=5",
-   "published": "2026-11-03T15:55:00+00:00",
-   "id": "1b14160cc2fc",
-   "impact": 5,
-   "cat": "emploi",
-   "raison": "haussier or (emploi)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|06aa1cf875df": 1792008105.3619158,
-  "rep|recap|2026-10-14": 1792008109.3433132,
   "news|e7d4ea0c9620": 1792008968.2430768,
   "news|c9531f50bd16": 1792008969.1552465,
   "news|6fe502eac913": 1792009897.4784229,
@@ -8048,7 +8046,8 @@
   "news|413a44a70709": 1793821564.513188,
   "news|64d23cfebf08": 1793821565.5268183,
   "news|c935293b8882": 1793822500.208536,
-  "news|9c688dacce08": 1793822501.176364
+  "news|9c688dacce08": 1793822501.176364,
+  "news|fe08eb0e4088": 1793823367.4091086
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8360,6 +8359,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T20:16:07.409182+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war</b>\n📰 AP News · Mer 04/11 21:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5"
+  },
+  {
    "ts": "2026-11-04T20:01:41.176490+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>European far right distances itself from Trump, blaming Iran war for Republicans' defeat</b>\n📰 Reuters · Mer 04/11 18:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1ZyNWRabEpTdG9UeDUzc3BpN1RRZ1FXZm1OZGdFSDVoNms1S0JHWU00bnhZeGxHaHlFclFTX0ZVUzU5ZEx3ZXIzTmVRUE5KMlBETUpXWEZiVC1zckhRaDk3ejNpMnVqZVh1WmllVk9jUVJoRHE4R3pnN3ZRSUI4TVJGcjN5UjhPWEVhYTJvWGFLUkRKbE1kcUFLTS0wU09KbFllV2ZXYXFHcHVhemFUNWVmQUlPaTNIVnd5V2FyZGZxRzlo?oc=5"
@@ -8653,11 +8657,6 @@
    "ts": "2026-11-04T09:46:07.252546+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Plays Down Prospect of Strikes on Iran After Midterm Rout</b>\n📰 Bloomberg.com · Mer 04/11 10:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHRkUkRMbVBDMGNsRFFDZVliSXJlNkFZSTkxQWdxeXpoUHFEZ2U4d1l4UFJsck5ldWJmcFFkWUFqNGs5OS1US0U1T1hEQWR5bmgyd082VTQta3FBSUNTRUx2ZURvbTlLV203OVFSOXV4SXN5RU1xUnlQMHhQREV4dmh2V1Fhckc2enFZY3FMelZzcElFX2NoWFRXS3lPajUtOW9KVWhBaml2REVEREtybEl4Z3o?oc=5"
-  },
-  {
-   "ts": "2026-11-04T09:31:40.955290+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n+116.00 aujourd'hui = 1.5× l'ATR"
   }
  ],
  "daily_forecast": {
