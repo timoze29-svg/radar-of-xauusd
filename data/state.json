@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "33a51d81f69f",
-  "b0abe94b7ed3",
-  "e2aa4d84bc71",
-  "4c57205dae98",
-  "412d8244bde1",
   "8f0d326283b3",
   "5961d0221cff",
   "05b70247d55c",
@@ -4000,9 +3995,26 @@
   "a39a5d1aaf86",
   "6b0dcaf041b8",
   "7f7e305fedcf",
-  "f43077513425"
+  "f43077513425",
+  "8a0d765cb194",
+  "9492e3432137",
+  "e03e137a7c32",
+  "6f248446b246",
+  "b8495ce72838"
  ],
  "news": [
+  {
+   "title": "Watch: Qatar working towards 'interim deal' to end US-Iran escalation",
+   "source": "Middle East Eye",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUcydmZHLVRNczBNU1VKc3FWajFzaFVzVDdsLUlJaFVjazZGd2ZEQi05eEFNdW9EM2EtVVlkc2EtRk1aV1lfTTEydmpILW4xa1ZjRUZUcS1abllXV2FpQlhuMmtuSG96MlN6LUw4RWF1TGh5c25xNkJZb1dxT1ZlWWFubldUR2prcnhWdTFOTFhJcVhXM3Z2Q0xEZGgtY0JEZHktcGVIMlFwbzdQV2I5N1dmUDdCRkI1OTlMMg?oc=5",
+   "published": "2026-11-04T00:24:00+00:00",
+   "id": "e03e137a7c32",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump’s trade chief pushing him to rein in Canada trade war",
    "source": "Politico",
@@ -6390,23 +6402,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump downplays renewed US strikes on Iran after midterm elections",
-   "source": "Anadolu Ajansı",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUFsNFlGRDVyV3ZvME5UWnBLOGd1Smt4RlM3SEIxbGwxN0tsQk5OU3JFY3RWTFpzcUR1ci1zRE1wVVhwS194Z2prZm0wU296M0Vod19qNjlLRXF6OVhmVXptczhLeVRveTVYMzBjbVE4R09mM1Bqc0E2OExqMW11Uk5vLWR2Z2JweWxMMjQ2eGMtZ1lnOWFiMDJHcTJtWWc4RUZrRWZVcTc?oc=5",
-   "published": "2026-11-02T20:55:12+00:00",
-   "id": "ac5f65e8400c",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|2640ec7591b8": 1791936972.3566887,
-  "news|532980af9be2": 1791938765.9600627,
   "news|e01050cf0724": 1791939791.3277583,
   "news|672b81a7cdf3": 1791941490.1985161,
   "news|a6905ae80a19": 1791942364.6218772,
@@ -8041,7 +8039,8 @@
   "news|e992c94da9ed": 1793743304.7081337,
   "news|456626e20645": 1793746925.447448,
   "news|82ee686d6a3a": 1793750515.6187208,
-  "news|40d131c744fe": 1793750516.4379213
+  "news|40d131c744fe": 1793750516.4379213,
+  "news|e03e137a7c32": 1793754096.6138432
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8337,6 +8336,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T01:01:36.613977+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch: Qatar working towards 'interim deal' to end US-Iran escalation</b>\n📰 Middle East Eye · Mer 04/11 01:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUcydmZHLVRNczBNU1VKc3FWajFzaFVzVDdsLUlJaFVjazZGd2ZEQi05eEFNdW9EM2EtVVlkc2EtRk1aV1lfTTEydmpILW4xa1ZjRUZUcS1abllXV2FpQlhuMmtuSG96MlN6LUw4RWF1TGh5c25xNkJZb1dxT1ZlWWFubldUR2prcnhWdTFOTFhJcVhXM3Z2Q0xEZGgtY0JEZHktcGVIMlFwbzdQV2I5N1dmUDdCRkI1OTlMMg?oc=5"
+  },
+  {
    "ts": "2026-11-04T00:01:56.438107+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US has no immediate plan to strike Iran, Trump tells FT</b>\n📰 Financial Times · Mer 04/11 00:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5"
@@ -8630,11 +8634,6 @@
    "ts": "2026-11-03T09:02:56.696991+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 48.885 → prix : <b>48.730</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.91 | 60j 0.85"
-  },
-  {
-   "ts": "2026-11-03T09:02:55.872655+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 48.885 → prix : <b>48.730</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.91 | 60j 0.85"
   }
  ],
  "daily_forecast": {
