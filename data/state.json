@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "094ca7843159",
-  "174b109aecd5",
-  "9b95c21935e6",
-  "bbc792d480b4",
-  "e95a8a132eae",
   "396f9c9482f1",
   "7c28e5ded340",
   "1696a02be6ea",
@@ -4000,7 +3995,12 @@
   "bde066709194",
   "64d99b084d75",
   "530c3199856c",
-  "5facc85f1bb2"
+  "5facc85f1bb2",
+  "a60f44a739be",
+  "51063723db31",
+  "6a7c1cbd0607",
+  "f114d0c3f8e3",
+  "7ed71649345a"
  ],
  "news": [
   {
@@ -4230,6 +4230,18 @@
    "cat": "taux",
    "raison": "Baisse des rendements et du dollar : double catalyseur haussier pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "US Treasury Yields Fall, Dollar Weakens as Democrats Lead in Early Midterm Count",
+   "source": "bloomingbit",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RN0FXZEtFRThURlZfZGNHcG4xaUY5SUZjN1BXdmpmSXBsUkFWLXNUa1BUUGxmRHp5ejBkMnBtRGxkLVBxNjd5NzhQS2RwYUdXLTNZVQ?oc=5",
+   "published": "2026-11-04T02:18:04+00:00",
+   "id": "7ed71649345a",
+   "impact": 10,
+   "cat": "dollar",
+   "raison": "haussier or (dollar, taux)",
+   "method": "mots-clés"
   },
   {
    "title": "Dollar Falls on Strong Democratic Showing",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Analysts: China could erode Taiwan’s hold on remote Pratas Island without invasion",
-   "source": "Radio Free Asia",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXJxSzlYUnhtYjdtanFNa294T1RoLWNrX1R1NEZ6N0dLZHAzeVVpZV8xcDRubU9EWmVfNU9IWERHRVhxT19Pb3dxTEdfaUVlanZvVXFJMzdkUktQSHhIcGZMSFQ2THRReno3aGFJOVhxeEIzZUtraVRWN1Q5TVVtMU5sUUhSRFh4T2Vj?oc=5",
-   "published": "2026-11-03T03:34:55+00:00",
-   "id": "7461bbdd20fa",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8056,7 +8056,8 @@
   "news|928b59b4c353": 1793777485.566229,
   "news|5b096417753f": 1793779428.542846,
   "news|5aa733225a76": 1793779429.6202595,
-  "news|ef320a6db1d1": 1793779430.6375155
+  "news|ef320a6db1d1": 1793779430.6375155,
+  "news|7ed71649345a": 1793780184.5996523
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8368,6 +8369,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T08:16:24.599767+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US Treasury Yields Fall, Dollar Weakens as Democrats Lead in Early Midterm Count</b>\n📰 bloomingbit · Mer 04/11 03:18\n🧠 haussier or (dollar, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RN0FXZEtFRThURlZfZGNHcG4xaUY5SUZjN1BXdmpmSXBsUkFWLXNUa1BUUGxmRHp5ejBkMnBtRGxkLVBxNjd5NzhQS2RwYUdXLTNZVQ?oc=5"
+  },
+  {
    "ts": "2026-11-04T08:03:50.637700+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US has no immediate plans to strike Iran: Trump</b>\n📰 Muslim Network TV · Mer 04/11 05:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnRGcVJ3RVFtRGZzU2hFTmY4Q05UbXdPR25DSGxQSThSZFZKbVVLLVhZRlpSVlp1ZHB4dkNvdzZBQjA5SW1ON1ZXb0RCajBKM2JhRnJMQ0EzRWQ4Qlp6V24xZU9GMGtVYnZPRVA5R2NKSjNMckp1SEVNd1dFeU94LVZn?oc=5"
@@ -8661,11 +8667,6 @@
    "ts": "2026-11-03T15:46:12.347014+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 30 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Congressional Elections</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.0 pb\nOr -5.3$ (extrême -7.9$, range 13.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-03T15:46:11.291480+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. strikes Iran hours before polls open as Trump ends aid to Israel</b>\n📰 North Penn Now · Mar 03/11 15:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1VSRkZCckJXc3VzM28wUTd0OGVwZGVEel9oV3RvZm9QUEhUeGFYNkJwWGFrUEJ2SE1PRDhHblVydklPRTNkOGFrY2l1akx3TGZJNTBIMHcyV2E2dHZKYWFoeVVTVUdGTGI2cE05WWlTM2d1Q0MyQnpKQkplNXN2QzdyR1lwX0lndzB6MlctQWhaQUVZLVhOUm1ST3lxUElCamNFTG1hQnpkY3dv?oc=5"
   }
  ],
  "daily_forecast": {
