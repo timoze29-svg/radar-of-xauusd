@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "8b0167a6f3bc",
-  "db78b948892b",
   "edaaa16fc36a",
   "4dad4e0a28d3",
   "5f7dba6a3009",
@@ -4000,9 +3998,23 @@
   "88ea4975473d",
   "e790b927783f",
   "dbac96219754",
-  "874b3493dc1c"
+  "874b3493dc1c",
+  "32aa35c7e8ba",
+  "c28f79eff8eb"
  ],
  "news": [
+  {
+   "title": "Oil falls on Iran war uncertainty, US Democrats' midterm sweep",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+   "published": "2026-11-04T14:23:21+00:00",
+   "id": "32aa35c7e8ba",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump’s New Era",
    "source": "Bloomberg.com",
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Jerome Powell Warns War Could Spike Inflation - What It Means for Your Budget",
-   "source": "FinanceBuzz",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FSmJOcFJSbjlrcElXc2lyY2xjbVlkNVoxcFhQMkgtWjZuUmZzWUdndlN6V0VrRFZra3VCT1Y4bW1YXzNST0ZlaWFrWDI5dkRlNGhSUVI2TVNsRzd6YjBldl93Nzh4SUZKbnk0R29FOW9kY3pYWnNJ?oc=5",
-   "published": "2026-11-03T11:07:08+00:00",
-   "id": "523af62f27d0",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|eec5cffec471": 1791989192.2664678,
   "news|2e8df00ecee1": 1791991887.4281101,
   "news|50c7e8a1bce1": 1791994567.9635525,
   "news|0d7b5da59981": 1791994569.1240401,
@@ -8044,7 +8043,8 @@
   "news|a7ef3f64ffd7": 1793801826.0233388,
   "news|5d1e8f504b95": 1793801826.8959665,
   "news|88ea4975473d": 1793803568.4513211,
-  "big|SPX|2026-11-04": 1793803569.704657
+  "big|SPX|2026-11-04": 1793803569.704657,
+  "news|32aa35c7e8ba": 1793804502.1748827
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8356,6 +8356,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T15:01:42.174984+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls on Iran war uncertainty, US Democrats' midterm sweep</b>\n📰 Reuters · Mer 04/11 15:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5"
+  },
+  {
    "ts": "2026-11-04T14:46:09.704718+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — S&amp;P 500\n+128.4 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
@@ -8649,11 +8654,6 @@
    "ts": "2026-11-04T02:01:52.312117+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump launches Iran strikes hours before midterms despite saying he wouldn't</b>\n📰 CBS News · Mer 04/11 02:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTdIdHBSLXUzQkFHWGF1QXppcHFVZ25VSHF3TGNZRkNQcEVJaFgwdktKMGlnajZtTE9HUFlmQU0zUHJGODBidE9yUEdUN090NEswRDMtb0I4SDJCNVBlLWdhelRGcGwyNUJQWGdBaTVBclo5Sk02cUVxa0g4YldydjJ0NmQ5ZTZIcHJmSk1EZVBiWlFoaV9jR0pfWmsxb2VuSzB5dmE1MFRodw?oc=5"
-  },
-  {
-   "ts": "2026-11-04T02:01:51.230480+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>DNC chair says Democrats should repeal Trump tariffs, end Iran war if they win power</b>\n📰 The Hill · Mer 04/11 02:29\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVpDbDdHMTBSUzNqaVV6STRLZVhyZUJBQjBpNTdQQ3lUaElvaVN5eEJqVUxvR3ZOY29ROTVxMWl5WkpsZm5CV3h3S2J2cWhrcG10N0hoMEo2YlhZNEFSd1B6b3QxbmlSLTM5UENJY2xTbE9LdVVDa1lxOXVVOGZIcdIBhgFBVV95cUxQcGljNXRSc3NKREhoeVpMbVQ4b0NkVllLR0RNLURmak1oYVREYnVYaEFWcTdaRXZ4UnpjQjdmRFBGNFpKUENobWR4V1J1aE5nTUxFa1ljT1owVC1va0tLTGRud2E4ZVlsRlI0dUMweDRYN3lCa1pUN2pjSnlBd2dZMDlwWlU2QQ?oc=5"
   }
  ],
  "daily_forecast": {
