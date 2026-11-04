@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "848fd864aa76",
-  "a324f1f463fb",
-  "76c39ab23ef5",
-  "d930f5739e22",
   "c55167a6072a",
   "05d465050427",
   "95168d4a8526",
@@ -4000,7 +3996,11 @@
   "3ae915394a49",
   "087e4d2548f4",
   "bf18b3a9388b",
-  "20d4854a917d"
+  "20d4854a917d",
+  "85f9af641cba",
+  "6b23d7a5c265",
+  "9c91eaec3f99",
+  "94b98f7907c6"
  ],
  "news": [
   {
@@ -4136,6 +4136,18 @@
    "method": "IA"
   },
   {
+   "title": "Trump says no plans to strike Iran as midterm polls trickle in",
+   "source": "The New Arab",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGNTcVVYTVhlOEhlYXh5Q2FibGZySlVBWG53NW5EUjJXVEZPWGJ5aGFKOUxEdXRDZ3o5b3Y3NWRlaUVoNW50VkhncG1JNUVTVnJBMUNQTXBFTUI1NkhoQ2kwdTFXbGRfaVZORnpPVDZNSXhMSFdqV3NpUS1ZUlcwTHBuVDd1aS1CNVE?oc=5",
+   "published": "2026-11-04T00:28:23+00:00",
+   "id": "85f9af641cba",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
    "title": "Watch: Qatar working towards 'interim deal' to end US-Iran escalation",
    "source": "Middle East Eye",
    "theme": "Moyen-Orient",
@@ -4227,6 +4239,18 @@
    "published": "2026-11-03T22:24:20+00:00",
    "id": "456626e20645",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVM1a0dLRmw1LWNRb012WDk0dW80Sy1LMTEtanZwZkhpdF9OUVBhbkJSREx1a2dRdk1EMGFWZHZoblRaZW1WRnFKOXlHM3RhQUdFck5pUUNpUklyd2o2WHBrbXZWaWo2ZmpIRW9IVmZSODNpQlB1NWg5Z3FRcnVRb2lLcVlZRGtTcEExeDNWM3ROT0lPY2hPZ3ljR19FNHJMMXJ6TXJhVE9LQlBmbVF5TFJhajQtY3VQXzdEb0J0bkdYdw?oc=5",
+   "published": "2026-11-03T22:09:26+00:00",
+   "id": "9c91eaec3f99",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5504,6 +5528,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "US official: Strike on Qeshm targeted 'Iranians using surface to air missiles against US assets'",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZk5ET1RXWVo0YzE0MzJvS3JrMnBtRUhwWExzdHB5eFhfZkZQSmlaUnFTcFRNbWtVOXc5S0FseGVXbGJqR0o3TlRFVjNRaUxyNWlfemczOTBjUktzMnlLZXpkWmxuU2FHajNjSnFwRjJ2ZW5TSE45ODU5NEQ2YWk0bHlRb0lUeUxremNLdjVONmhXU2xEbFZ4NnJTTEc4YjFQazU1OXFONE5xQ0MtNjRzQ2xlVWxSQ3lkbEJXeVlCTzZ6Rmtuc3Fyc3lsekN0WDhEWm5NeGl3?oc=5",
+   "published": "2026-11-03T08:13:11+00:00",
+   "id": "6b23d7a5c265",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Brent and WTI oil prices rise after reported U.S. strike on Iran",
    "source": "The New Voice of Ukraine",
    "theme": "Moyen-Orient",
@@ -6365,42 +6401,6 @@
    "impact": 10,
    "cat": "taux",
    "raison": "haussier or (fed, taux)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump's tariffs hit Alaska residents as economic concerns continue to grow",
-   "source": "CP24",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3VhMUEtRmwzYXpoQ2lPMUtlWkpXaEJPbm5NSk95VERRbTYzX0dwZm5EM1JpVzhNZ1lQbDU3cURnV3A1Qjd5QkZiRFJNQUQ2NEVFcEFXMV92elk5OXpaRnNhb2xDQzdRME10U3hfMFExbXVLWThNUkZJZGVfaU9KTjQyOEczdmIyXzRocXE5SUZDRGh5U1hncWEtWUdHeFR6aFM4SDBReUdrMjdMQUR1Z1pXY05ha09EZFE?oc=5",
-   "published": "2026-11-02T22:43:33+00:00",
-   "id": "48c64ba2ab19",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Apple's received most of its Trump reciprocal tariff refunds",
-   "source": "AppleInsider",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmxjWjJxQUhqSUlVYXBlWktkOVR2MzV4REdlWVgzSWZKeXdwNU5RNDRHblBHQTZuTjRNRzRsZEpwMmlmLW9TUnNiOTFuMXEyR1RPU0I4azJySVNtanJrMlhKTE93eFk3ZGVZR3hITmI1Sl91cGt3cjV3NWpPamgxMjRsOUV1U0s4Wndxb044UUVJa0pDM3ZwN0JKRjVfbDhjZ084bg?oc=5",
-   "published": "2026-11-02T22:39:00+00:00",
-   "id": "494e15a49c93",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Forex Today: US elections and RBA in focus as US Dollar weakens",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajFwcEdsR2p4Y2pUaGp6WXNITHZOU3NHR1FnWkpSblpUakhNVktyOVFYeXp5VXFpZXNjM2FXOWVpakpTNnF3cm5mWnU4djVzMlVuenR1ZHllZXlXbTBSek9YMUhXbTBFbFhsT1dHNmp1NkN6YVFVZVE2STVZcVo0RmlidkI4dGw4ZV9Qa0RZUnFVYkdvUkNTVUJYMXBnUlMwdXp3eWFHQkxsLWlwWlVTUEhtdHNscUd2ZHY3SDNSTVlUckZkWXUtRldR?oc=5",
-   "published": "2026-11-02T22:31:56+00:00",
-   "id": "e3b2c92c7a8e",
-   "impact": 5,
-   "cat": "dollar",
-   "raison": "haussier or (dollar)",
    "method": "mots-clés"
   }
  ],
