@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793750478.8188715,
+   "ts": 1793754949.550726,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "8f0d326283b3",
-  "5961d0221cff",
-  "05b70247d55c",
-  "265096d2d581",
   "489d8fd6a7e2",
   "ac1b7e862841",
   "179d710c86fe",
@@ -4000,7 +3996,11 @@
   "9492e3432137",
   "e03e137a7c32",
   "6f248446b246",
-  "b8495ce72838"
+  "b8495ce72838",
+  "603309976d53",
+  "99f693f60d9f",
+  "7506119e9b93",
+  "f50dbc12bb91"
  ],
  "news": [
   {
@@ -4049,6 +4049,18 @@
    "impact": -4,
    "cat": "commerce",
    "raison": "baissier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran issues nuclear survival guide fearing US-Israel nuclear attack as US strikes Qeshm Island and Israel steps up Gaza attacks - Muslim News UK",
+   "source": "The Muslim News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNXJkNHFBckxYN3FPVGw4NjJYSGJIeXBscW8teDFuM3VNOElpZ0tJclNiejBGZ3dPR2VZMXR0b0VqeGZqVUE3WERxZXdNOFNVTmdRWXNvS2wtakVCX24yaDVRS0pNbDBhN1ctRC1YQ2pxVUNtdnVCM1JaTDZvLVdXaUJ3N1RiaEYyTVB0NWZYLXlRbks0LTBxMzZoblRXenZ0ZG1LOTF5ZWg2SnZXRHF1NmlZZVdIcnJhY0pqUk1SVmdWS2E5bnU4NFcxREhRNU1Vdm5yLWlfaGhsTlFBSFpRSlc4MGs2aHdDVDkzNU5tOA?oc=5",
+   "published": "2026-11-03T23:04:54+00:00",
+   "id": "f50dbc12bb91",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,22 +6402,9 @@
    "cat": "géopolitique",
    "raison": "Perspective d'accord avec Téhéran apaisant les tensions et réduisant la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Blaming Tariffs Won’t Fix the Cost-of-Living Crisis",
-   "source": "Coalition For A Prosperous America",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1NuM0w4V2VZY1FIbXVkQnhkRVhDWlpjbEVXcklsd0diN3dCV0UtQ1VwbC1zTDlRanJwbFpPN3RFSmdnbE1JdHBQa1V4Tm94eURsY2hkaXNEeDJHUkN1M2Q4SkR6WWtEamZRYzZNc0pjVUt3X0FwMzVoakk3YWhZcFBZcmRTOXdt?oc=5",
-   "published": "2026-11-02T20:55:58+00:00",
-   "id": "9faf95bd96f2",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|e01050cf0724": 1791939791.3277583,
   "news|672b81a7cdf3": 1791941490.1985161,
   "news|a6905ae80a19": 1791942364.6218772,
   "news|75e6326590a5": 1791943362.1999514,
@@ -8040,7 +8039,8 @@
   "news|456626e20645": 1793746925.447448,
   "news|82ee686d6a3a": 1793750515.6187208,
   "news|40d131c744fe": 1793750516.4379213,
-  "news|e03e137a7c32": 1793754096.6138432
+  "news|e03e137a7c32": 1793754096.6138432,
+  "news|f50dbc12bb91": 1793754967.5710754
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8336,6 +8336,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T01:16:07.571170+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran issues nuclear survival guide fearing US-Israel nuclear attack as US strikes Qeshm Island and Israel steps up Gaza attacks - Muslim News UK</b>\n📰 The Muslim News · Mer 04/11 00:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNXJkNHFBckxYN3FPVGw4NjJYSGJIeXBscW8teDFuM3VNOElpZ0tJclNiejBGZ3dPR2VZMXR0b0VqeGZqVUE3WERxZXdNOFNVTmdRWXNvS2wtakVCX24yaDVRS0pNbDBhN1ctRC1YQ2pxVUNtdnVCM1JaTDZvLVdXaUJ3N1RiaEYyTVB0NWZYLXlRbks0LTBxMzZoblRXenZ0ZG1LOTF5ZWg2SnZXRHF1NmlZZVdIcnJhY0pqUk1SVmdWS2E5bnU4NFcxREhRNU1Vdm5yLWlfaGhsTlFBSFpRSlc4MGs2aHdDVDkzNU5tOA?oc=5"
+  },
+  {
    "ts": "2026-11-04T01:01:36.613977+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch: Qatar working towards 'interim deal' to end US-Iran escalation</b>\n📰 Middle East Eye · Mer 04/11 01:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUcydmZHLVRNczBNU1VKc3FWajFzaFVzVDdsLUlJaFVjazZGd2ZEQi05eEFNdW9EM2EtVVlkc2EtRk1aV1lfTTEydmpILW4xa1ZjRUZUcS1abllXV2FpQlhuMmtuSG96MlN6LUw4RWF1TGh5c25xNkJZb1dxT1ZlWWFubldUR2prcnhWdTFOTFhJcVhXM3Z2Q0xEZGgtY0JEZHktcGVIMlFwbzdQV2I5N1dmUDdCRkI1OTlMMg?oc=5"
@@ -8629,11 +8634,6 @@
    "ts": "2026-11-03T09:02:57.533290+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas sur 20 JOURS\nNiveau : 6.3595 → prix : <b>6.3280</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.54 | 60j 0.47"
-  },
-  {
-   "ts": "2026-11-03T09:02:56.696991+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 48.885 → prix : <b>48.730</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.91 | 60j 0.85"
   }
  ],
  "daily_forecast": {
