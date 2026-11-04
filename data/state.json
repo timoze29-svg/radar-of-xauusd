@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "f29a393ed785",
-  "0936ee89dc8b",
   "972dee452fcf",
   "b5e93dae0675",
   "2bc05401571c",
@@ -4000,7 +3998,9 @@
   "99c96ef04a40",
   "59169d1ef940",
   "a6a777c69ba9",
-  "77c102ac54a9"
+  "77c102ac54a9",
+  "e01050cf0724",
+  "b2eb1a9f284a"
  ],
  "news": [
   {
@@ -4718,6 +4718,18 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVRFWWRhTnF1UnNEMU1sYXQxNkpFZ1BTSlFpYk1NWTRqcXFiSVVTdkFQaXlwaTUxSnJPVjN5Ylcxb3FabDhIZXNKS2NjU01URGMxUHVBTUl2T3ZueDFYeUdCSWdGTjFmdzJaUFR0N2t4VVJLbzhsRFhEcGZndkMzZS0yTDdEVE9PQWtsTlR5aUNhWXA2OUwxd9IBngFBVV95cUxQRHpHdkFiVmZUdEZYdEViNUgwTmkzQkxEUWlVYW12SGRTbTFTWTZBTzhPUkZaNE8zX0RqbEpOamp6cXBiaGRCNG4zU0dRMEdyMzM2bDVRb1pBbnAyZHU0YXBMSWpqcXNnMVRCNzNwSzQ5aXRDdnVjRGVYMFpfeXZLMXhDSmwzaGtLdmpURWhXM2psSUNSWGFTbmFxTTZZZw?oc=5",
    "published": "2026-11-04T13:12:00+00:00",
    "id": "5d1e8f504b95",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5",
+   "published": "2026-11-04T13:09:10+00:00",
+   "id": "e01050cf0724",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6390,18 +6402,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump Tariff Reversal Could Cut Costs for US Energy Firms But Will Likely Leave Broader Flows Unchanged",
-   "source": "EnergyNow",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWVpWU1aazVlMlhNczhWQjVXajY0U00zdU5WZzZwMFFNdkxDZEgwQnhjRVFaLUNYc0czY3h5QzdkOXdMajkyVVByaURNOFQ4dVEwTk9yaWtIQ2ZFTkpCNTA5OWxvQTVxcEluMzU5T0ZRZElRay11eC1LWmY3ZllYQUFFTGplQ2hDanVJZ3NSTEFJbnhMTDAybkQ5SnFQZTZlbS1pR1B3VXFCb2RqNkJUXzI5WGxxVmdWSU1HTEwtZTJlbXhwR3l2YWdOOUd4dw?oc=5",
-   "published": "2026-11-03T17:27:53+00:00",
-   "id": "dac9038048c9",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8045,7 +8045,8 @@
   "news|fe08eb0e4088": 1793823367.4091086,
   "news|f5b931798cdf": 1793825175.2868714,
   "rep|recap|2026-11-04": 1793826109.0939033,
-  "news|a6a777c69ba9": 1793827890.2172058
+  "news|a6a777c69ba9": 1793827890.2172058,
+  "news|e01050cf0724": 1793828780.013227
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8357,6 +8358,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T21:46:20.013324+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies</b>\n📰 EnergyNow.com · Mer 04/11 14:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5"
+  },
+  {
    "ts": "2026-11-04T21:31:30.217321+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump speaks about Vance’s social media post on Iran war</b>\n📰 NBC News · Mer 04/11 20:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWVuZzRvZW9RQnpxWmhtRnlsYXE1Q0pwelRSdTE3LWI3WjliTFhET0t0ckhTZlUxdUNGVGFjOFptOEFJTDhQaURSM295Skp3bEJwNUJvNDJNOWpteUxQQ3RmaWhLSTd6VzBfVUNOMG56cmpQcHhfWnY4Z016SzhpM0dQdFRsVGZLZFBnRzV1VGd0SXZLb2pLTWdjUXhZZ1BpNjZDLTBlZ0tfZw?oc=5"
@@ -8650,11 +8656,6 @@
    "ts": "2026-11-04T10:31:30.041191+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump congratulates Democrats on midterms, says Iran war played role</b>\n📰 AFP.com · Mer 04/11 08:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxONDc5LWZtSXF6TEZ2SXFrVU1LTG1zS1dUTFlJZjN1RmZ5d3VxWHZGaUtCQm9LOGJkR21NTjBqeTFZbVZOV1p6eGVSY1U1X3JNcUNNdFhTckZwOFNxcEdMWDYyaDhGWHZNSk5oVF84REpwUTkwdnQwbk9PVlRjVVhmVjNreGt5VS0wcm1pQlhickg?oc=5"
-  },
-  {
-   "ts": "2026-11-04T10:31:29.073892+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says Americans rejected Trump’s war as the world reacts to the Midterms rout</b>\n📰 NBC News · Mer 04/11 11:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXNTWEFrYUgxWTVNYUxORkM0NXM5MVd6bk85SGZNUlI3OGVyYU45UEpXNW5mS212ZkxKdG5HaUxhTjAzcVUyQ3czeWd3eTd6V09fckJBVDJfRVNUcUFIU0ZBb2pOVUluVHRCaXVfTGlIc0paU1JtbUVwTFZMNDYyODNKY01qZE9ES3kySEhIUm9mUXdsOTZ6U2NTcHdFdEtrZk5YRmpvc0hnNGs?oc=5"
   }
  ],
  "daily_forecast": {
