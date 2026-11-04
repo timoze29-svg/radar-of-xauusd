@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793773869.6019187,
+   "ts": 1793796350.4879968,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "55b9b813db8d",
-  "da32458e4144",
-  "ddee0896e3aa",
-  "5bf98d9ae6f5",
   "c21f399fba99",
   "decb906b7c7d",
   "c65e9466291a",
@@ -4000,9 +3996,25 @@
   "394464a76cb3",
   "c1ccac354d1b",
   "45e928e5268d",
-  "28641e805c16"
+  "28641e805c16",
+  "7289c2a14911",
+  "eb6dac9b0bf3",
+  "ac83fb68204c",
+  "cbb53ff8055a"
  ],
  "news": [
+  {
+   "title": "Iran's chief negotiator says Americans voted 'no to war'",
+   "source": "BBC",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU?oc=5",
+   "published": "2026-11-04T12:21:21+00:00",
+   "id": "eb6dac9b0bf3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs",
    "source": "Bloomberg.com",
@@ -6390,26 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
-   "published": "2026-11-03T09:48:26+00:00",
-   "id": "cdfe7977115e",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|6cb572a3f607": 1791981093.736154,
-  "news|9ab6e55f6c13": 1791981094.5761874,
-  "news|8782f923bb0f": 1791981968.558839,
-  "brk|DXY|pdh|up|2026-10-14": 1791981969.759969,
-  "brk|US10Y|pdh|up|2026-10-14": 1791981970.655378,
   "brk|US05Y|pwh|up|2026-10-12/2026-10-18": 1791982898.6630666,
   "brk|US05Y|h20|up|2026-10-12/2026-10-18": 1791982899.8134532,
   "brk|US05Y|h250|up|2026-10-12/2026-10-18": 1791982900.676669,
@@ -8047,7 +8042,8 @@
   "news|7e97a3b6e21d": 1793792771.969355,
   "news|6c0146a1da49": 1793792772.89983,
   "pre1h|2026-11-04T08:15:00-05:00": 1793793706.8273494,
-  "news|c1ccac354d1b": 1793795493.0838223
+  "news|c1ccac354d1b": 1793795493.0838223,
+  "news|eb6dac9b0bf3": 1793796386.1182144
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8359,6 +8355,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T12:46:26.118309+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's chief negotiator says Americans voted 'no to war'</b>\n📰 BBC · Mer 04/11 13:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU?oc=5"
+  },
+  {
    "ts": "2026-11-04T12:31:33.083930+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 04/11 09:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXdXYnRzQjhrelUzSGk2YV9CTFJjSm4tU1d5WVI1ZHI3ZHNIUkRVOV9DZU5PSGY0QThIanBjQWV0cDJLSGJqRGVNbmFCeW53a19OQkd5WFBCSmhiNElncFlfbk1QNTFjNUYwOEZJRHVWay1ZSmo3QmkycVZvQW5pYzN2dDZjMlV5cnhyWnhCdEQyREFEVkcyOGlpMHJBckI2ZFM4SVU2d0JaTGJNODhuaHFuSFA4cjjSAbwBQVVfeXFMUEExNGNzZERwWmJQUHFxZ204bVNPSEI2TXp4UEJhcVpkOENMdTVRejQ0SDlLYXVuWVhodnJucHlFUmtKb2liOFJ3Zll1aDlvNE5wSWVheW8zd1dKWXBLcWdtQXZ5M1NZa2lvQVVJczlSTUdZSUtSaGs2MHRJdHJGaXhNQWdMUFV2RnBSU3dFSU9iQWdtaE9MdGk1SXN0T2RkcXFyYXJKdXFmajBWX0xQRS1oZVhqMENFOW0zY00?oc=5"
@@ -8652,11 +8653,6 @@
    "ts": "2026-11-03T20:01:49.073510+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance: 'We did not reach an agreement, are returning to US'; Israel preparing to attack energy facilities</b>\n📰 Ynetnews · Mar 03/11 12:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kSkgwQ3ZSd1dhaHltSFFjdk5kM2R6TEp6YlppQ18yU0ZxSWdMRHpMMzVfdy01MkZxTjEtLUROQUFhUC1CN0JtX0N4bkdWY2pBS0laaVUxRQ?oc=5"
-  },
-  {
-   "ts": "2026-11-03T20:01:47.998466+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Nyt: ‘US has a plan to strike Iran immediately after the election’. Israel, Trump: ‘$4 billion in military aid to be cut by the end of the year’</b>\n📰 Il Sole 24 ORE · Mar 03/11 20:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWFtTmsxdWw1MnlJeGYxWlg0UEIwWmZOLUJMdklIUDl5enlWMnZlTjJyRWhXbG0tRTVSdlFHQnQ5b2NFZlMtX1l2b0FPOVViR2dJbUZTdGxJQnJyZzJQaXI2bS0zOG1ueVFweUhOWC10SnpVYk9ic21Tc3hMLXBPWWJ1MzJVaXQ5YzU4dy1reGhLb0hvMk9QMS1NeGZ1aUw3My1ISDVWX05iM3BDTmln?oc=5"
   }
  ],
  "daily_forecast": {
