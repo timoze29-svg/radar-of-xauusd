@@ -1001,7 +1001,6 @@
   }
  },
  "seen_news": [
-  "f8d889592890",
   "8fc813d3a4c1",
   "2a3ff799e975",
   "fbbc28e8c02a",
@@ -4000,7 +3999,8 @@
   "2d48c765eb92",
   "54fb4807bde0",
   "0192d0641380",
-  "77e38ce93b3e"
+  "77e38ce93b3e",
+  "e2f83cbbfbfd"
  ],
  "news": [
   {
@@ -4085,6 +4085,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "North Sea Oil Plunge Deepens as Traders Weigh Iran De-Escalation",
+   "source": "Bloomberg.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzROM2tsNURQbXRNMTdSbHQydy1fcTVnNnBSZWc2UXd5dlpmbVBSZTBrS2FBclppMHpBUFh1RkJrelZ0TFBSbXppSERZQVNUeGZCNWJXWmZVTThzdmdfOGR1TlpsSWJkUHd1aFUzSGExM25URWF3R2xJWUExa2tIc2hsNS1fNUNfSHdacUwtNkJOdnpmZXI4c0l5SjVqODF6ZHRYMDZvRVhJdlByaUhfdlNySHdTQQ?oc=5",
+   "published": "2026-11-04T17:43:39+00:00",
+   "id": "e2f83cbbfbfd",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,25 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russian strikes on Ukrainian aid site kill at least 31 people, with dozens still missing",
-   "source": "PBS",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeUNZQkUwVGxpZkk0VWY3aFduSVJ6WU9Lc3VlSWVsVWgxR2dGUFZwbTRfWWthTkZHcDd3QjRiUi1aRlRDUm1tSng3dnF3Z2QxTFhpa3JIeG1ZOFI1MEpFOTVNM3hPOXg4QjJWODhEMXhiRWdRSVg0OXV4SDRMVFltektuRjFGYjlyTEdsZ0x1T2Zwc1pya01zcVFFcDJqckF0WVh6NFpvNFN3TmtySTRHemQ0bk1Hc3VXc0RJUW1Pc9IBxAFBVV95cUxOck9HTElXNmljMk5KUW9UMFRFVTlEam1GNy03UU93U3NyNkJPNkJYVWJrVFBxYXJMdWZuUVcxRzQtLUNmSVFjX0UtZ09iRWJLOGMtd2NKb0EyNWFLMmoySzRTV3RNWW0wclZxUmZoTElYYnFpRmptNldTYXU3cjRhbFFHc2cyYlNoUXFmSlhmSjh1VDFTYWZQYTNmYi11aXFIeU1KYlBQaTZnTmhiVFJ3Z2ZJMlY1N0x3aDh3STFYa2hldGN4?oc=5",
-   "published": "2026-11-03T15:24:22+00:00",
-   "id": "701627a5f0b0",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|3723fd76efd0": 1792005364.6153932,
-  "news|4aab3b8d26cd": 1792005365.6055465,
-  "news|7a57f9c48cd4": 1792005366.4975772,
-  "news|605c600fa90d": 1792005367.4546106,
   "post|2026-10-14T15:00:00-04:00": 1792006283.6684763,
   "news|d48336f39a50": 1792007174.5859141,
   "news|06aa1cf875df": 1792008105.3619158,
@@ -8049,7 +8045,8 @@
   "big|VIX|2026-11-04": 1793816172.3928142,
   "news|f89589f3a7fb": 1793817097.4030273,
   "news|d1ddb0304987": 1793817966.0409555,
-  "news|77e38ce93b3e": 1793818906.7603817
+  "news|77e38ce93b3e": 1793818906.7603817,
+  "brk|US10Y|pdh|dn|2026-11-04": 1793819771.6742513
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8361,6 +8358,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-04T19:16:11.674320+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.894 → prix : <b>4.888</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.07 | 60j -0.17"
+  },
+  {
    "ts": "2026-11-04T19:01:46.760473+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: MP threatens: ‘If the US attacks us, we will strike Europe and Italia’</b>\n📰 Il Sole 24 ORE · Mer 04/11 19:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEh3eUpvZEE3RmtURWlJT254WnE0SWpsZzRMWkladm9zTDk3WThic1c0bHlnM2N5dXlNdGEzZHUzd2NnaDlFMUpURnRnQWxfckFBb0xkMFBXclRkWW9ISldOOTAzcGFROE9LcVVFMlRuX3JQWDU3bkRlQ1BDQW1HWFlrTFdHZjVCYWtUWXZwZS0wVDVBbHpuWg?oc=5"
@@ -8654,11 +8656,6 @@
    "ts": "2026-11-04T08:03:50.637700+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US has no immediate plans to strike Iran: Trump</b>\n📰 Muslim Network TV · Mer 04/11 05:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnRGcVJ3RVFtRGZzU2hFTmY4Q05UbXdPR25DSGxQSThSZFZKbVVLLVhZRlpSVlp1ZHB4dkNvdzZBQjA5SW1ON1ZXb0RCajBKM2JhRnJMQ0EzRWQ4Qlp6V24xZU9GMGtVYnZPRVA5R2NKSjNMckp1SEVNd1dFeU94LVZn?oc=5"
-  },
-  {
-   "ts": "2026-11-04T08:03:49.620687+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress</b>\n📰 CNBC · Mer 04/11 07:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQWVvV2lYYkw1NHNpRkh2VnYzcnNqVlN0LTUxSWZLVEp4UGd2QTQ3eVF2bDJnR2ZzZW94ZXdWT2U1WWNFRW1McWhfVG5EbmxRQkUySnBoc3NoR24wZnZBTU5MTzdsZTFFLVpFaWR6NW1ma0M5T0Y0dXhCV2x4eTTSAYQBQVVfeXFMT1ZON21PNll2N2lwUnNkWXQ4Ym9nSGtvX2R4cnJCZy04WXZTdHE5TF9tY2RLb0dMcS11YmJraFljT05kaGROdFdxbFNVX0FoV1lGcnh4cFBlc0hnM1VtTk1SU3VvSnJHVEI5c2htSEtzTWVWUzBoMzdFQm1zSHN0djZfTHVf?oc=5"
   }
  ],
  "daily_forecast": {
