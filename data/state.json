@@ -1001,12 +1001,6 @@
   }
  },
  "seen_news": [
-  "232ac1966db2",
-  "61d3909fc547",
-  "c8deeb8f5047",
-  "61181b151838",
-  "b0739c3b0703",
-  "0896f8e16852",
   "fe067be8dad5",
   "8fcf3d773ebe",
   "4b9f67881a2f",
@@ -4000,7 +3994,13 @@
   "f653b457c53c",
   "7dd5f67dde8d",
   "e0aae5d0a4a6",
-  "08a55d2ee5d9"
+  "08a55d2ee5d9",
+  "2d86feec0257",
+  "096224026e21",
+  "8669c595399b",
+  "00b68ce59bd1",
+  "a923c3e9f88e",
+  "640555b71932"
  ],
  "news": [
   {
@@ -4059,6 +4059,18 @@
    "published": "2026-11-05T19:51:23+00:00",
    "id": "937e04df4fa0",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Opinion: Trump’s Iran war has changed the future of Social Security",
+   "source": "MarketWatch",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUzl2T1M5ZEp1SmFSaW12cG43aGd2Nzd5cW9VWHdZV1MxWEhpSm03YllqZFpoajl6ZHl2WU1JUWQwaVVyTG4wU3g1VFRoVnNxSS1Wb1dlNTBvZ0Nwd2JscmE2QTlUMmRkM2ZCZ25TRVJiV3FtXzFpUTRQd3g3Mk43Vm9XeGdxcWNxZ1o2RE03b0J6ekQ4T29xM296bzJBd2J2Wmc?oc=5",
+   "published": "2026-11-05T19:32:00+00:00",
+   "id": "096224026e21",
+   "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4481,6 +4493,18 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "BoE joins the rate hike club, Australia may be done already",
+   "source": "Reuters",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXFXYWhzdHpRY3JzRGtmbUUzUjJreHZPWEpia1B2aDc0ZVo5cUVUcUFQMXNMdWlETWpGNHo0ZE00UzhBN1Q5YWxaeUVMLTdnOU9JQjlCSGdMUVJQcnJkUkxuVEpibVA3emtVTlNGclBWbERaR1ZTRzBDOWJISU9hQlhtSGVHRldjRV90eTVFMUNFYWdNUnc?oc=5",
+   "published": "2026-11-05T14:06:38+00:00",
+   "id": "00b68ce59bd1",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6377,30 +6401,6 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Melania Trump To Host Russian, Ukrainian Representatives at White House for Ceasefire Talks",
-   "source": "The Media Line",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0F5LVRoamlBclllTG1PUDUtUmFMcm0teUxpUExhWUhPNFRON0FJTnhOZ1gxd2toa05wT25MRVhsTWg4Ql92RktOVmloTnphajRCdnRqVVBYbjMyWTRCOVJjX3dGWV9GQ01jYnhkVkljMmlOUkMxX3gteHVidWpyWXZKTkM1MXJUTnpJUFNtRXpKblZhZFBYZEdjMUJKbTFNNTNnaVE4UEZkZkRwcDBTcUNtV3hCdnpMNEZYVU9IcktJWDAx?oc=5",
-   "published": "2026-11-04T15:06:06+00:00",
-   "id": "bad1219373f9",
-   "impact": -6,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Commerzbank Calls Gold's Slide Overdone as Central Bank Buying and ETF Records Underpin Rebound",
-   "source": "ad-hoc-news.de",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbDNjNzh5aTVqRHFNREtreVpwUXV2SzRfcTU0Q1MwWVB0eVlndVV5alJTOE1FdENfM0pqS1JEN0RaR19UNUlXTjBjUzcyU2xQbXdtVzJaTWJBYmdkZnc5WTZZU2lFb2FibTc2TFhuRDEyQkZ5akN5dWJmeHdqY1JPRC1PTzRwVm0xZGgzVEIwMkNVTkV4elA5SE5mek84QjlwZWJCNW5VVWE5eDVwdXpobDhScFhLYzlaNEJJZzRtbXhOV2VJT2ZvT2JzZk53aEdsMXMtSzdQTnlyT00xR0lJX0Q1Z1V3VkpnX1RTRi1WZGlNY0ZuRjl4em04Zw?oc=5",
-   "published": "2026-11-04T14:51:08+00:00",
-   "id": "6cf57f5ed3d4",
-   "impact": 5,
-   "cat": "banques centrales",
-   "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
   }
  ],
