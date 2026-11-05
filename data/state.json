@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793907948.852356,
+   "ts": 1793911550.8266551,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "551d2cc5de9d",
-  "4bc530a76bdd",
-  "6c86b92bedd3",
-  "a7e3dae20e34",
   "66d3958fc087",
   "83eed439f6b0",
   "46d88f8ab1bb",
@@ -4000,7 +3996,11 @@
   "146016495a2b",
   "5665fcdc04d3",
   "25fdbc83b7a3",
-  "9f5d0feba3d0"
+  "9f5d0feba3d0",
+  "4061bcb7132e",
+  "d51eb826a857",
+  "c4472fbcf593",
+  "a681226138d2"
  ],
  "news": [
   {
@@ -4388,6 +4388,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Federal Reserve: Further tightening expected despite political shift – TD Securities",
+   "source": "FXStreet",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2pJcGJoYkJlaGo1NW8wMHhpZ1JfRWItcmZOanljdHNXdnZMbWJtb0RUeHdMaEZxOEFGNEZDUmN4QnQ5R0FTaXg1TWRuQVlYU21ZQkx5bTEtMUlPbFlXY1pZSEhFdDhpZklUZ1hJMUJWTUhlUnFQV1pTSDJ1d3VNbEJmSy05YlBxYkY5MjBJcm8yNkw3U0JTVndaU0NKX3lnWTNXYVFFOTJqXzNsX2lDRDMtWm1xR2xZemNfdnJXMTM2Zw?oc=5",
+   "published": "2026-11-05T15:00:01+00:00",
+   "id": "a681226138d2",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "House Democrat: ‘We’re going to have one hell of a donnybrook over ending these tariffs’",
    "source": "The Hill",
    "theme": "Tarifs",
@@ -4454,6 +4466,18 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2I0Y0VRNU82dHV3WVZxZnN2Zmt3dHZFWXFJRjVJbHBickRIcFFqdEROQTdnMDk3SnRBMFo2TEFESWx0YVBLaHVHUVlPcmRGS3dSTkJDRU4tc0ZuV3diVUpsVE8xdVFCVmVTbFFqWldVWEU1bFVXLWowZ1lfS09ySFBESlE0VTBsWTlib2xlVjJCc2x1Z2FtYWhJeDM4cGFtZXlB?oc=5",
    "published": "2026-11-05T13:58:17+00:00",
    "id": "3156720f2bc6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump humiliated in US midterms, planning fresh attack on Iran? Pentagon, Israel reportedly prepare for new strikes",
+   "source": "DNA India",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVF4dXlsLUxkbS1tU0Z2QmdSZm1QdE00VXdVc09yVHhGYmZ5SGNTeFBtZDN4ejJjNXJleFNpc0RhU2dodnpSR0poYTMwY1Y2UUh5N0pKcjk5NFRVUFUwS3pqRVlTeTV4d2tWdTZWbEhoYm9GQ253SzBLME5oUGRUSkFSNzV6bm4zc2FqR2pzUG1HUnF2VzFfVEE4VzJYdy0yVGdYVjRGMER0dUNsUk9zenp6RVdWVjlQT2NyUGtSQVLSAcYBQVVfeXFMUGk0ZkJ1ak4xWWhXU1UwZm9GM3p5bmc5YmtUZVdXU25nVnJvZ3FVZU9lSjFyeFBEbUFJcFIyb2FIZzI2V1B3Y2l4YldSdEV2enJuMm9NYTVnLVhJNm5EOTdMSmRYU1REUnBSTnNOX0NRUndTa0hXcktPMEpIdUtNU2Y0Qkg0Sng0QWl0RngybDlxQnZfQjhXNUlVNDJJZUw0X3A4c09xWGF3TzNnVndlRGRnaGpuLWtlQ3VMRDdubUprRW4taEd3?oc=5",
+   "published": "2026-11-05T13:52:16+00:00",
+   "id": "c4472fbcf593",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6378,40 +6402,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US-Iran tensions mount after midterms, fueling escalation fears",
-   "source": "Breakingthenews.net",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUZ0dkFaeUd5amZSWlVqREpkUkZfdVpEbnBjX25aNm9uV01TODM1cmR3Q1IwVTd2OTI2bHZZRVNTdFpvZEJ0RkNNakdEYktZS2g2aXE0RXlRd2xhLUlVQWVlUC1QRlY5MGNNd1NzQVlFaktyZy1acXJ5RW1RMTBxQmt2cXBqY0ZUUUp2MHlqWWtFcFgtaWlFMTdzRGs0M1ZBandZNXVYZG44Ymc?oc=5",
-   "published": "2026-11-04T14:01:00+00:00",
-   "id": "7782c737015e",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Joy in Iran over ‘Trump’s defeat’ in US midterm elections – but war is not over",
-   "source": "The Guardian",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDlQRHRUMGc3SmZqTUpwcEY0UWRDQ2k4aTRYd1R4bWRySVlXWjRSTjREUno3bzdlWDNqanhyeHQ5cjc2dHdDR0JfWmNSYXZxeGV6YUZrQzVfNHNmemZkZHFoUWxDbnE2N1BCWUlMMnVlMm91R2FXTHIzbmlvNHR1dVp5cExuYjNDZEdRNWhkME9QbEJxaGEybUxn?oc=5",
-   "published": "2026-11-04T13:56:00+00:00",
-   "id": "a7ef3f64ffd7",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|45a7ae171d3a": 1792096292.5742931,
-  "news|1d56f170c246": 1792096293.6416802,
-  "news|3f77416d8eb2": 1792096294.7444046,
-  "news|fc7fce74e30e": 1792096295.846215,
-  "news|f06d02b329bd": 1792096296.9853866,
-  "news|971dc037b8aa": 1792097165.8508034,
-  "news|5c2acae752e9": 1792097166.861379,
   "post|2026-10-15T16:30:00-04:00": 1792098094.4227216,
   "news|61f68581c44f": 1792099893.2435749,
   "news|c9e5711cd222": 1792100772.7730849,
@@ -8031,7 +8024,8 @@
   "news|178f46d1ae24": 1793907097.7782333,
   "news|937e04df4fa0": 1793909773.7214153,
   "news|146016495a2b": 1793910690.2293003,
-  "news|5665fcdc04d3": 1793910691.2223365
+  "news|5665fcdc04d3": 1793910691.2223365,
+  "news|c4472fbcf593": 1793911568.6862605
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8359,6 +8353,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T20:46:08.686355+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump humiliated in US midterms, planning fresh attack on Iran? Pentagon, Israel reportedly prepare for new strikes</b>\n📰 DNA India · Jeu 05/11 14:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVF4dXlsLUxkbS1tU0Z2QmdSZm1QdE00VXdVc09yVHhGYmZ5SGNTeFBtZDN4ejJjNXJleFNpc0RhU2dodnpSR0poYTMwY1Y2UUh5N0pKcjk5NFRVUFUwS3pqRVlTeTV4d2tWdTZWbEhoYm9GQ253SzBLME5oUGRUSkFSNzV6bm4zc2FqR2pzUG1HUnF2VzFfVEE4VzJYdy0yVGdYVjRGMER0dUNsUk9zenp6RVdWVjlQT2NyUGtSQVLSAcYBQVVfeXFMUGk0ZkJ1ak4xWWhXU1UwZm9GM3p5bmc5YmtUZVdXU25nVnJvZ3FVZU9lSjFyeFBEbUFJcFIyb2FIZzI2V1B3Y2l4YldSdEV2enJuMm9NYTVnLVhJNm5EOTdMSmRYU1REUnBSTnNOX0NRUndTa0hXcktPMEpIdUtNU2Y0Qkg0Sng0QWl0RngybDlxQnZfQjhXNUlVNDJJZUw0X3A4c09xWGF3TzNnVndlRGRnaGpuLWtlQ3VMRDdubUprRW4taEd3?oc=5"
+  },
+  {
    "ts": "2026-11-05T20:31:31.222661+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says</b>\n📰 EnergyNow.com · Jeu 05/11 17:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDgyTWpjcGJvZzNIU1o5eTE0Z1dKTTdDWlFVMDBtNHhLNnBmVUl4MGRYOGpYYXV0ZkdSNG5VU0JpUklNTkNNMGE5Sy1saUJ4MWM1MEhyc0dTb0Z4U3dwdWE0WlRacTFULWRudF9EeUJPQkJmZGNYOFpPbzdWbnVDVDIzbFk3ZGU0d0VfUkEwNHlsdHc3c00teGx4UmlYdHlVTmV5N1RoWUplVGNidzVMY202a29ZQQ?oc=5"
@@ -8652,11 +8651,6 @@
    "ts": "2026-11-05T07:16:16.354338+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says Iran war was worth it despite Republican election losses</b>\n📰 Arabian Business · Mer 04/11 20:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-05T06:46:29.940125+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle</b>\n📰 Arab News · Jeu 05/11 06:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM3VQNUx4SWN1aGlUbzBXRUlZMHRpQ1dGZC1wZ21vdFV3NnJlUTR6aEY5YXM0WDNmUmFORDJJR0NSUkk1X3c5MUNaWEpsNWhKWDBiVWlIZ3hEVTFnMlJSRWQ3RVlSSVZCdkJnWklWLXlVcEFwSHpXRFVRLVlJT3ZqU0s4NmtZaWhlZ2VLRWZXUk5HUVFabGFBMFMxTF9wMmpFcGtzd0hpcGNuTkdlWjlkcWE5LS11TGx3UE1UMFFBbVBaaTNjalJuRlpGVFRuYXhySnZqZg?oc=5"
   }
  ],
  "daily_forecast": {
