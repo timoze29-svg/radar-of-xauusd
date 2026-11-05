@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "86f305aa5e37",
-  "5a87375bdc80",
-  "ae5810e71fde",
-  "89a22bce8900",
-  "27b052aea682",
-  "7ce2e7a0680b",
-  "37666403fc84",
-  "a51e94308a86",
   "af46f53bcbbe",
   "f3b8e073381c",
   "87eb03f3976f",
@@ -4000,9 +3992,29 @@
   "99069744727b",
   "813718195b06",
   "f51d7e8d4f10",
-  "bdb4f15956dd"
+  "bdb4f15956dd",
+  "1a58a88549ab",
+  "d3f5099c9dda",
+  "24486363a615",
+  "f64d31acb973",
+  "c8a7e73a7f2c",
+  "b5878058682b",
+  "17d5e9557032",
+  "708d0e8cefa9"
  ],
  "news": [
+  {
+   "title": "What the US midterms result means for the Ukraine war",
+   "source": "The Conversation",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRUpISGkyeldvdUNGdUEtcXhLcnBYNTZSZTE1SzMyblA0TWdQSjJSc1NVeHRBaW1YMUpOSVNXOTA3SVBOY0JPZ2E4Y1l4YWgtNXBVcW9pbHc1Y1dzZ2Y3S2dnZ19TeXZXMnJkOVVxOUF5LWhCV25tRHRwc2FzdERiNkZKSHE0N2ZXYjJ6Um1JVlBUQQ?oc=5",
+   "published": "2026-11-05T14:43:34+00:00",
+   "id": "708d0e8cefa9",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Latvia: Sanctions on Russia needed for peace in Ukraine",
    "source": "DW.com",
@@ -6390,26 +6402,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump congratulates Democrats on midterms, says Iran war played role",
-   "source": "AFP.com",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDc5LWZtSXF6TEZ2SXFrVU1LTG1zS1dUTFlJZjN1RmZ5d3VxWHZGaUtCQm9LOGJkR21NTjBqeTFZbVZOV1p6eGVSY1U1X3JNcUNNdFhTckZwOFNxcEdMWDYyaDhGWHZNSk5oVF84REpwUTkwdnQwbk9PVlRjVVhmVjNreGt5VS0wcm1pQlhickg?oc=5",
-   "published": "2026-11-04T07:35:19+00:00",
-   "id": "9e7619fafd1a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|637bd8b5ccb9": 1792075590.4414315,
-  "news|0f273be2a641": 1792075591.4189487,
-  "news|45088f870e19": 1792075592.4178884,
-  "news|318529ac0ff2": 1792075593.382181,
-  "burst|Iran|165932": 1792075594.657029,
   "news|7deb9e3b48f1": 1792076507.9413624,
   "news|c493792579a0": 1792077375.3067663,
   "news|e7f6d43cf1e9": 1792077376.415202,
@@ -8025,7 +8020,8 @@
   "news|0a8f220a06ac": 1793886385.798275,
   "pre15m|2026-11-05T09:10:00-05:00": 1793886387.058273,
   "post|2026-11-05T08:50:00-05:00": 1793888177.4288754,
-  "news|817d66f412bd": 1793889096.3937688
+  "news|817d66f412bd": 1793889096.3937688,
+  "post|2026-11-05T09:10:00-05:00": 1793890023.0445957
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8353,6 +8349,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T14:47:03.045702+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 37 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.03%\nTaux 10 ans +1.1 pb\nOr +9.4$ (extrême +12.9$, range 15.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-05T14:31:36.393915+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>I’m a nuclear expert: A desperate Trump striking Iran now could be apocalyptic</b>\n📰 The Independent · Jeu 05/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXBObUg3NEJOcU5XWkFLRU1fZkFGLWh6MDRtSlI3akNHVjBMWW03V1QzOExKeDdyLU5PT1Z5dnZySk5xRTJGWlRnQmZ3eGVXMWt2bDBsMEJrZnlMVDdPemQ3MnFjRFRncXdVbEZuSjV1cVFpWmh3UGxES2hzOHlNbzlKRVVVbVdsMllhUGowZ1VYaEhwUDlVek5xWmR1SXpTV3RB?oc=5"
@@ -8646,11 +8647,6 @@
    "ts": "2026-11-04T20:46:15.286971+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>No regrets on Iran: Trump defends strike after Democratic sweep</b>\n📰 www.israelhayom.com · Mer 04/11 03:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWZwZVpMMDBXdUpfQWtaamY3N29SX3JFME9FZjNLdE95VTgxRUpONHZjM3FHRVNLWVZQc1Y5NmZvMERWQkYzU2JjUE9jeTluSmVTQlBEY0VHdE9PSG8tbFh5SzJwMVlubUJwelBGOFU1X3l6QmdOTmVJUk5VV09XcDVkcC0?oc=5"
-  },
-  {
-   "ts": "2026-11-04T20:16:07.409182+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war</b>\n📰 AP News · Mer 04/11 21:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5"
   }
  ],
  "daily_forecast": {
