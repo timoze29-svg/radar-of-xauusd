@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793891749.8388438,
+   "ts": 1793895351.18886,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "026d16110ce5",
-  "5172ae9a9998",
-  "53f1ecccb72a",
-  "ae328838fe1c",
-  "1da68d2da2b1",
-  "940965176f00",
-  "9f384bf793e4",
-  "5ede34cc7c86",
   "3fa06fd129ea",
   "35c5c1f426ea",
   "4664f23341a8",
@@ -4000,7 +3992,15 @@
   "6484ba11f68d",
   "f86166b868c2",
   "e6a8d23f345b",
-  "378e7ba56cda"
+  "378e7ba56cda",
+  "aad6f6f7b0eb",
+  "d3320d3a189c",
+  "33db5cfb7a4e",
+  "7891bc61a9cb",
+  "1f23862a5a68",
+  "6b5ac17e2895",
+  "3020bbf64c16",
+  "ff76bdf85f47"
  ],
  "news": [
   {
@@ -4323,6 +4323,18 @@
    "published": "2026-11-05T10:49:00+00:00",
    "id": "a8d488b76732",
    "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran war live: Madinah-bound Houthi drone intercepted by Saudi-led coalition",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-05T10:40:53+00:00",
+   "id": "d3320d3a189c",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6390,18 +6402,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Fed holds interest rates steady in 1st move since Iran war spiked oil prices - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVgwU0l2bjYwREJ2NE9WVC1ObnpJa3Qxa2syS0lmUXphVm8zTWpnYVJ5NXpFZmxWYUZlVXpmc3ZFQzk2ZnZlYjNSUHRPb3F1emZhVDdPNEMxak1mM2wzOEZtYnA5dklfUFlfOUdVRU5lSXNmTlhqMy1pUElaMjNBTEFJbV9IRHNkRGt1NHJKVDVFd1Za0gGaAUFVX3lxTE9IOWFDX2MzMVhjUXl2VE1oTGNTTlowMmxkMUZnNEQ1TzhKemJ3TmlSTElmdzVPQ3VmR2E3OGdNLXN2dVBHQ2xiLXl0WWJfdjBUQktuSnNwbTNQV3puQzBJTUVZS295S2lHYU9iQVpFd05FQkw4WmhmZ2EyU3dCUWt0bHNCUy1xX0pHME5ZbVBlZ1RXSkxnSVZ1TWc?oc=5",
-   "published": "2026-11-04T09:02:08+00:00",
-   "id": "d4b415a5539a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8026,7 +8026,8 @@
   "news|ea5524b5145a": 1793893568.8815758,
   "brk|VIX|pwh|up|2026-11-02/2026-11-08": 1793893571.3984225,
   "brk|VIX|h20|up|2026-11-02/2026-11-08": 1793893572.428061,
-  "news|b1c01e8e10a0": 1793894513.3645215
+  "news|b1c01e8e10a0": 1793894513.3645215,
+  "news|d3320d3a189c": 1793895369.605136
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8354,6 +8355,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T16:16:09.605214+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Madinah-bound Houthi drone intercepted by Saudi-led coalition</b>\n📰 Arabian Business · Jeu 05/11 11:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-05T16:01:53.364629+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel prepares to expand activity in Lebanon as conflict with Hezbollah escalates - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 04/11 20:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWtnTXBXYUNnX1dMZGl5NGhTWEoyaGpDMm1PY21pMzhPMnItZUZ5Vl9ENlF1d3RjZlJqN01MRk1kaU9SZTlYN0I2UThZQ3dwX20xZXlJbnBfTWJwVXM5d2x6RzZrZ0pmMTJta0JhS3hDUlRtdGQzVHZaeXZqWk45aXoyRG5CZDJaYnJoUm9KSzA0X0tFY0IyaDdDT25haFlFbHY2S3h0dWlkZm5LSS1ZaXVwMzTSAboBQVVfeXFMT3JUM1U3cW95bmFhbXhIVURkZHRIV0dSbnRnMTdQbDIwVmZBVWszNWwwQlAzUXZyb3lPejRoRzctU3pnd29NM24xSTZKdXI3c2s3WlY4QzkzTFFOSUxSaXVvYkxkRzVYeHBhVGdPRG9pTWEtZ3BKZHB6RDBsMTNVanhoVXp2UmlEcUszRlBZOFNOTGs5aUp5d1B6SXNyVVhTQS0xOC0wXzdQNmxQdDltWVg2dE1ocDI0clRn?oc=5"
@@ -8647,11 +8653,6 @@
    "ts": "2026-11-05T00:01:50.715599+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n+3 148 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-11-05T00:01:49.279194+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit</b>\n📰 Reuters · Mer 04/11 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5"
   }
  ],
  "daily_forecast": {
