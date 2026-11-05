@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "679d85db8a6b",
-  "7eaf0857c4ad",
   "b576f8f39e5c",
   "d26989828e67",
   "0ca7a2e9a95a",
@@ -4000,7 +3998,9 @@
   "987b2f878e8c",
   "7088c13cb516",
   "7663b4ab68af",
-  "b7cd22c2666b"
+  "b7cd22c2666b",
+  "fa2a32b5f4fc",
+  "1b053062c8bf"
  ],
  "news": [
   {
@@ -4046,6 +4046,18 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVBBOE1vYThfaERwMm5SalVMTXQzR3NWZm9qMVlPWWJUY0JWeWRqRjBLa3NCZlBaNU9YQzM4SEh4aDNhdUtCcTBMZzdnVDhlMGx0R2FkLV9MbnZsUDRRQm9Zc1NfbVQ0V0ZRNHpTZjB1UlpGcld6S3FCeVBjVEhOczhiNUJhRWFmSlJ1cg?oc=5",
    "published": "2026-11-05T10:04:43+00:00",
    "id": "a327a54705ab",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack",
+   "source": "The New York Times",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVBBOE1vYThfaERwMm5SalVMTXQzR3NWZm9qMVlPWWJUY0JWeWRqRjBLa3NCZlBaNU9YQzM4SEh4aDNhdUtCcTBMZzdnVDhlMGx0R2FkLV9MbnZsUDRRQm9Zc1NfbVQ0V0ZRNHpTZjB1UlpGcld6S3FCeVBjVEhOczhiNUJhRWFmSlJ1cg?oc=5",
+   "published": "2026-11-05T10:04:43+00:00",
+   "id": "fa2a32b5f4fc",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6390,24 +6402,9 @@
    "cat": "dollar",
    "raison": "haussier or (dollar, taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "No regrets on Iran: Trump defends strike after Democratic sweep",
-   "source": "www.israelhayom.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWZwZVpMMDBXdUpfQWtaamY3N29SX3JFME9FZjNLdE95VTgxRUpONHZjM3FHRVNLWVZQc1Y5NmZvMERWQkYzU2JjUE9jeTluSmVTQlBEY0VHdE9PSG8tbFh5SzJwMVlubUJwelBGOFU1X3l6QmdOTmVJUk5VV09XcDVkcC0?oc=5",
-   "published": "2026-11-04T02:12:45+00:00",
-   "id": "f5b931798cdf",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|27f33854cbe4": 1792060471.165005,
-  "news|523cf4e1c8ea": 1792060472.1397858,
-  "news|f0f46d291f69": 1792061164.3980448,
   "news|7ea6ec0ddd7e": 1792062101.024896,
   "news|172eebbef7f3": 1792062102.0479712,
   "news|0ecf538b3be2": 1792062103.0049925,
@@ -8053,7 +8050,8 @@
   "news|a327a54705ab": 1793873781.0308232,
   "news|7f17b5234d03": 1793873782.1287217,
   "news|49d536826e2d": 1793874848.100364,
-  "news|33a776af1fee": 1793874849.0611255
+  "news|33a776af1fee": 1793874849.0611255,
+  "news|fa2a32b5f4fc": 1793875595.7833803
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8381,6 +8379,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T10:46:35.783457+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack</b>\n📰 The New York Times · Jeu 05/11 11:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVBBOE1vYThfaERwMm5SalVMTXQzR3NWZm9qMVlPWWJUY0JWeWRqRjBLa3NCZlBaNU9YQzM4SEh4aDNhdUtCcTBMZzdnVDhlMGx0R2FkLV9MbnZsUDRRQm9Zc1NfbVQ0V0ZRNHpTZjB1UlpGcld6S3FCeVBjVEhOczhiNUJhRWFmSlJ1cg?oc=5"
+  },
+  {
    "ts": "2026-11-05T10:34:09.061266+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Points Missiles Towards Israel &amp; US Bases; Air Defences On Alert As Trump Mulls Fresh Strikes</b>\n📰 The Times of India · Jeu 05/11 11:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNdmNrOG9kTW5nN3FGRzVIUTZRZGVWOXRlTVNaLXU5MnJPMDBnZUdjWXJoRElnUUpkZnlnMThVQ2dNNm9jUnNDQjdPbm5sSVE4QURmcmZoc0FtWExkb3cya0E4c2xPcGJXWlRuUGlxM0hPQTdPOWpMV0Z0YVlXUDNTbGt0VUpQVmVvZ1BZUVU3ZkRDaEJDYnhncDRFUVQ4N3p6RXByengxTWl0V1IxalJ0V3ZpRmEtN1RuMDdWaThPeTlzTEk0clpuZ0dPTWRwc0I5OE1kZEtFUml5eWdyWTZ2M1ZOQU15aEJyY25mRnVNRUxHeTJkU2pOU25hbFY3X0VBU3pmMU1mMNIBjAJBVV95cUxPTFlEZWpKb0ptdjdwMkY0ZEVQOEtyMnI5WkpqSWxRSkNUOUdCdEF6cS13RGRXNW50YmV1V0RldU1ROHNYRlZIUzZ5R3RlenVXSWtvTjV2cGl1QlNVdDdWQlZVNjE1UXZPdE5VZ3hLeF9fUy1RWkt2enhFdVRYTnE1V2llMWJNTDF5NzFkNHRnX2Jhc0gxdW0xR040eU5sZXNwbHI3Wlh5dHFZZXBneTJzVzZWN1kyUHM3d3RWNE5zQ20ydEFZR0ZvTkp6WmFhMzlEYmdoOUhUQ1ctODRWNnM4U3BDZ1F5WERJaDlrNXRNLXZscF9OM0tzX01RMFRHYno1QS1wT3ZwV0tvdWJ4?oc=5"
@@ -8674,11 +8677,6 @@
    "ts": "2026-11-04T17:46:14.340633+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance blames Republicans’ midterm losses on Iran war, cost of living</b>\n📰 The Washington Post · Mer 04/11 17:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3E0VE1taXhqR3N5QmZyRkdnYlNJQkkwdWtvd1dkLUFyVEZtOExDOGdmZkFmaVVtSmI2SWZWMFFtSklXUDFvdXEyNnNMVUV4ZUZONGljazlTa2oxNDhxQTVpWjBfSDhBUDBfTmZpWUwzOTYwMlhDbF81cy1YdnZRNUU4SWp1eGN6bWk2WmFPcWs0Si1EcnJ5RHhxSUVKN2RtREE0dklseWVIa2FEV0M3aDd3?oc=5"
-  },
-  {
-   "ts": "2026-11-04T17:46:13.234130+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses</b>\n📰 The New York Times · Mer 04/11 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnRLVmRNTnVEX3lyT3ZheWVqaTB0Mk9kYnk2TUJFVEY3dUlXUFNiQjlCTS1HSy0yZ0poQ0QzQlVtWWZHQUpwNXE5Snc5MFA2WUQtRXdXTW44Q3JydHM0X0pmMmtVSGp1bm5zemd3aHZyaEF6RHRHV1BpUGxJb1dkWURLbmNreXhU?oc=5"
   }
  ],
  "daily_forecast": {
