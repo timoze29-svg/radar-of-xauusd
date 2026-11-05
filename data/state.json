@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "d3309c2af12b",
-  "f4c3315804e0",
-  "1eccc5dff26c",
-  "35eb9940fc05",
   "88be2e052133",
   "7b8510ca3c48",
   "e6aed0d0c422",
@@ -4000,7 +3996,11 @@
   "6e02d28f917e",
   "13a2e7066455",
   "47b29cb6875b",
-  "34041717f7d4"
+  "34041717f7d4",
+  "0df8399738ce",
+  "2db3fa5c14a6",
+  "35ff13492aea",
+  "711455c9ce2f"
  ],
  "news": [
   {
@@ -4542,6 +4542,18 @@
    "cat": "politique US",
    "raison": "Congrès démocrate affaiblissant le dollar et compliquant l'agenda belliqueux et fiscal de Trump.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: Trump says Iran war was worth it despite Republican election losses",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-04T19:46:58+00:00",
+   "id": "2db3fa5c14a6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him",
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Incertitude stratégique américaine maintenant une légère prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says no plans to strike Iran as midterm polls trickle in",
-   "source": "The New Arab",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGNTcVVYTVhlOEhlYXh5Q2FibGZySlVBWG53NW5EUjJXVEZPWGJ5aGFKOUxEdXRDZ3o5b3Y3NWRlaUVoNW50VkhncG1JNUVTVnJBMUNQTXBFTUI1NkhoQ2kwdTFXbGRfaVZORnpPVDZNSXhMSFdqV3NpUS1ZUlcwTHBuVDd1aS1CNVE?oc=5",
-   "published": "2026-11-04T00:28:23+00:00",
-   "id": "85f9af641cba",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "Apaisement temporaire des tensions avec l'Iran réduisant la demande de sécurité.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8050,7 +8050,8 @@
   "news|dd24ca452928": 1793857587.731483,
   "rep|daily|2026-11-05": 1793858503.8364797,
   "news|11b99bdbd5c0": 1793859403.8398623,
-  "news|418c3e7cc4fa": 1793861189.9400277
+  "news|418c3e7cc4fa": 1793861189.9400277,
+  "news|2db3fa5c14a6": 1793862976.3542426
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8378,6 +8379,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T07:16:16.354338+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says Iran war was worth it despite Republican election losses</b>\n📰 Arabian Business · Mer 04/11 20:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-05T06:46:29.940125+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle</b>\n📰 Arab News · Jeu 05/11 06:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM3VQNUx4SWN1aGlUbzBXRUlZMHRpQ1dGZC1wZ21vdFV3NnJlUTR6aEY5YXM0WDNmUmFORDJJR0NSUkk1X3c5MUNaWEpsNWhKWDBiVWlIZ3hEVTFnMlJSRWQ3RVlSSVZCdkJnWklWLXlVcEFwSHpXRFVRLVlJT3ZqU0s4NmtZaWhlZ2VLRWZXUk5HUVFabGFBMFMxTF9wMmpFcGtzd0hpcGNuTkdlWjlkcWE5LS11TGx3UE1UMFFBbVBaaTNjalJuRlpGVFRuYXhySnZqZg?oc=5"
@@ -8671,11 +8677,6 @@
    "ts": "2026-11-04T16:16:11.661910+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance says the Iran war cost Republicans the midterms</b>\n📰 Axios · Mer 04/11 17:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE5hcDltSzJzMkFNMzVKcjd6M1RnUjA5UFNha2tyMTlwVTQ4cVlnWV9LVVFVanR0dVlRUnBxRkxORmU4NG5KaGE0bGtBUFBiQ0hwZ0dQQ3lwV01nMXR0Y2JUM3JKdGFTX3lOZ3hhYUdUbGVsaWs?oc=5"
-  },
-  {
-   "ts": "2026-11-04T16:01:40.946685+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s leaders say midterm results show US voters have rejected Trump’s war</b>\n📰 AP News · Mer 04/11 16:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5"
   }
  ],
  "daily_forecast": {
