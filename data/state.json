@@ -1001,7 +1001,6 @@
   }
  },
  "seen_news": [
-  "aea382c8ce29",
   "84be11455516",
   "74fb68129f83",
   "5e0278612248",
@@ -4000,7 +3999,8 @@
   "7481b090df25",
   "ac0b12a1849a",
   "a0faacd272b2",
-  "8c23d5f3b6d9"
+  "8c23d5f3b6d9",
+  "ab9e0a5b9228"
  ],
  "news": [
   {
@@ -4023,6 +4023,18 @@
    "published": "2026-11-05T00:20:34+00:00",
    "id": "21abb6c5632f",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump blames Iran war for GOP losses but says he would ‘do it again’",
+   "source": "NBC News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVpGdlowaFpKX2RUVm50ZjAzN3FpTFA2UDdxS1Fld3hfU1hUT1FjbHhuX1VOS3N3UTd4dnFoQXJyRW52WXRjTnM2ZFJtWjduQkRFLTVkQk9SV01JQVdLSFZ4NmtuMmM2bUhsaUh0dEU2V3dkU3hfTC1VTHNKeWc5SF9HbjZZeWRIS3F6VWFWME9sbkIxTUZsdnFPMnpjcWMwMEtLUXhrZmoxVVJaWHZfWWhzUmhrR0xOOUdQc3BWSQ?oc=5",
+   "published": "2026-11-04T23:51:48+00:00",
+   "id": "ab9e0a5b9228",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Craintes d'escalade chimique au Moyen-Orient renforçant modérément la demande de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "US strikes in the Strait of Hormuz create more questions about what’s ahead - Oregon Public Broadcasting",
-   "source": "OPB",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdklMUENIZ2NIWTczVFNMeHd1Wm5hbE9WV0x4XzcxMDVaV2dhbm1hY2lndXJGek5OOTNwRU5icmRZdWpCcEROS2p4RUdnMFJ5NnNaWVFZMDJtWllmdGdWLThKSHVJSHduNjZVekcyVkFWd0N4VUREMm9lMjk0M0Vuc0FTWi1OQjctaTdiTVJyVzltQm9oWl9hQ08xRkthME16bV9idVpkeDFZeGJxM2pNc0JLbGQ?oc=5",
-   "published": "2026-11-03T20:13:35+00:00",
-   "id": "bcd3005cae1d",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8054,7 +8054,8 @@
   "big|BTC|2026-11-05": 1793836910.7155256,
   "news|2b3be457d70b": 1793838683.7035882,
   "news|c989599c1e9e": 1793838684.6295025,
-  "brk|GOLD|pwh|up|2026-11-02/2026-11-08": 1793839567.5044038
+  "brk|GOLD|pwh|up|2026-11-02/2026-11-08": 1793839567.5044038,
+  "news|ab9e0a5b9228": 1793840497.1498795
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8366,6 +8367,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T01:01:37.149977+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump blames Iran war for GOP losses but says he would ‘do it again’</b>\n📰 NBC News · Jeu 05/11 00:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVpGdlowaFpKX2RUVm50ZjAzN3FpTFA2UDdxS1Fld3hfU1hUT1FjbHhuX1VOS3N3UTd4dnFoQXJyRW52WXRjTnM2ZFJtWjduQkRFLTVkQk9SV01JQVdLSFZ4NmtuMmM2bUhsaUh0dEU2V3dkU3hfTC1VTHNKeWc5SF9HbjZZeWRIS3F6VWFWME9sbkIxTUZsdnFPMnpjcWMwMEtLUXhrZmoxVVJaWHZfWWhzUmhrR0xOOUdQc3BWSQ?oc=5"
+  },
+  {
    "ts": "2026-11-05T00:46:07.504456+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 4 097.20 → prix : <b>4 098.30</b>\nATR jour : 76.1$ | Pivot hebdo : 3958.5"
@@ -8659,11 +8665,6 @@
    "ts": "2026-11-04T13:31:30.433638+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills</b>\n📰 Al Jazeera · Mer 04/11 13:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMm41SFlwczktQmJ2aFdwSlY2MkxONGc1RVdSQzlaZmt6Ykt2X3pCVmtBTFZLeUxJRzRLNWVMNm9DbWhZRzh0dDVnTWFualV5Rnh2Q3F3Qzh5VDdTRGpYdzhqNnJXUXVvTHFWc3JXZ2U3QnNtbzRNY1hWYVlpYUpCb242OGF6RXk2eHBSLXRQVWthWDdraXlsQU9SbFZBSUxNbzNyVWFpcjVVWVE4VlVNWnlveWF2RGtpM3Iw0gHAAUFVX3lxTE5WNGplR01rVVJyMEtQU3o4U21JOFpiTk1rd3Voa0NRYkhfTXRraGVNR1NIOFFqZEozb0EyTkdYbWdsZHVra2RBODZMMkNqUENnSWh0RVpkYUp6NFZXZVBueEtucDJUa2Ftb2xJcklOY3RwVXBHWEVPbmEwbVBJbTdyOUdQaHU4WXlEUHBIdUdWSW1aS3RFMG9tbkM1SUVZeDJCMWx4TUNJUTFhX3c4RDZsYUc2QTlIbnJrcF9ZYTZXeg?oc=5"
-  },
-  {
-   "ts": "2026-11-04T13:31:29.282927+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>Latest war news. UK Deputy Prime Minister: the war in Iran has been catastrophic; de-escalation is needed</b>\n📰 Il Sole 24 ORE · Mer 04/11 14:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEh3eUpvZEE3RmtURWlJT254WnE0SWpsZzRMWkladm9zTDk3WThic1c0bHlnM2N5dXlNdGEzZHUzd2NnaDlFMUpURnRnQWxfckFBb0xkMFBXclRkWW9ISldOOTAzcGFROE9LcVVFMlRuX3JQWDU3bkRlQ1BDQW1HWFlrTFdHZjVCYWtUWXZwZS0wVDVBbHpuWg?oc=5"
   }
  ],
  "daily_forecast": {
