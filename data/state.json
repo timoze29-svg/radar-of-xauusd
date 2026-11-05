@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "0b568718b15d",
-  "627c6b5e9b99",
-  "1e368d069ff5",
-  "f715bbda69e2",
-  "b008aeb0d075",
   "2f3cf58b16ca",
   "f563070cd654",
   "3135bc8e3def",
@@ -4000,7 +3995,12 @@
   "b2a2005dcba1",
   "056b310b830b",
   "0bbb530516a3",
-  "cce2a3655d6d"
+  "cce2a3655d6d",
+  "dbd8764e9eb0",
+  "8dbb8401db09",
+  "7abf98264673",
+  "9811dc3b8212",
+  "cdb2a3d3712d"
  ],
  "news": [
   {
@@ -4146,6 +4146,30 @@
    "cat": "géopolitique",
    "raison": "Guerre installée dans la durée ; impact refuge marginal sur le cours de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Tehran's war debate turns to wider strikes and nuclear threats",
+   "source": "Iran International",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaE5GclZpZUtpb3dWN2lDMEVXSFQ5bUNsUC1kV1pva2wtemxoMzh1S3pnVjJUMlRuVEt0MTdhbGVTTUtJSzBMS2lpRDB6STFydVE?oc=5",
+   "published": "2026-11-04T20:24:30+00:00",
+   "id": "7abf98264673",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+   "published": "2026-11-04T20:22:06+00:00",
+   "id": "8dbb8401db09",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
@@ -6378,30 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US has plans to strike Iran as early as tomorrow — report",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVNaNG1maExCU3d5OXJnbDlIaWVuTXJxMDkyV2RvcE8zVjRSWk9BSXJwcjVyd2xpMEtaX2hGRTdDX21aMGVRdE5IVi1xU0s4UzFpd2RTNVpKQU13VkJHTURQLTNzWTMxYkRBYnpJdG5ZRTY1Vm5qN0ctNXd2aERfeUVKbXBrUnN3RUU3OUxwZWlBVWd2cktGazMyZTFVWjA5cjVZ?oc=5",
-   "published": "2026-11-03T18:48:06+00:00",
-   "id": "a9552574f45e",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Menace imminente de frappes sur l'Iran, envolée immédiate de la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil prices ease to nearly four-week low amid peace talks",
-   "source": "Yahoo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVlKOFRlMlI5bGJYeVNIN2gyZTJpd1dobnVDNWo1Q2ZxbEZjTThra1V4QThzRF9GQ3JGLUdnYzR0UnIwR2ZpNFpPa0M5bVFtZ0dBVV9tMGZTX2Z4VG9MTGRkSjI2c1pZRWVvWGl5bW5haE5ObG5TNVBUZHgyX1dRa09aaExBdFJXcjc0?oc=5",
-   "published": "2026-11-03T18:40:07+00:00",
-   "id": "b76ea6f2f236",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Négociations de paix et repli du pétrole réduisant l'inflation et la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8048,7 +8048,10 @@
   "news|fe4901452372": 1793832369.5655684,
   "news|e4ec12dbfdbc": 1793835089.2514472,
   "news|e55a9f960093": 1793835090.2998357,
-  "news|99ccbeb48e0b": 1793835975.225427
+  "news|99ccbeb48e0b": 1793835975.225427,
+  "news|7abf98264673": 1793836908.261122,
+  "news|8dbb8401db09": 1793836909.2787445,
+  "big|BTC|2026-11-05": 1793836910.7155256
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8360,6 +8363,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T00:01:50.715599+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n+3 148 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-11-05T00:01:49.279194+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit</b>\n📰 Reuters · Mer 04/11 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5"
+  },
+  {
+   "ts": "2026-11-05T00:01:48.261236+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tehran's war debate turns to wider strikes and nuclear threats</b>\n📰 Iran International · Mer 04/11 21:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaE5GclZpZUtpb3dWN2lDMEVXSFQ5bUNsUC1kV1pva2wtemxoMzh1S3pnVjJUMlRuVEt0MTdhbGVTTUtJSzBMS2lpRDB6STFydVE?oc=5"
+  },
+  {
    "ts": "2026-11-04T23:46:15.225505+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again' - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 04/11 20:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA?oc=5"
@@ -8643,21 +8661,6 @@
    "ts": "2026-11-04T13:01:40.232040+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4052.50</b>  (+44.0$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+24) → maintenant +26 (Haussier)\n✅ Le scénario haussier TIENT\n📏 Range fait : 134$ sur ~80$ attendus (168%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:15</b> 🇺🇸 ADP Non-Farm Employment Change (prév. 67K)\n    🔺 Au-dessus de 67K (économie plus forte que prévu) → moins de raisons de baisser les taux → dollar ↑ → <b>or ↓</b>\n    🔻 En dessous de 67K → effet inverse → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+9) Bitcoin Falls to $75,500 as Warsh Backs Fed Independence\n🟢 (+8) Iran's chief negotiator says Americans voted 'no to war'\n🟢 (+8) Trump: Nuclear Weapons Not Needed Against Iran, Military Options Remain\n🟢 (+8) Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses"
-  },
-  {
-   "ts": "2026-11-04T13:01:39.151643+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>ADP Non-Farm Employment Change</b>  prév. 67K | préc. 90K\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-04T13:01:37.932260+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump: Nuclear Weapons Not Needed Against Iran, Military Options Remain</b>\n📰 IranWire · Mer 04/11 12:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXZLVzJRTGFYa2o5WEV6Y2tvLTFpVS1WMXRZMjVWcFlfeE9HUldDWGdDdnZza3lIR1FHQ1B6OVQ4V0tpcmllNHdyNDNKY0piRDJVTHM3Z1ZZVk1XOUZwdVEwc21fdEJXQkM2SEF5UU93TlJuaTdhOTFUWUt2LXJ6NDBsWjhKck54eGlmRnRETjhwU2duV0lTVExLeWdFUUpyeHFuVU8xY1Fqdw?oc=5"
-  },
-  {
-   "ts": "2026-11-04T12:46:26.118309+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's chief negotiator says Americans voted 'no to war'</b>\n📰 BBC · Mer 04/11 13:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU?oc=5"
   }
  ],
  "daily_forecast": {
