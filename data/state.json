@@ -804,7 +804,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793820702.2422075,
+   "ts": 1793893571.3704104,
    "data": {
     "gold_hours": {
      "0": {
@@ -919,7 +919,7 @@
       "low": [
        [
         0,
-        14.3
+        15.1
        ],
        [
         15,
@@ -957,14 +957,14 @@
         8.5
        ],
        [
-        2,
-        7.6
+        3,
+        6.8
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5943,
+     "n_hours": 5939,
      "horizon_h": 2,
      "base_gold_up": 53.4,
      "base_dxy_down": 48.2,
@@ -984,9 +984,9 @@
      },
      "up": {
       "3": {
-       "n": 264,
-       "p_dxy": 55.3,
-       "p_gold": 48.9,
+       "n": 263,
+       "p_dxy": 55.1,
+       "p_gold": 48.7,
        "gold_avg": -0.7
       },
       "4": {
@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "a2ece7b947b6",
-  "7acc19e82e07",
-  "d818eb8e342d",
-  "e72132037542",
-  "d8e2ced8c995",
-  "7b15540891b6",
-  "76c7b1fd991f",
-  "d08b317c5368",
   "d5715517f949",
   "4bc7016b703b",
   "3f02ab22b557",
@@ -4000,7 +3992,15 @@
   "d00736a97548",
   "0b0b36c9ebd1",
   "ea64fb6717dc",
-  "46cf9595b4d3"
+  "46cf9595b4d3",
+  "15d1f91450ca",
+  "e2a8e4d5f0d3",
+  "8f2e752a7d4d",
+  "ea5524b5145a",
+  "5c08b1f422fc",
+  "0625cb2d98c4",
+  "e0b1c0593e86",
+  "b2c798762cfb"
  ],
  "news": [
   {
@@ -4143,6 +4143,18 @@
    "published": "2026-11-05T11:45:35+00:00",
    "id": "9dfb790d7346",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+   "source": "NPR",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlhBeklFdElHX1VZa2hWaW5lQ18waTMxLVpTU21Kbi1fd1hXX0gwUWFnbFQ5NEhxbHF5RXJaQ1lTd2phVUpRN1Ztdkl4UFNpOXNUbEdVdWVmV1VSSzg3U0JEM1pyR3BhQ3BwM05TQzJycFJTeFdyTE16bjNGNUtkM2hxUnBTMXptUnI5QXRuQUFGd280WE51aA?oc=5",
+   "published": "2026-11-05T11:45:30+00:00",
+   "id": "8f2e752a7d4d",
+   "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4328,6 +4340,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation",
+   "source": "Reuters",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURmMHZvcURoTHdPckpVdEYtMVA3WTktOGNLOGpHeTRZcGZ4OWZjQ2tHQTlTYy15N05pZ0VPemlkZEozUGdHTU9ieDdvZlEyU2dBbzZtbzVPNDVaaGVGNktHTGg0Nk5GbU9kYnVTN291Zkp4NV9Idk05OTNKR1FFckUtVnFfX25tWkRYd1A3VEdrME1YQjFzVzF2VDk1T1Fnc2RRdEZMZzZPNWN1YVVtX2MyTzV0SlA4eWMzOFVlQ0NBY3p2VXpsZQ?oc=5",
+   "published": "2026-11-05T10:13:02+00:00",
+   "id": "ea5524b5145a",
+   "impact": 9,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Iran Points Missiles Towards Israel & US Bases; Air Defences On Alert As Trump Mulls Fresh Strikes",
    "source": "The Times of India",
    "theme": "Iran / Israël",
@@ -4395,6 +4419,18 @@
    "published": "2026-11-05T09:46:24+00:00",
    "id": "8cb33f5203e2",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia says Ukrainian postal hub, ship hit; Kyiv strikes Ryazan refinery",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2hVb2JpTzJSeTNndmFNYTNhUXdXOXc5SzFCM1RpOU1Wb2tQcW9iNXNvOWF2c2l5dTdvX1BnWmQyTFU5LUs2VkU2dVZrc3VBbldSU2lQMDZjaHpiWlVTQWlacEZIY2FDSVlRWXh0MDVKQ1JfeVlOb0lXMmM3eWtmUm9vMWRqYkxfSFhHR1R3T0doSkp0OHZHMlJRRU55MzFnSFp2RmFBNUpZY3MwZGlWMy1ZX05Qd9IBuwFBVV95cUxNQWRLSkJmS2VhN2E1ZEV6RjN5ajJvU3dvdndKcDdzOXdBZnVTN09UalJLMVdoQ1hsYUx1M3cxREZqM19rOHozdE9nR3BtN19LemFGd1R3eVJQOFVtWFlkZlUzaDBVQ2ZjUnVQMFVqU25JZ21VaGF4MGFIZ1p0NkNmR25CSHBZLWhQSEV4SV80eENCNktTcmdSUFVLMlg5dmRhSG1lTkJtY1FVcEJzUG5zQzMzTnZDNS12Uy1Z?oc=5",
+   "published": "2026-11-05T09:18:39+00:00",
+   "id": "0625cb2d98c4",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6366,42 +6402,6 @@
    "cat": "géopolitique",
    "raison": "Tensions maritimes accrues dans le Pacifique, stimulant modestement la demande de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXdXYnRzQjhrelUzSGk2YV9CTFJjSm4tU1d5WVI1ZHI3ZHNIUkRVOV9DZU5PSGY0QThIanBjQWV0cDJLSGJqRGVNbmFCeW53a19OQkd5WFBCSmhiNElncFlfbk1QNTFjNUYwOEZJRHVWay1ZSmo3QmkycVZvQW5pYzN2dDZjMlV5cnhyWnhCdEQyREFEVkcyOGlpMHJBckI2ZFM4SVU2d0JaTGJNODhuaHFuSFA4cjjSAbwBQVVfeXFMUEExNGNzZERwWmJQUHFxZ204bVNPSEI2TXp4UEJhcVpkOENMdTVRejQ0SDlLYXVuWVhodnJucHlFUmtKb2liOFJ3Zll1aDlvNE5wSWVheW8zd1dKWXBLcWdtQXZ5M1NZa2lvQVVJczlSTUdZSUtSaGs2MHRJdHJGaXhNQWdMUFV2RnBSU3dFSU9iQWdtaE9MdGk1SXN0T2RkcXFyYXJKdXFmajBWX0xQRS1oZVhqMENFOW0zY00?oc=5",
-   "published": "2026-11-04T08:30:34+00:00",
-   "id": "c1ccac354d1b",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "2 killed as Russia, Ukraine trade accusations concerning overnight strikes",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnppbEw3eDFnUGJ1cVRSNEZxaHVTaFF1eUx3Yll5Vk5JTmNSS3NsemtfS2dMNHVhdXBrSjZSOVkxM1ROZ3AyS3lIRG9WNjhXYzBaY2RvU1NYdUFIVmpxamZndjhwaUtSQ3VmNW1La3ZySU9DMDVxWkVJNTVGM2NaZklkZmxucFhwbGRpNENZVWY1S1hYSzZydy1WakhMeE9VUnNVaFlUWHMwb1BRYndKS2JKX1Z2bGF3TXhQX1ZrM3N0REk?oc=5",
-   "published": "2026-11-04T08:28:40+00:00",
-   "id": "e381b144ee5c",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Taiwan flags massive PLA naval mobilisation, spike in air sorties",
-   "source": "South China Morning Post",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTRqcy0zQmc0RXZVeU9UWVEyUngxOVRIOVBCZ1pjWFE1QXpSMVlYay1fMl9mTTB5Vk82SVJJZEdYcXdsd1RNQVR3T0RnSlp4QjN4OFFuVWxDZFBRSVZ0UEdmZmtiQmJ6VGg0ZXkyLXBHcnFab2YyQUMwSWZlM0NvNllVdHJwZGk1TDEtQmkyYmMzeWhHcHhRcllGZkNFZXNVMjVkMHlPMlBGZjZqRXFNQlVfZU9QV1hSUFHSAboBQVVfeXFMUHRLN0tFZVZFU1E3Tm1YZ1A4bFNSUDM0R3I2RHVCZDRsd1RWMmpBbDBVYktGVUhjSkIyaW9jeEl6djVVREFQZks0QXUyV0lCSlhZV1Q5dXdyTWdaMWhaM0szUGdjNkJPdF9Vc0NaYjBOQy1LTGc1OXhDT3dLcnQ4UlFWckRiWU50LWo2TEYxUElYckwwSlh2LTFuVXJicVBfLTVGZUtzQk5pRVhIeHFSVnJRN0t0LW9SeTR3?oc=5",
-   "published": "2026-11-04T08:26:37+00:00",
-   "id": "d0d95b24f095",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Mobilisation militaire chinoise notable autour de Taïwan, légère prime de risque géopolitique favorable.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8023,7 +8023,10 @@
   "brk|SPX|pwh|dn|2026-11-02/2026-11-08": 1793891834.6528559,
   "brk|SPX|h20|dn|2026-11-02/2026-11-08": 1793891835.462662,
   "big|SPX|2026-11-05": 1793891836.4284823,
-  "big|VIX|2026-11-05": 1793892697.9526675
+  "big|VIX|2026-11-05": 1793892697.9526675,
+  "news|ea5524b5145a": 1793893568.8815758,
+  "brk|VIX|pwh|up|2026-11-02/2026-11-08": 1793893571.3984225,
+  "brk|VIX|h20|up|2026-11-02/2026-11-08": 1793893572.428061
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8351,6 +8354,26 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T15:46:13.497545+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY -0.14%\n✅ Taux US 10 ans -2.5 pb\n▫️ Pétrole +0.64%\n✅ EUR/USD +0.10%\n▫️ News dollar/Fed : 1 (impact moyen or +4.0)\n   • House Democrat: ‘We’re going to have one hell of a donnybrook over ending these tariffs’\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à baisser dans <b>52%</b> des cas sur 2h,\net l'or a monté dans <b>56%</b> des cas (moyenne +1.5$, sur 242 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
+  },
+  {
+   "ts": "2026-11-05T15:46:12.428158+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>VIX (indice peur)</b> casse le plus haut sur 20 JOURS\nNiveau : 23.93 → prix : <b>23.99</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.26 | 60j -0.31"
+  },
+  {
+   "ts": "2026-11-05T15:46:11.398497+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>VIX (indice peur)</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 23.93 → prix : <b>23.99</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.26 | 60j -0.31"
+  },
+  {
+   "ts": "2026-11-05T15:46:08.881669+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation</b>\n📰 Reuters · Jeu 05/11 11:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURmMHZvcURoTHdPckpVdEYtMVA3WTktOGNLOGpHeTRZcGZ4OWZjQ2tHQTlTYy15N05pZ0VPemlkZEozUGdHTU9ieDdvZlEyU2dBbzZtbzVPNDVaaGVGNktHTGg0Nk5GbU9kYnVTN291Zkp4NV9Idk05OTNKR1FFckUtVnFfX25tWkRYd1A3VEdrME1YQjFzVzF2VDk1T1Fnc2RRdEZMZzZPNWN1YVVtX2MyTzV0SlA4eWMzOFVlQ0NBY3p2VXpsZQ?oc=5"
+  },
+  {
    "ts": "2026-11-05T15:31:37.952734+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n+6.08 aujourd'hui = 2.1× l'ATR\n🥇 🟢 haussier pour l'or"
@@ -8629,26 +8652,6 @@
    "ts": "2026-11-05T00:01:48.261236+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tehran's war debate turns to wider strikes and nuclear threats</b>\n📰 Iran International · Mer 04/11 21:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaE5GclZpZUtpb3dWN2lDMEVXSFQ5bUNsUC1kV1pva2wtemxoMzh1S3pnVjJUMlRuVEt0MTdhbGVTTUtJSzBMS2lpRDB6STFydVE?oc=5"
-  },
-  {
-   "ts": "2026-11-04T23:46:15.225505+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again' - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 04/11 20:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA?oc=5"
-  },
-  {
-   "ts": "2026-11-04T23:31:30.300131+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump speaks about White House ballroom and Iran war’s unpopularity after midterm losses – video</b>\n📰 The Guardian · Mer 04/11 22:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVjBYY1JmeWZBSURoS2xSZlcwTFI4eHFRZkswQnlOaXhfbTZTY0ZLWVkweWk4QUNDV0JPWHBTUEFQZjFTYXh0SkhzS29RTG4zZU9ZV09vazVTSlB6RkFzUnJQSnh0WDdCRzVzY3ZjS014RmdjMF9jUHFGakVQX2ZoZ0puSXctbTFNMGtGVHRoVmZ0NUl0MzNvUnZ5MEozcHpYNVNDZ0M4N3B2cWpTeW5jYllKekJhdWMzSXJHQ25wUUxVMEg0WEZqVS1qQ1p6M0JQa0N1MUhVemtNV1hVemo4SQ?oc=5"
-  },
-  {
-   "ts": "2026-11-04T23:31:29.251539+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance’s Break With Trump on Iran Follows Weeks of Handwringing Over War</b>\n📰 WSJ · Mer 04/11 23:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFJjSXRlWWdRcV9tRGxUSkNsRkdLTEpNNW9Yb2tNbm1nTzZUcHFoRzNPdGQ5bGxOb2g0SnFQbEpBZmVlOXgwOS1YMEZuN0xyLXEzbE9YbkVIYkE1SDNJUVd5OXpmdjBHWXdhU1o0TndoakRCdm5fLUhYUHNvOENySXdxUld2RXNiV3Z2NHZ1NU5LaEZrQlpIQWNDZmZiNC1rNG96LV9qdW83UURHRm1JaHV1Qzk1Zw?oc=5"
-  },
-  {
-   "ts": "2026-11-04T22:46:09.565658+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil prices fall on Vance's post-midterms Iran war repudiation</b>\n📰 Politico · Mer 04/11 21:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8818,7 +8821,7 @@
   "ai": false
  },
  "dp_last": {
-  "status": "up",
-  "ts": "2026-11-04T18:46:07.195459+00:00"
+  "status": "down",
+  "ts": "2026-11-05T15:46:13.497499+00:00"
  }
 }
