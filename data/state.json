@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "74fb68129f83",
-  "5e0278612248",
-  "66e8ec9e25d1",
-  "7b7cbb33a240",
-  "d6530b4baa15",
   "d52a9292b009",
   "02e9c55af430",
   "6b6ca69fb2de",
@@ -4000,7 +3995,12 @@
   "a0faacd272b2",
   "8c23d5f3b6d9",
   "ab9e0a5b9228",
-  "e7f987444ac4"
+  "e7f987444ac4",
+  "a79cc423975b",
+  "7e4df7a9aada",
+  "94e5f1731441",
+  "80ea6c220dc8",
+  "34b627dbb9bc"
  ],
  "news": [
   {
@@ -4133,6 +4133,18 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGs?oc=5",
+   "published": "2026-11-04T21:52:18+00:00",
+   "id": "7e4df7a9aada",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,24 +6402,9 @@
    "cat": "dollar",
    "raison": "baissier or (dollar)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Israel said to tell skeptical US, Gulf countries that Iran may use chemical weapons",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFU4OEtnb3ZSMHE0WXE5bV9mUG9vLVdONWJMMlVzWThXaFJKdDJieWNLdzBWQ1p0QzdNaURQUUhrT2dtWnJGUFI1dHdZNzF2U3BvUlJiRTN2T1NKOC1Mb0tlbDgzNGZfbVgycTkwRFM0LVN4UkNhNFZsUmpfYVJzdkJCUnQ0UGk5X0k1bGRCd1NJR19pUTUtY2ZrMzhleE9haDZVZ0lnZ0t1eHN4OV9GaFNCa9IBuAFBVV95cUxObHB3Uzhud2swVnUzT1QxSHNzQWk4ZHBtY2l3bE9zTGNXOUpDTXhkVTllcDEyQW9NbjBUVWFYSnFwVmszRl92WldHbERiQTJWblNqNlFrOE1TQ1RfQ254aEo0aThxME5jeDRId19BTktja0tSenF5OVFzdUc3SWJacTNNc1ltVkZRN2tSMENBT1NVVlc3SVc4aTVReDVES0gtSGlUaGZGVHU5bEdudmxweEh1dFFLc0ct?oc=5",
-   "published": "2026-11-03T20:33:00+00:00",
-   "id": "03e7b0d2dff3",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Craintes d'escalade chimique au Moyen-Orient renforçant modérément la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|b6f09e58d9bd": 1792026969.4531503,
-  "news|a564da6832b3": 1792026970.538295,
-  "news|655a05e8180f": 1792027881.22153,
   "news|50195273b62a": 1792028769.8801131,
   "pre1h|2026-10-14T22:55:00-04:00": 1792028771.1216466,
   "news|00f22af05b4a": 1792031480.8335946,
@@ -8055,7 +8052,8 @@
   "news|2b3be457d70b": 1793838683.7035882,
   "news|c989599c1e9e": 1793838684.6295025,
   "brk|GOLD|pwh|up|2026-11-02/2026-11-08": 1793839567.5044038,
-  "news|ab9e0a5b9228": 1793840497.1498795
+  "news|ab9e0a5b9228": 1793840497.1498795,
+  "news|7e4df7a9aada": 1793842293.6513424
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8367,6 +8365,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T01:31:33.651462+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 04/11 22:52\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGs?oc=5"
+  },
+  {
    "ts": "2026-11-05T01:01:37.149977+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump blames Iran war for GOP losses but says he would ‘do it again’</b>\n📰 NBC News · Jeu 05/11 00:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVpGdlowaFpKX2RUVm50ZjAzN3FpTFA2UDdxS1Fld3hfU1hUT1FjbHhuX1VOS3N3UTd4dnFoQXJyRW52WXRjTnM2ZFJtWjduQkRFLTVkQk9SV01JQVdLSFZ4NmtuMmM2bUhsaUh0dEU2V3dkU3hfTC1VTHNKeWc5SF9HbjZZeWRIS3F6VWFWME9sbkIxTUZsdnFPMnpjcWMwMEtLUXhrZmoxVVJaWHZfWWhzUmhrR0xOOUdQc3BWSQ?oc=5"
@@ -8660,11 +8663,6 @@
    "ts": "2026-11-04T13:31:31.470920+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iranian officials say midterm results show US voters have rejected Trump’s war</b>\n📰 AP News · Mer 04/11 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5"
-  },
-  {
-   "ts": "2026-11-04T13:31:30.433638+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills</b>\n📰 Al Jazeera · Mer 04/11 13:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMm41SFlwczktQmJ2aFdwSlY2MkxONGc1RVdSQzlaZmt6Ykt2X3pCVmtBTFZLeUxJRzRLNWVMNm9DbWhZRzh0dDVnTWFualV5Rnh2Q3F3Qzh5VDdTRGpYdzhqNnJXUXVvTHFWc3JXZ2U3QnNtbzRNY1hWYVlpYUpCb242OGF6RXk2eHBSLXRQVWthWDdraXlsQU9SbFZBSUxNbzNyVWFpcjVVWVE4VlVNWnlveWF2RGtpM3Iw0gHAAUFVX3lxTE5WNGplR01rVVJyMEtQU3o4U21JOFpiTk1rd3Voa0NRYkhfTXRraGVNR1NIOFFqZEozb0EyTkdYbWdsZHVra2RBODZMMkNqUENnSWh0RVpkYUp6NFZXZVBueEtucDJUa2Ftb2xJcklOY3RwVXBHWEVPbmEwbVBJbTdyOUdQaHU4WXlEUHBIdUdWSW1aS3RFMG9tbkM1SUVZeDJCMWx4TUNJUTFhX3c4RDZsYUc2QTlIbnJrcF9ZYTZXeg?oc=5"
   }
  ],
  "daily_forecast": {
