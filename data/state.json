@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793863875.6454816,
+   "ts": 1793886359.6384134,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "fa642e6aade6",
-  "0ff8c4d0e93d",
-  "0a97ba2d1747",
-  "ef3ffe3a2cac",
-  "6d69ca230b9a",
   "faac16887d40",
   "3539c9d51a6c",
   "95ebd361ad03",
@@ -4000,9 +3995,26 @@
   "8f48d0cc3287",
   "dc6dca0ff4cb",
   "f72359ca1ede",
-  "82212251b668"
+  "82212251b668",
+  "59f4e873390b",
+  "9dfb790d7346",
+  "0a8f220a06ac",
+  "53b291f01a74",
+  "7ad403417e86"
  ],
  "news": [
+  {
+   "title": "BofA’s Cabana: Too soon to declare end of Fed’s rate hikes in 2026",
+   "source": "Crypto Briefing",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGFyR09idFV6U3U2VGNPaHl6bXFpNmZHb1JLU0tIc0JoaVJuUEVRZFlRbnZxaVFmcWJLV1huQUlNampzbDhBZVNWLXhucDBtYzVHZndwd1ZJQkVpLUpuY1hCbjRQU195VDhhSEtyQzl1cktBdnpKR3VmNmhQWEdZaXF6SzFyQlotRFExUkdnNURzTFNRbkE?oc=5",
+   "published": "2026-11-05T13:41:37+00:00",
+   "id": "53b291f01a74",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia leads global gold reserve sell-off amid war costs",
    "source": "TVP World",
@@ -4061,6 +4073,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+   "source": "Al Jazeera",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGJ5X3dxaVJBdXhrVE93dU51d3NtVklVU2U1aGVTTERHQS03enZjZGtvRlNPeldGcnh4SnBrejFsRWcta0poZjl3LVpJMUFSaHRyX0tzX1JpTExvUG9wSVZoWTlYT0FSQXU1M2VFa0VYeDlsRVVVNXpxNm5PbGppWDRJYTBHaktfeXRUeHllLXdlVkZwek43QVc3cjEwNUFvRVZsb1dveU93SXlkelJwSFM5RjPSAboBQVVfeXFMUEstdnE1V2M2V2ZuWjUweGdMeE1EY0Q0VS1kbVpWLVlqU2lzWTlUcEpzU1lRQkFDTkNVUDY1MEZfVHN0cG03NnJOdVl1WjlDenpUcDlaYjJzME5rSm9zLWh2WmhTaHBGeTRHVjM4T0M5bUxHdVZwOWkwdHFyRzdWMGNnSG9oUTFuY3BCTmVHRlBTMmFSOHAzakJGTkpwUUhpVndhd2VlYklJS3pacWp2Z0tIVER2LUs3ckNn?oc=5",
+   "published": "2026-11-05T11:45:35+00:00",
+   "id": "9dfb790d7346",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5432,6 +5456,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Crude Oil Prices Slump as President Trump Downplays Escalation of US-Iran War",
+   "source": "TradingView",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzVFRGJKOWQ0TThCM0kxRWNfTkFxOUpFS1pZRVZVeVlPbGRZb3Rkc2NPYklBWEpzSVpiaS01UkxHVFltaWtVREI4OVBGN2FrS3pmYlgtc29qMHo5NDRNLUtueEhqbTJLQ3g4dlU0OWx5N3V0UDk1S01rV1ZoUHkwZm1TejAzekVBT0FFY1BqU0RabnpkclFxTUJBdVR1bklhNmVzdHM0STUyMXFrQTBsdXFQSTNRMUVqNjAydVlKb1Y0MWd1b043SU16RDljMDFaRFE?oc=5",
+   "published": "2026-11-04T16:40:15+00:00",
+   "id": "0a8f220a06ac",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Oil prices slide as election results dim Iran escalation fears",
    "source": "Quartz",
    "theme": "Moyen-Orient",
@@ -6366,49 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm",
-   "source": "アラブニュース",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1FxOGZRWE1reUZ5Nk01Q1hvY3RSYjdENUtCUWkwWEJCemtUdUM5YWZ4clYySFhsVzFyV2NDWUVGTnRZMXdJeUVuNXcxTlZNOUlXYVVHTWJvRlFXQk0zTXVVempQSU1mXzN1RDg2M3UxNkZMRUkyYTVES1VVX0YxS1JrV2o2aHI4R25VQmNyTllKdl9pV0dnRGdqc0FUaU1YUFJuOEVuSDVGZEZZajhDdzdXdmk0VUVuRmpRMVdtNjY?oc=5",
-   "published": "2026-11-04T07:04:51+00:00",
-   "id": "478a36839d04",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
-   "published": "2026-11-04T07:04:08+00:00",
-   "id": "66a37fb5508c",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Remboursements douaniers atténuant légèrement les craintes d'inflation tarifaire et favorisant l'appétit pour le risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran Declares 'Total War' On US & Israel; Tehran Threatens Global Oil, Energy And Military Targets",
-   "source": "The Times of India",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSDN2N3JMZGJJeGppMlFSR2U1U2ZsQi1XOUV0b1kydTFzZ01famo3X2VycWpfQk10YUpiWUxuVGRPdEtGY0dHTHgxZ3BPZDV0YWxEY0JTNmUyN1lyZ2N3NkpJN1llT3pwbDBPaXg4U29mSWtjc3BJRW9DUFNmU1dvVGc2TzM0dFR1WXdjY2hkSDNlTG5jNWNGWHRaMDJZRVM4bjJTU3gxbHFEZWNxOTBzaXcxQlBWZzl1ZTJQR0hBczRPVHNtWkptaXNTZU9QbF9vVl9PM1hZQ0FHallYcExycFh5TmVnM0FWZC03ZkhQUGhBbDNHQ0Q0enFRanV6RDZ1c1Ew0gGIAkFVX3lxTFBwOFRESmIzWnN2VlJ0ZkwwbHV4VVNWWFlzcUlhazNpZmJlLTF0NUx6Z2lQMzg5dXpVSjZ5M29uZmUzSnBLVFpfemxsYnh2YU0ybTVBM3h6YmlTVEE2WXJ2bjl3TUw3bWRxajUyNTF4UDJGX0Z4TXY3N0wwZkNIYlo0aDMzTmdBQmktZmRUeWVHYmRYNlJLUjVIT0lLdTQ2aDNubjVBWGZONWJTWlpick1lcEZHODB0Umw5N2JIc1hQQVI1ZTItSW9nRVl6RFFIdXFraW1jbkdVSGx0X25XNWtYbGNPVlVrLTl5eERzaFl6ZmVMSUhMZ0RhXzJnUTE1VGN3dmk1blZqSQ?oc=5",
-   "published": "2026-11-04T06:54:01+00:00",
-   "id": "5b096417753f",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|5e600627a85c": 1792071968.2543907,
-  "news|50cf585aef10": 1792071969.3080938,
-  "news|a32b300f3d23": 1792071970.1919177,
-  "big|US05Y|2026-10-15": 1792071971.5075355,
   "news|4acd9dedb6ad": 1792072904.4966078,
   "news|4f37e93520aa": 1792073771.7692535,
   "news|637bd8b5ccb9": 1792075590.4414315,
@@ -8025,7 +8021,11 @@
   "pre1h|2026-11-05T09:10:00-05:00": 1793883709.5906343,
   "rep|update|2026-11-05": 1793883711.8652768,
   "news|620b6a3bfdd1": 1793884579.394999,
-  "pre15m|2026-11-05T08:50:00-05:00": 1793885747.6199944
+  "pre15m|2026-11-05T08:50:00-05:00": 1793885747.6199944,
+  "news|53b291f01a74": 1793886383.856057,
+  "news|9dfb790d7346": 1793886384.810746,
+  "news|0a8f220a06ac": 1793886385.798275,
+  "pre15m|2026-11-05T09:10:00-05:00": 1793886387.058273
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8353,6 +8353,26 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T13:46:27.058336+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-05T13:46:25.798576+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude Oil Prices Slump as President Trump Downplays Escalation of US-Iran War</b>\n📰 TradingView · Mer 04/11 17:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzVFRGJKOWQ0TThCM0kxRWNfTkFxOUpFS1pZRVZVeVlPbGRZb3Rkc2NPYklBWEpzSVpiaS01UkxHVFltaWtVREI4OVBGN2FrS3pmYlgtc29qMHo5NDRNLUtueEhqbTJLQ3g4dlU0OWx5N3V0UDk1S01rV1ZoUHkwZm1TejAzekVBT0FFY1BqU0RabnpkclFxTUJBdVR1bklhNmVzdHM0STUyMXFrQTBsdXFQSTNRMUVqNjAydVlKb1Y0MWd1b043SU16RDljMDFaRFE?oc=5"
+  },
+  {
+   "ts": "2026-11-05T13:46:24.811041+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Congress defeat: How Trump’s allies are distancing themselves from Iran war</b>\n📰 Al Jazeera · Jeu 05/11 12:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObGJ5X3dxaVJBdXhrVE93dU51d3NtVklVU2U1aGVTTERHQS03enZjZGtvRlNPeldGcnh4SnBrejFsRWcta0poZjl3LVpJMUFSaHRyX0tzX1JpTExvUG9wSVZoWTlYT0FSQXU1M2VFa0VYeDlsRVVVNXpxNm5PbGppWDRJYTBHaktfeXRUeHllLXdlVkZwek43QVc3cjEwNUFvRVZsb1dveU93SXlkelJwSFM5RjPSAboBQVVfeXFMUEstdnE1V2M2V2ZuWjUweGdMeE1EY0Q0VS1kbVpWLVlqU2lzWTlUcEpzU1lRQkFDTkNVUDY1MEZfVHN0cG03NnJOdVl1WjlDenpUcDlaYjJzME5rSm9zLWh2WmhTaHBGeTRHVjM4T0M5bUxHdVZwOWkwdHFyRzdWMGNnSG9oUTFuY3BCTmVHRlBTMmFSOHAzakJGTkpwUUhpVndhd2VlYklJS3pacWp2Z0tIVER2LUs3ckNn?oc=5"
+  },
+  {
+   "ts": "2026-11-05T13:46:23.856148+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>BofA’s Cabana: Too soon to declare end of Fed’s rate hikes in 2026</b>\n📰 Crypto Briefing · Jeu 05/11 14:41\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGFyR09idFV6U3U2VGNPaHl6bXFpNmZHb1JLU0tIc0JoaVJuUEVRZFlRbnZxaVFmcWJLV1huQUlNampzbDhBZVNWLXhucDBtYzVHZndwd1ZJQkVpLUpuY1hCbjRQU195VDhhSEtyQzl1cktBdnpKR3VmNmhQWEdZaXF6SzFyQlotRFExUkdnNURzTFNRbkE?oc=5"
+  },
+  {
    "ts": "2026-11-05T13:35:47.620065+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -8631,26 +8651,6 @@
    "ts": "2026-11-04T20:01:40.208613+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him</b>\n📰 Reuters · Mer 04/11 20:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUZjXy1DNGJHT1JRMlBGNVZ4alh1Ymc4NnI1azRtblU5YmlGWFRmTU5KeEFvNnUtdDYta2pWZEpDRENSZVd0QXk2NlNmMmRsenAzUHlBcktGZDdzUUltbUp1YVNTYkR1cE5HZXVGbDg1dXdTS0xCUEcyQ2g1dWFZR280NDhWbC1KZmsxYVZGUWhxV1N5ZGxraG4zUUloMzBPcDhCalhRaHJnZy1LNzBobGd0R25SQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-04T19:46:05.527022+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance repudiates Iran war after US electoral defeat</b>\n📰 Reuters · Mer 04/11 18:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-04T19:46:04.513254+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Beaten at home, Trump faces stark choice on Iran: deal or escalation</b>\n📰 Reuters · Mer 04/11 20:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5"
-  },
-  {
-   "ts": "2026-11-04T19:16:11.674320+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.894 → prix : <b>4.888</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.07 | 60j -0.17"
-  },
-  {
-   "ts": "2026-11-04T19:01:46.760473+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: MP threatens: ‘If the US attacks us, we will strike Europe and Italia’</b>\n📰 Il Sole 24 ORE · Mer 04/11 19:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEh3eUpvZEE3RmtURWlJT254WnE0SWpsZzRMWkladm9zTDk3WThic1c0bHlnM2N5dXlNdGEzZHUzd2NnaDlFMUpURnRnQWxfckFBb0xkMFBXclRkWW9ISldOOTAzcGFROE9LcVVFMlRuX3JQWDU3bkRlQ1BDQW1HWFlrTFdHZjVCYWtUWXZwZS0wVDVBbHpuWg?oc=5"
   }
  ],
  "daily_forecast": {
