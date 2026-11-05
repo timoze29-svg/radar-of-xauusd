@@ -1001,13 +1001,6 @@
   }
  },
  "seen_news": [
-  "8d86184b7ace",
-  "df68ecaebc71",
-  "a7dcba2f9dcb",
-  "3cc201455bf4",
-  "0e2b44a27d37",
-  "2bf29e3d1e35",
-  "76d59adf2428",
   "86f305aa5e37",
   "5a87375bdc80",
   "ae5810e71fde",
@@ -4000,7 +3993,14 @@
   "0ab2038d19f1",
   "f9e4dcb67c56",
   "a14b4ffa439b",
-  "834d03d8c456"
+  "834d03d8c456",
+  "53c42f006048",
+  "817d66f412bd",
+  "98a446da931b",
+  "99069744727b",
+  "813718195b06",
+  "f51d7e8d4f10",
+  "bdb4f15956dd"
  ],
  "news": [
   {
@@ -4493,6 +4493,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "I’m a nuclear expert: A desperate Trump striking Iran now could be apocalyptic",
+   "source": "The Independent",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXBObUg3NEJOcU5XWkFLRU1fZkFGLWh6MDRtSlI3akNHVjBMWW03V1QzOExKeDdyLU5PT1Z5dnZySk5xRTJGWlRnQmZ3eGVXMWt2bDBsMEJrZnlMVDdPemQ3MnFjRFRncXdVbEZuSjV1cVFpWmh3UGxES2hzOHlNbzlKRVVVbVdsMllhUGowZ1VYaEhwUDlVek5xWmR1SXpTV3RB?oc=5",
+   "published": "2026-11-05T06:00:00+00:00",
+   "id": "817d66f412bd",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Resigned Trump counterterror adviser Joe Kent says 'Israel drove the decision' to strike Iran - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhsUzdIbkRKd1JhaE5hOVlFTWdIWmxRMmJXMDZNbDloOEFnQ1JCdEZoQ2ZSU3QyYlhuVmY5N3dvbjhPbTFiZ3psYVhsQzVQMTEzZmpuNjA3UklBOUpwYTFzQnVCeWV0YXM5MEpqbU9jcFRCRTNQd0dVd2g1Z2ZodkhyalhrV1ptVVFySGNCWHdoLW1XSkgtQ2VDRUk3SF9VdWtOQ05ZeHhMUdIBrwFBVV95cUxNSFZCSmxFdENxcDRHaUJOSXZTaVdwRGRoQ0c1LTVkc2ZuSGlid2tyYllFUXlxYk96MWp6alBKUUNxWTVZZU1LdWpKVFEtNlRiTUduMm9zaUx4aEtTSTh6QU1OajBvTDN3NUpCa3VRV3ViazhKa2JuY3VYdjI5bWFaREdoQWI5ZUF5eWU2ek94dlpXUVlwWGdIdHM3eWJfQlFrMnNMR05KdHJJa2h1M2VZ?oc=5",
-   "published": "2026-11-04T07:27:53+00:00",
-   "id": "349726b25626",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8024,7 +8024,8 @@
   "news|9dfb790d7346": 1793886384.810746,
   "news|0a8f220a06ac": 1793886385.798275,
   "pre15m|2026-11-05T09:10:00-05:00": 1793886387.058273,
-  "post|2026-11-05T08:50:00-05:00": 1793888177.4288754
+  "post|2026-11-05T08:50:00-05:00": 1793888177.4288754,
+  "news|817d66f412bd": 1793889096.3937688
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8352,6 +8353,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T14:31:36.393915+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>I’m a nuclear expert: A desperate Trump striking Iran now could be apocalyptic</b>\n📰 The Independent · Jeu 05/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXBObUg3NEJOcU5XWkFLRU1fZkFGLWh6MDRtSlI3akNHVjBMWW03V1QzOExKeDdyLU5PT1Z5dnZySk5xRTJGWlRnQmZ3eGVXMWt2bDBsMEJrZnlMVDdPemQ3MnFjRFRncXdVbEZuSjV1cVFpWmh3UGxES2hzOHlNbzlKRVVVbVdsMllhUGowZ1VYaEhwUDlVek5xWmR1SXpTV3RB?oc=5"
+  },
+  {
    "ts": "2026-11-05T14:16:17.429687+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 26 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.03%\nTaux 10 ans +0.0 pb\nOr -1.4$ (extrême -2.9$, range 6.5$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -8645,11 +8651,6 @@
    "ts": "2026-11-04T20:16:07.409182+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war</b>\n📰 AP News · Mer 04/11 21:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5"
-  },
-  {
-   "ts": "2026-11-04T20:01:41.176490+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>European far right distances itself from Trump, blaming Iran war for Republicans' defeat</b>\n📰 Reuters · Mer 04/11 18:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1ZyNWRabEpTdG9UeDUzc3BpN1RRZ1FXZm1OZGdFSDVoNms1S0JHWU00bnhZeGxHaHlFclFTX0ZVUzU5ZEx3ZXIzTmVRUE5KMlBETUpXWEZiVC1zckhRaDk3ejNpMnVqZVh1WmllVk9jUVJoRHE4R3pnN3ZRSUI4TVJGcjN5UjhPWEVhYTJvWGFLUkRKbE1kcUFLTS0wU09KbFllV2ZXYXFHcHVhemFUNWVmQUlPaTNIVnd5V2FyZGZxRzlo?oc=5"
   }
  ],
  "daily_forecast": {
