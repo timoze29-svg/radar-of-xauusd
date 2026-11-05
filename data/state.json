@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "2f1b51c440de",
-  "0c0ab8881f6b",
-  "9e62ebd6a967",
   "51cf051086b3",
   "0493b338e472",
   "3e55d1008773",
@@ -4000,7 +3997,10 @@
   "6398b9169dd5",
   "1cbcf0080d9d",
   "bdde5051e8e7",
-  "2c63d78df2ba"
+  "2c63d78df2ba",
+  "6312746c2f82",
+  "a897b8ba20d2",
+  "b759e17a8d72"
  ],
  "news": [
   {
@@ -4181,6 +4181,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Tankers hit in Hormuz as Iran keeps up pressure after US vote",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5",
+   "published": "2026-11-05T16:47:29+00:00",
+   "id": "6312746c2f82",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,18 +6402,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
-   "source": "Al Jazeera",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjd5aWdVVzA1ZThHeGRqck9pSjhRMjd3R1YyVTRsQlY5MG0wR28yUUJtc0VwTVVYdmJZeWl0VEE0YnhxMXMtQWlWT2lsWHpiQVFXa1dLRHV6ekE4c3lkeWhYOUxSNlRkTXQ3ZG5QRnNNTGd5bnZORWdpVEF3WHBUVU9hQzh3Y0d6QmpYT1M4RGczckx0WWZhTTlGRXhzdktIVFM1ZUxMa1FDNzYxNkpaQURPUdIBuAFBVV95cUxPX1BUN1ZpOUxnM3Izb2s0aU1qQVBHZlZJRVpGbVRnUkVxX3J4QmZ1NDJBenRUXzhNcUJUc1UzM1lyY3dpM1lJaldYS1JrQ2V6emFKYXhOS1BQRm1GR0dLeXdISENVaVQxX09YNFFnSTdEUC14SVFUQy1CRDlEazN1VGRoY0ExVlFreXhfNmNMcjFESW5sV3A1a3hwNk9YVHUyTWxxRDh4V1lmS1RjeFgybHFGNXdOMlpt?oc=5",
-   "published": "2026-11-04T12:51:12+00:00",
-   "id": "78e733a16a05",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8034,7 +8034,8 @@
   "news|3bbf95cd4178": 1793901710.443709,
   "news|e5b5ee867448": 1793901711.2554843,
   "news|0e493ee7bd4e": 1793903489.7335966,
-  "news|d408bbe5efd8": 1793903490.8632681
+  "news|d408bbe5efd8": 1793903490.8632681,
+  "news|6312746c2f82": 1793904371.3968527
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8362,6 +8363,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T18:46:11.396931+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Tankers hit in Hormuz as Iran keeps up pressure after US vote</b>\n📰 Reuters · Jeu 05/11 17:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5"
+  },
+  {
    "ts": "2026-11-05T18:31:30.863556+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>AP Exclusive: Trump administration held talks with Iran on deporting Iranians during the war</b>\n📰 AP News · Jeu 05/11 18:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmU3cVBtWk1qRjJuVzQzSVFHM190eGl4U1JjOUNZSVpibWNxcVRqallhSVVXLXRnQkxuNzVqWDZMYkpRR2hFd0ltSTNoSlFjMy1uQTlFaE14SGo5cUUtNjV4dXlDUWVBRllwX25sQlFwamh6aGl6Y0tvSm9PWWVvRG5sVG5wQjVWdm1McHhwUlR4bmlmQ0xBZGROSGdyc05wZUlqWURn?oc=5"
@@ -8655,11 +8661,6 @@
    "ts": "2026-11-05T05:16:02.064028+00:00",
    "kind": "cycle",
    "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>+183.0$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>46.9%</b> des semaines haussières (53.2% quand le mouvement est fort)\nRetracement médian quand ça inverse : 89.7%\n\n🎯 Zones de retour : 38.2% 4003.09 | 50% 3981.5 | 61.8% 3959.91\n📉 Biais jeu→ven : RETOUR À LA BAISSE — à confirmer avec le biais macro."
-  },
-  {
-   "ts": "2026-11-05T05:16:01.122958+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 081.20 → prix : <b>4 144.60</b>\nATR jour : 80.6$ | Pivot hebdo : 3958.5\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 781 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
   }
  ],
  "daily_forecast": {
