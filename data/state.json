@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "d53648cc7a01",
-  "b27faa4f984c",
-  "7dbc047bb344",
-  "b4017b878a8d",
   "e26454fb86d0",
   "5c1e0f46d112",
   "64d2b63968ab",
@@ -4000,9 +3996,25 @@
   "063afb37d47f",
   "de880d1a761d",
   "e12e8d15159b",
-  "477a1eaa5a74"
+  "477a1eaa5a74",
+  "6bd352818e0e",
+  "6797d554e9e4",
+  "f39a8cb0fa36",
+  "83c142fc9f97"
  ],
  "news": [
+  {
+   "title": "Inflation, tariffs and a voter revolt: The midterm verdict on Trump’s economy",
+   "source": "WTOP News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWI3OGRhNXRSUTVTZkYway1xei16NjQ4dF90eDlfa2V2ZnNtYmk0VkFJNmR3M0dwdERFcGVvSTZvTVZjSGhQZklNOU1yTDRFX2FWLS1YYnR4MzlOUUJpeEtUV01sc2JHWGcyQTNkWDdROWhydjlSTl9yd3BNTkhSRDViSEUwRzhIUjZIaEVwakhCNjJueThFY3FObGRuZHZSRnYySGNhdzhTbGg2Znc?oc=5",
+   "published": "2026-11-05T05:08:22+00:00",
+   "id": "6bd352818e0e",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "China’s amphibious surge confronts a Taiwan invasion’s hard math",
    "source": "Asia Times",
@@ -6390,26 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "U.S. Asks to Keep Collecting Trump’s Tariffs After Court Loss",
-   "source": "EnergyNow.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9JN2Vlb2FpV0NGUnlXTklZb1V0RHdWVnB6TWk1NEdqa3dYMGs0WXAwQkpmWk1NTi1nRHJwWHE4Y0RUYm1rVHJkNGpoWjBQRVQ0NEFtRzByTWFzTjlzQ1pLUExmX0NlSXNkNVA5YWxZX0FDbWhzTDhWcDZTSTY2U2p3Y25FbUcyVVdwc1dWRlpobnhn?oc=5",
-   "published": "2026-11-03T22:32:35+00:00",
-   "id": "1e61f99a95e8",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|98036a549e46": 1792039568.0985801,
-  "news|742e1fee737c": 1792039569.190836,
-  "news|718c235971ea": 1792040489.193952,
-  "news|2a94038ca5ae": 1792040490.111208,
-  "rep|daily|2026-10-15": 1792040492.2103877,
   "news|c4dd4cb280be": 1792049856.57958,
   "news|42ca92a29406": 1792051301.4644628,
   "news|e8d6fde91b38": 1792051302.4468398,
@@ -8047,7 +8042,9 @@
   "news|1801d0e0aa87": 1793851299.4565003,
   "news|bc5c70f65416": 1793851300.4716375,
   "news|4f2c25d76123": 1793853078.4823823,
-  "news|9e2600ab6d2c": 1793853079.5059679
+  "news|9e2600ab6d2c": 1793853079.5059679,
+  "brk|GOLD|pdh|up|2026-11-05": 1793855761.1229084,
+  "cyc_end|2026-11-02/2026-11-08": 1793855762.0639825
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8359,6 +8356,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-05T05:16:02.064028+00:00",
+   "kind": "cycle",
+   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>+183.0$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>46.9%</b> des semaines haussières (53.2% quand le mouvement est fort)\nRetracement médian quand ça inverse : 89.7%\n\n🎯 Zones de retour : 38.2% 4003.09 | 50% 3981.5 | 61.8% 3959.91\n📉 Biais jeu→ven : RETOUR À LA BAISSE — à confirmer avec le biais macro."
+  },
+  {
+   "ts": "2026-11-05T05:16:01.122958+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 081.20 → prix : <b>4 144.60</b>\nATR jour : 80.6$ | Pivot hebdo : 3958.5\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 781 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-05T04:31:19.506118+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil falls for a fourth day on expectations for lower risk of Iran war escalation</b>\n📰 Reuters · Jeu 05/11 03:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5"
@@ -8647,16 +8654,6 @@
    "ts": "2026-11-04T15:01:42.174984+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls on Iran war uncertainty, US Democrats' midterm sweep</b>\n📰 Reuters · Mer 04/11 15:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5"
-  },
-  {
-   "ts": "2026-11-04T14:46:09.704718+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — S&amp;P 500\n+128.4 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-11-04T14:46:08.451399+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran hails US voters rejecting war while Khamenei warns hostility won’t end</b>\n📰 Al Jazeera · Mer 04/11 14:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5"
   }
  ],
  "daily_forecast": {
