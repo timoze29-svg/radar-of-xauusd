@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1793896269.7840548,
+   "ts": 1793940350.3172991,
    "data": {
     "date": "2026-10-27",
     "net": 186451,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793935864.4502866,
+   "ts": 1793940350.4373355,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "1c0f395caaba",
-  "feaf9de9b496",
-  "ea6b7e64f07f",
-  "d23628638304",
   "09b0eebc534e",
   "23be2bc2ebf3",
   "3ef4e06e83d9",
@@ -4000,7 +3996,11 @@
   "bd4bc0fc3762",
   "f5143fb5b38a",
   "30e9d7e34b76",
-  "c6c5fcded041"
+  "c6c5fcded041",
+  "775a9a5bb5ca",
+  "7e918be95bf1",
+  "47c180af2ca7",
+  "1214feafc28b"
  ],
  "news": [
   {
@@ -4119,6 +4119,18 @@
    "published": "2026-11-06T03:00:00+00:00",
    "id": "ba3971db8df1",
    "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Supreme Court Rules That Trump’s Sweeping Emergency Tariffs Are Illegal",
+   "source": "EnergyNow",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHZKdlluNXlXN1FRcVBTMHdtbXRHaEY2b2NDNjhyOXJvaGgwYnJMTVRFZnRPQm04bnR6Mnp6Rk5XUEROaDBGS0h2a05RekRtQThtelMzM1Vqc2wxaV9sdFJBcENLV3B4OUJHTUlsQWxVRHRkWlJBcEpnbGJZLXl1dTlQSjhhZDN3Yk9UVTR0bi03Rk4xdzVIUV9wYXJ6dzNLRWc?oc=5",
+   "published": "2026-11-06T02:31:14+00:00",
+   "id": "47c180af2ca7",
+   "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
@@ -4674,6 +4686,18 @@
    "cat": "géopolitique",
    "raison": "Crainte d'escalade extrême avec l'Iran, bien que tempérée par le fact-checking.",
    "method": "IA"
+  },
+  {
+   "title": "After US midterms, is there a time limit on the Iran war? - analysis",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGdZYUJiQUU4cFNFckZkUjJEX0tGWWZmSHNRYlZoN1Fpb3hzVkY5dTdiSlRvdTI0ZnZoZmN1cHVwRzlUOGpfcVFIVm54SDFHSFRNaTFYdTc3Tk9Xa2hMNmFadzV3bkJ6Vnc?oc=5",
+   "published": "2026-11-05T18:46:26+00:00",
+   "id": "7e918be95bf1",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Three private planes at Israel’s Ben Gurion Airport damaged by Iran missile debris",
@@ -6377,30 +6401,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Trêve locale confirmée en Ukraine modérant l'aversion au risque des investisseurs internationaux.",
-   "method": "IA"
-  },
-  {
-   "title": "Vance’s Break With Trump on Iran Follows Weeks of Handwringing Over War",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFJjSXRlWWdRcV9tRGxUSkNsRkdLTEpNNW9Yb2tNbm1nTzZUcHFoRzNPdGQ5bGxOb2g0SnFQbEpBZmVlOXgwOS1YMEZuN0xyLXEzbE9YbkVIYkE1SDNJUVd5OXpmdjBHWXdhU1o0TndoakRCdm5fLUhYUHNvOENySXdxUld2RXNiV3Z2NHZ1NU5LaEZrQlpIQWNDZmZiNC1rNG96LV9qdW83UURHRm1JaHV1Qzk1Zw?oc=5",
-   "published": "2026-11-04T22:31:00+00:00",
-   "id": "e4ec12dbfdbc",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Divergences exécutives suggérant une potentielle retenue militaire américaine face à l'Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "Carney’s US Trade Minister Warns Blue Wave Didn’t Wipe Out Tariff War",
-   "source": "Bloomberg.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOclhLOHZZd1dNZG1nY3Npd0RRN0QxS3dvOWxYX1V0SXd2Y1dNVEY0MTYtMjlYRTVJUTBveVRWNVZfbjlxNDlILV95Wi1OdTFDdlJxZ1VHVno5T01fWUZDanNRT29sX0ZaOGlOZGxzX2UwS1otZUkwVnZtQy1vd3hSemh2NTJPdkxIVUJ4cml2ZFpJX3FoNVdpTGd0RVZvdzRzU3dTUFlWZXVKMVBOWk85UEJHMGtrWlpLdktkNzUtSFRuRnFJc28xd09LYlFUQQ?oc=5",
-   "published": "2026-11-04T22:18:40+00:00",
-   "id": "d3497b37fa8a",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Persistance des barrières douanières nourrissant les craintes d'inflation et de fragmentation économique.",
    "method": "IA"
   }
  ],
