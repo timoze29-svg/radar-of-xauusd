@@ -1001,12 +1001,6 @@
   }
  },
  "seen_news": [
-  "739a84c2c22a",
-  "cf52cc809deb",
-  "081a97e0d3df",
-  "9e54d089cc67",
-  "c3a419b5c121",
-  "06a6780cbbd2",
   "eedf3385422c",
   "1b76ad67157d",
   "e6ef8e22e4f4",
@@ -4000,7 +3994,13 @@
   "c16dd1c40a5f",
   "0102af8e1027",
   "8fc7c6a05bb6",
-  "6a7ad1f56ef7"
+  "6a7ad1f56ef7",
+  "08cd5512dfc4",
+  "997469e49809",
+  "96e18863be0d",
+  "c3480fe46000",
+  "a6588e17f773",
+  "0cbe6e9e326e"
  ],
  "news": [
   {
@@ -4022,6 +4022,18 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
    "published": "2026-11-06T10:02:11+00:00",
    "id": "b2c3d049761c",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Opinion | Trump’s Tariffs Have Failed. Bring Back Reaganomics.",
+   "source": "The New York Times",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
+   "published": "2026-11-06T10:02:11+00:00",
+   "id": "997469e49809",
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
@@ -4071,6 +4083,18 @@
    "published": "2026-11-06T09:34:52+00:00",
    "id": "c9ff0a69d7cb",
    "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Death toll from Russian bombing of Ukrainian aid point rises to 53, governor says",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWml3dEZDYTZha00tSmtBSGUzNWJIOXZCMGtkVnY0WVo1NExxdXdWX2dyRXJTamR5NkRnRXVmV3VxRVJxbWoxSGZUTlg5LTd5MTVZSGtXekVDUTQ0V3ZxTTFTLWo5eGQ1Wnh0d2ZOZkxPZ3dnU01jV3l4RlRfM3diUUlIT25qTGUtUHVOSVZPejh0bHBLeHJLdTd4ZmxENjFhVUIwLW1HSlFGeXlxeVdxaDE5MEZYYmhLS3c?oc=5",
+   "published": "2026-11-06T09:19:44+00:00",
+   "id": "96e18863be0d",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5142,6 +5166,18 @@
    "cat": "taux",
    "raison": "Hausse des taux directeurs augmentant le coût d'opportunité de détenir de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Iran FM calls Gulf counterparts as fears of US attack grow",
+   "source": "The New Arab",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUw2Sm4xOTdXZmNwUUs0SVh6T2gyMTl1VlNnWUJHNGQ1U25hQU9QX1RLTjJoWU9qMGVoMVpxVzFpRlUzYUVmRkpxRDB5dDNrdEduUzJ5V1JGVkFzYWZMSFQ1SDVlOGZnOGxZdHE2bHBOZE91TlVQQXh1RWc4M1J3clQwUU5neWRI?oc=5",
+   "published": "2026-11-05T17:51:11+00:00",
+   "id": "08cd5512dfc4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Egypt and Saudi Arabia call for diplomacy to prevent renewed Middle East war",
@@ -6366,46 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold Reclaims $4,100 as Central Banks Buy 321 Tons in a Quarter, Most Since Late 2024",
-   "source": "BigGo Finance",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13cVRLWDZzT21IZ2lGcXlZQm91em5LS1ExSmk2VWtrcWJ2cHJwSVNZTEt2UXZuemhCMUNIM2xDV2NoSUxkYWl0UE5vZ003YkR1YUc3dmZaMXJuYlJ6NW45X3FNTXY3b3B1SXNMUGw2aEotamIzWFE?oc=5",
-   "published": "2026-11-05T04:25:00+00:00",
-   "id": "6f6bfc352728",
-   "impact": 5,
-   "cat": "banques centrales",
-   "raison": "haussier or (banques centrales)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Tracking Trump: Trump shirks midterm blame; Vance blames Iran war for GOP losses; Trump says he’ll accept midterm results; and more",
-   "source": "The Washington Post",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMDJjU1MyTUNhYnVGUGQxZnRDVU8wOTFKbFFMX3FhdzgwMTZ5ME1WTGFvdThSUHhQbW9RUnlEMmhXNHlyRWgyZnZELXhCSkFkZGZDMkc1NlJPMXZORmZseDJGcWdRWURiNW9OS0psRS1OTDh5ci05UUZHaVZOWTJnS0VaZ1FMUHY5NEtXdzV3RURyeDVhMDFIYkUzOUlqNUhhQ0VKdEVyd21oOUNHckk0MkR1Ym8wbUYycndPeThTQ1VSTnl0V2xWZTNjUElDRXJwZDA0WW84dU5OaThiY0V5Mk9sZU9LT1AzXy1OVm1fOTRqYUFEZm1vQXZ6WE9mZ0FEU2s3cnhkLUQ?oc=5",
-   "published": "2026-11-05T04:07:05+00:00",
-   "id": "4f2c25d76123",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power",
-   "source": "The Conversation",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "published": "2026-11-05T03:50:00+00:00",
-   "id": "23c2a738d899",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|d3eb226b303a": 1792148500.2070088,
   "news|b83727a0b2c1": 1792149375.210346,
   "news|c6feedc52d28": 1792149376.2415621,
   "news|dbf3d9a38b81": 1792150305.5647566,
@@ -8019,9 +8018,10 @@
   "news|4be81f89af6a": 1793960166.6869504,
   "news|4eb6d7276cf2": 1793960167.7399783,
   "news|a90a11d3fb7e": 1793961085.7673984,
-  "news|687ef9381f25": 1793961959.5223088
+  "news|687ef9381f25": 1793961959.5223088,
+  "news|08cd5512dfc4": 1793962907.1184325
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Haussier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8363,6 +8363,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T11:01:48.380587+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Taux réels 10 ans (20j) (+13), Momentum or (vs MM50) (-13), Sentiment news 24h (+11)"
+  },
+  {
+   "ts": "2026-11-06T11:01:47.118522+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran FM calls Gulf counterparts as fears of US attack grow</b>\n📰 The New Arab · Jeu 05/11 18:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUw2Sm4xOTdXZmNwUUs0SVh6T2gyMTl1VlNnWUJHNGQ1U25hQU9QX1RLTjJoWU9qMGVoMVpxVzFpRlUzYUVmRkpxRDB5dDNrdEduUzJ5V1JGVkFzYWZMSFQ1SDVlOGZnOGxZdHE2bHBOZE91TlVQQXh1RWc4M1J3clQwUU5neWRI?oc=5"
+  },
+  {
    "ts": "2026-11-06T10:45:59.522387+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Iran war has left America weaker and less reliable, says Katulis</b>\n📰 Decode39 · Ven 06/11 11:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxObzhobThtMTFzem43LWxzNDBSdy1fc0hoUWdnVUlfcTBKN3dLNXRCbEU3R21tRUVfUHVsLUFtX1AyalY4R0o5cTNtVFQwdHBheTRxZGpPQkMxY1ZxWmplUGtDZGJYYUlidldHZ1lWNUsyT3pZc1BnTXQxeDM1R0F0Z00yZUtyMDA1R0NWbElXa1ZlaDMxM3pxbGJxdFVKVUU?oc=5"
@@ -8651,16 +8661,6 @@
    "ts": "2026-11-05T20:31:31.222661+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says</b>\n📰 EnergyNow.com · Jeu 05/11 17:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDgyTWpjcGJvZzNIU1o5eTE0Z1dKTTdDWlFVMDBtNHhLNnBmVUl4MGRYOGpYYXV0ZkdSNG5VU0JpUklNTkNNMGE5Sy1saUJ4MWM1MEhyc0dTb0Z4U3dwdWE0WlRacTFULWRudF9EeUJPQkJmZGNYOFpPbzdWbnVDVDIzbFk3ZGU0d0VfUkEwNHlsdHc3c00teGx4UmlYdHlVTmV5N1RoWUplVGNidzVMY202a29ZQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-05T20:31:30.229402+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Is Trump admin planning nuclear strike on Iran in wake of midterms? What we know</b>\n📰 Snopes · Jeu 05/11 20:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE11Z1g0SllIVDQ3WVkyOHExSjZkNVppTEZKYjRaLVdQbWY1U25Nc1dzS0VLMEVnalNVOEtFcVFaQWlIR0lUUFlHMDIxNzNJU2xNcmRlaFlySVBrZlA4MTYxdUw0dng4WGVEZF80a3pzckZLZTA?oc=5"
-  },
-  {
-   "ts": "2026-11-05T20:16:13.721503+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Yes, Trump Was Already Running Out of Gas Before the Iran War</b>\n📰 National Review · Jeu 05/11 20:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmgwRWliUW8tekEycW5WQW1Cb3hPWGFqa01Uam95bHB5OGF3VndhVUVGLUpNTnNMN2lyOVVrYmJLeE1FTk90X2RrUFVWOHQ0MVdLa1RSUkFYTUJlTGJBQk1tWEZEV3FRbDFONHNBZTFyU1FGWklUM2Z6eVJKVXJJVUlER19VNWFQU3NfLXZ3a3RKWUZOU1BxOXlUTzN6b29q0gGmAUFVX3lxTE55aV9weF9zWllEU0J0LTh1LVVjcG02NEJJOW05a1NJRlhKM2tMcnVzc2djaVQxYXRzOG9SLTFId3pUdGpBeUZsS2pBSGJVMno4V1g0V0NjekxiU18wZWx4aEstalRUWGYxZFl1ZG5xcTE5aVFOYzhLc1FHT0NtU1pWVWNHRHRCY0dIekFJSS1KNnBielJGcWVNTFhZd0dWU2xNcG12enc?oc=5"
   }
  ],
  "daily_forecast": {
