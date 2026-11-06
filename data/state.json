@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "d258ca0002e8",
-  "331d00067029",
-  "f8a48e68e810",
-  "15d2629eda37",
   "227c7a2fee37",
   "3b2a55e8245d",
   "fa06bda834eb",
@@ -4000,7 +3996,11 @@
   "f8986363a981",
   "e06f14060a5f",
   "40bff5e7853f",
-  "2eb6d2efcffd"
+  "2eb6d2efcffd",
+  "61cabc166466",
+  "3c9491bc529c",
+  "4fba0978bf3c",
+  "c67295ea9066"
  ],
  "news": [
   {
@@ -4097,6 +4097,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump left with ‘no good options’ to end Iran war after US midterms defeat",
+   "source": "South China Morning Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmltNTZnMlo1OGRFV0F5WVlnUDgtN2xkZ1huZjc3NUlEaGVmbDExMHdVenpGUVBKRTUzWW5BTDlEZG9YcDh0clR5SkNHakxYaFVwQ0RGaW5OM3lIM0NTbEtONnZ1V1dKZlVZT01ycUlIMW9GdkFkajVQU3p5TXhsQUhGU2JhY09FVlpoSnROUS1acUZfR3dHUFc2WnRha3FmN200Y2tXNU9FMmZhQXpfN2o1NVpSbXg5cEwybDQyT1o5SzNGaWtaeTBrY3pMTFg00gHQAUFVX3lxTE5HZ3pDNFRhaDl4R29tVUhPQUVIZVVLNE5tR0VkeFpfN0xzc3dDWTg0MUJVT3FpMnVsZFFRU2FYSUtlaGtHdW9DcDc0MVpFV2tYSVdoZWRDMkM2a3o3WG45Sy1QU1VMVTk3eWl1M0dlZnJGYWhLNks3N2ZOMFhuMTQzV280Z2VoZVYwLUZYUmR6T2lvUVRuLTMxb0twdGRTRERfMXgzTjFHYklHN2s2SFhfWHoyeGpwQzd1Z3libEJZaURHT3FDZ1RmRHRnT1BOMHg?oc=5",
+   "published": "2026-11-06T13:12:30+00:00",
+   "id": "3c9491bc529c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6390,22 +6402,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight | The 10-Point for November 5",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzhmcEwxWnJ6eXlYcm5qb2lmOXVadVNibW1kYm1PbG5EaGVhQ0lnWDVQVk8tWU84Y3ptYWtJdjFjY29xZnUxOE9LbU9RVzI5WlhDbXBEbDlNRnBDRmJZVHk1Z2h5VTBCQmxweGxOUWhlZlJKWF9zaGNkSS1abVctSktKSHZFTFV3c24tNE4tdDdNQ3lEVFhmWFNobDR0OVFK?oc=5",
-   "published": "2026-11-05T10:52:37+00:00",
-   "id": "5be9e3f7c275",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|6ecc04e5e892": 1792162898.3503752,
   "news|f0ca617355a6": 1792163771.236637,
   "news|4bcbdc4c355e": 1792167370.2834392,
   "news|3151c0292d40": 1792167371.1175842,
@@ -8025,7 +8024,8 @@
   "big|EURUSD|2026-11-06": 1793974574.440852,
   "news|c26b7d7f3752": 1793976553.0072234,
   "post|2026-11-06T09:10:00-05:00": 1793976554.282944,
-  "news|228272810f56": 1793976954.6358135
+  "news|228272810f56": 1793976954.6358135,
+  "news|3c9491bc529c": 1793977301.2251923
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8369,6 +8369,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T15:01:41.225324+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump left with ‘no good options’ to end Iran war after US midterms defeat</b>\n📰 South China Morning Post · Ven 06/11 14:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmltNTZnMlo1OGRFV0F5WVlnUDgtN2xkZ1huZjc3NUlEaGVmbDExMHdVenpGUVBKRTUzWW5BTDlEZG9YcDh0clR5SkNHakxYaFVwQ0RGaW5OM3lIM0NTbEtONnZ1V1dKZlVZT01ycUlIMW9GdkFkajVQU3p5TXhsQUhGU2JhY09FVlpoSnROUS1acUZfR3dHUFc2WnRha3FmN200Y2tXNU9FMmZhQXpfN2o1NVpSbXg5cEwybDQyT1o5SzNGaWtaeTBrY3pMTFg00gHQAUFVX3lxTE5HZ3pDNFRhaDl4R29tVUhPQUVIZVVLNE5tR0VkeFpfN0xzc3dDWTg0MUJVT3FpMnVsZFFRU2FYSUtlaGtHdW9DcDc0MVpFV2tYSVdoZWRDMkM2a3o3WG45Sy1QU1VMVTk3eWl1M0dlZnJGYWhLNks3N2ZOMFhuMTQzV280Z2VoZVYwLUZYUmR6T2lvUVRuLTMxb0twdGRTRERfMXgzTjFHYklHN2s2SFhfWHoyeGpwQzd1Z3libEJZaURHT3FDZ1RmRHRnT1BOMHg?oc=5"
+  },
+  {
    "ts": "2026-11-06T14:55:54.635928+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran - backed Houthi rebel health ministry says at least 20 killed in airstrikes on a market in southwestern Yemen</b>\n📰 gazettextra.com · Ven 06/11 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.gazettextra.com/news/nation_world/iran-backed-houthi-rebels-health-ministry-says-at-least-20-killed-in-airstrikes-on-a/article_4d967d7d-d64b-5072-ac91-65a2339e48a1.html"
@@ -8662,11 +8667,6 @@
    "ts": "2026-11-06T05:19:10.119591+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 101.71 → prix : <b>101.75</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.29 | 60j -0.44"
-  },
-  {
-   "ts": "2026-11-06T05:19:09.242713+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 067.00 → prix : <b>4 058.70</b>\nATR jour : 83.2$ | Pivot hebdo : 3958.5\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 682 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
   }
  ],
  "daily_forecast": {
