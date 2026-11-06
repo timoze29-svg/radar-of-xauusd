@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793908876.4590597,
+   "ts": 1793931353.4306161,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.65,
-     "date": "2026-11-03",
-     "chg5": 0.01,
-     "chg20": -0.3,
+     "last": 2.64,
+     "date": "2026-11-04",
+     "chg5": -0.03,
+     "chg20": -0.27,
      "hist": [
-      1.99,
       2.0,
       2.1,
       2.13,
@@ -129,18 +128,18 @@
       2.63,
       2.6,
       2.62,
-      2.65
+      2.65,
+      2.64
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.26,
-     "date": "2026-11-04",
-     "chg5": -0.12,
-     "chg20": -0.1,
+     "last": 2.24,
+     "date": "2026-11-05",
+     "chg5": -0.11,
+     "chg20": -0.12,
      "hist": [
-      2.47,
       2.49,
       2.48,
       2.49,
@@ -259,18 +258,18 @@
       2.34,
       2.29,
       2.3,
-      2.26
+      2.26,
+      2.24
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.61,
-     "date": "2026-11-03",
+     "last": 4.58,
+     "date": "2026-11-04",
      "chg5": -0.09,
-     "chg20": -0.23,
+     "chg20": -0.21,
      "hist": [
-      3.98,
       4.0,
       4.09,
       4.07,
@@ -389,18 +388,18 @@
       4.61,
       4.56,
       4.59,
-      4.61
+      4.61,
+      4.58
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
-      3.63,
       3.62,
       3.62,
       3.62,
@@ -472,6 +471,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793927745.6934583,
+   "ts": 1793931353.4871526,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,10 +1001,6 @@
   }
  },
  "seen_news": [
-  "f15efc48d504",
-  "e9477f98482e",
-  "b1303786c940",
-  "053fc4a1091d",
   "01ca4f9a9d57",
   "d7fc3af423c1",
   "9e54481ffa4f",
@@ -4000,9 +3996,37 @@
   "6a005ea145ec",
   "6120a507b41b",
   "3009f0774c34",
-  "0034b97923d8"
+  "0034b97923d8",
+  "ea81ff667575",
+  "d3098deb3546",
+  "610fc839f3f5",
+  "805268821449"
  ],
  "news": [
+  {
+   "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUZXOXBNZWtMVHlwOUV3TkdQaV84SGFKVnoyVG5mX3M1NVlTVVFadkMzVThCS09Za3dBOFluUHlXTWh5eEtLa3ZUYV9BNDRMWnYtdFZubVFqTzZ0Ty1WRlNGd1c2YXVoY3J5ZHdCd3JUOEs0SzlVQ0RUVk9DVWI1SnMyaERteFdpWWFneVhESmVaS2NnVVNxLUI4T1lYMFQ4Wms4b1R0T3MyMU53UmpmY3JaaVVuVl9BNjB0OUlscXdzZXVDWDNyR0xBU3N6amhsMVFtY1FDRzZWbXk5RU1iRjlfYXE?oc=5",
+   "published": "2026-11-06T02:12:00+00:00",
+   "id": "805268821449",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs",
+   "source": "WSJ",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+   "published": "2026-11-06T02:02:52+00:00",
+   "id": "d3098deb3546",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oil rises on fresh tanker attacks, but heads for steep weekly loss",
    "source": "Yahoo Finance",
@@ -4013,6 +4037,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold Rebounds Above $4,100 as Dollar Weakens and Treasury Yields Fall",
+   "source": "Businesskorea",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15dVJGYnRRM0VMVjdrRXdFelhnZUpoeGFGQ1U1cFlBRnNJV3R6RWtMd2pVZW9aRzVkMVNVSW9LR3Jpb2tWLVcteWZIRXE1MGlWYVBmUDJsVklETXJGMmRPTTF4V09CSHBqdEIteVhVSWk1M3pI?oc=5",
+   "published": "2026-11-06T01:02:57+00:00",
+   "id": "ea81ff667575",
+   "impact": 10,
+   "cat": "taux",
+   "raison": "haussier or (dollar, taux)",
    "method": "mots-clés"
   },
   {
@@ -6366,49 +6402,9 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress",
-   "source": "Foreign Policy",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "published": "2026-11-04T18:03:41+00:00",
-   "id": "3f7e157154b5",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Blocage institutionnel potentiel à Washington alimentant l'incertitude politique générale.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Soars 3.5% After Democrats’ Victory In Midterm Elections",
-   "source": "FXEmpire",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUwxekY2RHRIcXlsNkNwOFBheWVZeFlhV3dYVjRPWS1rN1hoUXI1VVd6bEwyUy1WV2NyU1JBWTZMalVCWVo5ZVZ1c1ZZV3FDbFVleXBEN2ZEOTFlMnBfQllEVmJ4NkQzdnpOR00yNXRjU3Fld3Z1OVVJeHRCXy1DVFNfRWxRc0hKTHZDcjNXRUR2bktHNlBtZGFkY2VDMnNJX3ItY2JxVkFBWmstN2xzRlE3N1RGLWdLS3gybG41dzNHTkFQMmNIZ29tV0hSZW9DY3RDd2psdm5RSHoxZF9iNm1n?oc=5",
-   "published": "2026-11-04T17:59:31+00:00",
-   "id": "aed7acb57f04",
-   "impact": 4,
-   "cat": "or",
-   "raison": "Fort rallye technique et baisse du dollar après la bascule du Congrès.",
-   "method": "IA"
-  },
-  {
-   "title": "Vance repudiates Iran war after US electoral defeat",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
-   "published": "2026-11-04T17:51:52+00:00",
-   "id": "64d23cfebf08",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Rejet de la guerre par Vance augmentant les chances d'une désescalade militaire.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|39ae67ffa8e2": 1792114288.018024,
-  "news|042e03efea9f": 1792115180.6250448,
-  "news|f43cffd0e035": 1792116097.9490063,
-  "pre1h|2026-10-15T23:30:00-04:00": 1792116964.8396502,
   "news|b408fe59eadb": 1792117894.925234,
   "big|SILVER|2026-10-15": 1792118761.3532546,
   "news|884199e9d194": 1792119704.7477417,
@@ -8028,7 +8024,8 @@
   "news|c32c7d75a245": 1793924170.2186303,
   "news|5ab898ae8c3f": 1793924171.1937716,
   "news|f56bf8293846": 1793925968.7052383,
-  "news|deeeeb70bf73": 1793927087.2873461
+  "news|deeeeb70bf73": 1793927087.2873461,
+  "news|ea81ff667575": 1793931555.544876
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8356,6 +8353,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T02:19:15.544969+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Gold Rebounds Above $4,100 as Dollar Weakens and Treasury Yields Fall</b>\n📰 Businesskorea · Ven 06/11 02:02\n🧠 haussier or (dollar, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE15dVJGYnRRM0VMVjdrRXdFelhnZUpoeGFGQ1U1cFlBRnNJV3R6RWtMd2pVZW9aRzVkMVNVSW9LR3Jpb2tWLVcteWZIRXE1MGlWYVBmUDJsVklETXJGMmRPTTF4V09CSHBqdEIteVhVSWk1M3pI?oc=5"
+  },
+  {
    "ts": "2026-11-06T01:04:47.287425+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil jumps over $3 as investors assess Iran war future, tanker attacks</b>\n📰 Yahoo! Finance Canada · Jeu 05/11 20:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2VLaXJuOEZwenhfZE1aOGJub2plSjNLdFpDeTZXTWlUWE1qYXJHQnUzaWtULTRsMWFKS3hSU3V4aU56NHF6UHY4bFlMUjF4SmxJQzVYMEl4UkU3SnFIc0dQT2Jma3BZazhVcUo2UFBlckRrcWtYM2RGdjFDQzBnQWlSbDF1X1FGdHc?oc=5"
@@ -8649,11 +8651,6 @@
    "ts": "2026-11-05T12:31:26.243677+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 79 MIN — 14:50</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.05% aujourd'hui · taux 10 ans +0 pb · biais or +30 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 81$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-05T12:31:25.060591+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil sell-off may be premature as Trump-Iran escalation risk remains high: Analyst</b>\n📰 CNBC · Jeu 05/11 08:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjRXU0ZyWVQ3d3dtaUFWejhRVEtBcFFrQVpzck9RUzZLZWtuYlVNYUowaVJNMGNmdjY3a3N6N3dMdzhLMW01b2FpTDVVeVRLbFRoQUE3T1ZxM0ZlZHNmWkxYMmM3R2FyQ3VoZmlZXzlXYnBTcmp5bjBEWExfbm81SmxZWDVOU3A3SVVxdTFzR2tXTVM4SHdRdUNVOFdmUXRTSXotWk5jOXloWmNR?oc=5"
   }
  ],
  "daily_forecast": {
