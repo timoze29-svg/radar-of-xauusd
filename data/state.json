@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "9ef5bf47b3bd",
-  "0c17d9aefa45",
-  "dea93cc25ef5",
   "4a198b5eaadc",
   "a3099a185c14",
   "45d1bba8bd98",
@@ -4011,7 +4008,10 @@
   "7dfa7b58fbb1",
   "babd4ea8049e",
   "59b6e76b8861",
-  "fdce6874bf7d"
+  "fdce6874bf7d",
+  "3d31a592a2c0",
+  "baae3078af79",
+  "848c4ff7ea61"
  ],
  "news": [
   {
@@ -4045,6 +4045,30 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeTczSExzNTc4Qm9DWE1tVE5RcTVIWTNranZyV2RIc2t5WUlrRk5SemcwbzA5QlF4X1JzMWtNNFBOR2RJZkdqNXhQWkNVWUtlQ2h2aF9hNFFlRXhrQzBVVHZRTEtOY2dDbzBjVkVmSFdyMVFlakZJU2NuSWRVbHI1UTR0YzU3QVJ5eVNaTmxuNVgtM1NQaXU0RVZSaV9xQ0pVNUo3d240MU9URmJDVENRZ0hmMG5uVDhQNkEyQnFEaF9XSGZNZWtkZ29nSVIybURUSDhLajljdUVYRktkSVI4UE5YZEs?oc=5",
    "published": "2026-11-06T21:20:00+00:00",
    "id": "3e2363591277",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+   "published": "2026-11-06T21:02:22+00:00",
+   "id": "3d31a592a2c0",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran distributes iodine tablets amid fears of strike on Pickaxe Mountain",
+   "source": "Israel National News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LZ3F0QWs4ZEFtOXEtYk8tU1hocWdwclV2YXlkZk4yR1VLbUI0S2xJazRWeU5UZW82RlVYN1BfMlBTZ01oeHpBekJyYkdXR1dqd01ZdU1mcFk0UQ?oc=5",
+   "published": "2026-11-06T20:58:07+00:00",
+   "id": "baae3078af79",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6389,30 +6413,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
-   "source": "WSJ",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ?oc=5",
-   "published": "2026-11-05T16:37:00+00:00",
-   "id": "af636eb02805",
-   "impact": 5,
-   "cat": "taux",
-   "raison": "haussier or (taux)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Melania Trump urges 'humanity over war' with Ukraine, Russia officials​",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkhXRFdJbFdiTmQySWJyWVRIbHhpdFlXaVRSQmh6UzJvbDJSbWZUdGRwM0VPaFpHbkVpc1VmSlAybEFJUTN0cmNMWkpuX1FJSE8zT3NBYXdXY05lLUhjTldMelM1eGdUWWVnbF9qb0s3VFMySFJ1Qk5GTFJmeXVHM1NLaHNEMzdrZjhXNWpEcVhOQTdSV3V6SVVMQU0xMGtNbUhkblZRdG82aUdvTWxLbHZQUmFpdEh5WUV4ZUgtZU1JcjFjaUxZ?oc=5",
-   "published": "2026-11-05T16:36:34+00:00",
-   "id": "2660e6cb7d9d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8038,7 +8038,8 @@
   "news|8c66f7f16a30": 1793996171.7630417,
   "rep|recap|2026-11-06": 1793998901.9727895,
   "news|f4463f8ce865": 1794002494.3994846,
-  "news|3e2363591277": 1794002495.353919
+  "news|3e2363591277": 1794002495.353919,
+  "news|baae3078af79": 1794004281.160101
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8382,6 +8383,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T22:31:21.160177+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran distributes iodine tablets amid fears of strike on Pickaxe Mountain</b>\n📰 Israel National News · Ven 06/11 21:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LZ3F0QWs4ZEFtOXEtYk8tU1hocWdwclV2YXlkZk4yR1VLbUI0S2xJazRWeU5UZW82RlVYN1BfMlBTZ01oeHpBekJyYkdXR1dqd01ZdU1mcFk0UQ?oc=5"
+  },
+  {
    "ts": "2026-11-06T22:01:35.354143+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>To settle Russia’s Ukraine war, Europe needs to let Kyiv in. Trump can help (really).</b>\n📰 Atlantic Council · Ven 06/11 22:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeTczSExzNTc4Qm9DWE1tVE5RcTVIWTNranZyV2RIc2t5WUlrRk5SemcwbzA5QlF4X1JzMWtNNFBOR2RJZkdqNXhQWkNVWUtlQ2h2aF9hNFFlRXhrQzBVVHZRTEtOY2dDbzBjVkVmSFdyMVFlakZJU2NuSWRVbHI1UTR0YzU3QVJ5eVNaTmxuNVgtM1NQaXU0RVZSaV9xQ0pVNUo3d240MU9URmJDVENRZ0hmMG5uVDhQNkEyQnFEaF9XSGZNZWtkZ29nSVIybURUSDhLajljdUVYRktkSVI4UE5YZEs?oc=5"
@@ -8675,11 +8681,6 @@
    "ts": "2026-11-06T11:01:47.118522+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran FM calls Gulf counterparts as fears of US attack grow</b>\n📰 The New Arab · Jeu 05/11 18:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUw2Sm4xOTdXZmNwUUs0SVh6T2gyMTl1VlNnWUJHNGQ1U25hQU9QX1RLTjJoWU9qMGVoMVpxVzFpRlUzYUVmRkpxRDB5dDNrdEduUzJ5V1JGVkFzYWZMSFQ1SDVlOGZnOGxZdHE2bHBOZE91TlVQQXh1RWc4M1J3clQwUU5neWRI?oc=5"
-  },
-  {
-   "ts": "2026-11-06T10:45:59.522387+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Iran war has left America weaker and less reliable, says Katulis</b>\n📰 Decode39 · Ven 06/11 11:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxObzhobThtMTFzem43LWxzNDBSdy1fc0hoUWdnVUlfcTBKN3dLNXRCbEU3R21tRUVfUHVsLUFtX1AyalY4R0o5cTNtVFQwdHBheTRxZGpPQkMxY1ZxWmplUGtDZGJYYUlidldHZ1lWNUsyT3pZc1BnTXQxeDM1R0F0Z00yZUtyMDA1R0NWbElXa1ZlaDMxM3pxbGJxdFVKVUU?oc=5"
   }
  ],
  "daily_forecast": {
