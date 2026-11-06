@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "cb50ebea8272",
-  "3a2c6f657e0d",
-  "4b85e492036b",
-  "49b0de35e6df",
-  "6197fff917ef",
   "59c344e3297d",
   "4aa20acb2409",
   "b87da60a2c5f",
@@ -4000,7 +3995,12 @@
   "0f327c07c6e6",
   "a46a2574a150",
   "938fd08de53a",
-  "5a4225befb9c"
+  "5a4225befb9c",
+  "c32c7d75a245",
+  "5ab898ae8c3f",
+  "01aab1a8312f",
+  "fb08ea7f8a93",
+  "4ac7555ee1a6"
  ],
  "news": [
   {
@@ -4058,6 +4058,30 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjVEU3ZvS3hmcWZ3S2RtVTI4aWM3Y3loWGtuTUZScEs1Qkg2dW91OTJsbjdCTzdvaV8wNnJTdWVPU3hpY1pxSGE5MmVmR2JSLXFlUm5hcUVVTlNIWUNValJ0elNFZ1ZRUkRFalJ3aS1VQTZIbi1nRlVqOGpEdFRqR1k2MG8zWWlHNlhGWGlGTWJnX2dUa19lN2lmY1ROVHc1aUhBYTA0d29wNThlS2pSSkdUVVAwRE1tV0ptU1pR0gHGAUFVX3lxTE9IeVhHVDFuWFJoNmlzY3FPTV9oSHN2VFRQUU1sSXh6cHpONHZPbUluQW5wdVJNVjJTLUV4dHpsazJZemw0eWwxVVExZEhQZTNfZDRHdlhRQ20yNkRVV2hSZl9EZW9qWTdRSHRTNnZWSkptSFFqR2Fwb0xpbzBVWEVxenJ2Ry1yVi1KWDNPMzllWlNNVmF2cVFwVXRoLXVuZlpqREJUOE1CVFhpNTRZTTF2eURpdmt0ajFmdEN0Y3B6R0h0RjZ3QQ?oc=5",
    "published": "2026-11-05T22:46:15+00:00",
    "id": "78ce01c22a6a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Goldman Sachs trims gold forecasts as Fed stays hawkish",
+   "source": "Mining Weekly",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3dKVlItQkhBYUg5Wnh5SHJJSjdnSUZMODB6SUlwZXg5OFpPMDR4cXVabV9EU0lUcXAtVkNQYTN2NGktMnhPZzNEREZuZjk1ZWVubmctUEdVYWJmc3doUnJ3TGUya09Yekw0emhreE5mRTJxVTdtU3pvVGVNMUlGc3l4R3Z6QmdsMmU3WFFxVm5EeHpxN05HUDhlalpDLWtLeTRjZjZ3?oc=5",
+   "published": "2026-11-05T22:31:00+00:00",
+   "id": "c32c7d75a245",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump admits Iran war played a role in Republicans' midterm defeat",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEVmOWxmZUJkQkNRTDYzRXlsbUxibVRpSE1tSThid1R5Q1dvb2dLU0Izd05nbzU0MEJRLVJrMGdNTmdKMklaVHV4bmhCeFRRWFNXbzYtNTE4cnRTQlhmZFNHNHZZdnRrdGdqSGh1bmJKTVQ1Wl9rUzlnRU1Ed1A1ekE2ZHJ4cWJ2UWRKQUtGcTk2TzYyd2VOMVB3aWE?oc=5",
+   "published": "2026-11-05T22:16:00+00:00",
+   "id": "5ab898ae8c3f",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6378,30 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Midterms over, restraint gone? Will Trump unleash fresh strikes on Iran?",
-   "source": "Gulf News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGZBNHVtV2lwM2xJU3c3V2hTNFI2el9tVFZQSEsySHJab3pLTDRiaE8zNm1JVmRRQVM0alBWakp3N2FITm5aRDdTckdtaGVWTUx1RmVzZGdORE9JV291LUlsbk1mUXktR09SSFlMOWdTWkdOVmtpYmM3bDNNVUE0dmxKMFowWFkyOV9aNWNkRnZGV3RhcnpCNWFDRzdROG92ZFZKWUhPX0dZRE5wM2NzOFNBTdIBxgFBVV95cUxQNHdLVDMyTGdYOGozeFR1NGdpbjBTbTg3T0tMZ0pDX2VGTkpaTjZNS2NLVk5CU0t0cVNXc1hPbklWS2RrUUVqeVBucDJuS3FVU3FkSGNvTGtVNmFNaWFLNEl3d2xkR1JkX2N2QnV0RUFzLWtJakx4VU1YM0w2c3hOeUFzZDM2ZmZMNFl0dmdVRlN2UUk4cWJrTDRGRmthQnRFTkJwaEpmeFIya0s0TUFPbk16bnRON2ItbHo5MkdTNXV1YW0tUWc?oc=5",
-   "published": "2026-11-04T16:40:45+00:00",
-   "id": "2fb269fa483a",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Crude Oil Prices Slump as President Trump Downplays Escalation of US-Iran War",
-   "source": "TradingView",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzVFRGJKOWQ0TThCM0kxRWNfTkFxOUpFS1pZRVZVeVlPbGRZb3Rkc2NPYklBWEpzSVpiaS01UkxHVFltaWtVREI4OVBGN2FrS3pmYlgtc29qMHo5NDRNLUtueEhqbTJLQ3g4dlU0OWx5N3V0UDk1S01rV1ZoUHkwZm1TejAzekVBT0FFY1BqU0RabnpkclFxTUJBdVR1bklhNmVzdHM0STUyMXFrQTBsdXFQSTNRMUVqNjAydVlKb1Y0MWd1b043SU16RDljMDFaRFE?oc=5",
-   "published": "2026-11-04T16:40:15+00:00",
-   "id": "0a8f220a06ac",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8027,7 +8027,9 @@
   "news|78ce01c22a6a": 1793921487.2157829,
   "news|c65b71e3a886": 1793921488.1030257,
   "news|a46a2574a150": 1793923328.9636705,
-  "big|BTC|2026-11-06": 1793923330.184413
+  "big|BTC|2026-11-06": 1793923330.184413,
+  "news|c32c7d75a245": 1793924170.2186303,
+  "news|5ab898ae8c3f": 1793924171.1937716
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8355,6 +8357,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T00:16:11.194084+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump admits Iran war played a role in Republicans' midterm defeat</b>\n📰 CBS News · Jeu 05/11 23:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEVmOWxmZUJkQkNRTDYzRXlsbUxibVRpSE1tSThid1R5Q1dvb2dLU0Izd05nbzU0MEJRLVJrMGdNTmdKMklaVHV4bmhCeFRRWFNXbzYtNTE4cnRTQlhmZFNHNHZZdnRrdGdqSGh1bmJKTVQ1Wl9rUzlnRU1Ed1A1ekE2ZHJ4cWJ2UWRKQUtGcTk2TzYyd2VOMVB3aWE?oc=5"
+  },
+  {
+   "ts": "2026-11-06T00:16:10.218754+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Goldman Sachs trims gold forecasts as Fed stays hawkish</b>\n📰 Mining Weekly · Jeu 05/11 23:31\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3dKVlItQkhBYUg5Wnh5SHJJSjdnSUZMODB6SUlwZXg5OFpPMDR4cXVabV9EU0lUcXAtVkNQYTN2NGktMnhPZzNEREZuZjk1ZWVubmctUEdVYWJmc3doUnJ3TGUya09Yekw0emhreE5mRTJxVTdtU3pvVGVNMUlGc3l4R3Z6QmdsMmU3WFFxVm5EeHpxN05HUDhlalpDLWtLeTRjZjZ3?oc=5"
+  },
+  {
    "ts": "2026-11-06T00:02:10.184470+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 412 aujourd'hui = 2.0× l'ATR\n🥇 🔴 baissier pour l'or"
@@ -8643,16 +8655,6 @@
    "ts": "2026-11-05T11:01:35.465140+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump dismisses prospect of replacing Hegseth amid Iran war fallout</b>\n📰 ABC7 Bay Area · Jeu 05/11 10:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6wtBVV95cUxOdW5oZWdDbTF0WVAwX1BCYkVWNUNidEZleXc1ZG9lejhCcWhRbkJjQmdpMVNUdHJGRUFaLXUyNzVZMGJWZnc2ajJ6T2VHczlESDhwYmpzX1FjcXczMWg3U0RpR3k0YVdoUVhYUkJGMXhPR3ZRbGVLUFpXWVoxN3RBUERSM3NCV2hhUjYxZjBxcmpZd3FMaUx5bG01YVo5cHJDbDdSd2Z1aEpvcmM0UHJBTGw3UE5sY01XRmd5WFlYX3Yyc3pCcFMxUno2YjlaREFnUTc1eDctQlFHeWZhWm8tNlFXS2E0MURUX09fZ0J1eVhubzJCSFVfRG1iMXg3Uk54SEhIeFVENXpEdDFXd0ltRzZlbEYyVVg2a29UYm9KSVdtMzhLU3RCUWFmcjk2SC1IUkpWemtNRHRlTm5EYTJvWEZNcHlmWDFreHlRWU1JMXlPZ2NucEdkeFY4WTVrYVcxQkFVZnRvN0lPcVA1Q0ZTTU1rMGwzRmhpMWtQTWExaXotOFZXYnZsc1NwRW43VUY5VnFjai14SWhOY1hzSi1tTElrSVJFN19Oand3M2pOdzQ3T3ZGWGQxUGNMclAzTzF0bHZxRFNDcFJQdzZTS3F5SHdZcGtnRVc2UUV0VzFaLU9CZlFZMUFfNmtSM1JHa1NRSl9fdnJ5TXlaOUdCWHhwMG5iM1o5alVxREdjdlotb2FkR0NBdXFoTVY4VC1UQU5XOWIwb21pbURyQ2lKRXk3Z2NRUlpkSVk3emZBLXp2YXBWWTlDUWx0MXRjRmc3ZXl2Q1d3MDBlUS03XzZGSjVob0xFeXp6NFdDRGdpck1ZRWZTOEFpUlU1YUQ3YnAtcWJIWHZwVkZ1WjZqck1oYi11WnZ6NWh0bW05VzYwSDgtcm9TT3lyVFh3YWxIQU1OWTdiU1ktZnktbXpmR01JU3ZBTnhaSEotNHpCVnFobXM1bkhWaEhZNGhENS1iaWNCa2xsWTZlQkdLOUgtNm9LR0cwZ2RITW9GSkV4Ykd4TUhoWWl6WkgzYXdJWXhoVEVTRFRSWUQxZ0tKTEpyX05KdFEwTW02b0RBRmpWRldhdTluMVdLUks2bFRZQTRDdEJJTmw1dFhFY3FEb3RySUxLaE1DXzVlVmlCaEJzWm1oVG1jeDBPZVhLc2pBSUNieFFkSWFpRm1TWi1IbU1McmRzb3preFA2TUpKZkRjdzBWcDRLUEtKWkc0dFM2S1NkSWppTXdFVnl0UW44c0xDYmREMThpRWcxS0dNQ2JpX0lNbTJwYjJnTDZQZHd1ampWbzZqR1ZURlZmTm54UkdDTEIyXzZiS2JUZ0dwUHcya3M3WkpfNUotdmJsN0xSQm9lMzN2N1NualhwY1NEcjJTTTN1TjBmN2JiQW5kWGpWRWRkZnlrZDVtUkk5TnhTQ2ljSUZmNXJOWmVEUkRDeUpsMXBidlQtWHhJZnZ5bk01YzRCcHlucm1xcmRic3lfeFJ5Q2xsUnZDbi0yalFGc3E0dnk2c040SFY0a3JrR21sYnY3QkMzN3JEQ2tPcHkzc3NWVDhMaWNyOEpUdTdTN3lUcWh6ZmZMa1lyUXJSeXpPZUI4RTAzNGc5Vk9oVHR5Tks2NGdiaUVYLTE4UEtrQ0dXdjNTUEhBTnlKeFNUcjh4V2RlXzFBdmVWZnVWMjh6QkIwNDdnQmd1QUlCa2ZvcEZKVWpvcU4yV2dReW5nR3RJbk82d3FKREY4N2lydGwxM1ZkX1VGTFpheTRKVFowZFhQcXpLWVZ4M0MwOUlpNlNqa3pyNUZ0dGJNWlJaRmhhQWZrQkl6UHJQdEFYdkNmQXNkNGxWUXhxS3czSEc0eXJaYmJtcDVTWHphWVlkdkp5TTFDcjdkMzE1dDg1S1RZZFRmekpudHJUbXhCREdBSkdKYml3ZFpJSmVrUkh2bjh2ank4Q1JnUGVXSGl4dGVjVnpvZ1ZuVGY2X1o4dGxrclREcUstU09tTWxLam94S0ZGaGg4MDFwNjBmNGppUHg5ZmVRSTQ?oc=5"
-  },
-  {
-   "ts": "2026-11-05T10:46:35.783457+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack</b>\n📰 The New York Times · Jeu 05/11 11:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVBBOE1vYThfaERwMm5SalVMTXQzR3NWZm9qMVlPWWJUY0JWeWRqRjBLa3NCZlBaNU9YQzM4SEh4aDNhdUtCcTBMZzdnVDhlMGx0R2FkLV9MbnZsUDRRQm9Zc1NfbVQ0V0ZRNHpTZjB1UlpGcld6S3FCeVBjVEhOczhiNUJhRWFmSlJ1cg?oc=5"
-  },
-  {
-   "ts": "2026-11-05T10:34:09.061266+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Points Missiles Towards Israel &amp; US Bases; Air Defences On Alert As Trump Mulls Fresh Strikes</b>\n📰 The Times of India · Jeu 05/11 11:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNdmNrOG9kTW5nN3FGRzVIUTZRZGVWOXRlTVNaLXU5MnJPMDBnZUdjWXJoRElnUUpkZnlnMThVQ2dNNm9jUnNDQjdPbm5sSVE4QURmcmZoc0FtWExkb3cya0E4c2xPcGJXWlRuUGlxM0hPQTdPOWpMV0Z0YVlXUDNTbGt0VUpQVmVvZ1BZUVU3ZkRDaEJDYnhncDRFUVQ4N3p6RXByengxTWl0V1IxalJ0V3ZpRmEtN1RuMDdWaThPeTlzTEk0clpuZ0dPTWRwc0I5OE1kZEtFUml5eWdyWTZ2M1ZOQU15aEJyY25mRnVNRUxHeTJkU2pOU25hbFY3X0VBU3pmMU1mMNIBjAJBVV95cUxPTFlEZWpKb0ptdjdwMkY0ZEVQOEtyMnI5WkpqSWxRSkNUOUdCdEF6cS13RGRXNW50YmV1V0RldU1ROHNYRlZIUzZ5R3RlenVXSWtvTjV2cGl1QlNVdDdWQlZVNjE1UXZPdE5VZ3hLeF9fUy1RWkt2enhFdVRYTnE1V2llMWJNTDF5NzFkNHRnX2Jhc0gxdW0xR040eU5sZXNwbHI3Wlh5dHFZZXBneTJzVzZWN1kyUHM3d3RWNE5zQ20ydEFZR0ZvTkp6WmFhMzlEYmdoOUhUQ1ctODRWNnM4U3BDZ1F5WERJaDlrNXRNLXZscF9OM0tzX01RMFRHYno1QS1wT3ZwV0tvdWJ4?oc=5"
   }
  ],
  "daily_forecast": {
