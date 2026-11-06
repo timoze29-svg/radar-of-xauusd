@@ -1001,11 +1001,6 @@
   }
  },
  "seen_news": [
-  "8c29902ca370",
-  "47347998d413",
-  "794edb2279ee",
-  "ea30aabc6e61",
-  "feac6fdbb0a6",
   "e9b7968d2d95",
   "859d5ec4f596",
   "4b8c3d7ce48c",
@@ -4000,9 +3995,26 @@
   "d74270c40a26",
   "7df3b42150fe",
   "a43d132cd54e",
-  "ddc2ed693ca3"
+  "ddc2ed693ca3",
+  "c0b5130bd798",
+  "8d18870fdf0f",
+  "ea1117deb2db",
+  "158e0258bddf",
+  "0444b9070a0c"
  ],
  "news": [
+  {
+   "title": "Oil Declines on Signs of Moves Toward Gulf War De-Escalation",
+   "source": "Bloomberg.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXNmZnh6cENKbU1vdHBCWUxseFF6ZlpFenZlcFRxMjZjT0RveUdzRkdRZFpoMk5BWUN4SnNqRGJSbENOSGtlbHVDWFhOS1FmakR3WmJIRzhlNmVOYW5udGlCSGhVWW1rWU5zdVkxeFcwVEpfNG16SUIzQUswRDI3N2VSd3NKZnBtRmxaWmpBalZtXzFob2owdDZYUVJrbW5kMWhGd3loeERqdmpXVW00TA?oc=5",
+   "published": "2026-11-06T08:38:49+00:00",
+   "id": "8d18870fdf0f",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Middle East crude oil premiums tumble to pre - war levels amid ample supply  | Peak Oil News and Message Boards",
    "source": "peakoil.com",
@@ -6390,18 +6402,6 @@
    "cat": "taux",
    "raison": "La hausse anticipée des rendements obligataires pèse sur l'attrait des actifs non rémunérés.",
    "method": "IA"
-  },
-  {
-   "title": "Gold extends rally above $4,100 as dollar, Treasury yields fall after U.S. vote",
-   "source": "Investing.com",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1MxRGVnd2pXLXhLV1VsSDhRV3JNUlQycWZBa1BjOUZDRElvcUVTX1VidjFFRXBZMUdGZ2MxdGMwWTd3ZlNfeS13ZXBDTFVjU1FvQnB2QUVCeU03WU1aWnFoZHNxejRUWlhQN1FfYkFfbU1TZ0Q2VU9mOHJRVktsazNjMl9mc3JYUHpuLUJqYk9udUtzRlpPOExtZHRXQVl4Q3g4WkZFQUJnQ1F4VmgyNHJTMmJwYlFvc1p4a0tYcHhKQkItVGdiMmNn?oc=5",
-   "published": "2026-11-05T02:07:35+00:00",
-   "id": "84104ef078fe",
-   "impact": 5,
-   "cat": "taux",
-   "raison": "haussier or (taux)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8016,7 +8016,8 @@
   "news|e7415c392da6": 1793955754.5140386,
   "news|8585cbc55ab0": 1793956617.1094797,
   "news|8d916d14ee43": 1793956618.220578,
-  "pre15m|2026-11-06T04:30:00-05:00": 1793956619.4638271
+  "pre15m|2026-11-06T04:30:00-05:00": 1793956619.4638271,
+  "news|8d18870fdf0f": 1793958577.7402782
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8360,6 +8361,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T09:49:37.740343+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Oil Declines on Signs of Moves Toward Gulf War De-Escalation</b>\n📰 Bloomberg.com · Ven 06/11 09:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXNmZnh6cENKbU1vdHBCWUxseFF6ZlpFenZlcFRxMjZjT0RveUdzRkdRZFpoMk5BWUN4SnNqRGJSbENOSGtlbHVDWFhOS1FmakR3WmJIRzhlNmVOYW5udGlCSGhVWW1rWU5zdVkxeFcwVEpfNG16SUIzQUswRDI3N2VSd3NKZnBtRmxaWmpBalZtXzFob2owdDZYUVJrbW5kMWhGd3loeERqdmpXVW00TA?oc=5"
+  },
+  {
    "ts": "2026-11-06T09:31:21.103474+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +14)\nMoteurs principaux : Taux réels 10 ans (20j) (+13), Momentum or (vs MM50) (-12), Sentiment news 24h (+11)"
@@ -8653,11 +8659,6 @@
    "ts": "2026-11-05T18:01:51.255830+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel on high security alert amid possible Iranian strike fears</b>\n📰 scanx.trade · Mer 04/11 21:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPRm1ielllZ0VsWjhkSGlnZ1ZsRHlmNHF1cGlXNDVjbWkzc0d5cGFqUk42UTFhcWROdXlmMmJWSUtpaW9CSWtIeHQxZzFnR25KQkhBbEhlWFdRTGtLUjdwazgzZzNDb3lxMW9ITm84cTRWSVdoX1lfWEVfZVhqMHdlbi1fMFlVckdoNlg5U0lIT1RaVzVVb1FIV1VsZFJwVGdueGdXeTRxbkk3Yy1aNnlV?oc=5"
-  },
-  {
-   "ts": "2026-11-05T18:01:50.443984+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil rises over $2 as investors assess Iran war future</b>\n📰 Reuters · Jeu 05/11 03:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5"
   }
  ],
  "daily_forecast": {
