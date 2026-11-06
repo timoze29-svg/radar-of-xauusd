@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793965552.5768678,
+   "ts": 1793970077.7382858,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1001,13 +1001,6 @@
   }
  },
  "seen_news": [
-  "b46dd0a4bb3d",
-  "f242e6025393",
-  "808cb228eaa5",
-  "7b09f77ac300",
-  "70cdc8da1d7b",
-  "ca0f7866b782",
-  "5873bff75ea1",
   "b2becaf566ea",
   "28a3e01b8336",
   "2756f098a413",
@@ -4000,9 +3993,28 @@
   "9a897077f474",
   "4bd4d39eb821",
   "add6243cf510",
-  "79e471f0cb0c"
+  "79e471f0cb0c",
+  "fd89fb7c3f9a",
+  "417b6675c30c",
+  "a199514d941f",
+  "64e056f693b7",
+  "b68caf6af825",
+  "31670fcc0b37",
+  "a2e24ea91238"
  ],
  "news": [
+  {
+   "title": "US midterm elections and Israel vote raise risk of renewed Iran war",
+   "source": "Mail & Guardian",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlN6eGd1NW5CdElkUHo2eERSYjRJem5uR1R2eXVXS1pmY2RxakxKb1ROdjQ0aGFGd0RYTFloLUVWbTBlUmlFdHlCZlViR0dTQnh0N0wxV2ItM0NpU3hGbm5fR25jNndBMkEtM1VKQzN4eGdxUS14QzN0anI5T2hkS1JhcXN5VlBYY0xQaGJFUlpOZ2REZGJ6WGY3SmJ2NDJqMDZZdFhXQWhXZ0NkN1QwMA?oc=5",
+   "published": "2026-11-06T12:44:47+00:00",
+   "id": "a199514d941f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump discusses Middle East de-escalation with Qatar’s emir, and other Mideast news",
    "source": "Yahoo",
@@ -6390,18 +6402,6 @@
    "cat": "inflation",
    "raison": "haussier or (inflation)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran wary of new U.S. attacks despite Trump noting war's role in election losses",
-   "source": "NPR",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmVWZUdheTJFaDZpMFEwU2p6M1pLeTZfTHBsRlBSVlBQSTRGVVVhZTJCWS1la2R0N0YtdjQyRjhNTEdTTGZ0ak9qSkRrWXZvMHhNRmtKekd2RkVhSmlQX041cmtxWmh2b0RTekFlVWJRZVc0a0gwR3QtVUxGRVBIZzQzc3pPVFJaVE1ISDRPeVdocWFsV2lHYXVYbjRhd1N1VTJDQURnajJBTXZpTWxoN1ZKZFB6NTVVNjZNdzYtV2Q?oc=5",
-   "published": "2026-11-05T09:46:24+00:00",
-   "id": "8cb33f5203e2",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8021,7 +8021,10 @@
   "news|df028c43c32e": 1793968473.27103,
   "news|1869c06e4e49": 1793968474.1003382,
   "burst|Trump|166108": 1793968475.411435,
-  "burst|Iran|166108": 1793968476.2314887
+  "burst|Iran|166108": 1793968476.2314887,
+  "news|a199514d941f": 1793970102.3188584,
+  "pre1h|2026-11-06T09:10:00-05:00": 1793970103.7289433,
+  "rep|update|2026-11-06": 1793970106.076702
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8365,6 +8368,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T13:01:45.060686+00:00",
+   "kind": "ny_update",
+   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4072.40</b>  (+16.2$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+23) → maintenant +18 (Haussier)\n⏳ En zone d'achat (entre S1 et pivot) : attendre une confirmation\n📏 Range fait : 72$ sur ~81$ attendus (89%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Average Hourly Earnings m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Non-Farm Employment Change (prév. 65K)\n🔥 <b>14:30</b> 🇺🇸 Unemployment Rate (prév. 4.2%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Ted Cruz slams Trump's tariffs and says Iran war needs to end\n🟢 (+10) Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News\n🟢 (+10) Canada's retaliatory tariffs hit US products as Trump warns of escalation\n🟢 (+10) Republicans’ Midterm Wipeout Reignites the War Over Tariffs"
+  },
+  {
+   "ts": "2026-11-06T13:01:43.729392+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 68 MIN — 15:10</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.46% aujourd'hui · taux 10 ans +0 pb · biais or +18 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 83$ → attends-toi à des mèches rapides."
+  },
+  {
+   "ts": "2026-11-06T13:01:42.318961+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US midterm elections and Israel vote raise risk of renewed Iran war</b>\n📰 Mail &amp; Guardian · Ven 06/11 13:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlN6eGd1NW5CdElkUHo2eERSYjRJem5uR1R2eXVXS1pmY2RxakxKb1ROdjQ0aGFGd0RYTFloLUVWbTBlUmlFdHlCZlViR0dTQnh0N0wxV2ItM0NpU3hGbm5fR25jNndBMkEtM1VKQzN4eGdxUS14QzN0anI5T2hkS1JhcXN5VlBYY0xQaGJFUlpOZ2REZGJ6WGY3SmJ2NDJqMDZZdFhXQWhXZ0NkN1QwMA?oc=5"
+  },
+  {
    "ts": "2026-11-06T12:34:36.231766+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : IRAN</b>\n6 articles en 45 min (normale ≈ 1.9) → un sujet s'emballe\n\n🥇 Impact moyen : +8.3/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+10) Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News — <i>aljazeera.com</i>\n• (+10) Ted Cruz slams Trump's tariffs and says Iran war needs to end — <i>Houston Chronicle</i>\n• (+8) US Congress cant stop Trump : Shashi Tharoor on possibility of fresh strikes on Iran — <i>heraldglobe.com</i>\n• (+8) Report: Trump Weighs Options for Resuming War With Iran, as Soon as November 9 — <i>Haaretz</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
@@ -8648,21 +8666,6 @@
    "ts": "2026-11-06T02:19:15.544969+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Gold Rebounds Above $4,100 as Dollar Weakens and Treasury Yields Fall</b>\n📰 Businesskorea · Ven 06/11 02:02\n🧠 haussier or (dollar, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE15dVJGYnRRM0VMVjdrRXdFelhnZUpoeGFGQ1U1cFlBRnNJV3R6RWtMd2pVZW9aRzVkMVNVSW9LR3Jpb2tWLVcteWZIRXE1MGlWYVBmUDJsVklETXJGMmRPTTF4V09CSHBqdEIteVhVSWk1M3pI?oc=5"
-  },
-  {
-   "ts": "2026-11-06T01:04:47.287425+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil jumps over $3 as investors assess Iran war future, tanker attacks</b>\n📰 Yahoo! Finance Canada · Jeu 05/11 20:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2VLaXJuOEZwenhfZE1aOGJub2plSjNLdFpDeTZXTWlUWE1qYXJHQnUzaWtULTRsMWFKS3hSU3V4aU56NHF6UHY4bFlMUjF4SmxJQzVYMEl4UkU3SnFIc0dQT2Jma3BZazhVcUo2UFBlckRrcWtYM2RGdjFDQzBnQWlSbDF1X1FGdHc?oc=5"
-  },
-  {
-   "ts": "2026-11-06T00:46:08.705326+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hegseth vows to keep fighting from Pentagon, defends Iran war</b>\n📰 Reuters · Ven 06/11 00:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1JFX1RGSnZ0bDI2d1ZxN0JpSGpTN2NDT21RbEVMaXhyVGNfNDlHUkVsaU9pNGd1d1hzTjhFWmVxeGgzSmt5SDVEZHA2Q3RjUmVpaFdUSUVic3RBLTJNNms0U253VURJU3Uzdm5rSXRjMmtnSDRMbWhKaFA1R1dtRUZ0LUQxLTlieGhXUzA2QVVvU3BnRkhpLWJBekQzVm5YRVFzTzJxU2s?oc=5"
-  },
-  {
-   "ts": "2026-11-06T00:16:11.194084+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump admits Iran war played a role in Republicans' midterm defeat</b>\n📰 CBS News · Jeu 05/11 23:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEVmOWxmZUJkQkNRTDYzRXlsbUxibVRpSE1tSThid1R5Q1dvb2dLU0Izd05nbzU0MEJRLVJrMGdNTmdKMklaVHV4bmhCeFRRWFNXbzYtNTE4cnRTQlhmZFNHNHZZdnRrdGdqSGh1bmJKTVQ1Wl9rUzlnRU1Ed1A1ekE2ZHJ4cWJ2UWRKQUtGcTk2TzYyd2VOMVB3aWE?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8676,8 +8679,8 @@
   "ai": false
  },
  "ny_update": {
-  "date": "2026-11-05T13:01:51.865236+00:00",
-  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4127.60</b>  (+3.8$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+31) → maintenant +29 (Haussier)\n✅ Le scénario haussier TIENT\n📏 Range fait : 89$ sur ~76$ attendus (117%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:50</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Chandigarh - based couple , their firms face  US sanctions over Iran oil links\n🟢 (+8) Turkey's Erdogan says he wants to discuss ending Russia-Ukraine war with Putin after talks with Zelenskiy\n🟢 (+8) Iran Points Missiles Towards Israel &amp; US Bases; Air Defences On Alert As Trump Mulls Fresh Strikes\n🟢 (+8) Midterm Election Losses Complicate Trump’s Options on Iran War",
+  "date": "2026-11-06T13:01:46.076665+00:00",
+  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4072.40</b>  (+16.2$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+23) → maintenant +18 (Haussier)\n⏳ En zone d'achat (entre S1 et pivot) : attendre une confirmation\n📏 Range fait : 72$ sur ~81$ attendus (89%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Average Hourly Earnings m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Non-Farm Employment Change (prév. 65K)\n🔥 <b>14:30</b> 🇺🇸 Unemployment Rate (prév. 4.2%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Ted Cruz slams Trump's tariffs and says Iran war needs to end\n🟢 (+10) Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News\n🟢 (+10) Canada's retaliatory tariffs hit US products as Trump warns of escalation\n🟢 (+10) Republicans’ Midterm Wipeout Reignites the War Over Tariffs",
   "ai": false
  },
  "track": [
