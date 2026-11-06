@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "aa0336f2e325",
-  "221c27766553",
-  "281a6a687709",
-  "46428dc25218",
   "3c564cd4f813",
   "db1aab767487",
   "9d626b1fa147",
@@ -4011,7 +4007,11 @@
   "620904ab4486",
   "ee4c5eab64bb",
   "8fea11e4726d",
-  "43600de88094"
+  "43600de88094",
+  "d047876123c9",
+  "737b3995336d",
+  "8cb2f7fc92df",
+  "902be032619d"
  ],
  "news": [
   {
@@ -6416,8 +6416,6 @@
   }
  ],
  "fired": {
-  "news|42fc1869e0dd": 1792182686.036704,
-  "news|004db6c536d8": 1792184501.7964032,
   "news|ebaabafcd262": 1792189940.188337,
   "news|8aacd7515f73": 1792189941.112028,
   "news|7e38389a246a": 1792191691.4149077,
@@ -8037,7 +8035,8 @@
   "news|ecc57dddf874": 1793993502.9129581,
   "news|5afbb597c428": 1793993503.8264356,
   "news|7572f97d383c": 1793993504.6512983,
-  "news|8c66f7f16a30": 1793996171.7630417
+  "news|8c66f7f16a30": 1793996171.7630417,
+  "rep|recap|2026-11-06": 1793998901.9727895
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8381,6 +8380,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T21:01:41.050689+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — VENDREDI 06/11</b>\nOr : <b>-25.5$</b> depuis minuit · plus haut 4116.2 (01h20) / plus bas 4035.1 (14h30) · range 81$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📈 HAUSSIER (+23) à 4056.2 → maintenant 4073.0 (+16.8$)\nRange : 81$ réalisé vs ~81$ attendu (100%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 58% de bonnes directions (11 ✅ / 8 ❌ / 1 ➖ sur 20 jours)\n20 derniers jours : 58%  ·  ✅❌❌✅❌❌➖✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.74% · Taux 10 ans +2.2 pb · Pétrole -0.45% · EUR/USD -0.69% · S&P 500 +0.25% · Argent +0.26%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) As Trump weighs Iran strikes, possible nuclear opening emerges\n🟢 (+10) US-Israel-Iran War Latest Live News: Iran Claims IRGC Shot Down US MQ-1 Drone Over Qeshm Island as Strait of Hormuz Tensions Escalate Amid Rising Gulf Tensions\n🔴 (-10) US October Nonfarm Payrolls Surge by 165,000; Traders Bet on Fed Rate Hike in December\n🟢 (+10) Iranian officials distribute iodine pills anticipating American nuclear bombardment\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
+  },
+  {
    "ts": "2026-11-06T20:16:11.763116+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War</b>\n📰 Newsweek · Ven 06/11 17:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlQzZ2lUX180eGE1Y1ZFanFVeDkzUGF1RUQ0NGV6TWhiWW9ndUVwU3ZoSUNlVFI4WHVUSkdzaXFpXzllUFR5eGo0N1VVUGRZeEdRemJsUWJHWjlqSE9rdzlPQjI5Q29qRnNGR2UwTEd2N25ndDJHSjMtMC1RSTJ5TGgxQUZublU4TzRvekk0S2xHeWZoWkhoTHk5Y2lKQ1dfNG1zTg?oc=5"
@@ -8674,11 +8678,6 @@
    "ts": "2026-11-06T10:16:09.215380+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +14)\nMoteurs principaux : Taux réels 10 ans (20j) (+13), Momentum or (vs MM50) (-12), Sentiment news 24h (+11)"
-  },
-  {
-   "ts": "2026-11-06T10:16:07.740278+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tankers burn in Hormuz as fears grow of new US attack on Iran</b>\n📰 The New Arab · Jeu 05/11 20:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxORmIybzBXZTRSbmdfMW1YTFpxUzlvYm9LTkdtN0IzZ0FMdWl2aW9OV09PUlZldHlOdm03NFQ0RFZBUkVfTVdveC15S1hYOXI1WmJ4b2lDSnFJYXlTckxKWGJmZldPNmxkMFFKU2l2LTQ5YUxESkh0ck9CUzlWeDA4OHVTU0k?oc=5"
   }
  ],
  "daily_forecast": {
@@ -8848,11 +8847,19 @@
    "mv": -14.4,
    "range": 88.8,
    "exp": 75.8
+  },
+  {
+   "date": "2026-11-06",
+   "dir": "up",
+   "res": "hit",
+   "mv": 16.8,
+   "range": 81.1,
+   "exp": 80.7
   }
  ],
  "evening_recap": {
-  "date": "2026-11-05T21:04:35.639049+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — JEUDI 05/11</b>\nOr : <b>+36.3$</b> depuis minuit · plus haut 4155.8 (04h55) / plus bas 4067.0 (00h10) · range 89$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : 📈 HAUSSIER (+31) à 4123.8 → maintenant 4109.4 (-14.4$)\nRange : 89$ réalisé vs ~76$ attendu (117%)\nNiveaux touchés : R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 56% de bonnes directions (10 ✅ / 8 ❌ / 1 ➖ sur 19 jours)\n20 derniers jours : 56%  ·  ✅✅❌❌✅❌❌➖✅❌\n<i>Encore peu de jours : attends ~20 jours avant de juger.</i>\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.08% · Taux 10 ans -5.7 pb · Pétrole +2.86% · EUR/USD -0.15% · S&P 500 -4.32% · Argent -0.69%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Is Trump admin planning nuclear strike on Iran in wake of midterms? What we know\n🟢 (+10) Chandigarh - based couple , their firms face  US sanctions over Iran oil links\n🟢 (+9) Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation\n🟢 (+8) Yes, Trump Was Already Running Out of Gas Before the Iran War\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>10:30</b> 🇺🇸 FOMC Member Williams Speaks\n🔥 <b>14:30</b> 🇺🇸 Average Hourly Earnings m/m (prév. 0.3%)\n🔥 <b>14:30</b> 🇺🇸 Non-Farm Employment Change (prév. 65K)\n🔥 <b>14:30</b> 🇺🇸 Unemployment Rate (prév. 4.2%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Musalem Speaks\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Bowman Speaks",
+  "date": "2026-11-06T21:01:41.972749+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — VENDREDI 06/11</b>\nOr : <b>-25.5$</b> depuis minuit · plus haut 4116.2 (01h20) / plus bas 4035.1 (14h30) · range 81$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📈 HAUSSIER (+23) à 4056.2 → maintenant 4073.0 (+16.8$)\nRange : 81$ réalisé vs ~81$ attendu (100%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 58% de bonnes directions (11 ✅ / 8 ❌ / 1 ➖ sur 20 jours)\n20 derniers jours : 58%  ·  ✅❌❌✅❌❌➖✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.74% · Taux 10 ans +2.2 pb · Pétrole -0.45% · EUR/USD -0.69% · S&P 500 +0.25% · Argent +0.26%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) As Trump weighs Iran strikes, possible nuclear opening emerges\n🟢 (+10) US-Israel-Iran War Latest Live News: Iran Claims IRGC Shot Down US MQ-1 Drone Over Qeshm Island as Strait of Hormuz Tensions Escalate Amid Rising Gulf Tensions\n🔴 (-10) US October Nonfarm Payrolls Surge by 165,000; Traders Bet on Fed Rate Hike in December\n🟢 (+10) Iranian officials distribute iodine pills anticipating American nuclear bombardment\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻",
   "ai": false
  },
  "dp_last": {
