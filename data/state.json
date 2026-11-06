@@ -1012,12 +1012,6 @@
   }
  },
  "seen_news": [
-  "c9d3f2aedb2d",
-  "0fabef4b5d41",
-  "911651f6537e",
-  "2b61eaa7a8f6",
-  "416dfdee147a",
-  "f04d1ffd8216",
   "cb788fe635bb",
   "65fd001c075b",
   "775a9981ba23",
@@ -4011,9 +4005,27 @@
   "df7f2b017c0b",
   "ec7b4de1dcb6",
   "eb1a42d65b57",
-  "df731f48e3e4"
+  "df731f48e3e4",
+  "f04d7e6789d6",
+  "e49357ca7760",
+  "87e4f4a37c1c",
+  "c5f0c949a768",
+  "6a64ac1d9b78",
+  "79ac1f0a8c3c"
  ],
  "news": [
+  {
+   "title": "Chile’s inflation rises to 4.5% year-on-year in October and the monthly CPI accelerates to 0.5%",
+   "source": "Demócrata",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjNMUHlwdG5BbU92QTNxMjhHN3VFWHdobWpDcXVqdmpHNVZMYk9uRHNRSV9abVpNVk4yaHdfc1ktSFdTSzZTak5iRC10cndrX1AyX0EydlJDTHJMNzIxdFZqdFRtMWpJRjRTTllmRG1XUXdmSjdWanBsZTBEQXJLRzFDSWRCVlZpd3RocEJ4bHF4Q29YN3RvVjlNa041eTZVdHZtNHozYXlhQ29PMW5IZGdpQjRwbEh5VnlrV3lKZGxaUmV2MmNtNlNR0gHPAUFVX3lxTE83Y0ZfV0h6UGlZRkl3Y205aUdudmlsVC1wYjh1YzRjYnB5VTNLdGJQZDhJUmlLeVR4RUpXQnNLWDlCeG1mVVZYbTVEbFhRdXVhakIwNFp0T3ZJd3JUX3Eta3ZWd2VZRXNDS2dwdzc1dXFsWE5yU3Z5ZmRmcUx2RkdpdnFKSHFDaE9xUjI3anhhQTQyT01lQ2ViMGtCbHpSd3NjVjNadk1GTTlyTVdoenVDTlU0M1daN3o1eXVkN1VSdjNycE9FelFOSk1UekZlOA?oc=5",
+   "published": "2026-11-06T18:10:48+00:00",
+   "id": "87e4f4a37c1c",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
+   "method": "mots-clés"
+  },
   {
    "title": "Hot October Jobs Report Raises Odds of December Rate Hike",
    "source": "Morningstar",
@@ -6401,18 +6413,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump humiliated in US midterms, planning fresh attack on Iran? Pentagon, Israel reportedly prepare for new strikes",
-   "source": "DNA India",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVF4dXlsLUxkbS1tU0Z2QmdSZm1QdE00VXdVc09yVHhGYmZ5SGNTeFBtZDN4ejJjNXJleFNpc0RhU2dodnpSR0poYTMwY1Y2UUh5N0pKcjk5NFRVUFUwS3pqRVlTeTV4d2tWdTZWbEhoYm9GQ253SzBLME5oUGRUSkFSNzV6bm4zc2FqR2pzUG1HUnF2VzFfVEE4VzJYdy0yVGdYVjRGMER0dUNsUk9zenp6RVdWVjlQT2NyUGtSQVLSAcYBQVVfeXFMUGk0ZkJ1ak4xWWhXU1UwZm9GM3p5bmc5YmtUZVdXU25nVnJvZ3FVZU9lSjFyeFBEbUFJcFIyb2FIZzI2V1B3Y2l4YldSdEV2enJuMm9NYTVnLVhJNm5EOTdMSmRYU1REUnBSTnNOX0NRUndTa0hXcktPMEpIdUtNU2Y0Qkg0Sng0QWl0RngybDlxQnZfQjhXNUlVNDJJZUw0X3A4c09xWGF3TzNnVndlRGRnaGpuLWtlQ3VMRDdubUprRW4taEd3?oc=5",
-   "published": "2026-11-05T13:52:16+00:00",
-   "id": "c4472fbcf593",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8037,7 +8037,8 @@
   "post|2026-11-06T12:15:00-05:00": 1793987183.054194,
   "pre15m|2026-11-06T13:00:00-05:00": 1793987184.0780647,
   "news|3b139ec3d36c": 1793988972.1220722,
-  "news|eb1a42d65b57": 1793988973.113343
+  "news|eb1a42d65b57": 1793988973.113343,
+  "post|2026-11-06T13:00:00-05:00": 1793989894.8301427
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8381,6 +8382,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T18:31:34.831208+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.6 pb\nOr +4.7$ (extrême +5.0$, range 6.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-06T18:16:13.113592+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s latest Ukraine offer may only tempt Putin to step up his war</b>\n📰 CNN · Ven 06/11 18:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhLdEFhNEhJcUhIaGQ5UEwwSzRNdjQwWFZhRmN3T3ZoNDU2QWtwSUx5dzBkcXlabFNiSWFsVWI3Ul93VG1lajJmbk9reGpZZ0w1NVdTMVVCRUhaNE5SM3lSb2NHdm1jTnFLZDJvWW5NaWFVNF8yR29xMTJFZk5QZEhR?oc=5"
@@ -8674,11 +8680,6 @@
    "ts": "2026-11-06T09:31:21.103474+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +14)\nMoteurs principaux : Taux réels 10 ans (20j) (+13), Momentum or (vs MM50) (-12), Sentiment news 24h (+11)"
-  },
-  {
-   "ts": "2026-11-06T09:16:59.464035+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
