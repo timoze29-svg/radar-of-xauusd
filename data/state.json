@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793982667.3966484,
+   "ts": 1793987152.5398874,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "9bc303054ae7",
-  "7e170441d359",
-  "a3c1d0bdfc34",
-  "b6124838cc85",
   "54cfdbdc0cb1",
   "0be2a2279695",
   "9b4cca955654",
@@ -4011,7 +4007,11 @@
   "8d0bca21f460",
   "0d2a7092dc65",
   "a6a846a48574",
-  "f233539f4892"
+  "f233539f4892",
+  "455d0d17a553",
+  "7c40881d5701",
+  "5a8abb0fe074",
+  "9bb95346d4d5"
  ],
  "news": [
   {
@@ -4060,6 +4060,18 @@
    "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "What’s Next for Iran Peace Talks After the Midterms",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW1zY1FmUmVFY3g2Mm9kNDdJSFZyTkV3OVMtYUNTRmRTdXI4Wm5yMHZ4eHI3LUlJWFBMS19IWG5BTS1XdEZsVlNpSTJDQUlZMjk3SWdwRzJZb2ZnVS1vMDktckppUG5tVmJwWk9UWHVKNHVxNWJMTDhvc2NzNGpNVEZZXzBhWXRPakFRRXBvYTBtU2dOay1zcEd3SjVwQQ?oc=5",
+   "published": "2026-11-06T15:28:27+00:00",
+   "id": "455d0d17a553",
+   "impact": -3,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6401,22 +6413,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia Agreed to Supply Iran 90 Launchers for Missiles Used Against Ukraine",
-   "source": "UNITED24 Media",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWV5TzBMV3N6SG1KeE5McVJtQzNONE4yUWk1aGRkWlJ5ci1NN1VXb1YxTXJBT2JidTRrZkZpbU5VX3JPR0E2dVg2cXdWbnRYU04tX0I1UEVuaG5sX3RiSlhpMkxNV2FwQU90M0NFd3JoQnV2TlNIUmJPVXMtX0FGckFLdTY4eE4zdzdkdGVUeEFYVDNxNDFjei1Tb3BJaHA3aHkwVjNQSHhoSVZSeDNnLTNIRQ?oc=5",
-   "published": "2026-11-05T12:15:49+00:00",
-   "id": "620b6a3bfdd1",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|09623b3207f0": 1792172772.1092603,
   "news|d9b0e85a7d91": 1792174569.6316984,
   "news|be978f94909b": 1792174570.651612,
   "news|6aed9ad4ce3d": 1792175515.850421,
@@ -8036,7 +8035,9 @@
   "news|2bc39d4061f3": 1793985366.9501731,
   "news|a6a846a48574": 1793986477.8334072,
   "news|8d0bca21f460": 1793986478.7751873,
-  "news|f233539f4892": 1793986479.6038527
+  "news|f233539f4892": 1793986479.6038527,
+  "post|2026-11-06T12:15:00-05:00": 1793987183.054194,
+  "pre15m|2026-11-06T13:00:00-05:00": 1793987184.0780647
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8380,6 +8381,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T17:46:24.078174+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-06T17:46:23.055237+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.02%\nTaux 10 ans +0.0 pb\nOr +0.8$ (extrême +2.3$, range 5.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-06T17:34:39.604115+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Fed October hike odds fall to 21.6% as Cramer flags rate cuts</b>\n📰 scanx.trade · Ven 06/11 13:46\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzl0WFZNZC00dGU5ZTFYaW1MZHdyQ2ozRG5NRTRhNk1mQ1RXbVZzLWFPY1dTWS01a0dNOGw5SGRlQzIwZGpSMWsyTXlhSkFVQnV1aU9mbF9pUWMxYXlxMGZzb1hoNmx3NXlUSzNmdVNBeXRnbXpmMm5sMHdiYmQ5T1RGUVAxVkk4bVdrQWhZWUF5QzJpb19vREJfWVpXMVJMSjhWc18xeEVJWksxWEwwS3U2dHN1bDQ?oc=5"
@@ -8668,16 +8679,6 @@
    "ts": "2026-11-06T09:16:57.109565+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war fuel costs force cruise ship to end journey in Cambodia</b>\n📰 japanherald.com · Ven 06/11 09:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.japanherald.com/news/279411435/iran-war-fuel-costs-force-cruise-ship-to-end-journey-in-cambodia"
-  },
-  {
-   "ts": "2026-11-06T09:02:34.514260+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Europe Today: Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi</b>\n📰 Euronews.com · Ven 06/11 08:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEpzM094T3F6Y09NMXVUSDVyU2s4XzI3MjV5WTBCYUlQZWxFQjRBa3gyelh1d1lYd2hDQkF4b1ZiQ2NrZ092QjItUWtHWnVDbkQ1Qlg3Q0pDNW1ENDBoNTBWa1FJRjhNbmNqQmRsWEstNjZEZHZBblFXRllJc2ttamF4NDdlTkRxMFZmR0FNN3lBcUFyMXRUbGFxOWV5TGRLdVVPTDVydkU3NFRrZ2c?oc=5"
-  },
-  {
-   "ts": "2026-11-06T09:02:33.446320+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Goldman lowers year-end gold price forecast on hawkish Fed shift</b>\n📰 Investing.com · Ven 06/11 08:57\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5"
   }
  ],
  "daily_forecast": {
