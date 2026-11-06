@@ -1001,9 +1001,6 @@
   }
  },
  "seen_news": [
-  "6c6b12e9a27b",
-  "2c3c92de84d8",
-  "cc4314f43764",
   "cb50ebea8272",
   "3a2c6f657e0d",
   "4b85e492036b",
@@ -4000,7 +3997,10 @@
   "23bd6094fc97",
   "d417cac332ee",
   "0158624ca1b0",
-  "0f327c07c6e6"
+  "0f327c07c6e6",
+  "01aab1a8312f",
+  "938fd08de53a",
+  "5a4225befb9c"
  ],
  "news": [
   {
@@ -4011,6 +4011,18 @@
    "published": "2026-11-05T23:29:10+00:00",
    "id": "0b9eac6d1233",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia and Ukraine exchange airstrikes as US envoy describes renewed security talks as productive",
+   "source": "AP News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU8xbTg4VENlQUJjcEpnTzVYNGNSYWFsS2xxS3EtZWhFaDJzOGs5c1Mza1lvNFpDOWx3dlN5NEUzYzBBcEFvSVNoLTlMeDFLdlhQT0daQlFveWp0MFVmbUVxY0xER1F5TkRNbHFnZE8wRXR3TE53emR4cmVlaDJIdGxNbmpKdXN1eHFNakJfZTZLZExQOTVUbWt5bUZLRXV5QjgzSUV1SlRDS1F2RnJv?oc=5",
+   "published": "2026-11-05T23:04:00+00:00",
+   "id": "938fd08de53a",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Oil prices slide as midterm results ease Iran escalation fears",
-   "source": "Quartz",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjeGZGX19DTmdUNFNtZS1rQktMbWdUZnIzRGt4TVotNy1ZbFkxX21TZWZHbDNVUjdNOEJrTUpsOHBqWWMweDZkXzJUVzV6bjYxUHJUQUhkbUM2bHdKaE40clRaXzAtODJvc25pY1Zoc05pVFFfNUdXcQ?oc=5",
-   "published": "2026-11-04T16:32:33+00:00",
-   "id": "8c960f88e375",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8025,7 +8025,8 @@
   "news|0b9eac6d1233": 1793921485.365081,
   "news|6fdd57fad3fc": 1793921486.3736362,
   "news|78ce01c22a6a": 1793921487.2157829,
-  "news|c65b71e3a886": 1793921488.1030257
+  "news|c65b71e3a886": 1793921488.1030257,
+  "big|BTC|2026-11-06": 1793923279.8989694
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8353,6 +8354,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T00:01:19.899031+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 449 aujourd'hui = 2.1× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-05T23:31:28.103313+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Warns Against New Escalation by US and Allies - Energy News, Top Headlines, Commentaries, Features &amp; Events</b>\n📰 EnergyNow.com · Jeu 05/11 17:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnBpN2ZZTGptMW1Dd2xPcWNHSDJVbjhBZzhtR0tuTGlxWVE5ZWd3NjZoWGZHSER6UnJfbXREZW9DbWt5N1diRGVvODNqMHJxVTFGQXNaTmZTT2hnVUxXLWZYU0gwWm0zY1J6U01aUDlVazNUZW56UE9CanRvRjRTX3FCYTdEZ1ZX?oc=5"
@@ -8646,11 +8652,6 @@
    "ts": "2026-11-05T10:34:08.100469+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Turkey's Erdogan says he wants to discuss ending Russia-Ukraine war with Putin after talks with Zelenskiy</b>\n📰 Reuters · Jeu 05/11 11:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjZURmhQRHFISDloNWJlU3RNLU9BaXlZT3VBWFZxdnhsLVBXcFhCZGJKeURqcFJaX1o0eGRZR25nWkFPT1ExbXRyelhjckE5d21wZG55SWZhckNFNmp0S2JmdTA0OS16eENHX1BDOThpX3ZldkF1RTFNSjhDS1NBOGtzTTBkbjBPenEwVTF0Z2JLeEEtd1hSS2gtUmFLMzhCLUQ5bVd1VVFnNFlvQ19oWERCU3ZzR2xiS3RiRVdPTQ?oc=5"
-  },
-  {
-   "ts": "2026-11-05T10:16:22.129084+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: US targets three networks to cut off arms shipments to Tehran</b>\n📰 Arabian Business · Jeu 05/11 06:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
