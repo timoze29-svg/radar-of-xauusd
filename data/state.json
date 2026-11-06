@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793991676.7491546,
+   "ts": 1793996153.346406,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "5e6db23d3ae0",
-  "b25c8d9ce935",
-  "58767d1551f4",
-  "20dc7fd6084a",
   "1c7cae040415",
   "eae52d439e2f",
   "be26e3f97f7b",
@@ -4011,7 +4007,11 @@
   "ab35aa5cb601",
   "3ff8b789a87a",
   "d47e4c8be166",
-  "2d6fa81ecb48"
+  "2d6fa81ecb48",
+  "c487cca775ec",
+  "ec7eb41a6e21",
+  "8d6d1d8b25e0",
+  "8c66f7f16a30"
  ],
  "news": [
   {
@@ -4216,6 +4216,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War",
+   "source": "Newsweek",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlQzZ2lUX180eGE1Y1ZFanFVeDkzUGF1RUQ0NGV6TWhiWW9ndUVwU3ZoSUNlVFI4WHVUSkdzaXFpXzllUFR5eGo0N1VVUGRZeEdRemJsUWJHWjlqSE9rdzlPQjI5Q29qRnNGR2UwTEd2N25ndDJHSjMtMC1RSTJ5TGgxQUZublU4TzRvekk0S2xHeWZoWkhoTHk5Y2lKQ1dfNG1zTg?oc=5",
+   "published": "2026-11-06T16:41:00+00:00",
+   "id": "8c66f7f16a30",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6401,24 +6413,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Dollar Supported by US Economic Strength and Hawkish Fed Comments",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmJIaHhPNGlxRnc2WHRFR3N1VHFQZDBQOTY0QTVtYmVrRkNFVWprNTdSY3dpRk1odlhRSzR4Unp3UVpBdUZlYXpzZlVia0dGYmUxTG01a1FvNGtoVWppb1BacTRoSkc1WTdDYjREY2lwWnlSN3p0WVhab085Q3l6Nng1b2U4Y2JoaXFORkRyS2J1aXFhUG5hcWhORVFfeE1tS0poenVYZE9wZm9ib3o2cC1tVERXWmQwMWg3YTAwQUw5QQ?oc=5",
-   "published": "2026-11-05T15:36:38+00:00",
-   "id": "a46a2574a150",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|fc119e83c79e": 1792179965.035436,
-  "news|0c8116a03e43": 1792180348.4466097,
-  "rep|recap|2026-10-16": 1792180896.012716,
   "news|42fc1869e0dd": 1792182686.036704,
   "news|004db6c536d8": 1792184501.7964032,
   "news|ebaabafcd262": 1792189940.188337,
@@ -8039,7 +8036,8 @@
   "news|4b11a0bea08f": 1793991698.5785434,
   "news|ecc57dddf874": 1793993502.9129581,
   "news|5afbb597c428": 1793993503.8264356,
-  "news|7572f97d383c": 1793993504.6512983
+  "news|7572f97d383c": 1793993504.6512983,
+  "news|8c66f7f16a30": 1793996171.7630417
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8383,6 +8381,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T20:16:11.763116+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War</b>\n📰 Newsweek · Ven 06/11 17:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlQzZ2lUX180eGE1Y1ZFanFVeDkzUGF1RUQ0NGV6TWhiWW9ndUVwU3ZoSUNlVFI4WHVUSkdzaXFpXzllUFR5eGo0N1VVUGRZeEdRemJsUWJHWjlqSE9rdzlPQjI5Q29qRnNGR2UwTEd2N25ndDJHSjMtMC1RSTJ5TGgxQUZublU4TzRvekk0S2xHeWZoWkhoTHk5Y2lKQ1dfNG1zTg?oc=5"
+  },
+  {
    "ts": "2026-11-06T19:31:44.651451+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Identity politics may have cost the Democrats 2024, but the Iran war cost Trump 2026</b>\n📰 Fortune · Ven 06/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTNBZjB4X1ZCbFNrTEROc0RBdnNmbGwtTmpRQjdFQTFneENoTG54cTdQMHZGdnBTQXZHQ1BLSUg5ajJ5WWlac0dOSExDZ0lxbEo3UUc2T3JGY1dVTFNEQmRCbGNIeGFlT3ZlSnVqa1diQXJlcmVwbFBSWUhCNDNHV1BMOEJ0UQ?oc=5"
@@ -8676,11 +8679,6 @@
    "ts": "2026-11-06T10:16:07.740278+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Tankers burn in Hormuz as fears grow of new US attack on Iran</b>\n📰 The New Arab · Jeu 05/11 20:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxORmIybzBXZTRSbmdfMW1YTFpxUzlvYm9LTkdtN0IzZ0FMdWl2aW9OV09PUlZldHlOdm03NFQ0RFZBUkVfTVdveC15S1hYOXI1WmJ4b2lDSnFJYXlTckxKWGJmZldPNmxkMFFKU2l2LTQ5YUxESkh0ck9CUzlWeDA4OHVTU0k?oc=5"
-  },
-  {
-   "ts": "2026-11-06T10:16:06.687036+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters</b>\n📰 Reuters · Jeu 05/11 20:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5"
   }
  ],
  "daily_forecast": {
