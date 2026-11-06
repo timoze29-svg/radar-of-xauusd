@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793953872.1631997,
+   "ts": 1793976349.4938903,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1001,14 +1001,6 @@
   }
  },
  "seen_news": [
-  "5a343b59001f",
-  "d3498b973d5a",
-  "fe8a13b8da7b",
-  "4bf3644b2ca9",
-  "147a49e61891",
-  "23d7bce16c04",
-  "bca9cca38f9b",
-  "3365862d9112",
   "fcca80685f09",
   "c67295ea9066",
   "01fc4de4ca0e",
@@ -4000,9 +3992,29 @@
   "9b9b34459c5c",
   "0f27e0cb6525",
   "064896dd544e",
-  "13b09a9c4ff8"
+  "13b09a9c4ff8",
+  "f4a3dfc4f0fe",
+  "c8866b5be903",
+  "1cac1505cd18",
+  "c26b7d7f3752",
+  "d91ec02c30e0",
+  "2e10b3260e26",
+  "aef2a2830d0b",
+  "061b72753b9d"
  ],
  "news": [
+  {
+   "title": "Goldman Sachs Lowers Gold Price Forecasts Amid Federal Reserve’s Hawkish Stance",
+   "source": "صحيفة مال",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WR1JUallsNjN4VE1TdmVoWHg5VGlvRmV2NU54SV82eEREY0NRQ1hDb012QkI0RTN0ME50c3psT2tKbU9wdkdvQXRpNkRUX01BU0VGQVZGODRPcWp6N3I0ZldTQmdIRWE1TF9UZw?oc=5",
+   "published": "2026-11-06T14:38:01+00:00",
+   "id": "c8866b5be903",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "10-year Treasury yield rises after strong October jobs report",
    "source": "Crypto Briefing",
@@ -4421,6 +4433,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Asia Hopes Democrats Can Provide Relief From Trump’s Iran War, Tariffs: Russell",
+   "source": "EnergyNow.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkxtUVNlU2Y5TzBYNEhtRjlQMmUwVXloNTBSOG1td0QwZnRvWkI4N2lTa0VKYk1Oc2lfMDdVekhmWTNHcmxwVFZoemJLUV9ONnZjXzNhczBDM0pzSFNmRWtqbTRoOW04M2JTNHJ2b3JGWnExRnpTbzI0am1Zb3ROTnlBV1NUa0REME9fSE40b3l5cTRzRXkyNEZGSlZndXF5S3ZVWlpMaXB0clE?oc=5",
+   "published": "2026-11-06T09:43:25+00:00",
+   "id": "c26b7d7f3752",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6378,36 +6402,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran war live: Madinah-bound Houthi drone intercepted by Saudi-led coalition",
-   "source": "Arabian Business",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "published": "2026-11-05T10:40:53+00:00",
-   "id": "d3320d3a189c",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "As Russia continues its relentless attacks, Ukraine is about to start its fifth wartime winter. And as efforts to achieve a just and lasting peace for Ukraine continue, so too does the EU’s unwavering support. Today we are disbursing a €4.36 billion package for Ukr",
-   "source": "X",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84eW1RUHYycU1MbF80eFhoQUtDdUVXV0VpelFTVTU3WE5vQ2RvcmM2VlVlUUdQUl9vT3F4WTRveXBUTkkyY1RQSjU4cUtEVjJZWFV1eS0xMmxUc1BYT2FXZ05xYmpXeWI1SjlaeA?oc=5",
-   "published": "2026-11-05T10:33:35+00:00",
-   "id": "b7cd22c2666b",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|95ad7ab9bb63": 1792160177.0961933,
-  "news|484d1c94915b": 1792161088.5249665,
-  "news|4389525e82bb": 1792161089.4534395,
   "news|6ecc04e5e892": 1792162898.3503752,
   "news|f0ca617355a6": 1792163771.236637,
   "news|4bcbdc4c355e": 1792167370.2834392,
@@ -8025,7 +8022,9 @@
   "post|2026-11-06T08:30:00-05:00": 1793973701.0419936,
   "news|3dbb63cb71b8": 1793974572.2841904,
   "big|DXY|2026-11-06": 1793974573.5452971,
-  "big|EURUSD|2026-11-06": 1793974574.440852
+  "big|EURUSD|2026-11-06": 1793974574.440852,
+  "news|c26b7d7f3752": 1793976553.0072234,
+  "post|2026-11-06T09:10:00-05:00": 1793976554.282944
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8369,6 +8368,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T14:49:14.283729+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 39 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.03%\nTaux 10 ans +0.6 pb\nOr +1.4$ (extrême +6.0$, range 12.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-11-06T14:49:13.007317+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Asia Hopes Democrats Can Provide Relief From Trump’s Iran War, Tariffs: Russell</b>\n📰 EnergyNow.com · Ven 06/11 10:43\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkxtUVNlU2Y5TzBYNEhtRjlQMmUwVXloNTBSOG1td0QwZnRvWkI4N2lTa0VKYk1Oc2lfMDdVekhmWTNHcmxwVFZoemJLUV9ONnZjXzNhczBDM0pzSFNmRWtqbTRoOW04M2JTNHJ2b3JGWnExRnpTbzI0am1Zb3ROTnlBV1NUa0REME9fSE40b3l5cTRzRXkyNEZGSlZndXF5S3ZVWlpMaXB0clE?oc=5"
+  },
+  {
    "ts": "2026-11-06T14:16:14.440915+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — EUR/USD\n-0.00941 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
@@ -8657,16 +8666,6 @@
    "ts": "2026-11-06T04:31:24.295937+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Warren links Fed rate hike to Trump policies amid rising credit costs</b>\n📰 scanx.trade · Jeu 05/11 23:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVdKd29VTDdxRy1EZlZ2SXNZb2J0emttRnR6R1IyMlA2X29kNnFuS1F3cklFNmZzZ09FSXZsNHNZOGhGVnhycTlEaVA0QmlqWEZpZ2hoTUZYd0I1VTMwNk43X29Hdnk3Z3lYQzVlNmg4RV81TVAxcklqZnk0WDhTdU5pNWIzb0o1Xy0yQnJhT00wSDRHcGo5cFlxS2lwUUw1Yk5TSmpCT1hUU2dkcFNfNlFLSHI4VUw4Q0JvUnFSak8?oc=5"
-  },
-  {
-   "ts": "2026-11-06T04:31:23.263185+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss</b>\n📰 PBS · Ven 06/11 00:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1BzQWhuWjVlSEF2VU9UUEM3ZzhZLUhORnN6VWRUTjhlUmIxVUdHSmRGOEU2dG1FVUNhWjcwTmRERjF1UmFjVWtzbGs3dVFYOHRsQmVwQW8yckc4YkVfUXNmcFRsamxpX1RTOFhHWmI4blFZbmxFZ0thVThxQmlEMlc3WkhGY1RmZklucW9sMlRMaG9VUG9HZHUzXzhZbjhjS29uNUtqdUREaDZjamlVVDJtQjJIdHNXY2dNaGJjS19oQ3JEdFB6a1BPNkUwbzTSAc8BQVVfeXFMTkNQc0Foblo1ZUhBdlVPVFBDN2c4WS1ITkZzelVkVE44ZVJiMVVHR0pkRjhFNnRtRVVDYVo3ME5kREYxdVJhY1Vrc2xrN3VRWDh0bEJlcEFvMnJHOGJFX1FzZnBUbGpsaV9UUzhYR1piOG5RWW5sRWdLYVU4cUJpRDJXN1pIRmNUZmZJbnFvbDJUTGhvVVBvR2R1M184WW44Y0tvbjVLanVERGg2Y2ppVVQybUIySHRzV2NnTWhiY0tfaENyRHRQemtQTzZFMG80?oc=5"
-  },
-  {
-   "ts": "2026-11-06T04:02:08.243254+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Midterms Aftermath : Trump Faces Tough Choices Amid Gulf Tensions and Hormuz Attacks</b>\n📰 gulfnews.com · Ven 06/11 04:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://gulfnews.com/world/mena/midterms-shake-washington-hormuz-attacks-rattle-gulf-what-next-for-trump-1.500737394"
   }
  ],
  "daily_forecast": {
