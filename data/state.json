@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793919676.304024,
+   "ts": 1793923306.689051,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -3998,7 +3998,7 @@
   "d417cac332ee",
   "0158624ca1b0",
   "0f327c07c6e6",
-  "01aab1a8312f",
+  "a46a2574a150",
   "938fd08de53a",
   "5a4225befb9c"
  ],
@@ -4565,6 +4565,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Dollar Supported by US Economic Strength and Hawkish Fed Comments",
+   "source": "TradingView",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmJIaHhPNGlxRnc2WHRFR3N1VHFQZDBQOTY0QTVtYmVrRkNFVWprNTdSY3dpRk1odlhRSzR4Unp3UVpBdUZlYXpzZlVia0dGYmUxTG01a1FvNGtoVWppb1BacTRoSkc1WTdDYjREY2lwWnlSN3p0WVhab085Q3l6Nng1b2U4Y2JoaXFORkRyS2J1aXFhUG5hcWhORVFfeE1tS0poenVYZE9wZm9ib3o2cC1tVERXWmQwMWg3YTAwQUw5QQ?oc=5",
+   "published": "2026-11-05T15:36:38+00:00",
+   "id": "a46a2574a150",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6390,18 +6402,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Oil prices slide as election results dim Iran escalation fears",
-   "source": "Quartz",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjeGZGX19DTmdUNFNtZS1rQktMbWdUZnIzRGt4TVotNy1ZbFkxX21TZWZHbDNVUjdNOEJrTUpsOHBqWWMweDZkXzJUVzV6bjYxUHJUQUhkbUM2bHdKaE40clRaXzAtODJvc25pY1Zoc05pVFFfNUdXcQ?oc=5",
-   "published": "2026-11-04T16:35:24+00:00",
-   "id": "2ce9169e6883",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8026,7 +8026,8 @@
   "news|6fdd57fad3fc": 1793921486.3736362,
   "news|78ce01c22a6a": 1793921487.2157829,
   "news|c65b71e3a886": 1793921488.1030257,
-  "big|BTC|2026-11-06": 1793923279.8989694
+  "news|a46a2574a150": 1793923328.9636705,
+  "big|BTC|2026-11-06": 1793923330.184413
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8354,9 +8355,14 @@
  },
  "alerts": [
   {
-   "ts": "2026-11-06T00:01:19.899031+00:00",
+   "ts": "2026-11-06T00:02:10.184470+00:00",
    "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 449 aujourd'hui = 2.1× l'ATR\n🥇 🔴 baissier pour l'or"
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 412 aujourd'hui = 2.0× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-11-06T00:02:08.963744+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Dollar Supported by US Economic Strength and Hawkish Fed Comments</b>\n📰 TradingView · Jeu 05/11 16:36\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmJIaHhPNGlxRnc2WHRFR3N1VHFQZDBQOTY0QTVtYmVrRkNFVWprNTdSY3dpRk1odlhRSzR4Unp3UVpBdUZlYXpzZlVia0dGYmUxTG01a1FvNGtoVWppb1BacTRoSkc1WTdDYjREY2lwWnlSN3p0WVhab085Q3l6Nng1b2U4Y2JoaXFORkRyS2J1aXFhUG5hcWhORVFfeE1tS0poenVYZE9wZm9ib3o2cC1tVERXWmQwMWg3YTAwQUw5QQ?oc=5"
   },
   {
    "ts": "2026-11-05T23:31:28.103313+00:00",
@@ -8647,11 +8653,6 @@
    "ts": "2026-11-05T10:34:09.061266+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Points Missiles Towards Israel &amp; US Bases; Air Defences On Alert As Trump Mulls Fresh Strikes</b>\n📰 The Times of India · Jeu 05/11 11:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNdmNrOG9kTW5nN3FGRzVIUTZRZGVWOXRlTVNaLXU5MnJPMDBnZUdjWXJoRElnUUpkZnlnMThVQ2dNNm9jUnNDQjdPbm5sSVE4QURmcmZoc0FtWExkb3cya0E4c2xPcGJXWlRuUGlxM0hPQTdPOWpMV0Z0YVlXUDNTbGt0VUpQVmVvZ1BZUVU3ZkRDaEJDYnhncDRFUVQ4N3p6RXByengxTWl0V1IxalJ0V3ZpRmEtN1RuMDdWaThPeTlzTEk0clpuZ0dPTWRwc0I5OE1kZEtFUml5eWdyWTZ2M1ZOQU15aEJyY25mRnVNRUxHeTJkU2pOU25hbFY3X0VBU3pmMU1mMNIBjAJBVV95cUxPTFlEZWpKb0ptdjdwMkY0ZEVQOEtyMnI5WkpqSWxRSkNUOUdCdEF6cS13RGRXNW50YmV1V0RldU1ROHNYRlZIUzZ5R3RlenVXSWtvTjV2cGl1QlNVdDdWQlZVNjE1UXZPdE5VZ3hLeF9fUy1RWkt2enhFdVRYTnE1V2llMWJNTDF5NzFkNHRnX2Jhc0gxdW0xR040eU5sZXNwbHI3Wlh5dHFZZXBneTJzVzZWN1kyUHM3d3RWNE5zQ20ydEFZR0ZvTkp6WmFhMzlEYmdoOUhUQ1ctODRWNnM4U3BDZ1F5WERJaDlrNXRNLXZscF9OM0tzX01RMFRHYno1QS1wT3ZwV0tvdWJ4?oc=5"
-  },
-  {
-   "ts": "2026-11-05T10:34:08.100469+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Turkey's Erdogan says he wants to discuss ending Russia-Ukraine war with Putin after talks with Zelenskiy</b>\n📰 Reuters · Jeu 05/11 11:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjZURmhQRHFISDloNWJlU3RNLU9BaXlZT3VBWFZxdnhsLVBXcFhCZGJKeURqcFJaX1o0eGRZR25nWkFPT1ExbXRyelhjckE5d21wZG55SWZhckNFNmp0S2JmdTA0OS16eENHX1BDOThpX3ZldkF1RTFNSjhDS1NBOGtzTTBkbjBPenEwVTF0Z2JLeEEtd1hSS2gtUmFLMzhCLUQ5bVd1VVFnNFlvQ19oWERCU3ZzR2xiS3RiRVdPTQ?oc=5"
   }
  ],
  "daily_forecast": {
