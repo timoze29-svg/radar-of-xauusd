@@ -1001,8 +1001,6 @@
   }
  },
  "seen_news": [
-  "624e24bb5b30",
-  "0289b9c6203c",
   "8c29902ca370",
   "47347998d413",
   "794edb2279ee",
@@ -4000,7 +3998,9 @@
   "8d09c4deeeac",
   "779c0d4baf9c",
   "d74270c40a26",
-  "7df3b42150fe"
+  "7df3b42150fe",
+  "a43d132cd54e",
+  "ddc2ed693ca3"
  ],
  "news": [
   {
@@ -8018,7 +8018,7 @@
   "news|8d916d14ee43": 1793956618.220578,
   "pre15m|2026-11-06T04:30:00-05:00": 1793956619.4638271
  },
- "last_bias_label": "Haussier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8360,6 +8360,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T09:31:21.103474+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +14)\nMoteurs principaux : Taux réels 10 ans (20j) (+13), Momentum or (vs MM50) (-12), Sentiment news 24h (+11)"
+  },
+  {
    "ts": "2026-11-06T09:16:59.464035+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -8653,11 +8658,6 @@
    "ts": "2026-11-05T18:01:50.443984+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil rises over $2 as investors assess Iran war future</b>\n📰 Reuters · Jeu 05/11 03:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5"
-  },
-  {
-   "ts": "2026-11-05T18:01:49.524803+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say</b>\n📰 The New York Times · Jeu 05/11 17:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5"
   }
  ],
  "daily_forecast": {
