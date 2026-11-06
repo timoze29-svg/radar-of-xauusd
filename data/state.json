@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1793974552.8338668,
+   "ts": 1793979066.3320582,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -800,6 +800,17 @@
      "actual": "",
      "gold_label": "Fed — décision / discours",
      "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Daly Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-06T13:00:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
     }
    ]
   },
@@ -1001,14 +1012,6 @@
   }
  },
  "seen_news": [
-  "2ae6450f1822",
-  "477fdd4d23fb",
-  "ec2a37466c0e",
-  "a8be2cd46bbf",
-  "0aa037b6996c",
-  "03e6e243d12c",
-  "4fb65a3e128f",
-  "9ff5ee31bb01",
   "a2477d38ce41",
   "6db925f6deba",
   "734905858855",
@@ -4000,7 +4003,15 @@
   "f9c4a3311b32",
   "65c9545b2812",
   "5211530da475",
-  "0faaca1039aa"
+  "0faaca1039aa",
+  "c358dd47a7f0",
+  "cd2fb3b323c0",
+  "6263105cdabf",
+  "44c3a778ce60",
+  "dd48472fca1c",
+  "086ca4872391",
+  "77d4029f6fb1",
+  "a2822f70d833"
  ],
  "news": [
   {
@@ -4421,6 +4432,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Treasury Yields Fall Further as Investors Assess Midterm Election Results and Await Jobs Data",
+   "source": "Tekedia",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVlNaF8tRmFpYXNVT1BGcEk1Ml9ydGRHcVZPSmU3NmZkNHhHUmtVSnRMRjBxbTlPRjkwQkRCWmpGdGJMbDZ1ek5FWWo2X3N5YXBfanhMdEVKQ1pEdjhlSzY1ZVVrNDNYU1VudlNvS0Jld29EclZkRGRweW8xd0l3eWZKLVZpWHRqN2k2ZldKcjZvVFEzb0FVSWc3RjZqNUdLcm1VYkVnTEM1UEhtazVQTVdhY3VZVW1vbGdxWE1R?oc=5",
+   "published": "2026-11-06T10:16:01+00:00",
+   "id": "086ca4872391",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -6389,18 +6412,6 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "MAC Products transmitting electrical power despite Trump tariffs",
-   "source": "Bergen Record",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjh6YXlPQktsaEszcEhDRTl3QlR0WWdsVnZBQUZFa0pXMWxiWXduMjdYS1A4S0ZhUlpPSVpFdXhzU3JoSWxzRVpIY3BoS2Q2SG45V2ROdnhvRzgtRFozR3o4SHIwdnFZd2hXeWV1enF2NG9sS1pZSGpjMkI4RWwzRUlSbkNVQ3lEXzFXdVRJcFFQQ3d4dTE5SFkzaGVzR2NNTUFuQ3J4dkZMWm9pbno3dnVHU0NvNWZkdjU4ZHhwbF9ESmlMcFJHcHJpLXl1QUFvSW1tejI5VQ?oc=5",
-   "published": "2026-11-05T11:02:00+00:00",
-   "id": "f57ed02652e6",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   }
  ],
