@@ -1001,40 +1001,6 @@
   }
  },
  "seen_news": [
-  "b2becaf566ea",
-  "28a3e01b8336",
-  "2756f098a413",
-  "18f6f2697616",
-  "a369eea2f6ab",
-  "6e3e21f6bec5",
-  "fa6143504abe",
-  "bc194184f8a8",
-  "d923c3036584",
-  "86435ef09af4",
-  "7cdba5779739",
-  "7ad7cdc995a4",
-  "71440f3f19b0",
-  "734d31a07c64",
-  "dc6b08fbe6e4",
-  "a9d06c15266d",
-  "43e2ef8c75e7",
-  "6d2420dd5672",
-  "aee09bb1a0c1",
-  "ca3809dcd432",
-  "a53ac33ae82b",
-  "c452fcd697d8",
-  "8ddaeae4ca40",
-  "ffde3791f3e8",
-  "bd0100e39928",
-  "6f441149eea8",
-  "0c6f6c28d6d8",
-  "650fb24db2c8",
-  "ddd7904c3e75",
-  "7e71f3d3def6",
-  "35351bf75569",
-  "672b81a7cdf3",
-  "5b83610263fe",
-  "8515803ab6cb",
   "dfde6f2be5e7",
   "d2f1f965a41d",
   "728232c4d0ea",
@@ -4000,7 +3966,41 @@
   "64e056f693b7",
   "b68caf6af825",
   "31670fcc0b37",
-  "a2e24ea91238"
+  "a2e24ea91238",
+  "ca899efa0bed",
+  "aac3b6f74e78",
+  "529d34a2a6c4",
+  "74b0814c64ce",
+  "fead80f4209e",
+  "91413f23ffd5",
+  "5bbf1d8bc3a1",
+  "93abbc4adf7c",
+  "61bb83e5192a",
+  "b271983e1a4c",
+  "dbdc94600db8",
+  "ac95cc0a4bb0",
+  "ef92010f985e",
+  "880ae097f22a",
+  "5f6d20bdc402",
+  "2827adc6ee46",
+  "1828cc386d6d",
+  "40b1e803295d",
+  "3be9ae819e84",
+  "4b34b35a1cd8",
+  "5464910a330d",
+  "9c6d4ac1ae22",
+  "b0331633bc41",
+  "eeb41e5691cd",
+  "27d8d70c2753",
+  "5e392f5e0bb4",
+  "fffdbfbbdc8c",
+  "e8e2257bba57",
+  "9dd0ce8252bd",
+  "f3caeaa91255",
+  "76c074cc3529",
+  "a3154617f3f1",
+  "f34c9c88ec00",
+  "00fb0bec4981"
  ],
  "news": [
   {
@@ -6405,12 +6405,6 @@
   }
  ],
  "fired": {
-  "news|0ad7a28025fb": 1792155707.548509,
-  "news|61bb6b140969": 1792155708.3955379,
-  "news|1b99d277bd16": 1792155709.2232313,
-  "news|277d55af5c23": 1792155710.0594013,
-  "news|b9ee178751a1": 1792155710.8871775,
-  "brk|US10Y|pdh|up|2026-10-16": 1792155712.0798836,
   "news|da4fdb64136b": 1792156577.0054593,
   "news|3c448f543929": 1792159301.150862,
   "news|64ffbae2ecf8": 1792159302.0280287,
@@ -8024,7 +8018,8 @@
   "burst|Iran|166108": 1793968476.2314887,
   "news|a199514d941f": 1793970102.3188584,
   "pre1h|2026-11-06T09:10:00-05:00": 1793970103.7289433,
-  "rep|update|2026-11-06": 1793970106.076702
+  "rep|update|2026-11-06": 1793970106.076702,
+  "pre15m|2026-11-06T08:30:00-05:00": 1793970974.1143575
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8368,6 +8363,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-06T13:16:14.114411+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Average Hourly Earnings m/m</b>  prév. 0.3% | préc. 0.1%\n🇺🇸 <b>Non-Farm Employment Change</b>  prév. 65K | préc. 29K\n🇺🇸 <b>Unemployment Rate</b>  prév. 4.2% | préc. 4.2%\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-06T13:01:45.060686+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4072.40</b>  (+16.2$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+23) → maintenant +18 (Haussier)\n⏳ En zone d'achat (entre S1 et pivot) : attendre une confirmation\n📏 Range fait : 72$ sur ~81$ attendus (89%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Average Hourly Earnings m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Non-Farm Employment Change (prév. 65K)\n🔥 <b>14:30</b> 🇺🇸 Unemployment Rate (prév. 4.2%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Ted Cruz slams Trump's tariffs and says Iran war needs to end\n🟢 (+10) Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News\n🟢 (+10) Canada's retaliatory tariffs hit US products as Trump warns of escalation\n🟢 (+10) Republicans’ Midterm Wipeout Reignites the War Over Tariffs"
@@ -8661,11 +8661,6 @@
    "ts": "2026-11-06T02:31:25.832078+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hegseth Faces Political Reckoning After Iran War Costs Republicans Congress</b>\n📰 dailycaller.com · Ven 06/11 03:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://dailycaller.com/2026/11/05/pete-hegseth-donald-trump-iran-war-thomas-massie/"
-  },
-  {
-   "ts": "2026-11-06T02:19:15.544969+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Gold Rebounds Above $4,100 as Dollar Weakens and Treasury Yields Fall</b>\n📰 Businesskorea · Ven 06/11 02:02\n🧠 haussier or (dollar, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE15dVJGYnRRM0VMVjdrRXdFelhnZUpoeGFGQ1U1cFlBRnNJV3R6RWtMd2pVZW9aRzVkMVNVSW9LR3Jpb2tWLVcteWZIRXE1MGlWYVBmUDJsVklETXJGMmRPTTF4V09CSHBqdEIteVhVSWk1M3pI?oc=5"
   }
  ],
  "daily_forecast": {
