@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1793998075.4612265,
+   "ts": 1794020477.9324722,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.64,
-     "date": "2026-11-04",
+     "last": 2.6,
+     "date": "2026-11-05",
      "chg5": -0.03,
-     "chg20": -0.27,
+     "chg20": -0.32,
      "hist": [
-      2.0,
       2.1,
       2.13,
       2.18,
@@ -129,18 +128,18 @@
       2.6,
       2.62,
       2.65,
-      2.64
+      2.64,
+      2.6
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.24,
-     "date": "2026-11-05",
+     "last": 2.23,
+     "date": "2026-11-06",
      "chg5": -0.11,
      "chg20": -0.12,
      "hist": [
-      2.49,
       2.48,
       2.49,
       2.44,
@@ -259,18 +258,18 @@
       2.29,
       2.3,
       2.26,
-      2.24
+      2.24,
+      2.23
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.58,
-     "date": "2026-11-04",
-     "chg5": -0.09,
-     "chg20": -0.21,
+     "last": 4.46,
+     "date": "2026-11-05",
+     "chg5": -0.15,
+     "chg20": -0.31,
      "hist": [
-      4.0,
       4.09,
       4.07,
       4.13,
@@ -389,14 +388,15 @@
       4.56,
       4.59,
       4.61,
-      4.58
+      4.58,
+      4.46
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-04",
+     "date": "2026-11-05",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -405,7 +405,6 @@
       3.62,
       3.62,
       3.62,
-      3.62,
       3.63,
       3.63,
       3.63,
@@ -471,6 +470,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "c4d14af7237e",
-  "af6205a749db",
-  "39e202223ade",
-  "6c57494ad8b9",
   "b9ddb3ebf34d",
   "20b83c2b5a92",
   "218bfa044090",
@@ -4011,9 +4007,25 @@
   "ddfaacd1854a",
   "afea58200ab3",
   "bec0d27a5f44",
-  "56b57a92744e"
+  "56b57a92744e",
+  "d4243d345672",
+  "72f66d2f735c",
+  "88bcd95a57fc",
+  "1ddd26476d4c"
  ],
  "news": [
+  {
+   "title": "US lawmakers signal challenge to Trump tariffs amid price concerns",
+   "source": "Mezha.net",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGZtRDZqRWs3Y0xybExZOXZtN2g2cG9CNVV1WXJWUGp1Sy1pSHNKQkFGa1N4WmxqQzh3bmJiSWlhMXBrbzhJZ0NWY2hJYmIxTkJiajBYb0RGSTZMQzUwMEppd1dOWVhvX2tiVXlUT05vOGtRdzE2dzA0cnlPeW45cTFYOWM?oc=5",
+   "published": "2026-11-07T02:47:10+00:00",
+   "id": "88bcd95a57fc",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "US military carries out new targeted strike on Iran as Tehran's leaders weigh mediator's proposals",
    "source": "AP News",
@@ -6401,18 +6413,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia, Ukraine trade missile and drone strikes as technical talks begin in Brussels",
-   "source": "Washington Times",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUR2ZFFUU3lhYlBxQlIwRVZuLXA0dk5vdWM5UE5tdGN1cjJSaFF1WUI1UmJqbGZPSlZ1ZU1aLVhsRnAxM2d6VC03Q2JYc0xIMlhTRWVxSy1QZVUwUC1sblpwWmZURnZlWFktaXIxTkl0ajRXR2stMEpSZGNqb0RfbHUzcy1QTWZ4cmxhclMtWUYzcDJIN3NEWjh0OUtFLUhQbGJNd2l1dzFYQWNmSVVnOGxLSQ?oc=5",
-   "published": "2026-11-05T18:35:24+00:00",
-   "id": "86137e18818f",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite des hostilités maintenant une prime de risque malgré des pourparlers.",
-   "method": "IA"
   }
  ],
  "fired": {
