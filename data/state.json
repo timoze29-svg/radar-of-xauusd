@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794018659.4968185,
+   "ts": 1794022262.49626,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1012,7 +1012,6 @@
   }
  },
  "seen_news": [
-  "895f762199e4",
   "4a91aba07c72",
   "83081366037a",
   "ec407a4aaff2",
@@ -4011,7 +4010,8 @@
   "1ddd26476d4c",
   "a9251036cdf7",
   "9b48c1cc21cf",
-  "d6c0fab79baf"
+  "d6c0fab79baf",
+  "6c07767bfdc7"
  ],
  "news": [
   {
@@ -4021,6 +4021,18 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5",
    "published": "2026-11-07T03:12:00+00:00",
    "id": "d6c0fab79baf",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+   "source": "The Guardian",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhQNEhVWUJ5ODk5MkxWbFlVZVZVUnU4dGxYVWJzdTh2R2x1aHdSd1pkVHlERGNod3JCOEVSWVIxdC1SbHlRX0RPVGM5UkVCTk5KR3RWb0lWczUza01JWkNwNU93ZnpKV1pGRHk2ZW1ZZExxeGEzYW5qekxFM2dRZDhFUWZ0MzVka3RYajRBVU96cWlDTWhvM2NpVm85YTlZZm5JdkxUQ3o3VVVFUzFR?oc=5",
+   "published": "2026-11-07T03:07:00+00:00",
+   "id": "6c07767bfdc7",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6401,25 +6413,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Is Trump admin planning nuclear strike on Iran in wake of midterms? What we know",
-   "source": "Snopes",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11Z1g0SllIVDQ3WVkyOHExSjZkNVppTEZKYjRaLVdQbWY1U25Nc1dzS0VLMEVnalNVOEtFcVFaQWlIR0lUUFlHMDIxNzNJU2xNcmRlaFlySVBrZlA4MTYxdUw0dng4WGVEZF80a3pzckZLZTA?oc=5",
-   "published": "2026-11-05T19:00:27+00:00",
-   "id": "146016495a2b",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Crainte d'escalade extrême avec l'Iran, bien que tempérée par le fact-checking.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|04d370ed6061": 1792206976.2872338,
-  "burst|Trump|165945": 1792206977.7519243,
-  "burst|Tarifs douaniers|165945": 1792206978.8066661,
-  "burst|Russie / Ukraine|165945": 1792206979.820571,
   "news|14fc92b4d135": 1792214165.4350677,
   "news|088630bf5e28": 1792215090.1349676,
   "news|88a234c6507d": 1792215970.028393,
@@ -8026,7 +8022,8 @@
   "news|7d985672323c": 1794018682.9906251,
   "news|ddfaacd1854a": 1794018683.9409244,
   "news|d6c0fab79baf": 1794021375.0274978,
-  "news|a9251036cdf7": 1794021375.903999
+  "news|a9251036cdf7": 1794021375.903999,
+  "news|6c07767bfdc7": 1794022284.626771
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8370,6 +8367,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T03:31:24.626892+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US carries out another round of ‘minor’ strikes on Iran, Trump says</b>\n📰 The Guardian · Sam 07/11 04:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhQNEhVWUJ5ODk5MkxWbFlVZVZVUnU4dGxYVWJzdTh2R2x1aHdSd1pkVHlERGNod3JCOEVSWVIxdC1SbHlRX0RPVGM5UkVCTk5KR3RWb0lWczUza01JWkNwNU93ZnpKV1pGRHk2ZW1ZZExxeGEzYW5qekxFM2dRZDhFUWZ0MzVka3RYajRBVU96cWlDTWhvM2NpVm85YTlZZm5JdkxUQ3o3VVVFUzFR?oc=5"
+  },
+  {
    "ts": "2026-11-07T03:16:15.904349+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’</b>\n📰 The Times of Israel · Sam 07/11 03:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGg2eHNFcW9FRTJ4eEFxXzBVR0U4Y3RRUDNuRjhCcWQxVW52LUliR1hKS293NnRQQ2N1SlpscjhyR0lFaEN1TldGdm5IY0otSzF2N3BsVzNoLUF4RG1YREMxVzBJWFJTcGtzNFVzWVpHQS1FTUt1VEJZOWNCNmJKZnVtclA2OGUwX1J4cjlHTWNlMU5FamFDWWpmYjZFdFRrZHo1cktNZ0kyVmV4Vk5NQlJONnVOMmc1RzB0WHhZX3plTUlKeWdpSXVabGE5Z0V1Q0xJMHBwTQ?oc=5"
@@ -8663,11 +8665,6 @@
    "ts": "2026-11-06T12:34:32.394530+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Congress cant stop Trump : Shashi Tharoor on possibility of fresh strikes on Iran</b>\n📰 heraldglobe.com · Ven 06/11 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.heraldglobe.com/news/279415748/us-congress-cant-stop-trump-shashi-tharoor-on-possibility-of-fresh-strikes-on-iran"
-  },
-  {
-   "ts": "2026-11-06T12:34:31.586230+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News</b>\n📰 aljazeera.com · Ven 06/11 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?update=5127946"
   }
  ],
  "daily_forecast": {
