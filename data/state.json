@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794033944.707264,
+   "ts": 1794038476.4424949,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -815,7 +815,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1793965575.615104,
+   "ts": 1794038694.2494261,
    "data": {
     "gold_hours": {
      "0": {
@@ -943,41 +943,41 @@
       ]
      },
      "4": {
-      "n": 117,
+      "n": 118,
       "high": [
        [
         16,
-        14.5
+        14.4
        ],
        [
         0,
-        11.1
+        11.0
        ],
        [
         17,
-        11.1
+        11.0
        ]
       ],
       "low": [
        [
         0,
-        12.0
+        11.9
        ],
        [
         15,
-        7.7
+        7.6
        ],
        [
         16,
-        7.7
+        7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5960,
+     "n_hours": 5970,
      "horizon_h": 2,
-     "base_gold_up": 53.3,
+     "base_gold_up": 53.4,
      "base_dxy_down": 48.1,
      "down": {
       "3": {
@@ -995,9 +995,9 @@
      },
      "up": {
       "3": {
-       "n": 266,
-       "p_dxy": 55.3,
-       "p_gold": 48.5,
+       "n": 267,
+       "p_dxy": 55.1,
+       "p_gold": 48.3,
        "gold_avg": -0.6
       },
       "4": {
@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "0e0cbe834e2a",
-  "087a53946e1f",
-  "b7ebffa93cea",
   "0e58e8575b10",
   "2f3b2fe77080",
   "c0ec0264e66c",
@@ -4011,7 +4008,10 @@
   "5e8036ee86c5",
   "4d34b1125726",
   "eb62eba98374",
-  "e7dadca2d35b"
+  "e7dadca2d35b",
+  "de491cb9789e",
+  "9881e6fb3036",
+  "cced7df95a9b"
  ],
  "news": [
   {
@@ -4022,6 +4022,18 @@
    "published": "2026-11-07T07:37:38+00:00",
    "id": "e7dadca2d35b",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+   "source": "CNBC",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+   "published": "2026-11-07T07:37:36+00:00",
+   "id": "de491cb9789e",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6401,18 +6413,6 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US issues sanctions over efforts to supply Iran with portable air - defence weapons",
-   "source": "thenationalnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.thenationalnews.com/news/us/2026/11/05/manpads-iran-sanctions/",
-   "published": "2026-11-06T01:00:00+00:00",
-   "id": "ee5a9301759b",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8038,7 +8038,8 @@
   "news|dc23e95badab": 1794034150.6109307,
   "news|2a44bbb453d5": 1794034151.5029638,
   "news|f954158869e7": 1794035071.3105187,
-  "news|e43e39a27003": 1794035765.2260094
+  "news|e43e39a27003": 1794035765.2260094,
+  "news|de491cb9789e": 1794038691.2251093
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8382,6 +8383,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T08:04:51.225241+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island</b>\n📰 CNBC · Sam 07/11 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5"
+  },
+  {
    "ts": "2026-11-07T07:16:05.226100+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu planned Iran attack before Israel polls; operative's mistaken tip to US stopped it: Report</b>\n📰 The Times of India · Sam 07/11 07:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxPaEhjZHVOUzQ4eXNIZURnR2o1ZkIyMW5YVmdSSFROT1pCUFpwODVHNXk1TE9ndXByOU9fR1RVdlgtN1pQaUtlWDlwaGVxRGRvdDhrbWNtaGJPSGNzM0FhOXZ1ZnBnRWo2bkt5NFlxdkJERXdpd3Q4SVJ6blhsUGswcnlqSFEyS1FWQkJjSEJpdVFQWTZkYTRCTEJ4QVktZmd6anFESWVsbk54SldkQk95V0dZcWZYMWNvTDJ0UHg4bGU2LVJManN4NE40UHFiTVpEYi1QUk5SSlVIWmszaTFCS1dKU0xqUDVIMW1pb2F2NVp6U0ZkWU9oTU5uaEVMaHN2em9DRzMwa3ljcXlDLThLVlhxdUxReU1zMXUzOGMxSExnamZCeHVPSTNDazc5Nk9VVzNpdFBwdURJS2tBempQc1BQazEtemtOMzMzZ2VjTFByeEh1UmFxSNIBjgJBVV95cUxNY1RsVjhQTXZncm5PejhsdU9qR05hLVE3ZXhXTWcwb3U5YkRkSVdFWlZaVDNJUW9pZTFaekdGbEZCTGtubkJSMGlnai11MjUybl9VcE5aUjFwZktwaVE2MDQ0aVBWdmxEb1E0SEZzUjd2NUxfNDRfSDZPTWxTVXMyMFFzcEFWWk83WWFUMTJqUjYtTVBJandnR1JaQkJ0TkxpdVdydHhielFTN1IzenRVeEVVbDd3YmpLQ2IwMFpXQ0wwYV9ibmpJTWxNQ3lMT2Jnc3dfT2ZTRFFZR1pMWjdPdXAwOGNzQTdNMlhCT3VNVG5qc0VhQUg5Nm1DODBldllwUDV1SEwxZVdoc2lmTlE?oc=5"
@@ -8675,11 +8681,6 @@
    "ts": "2026-11-06T14:49:13.007317+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Asia Hopes Democrats Can Provide Relief From Trump’s Iran War, Tariffs: Russell</b>\n📰 EnergyNow.com · Ven 06/11 10:43\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkxtUVNlU2Y5TzBYNEhtRjlQMmUwVXloNTBSOG1td0QwZnRvWkI4N2lTa0VKYk1Oc2lfMDdVekhmWTNHcmxwVFZoemJLUV9ONnZjXzNhczBDM0pzSFNmRWtqbTRoOW04M2JTNHJ2b3JGWnExRnpTbzI0am1Zb3ROTnlBV1NUa0REME9fSE40b3l5cTRzRXkyNEZGSlZndXF5S3ZVWlpMaXB0clE?oc=5"
-  },
-  {
-   "ts": "2026-11-06T14:16:14.440915+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — EUR/USD\n-0.00941 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
