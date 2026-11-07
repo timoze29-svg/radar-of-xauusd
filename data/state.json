@@ -1012,11 +1012,6 @@
   }
  },
  "seen_news": [
-  "0e58e8575b10",
-  "2f3b2fe77080",
-  "c0ec0264e66c",
-  "8fee79937259",
-  "dbf0e329500d",
   "b98728917a81",
   "d133fc6419b9",
   "59974e78f3c7",
@@ -4011,9 +4006,26 @@
   "e7dadca2d35b",
   "de491cb9789e",
   "9881e6fb3036",
-  "cced7df95a9b"
+  "cced7df95a9b",
+  "2b2adc5f8e33",
+  "1b1c8949c551",
+  "7cc574ca41f3",
+  "ca390139bfc6",
+  "869bbfc948bd"
  ],
  "news": [
+  {
+   "title": "Moscow strikes Kyiv as Ukraine prepares for talks with Russia and the US",
+   "source": "France 24",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUi1zYk5UaVZlcUMwNklJUjVqQ3c4ZlNvMmw1cWZBaHNpMG1xeGlrX21NQUdRZGhmMk4zdnl6QXVWLTBDQlRPdER1UWRZT2FqNlBCcFpacHJkeEdpbnFaTGxiNDEtM1o0WnN0VmsycVdKZ0tnb0dKS0puMGxzenFhMmZzSzJwR2N2cVhMcG5zaFMydlZvanRFT21Od3ZuRzVON2RFYzFWdFYwajk0S2VuOGNScnJtaE0?oc=5",
+   "published": "2026-11-07T08:08:44+00:00",
+   "id": "ca390139bfc6",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine War, Day 1,717: Russia’s Ballistic Missile Strikes on Kyiv",
    "source": "EA WorldView",
@@ -5138,6 +5150,18 @@
    "published": "2026-11-06T14:49:06+00:00",
    "id": "c53c0e6ccb30",
    "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Goldman Sachs Lowers Gold Price Forecast to $4,150 by 2026 Amid Concerns Over Fed Rate Hikes",
+   "source": "KuCoin",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVVCV3MyWUM1aUxUZnFlczJGSl9oaW1sMEtwOWtpVTdNNFpBUDlPVEw5SnNnNE5CT0FkX2RiVElZdmxTYTZUUG5ycHhOeXV0aEY5b2Z5MmExNnVrSV93OTFCZU1tQ250V1FmR09XWlh6T2wxM0pnYnBzSVdrRW84NlFGT3NndVdWR3lyZTZTd1d2T0NDRmFyME5oZ2VHSk1MYkhhbE5uRUw5SkxISk1BOHZDa09pYWc?oc=5",
+   "published": "2026-11-06T14:45:03+00:00",
+   "id": "7cc574ca41f3",
+   "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
@@ -6389,34 +6413,9 @@
    "cat": "taux",
    "raison": "haussier or (dollar, taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Hegseth calls impeachment effort  political theatre , says attacks wont force him out",
-   "source": "aninews.in",
-   "theme": "Géopolitique",
-   "link": "https://aninews.in/news/world/us/hegseth-calls-impeachment-effort-8220political-theatre8221-says-attacks-won8217t-force-him-out20261106060354/",
-   "published": "2026-11-06T01:00:00+00:00",
-   "id": "7d39a89fa2d2",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Bank rate hike madness puts a choke hold on growth and will bring hardship to thousands , warns MAGGIE PAGANO",
-   "source": "dailymail.com",
-   "theme": "Géopolitique",
-   "link": "https://www.dailymail.com/money/markets/article-16269397/Banks-rate-hike-madness-puts-choke-hold-growth-bring-hardship-thousands-warns-MAGGIE-PAGANO.html",
-   "published": "2026-11-06T01:00:00+00:00",
-   "id": "8983936080c1",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|4f58c0f54665": 1792224973.5242066,
   "news|f31b3a7af135": 1792224974.5643804,
   "news|781db453a083": 1792224975.5657759,
   "news|59d9148680cb": 1792224976.5414822,
@@ -8039,7 +8038,8 @@
   "news|2a44bbb453d5": 1794034151.5029638,
   "news|f954158869e7": 1794035071.3105187,
   "news|e43e39a27003": 1794035765.2260094,
-  "news|de491cb9789e": 1794038691.2251093
+  "news|de491cb9789e": 1794038691.2251093,
+  "news|7cc574ca41f3": 1794039374.119609
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8383,6 +8383,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T08:16:14.119709+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Goldman Sachs Lowers Gold Price Forecast to $4,150 by 2026 Amid Concerns Over Fed Rate Hikes</b>\n📰 KuCoin · Ven 06/11 15:45\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVVCV3MyWUM1aUxUZnFlczJGSl9oaW1sMEtwOWtpVTdNNFpBUDlPVEw5SnNnNE5CT0FkX2RiVElZdmxTYTZUUG5ycHhOeXV0aEY5b2Z5MmExNnVrSV93OTFCZU1tQ250V1FmR09XWlh6T2wxM0pnYnBzSVdrRW84NlFGT3NndVdWR3lyZTZTd1d2T0NDRmFyME5oZ2VHSk1MYkhhbE5uRUw5SkxISk1BOHZDa09pYWc?oc=5"
+  },
+  {
    "ts": "2026-11-07T08:04:51.225241+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island</b>\n📰 CNBC · Sam 07/11 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5"
@@ -8676,11 +8681,6 @@
    "ts": "2026-11-06T14:49:14.283729+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 39 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.03%\nTaux 10 ans +0.6 pb\nOr +1.4$ (extrême +6.0$, range 12.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-06T14:49:13.007317+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Asia Hopes Democrats Can Provide Relief From Trump’s Iran War, Tariffs: Russell</b>\n📰 EnergyNow.com · Ven 06/11 10:43\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkxtUVNlU2Y5TzBYNEhtRjlQMmUwVXloNTBSOG1td0QwZnRvWkI4N2lTa0VKYk1Oc2lfMDdVekhmWTNHcmxwVFZoemJLUV9ONnZjXzNhczBDM0pzSFNmRWtqbTRoOW04M2JTNHJ2b3JGWnExRnpTbzI0am1Zb3ROTnlBV1NUa0REME9fSE40b3l5cTRzRXkyNEZGSlZndXF5S3ZVWlpMaXB0clE?oc=5"
   }
  ],
  "daily_forecast": {
