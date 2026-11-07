@@ -1012,7 +1012,6 @@
   }
  },
  "seen_news": [
-  "ecc393f4360b",
   "730dba21a89f",
   "42bbfe348a5a",
   "7825d0cbc8c4",
@@ -4011,7 +4010,8 @@
   "d700d199402f",
   "23371541e848",
   "4f2dffb3b8c4",
-  "612fe6c75cff"
+  "612fe6c75cff",
+  "0fbb27eed9c3"
  ],
  "news": [
   {
@@ -4057,6 +4057,18 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0xfX2J3NHZhSXlJSlZyUm1yRElOLXMydmVfQ0djR083M1NfSzhUTDQxOVZlQUg2TVV0SEswb2QzUEN2bTBvNldhTnZORlBQc0t1cGhhU0xnc2U3cE4ydU5qRDB6UmN4WmVzcERwTGpwNm9UekJIQWtQS2NFSXdSSGo2eE1POEU4d0dpemZjYWlwRXJJRm11THU4cm9Gcl8zQkRodzlOdTE0YlJEVkdyZUlaQS1fcVRSVGU3TFk1b1FtTS00SWF6SVJIeXRLOExDT3A2YzV30gHWAUFVX3lxTE5STklyNUxNdElwVE5XX2t6Vm0tNjI4b295Y1lyZW5kMmt4MkhRRUFjNzhsYS1ncDJVbHNtM3JfSEhab3dVVF9FaXpXS1JaQ2wtX2lvdXU4YW1GZEs4Mlg5UXhFWkNwOGRtMGFrMW5kS1Z5ZmV5VHBMNjlGZ1Nnb2tXWjFpdFljSkVtYUlHeFRaX3NMSVlLU2lVMXdDZWlvSV9QaHV4ZlRudjdLTGtNVWxyalcwSVdNZ2t2NS0tWXVpMEZROFpqQ282MDRvc1lYU3ZSMndQMWc?oc=5",
    "published": "2026-11-07T11:06:25+00:00",
    "id": "b216a7924109",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump: US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTNYYmI0Q1pWb21OR0pjaHhsaGRkeG9LckxKMGduampsNFJwbUZsV3BCc2ZBT0hGX2F2bWJiYTE5OXJMVUZYV3Utd2JYUTI1NnltYUxyaWFNWTZaWkhRR0VvcmJpV250bEo4Y3ZYZ3JndDFBaTh0VnlXaF9QaFZNd2lRYU96ei1lV1A0MW1zd0FnQ2Z5cFpKSnRxUFNVMG9fTEtXNnZSSTgtUHBRa3pNVlFGR05NX2ZzNmRmdA?oc=5",
+   "published": "2026-11-07T11:03:58+00:00",
+   "id": "0fbb27eed9c3",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6401,18 +6413,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Heavy missiles will decide Ukraine’s war",
-   "source": "GIS Reports",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNVpFdkdPM0JiZUFEcmFONFB2NnJVYXlJVlBUM014T1JCZkpVWmdYazJ2UmlIZVFNSzF5V1RhdWh3QjVqdEdnRW9LaHIzRjN0ejcwa19MNkl2OU9FNEJNYjJQWXBkRW8?oc=5",
-   "published": "2026-11-06T07:00:00+00:00",
-   "id": "56b57a92744e",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8040,7 +8040,8 @@
   "news|beacfc4a73b1": 1794051099.142274,
   "news|33df100513f4": 1794051100.160488,
   "news|b0f8f3139a9a": 1794053768.5749567,
-  "news|90fdadd5b951": 1794053769.4555416
+  "news|90fdadd5b951": 1794053769.4555416,
+  "news|0fbb27eed9c3": 1794054681.1048357
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8384,6 +8385,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T12:31:21.104901+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump: US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’</b>\n📰 The Times of Israel · Sam 07/11 12:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTNYYmI0Q1pWb21OR0pjaHhsaGRkeG9LckxKMGduampsNFJwbUZsV3BCc2ZBT0hGX2F2bWJiYTE5OXJMVUZYV3Utd2JYUTI1NnltYUxyaWFNWTZaWkhRR0VvcmJpV250bEo4Y3ZYZ3JndDFBaTh0VnlXaF9QaFZNd2lRYU96ei1lV1A0MW1zd0FnQ2Z5cFpKSnRxUFNVMG9fTEtXNnZSSTgtUHBRa3pNVlFGR05NX2ZzNmRmdA?oc=5"
+  },
+  {
    "ts": "2026-11-07T12:16:09.455674+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Vows to Enact 15% Global Levy After Supreme Court Strikes Down Tariffs</b>\n📰 National Association of Wholesaler-Distributors · Sam 07/11 06:28\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnVwMHVrRVBnejNFeUJib2RhczVxM052d0Q5a2M1Vm5LN1djS0g2S0xKbHNWZEYzQVFHYlA2LTJzZnlZMGxQVHkxSlh0cExYUWpycEtLZGJFRmx1NHFHM0dCMlNBRmtCV09sWVJmVUxJVlVBbFdaZ0VJWVdHRVhPMlRmY2hDUDJTNER5VmVfY0dNbDFVUVdIRHhQV3p6eFBPRHJNN2wwVHQ?oc=5"
@@ -8677,11 +8683,6 @@
    "ts": "2026-11-06T17:34:38.775481+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iranian officials distribute iodine pills anticipating American nuclear bombardment</b>\n📰 www.israelhayom.com · Ven 06/11 14:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1lxM0dfMFNUTkFDYjEzcTRZcVZQQWNZYkt5QWtWamdDWS1vSzFIQWczZVZDbU01QXptd015S05Fako0dGYtM2JXWFRCRnNabUZLSWVoMWJld0p6TlAwLU5Rem5XZzJfVTIyRVd1VWtuOS14cjRiSHk1aGowUl9KaFRDbk9MNkdZUUpR?oc=5"
-  },
-  {
-   "ts": "2026-11-06T17:34:37.833528+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>October Non-Farm Payrolls Reignite Expectations for a December Rate Hike! Wall Street Bets Exceed 80% Probability; \"New Fed Communications Channel\": AI Sell-Offs May Become a Policy Variable</b>\n📰 富途牛牛 · Ven 06/11 18:08\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFVZNWRwd19VOVdCZTctaGJoaEZuZDlLblRPM3dGbWVJTFQ3RlVLNm1RSm5VdF9zaXRDQmNQa2p2eHlCR3hFNUNKTVZ1QWdRejNBMVk4Mkk0Yi01cmJySmM2UHdYM0hBdWY5V1pTMFY1Rk5mdjA5cFZxR2ROZWQwXzZtejl5UmFPMmlzcDhoLUtfeDhmOWktbmRJLVVwOXItalc3TVNOUTJOaE5uaUpr?oc=5"
   }
  ],
  "daily_forecast": {
