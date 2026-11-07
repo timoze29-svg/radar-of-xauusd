@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "b09d8bd866d3",
-  "2dd47366371b",
-  "494e15a49c93",
   "7256c7ad4cdd",
   "916e6e37835d",
   "17f23f085046",
@@ -4011,7 +4008,10 @@
   "c54110a1131c",
   "76b0e7b0962e",
   "62f6a5cb8a08",
-  "bac2241dff35"
+  "bac2241dff35",
+  "91bfb4ba9592",
+  "a06dcd495017",
+  "555512c5c872"
  ],
  "news": [
   {
@@ -4046,6 +4046,18 @@
    "published": "2026-11-07T20:48:28+00:00",
    "id": "9c5c6c532ece",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran on Edge: What a Potential U.S. Strike on Pickaxe Mountain Could Mean for the Region — and for Trump",
+   "source": "Latin Times",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm51RHhaU21kTkJyOUIzSV9mVUpqTkNHSVdDR0YxaGtfQlViYTlfNWZxNTNJUEJLb2VJUTBXbmNBbk1KMDRGQTh6bUxCMTVyc2RMczhKZldva3NZdG5TV0N6cEVJdTVTZ2w0R2JRRUZMSy1qNF9LMDJ1WGVyQ2RJZVlPR2NUSnRwN3RRbE1iN2FHbUdoX1E?oc=5",
+   "published": "2026-11-07T20:42:10+00:00",
+   "id": "91bfb4ba9592",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6401,18 +6413,6 @@
    "cat": "taux",
    "raison": "La hausse des rendements réels des Treasuries augmente le coût d'opportunité du métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz",
-   "source": "Bloomberg.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGNzcGItR1hEcEVGTTl2MTBubWZUWnpOVTdKdUNEQUFDbjdiV0ZtbU1xRXhHM3NpRGl0Q1diOWM1a3dUNVJsQ2NXeFZoM2lsZnVjZ0hDWUs2SmJBaEQxWGlTZmUtV1d0N0tPUWRIcU1HRjRKNTVKdFNLZGtsWHJfODY1V2pkdXZIYzZhT2ZWVTVxSEp4dGk1RnpqV3hzWUpfVVZQSVlKR2FFWkY2SzVCSG93?oc=5",
-   "published": "2026-11-06T13:40:04+00:00",
-   "id": "6d798962514c",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Menaces de guerre tarifaire ravivant les anticipations d'inflation et la volatilité des marchés.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8029,7 +8029,8 @@
   "news|e6efc09b1ab9": 1794082564.3710947,
   "news|d70a102d5a3a": 1794085304.2284696,
   "news|0a61de87dbb8": 1794086164.703161,
-  "news|aca2d723605f": 1794089772.548324
+  "news|aca2d723605f": 1794089772.548324,
+  "news|91bfb4ba9592": 1794090680.4359438
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8373,6 +8374,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T22:31:20.436021+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran on Edge: What a Potential U.S. Strike on Pickaxe Mountain Could Mean for the Region — and for Trump</b>\n📰 Latin Times · Sam 07/11 21:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm51RHhaU21kTkJyOUIzSV9mVUpqTkNHSVdDR0YxaGtfQlViYTlfNWZxNTNJUEJLb2VJUTBXbmNBbk1KMDRGQTh6bUxCMTVyc2RMczhKZldva3NZdG5TV0N6cEVJdTVTZ2w0R2JRRUZMSy1qNF9LMDJ1WGVyQ2RJZVlPR2NUSnRwN3RRbE1iN2FHbUdoX1E?oc=5"
+  },
+  {
    "ts": "2026-11-07T22:16:12.548456+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders</b>\n📰 LiveNOW from FOX · Sam 07/11 22:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVpZOXNqTERYTENkQ1BidTFBVzlWUGszazZrOGpZeVRLdUxkUGJzeDJRSWE2NjNrakNRX0RZYmd2c2c5S1R1WFJ4QnF3bDY3ejhmYjMyenJTRnRaTUZMZURPcFBfbTNhaWFWT1hjOFdOalZQVjJFZ3BzRTlodmRqUU9id01FVTlGY08wcURaRFMxaUdHTWU4UXRmOFE3eU5LZlNHMmlQTHZJTDdzeGc?oc=5"
@@ -8666,11 +8672,6 @@
    "ts": "2026-11-07T03:16:15.027588+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion</b>\n📰 The Guardian · Sam 07/11 04:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5"
-  },
-  {
-   "ts": "2026-11-07T02:31:23.941115+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Complete demolition': Trump outlines 4-hour attack plan if Iran deal isn't reached by 8 p.m. ET Tuesday - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 07/11 01:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGltUFRuUS1BMURfRS03WmV4dkprcE5rOER0YVozRERrYWVkYlJwZThQSVRHMVlFdlB0NUtfVC1ZQVk1Zm5JZllHb2hBUzhOMFJqMkl5LXBwRmxKMnRIY0s5c184VmVLRVVzYkIxMF9PSlBKLWpBWmhDTXJwaTEzelZfeEM4MUd6ODU1WXFMbnRIT1NaMWU2Wmc0LUhTSVgtbW42ctIBqgFBVV95cUxQOUZNOFlWUHFaRVlmRVBMS3FldGU0ci14NjEzS2hNT1dsbnp6YlJNX2ZyR1Iyck1hTlRYQW5UdVlJWlppMXpRNG9Fd296dXNod3dYdkFGOEpKT0lVTElQaWVveXZKLWFnSUt1Qmt1QjZIRUhfRERqNFpLZ1lnWjhVTi1VbjhRY0k3Und3ZHN5S0xXS3FKUjlkMmxiYU1BUFRrbjdXUHVMaVdyUQ?oc=5"
   }
  ],
  "daily_forecast": {
