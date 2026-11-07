@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794042947.049491,
+   "ts": 1794065461.9258754,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1012,12 +1012,6 @@
   }
  },
  "seen_news": [
-  "de978114ad9e",
-  "edbb3b7c12d8",
-  "f5240cab5356",
-  "73d49220c61d",
-  "7ea6cf17880f",
-  "bb747e770083",
   "4e3d8ea79b8e",
   "8a4555a08320",
   "53e17f411c83",
@@ -4011,9 +4005,39 @@
   "59715ee81bce",
   "61ed8638beb5",
   "947478334ee8",
-  "01de90b589ca"
+  "01de90b589ca",
+  "35dcce50d520",
+  "ae0b08f23f50",
+  "0c32c7bf192c",
+  "8e0b9dcbadf8",
+  "6f596a86c192",
+  "0faa6b8d8eef"
  ],
  "news": [
+  {
+   "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
+   "source": "The Washington Post",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0hsN092M083bUhrLUJKQW9WdTNtWktqeFpFU1Z3TnJEQktIeXNrMjc0WHJkdzF1TjlmTzBEVzVtX1hGejFWb1BwX2J3TzF1QWtrMXp3cDF3djBlYUl3VkhJVUk0UWxxTWMxdFpoTUlId0Y2bEpISnVXbHZfWjVnVTJTZlRScVJZYnhtZ25xX0k2TURCc1g3VHJIWVB4YlFERmtncTFQRlB4bTBxajV3MGZtc1gxbTJHR05nZERJLURLZw?oc=5",
+   "published": "2026-11-07T15:29:20+00:00",
+   "id": "0c32c7bf192c",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia pounds power facilities around Kyiv, damages major bridge",
+   "source": "CNBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWNSeUFLaWdhWUVsZi1aZFlXblZFbnJ6eklnYXJLM2JzeXMxQmd5Zm9yMFd4VENXS0oxQmtjQ0Q1ay1DU3dpejdhZkdEb29QSktnZkNhVk1QRHB0X0RoWFNtYktCZGtCaC1yYTlIcmI0clBNLWNTNXd4UlNkRHZyMHdHcnhJcEJhdzktYnhQM0x0T2hCQmFBVFVnNm9VZE5TMnc?oc=5",
+   "published": "2026-11-07T15:03:14+00:00",
+   "id": "6f596a86c192",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Zelensky says Russia ramping up strikes to ‘pressure’ Ukraine at talks",
    "source": "Arab News",
@@ -4021,10 +4045,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamhZWElaRk9uSzhCNm10aDRjc0N6aGY5NmZsRGtSZlRWM3ktVENRckdfdEptTUN6OWM5NkJHcURkYk5FRHNoVXVTQjN4NC1zdE81aXpCd2M1WGZWT3FLamtxTEJyNnZ3b0VDQlh5TXJka0VCTEtiTUFoekIwdU1fNXA0TXZQRU5uT3NfRTlnaHhIeVdMcHNJQVl2cUFadmF0N01NbGI3d3ZrMXc?oc=5",
    "published": "2026-11-07T14:49:55+00:00",
    "id": "947478334ee8",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Pression militaire avant négociations, léger soutien réflexe en valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Zelenskyy accuses Russia of ramping up attacks on Ukraine ahead of U.S. talks",
@@ -4033,10 +4057,10 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMTgtUlYzR3A3NjcwaDVQTTVQd0l2cy1sbFN1RFZyWk1FYmtQZ3VjSW01Q1o5NHVRWU1KbkxKS2xLVnR1dlFLZWxUSGNjcVpHRlBpTEFDRzlrQTdFaDR6bDFZcGZpUXN4M2tzZElGNW8?oc=5",
    "published": "2026-11-07T14:20:25+00:00",
    "id": "608f37b44c2e",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Intensification des frappes avant pourparlers, demande modérée d'actifs défensifs.",
+   "method": "IA"
   },
   {
    "title": "Russia may have used North Korean KN-23 missiles to strike Ukrainian energy facility – Zelensky",
@@ -4045,19 +4069,19 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQms4VEJYVk9jT2w1UXNxNEwwd2ZsLUF2N05qSXVGMUxIbEZVc3ZuSHhQa0FLTE1iN2F2WVZwTDNvOElCc3ZVV0l5WFNYTHNZZjdaNHZmSXFOM08wWUpKeGlPSmRTSzJmYXI5aEZrME1xQXZoek0xQmlUR042dkhzOFhBWUh3S0tpWi1aNU5pcDhuNjl6RklxdWJKQWR6R191ck1OMXVUblpFZm1mMWdxQjNmS0Etd2M1bVZpWHV2ckdEWXEwSm9vTVJuel9xLXVaMkhZZzdIX1lTSmdZSkFj0gHfAUFVX3lxTFBCazhUQlhWT2NPbDVRc3E0TDB3ZmwtQXY3TmpJdUYxTEhsRlVzdm5IeFBrQUtMTWI3YXZZVnBMM284SUJzdlVXSXlYU1hMc1lmN1o0dmZJcU4zTzBZSkp4aU9KZFNLMmZhcjloRmswTXFBdmh6TTFCaVRHTjZ2SHM4WEFZSHdLS2laLVo1TmlwOG42OXpGSXF1YkpBZHpHX3VyTU4xdVRuWkVmbWYxZ3FCM2ZLQS13YzVtVmlYdXZyR0RZcTBKb29NUm56X3EtdVoySFlnN0hfWVNKZ1lKQWM?oc=5",
    "published": "2026-11-07T14:12:00+00:00",
    "id": "8a0460ba7d47",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Implication nord-coréenne confirmée, mais impact marginal sur la prime géopolitique globale.",
+   "method": "IA"
   },
   {
-   "title": "Netanyahu, Mossad Planned Iran Strike Before Israel Election, But A US Tip-Off Foiled Operation",
-   "source": "News18",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjBnTkROMnM3YmJBajhmR2RjRFFfLUdXUUxMblMxZkNqUFYtMHM0c1pGS3lOSk1FVUNNWTR2cVNkc2toQm1lQm1ka2xJUDZCbkFfZWY4cHNrb3NGRGxXd0tGc0N6dW41UDF5cExya0VWMndCNmVpUGtIUzJkX0NCelE1dG1wX0pLVUI0cmwycmJiNGNrWWxaT25UZXVOYkZVYTBobFpyTXV3b2p0WlEtQ0FWSWxObmszUjF6ejlMVEV0b1Nqclg4U0R4S3F4OVhBSnlxclhFcVlVZ9IB3wFBVV95cUxNY01WOGlsYXpqbUxHV0ZITVBBQkptSnRsakVBejl3ajVYY0xrMWtKbENlZEpOd284akR0U1hQdDJ6NW54WEh4cFlpVEZqUVJnTUhJR2xWaGFYTEVPMDVBZ3l0TXlPYnhPU19kM2d3T0V4eWFheDZCamI1LVJ5ME1XcDFIbjlMeGpCbEpmNEdINnBVRTk4clhaU3N0QXNObGlDRFpXQkU4aG9CMktkTjlySGZXa1ZWLUlxVVp5UkpkUnBPSXBuVGRtQW1GY2tMdGN0bGVsV0RTN04wUEZJUXVB?oc=5",
-   "published": "2026-11-07T14:08:22+00:00",
-   "id": "42be1511bd60",
-   "impact": 8,
+   "title": "US military targets Iranian defense system in latest round of limited strikes",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOWRlMEhvcWFob2wwdVFDa1Y3aVlBcEgzeXhSM0txRnRjQ0dBRkYxX0EtTEhjV0hQMHAxUS16WGhiQ2xVSjZUN3l3VG1WMkhEb0ZBOTVlYTRxdmNQcENNRm42eTM5V3RxTTdKUVJXWWRPdER3VWNuLVNKZVpJMlh0ODJNT0pFUdIBiwFBVV95cUxNckYzZVRHX1dXSTEtR0RBVXdWR053QVVoNjNaU0Q2TVQyTFdtRE9PZnJoOWNxMUM3eU0td1pCQmgtMUtQZ0NwazBQenJYTmtCdzdkQkZNZmlrS1J5WnFXclRQeVRMVHZJV0x3M3VNUjhFQm40QmFMRHhMQmlxQ19aUUo3TGhES05tNmFN?oc=5",
+   "published": "2026-11-07T14:04:00+00:00",
+   "id": "ae0b08f23f50",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4069,10 +4093,10 @@
    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOVkdNNnozaGhHQktJMlo0TVE4S01Pc2Z0VmljZGg1cGtkR2ZfMmZVQ2xjUXo0SXBYVWtDck9lbWFtX3JGRWJ5eFpfT0pvNVZVSDN0WUs3blR3ZTFJUjNrN2swV2VmVHc4NlVxZDZiOEdvTXlNT194TkRLVFdvSDd0OXhJQTlHYWtBSEF4ZXJIVWUyOHNFVGhfa0JvdEZMVy1YSlpzWG8zWXRLaWtOQTQ1SnRwdlZ0d1lxbGl1dC1Ka21sUTVkV1JXTE1Pa2xyZExIZlZ0QlVyZ3hONGNMZ0luamd4ejZfRENIQVJpNVJ4ZXg3UDlmMW1NMVFuZ25ONk9JTmdseGZpSXFFODRSSkpKTXJQcE0wcnV4Z1FzNGlPTF8xbjNqazVvYVBUUmZpVGxNQS1WR0xldUQwVTdaZkVoOXRMaE9BNEU2VjZqM3VEd0psUzhyWDJDSDRJTzBEVEZleWJoN3RRajE2VVhvVUJzU0xwSHhSTGdkbEdSajFYbGZXT2ox?oc=5",
    "published": "2026-11-07T13:43:18+00:00",
    "id": "76b53792dfd6",
-   "impact": 10,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes directes américaines vers Ormuz ravivant nettement la prime de risque pétrole/or.",
+   "method": "IA"
   },
   {
    "title": "October jobs surge raises odds of December Fed rate hike",
@@ -4105,10 +4129,10 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0lpek9iZm84OUZ4RVJHWUVLWGFjdTByQnkycDB2dzB3cVFSczVDcjNXVmRTUmZabFZNTTFkUjRKbzROalFFbGpxUzd5SmdzeXdFMnB1WUx3UVQ3SEJtY0UzQnAtTEdwWWNXXzlLZm9vMDIyZS1iT3pia2VNelZJbTFzaXYyQkF1eUUyNkh4cklVZ0hSeWFoekVWUG9XWl8tdnE5ck5nRHA3Y3dD?oc=5",
    "published": "2026-11-07T13:08:00+00:00",
    "id": "aa3f44edf044",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite des frappes d'usure en Ukraine, impact refuge minime et déjà pricé.",
+   "method": "IA"
   },
   {
    "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
@@ -4117,10 +4141,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5",
    "published": "2026-11-07T13:03:12+00:00",
    "id": "a2acc9f1c798",
-   "impact": 10,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque persistant d'escalade régionale au Moyen-Orient maintenant un plancher haussier.",
+   "method": "IA"
   },
   {
    "title": "Trump says Russia-Ukraine war may be nearing an end, hopes for agreement",
@@ -4129,22 +4153,10 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YelVmem5PMkVVYmk5Y2drZmtGMG43Q0lCckdxOVhlS2hzak40UkhhQkFTS1djakFZREJ4Qmg5akxGdnI0YTRXaDdtTlZaWmJRRlNr?oc=5",
    "published": "2026-11-07T12:47:41+00:00",
    "id": "040aa842930d",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia Ukraine War",
-   "source": "WV News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUt0azVlNjg4TFl3VHZIZk1HUDVpNzFZcC11RUtoZ01UZkJXZ2VicnpwYnZiX1BGdm5keTd3LXFvSTlacU9kUEc5Q0k4WDNBXzN2bTVpVkY3Sndkby1KSENMM3ZiTDI3V1BzSjVsN09Bemo5OU9yTGtjdktVYkZhS2Y1YUl4QjRaNkM1ZE5wVFRwNU1meXRmOHVrTVdQVVZuc1AzYnZ1UQ?oc=5",
-   "published": "2026-11-07T12:36:04+00:00",
-   "id": "a29ea6ef94a0",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspective d'accord de paix en Ukraine érodant directement la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
@@ -4165,10 +4177,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcm1ydUJRRWR0QWNOU0JUUHdIUUZtN28tZHUzcWxDUjhYT182eXJKdlgwRHU1RmxEWWhsdmZhZTQ5YjZVSmxTU2tvbmpjYVAyOVBRb2ZnRS1LZjF1Zy1WeTBSc1JJYUw3NmlIWjhseXl0ZmREbnhNSmppZ1YzQTVJNDdFTkZMQXh3RUgtVDI1eks?oc=5",
    "published": "2026-11-07T12:00:00+00:00",
    "id": "d700d199402f",
-   "impact": 5,
+   "impact": 2,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Maintien des tarifs douaniers renforçant les risques inflationnistes et la demande d'or.",
+   "method": "IA"
   },
   {
    "title": "Could Trump launch a nuclear strike on Iran's Pickaxe Mountain? What an attack could look like and why November 9 matters",
@@ -4201,10 +4213,10 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0xoU1lGQTExZWlZZkVZY2ZyUk1XY2hMeFBwZzVjOGxSR0g1QUdVR0JJNXJwU0tSYUQxbVlPRV9DeXBkRWR4VGpIcm5RMWNFSXJIbHVYTjJJaHhwMTRZSlU0WGhtX3lESXFka3l5Z3B6OE05d1NOWXJaTmhMNkFHb0FRRGpIRVRpMC1lYUlzTXZjRnVDWkJZOFVBMTFBVFFWMHFFNkRwOGlVMnRHQjlLNzFxSnI3T2dOLVNxLW1Pbw?oc=5",
    "published": "2026-11-07T11:35:53+00:00",
    "id": "b0f8f3139a9a",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes ciblées mais contrebalancées par des signaux d'avancées diplomatiques avec Téhéran.",
+   "method": "IA"
   },
   {
    "title": "Kyiv hit by missiles as Ukraine prepares for talks with Russia and the US",
@@ -4213,10 +4225,10 @@
    "link": "https://www.salisburyjournal.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/",
    "published": "2026-11-07T11:30:00+00:00",
    "id": "b476ff15d15d",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tensions militaires persistantes à la veille de discussions tripartites, soutien timide.",
+   "method": "IA"
   },
   {
    "title": "US in new targeted strikes on Iran as Tehran leaders weigh mediator proposals",
@@ -4225,22 +4237,10 @@
    "link": "https://www.naharnet.com/stories/en/323622-us-in-new-targeted-strikes-on-iran-as-tehran-leaders-weigh-mediator-s-proposals",
    "published": "2026-11-07T11:30:00+00:00",
    "id": "a53189d6a758",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "FIFA partially upholds AFA appeal against post World Cup sanctions ; Nahuel suspension reduced",
-   "source": "bignewsnetwork.com",
-   "theme": "Géopolitique",
-   "link": "http://www.bignewsnetwork.com/news/279418336/fifa-partially-upholds-afa-appeal-against-post-world-cup-sanctions-nahuel-suspension-reduced",
-   "published": "2026-11-07T11:30:00+00:00",
-   "id": "c436de6dabfb",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Action militaire circonscrite coexistant avec des efforts de médiation en cours.",
+   "method": "IA"
   },
   {
    "title": "Inside lame - duck Trump next moves with  vultures circling  – as war fears escalate",
@@ -4249,10 +4249,10 @@
    "link": "https://www.mirror.co.uk/news/politics/donald-trump-midterms-nigel-farage-37852882",
    "published": "2026-11-07T11:30:00+00:00",
    "id": "7fa04441c0a1",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 2,
+   "cat": "politique US",
+   "raison": "Incertitudes politiques à Washington et tensions belliqueuses soutenant la couverture refuge.",
+   "method": "IA"
   },
   {
    "title": "Donald Trump weighs Iran proposal amid 15 - minute air defense strikes Details Of Iran New Nuclear Proposal To The United States",
@@ -4261,10 +4261,10 @@
    "link": "https://www.el-balad.com/17064708",
    "published": "2026-11-07T11:30:00+00:00",
    "id": "e53663bcfad2",
-   "impact": 10,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Proposition nucléaire iranienne ouvrant la voie à une désescalade diplomatique potentielle.",
+   "method": "IA"
   },
   {
    "title": "Nobody hurt or killed in 5 months : Trump says US is not at war with Iran",
@@ -4273,10 +4273,10 @@
    "link": "http://www.iranherald.com/news/279418276/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran",
    "published": "2026-11-07T11:30:00+00:00",
    "id": "1ec797907802",
-   "impact": -4,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "raison": "Rhétorique rassurante de Trump réduisant la probabilité d'un conflit ouvert avec l'Iran.",
+   "method": "IA"
   },
   {
    "title": "Russian strikes hit power facilities around Kyiv , damaging major bridge",
@@ -4285,10 +4285,10 @@
    "link": "https://www.freemalaysiatoday.com/category/world/2026/11/07/russian-strikes-hit-power-facilities-around-kyiv-damaging-major-bridge",
    "published": "2026-11-07T11:30:00+00:00",
    "id": "468f23976be2",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Dégâts matériels en Ukraine s'inscrivant dans la routine du conflit sans rupture.",
+   "method": "IA"
   },
   {
    "title": "Trump’s war secretary Pete Hegseth and Admiral Paparo may ‘soon visit China’",
@@ -4297,10 +4297,10 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0xfX2J3NHZhSXlJSlZyUm1yRElOLXMydmVfQ0djR083M1NfSzhUTDQxOVZlQUg2TVV0SEswb2QzUEN2bTBvNldhTnZORlBQc0t1cGhhU0xnc2U3cE4ydU5qRDB6UmN4WmVzcERwTGpwNm9UekJIQWtQS2NFSXdSSGo2eE1POEU4d0dpemZjYWlwRXJJRm11THU4cm9Gcl8zQkRodzlOdTE0YlJEVkdyZUlaQS1fcVRSVGU3TFk1b1FtTS00SWF6SVJIeXRLOExDT3A2YzV30gHWAUFVX3lxTE5STklyNUxNdElwVE5XX2t6Vm0tNjI4b295Y1lyZW5kMmt4MkhRRUFjNzhsYS1ncDJVbHNtM3JfSEhab3dVVF9FaXpXS1JaQ2wtX2lvdXU4YW1GZEs4Mlg5UXhFWkNwOGRtMGFrMW5kS1Z5ZmV5VHBMNjlGZ1Nnb2tXWjFpdFljSkVtYUlHeFRaX3NMSVlLU2lVMXdDZWlvSV9QaHV4ZlRudjdLTGtNVWxyalcwSVdNZ2t2NS0tWXVpMEZROFpqQ282MDRvc1lYU3ZSMndQMWc?oc=5",
    "published": "2026-11-07T11:06:25+00:00",
    "id": "b216a7924109",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Dialogue militaire sino-américain réduisant marginalement le risque d'affrontement entre grandes puissances.",
+   "method": "IA"
   },
   {
    "title": "Trump: US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
@@ -4309,22 +4309,10 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTNYYmI0Q1pWb21OR0pjaHhsaGRkeG9LckxKMGduampsNFJwbUZsV3BCc2ZBT0hGX2F2bWJiYTE5OXJMVUZYV3Utd2JYUTI1NnltYUxyaWFNWTZaWkhRR0VvcmJpV250bEo4Y3ZYZ3JndDFBaTh0VnlXaF9QaFZNd2lRYU96ei1lV1A0MW1zd0FnQ2Z5cFpKSnRxUFNVMG9fTEtXNnZSSTgtUHBRa3pNVlFGR05NX2ZzNmRmdA?oc=5",
    "published": "2026-11-07T11:03:58+00:00",
    "id": "0fbb27eed9c3",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump, weighing new Iran strikes, faces a divided party and a ticking clock",
-   "source": "Los Angeles Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0VFM19jUHZ4VkdtcTEzUnN2WGYyNGktT0tjQm0yakxKY2diUzMzWHpSbDVkMEVjVHpoTFBmZWhXem9IclU0X01IdXBJa19BU0dHaV9TXzc0Wm9YUHhaNlZmakp1NkhGQlhWUFl2YzcwOGFIUVE5eFktQlJkRVVYV3BocGlLRmZJSVQxZFpscnhGeEliam5rcDBaZlAtaHB6dlpPU3dTRHdOcVVfVENyR2RtMl9CUQ?oc=5",
-   "published": "2026-11-07T11:00:00+00:00",
-   "id": "88ce45db970b",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes qualifiées de mineures, désamorçant les craintes de représailles majeures.",
+   "method": "IA"
   },
   {
    "title": "Democrats could target Trump tariffs after midterm sweep with some GOP aid",
@@ -4333,10 +4321,10 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLVhydEZjQ3ZsSW1yUnlGX2k5SXlSVEN5OElESV9Yd2h4VmZyV09SSkdhZURyOVdLY05FT3UzU01sYm1sa19ybDVNMGtUOUR6ZVRKQlNPa2UxWEhBbzMtN0hBMzVpUjlJb3l3RHV4Zk84bU9ZdElVWlZVUzhvSnBqemVKRHRpMWdfVWhyM0ZjRmhvaTVadlJiLTZoQmNrTWdLYXZmd25wM0s4XzRXdGRIMnJoVUhXWS1pbE1HYW10TV9kS2c5ZE4wTExaUVBGSW54STE2OWRRXzR1eUZURm1aOVhwX3Y?oc=5",
    "published": "2026-11-07T10:48:01+00:00",
    "id": "702fbc363247",
-   "impact": 5,
+   "impact": -2,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Remise en cause des tarifs douaniers réduisant les anticipations d'inflation importée.",
+   "method": "IA"
   },
   {
    "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
@@ -4345,10 +4333,10 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmhpSHU1XzdYTTg0Ujg2OW9PQW5oeWJqa3FFRE9vVWFLX3FtWTBCV0FKMmYxSF9rSEY3Vm9vX0MyaE5GLW92bTBzTFZXbFZKd05MVVdSckstb1RlQjd2N2NwZFpfSG1HRlV6R2VSUnBhZE1oTHBBaFNaaUpic3BRSTJ3UXBhblpmbzB1NExoYWdZMk1QR1o0NDdyNlVHNnRSdVk3QTFB?oc=5",
    "published": "2026-11-07T10:40:15+00:00",
    "id": "86d761661739",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes russes préalables aux pourparlers, soutien géopolitique très limité.",
+   "method": "IA"
   },
   {
    "title": "Netanyahu, Mossad chief planned Iran operation before Israel election, then US stepped in: Report",
@@ -4381,10 +4369,10 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGhpODFUUTZ6Y2pxR2V6eUhSYnVwbk1ZZ1F0QXFBS0JWNGtuTDdqWHR5Y19jMl9zN3J5Wm90TU56ZVk1aUtxTXEtVzBOdTZvSmlVcnItX3l2ZVdfci1GS001Z3VvdEdrcUdwenBld0trSS1kZGV2Zmp4RXRsM2NKRi1xWnU0bUVZYVHSAYwBQVVfeXFMT3BhUVgtU243STlPN0gzTVhROU1KcEtxSEVHQTBSY0p3dzcyWVRWZ1VqeFpUaWdrZlN5WnY5czlOZ0tMeWxYR05ab0ttMUhNb1ZaMmVhSWg1em84NXo0Y2pxbDRjT0lmeU5xcGh5Z2R1Qko4UExiUWV0YWJQdXhsUWwwV2RsZ3lsS0Zwam8?oc=5",
    "published": "2026-11-07T10:10:07+00:00",
    "id": "f41f5a477eb5",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Pressions militaires avant les discussions d'Abou Dhabi, impact mineur sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
@@ -5405,6 +5393,18 @@
    "cat": "géopolitique",
    "raison": "Frictions diplomatiques persistantes mais impact concret très marginal sur les cours.",
    "method": "IA"
+  },
+  {
+   "title": "What Investors Need to Watch as Congress Returns: Debt Ceiling, Iran",
+   "source": "Bloomberg.com",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTFCbkVYQjRhS0VpZkRLbFhYT3lKangtb1d0b3g2WnRjUlFsS1dLal9GZjJzYmlleGlvTTBkT0VDcUFKN3BjZTJFalh1WTdnWkZ4MEEwOTliRTF4Q2xuaF9OVnlrRzBETThGc3RCUWhYLXNVcjFVcGZBRHNpZVh1Q1lRWDFkQXVSZGk5YVhtNzZFSmlNNXZtWWFvT3dPZmxJSEJNYUtTalNwMGw5WlhFWXhyMFFxZW9qNXZqMw?oc=5",
+   "published": "2026-11-06T21:02:38+00:00",
+   "id": "0faa6b8d8eef",
+   "impact": 2,
+   "cat": "politique US",
+   "raison": "haussier or (politique US)",
+   "method": "mots-clés"
   },
   {
    "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
