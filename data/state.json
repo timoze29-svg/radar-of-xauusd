@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "0a0582f62352",
-  "82144cad83f1",
-  "c0aceaf623bf",
-  "9356828cb4a9",
   "c157033cbf19",
   "1cef4ff5d893",
   "e36e2156ec40",
@@ -4011,9 +4007,25 @@
   "9422e82176e6",
   "12e077e295fe",
   "81b16c00fd99",
-  "33df100513f4"
+  "33df100513f4",
+  "7d9afecedc4b",
+  "bd043500ae09",
+  "d7587c462c04",
+  "451373b0cce4"
  ],
  "news": [
+  {
+   "title": "US launches new strikes on Iran as Trump claims progress in talks",
+   "source": "Euronews.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0xoU1lGQTExZWlZZkVZY2ZyUk1XY2hMeFBwZzVjOGxSR0g1QUdVR0JJNXJwU0tSYUQxbVlPRV9DeXBkRWR4VGpIcm5RMWNFSXJIbHVYTjJJaHhwMTRZSlU0WGhtX3lESXFka3l5Z3B6OE05d1NOWXJaTmhMNkFHb0FRRGpIRVRpMC1lYUlzTXZjRnVDWkJZOFVBMTFBVFFWMHFFNkRwOGlVMnRHQjlLNzFxSnI3T2dOLVNxLW1Pbw?oc=5",
+   "published": "2026-11-07T11:35:53+00:00",
+   "id": "bd043500ae09",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Frappes militaires directes accentuant les tensions régionales et la demande de valeur refuge.",
+   "method": "IA"
+  },
   {
    "title": "Trump’s war secretary Pete Hegseth and Admiral Paparo may ‘soon visit China’",
    "source": "South China Morning Post",
@@ -4300,6 +4312,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Poursuite des frappes compensée par l'espoir de négociations diplomatiques.",
+   "method": "IA"
+  },
+  {
+   "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
+   "source": "France 24",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUi1zYk5UaVZlcUMwNklJUjVqQ3c4ZlNvMmw1cWZBaHNpMG1xeGlrX21NQUdRZGhmMk4zdnl6QXVWLTBDQlRPdER1UWRZT2FqNlBCcFpacHJkeEdpbnFaTGxiNDEtM1o0WnN0VmsycVdKZ0tnb0dKS0puMGxzenFhMmZzSzJwR2N2cVhMcG5zaFMydlZvanRFT21Od3ZuRzVON2RFYzFWdFYwajk0S2VuOGNScnJtaE0?oc=5",
+   "published": "2026-11-07T08:08:44+00:00",
+   "id": "451373b0cce4",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Intensification des frappes en Ukraine soutenant modérément la prime de risque géopolitique.",
    "method": "IA"
   },
   {
@@ -5599,6 +5623,18 @@
    "method": "IA"
   },
   {
+   "title": "Soaring Cellular Broadband Costs Contributed Most To Core CPI As Traders Cement Bets For A September Hike",
+   "source": "Stocktwits",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdG1aMUlyNnBuVGVMUVNBQmxEeFptU1ltcWpSNVoyMUI2VEg4VzRMbFQybGlyNVFZNGprVi12eGp1enNqaGtNLVY1MUQ0SE1KQkdzX2VreHEwZng0dlBSZzI5RFhnTmVQLWw2QjJOTm9paFdoM09Va0xfU3ZTOW94ek11d0QwNlg3eWNyTThuWkNMbFZmYnBMMFV3YzNaV292TkdpeF9WS0hYYWxGUWNrZzljbEp1dm9xbEV0TGRhUjlnNU96aHhvaUVxUl9oSVZ2UXZXTkJJYUlZeHVGS0pVenJYRlh2RENuTDF0SHYtODJfQl9rZ19WS1dhMTg4UQ?oc=5",
+   "published": "2026-11-06T13:31:10+00:00",
+   "id": "d7587c462c04",
+   "impact": -5,
+   "cat": "fed",
+   "raison": "Anticipations de hausse des taux Fed haussant les rendements réels, très défavorable à l'or.",
+   "method": "IA"
+  },
+  {
    "title": "Opinion: Why Democrats should use their new power to embrace Trump’s tariffs",
    "source": "MarketWatch",
    "theme": "Tarifs",
@@ -6377,42 +6413,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump blames Iran war for GOP losses in midterms",
-   "source": "NBC News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0hLR3YzZmF4VmhSV2F5NUI1aUhFVVQza3E1cGFDRnJaZjIwOVFGdnVBM3RjMEZTaEV1T0M3NFNpSmNqWnp1ZHNTeExWa2dGMVVZakpnMzdKR05vLW5tUkM0S0x5LUh6VXZVVHJpX1Jwa3UzS0tIdWxFYTAzYkNTZEM3N0lNUFJuN2VaNzZSekliSDUySVdCR2lEU01ycXM?oc=5",
-   "published": "2026-11-06T05:40:19+00:00",
-   "id": "2e0f0aa801b3",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil prices rise amid risk of escalation between the US and Iran — CNBC",
-   "source": "UA.NEWS",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFhFWEhiSHByZHpzNldsZWQ2X2NkMVJocVJTdnZsWl9BWXVaYzJDemtfTjlVWWhIb3lrcGhIb3g1OE9ON0FUMlVuenh0Z2VSalY0cm54LU5xTTd4eFF6R0pMeHNPOUFjMHZ5cHhrMm1CSlJ6WkJvcE5jTWhqZXd4RmpsUEVod08za3dlNkZxQ2V3MUp4QXdmYWxjT1U2djhaWTZDT21lRjA?oc=5",
-   "published": "2026-11-06T05:27:06+00:00",
-   "id": "92843486bb56",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions USA-Iran accrues, stimulant la demande de valeur refuge et les craintes inflationnistes.",
-   "method": "IA"
-  },
-  {
-   "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnVfME83OVozQ0xVaFhEaUU4bG9yRWZBTmNVbHNVRXJLOS1hWFZBdnM4WWpiZTc5bG9aZ3pQcVJuLW85bGx0QWJvSU45bUpZaTdQWWp4cXc0OG8wb242SGdSSEk0VlMzSHlxdjFUbldDZnAzcHpISi1RdUZyNHpPNjZCQmNIdnZJdFFwM1hzTDNLcGNxVk81a3E5SUdlREtoQnhpNU5KNDFEdVdqenVfVWNMVkHSAboBQVVfeXFMTUZFb1JmYk45YmttZGZYSG9CTmpYd19CN2tSTlhaR3ROV3h2dk53bU1Ud3lzbzFtb2FZRkJVX256VkNlam1CanZjVFk0TmVEaGk5NFYtblo1UnBNUDN0TkR6cnFxV2hmUUlJRVJkOFVqRlhiekpkTmxxdkIxVFE5b0VyOWxvZ05sM1N6c05iUEQ4VndkSm1qWXVYZk9GVDZzYzNzVVF3VmliUFgzTF9kb053c2UySHZnU2Jn?oc=5",
-   "published": "2026-11-06T05:15:00+00:00",
-   "id": "c30e7e95513b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Reflète le risque persistant d'embrasement régional au Moyen-Orient, modérément haussier.",
-   "method": "IA"
   }
  ],
  "fired": {
