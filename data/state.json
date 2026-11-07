@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794067274.9632893,
+   "ts": 1794070876.1547291,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1012,8 +1012,6 @@
   }
  },
  "seen_news": [
-  "cf2df258bb2f",
-  "ee3b751b73d3",
   "fd7b079448ca",
   "6d2c000b9cfa",
   "d8f4099b35d9",
@@ -4011,7 +4009,9 @@
   "6a655a623b92",
   "2b1dcbb53c2d",
   "f4549d7f39ac",
-  "abb37acc30ca"
+  "abb37acc30ca",
+  "15f5fa0e6666",
+  "3494c7650944"
  ],
  "news": [
   {
@@ -5479,6 +5479,18 @@
    "method": "IA"
   },
   {
+   "title": "Gold Above $4,000 Post-Midterms: Analysts on CPI, Fed Rate Hike Risks - News and Statistics",
+   "source": "IndexBox",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMklTTUx6NUhLclNIaVY0YmExYzZKN0wwZTJtTVN2VmdqYTVONmVWQlJZb0ktOVdaamJ5bmJBSXBfaHZTR1BCNUdXdGxDVFN5Z3RndzdUbTVULTRTNlBRMi1NOFNrNS1sYVAzZGljU2xEU1NaamptSE8waGNTUE5tRno5S2pFbjI0U09CbDk3OXlWYXZ4NXlXaG9veUVDQVZNNnZoMlptYk10TFdtZnItd2lwMC0zMzNGWURBd19nSnI?oc=5",
+   "published": "2026-11-06T21:21:39+00:00",
+   "id": "15f5fa0e6666",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "What Investors Need to Watch as Congress Returns: Debt Ceiling, Iran",
    "source": "Bloomberg.com",
    "theme": "Dette US",
@@ -6401,25 +6413,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Salma Hayek is a bombshell for special date night with husband François - Henri Pinault",
-   "source": "hellomagazine.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hellomagazine.com/celebrities/933468/salma-hayek-rare-appearance-with-husband-francois-henri-pinaul/",
-   "published": "2026-11-06T11:30:00+00:00",
-   "id": "20d63b35a21b",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|b0a97014fda3": 1792255566.2830272,
-  "news|0d861e0b9c2f": 1792255567.397315,
-  "news|9596570a2b6e": 1792255568.4609876,
-  "news|b6895cf06336": 1792256496.7542806,
   "news|3b996d55038f": 1792258282.910857,
   "news|f08c92f8e1c5": 1792260096.1618495,
   "news|fb6b577cfabe": 1792260967.249831,
@@ -8036,7 +8032,8 @@
   "news|76b53792dfd6": 1794060092.7753093,
   "news|42be1511bd60": 1794061149.4627016,
   "news|169a62fb68ae": 1794067296.0373502,
-  "news|bd2527e4dd7b": 1794068160.510168
+  "news|bd2527e4dd7b": 1794068160.510168,
+  "news|15f5fa0e6666": 1794070906.5625477
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8380,6 +8377,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T17:01:46.562625+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Above $4,000 Post-Midterms: Analysts on CPI, Fed Rate Hike Risks - News and Statistics</b>\n📰 IndexBox · Ven 06/11 22:21\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMklTTUx6NUhLclNIaVY0YmExYzZKN0wwZTJtTVN2VmdqYTVONmVWQlJZb0ktOVdaamJ5bmJBSXBfaHZTR1BCNUdXdGxDVFN5Z3RndzdUbTVULTRTNlBRMi1NOFNrNS1sYVAzZGljU2xEU1NaamptSE8waGNTUE5tRno5S2pFbjI0U09CbDk3OXlWYXZ4NXlXaG9veUVDQVZNNnZoMlptYk10TFdtZnItd2lwMC0zMzNGWURBd19nSnI?oc=5"
+  },
+  {
    "ts": "2026-11-07T16:16:00.510239+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration</b>\n📰 CNN · Sam 07/11 17:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg?oc=5"
@@ -8673,11 +8675,6 @@
    "ts": "2026-11-06T20:16:11.763116+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War</b>\n📰 Newsweek · Ven 06/11 17:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlQzZ2lUX180eGE1Y1ZFanFVeDkzUGF1RUQ0NGV6TWhiWW9ndUVwU3ZoSUNlVFI4WHVUSkdzaXFpXzllUFR5eGo0N1VVUGRZeEdRemJsUWJHWjlqSE9rdzlPQjI5Q29qRnNGR2UwTEd2N25ndDJHSjMtMC1RSTJ5TGgxQUZublU4TzRvekk0S2xHeWZoWkhoTHk5Y2lKQ1dfNG1zTg?oc=5"
-  },
-  {
-   "ts": "2026-11-06T19:31:44.651451+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Identity politics may have cost the Democrats 2024, but the Iran war cost Trump 2026</b>\n📰 Fortune · Ven 06/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTNBZjB4X1ZCbFNrTEROc0RBdnNmbGwtTmpRQjdFQTFneENoTG54cTdQMHZGdnBTQXZHQ1BLSUg5ajJ5WWlac0dOSExDZ0lxbEo3UUc2T3JGY1dVTFNEQmRCbGNIeGFlT3ZlSnVqa1diQXJlcmVwbFBSWUhCNDNHV1BMOEJ0UQ?oc=5"
   }
  ],
  "daily_forecast": {
