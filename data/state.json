@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "ba4398806c2f",
-  "ef244f691513",
-  "88befca57cb5",
   "b2ec660d5fbb",
   "3897887019b2",
   "56d342086db1",
@@ -4011,9 +4008,24 @@
   "76b53792dfd6",
   "a22de92f58e8",
   "80575d63cb5d",
-  "b322d244a71a"
+  "b322d244a71a",
+  "42be1511bd60",
+  "7c15a004ccc0",
+  "feec4f9d03f5"
  ],
  "news": [
+  {
+   "title": "Netanyahu, Mossad Planned Iran Strike Before Israel Election, But A US Tip-Off Foiled Operation",
+   "source": "News18",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjBnTkROMnM3YmJBajhmR2RjRFFfLUdXUUxMblMxZkNqUFYtMHM0c1pGS3lOSk1FVUNNWTR2cVNkc2toQm1lQm1ka2xJUDZCbkFfZWY4cHNrb3NGRGxXd0tGc0N6dW41UDF5cExya0VWMndCNmVpUGtIUzJkX0NCelE1dG1wX0pLVUI0cmwycmJiNGNrWWxaT25UZXVOYkZVYTBobFpyTXV3b2p0WlEtQ0FWSWxObmszUjF6ejlMVEV0b1Nqclg4U0R4S3F4OVhBSnlxclhFcVlVZ9IB3wFBVV95cUxNY01WOGlsYXpqbUxHV0ZITVBBQkptSnRsakVBejl3ajVYY0xrMWtKbENlZEpOd284akR0U1hQdDJ6NW54WEh4cFlpVEZqUVJnTUhJR2xWaGFYTEVPMDVBZ3l0TXlPYnhPU19kM2d3T0V4eWFheDZCamI1LVJ5ME1XcDFIbjlMeGpCbEpmNEdINnBVRTk4clhaU3N0QXNObGlDRFpXQkU4aG9CMktkTjlySGZXa1ZWLUlxVVp5UkpkUnBPSXBuVGRtQW1GY2tMdGN0bGVsV0RTN04wUEZJUXVB?oc=5",
+   "published": "2026-11-07T14:08:22+00:00",
+   "id": "42be1511bd60",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump confirms new US strikes on Iran near Strait of Hormuz",
    "source": "KOKI FOX 23",
@@ -6401,18 +6413,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Opinion | Trump’s Tariffs Have Failed. Bring Back Reaganomics.",
-   "source": "The New York Times",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
-   "published": "2026-11-06T10:02:11+00:00",
-   "id": "997469e49809",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8045,7 +8045,8 @@
   "news|e53663bcfad2": 1794056689.2644117,
   "news|d5f323fbaf0c": 1794057549.2817445,
   "news|a2acc9f1c798": 1794059165.7485924,
-  "news|76b53792dfd6": 1794060092.7753093
+  "news|76b53792dfd6": 1794060092.7753093,
+  "news|42be1511bd60": 1794061149.4627016
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8389,6 +8390,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T14:19:09.462825+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu, Mossad Planned Iran Strike Before Israel Election, But A US Tip-Off Foiled Operation</b>\n📰 News18 · Sam 07/11 15:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjBnTkROMnM3YmJBajhmR2RjRFFfLUdXUUxMblMxZkNqUFYtMHM0c1pGS3lOSk1FVUNNWTR2cVNkc2toQm1lQm1ka2xJUDZCbkFfZWY4cHNrb3NGRGxXd0tGc0N6dW41UDF5cExya0VWMndCNmVpUGtIUzJkX0NCelE1dG1wX0pLVUI0cmwycmJiNGNrWWxaT25UZXVOYkZVYTBobFpyTXV3b2p0WlEtQ0FWSWxObmszUjF6ejlMVEV0b1Nqclg4U0R4S3F4OVhBSnlxclhFcVlVZ9IB3wFBVV95cUxNY01WOGlsYXpqbUxHV0ZITVBBQkptSnRsakVBejl3ajVYY0xrMWtKbENlZEpOd284akR0U1hQdDJ6NW54WEh4cFlpVEZqUVJnTUhJR2xWaGFYTEVPMDVBZ3l0TXlPYnhPU19kM2d3T0V4eWFheDZCamI1LVJ5ME1XcDFIbjlMeGpCbEpmNEdINnBVRTk4clhaU3N0QXNObGlDRFpXQkU4aG9CMktkTjlySGZXa1ZWLUlxVVp5UkpkUnBPSXBuVGRtQW1GY2tMdGN0bGVsV0RTN04wUEZJUXVB?oc=5"
+  },
+  {
    "ts": "2026-11-07T14:01:32.775385+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump confirms new US strikes on Iran near Strait of Hormuz</b>\n📰 KOKI FOX 23 · Sam 07/11 14:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihANBVV95cUxOVkdNNnozaGhHQktJMlo0TVE4S01Pc2Z0VmljZGg1cGtkR2ZfMmZVQ2xjUXo0SXBYVWtDck9lbWFtX3JGRWJ5eFpfT0pvNVZVSDN0WUs3blR3ZTFJUjNrN2swV2VmVHc4NlVxZDZiOEdvTXlNT194TkRLVFdvSDd0OXhJQTlHYWtBSEF4ZXJIVWUyOHNFVGhfa0JvdEZMVy1YSlpzWG8zWXRLaWtOQTQ1SnRwdlZ0d1lxbGl1dC1Ka21sUTVkV1JXTE1Pa2xyZExIZlZ0QlVyZ3hONGNMZ0luamd4ejZfRENIQVJpNVJ4ZXg3UDlmMW1NMVFuZ25ONk9JTmdseGZpSXFFODRSSkpKTXJQcE0wcnV4Z1FzNGlPTF8xbjNqazVvYVBUUmZpVGxNQS1WR0xldUQwVTdaZkVoOXRMaE9BNEU2VjZqM3VEd0psUzhyWDJDSDRJTzBEVEZleWJoN3RRajE2VVhvVUJzU0xwSHhSTGdkbEdSajFYbGZXT2ox?oc=5"
@@ -8682,11 +8688,6 @@
    "ts": "2026-11-06T19:31:42.913040+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Herzog concludes coalition talks; Zamir: IDF ready to strike any enemy TV7 Israel - 6 Nov.</b>\n📰 TV7 Israel News · Ven 06/11 20:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE83UVRKb3RFUWxaN2NZUE4yS3I5QW16SzhiYktCY2F6bVU5TnlsdUpUTVZEZkg3QjZBY3hJM2R1OHZmM0JFY0d2OEhhQVFubG1XcG9rNXpzSUdjZGVhVEVseXl0SW9udVUtcTVfV0NCZW03aDVUTmE4?oc=5"
-  },
-  {
-   "ts": "2026-11-06T19:01:38.578641+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>As Trump weighs Iran strikes, possible nuclear opening emerges</b>\n📰 Al-Monitor · Ven 06/11 18:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdqSVpGZ3h3WmZrN3J0SWxWMWZsek8zRURDMFV2YWtPQ1FEX2R0MWNCM0ZJR0pGdllGUThNV1NyMWZqSnZXUmFKOGZJU1Z4a1pFUEtqRWFNQjE2UElWVFREU1piWGNWRlVBUF93QkRueXY0NTI4elpNdWFJa2dpUVF0M1BHMHNxVEJlTDBweW1LOUVZcUR5MGZ6ODloOHBVQUZRdWtR?oc=5"
   }
  ],
  "daily_forecast": {
