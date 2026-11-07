@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "713000876d49",
-  "c1b7985765be",
-  "8d62aa959008",
-  "a3d3285051e5",
   "ba4398806c2f",
   "ef244f691513",
   "88befca57cb5",
@@ -4011,9 +4007,25 @@
   "a2acc9f1c798",
   "aa3f44edf044",
   "fb151be65bf3",
-  "a43713894fab"
+  "a43713894fab",
+  "76b53792dfd6",
+  "a22de92f58e8",
+  "80575d63cb5d",
+  "b322d244a71a"
  ],
  "news": [
+  {
+   "title": "Trump confirms new US strikes on Iran near Strait of Hormuz",
+   "source": "KOKI FOX 23",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOVkdNNnozaGhHQktJMlo0TVE4S01Pc2Z0VmljZGg1cGtkR2ZfMmZVQ2xjUXo0SXBYVWtDck9lbWFtX3JGRWJ5eFpfT0pvNVZVSDN0WUs3blR3ZTFJUjNrN2swV2VmVHc4NlVxZDZiOEdvTXlNT194TkRLVFdvSDd0OXhJQTlHYWtBSEF4ZXJIVWUyOHNFVGhfa0JvdEZMVy1YSlpzWG8zWXRLaWtOQTQ1SnRwdlZ0d1lxbGl1dC1Ka21sUTVkV1JXTE1Pa2xyZExIZlZ0QlVyZ3hONGNMZ0luamd4ejZfRENIQVJpNVJ4ZXg3UDlmMW1NMVFuZ25ONk9JTmdseGZpSXFFODRSSkpKTXJQcE0wcnV4Z1FzNGlPTF8xbjNqazVvYVBUUmZpVGxNQS1WR0xldUQwVTdaZkVoOXRMaE9BNEU2VjZqM3VEd0psUzhyWDJDSDRJTzBEVEZleWJoN3RRajE2VVhvVUJzU0xwSHhSTGdkbEdSajFYbGZXT2ox?oc=5",
+   "published": "2026-11-07T13:43:18+00:00",
+   "id": "76b53792dfd6",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "October jobs surge raises odds of December Fed rate hike",
    "source": "Crypto Briefing",
@@ -6401,18 +6413,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump’s Iran war has left America weaker and less reliable, says Katulis",
-   "source": "Decode39",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObzhobThtMTFzem43LWxzNDBSdy1fc0hoUWdnVUlfcTBKN3dLNXRCbEU3R21tRUVfUHVsLUFtX1AyalY4R0o5cTNtVFQwdHBheTRxZGpPQkMxY1ZxWmplUGtDZGJYYUlidldHZ1lWNUsyT3pZc1BnTXQxeDM1R0F0Z00yZUtyMDA1R0NWbElXa1ZlaDMxM3pxbGJxdFVKVUU?oc=5",
-   "published": "2026-11-06T10:01:39+00:00",
-   "id": "687ef9381f25",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8044,7 +8044,8 @@
   "news|7fa04441c0a1": 1794056688.256329,
   "news|e53663bcfad2": 1794056689.2644117,
   "news|d5f323fbaf0c": 1794057549.2817445,
-  "news|a2acc9f1c798": 1794059165.7485924
+  "news|a2acc9f1c798": 1794059165.7485924,
+  "news|76b53792dfd6": 1794060092.7753093
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8388,6 +8389,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T14:01:32.775385+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump confirms new US strikes on Iran near Strait of Hormuz</b>\n📰 KOKI FOX 23 · Sam 07/11 14:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihANBVV95cUxOVkdNNnozaGhHQktJMlo0TVE4S01Pc2Z0VmljZGg1cGtkR2ZfMmZVQ2xjUXo0SXBYVWtDck9lbWFtX3JGRWJ5eFpfT0pvNVZVSDN0WUs3blR3ZTFJUjNrN2swV2VmVHc4NlVxZDZiOEdvTXlNT194TkRLVFdvSDd0OXhJQTlHYWtBSEF4ZXJIVWUyOHNFVGhfa0JvdEZMVy1YSlpzWG8zWXRLaWtOQTQ1SnRwdlZ0d1lxbGl1dC1Ka21sUTVkV1JXTE1Pa2xyZExIZlZ0QlVyZ3hONGNMZ0luamd4ejZfRENIQVJpNVJ4ZXg3UDlmMW1NMVFuZ25ONk9JTmdseGZpSXFFODRSSkpKTXJQcE0wcnV4Z1FzNGlPTF8xbjNqazVvYVBUUmZpVGxNQS1WR0xldUQwVTdaZkVoOXRMaE9BNEU2VjZqM3VEd0psUzhyWDJDSDRJTzBEVEZleWJoN3RRajE2VVhvVUJzU0xwSHhSTGdkbEdSajFYbGZXT2ox?oc=5"
+  },
+  {
    "ts": "2026-11-07T13:46:05.748665+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections</b>\n📰 CNBC · Sam 07/11 14:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5"
@@ -8681,11 +8687,6 @@
    "ts": "2026-11-06T19:01:38.578641+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>As Trump weighs Iran strikes, possible nuclear opening emerges</b>\n📰 Al-Monitor · Ven 06/11 18:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdqSVpGZ3h3WmZrN3J0SWxWMWZsek8zRURDMFV2YWtPQ1FEX2R0MWNCM0ZJR0pGdllGUThNV1NyMWZqSnZXUmFKOGZJU1Z4a1pFUEtqRWFNQjE2UElWVFREU1piWGNWRlVBUF93QkRueXY0NTI4elpNdWFJa2dpUVF0M1BHMHNxVEJlTDBweW1LOUVZcUR5MGZ6ODloOHBVQUZRdWtR?oc=5"
-  },
-  {
-   "ts": "2026-11-06T18:31:34.831208+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.6 pb\nOr +4.7$ (extrême +5.0$, range 6.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
