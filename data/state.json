@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794022262.49626,
+   "ts": 1794025863.0225558,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "85a904e2b48a",
-  "087df4b4c799",
-  "c56491203686",
   "5a5d93fc0444",
   "6563e9f40283",
   "6e064c8a48f3",
@@ -4011,7 +4008,10 @@
   "67bc88b62519",
   "5ce76ed046db",
   "070e8b586603",
-  "462ce92181b2"
+  "462ce92181b2",
+  "47e07a523a8d",
+  "085629d5cc0b",
+  "1cb68ca1f4ce"
  ],
  "news": [
   {
@@ -4072,6 +4072,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran war live: Trump says US is ‘doing very well with Iran’",
+   "source": "Arabian Business",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-07T02:42:48+00:00",
+   "id": "085629d5cc0b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6401,18 +6413,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Yes, Trump Was Already Running Out of Gas Before the Iran War",
-   "source": "National Review",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmgwRWliUW8tekEycW5WQW1Cb3hPWGFqa01Uam95bHB5OGF3VndhVUVGLUpNTnNMN2lyOVVrYmJLeE1FTk90X2RrUFVWOHQ0MVdLa1RSUkFYTUJlTGJBQk1tWEZEV3FRbDFONHNBZTFyU1FGWklUM2Z6eVJKVXJJVUlER19VNWFQU3NfLXZ3a3RKWUZOU1BxOXlUTzN6b29q0gGmAUFVX3lxTE55aV9weF9zWllEU0J0LTh1LVVjcG02NEJJOW05a1NJRlhKM2tMcnVzc2djaVQxYXRzOG9SLTFId3pUdGpBeUZsS2pBSGJVMno4V1g0V0NjekxiU18wZWx4aEstalRUWGYxZFl1ZG5xcTE5aVFOYzhLc1FHT0NtU1pWVWNHRHRCY0dIekFJSS1KNnBielJGcWVNTFhZd0dWU2xNcG12enc?oc=5",
-   "published": "2026-11-05T19:51:23+00:00",
-   "id": "937e04df4fa0",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Incertitude politique et enlisement militaire soutenant légèrement l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8026,7 +8026,8 @@
   "news|6c07767bfdc7": 1794022284.626771,
   "news|38d2bde08682": 1794024102.1811547,
   "news|b46dd0a4bb3d": 1794024103.1724925,
-  "news|5ce76ed046db": 1794024972.0345223
+  "news|5ce76ed046db": 1794024972.0345223,
+  "news|085629d5cc0b": 1794025882.61452
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8370,6 +8371,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T04:31:22.614609+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says US is ‘doing very well with Iran’</b>\n📰 Arabian Business · Sam 07/11 03:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-07T04:16:12.034613+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>U.S. Jobs Report Blows Past Forecasts, Dollar Surges to Upper 158 Yen Range; December Rate Hike Odds Hit 80%</b>\n📰 BigGo Finance · Ven 06/11 22:55\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBjeDZGVnl1a3p1MDJzRXFIQl95R0ZLUFVOSThBMEJkbjdGZkc5VUNKTTN5bFJTQTBrQmlnTjM4V0NZX1NMWkdKNFd1VHhidFdFREVENS1NTW5tc0FLTUV2ZVh4NlFQVmRXeVNQWmtuV0Z2V0NYb1E?oc=5"
@@ -8663,11 +8669,6 @@
    "ts": "2026-11-06T12:34:36.231766+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : IRAN</b>\n6 articles en 45 min (normale ≈ 1.9) → un sujet s'emballe\n\n🥇 Impact moyen : +8.3/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+10) Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News — <i>aljazeera.com</i>\n• (+10) Ted Cruz slams Trump's tariffs and says Iran war needs to end — <i>Houston Chronicle</i>\n• (+8) US Congress cant stop Trump : Shashi Tharoor on possibility of fresh strikes on Iran — <i>heraldglobe.com</i>\n• (+8) Report: Trump Weighs Options for Resuming War With Iran, as Soon as November 9 — <i>Haaretz</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-11-06T12:34:35.411514+00:00",
-   "kind": "news_burst",
-   "text": "🔥 <b>NEWS EN RAFALE : TRUMP</b>\n6 articles en 45 min (normale ≈ 1.8) → un sujet s'emballe\n\n🥇 Impact moyen : +7.5/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+10) Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News — <i>aljazeera.com</i>\n• (+10) Ted Cruz slams Trump's tariffs and says Iran war needs to end — <i>Houston Chronicle</i>\n• (+8) US Congress cant stop Trump : Shashi Tharoor on possibility of fresh strikes on Iran — <i>heraldglobe.com</i>\n• (+8) Report: Trump Weighs Options for Resuming War With Iran, as Soon as November 9 — <i>Haaretz</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
   }
  ],
  "daily_forecast": {
