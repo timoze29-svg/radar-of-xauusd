@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "e679c38e6ee8",
-  "ebbb623f11f5",
-  "22053ebbd069",
   "4a5ad3109ba0",
   "950ecc4c21f4",
   "381a25da7802",
@@ -4011,9 +4008,24 @@
   "67abe642e5f1",
   "7f836123916c",
   "524c68046efb",
-  "561d10c18f43"
+  "561d10c18f43",
+  "c30962c81fb0",
+  "64be9c4d16d8",
+  "8c4a6183bf22"
  ],
  "news": [
+  {
+   "title": "Netanyahu wanted Iran strike before Israel election, but US intervened to stop it: Report",
+   "source": "WION",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1Telc5eEF6bXl4akQ4bEc2MS12YWNLSElsZ1dtMjlWZHpDbFZTTnMxUWUtaWFaVVZVRHN2MzNxXzUtUVlMdUJPdVNrTDN1Sy1pNWRyMjhkZWhNNndUcVZsLVpoWkdNYjVtRVhzdTBoX1FMekRqSlA0cmxlMHFLRVFmVm9JSllvWTRxRHM0NTU2N1FhWkhldDItVHkwLWw0UWF4QVd6aUlRZXg5VzQwbUtqTFVpU1EyWHRGanE0X0kyVVl0eG56U2Rfc9IB0AFBVV95cUxNeVFfTDhTVE1LeC1TWlhRdzJLTnUtdWN0UlNzYmxvMFM2eTZJUVNWVVViWXAzb09YNUtYaTBVbnZNelNwbEx6ZHcxQ3paX24wejdqOW16YklHOUh1TUlKTFd3QUFoTElaZ1o3UjdZYXludldNNzBqZG9LR0JvMHo2and3UFJHRzBlYW5BUmVvQU1RMENTd3BKdVZ2TGJBVTl2MVJRSlhmNHlJeEpfcGp0a3pwaGZweUNSY2Rid3RnemlXNk1DM1EyVm16eEJ2Y0pH?oc=5",
+   "published": "2026-11-07T17:45:00+00:00",
+   "id": "64be9c4d16d8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "3 Financial Stocks Retail Investors Are Watching As Treasury Yields Stay Higher",
    "source": "Yahoo Finance Singapore",
@@ -6401,22 +6413,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Professor :  I doubt the election will prevent Trump from imposing new tariff Democrat victory offers seafood little tariff relief Trade law expert deals blow to seafood industry tariff hopes after midterms",
-   "source": "intrafish.com",
-   "theme": "Géopolitique",
-   "link": "https://www.intrafish.com/trade/why-democrats-win-wont-stop-trumps-tariffs/2-1-2069948",
-   "published": "2026-11-06T11:30:00+00:00",
-   "id": "9e3ad05feb43",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|f08c92f8e1c5": 1792260096.1618495,
   "news|fb6b577cfabe": 1792260967.249831,
   "news|0fe6cf29e078": 1792260968.3631911,
   "news|6a877583d2eb": 1792260969.414059,
@@ -8033,7 +8032,8 @@
   "news|169a62fb68ae": 1794067296.0373502,
   "news|bd2527e4dd7b": 1794068160.510168,
   "news|15f5fa0e6666": 1794070906.5625477,
-  "news|9a55fa2a56e9": 1794072687.1358411
+  "news|9a55fa2a56e9": 1794072687.1358411,
+  "news|64be9c4d16d8": 1794074496.534629
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8377,6 +8377,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T18:01:36.534717+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu wanted Iran strike before Israel election, but US intervened to stop it: Report</b>\n📰 WION · Sam 07/11 18:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1Telc5eEF6bXl4akQ4bEc2MS12YWNLSElsZ1dtMjlWZHpDbFZTTnMxUWUtaWFaVVZVRHN2MzNxXzUtUVlMdUJPdVNrTDN1Sy1pNWRyMjhkZWhNNndUcVZsLVpoWkdNYjVtRVhzdTBoX1FMekRqSlA0cmxlMHFLRVFmVm9JSllvWTRxRHM0NTU2N1FhWkhldDItVHkwLWw0UWF4QVd6aUlRZXg5VzQwbUtqTFVpU1EyWHRGanE0X0kyVVl0eG56U2Rfc9IB0AFBVV95cUxNeVFfTDhTVE1LeC1TWlhRdzJLTnUtdWN0UlNzYmxvMFM2eTZJUVNWVVViWXAzb09YNUtYaTBVbnZNelNwbEx6ZHcxQ3paX24wejdqOW16YklHOUh1TUlKTFd3QUFoTElaZ1o3UjdZYXludldNNzBqZG9LR0JvMHo2and3UFJHRzBlYW5BUmVvQU1RMENTd3BKdVZ2TGJBVTl2MVJRSlhmNHlJeEpfcGp0a3pwaGZweUNSY2Rid3RnemlXNk1DM1EyVm16eEJ2Y0pH?oc=5"
+  },
+  {
    "ts": "2026-11-07T17:31:27.135931+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar surges after robust jobs report fuels rate hike expectations</b>\n📰 The San Joaquin Valley Sun · Sam 07/11 06:57\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQcy1ZUFhKbWZWc0Y1UElrMzhqOEw5bm90SkJnLWFUVjI0bmVzVmdZV2RYRDBOOHkyUWJwNzZ5S0pFMUxsYnh3TFJ1LThiT29yTWtrTEh1RGEyWENXc1VzeDJ1bFZjWWFSOEdLVmhuVVVPYTVzMnJ2akFKVGVzUncxQi1rQ1hpQW90TTJKdElqOEdEVVlxNnc?oc=5"
@@ -8670,11 +8675,6 @@
    "ts": "2026-11-06T22:01:34.399555+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Opportunity or trap? Vance's Iran war remarks divide Tehran</b>\n📰 Iran International · Ven 06/11 22:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FQ19keWd1THhJMHhHZzY0QVNncVZNckFjRXdLYllGcDZ3bHFZczhVY2lNSFdlN1BMUS0zSmZIcFVfQVpEUDU3bnJUb1ZieUhuUXc?oc=5"
-  },
-  {
-   "ts": "2026-11-06T21:01:41.050689+00:00",
-   "kind": "recap",
-   "text": "🌙 <b>BILAN DU JOUR — VENDREDI 06/11</b>\nOr : <b>-25.5$</b> depuis minuit · plus haut 4116.2 (01h20) / plus bas 4035.1 (14h30) · range 81$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📈 HAUSSIER (+23) à 4056.2 → maintenant 4073.0 (+16.8$)\nRange : 81$ réalisé vs ~81$ attendu (100%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 58% de bonnes directions (11 ✅ / 8 ❌ / 1 ➖ sur 20 jours)\n20 derniers jours : 58%  ·  ✅❌❌✅❌❌➖✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.74% · Taux 10 ans +2.2 pb · Pétrole -0.45% · EUR/USD -0.69% · S&P 500 +0.25% · Argent +0.26%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) As Trump weighs Iran strikes, possible nuclear opening emerges\n🟢 (+10) US-Israel-Iran War Latest Live News: Iran Claims IRGC Shot Down US MQ-1 Drone Over Qeshm Island as Strait of Hormuz Tensions Escalate Amid Rising Gulf Tensions\n🔴 (-10) US October Nonfarm Payrolls Surge by 165,000; Traders Bet on Fed Rate Hike in December\n🟢 (+10) Iranian officials distribute iodine pills anticipating American nuclear bombardment\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
   }
  ],
  "daily_forecast": {
