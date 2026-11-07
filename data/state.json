@@ -1012,13 +1012,6 @@
   }
  },
  "seen_news": [
-  "a15073c743b3",
-  "90ad774f2c8e",
-  "780a156faeff",
-  "0d557509ee15",
-  "addabe1fdd7b",
-  "9cac17f7fd5c",
-  "25e3b22ae9f4",
   "11a6f4ebd571",
   "244f1f4db837",
   "ff908db185e2",
@@ -4011,7 +4004,14 @@
   "3494c7650944",
   "8a0d955d7f18",
   "cd979e58fe9a",
-  "098bf01ad4b1"
+  "098bf01ad4b1",
+  "bc27fc41ac52",
+  "048709c5fa6f",
+  "9a55fa2a56e9",
+  "5c0df9c9f0c5",
+  "7d77a0c7a670",
+  "831b09a31e45",
+  "67abe642e5f1"
  ],
  "news": [
   {
@@ -5009,6 +5009,18 @@
    "cat": "géopolitique",
    "raison": "Focalisation sur le nucléaire iranien entretenant la prime de risque au Moyen-Orient.",
    "method": "IA"
+  },
+  {
+   "title": "Dollar surges after robust jobs report fuels rate hike expectations",
+   "source": "The San Joaquin Valley Sun",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcy1ZUFhKbWZWc0Y1UElrMzhqOEw5bm90SkJnLWFUVjI0bmVzVmdZV2RYRDBOOHkyUWJwNzZ5S0pFMUxsYnh3TFJ1LThiT29yTWtrTEh1RGEyWENXc1VzeDJ1bFZjWWFSOEdLVmhuVVVPYTVzMnJ2akFKVGVzUncxQi1rQ1hpQW90TTJKdElqOEdEVVlxNnc?oc=5",
+   "published": "2026-11-07T05:57:57+00:00",
+   "id": "9a55fa2a56e9",
+   "impact": -10,
+   "cat": "fed",
+   "raison": "baissier or (dollar, fed)",
+   "method": "mots-clés"
   },
   {
    "title": "US Democrats move to overturn Trump’s tariffs against Canada: Report",
@@ -6401,22 +6413,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Eva Longoria is the ultimate Hollywood bombshell as she sizzles in plunging dynamite dress of dreams",
-   "source": "hellomagazine.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hellomagazine.com/fashion/celebrity-style/933513/eva-longoria-ultimate-hollywood-bombshell-sizzles-dress-dreams/",
-   "published": "2026-11-06T11:30:00+00:00",
-   "id": "47ac918b978f",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|3b996d55038f": 1792258282.910857,
   "news|f08c92f8e1c5": 1792260096.1618495,
   "news|fb6b577cfabe": 1792260967.249831,
   "news|0fe6cf29e078": 1792260968.3631911,
@@ -8033,7 +8032,8 @@
   "news|42be1511bd60": 1794061149.4627016,
   "news|169a62fb68ae": 1794067296.0373502,
   "news|bd2527e4dd7b": 1794068160.510168,
-  "news|15f5fa0e6666": 1794070906.5625477
+  "news|15f5fa0e6666": 1794070906.5625477,
+  "news|9a55fa2a56e9": 1794072687.1358411
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8377,6 +8377,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T17:31:27.135931+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar surges after robust jobs report fuels rate hike expectations</b>\n📰 The San Joaquin Valley Sun · Sam 07/11 06:57\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQcy1ZUFhKbWZWc0Y1UElrMzhqOEw5bm90SkJnLWFUVjI0bmVzVmdZV2RYRDBOOHkyUWJwNzZ5S0pFMUxsYnh3TFJ1LThiT29yTWtrTEh1RGEyWENXc1VzeDJ1bFZjWWFSOEdLVmhuVVVPYTVzMnJ2akFKVGVzUncxQi1rQ1hpQW90TTJKdElqOEdEVVlxNnc?oc=5"
+  },
+  {
    "ts": "2026-11-07T17:01:46.562625+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Above $4,000 Post-Midterms: Analysts on CPI, Fed Rate Hike Risks - News and Statistics</b>\n📰 IndexBox · Ven 06/11 22:21\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMklTTUx6NUhLclNIaVY0YmExYzZKN0wwZTJtTVN2VmdqYTVONmVWQlJZb0ktOVdaamJ5bmJBSXBfaHZTR1BCNUdXdGxDVFN5Z3RndzdUbTVULTRTNlBRMi1NOFNrNS1sYVAzZGljU2xEU1NaamptSE8waGNTUE5tRno5S2pFbjI0U09CbDk3OXlWYXZ4NXlXaG9veUVDQVZNNnZoMlptYk10TFdtZnItd2lwMC0zMzNGWURBd19nSnI?oc=5"
@@ -8670,11 +8675,6 @@
    "ts": "2026-11-06T21:01:41.050689+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — VENDREDI 06/11</b>\nOr : <b>-25.5$</b> depuis minuit · plus haut 4116.2 (01h20) / plus bas 4035.1 (14h30) · range 81$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📈 HAUSSIER (+23) à 4056.2 → maintenant 4073.0 (+16.8$)\nRange : 81$ réalisé vs ~81$ attendu (100%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 58% de bonnes directions (11 ✅ / 8 ❌ / 1 ➖ sur 20 jours)\n20 derniers jours : 58%  ·  ✅❌❌✅❌❌➖✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.74% · Taux 10 ans +2.2 pb · Pétrole -0.45% · EUR/USD -0.69% · S&P 500 +0.25% · Argent +0.26%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) As Trump weighs Iran strikes, possible nuclear opening emerges\n🟢 (+10) US-Israel-Iran War Latest Live News: Iran Claims IRGC Shot Down US MQ-1 Drone Over Qeshm Island as Strait of Hormuz Tensions Escalate Amid Rising Gulf Tensions\n🔴 (-10) US October Nonfarm Payrolls Surge by 165,000; Traders Bet on Fed Rate Hike in December\n🟢 (+10) Iranian officials distribute iodine pills anticipating American nuclear bombardment\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
-  },
-  {
-   "ts": "2026-11-06T20:16:11.763116+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War</b>\n📰 Newsweek · Ven 06/11 17:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlQzZ2lUX180eGE1Y1ZFanFVeDkzUGF1RUQ0NGV6TWhiWW9ndUVwU3ZoSUNlVFI4WHVUSkdzaXFpXzllUFR5eGo0N1VVUGRZeEdRemJsUWJHWjlqSE9rdzlPQjI5Q29qRnNGR2UwTEd2N25ndDJHSjMtMC1RSTJ5TGgxQUZublU4TzRvekk0S2xHeWZoWkhoTHk5Y2lKQ1dfNG1zTg?oc=5"
   }
  ],
  "daily_forecast": {
