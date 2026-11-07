@@ -526,14 +526,13 @@
    }
   },
   "cot": {
-   "ts": 1793984480.40413,
+   "ts": 1794028545.1536026,
    "data": {
-    "date": "2026-10-27",
-    "net": 186451,
-    "chg_week": -13414,
-    "percentile_3y": 26,
+    "date": "2026-11-03",
+    "net": 179548,
+    "chg_week": -6903,
+    "percentile_3y": 22,
     "hist": [
-     202307,
      207069,
      210339,
      204588,
@@ -584,7 +583,8 @@
      210335,
      207879,
      199865,
-     186451
+     186451,
+     179548
     ],
     "lecture": "Positionnement neutre"
    }
@@ -1012,11 +1012,6 @@
   }
  },
  "seen_news": [
-  "8fb0996902f7",
-  "9c35f733dd6e",
-  "e685a4b30413",
-  "c0f5599c53c2",
-  "08970b6430f5",
   "3d02e118598f",
   "857be09d6610",
   "d5603533434b",
@@ -4011,7 +4006,12 @@
   "9ead1198e4d9",
   "caa2cbe12c8d",
   "14d6ebcfca9c",
-  "3be711027bf2"
+  "3be711027bf2",
+  "1a6db7624e13",
+  "464b0170e78e",
+  "5b899b580033",
+  "7d45b389ef4e",
+  "c65a86eb7721"
  ],
  "news": [
   {
@@ -4024,6 +4024,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Says to ‘Soon’ Take Decision on Whether to Resume Iran War",
+   "source": "ASHARQ AL-AWSAT English",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUx4SmpqYlVzaDlDWVBQWVpObFAwZFRRcjNmM2Rpd3pvT2JUV2ZBR2thdWVGclNseElTNGtQRU0wbnR3WFh2LVQtYllfSi1SOVRKVkVseURPUTUtQXdwX29ZVi1rYktRckNDdVhLOXc2ZFZ1a3VjVlM0dkkwLWY0Y29oMUF1ajhMZ3VVQlZGMjUtcHpoRnBSamN2MWN1b2pvMWdqM05ycjBmSTA2Nm90ZnR3?oc=5",
+   "published": "2026-11-07T04:32:55+00:00",
+   "id": "1a6db7624e13",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4538,6 +4550,18 @@
    "published": "2026-11-06T18:59:43+00:00",
    "id": "1b219f005c5e",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel says it has plans for at least three weeks of war as airstrikes pound Iran",
+   "source": "DD News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelBoS2J2ZjIwNjY3bkM3N2lSWkpBRHRVSkl2RTRlZ0dZdWVLdjE5bmduWWZKTExBMDBYSG9WSGdpbkNNaUhsNWlvSlotaHM2MVEycl9lb0ZxRHZXMWZ2M3BJMUpCUDdUM19IUVY5RTd6N0xEMHRrRHIyY0dZV3ZxMzQ4alZuOVFKUVNlVk1GQzV3QjVMbkR6QmdTaUhWQzR2aXoyUl9NLVdqTEk?oc=5",
+   "published": "2026-11-06T18:58:25+00:00",
+   "id": "5b899b580033",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6389,34 +6413,9 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Are Korean antitrust actions retaliatory tariffs in disguise?",
-   "source": "Competitive Enterprise Institute",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHd5WE1FR0VwS3JFSjNTTUVPVlNYVzhrcVhtNDc4c2pCYnJGekdCWVphV3FxcG16RXg1TDd4SmY4NG0wcVdTN19BRU5UeE9XZ01TUFNxa2V1aDMzbDF4ZlFRamhSYWs4Zi1VaEFzYUZmSTFXSkVpTDVQWENBMXUyakp5dG1LLVFFUFE?oc=5",
-   "published": "2026-11-05T21:45:00+00:00",
-   "id": "2e9e7fb028f9",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Tensions commerciales mineures stimulant marginalement l'attrait refuge de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Another strike or economic collapse? Experts divided over next phase of Iran campaign",
-   "source": "www.israelhayom.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkwtek9DUEcwbGtPQmR4STRGRjhocUI5TUxVVVZSREJKZ1lRVWVNdnczTFdoMVE1NWVWME8zTFpyUEhDQ24teV9hRm1zOVVXN2Q2cUthMUpZNUxGc0dzbFZ3MmJJZDlHcFNncEVYX19XTUJwUTdPanZ4Y0dGd3Y3VzFZYzE4MFpxTE1BZU9GcElDNVB5c0EyVlozLUJzNmVUMDNYcjBWbXdfRlU0bE96MUUxNC1qa3NXME1MZi1xNG5IUQ?oc=5",
-   "published": "2026-11-05T21:44:23+00:00",
-   "id": "30742adc7a38",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque persistant d'escalade militaire en Iran alimentant la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|14fc92b4d135": 1792214165.4350677,
   "news|088630bf5e28": 1792215090.1349676,
   "news|88a234c6507d": 1792215970.028393,
   "news|aa9c3c2ef91b": 1792219566.616897,
@@ -8029,7 +8028,9 @@
   "news|5ce76ed046db": 1794024972.0345223,
   "news|085629d5cc0b": 1794025882.61452,
   "news|14d6ebcfca9c": 1794027696.225672,
-  "news|9ead1198e4d9": 1794027697.11291
+  "news|9ead1198e4d9": 1794027697.11291,
+  "news|1a6db7624e13": 1794028747.3721628,
+  "news|5b899b580033": 1794028748.1970997
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8373,6 +8374,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T05:19:08.197324+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel says it has plans for at least three weeks of war as airstrikes pound Iran</b>\n📰 DD News · Ven 06/11 19:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelBoS2J2ZjIwNjY3bkM3N2lSWkpBRHRVSkl2RTRlZ0dZdWVLdjE5bmduWWZKTExBMDBYSG9WSGdpbkNNaUhsNWlvSlotaHM2MVEycl9lb0ZxRHZXMWZ2M3BJMUpCUDdUM19IUVY5RTd6N0xEMHRrRHIyY0dZV3ZxMzQ4alZuOVFKUVNlVk1GQzV3QjVMbkR6QmdTaUhWQzR2aXoyUl9NLVdqTEk?oc=5"
+  },
+  {
+   "ts": "2026-11-07T05:19:07.372240+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says to ‘Soon’ Take Decision on Whether to Resume Iran War</b>\n📰 ASHARQ AL-AWSAT English · Sam 07/11 05:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUx4SmpqYlVzaDlDWVBQWVpObFAwZFRRcjNmM2Rpd3pvT2JUV2ZBR2thdWVGclNseElTNGtQRU0wbnR3WFh2LVQtYllfSi1SOVRKVkVseURPUTUtQXdwX29ZVi1rYktRckNDdVhLOXc2ZFZ1a3VjVlM0dkkwLWY0Y29oMUF1ajhMZ3VVQlZGMjUtcHpoRnBSamN2MWN1b2pvMWdqM05ycjBmSTA2Nm90ZnR3?oc=5"
+  },
+  {
    "ts": "2026-11-07T05:01:37.113303+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Iran near possible nuclear breakthrough as American military buildup continues</b>\n📰 Ynetnews · Ven 06/11 17:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUlR2UnVWcm9HZ3MyU3F6cUphdi1DaURCdzduQXVSVmViemhEZkFVc253aEJ0TTh0SkNQdElaaS1langydEVTSldpdlQyVndJTldfWjJB?oc=5"
@@ -8661,16 +8672,6 @@
    "ts": "2026-11-06T13:16:14.114411+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Average Hourly Earnings m/m</b>  prév. 0.3% | préc. 0.1%\n🇺🇸 <b>Non-Farm Employment Change</b>  prév. 65K | préc. 29K\n🇺🇸 <b>Unemployment Rate</b>  prév. 4.2% | préc. 4.2%\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-06T13:01:45.060686+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4072.40</b>  (+16.2$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+23) → maintenant +18 (Haussier)\n⏳ En zone d'achat (entre S1 et pivot) : attendre une confirmation\n📏 Range fait : 72$ sur ~81$ attendus (89%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Average Hourly Earnings m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Non-Farm Employment Change (prév. 65K)\n🔥 <b>14:30</b> 🇺🇸 Unemployment Rate (prév. 4.2%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Ted Cruz slams Trump's tariffs and says Iran war needs to end\n🟢 (+10) Iran war live : Trump and Qatari emir discuss regional de - escalation efforts | US - Israel war on Iran News\n🟢 (+10) Canada's retaliatory tariffs hit US products as Trump warns of escalation\n🟢 (+10) Republicans’ Midterm Wipeout Reignites the War Over Tariffs"
-  },
-  {
-   "ts": "2026-11-06T13:01:43.729392+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 68 MIN — 15:10</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.46% aujourd'hui · taux 10 ans +0 pb · biais or +18 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 83$ → attends-toi à des mèches rapides."
   }
  ],
  "daily_forecast": {
