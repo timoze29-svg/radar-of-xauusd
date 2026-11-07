@@ -1012,7 +1012,6 @@
   }
  },
  "seen_news": [
-  "40628269fa8f",
   "9fdc29d6cab4",
   "460b8bad4078",
   "6b626a8d2dc8",
@@ -4011,9 +4010,22 @@
   "ed8ed78d2dec",
   "dd3d8a677964",
   "32336d6f0cd2",
-  "8fe08eec3290"
+  "8fe08eec3290",
+  "9bf64abd7c4c"
  ],
  "news": [
+  {
+   "title": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1hcGl4cm5rQ0ctRmRhUFRqWDVmMTNIaXdSY0xiQkc4QkYyYkdOa3lIY2xHN0ZPR3d4N1dubVh0M0Vydmo5NlRfUnh5ZG4tdzJ0RldicGE1cW1ybXRockZiNTJUek5pY2Z6M3NrRGxObWZZR1pkX2o4UnB3SHFfaWpYMGdnUEpjRHBSWUpFU01uNGg1djNhNnhrR0phSUhIOGdWOC1NeFAtbzg?oc=5",
+   "published": "2026-11-07T00:00:53+00:00",
+   "id": "9bf64abd7c4c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Japan, Taiwan, China and the emerging 2028 strategic test",
    "source": "Asia Times",
@@ -6401,22 +6413,9 @@
    "cat": "géopolitique",
    "raison": "Signaux positifs de trêve régionale atténuant la prime de guerre.",
    "method": "IA"
-  },
-  {
-   "title": "Melania Trump hosts Ukraine, Russia officials, calls for ‘more enduring’ truce",
-   "source": "South China Morning Post",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpDcU1wV0tSMUtXS2FPU2hXd2FxaWVBUTdicE93NmlCbXVHU25XRGlFMXFsdHBoX2EyLW5JQmdQY0ZfSEh5Y3BRS3lteUtuY0hHWlRwNUMzVUozaFFDQ3lRRU1zQmZOUEZoMVlaSmdFQ09rUTc2Sml5LWsweG9ENk9FMUJURXF1X0dGcGFJV2lZblVfRmdYR0tGREtVMXFsQjBBUm9ZaUV0QnhfYkpKTFVDVUd2Tkc4ZGN2RXZkYjZ1cFJfM1J1RGR3aVZ3WFhMeVRpRkVB?oc=5",
-   "published": "2026-11-05T17:25:13+00:00",
-   "id": "f66da31dbcc6",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Discussions directes entre belligérants pesant légèrement sur les valeurs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|595bd6d03ed5": 1792196159.3503275,
   "news|6b78d639070c": 1792197965.8748024,
   "news|f2f42821f132": 1792198899.855989,
   "news|840bf533a581": 1792200675.8984466,
@@ -8037,7 +8036,8 @@
   "news|f4463f8ce865": 1794002494.3994846,
   "news|3e2363591277": 1794002495.353919,
   "news|baae3078af79": 1794004281.160101,
-  "news|a68f33984748": 1794006968.089128
+  "news|a68f33984748": 1794006968.089128,
+  "news|9bf64abd7c4c": 1794011489.9847896
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8381,6 +8381,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T00:31:29.984897+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Clashing Advisers Press Him to Make Iran War Decision</b>\n📰 WSJ · Sam 07/11 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1hcGl4cm5rQ0ctRmRhUFRqWDVmMTNIaXdSY0xiQkc4QkYyYkdOa3lIY2xHN0ZPR3d4N1dubVh0M0Vydmo5NlRfUnh5ZG4tdzJ0RldicGE1cW1ybXRockZiNTJUek5pY2Z6M3NrRGxObWZZR1pkX2o4UnB3SHFfaWpYMGdnUEpjRHBSWUpFU01uNGg1djNhNnhrR0phSUhIOGdWOC1NeFAtbzg?oc=5"
+  },
+  {
    "ts": "2026-11-06T23:16:08.089223+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump can’t bomb his way out of the Iran war</b>\n📰 MS NOW · Ven 06/11 23:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yd0JxRDI0NDBHZFN4TFlWOXNZUi0xX25OM3pod0ozQXFpd0NKbUdUZ3Z6LWlSX1lUX09vV0FHcTZMQXpiMU5oOVg4N2dYREtERVlSaHpWNV9Ec2E5UDJNa1BR?oc=5"
@@ -8674,11 +8679,6 @@
    "ts": "2026-11-06T11:31:28.246317+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation, Money News</b>\n📰 AsiaOne.com · Ven 06/11 02:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0x3T1JXcFZOeW5uZngtWXl4MmplMDNrc2pjQ3cybFJHbUVBMjhEMEduZG1Rb0s5UjhpVVNvU2YxblpIc2JObkxNMldDYnpqeFFISlRZRktuRlhLcVIzckxOZ1F6dTZzaTIzZGJxM0E4V3Y2MkRFbVpkU0hfcVVfUnc0ZlFLbUMzRUlMRzF4X0VHcHZYaURfVWRxZXJOQ0Y2VS1IbUlJRnlOUFU?oc=5"
-  },
-  {
-   "ts": "2026-11-06T11:01:48.380587+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Taux réels 10 ans (20j) (+13), Momentum or (vs MM50) (-13), Sentiment news 24h (+11)"
   }
  ],
  "daily_forecast": {
