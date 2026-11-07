@@ -1012,8 +1012,6 @@
   }
  },
  "seen_news": [
-  "c3c82f91a9a0",
-  "11f2d289e237",
   "95bf1b3fd106",
   "3305523bb757",
   "6411622a5664",
@@ -4011,9 +4009,23 @@
   "8ff2fbd6ded1",
   "6569faa57048",
   "96eca29fe1a8",
-  "f61625930354"
+  "f61625930354",
+  "ca6d1ed4ef13",
+  "86d761661739"
  ],
  "news": [
+  {
+   "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
+   "source": "New Haven Register",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmhpSHU1XzdYTTg0Ujg2OW9PQW5oeWJqa3FFRE9vVWFLX3FtWTBCV0FKMmYxSF9rSEY3Vm9vX0MyaE5GLW92bTBzTFZXbFZKd05MVVdSckstb1RlQjd2N2NwZFpfSG1HRlV6R2VSUnBhZE1oTHBBaFNaaUpic3BRSTJ3UXBhblpmbzB1NExoYWdZMk1QR1o0NDdyNlVHNnRSdVk3QTFB?oc=5",
+   "published": "2026-11-07T10:40:15+00:00",
+   "id": "86d761661739",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Netanyahu, Mossad chief planned Iran operation before Israel election, then US stepped in: Report",
    "source": "The Indian Express",
@@ -4169,6 +4181,18 @@
    "cat": "géopolitique",
    "raison": "Poursuite des frappes compensée par l'espoir de négociations diplomatiques.",
    "method": "IA"
+  },
+  {
+   "title": "US Offers $20 Million Reward For Information On Iran Nuclear Program",
+   "source": "Radio Free Europe/Radio Liberty",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5",
+   "published": "2026-11-07T08:03:52+00:00",
+   "id": "ca6d1ed4ef13",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold Price Forecast: UniCredit Expects $3,900-$4,500 Consolidation Range",
@@ -6389,35 +6413,9 @@
    "cat": "géopolitique",
    "raison": "Anticipation de désescalade militaire réduisant l'attrait de couverture contre le risque.",
    "method": "IA"
-  },
-  {
-   "title": "A brutal sell - off for AI stocks sends Wall Street reeling ; S & P 500 sees worst day since 2025  Liberation Day  tariffs",
-   "source": "kbtx.com",
-   "theme": "Géopolitique",
-   "link": "https://www.kbtx.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-sees-worst-day-since-2025-liberation-day-tariffs/",
-   "published": "2026-11-06T03:00:00+00:00",
-   "id": "ba3971db8df1",
-   "impact": 3,
-   "cat": "autre",
-   "raison": "Vague d'aversion au risque et plongeon des actions favorisant les valeurs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Supreme Court Rules That Trump’s Sweeping Emergency Tariffs Are Illegal",
-   "source": "EnergyNow",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHZKdlluNXlXN1FRcVBTMHdtbXRHaEY2b2NDNjhyOXJvaGgwYnJMTVRFZnRPQm04bnR6Mnp6Rk5XUEROaDBGS0h2a05RekRtQThtelMzM1Vqc2wxaV9sdFJBcENLV3B4OUJHTUlsQWxVRHRkWlJBcEpnbGJZLXl1dTlQSjhhZDN3Yk9UVTR0bi03Rk4xdzVIUV9wYXJ6dzNLRWc?oc=5",
-   "published": "2026-11-06T02:31:14+00:00",
-   "id": "47c180af2ca7",
-   "impact": -4,
-   "cat": "commerce",
-   "raison": "Annulation juridique majeure des tarifs douaniers, dissipant la prime de risque protectionniste.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|523f0375bfe4": 1792227703.3427317,
-  "news|909410840874": 1792227704.286873,
   "news|e8ed011242f5": 1792235023.25799,
   "news|7f885ddc38ff": 1792236684.796389,
   "news|3ee9aafb38d7": 1792242092.3434834,
@@ -8034,7 +8032,8 @@
   "news|e43e39a27003": 1794035765.2260094,
   "news|de491cb9789e": 1794038691.2251093,
   "news|7cc574ca41f3": 1794039374.119609,
-  "news|37de1572e681": 1794040659.310804
+  "news|37de1572e681": 1794040659.310804,
+  "news|ca6d1ed4ef13": 1794049310.8668997
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8378,6 +8377,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T11:01:50.867048+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Offers $20 Million Reward For Information On Iran Nuclear Program</b>\n📰 Radio Free Europe/Radio Liberty · Sam 07/11 09:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
+  },
+  {
    "ts": "2026-11-07T08:37:39.310920+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Shafaq News..Iran claims 260+ aircraft downed in US-Israel war</b>\n📰 شفق نيوز · Sam 07/11 08:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0xFNWlhQjlfaDBPUlRZdl9vZmNhRmgzd19iZ2x6VDljbVA0ZEJEOGdIM1VackMyNWgxTERQaTZJUWZPcVIzeTlsd0JvQ0owY0tLOHZSN2x1SExwUS1ydF9odlJyWmpuQUVUWVB4RXBITWtGMHB2WDlDVTY2RnBiejJR?oc=5"
@@ -8671,11 +8675,6 @@
    "ts": "2026-11-06T15:01:41.225324+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump left with ‘no good options’ to end Iran war after US midterms defeat</b>\n📰 South China Morning Post · Ven 06/11 14:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmltNTZnMlo1OGRFV0F5WVlnUDgtN2xkZ1huZjc3NUlEaGVmbDExMHdVenpGUVBKRTUzWW5BTDlEZG9YcDh0clR5SkNHakxYaFVwQ0RGaW5OM3lIM0NTbEtONnZ1V1dKZlVZT01ycUlIMW9GdkFkajVQU3p5TXhsQUhGU2JhY09FVlpoSnROUS1acUZfR3dHUFc2WnRha3FmN200Y2tXNU9FMmZhQXpfN2o1NVpSbXg5cEwybDQyT1o5SzNGaWtaeTBrY3pMTFg00gHQAUFVX3lxTE5HZ3pDNFRhaDl4R29tVUhPQUVIZVVLNE5tR0VkeFpfN0xzc3dDWTg0MUJVT3FpMnVsZFFRU2FYSUtlaGtHdW9DcDc0MVpFV2tYSVdoZWRDMkM2a3o3WG45Sy1QU1VMVTk3eWl1M0dlZnJGYWhLNks3N2ZOMFhuMTQzV280Z2VoZVYwLUZYUmR6T2lvUVRuLTMxb0twdGRTRERfMXgzTjFHYklHN2s2SFhfWHoyeGpwQzd1Z3libEJZaURHT3FDZ1RmRHRnT1BOMHg?oc=5"
-  },
-  {
-   "ts": "2026-11-06T14:55:54.635928+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran - backed Houthi rebel health ministry says at least 20 killed in airstrikes on a market in southwestern Yemen</b>\n📰 gazettextra.com · Ven 06/11 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.gazettextra.com/news/nation_world/iran-backed-houthi-rebels-health-ministry-says-at-least-20-killed-in-airstrikes-on-a/article_4d967d7d-d64b-5072-ac91-65a2339e48a1.html"
   }
  ],
  "daily_forecast": {
