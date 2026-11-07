@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "b3629ef87cbd",
-  "33457f6394d4",
-  "e58c2f24ba7b",
-  "dbb161ad2553",
   "970b7d9d9680",
   "2f7fb915d7c3",
   "a247fde031ed",
@@ -4011,7 +4007,11 @@
   "7edbc2f1b01d",
   "f4b69d5894d7",
   "5f58e5e1ca18",
-  "532685793370"
+  "532685793370",
+  "d5f323fbaf0c",
+  "a29ea6ef94a0",
+  "e016bba83eb4",
+  "84de01fc74de"
  ],
  "news": [
   {
@@ -4022,6 +4022,18 @@
    "published": "2026-11-07T12:47:41+00:00",
    "id": "040aa842930d",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia Ukraine War",
+   "source": "WV News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUt0azVlNjg4TFl3VHZIZk1HUDVpNzFZcC11RUtoZ01UZkJXZ2VicnpwYnZiX1BGdm5keTd3LXFvSTlacU9kUEc5Q0k4WDNBXzN2bTVpVkY3Sndkby1KSENMM3ZiTDI3V1BzSjVsN09Bemo5OU9yTGtjdktVYkZhS2Y1YUl4QjRaNkM1ZE5wVFRwNU1meXRmOHVrTVdQVVZuc1AzYnZ1UQ?oc=5",
+   "published": "2026-11-07T12:36:04+00:00",
+   "id": "a29ea6ef94a0",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4889,6 +4901,18 @@
    "cat": "géopolitique",
    "raison": "Menace explicite d'entrer en guerre contre l'Iran, puissant catalyseur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: Trump says US making ‘a lot of progress’ in talks with Tehran",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-07T04:32:11+00:00",
+   "id": "d5f323fbaf0c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says US 'could be an occupier' in Iran",
@@ -6386,30 +6410,6 @@
    "published": "2026-11-06T08:45:38+00:00",
    "id": "e92fad6250f7",
    "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil Declines on Signs of Moves Toward Gulf War De-Escalation",
-   "source": "Bloomberg.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXNmZnh6cENKbU1vdHBCWUxseFF6ZlpFenZlcFRxMjZjT0RveUdzRkdRZFpoMk5BWUN4SnNqRGJSbENOSGtlbHVDWFhOS1FmakR3WmJIRzhlNmVOYW5udGlCSGhVWW1rWU5zdVkxeFcwVEpfNG16SUIzQUswRDI3N2VSd3NKZnBtRmxaWmpBalZtXzFob2owdDZYUVJrbW5kMWhGd3loeERqdmpXVW00TA?oc=5",
-   "published": "2026-11-06T08:38:49+00:00",
-   "id": "8d18870fdf0f",
-   "impact": 7,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Middle East crude oil premiums tumble to pre - war levels amid ample supply  | Peak Oil News and Message Boards",
-   "source": "peakoil.com",
-   "theme": "Géopolitique",
-   "link": "https://peakoil.com/production/middle-east-crude-oil-premiums-tumble-to-pre-war-levels-amid-ample-supply",
-   "published": "2026-11-06T08:30:00+00:00",
-   "id": "e8d2bf801861",
-   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -8042,7 +8042,8 @@
   "news|040aa842930d": 1794056686.2155151,
   "news|a53189d6a758": 1794056687.2636957,
   "news|7fa04441c0a1": 1794056688.256329,
-  "news|e53663bcfad2": 1794056689.2644117
+  "news|e53663bcfad2": 1794056689.2644117,
+  "news|d5f323fbaf0c": 1794057549.2817445
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8386,6 +8387,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T13:19:09.281840+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says US making ‘a lot of progress’ in talks with Tehran</b>\n📰 Arabian Business · Sam 07/11 05:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-07T13:04:49.264787+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Donald Trump weighs Iran proposal amid 15 - minute air defense strikes Details Of Iran New Nuclear Proposal To The United States</b>\n📰 el-balad.com · Sam 07/11 12:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.el-balad.com/17064708"
@@ -8679,11 +8685,6 @@
    "ts": "2026-11-06T18:16:13.113592+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s latest Ukraine offer may only tempt Putin to step up his war</b>\n📰 CNN · Ven 06/11 18:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhLdEFhNEhJcUhIaGQ5UEwwSzRNdjQwWFZhRmN3T3ZoNDU2QWtwSUx5dzBkcXlabFNiSWFsVWI3Ul93VG1lajJmbk9reGpZZ0w1NVdTMVVCRUhaNE5SM3lSb2NHdm1jTnFLZDJvWW5NaWFVNF8yR29xMTJFZk5QZEhR?oc=5"
-  },
-  {
-   "ts": "2026-11-06T18:16:12.122149+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Media Reports IDF Awaits US Decision on Iran Strike</b>\n📰 Kurdistan24 · Ven 06/11 18:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3haWmpFZjhQVVl0ZnJOZUZzdG9hb0Q4T09BamZ1Y3NPWUg4dFd2UGZDRUItNmpEQ3JUc2tJd2E0UDN6d3BmVDFsMlN2bXEyNzdHb1FTYWZkaVlqMzl6YWdZbF9iNUJVZnpWcnAtdVNSRmxMR1JBYmxxWjIxVEpuSWs3QTQ2czBQTGFnVmhuZVdnZ1hrV0hQNGR1UFh5WEtvZGNxWTh3?oc=5"
   }
  ],
  "daily_forecast": {
