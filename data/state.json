@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "d8ebc0b6b11d",
-  "524725020197",
-  "e2ccd3d31070",
   "7ca3d12d11a3",
   "6d03c76b9157",
   "e5697156d8d4",
@@ -4011,9 +4008,24 @@
   "a517362651e3",
   "57ab7e32c149",
   "01b7e27f5fbc",
-  "27d51602d7b0"
+  "27d51602d7b0",
+  "bd2527e4dd7b",
+  "eef92fcca17a",
+  "e2d243861250"
  ],
  "news": [
+  {
+   "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg?oc=5",
+   "published": "2026-11-07T16:01:54+00:00",
+   "id": "bd2527e4dd7b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Lorne Gunter: Trump’s tariffs a big reason for U.S. midterm shellacking",
    "source": "Edmonton Journal",
@@ -6401,18 +6413,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge",
-   "source": "CBS News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z?oc=5",
-   "published": "2026-11-06T10:23:00+00:00",
-   "id": "a0167b54ef75",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8035,7 +8035,8 @@
   "news|a2acc9f1c798": 1794059165.7485924,
   "news|76b53792dfd6": 1794060092.7753093,
   "news|42be1511bd60": 1794061149.4627016,
-  "news|169a62fb68ae": 1794067296.0373502
+  "news|169a62fb68ae": 1794067296.0373502,
+  "news|bd2527e4dd7b": 1794068160.510168
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8379,6 +8380,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-07T16:16:00.510239+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration</b>\n📰 CNN · Sam 07/11 17:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg?oc=5"
+  },
+  {
    "ts": "2026-11-07T16:01:36.037444+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Crypto Market Drops 3% Amid Strong US Jobs Report and Fed Rate Hike Speculation</b>\n📰 KuCoin · Sam 07/11 02:03\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlVNdzRUY1NIdlM0dlBWbVNIMXlaTEliZEZ6Y3VMQVNfVkMyMlY2Zk5Ycmhva21ZWklubmxrN0g0QlliRmp6TlVXZ1lSSDU2ZzVyOERsdFQ2Y0lKSXVvR01qYUpYS29TVmZRREowTXM3bk5ZdmY1aTc0Sy1GTVZoeUNOR0RaYmhCazdMckNtOER6TGdibkZMMWxRN2w0dTNsMGdZZV8wYVRISjRUOWJJU0lR?oc=5"
@@ -8672,11 +8678,6 @@
    "ts": "2026-11-06T19:31:44.651451+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Identity politics may have cost the Democrats 2024, but the Iran war cost Trump 2026</b>\n📰 Fortune · Ven 06/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTNBZjB4X1ZCbFNrTEROc0RBdnNmbGwtTmpRQjdFQTFneENoTG54cTdQMHZGdnBTQXZHQ1BLSUg5ajJ5WWlac0dOSExDZ0lxbEo3UUc2T3JGY1dVTFNEQmRCbGNIeGFlT3ZlSnVqa1diQXJlcmVwbFBSWUhCNDNHV1BMOEJ0UQ?oc=5"
-  },
-  {
-   "ts": "2026-11-06T19:31:43.826595+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US-Iran talks show signs of progress even as Trump weighs renewed strikes</b>\n📰 The Times of Israel · Ven 06/11 19:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjA3Q1BhbURndWpNWDRLRFB4Y3BsMVpOQjRTRDdDeWhicmVDa2o4MGVZREszSGNCa2pvRC1rM09QWTJ2TEV3aUxITy1OMTlDNHVNWmw4SjlYTHBsMFAtc3d1clkwX01qUjlqV1ZLQmxoMG1OUng1TzAxTE01dHlMelhlVlBKdVpQNnF5STJWTTBZQ0xLU0pHZmYxVURPVW5EQjhwTTE0d9IBrAFBVV95cUxQSUpvQVRXbDJvaVY0MDdFd0U3SkgxQVF1enNvM3hBeEdtMzdld2pCNU05anE1VUdUS2FEdERPMzlBR0V0RzZqR2RhbGp0RndQazBld1ZrTF8zSUpERzVQSTNwWFZoQVVYWUg2WHpzVGEtZ1RxUGlGSjY3b3NxUGxVZGhaZ2RiNzYteUZxQkM2U3FQRllodFpwVUgzSXZkaGFzcDJWLUppWmZ5TG5U?oc=5"
   }
  ],
  "daily_forecast": {
