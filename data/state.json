@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794020477.9324722,
+   "ts": 1794042947.049491,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794038476.4424949,
+   "ts": 1794042947.4138925,
    "data": [
     {
      "title": "ISM Manufacturing PMI",
@@ -1012,10 +1012,6 @@
   }
  },
  "seen_news": [
-  "a9af09e78926",
-  "4e3cb7779efa",
-  "702cfdc3d3e4",
-  "2e4be2605d17",
   "c32f331cbe54",
   "5a26cbe11379",
   "3ba830064346",
@@ -4011,9 +4007,37 @@
   "4365b38d555b",
   "2a83fe59bdeb",
   "247ebd354704",
-  "44b124a9384a"
+  "44b124a9384a",
+  "3503126d2cef",
+  "96b74b37a265",
+  "9309d87bb84d",
+  "9e26b1eb1274"
  ],
  "news": [
+  {
+   "title": "Casualties reported in Kyiv as Russia, Ukraine trade accusations about overnight strikes",
+   "source": "Anadolu Ajansı",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQzRvcUZaQl8xX1p4Qy1xcUJsa0VPbTBCeEhybXQ1eWRsUnJnclR1YVk2ajlRc1MzRTFKQXZOdFRieHpSYjhZQUJTTVlnM1BFTngxTUJacjJOOXlWSWxKYmZZZkNoUklrWGZjOWlZX0pfZTA3bEJhSk5zQlh4TlpKSXFDdGF6S0tmOGhXdVlhYnlPSk9hZ25hQTkzSk1HblV6NWhuaU0tSXZwV3RVblh2a2pfUER0ZjIwNzZwMDhsYjlkcEJnQWFz?oc=5",
+   "published": "2026-11-07T09:12:24+00:00",
+   "id": "9e26b1eb1274",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Frappes récurrentes maintenant une prime géopolitique résiduelle sans escalade majeure.",
+   "method": "IA"
+  },
+  {
+   "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take",
+   "source": "The Motley Fool",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5",
+   "published": "2026-11-07T09:06:00+00:00",
+   "id": "9309d87bb84d",
+   "impact": -1,
+   "cat": "fed",
+   "raison": "La prudence de la Fed face à l'inflation retarde les baisses de taux.",
+   "method": "IA"
+  },
   {
    "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
    "source": "Al Jazeera",
@@ -4024,42 +4048,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Risque de frappes militaires au Moyen-Orient alimentant la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "3 Rate Sensitive Financial Stocks Ahead Of CPI And The Fed",
-   "source": "Simply Wall St",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGd4RVZCb3RNQkNURlNzT0dCbExCam15clhtLXRldVNVdVZDWnlvQXlERHRzVmtfTEZOS1R2MW1QS21ST28yVE1ibm9qOHlaVzFpWmVobW10U3pzMFV2bUlrdS05dzZYZVI2LVVMamVuQnF6TlBjRXBxUXRfekIxaVpQem5wSFVSa19qQ2VYM1hJZEhVdUQxMGZ4OHpxU0lxODRKVWRYQzV2ZUdtR3VsUzcyZEs1VlptdWxmYnUyNEFTQ3RzekRpUHFtRk9VOFN1RFZ4NWpBaHc5b2NYMHhEYkxOYlRZZ0ZhZkpqWlZpaUN3dlR2aHVHWdIB_gFBVV95cUxQdGpaSXZ2dkRyTmJ6RnJ6b2NWMjF6SHN3R05kZ1BiaFE1TnM5WmtwTXlLQWViLU5zV19Hd3drNEtHZ1VBdWNRSTgxa0owOVBKX1d4aFV3UnROYUlDZjVQdnplLUZydjBMVGdUOWFHemtpbk1VSlJNcmVwT1FfRTVWT0IxZzRjV0V4Q19SVEsxU21HYVcxMDNKaXFOc1JwNlV6X2FycWFSeHlRaGstT2lXM3p3aEd3V28xQ3ZMcC1pNWRxeHJwLW9BLXlqdll4cW5zT1d4RHhKYnB6N0F2VjI3RG1qRmdIX1lMWk1lY2VQMUFobFZzWVF2UV9kdnBXdw?oc=5",
-   "published": "2026-11-07T08:39:01+00:00",
-   "id": "d8df85be6645",
-   "impact": 0,
-   "cat": "inflation",
-   "raison": "Commentaire boursier générique avant CPI/Fed, aucun nouveau catalyseur macroéconomique.",
-   "method": "IA"
-  },
-  {
-   "title": "China backs Georgia’s sovereignty in return for support on Taiwan and Xinjiang",
-   "source": "Latest news from Azerbaijan",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMnlGR0l2RmtJM1VtT3RxdEVoV1duT0t5OWpubUdUak9mYjhvUXZZRzUxeU1qZERxbU81LVEySTVXUWVRMWZkME1VQUV1bGVkYllMVU85cUw2RlYtamJ6ZE9HUFFkSXpZSmtsa0tDWFRoSnBDN2xYekJqYmxBQ1NhLVVYUzFzYVBDZWc2UmRVbGNmeGMwem9tTTgwVm8zMXM?oc=5",
-   "published": "2026-11-07T08:30:44+00:00",
-   "id": "192284cc7e97",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Diplomatie bilatérale mineure sans risque d'escalade systémique ni impact sur le dollar.",
-   "method": "IA"
-  },
-  {
-   "title": "What i-80 Gold Holders Bought Into",
-   "source": "Yahoo Finance Singapore",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91S3JEWVBiTUpxc3hxdWJOeXl3d0RobVVlSkh3bExiQ0FIQTJpRXNGeENra1JnWmk3MHFaQ0ZhMmxRTmlQQldzejZyc1o1cTY3U2NNYVBKdUlmZlplazlISnpObzRMcmlRbnJ6Sm5XakFCR1JkTnEwZGFfUQ?oc=5",
-   "published": "2026-11-07T08:12:35+00:00",
-   "id": "a1596a70f7f7",
-   "impact": 0,
-   "cat": "or",
-   "raison": "Actualité microéconomique sur une société minière, sans incidence sur le cours spot XAUUSD.",
    "method": "IA"
   },
   {
@@ -4132,6 +4120,18 @@
    "impact": 5,
    "cat": "géopolitique",
    "raison": "Frappes directes américaines sur l'Iran, nette montée de la prime géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "Some lawmakers say Trump should confront Xi over Chinese support for Iran - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOV85M1o0UENjcF9sX0J2VlV6OXAxNlptWi1sQ1dFZllpX0wzYmtuSVlraXF3c0l3NmNNSlNQTmtGcUNPSDhqSDFPYWI1V2R3V3hTYWljaDZEVkpBTW84UnlNVk1yc2JlT1Q1aWpLOV9wRnM5YTBHVFdxaVdoX0tWR2pKNlVwRXl1VmpuYmxzcXdDLXRmY0NTY3Q0N3XSAaIBQVVfeXFMTkNKckY1R0Z0RkdGaHBNMnJ6ZnVvLUYzY0ZJZzZPS05uOTJaeHZxd1BYOFNxRzZwcWhfUlFMb2dyMEF2UWJ1bVZfaUtZSHpUd0lHanFCbzFaMGw0QXNQWk9OMHBiY1JDQlh4MjlCVGFJckVZQkdTOWp0a2RWbUF0U2l4UjFncjBINkRjZXRhQkllR0Z5OW9laEFMMUJiWkxUZS13?oc=5",
+   "published": "2026-11-07T07:29:09+00:00",
+   "id": "96b74b37a265",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions potentielles sino-américaines et risque iranien offrant un léger soutien refuge.",
    "method": "IA"
   },
   {
