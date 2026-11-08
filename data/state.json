@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "8852255033a4",
-  "dc5e5fb0ccfb",
-  "e825c27b8562",
   "05c59b5cad9a",
   "b7fc25622344",
   "473f485b20e9",
@@ -4011,7 +4008,10 @@
   "601d715fec38",
   "65c4b789c545",
   "9de03515a9a8",
-  "813ca28fa1f6"
+  "813ca28fa1f6",
+  "56cedd84d11c",
+  "758621367a52",
+  "a3f5654c27de"
  ],
  "news": [
   {
@@ -5599,6 +5599,18 @@
    "method": "IA"
   },
   {
+   "title": "Zelenskyy accuses Russia of escalating strikes ahead of peace talks",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5",
+   "published": "2026-11-07T05:18:07+00:00",
+   "id": "56cedd84d11c",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russia launches missile attack on Kyiv, injuring residents",
    "source": "Al Jazeera",
    "theme": "Russie/Ukraine",
@@ -6400,18 +6412,6 @@
    "impact": -4,
    "cat": "taux",
    "raison": "La hausse des rendements obligataires réels pénalise directement la détention d'or non rémunéré.",
-   "method": "IA"
-  },
-  {
-   "title": "Israeli Media Reports IDF Awaits US Decision on Iran Strike",
-   "source": "Kurdistan24",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3haWmpFZjhQVVl0ZnJOZUZzdG9hb0Q4T09BamZ1Y3NPWUg4dFd2UGZDRUItNmpEQ3JUc2tJd2E0UDN6d3BmVDFsMlN2bXEyNzdHb1FTYWZkaVlqMzl6YWdZbF9iNUJVZnpWcnAtdVNSRmxMR1JBYmxxWjIxVEpuSWs3QTQ2czBQTGFnVmhuZVdnZ1hrV0hQNGR1UFh5WEtvZGNxWTh3?oc=5",
-   "published": "2026-11-06T17:33:12+00:00",
-   "id": "3b139ec3d36c",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Imminence potentielle d'une frappe conjointe sur l'Iran, nette montée de la prime refuge.",
    "method": "IA"
   }
  ],
@@ -8037,7 +8037,8 @@
   "news|df2781f54cef": 1794099695.3046114,
   "news|996da829a7bf": 1794099696.2245903,
   "news|e0e59b9910f7": 1794101488.7461524,
-  "news|9de03515a9a8": 1794102375.0098257
+  "news|9de03515a9a8": 1794102375.0098257,
+  "news|56cedd84d11c": 1794103659.962014
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8381,6 +8382,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T02:07:39.962171+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Zelenskyy accuses Russia of escalating strikes ahead of peace talks</b>\n📰 Al Jazeera · Sam 07/11 06:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5"
+  },
+  {
    "ts": "2026-11-08T01:46:15.009910+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar says its mediation efforts between US and Iran continue to prevent escalation</b>\n📰 Reuters · Sam 07/11 05:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5"
@@ -8674,11 +8680,6 @@
    "ts": "2026-11-07T06:49:07.054470+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US carries out targeted strikes as Iran leaders weigh proposals</b>\n📰 wsbradio.com · Sam 07/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.wsbradio.com/news/politics/iran-is-reviewing/DCKLGLLBZAYXHPUEJTEFOOS6FY/"
-  },
-  {
-   "ts": "2026-11-07T06:49:06.158979+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran reviews Qatar proposal to revive nuclear talks with US</b>\n📰 siasat.com · Sam 07/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/"
   }
  ],
  "daily_forecast": {
