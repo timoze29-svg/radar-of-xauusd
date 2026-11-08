@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "ea49f3678576",
-  "d3d7ec48c2ff",
-  "5ce6b4dad7ac",
   "bb1d869d49ab",
   "7e79121fafda",
   "3468323558fc",
@@ -4088,9 +4085,24 @@
   "1ddd001dfdee",
   "d794b01523fb",
   "8adacc146817",
-  "0005a3fcc0e0"
+  "0005a3fcc0e0",
+  "673acd938816",
+  "0a4185310c48",
+  "ed5821cf8e88"
  ],
  "news": [
+  {
+   "title": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says",
+   "source": "The Washington Post",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4yYXN5UmdKQW5IT2xBNmkySkR2RFBxX2llUFNBX0VNZjQwV0pUdUZtTXZsOUNNZG45T1Y0ZGpRdDVVUVBFRExmQnVUeGVyVUVZcW9HUDZGejVlWm9aZVZyWnR5MTh4ZG1ncWltNjBuM1U3NXR6NzhUVmZNR0V4ZnA5dUhjYmFyQjNJQlo3SVFQNXhLcUR2ak9aOG9oLUFqMmkxaGVvT2pBRWdTOTIzOE9ReVBtMEFrajZNbA?oc=5",
+   "published": "2026-11-08T22:02:09+00:00",
+   "id": "673acd938816",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Japan-China tensions persist a year after Taiwan remarks",
    "source": "upi",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Attaques récurrentes contre les infrastructures ukrainiennes soutenant le statut refuge.",
    "method": "IA"
-  },
-  {
-   "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
-   "source": "CNN",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg?oc=5",
-   "published": "2026-11-07T16:01:54+00:00",
-   "id": "bd2527e4dd7b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes autour du nucléaire iranien maintenant une légère vigilance des marchés.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8125,7 +8125,8 @@
   "news|28400dc902dd": 1794174518.863635,
   "news|9c6fcad163aa": 1794174519.803626,
   "news|ac5c533906ce": 1794174520.7100406,
-  "news|e558000d752f": 1794174521.6705477
+  "news|e558000d752f": 1794174521.6705477,
+  "news|673acd938816": 1794176164.019626
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8469,6 +8470,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T22:16:04.019708+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says</b>\n📰 The Washington Post · Dim 08/11 23:02\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4yYXN5UmdKQW5IT2xBNmkySkR2RFBxX2llUFNBX0VNZjQwV0pUdUZtTXZsOUNNZG45T1Y0ZGpRdDVVUVBFRExmQnVUeGVyVUVZcW9HUDZGejVlWm9aZVZyWnR5MTh4ZG1ncWltNjBuM1U3NXR6NzhUVmZNR0V4ZnA5dUhjYmFyQjNJQlo3SVFQNXhLcUR2ak9aOG9oLUFqMmkxaGVvT2pBRWdTOTIzOE9ReVBtMEFrajZNbA?oc=5"
+  },
+  {
    "ts": "2026-11-08T21:48:41.670878+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says New Iran Strikes Unlikely If Talks Progress, CNN Says</b>\n📰 Bloomberg · Dim 08/11 21:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzA3VUJ1UWpnaXNfMkt1RFJGUWxuRG5EX3VsRWJBVngwNVJETXBfS1dUUGFZel9lMEJIdi10dFNlZWduc1ZSOU50bTBfbXVyLUpaQ2EzSmpXSWZGM2pNcFJJaFExVWhDTmxVSnc0TWozMTc5T1lhSHIwU2hTVU1XSzdYU3dDQldWZ2dRS012TUpsSFRBSmJjcEtRbkFIU09NMkFORGpxanpXaXhIVF81TzZoSTE?oc=5"
@@ -8762,11 +8768,6 @@
    "ts": "2026-11-08T12:16:15.042551+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>COMMENTARY : The next Congress shouldnt let Iran become a  background war</b>\n📰 newstribune.com · Dim 08/11 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.newstribune.com/news/2026/nov/08/commentary-the-next-congress-shouldnt-let-iran/"
-  },
-  {
-   "ts": "2026-11-08T12:16:13.982397+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>South Korea moves to join Iran War under US pressure</b>\n📰 nuclear-news.net · Dim 08/11 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://nuclear-news.net/2026/11/08/4-b1-south-korea-moves-to-join-iran-war-under-us-pressure/"
   }
  ],
  "daily_forecast": {
