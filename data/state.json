@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "e7970c4b7963",
-  "a386c1073812",
-  "91a6757a6b48",
-  "3129cf79b1ba",
-  "6ff63032c290",
   "6e8929679e69",
   "9bf6ce85ecf0",
   "2b5baa7a218c",
@@ -4088,9 +4083,26 @@
   "0d4a82429453",
   "61924ff70f11",
   "2ae3f2c15906",
-  "05db4b8aec52"
+  "05db4b8aec52",
+  "f7f2e7686ff9",
+  "8ab843845f8c",
+  "95eb9d3983eb",
+  "642efc1c81c1",
+  "f6b928f007f5"
  ],
  "news": [
+  {
+   "title": "US-Israel elections: Sri Lanka relief hinges on Hormuz reopening",
+   "source": "The Morning",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNREJ3VkFrdFF1aDRBbE5xUHdoLS1TVFdkYk5weUVrMkVFUExtSWpmdmFtS1BsSUZKd1VlenJ5QVBncklJMXoxU1FqRnQxN015QlppS3JBU1RSZXdjS3pOOG1NcFlrZw?oc=5",
+   "published": "2026-11-08T18:41:01+00:00",
+   "id": "95eb9d3983eb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says return to war with Iran ‘highly unlikely’ as sides continue negotiations",
    "source": "New York Post",
@@ -6478,25 +6490,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events",
-   "source": "EnergyNow.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5",
-   "published": "2026-11-07T13:11:06+00:00",
-   "id": "996da829a7bf",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "Frappes militaires directes impliquant l'Iran, provoquant une forte ruée vers les valeurs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|fb3d1fb26f9e": 1792349170.4924014,
-  "news|aac92936a253": 1792349171.4044542,
-  "news|48f7e95561aa": 1792349172.311893,
-  "news|1573e4da9d23": 1792349173.285484,
   "news|e9a774400957": 1792350109.7063386,
   "news|1fc23dcdca70": 1792353694.1202707,
   "news|1be22c298fbf": 1792353695.519281,
@@ -8118,7 +8114,8 @@
   "news|797a7eaef742": 1794160908.9163175,
   "news|b8e2fb3cf83f": 1794160909.7390041,
   "news|b4b518b4165e": 1794161770.8149385,
-  "news|2ae3f2c15906": 1794162694.8031793
+  "news|2ae3f2c15906": 1794162694.8031793,
+  "news|95eb9d3983eb": 1794163575.1973512
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8462,6 +8459,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T18:46:15.197436+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US-Israel elections: Sri Lanka relief hinges on Hormuz reopening</b>\n📰 The Morning · Dim 08/11 19:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNREJ3VkFrdFF1aDRBbE5xUHdoLS1TVFdkYk5weUVrMkVFUExtSWpmdmFtS1BsSUZKd1VlenJ5QVBncklJMXoxU1FqRnQxN015QlppS3JBU1RSZXdjS3pOOG1NcFlrZw?oc=5"
+  },
+  {
    "ts": "2026-11-08T18:31:36.139213+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Sentiment news 24h (+18), Taux réels 10 ans (20j) (+14), Momentum or (vs MM50) (-13)"
@@ -8755,11 +8757,6 @@
    "ts": "2026-11-08T00:47:04.847584+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu calls for  national unity govt  amid Iran war as Yair Golan pushes for</b>\n📰 austinglobe.com · Dim 08/11 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.austinglobe.com/news/279418812/netanyahu-calls-for-national-unity-govt-amid-iran-war-as-yair-golan-pushes-for-govt-of-salvation-change"
-  },
-  {
-   "ts": "2026-11-08T00:47:03.986477+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Iran War Is as America First as It Gets</b>\n📰 jewlicious.com · Dim 08/11 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://jewlicious.com/2026/11/iran-war-america-first/"
   }
  ],
  "daily_forecast": {
