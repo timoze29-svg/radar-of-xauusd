@@ -1089,26 +1089,6 @@
   }
  },
  "seen_news": [
-  "5ed18712debc",
-  "e201168e60c8",
-  "90b0604cdc7f",
-  "4fc102859fec",
-  "ddb63f790e97",
-  "332427a4fc4d",
-  "c80dc3db029f",
-  "c8c321791b1c",
-  "37077d5b7e1e",
-  "f21532e43fae",
-  "7fe7e18fb312",
-  "98be24d6efdd",
-  "41bc63a6e393",
-  "fb1438d2524d",
-  "31561ea37841",
-  "1669fb3fe96e",
-  "7e7f2b5a7bb5",
-  "a468994bfb6f",
-  "e95f5a03dde6",
-  "c2b3fa7ac778",
   "a8af7edd5495",
   "db3c4d6a22bd",
   "3266c26a4bc0",
@@ -4088,7 +4068,27 @@
   "873b401f9b3e",
   "56dedc73fd37",
   "e9ab24533823",
-  "68f28ce84206"
+  "68f28ce84206",
+  "0f8b578ba789",
+  "fd8022aebe20",
+  "6d943f27a4f5",
+  "b861453bd559",
+  "eff8755a8609",
+  "763d84b4f287",
+  "72fa758bf0ef",
+  "d7950dae52fe",
+  "3ad12036cea3",
+  "279c5e4ca770",
+  "852fd2b92088",
+  "26f467095030",
+  "7e8db38878d0",
+  "25c3351f4033",
+  "5945cc62037f",
+  "c7b299e474a3",
+  "6a8d6c39f7f8",
+  "2fcb105d254c",
+  "8f8cdfe77d4c",
+  "4574654c5db8"
  ],
  "news": [
   {
@@ -4099,6 +4099,54 @@
    "published": "2026-11-08T16:18:45+00:00",
    "id": "873b401f9b3e",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran suggests ship blasts are not US attacks",
+   "source": "goulburnpost.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.goulburnpost.com.au/story/9387830/iran-suggests-ship-blasts-are-not-us-attacks/",
+   "published": "2026-11-08T16:00:00+00:00",
+   "id": "6d943f27a4f5",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Yemen Sets $51 Billion Reparations and Political Recognition as Conditions for Ceasefire With Saudi Arabia , Report Says – NaturalNews . com",
+   "source": "naturalnews.com",
+   "theme": "Géopolitique",
+   "link": "https://www.naturalnews.com/2026-11-08-yemen-sets-reparations-political-recognition-ceasefire-conditions-saudi.html",
+   "published": "2026-11-08T16:00:00+00:00",
+   "id": "25c3351f4033",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Weighs Next Move in U . S . War with Iran – NaturalNews . com",
+   "source": "naturalnews.com",
+   "theme": "Géopolitique",
+   "link": "https://www.naturalnews.com/2026-11-08-trump-weighs-next-move-war-with-iran.html",
+   "published": "2026-11-08T16:00:00+00:00",
+   "id": "6a8d6c39f7f8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Building owned by Saudi oil giant damaged in missile attack",
+   "source": "wdsu.com",
+   "theme": "Géopolitique",
+   "link": "https://www.wdsu.com/article/saudi-oil-giant-building-damaged-missile-attack/74367443",
+   "published": "2026-11-08T16:00:00+00:00",
+   "id": "8f8cdfe77d4c",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6442,58 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Rhétorique rassurante de Trump réduisant la probabilité d'un conflit ouvert avec l'Iran.",
    "method": "IA"
-  },
-  {
-   "title": "Russian strikes hit power facilities around Kyiv , damaging major bridge",
-   "source": "freemalaysiatoday.com",
-   "theme": "Géopolitique",
-   "link": "https://www.freemalaysiatoday.com/category/world/2026/11/07/russian-strikes-hit-power-facilities-around-kyiv-damaging-major-bridge",
-   "published": "2026-11-07T11:30:00+00:00",
-   "id": "468f23976be2",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Dégâts matériels en Ukraine s'inscrivant dans la routine du conflit sans rupture.",
-   "method": "IA"
-  },
-  {
-   "title": "China Boosts Gold Reserves as Prices Fall",
-   "source": "Briefs Finance",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3N3M0ZSdTA3Q1Q1RS1tUXozNGVqRjRZaXVjLWxIYjRLZWkweEwxOFpvOGdsMVYySzJaN01aMHBEbEl4d2RrNWs1MDlMNWY0TFo4cElvcDdnNmM5cFBIdjdrMmxSM0RNTzc1UktNWlAxWTZEWHJuZ1FCcjY4cm8tQ3VmNnY?oc=5",
-   "published": "2026-11-07T11:30:00+00:00",
-   "id": "9d3d1e29a857",
-   "impact": 3,
-   "cat": "banques centrales",
-   "raison": "Confirmation des achats souverains chinois sur repli, posant un plancher solide.",
-   "method": "IA"
-  },
-  {
-   "title": "Talks with Tehran have weakened, but contacts have not been cut off – Qatar",
-   "source": "TodayPress.tv",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUhCTnl0d09jZHE2ZVhiUThKbUVNLXNDWTNZWW5sOFVKMlN3RUV3WkJhSzM3MDBFcWdyTnpYMTFuVE5zamJfaUJNZkF5NHZDdUE0czl2TEVsRUhCeEh5RHd2TkFFME1Kc0N0SkdaUF9VWWVvUUlRaHIwWTdXb1M5SENkOWlPV3JLQ0lmQWtJZlNjYkYtTWJWZFVDZkJaVkZuYjRLUkln?oc=5",
-   "published": "2026-11-07T11:24:00+00:00",
-   "id": "2e944e9f26e0",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Négociations au point mort avec l'Iran maintenant une tension géopolitique latente.",
-   "method": "IA"
-  },
-  {
-   "title": "Diplomatic moves to contain escalation with Iran: efforts toward a ceasefire and the revival of nuclear negotiations",
-   "source": "صوت الإمارات",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNmhzUXBmYU1qSDNVSDlyZ3Bkd09HVEhZVV91RG5WSFRrM3Q2UzR1Mi1lTUZpeWpacEM0Y2Z4VTlRUHJ6aVhEQVFBMFFoQ1ZtOFVmejZJVlJxXzUwQ2tteHUxbk9RczJ2QnJQd3I4d0ozWmVfV0NMV1R0YzFuekY4SDlOcFJGdG1zSU5ac3Azd1g0ZUdWdzYwWGJGNE5DelFLZVNvZHlfVXIySHRRWkF3VlVoUkxRTC1iSmNZbU5tbjlaOVVyempIRzVCVHQwT0RfLUFwak5KTzZvSlJOWXBkYkxTUUJmYlN0RzEwR0dRcVBCaEl6QnNoTUhmdw?oc=5",
-   "published": "2026-11-07T11:16:25+00:00",
-   "id": "42f8d35c3869",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Efforts diplomatiques et espoir de cessez-le-feu érodant la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|cc0c872dc969": 1792341085.7077184,
   "news|7359f976c02e": 1792345568.7366388,
   "news|c1546704e877": 1792346495.4872189,
   "news|a1b24567df8d": 1792348284.151308,
@@ -8114,7 +8113,8 @@
   "news|874f43386a40": 1794154575.1109002,
   "news|6b2c3b436350": 1794154576.1197712,
   "news|589b0375d098": 1794154577.06695,
-  "news|873b401f9b3e": 1794155481.22608
+  "news|873b401f9b3e": 1794155481.22608,
+  "news|6a8d6c39f7f8": 1794156369.379405
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8458,6 +8458,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T16:46:09.379488+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Weighs Next Move in U . S . War with Iran – NaturalNews . com</b>\n📰 naturalnews.com · Dim 08/11 17:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.naturalnews.com/2026-11-08-trump-weighs-next-move-war-with-iran.html"
+  },
+  {
    "ts": "2026-11-08T16:31:21.226156+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s midterms humiliation makes Iran escalation more likely</b>\n📰 UnHerd · Dim 08/11 17:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXQ5YThMemF0dDNMREVmazVPVmtjUHRrbXRlQjI5T0cyRWZGSDJQSWlFRXBLVFdwNkNvaDNQY1VLbHlsaUpmUU9YQW5nU2xjNVRYLW9teVV0VlRYRTVlOU9mZkJ0MFV5czV0aURSRzBRNkdDYkQteXpaNTNEU3hyRUREcEJUSFNrMF9sdzZRTHVWbHN0VnpVRVRKb3dpRUFhZjBB?oc=5"
@@ -8751,11 +8756,6 @@
    "ts": "2026-11-07T18:46:44.107372+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Energy Security Over Transition : Iran War Lesson</b>\n📰 en.shafaqna.com · Sam 07/11 19:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://en.shafaqna.com/489783/energy-security-over-transition/"
-  },
-  {
-   "ts": "2026-11-07T18:46:43.124251+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Confirms US Strikes On Iran Qeshm Island</b>\n📰 centralasiatimes.com · Sam 07/11 19:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.centralasiatimes.com/news/279418449/trump-confirms-us-strikes-on-iran-qeshm-island"
   }
  ],
  "daily_forecast": {
