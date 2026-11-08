@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794130261.3895464,
+   "ts": 1794134746.3703015,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "4cb49740e7c6",
-  "3d178cf778d1",
-  "63b2665d1991",
-  "1e196029b77d",
-  "318e6196db54",
   "e27a7d1b3ec9",
   "6bc13bc8f1e0",
   "e8ba8771358a",
@@ -4088,7 +4083,12 @@
   "59d43cb92496",
   "20cff17801a3",
   "abc41b980795",
-  "20f92e83ab55"
+  "20f92e83ab55",
+  "bfb94188845a",
+  "9b89460ae806",
+  "758a4faefa9a",
+  "6d3360b4ada0",
+  "53ad22bc0e51"
  ],
  "news": [
   {
@@ -4378,6 +4378,18 @@
    "cat": "géopolitique",
    "raison": "Échec des tentatives de cessez-le-feu maintenant une prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Bat Yam sues Iran for NIS 208 million over deadly missile strike",
+   "source": "Israel National News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbEJocWlDZXotVHNJcGZBV1A1ZldEWE1Say1tekR0N19nZTUtOVNxTWJRTklaTWZqNWhNVFk2M2dWOF9yZTVGa1hsbEc3NDBoS0pkOGV6SnFEUQ?oc=5",
+   "published": "2026-11-08T08:08:31+00:00",
+   "id": "9b89460ae806",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US bonds’ midterm election rally skids to halt after strong jobs data",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
-   "source": "Reuters",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5",
-   "published": "2026-11-07T04:23:00+00:00",
-   "id": "9de03515a9a8",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8104,7 +8104,8 @@
   "news|01bc7f6b0b4a": 1794132691.3553925,
   "news|76a207aaecef": 1794132692.2060769,
   "news|6b39defd1682": 1794132693.0359426,
-  "news|745eb61811ff": 1794132693.8819048
+  "news|745eb61811ff": 1794132693.8819048,
+  "news|9b89460ae806": 1794134772.8647168
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8448,6 +8449,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T10:46:12.864806+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bat Yam sues Iran for NIS 208 million over deadly missile strike</b>\n📰 Israel National News · Dim 08/11 09:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbEJocWlDZXotVHNJcGZBV1A1ZldEWE1Say1tekR0N19nZTUtOVNxTWJRTklaTWZqNWhNVFk2M2dWOF9yZTVGa1hsbEc3NDBoS0pkOGV6SnFEUQ?oc=5"
+  },
+  {
    "ts": "2026-11-08T10:11:33.882238+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Turkish President Erdoğan discusses efforts to end war in Ukraine with Trump</b>\n📰 Українська правда · Dim 08/11 10:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlLW5DRDBvenVBZlhaWERSNnBDUk9IODVaTDBEajc0MHBmejZIRlVyVzVyNzM4SnBybUdLMUNHcEl1a0xYVEIyaEVyeUlGRVliTWwxYld1Y2VYNzNxZE5Fd1p0aXTSAXBBVV95cUxOTGVKbnZEOVFTTk94OEZFNEZOeFFscXZUVUNFOWlvaHE4dFJRY2dHTXMxXzAzcTNhZ3V6ei1ZLW1LR2ZxSG9uSGlxREU0UkFFazhZd2h3VjhiaE9Cemx1Y04zancwV2lyaGk2VmJXckxU?oc=5"
@@ -8741,11 +8747,6 @@
    "ts": "2026-11-07T07:16:05.226100+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu planned Iran attack before Israel polls; operative's mistaken tip to US stopped it: Report</b>\n📰 The Times of India · Sam 07/11 07:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxPaEhjZHVOUzQ4eXNIZURnR2o1ZkIyMW5YVmdSSFROT1pCUFpwODVHNXk1TE9ndXByOU9fR1RVdlgtN1pQaUtlWDlwaGVxRGRvdDhrbWNtaGJPSGNzM0FhOXZ1ZnBnRWo2bkt5NFlxdkJERXdpd3Q4SVJ6blhsUGswcnlqSFEyS1FWQkJjSEJpdVFQWTZkYTRCTEJ4QVktZmd6anFESWVsbk54SldkQk95V0dZcWZYMWNvTDJ0UHg4bGU2LVJManN4NE40UHFiTVpEYi1QUk5SSlVIWmszaTFCS1dKU0xqUDVIMW1pb2F2NVp6U0ZkWU9oTU5uaEVMaHN2em9DRzMwa3ljcXlDLThLVlhxdUxReU1zMXUzOGMxSExnamZCeHVPSTNDazc5Nk9VVzNpdFBwdURJS2tBempQc1BQazEtemtOMzMzZ2VjTFByeEh1UmFxSNIBjgJBVV95cUxNY1RsVjhQTXZncm5PejhsdU9qR05hLVE3ZXhXTWcwb3U5YkRkSVdFWlZaVDNJUW9pZTFaekdGbEZCTGtubkJSMGlnai11MjUybl9VcE5aUjFwZktwaVE2MDQ0aVBWdmxEb1E0SEZzUjd2NUxfNDRfSDZPTWxTVXMyMFFzcEFWWk83WWFUMTJqUjYtTVBJandnR1JaQkJ0TkxpdVdydHhielFTN1IzenRVeEVVbDd3YmpLQ2IwMFpXQ0wwYV9ibmpJTWxNQ3lMT2Jnc3dfT2ZTRFFZR1pMWjdPdXAwOGNzQTdNMlhCT3VNVG5qc0VhQUg5Nm1DODBldllwUDV1SEwxZVdoc2lmTlE?oc=5"
-  },
-  {
-   "ts": "2026-11-07T07:04:31.310611+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s hardliners see a weakened Trump – and want more to end the war</b>\n📰 CNN · Sam 07/11 06:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ra0drcEFnU1lVY0lfOVJ0YkFxeVFfbE9YcEdmZm1PNHAxMkpLWUU5Q29oM3dONEFqTlVqOVlGaDBWZWhOcjBmb3dQUEZSV1ctd2JlRkl1bUdhVE15Z2NteXF4cGctNDRnSnlxUTYzRC1vTTNlb3FTNldLM04?oc=5"
   }
  ],
  "daily_forecast": {
