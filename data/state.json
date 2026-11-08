@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "bb1d869d49ab",
-  "7e79121fafda",
-  "3468323558fc",
-  "31019a4485c5",
-  "79d431c0723b",
   "431ebf3c646a",
   "89957cff9b42",
   "fac712bd3da7",
@@ -4088,9 +4083,26 @@
   "0005a3fcc0e0",
   "673acd938816",
   "0a4185310c48",
-  "ed5821cf8e88"
+  "ed5821cf8e88",
+  "753bb0dbf46f",
+  "1d8d64f3de54",
+  "64eb7282ec38",
+  "c93fbb6afafb",
+  "07f672993955"
  ],
  "news": [
+  {
+   "title": "Trump signals openness to Iran deal amid renewed Hormuz tensions",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVmh0QnhrY1pkdGFDdlo0cWZOWUNHbDJadmRtN25wb05nc2RKMjUwYmhmczFNRzdYTFRlOTNpUWU4cXIwRDdHZ3NFSnRrQ0lMYlE?oc=5",
+   "published": "2026-11-08T22:19:04+00:00",
+   "id": "1d8d64f3de54",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says",
    "source": "The Washington Post",
@@ -6478,22 +6490,9 @@
    "cat": "taux",
    "raison": "baissier or (taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia's Attacks on Ukraine's Energy Infrastructure",
-   "source": "GV Wire",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzNFTzJrV2g2aTdRRl9FTEk3bmpnd2JhQ2J6TkxPcS1wbzIxb1Fka0dnRGI2RWhtYnFPV0hHQ3NYTTBHNENfc2pqd211dl9qM0RMVEN3bDlqNlBOb1FPak9jbi1aNXpkd2RPSzlzam9NYV8xWGRFd0NnNGF2MHBPZXRaWHdONnpFeWNka3VCU3ZadnM1Z05HSjVB?oc=5",
-   "published": "2026-11-07T16:03:54+00:00",
-   "id": "f4549d7f39ac",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Attaques récurrentes contre les infrastructures ukrainiennes soutenant le statut refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|36dcaa2c192c": 1792362687.2718682,
   "news|fd87faa227d4": 1792364272.4177618,
   "news|e22eeca638ad": 1792364495.402637,
   "news|35a465e3bb9e": 1792367165.3323905,
@@ -8126,7 +8125,8 @@
   "news|9c6fcad163aa": 1794174519.803626,
   "news|ac5c533906ce": 1794174520.7100406,
   "news|e558000d752f": 1794174521.6705477,
-  "news|673acd938816": 1794176164.019626
+  "news|673acd938816": 1794176164.019626,
+  "news|1d8d64f3de54": 1794177087.4214885
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8470,6 +8470,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T22:31:27.421626+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump signals openness to Iran deal amid renewed Hormuz tensions</b>\n📰 Iran International · Dim 08/11 23:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVmh0QnhrY1pkdGFDdlo0cWZOWUNHbDJadmRtN25wb05nc2RKMjUwYmhmczFNRzdYTFRlOTNpUWU4cXIwRDdHZ3NFSnRrQ0lMYlE?oc=5"
+  },
+  {
    "ts": "2026-11-08T22:16:04.019708+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says</b>\n📰 The Washington Post · Dim 08/11 23:02\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4yYXN5UmdKQW5IT2xBNmkySkR2RFBxX2llUFNBX0VNZjQwV0pUdUZtTXZsOUNNZG45T1Y0ZGpRdDVVUVBFRExmQnVUeGVyVUVZcW9HUDZGejVlWm9aZVZyWnR5MTh4ZG1ncWltNjBuM1U3NXR6NzhUVmZNR0V4ZnA5dUhjYmFyQjNJQlo3SVFQNXhLcUR2ak9aOG9oLUFqMmkxaGVvT2pBRWdTOTIzOE9ReVBtMEFrajZNbA?oc=5"
@@ -8763,11 +8768,6 @@
    "ts": "2026-11-08T12:31:24.827220+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>JD Vance gets the Iran war wrong: Diplomacy handed Tehran victory</b>\n📰 The Jerusalem Post · Dim 08/11 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE54enpNeEdCWkJmSEJuZVAzS0VPUEl5Y19aeWFCSGlwQXBTc090b2hPUkFqQ2ppbzN1V05IMmZ1VzRkQXp5UHp6Z2tVdGdRWG83dVFpLTF4aw?oc=5"
-  },
-  {
-   "ts": "2026-11-08T12:16:15.042551+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>COMMENTARY : The next Congress shouldnt let Iran become a  background war</b>\n📰 newstribune.com · Dim 08/11 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.newstribune.com/news/2026/nov/08/commentary-the-next-congress-shouldnt-let-iran/"
   }
  ],
  "daily_forecast": {
