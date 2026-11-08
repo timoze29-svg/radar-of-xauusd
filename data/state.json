@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "eac867ed0b4d",
-  "caf6bd36aab9",
-  "24d687f0bd9c",
   "860e244dc1a8",
   "ff8d4cbc88ca",
   "2fd40e20a4d1",
@@ -4088,7 +4085,10 @@
   "639857cd2dc6",
   "03db220c84b0",
   "efa20969f36a",
-  "b3257b1a5d51"
+  "b3257b1a5d51",
+  "097928471a1a",
+  "04209fc02064",
+  "5a6636993b29"
  ],
  "news": [
   {
@@ -4101,6 +4101,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "JD Vance gets the Iran war wrong: Diplomacy handed Tehran victory",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54enpNeEdCWkJmSEJuZVAzS0VPUEl5Y19aeWFCSGlwQXBTc090b2hPUkFqQ2ppbzN1V05IMmZ1VzRkQXp5UHp6Z2tVdGdRWG83dVFpLTF4aw?oc=5",
+   "published": "2026-11-08T12:00:00+00:00",
+   "id": "097928471a1a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4161,6 +4173,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hundreds of thousands left without power in Ukraine after Russian strikes, authorities say",
+   "source": "CBS News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JV3lDUVpZVXY0aUs3R2NtUDdKV1RTczJUaFRqdzkwZElYclVQMkRPeFdkcmdoRmhrSDFMU2xUTWZLdUItaC0yb0JWeVpjQm81cjdZMlBJdllHTHYycktHdUlFdEZTdHlHdklLdDZn?oc=5",
+   "published": "2026-11-08T11:20:29+00:00",
+   "id": "5a6636993b29",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6466,30 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Pourparlers de désescalade au Moyen-Orient érodant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Egypt's foreign minister discusses 'de-escalation' with Saudi, UAE, Kuwaiti counterparts",
-   "source": "Middle East Eye",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUmRuY1dadEJ1MGp2c0hrcHE4blNzS21tYi1yMHpoMFdhQjlQUlRjZXl6ODdXaC1WOFJuYXZKUmNYaHV3X01LaGlGcUJSeS12WVRDNWgzS0Z1WGJ5VGEtUlRnOHFxWmIyY29kdGpQai1vZHJrendtb2o0T0YtUXZLUmtjbHRpMFhBNXJqSnc2RUoxai1PcVBmNjA3ZV9OUGlWakRZQ1JQSGtURTVvaW9OQzliRV84UEFsTk00cHdZbw?oc=5",
-   "published": "2026-11-07T06:18:00+00:00",
-   "id": "e01bd9e0e954",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Discussions régionales pour une désescalade réduisant légèrement la prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "US job openings jump as layoffs fall in September",
-   "source": "torontotelegraph.com",
-   "theme": "Géopolitique",
-   "link": "http://www.torontotelegraph.com/news/279409894/us-job-openings-jump-as-layoffs-fall-in-september",
-   "published": "2026-11-07T06:00:00+00:00",
-   "id": "b49a3a9666aa",
-   "impact": -3,
-   "cat": "emploi",
-   "raison": "Emploi US résilient repoussant les baisses de taux Fed et soutenant le dollar.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8108,7 +8108,8 @@
   "news|93d71bd182ad": 1794139305.4633808,
   "news|a93cdaab9112": 1794140172.9949942,
   "news|2c456dfd172a": 1794140173.9821239,
-  "news|03db220c84b0": 1794140175.0423172
+  "news|03db220c84b0": 1794140175.0423172,
+  "news|097928471a1a": 1794141084.8271537
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8452,6 +8453,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T12:31:24.827220+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>JD Vance gets the Iran war wrong: Diplomacy handed Tehran victory</b>\n📰 The Jerusalem Post · Dim 08/11 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE54enpNeEdCWkJmSEJuZVAzS0VPUEl5Y19aeWFCSGlwQXBTc090b2hPUkFqQ2ppbzN1V05IMmZ1VzRkQXp5UHp6Z2tVdGdRWG83dVFpLTF4aw?oc=5"
+  },
+  {
    "ts": "2026-11-08T12:16:15.042551+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>COMMENTARY : The next Congress shouldnt let Iran become a  background war</b>\n📰 newstribune.com · Dim 08/11 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.newstribune.com/news/2026/nov/08/commentary-the-next-congress-shouldnt-let-iran/"
@@ -8745,11 +8751,6 @@
    "ts": "2026-11-07T11:31:35.955174+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mediation efforts between US , Iran continue to prevent escalation : Qatar</b>\n📰 omanobserver.om · Sam 07/11 11:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.omanobserver.om/article/1199233/world/region/mediation-efforts-between-us-iran-continue-to-prevent-escalation-qatar"
-  },
-  {
-   "ts": "2026-11-07T11:16:07.520189+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, weighing new Iran strikes, faces a divided party and a ticking clock</b>\n📰 Los Angeles Times · Sam 07/11 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0VFM19jUHZ4VkdtcTEzUnN2WGYyNGktT0tjQm0yakxKY2diUzMzWHpSbDVkMEVjVHpoTFBmZWhXem9IclU0X01IdXBJa19BU0dHaV9TXzc0Wm9YUHhaNlZmakp1NkhGQlhWUFl2YzcwOGFIUVE5eFktQlJkRVVYV3BocGlLRmZJSVQxZFpscnhGeEliam5rcDBaZlAtaHB6dlpPU3dTRHdOcVVfVENyR2RtMl9CUQ?oc=5"
   }
  ],
  "daily_forecast": {
