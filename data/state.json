@@ -815,7 +815,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1794038694.2494261,
+   "ts": 1794111367.6812491,
    "data": {
     "gold_hours": {
      "0": {
@@ -1012,11 +1012,6 @@
   }
  },
  "seen_news": [
-  "bf1674bf0047",
-  "030e56e5a1a8",
-  "5ccbadfa4983",
-  "f9904277f995",
-  "e1a767794758",
   "d5dc4b7f1a18",
   "583cac0782dd",
   "4dbe1fec83df",
@@ -4011,9 +4006,26 @@
   "d276d9f8091c",
   "1176d438b05d",
   "46de88aec2e0",
-  "2e645ec8a654"
+  "2e645ec8a654",
+  "c01b2f4e3ec8",
+  "3d9a115db223",
+  "11853b117ccf",
+  "9d3d1e29a857",
+  "fd56be94ef8b"
  ],
  "news": [
+  {
+   "title": "Ukraine war briefing: Russia ramping up attacks to ‘pressure’ Kyiv at trilateral talks, Zelenskyy says",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcUNkN1dXbGpGRnRSY193SHRBd3FtbHY4LTVJcy1Uc1c4d2J2Z2RhckRyajA3ZjBNbkduNC14RGc4UWN3THZmT1V2ekQ0VV9WTHF3RHp1Q19uODVyV2xEMjhYYzMtMVg1X0M2aHh3cXhrOGc5Rld3T0piSUxEa1JnOWFBNnlZbGFCbDRzanA5M3ZhQU9DczVVenV5c2syZzBLY05OUEZlVXVDcDBsUGNTbUFhaTRuV0FEZlUyd2dTV0dNcGZDSG9IOUc1QmVRZ3RuWFkwdjRicmxLbUFG?oc=5",
+   "published": "2026-11-08T04:10:00+00:00",
+   "id": "fd56be94ef8b",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Saudi and Qatari foreign ministers discuss de-escalation efforts",
    "source": "Middle East Eye",
@@ -4615,6 +4627,18 @@
    "method": "IA"
   },
   {
+   "title": "Global Banking Risks Rise as Central Banks Buy More Gold",
+   "source": "SD Bullion",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzZ4ak5sQlVNQUVJclRJdFpjWlZlUWpkTU9YbTF4bDVzYl9LMFl5TjF0bzVNbkxGYU5SOEhjZzRmd2JaNU9sN01UZVR4bkkySnF6ZWhwd0psWklMN2xCZGFOb0xhRFVVV2VCME9Nd05xU19JSnplOFBLZjd1QjhkbVFFajEwUUtpSWJQMlhsUTZEVWYyeTN3?oc=5",
+   "published": "2026-11-07T15:03:47+00:00",
+   "id": "11853b117ccf",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
    "source": "AP News",
    "theme": "Russie/Ukraine",
@@ -4997,6 +5021,18 @@
    "cat": "géopolitique",
    "raison": "Dégâts matériels en Ukraine s'inscrivant dans la routine du conflit sans rupture.",
    "method": "IA"
+  },
+  {
+   "title": "China Boosts Gold Reserves as Prices Fall",
+   "source": "Briefs Finance",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3N3M0ZSdTA3Q1Q1RS1tUXozNGVqRjRZaXVjLWxIYjRLZWkweEwxOFpvOGdsMVYySzJaN01aMHBEbEl4d2RrNWs1MDlMNWY0TFo4cElvcDdnNmM5cFBIdjdrMmxSM0RNTzc1UktNWlAxWTZEWHJuZ1FCcjY4cm8tQ3VmNnY?oc=5",
+   "published": "2026-11-07T11:30:00+00:00",
+   "id": "9d3d1e29a857",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
   },
   {
    "title": "Diplomatic moves to contain escalation with Iran: efforts toward a ceasefire and the revival of nuclear negotiations",
@@ -6377,42 +6413,6 @@
    "cat": "commerce",
    "raison": "Réduction des risques de barrières douanières, légèrement défavorable à l'or refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Chuck Schumer seeks Republican help to take down Trump’s tariffs",
-   "source": "The Times",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDM5SlFJb2VsMkZHZWg5cWdVQnRDVHZwYkxsMDNmZW9uS3BtQWNOcXJWNEwycWVIbHhZMjd0Z2l0M0RhNzVuMVpMVDhmSzN6NHBpQnFncHNza1ctQ1AxMEpLQjVfNDF4R1pOeDRNTF94RTdHNHNlV3RrOGM2RGlvY2JSNGlrLTIwbFdMaGlkbGNyb002LUR1TU5GS05uc0pUejMzTDFYQ2VCQ3AybnRfSQ?oc=5",
-   "published": "2026-11-06T19:20:11+00:00",
-   "id": "b19f5ac50db3",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Tentative d'atténuer le protectionnisme américain, modérant les anticipations d'inflation par les tarifs.",
-   "method": "IA"
-  },
-  {
-   "title": "Democrats could end Trump’s tariffs by January",
-   "source": "The Times",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDM5SlFJb2VsMkZHZWg5cWdVQnRDVHZwYkxsMDNmZW9uS3BtQWNOcXJWNEwycWVIbHhZMjd0Z2l0M0RhNzVuMVpMVDhmSzN6NHBpQnFncHNza1ctQ1AxMEpLQjVfNDF4R1pOeDRNTF94RTdHNHNlV3RrOGM2RGlvY2JSNGlrLTIwbFdMaGlkbGNyb002LUR1TU5GS05uc0pUejMzTDFYQ2VCQ3AybnRfSQ?oc=5",
-   "published": "2026-11-06T19:20:11+00:00",
-   "id": "439e68888ce8",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Perspective de levée rapide des tarifs douaniers diminuant le risque stagflationniste global.",
-   "method": "IA"
-  },
-  {
-   "title": "US Jobs Surge 165,000, Nearly Triple Forecasts, as Fed Rate Hike Odds Hit 80%",
-   "source": "CryptoRank",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFl0eHJaUmxJTGxrWTM2WjIyX040ZV82UFhVNnU0el9pUWdBa1ltNzZWcTRXTWlraS1JVjltMjBrR0tWNVczX0V5YVQ5V1JwNzB0cnpyT2tTVTU3NTF1b0szNERpa194WHgxOEdUcFlXUWZ1N21yTjl5Tm1iUEFiamFjN01PY3pPakFDMDlocjE1bDF3ZWYzU0E0TFlsTTFXdkZYMW81WktGVDVpN1FuQWRn?oc=5",
-   "published": "2026-11-06T19:15:37+00:00",
-   "id": "df59c7dfec8e",
-   "impact": -10,
-   "cat": "emploi",
-   "raison": "baissier or (emploi, fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
