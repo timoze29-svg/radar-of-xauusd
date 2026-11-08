@@ -1012,8 +1012,6 @@
   }
  },
  "seen_news": [
-  "1eeca2001cc9",
-  "93c03147c5c9",
   "977474fb32ab",
   "16eaea5e8e7c",
   "ae9e335316c0",
@@ -4011,7 +4009,9 @@
   "244e25f60911",
   "2d9eb2ab9eee",
   "c08a5e1e0059",
-  "1579874e2fd3"
+  "1579874e2fd3",
+  "e0e59b9910f7",
+  "601d715fec38"
  ],
  "news": [
   {
@@ -4133,6 +4133,18 @@
    "cat": "commerce",
    "raison": "Moins de droits de douane réduirait l'inflation et la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Trump claims his administration is making progress to end Iran war",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTA4QW53Ry1RRHZqUkpPSGVDU29JaDFtdEpZTjBqWVNDcmFFVXk5blpHTTBKQlpOUnFOWlNLQVhpVDRtMTFzQkhnOExId19pb3M3YzNYTWxCbEg5Yno4MzhScUNBLWdkeVktdXZfcHdfODNaVWxQdDR1LVoyOGV5ZTVPek55cmo5Q3BtOGJ2UEpUWlgtbkFKb0Q0c3lEa1VENXpzNHFLN3k1SWZaZW9j?oc=5",
+   "published": "2026-11-07T23:26:00+00:00",
+   "id": "e0e59b9910f7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold Selloff Marks Best Buying Window Since 2022, LS Securities Says",
@@ -6401,22 +6413,9 @@
    "cat": "géopolitique",
    "raison": "Lueur d'ouverture diplomatique nucléaire compensant partiellement les menaces militaires immédiates.",
    "method": "IA"
-  },
-  {
-   "title": "US Democrats planning to combat Trump's Canada tariffs",
-   "source": "The Jerusalem Post",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LODFKYXBaaFVGZV9fWWtTSXVNSGYxaHFxTFU3RjlUOU1zLXZMcXM2cURwbzh5QVlnTTlDY3Nmcjg3WlZOcWdUdXVMQVFyV0ZudG13RXF2UVdkZXpFbTVF?oc=5",
-   "published": "2026-11-06T17:18:36+00:00",
-   "id": "0d2a7092dc65",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Opposition aux tarifs douaniers canadiens atténuant le risque de guerre commerciale nord-américaine.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|d4b415a5539a": 1792286160.9230816,
   "news|78af0d928fc8": 1792289767.1364932,
   "news|51fe3deec34c": 1792289768.065905,
   "news|4fd004cef2d4": 1792289768.8812997,
@@ -8036,7 +8035,8 @@
   "news|ea21e40603b8": 1794098824.8472772,
   "news|a5d35225a142": 1794098825.7281067,
   "news|df2781f54cef": 1794099695.3046114,
-  "news|996da829a7bf": 1794099696.2245903
+  "news|996da829a7bf": 1794099696.2245903,
+  "news|e0e59b9910f7": 1794101488.7461524
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8380,6 +8380,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T01:31:28.746213+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump claims his administration is making progress to end Iran war</b>\n📰 CBS News · Dim 08/11 00:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTA4QW53Ry1RRHZqUkpPSGVDU29JaDFtdEpZTjBqWVNDcmFFVXk5blpHTTBKQlpOUnFOWlNLQVhpVDRtMTFzQkhnOExId19pb3M3YzNYTWxCbEg5Yno4MzhScUNBLWdkeVktdXZfcHdfODNaVWxQdDR1LVoyOGV5ZTVPek55cmo5Q3BtOGJ2UEpUWlgtbkFKb0Q0c3lEa1VENXpzNHFLN3k1SWZaZW9j?oc=5"
+  },
+  {
    "ts": "2026-11-08T01:01:36.224840+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features &amp; Events</b>\n📰 EnergyNow.com · Sam 07/11 14:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5"
@@ -8673,11 +8678,6 @@
    "ts": "2026-11-07T06:49:05.234139+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Martin Armstrong On The Iran War And Why 2032 Is Closer Than You Think</b>\n📰 armstrongeconomics.com · Sam 07/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.armstrongeconomics.com/armstrong-in-the-media/martin-armstrong-on-the-iran-war-and-why-2032-is-closer-than-you-think/"
-  },
-  {
-   "ts": "2026-11-07T05:46:01.069272+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'Netanyahu Would Have Been Killed': Trump's Explosive Iran's Nuclear Attack On Israel Claim | Watch</b>\n📰 The Times of India · Sam 07/11 06:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNSmZ5NS1mU1NDTXl4UkdwREZvVnd3UElsT3NwQ2tzYU1xNGlDT0FHUWNRN1BrdEtkTlFzekQ4a2xiSU9xVFRGakpuUUhXcHNFSWlaSUdna1R2WnZuZi0wWi1RLXVDMlBGMlZqOFNMSWlqekhqcEtoc29YZTR2NHRCUWpLUXVpbDl5Rzh1eUhnREJ5TFNRU1dyaXk1Wm9ubnBsWTJaU2ZjbjFNX1ZDd24ybXNlZlpZNXJ0V1U1STN2QUVMMlhFRHBMeloxekFnZmF4anJLeXRSaXNFanhfWjExWllXOGhQVlNYajdfSU5qV0x4ak9OQ3BvTlFLaHJuUXExdmpV0gGIAkFVX3lxTE5NZS15Z2w1ZlB5REFWVXpDZ3N3N1ZQalFZMGZpMkJWZXJ0ZWRPYzhGYzhKZWJOWTlnYUNjM2g2SVRxZGdmTHR1R2dqM2Q0MU41NExmNGl5SDVCYmdKSHFNV0syb0NKRC1UV1BRTGNEM3VrTWhqTGs3X0FKQWZqM21rM2FPcGVENzZZUzR6Z0l3QWtOTmJsRlRJVF90ZE84T0NrQk53dE1Fb3V2V2NqS294LWk2QVNRcGZWYzNxRjlORjJBdllONXA3WTQ3OWlzZ3Bzb3BzQ0Y2YmhTMHlUb2c2a3VGX05KRjVMb1VYS1gtRjdyQmZsX0dENFVMRHBlem5ybDFnSUJ3Zw?oc=5"
   }
  ],
  "daily_forecast": {
