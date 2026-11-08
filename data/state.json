@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794159063.594359,
+   "ts": 1794162674.825439,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "7cc5724e850a",
-  "bc3b383f50d4",
-  "9adf4a2f665d",
   "e7970c4b7963",
   "a386c1073812",
   "91a6757a6b48",
@@ -4088,9 +4085,24 @@
   "f168dc3cffd2",
   "f6cd380c1d00",
   "b4b518b4165e",
-  "0d4a82429453"
+  "0d4a82429453",
+  "61924ff70f11",
+  "2ae3f2c15906",
+  "05db4b8aec52"
  ],
  "news": [
+  {
+   "title": "Trump says return to war with Iran ‘highly unlikely’ as sides continue negotiations",
+   "source": "New York Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3ZDQVRkb2xkOXBFRGxhYk1qOWxlbmVUSnNSTG9lQ0sycG5yQlpNSzZSZmxkamR4SDFhdjNmbW5XdEtacnJFbzRNa1AxN0w4dkhIRGp3RWtGcjA3N2V3T1RDeENFa0hpQzQ4WVVqQ3o1Vm9oZ2M1eEZUaExFRDdGZ29mTkRoTnA1MGJtcVdLRTZjSy1IZ3NjN1l5ZkppUUUtVVpIeVFIT09hSDJORXZXa0ZDcHQxcUVER2xxMQ?oc=5",
+   "published": "2026-11-08T18:01:00+00:00",
+   "id": "2ae3f2c15906",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports",
    "source": "Reuters",
@@ -6478,27 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Frappes militaires directes impliquant l'Iran, provoquant une forte ruée vers les valeurs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
-   "source": "AP News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
-   "published": "2026-11-07T13:10:00+00:00",
-   "id": "599784f30220",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Léger soutien refuge, mais neutralisé par les perspectives de négociations de paix.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|a1b24567df8d": 1792348284.151308,
-  "news|0f9c71727b8d": 1792348285.0913222,
-  "news|dc6e12e89423": 1792348285.9702957,
-  "news|69359cef7728": 1792348287.0086398,
-  "news|c904bbf08160": 1792348287.937851,
-  "news|89c1cca4883d": 1792348288.9099646,
   "news|fb3d1fb26f9e": 1792349170.4924014,
   "news|aac92936a253": 1792349171.4044542,
   "news|48f7e95561aa": 1792349172.311893,
@@ -8123,9 +8117,10 @@
   "news|3234b5a428f0": 1794160908.0259109,
   "news|797a7eaef742": 1794160908.9163175,
   "news|b8e2fb3cf83f": 1794160909.7390041,
-  "news|b4b518b4165e": 1794161770.8149385
+  "news|b4b518b4165e": 1794161770.8149385,
+  "news|2ae3f2c15906": 1794162694.8031793
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Haussier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8467,6 +8462,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T18:31:36.139213+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Sentiment news 24h (+18), Taux réels 10 ans (20j) (+14), Momentum or (vs MM50) (-13)"
+  },
+  {
+   "ts": "2026-11-08T18:31:34.803261+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says return to war with Iran ‘highly unlikely’ as sides continue negotiations</b>\n📰 New York Post · Dim 08/11 19:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3ZDQVRkb2xkOXBFRGxhYk1qOWxlbmVUSnNSTG9lQ0sycG5yQlpNSzZSZmxkamR4SDFhdjNmbW5XdEtacnJFbzRNa1AxN0w4dkhIRGp3RWtGcjA3N2V3T1RDeENFa0hpQzQ4WVVqQ3o1Vm9oZ2M1eEZUaExFRDdGZ29mTkRoTnA1MGJtcVdLRTZjSy1IZ3NjN1l5ZkppUUUtVVpIeVFIT09hSDJORXZXa0ZDcHQxcUVER2xxMQ?oc=5"
+  },
+  {
    "ts": "2026-11-08T18:16:10.815059+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says he is unlikely to order Iran attack if talks progress, CNN reports</b>\n📰 Reuters · Dim 08/11 19:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5"
@@ -8755,16 +8760,6 @@
    "ts": "2026-11-08T00:47:03.986477+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Iran War Is as America First as It Gets</b>\n📰 jewlicious.com · Dim 08/11 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://jewlicious.com/2026/11/iran-war-america-first/"
-  },
-  {
-   "ts": "2026-11-08T00:47:02.956484+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran IRGC says 2  violating  tankers hit mines in Hormuz Strait , U . S . forces disable vessel in Gulf of Oman - Xinhua</b>\n📰 english.news.cn · Dim 08/11 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://english.news.cn/20261108/35f56d5f87294f648f3223cea814e580/c.html"
-  },
-  {
-   "ts": "2026-11-08T00:16:10.780100+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Betty McCollum: The buck for the Iran war stops with President Trump</b>\n📰 Star Tribune · Sam 07/11 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjBHYXU0c1VvQ1llYnlaS1dRRmFVUEJCMFdFRVFGdExyZTlLYUx4UHl0YjhhZXJTVC1ObWtxSWs2UndxNUxwVkFyMExLeERuQ3ZZU2ZLVVU0SHFjUWxkeWRoOVBNTEQwZENTSHV3YS1qMXZKZlpfM0VacDliUVlFWmVkc0xqbEFHdlBXSzlzU0xtbS1fUS1GT291SmtyREc5a245MmpKZ1Y?oc=5"
   }
  ],
  "daily_forecast": {
