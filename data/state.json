@@ -1089,13 +1089,6 @@
   }
  },
  "seen_news": [
-  "6069ab241d0d",
-  "1c5237e4ccbe",
-  "d0a2faf303d7",
-  "4b5b5bbde788",
-  "dff40886340a",
-  "198758d0cbae",
-  "c39c5532a1bd",
   "3d31b64300b8",
   "ac3882778068",
   "38cee2814a4f",
@@ -4088,7 +4081,14 @@
   "ce6c1383e4d7",
   "ae7b86143a50",
   "c8a5c5c4e952",
-  "88cc1ee74ae3"
+  "88cc1ee74ae3",
+  "6447b2a14743",
+  "46d21d419967",
+  "5690e8275f09",
+  "62c75f79168d",
+  "47a154ffcc76",
+  "d1b41df482b4",
+  "445e97132c9f"
  ],
  "news": [
   {
@@ -4104,6 +4104,18 @@
    "method": "IA"
   },
   {
+   "title": "Trump Holds Off on Iran Strikes as US, Israel Prepare for Possible Military Operation",
+   "source": "Arab Times Kuwait News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1VNQm13cVV5RkY0UW5SUS1BNGNCVTZ1VGxmOFZHWmhwZVdySGRPYUl4RVFZOTBsZHBMR21Icmk5SFhWZ09uYjAzc242TVc4aTBoTWRmbVpZQTBFaVlPYUZQSmFUb29sRldnTmFuUFFqYlk2enl0bk5lc1FZeUFLVHlSNURCbkd4aFhsYndkUEplbTVDa2tFNjgzQ0YzcEpkcVA4ZlV0LV9kLTY4RGFQYWYxdzNOTUJzOFZ2VlU0Yw?oc=5",
+   "published": "2026-11-08T22:20:10+00:00",
+   "id": "46d21d419967",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump signals openness to Iran deal amid renewed Hormuz tensions",
    "source": "Iran International",
    "theme": "Trump / Iran",
@@ -4114,6 +4126,18 @@
    "cat": "géopolitique",
    "raison": "L'ouverture diplomatique américaine avec l'Iran tempère la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Iconic Saudi tower hit as Houthis launch fresh strikes",
+   "source": "The Daily Telegraph",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTGM4bDJiQzItMkkyRkNoOTNpWnNhRWJHYkkyb29wWE9OazN6QzN1MzRqWXpIZHo1bE9YNDNaaFRZUHNXcGRqamtGSFg2NHdoZk9lSy1Qa25lTk5paWg3RFF2V2tNSC13cWd5ekNySEJjWnh6Z2VpeExmN0lfSWF2eDBaQnFfMldoMFVYQjhHWVdhT3FpdDlzMU82VkJCemdmOVdIUTFMVkxGVnR6ekdjdGMzQ0pNbjl2WGozNmtmcHVwYlNwZzRPbUFQM0UtUF9XZWlZWTFaM3k1cHlldUd0dUh4QzFUbkpsQy1KeDhhdFBhaW9wYUk0SFR0NElVNmw2bmdmay1LWFZHRmZtOExTWnBRRmE?oc=5",
+   "published": "2026-11-08T22:14:29+00:00",
+   "id": "5690e8275f09",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says",
@@ -4378,6 +4402,18 @@
    "cat": "géopolitique",
    "raison": "Atténuation du risque d'incident nucléaire immédiat en Ukraine, léger soulagement des marchés.",
    "method": "IA"
+  },
+  {
+   "title": "Russian attacks on Ukraine leave 600,000 without power",
+   "source": "UPI.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjZuUkxsUXZ0dHBwc3VjTTVsYnZzMWx1bDhMSHdJNFdPSU1CTjAxLWJpcmVQRzF1QmZCaGI4MnFaeWhTbU9WWHhUM2JHV3lENzBqN19YUmFkMlhsRGtJSkRmODhwWGtZNkJpVC1JNHgzNW5IcVY1cFV5NzNUS3BCaV9fUnFyUUdpYWFjTVVrTGQ?oc=5",
+   "published": "2026-11-08T19:35:39+00:00",
+   "id": "445e97132c9f",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
@@ -6454,42 +6490,6 @@
    "cat": "commerce",
    "raison": "Menace tarifaire agressive favorisant les craintes stagflationnistes et la demande pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. carries out targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals",
-   "source": "Los Angeles Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZldIY0JYNjllYmVNb1AyYzFHOGNyMzNXYmxvbERBQmpqX0VWYks5ZVVacDUyQk5TRTMxQU5QNUI4Z1ZKeG45dFZTVWZPTEdzdzl5M1F5V3BHOHpXWEMwbU1DRVF3R0pIWlR3TGRYcHNKNWRnb0JSaEZxem9XSlA0NkhVYUktUFU2RG1EcmpiVHhlNzdiRVU2eEdxMnVyQUhEMnZwck5NeGhWM3J4T2sxQllmcW9lMFdvc0NFdU9zdW5ydXM?oc=5",
-   "published": "2026-11-07T17:34:00+00:00",
-   "id": "e6efc09b1ab9",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Escalade majeure via des frappes ciblées américaines sur l'Iran, fort achat refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "3 Financial Stocks Retail Investors Are Watching As Treasury Yields Stay Higher",
-   "source": "Yahoo Finance Singapore",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFc4eWF0dDRIaFZYRERiT3RrTGZUYjAzd1BvSXhhWi1yUkNRdnRFbVN0VGRFOVJQY0lFQk9MTWJ3cndxTldSbGJMQzhzYzF0NDIyLTZhdFBUWXNwXy00MHEwb1UyekRXXzhWY0xGZmI4S0JjSGJPRl9vdjZNcGZmMnhaTGJPWHRZcnpYaQ?oc=5",
-   "published": "2026-11-07T17:12:13+00:00",
-   "id": "561d10c18f43",
-   "impact": -1,
-   "cat": "taux",
-   "raison": "Des rendements obligataires élevés augmentent le coût d'opportunité de détenir de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Bond Market Triggers Wall Street Risk Warnings As Long Yields Surge",
-   "source": "Stocktwits",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2xCMEJVN2tiLS12Y2FTZVcxZEE1WmNkNjBBQ3JKSnN2ZDQ4Z3IzenlpajdVanlpLVhVaUFLY3lOSjFvVUpOekxMN1l2V1c3MmV3a1FDZUtxLWhQb0NLM2dsb0RMQkRkQjc5ekQ1aE5oQnpvYUx5NHg0djU1OGRma0M0UjRjSWdUTVFWQTN1SnFkTWtwaGxuVWNqeVVDbGdYQVRkVEdIRWtBSVhqeDhpeTV4RllrNU5KUzZPajU4ZFgtZEtVcHBJZzRTOA?oc=5",
-   "published": "2026-11-07T16:27:30+00:00",
-   "id": "16afdabc6215",
-   "impact": -4,
-   "cat": "taux",
-   "raison": "baissier or (taux)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
