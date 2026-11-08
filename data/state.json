@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794142876.9008145,
+   "ts": 1794147349.730758,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "e5cbda3d0cdd",
-  "6619d187db63",
-  "b5e2a9a5776e",
   "e46802fff3ec",
   "6dc29371ec25",
   "607d3ae44ee2",
@@ -4088,9 +4085,24 @@
   "d923c3036584",
   "10b34e1ba5db",
   "0f232add599a",
-  "0217f5e10c70"
+  "0217f5e10c70",
+  "baf8f5a60387",
+  "8534f333ee2e",
+  "8291bbf4c37e"
  ],
  "news": [
+  {
+   "title": "‘Enormous, Unbearable’: Brik Warns US Strike on Iran Could Devastate Israel",
+   "source": "Palestine Chronicle",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDhqTUdLbXlKSGQwY2Vqclc0bU5Fb1Vfb19IMUZKajJqeVBTbzZOX2Z3QlV3TGx3dHVUSGtkaUpJRGNOc2RiaUFNXzhFOWp4TUNaSnNWRjM3STFFS3REVG83WE5OS1o5cmJWZTlOdHZzZjRkdDFzbVlIQzZaWjU5bWpEY1JrOTlWemJwSkJZWTRySzFHd3lwcEptTlRBc0RCUEtiMFVOUE1udE0?oc=5",
+   "published": "2026-11-08T14:11:40+00:00",
+   "id": "baf8f5a60387",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Israel defence minister says 'mission not complete' on Iran: 'They're trying to obtain nuclear weapons'",
    "source": "WION",
@@ -6478,22 +6490,9 @@
    "cat": "fed",
    "raison": "Le ton hawkish de la Fed et les taux élevés freinent l'élan acheteur.",
    "method": "IA"
-  },
-  {
-   "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVIwdXVFbzFRbXZRZ0J2UWRrUzJRUXRYVG92MmFBeWJPWFVseHFnWkloT0lmcjFoQ01kWmF1WjVoQ1h5Z29SLWNpQ3dZWHV3MlR1eGV3MUtwVkZfSWJXZXB0VmZ3cTdqYmo5cnI4QUJ3SXU2Qm1YZkJnd0Vfb205MkxpckpacnNuWVluU2VZUkZ5UUo0anQ3cUs3OGNQTGlOdkVMYWw2VFZ2d9IBrwFBVV95cUxQbkxQS1FEWkI1SUVQZkZvTWgwd1UyUnRacERKTU9Hd1BZSXNQaWx3bEpDR041Vmlxd2R2cW1xcDQtNU5QU01MT28wUnM2YjdqcVFmRlZDbjFOT3U3Y0pRYzZ0d0RCMGNPU2UxQlJqelZqSEo5bFM1QnBWaGlHa0ZnOTQ1QXo4b1laNkJhazlpb3JmeWRCQlNGYlhOa0VhVlo3TU9UcHFjTmh6YWVscy1J?oc=5",
-   "published": "2026-11-07T08:19:38+00:00",
-   "id": "0e5e2bda307a",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite du conflit en Ukraine avec pourparlers en vue, impact marginal.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|920968b377c5": 1792332963.39246,
   "news|8a1b11462249": 1792333888.2713227,
   "news|c745992d0f12": 1792333889.1470242,
   "news|52423c957d10": 1792333890.004756,
@@ -8110,7 +8109,8 @@
   "news|53de52365db2": 1794145565.1636007,
   "news|10b34e1ba5db": 1794146494.2297482,
   "news|d923c3036584": 1794146495.2373598,
-  "news|0f232add599a": 1794146496.184183
+  "news|0f232add599a": 1794146496.184183,
+  "news|baf8f5a60387": 1794147366.6131432
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8454,6 +8454,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T14:16:06.613235+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Enormous, Unbearable’: Brik Warns US Strike on Iran Could Devastate Israel</b>\n📰 Palestine Chronicle · Dim 08/11 15:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDhqTUdLbXlKSGQwY2Vqclc0bU5Fb1Vfb19IMUZKajJqeVBTbzZOX2Z3QlV3TGx3dHVUSGtkaUpJRGNOc2RiaUFNXzhFOWp4TUNaSnNWRjM3STFFS3REVG83WE5OS1o5cmJWZTlOdHZzZjRkdDFzbVlIQzZaWjU5bWpEY1JrOTlWemJwSkJZWTRySzFHd3lwcEptTlRBc0RCUEtiMFVOUE1udE0?oc=5"
+  },
+  {
    "ts": "2026-11-08T14:01:36.184369+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Erdogan urges Trump to resolve Iranian tensions and pursue diplomacy to end the Ukraine war</b>\n📰 صوت الإمارات · Sam 07/11 21:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZk5NTnU4bi1BRkxuQUtkYTdIVWFybGxaMDVCS0ZOYUdZR1NHOG1PaDRlZTRNWmFDUXRkNHFmVjdGa1JEYktob0s5VGlqZXZBald5b2xKdHQxdmFkb1lTUkJQUEt1Q0Y3RGNaZ2xkQ3daaHVGam9qaGhKOXN4SzVPWjlreG1TZkZ6N3RJLXA1cmZUa2hteTd1ZXYzbWsxN1I5VldiTHFscy1acTJzcVRkeUxnbjdteGo4TFlBdV9kWWFZX2VrbjhmNUJUREQ0Y2xobzZiZVBKRTNRQmc?oc=5"
@@ -8747,11 +8752,6 @@
    "ts": "2026-11-07T13:04:47.264030+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US in new targeted strikes on Iran as Tehran leaders weigh mediator proposals</b>\n📰 naharnet.com · Sam 07/11 12:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.naharnet.com/stories/en/323622-us-in-new-targeted-strikes-on-iran-as-tehran-leaders-weigh-mediator-s-proposals"
-  },
-  {
-   "ts": "2026-11-07T13:04:46.215616+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Russia-Ukraine war may be nearing an end, hopes for agreement</b>\n📰 سانا · Sam 07/11 13:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YelVmem5PMkVVYmk5Y2drZmtGMG43Q0lCckdxOVhlS2hzak40UkhhQkFTS1djakFZREJ4Qmg5akxGdnI0YTRXaDdtTlZaWmJRRlNr?oc=5"
   }
  ],
  "daily_forecast": {
