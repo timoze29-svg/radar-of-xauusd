@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "431ebf3c646a",
-  "89957cff9b42",
-  "fac712bd3da7",
-  "64521041309b",
   "6dfcbd2a88c9",
   "321fbdd5d311",
   "19f42eab4001",
@@ -4088,9 +4084,37 @@
   "1d8d64f3de54",
   "64eb7282ec38",
   "c93fbb6afafb",
-  "07f672993955"
+  "07f672993955",
+  "93eb8485fbde",
+  "4c4f4adb037b",
+  "4afbb60e3efb",
+  "ce6c1383e4d7"
  ],
  "news": [
+  {
+   "title": "US, Russia, and Ukraine to hold talks in Abu Dhabi",
+   "source": "Semafor",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnpESjhwYW40ZmxlN0NFbUV4TnRFZ05lTHRiRElyS29mUE1DZFJRNnZObWVBR2VucVhKLWFlc182TXF4Tll0MlFJbDVrd2NQSVk0S0J6bHRtSHJKb0hSZm1rSDBkeDVMc0lRWFVFMFZQVm9PemcwbExsQkJaLXBOZ0F5ZExlOGZKOHdCUnV3?oc=5",
+   "published": "2026-11-08T22:41:00+00:00",
+   "id": "ce6c1383e4d7",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Silver Price Forecast: Rally Faces US CPI Test After Dollar Jump",
+   "source": "FXEmpire",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmJEbTZkTzFqMndWbXN3ZTRUX1RFZGpBNks1RC1WaUhTRjZYVHZBY0FEdnQ0UWMxVlE4cV9ZdXB3NnZhV3hNRGdVOFdrTFhITEhrWmI1OFp3dzlTRngyWjAxNVpnbjVWU3M4WjZGTW56NGNyLWlmcEhiNHBFb0ktdUttZ2w3WVhlRWluRWozaGVTb3hwU0s5RXl0RktKQnktZlVIcUhKeTZnWlNwN1Y0MUJQd1M?oc=5",
+   "published": "2026-11-08T22:38:09+00:00",
+   "id": "4afbb60e3efb",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump signals openness to Iran deal amid renewed Hormuz tensions",
    "source": "Iran International",
@@ -4098,10 +4122,10 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVmh0QnhrY1pkdGFDdlo0cWZOWUNHbDJadmRtN25wb05nc2RKMjUwYmhmczFNRzdYTFRlOTNpUWU4cXIwRDdHZ3NFSnRrQ0lMYlE?oc=5",
    "published": "2026-11-08T22:19:04+00:00",
    "id": "1d8d64f3de54",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "L'ouverture diplomatique américaine avec l'Iran tempère la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says",
@@ -4110,10 +4134,10 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4yYXN5UmdKQW5IT2xBNmkySkR2RFBxX2llUFNBX0VNZjQwV0pUdUZtTXZsOUNNZG45T1Y0ZGpRdDVVUVBFRExmQnVUeGVyVUVZcW9HUDZGejVlWm9aZVZyWnR5MTh4ZG1ncWltNjBuM1U3NXR6NzhUVmZNR0V4ZnA5dUhjYmFyQjNJQlo3SVFQNXhLcUR2ak9aOG9oLUFqMmkxaGVvT2pBRWdTOTIzOE9ReVBtMEFrajZNbA?oc=5",
    "published": "2026-11-08T22:02:09+00:00",
    "id": "673acd938816",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "L'opposition démocrate aux tarifs et aux conflits atténue modérément les craintes inflationnistes.",
+   "method": "IA"
   },
   {
    "title": "Japan-China tensions persist a year after Taiwan remarks",
@@ -4962,10 +4986,10 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3k2UlNRSWl0LVdfSFFVR2NNOFlpSGVsWWRiS05JelN6M09NYy1GRFp1V2R6RjZaaWRfV2g0R0xkS2JrSlJCMF9LNHJ3aW5XdGdYWm9kVno5NUFKQS15VnJVRUVKdzU3MEtlQ3NZOHd0T01NR0tXalNUd0ZUVDVZRmJBNmpSWDllSWJsVk1TMUdZc3VtS2RtVkNBTERyeDVZUjk4ODhGM0hlWnlMQzRXbzBZS2dQQdIBuwFBVV95cUxQQkNrd3QxaE9kSV9USXh5bkNjNDdHUTZHZmhUYnU0NXVlY3gwTWxwVEppU2tFSWpidURIQ1MtVFdPYlhhd2lub1FSUUR6bVNJWVB4VmQxNUJQODRzU2dURk5XejU1N2FRaXlJSVRGOENKMHdpZFE0SWo4T2RjTU9IVzNvZUJ6OXRkSzJtVmJOczhRNk1NUElLcHJKR3hBZ1JobWl2OFNXcC1PbE5tU3VlQmxZSFcwZ0h2b0s0?oc=5",
    "published": "2026-11-08T12:27:29+00:00",
    "id": "324e9b20f8a0",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite de l'usure énergétique en Ukraine, soutien de fond déjà largement intégré.",
+   "method": "IA"
   },
   {
    "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine - ABC News",
@@ -4974,10 +4998,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmt3dmZtVkhucHJYZW1NSGk0SEF0eVlwdjJDYXpaYU5jUlFtaWpCUU1mQzRCVjBYWWJBaF8wcEpqczlSRjNKdzVNVHJfMFZUeUlBYTBBeVJaeE83R05fcXlUY1FfSWljdzRqdGRBSjkwYmNEOWozY05qYmlMOWx2NkVQcnk1cG10aFVrVm1TSUdva2U5Z3BnaWNHV0xRZmRBRlhQdDk2bUdOYWdlZFFzTWp30gG3AUFVX3lxTE1hbUtqNlV3YUhIMTdaQWYwWFBoVjExazBXVjZWUFlzNWd0Z0hMbmZ6OU4wMVVKNjBLcEhGYTVoSE90bURVbVZFSkpJS2NDeXRZYUY5SGNUeTIwc09kX1h2RGtFaWxkRnFVOWVRWllmbWdkc1JBUkRCME9hSlNJOUZXdUVmbm1xYlNVTlV1eVYxdmJldWxrYXNZbWFYQ0diMUIzZHAtNnpxXzU5cDFCR25XSkIyZnNIaw?oc=5",
    "published": "2026-11-08T12:04:59+00:00",
    "id": "da881fd6c464",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes russes continues en Ukraine, maintenant une faible prime de risque globale.",
+   "method": "IA"
   },
   {
    "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
@@ -4986,22 +5010,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmlpSTJYbzQ2dW1ZQWE4N2d4b3NUaTYyMF9VT01NTW9hVHptZkVKQ2RvbDR3bUZmellvUnk3Mm9vR0lDRkItcFdfVVB3YlJtRHZYMnl4UDFhS2IyX1RfUkJYQV9wYjFrbGFfVDZtYmtsRFRTZDJsMTZTeU5sQnZiR1dFY1JqaFNM?oc=5",
    "published": "2026-11-08T12:02:00+00:00",
    "id": "e1f8d4b3be28",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "JD Vance gets the Iran war wrong: Diplomacy handed Tehran victory",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54enpNeEdCWkJmSEJuZVAzS0VPUEl5Y19aeWFCSGlwQXBTc090b2hPUkFqQ2ppbzN1V05IMmZ1VzRkQXp5UHp6Z2tVdGdRWG83dVFpLTF4aw?oc=5",
-   "published": "2026-11-08T12:00:00+00:00",
-   "id": "097928471a1a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Un frein législatif sur les tarifs réduirait les pressions inflationnistes protectionnistes.",
+   "method": "IA"
   },
   {
    "title": "After US midterm wipeout, will Trump resume Iran war? An expert explains",
@@ -5010,10 +5022,10 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDNmWGZNTDcyU3pYZDB1M0ZQbGI4RlBjSXljSE1OZTZ6ZG1jQjRIQVZaa3BXOVRDSnNVWmhrQ0F3SWZ5Wkp3b3J3NFhaMjhacS1iT3B3NkxLM1U0YXJaSUVCT3pGUlZOSkJ6RFhQQk9HUVpJcFBzb29nUGNuODVnMWZIdzB2N3otY0dDYkZpbXFOcFVNQWl2RnFKQXdNcWdGYmhTMnZOdnBmYVpIVFVreV9kVdIBugFBVV95cUxPaVN0LVoyM3lkNmthc0xHWWxQWExfZmVlSFhfeDY1eEV1bHB4Q0F3RVBlMWM4NkQwQWdYSXZabWphUTFFNkRRQkp0Z1dLSDUweng3dmdWQTBaRHltdk5VSFJlS2tWRkZEblVmQ3paWXVqeUtlRmZ3S1hrLVljd1ZZcDhTaThGTmpjMjVEMEhVY0dXSW03azhzX3ZoVU41VFhWVmJXb3ktRGF4YnJudVpINVBvWVAzbFQ1ZXc?oc=5",
    "published": "2026-11-08T11:58:00+00:00",
    "id": "1abdc43ed212",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Spéculations sur la politique moyen-orientale de Trump, maintenant un biais d'incertitude.",
+   "method": "IA"
   },
   {
    "title": "Farage predicts 'very, very sharp' escalation in Iran after Trump's midterm flub",
@@ -5022,10 +5034,10 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkM0Q21jOHdiaVpmRGhkWnRVOXJrZ005WlhDZm0tMEFINnQ1Y1d1eDY1MFN2MHBGMFpFZzl3WFJoN0hYYkR4NVJqcWVzanNrdnl3aFhjcXJyS19sMUtPck53amQ2VURjRkdvaGpwTW8tbml1T1BRbmpYbGxnTUdMUHlUMEtGNGhBaWpXQXdhQmtqYlJySGdVaXJLZWh2OVBtYmZqNlFB0gGrAUFVX3lxTE9sTllldF9fMXVJRVhxbS1sT3NkWENnUGthMVRCYjlVcFJ1UmRoQTVQdFlKdnBiakJfbmM2aFlCRlZmbmVrd2x6YkNoUmh5anlRNHQ2dFlTOGhBNkFCRHM3a1lqUG5DMEQ1SnJRTy1rdUI2WDFNMXFpTjdKQmJ6VkJMTXhyUnJTXzF3UVpNZDQ3QVYzeEE3dnNpNXZZbWFsbXZONUZ2R0FyUFJUYw?oc=5",
    "published": "2026-11-08T11:58:00+00:00",
    "id": "10b34e1ba5db",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Commentaire politique prédisant une escalade, effet de marché très limité à court terme.",
+   "method": "IA"
   },
   {
    "title": "Sabotage Attacks Inside Russia Surge 88% as Moscow Expands Covert Operations Across Europe",
@@ -5034,10 +5046,10 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hTZjUxRTAxem5KekNhYWZhZ05NbTFsZXpLcEpGNmNYeEh0UDFiQ2huTUNRUTluNGo5TnBCNGdfaWlTTUNVUC1JNmptUG04Ymo1anBCSUF2STdFVzdRYkZncUpnS0NXV2gwa2V6a3NVR2wyRlpEb0xDZTFyWlFvNzBKOHpoazlyaENrb1NmcjQ4RkVEdEo2d2dNb2dzWVU1TlNoQmlVM19lOEstZ2JmUXBIVzlvZWtvNnpZZTcwWkJBeXUwUnlXNkR2SnRZUkc4a1E?oc=5",
    "published": "2026-11-08T11:46:44+00:00",
    "id": "b0cc483ec0b6",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Multiplication des sabotages en Europe renforçant l'attrait pour la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump Administration Divided Over Iran War Strategy",
@@ -5046,10 +5058,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGdsTjlvYkNxTV92d2NxMlk1eEdKcXBEZ3ljSlpMenpNbHd1OFhiMDNXenRwZW5aWG11Rl91MTNobnpDU1F6X3QwWTlIcjVMSVQxNWZmMGtwTHN0MUJaT0xlVXY1eXFIam54ekxVQ1NhaUp4c0lyOXpJZEtON0ZGSDg3WmQ?oc=5",
    "published": "2026-11-08T11:35:57+00:00",
    "id": "21b03da9f607",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Divisions stratégiques américaines créant une incertitude géopolitique modérément favorable à l'or.",
+   "method": "IA"
   },
   {
    "title": "Zelenskyy says Russian strikes leave over 600,000 people without power in Ukraine's Dnipro region",
@@ -5058,10 +5070,10 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTV2QTR4Z3dSS1Y5UUNreklDTGNnZmZPNEZMbHlqTXFmc1A2ZlBrMTNvMUpRMU13ZWdJQjRncHMwMjlwU0QtVlZIWHY0RGpCamQyOGdpT2lYWDllMVVDX2w2TnJlVDBQWGpRQWYtLWxKMVNCUEUzdlktbkh5Ml9MUVEteFZMSFNCSFZYa3c0Y185c0doWmVtN2Fhc1pWQnFSMWdlOGg3TDF2c3liTDItQ2V2Tm8tNW1ySHdRejFNWmotMTF4blhadGtFcUhvYW9xQjNR?oc=5",
    "published": "2026-11-08T11:34:49+00:00",
    "id": "4a600b4c37a8",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Coupures d'électricité massives en Ukraine, maintien du statu quo géopolitique sans surprise.",
+   "method": "IA"
   },
   {
    "title": "Why The Latest Riyadh Attacks And Aramco Damage Change Everything",
@@ -5070,10 +5082,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGlOUmN5cGJUYmJwNXo3U2dWcy1pNFFMTjhkMVlGSFA2Wl9LVmlQeUhSV1ZLOTkwbjZEZ2FaajFrZTktUHd1Y1JqeTJlMEpmd1gyZEpCOHptbnEyajhwWkE3YmozaTVfQWpXUlFLME43S09WemJWOHB2RDFKb2dhQUF3QnQ?oc=5",
    "published": "2026-11-08T11:31:12+00:00",
    "id": "0e40a7281658",
-   "impact": 2,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Attaques sur Riyad et Aramco : menace critique sur l'énergie dopant la couverture refuge.",
+   "method": "IA"
   },
   {
    "title": "Why The Latest Riyadh Attacks And Aramco Damage Change Every",
@@ -5082,10 +5094,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGlOUmN5cGJUYmJwNXo3U2dWcy1pNFFMTjhkMVlGSFA2Wl9LVmlQeUhSV1ZLOTkwbjZEZ2FaajFrZTktUHd1Y1JqeTJlMEpmd1gyZEpCOHptbnEyajhwWkE3YmozaTVfQWpXUlFLME43S09WemJWOHB2RDFKb2dhQUF3QnQ?oc=5",
    "published": "2026-11-08T11:31:12+00:00",
    "id": "2f2efca98f28",
-   "impact": 2,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Péril accru sur le complexe pétrolier saoudien stimulant immédiatement les achats défensifs d'or.",
+   "method": "IA"
   },
   {
    "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged , and other Mideast news",
@@ -5094,10 +5106,10 @@
    "link": "https://www.idahostatejournal.com/news/national/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/article_5b2a446b-c25d-5183-832c-83b1962363c9.html",
    "published": "2026-11-08T11:30:00+00:00",
    "id": "a7b29c6e202d",
-   "impact": 6,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Missiles interceptés et dégâts chez Aramco : nette accélération de la prime de guerre.",
+   "method": "IA"
   },
   {
    "title": "Oil Tanker Engulfed in Flames After Striking Naval Mine in Strait of Hormuz , Iran Says",
@@ -5106,10 +5118,10 @@
    "link": "https://www.lankanewspapers.com/2026/11/08/oil-tanker-engulfed-in-flames-after-striking-naval-mine-in-strait-of-hormuz-iran-says",
    "published": "2026-11-08T11:30:00+00:00",
    "id": "a93cdaab9112",
-   "impact": 8,
+   "impact": 6,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Pétrolier miné à Ormuz : risque de blocus énergétique et choc d'aversion au risque.",
+   "method": "IA"
   },
   {
    "title": "Live - Aramco tower damaged in Riyadh; Iran-backed Houthi missiles intercepted",
@@ -5118,10 +5130,10 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc?oc=5",
    "published": "2026-11-08T11:28:55+00:00",
    "id": "4f5a5244371a",
-   "impact": 8,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe revendiquée touchant Riyad : escalade régionale majeure incitant à la fuite vers l'or.",
+   "method": "IA"
   },
   {
    "title": "US Democrats prepare legislative limits on Trump tariffs — The Hill",
@@ -5130,10 +5142,10 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZEFKeVJjRGhncC01WTA4QmFJZW1wZHVCeGJhSWxfc252MFVJMlFKNFVwMXlLeldVTDlYVWg1QmYyME12Si00bXlvdVNOS1V6WFNIRzlOQWliYzJuU1NiNE13QTl1dUVuejQ2TURBSzcyUUZ6QlpkVnZWd0ZSUHdxWFZWMDBZb2Jjakw5cmRucWxnU3M0VEY3eU42M2JnM1dLWU1mU0ZQNA?oc=5",
    "published": "2026-11-08T11:24:17+00:00",
    "id": "51313b2b2c55",
-   "impact": 5,
+   "impact": -2,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Contrôle démocrate réduisant le risque de tarifs douaniers punitifs et d'inflation importée.",
+   "method": "IA"
   },
   {
    "title": "Hundreds of thousands left without power in Ukraine after Russian strikes, authorities say",
@@ -5142,10 +5154,10 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JV3lDUVpZVXY0aUs3R2NtUDdKV1RTczJUaFRqdzkwZElYclVQMkRPeFdkcmdoRmhrSDFMU2xUTWZLdUItaC0yb0JWeVpjQm81cjdZMlBJdllHTHYycktHdUlFdEZTdHlHdklLdDZn?oc=5",
    "published": "2026-11-08T11:20:29+00:00",
    "id": "5a6636993b29",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Attaques énergétiques russes récurrentes, impact marginal sur le cours du métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Russian strikes leave 600,000 in the dark in eastern Ukraine",
@@ -5154,10 +5166,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVExZWC03c2FHeXRnd2I3bFRIWERXVDFkVy11T05KZEZoRjVWN1M5ck1QYkNONTZXQ3VDclZueU1ZNmVDNzk1VVJoQm1pd2lIWnNTWVNqTG5IcFIwMWg4XzlsbGtHeE4xUGRkTjNneVNKMmZtbkl3cENCcW1QWHpheUNNRERHeFhvRHM0R3lJTmZ1VTNnUTFrLTZ0ZmtNVG91b1ZUZUdaVUFrWW8?oc=5",
    "published": "2026-11-08T11:09:00+00:00",
    "id": "6213fafae78e",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Destruction du réseau électrique ukrainien, dynamique de guerre déjà intégrée par les marchés.",
+   "method": "IA"
   },
   {
    "title": "‘No good options’: Iran war caught between Trump's midterm troubles, Israel's election shake-up",
@@ -5166,10 +5178,10 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QM1VwazJFcmdvM3pZNktGY2MtcEduUDRkY2g4aXlqaFV3Rm84MmVjcW9hSkRiSHRhd1VuREtlVkI5d0VORk9IWnNyWWJxV0ZHRDVRbnZQRTNlVW1aUHZVRGRtMXhCYXUtWUE?oc=5",
    "published": "2026-11-08T11:03:51+00:00",
    "id": "9cef3fe95494",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Impasse stratégique au Proche-Orient maintenant une prime de sécurité résiduelle sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Democrats won Congress. Can they actually stop Trump’s tariffs?",
@@ -5178,10 +5190,10 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82NmJBVmRKb3NfUXBrUnd4ZDU4UzYtc2FUSHRDdlZqUUUweVJQdGZXczcwV0sxQkVTcmdsZ2ozZW16WWQzNllzQ21WM1NpeXltQnhxMk5meGw4T2IxdngtZjZMWDFMUzM2eXhCZ2dXOXZzckpqNE5FVUFJalLSAXxBVV95cUxPNjZiQVZkSm9zX1Fwa1J3eGQ1OFM2LXNhVEh0Q3ZWalFFMHlSUHRmV3M3MFdLMUJFU3JnbGdqM2VtellkMzZZc0NtVjNTaXl5bUJ4cTJOZnhsOE9iMXZ4LWY2TFgxTFMzNnl4QmdnVzl2c3JKajRORVVBSWpS?oc=5",
    "published": "2026-11-08T11:00:00+00:00",
    "id": "10679ddc5f8d",
-   "impact": 2,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Doutes sur l'application des tarifs de Trump, freinant temporairement les anticipations d'inflation.",
+   "method": "IA"
   },
   {
    "title": "Gas prices top $4 a gallon as Iran war escalates - ABC News",
@@ -5190,10 +5202,10 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3VGQk4yNlhfVlFWeWNlQ0tGSmJ0Zl9FZTNYVXRqNTVjWFdVS3RpNGt3MGw5WEtEUmF3Y0hJNlpkTkFTeGZuZUUxZVZNQkp3djRNWnpsR3d1SDNlS1BKbVU1bDQ0WTVGY1ZGOV9xWk9QZDY3MkJkQ2hYdUg0aF9LaFVvU05GZEE2ZHk5ZtIBkgFBVV95cUxOVHhfbDNEbG9OM3dDTm5ueTVHbUNrOWU4Smp5LThnNWxlNEdvaFF1QWRaMnJab1NLRGtTT2JubHo5SHBRZV9MZC1nRUhtZDAwOTByamgtckN6Qzhqa3JucHJnQUlDT0ZEY2hUU1VjQW43MGIwR3BQd2dHbHVHbE5UM1ZwcTNhX2dvVGl6NC1MeW9BUQ?oc=5",
    "published": "2026-11-08T10:53:05+00:00",
    "id": "93d71bd182ad",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 5,
+   "cat": "inflation",
+   "raison": "Pétrole cher et escalade avec l'Iran : choc inflationniste classique très haussier pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Taiwan receives new batch of US F-16 Block 70 fighter jets amid rising China tensions",
@@ -5238,22 +5250,10 @@
    "link": "https://nuclear-news.net/2026/11/08/4-b1-south-korea-moves-to-join-iran-war-under-us-pressure/",
    "published": "2026-11-08T10:30:00+00:00",
    "id": "2c456dfd172a",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Argentina appeals FIFA sanctions over World Cup final",
-   "source": "theeagleonline.com.ng",
-   "theme": "Géopolitique",
-   "link": "https://theeagleonline.com.ng/argentina-appeals-fifa-sanctions-over-world-cup-final/",
-   "published": "2026-11-08T10:30:00+00:00",
-   "id": "89cef24af7c0",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Internationalisation du conflit iranien avec Séoul, provoquant une hausse de l'anxiété mondiale.",
+   "method": "IA"
   },
   {
    "title": "Saudi Aramco tower in Riyadh damaged after attempted attack , Ministry says",
@@ -5262,10 +5262,10 @@
    "link": "https://www.moneycontrol.com/world/saudi-aramco-tower-in-riyadh-damaged-after-attempted-attack-ministry-says-article-14074945.html",
    "published": "2026-11-08T10:30:00+00:00",
    "id": "2e91be48ea3f",
-   "impact": 6,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Confirmation d'infrastructures Aramco touchées à Riyad, déclencheur classique d'achats de panique.",
+   "method": "IA"
   },
   {
    "title": "Saudi Aramco building in Riyadh damaged by falling debris in attempted attack , ministry says",
@@ -5274,10 +5274,10 @@
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-aramco-building-riyadh-damaged-falling-debris-attempted-attack",
    "published": "2026-11-08T10:30:00+00:00",
    "id": "09a963a4f226",
-   "impact": 6,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Dégâts physiques confirmés sur Aramco, alimentant la prime de risque géopolitique régionale.",
+   "method": "IA"
   },
   {
    "title": "Missile strikes multi - story Aramco building in Riyadh financial district , witnesses say - LocalNews8 . com",
