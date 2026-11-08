@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "977474fb32ab",
-  "16eaea5e8e7c",
-  "ae9e335316c0",
   "8852255033a4",
   "dc5e5fb0ccfb",
   "e825c27b8562",
@@ -4011,7 +4008,10 @@
   "c08a5e1e0059",
   "1579874e2fd3",
   "e0e59b9910f7",
-  "601d715fec38"
+  "601d715fec38",
+  "65c4b789c545",
+  "9de03515a9a8",
+  "813ca28fa1f6"
  ],
  "news": [
   {
@@ -5683,6 +5683,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+   "source": "Reuters",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5",
+   "published": "2026-11-07T04:23:00+00:00",
+   "id": "9de03515a9a8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Dollar jumps after strong US payrolls report",
    "source": "The Economic Times",
    "theme": "Emploi US",
@@ -6400,18 +6412,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Imminence potentielle d'une frappe conjointe sur l'Iran, nette montée de la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "As Trump weighs Iran strikes, possible nuclear opening emerges",
-   "source": "Al-Monitor",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdqSVpGZ3h3WmZrN3J0SWxWMWZsek8zRURDMFV2YWtPQ1FEX2R0MWNCM0ZJR0pGdllGUThNV1NyMWZqSnZXUmFKOGZJU1Z4a1pFUEtqRWFNQjE2UElWVFREU1piWGNWRlVBUF93QkRueXY0NTI4elpNdWFJa2dpUVF0M1BHMHNxVEJlTDBweW1LOUVZcUR5MGZ6ODloOHBVQUZRdWtR?oc=5",
-   "published": "2026-11-06T17:25:40+00:00",
-   "id": "4b11a0bea08f",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Lueur d'ouverture diplomatique nucléaire compensant partiellement les menaces militaires immédiates.",
    "method": "IA"
   }
  ],
@@ -8036,7 +8036,8 @@
   "news|a5d35225a142": 1794098825.7281067,
   "news|df2781f54cef": 1794099695.3046114,
   "news|996da829a7bf": 1794099696.2245903,
-  "news|e0e59b9910f7": 1794101488.7461524
+  "news|e0e59b9910f7": 1794101488.7461524,
+  "news|9de03515a9a8": 1794102375.0098257
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8380,6 +8381,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T01:46:15.009910+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar says its mediation efforts between US and Iran continue to prevent escalation</b>\n📰 Reuters · Sam 07/11 05:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5"
+  },
+  {
    "ts": "2026-11-08T01:31:28.746213+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump claims his administration is making progress to end Iran war</b>\n📰 CBS News · Dim 08/11 00:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTA4QW53Ry1RRHZqUkpPSGVDU29JaDFtdEpZTjBqWVNDcmFFVXk5blpHTTBKQlpOUnFOWlNLQVhpVDRtMTFzQkhnOExId19pb3M3YzNYTWxCbEg5Yno4MzhScUNBLWdkeVktdXZfcHdfODNaVWxQdDR1LVoyOGV5ZTVPek55cmo5Q3BtOGJ2UEpUWlgtbkFKb0Q0c3lEa1VENXpzNHFLN3k1SWZaZW9j?oc=5"
@@ -8673,11 +8679,6 @@
    "ts": "2026-11-07T06:49:06.158979+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran reviews Qatar proposal to revive nuclear talks with US</b>\n📰 siasat.com · Sam 07/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/"
-  },
-  {
-   "ts": "2026-11-07T06:49:05.234139+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Martin Armstrong On The Iran War And Why 2032 Is Closer Than You Think</b>\n📰 armstrongeconomics.com · Sam 07/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.armstrongeconomics.com/armstrong-in-the-media/martin-armstrong-on-the-iran-war-and-why-2032-is-closer-than-you-think/"
   }
  ],
  "daily_forecast": {
