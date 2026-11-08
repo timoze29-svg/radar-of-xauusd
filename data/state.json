@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "5d681cabfad9",
-  "d8dc7cce417b",
-  "ee51ab3828e3",
-  "829fd4da4377",
   "103a2f267eac",
   "e2334d62d053",
   "575c1f007278",
@@ -4088,7 +4084,11 @@
   "c8d901c23c20",
   "b33889ad1498",
   "20d6f1dafa16",
-  "2a928bf5502a"
+  "2a928bf5502a",
+  "4f5a5244371a",
+  "9276f63eff36",
+  "4c22bf08f1f6",
+  "d7b173b89b7f"
  ],
  "news": [
   {
@@ -4374,6 +4374,18 @@
    "link": "https://www.lankanewspapers.com/2026/11/08/oil-tanker-engulfed-in-flames-after-striking-naval-mine-in-strait-of-hormuz-iran-says",
    "published": "2026-11-08T11:30:00+00:00",
    "id": "a93cdaab9112",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Live - Aramco tower damaged in Riyadh; Iran-backed Houthi missiles intercepted",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc?oc=5",
+   "published": "2026-11-08T11:28:55+00:00",
+   "id": "4f5a5244371a",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -5050,6 +5062,18 @@
    "cat": "géopolitique",
    "raison": "Pressions militaires russes pré-négociations, soutien marginal pour la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "‘Catastrophic’ fallout of looming war",
+   "source": "News.com.au",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMTZjYngxYVFnY0o3LW1HOVJpS0h2aDhSdWxpMHpES2RFUC1LdTJZVmFwM2xubnc3STBfQU93QlpBTEN3Y2FmQnhGVHpuR0ZpaW9RaWpKelBsMnZoSnlWZ2UtNUgwZ05XM1FKOG5zS2VyTDdBX2I3TGNfcEhZTWxrWmJ2OVVOdll5R05pSXVsQmFoNVVvMkh5emNhTE5aQXRZLU5fNUlxQW8tYmN4QnhpOGtVdGVjUVZWbzNabm5jZTNoUUFDd08xVm94Sl81OC03T1htN0dJUXQtNXJEU3EwbC1vYU1SdjJwUWRiTFpB0gHzAUFVX3lxTE90aWI5VTJxQlc3TlIwWFZvamVEal9YTHBtVDVMQ3lnYmFQZ1BZdTljNnJjWXdWbkh3VHZrZjRQakp2ZEs0dzNmQTRiZnN5YXA2WDZNQmstVFB5bi0xaUpRQjJhYVd4YVFER09nN3FUWE8wRXpZM01LNUVQalZ2R3FRNXVJeHNqbEhLX2RBQTVUTng1N3gtZVVWVGhxNkhOLW5GTDNka0czTHRaVzZPMTZHVWhMTkZ3WDAtdXdQT1pyMHlZalRzX19Vc1UxYTByM0x3WUpFcnNMakNxRzRYUXhWRzFkS0dNYW9jZkFXbllkR1VBQQ?oc=5",
+   "published": "2026-11-08T03:57:31+00:00",
+   "id": "4c22bf08f1f6",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Russia-Ukraine war: Who will break first?",
@@ -6466,34 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Légère prime de risque géopolitique, tempérée par l'anticipation de pourparlers diplomatiques.",
    "method": "IA"
-  },
-  {
-   "title": "Russia hits Kyiv with airstrikes ahead of trilateral talks",
-   "source": "DW.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXlYcGlZeHpMZ0ZYVjJpbno0YkMxQ2l4VEROcy1VZVQtcVVTaTl4MmgxcFoybXM1bEZVTWhGdGkyTDN2aHZOTHg1MHlpYnh4Z2ZPN2RZQmI4cUVKdTZULWx0VHpFNTFJbVVuaXlWU3BkRVNIMUNZdlcwNF9jT29LWXktYWlGY2NOQk1nY0NSZVl6eVgwYWJsSnVydk00WVZ60gGgAUFVX3lxTE1nQzM5Z3hmakVCbmIwb0ExQzRmajlFMENRa1dLUlpsbFRXZThkT19RN0Q2ejRRbF9McjZXQ2VDN1RCc2VVX2Q5aVpjbHNQbGUzWHJma0xBUGc5Nm45SmMyMWpfTTVDZGw5a3ZYX2QyWjlzWUxlNHVhQlBwWHBkbGdnTFZtZThZVU1qajV1aHBTRnVxR3JsN3JHcmFSY1h6S18?oc=5",
-   "published": "2026-11-07T09:26:21+00:00",
-   "id": "96cd6b486fc3",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions militaires persistantes soutenant modérément la demande d'or comme valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Casualties reported in Kyiv as Russia, Ukraine trade accusations about overnight strikes",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQzRvcUZaQl8xX1p4Qy1xcUJsa0VPbTBCeEhybXQ1eWRsUnJnclR1YVk2ajlRc1MzRTFKQXZOdFRieHpSYjhZQUJTTVlnM1BFTngxTUJacjJOOXlWSWxKYmZZZkNoUklrWGZjOWlZX0pfZTA3bEJhSk5zQlh4TlpKSXFDdGF6S0tmOGhXdVlhYnlPSk9hZ25hQTkzSk1HblV6NWhuaU0tSXZwV3RVblh2a2pfUER0ZjIwNzZwMDhsYjlkcEJnQWFz?oc=5",
-   "published": "2026-11-07T09:12:24+00:00",
-   "id": "9e26b1eb1274",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frappes récurrentes maintenant une prime géopolitique résiduelle sans escalade majeure.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|8e0430d42e31": 1792336561.3597128,
   "news|6063cc168d53": 1792339291.505506,
   "news|cc0c872dc969": 1792341085.7077184,
   "news|7359f976c02e": 1792345568.7366388,
@@ -8106,7 +8105,8 @@
   "news|baf8f5a60387": 1794147366.6131432,
   "news|113fe156ac2e": 1794149346.2841368,
   "news|07fffb888104": 1794150277.9068642,
-  "news|579943a8ce7e": 1794150278.9084702
+  "news|579943a8ce7e": 1794150278.9084702,
+  "news|4f5a5244371a": 1794151884.3837407
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8450,6 +8450,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T15:31:24.383800+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Aramco tower damaged in Riyadh; Iran-backed Houthi missiles intercepted</b>\n📰 Iran International · Dim 08/11 12:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc?oc=5"
+  },
+  {
    "ts": "2026-11-08T15:04:38.908781+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US hits anti-arcraft device on Iran's Queshm Island in minor strikes, Donald Trump says</b>\n📰 The Jerusalem Post · Dim 08/11 13:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ3hBa3JORVJTTllMNFlWcDI2M2EwQVowc05SZVhzNWNMT3ltcndlcFVJQjRGMzYzNFh0dlZlb0pqMTludzVQTFFxVXhvdGQyYTVsclBkbWQ3dzEwajllQ0VscWVZMTdVU0E?oc=5"
@@ -8743,11 +8748,6 @@
    "ts": "2026-11-07T13:46:05.748665+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections</b>\n📰 CNBC · Sam 07/11 14:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5"
-  },
-  {
-   "ts": "2026-11-07T13:19:09.281840+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says US making ‘a lot of progress’ in talks with Tehran</b>\n📰 Arabian Business · Sam 07/11 05:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
