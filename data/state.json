@@ -1012,14 +1012,6 @@
   }
  },
  "seen_news": [
-  "d38b03c4b24f",
-  "c4bcb936be75",
-  "dc3652916475",
-  "35bdb19bf6c3",
-  "e730490251c7",
-  "c039dddbb689",
-  "e734065ddef8",
-  "f848074bcc70",
   "b054896ab5e3",
   "3787259e3eb2",
   "6a290ee3f909",
@@ -4011,9 +4003,29 @@
   "768351ff2692",
   "13f80790a7af",
   "5019d646a16c",
-  "34317a783caa"
+  "34317a783caa",
+  "039b3e5cf167",
+  "a30f7d2de1a2",
+  "3b0dd699a6cf",
+  "e03250dd0efc",
+  "42f8d35c3869",
+  "379ef0bf4911",
+  "e82d02bbaf94",
+  "bde1fe7383b7"
  ],
  "news": [
+  {
+   "title": "Live - US hits vessel off Iran, launches task force to disrupt land supply routes",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc?oc=5",
+   "published": "2026-11-08T01:47:38+00:00",
+   "id": "a30f7d2de1a2",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "Escalade militaire directe USA-Iran renforçant immédiatement la prime de risque géopolitique.",
+   "method": "IA"
+  },
   {
    "title": "What the Democratic sweep means for Trump's tariffs and AI",
    "source": "Nikkei Asia",
@@ -4301,6 +4313,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "US embassy alerts put Middle East travelers on high security watch",
+   "source": "https://www.thetraveler.org/",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmFYLTBjZFllZmNBWUctLUNGejJFb0NkeURoaEVzV3MtR1MybDdfUkdURVFYZHE2dkVHdTVlRURFYlk1eF83bGdJT3BpUGJsSWFNNzgzSlFXRkFsLUdkOGJ2d0ZnMEdqT3FuLWlzaEtqSDdfZVBCMlByS1l3ckdLczdxNEpGVy1lNUVJcDgwRWNfU0VpYTZZMWNGNA?oc=5",
+   "published": "2026-11-07T21:42:18+00:00",
+   "id": "e82d02bbaf94",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Alerte de sécurité confirmant les tensions régionales, léger soutien pour la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders",
@@ -4924,6 +4948,30 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Dégâts matériels en Ukraine s'inscrivant dans la routine du conflit sans rupture.",
+   "method": "IA"
+  },
+  {
+   "title": "Diplomatic moves to contain escalation with Iran: efforts toward a ceasefire and the revival of nuclear negotiations",
+   "source": "صوت الإمارات",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNmhzUXBmYU1qSDNVSDlyZ3Bkd09HVEhZVV91RG5WSFRrM3Q2UzR1Mi1lTUZpeWpacEM0Y2Z4VTlRUHJ6aVhEQVFBMFFoQ1ZtOFVmejZJVlJxXzUwQ2tteHUxbk9RczJ2QnJQd3I4d0ozWmVfV0NMV1R0YzFuekY4SDlOcFJGdG1zSU5ac3Azd1g0ZUdWdzYwWGJGNE5DelFLZVNvZHlfVXIySHRRWkF3VlVoUkxRTC1iSmNZbU5tbjlaOVVyempIRzVCVHQwT0RfLUFwak5KTzZvSlJOWXBkYkxTUUJmYlN0RzEwR0dRcVBCaEl6QnNoTUhmdw?oc=5",
+   "published": "2026-11-07T11:16:25+00:00",
+   "id": "42f8d35c3869",
+   "impact": -3,
+   "cat": "géopolitique",
+   "raison": "Efforts diplomatiques et espoir de cessez-le-feu érodant la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "Australian Prime Minister urges US to de-escalate Iran war after Republican midterm losses",
+   "source": "Middle East Monitor",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSlR6T0J3N2hrUGVVMkhNVWN6U1dPYUY2enNZMFNpZGlkd2NYZmpGMVpGRVFwdUF5Mk9hQTV3OGZ6c3B0aVcyQWtoOGFOVXo5RFh2cmFVdUpGaW5qMTRTUnVLdXVQODIxdGpZT3NHMmJ3d01OUEMta3lwSXBsWjdsLTd2OThfMmVsc1dQcjkzSU5UeklIQU5lYU50dFBBZ0hlVFE5ZDEtUko0NU5zREU0SjlVeEljczAtai1IcUtWSUhOc0hpUDQyWFZNU0hYWnPSAdQBQVVfeXFMTm5MNmR3QVc0WWczWHNqZGY2ZVVMc2lWVE9RcFQ3SXBTcnpZQlQxeklKMWVETFRxazhuYjJDeEZPSDdHOEZlZmdvUkxKelJYaENiX3I0YlRDMUpNZ0s1ZnNYeklHYmpaVHBoZ1F4WVpDLTQzZnJfQ2thX3FXdkpnMlV5cS1uSjRCVjg2OVJEMm9iYVRsN044bDJvSUNSN3lyT3lmTVc2al8taHhUbTVwUERBOG9uQlZ6ZjA0MUNRSUVFajdUaDlOeEVfamdxMUJDY04zXzc?oc=5",
+   "published": "2026-11-07T11:14:00+00:00",
+   "id": "e03250dd0efc",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Pressions diplomatiques alliées pour une désescalade, effet marginalement baissier sur la valeur refuge.",
    "method": "IA"
   },
   {
@@ -5609,6 +5657,18 @@
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Oil Swings as Traders Assess Iran War De-Escalation Prospects",
+   "source": "Energy Connects",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWk9LWjhQNDVzUlk4NjhPclI0cFF5Zk00OU1ibmFiNWZfMXVlb3oyU21PbHZ6MkRfY25DNDNrUUFUdjBSQnRNVjZZVl84RTM1bktQd0g4cmt0MThXeEVNU2Q5YXFpN3NXZ0xYNnN5YmYwWi16X0pPRnVaMWJrN3ZrOWx6Mk5RUG94VGJqaTBrMDNva1hOZWZWRTBfZmI1RHNrdF9RM1F3TUgydHp2NXh3NnNsRTNmVU0?oc=5",
+   "published": "2026-11-07T05:23:32+00:00",
+   "id": "3b0dd699a6cf",
+   "impact": -2,
+   "cat": "géopolitique",
+   "raison": "Perspectives de désescalade réduisant à la fois le risque géopolitique et les craintes inflationnistes.",
+   "method": "IA"
   },
   {
    "title": "'Netanyahu Would Have Been Killed': Trump's Explosive Iran's Nuclear Attack On Israel Claim | Watch",
@@ -6352,66 +6412,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Frappes localisées sans escalade majeure à Beyrouth, impact déjà largement intégré.",
-   "method": "IA"
-  },
-  {
-   "title": "US-Iran talks show signs of progress even as Trump weighs renewed strikes",
-   "source": "The Times of Israel",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjA3Q1BhbURndWpNWDRLRFB4Y3BsMVpOQjRTRDdDeWhicmVDa2o4MGVZREszSGNCa2pvRC1rM09QWTJ2TEV3aUxITy1OMTlDNHVNWmw4SjlYTHBsMFAtc3d1clkwX01qUjlqV1ZLQmxoMG1OUng1TzAxTE01dHlMelhlVlBKdVpQNnF5STJWTTBZQ0xLU0pHZmYxVURPVW5EQjhwTTE0d9IBrAFBVV95cUxQSUpvQVRXbDJvaVY0MDdFd0U3SkgxQVF1enNvM3hBeEdtMzdld2pCNU05anE1VUdUS2FEdERPMzlBR0V0RzZqR2RhbGp0RndQazBld1ZrTF8zSUpERzVQSTNwWFZoQVVYWUg2WHpzVGEtZ1RxUGlGSjY3b3NxUGxVZGhaZ2RiNzYteUZxQkM2U3FQRllodFpwVUgzSXZkaGFzcDJWLUppWmZ5TG5U?oc=5",
-   "published": "2026-11-06T18:47:32+00:00",
-   "id": "5afbb597c428",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Progrès diplomatiques entre Washington et Téhéran dégonflant temporairement la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Opinion | Trump Outran His Leash With the Iran War",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0tXN241MkN2Qm96UG5nQkNPOS1Idld4dllCaHl0TVNsSTR6U1RQTkl3VGlRaDNqODF0V3ZQV1JUckZCamRDZ25CTThjenpYUUpaOC04VGpMY1NHbzBLeVA1N0l1VjBoY2RsQ1hNb1d2MHNKanhpMl8tUlBaNGx1LXh3QQ?oc=5",
-   "published": "2026-11-06T18:42:00+00:00",
-   "id": "d953c445e6bd",
-   "impact": 2,
-   "cat": "politique US",
-   "raison": "Billet d'opinion reflétant l'incertitude liée à l'implication militaire américaine en Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "October Jobs Report: Hiring Rebounds, Keeping The Fed Focused On Inflation (SPX)",
-   "source": "Seeking Alpha",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjZIM3ZES1EwMUdaRUluT2tGeTRndkp5MEZMOERDczBGdWJab2hpMHhUb1lEZ0pVQWJFRzJ6eURuSlhoaGs0ZVM3d3p4WG9zLVVyaHF5WVFTMHkwMk5WaUc2Y2Q5dDlmXy1uVmJGRlNHWXY2SG1DZ2lSajBZSGozLTZzVElzN0wtWWpMblIwdjR4T2o1aVRNNE8ydzAyZkdLUm5CLUF2cEJ4dmZlVmU4eTJhbw?oc=5",
-   "published": "2026-11-06T18:30:41+00:00",
-   "id": "9d9f9d1c3240",
-   "impact": -2,
-   "cat": "emploi",
-   "raison": "Rebond de l'emploi incitant la Fed à retarder les baisses de taux, pesant sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Hot October Jobs Report Raises Odds of December Rate Hike",
-   "source": "Morningstar",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkJSX3NsQ2VFMHN3c1l2MGJkT2JNdVBIRm5WMTVHd1F3S2N1cnpwSnBlTm5nSXJjUVVYRV9ZeUJReUplTnBZbTcxNTRKd1MyZUVhWXFPVGtGVGZ4MF9RWGVPZEJiSDRjVVhFLTJNY25ucHFhZVdlX3h3YmxRSnBEaWhIRzhHZjlJcUJnVHJ4a0NCYnh5?oc=5",
-   "published": "2026-11-06T18:07:41+00:00",
-   "id": "df7f2b017c0b",
-   "impact": -5,
-   "cat": "fed",
-   "raison": "Emploi robuste et hausse des taux Fed anticipée, dopant rendements réels et dollar.",
-   "method": "IA"
-  },
-  {
-   "title": "Identity politics may have cost the Democrats 2024, but the Iran war cost Trump 2026",
-   "source": "Fortune",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTNBZjB4X1ZCbFNrTEROc0RBdnNmbGwtTmpRQjdFQTFneENoTG54cTdQMHZGdnBTQXZHQ1BLSUg5ajJ5WWlac0dOSExDZ0lxbEo3UUc2T3JGY1dVTFNEQmRCbGNIeGFlT3ZlSnVqa1diQXJlcmVwbFBSWUhCNDNHV1BMOEJ0UQ?oc=5",
-   "published": "2026-11-06T18:05:00+00:00",
-   "id": "7572f97d383c",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Commentaire politique soulignant l'enlisement géopolitique, effet de marché très limité.",
    "method": "IA"
   }
  ],
