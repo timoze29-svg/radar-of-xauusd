@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "3d31b64300b8",
-  "ac3882778068",
-  "38cee2814a4f",
   "9bbd103e2d4a",
   "b01655b899f5",
   "217d0d3046c2",
@@ -4088,9 +4085,24 @@
   "62c75f79168d",
   "47a154ffcc76",
   "d1b41df482b4",
-  "445e97132c9f"
+  "445e97132c9f",
+  "4ab881b8989b",
+  "d2c31ee34d55",
+  "502eb56eb23e"
  ],
  "news": [
+  {
+   "title": "US October Nonfarm Payrolls Surge by 165,000; Market Bets on Fed Restarting Rate Hikes in December",
+   "source": "BigGo Finance",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NR1JfUVdUUW5uaTIxcHpELUVReTZDUkhwTVdDX3ZzZU1UeTNUOGdfVi1pR2JpN0RETExkUkozRXM2VHNCNEpHMnJWY1VUN19JalNyUWFWdUZvMU1MNksxMjBTTC0yLWRjV25taER3WWFDbVVGeUE?oc=5",
+   "published": "2026-11-08T23:25:00+00:00",
+   "id": "502eb56eb23e",
+   "impact": -10,
+   "cat": "fed",
+   "raison": "baissier or (emploi, fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine Battles To Restore Power After Russian Attacks, Ahead Of Abu Dhabi Talks",
    "source": "Radio Free Europe/Radio Liberty",
@@ -6478,24 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Intervention américaine évitant une frappe sur l'Iran, détente temporaire de la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "Navarro: ‘We’re quadrupling down on tariffs’",
-   "source": "Washington Times",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3dhRUNwSGJWV1dTZnk5T1FMX29yUFI2NzF6RFNYcmU4ZExfYlY5aVMtMnJZZFpNOXRyNTNfV0V3VmM2VGNsODVYVmJmWlQyQ0Z4QzRIdnQzUTFBTFc1U1JJTjVoU3pha1prNjJnc1BFc3JKYWc5WWVoeGgtdXhJU1Z3?oc=5",
-   "published": "2026-11-07T17:39:45+00:00",
-   "id": "eb37f0a19ded",
-   "impact": 3,
-   "cat": "commerce",
-   "raison": "Menace tarifaire agressive favorisant les craintes stagflationnistes et la demande pour l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|fd87faa227d4": 1792364272.4177618,
-  "news|e22eeca638ad": 1792364495.402637,
-  "news|35a465e3bb9e": 1792367165.3323905,
   "news|09ece2541363": 1792368100.8643422,
   "news|9b03bb05b0f1": 1792368101.740814,
   "cyc_rev|2026-10-19/2026-10-25": 1792368102.9408734,
@@ -8126,7 +8123,8 @@
   "news|ac5c533906ce": 1794174520.7100406,
   "news|e558000d752f": 1794174521.6705477,
   "news|673acd938816": 1794176164.019626,
-  "news|1d8d64f3de54": 1794177087.4214885
+  "news|1d8d64f3de54": 1794177087.4214885,
+  "news|502eb56eb23e": 1794181567.468007
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8470,6 +8468,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T23:46:07.468104+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>US October Nonfarm Payrolls Surge by 165,000; Market Bets on Fed Restarting Rate Hikes in December</b>\n📰 BigGo Finance · Lun 09/11 00:25\n🧠 baissier or (emploi, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE1NR1JfUVdUUW5uaTIxcHpELUVReTZDUkhwTVdDX3ZzZU1UeTNUOGdfVi1pR2JpN0RETExkUkozRXM2VHNCNEpHMnJWY1VUN19JalNyUWFWdUZvMU1MNksxMjBTTC0yLWRjV25taER3WWFDbVVGeUE?oc=5"
+  },
+  {
    "ts": "2026-11-08T22:31:27.421626+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump signals openness to Iran deal amid renewed Hormuz tensions</b>\n📰 Iran International · Dim 08/11 23:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVmh0QnhrY1pkdGFDdlo0cWZOWUNHbDJadmRtN25wb05nc2RKMjUwYmhmczFNRzdYTFRlOTNpUWU4cXIwRDdHZ3NFSnRrQ0lMYlE?oc=5"
@@ -8763,11 +8766,6 @@
    "ts": "2026-11-08T13:19:08.772752+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>After US midterm wipeout, will Trump resume Iran war? An expert explains</b>\n📰 The Indian Express · Dim 08/11 12:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDNmWGZNTDcyU3pYZDB1M0ZQbGI4RlBjSXljSE1OZTZ6ZG1jQjRIQVZaa3BXOVRDSnNVWmhrQ0F3SWZ5Wkp3b3J3NFhaMjhacS1iT3B3NkxLM1U0YXJaSUVCT3pGUlZOSkJ6RFhQQk9HUVpJcFBzb29nUGNuODVnMWZIdzB2N3otY0dDYkZpbXFOcFVNQWl2RnFKQXdNcWdGYmhTMnZOdnBmYVpIVFVreV9kVdIBugFBVV95cUxPaVN0LVoyM3lkNmthc0xHWWxQWExfZmVlSFhfeDY1eEV1bHB4Q0F3RVBlMWM4NkQwQWdYSXZabWphUTFFNkRRQkp0Z1dLSDUweng3dmdWQTBaRHltdk5VSFJlS2tWRkZEblVmQ3paWXVqeUtlRmZ3S1hrLVljd1ZZcDhTaThGTmpjMjVEMEhVY0dXSW03azhzX3ZoVU41VFhWVmJXb3ktRGF4YnJudVpINVBvWVAzbFQ1ZXc?oc=5"
-  },
-  {
-   "ts": "2026-11-08T12:31:24.827220+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>JD Vance gets the Iran war wrong: Diplomacy handed Tehran victory</b>\n📰 The Jerusalem Post · Dim 08/11 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE54enpNeEdCWkJmSEJuZVAzS0VPUEl5Y19aeWFCSGlwQXBTc090b2hPUkFqQ2ppbzN1V05IMmZ1VzRkQXp5UHp6Z2tVdGdRWG83dVFpLTF4aw?oc=5"
   }
  ],
  "daily_forecast": {
