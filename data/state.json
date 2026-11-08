@@ -1089,12 +1089,6 @@
   }
  },
  "seen_news": [
-  "855f2d062e77",
-  "09a32ff4431f",
-  "73104af579fe",
-  "6424012f275e",
-  "5193d99e2583",
-  "6377946ea604",
   "a39a5d1aaf86",
   "6b0dcaf041b8",
   "7f7e305fedcf",
@@ -4088,31 +4082,25 @@
   "bfcad0ac80ad",
   "b9692a84c10e",
   "b49fdc75442e",
-  "247040884bcc"
+  "247040884bcc",
+  "752f1f07cba2",
+  "79aaf13cf85d",
+  "1ddd001dfdee",
+  "1d84e3f4908f",
+  "1671da0a1542",
+  "c3abbbba4d56"
  ],
  "news": [
   {
-   "title": "Naira Weakens As Forex Market Dollar Supply Tightens",
-   "source": "MarketForces Africa",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDZidGdmdG91UklpWmpDSzNVYUx0OV9fTTJzd0JjWkwtd2ZaSkVMWXhvM0dZZkV3S1JKdldPQTlJNTJZYmpjSWVGVzNCSkZIZ2NGMjJZdENFSURyci1EMGFVd0kwVTMzUXpBM0EtY1g1cEowSjF3NGNkMENJdndzUkVSRks2QQ?oc=5",
-   "published": "2026-11-08T20:43:22+00:00",
-   "id": "b49fdc75442e",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Panama lawmaker defies Beijing, calls for Taiwan trade office",
-   "source": "IntelliNews",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzVBemZzUE05TVVzRWFneDlOb2t6V1B3eXpCWERHTVBPTmE3c21qVEdpRUtjamdoTFl3bzN4WVpmeWpMZVVwNG1aZmlUejh0aVlPZjRYdWh4QVpxcnlkaHhKdUtvX0JldHBVSm1YSVpTYnJzOWxQcXpnZFNDblU0MnhraFdHMnAyN0lubjhvZWJqVmhtb3dwU2laZGc1ZU1NZUVDWndUMTZ2bGQtVXc?oc=5",
-   "published": "2026-11-08T20:36:00+00:00",
-   "id": "247040884bcc",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "Trump Says an All-Out Return to Iran War Is ‘Highly Unlikely’",
+   "source": "notus.org",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFk1N0tvLW1EcDVLM05RdlRxbXZpQ0ltdkdCdEhjYlZycnI2cVdqUFVmTlVzWndXQTFTemhxLVFnOWpPcm43Wlg4alYyZHhycTQ1N3lpTWpLN2JvZE9tVEQ1VHhUblJYNk05SjlKM2tnVjJGWW9mU3FBWW9JQ2ZJa3hJQTZ6SjQx?oc=5",
+   "published": "2026-11-08T20:58:52+00:00",
+   "id": "752f1f07cba2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4159,6 +4147,18 @@
    "published": "2026-11-08T20:02:47+00:00",
    "id": "b9692a84c10e",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Power restored to Zaporizhzhia nuclear plant, IAEA says",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+   "published": "2026-11-08T19:53:39+00:00",
+   "id": "1671da0a1542",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4650,6 +4650,18 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekRQUnhiQndGZGExbmV3SEpmS0M3UUVhYURqU1lNRjZZZjNqMk1pVVZveDJYdjdmMDNnUWZnQkpha1Y3bkZnNzhROG5RMHpxT2p5Q0N1N0pCekZza1A0M0dDUExKZXFJdXJkLVR3V1RZWnQtNG80aDBfWDQ2N1htSW1EQUtMczRzSUc4MG5NZXVuQnNMUldMU2FOUkFEXzhuNy1KdTJpeUl4eUNpa2ZBTFdGRWtoYmhwYkZveWVFUHdVNG8xdTNybDh6ZTJRdzVuSzkwSEU2ZnDSAd4BQVVfeXFMUGFEMGx1NTB0VEw0MFhHYzQ3UVZPSXNaT25EdnVuQ2pRNHFhc0stclhQcnlXNzV0eTBRT19FM25Kc3pvdU50OThqZExEMUVabXRMZEl5UUw0YkdyRlZLd24xOEtXTDFkcXcyS3g2OEQyMlZTcWR3Y3NDeG5EM2VJOFdDeTgzVzF4YjI1NE9vT2ljZU16Rnh6dHNRZVMxckllYmhkSTM2RWp4bUZzRW1EN2x4cHR1V1RRdGVFdUdSNTY0N29Gb0ZpbzZ0VXZaTlQwTFQ5S0tKcUtwaFFtZmZn?oc=5",
    "published": "2026-11-08T13:21:00+00:00",
    "id": "53de52365db2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran: US strikes ship after blockade breach",
+   "source": "DW.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5",
+   "published": "2026-11-08T13:12:55+00:00",
+   "id": "79aaf13cf85d",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Frappes directes américaines vers Ormuz ravivant nettement la prime de risque pétrole/or.",
    "method": "IA"
-  },
-  {
-   "title": "US Tracking Closely How to Get Oil Tankers Through Strait of Hormuz, White House Says",
-   "source": "EnergyNow.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEM3UHJEMmR1WG9mVWk4NmkxUXBsXzBkT0plNXlLdGgxRVotc0lrS2pXaW9mWVdOcm9WSW15Vm9ZN1B2bEdkTEZJXzgxakFpRmdaeVFVelVmUHdQclhRTWFub2NINEhhOHRuUUd2TDRHUV9HWnFsdlpWQ0NhRDFESHkyWVZWQkh4VGtPWkF6TzNVS2FicDZyY292THhlc1RrdDF6aW1mUE9IRG93M0w3clpTRTB2Zw?oc=5",
-   "published": "2026-11-07T13:37:39+00:00",
-   "id": "84b69b95c6c3",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8118,7 +8118,9 @@
   "news|ca08ebd5222f": 1794168099.0839431,
   "news|a4bae5349fb1": 1794169901.329868,
   "news|aeaf236e4fc7": 1794169902.2424817,
-  "news|b9692a84c10e": 1794170768.35409
+  "news|b9692a84c10e": 1794170768.35409,
+  "news|752f1f07cba2": 1794171698.7971303,
+  "news|79aaf13cf85d": 1794171699.8868995
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8462,6 +8464,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T21:01:39.887242+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: US strikes ship after blockade breach</b>\n📰 DW.com · Dim 08/11 14:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5"
+  },
+  {
+   "ts": "2026-11-08T21:01:38.797227+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says an All-Out Return to Iran War Is ‘Highly Unlikely’</b>\n📰 notus.org · Dim 08/11 21:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFk1N0tvLW1EcDVLM05RdlRxbXZpQ0ltdkdCdEhjYlZycnI2cVdqUFVmTlVzWndXQTFTemhxLVFnOWpPcm43Wlg4alYyZHhycTQ1N3lpTWpLN2JvZE9tVEQ1VHhUblJYNk05SjlKM2tnVjJGWW9mU3FBWW9JQ2ZJa3hJQTZ6SjQx?oc=5"
+  },
+  {
    "ts": "2026-11-08T20:46:08.354164+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Shares Cartoon of Dana White Sending UFC Fighters to Attack Reporters</b>\n📰 People.com · Dim 08/11 21:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEtwX2FjOWNOQ2dyWG80aFJtQjlaTndEd3dyNlBIODJfeW9td2xhUU5DSUJWMnRIcy1kT3RSX0JuY0p3UU95ODI2NlpVOHd2LTYwdmJLNXlwRWpxMWIzSHNxUnNoZl9TLXhFODh1MmRfOFUyd2F1YzFVUmltcFQ4QkJFOG9GaHlCbk5BMURtd0FNUF8zV3hVOEhlX0Mwem9TZ1pCc0t4U2FKeDEyYkE?oc=5"
@@ -8750,16 +8762,6 @@
    "ts": "2026-11-08T10:11:32.206413+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>House Democrats will start their majority focused on boosting healthcare and ending the Iran war</b>\n📰 theintelligencer.net · Dim 08/11 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.theintelligencer.net/news/top-headlines/2026/11/house-democrats-will-start-their-majority-focused-on-boosting-healthcare-and-ending-the-iran-war/"
-  },
-  {
-   "ts": "2026-11-08T10:11:31.355485+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Are Canadian snowbirds flocking back during the U.S. trade war? Here’s what data says</b>\n📰 CP24 · Dim 08/11 11:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORkhZbldqSHB0LU1HbGlEOHRFMXNkSjhSSktzNWR4OTJKNC1NRzRHS01PQ29IWUV6S0hrakE2eFhiOXg1ZXAzUUp6eU12bVBjSlczTl82czNsc3RwcjJzZ3gyb0c5V01GbHQzOHVtcnlSaVMzZXVXNFFiM0tBQVJ1WkdXcVlXNE1EajJvZ3FhNG5xXy1zZUhRUG9iMUJBTkpNM1hfeWhCLW9RbF96ODU5Qmtja0RUdzQxZUtDdEdBVktVUjFF?oc=5"
-  },
-  {
-   "ts": "2026-11-08T06:16:01.008868+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>Explosions in Strait of Hormuz as Iran reviews de-escalation proposals</b>\n📰 ABC News &amp; Headlines – Australian Broadcasting Corporation · Dim 08/11 02:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGVLOEY3dVN3V2tiNnQzMWg4V0QtZWZpMXhnLVczYzBCUWFpdEJEa090cWlFOHIyZU5VcVF6MTRhbDFHUnoyQjZzZnByVnF5akE2Mjdka05jUmFlbFFaVG1vREpIRGpmcFRURnVaT0g5RjBHVVh3RXNnV05IbXlINzlzY0VuZDA1OUhIZW4zZ09QN3VHQ0ZCbkxB?oc=5"
   }
  ],
  "daily_forecast": {
