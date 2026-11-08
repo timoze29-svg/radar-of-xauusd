@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794121276.3682966,
+   "ts": 1794125750.7388134,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,12 +1089,6 @@
   }
  },
  "seen_news": [
-  "11dc419f6002",
-  "0e808534a314",
-  "d3aa40bd1628",
-  "be6e57f40de1",
-  "b2d498dfc0d1",
-  "1a6a4e6360d8",
   "a3baece6616b",
   "24f7826846e5",
   "1fda53a82756",
@@ -4088,7 +4082,13 @@
   "f3e0021d5db7",
   "1c0ca65e66bf",
   "9daf6c2930a9",
-  "8840a698f337"
+  "8840a698f337",
+  "75116c455233",
+  "52b1843c80e4",
+  "3f3196628e4f",
+  "6515a84ea7f8",
+  "90d14b452317",
+  "fb1288453e79"
  ],
  "news": [
   {
@@ -4101,6 +4101,18 @@
    "impact": -3,
    "cat": "emploi",
    "raison": "Emploi robuste poussant les rendements obligataires à la hausse, défavorable à l'or sans rendement.",
+   "method": "IA"
+  },
+  {
+   "title": "Taiwan China Election",
+   "source": "dailyrecordnews.com",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckpwWTdfdTBPRWl1a0NldjVORnlwdzJNRDlRbVhNZTFra2M4eEdId0JZOGRidUJVdHNmV1pfSjd3UWVsVjZOU2twcTdmX1VQM3hmdmRSTC1vUGJmZ3d0UzdhWkVYdFZYSHVEN1AyMTg3SHNfa2lOYmx0U3F5b0luSjYwbDU4b2FvWmduZWRXWTFacmpCZFNpLXhIMVlqMnRreVBEbHJJSXN0c3lkLVdJZW40VFFkRzdFelpKZ2s1Nlc?oc=5",
+   "published": "2026-11-08T07:47:45+00:00",
+   "id": "90d14b452317",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions potentielles dans le détroit de Taïwan soutenant marginalement la valeur refuge.",
    "method": "IA"
   },
   {
@@ -4617,6 +4629,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Frappes russes sur l'énergie ukrainienne maintenant une prime de risque modérée.",
+   "method": "IA"
+  },
+  {
+   "title": "Strong US jobs report raises expectations of December Fed rate hike",
+   "source": "India's News.Net",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmdJOEVkSlBMXzR2MWlrQTJKaXlSTGczSGRDcTdza0VDMW5sSkwwajZlNExHczd6V3Q2TGZxVUFlc3lVbUU2T1A1THRURzN0NDNhMFFPYzlSWHVJOWNBeDBwekk5cGJEMzVtZUFNUVA0NlRRV0ljcHdKR21Ob0tsTVMtUmlNQWR0R0w3NlEyXzVmTEhlMmJ5RTJZQVNweVdJdTVZUWVyNFJvcHcyQlE?oc=5",
+   "published": "2026-11-07T18:10:00+00:00",
+   "id": "52b1843c80e4",
+   "impact": -5,
+   "cat": "fed",
+   "raison": "Perspectives de hausse des taux et dollar fort pénalisant fortement l'or.",
    "method": "IA"
   },
   {
@@ -5289,6 +5313,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Frappes russes préalables aux pourparlers, soutien géopolitique très limité.",
+   "method": "IA"
+  },
+  {
+   "title": "China's foreign exchange reserves have remained firmly above USD 3.4 trillion for seven consecutive months, while gold reserves have increased for the 24th straight month.",
+   "source": "Moomoo",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0pfUkhwVWZocFRGMVdWSHoyeE5NWnh0MHoxZXpVNEN2VTF4elZUTjJ6a2Zvd3VCRkkyQUx3dnBaSkNNRTlhS0ViSEZaTVp0cEVBUndDb2pLMXhHNU5GMVVVNlp6aG5pN3RBRVlLLWZTdEo4OVBhb01wMkZyaDQtVUVWcklsUDM2WFVJUzRNX2d4VlNnWkF1ekVaQnBfTjZqYnhKVzEyMEVqSG02?oc=5",
+   "published": "2026-11-07T10:34:42+00:00",
+   "id": "3f3196628e4f",
+   "impact": 4,
+   "cat": "banques centrales",
+   "raison": "Achats continus de la BPC confirmant une forte demande institutionnelle structurelle.",
    "method": "IA"
   },
   {
@@ -6454,42 +6490,6 @@
    "cat": "politique US",
    "raison": "Sentiment de marché mitigé post-élections sans impulsion macroéconomique directionnelle majeure.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. Jobs Report Blows Past Forecasts, Dollar Surges to Upper 158 Yen Range; December Rate Hike Odds Hit 80%",
-   "source": "BigGo Finance",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjeDZGVnl1a3p1MDJzRXFIQl95R0ZLUFVOSThBMEJkbjdGZkc5VUNKTTN5bFJTQTBrQmlnTjM4V0NZX1NMWkdKNFd1VHhidFdFREVENS1NTW5tc0FLTUV2ZVh4NlFQVmRXeVNQWmtuV0Z2V0NYb1E?oc=5",
-   "published": "2026-11-06T21:55:00+00:00",
-   "id": "5ce76ed046db",
-   "impact": -7,
-   "cat": "emploi",
-   "raison": "Emploi américain très vigoureux et dollar fort propulsant les anticipations de resserrement.",
-   "method": "IA"
-  },
-  {
-   "title": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-   "source": "investingLive",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmh5aVZKRFhycG5xcXZQLS15bk94NkptZVEyZnRhODg0RVRJQmNZQ3dqdmRRc3NUX2tyZmFKOUJPN2xVTVdBWGFqbWFnNjVXVFRxNFVoVW5ESGpCNVpNWkViNUNXZk8tUG9JLUxlSy0tVk93VnFOZWVEMC1IcnRVd2lHQTNsOVQ0UUVPQ0RsQ2ZNMG53dWNFSnczdkNmUWdiX1hfQmdKaw?oc=5",
-   "published": "2026-11-06T21:52:39+00:00",
-   "id": "44b124a9384a",
-   "impact": -3,
-   "cat": "emploi",
-   "raison": "Emploi américain plus solide repoussant les baisses de taux et renforçant les rendements.",
-   "method": "IA"
-  },
-  {
-   "title": "Mideast developments: Trump discusses Middle East de-escalation with Qatar’s emir | Politics and Government | News",
-   "source": "Las Vegas Review-Journal",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmktVFl6OF84d0wtblF5a2FGY3N2MmQxMk5vWW1zdXR1UnJoVnlZamRRMU9zWTNfM2d3My1OSXBGUXNzMW55N0piZ3l0YzlpTURHeE1PT0RnX1NqLWFhdzRjbUFfRThoeHpMODQwSVdXNkdVWFV6aWpGa2pHb1l0TWsydTJhQ3hOanZXVVk4ZDFQVzhtUkc0NWtCR0dqTGl4SjBPdUwtaElTX2JsRHphMkJFN3hlUjNwd2hIQmpUQWRraVRH?oc=5",
-   "published": "2026-11-06T21:42:00+00:00",
-   "id": "dc9af783f5ae",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
