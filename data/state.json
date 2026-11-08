@@ -1012,8 +1012,6 @@
   }
  },
  "seen_news": [
-  "b054896ab5e3",
-  "3787259e3eb2",
   "6a290ee3f909",
   "7461bbdd20fa",
   "5f22cf3188d5",
@@ -4011,9 +4009,23 @@
   "42f8d35c3869",
   "379ef0bf4911",
   "e82d02bbaf94",
-  "bde1fe7383b7"
+  "bde1fe7383b7",
+  "a5425ac80708",
+  "81c0421510c7"
  ],
  "news": [
+  {
+   "title": "US military says strike disabled ship trying to run blockade on Iran",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU09GTWFrTFZ6UDd1SkNCNkhtYmdycC1yakxvakIwcVl2aWhpRDFsdmI4VGg5SmRWemxWZUlFbTZPa2xYZzFRY1ZENWNhM0tCN1JNYmw1YWw1bVVOZm1rNmZKaUlLOHVzY0hqVTFuemZqTkNtTWl3cDB3SnV3Qm5qUE84Y21vRXBINU5talhPNFVwRWF5cUEtQnhMRzA3dlNh0gGmAUFVX3lxTE1HSk9WeEVMeXU1Z0hacVNudkhKaXhjanhJRWdVMTZCWm1ZNU5tUDFXTk96U2txN0pORlcyOHpVMUpUREs3QjMzQjE0STNnc1M2cUg0NTVTVlVPQndxbDZXUldSWHlJMk1KOGNZU2pZcGdPTmJuZmlnaGVLQ3l1MHlkLTFncGktS0R4YkFDUmJGT0NyWTZ0b0NhV2l1bG05YmlSZkdmY1E?oc=5",
+   "published": "2026-11-08T02:38:05+00:00",
+   "id": "a5425ac80708",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Live - US hits vessel off Iran, launches task force to disrupt land supply routes",
    "source": "Iran International",
@@ -6401,24 +6413,9 @@
    "cat": "géopolitique",
    "raison": "Conflit direct et prolongé Israël-Iran stimulant fortement les flux vers les valeurs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Israel strikes south Lebanon after stepping back from Beirut attack",
-   "source": "DD News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDR3X1JKNEtYNUVDVEQyaTduYkZvekZILTN2VEFpWkoyeVc3QW5ZUHM0ajBRNl9rMUd3eFM2cnRIbTJLUEtUa2NUV3hCdmM1RzJPZ3JHZE1YME9WUUhQc0hLR2tMVUJrWElRTDM1RWhmRmI5VGtOLVgzLVpOUWZSRGk2QXVjWThOYzFJdFFaVnpYN3I4Q3o1eA?oc=5",
-   "published": "2026-11-06T18:55:17+00:00",
-   "id": "ac0a25b6227e",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frappes localisées sans escalade majeure à Beyrouth, impact déjà largement intégré.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|78af0d928fc8": 1792289767.1364932,
-  "news|51fe3deec34c": 1792289768.065905,
-  "news|4fd004cef2d4": 1792289768.8812997,
   "news|ee9b31e2b7ca": 1792293371.9796414,
   "news|4fe2aa4412c0": 1792293373.0027602,
   "news|a04d808d775e": 1792293374.001301,
@@ -8038,7 +8035,8 @@
   "news|996da829a7bf": 1794099696.2245903,
   "news|e0e59b9910f7": 1794101488.7461524,
   "news|9de03515a9a8": 1794102375.0098257,
-  "news|56cedd84d11c": 1794103659.962014
+  "news|56cedd84d11c": 1794103659.962014,
+  "news|a5425ac80708": 1794107767.898967
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8382,6 +8380,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T03:16:07.899057+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US military says strike disabled ship trying to run blockade on Iran</b>\n📰 The Times of Israel · Dim 08/11 03:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNU09GTWFrTFZ6UDd1SkNCNkhtYmdycC1yakxvakIwcVl2aWhpRDFsdmI4VGg5SmRWemxWZUlFbTZPa2xYZzFRY1ZENWNhM0tCN1JNYmw1YWw1bVVOZm1rNmZKaUlLOHVzY0hqVTFuemZqTkNtTWl3cDB3SnV3Qm5qUE84Y21vRXBINU5talhPNFVwRWF5cUEtQnhMRzA3dlNh0gGmAUFVX3lxTE1HSk9WeEVMeXU1Z0hacVNudkhKaXhjanhJRWdVMTZCWm1ZNU5tUDFXTk96U2txN0pORlcyOHpVMUpUREs3QjMzQjE0STNnc1M2cUg0NTVTVlVPQndxbDZXUldSWHlJMk1KOGNZU2pZcGdPTmJuZmlnaGVLQ3l1MHlkLTFncGktS0R4YkFDUmJGT0NyWTZ0b0NhV2l1bG05YmlSZkdmY1E?oc=5"
+  },
+  {
    "ts": "2026-11-08T02:07:39.962171+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Zelenskyy accuses Russia of escalating strikes ahead of peace talks</b>\n📰 Al Jazeera · Sam 07/11 06:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5"
@@ -8675,11 +8678,6 @@
    "ts": "2026-11-07T06:49:07.974066+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US carries out new targeted strikes on Iran , targeting air defense system</b>\n📰 hindustantimes.com · Sam 07/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.hindustantimes.com/world-news/us-news/us-military-carries-out-new-targeted-strikes-on-iran-targeting-air-defense-system-101794018415195.html"
-  },
-  {
-   "ts": "2026-11-07T06:49:07.054470+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US carries out targeted strikes as Iran leaders weigh proposals</b>\n📰 wsbradio.com · Sam 07/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.wsbradio.com/news/politics/iran-is-reviewing/DCKLGLLBZAYXHPUEJTEFOOS6FY/"
   }
  ],
  "daily_forecast": {
