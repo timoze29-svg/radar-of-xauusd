@@ -1089,12 +1089,6 @@
   }
  },
  "seen_news": [
-  "e27a7d1b3ec9",
-  "6bc13bc8f1e0",
-  "e8ba8771358a",
-  "08bd0970da68",
-  "bbc451ed7b95",
-  "3f6a0b5504e1",
   "608b79c5aa19",
   "e2625fa99366",
   "771f7f0a561d",
@@ -4088,9 +4082,51 @@
   "9b89460ae806",
   "758a4faefa9a",
   "6d3360b4ada0",
-  "53ad22bc0e51"
+  "53ad22bc0e51",
+  "129caa29979e",
+  "825c7f8c9d81",
+  "cd178ff20cba",
+  "d03210d2967d",
+  "2bdbcf1ef2cf",
+  "19a1ff157798"
  ],
  "news": [
+  {
+   "title": "Taiwan receives new batch of US F-16 Block 70 fighter jets amid rising China tensions",
+   "source": "Latest news from Azerbaijan",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWdlX0JKd1dyejV2SkZtbzlCbk45X2N3S0V1TFVMYTdiTzlHdzlWR3VtSW1saUstdjlVMFRBVmlnZ1RRdU45X3VoanVycm5iUzdhTXU4VW5qSHd0WkJlUm1ic0c4Zkl4Mm9DZXVzNmtsajE4SUNxb2pZcXVtcDVINDFCOGdzaDVrdkN0NU5ycWljMEswajlHVzQ3eV85TVNtbGdsSDVkNVJNUQ?oc=5",
+   "published": "2026-11-08T10:46:33+00:00",
+   "id": "19a1ff157798",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions sino-américaines persistantes autour de Taïwan, léger soutien comme valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "After Midterm Defeat, President Trump Faces Risky Choices on Iran",
+   "source": "The Media Line",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDg0QW4wUFZWQjVteTZRLTB6Y3VpSUx4WUJOSGFnRGdGRWV2WGozTmFwNVdnWUFKbWpBZFVUSWZxQ2p1NEE4MVcwVGNyX3lnWnFGNEp4dkJlVXhyMFhEaU85OGxjVnQyWVQ5alBQQkZ3d3BteVNtaVAwQ0JmcHlNdnFjaFVDZGlUaVQ0eTg3UTVETmx0REgwYU9xTHM1aXpXdzhZSnJHdVJFM29hb2c?oc=5",
+   "published": "2026-11-08T10:42:39+00:00",
+   "id": "825c7f8c9d81",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Incertitudes sur la politique iranienne maintenant une prime de risque modérée.",
+   "method": "IA"
+  },
+  {
+   "title": "The Democratic Surge Will Cap Trump’s Reach at the Fed",
+   "source": "WSJ",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
+   "published": "2026-11-08T10:30:00+00:00",
+   "id": "d03210d2967d",
+   "impact": -1,
+   "cat": "fed",
+   "raison": "Indépendance de la Fed protégée, limitant les craintes de débasement monétaire rapide.",
+   "method": "IA"
+  },
   {
    "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
    "source": "Audacy",
@@ -4162,6 +4198,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Qatar Intensifies Diplomatic Efforts to Prevent Escalation of Middle East Conflict",
+   "source": "خبرگزاری اطلس",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlByZ0lYbWZhS3dIWV9YY2x5V2s4VVRNa1pmVlFicTdVanVpenlLWHgwZWJFUmZMQm9yWWx2ZWpRLU9WaHJQTnlkQ2JkalI5ZFZYeHYybFhNRHlhR2MtSVNMT1d1Z2tkVFVHQ240NWVXalQzX0ZmVzB1ZjI5ak02aEt5c1E1VWwyV3Z5clViclhZNUJfOGZR?oc=5",
+   "published": "2026-11-08T09:44:05+00:00",
+   "id": "cd178ff20cba",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Efforts diplomatiques de désescalade réduisant légèrement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Hot CPI Inflation Seals Fed Rate Hike, But Stocks Rise",
@@ -6442,54 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Durcissement iranien éloignant l'espoir d'une résolution rapide du conflit.",
    "method": "IA"
-  },
-  {
-   "title": "Iran’s hardliners see a weakened Trump – and want more to end the war",
-   "source": "CNN",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ra0drcEFnU1lVY0lfOVJ0YkFxeVFfbE9YcEdmZm1PNHAxMkpLWUU5Q29oM3dONEFqTlVqOVlGaDBWZWhOcjBmb3dQUEZSV1ctd2JlRkl1bUdhVE15Z2NteXF4cGctNDRnSnlxUTYzRC1vTTNlb3FTNldLM04?oc=5",
-   "published": "2026-11-07T05:01:15+00:00",
-   "id": "f954158869e7",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "L'enlisement du conflit avec l'Iran maintient une prime de risque géopolitique favorable à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Dollar Gains on US Economic Strength and Hawkish Fed",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEpQYjFsakpHSmZJTUtZRVlkemZYTk5VczZhN0JyMGlERU83N3huX2p5ZGpLdTJOdWY2NXBmckRQc2RfWFlHd29QVEc4QVlma19CSDJsMzZZN0t2RWJWd0o2TnVmdWlickdEVlFuLWNlbWtkLUVCOHZWbWlPd1pIVm8tcGtwMVBic2ZDem5Za1ZkREFLVHNIbHNTQlIzcDdSaGRCdkxiT0xVRjFvOXY5Zg?oc=5",
-   "published": "2026-11-07T04:45:39+00:00",
-   "id": "14d6ebcfca9c",
-   "impact": -5,
-   "cat": "dollar",
-   "raison": "Dollar fort et Fed restrictive augmentent le coût d'opportunité de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Says to ‘Soon’ Take Decision on Whether to Resume Iran War",
-   "source": "ASHARQ AL-AWSAT English",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUx4SmpqYlVzaDlDWVBQWVpObFAwZFRRcjNmM2Rpd3pvT2JUV2ZBR2thdWVGclNseElTNGtQRU0wbnR3WFh2LVQtYllfSi1SOVRKVkVseURPUTUtQXdwX29ZVi1rYktRckNDdVhLOXc2ZFZ1a3VjVlM0dkkwLWY0Y29oMUF1ajhMZ3VVQlZGMjUtcHpoRnBSamN2MWN1b2pvMWdqM05ycjBmSTA2Nm90ZnR3?oc=5",
-   "published": "2026-11-07T04:32:55+00:00",
-   "id": "1a6db7624e13",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Menace explicite d'entrer en guerre contre l'Iran, puissant catalyseur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran war live: Trump says US making ‘a lot of progress’ in talks with Tehran",
-   "source": "Arabian Business",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "published": "2026-11-07T04:32:11+00:00",
-   "id": "d5f323fbaf0c",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
