@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794131150.6244826,
+   "ts": 1794153674.125394,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1089,8 +1089,6 @@
   }
  },
  "seen_news": [
-  "c9e6372e1366",
-  "8d56b643d062",
   "5a829b5a2026",
   "215285d81811",
   "eed8d9f1677a",
@@ -4088,9 +4086,23 @@
   "8d76c0556470",
   "2d5f7dbd3996",
   "ea5941cf3e0a",
-  "6196c2af6f6f"
+  "6196c2af6f6f",
+  "4ef948d269b2",
+  "bf5f4d676720"
  ],
  "news": [
+  {
+   "title": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelJUc2lUa3VFNGp5TGdHdHVfSmxrOWNldHJ3a3FmSktfaUxtZUx2d2lEcG9XdTRpelFSaklMUzhrd1NmM2laSmdKVDBIWmtVV21LWFJ4RWVsemwwTHlDYXRUWDhDQzFyVlNyanBZZUVZOWJMeWZXYnhPQU5YRTBhMVNtSlo4ako4X0J2VHBBZE1hOHc1N2FNd3pXa9IBoAFBVV95cUxOWUNFTmtHZzk0RXIyY1FVVndWNkxfVHpueTZBMzVrSnoxRVVqN0V6T0h0RHNUNGhWSUI5QWkyZTlJcFRVbHktcEQ3RWRnakE3LXlJMWs5X3RUb1ZZWVVnY3BuYjlRMWpsY0lmNXFQd0RxTU9veW9CVHEzOXljYU1oRXAzd0ZqQzBKM09HbE5WWmpabndPanU0NE9iRlRLVHZk?oc=5",
+   "published": "2026-11-08T15:13:07+00:00",
+   "id": "4ef948d269b2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Qatar urges diplomatic solutions to prevent further Middle East escalation",
    "source": "ILoveQatar.net",
@@ -6478,22 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Tension latente Israël-Iran, mais l'intervention américaine atténue le risque d'escalade immédiate.",
    "method": "IA"
-  },
-  {
-   "title": "Russia-Ukraine war escalates with attacks on energy facilities and bridges",
-   "source": "سانا",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpWGlXZjVUQzNOQkJJallFbEp3M1d5NE1zNmNwS3g4dG5MNXZ6d3p4Qllra096TE1mTEczU3JfNjR0X0JCUkxCb3VVQjdhVVNyQ0hv?oc=5",
-   "published": "2026-11-07T10:16:01+00:00",
-   "id": "96eca29fe1a8",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire touchant des infrastructures clés, stimulant modérément l'attrait de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|6063cc168d53": 1792339291.505506,
   "news|cc0c872dc969": 1792341085.7077184,
   "news|7359f976c02e": 1792345568.7366388,
   "news|c1546704e877": 1792346495.4872189,
@@ -8110,7 +8109,8 @@
   "news|b3c0bbf0283b": 1794152768.4044561,
   "news|23a4366eb19e": 1794152769.2478104,
   "news|fc717ef55623": 1794152770.0760143,
-  "news|2d5f7dbd3996": 1794152770.917946
+  "news|2d5f7dbd3996": 1794152770.917946,
+  "news|4ef948d269b2": 1794153693.4928598
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8454,6 +8454,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T16:01:33.492953+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump ‘holds all the cards’ in war against Iran’s regime, White House says</b>\n📰 Fox News · Dim 08/11 16:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOelJUc2lUa3VFNGp5TGdHdHVfSmxrOWNldHJ3a3FmSktfaUxtZUx2d2lEcG9XdTRpelFSaklMUzhrd1NmM2laSmdKVDBIWmtVV21LWFJ4RWVsemwwTHlDYXRUWDhDQzFyVlNyanBZZUVZOWJMeWZXYnhPQU5YRTBhMVNtSlo4ako4X0J2VHBBZE1hOHc1N2FNd3pXa9IBoAFBVV95cUxOWUNFTmtHZzk0RXIyY1FVVndWNkxfVHpueTZBMzVrSnoxRVVqN0V6T0h0RHNUNGhWSUI5QWkyZTlJcFRVbHktcEQ3RWRnakE3LXlJMWs5X3RUb1ZZWVVnY3BuYjlRMWpsY0lmNXFQd0RxTU9veW9CVHEzOXljYU1oRXAzd0ZqQzBKM09HbE5WWmpabndPanU0NE9iRlRLVHZk?oc=5"
+  },
+  {
    "ts": "2026-11-08T15:46:12.031172+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Sentiment news 24h (+18), Taux réels 10 ans (20j) (+14), Momentum or (vs MM50) (-13)"
@@ -8747,11 +8752,6 @@
    "ts": "2026-11-07T17:31:27.135931+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar surges after robust jobs report fuels rate hike expectations</b>\n📰 The San Joaquin Valley Sun · Sam 07/11 06:57\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQcy1ZUFhKbWZWc0Y1UElrMzhqOEw5bm90SkJnLWFUVjI0bmVzVmdZV2RYRDBOOHkyUWJwNzZ5S0pFMUxsYnh3TFJ1LThiT29yTWtrTEh1RGEyWENXc1VzeDJ1bFZjWWFSOEdLVmhuVVVPYTVzMnJ2akFKVGVzUncxQi1rQ1hpQW90TTJKdElqOEdEVVlxNnc?oc=5"
-  },
-  {
-   "ts": "2026-11-07T17:01:46.562625+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Above $4,000 Post-Midterms: Analysts on CPI, Fed Rate Hike Risks - News and Statistics</b>\n📰 IndexBox · Ven 06/11 22:21\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMklTTUx6NUhLclNIaVY0YmExYzZKN0wwZTJtTVN2VmdqYTVONmVWQlJZb0ktOVdaamJ5bmJBSXBfaHZTR1BCNUdXdGxDVFN5Z3RndzdUbTVULTRTNlBRMi1NOFNrNS1sYVAzZGljU2xEU1NaamptSE8waGNTUE5tRno5S2pFbjI0U09CbDk3OXlWYXZ4NXlXaG9veUVDQVZNNnZoMlptYk10TFdtZnItd2lwMC0zMzNGWURBd19nSnI?oc=5"
   }
  ],
  "daily_forecast": {
