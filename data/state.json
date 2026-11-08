@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "531128241218",
-  "ffb0e9d7409e",
-  "4c2420a6ccab",
   "581c32c92059",
   "40d131c744fe",
   "82ee686d6a3a",
@@ -4088,9 +4085,36 @@
   "273c75296543",
   "aafd61414aa6",
   "7b8e65db092d",
-  "e62ea2a7b48a"
+  "e62ea2a7b48a",
+  "7da2f78ee829",
+  "b5fa4dfe1ebc",
+  "6846032c7284"
  ],
  "news": [
+  {
+   "title": "Trump Says Renewed US-Iran Fighting ‘Highly Unlikely’ If Talks Progress",
+   "source": "Kurdistan24",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSENpWU9FU1hGenRLdFc2VFl1WTZnY0c5cVpkRkNLOVp5ZXJQOFhsTWUxREZNWC1YZUtPbkFfamlCRGROT3ZtRVliYWpieUtpNDA3NTlyOHBDVk56dmcxa1VDWUNPejhmaGFPSU92SEYzenZKUHVXZ2ZXWjU5TUp3d1M5M1pfX084OTJUclQ0VVR1em5xbmlqWjNhTjN6amFSeWtfM3NXYW1wWUdoYWI0N2hyVQ?oc=5",
+   "published": "2026-11-08T20:01:28+00:00",
+   "id": "7da2f78ee829",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+   "source": "Bloomberg.com",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelZPY0tQazFGWWxNRjFac00xRWFpVE1vdVpHenVSMDNVS3c0WFpZMXk4Rkk5d2xFYU9wUVdtcGZIYWlvVU41eFZaV1RGdDU4bGE3Z1ppeVlMdTZleU13RVRRbDNVS0pDQzdQbjB5TkFjOWF0NDRxNXA3azY0UGRtM2M5SFU2cDFkUHhZMVVpSVpRM2JjeldzMzU1QnMxZDNCd1ZVcnV1eE5ROWtwZjF2Y1E1UQ?oc=5",
+   "published": "2026-11-08T20:00:00+00:00",
+   "id": "6846032c7284",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
    "source": "the-messenger.com",
@@ -4098,22 +4122,10 @@
    "link": "https://www.the-messenger.com/news/world/article_667fbc78-c7da-5433-99c4-6d63a67515bd.html",
    "published": "2026-11-08T19:30:00+00:00",
    "id": "f5b78b0bfa64",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Philippines eyes more BrahMos missiles , shares  wish list  with India : Report",
-   "source": "morungexpress.com",
-   "theme": "Géopolitique",
-   "link": "https://www.morungexpress.com/philippines-eyes-more-brahmos-missiles-shares-wish-list-with-india-report",
-   "published": "2026-11-08T19:30:00+00:00",
-   "id": "6e407b7105a8",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Escalade régionale modérée au Moyen-Orient, léger soutien réflexe pour la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Araghchi : Time for US to accept Irans proposal or  choose war",
@@ -4122,10 +4134,22 @@
    "link": "https://www.presstv.co.uk/Detail/2026/11/08/780276/iran-fm-urges-us-to-accept-tehrans-proposal-warns-of-consequences-of-war",
    "published": "2026-11-08T19:30:00+00:00",
    "id": "8ae2f275878e",
-   "impact": 6,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Ultimatum iranien haussant le ton géopolitique et renforçant la prime de risque.",
+   "method": "IA"
+  },
+  {
+   "title": "Philippines eyes more BrahMos missiles , shares  wish list  with India : Report",
+   "source": "morungexpress.com",
+   "theme": "Géopolitique",
+   "link": "https://www.morungexpress.com/philippines-eyes-more-brahmos-missiles-shares-wish-list-with-india-report",
+   "published": "2026-11-08T19:30:00+00:00",
+   "id": "6e407b7105a8",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "Contrats d'armement bilatéraux classiques sans impact sur les marchés financiers mondiaux.",
+   "method": "IA"
   },
   {
    "title": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall",
@@ -4134,10 +4158,10 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
    "published": "2026-11-08T19:14:40+00:00",
    "id": "99860121c3aa",
-   "impact": 5,
+   "impact": 1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Persistance des tarifs douaniers maintenant un risque d'inflation et de tensions commerciales.",
+   "method": "IA"
   },
   {
    "title": "Trump says resumption of war with Iran ‘highly unlikely’",
@@ -4146,10 +4170,10 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEdWbjg1aWNmU2VXVk1RblZYY2twUlNUTWdaNnBOR2FkcU1MenRzSHlGdG5qT1czOWpvTXJWbHQyMkhRXzVzX05ha29wTXVzcWlKd0g0NFJmV281SWcxZjNWci1wR2RtRWNRRXozc1NGZGRXSlZuRkJjZzRUSm9ibldLUE80SDFwUDJuWFdKU3Z1T1JrSGtNWURDaEdrTGhi?oc=5",
    "published": "2026-11-08T19:11:47+00:00",
    "id": "745c5e159966",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Désescalade verbale directe écartant le risque immédiat de guerre et réduisant la prime refuge.",
+   "method": "IA"
   },
   {
    "title": "Repeal Trump’s Tariffs",
@@ -4158,10 +4182,10 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kMlZGSy1uUU1icXNCSkozLVNqbnRGQ2QwbmRXOG1LblZieFBTWXJ4RGhwb2MyN2lzbUpWaU9NaUhLN0hBN3dpY0ZJNnN0S1Jld0c3bGloVUVNU3BLLUxJTzhSQkljWXllZ2tZRGxGZFJyWmFD?oc=5",
    "published": "2026-11-08T19:08:23+00:00",
    "id": "e807a7ab0478",
-   "impact": 5,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Simple tribune partisane sans impact législatif ni portée macroéconomique réelle.",
+   "method": "IA"
   },
   {
    "title": "Ukraine war latest: Ukraine hits key bridge on 'highway of death' linking mainland Russia to occupied regions",
@@ -4170,10 +4194,10 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGJ6MnZzZWRHOEVfNGtiVVVtd2p2dzhDRHJrLXBEVUNCTUlINXhndmJRcFJnblNheGZmWVdKbTdJbWhGaWN6S0txM2NwbDNrUEF6anZVQTJVVnZlcnNXMXNTemdlRlhtUnd0NXpvZDRLeWZNdmFPVzdyOG1jak1zNkdnS1p4dlgzS2JHQzEtbzkyUXNtYVR5NGV4d21ZNnBSbURMWXNDd1V6TWxFSXpxQlZLY0p2VFpoeDJHay12RlYtYzA5eG1RaS0yQXNScDZI?oc=5",
    "published": "2026-11-08T18:44:31+00:00",
    "id": "8be2ac4c77e5",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe tactique ukrainienne notable mais intégrée dans l'usure habituelle du conflit.",
+   "method": "IA"
   },
   {
    "title": "US-Israel elections: Sri Lanka relief hinges on Hormuz reopening",
@@ -4194,10 +4218,10 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMkpMbGhiaHd1OEhpcDZQOWZZT1lfQURudHFlaEtNLWo0aV9YMjJsV0E2YTh2TVNFNGFoLXR0Y01HaXNITjhCQzFHNVpTVkpOTWY2T0V3TXZ5RjBvdjYwT2JtZkFXV213S1ljNk80ZlZGeFdsVFZubUxCRzdzSmdhUkFBc0NpN3FteXNYZE1lREJIRHNkbFV3QktqbjVCWXdaanRleWJQYjAzRXFDVjRMcEdzSmpVSnpKSDllcDBLMWhpaXE3T2JQQllpaHd4OTduMFRlQ252QUxBV2ZaWjlpY3dsLWF4ZnNvU1RKNnJNbVBmQ2tUaGRSZXBaUkV6UnNnVHVwTGlYdw?oc=5",
    "published": "2026-11-08T18:33:00+00:00",
    "id": "e766867aa228",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Signaux d'apaisement diplomatique réduisant mécaniquement la demande pour l'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump Says He Is Highly Unlikely to Order Iran Strikes if Talks Progress",
@@ -4206,10 +4230,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVFGbmdSOFRvelFwOUFRN3VpQjNUQ0tydktldUIteHRBNktKVU80N2NKSUFoRGRxSnl2dDgwS0wxREZTQThMc1FhRzdfZjVpTEVaamJDRkhTZU9MQnp5RERaWi0zaVlHUGpGV0Qtd21hZjgtSTVqeFNYbUF1cTlaSWIxQldJWjlHRW9IMFc3dGpfWVhxUnBhOUNhLTBFalVNRDA4TUZMUFB2Q09aSlBjZU4tcDIteGZpZXhlOW1YNFFjdw?oc=5",
    "published": "2026-11-08T18:06:02+00:00",
    "id": "6ff8a22550ec",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Atténuation du risque d'intervention militaire américaine, dégonflement de la prime géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump says return to war with Iran ‘highly unlikely’ as sides continue negotiations",
@@ -4302,10 +4326,10 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXVsdWRhRmVQZnBUMFVob0dxNFJ1TUgybVN3WmJmeWlCeE5uTmw5TmU5T1pTWS1OczJrM2FGUFFNUFhvbEs3OXc2R1JmczBHVWYxZjZWQU1obDNfZDJqcHZ3Z2lnX3otMTVZQ1JnY2ZMV0ExRmVTVnVGQUJZeGxJNjA3VXh6cy1XU2c4Tm9JTkwtdmZaVm41dTBkUFJ6TWN6X1g5ZWl3bXduODlLc2tNSXhVUQ?oc=5",
    "published": "2026-11-08T17:04:07+00:00",
    "id": "edbc2944192e",
-   "impact": 6,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Fuite de données rétrospectives sans effet sur l'évolution macroéconomique ou monétaire.",
+   "method": "IA"
   },
   {
    "title": "Iran condemns  Saudi aggression  after dozens killed in attack on Taiz market",
@@ -4350,10 +4374,10 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHNJYzFJTG1ZQ3lKdTBha3Y5MndpSWRMemFmeWtFSVpwZXlwc0o4NlBuZ3A3eWhiOHJNVTJ2Z0UzbzI2d0lYeEF1MU4yMFVyOG1zR1R6Mzg0WGdRM1hmejkwZjRPZC1NVXFhcEdxSV8xR2hsbjVQdFhIbEtkMmRicw?oc=5",
    "published": "2026-11-08T16:54:24+00:00",
    "id": "ca08ebd5222f",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Progrès diplomatiques perçus diminuant les probabilités de choc pétrolier et militaire.",
+   "method": "IA"
   },
   {
    "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
@@ -4446,10 +4470,10 @@
    "link": "https://www.foxnews.com/opinion/robert-l-maginnis-iran-war-cost-republicans-congress-what-will-it-cost-america",
    "published": "2026-11-08T15:30:00+00:00",
    "id": "6b2c3b436350",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Considérations électorales américaines de long terme sans impact immédiat sur le métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
@@ -4458,10 +4482,10 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelJUc2lUa3VFNGp5TGdHdHVfSmxrOWNldHJ3a3FmSktfaUxtZUx2d2lEcG9XdTRpelFSaklMUzhrd1NmM2laSmdKVDBIWmtVV21LWFJ4RWVsemwwTHlDYXRUWDhDQzFyVlNyanBZZUVZOWJMeWZXYnhPQU5YRTBhMVNtSlo4ako4X0J2VHBBZE1hOHc1N2FNd3pXa9IBoAFBVV95cUxOWUNFTmtHZzk0RXIyY1FVVndWNkxfVHpueTZBMzVrSnoxRVVqN0V6T0h0RHNUNGhWSUI5QWkyZTlJcFRVbHktcEQ3RWRnakE3LXlJMWs5X3RUb1ZZWVVnY3BuYjlRMWpsY0lmNXFQd0RxTU9veW9CVHEzOXljYU1oRXAzd0ZqQzBKM09HbE5WWmpabndPanU0NE9iRlRLVHZk?oc=5",
    "published": "2026-11-08T15:13:07+00:00",
    "id": "4ef948d269b2",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "politique US",
+   "raison": "Rhétorique américaine ferme maintenant une tension latente mais sans embrasement immédiat.",
+   "method": "IA"
   },
   {
    "title": "Qatar urges diplomatic solutions to prevent further Middle East escalation",
@@ -4470,10 +4494,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV2FkNy1VUjd5MkV6TWE1dEgySkhhV0FqTWZ4YXdCSUFJSzBVejg0QktyR3VObVNxZkwxbXBURzdqLUVjRDVPc3RxandVVzZDNWVCUEJZVEp2NEhtOG1CXzdRTlRNTmJLY0pXcmVjUnVXREQtdzlIWU9XR2Q0djBZTzJPZmVqeUFrN2pZM2w4WEpSNEZRaVVNS0JrWTludGZ0UTNuZWRVQjM?oc=5",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "cd23488991da",
-   "impact": 6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Médiation diplomatique qatarie contribuant très marginalement à calmer la prime de panique.",
+   "method": "IA"
   },
   {
    "title": "Saudi Arabia says Aramco building suffers  minor damage  after attempted attack in Riyadh – Middle East Monitor",
@@ -4482,10 +4506,10 @@
    "link": "https://www.middleeastmonitor.com/20261108-saudi-arabia-says-aramco-building-suffers-minor-damage-after-attempted-attack-in-riyadh/",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "b898b06f7d35",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Infrastructures énergétiques saoudiennes visées, réactivant une prime de risque régionale sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Iran says 3 tankers caught fire in Hormuz",
@@ -4494,10 +4518,10 @@
    "link": "https://www.freemalaysiatoday.com/category/world/2026/11/08/iran-says-3-tankers-caught-fire-in-hormuz",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "b3c0bbf0283b",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Incidents majeurs dans le détroit d'Hormuz menaçant le transit pétrolier et soutenant l'or.",
+   "method": "IA"
   },
   {
    "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh financial district",
@@ -4506,10 +4530,10 @@
    "link": "https://www.egyptindependent.com/building-owned-by-saudi-oil-giant-damaged-in-missile-attack-on-riyadhs-financial-district/",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "1224cfd67809",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe contre le secteur financier saoudien renforçant l'attrait des valeurs refuges.",
+   "method": "IA"
   },
   {
    "title": "Arab News | Riyadh students return to classrooms as fresh attacks hit capital",
@@ -4518,10 +4542,10 @@
    "link": "https://www.arabnews.com/saudi-arabia/riyadhs-students-return-to-classrooms-as-fresh-attacks-hit-capital-3010492",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "846ad6b11f5f",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite d'attaques sur Riyad, instabilité maintenue bien que partiellement normalisée.",
+   "method": "IA"
   },
   {
    "title": "Trump Confirms New Strikes on Iran as U . S . and Tehran Continue Diplomatic Talks",
@@ -4530,10 +4554,10 @@
    "link": "https://kxly920.com/2026/11/08/trump-confirms-new-strikes-on-iran-as-u-s-and-tehran-continue-diplomatic-talks/",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "23a4366eb19e",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes confirmées des États-Unis sur l'Iran, fort catalyseur d'achats paniques sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Gold surges 4 . 5 % in strongest weekly gain since August as crude oil tumbles",
@@ -4542,22 +4566,10 @@
    "link": "https://www.orissapost.com/gold-surges-4-5-in-strongest-weekly-gain-since-august-as-crude-oil-tumbles/",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "073382cb3a3f",
-   "impact": 3,
+   "impact": -1,
    "cat": "or",
-   "raison": "haussier or (or)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Commentary : The next Congress shouldnt let Iran become a  background war  | Politics",
-   "source": "dailyrepublic.com",
-   "theme": "Géopolitique",
-   "link": "https://www.dailyrepublic.com/townnews/politics/commentary-the-next-congress-shouldn-t-let-iran-become-a-background-war/article_295cc9b1-44f6-4bc0-b96a-2e48b4a712e5.html",
-   "published": "2026-11-08T14:30:00+00:00",
-   "id": "fc717ef55623",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Signal technique de surachat hebdomadaire risquant d'entraîner des prises de bénéfices rapides.",
+   "method": "IA"
   },
   {
    "title": "Saudi - led coalition says it intercepted 4 missiles over Riyadh , southern regions",
@@ -4566,22 +4578,10 @@
    "link": "https://www.middleeastmonitor.com/20261108-saudi-led-coalition-says-it-intercepted-4-missiles-over-riyadh-southern-regions/",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "1db61cb84143",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Bat Yam mayor serves Iranian diplomat in NYC over war damages",
-   "source": "jpost.com",
-   "theme": "Géopolitique",
-   "link": "http://www.jpost.com/middle-east/iran-news/article-914191",
-   "published": "2026-11-08T14:30:00+00:00",
-   "id": "2df9f523a86d",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Multiples missiles interceptés, preuve de vives tensions même si les dégâts restent contenus.",
+   "method": "IA"
   },
   {
    "title": "US offers millions for information on Iran nuclear program despite Trump claims of obliteration",
@@ -4590,10 +4590,10 @@
    "link": "https://www.egyptindependent.com/us-offers-millions-for-information-on-irans-nuclear-program-despite-trumps-claims-of-obliteration/",
    "published": "2026-11-08T14:30:00+00:00",
    "id": "2d5f7dbd3996",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Incertitudes persistantes autour du nucléaire iranien justifiant une couverture résiduelle.",
+   "method": "IA"
   },
   {
    "title": "Russia, Ukraine exchange deadly drone strikes as Zaporizhzhia nuclear plant loses power",
@@ -4602,10 +4602,10 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UUHFlM01VMnRKMDlJS2Z2cmJHdmVNajBWVWd2LURlWVRVX1QwVjBZRFJzRUxIbU1JQU13cktjMGdoeS1uVC1ybkRUWUpIc1lwdmpv?oc=5",
    "published": "2026-11-08T14:26:19+00:00",
    "id": "113fe156ac2e",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Coupure de courant à Zaporijia ravivant un risque nucléaire militaire majeur et anxiogène.",
+   "method": "IA"
   },
   {
    "title": "‘Enormous, Unbearable’: Brik Warns US Strike on Iran Could Devastate Israel",
@@ -4614,10 +4614,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDhqTUdLbXlKSGQwY2Vqclc0bU5Fb1Vfb19IMUZKajJqeVBTbzZOX2Z3QlV3TGx3dHVUSGtkaUpJRGNOc2RiaUFNXzhFOWp4TUNaSnNWRjM3STFFS3REVG83WE5OS1o5cmJWZTlOdHZzZjRkdDFzbVlIQzZaWjU5bWpEY1JrOTlWemJwSkJZWTRySzFHd3lwcEptTlRBc0RCUEtiMFVOUE1udE0?oc=5",
    "published": "2026-11-08T14:11:40+00:00",
    "id": "baf8f5a60387",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Avertissement militaire rappelant l'ampleur potentielle d'un conflit élargi au Proche-Orient.",
+   "method": "IA"
   },
   {
    "title": "Three ways the new Congress can stop Trump’s war",
@@ -4626,10 +4626,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVItVGlOR3pfYXR0aEZ6VEMwRllBRjRLazl2V0trNU9helg0Wm01YlRGLTJkdHhzX0l6MWV5ZDVIekZwMnR6cEt6VmVaa3pQNmxfWVF2NTFhUmhRWG9Lc2dEUTFZVUFsaTg5NU1QYVQ2Sy1LQ0htcW8zazBfN2phdGdhZWHSAYoBQVVfeXFMT0xVNVF1bVp5ZkZsUHdMUXhJdWRoMGI5UUF6ajhBZ2xWaUJLbHlqWkZ6ODBYbzFHYl85QzVsdEdscmlsaVY4RmdSTzd0ZFdjbDZkR1NWMUtxTXpBa002QldteFZtb0NjYVVJRVRfQ0liQmJKSk5YcUgwQlZzYWNWX0RlZGdjajdZN3hn?oc=5",
    "published": "2026-11-08T14:00:00+00:00",
    "id": "07fffb888104",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Tentatives du Congrès de freiner l'escalade militaire, modérant la prime de guerre.",
+   "method": "IA"
   },
   {
    "title": "CPI Preview: The Fed’s 0.3% Rate Hike Trigger for Inflation",
