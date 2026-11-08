@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "343f93f0966c",
-  "8a6ce62f162f",
-  "d5e86d9e7e0c",
-  "28d5420e85d7",
-  "96bdfec7f8b6",
   "7cc5724e850a",
   "bc3b383f50d4",
   "9adf4a2f665d",
@@ -4088,9 +4083,26 @@
   "3234b5a428f0",
   "797a7eaef742",
   "cf5459144316",
-  "b8e2fb3cf83f"
+  "b8e2fb3cf83f",
+  "d0eee849db03",
+  "f168dc3cffd2",
+  "f6cd380c1d00",
+  "b4b518b4165e",
+  "0d4a82429453"
  ],
  "news": [
+  {
+   "title": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5",
+   "published": "2026-11-08T18:00:09+00:00",
+   "id": "b4b518b4165e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says return to Iran war 'highly unlikely' if talks advance",
    "source": "Anadolu Ajansı",
@@ -4099,6 +4111,18 @@
    "published": "2026-11-08T17:58:03+00:00",
    "id": "3234b5a428f0",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Live - Tensions remain high in Persian Gulf with tanker fire report, attacks on Riyadh",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc?oc=5",
+   "published": "2026-11-08T17:49:39+00:00",
+   "id": "f6cd380c1d00",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6466,30 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Léger soutien refuge, mais neutralisé par les perspectives de négociations de paix.",
    "method": "IA"
-  },
-  {
-   "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0lpek9iZm84OUZ4RVJHWUVLWGFjdTByQnkycDB2dzB3cVFSczVDcjNXVmRTUmZabFZNTTFkUjRKbzROalFFbGpxUzd5SmdzeXdFMnB1WUx3UVQ3SEJtY0UzQnAtTEdwWWNXXzlLZm9vMDIyZS1iT3pia2VNelZJbTFzaXYyQkF1eUUyNkh4cklVZ0hSeWFoekVWUG9XWl8tdnE5ck5nRHA3Y3dD?oc=5",
-   "published": "2026-11-07T13:08:00+00:00",
-   "id": "aa3f44edf044",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite des frappes d'usure en Ukraine, impact refuge minime et déjà pricé.",
-   "method": "IA"
-  },
-  {
-   "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-   "source": "CNBC",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5",
-   "published": "2026-11-07T13:03:12+00:00",
-   "id": "a2acc9f1c798",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risque persistant d'escalade régionale au Moyen-Orient maintenant un plancher haussier.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8122,7 +8122,8 @@
   "news|bc7355058d23": 1794159960.864165,
   "news|3234b5a428f0": 1794160908.0259109,
   "news|797a7eaef742": 1794160908.9163175,
-  "news|b8e2fb3cf83f": 1794160909.7390041
+  "news|b8e2fb3cf83f": 1794160909.7390041,
+  "news|b4b518b4165e": 1794161770.8149385
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8466,6 +8467,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T18:16:10.815059+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says he is unlikely to order Iran attack if talks progress, CNN reports</b>\n📰 Reuters · Dim 08/11 19:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5"
+  },
+  {
    "ts": "2026-11-08T18:01:49.739114+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns US of 'devastating response' if Washington starts war</b>\n📰 The Express Tribune · Dim 08/11 03:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTY4RFdIclFSQnBSVVVkVUZ5enh4M1RFN0hjOW04aHh6ZDR4Y3dYTFQ5TUZKWVZwc1FRbWJzTk9xUE1CVjgxbHVURm5fTkxMZlhxb0tNQnpTQzdRQzZmcFBUOG1yaHdaOTVDb3NLRzJWa2F1VFBxY2IySUFMWUJtYWF6R1NqcVIyWnVEUG9uWDBZRF9KV05YNGgwQ2JsNFRiTHFEOFlOZXVlcVVaajE1aUNLNE9JLVRCWlFSaw?oc=5"
@@ -8759,11 +8765,6 @@
    "ts": "2026-11-08T00:16:10.780100+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Betty McCollum: The buck for the Iran war stops with President Trump</b>\n📰 Star Tribune · Sam 07/11 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjBHYXU0c1VvQ1llYnlaS1dRRmFVUEJCMFdFRVFGdExyZTlLYUx4UHl0YjhhZXJTVC1ObWtxSWs2UndxNUxwVkFyMExLeERuQ3ZZU2ZLVVU0SHFjUWxkeWRoOVBNTEQwZENTSHV3YS1qMXZKZlpfM0VacDliUVlFWmVkc0xqbEFHdlBXSzlzU0xtbS1fUS1GT291SmtyREc5a245MmpKZ1Y?oc=5"
-  },
-  {
-   "ts": "2026-11-08T00:16:09.798043+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors</b>\n📰 New York Post · Dim 08/11 00:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQemExdmpEbnc5TjNrbHBtalVLNmVmM3JQMmlwcm1pbzZuemhZUjBZT3hGY1Mxb0JIQkUzWlVjMnBvOVZTWVphZDh4c3YxamQ4RVZrODRlUWt0czVnRUZTdTB0RnVDd3RaUHBvSVd5SnZpQ2JnUllHcDc5QXNIMENNSkFFWnNtejd1Q2RIYnlocTZsRnM?oc=5"
   }
  ],
  "daily_forecast": {
