@@ -1012,9 +1012,6 @@
   }
  },
  "seen_news": [
-  "a6256efe08e9",
-  "c99b08565307",
-  "1579874e2fd3",
   "614d4f7e446e",
   "d3a8f1f54a16",
   "7066d89c846d",
@@ -4011,9 +4008,24 @@
   "c7135ca16519",
   "a5d35225a142",
   "e93fa310e1f9",
-  "3d438f818774"
+  "3d438f818774",
+  "996da829a7bf",
+  "f2254d7231ad",
+  "df2781f54cef"
  ],
  "news": [
+  {
+   "title": "October Payrolls Complicate Fed Easing Outlook",
+   "source": "KuCoin",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmFsbmRkOWVkWFpXTGFZRVdROWMxY1RhZy1ZUWNTSWJ6R1BfWUpGdHRtQTlZVll1XzJzNzMtbkNadFJFV3poc0ZHdG1PanRLQnN5MHRIazhPTUVrLWNOTHVxdkUzdXZmQ3FORV9rVnUyV0cxVG1od05DMndHV0NLdzZKdkp5UXM?oc=5",
+   "published": "2026-11-08T00:58:36+00:00",
+   "id": "df2781f54cef",
+   "impact": 8,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
    "source": "theusnews.com",
@@ -4673,6 +4685,18 @@
    "cat": "géopolitique",
    "raison": "Avertissement diplomatique renforçant temporairement la prime de sécurité géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events",
+   "source": "EnergyNow.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5",
+   "published": "2026-11-07T13:11:06+00:00",
+   "id": "996da829a7bf",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
@@ -6389,34 +6413,9 @@
    "cat": "commerce",
    "raison": "Opposition aux tarifs douaniers canadiens atténuant le risque de guerre commerciale nord-américaine.",
    "method": "IA"
-  },
-  {
-   "title": "Trump’s latest Ukraine offer may only tempt Putin to step up his war",
-   "source": "CNN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhLdEFhNEhJcUhIaGQ5UEwwSzRNdjQwWFZhRmN3T3ZoNDU2QWtwSUx5dzBkcXlabFNiSWFsVWI3Ul93VG1lajJmbk9reGpZZ0w1NVdTMVVCRUhaNE5SM3lSb2NHdm1jTnFLZDJvWW5NaWFVNF8yR29xMTJFZk5QZEhR?oc=5",
-   "published": "2026-11-06T17:11:51+00:00",
-   "id": "eb1a42d65b57",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risque d'intensification de la guerre en Ukraine, soutien modéré pour l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "October Non-Farm Payrolls Reignite Expectations for a December Rate Hike! Wall Street Bets Exceed 80% Probability; \"New Fed Communications Channel\": AI Sell-Offs May Become a Policy Variable",
-   "source": "富途牛牛",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFVZNWRwd19VOVdCZTctaGJoaEZuZDlLblRPM3dGbWVJTFQ3RlVLNm1RSm5VdF9zaXRDQmNQa2p2eHlCR3hFNUNKTVZ1QWdRejNBMVk4Mkk0Yi01cmJySmM2UHdYM0hBdWY5V1pTMFY1Rk5mdjA5cFZxR2ROZWQwXzZtejl5UmFPMmlzcDhoLUtfeDhmOWktbmRJLVVwOXItalc3TVNOUTJOaE5uaUpr?oc=5",
-   "published": "2026-11-06T17:08:00+00:00",
-   "id": "a6a846a48574",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "Anticipation massive d'une hausse de taux Fed, très baissière via les rendements réels.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|349726b25626": 1792285289.3885467,
   "news|d4b415a5539a": 1792286160.9230816,
   "news|78af0d928fc8": 1792289767.1364932,
   "news|51fe3deec34c": 1792289768.065905,
@@ -8035,7 +8034,9 @@
   "news|0a584d3c2492": 1794098822.9563684,
   "news|be1d39e2df26": 1794098823.9861217,
   "news|ea21e40603b8": 1794098824.8472772,
-  "news|a5d35225a142": 1794098825.7281067
+  "news|a5d35225a142": 1794098825.7281067,
+  "news|df2781f54cef": 1794099695.3046114,
+  "news|996da829a7bf": 1794099696.2245903
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8379,6 +8380,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T01:01:36.224840+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features &amp; Events</b>\n📰 EnergyNow.com · Sam 07/11 14:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5"
+  },
+  {
+   "ts": "2026-11-08T01:01:35.304689+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>October Payrolls Complicate Fed Easing Outlook</b>\n📰 KuCoin · Dim 08/11 01:58\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONmFsbmRkOWVkWFpXTGFZRVdROWMxY1RhZy1ZUWNTSWJ6R1BfWUpGdHRtQTlZVll1XzJzNzMtbkNadFJFV3poc0ZHdG1PanRLQnN5MHRIazhPTUVrLWNOTHVxdkUzdXZmQ3FORV9rVnUyV0cxVG1od05DMndHV0NLdzZKdkp5UXM?oc=5"
+  },
+  {
    "ts": "2026-11-08T00:47:05.728379+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Explosions heard on Iran Qeshm island linked to Strait of Hormuz , Iranian media says</b>\n📰 iraqsun.com · Dim 08/11 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.iraqsun.com/news/279418873/explosions-heard-on-iran-qeshm-island-linked-to-strait-of-hormuz-iranian-media-says"
@@ -8667,16 +8678,6 @@
    "ts": "2026-11-07T05:46:01.069272+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'Netanyahu Would Have Been Killed': Trump's Explosive Iran's Nuclear Attack On Israel Claim | Watch</b>\n📰 The Times of India · Sam 07/11 06:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNSmZ5NS1mU1NDTXl4UkdwREZvVnd3UElsT3NwQ2tzYU1xNGlDT0FHUWNRN1BrdEtkTlFzekQ4a2xiSU9xVFRGakpuUUhXcHNFSWlaSUdna1R2WnZuZi0wWi1RLXVDMlBGMlZqOFNMSWlqekhqcEtoc29YZTR2NHRCUWpLUXVpbDl5Rzh1eUhnREJ5TFNRU1dyaXk1Wm9ubnBsWTJaU2ZjbjFNX1ZDd24ybXNlZlpZNXJ0V1U1STN2QUVMMlhFRHBMeloxekFnZmF4anJLeXRSaXNFanhfWjExWllXOGhQVlNYajdfSU5qV0x4ak9OQ3BvTlFLaHJuUXExdmpV0gGIAkFVX3lxTE5NZS15Z2w1ZlB5REFWVXpDZ3N3N1ZQalFZMGZpMkJWZXJ0ZWRPYzhGYzhKZWJOWTlnYUNjM2g2SVRxZGdmTHR1R2dqM2Q0MU41NExmNGl5SDVCYmdKSHFNV0syb0NKRC1UV1BRTGNEM3VrTWhqTGs3X0FKQWZqM21rM2FPcGVENzZZUzR6Z0l3QWtOTmJsRlRJVF90ZE84T0NrQk53dE1Fb3V2V2NqS294LWk2QVNRcGZWYzNxRjlORjJBdllONXA3WTQ3OWlzZ3Bzb3BzQ0Y2YmhTMHlUb2c2a3VGX05KRjVMb1VYS1gtRjdyQmZsX0dENFVMRHBlem5ybDFnSUJ3Zw?oc=5"
-  },
-  {
-   "ts": "2026-11-07T05:19:08.197324+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel says it has plans for at least three weeks of war as airstrikes pound Iran</b>\n📰 DD News · Ven 06/11 19:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelBoS2J2ZjIwNjY3bkM3N2lSWkpBRHRVSkl2RTRlZ0dZdWVLdjE5bmduWWZKTExBMDBYSG9WSGdpbkNNaUhsNWlvSlotaHM2MVEycl9lb0ZxRHZXMWZ2M3BJMUpCUDdUM19IUVY5RTd6N0xEMHRrRHIyY0dZV3ZxMzQ4alZuOVFKUVNlVk1GQzV3QjVMbkR6QmdTaUhWQzR2aXoyUl9NLVdqTEk?oc=5"
-  },
-  {
-   "ts": "2026-11-07T05:19:07.372240+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says to ‘Soon’ Take Decision on Whether to Resume Iran War</b>\n📰 ASHARQ AL-AWSAT English · Sam 07/11 05:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUx4SmpqYlVzaDlDWVBQWVpObFAwZFRRcjNmM2Rpd3pvT2JUV2ZBR2thdWVGclNseElTNGtQRU0wbnR3WFh2LVQtYllfSi1SOVRKVkVseURPUTUtQXdwX29ZVi1rYktRckNDdVhLOXc2ZFZ1a3VjVlM0dkkwLWY0Y29oMUF1ajhMZ3VVQlZGMjUtcHpoRnBSamN2MWN1b2pvMWdqM05ycjBmSTA2Nm90ZnR3?oc=5"
   }
  ],
  "daily_forecast": {
