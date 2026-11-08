@@ -1089,33 +1089,6 @@
   }
  },
  "seen_news": [
-  "3f436591df2d",
-  "bbf4226ba7f4",
-  "6b6a9c53559e",
-  "e7ad74e2f4b5",
-  "0165e642d836",
-  "8450c86a51df",
-  "baf64a335cdf",
-  "dfad36c3b249",
-  "17db19fc7c7f",
-  "c77ff188269d",
-  "19a2db371ec1",
-  "71371e897b49",
-  "c08645559701",
-  "9680fd220e30",
-  "039e95e00d37",
-  "ffbf62d84e65",
-  "24c707e39c7a",
-  "1d6ee6e3b6fd",
-  "d3e62bfa5592",
-  "56c49e2163a4",
-  "ae225c9fb5ac",
-  "39c2fbcba830",
-  "e0e4f88f8e3b",
-  "e7797883e6d5",
-  "dbf230c1fcba",
-  "d8ffa90838ef",
-  "b4e0ca931733",
   "7d0fbd59f938",
   "37c2e636a6a3",
   "cc2642b9d60c",
@@ -4088,7 +4061,34 @@
   "94e3233c1ce2",
   "6213fafae78e",
   "562493796127",
-  "fd02d2fe0eb4"
+  "fd02d2fe0eb4",
+  "ae50724c2339",
+  "334800707021",
+  "84b69b95c6c3",
+  "fc966b2bb02f",
+  "204a14382a49",
+  "49714dfee601",
+  "24d77005185c",
+  "75e9ed100057",
+  "9c638ecf07d3",
+  "fcff429cc46a",
+  "c98bfa684f90",
+  "dca0335d70d0",
+  "9d2a3d4a93c3",
+  "063348c382e2",
+  "067aa987d58b",
+  "533f7565f84c",
+  "e0de86ec79e8",
+  "3a5069ff60c3",
+  "e281aeed7a59",
+  "ef85bc88f2a7",
+  "00379165d581",
+  "ad10d7b94e78",
+  "346acf83b1ee",
+  "f7d08447ca00",
+  "98dbc6055bb7",
+  "8d187ebdf2ab",
+  "240619fa0138"
  ],
  "news": [
   {
@@ -4101,6 +4101,66 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Saudis report new attacks amid escalation with Houthis",
+   "source": "examiner.com.au",
+   "theme": "Géopolitique",
+   "link": "https://www.examiner.com.au/story/9387819/saudis-report-new-attacks-amid-escalation-with-houthis/",
+   "published": "2026-11-08T13:00:00+00:00",
+   "id": "24d77005185c",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump orders blockade on Iranian ground transport as Houthis say Saudis killed dozens in air strikes",
+   "source": "foxnews.com",
+   "theme": "Géopolitique",
+   "link": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8",
+   "published": "2026-11-08T13:00:00+00:00",
+   "id": "063348c382e2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Bank of England hikes rates to 4 % as inflation fears mount",
+   "source": "northkoreatimes.com",
+   "theme": "Géopolitique",
+   "link": "http://www.northkoreatimes.com/news/279414658/bank-of-england-hikes-rates-to-4-as-inflation-fears-mount",
+   "published": "2026-11-08T13:00:00+00:00",
+   "id": "e0de86ec79e8",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "New wave of bomb hoaxes forces flight diversions across Europe",
+   "source": "russiaherald.com",
+   "theme": "Géopolitique",
+   "link": "http://www.russiaherald.com/news/279414694/new-wave-of-bomb-hoaxes-forces-flight-diversions-across-europe",
+   "published": "2026-11-08T13:00:00+00:00",
+   "id": "ad10d7b94e78",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Through genocide and war , till elections do them part",
+   "source": "dailysabah.com",
+   "theme": "Géopolitique",
+   "link": "https://www.dailysabah.com/opinion/op-ed/through-genocide-and-war-till-elections-do-them-part",
+   "published": "2026-11-08T13:00:00+00:00",
+   "id": "98dbc6055bb7",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5712,6 +5772,18 @@
    "method": "IA"
   },
   {
+   "title": "US Tracking Closely How to Get Oil Tankers Through Strait of Hormuz, White House Says",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEM3UHJEMmR1WG9mVWk4NmkxUXBsXzBkT0plNXlLdGgxRVotc0lrS2pXaW9mWVdOcm9WSW15Vm9ZN1B2bEdkTEZJXzgxakFpRmdaeVFVelVmUHdQclhRTWFub2NINEhhOHRuUUd2TDRHUV9HWnFsdlpWQ0NhRDFESHkyWVZWQkh4VGtPWkF6TzNVS2FicDZyY292THhlc1RrdDF6aW1mUE9IRG93M0w3clpTRTB2Zw?oc=5",
+   "published": "2026-11-07T13:37:39+00:00",
+   "id": "84b69b95c6c3",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "The Taiwan crisis: How it could affect India’s outreach in the Indo-Pacific | The Business Guardian - newspaper",
    "source": "Magzter",
    "theme": "Chine/Taïwan",
@@ -6417,78 +6489,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Intensification des frappes en Ukraine soutenant modérément la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "US Offers $20 Million Reward For Information On Iran Nuclear Program",
-   "source": "Radio Free Europe/Radio Liberty",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5",
-   "published": "2026-11-07T08:03:52+00:00",
-   "id": "ca6d1ed4ef13",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Surveillance renforcée du programme nucléaire iranien soutenant légèrement l'aversion au risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Price Forecast: UniCredit Expects $3,900-$4,500 Consolidation Range",
-   "source": "Exchange Rates UK",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVFA3RC05dUVRU0lVVGMyd3dPTDNtQVh3eVFXVEtfa2pEejZXRzl0bUR0RHRxVy1SV0xxc2lRZVNFbHUxdFBSSWM3TUZEOTdjRW1wbExneDUxZXA0aktZV09PU3VaN2ZCSGVOclA3Sl85MnYxWDBSdTJub2VFYWFCeFdFOTRrWW05Z2lMVndVRzhIZXIycUQ5eXRveVk0S1ZQRnRiZ3ZYb2dFNUJ1eXk1X0Zzcmo3RWN0VUh3X29oZUZXN2poNlNOaEF2Tlp6M040RFRRRHdHRQ?oc=5",
-   "published": "2026-11-07T08:00:00+00:00",
-   "id": "d61c2b06267e",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Prévision haussière de long terme par UniCredit, impact immédiat limité sur le marché.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Prices Plunge, Yet China's People's Bank Buys for 24th Straight Month — Adds 25.8t in October",
-   "source": "BigGo Finance",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JYlFvSzNjem10Ujl5RHNvWGdvUUpUSkhtSTZZWVZ3b24zZFhKVGhTSGFmejZmVDVXTG1Mcm5DQ0VPTmlycnZabkxIRzgySjIwelZrZ1B4N1EwTmVWNC1NdG5OXzRTNjh6dW1weGFhRHFRUlEzZHc?oc=5",
-   "published": "2026-11-07T07:55:00+00:00",
-   "id": "6569faa57048",
-   "impact": 3,
-   "cat": "banques centrales",
-   "raison": "Achats continus de la banque centrale chinoise, confirmant un solide soutien institutionnel sous-jacent.",
-   "method": "IA"
-  },
-  {
-   "title": "Shafaq News..Iran claims 260+ aircraft downed in US-Israel war",
-   "source": "شفق نيوز",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0xFNWlhQjlfaDBPUlRZdl9vZmNhRmgzd19iZ2x6VDljbVA0ZEJEOGdIM1VackMyNWgxTERQaTZJUWZPcVIzeTlsd0JvQ0owY0tLOHZSN2x1SExwUS1ydF9odlJyWmpuQUVUWVB4RXBITWtGMHB2WDlDVTY2RnBiejJR?oc=5",
-   "published": "2026-11-07T07:53:18+00:00",
-   "id": "37de1572e681",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Rhétorique de guerre totale et escalade majeure au Moyen-Orient dopant la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Zelenskyy says ‘big agreement’ voiced by Trump could be 'dangerous'",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlTMXdST0s0Wi1tRFBpT2d6cndmV1VIWmFFclBQaVVCV0xyM2w5aHQ4Vnl2ZXViVHlzVl9zcmI4UTJESDNEOURuR3UtZnUzSmhQMHRsZWNzY2R4WmZHaFd5MVlhejZfU1VPTlBsU2hRUlNoMmFRVlNEVWVmM0JpWUdKbkoxTHRlU3FMWjF0ZU1SSEYtLXV5Y293cXhtLXJpaVE?oc=5",
-   "published": "2026-11-07T07:47:39+00:00",
-   "id": "ecf56546a628",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitudes sur la fin du conflit en Ukraine, léger soutien résiduel de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine War, Day 1,717: Russia’s Ballistic Missile Strikes on Kyiv",
-   "source": "EA WorldView",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeW52V0RqOFNTQWtEaDRwMDNGbmZIWWplMFV6YmVfX2hRWVFTQ0VzbG9DRE1uZVNESW11cUF3RzVDWkMxTF9vQ0VYRi1wV1lRSG9UWHpGM3ZSZEIzRFNybVVXeERvVjdGRU9ScTFmblB6YUVYVzZ1MGpKUjFZSkdINXNJTUJjVlNrMlE?oc=5",
-   "published": "2026-11-07T07:37:38+00:00",
-   "id": "e7dadca2d35b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes en Ukraine, léger soutien réflexe de valeur refuge.",
    "method": "IA"
   }
  ],
@@ -8107,7 +8107,9 @@
   "news|03db220c84b0": 1794140175.0423172,
   "news|097928471a1a": 1794141084.8271537,
   "news|1abdc43ed212": 1794143948.7725933,
-  "news|4077ec3c8a77": 1794143949.6912615
+  "news|4077ec3c8a77": 1794143949.6912615,
+  "news|24d77005185c": 1794144685.3495345,
+  "news|063348c382e2": 1794144686.394172
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8451,6 +8453,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-08T13:31:26.394414+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump orders blockade on Iranian ground transport as Houthis say Saudis killed dozens in air strikes</b>\n📰 foxnews.com · Dim 08/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+  },
+  {
+   "ts": "2026-11-08T13:31:25.349616+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Saudis report new attacks amid escalation with Houthis</b>\n📰 examiner.com.au · Dim 08/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.examiner.com.au/story/9387819/saudis-report-new-attacks-amid-escalation-with-houthis/"
+  },
+  {
    "ts": "2026-11-08T13:19:09.691556+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Between Coalition Talks and an Iran Strike, Israel Faces Double Uncertainty</b>\n📰 Israel Defense · Dim 08/11 10:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qRXNVc1BXRGVNenJzZEpjWjNTQmZlS29UQVN3OVlyNGZEaWd4eHAwNWZxTGs0UktCM3hOeGgzMTQ2WTdyeW55U2FrcmhSUFpvSjJJMzdBZ1Q?oc=5"
@@ -8739,16 +8751,6 @@
    "ts": "2026-11-07T11:31:40.160642+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US offers $20 mn reward for info on  Iran nuclear program : CENTCOM</b>\n📰 omanobserver.om · Sam 07/11 11:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.omanobserver.om/article/1199232/world/region/us-offers-20-mn-reward-for-info-on-irans-nuclear-program-centcom"
-  },
-  {
-   "ts": "2026-11-07T11:31:39.142405+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump announces limited strike on Iranian targets</b>\n📰 sana.sy · Sam 07/11 11:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://sana.sy/en/international/2356705/"
-  },
-  {
-   "ts": "2026-11-07T11:31:38.135048+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump latest Ukraine offer may only tempt Putin to step up his war</b>\n📰 egyptindependent.com · Sam 07/11 11:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.egyptindependent.com/trumps-latest-ukraine-offer-may-only-tempt-putin-to-step-up-his-war/"
   }
  ],
  "daily_forecast": {
