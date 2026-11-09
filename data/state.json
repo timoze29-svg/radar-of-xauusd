@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "b2a2005dcba1",
-  "056b310b830b",
-  "0bbb530516a3",
   "cce2a3655d6d",
   "dbd8764e9eb0",
   "8dbb8401db09",
@@ -4088,9 +4085,24 @@
   "ca227123a141",
   "e070625ace97",
   "da0bdb91772c",
-  "d65a72f4f9d7"
+  "d65a72f4f9d7",
+  "fc8c853fb6ae",
+  "bcc6b03eea32",
+  "d042fa2c966f"
  ],
  "news": [
+  {
+   "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies",
+   "source": "Forbes",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
+   "published": "2026-11-09T14:32:10+00:00",
+   "id": "bcc6b03eea32",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. gives Russia an early win even before Ukraine peace talks begin in Abu Dhabi",
    "source": "The Washington Post",
@@ -6478,22 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Avertissement militaire rappelant l'ampleur potentielle d'un conflit élargi au Proche-Orient.",
    "method": "IA"
-  },
-  {
-   "title": "Three ways the new Congress can stop Trump’s war",
-   "source": "The Hill",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVItVGlOR3pfYXR0aEZ6VEMwRllBRjRLazl2V0trNU9helg0Wm01YlRGLTJkdHhzX0l6MWV5ZDVIekZwMnR6cEt6VmVaa3pQNmxfWVF2NTFhUmhRWG9Lc2dEUTFZVUFsaTg5NU1QYVQ2Sy1LQ0htcW8zazBfN2phdGdhZWHSAYoBQVVfeXFMT0xVNVF1bVp5ZkZsUHdMUXhJdWRoMGI5UUF6ajhBZ2xWaUJLbHlqWkZ6ODBYbzFHYl85QzVsdEdscmlsaVY4RmdSTzd0ZFdjbDZkR1NWMUtxTXpBa002QldteFZtb0NjYVVJRVRfQ0liQmJKSk5YcUgwQlZzYWNWX0RlZGdjajdZN3hn?oc=5",
-   "published": "2026-11-08T14:00:00+00:00",
-   "id": "07fffb888104",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Tentatives du Congrès de freiner l'escalade militaire, modérant la prime de guerre.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "big|VIX|2026-10-19": 1792420290.1950507,
   "news|cd78ead7583e": 1792425702.2578194,
   "news|206d5c8cfcdb": 1792425703.2498105,
   "brk|US10Y|pdh|up|2026-10-19": 1792426575.473513,
@@ -8156,7 +8155,8 @@
   "post|2026-11-09T08:40:00-05:00": 1794233772.101608,
   "news|93f9ffcb6641": 1794234687.5303252,
   "brk|OIL|pwh|dn|2026-11-09/2026-11-15": 1794234688.7743354,
-  "brk|OIL|h20|dn|2026-11-09/2026-11-15": 1794234689.7204437
+  "brk|OIL|h20|dn|2026-11-09/2026-11-15": 1794234689.7204437,
+  "pre15m|2026-11-09T10:00:00-05:00": 1794235568.438796
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8516,6 +8516,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T14:46:08.438842+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-09T14:31:29.720531+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas sur 20 JOURS\nNiveau : 86.65 → prix : <b>86.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.63 | 60j -0.34"
@@ -8809,11 +8814,6 @@
    "ts": "2026-11-09T01:46:08.282590+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 116.20 → prix : <b>4 118.50</b>\nATR jour : 85.0$ | Pivot hebdo : 3958.5\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 780 cas)."
-  },
-  {
-   "ts": "2026-11-09T01:19:17.913286+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Rubio Sees No Iran Breakthrough as Trump Downplays New Strikes</b>\n📰 Bloomberg.com · Dim 08/11 23:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzA3VUJ1UWpnaXNfMkt1RFJGUWxuRG5EX3VsRWJBVngwNVJETXBfS1dUUGFZel9lMEJIdi10dFNlZWduc1ZSOU50bTBfbXVyLUpaQ2EzSmpXSWZGM2pNcFJJaFExVWhDTmxVSnc0TWozMTc5T1lhSHIwU2hTVU1XSzdYU3dDQldWZ2dRS012TUpsSFRBSmJjcEtRbkFIU09NMkFORGpxanpXaXhIVF81TzZoSTE?oc=5"
   }
  ],
  "daily_forecast": {
