@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794220260.7123806,
+   "ts": 1794223862.3811662,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,8 +1089,6 @@
   }
  },
  "seen_news": [
-  "571472bc6861",
-  "1201451af75b",
   "2d48c765eb92",
   "54fb4807bde0",
   "0192d0641380",
@@ -4088,9 +4086,23 @@
   "b0e7e7a7770d",
   "df18252d52bb",
   "e34e04b13b52",
-  "44d3b1a56cfa"
+  "44d3b1a56cfa",
+  "868aa3ca81ed",
+  "64d62153bdd9"
  ],
  "news": [
+  {
+   "title": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
+   "published": "2026-11-09T11:24:06+00:00",
+   "id": "868aa3ca81ed",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
    "source": "WTOP News",
@@ -6478,22 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Destruction du réseau électrique ukrainien, dynamique de guerre déjà intégrée par les marchés.",
    "method": "IA"
-  },
-  {
-   "title": "‘No good options’: Iran war caught between Trump's midterm troubles, Israel's election shake-up",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QM1VwazJFcmdvM3pZNktGY2MtcEduUDRkY2g4aXlqaFV3Rm84MmVjcW9hSkRiSHRhd1VuREtlVkI5d0VORk9IWnNyWWJxV0ZHRDVRbnZQRTNlVW1aUHZVRGRtMXhCYXUtWUE?oc=5",
-   "published": "2026-11-08T11:03:51+00:00",
-   "id": "9cef3fe95494",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Impasse stratégique au Proche-Orient maintenant une prime de sécurité résiduelle sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|4197b873a490": 1792409483.008795,
   "news|79bc16ee4186": 1792410367.071549,
   "news|af402a2d729a": 1792411294.0268226,
   "rep|update|2026-10-19": 1792411296.6503081,
@@ -8150,7 +8149,8 @@
   "news|2a74b0791e5b": 1794219370.4140825,
   "news|032ec865ccf7": 1794220284.602307,
   "news|a3d6ff07f0fb": 1794220285.6601167,
-  "news|df610bf9af3c": 1794223155.3769858
+  "news|df610bf9af3c": 1794223155.3769858,
+  "news|868aa3ca81ed": 1794224476.4242053
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8510,6 +8510,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T11:41:16.424341+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war</b>\n📰 Reuters · Lun 09/11 12:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5"
+  },
+  {
    "ts": "2026-11-09T11:19:15.377079+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bat Yam, Shurat HaDin Sue Iran for NIS 208 Million Over Deadly Missile Strike</b>\n📰 The Media Line · Dim 08/11 17:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPeDl5YnM0b2tuSGJ4bThIdHRJdFNHVlRfZUNpSDBMbW1iVTdNOVkxRXBGdHVWcUhPd2RFQlV6d0Y5Q3hUWHk3akd4ZjBVc1BkZ3lkT1lqeUFMenpwWm50UnItX2g1NENONkpIN2JJcTkyOU0zM1hTTm5jV2tNR2VKMFNLTjhPYmpWeHl1TWp1alU4R3BDNjVUcU14anlmRzd3OWlWNXRCS0VOaVFaREtxSHZ3?oc=5"
@@ -8803,11 +8808,6 @@
    "ts": "2026-11-08T21:16:19.394170+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says return to war with Iran ‘highly unlikely’ as long as sides continue negotiations</b>\n📰 New York Post · Dim 08/11 19:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3ZDQVRkb2xkOXBFRGxhYk1qOWxlbmVUSnNSTG9lQ0sycG5yQlpNSzZSZmxkamR4SDFhdjNmbW5XdEtacnJFbzRNa1AxN0w4dkhIRGp3RWtGcjA3N2V3T1RDeENFa0hpQzQ4WVVqQ3o1Vm9oZ2M1eEZUaExFRDdGZ29mTkRoTnA1MGJtcVdLRTZjSy1IZ3NjN1l5ZkppUUUtVVpIeVFIT09hSDJORXZXa0ZDcHQxcUVER2xxMQ?oc=5"
-  },
-  {
-   "ts": "2026-11-08T21:16:18.382291+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump held off on Iran strike as Israel, US prepared for military operation, sources tell 'Post'</b>\n📰 The Jerusalem Post · Dim 08/11 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5GallITURTbUFkN1FiTHJHWFpQU2wxaWg1UzNBa0ctUkxvNENtU095bTV5M0IwU0s0ZkhWenNVWlUzYXBhMXVrTWNyTVVoaVN3dlkyS1ZmdnlPZGN2anVzR0pPY1Zyb096b3c?oc=5"
   }
  ],
  "daily_forecast": {
