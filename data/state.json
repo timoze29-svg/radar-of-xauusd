@@ -1089,7 +1089,6 @@
   }
  },
  "seen_news": [
-  "a327a54705ab",
   "7f17b5234d03",
   "62758cb671d2",
   "d711847a0f07",
@@ -4088,7 +4087,8 @@
   "d17fb19c7d79",
   "21e982689bbe",
   "f4ff97434256",
-  "af6b1644bbd4"
+  "af6b1644bbd4",
+  "1c54c6cc2c50"
  ],
  "news": [
   {
@@ -4098,6 +4098,18 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
    "published": "2026-11-09T22:36:18+00:00",
    "id": "f4ff97434256",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump signals no Iran strikes coming after meeting Qatari leader",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnA4RE1FczlldTNPSzhDNTFBYjVPUEZHUVRLajRjQ3hncXJoVW9qdU5qd0Z5RjR5M3U2T19LRldOWUlUTDlscExaUl92RV9weGtKYWxDQ3FCZWZ0M2F0RXdqNXVHRE84ZnJwYVhGR2ZZZGZ3dGdjSHRWRWYxbWY5emJ2QWU1ZXVMRC1meXNoNXFvelnSAZgBQVVfeXFMUDRTeTRzdTVIRXM3UnZjckxyT25VUG5RZnRsV2liRi1MNHlqT2JzUzNjNmFiUWp1aVVBVExUdi1Ja0M1RlRUeHBaTjMxV0EyOGdDU2ZjQzNTVk1OR1VkbGhVcTY3V0VYUzd3eDdQRm85WmhSS2ZWT1dvY1ZjUzlsOS1MSWpGRUpjck1iVGw5TVhYRE51QWhNY1Y?oc=5",
+   "published": "2026-11-09T22:31:00+00:00",
+   "id": "1c54c6cc2c50",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Perspective d'apaisement diplomatique avec l'Iran diminuant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says attacks on Iran 'highly unlikely' if talks show progress",
-   "source": "upi",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xVmdRaXhSVXZYYW1OLVJhTDhVNE9hX2cyZWUyUnd6UmN0SWN4QzNZZVlKUGFtVUFmSWdlekhfRTBUUzQxODVDYkdrcmZvWU52UDVDaVYtdWpYSEZVcEh4VUU2QXk0Rlk4UVJYV3lHNG1HN0JFMlhPbW54Y3AwS0nSAYQBQVVfeXFMTXFqb0hjc0pRZjREa0xCRlUwR1duVXg1ZnhvYUphVlZ3LXlJTTNJb2w1eGJXM1dMZWJsa3pqUDI3WnRoNnJoZUEtcHlRUU50SkpaY0h6N210RVVIZnJjUXlCbzZGaWNITDY0aVRoX2ZScnhPSUZ5cm1EbnZCZnBucUVvai12?oc=5",
-   "published": "2026-11-08T21:27:02+00:00",
-   "id": "446f70d9f311",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Désescalade potentielle avec l'Iran diminuant la prime géopolitique de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8168,7 +8168,8 @@
   "news|68fe7959744f": 1794262570.1474333,
   "news|978eda843fee": 1794263493.0959256,
   "news|f4ff97434256": 1794264376.9272559,
-  "news|af6b1644bbd4": 1794264377.7615893
+  "news|af6b1644bbd4": 1794264377.7615893,
+  "news|1c54c6cc2c50": 1794265300.2908561
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8528,6 +8529,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T23:01:40.290958+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump signals no Iran strikes coming after meeting Qatari leader</b>\n📰 The Hill · Lun 09/11 23:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnA4RE1FczlldTNPSzhDNTFBYjVPUEZHUVRLajRjQ3hncXJoVW9qdU5qd0Z5RjR5M3U2T19LRldOWUlUTDlscExaUl92RV9weGtKYWxDQ3FCZWZ0M2F0RXdqNXVHRE84ZnJwYVhGR2ZZZGZ3dGdjSHRWRWYxbWY5emJ2QWU1ZXVMRC1meXNoNXFvelnSAZgBQVVfeXFMUDRTeTRzdTVIRXM3UnZjckxyT25VUG5RZnRsV2liRi1MNHlqT2JzUzNjNmFiUWp1aVVBVExUdi1Ja0M1RlRUeHBaTjMxV0EyOGdDU2ZjQzNTVk1OR1VkbGhVcTY3V0VYUzd3eDdQRm85WmhSS2ZWT1dvY1ZjUzlsOS1MSWpGRUpjck1iVGw5TVhYRE51QWhNY1Y?oc=5"
+  },
+  {
    "ts": "2026-11-09T22:46:17.761741+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US is seeing progress toward ending Russia-Ukraine war</b>\n📰 Anadolu Ajansı · Lun 09/11 23:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWwyVTgwdF9RMnpuLTRqb29wSUNEZmhyMUdnSmZmZWtsbElQRTJDbEg0X2NmczRpRnpkanctYzV1N1FTS0IwSVUzQWNad19JVTFnRlp5RFVvTmxRREVKdTVPeUpsR1NQVTJHandBN1A4YmNuQTExLXF5aFdoUEtTbzR5aEFldkRjQ2IycTFYd1o1Rlhxc21SaWR3QkdPbzVjaUxwaF9Gd3RTdEk?oc=5"
@@ -8821,11 +8827,6 @@
    "ts": "2026-11-09T10:31:24.602371+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says Strikes Unlikely as Rubio Slams Iran’s Demands</b>\n📰 Bloomberg.com · Lun 09/11 10:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1JUa0FQMWUzTVllcmxJbGhSd2p0b3lwc0RKbmhiVE9WZzVmMmQtY3dQV180TlpoaFpFb0V0YWdjc1hCTzltckF6eVdFRHRibTlrQ25CWEdMMlBuMklWRDVkb0Q5WFE0RTlKWXRFVjhBMXJnZWRfUzFFWDNfaDdERGtQTDJRMlZHSUI4NlZjaTM5VnBNNVFZRWl5dmFZMzI4MU1IOVNSVWVHWkpqVnM1V3dTVQ?oc=5"
-  },
-  {
-   "ts": "2026-11-09T10:16:10.414187+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says new strikes on Iran ‘unlikely’ if talks progress</b>\n📰 Arabian Business · Lun 09/11 09:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
