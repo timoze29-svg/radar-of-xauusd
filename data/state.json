@@ -1089,16 +1089,6 @@
   }
  },
  "seen_news": [
-  "c3a8ad53ebf6",
-  "6af7bb29785b",
-  "305e8a90771c",
-  "4fbc3d867f07",
-  "a4cf0e0bd6d2",
-  "32722efa1801",
-  "1ac903902dc8",
-  "1801d0e0aa87",
-  "bc5c70f65416",
-  "23c2a738d899",
   "afc7fb987cdb",
   "cdf15b80bc78",
   "0cb71745fe4f",
@@ -4088,9 +4078,31 @@
   "454037d57efa",
   "4bd31e8fd065",
   "6a7b6e342b58",
-  "1c77c36c0a70"
+  "1c77c36c0a70",
+  "d6da7e60c562",
+  "b208af616a2b",
+  "3fe532af8ac7",
+  "ca841ea21192",
+  "136f05e33ecb",
+  "fe067be8dad5",
+  "5a0beacacf6f",
+  "a496e4524c35",
+  "4c9c34edcfe6",
+  "b854747f4020"
  ],
  "news": [
+  {
+   "title": "Oil Prices Slide As Trump Eases Iran Escalation Fears",
+   "source": "Forbes Middle East",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkVtU3F0SWFhZDFZYXFJVm1KUkVvMGRZZXpaV3pnSkd6WkhUNXdxcm1kQXdiM284a1JOem1XRkRzNGpPSE9taU80blJIaUU3LWdkOFRFQl94NFdIOTNvdWJaSDU4a1d0VVpNb09EMWdMT0psdWNzRk5fY1Fsb1lmeFNPZnZYMG5fUk1pNGtocjlsQU5wbXhyZ0VjNG5NRl80SlRmWXRxZXJDanBVTU9maDNSVXRHbVFHdGhPaA?oc=5",
+   "published": "2026-11-09T17:09:57+00:00",
+   "id": "136f05e33ecb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump calls Strait of Hormuz blockade ‘history’s greatest’",
    "source": "The Hill",
@@ -4281,6 +4293,18 @@
    "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Toyota awaits word on U.S. tariff relief while working to cut bill",
+   "source": "Automotive News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSdFA1eE5Ldm5hNHNfaDRZR1FuZGZuZnhua2taOGxwdm5md0ZzcERQNWp5emFPcU8yU3NUSENYQlV5WXEzeVlUNzBUNWN5S1BBWVhLMHBzNWUtdVlscy00M2I0VER6M2JzbVJ0c0tR?oc=5",
+   "published": "2026-11-09T13:00:00+00:00",
+   "id": "5a0beacacf6f",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -5316,6 +5340,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Oil Rises on Concern Over Escalating Middle East Tensions",
+   "source": "EnergyNow",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVVsZmRjTExaN19LeHgyWEQzNnZPN1U0Sk8xeVB0YVFDQ0ljbG5NOWFzTjBiT3F6Vmh4cjFISXJaby1ZTzBhTXc5VmxFbkhUYU9PdmdUMVNrRzFUTWVVY2x5RlRja29UWEx1ZkNEMy1mT2dXbnZvd0huLURJa3Rqd25iVG9rdmZvLThpbUwxMVU?oc=5",
+   "published": "2026-11-09T02:52:48+00:00",
+   "id": "fe067be8dad5",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Bitget UEX Daily | Chip Rebound Fails to Ease Rate Hike Pressure; Bitcoin Falls Below $75,000 Again; AI Orders Face Val…",
    "source": "深潮TechFlow",
    "theme": "Emploi US",
@@ -5686,6 +5722,18 @@
    "cat": "géopolitique",
    "raison": "Hausse du risque géopolitique avec l'Iran renforçant la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "US-Iran war news: Donald Trump says renewed Iran attacks 'unlikely' if nuclear program, Strait of Hormuz talks show progress",
+   "source": "ABC7 Bay Area",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWtaaEdaaHBHU0NMSnNwcEE2ZmxWSnZrU21BVE1rUG9RMkhZYTRaSVBIY1RGcERUU1lJRV83NEJfcDVDdkN4MmFfRHJab1VMeXhPYVVWcmVnOXRnY3paaldnWG5TZWJVcmgwd2otVWFXV3BzUTZ3dFpmLWJmZlVpN202cTNVRTJlZVFTR3pHVTJsM1BoUHQ3MGx4eVFjRFJJMTd3aHNMMElkQTlocm9XNTZsWXRlSFU4aTFhUlUyLUxBbTVLbElxWlJZbUFuRElUMGfSAdcBQVVfeXFMT0k2NjZ2WkFhcWUtQThlb0JZRmc3MVloaW5fQlFrbF9CQi1INlZLZi1PWHZjYXhqLS1HM0p2dkExTThsTGxQeUMwcHNBXzhLRTR1WkRMRXk5ZGcwOGdWRDhxdkRmdVdqVG1CbFB2Rk5CWXl6dWVHWElzUzVkdWpsOXotZTBJNHlQRHh3QVB6N20wS2hNSFI0bmNQdGNhengxN0ZieHBEYnhERFVicy1zcjZBa1Blc21UckFib2NJenlRcnZDNmxlMmFCYU5jTTd5VV9tREtlR3M?oc=5",
+   "published": "2026-11-09T00:08:12+00:00",
+   "id": "ca841ea21192",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil prices extend losses on hopes of US-Iran breakthrough",
@@ -6441,54 +6489,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Intensification des frappes en Ukraine maintenant un soutien géopolitique modéré.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump’s midterms humiliation makes Iran escalation more likely",
-   "source": "UnHerd",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXQ5YThMemF0dDNMREVmazVPVmtjUHRrbXRlQjI5T0cyRWZGSDJQSWlFRXBLVFdwNkNvaDNQY1VLbHlsaUpmUU9YQW5nU2xjNVRYLW9teVV0VlRYRTVlOU9mZkJ0MFV5czV0aURSRzBRNkdDYkQteXpaNTNEU3hyRUREcEJUSFNrMF9sdzZRTHVWbHN0VnpVRVRKb3dpRUFhZjBB?oc=5",
-   "published": "2026-11-08T16:18:45+00:00",
-   "id": "873b401f9b3e",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Analyse spéculative d'un risque accru d'escalade militaire future soutenant prudemment l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Bat Yam, Shurat HaDin Sue Iran for NIS 208 Million Over Deadly Missile Strike",
-   "source": "The Media Line",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeDl5YnM0b2tuSGJ4bThIdHRJdFNHVlRfZUNpSDBMbW1iVTdNOVkxRXBGdHVWcUhPd2RFQlV6d0Y5Q3hUWHk3akd4ZjBVc1BkZ3lkT1lqeUFMenpwWm50UnItX2g1NENONkpIN2JJcTkyOU0zM1hTTm5jV2tNR2VKMFNLTjhPYmpWeHl1TWp1alU4R3BDNjVUcU14anlmRzd3OWlWNXRCS0VOaVFaREtxSHZ3?oc=5",
-   "published": "2026-11-08T16:03:50+00:00",
-   "id": "df610bf9af3c",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Iran suggests ship blasts are not US attacks",
-   "source": "goulburnpost.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.goulburnpost.com.au/story/9387830/iran-suggests-ship-blasts-are-not-us-attacks/",
-   "published": "2026-11-08T16:00:00+00:00",
-   "id": "6d943f27a4f5",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Désescalade rhétorique iranienne limitant le risque de confrontation militaire immédiate.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Weighs Next Move in U . S . War with Iran – NaturalNews . com",
-   "source": "naturalnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.naturalnews.com/2026-11-08-trump-weighs-next-move-war-with-iran.html",
-   "published": "2026-11-08T16:00:00+00:00",
-   "id": "6a8d6c39f7f8",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitude sur les prochaines actions américaines maintenant une légère prime défensive.",
    "method": "IA"
   }
  ],
@@ -8162,7 +8162,10 @@
   "big|VIX|2026-11-09": 1794240981.211762,
   "pre15m|2026-11-09T12:15:00-05:00": 1794243701.0109115,
   "news|65de411ff35d": 1794244577.149409,
-  "news|c13aac1f4413": 1794244578.204662
+  "news|c13aac1f4413": 1794244578.204662,
+  "news|136f05e33ecb": 1794246362.0984566,
+  "news|ca841ea21192": 1794246363.1837683,
+  "post|2026-11-09T12:15:00-05:00": 1794246364.4272857
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8522,6 +8525,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T17:46:04.427797+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.04%\nTaux 10 ans -0.4 pb\nOr +0.4$ (extrême +1.6$, range 3.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-11-09T17:46:03.183980+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Iran war news: Donald Trump says renewed Iran attacks 'unlikely' if nuclear program, Strait of Hormuz talks show progress</b>\n📰 ABC7 Bay Area · Lun 09/11 01:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWtaaEdaaHBHU0NMSnNwcEE2ZmxWSnZrU21BVE1rUG9RMkhZYTRaSVBIY1RGcERUU1lJRV83NEJfcDVDdkN4MmFfRHJab1VMeXhPYVVWcmVnOXRnY3paaldnWG5TZWJVcmgwd2otVWFXV3BzUTZ3dFpmLWJmZlVpN202cTNVRTJlZVFTR3pHVTJsM1BoUHQ3MGx4eVFjRFJJMTd3aHNMMElkQTlocm9XNTZsWXRlSFU4aTFhUlUyLUxBbTVLbElxWlJZbUFuRElUMGfSAdcBQVVfeXFMT0k2NjZ2WkFhcWUtQThlb0JZRmc3MVloaW5fQlFrbF9CQi1INlZLZi1PWHZjYXhqLS1HM0p2dkExTThsTGxQeUMwcHNBXzhLRTR1WkRMRXk5ZGcwOGdWRDhxdkRmdVdqVG1CbFB2Rk5CWXl6dWVHWElzUzVkdWpsOXotZTBJNHlQRHh3QVB6N20wS2hNSFI0bmNQdGNhengxN0ZieHBEYnhERFVicy1zcjZBa1Blc21UckFib2NJenlRcnZDNmxlMmFCYU5jTTd5VV9tREtlR3M?oc=5"
+  },
+  {
+   "ts": "2026-11-09T17:46:02.098527+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Prices Slide As Trump Eases Iran Escalation Fears</b>\n📰 Forbes Middle East · Lun 09/11 18:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkVtU3F0SWFhZDFZYXFJVm1KUkVvMGRZZXpaV3pnSkd6WkhUNXdxcm1kQXdiM284a1JOem1XRkRzNGpPSE9taU80blJIaUU3LWdkOFRFQl94NFdIOTNvdWJaSDU4a1d0VVpNb09EMWdMT0psdWNzRk5fY1Fsb1lmeFNPZnZYMG5fUk1pNGtocjlsQU5wbXhyZ0VjNG5NRl80SlRmWXRxZXJDanBVTU9maDNSVXRHbVFHdGhPaA?oc=5"
+  },
+  {
    "ts": "2026-11-09T17:16:18.204933+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>British Pound reclaims 1.3400 as Iran war fears ease ahead of US CPI</b>\n📰 FXStreet · Lun 09/11 16:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDdnOUZzNUdFdGF2MlBiTnp4OFlXempNTzlzeVdOQTAzeWh5T3JaaHUtTUVxNnNqTTlyQVhoUWtWMWs4Z0dlQllUamJsdGd0UWpYeVBianBBVHc0aC05LXVZUmRCT0J0WUczTUdVV3pfOFN2MXBOekpoUHJSMkt1VElFVWR6ZkRFYnpObS1ZNmhRNko5T3htT2FRQ0Y4dTJZZUptUDk4bzNXaU5yaUYw?oc=5"
@@ -8805,21 +8823,6 @@
    "ts": "2026-11-09T05:16:09.832488+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Argent (XAG)</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 52.950 → prix : <b>53.060</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.93 | 60j 0.86"
-  },
-  {
-   "ts": "2026-11-09T05:16:08.874858+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 116.20 → prix : <b>4 132.60</b>\nATR jour : 85.0$ | Pivot hebdo : 4039.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 780 cas)."
-  },
-  {
-   "ts": "2026-11-09T04:46:05.167114+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Rubio Sees No Iran Breakthrough as Trump Downplays Strikes</b>\n📰 Bloomberg.com · Lun 09/11 02:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzA3VUJ1UWpnaXNfMkt1RFJGUWxuRG5EX3VsRWJBVngwNVJETXBfS1dUUGFZel9lMEJIdi10dFNlZWduc1ZSOU50bTBfbXVyLUpaQ2EzSmpXSWZGM2pNcFJJaFExVWhDTmxVSnc0TWozMTc5T1lhSHIwU2hTVU1XSzdYU3dDQldWZ2dRS012TUpsSFRBSmJjcEtRbkFIU09NMkFORGpxanpXaXhIVF81TzZoSTE?oc=5"
-  },
-  {
-   "ts": "2026-11-09T04:46:04.205972+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold jumps as soft US Dollar counters Fed rate hike expectations</b>\n📰 FXStreet · Lun 09/11 04:44\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2FaV1pieGFhUlJfajAwMzlfLW5mVFRjTzNqaVVrT2drZmFDUnVla3hNMzljY3htaVRQbURvTERSdkktZHVMb25SWXVCVE5EYVhyVWxab0NwZE5XZkZLWV9RODN6bTdIbzRQWHFGQktxbXlMakIzTno5cEtQYWpFcFQ1U09qVVNvS3Rub1dFVl9ZYnEzU0plTDNVaw?oc=5"
   }
  ],
  "daily_forecast": {
