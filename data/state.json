@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "9bbd103e2d4a",
-  "b01655b899f5",
-  "217d0d3046c2",
   "66d95b110234",
   "d06b4c7f44ac",
   "56035a4bbaac",
@@ -4088,9 +4085,24 @@
   "445e97132c9f",
   "4ab881b8989b",
   "d2c31ee34d55",
-  "502eb56eb23e"
+  "502eb56eb23e",
+  "1f540a50f154",
+  "50efacebe430",
+  "8c9fbd27be03"
  ],
  "news": [
+  {
+   "title": "Gold prices fall as strong US jobs data fuels December rate hike expectations",
+   "source": "Crypto Briefing",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHh5THlSdWtSQ3pLS3V0QTJqd1BpU25ZbXFTZVpJMHdMWjBhOGhSa0tJY1d3V1ZlRjZyNm5rWVdnX05iZ2Z1eTh5c2pRUnlTaFp5N3BSMzFrM21sblM3Ym90aDJuNm9ZaHAzVmFHNkVxSy1rc2E2RmphN2hELVNXZ041U1hhc1JmY1NOY0VXY1RIYzFyamI5c0xjaEpKT0JiaWZUSWZnTzI?oc=5",
+   "published": "2026-11-08T23:55:54+00:00",
+   "id": "1f540a50f154",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "US October Nonfarm Payrolls Surge by 165,000; Market Bets on Fed Restarting Rate Hikes in December",
    "source": "BigGo Finance",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Poursuite des hostilités militaires avant pourparlers, demande refuge modeste.",
    "method": "IA"
-  },
-  {
-   "title": "Netanyahu wanted Iran strike before Israel election, but US intervened to stop it: Report",
-   "source": "WION",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1Telc5eEF6bXl4akQ4bEc2MS12YWNLSElsZ1dtMjlWZHpDbFZTTnMxUWUtaWFaVVZVRHN2MzNxXzUtUVlMdUJPdVNrTDN1Sy1pNWRyMjhkZWhNNndUcVZsLVpoWkdNYjVtRVhzdTBoX1FMekRqSlA0cmxlMHFLRVFmVm9JSllvWTRxRHM0NTU2N1FhWkhldDItVHkwLWw0UWF4QVd6aUlRZXg5VzQwbUtqTFVpU1EyWHRGanE0X0kyVVl0eG56U2Rfc9IB0AFBVV95cUxNeVFfTDhTVE1LeC1TWlhRdzJLTnUtdWN0UlNzYmxvMFM2eTZJUVNWVVViWXAzb09YNUtYaTBVbnZNelNwbEx6ZHcxQ3paX24wejdqOW16YklHOUh1TUlKTFd3QUFoTElaZ1o3UjdZYXludldNNzBqZG9LR0JvMHo2and3UFJHRzBlYW5BUmVvQU1RMENTd3BKdVZ2TGJBVTl2MVJRSlhmNHlJeEpfcGp0a3pwaGZweUNSY2Rid3RnemlXNk1DM1EyVm16eEJ2Y0pH?oc=5",
-   "published": "2026-11-07T17:45:00+00:00",
-   "id": "64be9c4d16d8",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Intervention américaine évitant une frappe sur l'Iran, détente temporaire de la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8124,7 +8124,9 @@
   "news|e558000d752f": 1794174521.6705477,
   "news|673acd938816": 1794176164.019626,
   "news|1d8d64f3de54": 1794177087.4214885,
-  "news|502eb56eb23e": 1794181567.468007
+  "news|502eb56eb23e": 1794181567.468007,
+  "brk|BTC|pwh|dn|2026-11-09/2026-11-15": 1794182496.0002818,
+  "brk|BTC|h20|dn|2026-11-09/2026-11-15": 1794182497.0035238
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8468,6 +8470,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T00:01:37.003571+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 20 JOURS\nNiveau : 74 795 → prix : <b>74 628</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.31 | 60j 0.5"
+  },
+  {
+   "ts": "2026-11-09T00:01:36.000327+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 74 795 → prix : <b>74 628</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.31 | 60j 0.5"
+  },
+  {
    "ts": "2026-11-08T23:46:07.468104+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>US October Nonfarm Payrolls Surge by 165,000; Market Bets on Fed Restarting Rate Hikes in December</b>\n📰 BigGo Finance · Lun 09/11 00:25\n🧠 baissier or (emploi, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE1NR1JfUVdUUW5uaTIxcHpELUVReTZDUkhwTVdDX3ZzZU1UeTNUOGdfVi1pR2JpN0RETExkUkozRXM2VHNCNEpHMnJWY1VUN19JalNyUWFWdUZvMU1MNksxMjBTTC0yLWRjV25taER3WWFDbVVGeUE?oc=5"
@@ -8756,16 +8768,6 @@
    "ts": "2026-11-08T13:31:25.349616+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Saudis report new attacks amid escalation with Houthis</b>\n📰 examiner.com.au · Dim 08/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.examiner.com.au/story/9387819/saudis-report-new-attacks-amid-escalation-with-houthis/"
-  },
-  {
-   "ts": "2026-11-08T13:19:09.691556+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Between Coalition Talks and an Iran Strike, Israel Faces Double Uncertainty</b>\n📰 Israel Defense · Dim 08/11 10:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qRXNVc1BXRGVNenJzZEpjWjNTQmZlS29UQVN3OVlyNGZEaWd4eHAwNWZxTGs0UktCM3hOeGgzMTQ2WTdyeW55U2FrcmhSUFpvSjJJMzdBZ1Q?oc=5"
-  },
-  {
-   "ts": "2026-11-08T13:19:08.772752+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>After US midterm wipeout, will Trump resume Iran war? An expert explains</b>\n📰 The Indian Express · Dim 08/11 12:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDNmWGZNTDcyU3pYZDB1M0ZQbGI4RlBjSXljSE1OZTZ6ZG1jQjRIQVZaa3BXOVRDSnNVWmhrQ0F3SWZ5Wkp3b3J3NFhaMjhacS1iT3B3NkxLM1U0YXJaSUVCT3pGUlZOSkJ6RFhQQk9HUVpJcFBzb29nUGNuODVnMWZIdzB2N3otY0dDYkZpbXFOcFVNQWl2RnFKQXdNcWdGYmhTMnZOdnBmYVpIVFVreV9kVdIBugFBVV95cUxPaVN0LVoyM3lkNmthc0xHWWxQWExfZmVlSFhfeDY1eEV1bHB4Q0F3RVBlMWM4NkQwQWdYSXZabWphUTFFNkRRQkp0Z1dLSDUweng3dmdWQTBaRHltdk5VSFJlS2tWRkZEblVmQ3paWXVqeUtlRmZ3S1hrLVljd1ZZcDhTaThGTmpjMjVEMEhVY0dXSW03azhzX3ZoVU41VFhWVmJXb3ktRGF4YnJudVpINVBvWVAzbFQ1ZXc?oc=5"
   }
  ],
  "daily_forecast": {
