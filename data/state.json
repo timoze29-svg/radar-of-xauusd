@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794241866.4229496,
+   "ts": 1794264349.40016,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.6,
-     "date": "2026-11-05",
-     "chg5": -0.03,
-     "chg20": -0.32,
+     "last": 2.63,
+     "date": "2026-11-06",
+     "chg5": 0.03,
+     "chg20": -0.24,
      "hist": [
-      2.1,
       2.13,
       2.18,
       2.13,
@@ -129,18 +128,18 @@
       2.62,
       2.65,
       2.64,
-      2.6
+      2.6,
+      2.63
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.23,
-     "date": "2026-11-06",
-     "chg5": -0.11,
-     "chg20": -0.12,
+     "last": 2.22,
+     "date": "2026-11-09",
+     "chg5": -0.07,
+     "chg20": -0.11,
      "hist": [
-      2.48,
       2.49,
       2.44,
       2.39,
@@ -259,18 +258,18 @@
       2.3,
       2.26,
       2.24,
-      2.23
+      2.23,
+      2.22
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.46,
-     "date": "2026-11-05",
-     "chg5": -0.15,
-     "chg20": -0.31,
+     "last": 4.51,
+     "date": "2026-11-06",
+     "chg5": -0.05,
+     "chg20": -0.24,
      "hist": [
-      4.09,
       4.07,
       4.13,
       4.04,
@@ -389,14 +388,15 @@
       4.59,
       4.61,
       4.58,
-      4.46
+      4.46,
+      4.51
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -404,7 +404,6 @@
       3.62,
       3.62,
       3.62,
-      3.62,
       3.63,
       3.63,
       3.63,
@@ -470,6 +469,7 @@
       3.63,
       3.63,
       3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "4128385f888f",
-  "f635c5341a26",
-  "b4c40d136902",
-  "bdf9b805ee82",
   "a327a54705ab",
   "7f17b5234d03",
   "62758cb671d2",
@@ -4088,9 +4084,25 @@
   "1d31e498037c",
   "cee9b33f48f5",
   "d59686af98a5",
-  "89804b83ae8c"
+  "89804b83ae8c",
+  "d17fb19c7d79",
+  "21e982689bbe",
+  "f4ff97434256",
+  "af6b1644bbd4"
  ],
  "news": [
+  {
+   "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+   "source": "Al Jazeera",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
+   "published": "2026-11-09T22:36:18+00:00",
+   "id": "f4ff97434256",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Democrats will try to roll back Medicaid cuts, stop tariffs, Oregon US Sen. Ron Wyden says - Oregon Public Broadcasting",
    "source": "OPB",
@@ -4113,6 +4125,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump says US is seeing progress toward ending Russia-Ukraine war",
+   "source": "Anadolu Ajansı",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWwyVTgwdF9RMnpuLTRqb29wSUNEZmhyMUdnSmZmZWtsbElQRTJDbEg0X2NmczRpRnpkanctYzV1N1FTS0IwSVUzQWNad19JVTFnRlp5RFVvTmxRREVKdTVPeUpsR1NQVTJHandBN1A4YmNuQTExLXF5aFdoUEtTbzR5aEFldkRjQ2IycTFYd1o1Rlhxc21SaWR3QkdPbzVjaUxwaF9Gd3RTdEk?oc=5",
+   "published": "2026-11-09T22:15:44+00:00",
+   "id": "af6b1644bbd4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6466,35 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Désescalade potentielle avec l'Iran diminuant la prime géopolitique de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Across the Atlantic, Bond Crises Are Brewing. Why It Matters for the US - American Enterprise Institute",
-   "source": "AEI",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWJlLS1ycVlieDRSTTRTby1FTHhST1dZcEpETUdpVFBfVUQzWTVHOTdEU3BCVjhjZWFWM1Y1WTJCOGR2TkVLa1cxdFhnVmNtb2E5ZUZsZXVCR1Z6T28tRGhaQ2E2Q3NSQXdTam1rcW9QY2c1Q2dNSElpRVJERUpVOWFoeWpkOFFFV2ZxRHRIRS1NaXIwZEwyQUZZeVpsUHIzZWozWQ?oc=5",
-   "published": "2026-11-08T21:18:41+00:00",
-   "id": "88cc1ee74ae3",
-   "impact": 2,
-   "cat": "taux",
-   "raison": "Inquiétudes sur la dette souveraine favorisant l'or comme réserve ultime sans contrepartie.",
-   "method": "IA"
-  },
-  {
-   "title": "Leibowitz: Will the next Congress take aim at Trump's tariffs to address affordability concerns?",
-   "source": "Steel Market Update",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVmt2Nm1Sd2p4OHJHQXJKSVFBZ0Q3R19PU0RsaWtMam44YXo3YnR3T0M2TVhydDFBcGdhYWUxdXVKNGoweXQ4eTBpdDJtWjBMXzRTUmhaQmZOSkVwZjdVZXU0aWNONl9MRlJNVFJ2XzNrbUFqRXZVUUtrR2JkOUF3dUl0cFRZT2tTYXBTVVN2MEFXNFlpX0dmRXdSdmljVzVfWmY1bFlIellJZDh1YTdtV09fQjM3UnZMWGNlLU5xeHdRaEJaX3U2T1piQWxWRDd4S1N2cW5zNkk0cmNneWNjV05B?oc=5",
-   "published": "2026-11-08T21:13:58+00:00",
-   "id": "6caa8fbeaa61",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Spéculation sur une réduction des tarifs, atténuant légèrement les craintes inflationnistes et commerciales.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|eea95c572ea0": 1792449967.0988286,
-  "news|40703492d371": 1792449968.2081268,
   "news|a1ea113eb216": 1792452726.718459,
   "news|32d39de54f8a": 1792455367.1874392,
   "news|25f7df99f7e0": 1792456288.6882215,
@@ -8168,7 +8166,9 @@
   "news|3196ee8eac88": 1794260767.5665698,
   "news|e18c4d595818": 1794262569.2207425,
   "news|68fe7959744f": 1794262570.1474333,
-  "news|978eda843fee": 1794263493.0959256
+  "news|978eda843fee": 1794263493.0959256,
+  "news|f4ff97434256": 1794264376.9272559,
+  "news|af6b1644bbd4": 1794264377.7615893
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8528,6 +8528,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T22:46:17.761741+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US is seeing progress toward ending Russia-Ukraine war</b>\n📰 Anadolu Ajansı · Lun 09/11 23:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWwyVTgwdF9RMnpuLTRqb29wSUNEZmhyMUdnSmZmZWtsbElQRTJDbEg0X2NmczRpRnpkanctYzV1N1FTS0IwSVUzQWNad19JVTFnRlp5RFVvTmxRREVKdTVPeUpsR1NQVTJHandBN1A4YmNuQTExLXF5aFdoUEtTbzR5aEFldkRjQ2IycTFYd1o1Rlhxc21SaWR3QkdPbzVjaUxwaF9Gd3RTdEk?oc=5"
+  },
+  {
+   "ts": "2026-11-09T22:46:16.927347+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Iran war ‘effectively over’ after talks with Qatar PM</b>\n📰 Al Jazeera · Lun 09/11 23:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5"
+  },
+  {
    "ts": "2026-11-09T22:31:33.096003+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Sees ‘Momentum’ Toward War’s End After Meeting Qatari PM</b>\n📰 Bloomberg.com · Lun 09/11 22:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVduRDc4eWZyV3N1OXZIUnAzOG0yNGNTVDVBd3FaU0t2ZmJua2RXQ2xHSE9WTkdRbW53bTlrTVpkOXNPdzNFVWxzeTh6LVE1X1BNZ3VjVmtybEh4Wmhyd1pPQkFnMTE2Smh2R3FjMl9vaVBLcWFRa19OMkJnWHNQSlM5SmZMYVc1ZjZhRFJnMFBmU2h0bEx4cXE3S3J4Sk8xQXJJdUNPc3paNUx5MlRKUw?oc=5"
@@ -8816,16 +8826,6 @@
    "ts": "2026-11-09T10:16:10.414187+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says new strikes on Iran ‘unlikely’ if talks progress</b>\n📰 Arabian Business · Lun 09/11 09:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-09T09:46:10.813797+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Taux réels 10 ans (20j) (+14), Sentiment news 24h (+12), Momentum or (vs MM50) (-11)"
-  },
-  {
-   "ts": "2026-11-09T09:34:25.943388+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as Trump signals restraint on Iran despite fresh shipping attacks</b>\n📰 Reuters · Lun 09/11 00:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
   }
  ],
  "daily_forecast": {
