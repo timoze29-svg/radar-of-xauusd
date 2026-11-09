@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "402e955b41e4",
-  "c4854b8e09d7",
-  "6e6093c6a4bd",
-  "78e733a16a05",
   "82ebc745472e",
   "83e666fc2f11",
   "193c1ea4215c",
@@ -4088,7 +4084,11 @@
   "a076048a64da",
   "22d6b0f5989a",
   "3f26ea6d0e67",
-  "59b598f85a93"
+  "59b598f85a93",
+  "e35157e386c2",
+  "74e266642303",
+  "7c1ee929f558",
+  "a00ed13f7ac6"
  ],
  "news": [
   {
@@ -5316,6 +5316,18 @@
    "method": "IA"
   },
   {
+   "title": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress | CNN Politics",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01czVzTndMN0s1ck5Ob2t5UDFobUxkVUdkc085dUtwVEdnbXNRTHRDbTRFTXdHdHE5eGhvSGFGTVBhV01YX0NGUVNldjVWc016ZHU1UC1rd0ExeERGR21SSzJJVTRrcEhIbUhsVXZmNExKSFl2ZWc?oc=5",
+   "published": "2026-11-08T17:30:57+00:00",
+   "id": "e35157e386c2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress",
    "source": "CNN",
    "theme": "Trump / Iran",
@@ -6477,18 +6489,6 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "Embrasement à Ormuz et pétroliers touchés, choc géopolitique majeur propulsant l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Fed likely to hold rates steady amid oil spike ahead of Powell’s exit",
-   "source": "WXLV",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYWRzVkhpOXdEV1RJSFU0RWJTbkhlUE55VW5kYms5WmZoRGdMTE9CNUNwOGRYVHpPTWI0ZjFpYnZyaDBCcWlLczRzRm45cEtpVGxuaTZqeFNfWGl1a19UVlc2NW9TM0I5Vi1fWU5oa0hwOWpaQ1BweEwzRnR1UmlaVFU5SjhldXRES0F5S21xWnVyV29KRkNxaExzaXFpQWh5bHNrbUYtbXVPX1BOeV9VYnY3ZDVPRmRjNlBudWpLZWlzd0NqRVJkaDF4WDVicGM4SjVwTTRPSEFlclV3anFGbWg4T3pudkJCR29UTGE1VFBjZU1JeG9Rd2tHamtodTNPQnVhNHpvUFJOZkRUVWU5Y3V6U2ZkbnpLWGhqZGxn?oc=5",
-   "published": "2026-11-08T06:28:30+00:00",
-   "id": "8957de12aa50",
-   "impact": -1,
-   "cat": "fed",
-   "raison": "Taux élevés maintenus face au pétrole, retardant les baisses de taux favorables à l'or.",
    "method": "IA"
   }
  ],
@@ -8141,7 +8141,8 @@
   "news|56d3f43a92bb": 1794205154.3147311,
   "news|489184c23a23": 1794205155.4772284,
   "news|f71343990d3b": 1794205883.539429,
-  "news|c79b33eb2a0b": 1794205884.5095065
+  "news|c79b33eb2a0b": 1794205884.5095065,
+  "news|e35157e386c2": 1794206943.1315565
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8501,6 +8502,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T06:49:03.131637+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says renewed attacks on Iran “highly unlikely” if talks show progress | CNN Politics</b>\n📰 CNN · Dim 08/11 18:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE01czVzTndMN0s1ck5Ob2t5UDFobUxkVUdkc085dUtwVEdnbXNRTHRDbTRFTXdHdHE5eGhvSGFGTVBhV01YX0NGUVNldjVWc016ZHU1UC1rd0ExeERGR21SSzJJVTRrcEhIbUhsVXZmNExKSFl2ZWc?oc=5"
+  },
+  {
    "ts": "2026-11-09T06:31:24.509788+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says</b>\n📰 AP News · Lun 09/11 02:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5"
@@ -8794,11 +8800,6 @@
    "ts": "2026-11-08T18:01:49.739114+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns US of 'devastating response' if Washington starts war</b>\n📰 The Express Tribune · Dim 08/11 03:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTY4RFdIclFSQnBSVVVkVUZ5enh4M1RFN0hjOW04aHh6ZDR4Y3dYTFQ5TUZKWVZwc1FRbWJzTk9xUE1CVjgxbHVURm5fTkxMZlhxb0tNQnpTQzdRQzZmcFBUOG1yaHdaOTVDb3NLRzJWa2F1VFBxY2IySUFMWUJtYWF6R1NqcVIyWnVEUG9uWDBZRF9KV05YNGgwQ2JsNFRiTHFEOFlOZXVlcVVaajE1aUNLNE9JLVRCWlFSaw?oc=5"
-  },
-  {
-   "ts": "2026-11-08T18:01:48.916560+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump tells CNN renew strikes on Iran ‘highly unlikely’</b>\n📰 The Jerusalem Post · Dim 08/11 18:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTmU4Uk5qUWJKZGpMd2U1djVkMk0yaEh6QmhjbENKblBNYm55dDRHNVVmOEVYMlFhWjhsOF9HeDJObEZXQ1hzd0RwWHF4UHNrMkZsSlZyeThaYnRlZDc4Z3dveXhmNzBCX2c?oc=5"
   }
  ],
  "daily_forecast": {
