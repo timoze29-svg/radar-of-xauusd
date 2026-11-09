@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "7c13e0955cea",
-  "75dbf5762ed0",
-  "8cb230a2a45a",
-  "0657ff1441ce",
   "2258850939ef",
   "c73e441eb011",
   "13add2d6c4d2",
@@ -4088,7 +4084,11 @@
   "91fa52d0199e",
   "0d182c24fed6",
   "a9a8f6428121",
-  "68cfb67de052"
+  "68cfb67de052",
+  "4a163963d573",
+  "91f0f6655b7f",
+  "857c8e141c58",
+  "65038d5a3f4e"
  ],
  "news": [
   {
@@ -4098,10 +4098,10 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY3JOellYNWZ3SXhCSW1RZl9BVUdzRVJaTGRRVWRVVW04UlZtUnpLek04YlhsOHI4U0hXZVI3aXpzODlvdjBldUVWQkpoN3Y2U2hMeUJLZnJFb0lOM3VNa0JlU0pUdTRTazRCXzY2TnFwX3dnbDA0a2VPbEQ3cVVqRVJVT2NFYU9RUDBrZFV2R2s5eGQ4aGFSWV91dGxuZ0d1Y3Bvc21PT0pyUVRhOVgxLXV0RHNVQU9Jb05ndUYwMDJDdlJIRUUydjlWdnhMbUZIdDJZUlFiaWlmQQ?oc=5",
    "published": "2026-11-09T00:25:31+00:00",
    "id": "0d182c24fed6",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Hausse du risque géopolitique avec l'Iran renforçant la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Oil prices extend losses on hopes of US-Iran breakthrough",
@@ -4140,16 +4140,28 @@
    "method": "IA"
   },
   {
+   "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+   "source": "The New York Times",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5",
+   "published": "2026-11-08T23:49:53+00:00",
+   "id": "4a163963d573",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "U.S. Democrats Launch Push to Repeal Trump Tariffs, Targeting Canada First",
    "source": "아시아경제",
    "theme": "Tarifs",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlM2ZGV19uaU4zTXBhbWpyUmFiVUswTzdUemxDcV9fMkh3ODlEVm9hb3hvWVZuSU9YS2E0WnBxOFd2dXRuS09kbm5tazFqNktWRUl5Mmp6YnN4NjdieFVXYUpiaDQ2RHNwYnlaUzY5MlpaQTl3ZzVJ?oc=5",
    "published": "2026-11-08T23:40:36+00:00",
    "id": "a9a8f6428121",
-   "impact": 5,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Pression démocrate contre les tarifs, mais faible probabilité de succès législatif à court terme.",
+   "method": "IA"
   },
   {
    "title": "US October Nonfarm Payrolls Surge by 165,000; Market Bets on Fed Restarting Rate Hikes in December",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Violences persistantes en Ukraine maintenant une prime géopolitique de base.",
    "method": "IA"
-  },
-  {
-   "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-   "source": "ktul.com",
-   "theme": "Géopolitique",
-   "link": "https://ktul.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-   "published": "2026-11-07T18:00:00+00:00",
-   "id": "da90b2cf611b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Pression accrue des États-Unis sur le nucléaire iranien, léger facteur de soutien refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8122,7 +8122,8 @@
   "news|502eb56eb23e": 1794181567.468007,
   "brk|BTC|pwh|dn|2026-11-09/2026-11-15": 1794182496.0002818,
   "brk|BTC|h20|dn|2026-11-09/2026-11-15": 1794182497.0035238,
-  "news|0d182c24fed6": 1794184288.8883271
+  "news|0d182c24fed6": 1794184288.8883271,
+  "news|4a163963d573": 1794185064.6745362
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8466,6 +8467,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T00:44:24.674619+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran</b>\n📰 The New York Times · Lun 09/11 00:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5"
+  },
+  {
    "ts": "2026-11-09T00:31:28.888400+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat</b>\n📰 The Washington Post · Lun 09/11 01:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY3JOellYNWZ3SXhCSW1RZl9BVUdzRVJaTGRRVWRVVW04UlZtUnpLek04YlhsOHI4U0hXZVI3aXpzODlvdjBldUVWQkpoN3Y2U2hMeUJLZnJFb0lOM3VNa0JlU0pUdTRTazRCXzY2TnFwX3dnbDA0a2VPbEQ3cVVqRVJVT2NFYU9RUDBrZFV2R2s5eGQ4aGFSWV91dGxuZ0d1Y3Bvc21PT0pyUVRhOVgxLXV0RHNVQU9Jb05ndUYwMDJDdlJIRUUydjlWdnhMbUZIdDJZUlFiaWlmQQ?oc=5"
@@ -8759,11 +8765,6 @@
    "ts": "2026-11-08T13:46:05.163681+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel defence minister says 'mission not complete' on Iran: 'They're trying to obtain nuclear weapons'</b>\n📰 WION · Dim 08/11 14:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekRQUnhiQndGZGExbmV3SEpmS0M3UUVhYURqU1lNRjZZZjNqMk1pVVZveDJYdjdmMDNnUWZnQkpha1Y3bkZnNzhROG5RMHpxT2p5Q0N1N0pCekZza1A0M0dDUExKZXFJdXJkLVR3V1RZWnQtNG80aDBfWDQ2N1htSW1EQUtMczRzSUc4MG5NZXVuQnNMUldMU2FOUkFEXzhuNy1KdTJpeUl4eUNpa2ZBTFdGRWtoYmhwYkZveWVFUHdVNG8xdTNybDh6ZTJRdzVuSzkwSEU2ZnDSAd4BQVVfeXFMUGFEMGx1NTB0VEw0MFhHYzQ3UVZPSXNaT25EdnVuQ2pRNHFhc0stclhQcnlXNzV0eTBRT19FM25Kc3pvdU50OThqZExEMUVabXRMZEl5UUw0YkdyRlZLd24xOEtXTDFkcXcyS3g2OEQyMlZTcWR3Y3NDeG5EM2VJOFdDeTgzVzF4YjI1NE9vT2ljZU16Rnh6dHNRZVMxckllYmhkSTM2RWp4bUZzRW1EN2x4cHR1V1RRdGVFdUdSNTY0N29Gb0ZpbzZ0VXZaTlQwTFQ5S0tKcUtwaFFtZmZn?oc=5"
-  },
-  {
-   "ts": "2026-11-08T13:31:26.394414+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump orders blockade on Iranian ground transport as Houthis say Saudis killed dozens in air strikes</b>\n📰 foxnews.com · Dim 08/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
   }
  ],
  "daily_forecast": {
