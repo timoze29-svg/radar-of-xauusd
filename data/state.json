@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "803a4e82abc9",
-  "3858b05d5c47",
-  "bed6da290650",
   "66080316a55a",
   "418c3e7cc4fa",
   "bb3dcaa9e28f",
@@ -4088,7 +4085,10 @@
   "b0739bf3e8bb",
   "1d1ad028b31d",
   "ecd393b8cce1",
-  "566f2ba3aaba"
+  "566f2ba3aaba",
+  "9e5368000b92",
+  "e614503fe34f",
+  "c98684738873"
  ],
  "news": [
   {
@@ -4122,6 +4122,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
    "published": "2026-11-09T18:57:40+00:00",
    "id": "da3a10f9d649",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia, Ukraine Envoys to Talk Ceasefire Monitoring, Territory",
+   "source": "Bloomberg.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjNsamhEb1lVal9ZNHE2MEdHR2FtdnhCcG1jUUxiUnJwUFpIUGNTQlFxbWx1cUxsZHRld29DWmNZNFplZFd1cjY3TTFNc2c3WDdPeTI0VFM5c0poc05rRmUydzdxZkJuREtVYWVWb29sMlM0aVBIazlKaFphUTFNcTRpQ2l5YUFYZnR6SFQtYmpjdnRGWTNfYkU1cXo3eUJ0V2N6d1RWcEtOSVZqa3QtNw?oc=5",
+   "published": "2026-11-09T18:51:56+00:00",
+   "id": "9e5368000b92",
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
@@ -4797,6 +4809,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Treasury yields rise as investors await more economic data",
+   "source": "CNBC",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVE44LUJheWlkSEJZWlBaUVRGUXR2aGVMbm9yZnNDUnR1alJLSDdlU3Y3RktFcmplWmViVjV1ME1UYU9qSDA1YTN2NUdJbTJvWmZGUU5FZ3VTMU1lV3ppbk10SXBWLWxTcHVWYjRFbw?oc=5",
+   "published": "2026-11-09T09:42:37+00:00",
+   "id": "c98684738873",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -6465,30 +6489,6 @@
    "impact": -3,
    "cat": "géopolitique",
    "raison": "Signaux d'apaisement diplomatique réduisant mécaniquement la demande pour l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Says He Is Highly Unlikely to Order Iran Strikes if Talks Progress",
-   "source": "U.S. News & World Report",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVFGbmdSOFRvelFwOUFRN3VpQjNUQ0tydktldUIteHRBNktKVU80N2NKSUFoRGRxSnl2dDgwS0wxREZTQThMc1FhRzdfZjVpTEVaamJDRkhTZU9MQnp5RERaWi0zaVlHUGpGV0Qtd21hZjgtSTVqeFNYbUF1cTlaSWIxQldJWjlHRW9IMFc3dGpfWVhxUnBhOUNhLTBFalVNRDA4TUZMUFB2Q09aSlBjZU4tcDIteGZpZXhlOW1YNFFjdw?oc=5",
-   "published": "2026-11-08T18:06:02+00:00",
-   "id": "6ff8a22550ec",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Atténuation du risque d'intervention militaire américaine, dégonflement de la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump says return to war with Iran ‘highly unlikely’ as sides continue negotiations",
-   "source": "New York Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3ZDQVRkb2xkOXBFRGxhYk1qOWxlbmVUSnNSTG9lQ0sycG5yQlpNSzZSZmxkamR4SDFhdjNmbW5XdEtacnJFbzRNa1AxN0w4dkhIRGp3RWtGcjA3N2V3T1RDeENFa0hpQzQ4WVVqQ3o1Vm9oZ2M1eEZUaExFRDdGZ29mTkRoTnA1MGJtcVdLRTZjSy1IZ3NjN1l5ZkppUUUtVVpIeVFIT09hSDJORXZXa0ZDcHQxcUVER2xxMQ?oc=5",
-   "published": "2026-11-08T18:01:00+00:00",
-   "id": "2ae3f2c15906",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Désescalade verbale avec l'Iran réduisant la prime de risque géopolitique sur l'or.",
    "method": "IA"
   }
  ],
