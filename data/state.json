@@ -1089,13 +1089,6 @@
   }
  },
  "seen_news": [
-  "bbf8367fb060",
-  "83404a2e5752",
-  "f80c38f57351",
-  "50c03891c03a",
-  "fb2a70402557",
-  "0aa4be513224",
-  "20f37fe10fc5",
   "0e9b908f2909",
   "9bd438962454",
   "76661df70ec0",
@@ -4088,9 +4081,28 @@
   "be76483ca305",
   "77a6cb30cc49",
   "7d1ec614433f",
-  "73e7bbd51af9"
+  "73e7bbd51af9",
+  "e6709c82b740",
+  "e7947ef32dfe",
+  "65f3288988b9",
+  "68e646addc50",
+  "aeffb9bd5424",
+  "444705046576",
+  "d4fc1b3e54f9"
  ],
  "news": [
+  {
+   "title": "G7 foreign ministers meet in Paris as Europe seeks greater say in Ukraine peace talks",
+   "source": "DW.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeV9QcWdhVTVpQXBJWm8xNDB6MHdxMUlaejhOeHFIZ0R1M0ZvUFpBMlpBMlRwVmNvQjdRemUxd242eENOY0xHMG1DYXRMMmVxeWVWSXhjUTBKdDlDaHFKN1VxZmpUd1cxaE1yUl8zVHROWlZ6ZElKYmdOekZNeWVsWmJJTmxLRmVCbkR4S1E2WHJDSHpMcUVSZDBGeXo4SDhoZlF30gGjAUFVX3lxTFB5ekJ5UEsxdjNRR09vX3VJS2o5RnViUWU5TGNCN0VJbF9QWDRaSTJYcW9USmRwMXc0T1RKbFQ1QjhMd2lRZFdFdDRuLW9pQlNsZFBHaWgyaXNJX3FJTDZMNUNYTlJBRzZqUW5la2ZELTcybG5URC1wbGFHRTNKaXhkT29ySmczN3VWaVhHclNsa3A0dEo0cXZ3ZTNBLTlnc2Riejg?oc=5",
+   "published": "2026-11-09T04:21:03+00:00",
+   "id": "444705046576",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold Price Forecast: XAU/USD Return Above $4,000 Points Higher but Faces FED and CPI Test",
    "source": "FXLeaders",
@@ -6204,6 +6216,18 @@
    "method": "IA"
   },
   {
+   "title": "Resumption of War in Iran after US Mid-Terms",
+   "source": "Mail & Guardian",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFZGUzhYVXVjWHBxR3RoNzBveW5VaFVtMjlDVWFWVV9CR2RuLUl0TWJIOUttNGVhQVhFSExoMWk3c2UzdEVVMDV6MV9RbzFiUWhqMjM1SUd3ZVBlVVB5OHY3ZWxRbmZlWFc4NHJmNGI0OGRGQzBHOXRJTUVwbjR0MWdkNzgtRm1HN25UNzZ6cGM3QQ?oc=5",
+   "published": "2026-11-08T07:47:36+00:00",
+   "id": "65f3288988b9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "A dangerous escalation rocks Iran and the Strait of Hormuz: explosions in several cities, and fires engulf two oil tankers",
    "source": "صوت الإمارات",
    "theme": "Moyen-Orient",
@@ -6465,30 +6489,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Frappes russes en amont de pourparlers, maintenant une prime de risque limitée.",
-   "method": "IA"
-  },
-  {
-   "title": "Bahrain Sounds Sirens, Explosions Reported Amid Regional Escalation",
-   "source": "Yemen Online",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzTGVoRmhaR3F3TE9BLWhLZXlfTkY0YWRRTzVHcFhkbFlXQ0pKZDZfNTNscHd2ZDZtWnRNTHFGU0F3SGZuVHdfYldyS1VYX0tPRVE?oc=5",
-   "published": "2026-11-08T00:17:33+00:00",
-   "id": "4340bfbb80bd",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-   "source": "theusnews.com",
-   "theme": "Géopolitique",
-   "link": "http://www.theusnews.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-   "published": "2026-11-08T00:00:00+00:00",
-   "id": "96873cb827d9",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Chute du pétrole et espoirs de paix réduisant anticipations d'inflation et risque.",
    "method": "IA"
   }
  ],
@@ -8130,7 +8130,8 @@
   "news|38f3342d74fa": 1794194165.801023,
   "news|bf1a34f591b5": 1794195081.0806773,
   "news|471bb10e8256": 1794196040.8914826,
-  "news|be76483ca305": 1794197218.7151735
+  "news|be76483ca305": 1794197218.7151735,
+  "news|65f3288988b9": 1794198691.031949
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8474,6 +8475,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T04:31:31.032027+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Resumption of War in Iran after US Mid-Terms</b>\n📰 Mail &amp; Guardian · Dim 08/11 08:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFZGUzhYVXVjWHBxR3RoNzBveW5VaFVtMjlDVWFWVV9CR2RuLUl0TWJIOUttNGVhQVhFSExoMWk3c2UzdEVVMDV6MV9RbzFiUWhqMjM1SUd3ZVBlVVB5OHY3ZWxRbmZlWFc4NHJmNGI0OGRGQzBHOXRJTUVwbjR0MWdkNzgtRm1HN25UNzZ6cGM3QQ?oc=5"
+  },
+  {
    "ts": "2026-11-09T04:06:58.715251+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Canada unlikely trade war influencer fighting for the little guys</b>\n📰 cbc.ca · Lun 09/11 03:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://www.cbc.ca/player/play/video/9.7412893"
@@ -8767,11 +8773,6 @@
    "ts": "2026-11-08T16:16:16.119908+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war triggers Republican midterm losses , echoing Iraq in 2006</b>\n📰 foxnews.com · Dim 08/11 16:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.foxnews.com/opinion/robert-l-maginnis-iran-war-cost-republicans-congress-what-will-it-cost-america"
-  },
-  {
-   "ts": "2026-11-08T16:16:15.110985+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Confirms New Strikes as U . S . and Tehran Continue Diplomatic Talks</b>\n📰 wmal.com · Dim 08/11 16:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.wmal.com/2026/11/08/trump-confirms-new-strikes-on-iran-as-u-s-and-tehran-continue-diplomatic-talks/"
   }
  ],
  "daily_forecast": {
