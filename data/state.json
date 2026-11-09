@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "10cca44ae0a1",
-  "f575cdefbd41",
-  "3d7bb2f1bc6e",
-  "7a1f792e8830",
   "921d8d10bed4",
   "b487df0f86c4",
   "4cc0f49796a0",
@@ -4088,7 +4084,11 @@
   "0b29ea403380",
   "6fa114b31a85",
   "f021293a2f74",
-  "3d1c71095462"
+  "3d1c71095462",
+  "3241390bcbd0",
+  "1f58b56a4228",
+  "2aca5fb59276",
+  "591ae0ea2c5f"
  ],
  "news": [
   {
@@ -6493,7 +6493,6 @@
   }
  ],
  "fired": {
-  "news|8c3be5395d86": 1792427498.4474463,
   "news|2f34a945da2b": 1792433766.6714852,
   "news|77653984bb07": 1792434685.614604,
   "news|f6488b6dae7c": 1792435570.4873257,
@@ -8160,7 +8159,8 @@
   "post|2026-11-09T10:00:00-05:00": 1794238314.0507524,
   "big|SPX|2026-11-09": 1794240099.810202,
   "pre1h|2026-11-09T12:15:00-05:00": 1794240100.9581232,
-  "big|VIX|2026-11-09": 1794240981.211762
+  "big|VIX|2026-11-09": 1794240981.211762,
+  "pre15m|2026-11-09T12:15:00-05:00": 1794243701.0109115
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8520,6 +8520,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T17:01:41.010963+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-09T16:16:21.211826+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-5.10 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
@@ -8813,11 +8818,6 @@
    "ts": "2026-11-09T04:06:58.715251+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Canada unlikely trade war influencer fighting for the little guys</b>\n📰 cbc.ca · Lun 09/11 03:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://www.cbc.ca/player/play/video/9.7412893"
-  },
-  {
-   "ts": "2026-11-09T03:47:20.891626+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says ‘hatred’ between Zelensky, Putin is main obstacle to ending war</b>\n📰 The Hill · Lun 09/11 03:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5TV1BwZHBUa0o5bWFvV3QxR1JFME1PcDhGRmthZ3hKbnN1bjhuTTN2Qmhseko5elJ6REdQX0IxamhwdDZyRUtmdUJIaW1JMjV3d09JNS1pWkFKU1JCYUdyc2ZURHVHU2dVUHRJM2JlYUZWSEhZMVd2a1lfaDDSAYIBQVVfeXFMUGlnZkRPcU9hcENRbHNKYmVaUlNCVVc2Vmg3cWpIU09mcTk2XzRzaEhBWjRFWUZlVkhJWGxXd3Noak9UUVk3cEhUSUx3LTJoV3FMZFNtN0pMME5BXzRLaEJjYzZBOE14X21fdnJjMWMyb0VmVF81RlREOHRmNG52ZDNGQQ?oc=5"
   }
  ],
  "daily_forecast": {
