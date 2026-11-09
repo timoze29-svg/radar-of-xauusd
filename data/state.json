@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "ccc0925d2df0",
-  "142eb88da653",
-  "4ab502094701",
-  "9bba68a86b45",
-  "b3aac1fc56b4",
   "a295a9e44681",
   "032313e16cce",
   "340497313d1d",
@@ -4088,7 +4083,12 @@
   "ad47e84e476e",
   "90aad1657028",
   "f6fdca3a4315",
-  "a73b335bb875"
+  "a73b335bb875",
+  "fb9cc937b899",
+  "181a77605719",
+  "f99149847188",
+  "3a0eadc4d945",
+  "6f0ad815f332"
  ],
  "news": [
   {
@@ -4101,6 +4101,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold Weekly Recap: Central Banks Buy 321 Tons, Post-Election Rally, and Corporate Results - News and Statistics",
+   "source": "IndexBox",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZktXU0pfcENRVE9EdWpBaGFjVHM5X29vZUt4SnM4b25RSUs0SmhPbHNDak1SS2Q4WEkzcnpqRUpySE9mN3F3TGFPWWI2al81WVE1c0dfV3phb2ZmLVcyd0REbEZRcDVBT2VhWkNXc0k2bFZEa19maDhNSEY3RUZjTnB3S3hIYXNEd1NIN1hsajhlUW9fQ0VZQzVKY1pmMDVibkFrOFBtdUFJbVJ4aFFr?oc=5",
+   "published": "2026-11-09T15:21:15+00:00",
+   "id": "3a0eadc4d945",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
   },
   {
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Incidents majeurs dans le détroit d'Hormuz menaçant le transit pétrolier et soutenant l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh financial district",
-   "source": "egyptindependent.com",
-   "theme": "Géopolitique",
-   "link": "https://www.egyptindependent.com/building-owned-by-saudi-oil-giant-damaged-in-missile-attack-on-riyadhs-financial-district/",
-   "published": "2026-11-08T14:30:00+00:00",
-   "id": "1224cfd67809",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frappe contre le secteur financier saoudien renforçant l'attrait des valeurs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8160,7 +8160,9 @@
   "news|82fd523a8826": 1794237581.0896463,
   "news|beeefcc90cae": 1794238311.8401277,
   "news|82d9f4773efe": 1794238312.7462757,
-  "post|2026-11-09T10:00:00-05:00": 1794238314.0507524
+  "post|2026-11-09T10:00:00-05:00": 1794238314.0507524,
+  "big|SPX|2026-11-09": 1794240099.810202,
+  "pre1h|2026-11-09T12:15:00-05:00": 1794240100.9581232
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8520,6 +8522,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T16:01:40.958517+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 73 MIN — 18:15</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.37% aujourd'hui · taux 10 ans +2 pb · biais or +12 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 85$ → attends-toi à des mèches rapides."
+  },
+  {
+   "ts": "2026-11-09T16:01:39.810272+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — S&amp;P 500\n+162.6 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
    "ts": "2026-11-09T15:31:54.051890+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.05%\nTaux 10 ans +0.9 pb\nOr -3.3$ (extrême -7.3$, range 8.8$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -8808,16 +8820,6 @@
    "ts": "2026-11-09T03:31:21.080752+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Ukraine will emerge with 'different shape' after Russia war</b>\n📰 Anadolu Ajansı · Lun 09/11 04:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEYzV2tPOWFQZkFCZTRWUld1QXR1VHA3dEtMOURyZUVKMmlzV1NrMFJOUDZhczBldC00Z2c2Tk1BNVRKWXZ2Sl9GanVCbEhpdGlxeHlEYnBTVC1CNG9UelQ1dTJLLUNGcVQxMWdZZ3NYMGExUl9UbXpCbTJXUmd3ZEtKLVlrN1VJVUlwRHJXUUtBZWdsS2VkM1lmVEx4dWdweXVDZjJ3bTU3dw?oc=5"
-  },
-  {
-   "ts": "2026-11-09T03:16:05.801103+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as Trump says new Iran attacks 'unlikely'</b>\n📰 Reuters · Lun 09/11 00:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-09T03:01:37.445317+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says 'Very Unlikely' To Launch Fresh Iran Strikes If Talks Progress</b>\n📰 Radio Free Europe/Radio Liberty · Dim 08/11 08:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
   }
  ],
  "daily_forecast": {
