@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "55e7371ed2f4",
-  "c0f364c275ba",
-  "aa20db3608e5",
   "a8015f31f8a8",
   "378259420f59",
   "a67db650c79f",
@@ -4088,7 +4085,10 @@
   "3fc7f9df1257",
   "6e15dc57c4f1",
   "224526c348e2",
-  "0efa5ca3f552"
+  "0efa5ca3f552",
+  "2df17a5f07ca",
+  "817790a6ff98",
+  "328099dc730d"
  ],
  "news": [
   {
@@ -4137,6 +4137,18 @@
    "impact": -4,
    "cat": "emploi",
    "raison": "baissier or (emploi)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. Sanctions, AI Boom Cut Semiconductor Sales to China",
+   "source": "조선일보",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZV9WQU1SQVNZNUJzRHVWNWZmT3pTY0Jfdy1PM0xKLTRWVkYtaVQ0SEkzN2FfaFJRZUpzM1lFd0RTZFp5TUl2U0pDRTR3TFpyNnMtOUpaZEFDczNoanRPSDU5dlEwdVROSFhzYjBZLXU2SmVvb0Y5cFFtRm9TaVRHMTBNcFNJSjRu?oc=5",
+   "published": "2026-11-09T00:39:39+00:00",
+   "id": "328099dc730d",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6478,23 +6490,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran says missiles no longer bound by range limits",
-   "source": "Iran International",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rUS05U0JMUUIxWWR4YjN1bm93S1c5aFlhZXkwWTNSczYxYlU3cXhsbzd6OGFDR3ZXQVhkZmRucUQtRTFlLUl5d0RpLV80b1dsSVE?oc=5",
-   "published": "2026-11-07T19:17:55+00:00",
-   "id": "0a61de87dbb8",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Menaces balistiques iraniennes accrues alimentant les craintes d'escalade régionale.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|1ffab32758e8": 1792373482.0497339,
-  "news|4c071536e2f6": 1792374367.1650674,
   "news|f19c56c347ab": 1792377084.548633,
   "news|24a42776b8e5": 1792377085.6015668,
   "news|ad375cc806c7": 1792377086.6236923,
@@ -8126,7 +8124,8 @@
   "news|b14fce7e9395": 1794186477.4935067,
   "news|c156d0289f8e": 1794187156.2401254,
   "news|af03ca413dad": 1794187157.0919113,
-  "news|fa8bcdd81146": 1794187157.9129627
+  "news|fa8bcdd81146": 1794187157.9129627,
+  "brk|GOLD|pdh|up|2026-11-08": 1794188768.2825022
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8470,6 +8469,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T01:46:08.282590+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 116.20 → prix : <b>4 118.50</b>\nATR jour : 85.0$ | Pivot hebdo : 3958.5\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 780 cas)."
+  },
+  {
    "ts": "2026-11-09T01:19:17.913286+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Rubio Sees No Iran Breakthrough as Trump Downplays New Strikes</b>\n📰 Bloomberg.com · Dim 08/11 23:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzA3VUJ1UWpnaXNfMkt1RFJGUWxuRG5EX3VsRWJBVngwNVJETXBfS1dUUGFZel9lMEJIdi10dFNlZWduc1ZSOU50bTBfbXVyLUpaQ2EzSmpXSWZGM2pNcFJJaFExVWhDTmxVSnc0TWozMTc5T1lhSHIwU2hTVU1XSzdYU3dDQldWZ2dRS012TUpsSFRBSmJjcEtRbkFIU09NMkFORGpxanpXaXhIVF81TzZoSTE?oc=5"
@@ -8763,11 +8767,6 @@
    "ts": "2026-11-08T15:04:37.906965+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Three ways the new Congress can stop Trump’s war</b>\n📰 The Hill · Dim 08/11 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVItVGlOR3pfYXR0aEZ6VEMwRllBRjRLazl2V0trNU9helg0Wm01YlRGLTJkdHhzX0l6MWV5ZDVIekZwMnR6cEt6VmVaa3pQNmxfWVF2NTFhUmhRWG9Lc2dEUTFZVUFsaTg5NU1QYVQ2Sy1LQ0htcW8zazBfN2phdGdhZWHSAYoBQVVfeXFMT0xVNVF1bVp5ZkZsUHdMUXhJdWRoMGI5UUF6ajhBZ2xWaUJLbHlqWkZ6ODBYbzFHYl85QzVsdEdscmlsaVY4RmdSTzd0ZFdjbDZkR1NWMUtxTXpBa002QldteFZtb0NjYVVJRVRfQ0liQmJKSk5YcUgwQlZzYWNWX0RlZGdjajdZN3hn?oc=5"
-  },
-  {
-   "ts": "2026-11-08T14:49:06.284267+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia, Ukraine exchange deadly drone strikes as Zaporizhzhia nuclear plant loses power</b>\n📰 سانا · Dim 08/11 15:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UUHFlM01VMnRKMDlJS2Z2cmJHdmVNajBWVWd2LURlWVRVX1QwVjBZRFJzRUxIbU1JQU13cktjMGdoeS1uVC1ybkRUWUpIc1lwdmpv?oc=5"
   }
  ],
  "daily_forecast": {
