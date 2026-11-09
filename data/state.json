@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "ff1740ae400b",
-  "332cc0521218",
-  "64d4c72ebf4a",
-  "750bb27da7fd",
   "7c13e0955cea",
   "75dbf5762ed0",
   "8cb230a2a45a",
@@ -4088,9 +4084,25 @@
   "4e8d71bbe399",
   "553539f8e247",
   "8148a7d53e6c",
-  "b611e40fa8ad"
+  "b611e40fa8ad",
+  "91fa52d0199e",
+  "0d182c24fed6",
+  "a9a8f6428121",
+  "68cfb67de052"
  ],
  "news": [
+  {
+   "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
+   "source": "The Washington Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY3JOellYNWZ3SXhCSW1RZl9BVUdzRVJaTGRRVWRVVW04UlZtUnpLek04YlhsOHI4U0hXZVI3aXpzODlvdjBldUVWQkpoN3Y2U2hMeUJLZnJFb0lOM3VNa0JlU0pUdTRTazRCXzY2TnFwX3dnbDA0a2VPbEQ3cVVqRVJVT2NFYU9RUDBrZFV2R2s5eGQ4aGFSWV91dGxuZ0d1Y3Bvc21PT0pyUVRhOVgxLXV0RHNVQU9Jb05ndUYwMDJDdlJIRUUydjlWdnhMbUZIdDJZUlFiaWlmQQ?oc=5",
+   "published": "2026-11-09T00:25:31+00:00",
+   "id": "0d182c24fed6",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oil prices extend losses on hopes of US-Iran breakthrough",
    "source": "The Vibes",
@@ -4101,18 +4113,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Baisse de la prime de risque géopolitique et détente des anticipations d'inflation énergétique.",
-   "method": "IA"
-  },
-  {
-   "title": "US inflation data the next big test for markets",
-   "source": "Mining.com.au",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WLUtsVmNpZm5ncWdvdXY0UFBzbHhCc3phRjlvYlVlWFNVeVMwR1MyaFhaS09KVlJNVWF1VmlIZTkxSlVVckRuWEFsRE9OQlNfRl9Ja1pUWUtBeWFqVHJiRFI1bDhjNHhXTm95b0xTdzdMZlVZQjRJWVl3?oc=5",
-   "published": "2026-11-09T00:00:00+00:00",
-   "id": "b611e40fa8ad",
-   "impact": 0,
-   "cat": "inflation",
-   "raison": "Simple annonce d'un indicateur à venir, aucun biais directionnel immédiat pour le marché.",
    "method": "IA"
   },
   {
@@ -4138,6 +4138,18 @@
    "cat": "géopolitique",
    "raison": "Désescalade perçue avec l'Iran, réduisant la prime de valeur refuge sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "U.S. Democrats Launch Push to Repeal Trump Tariffs, Targeting Canada First",
+   "source": "아시아경제",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlM2ZGV19uaU4zTXBhbWpyUmFiVUswTzdUemxDcV9fMkh3ODlEVm9hb3hvWVZuSU9YS2E0WnBxOFd2dXRuS09kbm5tazFqNktWRUl5Mmp6YnN4NjdieFVXYUpiaDQ2RHNwYnlaUzY5MlpaQTl3ZzVJ?oc=5",
+   "published": "2026-11-08T23:40:36+00:00",
+   "id": "a9a8f6428121",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "US October Nonfarm Payrolls Surge by 165,000; Market Bets on Fed Restarting Rate Hikes in December",
@@ -6478,26 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Pression accrue des États-Unis sur le nucléaire iranien, léger facteur de soutien refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Missile attacks injure nine as Ukraine prepares for talks with Russia and the US",
-   "source": "eveningnews24.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.eveningnews24.co.uk/news/national/26708354.missile-attacks-injure-nine-ukraine-prepares-talks-russia-us/",
-   "published": "2026-11-07T18:00:00+00:00",
-   "id": "49bc1b78bcf9",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite des hostilités militaires avant pourparlers, demande refuge modeste.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|09ece2541363": 1792368100.8643422,
-  "news|9b03bb05b0f1": 1792368101.740814,
-  "cyc_rev|2026-10-19/2026-10-25": 1792368102.9408734,
-  "news|0cfe7ff1bc6d": 1792369053.9548745,
-  "news|c4835678d0ec": 1792369879.9488566,
   "news|367206db41c3": 1792370764.3430786,
   "news|7a5a49823dc0": 1792371698.3687527,
   "news|1ffab32758e8": 1792373482.0497339,
@@ -8126,7 +8121,8 @@
   "news|1d8d64f3de54": 1794177087.4214885,
   "news|502eb56eb23e": 1794181567.468007,
   "brk|BTC|pwh|dn|2026-11-09/2026-11-15": 1794182496.0002818,
-  "brk|BTC|h20|dn|2026-11-09/2026-11-15": 1794182497.0035238
+  "brk|BTC|h20|dn|2026-11-09/2026-11-15": 1794182497.0035238,
+  "news|0d182c24fed6": 1794184288.8883271
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8470,6 +8466,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T00:31:28.888400+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat</b>\n📰 The Washington Post · Lun 09/11 01:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY3JOellYNWZ3SXhCSW1RZl9BVUdzRVJaTGRRVWRVVW04UlZtUnpLek04YlhsOHI4U0hXZVI3aXpzODlvdjBldUVWQkpoN3Y2U2hMeUJLZnJFb0lOM3VNa0JlU0pUdTRTazRCXzY2TnFwX3dnbDA0a2VPbEQ3cVVqRVJVT2NFYU9RUDBrZFV2R2s5eGQ4aGFSWV91dGxuZ0d1Y3Bvc21PT0pyUVRhOVgxLXV0RHNVQU9Jb05ndUYwMDJDdlJIRUUydjlWdnhMbUZIdDJZUlFiaWlmQQ?oc=5"
+  },
+  {
    "ts": "2026-11-09T00:01:37.003571+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 20 JOURS\nNiveau : 74 795 → prix : <b>74 628</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.31 | 60j 0.5"
@@ -8763,11 +8764,6 @@
    "ts": "2026-11-08T13:31:26.394414+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump orders blockade on Iranian ground transport as Houthis say Saudis killed dozens in air strikes</b>\n📰 foxnews.com · Dim 08/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
-  },
-  {
-   "ts": "2026-11-08T13:31:25.349616+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Saudis report new attacks amid escalation with Houthis</b>\n📰 examiner.com.au · Dim 08/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.examiner.com.au/story/9387819/saudis-report-new-attacks-amid-escalation-with-houthis/"
   }
  ],
  "daily_forecast": {
