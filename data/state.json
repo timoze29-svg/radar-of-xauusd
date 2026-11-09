@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "5d1e8f504b95",
-  "609829c10016",
-  "7782c737015e",
-  "a6ca04d7c1a5",
   "167d9c144e20",
   "696120b939b1",
   "293ef20028db",
@@ -4088,7 +4084,11 @@
   "2a0227ea1091",
   "c0b877eb14c7",
   "16993414da80",
-  "3849d1b70be6"
+  "3849d1b70be6",
+  "d738882d71d2",
+  "000ab98576bd",
+  "28843963a38a",
+  "fbbfefc923aa"
  ],
  "news": [
   {
@@ -4831,6 +4831,18 @@
    "published": "2026-11-08T23:50:00+00:00",
    "id": "47305db394fc",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz shipping attacks",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
+   "published": "2026-11-08T23:50:00+00:00",
+   "id": "d738882d71d2",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6477,18 +6489,6 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Tentatives de désescalade au Moyen-Orient réduisant légèrement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "XAU/USD Bullish Forecast: Soft US CPI Could Fuel Gold Breakout Past $4,140 Target",
-   "source": "FXLeaders",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU91NWNCWWtCNmRVWTN1cDNaWUZtQmQ2R2ZYaUsxcjZNeXFtdUphMVZlaTg0YWN6YzVEd2JEVkt6RktkZHJSa1FRNkNpaldkM29KLWJfWml3UF8zczcwSjRKbEVxZzlwZ2dXeW03Qm1DSGdmUEpISFFvdVpjRm1PLU1UUVpaclZWUVpROUVLS2lpd0lKa0xfdWx2SlBOWlgwa1hzSWRhOHAtRG1oN3AtNW9qR0N4MTlobDlHRGF3?oc=5",
-   "published": "2026-11-08T08:26:21+00:00",
-   "id": "916bcd3f64c9",
-   "impact": 1,
-   "cat": "inflation",
-   "raison": "Anticipation d'un IPC américain modéré, favorable via la détente attendue des taux réels.",
    "method": "IA"
   }
  ],
@@ -8144,7 +8144,8 @@
   "news|c79b33eb2a0b": 1794205884.5095065,
   "news|e35157e386c2": 1794206943.1315565,
   "news|70c64727bcd3": 1794207713.8862054,
-  "news|a4462591fdce": 1794207714.9014807
+  "news|a4462591fdce": 1794207714.9014807,
+  "news|d738882d71d2": 1794209479.1709774
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8504,6 +8505,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T07:31:19.171037+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil falls as Trump signals restraint on Iran amid fresh Hormuz shipping attacks</b>\n📰 Reuters · Lun 09/11 00:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
+  },
+  {
    "ts": "2026-11-09T07:01:54.901811+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US - Iran war : What is Trump  Task Force Iron Gate ? How will land  blockade  impact Tehran , its economy ? Explained</b>\n📰 livemint.com · Lun 09/11 07:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.livemint.com/news/us-news/usiran-war-what-is-trumps-task-force-iron-gate-how-will-land-blockade-impact-tehran-its-economy-explained-11794198846233.html"
@@ -8797,11 +8803,6 @@
    "ts": "2026-11-08T18:31:36.139213+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Sentiment news 24h (+18), Taux réels 10 ans (20j) (+14), Momentum or (vs MM50) (-13)"
-  },
-  {
-   "ts": "2026-11-08T18:31:34.803261+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says return to war with Iran ‘highly unlikely’ as sides continue negotiations</b>\n📰 New York Post · Dim 08/11 19:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3ZDQVRkb2xkOXBFRGxhYk1qOWxlbmVUSnNSTG9lQ0sycG5yQlpNSzZSZmxkamR4SDFhdjNmbW5XdEtacnJFbzRNa1AxN0w4dkhIRGp3RWtGcjA3N2V3T1RDeENFa0hpQzQ4WVVqQ3o1Vm9oZ2M1eEZUaExFRDdGZ29mTkRoTnA1MGJtcVdLRTZjSy1IZ3NjN1l5ZkppUUUtVVpIeVFIT09hSDJORXZXa0ZDcHQxcUVER2xxMQ?oc=5"
   }
  ],
  "daily_forecast": {
