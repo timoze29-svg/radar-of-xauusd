@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "0df8399738ce",
-  "2db3fa5c14a6",
-  "35ff13492aea",
   "711455c9ce2f",
   "a919d0d61776",
   "5c14b568a16d",
@@ -4088,7 +4085,10 @@
   "d18385a14181",
   "d0455c58f9b3",
   "93368efb7042",
-  "76bec85e6e21"
+  "76bec85e6e21",
+  "a56a6b87c193",
+  "7deb9e3b48f1",
+  "a1685d767780"
  ],
  "news": [
   {
@@ -4317,6 +4317,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever",
+   "source": "EnergyNow.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
+   "published": "2026-11-09T16:06:03+00:00",
+   "id": "7deb9e3b48f1",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6478,22 +6490,9 @@
    "cat": "commerce",
    "raison": "Persistance des tarifs douaniers maintenant un risque d'inflation et de tensions commerciales.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says resumption of war with Iran ‘highly unlikely’",
-   "source": "Arab News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEdWbjg1aWNmU2VXVk1RblZYY2twUlNUTWdaNnBOR2FkcU1MenRzSHlGdG5qT1czOWpvTXJWbHQyMkhRXzVzX05ha29wTXVzcWlKd0g0NFJmV281SWcxZjNWci1wR2RtRWNRRXozc1NGZGRXSlZuRkJjZzRUSm9ibldLUE80SDFwUDJuWFdKU3Z1T1JrSGtNWURDaEdrTGhi?oc=5",
-   "published": "2026-11-08T19:11:47+00:00",
-   "id": "745c5e159966",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Désescalade verbale directe écartant le risque immédiat de guerre et réduisant la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|cc51fcb43db6": 1792440966.6860747,
   "news|5ce428871677": 1792441892.5571213,
   "news|21d33eba3081": 1792441893.6184533,
   "news|6e85b9fa2903": 1792441894.6608667,
@@ -8163,7 +8162,8 @@
   "news|0a1c5c08a28e": 1794251076.2992713,
   "news|91b546459c66": 1794251077.2792976,
   "news|ecd393b8cce1": 1794251774.8841553,
-  "news|d18385a14181": 1794254505.0345283
+  "news|d18385a14181": 1794254505.0345283,
+  "news|7deb9e3b48f1": 1794255425.0917647
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8523,6 +8523,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T20:17:05.091844+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever</b>\n📰 EnergyNow.com · Lun 09/11 17:06\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5"
+  },
+  {
    "ts": "2026-11-09T20:01:47.554058+00:00",
    "kind": "dollar_pressure",
    "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY -0.17%\n▫️ Taux US 10 ans -1.4 pb\n✅ Pétrole -2.48%\n✅ EUR/USD +0.16%\n▫️ News dollar/Fed : 3 (impact moyen or -0.3)\n   • Gold Climbs as Central Banks Absorb the Blow From a Hawkish Fed\n   • Democrats vow to repeal Trump tariffs, lack 67 Senate votes needed to override presidential veto\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à baisser dans <b>51%</b> des cas sur 2h,\net l'or a monté dans <b>56%</b> des cas (moyenne +1.5$, sur 244 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
@@ -8816,11 +8821,6 @@
    "ts": "2026-11-09T06:49:03.131637+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says renewed attacks on Iran “highly unlikely” if talks show progress | CNN Politics</b>\n📰 CNN · Dim 08/11 18:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE01czVzTndMN0s1ck5Ob2t5UDFobUxkVUdkc085dUtwVEdnbXNRTHRDbTRFTXdHdHE5eGhvSGFGTVBhV01YX0NGUVNldjVWc016ZHU1UC1rd0ExeERGR21SSzJJVTRrcEhIbUhsVXZmNExKSFl2ZWc?oc=5"
-  },
-  {
-   "ts": "2026-11-09T06:31:24.509788+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says</b>\n📰 AP News · Lun 09/11 02:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5"
   }
  ],
  "daily_forecast": {
