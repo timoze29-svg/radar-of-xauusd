@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "93417bace741",
-  "3f112fa8c35f",
-  "5f624461940a",
-  "f1aae16b9956",
-  "66115500ae90",
   "5998fd387e14",
   "fab6027603f0",
   "5b41936d113c",
@@ -4088,7 +4083,12 @@
   "bbe1cdf3bb2e",
   "83fc7ffb70da",
   "d9127ffef6f4",
-  "39a09f8ccbf2"
+  "39a09f8ccbf2",
+  "56303d01e5c9",
+  "e467aa1e0e33",
+  "cd562b5438f2",
+  "cf5f1eb819e3",
+  "6bc8d100e064"
  ],
  "news": [
   {
@@ -4330,6 +4330,18 @@
    "cat": "géopolitique",
    "raison": "Poursuite des frappes en Ukraine maintenant un léger soutien de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Ukraine Battles To Restore Power After Russian Attacks, As Trump Hints At Potential Territorial Changes",
+   "source": "Radio Free Europe/Radio Liberty",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRaSm9xLU5VLW9QS1JJb29JemVKYkNXQi1mVUtTR21KWUg4Rlk3MHA2Q1QtajVwazh1UThqMW04RWdFTUtsRldLeGNOQjBwdlVMOFp6N0RXMWR5Zl9DaEdmNlZIMEFGQmFleGRRXzU1Z3BlR2x6bThoNjVuT2hlVkJ1TWdSZUdleFE4QlVrMFRJZ9IBlAFBVV95cUxNTGFfdjFlOWxTTFhWNURmVUY1YWd3SjZVZ1YwMUVDY2ttZ2hhVnVzc21VNkNvYWZBWHk0Y29Ib1MtRUFnaVB2YzVMYUpPRkhvdU1zUEdFQzJpZFYwZGlhVFlaVzdZX0EzTWpRckc3bWxMdG9PTGtGNEtSdWlPMWdxQ2lEdEI5LVlBU3U4T1hhZDhhOVdr?oc=5",
+   "published": "2026-11-08T23:00:35+00:00",
+   "id": "cd562b5438f2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Rubio Sees No Iran Breakthrough as Trump Downplays New Strikes",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes au Moyen-Orient mais impact macroéconomique globalement marginal.",
    "method": "IA"
-  },
-  {
-   "title": "Iran on Edge: What a Potential U.S. Strike on Pickaxe Mountain Could Mean for the Region — and for Trump",
-   "source": "Latin Times",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm51RHhaU21kTkJyOUIzSV9mVUpqTkNHSVdDR0YxaGtfQlViYTlfNWZxNTNJUEJLb2VJUTBXbmNBbk1KMDRGQTh6bUxCMTVyc2RMczhKZldva3NZdG5TV0N6cEVJdTVTZ2w0R2JRRUZMSy1qNF9LMDJ1WGVyQ2RJZVlPR2NUSnRwN3RRbE1iN2FHbUdoX1E?oc=5",
-   "published": "2026-11-07T20:42:10+00:00",
-   "id": "91bfb4ba9592",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Spéculations de frappes américaines augmentant la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8125,7 +8125,8 @@
   "news|c156d0289f8e": 1794187156.2401254,
   "news|af03ca413dad": 1794187157.0919113,
   "news|fa8bcdd81146": 1794187157.9129627,
-  "brk|GOLD|pdh|up|2026-11-08": 1794188768.2825022
+  "brk|GOLD|pdh|up|2026-11-08": 1794188768.2825022,
+  "news|cd562b5438f2": 1794190562.5318267
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8469,6 +8470,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T02:16:02.531895+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine Battles To Restore Power After Russian Attacks, As Trump Hints At Potential Territorial Changes</b>\n📰 Radio Free Europe/Radio Liberty · Lun 09/11 00:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRaSm9xLU5VLW9QS1JJb29JemVKYkNXQi1mVUtTR21KWUg4Rlk3MHA2Q1QtajVwazh1UThqMW04RWdFTUtsRldLeGNOQjBwdlVMOFp6N0RXMWR5Zl9DaEdmNlZIMEFGQmFleGRRXzU1Z3BlR2x6bThoNjVuT2hlVkJ1TWdSZUdleFE4QlVrMFRJZ9IBlAFBVV95cUxNTGFfdjFlOWxTTFhWNURmVUY1YWd3SjZVZ1YwMUVDY2ttZ2hhVnVzc21VNkNvYWZBWHk0Y29Ib1MtRUFnaVB2YzVMYUpPRkhvdU1zUEdFQzJpZFYwZGlhVFlaVzdZX0EzTWpRckc3bWxMdG9PTGtGNEtSdWlPMWdxQ2lEdEI5LVlBU3U4T1hhZDhhOVdr?oc=5"
+  },
+  {
    "ts": "2026-11-09T01:46:08.282590+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 4 116.20 → prix : <b>4 118.50</b>\nATR jour : 85.0$ | Pivot hebdo : 3958.5\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 780 cas)."
@@ -8762,11 +8768,6 @@
    "ts": "2026-11-08T15:04:38.908781+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US hits anti-arcraft device on Iran's Queshm Island in minor strikes, Donald Trump says</b>\n📰 The Jerusalem Post · Dim 08/11 13:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ3hBa3JORVJTTllMNFlWcDI2M2EwQVowc05SZVhzNWNMT3ltcndlcFVJQjRGMzYzNFh0dlZlb0pqMTludzVQTFFxVXhvdGQyYTVsclBkbWQ3dzEwajllQ0VscWVZMTdVU0E?oc=5"
-  },
-  {
-   "ts": "2026-11-08T15:04:37.906965+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Three ways the new Congress can stop Trump’s war</b>\n📰 The Hill · Dim 08/11 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVItVGlOR3pfYXR0aEZ6VEMwRllBRjRLazl2V0trNU9helg0Wm01YlRGLTJkdHhzX0l6MWV5ZDVIekZwMnR6cEt6VmVaa3pQNmxfWVF2NTFhUmhRWG9Lc2dEUTFZVUFsaTg5NU1QYVQ2Sy1LQ0htcW8zazBfN2phdGdhZWHSAYoBQVVfeXFMT0xVNVF1bVp5ZkZsUHdMUXhJdWRoMGI5UUF6ajhBZ2xWaUJLbHlqWkZ6ODBYbzFHYl85QzVsdEdscmlsaVY4RmdSTzd0ZFdjbDZkR1NWMUtxTXpBa002QldteFZtb0NjYVVJRVRfQ0liQmJKSk5YcUgwQlZzYWNWX0RlZGdjajdZN3hn?oc=5"
   }
  ],
  "daily_forecast": {
