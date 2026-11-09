@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794223862.3811662,
+   "ts": 1794227468.0975888,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "f8e9936a7c6c",
-  "c7e7179ef20f",
-  "3b85471bfe56",
-  "de29877c9658",
-  "7a5d73354a01",
   "fe08eb0e4088",
   "2fa299171949",
   "c8d01d458f15",
@@ -4088,7 +4083,12 @@
   "0bee176b2703",
   "d90e96795647",
   "7ab6145a2920",
-  "521b571ef0c1"
+  "521b571ef0c1",
+  "6f599986e7df",
+  "fbda8cbf30d3",
+  "daff1ddeeae0",
+  "063e8244366b",
+  "624d35412c95"
  ],
  "news": [
   {
@@ -4110,6 +4110,18 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFpuckV5cGwzTXdTTWh5Tno3TWJBdy0wMU13SjFqd3R5SkktMUk1ZnJxZF9pZG1sdlV1M01fUWg4M0Q5WlJxVGswOTVFbWdPZHBlUTh2ZFExR21OVUNSX2xuSG92NEJGdzBVZmJuNnBkX0Fqc3Rwd2F3UlZheTVSdUNybHV0Q0Znanh2b3E0OFBzMWdpWGdoRHBfQlVONzAxd3N5Sw?oc=5",
    "published": "2026-11-09T11:51:04+00:00",
    "id": "d90e96795647",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Fuel shortages return to Russian regions after Ukrainian refinery attacks",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcnFSWF9iWmo0LUNjUmNYMVVKYzBwNVlJdlJsbVkxWnJ1Z2NYckF0OFFFdUNwdVZqd1VESWdzbEdRQmF6VGliV0tpYmVvNE9nS2l5LVczdWNhVXZjT0hTTTlnMzNIWnV2LS1nQWNKRGlYNzdUMkV1V3NabzVNUkhmWENLblNYRGJCUTJhMEVXU1dYXzU2Z1YxdTUycDZqNEFVbGRJZVlKOS0zaEcwVEdOZWZCbTR5VFIzaGhWZGZFZw?oc=5",
+   "published": "2026-11-09T11:41:43+00:00",
+   "id": "624d35412c95",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6478,26 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Péril accru sur le complexe pétrolier saoudien stimulant immédiatement les achats défensifs d'or.",
    "method": "IA"
-  },
-  {
-   "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged , and other Mideast news",
-   "source": "idahostatejournal.com",
-   "theme": "Géopolitique",
-   "link": "https://www.idahostatejournal.com/news/national/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/article_5b2a446b-c25d-5183-832c-83b1962363c9.html",
-   "published": "2026-11-08T11:30:00+00:00",
-   "id": "a7b29c6e202d",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Missiles interceptés et dégâts chez Aramco : nette accélération de la prime de guerre.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|79bc16ee4186": 1792410367.071549,
-  "news|af402a2d729a": 1792411294.0268226,
-  "rep|update|2026-10-19": 1792411296.6503081,
-  "news|8d60da35d62d": 1792413100.7208242,
-  "news|53f50b406e96": 1792413101.6106694,
   "news|874670197299": 1792414307.5614066,
   "news|4ece641eb510": 1792415768.7951217,
   "news|dbf1e6497a33": 1792416697.1867256,
@@ -8152,7 +8147,8 @@
   "news|df610bf9af3c": 1794223155.3769858,
   "news|868aa3ca81ed": 1794224476.4242053,
   "news|8562fbb2ffb6": 1794224765.300293,
-  "news|6fa6f651db80": 1794224766.2879694
+  "news|6fa6f651db80": 1794224766.2879694,
+  "pre1h|2026-11-09T08:40:00-05:00": 1794227509.2556114
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8512,6 +8508,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T12:31:49.256021+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 68 MIN — 14:40</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.40% aujourd'hui · taux 10 ans +0 pb · biais or +16 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 85$ → attends-toi à des mèches rapides."
+  },
+  {
    "ts": "2026-11-09T11:46:06.288281+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US has ‘won’ Iran war as Rubio reports no progress in talks</b>\n📰 Euronews.com · Lun 09/11 11:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFk2SzhMUnZnbFhjV01RMWQ0bUQ4UG5tUVYwYVozNU1MQXc5MGgwUGNGRzY3bllMalF6cGo3R2tBektVaHNCQWU2ejZCUjNtZ2tESGZKVmNrY3QwWGpjdXRrTzVBQ0hSVVpyQm9iTlVSQzhUWVpJendyY2tJc28ySWNvR3VoYlVTX2ZpR0ZVbkVfQlB2WHIwdjl5MUp3Y2k5VUhtWG1DWQ?oc=5"
@@ -8805,11 +8806,6 @@
    "ts": "2026-11-08T21:48:39.803952+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live : Trump mulls talks , Iran warns it could  rain down hell  | US - Israel war on Iran News</b>\n📰 aljazeera.com · Dim 08/11 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?update=5134544"
-  },
-  {
-   "ts": "2026-11-08T21:48:38.863982+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Arab News | Trump says he is highly unlikely to order Iran strikes if talks progress</b>\n📰 arabnews.com · Dim 08/11 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.arabnews.com/middle-east/trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress-3010577"
   }
  ],
  "daily_forecast": {
