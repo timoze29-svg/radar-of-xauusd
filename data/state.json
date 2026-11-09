@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "10d631ae0645",
-  "68e44776c872",
-  "6306c1404fd7",
-  "9f6521377877",
   "09d8be065224",
   "22b2a0b11e38",
   "100028fd697e",
@@ -4088,7 +4084,11 @@
   "076c82ce1286",
   "cd7933278053",
   "b5e100475c22",
-  "152b55ee4583"
+  "152b55ee4583",
+  "7c55ea845d07",
+  "4fde917a9034",
+  "d6aa0f23f940",
+  "5bc612a36ce3"
  ],
  "news": [
   {
@@ -4341,6 +4341,18 @@
    "impact": 5,
    "cat": "banques centrales",
    "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Donald Trump Shares Wild Dana White UFC Cartoon of Fighters Attacking Reporters",
+   "source": "Yahoo",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1I4YUt6cUc1NW1RYmhCMHZFb3h3YXlEaWlPZlFraFZWazNqWnhfVUhLSVdOQVJBd2p3eFpQREV5YWs2dFZCMFpFeGVjVzJ3RC1rUU00RnVqX0tLWVhhOUg3X0NiYml6MFgtcjVPUHBwMVFHczNydjFkZURBVmJJSDZ3SFJsM3BBYTN1MlZNcGdYNTQ?oc=5",
+   "published": "2026-11-09T10:09:07+00:00",
+   "id": "7c55ea845d07",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6478,22 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Action militaire américaine concrète provoquant un choc de risque géopolitique immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "'Not finished with Iran': Israel hints at fresh strikes amid Netanyahu's political uncertainty",
-   "source": "India TV News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaF9hVmdDWVR4Wkh6UWU5THFBZV9CS3dxVHF0N3MyblFzRzk1VjJGOUJXRnVZX045U3pSS3U5NnFhVXFfcjJvbVJlOV82bHZrMXF4T19yeEtEeng3MnhzX1R1NnM1YkI2UlNSLWFOMmNxV0tTeVRRcDZ5ZDBHV2JUY0tvRVpHU1Y2WWVEV2o2Z0JudnhLSXM0TDR5Zm8tMjdiTngyTE1Qa0NyUV9XcHRSSjZGRzQwLTl1V19oNlNTT29yNUpXeDJyT3lCQTAtYlJxUzNTZ3RjYW1NcEk0c21fU0M4ONIB6AFBVV95cUxQeDd1X0lIZFFsRTk4SVNGV2NwOGtubHhreUM5WFUzd0Q1QnZUQ2hJMHdqZ2I1UjVrTDROUGt4am5BM1I0YU5EUjZmUm9LREFNUjFhNlo2bmFnWW1Belo0ZFl1U0dneldOUy1uWVVyRklzdjgteGJobjk5dWNCZXpDXy1MbmY2MXV2WmdfcHhieWVteGtvM1F4STdnLXNwd0F4M0VnRjRiNV9MTmNCQzJuYU5sRVd3cjh3eThSajBYMkUyUTBSMUxUSUU0M3lELUhOaUxpQlVFSWVkVkJSVUthTEhxbWo1NE9E?oc=5",
-   "published": "2026-11-08T13:03:10+00:00",
-   "id": "589b0375d098",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Menaces de nouvelles attaques israéliennes maintenant la tension au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|66b906a6bfcd": 1792418498.748999,
   "brk|GOLD|pdh|dn|2026-10-19": 1792419374.7241206,
   "news|3af54b09d655": 1792420288.9804285,
   "big|VIX|2026-10-19": 1792420290.1950507,
@@ -8154,7 +8153,8 @@
   "news|04708527b4c5": 1794231266.2866607,
   "news|b59ccd543863": 1794231267.223766,
   "news|55e7430dcec8": 1794231968.0771356,
-  "pre1h|2026-11-09T10:00:00-05:00": 1794231969.324977
+  "pre1h|2026-11-09T10:00:00-05:00": 1794231969.324977,
+  "news|7c55ea845d07": 1794232900.5943112
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8514,6 +8514,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T14:01:40.594418+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Shares Wild Dana White UFC Cartoon of Fighters Attacking Reporters</b>\n📰 Yahoo · Lun 09/11 11:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1I4YUt6cUc1NW1RYmhCMHZFb3h3YXlEaWlPZlFraFZWazNqWnhfVUhLSVdOQVJBd2p3eFpQREV5YWs2dFZCMFpFeGVjVzJ3RC1rUU00RnVqX0tLWVhhOUg3X0NiYml6MFgtcjVPUHBwMVFHczNydjFkZURBVmJJSDZ3SFJsM3BBYTN1MlZNcGdYNTQ?oc=5"
+  },
+  {
    "ts": "2026-11-09T13:46:09.325320+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 74 MIN — 16:00</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.45% aujourd'hui · taux 10 ans -1 pb · biais or +17 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 85$ → attends-toi à des mèches rapides."
@@ -8807,11 +8812,6 @@
    "ts": "2026-11-09T01:07:56.531759+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>End war on all fronts or Iran will  rain down hell , says FM Abbas Araghchi</b>\n📰 iranherald.com · Lun 09/11 01:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.iranherald.com/news/279420677/end-war-on-all-fronts-or-iran-will-rain-down-hell-says-fm-abbas-araghchi"
-  },
-  {
-   "ts": "2026-11-09T00:44:24.674619+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran</b>\n📰 The New York Times · Lun 09/11 00:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5"
   }
  ],
  "daily_forecast": {
