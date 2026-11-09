@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794220260.6250608,
+   "ts": 1794241866.4229496,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1089,13 +1089,6 @@
   }
  },
  "seen_news": [
-  "e82fb6539f98",
-  "dc9ecae6a596",
-  "4ef8f8eb567a",
-  "9c7fb27f6966",
-  "7ef52a8698c4",
-  "98140f36519a",
-  "b0b8aece13f2",
   "ae288460a5a2",
   "2e40df19b2ae",
   "7ada26997298",
@@ -4088,7 +4081,14 @@
   "6f0ad815f332",
   "183cee0d96aa",
   "16e4ae54741e",
-  "1a5089fc6aec"
+  "1a5089fc6aec",
+  "82d05141db46",
+  "0cdd7d2281e3",
+  "4946eb764b0a",
+  "ffcbe97c5340",
+  "d1c076633a56",
+  "ffc0fd080042",
+  "a24b609bda15"
  ],
  "news": [
   {
@@ -4113,6 +4113,18 @@
    "impact": 5,
    "cat": "banques centrales",
    "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
+   "source": "AP News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
+   "published": "2026-11-09T15:10:00+00:00",
+   "id": "a24b609bda15",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6477,18 +6489,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Infrastructures énergétiques saoudiennes visées, réactivant une prime de risque régionale sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran says 3 tankers caught fire in Hormuz",
-   "source": "freemalaysiatoday.com",
-   "theme": "Géopolitique",
-   "link": "https://www.freemalaysiatoday.com/category/world/2026/11/08/iran-says-3-tankers-caught-fire-in-hormuz",
-   "published": "2026-11-08T14:30:00+00:00",
-   "id": "b3c0bbf0283b",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Incidents majeurs dans le détroit d'Hormuz menaçant le transit pétrolier et soutenant l'or.",
    "method": "IA"
   }
  ],
