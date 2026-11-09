@@ -1089,13 +1089,6 @@
   }
  },
  "seen_news": [
-  "d1deb93e95b0",
-  "928b59b4c353",
-  "8f69985b4296",
-  "b3d124575b3d",
-  "bc6380ee84ca",
-  "5dc19bde3044",
-  "8d097f8a746b",
   "1e288b4731cf",
   "d69a609f5f97",
   "5aa733225a76",
@@ -4088,7 +4081,14 @@
   "9206971a5d1a",
   "036169b59cad",
   "2b83fcd68c38",
-  "3f0b56f4efc2"
+  "3f0b56f4efc2",
+  "08479584375b",
+  "d34925b60d2d",
+  "5f294ef4e1b9",
+  "b0b7973b1f43",
+  "f4f80b99292c",
+  "99d7352278c2",
+  "3d2924fbe3e5"
  ],
  "news": [
   {
@@ -4098,6 +4098,18 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDZpZW5HQ3JKMTRlekthU2pvZHdvLUtSY0FnWGFsZThjS0hjS1UxWkZ3YUtha2JtUzd3SzNNWUNON05RQmNfeWkyT1ZRMk9ISGdFcmhNNXJqWTJaVENSd20wVEZiWnJGZXdha1l0eEJaV0pSYTZpM3dGTlBwNE5SWHhBcVU2NEZhMWNXTVI2SFJtZw?oc=5",
    "published": "2026-11-09T02:06:00+00:00",
    "id": "965ab8cfc235",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump cites 'great dislike' for Israel, Iran war among reasons for Republican midterm losses",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0lJeGUybVJOd0RaOTJWMXZMakRNMzNZNnhrdS16RG4yWDc0elRhNFgtNFRvRmpYZG1IVFlnVWZtYThSdS1OMEFNR3RmbWRKWDBaR2NMQ2xSdGRqbFRLb3BBTGFKdENHS01vWWZUb0tjYWhCWVVXMDFjRUM4TzE1dWdWcFNrOW90RkNJQTk2V3Eybnd0aHRlY0dqWXlEWUY0UFBvYkZMT00zMWhrVExLc3U3RDAycTBrY0RKaTA2WWlnMEctd0JMZWZ2RmJyT00?oc=5",
+   "published": "2026-11-09T02:04:37+00:00",
+   "id": "b0b7973b1f43",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6478,22 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Frappes au Yémen ravivant les menaces de représailles contre le commerce maritime.",
    "method": "IA"
-  },
-  {
-   "title": "US embassy alerts put Middle East travelers on high security watch",
-   "source": "https://www.thetraveler.org/",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmFYLTBjZFllZmNBWUctLUNGejJFb0NkeURoaEVzV3MtR1MybDdfUkdURVFYZHE2dkVHdTVlRURFYlk1eF83bGdJT3BpUGJsSWFNNzgzSlFXRkFsLUdkOGJ2d0ZnMEdqT3FuLWlzaEtqSDdfZVBCMlByS1l3ckdLczdxNEpGVy1lNUVJcDgwRWNfU0VpYTZZMWNGNA?oc=5",
-   "published": "2026-11-07T21:42:18+00:00",
-   "id": "e82d02bbaf94",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Alerte de sécurité confirmant les tensions régionales, léger soutien pour la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|321d7379a920": 1792377964.0819774,
   "rep|weekly|2026-10-19": 1792386102.146407,
   "rep|daily|2026-10-19": 1792386103.1093476,
   "news|14d6d0a28101": 1792388765.749181,
@@ -8125,7 +8124,8 @@
   "brk|GOLD|pdh|up|2026-11-08": 1794188768.2825022,
   "news|cd562b5438f2": 1794190562.5318267,
   "news|965ab8cfc235": 1794191487.746152,
-  "news|9206971a5d1a": 1794191488.8273635
+  "news|9206971a5d1a": 1794191488.8273635,
+  "news|b0b7973b1f43": 1794192730.8630323
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8469,6 +8469,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T02:52:10.863140+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump cites 'great dislike' for Israel, Iran war among reasons for Republican midterm losses</b>\n📰 Anadolu Ajansı · Lun 09/11 03:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0lJeGUybVJOd0RaOTJWMXZMakRNMzNZNnhrdS16RG4yWDc0elRhNFgtNFRvRmpYZG1IVFlnVWZtYThSdS1OMEFNR3RmbWRKWDBaR2NMQ2xSdGRqbFRLb3BBTGFKdENHS01vWWZUb0tjYWhCWVVXMDFjRUM4TzE1dWdWcFNrOW90RkNJQTk2V3Eybnd0aHRlY0dqWXlEWUY0UFBvYkZMT00zMWhrVExLc3U3RDAycTBrY0RKaTA2WWlnMEctd0JMZWZ2RmJyT00?oc=5"
+  },
+  {
    "ts": "2026-11-09T02:31:28.827610+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump cites dislike of Israel as key factor in GOP midterm losses alongside war with Iran</b>\n📰 The Jerusalem Post · Lun 09/11 01:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4T0xHTHdmU1VxTGp0ZUhfWGN3bW9jUHNsRUFiMzZpMVRlUnk2OUJWV0drdXdKa1NpSkFHcHlRZkhoT05fYThFSGdCZzNyb29Sa3pzUTM4Q1pIckhyTnVv?oc=5"
@@ -8762,11 +8767,6 @@
    "ts": "2026-11-08T15:46:09.248094+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Confirms New Strikes on Iran as U . S . and Tehran Continue Diplomatic Talks</b>\n📰 kxly920.com · Dim 08/11 15:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://kxly920.com/2026/11/08/trump-confirms-new-strikes-on-iran-as-u-s-and-tehran-continue-diplomatic-talks/"
-  },
-  {
-   "ts": "2026-11-08T15:46:08.404539+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says 3 tankers caught fire in Hormuz</b>\n📰 freemalaysiatoday.com · Dim 08/11 15:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.freemalaysiatoday.com/category/world/2026/11/08/iran-says-3-tankers-caught-fire-in-hormuz"
   }
  ],
  "daily_forecast": {
