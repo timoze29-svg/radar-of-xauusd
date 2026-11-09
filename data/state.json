@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "09d8be065224",
-  "22b2a0b11e38",
-  "100028fd697e",
-  "72055a77635e",
-  "6b2b5c07ba5a",
   "ee18cfe8f980",
   "e55a9f960093",
   "e4ec12dbfdbc",
@@ -4088,7 +4083,12 @@
   "7c55ea845d07",
   "4fde917a9034",
   "d6aa0f23f940",
-  "5bc612a36ce3"
+  "5bc612a36ce3",
+  "02477659dae8",
+  "365ffaf7dec2",
+  "396bf31d32d7",
+  "8f8e9f0e01df",
+  "cd283caf687e"
  ],
  "news": [
   {
@@ -4257,6 +4257,18 @@
    "impact": -6,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Says Nations Should Pay US For Iran War—How Much Would They Owe?",
+   "source": "Newsweek",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aT0FqYXhaMG8ydE9RdTRPVGtNT3lBd3NNdWw0T1Z6WGJ5amRIV0JtOVFOSEd2M21LSFVQWjdKQ0Y4OEhKdVl1YlRQdUJTN05NTFFkY0U4SmIxeXIweEFnTHRXRkswUXZydVFOdVhrei1iY0ZaUV9hMw?oc=5",
+   "published": "2026-11-09T11:22:00+00:00",
+   "id": "365ffaf7dec2",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Risque accru de frappes israéliennes préventives sur le programme nucléaire iranien.",
    "method": "IA"
-  },
-  {
-   "title": "Iran: US strikes ship after blockade breach",
-   "source": "DW.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5",
-   "published": "2026-11-08T13:12:55+00:00",
-   "id": "79aaf13cf85d",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Action militaire américaine concrète provoquant un choc de risque géopolitique immédiat.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8154,7 +8154,8 @@
   "news|b59ccd543863": 1794231267.223766,
   "news|55e7430dcec8": 1794231968.0771356,
   "pre1h|2026-11-09T10:00:00-05:00": 1794231969.324977,
-  "news|7c55ea845d07": 1794232900.5943112
+  "news|7c55ea845d07": 1794232900.5943112,
+  "post|2026-11-09T08:40:00-05:00": 1794233772.101608
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8514,6 +8515,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-09T14:16:12.102746+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans -0.4 pb\nOr -2.6$ (extrême -7.2$, range 10.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-09T14:01:40.594418+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Shares Wild Dana White UFC Cartoon of Fighters Attacking Reporters</b>\n📰 Yahoo · Lun 09/11 11:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1I4YUt6cUc1NW1RYmhCMHZFb3h3YXlEaWlPZlFraFZWazNqWnhfVUhLSVdOQVJBd2p3eFpQREV5YWs2dFZCMFpFeGVjVzJ3RC1rUU00RnVqX0tLWVhhOUg3X0NiYml6MFgtcjVPUHBwMVFHczNydjFkZURBVmJJSDZ3SFJsM3BBYTN1MlZNcGdYNTQ?oc=5"
@@ -8807,11 +8813,6 @@
    "ts": "2026-11-09T01:07:57.493780+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Katz Says Israel War Against Iran Is  Not Complete  - News From Antiwar . com</b>\n📰 news.antiwar.com · Lun 09/11 01:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.antiwar.com/2026/11/08/katz-says-israels-war-against-iran-is-not-complete/"
-  },
-  {
-   "ts": "2026-11-09T01:07:56.531759+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>End war on all fronts or Iran will  rain down hell , says FM Abbas Araghchi</b>\n📰 iranherald.com · Lun 09/11 01:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.iranherald.com/news/279420677/end-war-on-all-fronts-or-iran-will-rain-down-hell-says-fm-abbas-araghchi"
   }
  ],
  "daily_forecast": {
