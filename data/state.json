@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "466cdcf2bf2b",
-  "3b6de5157278",
-  "9970d91e327c",
-  "42a72c2471ff",
   "59f25cf683e0",
   "8d00515750a0",
   "7259bcf603f5",
@@ -4088,9 +4084,25 @@
   "ba1aa78d1752",
   "c4ef7ede2b38",
   "88fcadcdacdd",
-  "039def02a9d2"
+  "039def02a9d2",
+  "4ea7cb64176d",
+  "86184cc6950e",
+  "164320200918",
+  "60136d56106e"
  ],
  "news": [
+  {
+   "title": "Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFJoc0ZJdUVhZlNDUWpsU1A0MVhlbWZXMGphaHktSWpjblNReDNXd3FXUVlnSzRVa2doWEtNd21vNHJXdm1vQU5qVnJJX1p6TlVVWi01Nkt0NzVrMkFXVkstdXdfVHJGaWtSeXlPdjdwZVJrTW9MQW9fV2NmS3RpT29EZU9mal9BVWNRWXJ6RGxWbnJzcGJ5aG5tM3JUM1BMUmNqdGhEVlZiRGRhTG0xMVI5ZWw0V2dwenJMT2NB?oc=5",
+   "published": "2026-11-10T00:03:00+00:00",
+   "id": "60136d56106e",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Beijing Doesn’t Need to Invade Taiwan to Control It",
    "source": "Bloomberg.com",
@@ -4098,7 +4110,19 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXRDcmZoemhoNnNlOTU3ZklVYlNSWWZaOWFEaUxtX3BLLXRCLXBVdk5tb2dIRmQzMzlwSVZqRG52RGJaZHNtYThYTUdYR0VKSDBoNEtSY0xOWjM1cFVFbmR3MEVRVnpabzVGb0ZWN3VMYlQ3dWFJOU5CUEZDWjJzOUQ2UHBTMDJ2blllR3d6SFVoazJWbFZ6UzRDVTEtVUtzN2lGZ2RYWkRHVUplZ2R6ZE1nTHN3dUpCM0NQZQ?oc=5",
    "published": "2026-11-10T00:00:00+00:00",
    "id": "039def02a9d2",
-   "impact": 6,
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Réduit la probabilité d'une invasion militaire imminente de Taïwan, allégeant la prime de risque.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes",
+   "source": "The Washington Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5",
+   "published": "2026-11-09T23:56:19+00:00",
+   "id": "4ea7cb64176d",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4110,10 +4134,10 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2xucG0zbnRSdzdXZk5YMy1QQ3Zwd21sVFZFaHI2TnFyTkg1ZS15U2NsdHgyX2dPMndUVzBCYkZ1eUhUUHZweXNvVVNpMjJtclNXWnhMTWZ5c2ZEYmE1VWxmTGpxWlZha3JtNlVQLWVZdDhQR0cweEp2OTZ2YjZnRjNOLXhzbFBwOFI1QThsbkVnSnRmMzFTUnZWSm9nUTl6Rk81OFRUTDc2eVBQNFgwTjFTVXRzdnE3ZXVGSzFB?oc=5",
    "published": "2026-11-09T23:39:18+00:00",
    "id": "c4ef7ede2b38",
-   "impact": 10,
-   "cat": "politique US",
-   "raison": "haussier or (fed, politique US)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "inflation",
+   "raison": "Le ralentissement de l'inflation plaide pour des baisses de taux Fed, favorable au métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine",
@@ -4146,10 +4170,10 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aVVBM1M2V2JiUGZLeXU4Xzd6YmV3RVNpVnhPM3U1bFdPYmRUcjNtc3d6YldOczdHNmN4Umx5MmU4eldmbGxSTUdBSW5DaU9xUVRqQ2E4UWZ3bzhjaXE2MFg1TEVkUGtENzllWU5XOA?oc=5",
    "published": "2026-11-09T23:00:00+00:00",
    "id": "992ad4db825f",
-   "impact": 10,
+   "impact": -4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Désescalade explicite sur le front iranien, forte baisse de la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
@@ -4158,10 +4182,10 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
    "published": "2026-11-09T22:36:18+00:00",
    "id": "f4ff97434256",
-   "impact": 8,
+   "impact": -4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Propos apaisants réduisant immédiatement la demande pour l'or en tant que valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump signals no Iran strikes coming after meeting Qatari leader",
@@ -4170,10 +4194,10 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnA4RE1FczlldTNPSzhDNTFBYjVPUEZHUVRLajRjQ3hncXJoVW9qdU5qd0Z5RjR5M3U2T19LRldOWUlUTDlscExaUl92RV9weGtKYWxDQ3FCZWZ0M2F0RXdqNXVHRE84ZnJwYVhGR2ZZZGZ3dGdjSHRWRWYxbWY5emJ2QWU1ZXVMRC1meXNoNXFvelnSAZgBQVVfeXFMUDRTeTRzdTVIRXM3UnZjckxyT25VUG5RZnRsV2liRi1MNHlqT2JzUzNjNmFiUWp1aVVBVExUdi1Ja0M1RlRUeHBaTjMxV0EyOGdDU2ZjQzNTVk1OR1VkbGhVcTY3V0VYUzd3eDdQRm85WmhSS2ZWT1dvY1ZjUzlsOS1MSWpGRUpjck1iVGw5TVhYRE51QWhNY1Y?oc=5",
    "published": "2026-11-09T22:31:00+00:00",
    "id": "1c54c6cc2c50",
-   "impact": 8,
+   "impact": -4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "L'absence de frappes américaines en Iran diminue le risque d'embrasement régional.",
+   "method": "IA"
   },
   {
    "title": "Democrats will try to roll back Medicaid cuts, stop tariffs, Oregon US Sen. Ron Wyden says - Oregon Public Broadcasting",
@@ -4182,10 +4206,10 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjRPME5UQmhJUEpCTWdLNUx6UmtYVDlDSDQ2NUw0VVBMWnBYQkllWEJVb3JCVngyV1Z5bVkyOG9RZVlXNkgzRkEtUFFyZkIxMXQza0ZvbDJZYm1iUVpxcWFOVGsybW9mcVBCaTVpUnJ0OGhpMUpMci1QeHVtVDJQaGhRa1RKY0RRemRJRzJUa3NpRUs1RVpfZzNZNmdsc0NHOFNYVUVNRzlPNjY3ZlZ1am9aQi02WS1Na3NsS2RJUW5URTdRcEE?oc=5",
    "published": "2026-11-09T22:22:26+00:00",
    "id": "2be5300ca40c",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Initiative d'opposition parlementaire à faible chance d'aboutir à court terme, impact négligeable.",
+   "method": "IA"
   },
   {
    "title": "In our opinion: Congress felt voter anger on tariffs, can act now",
@@ -4194,10 +4218,10 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObS1SMDRwdXpOb3JKd2FjYy1qSkFrVHcyX01SbHEtbHhRWGNqVk52bFZkWkNrc19zYUZVRHR3TGppS1MyUm9kSV9CX3NlX0lObXk2UVR6S3EtSmpzVHNRU0FwQndEamItYV9BUS1JRnM5UVhrT3RPc3ZMbWVkQkpaaldJVVpLNzA?oc=5",
    "published": "2026-11-09T22:21:00+00:00",
    "id": "cee9b33f48f5",
-   "impact": 2,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Éventuel frein aux tarifs douaniers, atténuant légèrement les tensions commerciales et l'inflation.",
+   "method": "IA"
   },
   {
    "title": "Trump says US is seeing progress toward ending Russia-Ukraine war",
@@ -4206,9 +4230,21 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWwyVTgwdF9RMnpuLTRqb29wSUNEZmhyMUdnSmZmZWtsbElQRTJDbEg0X2NmczRpRnpkanctYzV1N1FTS0IwSVUzQWNad19JVTFnRlp5RFVvTmxRREVKdTVPeUpsR1NQVTJHandBN1A4YmNuQTExLXF5aFdoUEtTbzR5aEFldkRjQ2IycTFYd1o1Rlhxc21SaWR3QkdPbzVjaUxwaF9Gd3RTdEk?oc=5",
    "published": "2026-11-09T22:15:44+00:00",
    "id": "af6b1644bbd4",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
+   "raison": "L'espoir d'une issue négociée en Ukraine réduit l'attrait des valeurs refuges.",
+   "method": "IA"
+  },
+  {
+   "title": "Canada amends, extends tariff relief program beyond U.S. steel imports",
+   "source": "CTV News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHZoaXdtWE1oR2xSOWtoLUV0V2NFeHFjNlp4dzVkRkh0YjQzcUd5S0MwRm1NSlpUREpFMXkybGgyeHk4UDdCTVMzWVdOWDhzUl9FdURXU1lnaWJ0Z0JGaXlXNXU5REFTaExaSlZqckdoTWowdXZxR1FhTXRGM2NJbG1TeElRQ0hxNWhCdEJadk9pTHVyZXFnNFByMXpmZXdpWUpOX3BmSEg3TjNlSzVFOW9fajR3bDBLSzNNdQ?oc=5",
+   "published": "2026-11-09T22:13:46+00:00",
+   "id": "86184cc6950e",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -4218,10 +4254,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmhpTVpNQWZvRlZVdVMtWFNXZldjWXhfVURkUDVZNmNyVENYU0JrN09FbVotWkozWEtxcjEwZ1liRGFwOHhzNlRCcjVWU2c2cUNERk9tSVBLdGZjUm5Yc0Fka3hSc0NpemV0d0pGYmVfMmF2S3NUV0FQeVBUclExeGtPTjdxQ2lXd1pn?oc=5",
    "published": "2026-11-09T22:04:02+00:00",
    "id": "e18c4d595818",
-   "impact": 8,
+   "impact": -4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Probabilité réduite de frappes, érosion directe de la prime de guerre sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily ‘effectively over’",
@@ -4230,10 +4266,10 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbzhSMnVBQjg1dkNOR1BqeHozR1RSdjFkZTBjYzhFMHY1NzV2Y0dtS05FUEN1aksxYzd3WWhTUU02ZXdld04tVm9RQ2RxX3dVbFhXd1RvaC13S1ozdmdqYTcwMlYxOURmX3B4WDkxMVktckxWR3ZGYkNnTmdicFZ1WlZMMVRQRWJRS1E0OGFFQUlYVUswWnlHY3lzclFORGk5SXBONlNyNzNPSHBaaW1DRzc3dW1iNHZjS2FuLVR6UUNVckU4d2NwLQ?oc=5",
    "published": "2026-11-09T22:03:00+00:00",
    "id": "68fe7959744f",
-   "impact": 8,
+   "impact": -4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Confirmation d'un retrait militaire perçu, entraînant des prises de bénéfices sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump Says Positive Progress Emerging to End Iran War, Further Military Action Unlikely",
@@ -4254,10 +4290,10 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UHd6cDBlNFM0ZUdfU0t2Y1Iyb0xQMmtvUEx0czNhdk9zZ080TnJRUlphMVpOUDctQk5yZDVrVW1GYldsYTVubFJ2R2IzbmJFaGpVa0FiaWdmeVBWclJrUmNKc3VwUQ?oc=5",
    "published": "2026-11-09T21:51:17+00:00",
    "id": "615fc033c8d4",
-   "impact": 8,
+   "impact": 6,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Titre anxiogène d'escalade majeure au Moyen-Orient, déclenchant un afflux massif vers l'or.",
+   "method": "IA"
   },
   {
    "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
@@ -4278,10 +4314,10 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVduRDc4eWZyV3N1OXZIUnAzOG0yNGNTVDVBd3FaU0t2ZmJua2RXQ2xHSE9WTkdRbW53bTlrTVpkOXNPdzNFVWxzeTh6LVE1X1BNZ3VjVmtybEh4Wmhyd1pPQkFnMTE2Smh2R3FjMl9vaVBLcWFRa19OMkJnWHNQSlM5SmZMYVc1ZjZhRFJnMFBmU2h0bEx4cXE3S3J4Sk8xQXJJdUNPc3paNUx5MlRKUw?oc=5",
    "published": "2026-11-09T21:39:15+00:00",
    "id": "978eda843fee",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "La diplomatie progresse au Moyen-Orient, détendant la prime de crise sécuritaire.",
+   "method": "IA"
   },
   {
    "title": "Trump: Gulf states favor Iran blockade, US ready to strike if necessary",
@@ -4290,22 +4326,10 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vSWJCRXZlTlhsUnNoaEx3VjhrVnI3cWNMQ0h2NEoyOHlwZG1XUWpfMUpNMXdBTTVoVkpWb0U3TmZhZTh5VVlkYVpDY0sweWJLOU5zcjZfWEdHUQ?oc=5",
    "published": "2026-11-09T21:37:38+00:00",
    "id": "1e4f03371bd0",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Wyden aims to reverse Medicaid cuts and end President Trump's tariffs",
-   "source": "Statesman Journal",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUUwWUlDWUU1RElrc0RxQVlteHc3d2FWNTl0ckdKLVNyclEtWkw2RWFpc3V0WHR4MzZhd0xOM2hYN2E4V0VneW81SDNqdENtTmNMOFg3SGd1eFhhdDBfUzVWbDNfbkRybVZKWU5sX2N6TFAyVFlBUlRHWVcwWjJIcFBYQkxIRHVBMlR4V29fYnFLYlpPT0s5MlhGZjBMbElEdzRxN0tMMEp2UUpld0lhdDRoZElobEpI?oc=5",
-   "published": "2026-11-09T21:01:00+00:00",
-   "id": "fd5533cedf8c",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Le spectre d'un blocus et de frappes maintient une tension résiduelle favorable à l'or.",
+   "method": "IA"
   },
   {
    "title": "Arab and Muslim leaders in push to stop Trump from reigniting Iran war",
@@ -4314,10 +4338,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWtPWmlRWllyd3RZZ1VmUkt3QWtSVjUyQzFaaWNabTM5a3JMZS15QUFlZEZaNVdPTFlNeGhDVk1zS1RGdlV1cVQ0eHNHYmltWjQteGhmVlpISmNOSlJYa0JLWU9MTkc2RE1weGtoZFNZdHRuaVJhNnRqcGl0bndYS05DVWw?oc=5",
    "published": "2026-11-09T20:56:08+00:00",
    "id": "5233c1b51e2c",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Efforts diplomatiques régionaux limitant le risque d'escalade armée généralisée.",
+   "method": "IA"
   },
   {
    "title": "Trump hails ‘positive momentum’ towards ending Iran war",
@@ -4326,10 +4350,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWtPWmlRWllyd3RZZ1VmUkt3QWtSVjUyQzFaaWNabTM5a3JMZS15QUFlZEZaNVdPTFlNeGhDVk1zS1RGdlV1cVQ0eHNHYmltWjQteGhmVlpISmNOSlJYa0JLWU9MTkc2RE1weGtoZFNZdHRuaVJhNnRqcGl0bndYS05DVWw?oc=5",
    "published": "2026-11-09T20:56:08+00:00",
    "id": "b9762e45eab1",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Signaux répétés d'apaisement avec Téhéran, négatifs pour la prime géopolitique du métal jaune.",
+   "method": "IA"
   },
   {
    "title": "US October CPI to Be Released Without Annual Inflation Rate as Shutdown Fallout Distorts Price Picture",
@@ -4362,10 +4386,10 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
    "published": "2026-11-09T20:50:00+00:00",
    "id": "3196ee8eac88",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -3,
+   "cat": "taux",
+   "raison": "Chute du brut et détente géopolitique réduisent les anticipations d'inflation et la prime refuge.",
+   "method": "IA"
   },
   {
    "title": "Houthi rebels say at least 44 killed in air strike near Yemeni capital",
@@ -4422,10 +4446,10 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnl2dTNiUUxwZ2VxVVpVa3VuWDVHYk1sd2V6RHYxVFJxWExfdGNPTkxiNEgzXzdvTHgxU3ZJcXVpOWNZVlpsMmxDVjVnQmRyMExQSG5NZUN6NWtrN0MwME1UMFdFbHFxWG1EQV9Yc19VdDlkcGp3ZWNUbEc2cFVkeEtXSmhmRURNRExSXzZfa1AwSGdiVTJpZ1ZUc2ZELU91eGdVczljSHhaaFMyYlZCY05wRQ?oc=5",
    "published": "2026-11-09T20:13:07+00:00",
    "id": "0e42f4bef652",
-   "impact": 5,
+   "impact": 3,
    "cat": "banques centrales",
-   "raison": "haussier or (banques centrales)",
-   "method": "mots-clés"
+   "raison": "Rappels d'achats institutionnels vigoureux, constituant un soutien structurel haussier pour les cours.",
+   "method": "IA"
   },
   {
    "title": "Why Canada shouldn’t count on Democrats to repeal Trump’s tariffs",
@@ -4524,18 +4548,6 @@
    "method": "IA"
   },
   {
-   "title": "Wall Street Prepares for a Potential US Debt Ceiling Shutdown in 2027",
-   "source": "Tekedia",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaTYtVUVzR3J2VVpJM0w3TjlPMXVNNGhvWUlEV0VDMlpobWNHdGdkc3U3d1FqVTctNVRVQllleThFWDZYYW1TdmROTUlMUFRkamp4T1VlME50enJkOHdkUmFtcjRJcUx4aGpqR0VKMVBXUjB4Uzctc2pXVWZHbnpiR0Q3am9sX0NpZ3ZMOUtmbWY2UWFWcUROdVV3?oc=5",
-   "published": "2026-11-09T18:35:48+00:00",
-   "id": "3942f3a041f6",
-   "impact": 4,
-   "cat": "politique US",
-   "raison": "haussier or (politique US)",
-   "method": "mots-clés"
-  },
-  {
    "title": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
    "source": "Fox News",
    "theme": "Trump / Iran",
@@ -4546,6 +4558,18 @@
    "cat": "géopolitique",
    "raison": "Efforts de médiation et offre pétrolière apaisant les craintes d'escalade régionale.",
    "method": "IA"
+  },
+  {
+   "title": "Tokyo Yen Briefly Touches Lower 158 Range as U.S. Jobs Report Revives Year-End Rate Hike Bets",
+   "source": "BigGo Finance",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ZW5YNFRKOXRqc1ZUYVIydjNpSUFoX2tvbl9uQ1piWUZ6T1F3cTJ1WXMzdHhNVmswLVRRVzUyS2ExZDV2dXVKRGtEYVViMHJnUW4zaWJCNEFUNWtGR09uc3RMUDJMOGhsQkstc1lqS19wczFSYWc?oc=5",
+   "published": "2026-11-09T18:25:00+00:00",
+   "id": "164320200918",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says he's not planning new Iran strikes, defends war after GOP midterm losses",
@@ -4594,18 +4618,6 @@
    "cat": "géopolitique",
    "raison": "Escalade des frappes russes ravivant la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump admin’s tariff-free beef imports haven’t lowered prices much",
-   "source": "Texas Standard",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EcVdES19LaHpWdXh6WmVkNmJ3aWwzb3VMNW1lY3JhWFhJR1hlbDJUVEtYcUVHNTlIT2hMNnpaZUVEWHd0Q242NVROcUo5aFNDNTlLdXNWeFZNNzlqQ1hGZVJwaHBVTXJ4M0otejFTWndEbWR3MzZUeGR6X0g?oc=5",
-   "published": "2026-11-09T18:04:05+00:00",
-   "id": "dcb075f34d11",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   },
   {
    "title": "Even this blue wave probably won’t wash tariffs away",
@@ -4890,10 +4902,10 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdmp6NmNPMGhTbUVnMEQxQXI2U1QybmdCS3hQVlFFTG9KdVNqcG1lNVF3MzBvQTVJSUkxdkhWZ3VDQ0NiTGxzRHg5WnU4aEZ0TzVQZHoyblBkbl92Z2FTYUVvdmVpWjB4eU9YMk01ektCREhTRURUSzJKZnV5TThIek1OVGZZWGRQZjQ2M2w4S3NrYl80ZGdOd09wd3I4NjhHR1hWLUpKUEp6MHZSakMzX0FGc1FYemlLQ21IOXBORDB2ZjdhNlhLMjV2bGJSODc4TnZ3b2dCajNYOGhBMERGWU1adVowbUNRZlFsanFkS3pZSHU1Q1o1WS1zVWJkaFAyMGVrZUVGa9IBjAJBVV95cUxQLTBaTnJYejJFMDJOeFVaenZGTmU2REVVY2wyWUVXb1RmSmY0V2tobm5LVEdWRURJaWR6THYzeHZ2VFQyRkpFeHhwZGI3akNsNlRudm5YQkNxRmRjOVBVWFFDZ3RsUS1FT09UcHMtcGg4YTdmdmhtRnVyUE5HNkpFY1I2ZWFzVFNaOTJCSk1VX0lKc1I4dnJhaW9hUXNNMW5oa0k2OWUxVTdqRlYwX0ljSXBvbWtfdVRJYlhMV1JPNWhPN1VDTmFCOTZoM3R5VHQtWk1WUVhwaGMtT0JCczQ1TnlmVFppYjV6Y1BJM2tlU2hBWWkxWVNzbWI5eTQ1aVh2NjFYaUl6S0pLRzZs?oc=5",
    "published": "2026-11-09T12:41:06+00:00",
    "id": "692237d67786",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces de frappes iraniennes sur Tel-Aviv ravivant temporairement le statut refuge de l'or.",
+   "method": "IA"
   },
   {
    "title": "Breaking: China’s October CPI inflation slows to 0.7% YoY, below 0.8% forecast",
@@ -4902,10 +4914,10 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObTJ0WGxhQ0NwMzdFNVczOGQ0WUNyYnEyRzlnQWFnNUFYWFdsTDBxbkd2OWczVnd6WF96d1kwMWVFWnhkR25iTVFUX2ZVNUxqbWF6Mk5fb2lpNG54RXZ4U1ZpNWdrbTFTYUt5RXc2WWpBSm0wNG5peVIzMHNDNGlZdnVnRXAyRGludnBJekFqZkNZSkJFQkVDOUdoUlZqRXdFRkVKdlh3bnBYbUpTeVljZ0VCelJBRkJOcmgyYXZZMEVvNC1VbzlLeGZmdDU0T2czbWFxS3U1aw?oc=5",
    "published": "2026-11-09T12:40:12+00:00",
    "id": "6fa114b31a85",
-   "impact": 4,
+   "impact": -1,
    "cat": "inflation",
-   "raison": "haussier or (inflation)",
-   "method": "mots-clés"
+   "raison": "Faiblesse persistante des prix en Chine, signalant une demande physique asiatique potentiellement morose.",
+   "method": "IA"
   },
   {
    "title": "Oil slides as Trump signals restraint on Iran despite fresh shipping attacks",
@@ -4914,10 +4926,10 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYy13eXltNldJNUhUay02cHBib0ZsM1IydjZHdDhiRTZZNVlJeExSeUxWLWQzVDRqUHdpZUljZGZCakFXeTNIc3oxZktkdEltVlp2MnYtNmx2MGhxSzFWMExTbjFGeUdiTTZyQk9rd0dzZG5qVGNmdFdVYWtETXVITlNmaUpEamdVbGlySEsxaDNvTnFNQVBBWU44UHhsR3FCaEFZQk1qUTBzc2poQkd4eFAwSzhhVUHSAVZBVV95cUxPRjdWcFpwZm5IRHRTd3ZpRmxVWWE2ZjJfYzM2bmU3c3Rrc1BrYW04SE9uOHBLM294eXQ2V0lNc0otODd1dUFPazRncjhBOXkyUmZrUVdQUQ?oc=5",
    "published": "2026-11-09T12:34:52+00:00",
    "id": "bda99c979cda",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Retenue américaine face aux attaques maritimes, soulageant les marchés et pesant sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Ukraine Strikes Russia’s Second-Largest Oil Refinery and Iskander Missile Fuel Plant",
@@ -4926,22 +4938,10 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IODhFYXl0QmE4QmVtV1pDQzkwX3lFb1BRLV9TNEp0TEZLVWpfbGR6WGFfTzZpbW1SYklnNjlBb1prSWVXQkJhQW9JZw?oc=5",
    "published": "2026-11-09T12:33:45+00:00",
    "id": "645e450baa39",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia-Ukraine war: Nine foreigners caught trying to leave South Africa to join conflict",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hUVlxYmoyNGlXbkp6OEhfZlg1QURlVE85S3NEZGRTUmhoUHRGcUFnM1VsX2JMZUlzbGxUd2l1QTJZdURHZ3RYMEFZd1ZhTHZJdW56T2xuR211Mk0?oc=5",
-   "published": "2026-11-09T12:33:24+00:00",
-   "id": "ef39a4ea9029",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes ukrainiennes d'envergure sur des infrastructures stratégiques russes, alimentant la prime de risque.",
+   "method": "IA"
   },
   {
    "title": "Oil Slides More Than 3% as Trump Downplays Prospect of New Iran Strikes",
@@ -4950,10 +4950,10 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
    "published": "2026-11-09T12:30:00+00:00",
    "id": "dc3457b3055d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -3,
+   "cat": "taux",
+   "raison": "Baisse rapide du pétrole et désescalade militaire réduisant l'inflation future et la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "China Extends Pause on U.S. Tariffs Ahead of Expected Trump–Xi Meeting",
@@ -6493,8 +6493,6 @@
   }
  ],
  "fired": {
-  "news|25f7df99f7e0": 1792456288.6882215,
-  "news|221e7086b7c3": 1792456289.6524715,
   "news|75d08ca30b1e": 1792458225.2778285,
   "news|2be337dee105": 1792462743.8611097,
   "news|0bce35eac3e8": 1792467088.4185307,
@@ -8172,9 +8170,10 @@
   "news|615fc033c8d4": 1794266165.4362411,
   "news|dd04e4f9a742": 1794267205.6386492,
   "news|b9762e45eab1": 1794268896.9103663,
-  "news|c4ef7ede2b38": 1794269771.528343
+  "news|c4ef7ede2b38": 1794269771.528343,
+  "news|4ea7cb64176d": 1794270979.853687
  },
- "last_bias_label": "Haussier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8532,6 +8531,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T00:36:20.906782+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +8)\nMoteurs principaux : Taux réels 10 ans (20j) (+12), Momentum or (vs MM50) (-9), Fed (2 ans vs taux Fed) (-8)"
+  },
+  {
+   "ts": "2026-11-10T00:36:19.853764+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes</b>\n📰 The Washington Post · Mar 10/11 00:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5"
+  },
+  {
    "ts": "2026-11-10T00:16:11.528437+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US CPI preview: 43-day shutdown leaves no official annual rate as monthly pace seen easing</b>\n📰 investingLive · Mar 10/11 00:39\n🧠 haussier or (fed, politique US) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2xucG0zbnRSdzdXZk5YMy1QQ3Zwd21sVFZFaHI2TnFyTkg1ZS15U2NsdHgyX2dPMndUVzBCYkZ1eUhUUHZweXNvVVNpMjJtclNXWnhMTWZ5c2ZEYmE1VWxmTGpxWlZha3JtNlVQLWVZdDhQR0cweEp2OTZ2YjZnRjNOLXhzbFBwOFI1QThsbkVnSnRmMzFTUnZWSm9nUTl6Rk81OFRUTDc2eVBQNFgwTjFTVXRzdnE3ZXVGSzFB?oc=5"
@@ -8820,16 +8829,6 @@
    "ts": "2026-11-09T12:46:51.876377+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil slides as Trump signals restraint on Iran despite fresh shipping attacks</b>\n📰 Business Recorder · Lun 09/11 13:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQYy13eXltNldJNUhUay02cHBib0ZsM1IydjZHdDhiRTZZNVlJeExSeUxWLWQzVDRqUHdpZUljZGZCakFXeTNIc3oxZktkdEltVlp2MnYtNmx2MGhxSzFWMExTbjFGeUdiTTZyQk9rd0dzZG5qVGNmdFdVYWtETXVITlNmaUpEamdVbGlySEsxaDNvTnFNQVBBWU44UHhsR3FCaEFZQk1qUTBzc2poQkd4eFAwSzhhVUHSAVZBVV95cUxPRjdWcFpwZm5IRHRTd3ZpRmxVWWE2ZjJfYzM2bmU3c3Rrc1BrYW04SE9uOHBLM294eXQ2V0lNc0otODd1dUFPazRncjhBOXkyUmZrUVdQUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-09T12:31:49.256021+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 68 MIN — 14:40</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.40% aujourd'hui · taux 10 ans +0 pb · biais or +16 (Haussier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 85$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-09T11:46:06.288281+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US has ‘won’ Iran war as Rubio reports no progress in talks</b>\n📰 Euronews.com · Lun 09/11 11:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFk2SzhMUnZnbFhjV01RMWQ0bUQ4UG5tUVYwYVozNU1MQXc5MGgwUGNGRzY3bllMalF6cGo3R2tBektVaHNCQWU2ejZCUjNtZ2tESGZKVmNrY3QwWGpjdXRrTzVBQ0hSVVpyQm9iTlVSQzhUWVpJendyY2tJc28ySWNvR3VoYlVTX2ZpR0ZVbkVfQlB2WHIwdjl5MUp3Y2k5VUhtWG1DWQ?oc=5"
   }
  ],
  "daily_forecast": {
