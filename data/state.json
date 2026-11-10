@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "3d4a23672188",
-  "f08168976d4f",
-  "6f6993de15ad",
   "210748275660",
   "433a025a9905",
   "d93b5e1a6a0f",
@@ -4088,7 +4085,10 @@
   "059dbecf2b5d",
   "a3d222834bd8",
   "789f8822abaf",
-  "120fdeb15e6c"
+  "120fdeb15e6c",
+  "4e576e357d23",
+  "7e2eb70a7d25",
+  "684539b50925"
  ],
  "news": [
   {
@@ -4099,6 +4099,18 @@
    "published": "2026-11-10T14:02:22+00:00",
    "id": "a3d222834bd8",
    "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hot October CPI Report Clears the Way for a December Rate Hike",
+   "source": "Kiplinger",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDFiV1RjWnozMXB5MC1HZ3d3d2dFSWFPaGdlUFM5ZjNtRElnU1Q5MDdVTXRNNW1kMzVlWVJVR2xRYnpBLUR2eHlhRmF3OUlFMm1ZU0JHamF4WkJDcjhpQXY1dmY2dGlhYk1QRV9haVdZVWljdGVvZlZ6OWdHX0djZFlqT3lMbmZMb1E?oc=5",
+   "published": "2026-11-10T14:00:50+00:00",
+   "id": "7e2eb70a7d25",
+   "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
@@ -6478,23 +6490,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Southeast Asia rides out the return of Trump’s tariffs",
-   "source": "East Asia Forum",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
-   "published": "2026-11-09T11:04:04+00:00",
-   "id": "1ae1f6dbb120",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|a339be79c109": 1792506692.472275,
-  "big|OIL|2026-10-20": 1792506694.0216494,
   "brk|DXY|pwh|dn|2026-10-19/2026-10-25": 1792507597.9231052,
   "news|2672bb2d5120": 1792508067.4397902,
   "news|e1d74c3e7cdb": 1792509372.614868,
@@ -8210,7 +8208,8 @@
   "brk|US05Y|pwh|up|2026-11-09/2026-11-15": 1794318376.6359844,
   "news|e46b0ded90bf": 1794319294.8634458,
   "post|2026-11-10T08:30:00-05:00": 1794319295.9163218,
-  "news|a3d222834bd8": 1794320165.3017528
+  "news|a3d222834bd8": 1794320165.3017528,
+  "pre1h|2026-11-10T10:50:00-05:00": 1794321106.1847003
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8586,6 +8585,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T14:31:46.184972+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 78 MIN — 16:50</b>\n\n🇺🇸 <b>FOMC Member Logan Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.30% aujourd'hui · taux 10 ans +10 pb · biais or +7 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 89$ → attends-toi à des mèches rapides."
+  },
+  {
    "ts": "2026-11-10T14:16:05.301825+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold drops 2% as US CPI tops forecasts, strengthening December Fed rate hike bets</b>\n📰 FXStreet · Mar 10/11 15:02\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWQtS2ZNS2hudkNkbHpxQ3RpYXkyTjh0bnRLVERfTk9Qci1lbGZmdzNJMUxKTVlyOFVjUFJhTTRoX2RXZGEyR25Id1RSdnhuSkpFaFpnOUNQNjkwSmJUX2ViaExjVDY1OXpMbFc4ZnZTQlk2QXVVZjlLems5LUlTZS1ZRDN0SC01WGtlOHlNUzF5YnRSX1J2NnA4c0x3eVNKc2RWVFZhbXA?oc=5"
@@ -8879,11 +8883,6 @@
    "ts": "2026-11-10T03:31:24.253454+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as Trump downplays prospect of escalation with Iran By Reuters</b>\n📰 Investing.com · Mar 10/11 03:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkQ4SDNnOHFNMldZdks1NUx1VHVPdHgzUllRRmFHMl9MNDE0NDYwaTZDdlRtNDRkYVZjcGRIUDR1clZBY3ZYR2JKVEliNXBEUmdQX3A0eURrR0YwSlNLeFdCQWRrRXhJVUFjRXFELUItejhYSGlKY2h6VHhVLU5xRWJsZzNzTDZ1aElyRkVVMHB5OTV4Z2ppa3lCSW9QVkdVeUt6b1JqSHp1ZE1OQVluSWtuS2k2bUJQ?oc=5"
-  },
-  {
-   "ts": "2026-11-10T03:04:47.391357+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>WW3 fears as radiation drugs handed to civilians near nuclear strike targets | World | News</b>\n📰 express.co.uk · Mar 10/11 03:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.express.co.uk/news/world/2264801/radiation-drugs-nuclear-target-iran"
   }
  ],
  "daily_forecast": {
