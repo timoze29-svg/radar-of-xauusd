@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1794245470.9878006,
+   "ts": 1794289550.0916553,
    "data": {
     "date": "2026-11-03",
     "net": 179548,
@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "1de23e3db3a4",
-  "146016495a2b",
-  "5665fcdc04d3",
-  "25fdbc83b7a3",
   "9f5d0feba3d0",
   "4061bcb7132e",
   "d51eb826a857",
@@ -4088,7 +4084,11 @@
   "723ff9835726",
   "6c58308c51b4",
   "7edc6210a8e8",
-  "47dafd6c6bcf"
+  "47dafd6c6bcf",
+  "6144d6bdd31a",
+  "4d81f2536fec",
+  "9af28c7676bb",
+  "40391c70ee33"
  ],
  "news": [
   {
@@ -4111,6 +4111,18 @@
    "published": "2026-11-10T05:00:00+00:00",
    "id": "6320abd8dbf1",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3pqanZMNlVOWHB0OGxZWFRSZERjUHhvV3VYc1drZUx4bUk0aDRadGdYUDd6Zy1uOHRlbTZ2MWFSWFpXdzJmakhydFo0STBMSjRESEU2X1Y0Y19jbldtNVFFdEZvajU0c3ZlOXljYjhuVFl5VUlZVlk3UmdqNDljeHNQYUJnUFl0MGlTTTZiMDRwNjVNYkc4ZA?oc=5",
+   "published": "2026-11-10T05:00:00+00:00",
+   "id": "40391c70ee33",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6477,18 +6489,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Incertitude politique en Israël, impact marginal sur la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump says he thinks he will meet with Xi , Putin at APEC summit in China",
-   "source": "hindustantimes.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hindustantimes.com/world-news/trump-says-he-thinks-he-will-meet-with-xi-putin-at-apec-summit-in-china-101794185002081.html",
-   "published": "2026-11-09T02:00:00+00:00",
-   "id": "20b6bbd78dda",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Perspective de dialogue diplomatique USA-Chine-Russie détendant légèrement les tensions.",
    "method": "IA"
   }
  ],
