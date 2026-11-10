@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794264349.40016,
+   "ts": 1794286876.6694722,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "178f46d1ae24",
-  "0008eed2e120",
-  "69e5f3361a50",
-  "90105141e5d0",
   "8bbfbaee2247",
   "46bb99586f4e",
   "f7e376e697ba",
@@ -4088,9 +4084,37 @@
   "02ac0238f44c",
   "172cf1dc9dcb",
   "1ad2a3ae5a55",
-  "917db13b6e37"
+  "917db13b6e37",
+  "d126e658681e",
+  "5761fff1c128",
+  "f7b37c6da5a0",
+  "261bd99b0ebe"
  ],
  "news": [
+  {
+   "title": "US/Israel-Iran war: What UAE residents need to know today (Nov. 10, 2026)",
+   "source": "Gulf News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHZJQW5VNGhRODAxWXNrY0pEY0xVc1pCOVBucmJNaF9WMGM5dC0tQ0NFYjZTZnI2VGxxb0ZuR0Rwc3N1ejNCXzU5Q28xVVJuMTRjdmRMMEhIRC1uV0xvZW5DRGEtaGpweldab0F3a1U4M3gtVW8zQ0NPWUVsUXdfWXkwUmwtYWNUd0lmU01ESHR2ZzQ0WFpwOXZvM1NReFBvaGM2VjhtTdIBtwFBVV95cUxOWnZlMEtzY3RHdkgzYzFxV2lES2pYV2pjckpZNUFJY3NlNEhfZXZyTkRJZE9CV205N0ZiSVZEa2lnQWFXbjl0eWNfUF9zNm5pRWhGbmRjZlNWZU9VNXcwalgwZmVEM1MxQV9fZFNod3dzMU9rQTB6NjVyZHk5VmMyaDYwQnpvdVpBcU1VVllVamUzbmxpNHZWOUh2RFlmcEhiS29lemEtVndLQzFKUzNXQkNsVW1jaHM?oc=5",
+   "published": "2026-11-10T04:55:28+00:00",
+   "id": "d126e658681e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+   "source": "CNBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTR4b1RSQ2FtZEFXLUNXQ195VmlRWHYxQ1plQUJtVW8tdlpwSVpYVndpcS1sTGFSYy1UWWh3Z1BDYWJnLVBWODM4bmhQWHlqYzlDNEc1eFliT0hXUzE0ekNwcE9TcFh4NWltbVdpMTNwVXJtMnNxcVJSYzh1SjUtajZvMA?oc=5",
+   "published": "2026-11-10T04:46:00+00:00",
+   "id": "5761fff1c128",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Rate Hikes vs Safe Havens: Gold’s 2027–2028 Price Outlook",
    "source": "deVere Group",
@@ -6466,36 +6490,9 @@
    "cat": "inflation",
    "raison": "Préoccupations liées aux prix des carburants soutenant les anticipations d'inflation.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Hits JD Vance for Blaming Midterm Losses on Iran War :  A Lot of People Didnt Like His Comments",
-   "source": "freerepublic.com",
-   "theme": "Géopolitique",
-   "link": "https://freerepublic.com/focus/f-bloggers/4402333/posts",
-   "published": "2026-11-09T02:00:00+00:00",
-   "id": "4387b396b9d7",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions politiques internes confirmant l'engagement militaire potentiel contre l'Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "Israel president gives Eisenkot the first chance to form the next government | National",
-   "source": "reflector.com",
-   "theme": "Géopolitique",
-   "link": "http://www.reflector.com/news/national/israel-s-president-gives-eisenkot-the-first-chance-to-form-the-next-government/article_6d9b4530-acb7-54d3-a82e-62c5c12267b0.html",
-   "published": "2026-11-09T02:00:00+00:00",
-   "id": "762da10f1b8e",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Transition politique en Israël maintenant une incertitude géopolitique modérée.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|878e72efd6a5": 1792470734.0304866,
-  "news|f1b22d1ca2da": 1792470735.0738797,
-  "news|ba17fdf5169c": 1792470736.0607235,
   "rep|daily|2026-10-20": 1792472565.298812,
   "news|9b7f6987e081": 1792473360.7606359,
   "brk|GOLD|pdh|dn|2026-10-20": 1792474279.61661,
@@ -8181,7 +8178,8 @@
   "news|2be2e0d647aa": 1794282396.0108674,
   "news|aeb2eaa104db": 1794283300.1379092,
   "news|0f57e9e5ec4f": 1794283300.9469972,
-  "news|ad9d5e6ea99f": 1794284175.948866
+  "news|ad9d5e6ea99f": 1794284175.948866,
+  "news|d126e658681e": 1794286897.3573027
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8541,6 +8539,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T05:01:37.357381+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US/Israel-Iran war: What UAE residents need to know today (Nov. 10, 2026)</b>\n📰 Gulf News · Mar 10/11 05:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHZJQW5VNGhRODAxWXNrY0pEY0xVc1pCOVBucmJNaF9WMGM5dC0tQ0NFYjZTZnI2VGxxb0ZuR0Rwc3N1ejNCXzU5Q28xVVJuMTRjdmRMMEhIRC1uV0xvZW5DRGEtaGpweldab0F3a1U4M3gtVW8zQ0NPWUVsUXdfWXkwUmwtYWNUd0lmU01ESHR2ZzQ0WFpwOXZvM1NReFBvaGM2VjhtTdIBtwFBVV95cUxOWnZlMEtzY3RHdkgzYzFxV2lES2pYV2pjckpZNUFJY3NlNEhfZXZyTkRJZE9CV205N0ZiSVZEa2lnQWFXbjl0eWNfUF9zNm5pRWhGbmRjZlNWZU9VNXcwalgwZmVEM1MxQV9fZFNod3dzMU9rQTB6NjVyZHk5VmMyaDYwQnpvdVpBcU1VVllVamUzbmxpNHZWOUh2RFlmcEhiS29lemEtVndLQzFKUzNXQkNsVW1jaHM?oc=5"
+  },
+  {
    "ts": "2026-11-10T04:16:15.948959+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pete Hegseth won two wars : Trump defends War Secretary against impeachment push , slams Massie as  loser</b>\n📰 news.webindia123.com · Mar 10/11 04:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.webindia123.com/news/Articles/World/20261110/4517844.html"
@@ -8834,11 +8837,6 @@
    "ts": "2026-11-09T15:19:41.089739+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran stands by demands to end the war as US ramps up military pressure</b>\n📰 Al Jazeera · Lun 09/11 15:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkgtZG1NRldabldXcTZyQ2ZCMjRVVERlVW1ralBFRUdDSUJSTm43X0lWRzVTUGZ3akZqVkl2c2ttR3VnQVNlc0lhU24yY01DM25jTWdwY3NBMzl1NkhOTlNZSnBKcFk5X212QjJXc1RSemQ4NVUtSGhxc0JvQWpGU0xhdVJxcGxFaFFkbzZGalpabDNsMzhpOU1jdVhHazh3MmhVOTdSRVlWZW5kYXBuddIBtgFBVV95cUxOWjNoNFZsbXJob0phMTUzYWt1Q1FONkdmeGRDZV8xcUJfNXZxQm9PaExVMFY3U2M4QWFJdEV0dHd3OXpSY0Z6WXcySFp0ZldFaWRDTmxXSTJNRFE3LU13c3VBTk02djRxZUM2Z2pvTUFRbmxmTEpXM1VUUTJPenlqLWFRZ09MTTI1ZUlGS3pPS3Flajhua1poeXMtN01ENmdNQ2FsMDJzVWNfSzBXalJmenpDRzZBQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-09T14:46:08.438842+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
