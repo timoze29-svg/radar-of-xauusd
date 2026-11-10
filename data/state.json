@@ -1089,7 +1089,6 @@
   }
  },
  "seen_news": [
-  "d0cc85ff49c4",
   "cd4a8535faad",
   "fdf7dd4c25d8",
   "a71b11968d37",
@@ -4088,7 +4087,8 @@
   "03d35223ad82",
   "dd0a8175f709",
   "79ad21a4d2da",
-  "b648c6c4ad33"
+  "b648c6c4ad33",
+  "f57c5707ce61"
  ],
  "news": [
   {
@@ -8203,7 +8203,8 @@
   "news|edf714413c52": 1794314768.0838542,
   "news|2d68c0d72b2d": 1794314768.9793983,
   "news|41ac262d964d": 1794315704.2439682,
-  "rep|update|2026-11-10": 1794315706.7025132
+  "rep|update|2026-11-10": 1794315706.7025132,
+  "pre15m|2026-11-10T08:30:00-05:00": 1794316613.1915016
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8579,6 +8580,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T13:16:53.191566+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Core CPI m/m</b>  prév. 0.2% | préc. 0.3%\n🇺🇸 <b>CPI m/m</b>  prév. 0.3% | préc. 0.6%\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-10T13:01:45.757165+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4086.50</b>  (-45.3$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+16) → maintenant +16 (Haussier)\n⏳ En zone d'achat (entre S1 et pivot) : attendre une confirmation\n📏 Range fait : 80$ sur ~82$ attendus (97%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core CPI m/m (prév. 0.2%)\n    🔺 Au-dessus de 0.2% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.2% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 CPI m/m (prév. 0.3%)\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Logan Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>21:30</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Iran War Day 256: Trump Says Escalation ‘Unlikely’\n🟢 (+10) Americans Urge New Congress to End Iran War and Repeal Trump Tariffs, Poll Finds\n🟢 (+10) 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News\n🟢 (+10) Where Trump goes now on the big 3: tariffs, Iran war, immigration"
@@ -8872,11 +8878,6 @@
    "ts": "2026-11-10T00:36:19.853764+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes</b>\n📰 The Washington Post · Mar 10/11 00:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5"
-  },
-  {
-   "ts": "2026-11-10T00:16:11.528437+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US CPI preview: 43-day shutdown leaves no official annual rate as monthly pace seen easing</b>\n📰 investingLive · Mar 10/11 00:39\n🧠 haussier or (fed, politique US) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2xucG0zbnRSdzdXZk5YMy1QQ3Zwd21sVFZFaHI2TnFyTkg1ZS15U2NsdHgyX2dPMndUVzBCYkZ1eUhUUHZweXNvVVNpMjJtclNXWnhMTWZ5c2ZEYmE1VWxmTGpxWlZha3JtNlVQLWVZdDhQR0cweEp2OTZ2YjZnRjNOLXhzbFBwOFI1QThsbkVnSnRmMzFTUnZWSm9nUTl6Rk81OFRUTDc2eVBQNFgwTjFTVXRzdnE3ZXVGSzFB?oc=5"
   }
  ],
  "daily_forecast": {
