@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "9315675e9749",
-  "8585cbc55ab0",
-  "9abb12b50886",
   "fddccde600a2",
   "4aee9670b2ac",
   "369afaa703f6",
@@ -4088,7 +4085,10 @@
   "3f3a272e0b81",
   "46d5aaeaa6a7",
   "cf01475e3d26",
-  "be2004fb5a2a"
+  "be2004fb5a2a",
+  "152ebdd9077a",
+  "e0e6369f15b0",
+  "10e2310f35ea"
  ],
  "news": [
   {
@@ -4104,6 +4104,18 @@
    "method": "IA"
   },
   {
+   "title": "Canada's Mark Carney left with a dilemma after Trump's crushing midterms defeat",
+   "source": "The Independent",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUlPRlZ0NUp4TlMyc0NLZ3JDT2Z0cnBDTWJvell3aWlmZVhlcUpVS3dzTVRJamZMMGJXQjZGbHhFR0NHWFc4Tk9uV3QtSkFTelZDaWFDS2h3N1gxQ2pXdUx2YmR1cGxFWHVxLVltbUNFLXp4dG5Td2d2dlNmbU16LTRZd29rMzJGbmF2a3hmSzRCQWN1Sl9mZHhqUXB3Q2JIM0JzUjhhOXNJaGg2NVRJMkNFR3FRTFJxLXFGRg?oc=5",
+   "published": "2026-11-10T21:55:00+00:00",
+   "id": "10e2310f35ea",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
    "title": "More from Fed’s Bowman: Shifts focus to inflation, wants AI and Middle East risks to ease first",
    "source": "investingLive",
    "theme": "Moyen-Orient",
@@ -4114,6 +4126,18 @@
    "cat": "fed",
    "raison": "Discours faucon privilégiant la lutte contre l'inflation, pesant sur l'or via les taux.",
    "method": "IA"
+  },
+  {
+   "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements",
+   "source": "The Hill",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gwRXZpR25fTDZsUDlaYWh6TDh5bWNXd0xuaFh4TDZOaFJycmVkRmhXNnB5RE14YTV6Zm1jclRZX1U2N2xieUN4T0t5d0JjUHhkWHl0Mm54SG9TR2U3N0lqbTdURUZWNjFHMTg3Mm5pWXFrUk5aSWx0NjIwM2FldGM4NElybzE2N0EybFd2Vm9SVDlaTEHSAZsBQVVfeXFMTVJJTTE3V3NVXzNEaHJfYXhVWEJYUWVKVkFSNjhsdll3ZnYwN3dST3haT1pvLWlPUHA5bVFvQjN4VlRSUkdtM0QxdzVjZGJFaEJiSVhQb0JDenFiQ1dJSmQtbEp2SHFSbmkyMy1pWXVfSHp4UkZUOVlVYVhLX0dzUE13ZDhkS2pRQ09aclpMR2lub3UzYWdnQ1FUVVE?oc=5",
+   "published": "2026-11-10T21:41:00+00:00",
+   "id": "e0e6369f15b0",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Media sees its revenue triple after offering faster access to president’s posts for a fee",
@@ -4188,18 +4212,6 @@
    "method": "IA"
   },
   {
-   "title": "What these newly elected U.S. reps. think about tariffs on Canada",
-   "source": "CBC",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwUDZnUVdpVmZVODM2VjhkaU83NWdNV1NERmRsRkR1YzlFYWp0MTVlR2xZZnhST2dOZ1dfRVZyUkdKWXBLVW1OQXYwcVd0aDlEYXlHYjVpNmprUQ?oc=5",
-   "published": "2026-11-10T19:33:37+00:00",
-   "id": "7c68066db7c6",
-   "impact": 0,
-   "cat": "commerce",
-   "raison": "Discussions exploratoires sans impact direct immédiat sur les cours de l'or.",
-   "method": "IA"
-  },
-  {
    "title": "Hegseth lays it on thick for Trump to shave off fallout from Iran war",
    "source": "The Guardian",
    "theme": "Trump / Iran",
@@ -4221,18 +4233,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Poursuite des attaques de pétroliers stimulant la demande d'or comme valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Whitmer asks Treasury Department to pay back tariff-induced food costs",
-   "source": "The Detroit News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGVwazVucGF0Vy1MUXlQT2FNRHVxR25SWGIyMDRnblhGQnhJUXMtblVUWVBwS2d0MlNDOTVvWjBrcmRBU3lIZC1oY3RBdjU3Z3pfTG5BUkp5U2dzMnFRVzlEeV9GRk5kM1FhZ25xbXV1X1FzQnJyMmx1c0xnbXgtMHo1elZqdFdpVlZNazhLMWhuMm9HTE9KZ3V6a3RnMnZuWUVfVDNnYjdHSDhrVmNnYUtsdUZtaTk2T3kwZjZIQjMwVHI0OUI2MW53?oc=5",
-   "published": "2026-11-10T19:02:00+00:00",
-   "id": "5bf4fe5ac46e",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Revendication politique locale sans effet macroéconomique mesurable sur le métal jaune.",
    "method": "IA"
   },
   {
