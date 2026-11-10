@@ -1089,8 +1089,6 @@
   }
  },
  "seen_news": [
-  "b2c3d049761c",
-  "91f854b84771",
   "573751c4297a",
   "c16dd1c40a5f",
   "0102af8e1027",
@@ -4088,9 +4086,23 @@
   "10982cfd9ce3",
   "0f4e183f6212",
   "9f5ded3b10be",
-  "c29c8ca37546"
+  "c29c8ca37546",
+  "68715549a728",
+  "99a9926f83ff"
  ],
  "news": [
+  {
+   "title": "Trump swung between war and diplomacy — then chose a third way",
+   "source": "Axios",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
+   "published": "2026-11-10T23:37:06+00:00",
+   "id": "68715549a728",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "KPMG economist Swonk forecasts hot PCE report, potential Fed rate hike",
    "source": "Crypto Briefing",
@@ -4197,18 +4209,6 @@
    "impact": -2,
    "cat": "fed",
    "raison": "Discours faucon privilégiant la lutte contre l'inflation, pesant sur l'or via les taux.",
-   "method": "IA"
-  },
-  {
-   "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements",
-   "source": "The Hill",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gwRXZpR25fTDZsUDlaYWh6TDh5bWNXd0xuaFh4TDZOaFJycmVkRmhXNnB5RE14YTV6Zm1jclRZX1U2N2xieUN4T0t5d0JjUHhkWHl0Mm54SG9TR2U3N0lqbTdURUZWNjFHMTg3Mm5pWXFrUk5aSWx0NjIwM2FldGM4NElybzE2N0EybFd2Vm9SVDlaTEHSAZsBQVVfeXFMTVJJTTE3V3NVXzNEaHJfYXhVWEJYUWVKVkFSNjhsdll3ZnYwN3dST3haT1pvLWlPUHA5bVFvQjN4VlRSUkdtM0QxdzVjZGJFaEJiSVhQb0JDenFiQ1dJSmQtbEp2SHFSbmkyMy1pWXVfSHp4UkZUOVlVYVhLX0dzUE13ZDhkS2pRQ09aclpMR2lub3UzYWdnQ1FUVVE?oc=5",
-   "published": "2026-11-10T21:41:00+00:00",
-   "id": "e0e6369f15b0",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Pressions politiques locales sur l'administration sans incidence immédiate sur le dollar ou l'or.",
    "method": "IA"
   },
   {
@@ -8231,7 +8231,8 @@
   "news|235de1604d90": 1794351710.9856114,
   "news|7914c3837944": 1794351711.9048443,
   "pre15m|2026-11-10T18:30:00-05:00": 1794352046.9637053,
-  "news|9f5ded3b10be": 1794353661.3488579
+  "news|9f5ded3b10be": 1794353661.3488579,
+  "news|68715549a728": 1794354375.1198492
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8607,6 +8608,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T23:46:15.119938+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump swung between war and diplomacy — then chose a third way</b>\n📰 Axios · Mer 11/11 00:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5"
+  },
+  {
    "ts": "2026-11-10T23:34:21.348943+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>KPMG economist Swonk forecasts hot PCE report, potential Fed rate hike</b>\n📰 Crypto Briefing · Mer 11/11 00:14\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQVngxcUttSWZGaGQ1T2pHS2U1NjFOZkxCdnpMRnpLMklHYUNBQjhEX3F4Q0N2N2xpbFI4ZEEzV2h2RnhBRTR6SExfa3RudWJaTU9PV0JJV29NLVhGT2FhY1BRNms3N2hfVjlWSUJKWkZ1UTJoWE1vYXJHSHJ2UEJaVmJKRHZSMVZ4QlJLbjU5dGF2TFVKd056MGtkSUUtQQ?oc=5"
@@ -8900,11 +8906,6 @@
    "ts": "2026-11-10T13:01:44.244091+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran War Day 256: Trump Says Escalation ‘Unlikely’</b>\n📰 The American Conservative · Mar 10/11 13:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHB4UlV3aExiZTdQYmdkYjYyeTBwcExIVEx1d2hESnhpWkdOMVNlQ2xmNmVyRkh1RlZzTWs3bGlsSFE2aTlQTE9RQl9hcHcxN0h3dDY1ZHpHNXdWbkVfRXJhSWlsV2JIZEVGYTlEMTVfVHNwZDJ1TUVvcmdqVlhTQi1SRlM4LUUxQkltSWpMV3doQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-10T12:46:08.979637+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>CPI Report Today: Fed’s Waller Says 50-Basis-Point Rate Hike ‘Should Be Considered’ If Core Inflation Remains Elevated</b>\n📰 TradingView · Mar 10/11 11:48\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPX0Y1WmxiTGJ4bzJOYXgzckx1UE93aHltU0pUSG81RW1Yd216azJQdEVQbGh4ZUhvUnluZmRrTmt0bXNjVTNtQW9Yc3dRMFppVWQ2aE9reXRfdWgwUnY5aWZodmk5Zm5wVU4xMmNxWVJaY05sc3prTmdmbC1QVGFQT0xGZDJWNTgxVjIzZmExV3hPLWZmYk9YWURfVDh2RVJhOUZsLU9QUktDN2toajNYcmFldERXYS1tcXotM2NvWW1ZU1ppTHdFVE1Vazl1OE9NVGU1YXFFTmttX3NSTzNHamxya245QnFiekU3TmdBWU9Jd2VvQ2VRbmhpYndmZ0lqc2hZelN3TQ?oc=5"
   }
  ],
  "daily_forecast": {
