@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "e54b4a6034cf",
-  "2cc37cdd3a3f",
-  "26f8c73ce9ee",
   "ba7aa96b4778",
   "620b6a3bfdd1",
   "adb68fe859d7",
@@ -4088,9 +4085,24 @@
   "6d4c02aeaef9",
   "76b9716bc01f",
   "c48864d7f95c",
-  "d0ec85701b43"
+  "d0ec85701b43",
+  "398e7199c4f9",
+  "02fb853e2ffa",
+  "6cac57a7a2f2"
  ],
  "news": [
+  {
+   "title": "Trump defends Hegseth against impeachment over Mark Kelly, Iran and boat strikes",
+   "source": "Cronkite News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZGNWSjdJRzV6bURoY25jdDktbGFzZXV3aV9kRU0xV2pRVkw5bGtyVE9qM3RoaUV1SlhtOEd1elpxZTVxYmlkeGZaR3dGTXVVNWVTc1lwOE1DVFE1X1ZFanlkR2pXZ0N2S1FwT3FPSlBaQTVzUE1j?oc=5",
+   "published": "2026-11-10T00:43:54+00:00",
+   "id": "02fb853e2ffa",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says Iran war ’effectively over’ after Qatar talks",
    "source": "The New Arab",
@@ -4690,6 +4702,18 @@
    "cat": "géopolitique",
    "raison": "Escalade des frappes russes ravivant la demande d'or comme valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Nvidia Stock Trades at Widest Gap Versus 200-Day Average Since Trump's Tariffs Rout",
+   "source": "TradingView",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDJvTWVVSEtHZE5QNWxXeG9iUTFIV25XNlFPek0wUkxzTS1FS294bkg1QkxzX2ZSTUVPMGl5bkU4czlJWG5fLUZKTWlOc3dZSnVnajRvQjdLWkZhNW9HWnliVkZiaFRmU25STEhMMGNjVVAxMGJnVTB2QjJhZEdXLTRvVVp2TlZKTHpoUkxoUkQ2SGJ5Mm1nbVpsaU5Gek1KeUc5a2VhOE9ZYXFJYnFZZlM3d1VKaHAwMEptN0ZTTXBaclpTZWtjVVNZTzF4X3hwdFpZV2NDdEY?oc=5",
+   "published": "2026-11-09T18:05:08+00:00",
+   "id": "6cac57a7a2f2",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Even this blue wave probably won’t wash tariffs away",
@@ -6466,34 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Désescalade perçue avec l'Iran, réduisant la prime de valeur refuge sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Oil falls as Trump says new Iran attacks 'unlikely'",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-   "published": "2026-11-08T23:50:00+00:00",
-   "id": "38f3342d74fa",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Désescalade perçue avec l'Iran et repli pétrolier allégeant les anticipations inflationnistes.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil steadies after Trump signals restraint on Iran, Hormuz risks persist",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-   "published": "2026-11-08T23:50:00+00:00",
-   "id": "47305db394fc",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|75d08ca30b1e": 1792458225.2778285,
   "news|2be337dee105": 1792462743.8611097,
   "news|0bce35eac3e8": 1792467088.4185307,
   "news|d286a6af4bae": 1792469765.6076505,
@@ -8172,7 +8171,8 @@
   "news|b9762e45eab1": 1794268896.9103663,
   "news|c4ef7ede2b38": 1794269771.528343,
   "news|4ea7cb64176d": 1794270979.853687,
-  "news|d82da8df77ff": 1794271686.1837368
+  "news|d82da8df77ff": 1794271686.1837368,
+  "news|02fb853e2ffa": 1794273367.1119435
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8532,6 +8532,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T01:16:07.112018+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Hegseth against impeachment over Mark Kelly, Iran and boat strikes</b>\n📰 Cronkite News · Mar 10/11 01:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZGNWSjdJRzV6bURoY25jdDktbGFzZXV3aV9kRU0xV2pRVkw5bGtyVE9qM3RoaUV1SlhtOEd1elpxZTVxYmlkeGZaR3dGTXVVNWVTc1lwOE1DVFE1X1ZFanlkR2pXZ0N2S1FwT3FPSlBaQTVzUE1j?oc=5"
+  },
+  {
    "ts": "2026-11-10T00:48:06.183849+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump says Iran war could end soon, defends Pete Hegseth, Nvidia CEO</b>\n📰 The Jerusalem Post · Mar 10/11 00:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE82MXVqU1JPX3RQaHdweWxrSTJkeVpUNDBEc0JlNUVLODlUXzZsUVNqSTNyUzFEMU1YUDYzNGdhcWpuNWVsQnBySVdDM2tENzlTVVZzWjhFNEptR0RHS2xn?oc=5"
@@ -8825,11 +8830,6 @@
    "ts": "2026-11-09T13:01:43.055874+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Slides More Than 3% as Trump Downplays Prospect of New Iran Strikes</b>\n📰 WSJ · Lun 09/11 13:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5"
-  },
-  {
-   "ts": "2026-11-09T13:01:41.900188+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's Missile Blitz Near Israel's Military HQ? Tehran Drops Explosive Tel Aviv Strike Video | Watch</b>\n📰 The Times of India · Lun 09/11 13:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNdmp6NmNPMGhTbUVnMEQxQXI2U1QybmdCS3hQVlFFTG9KdVNqcG1lNVF3MzBvQTVJSUkxdkhWZ3VDQ0NiTGxzRHg5WnU4aEZ0TzVQZHoyblBkbl92Z2FTYUVvdmVpWjB4eU9YMk01ektCREhTRURUSzJKZnV5TThIek1OVGZZWGRQZjQ2M2w4S3NrYl80ZGdOd09wd3I4NjhHR1hWLUpKUEp6MHZSakMzX0FGc1FYemlLQ21IOXBORDB2ZjdhNlhLMjV2bGJSODc4TnZ3b2dCajNYOGhBMERGWU1adVowbUNRZlFsanFkS3pZSHU1Q1o1WS1zVWJkaFAyMGVrZUVGa9IBjAJBVV95cUxQLTBaTnJYejJFMDJOeFVaenZGTmU2REVVY2wyWUVXb1RmSmY0V2tobm5LVEdWRURJaWR6THYzeHZ2VFQyRkpFeHhwZGI3akNsNlRudm5YQkNxRmRjOVBVWFFDZ3RsUS1FT09UcHMtcGg4YTdmdmhtRnVyUE5HNkpFY1I2ZWFzVFNaOTJCSk1VX0lKc1I4dnJhaW9hUXNNMW5oa0k2OWUxVTdqRlYwX0ljSXBvbWtfdVRJYlhMV1JPNWhPN1VDTmFCOTZoM3R5VHQtWk1WUVhwaGMtT0JCczQ1TnlmVFppYjV6Y1BJM2tlU2hBWWkxWVNzbWI5eTQ1aVh2NjFYaUl6S0pLRzZs?oc=5"
   }
  ],
  "daily_forecast": {
