@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794296747.7406137,
+   "ts": 1794300348.0045536,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "c65b71e3a886",
-  "be5c4613002e",
-  "0c933d9f7f46",
   "fadbe0042024",
   "23bd6094fc97",
   "d417cac332ee",
@@ -4088,7 +4085,10 @@
   "7f42b8bc2e8b",
   "c10fd79e2a7e",
   "cc46cdc25ba6",
-  "ddb63f790e97"
+  "ddb63f790e97",
+  "f7ba51329957",
+  "09bdd298c1f7",
+  "ca384907e5f7"
  ],
  "news": [
   {
@@ -6493,7 +6493,6 @@
   }
  ],
  "fired": {
-  "news|e4ad7d73441f": 1792485981.7093935,
   "news|24d8d02a5785": 1792492303.7732046,
   "news|614935c34c0c": 1792495887.6116498,
   "news|7875fc40c5c1": 1792496766.6320336,
@@ -8186,7 +8185,8 @@
   "pre1h|2026-11-10T04:00:00-05:00": 1794296772.5982788,
   "news|26fc34363729": 1794298991.2770803,
   "news|7f42b8bc2e8b": 1794299517.1718686,
-  "big|EURUSD|2026-11-10": 1794299518.3746817
+  "big|EURUSD|2026-11-10": 1794299518.3746817,
+  "pre15m|2026-11-10T04:00:00-05:00": 1794300432.4637249
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8562,6 +8562,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T08:47:12.463777+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Waller Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-10T08:31:58.374742+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — EUR/USD\n+0.01013 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
@@ -8855,11 +8860,6 @@
    "ts": "2026-11-09T18:31:32.683761+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.</b>\n📰 MarketWatch · Lun 09/11 19:16\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUItcWJEaWRyZlZ5anZHQUJVWVozUWhQOUswVng4ZTVHTmhBT2pibTF1Q2p0TnJXc2xBWEd2SUQ2VURTVmF4RmgwR0ZFeW01eks3YnhyVkNpY3FIVnBFd0dKNmtWSTkwNzRuTHFINEVUeUpmV09MZ29HMWZmWWh5bmw4djY0bmNEOVdtRlVRYlUyRHcyZlg5aEdhQWg1Wi0tRm5uWW1NUHNZRUxTRHJwR0p5NGhPT0E3Vnp6anhPY3NTU0FGNDhRdmhqVQ?oc=5"
-  },
-  {
-   "ts": "2026-11-09T18:01:44.352648+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Boosting healthcare and ending the Iran war are top of the to-do list for House Democrats once they have majority</b>\n📰 PBS · Lun 09/11 18:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWlBzWDRFNnNYdWlRVGotaFp0U1U2SjRmX1NuLVE4SHAycjBBM0pGRVRRQU5vUlFTZldCa1ZSYnI1UUFEU3p5LUdJcHZ1SU8tOG1EUm15eTlCZUxhUXNDQXB6cDNuQXJBRDY1ZmlRVzZrdWhlaUNINzR0dmVZWTc1T0d4Y3NNaTE0SkxoeTNodFczYzJueTdpb2NTbDlTbHhjS09kcjRzUl9KMy1CVWFrMk03Z2xHakhLS1ZQTnhwTmdGTjdVRXVNcFE3enB4R1RCbE1EbnhhalJHTmdjSDhVQUNaSlZjQdIB6wFBVV95cUxNQlRSVWg0U2ZvOGlENGRZeDd5dzhiMFlxbEdkQURaMWJnMWJIejl5Mlh4VmRTWUVSOUI0bjNVLTFTdmtweTAzaWVKMGNfVlg4dC1vdlVMR1BUaGduZ1c4OEVORHdkb1hlNTJrb0xVa1F5UTJQSVU4X0w3WGJtbnBweFNIdkVyU01UY1BmbUpMOVd0WGdHWnQ4b1J2dzNobklmNnA5UU9XcngzMkhraWJzNUdGZHNZMDZ5RjRPVjlNZERoNmdDSVFSUWpJdXVfQTRtazJCUE90bTBvWV9idmpHazJwakRKUk00NV9B?oc=5"
   }
  ],
  "daily_forecast": {
