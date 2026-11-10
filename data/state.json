@@ -1089,12 +1089,6 @@
   }
  },
  "seen_news": [
-  "56cda0ce4927",
-  "f09dd3987cd9",
-  "72a98967ed5a",
-  "1a9d75c88b4c",
-  "40b5dbe75524",
-  "d6debc97c812",
   "7d39a89fa2d2",
   "3af353bcea77",
   "b331c3d222c1",
@@ -4088,9 +4082,39 @@
   "fd87c527d700",
   "8d9d50ad3a99",
   "d07e69a87859",
-  "5913671ff5e8"
+  "5913671ff5e8",
+  "c27b3650f4bd",
+  "ffde3791f3e8",
+  "96ba393570eb",
+  "5bbaf80dbd22",
+  "d630b648712a",
+  "61f99b7ecd0f"
  ],
  "news": [
+  {
+   "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+   "source": "WPTZ",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnRDRG84Z2swblJqUWsxTTJoYVdZcjVNdHJENGlQUWgtVW03eHFRcGhFZnBzZFZTenQ3N2psQy1pOU9VeEswMVpwN09xSS1HT3ZTNk44VmVHd2hQLURnejNIenRPN3YxNngwZTY3aWF1dVFDZ0g0ZFVaMjBPRDk3VmhhUzc?oc=5",
+   "published": "2026-11-10T09:52:00+00:00",
+   "id": "61f99b7ecd0f",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "After midterm losses, Trump sends mixed messaging about next steps in war with Iran",
+   "source": "NPR",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3BRSlZCbXJ6RmsxMFBzd2NjVDZ2b0xsbGFmUmFBV1A1Ym1fZFYwQTJzb0hsWlU3QTBRVzZfYnVCanBMRnB1bGd1TFRDdTFIZDRNeGZuTXl3R1dkODVJOXRoT1B6YVZzRnhMVk9tZWFfUjY1YmdoYkU5ek5ESXZTY0xvTnpWcE4xQmswQWR2M2JNVTVMUmZ2Wk52MUlkY0xlWUFhM3RCWVR3bnQ5c0JBdk9DdGV4ZzVEUVlhM3VBb0RMWV81RWc?oc=5",
+   "published": "2026-11-10T09:37:35+00:00",
+   "id": "c27b3650f4bd",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Egyptian president, British premier discuss containing Iran escalation, Gaza ceasefire",
    "source": "Anadolu Ajansı",
@@ -4137,6 +4161,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration",
+   "source": "CBC",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5",
+   "published": "2026-11-10T09:00:00+00:00",
+   "id": "96ba393570eb",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6454,42 +6490,6 @@
    "cat": "dollar",
    "raison": "baissier or (dollar)",
    "method": "mots-clés"
-  },
-  {
-   "title": "China extends suspension of 24 % tariff on US imports for two months",
-   "source": "business-standard.com",
-   "theme": "Géopolitique",
-   "link": "https://www.business-standard.com/world-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-126110900120_1.html",
-   "published": "2026-11-09T06:30:00+00:00",
-   "id": "009c7f965f63",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russian losses in Ukraine war rise by 2,980 over past day",
-   "source": "Ukrinform",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWJRWkFlbi1rdHM1cUlndml0eUQwV2dhSkFXRGRkZWFsSnJtQWt2U1B0WFphZzR2QkQ4c3NnNGxwdnAzVkNoaDNLQkFsbHhLRHQ4WnhjWlhRQzVYR1pmcTFsdVRYVHhIXzdZWEpZMV9ZeTNVVUNMdFZ2YzIybC1fZE00Z3lzSWJXRm1GNTVIaW0xa3FJLWRDSG0yTXlLb3BnZWNEa0tPWld5UdIBrwFBVV95cUxOdzUta2toeDVfblFVVG1sc2ZFWDI1cmNEWnFxOHBnRm8xVU55aDQyaE10QzdWUWJUWUt5Z2tIYVM4TUxESFFMZGhNNjQ4X05NMXh1U21VOHpSOEluSnE5ZEpLVjlhZEVzcU9zM3lUVXJDVkdVbVRMdXN0WWh2a21ITEFBdGdRM1dLT1JWQUhKSUZOVVM2WGluSFhvZ210Q25wMDF4a1RaRjZnSml3VFBJ?oc=5",
-   "published": "2026-11-09T06:15:00+00:00",
-   "id": "5aad9bb3f7ab",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "EXPLAINED | Democrats Won Congress. Can They Undo Trump’s Tariffs?",
-   "source": "Open Magazine",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGZYSl90RlVnQkVDb0lrNG1kOU5UdnVibHBwYURzbDlVWGpOZzJHbWFTdEREMk0wX05xUjdET21STkM3WGlxVjQwZmJuT3U0WGxJOHExbVNVRGFqYkduWWZNYVpqLTZ5ZkI1RFBUS0lwZWpmbVVUY2ZQa25QcnRtTzJOdUs2VE96bkdkcnhIX2xzQnF5dF9STkJCNA?oc=5",
-   "published": "2026-11-09T06:04:21+00:00",
-   "id": "59fbfcc48766",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8190,7 +8190,9 @@
   "news|2b0ae28cb7f8": 1794303089.9205282,
   "news|1ff7bf3a2b18": 1794303090.9512064,
   "news|96417167c512": 1794303091.9731233,
-  "post|2026-11-10T04:00:00-05:00": 1794303093.2428157
+  "post|2026-11-10T04:00:00-05:00": 1794303093.2428157,
+  "news|c27b3650f4bd": 1794304895.3235805,
+  "news|96ba393570eb": 1794304896.2608736
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8566,6 +8568,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T10:01:36.261513+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Where Trump goes now on the big 3: tariffs, Iran war, immigration</b>\n📰 CBC · Mar 10/11 10:00\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5"
+  },
+  {
+   "ts": "2026-11-10T10:01:35.323651+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>After midterm losses, Trump sends mixed messaging about next steps in war with Iran</b>\n📰 NPR · Mar 10/11 10:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3BRSlZCbXJ6RmsxMFBzd2NjVDZ2b0xsbGFmUmFBV1A1Ym1fZFYwQTJzb0hsWlU3QTBRVzZfYnVCanBMRnB1bGd1TFRDdTFIZDRNeGZuTXl3R1dkODVJOXRoT1B6YVZzRnhMVk9tZWFfUjY1YmdoYkU5ek5ESXZTY0xvTnpWcE4xQmswQWR2M2JNVTVMUmZ2Wk52MUlkY0xlWUFhM3RCWVR3bnQ5c0JBdk9DdGV4ZzVEUVlhM3VBb0RMWV81RWc?oc=5"
+  },
+  {
    "ts": "2026-11-10T09:31:33.243797+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Waller Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.16%\nTaux 10 ans +0.0 pb\nOr -16.7$ (extrême -26.2$, range 25.9$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n✅ Le mouvement TIENT (garde l'essentiel de son extension)"
@@ -8854,16 +8866,6 @@
    "ts": "2026-11-09T20:01:46.520126+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +17)\nMoteurs principaux : Taux réels 10 ans (20j) (+14), Sentiment news 24h (+12), Momentum or (vs MM50) (-8)"
-  },
-  {
-   "ts": "2026-11-09T20:01:45.034625+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Rate Hike Odds Near 80% Raise the Stakes for U.S. CPI Data</b>\n📰 StoneX · Lun 09/11 20:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkZ6V0NGR3BFT2RCaDBmZk1zTElHNkxGYmxIbW94MnFvUlVPNmQxZ3ZwaE81QmozWjc0czlBclNoR1dOOUxBSEtDNjB2VUctU0t0WEh1bF9uemVzam0zek1JVi1PRHdnaDd3RnJvR1loMGhzei1MM0xlYzVYRDZZaVFVUHBCS0t6ZXk4YXpZUFZXSXdHTlViMzNjeEY1SGYy?oc=5"
-  },
-  {
-   "ts": "2026-11-09T19:16:14.884244+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Climbs as Central Banks Absorb the Blow From a Hawkish Fed</b>\n📰 ad-hoc-news.de · Lun 09/11 20:02\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmlodk1wZE5vLVQ5aEZsOXRmWjdjSUhuYlhhTGZ0V3FUSkNSY3RLaUFtSXZmWXc3dGJLeGVaYldNcDRBcGd0LURqRzRVQVpVRWFvWUV3WnZ4NlJKNkZQUE9lMlJSM2FabTJGVnc1UXZnVVFJTEkxSHhXcTQ4MFB5cGhTU0x6N3VMOU5QeGJYeWFWWnVBSGF6LTNZUHRQcTlxYXcydXQ0Slc3V1g2UlpCYzNKVXhrZDg2TTFwUi1Ca093emx5YVZnOEV4TGd1b3cy?oc=5"
   }
  ],
  "daily_forecast": {
