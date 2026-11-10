@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794303970.032104,
+   "ts": 1794308474.6218047,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,12 +1089,6 @@
   }
  },
  "seen_news": [
-  "d7f00bde5c27",
-  "22ef305487b8",
-  "811610beb5f8",
-  "c33eba86fe81",
-  "ae9020f3bf7c",
-  "d4e084c5f558",
   "69d1bc48c953",
   "054b71ca37ba",
   "606722a58195",
@@ -4088,9 +4082,27 @@
   "d849dfdc5287",
   "708ae914ff08",
   "c157e7b6613c",
-  "cb6cd0bd1775"
+  "cb6cd0bd1775",
+  "5a97fdc94d4c",
+  "76b4c106a061",
+  "d31d3b0f1757",
+  "512de0d3831c",
+  "55bbed05ceed",
+  "7861e5a89b04"
  ],
  "news": [
+  {
+   "title": "Hegseth Impeachment Push, Trump Holds Off Iran Strikes, Congress Summons Nvidia's CEO",
+   "source": "NPR",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmY2cXJNRjZJSUZxSTBjTWlhYnp0WjBfYmd3RTlITWNmTmpVU0FhMHZpTEoyNlNXRGxfUzZsTDY4aTJlVDJlTGhyWGtNVHlwY3ZyZVN5bkpaR3Rabnc4aFVXcUdTZUFsNmdSSmtkcS1scWZCcEYtZVVRX3pHQVJaTEtfVzc4QzRSQTNtM2JUeV9BbnpmYmVaamxIWU4wbGtYaFdPX1dIeXF1UjIzOWEzcGEteGYtXzhPQ25ibW5zNl9rMHczMUE?oc=5",
+   "published": "2026-11-10T10:47:13+00:00",
+   "id": "76b4c106a061",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household",
    "source": "24/7 Wall St.",
@@ -4101,6 +4113,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Treasury Yields Turn Higher on Fed’s Waller Comments; Eurozone Bond Yields Fall",
+   "source": "WSJ",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
+   "published": "2026-11-10T10:30:00+00:00",
+   "id": "512de0d3831c",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -4233,6 +4257,30 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "The death toll Putin tried to hide: Nearly 400,000 Russians killed in Ukraine war",
+   "source": "Le Monde.fr",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjg5SVl0M01US3RVYlJDNDFKRENxWFBCN0FzUEFmdmxSTWoxcUxpdGJEbWtVVWlwR1JGZkpkWW5oNkNqOXB4WEV4Szh2a2R1VE1Kb0NOWW0zUHpKTXVVU3hKMFdodXBybnJRUkV2TlZsM3dmaWF6Q3FheU4wcVNvck1FS3daMHpERElMTTRCeGdMWG80ZDZUT0tsVGdDc3AyM081SGhNTXE5cVg4LTZNYXhpY2x6VTVJLTVodU41U1FDcUpUVS1NS2VQdDFqTUhUSXJBMTBha2p0RVE2eTJkRk8tanREeG9DU2tzaHhmbHJjYmk0?oc=5",
+   "published": "2026-11-10T09:20:38+00:00",
+   "id": "55bbed05ceed",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Fed’s Waller: US labor market solid, reducing 2026 rate hike urgency",
+   "source": "Crypto Briefing",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmhSM3FJcS1YNUUzT2ZaYjNkUTdfNWQwa0doRl9PVjZGMlZfRjdZSmotWUlxNERsTXlnZW11dTJoWGFfVVh3aDBvR1pOclNDSlNoM0pXQ19QR205ZDdxY1R1VEpGNTNmdExDRjlrb3h4OTRMRDFIN2dfd0VyeDFOaFExX2pvUFRJVWtfNF9CZVQxZV8wSUpnYw?oc=5",
+   "published": "2026-11-10T09:10:12+00:00",
+   "id": "d31d3b0f1757",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -4734,6 +4782,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
    "published": "2026-11-10T01:43:00+00:00",
    "id": "12c179f50756",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
+   "published": "2026-11-10T01:43:00+00:00",
+   "id": "5a97fdc94d4c",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6429,66 +6489,6 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks",
-   "source": "Condé Nast Traveller Middle East",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFNVVXl2cDBhMTVpZWRfWWJrSFFhYnRBZXlXT2Q0OWpWQVdHOUpRUnZPZDlWZ2xrOVVZWF9ieUFtaU1ieG9PZlBHQmJ5ZF9JNzl2OVZsSDlDNUxSZEllLUlVNzBEN2daNnBNWVpnZ3ltM0FGazdtMzFNX0pwVk13YW9BOU91UTNacDQwa2hJMkY4dU5xVUFOY1pwZi1Mem1RTm5GTHdQdkQ1LTNBYmZ3VldaVktSVk1CbnRBekNRVUZtTnFWWUFiSFh3SVRoTHdoRmNYUFB2OTYxbC1J?oc=5",
-   "published": "2026-11-09T07:58:47+00:00",
-   "id": "72b5e754857c",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia, Ukraine trade accusations about overnight strikes that injure 7",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVdkd0kwUTZ2SlhOMzRjX1V3d05STmNsQ2RhRE1MM2tTUDRVQTJNNFhqWU10YlhBclZ6SEp6NEdlZXc1R1pDQW1Pei1jTVZSSXBtRWtpSnhUdW1UanM0cGJZemhLdWhBeDdabEdMWWwxUjQ5WXFlXzdDRklLcVkzMVhQR3JEbXFSc2FldVpodFAxTWFnZExLaHdkOEdQU0lZVnFncWYxamV4WmZSMnBrdlRJMTNKWWFhNjZfV3FrRQ?oc=5",
-   "published": "2026-11-09T07:54:07+00:00",
-   "id": "04d153133325",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil Prices Fall, Staying below $100, as Trump Plays Down New Iran Strikes",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS29XR2VmWjE0VXk0djYtZVB1ZHpfSXBjYS02b1psblVVYjBUWjMtejVmMzhmREwtNHZrdGFHQzNub0o1STNxRV9DclpWOG8tdTNGNzVJYnJKdWxiM1ZjOC1GLXQ0OGxvTXE3SWp2eGV3WEJ2ZS1VbnUxZk9aMHYtcEtVbi1MUTd1RnRLdjhudUcxbW9GOVh1akQyazdXSV83QURqM3g4VEtTc0VtNGd2a25pczBoT2FJ?oc=5",
-   "published": "2026-11-09T07:27:00+00:00",
-   "id": "797488386abc",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil Prices Fall, Staying Below $100, After Trump Downplays Prospect of New Iran Strikes",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS29XR2VmWjE0VXk0djYtZVB1ZHpfSXBjYS02b1psblVVYjBUWjMtejVmMzhmREwtNHZrdGFHQzNub0o1STNxRV9DclpWOG8tdTNGNzVJYnJKdWxiM1ZjOC1GLXQ0OGxvTXE3SWp2eGV3WEJ2ZS1VbnUxZk9aMHYtcEtVbi1MUTd1RnRLdjhudUcxbW9GOVh1akQyazdXSV83QURqM3g4VEtTc0VtNGd2a25pczBoT2FJ?oc=5",
-   "published": "2026-11-09T07:27:00+00:00",
-   "id": "a3d6ff07f0fb",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-   "source": "Al Jazeera",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFZTaUdlS08tWmFfLUFBSjl2YWpsbTR0VnpJbVM0STRmVUtWc091VkpIXzdkamFnNW1PemNROXRrRExYZFZwOVhWeEhMcW5BbHAzcmctRUxHNE5uMFpMTUJxdDdLeHk0RGpJdWRFb0JYZnF4dURxdlV5bnp1YjFiSEUtX2RkYy13azUtdmtYSHo5cGNjbmhyS19NdUFMMHda0gGmAUFVX3lxTE9TNzdqWEVZaTRnSV8zLW01S1RrMWtPZEdlbVQyZG9fTngtUl82QU9oaUdLMmpxTDNqUzZoalh0SE5EUUwyNktoVHk0dFVVV2prSUxsV3VZSU5BRjFtaWEtQ19wYm9aR3NEZDc4X1J1ZkwzMUV2Vk52eHpyc3JELXJsdW9Xa3g2UVJjakRjX0YxQ21rREQzZk9EcXJXTFE2dkNsWFRmZkE?oc=5",
-   "published": "2026-11-09T07:10:23+00:00",
-   "id": "076c82ce1286",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   }
  ],
@@ -8196,7 +8196,10 @@
   "news|4abcef1c2898": 1794306685.2714267,
   "news|abc224acad9d": 1794306687.8622184,
   "news|5d8087dbe754": 1794307571.1171095,
-  "news|04cbd2fdfada": 1794307572.153623
+  "news|04cbd2fdfada": 1794307572.153623,
+  "news|55bbed05ceed": 1794308514.7925725,
+  "news|d31d3b0f1757": 1794308515.6549776,
+  "news|5a97fdc94d4c": 1794308516.468633
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8572,6 +8575,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T11:01:56.468757+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls below $90 as Trump downplays prospect of escalation with Iran</b>\n📰 Reuters · Mar 10/11 02:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
+  },
+  {
+   "ts": "2026-11-10T11:01:55.655279+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed’s Waller: US labor market solid, reducing 2026 rate hike urgency</b>\n📰 Crypto Briefing · Mar 10/11 10:10\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmhSM3FJcS1YNUUzT2ZaYjNkUTdfNWQwa0doRl9PVjZGMlZfRjdZSmotWUlxNERsTXlnZW11dTJoWGFfVVh3aDBvR1pOclNDSlNoM0pXQ19QR205ZDdxY1R1VEpGNTNmdExDRjlrb3h4OTRMRDFIN2dfd0VyeDFOaFExX2pvUFRJVWtfNF9CZVQxZV8wSUpnYw?oc=5"
+  },
+  {
+   "ts": "2026-11-10T11:01:54.792709+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The death toll Putin tried to hide: Nearly 400,000 Russians killed in Ukraine war</b>\n📰 Le Monde.fr · Mar 10/11 10:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjg5SVl0M01US3RVYlJDNDFKRENxWFBCN0FzUEFmdmxSTWoxcUxpdGJEbWtVVWlwR1JGZkpkWW5oNkNqOXB4WEV4Szh2a2R1VE1Kb0NOWW0zUHpKTXVVU3hKMFdodXBybnJRUkV2TlZsM3dmaWF6Q3FheU4wcVNvck1FS3daMHpERElMTTRCeGdMWG80ZDZUT0tsVGdDc3AyM081SGhNTXE5cVg4LTZNYXhpY2x6VTVJLTVodU41U1FDcUpUVS1NS2VQdDFqTUhUSXJBMTBha2p0RVE2eTJkRk8tanREeG9DU2tzaHhmbHJjYmk0?oc=5"
+  },
+  {
    "ts": "2026-11-10T10:46:12.153915+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Israel-Iran War Latest Live Updates: ‘Calls Him Every Day’, Netanyahu Reportedly Urges Trump To Restart Iran War As Gulf Nations Warn Against Wider Middle East Escalation</b>\n📰 The Sunday Guardian · Mar 10/11 09:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugJBVV95cUxPbGJCVWo3cWlabW5nV2RjOWZlbVFZLUVVVUVWd3h0UGRvUVFJcERBaGszMU1JdDFjeHpyNGJfOXprOFJJcFFGWHlocEcxd29SLUpZZGM5SVBJWS1wZnhldDdZQzdJZWJYVlFXNVVxZWRXYmtjNjZCeEtfSHRuY2N5eUxTTkg4YWRKZHlzc01qRUo3MEUxLVlXaEtKckcxeGFOU1ZQS2xkMmowc1NzMHF4OE9TRjljOFBhRVZ0bm93VXdnUmhabkpQbkdJR01qSDFXckxicGZKVU54OXVUQzNxUjgxQVhBc2toM2EwYlZfZFhQSTNkSVh6aDRFX0Z3VlgzUm1RSkI3WksyM21teVN4MUhIWVhlTVlhUXFwVVdWdXZXU3ZyYXVNaGhLWlNQbWZkVXlmN2pOeWRvQdIBvwJBVV95cUxNVTFnOXphMGhDQkk4QnRwWENueFpUMUUwTE9qOGVyOUxfT2QxbTdHTnB4SFljQ3MzU01kd1NTMERkc1Vtdk5DbVNzSWxRQ2pHOHZGVGNOQVVyQ2NWcC1CRl96Y0dYOFNMVXpmbEIwM242bVMyc0ppcTNpU19nUmUtVjZGVVl5U1ZkUEVLWTVwaHV3TW1sQ3U1YTVRNnRaOGViOVZicjdBVWRFMzJlel9JU2hURjJyTG93OVdxT2swSjlOTzhHWXNWcWNzOEVPUU5fZzlmRGxuS2NDTXZyMGI1SERxR1pyWDZnNkFvQ3hydTBFTEF4TTJDRk12NkVGTWRRYTk3NzlDRDNhTUJZaUlkUDJuZWhsa2NfbWVFbnBzTUJtNVEyV3g3eWFsaURDVzNEQlo0bHpNVFVuU0RnVW5F?oc=5"
@@ -8855,21 +8873,6 @@
    "ts": "2026-11-09T21:32:52.193984+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Arab and Muslim leaders in push to stop Trump from reigniting Iran war</b>\n📰 Financial Times · Lun 09/11 21:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxONWtPWmlRWllyd3RZZ1VmUkt3QWtSVjUyQzFaaWNabTM5a3JMZS15QUFlZEZaNVdPTFlNeGhDVk1zS1RGdlV1cVQ0eHNHYmltWjQteGhmVlpISmNOSlJYa0JLWU9MTkc2RE1weGtoZFNZdHRuaVJhNnRqcGl0bndYS05DVWw?oc=5"
-  },
-  {
-   "ts": "2026-11-09T21:16:11.171179+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine</b>\n📰 AP News · Lun 09/11 21:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5"
-  },
-  {
-   "ts": "2026-11-09T21:16:10.273688+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Washington Policy Weekly: Trump Acknowledges Iran War’s Role in Republican Midterm Losses</b>\n📰 Arab Center Washington DC · Lun 09/11 22:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjJyT0VYYnVucEhNMTRqay1pSjhBNEpJLXo3ZFBVZy16UXFjWmVhZGp0Wms0VlZYRnpCay1rdkNZRGJmMFlRcWpNa0NYeTZYaHBtQzh3VkVYN2szYUg3eEVnSXFualdVenlhZE1yTWFvaGtVRlZ6MkxLZ0JDbHlMdC1RbFNDY0ZEUmc4YWhwN1FYQW00d091MVEtY2J3VDFfS2dEQVlDRndMQUxpdWtGNEl2aVlCNjhUSng3QXd4MA?oc=5"
-  },
-  {
-   "ts": "2026-11-09T21:02:52.118098+00:00",
-   "kind": "recap",
-   "text": "🌙 <b>BILAN DU JOUR — LUNDI 09/11</b>\nOr : <b>+70.9$</b> depuis minuit · plus haut 4157.7 (21h25) / plus bas 4062.5 (00h55) · range 95$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+6) à 4131.6 → maintenant 4150.0 (+18.4$)\nRange : 95$ réalisé vs ~89$ attendu (107%)\nNiveaux touchés : P, R1, R2, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 60% de bonnes directions (12 ✅ / 8 ❌ / 1 ➖ sur 21 jours)\n20 derniers jours : 58%  ·  ❌❌✅❌❌➖✅❌✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.58% · Taux 10 ans +0.5 pb · Pétrole -4.18% · EUR/USD +0.73% · S&P 500 +2.44% · Argent +2.78%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever\n🟢 (+10) US strike on bulker marks new escalation as Hormuz ship casualties mount\n🟢 (+8) Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed\n🟢 (+8) British Pound reclaims 1.3400 as Iran war fears ease ahead of US CPI\n\n📅 <b>Demain (mardi)</b>\n🔥 <b>10:00</b> 🇺🇸 FOMC Member Waller Speaks\n🔥 <b>14:30</b> 🇺🇸 Core CPI m/m (prév. 0.2%)\n🔥 <b>14:30</b> 🇺🇸 CPI m/m (prév. 0.3%)\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Logan Speaks\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks\n🔥 <b>21:30</b> 🇺🇸 FOMC Member Bowman Speaks"
   }
  ],
  "daily_forecast": {
