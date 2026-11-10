@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "4b2d51767a69",
-  "48dbb11518b4",
-  "8ea5c9c97e02",
   "9f4479c091aa",
   "2a49cba3496d",
   "f66da31dbcc6",
@@ -4088,7 +4085,10 @@
   "d90370ccf010",
   "d9bd5c984907",
   "7481f6b74221",
-  "6957d443f51f"
+  "6957d443f51f",
+  "50871be290b8",
+  "c11299a8a37d",
+  "b6c910f606a5"
  ],
  "news": [
   {
@@ -4147,6 +4147,18 @@
    "published": "2026-11-10T02:30:00+00:00",
    "id": "13467ff1b482",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil falls as Trump downplays prospect of escalation with Iran By Reuters",
+   "source": "Investing.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkQ4SDNnOHFNMldZdks1NUx1VHVPdHgzUllRRmFHMl9MNDE0NDYwaTZDdlRtNDRkYVZjcGRIUDR1clZBY3ZYR2JKVEliNXBEUmdQX3A0eURrR0YwSlNLeFdCQWRrRXhJVUFjRXFELUItejhYSGlKY2h6VHhVLU5xRWJsZzNzTDZ1aElyRkVVMHB5OTV4Z2ppa3lCSW9QVkdVeUt6b1JqSHp1ZE1OQVluSWtuS2k2bUJQ?oc=5",
+   "published": "2026-11-10T02:01:07+00:00",
+   "id": "50871be290b8",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Frappe directe sur Riyad et Aramco ravivant fortement la prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "US - Iran war news : Donald Trump says renewed Iran attacks  unlikely  if nuclear program , Strait of Hormuz talks show progress",
-   "source": "abc13.com",
-   "theme": "Géopolitique",
-   "link": "https://abc13.com/post/us-iran-war-news-donald-trump-says-renewed-attacks-nuclear-program-strait-hormuz-talks-show-progress/20024909/",
-   "published": "2026-11-09T01:00:00+00:00",
-   "id": "af03ca413dad",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Signaux d'apaisement et progrès diplomatiques diminuant la prime de risque géopolitique immédiate.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8178,7 +8178,8 @@
   "news|8154a67e7fea": 1794278764.7662277,
   "news|f1f052438220": 1794279885.6693344,
   "news|6dce4dc13e6f": 1794279886.5377576,
-  "news|13467ff1b482": 1794279887.3910422
+  "news|13467ff1b482": 1794279887.3910422,
+  "news|50871be290b8": 1794281484.2533798
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8538,6 +8539,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T03:31:24.253454+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as Trump downplays prospect of escalation with Iran By Reuters</b>\n📰 Investing.com · Mar 10/11 03:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkQ4SDNnOHFNMldZdks1NUx1VHVPdHgzUllRRmFHMl9MNDE0NDYwaTZDdlRtNDRkYVZjcGRIUDR1clZBY3ZYR2JKVEliNXBEUmdQX3A0eURrR0YwSlNLeFdCQWRrRXhJVUFjRXFELUItejhYSGlKY2h6VHhVLU5xRWJsZzNzTDZ1aElyRkVVMHB5OTV4Z2ppa3lCSW9QVkdVeUt6b1JqSHp1ZE1OQVluSWtuS2k2bUJQ?oc=5"
+  },
+  {
    "ts": "2026-11-10T03:04:47.391357+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>WW3 fears as radiation drugs handed to civilians near nuclear strike targets | World | News</b>\n📰 express.co.uk · Mar 10/11 03:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.express.co.uk/news/world/2264801/radiation-drugs-nuclear-target-iran"
@@ -8831,11 +8837,6 @@
    "ts": "2026-11-09T14:16:12.102746+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans -0.4 pb\nOr -2.6$ (extrême -7.2$, range 10.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-09T14:01:40.594418+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Shares Wild Dana White UFC Cartoon of Fighters Attacking Reporters</b>\n📰 Yahoo · Lun 09/11 11:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1I4YUt6cUc1NW1RYmhCMHZFb3h3YXlEaWlPZlFraFZWazNqWnhfVUhLSVdOQVJBd2p3eFpQREV5YWs2dFZCMFpFeGVjVzJ3RC1rUU00RnVqX0tLWVhhOUg3X0NiYml6MFgtcjVPUHBwMVFHczNydjFkZURBVmJJSDZ3SFJsM3BBYTN1MlZNcGdYNTQ?oc=5"
   }
  ],
  "daily_forecast": {
