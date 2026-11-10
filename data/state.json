@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "5e69756dc759",
-  "a5fb69acb088",
-  "eb737525c4de",
   "e7415c392da6",
   "4d80234e53f9",
   "d625a43f4333",
@@ -4088,9 +4085,24 @@
   "ab9816a7315c",
   "2ba0bc7fc318",
   "ad87ab4cd1ec",
-  "b1fa3cecf738"
+  "b1fa3cecf738",
+  "b756ea7cb814",
+  "28ec50eb9860",
+  "366705dae01d"
  ],
  "news": [
+  {
+   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+   "source": "CNBC",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
+   "published": "2026-11-10T20:28:02+00:00",
+   "id": "28ec50eb9860",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran keeps firing on tankers for transiting Hormuz despite hopes of peace",
    "source": "The Jerusalem Post",
@@ -6478,18 +6490,6 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump says he's not planning new Iran strikes, defends war after GOP midterm losses",
-   "source": "Spectrum News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1I4NzZaeWRYZ09wLXpGU0NDT0VQRzlRdVJvaGx5alhqdGhOTE11Z05YdXhFODNCZWR6OEpNa1NjSDY4Z0JPdV9yZXh0eTVoX1pTb05FQ3lqd2NMZVIxQjJvUTZ4MndJckw5NEVDdGlDMThoNmlXeUJWNl90U2U3UXJyOTVqdkR4UC0wMjR5Q2d1d0xVOUVvTzNabS1ZdEZkclBxalZn?oc=5",
-   "published": "2026-11-09T18:18:00+00:00",
-   "id": "6e3f86add525",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Apaisement des tensions militaires directes diminuant l'attrait pour la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8224,7 +8224,9 @@
   "pre15m|2026-11-10T15:30:00-05:00": 1794341767.865147,
   "news|f58513918e10": 1794343750.5793428,
   "news|8268f841b66f": 1794343751.6623325,
-  "news|ab9816a7315c": 1794343752.7885177
+  "news|ab9816a7315c": 1794343752.7885177,
+  "post|2026-11-10T15:30:00-05:00": 1794344495.288859,
+  "rep|recap|2026-11-10": 1794344497.1555798
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8600,6 +8602,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T21:01:36.253815+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — MARDI 10/11</b>\nOr : <b>-105.9$</b> depuis minuit · plus haut 4156.2 (00h10) / plus bas 4020.8 (17h45) · range 135$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : 📈 HAUSSIER (+16) à 4131.8 → maintenant 4043.1 (-88.7$)\nRange : 135$ réalisé vs ~82$ attendu (164%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 57% de bonnes directions (12 ✅ / 9 ❌ / 1 ➖ sur 22 jours)\n20 derniers jours : 53%  ·  ❌✅❌❌➖✅❌✅✅❌\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.55% · Taux 10 ans +11.9 pb · Pétrole -0.21% · EUR/USD -0.54% · S&P 500 -0.35% · Argent -3.57%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade\n🟢 (+10) Iran War Day 256: Trump Says Escalation ‘Unlikely’\n🟢 (+10) Americans Urge New Congress to End Iran War and Repeal Trump Tariffs, Poll Finds\n🟢 (+10) 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News\n\n📅 <b>Demain (mercredi)</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Bowman Speaks\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Paulson Speaks"
+  },
+  {
+   "ts": "2026-11-10T21:01:35.289429+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.00%\nTaux 10 ans +0.0 pb\nOr +0.3$ (extrême +1.6$, range 8.3$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-10T20:49:12.788887+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil prices ease to two-month lows as US downplays further Iran strikes</b>\n📰 Reuters · Mar 10/11 02:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
@@ -8888,16 +8900,6 @@
    "ts": "2026-11-10T11:16:05.708129+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu urges Trump daily to renew military strikes on Iran, report says</b>\n📰 Harici · Mar 10/11 10:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0YtVEc5RDBocS1ZZjRIaU9EOGZrbUVtSHhPYXJjUFRYdWNlUmQ1dXZ6X1FjYW5lWThDNkloZEF4OTI2emtuU3R0YnpWY29PWGJBb08xU1RDa2RKWlZERnJDU190WE52R2FqSVlzM0JoMmEyRDJOOW5yXzV6MGZpMHpxU1NmaUJuWHhuSUtmZ3NfQl9xRndsYVhoYUk2N2hWOW96LXRoQXDSAagBQVVfeXFMTnNGLVRHOUQwaHEtWWY0SGlPRDhma21FbUh4T2FyY1BUWHVjZVJkNXV2el9RY2FuZVk4QzZJaGRBeDkyNnprblN0dGJ6VmNvT1hiQW9PMVNUQ2tkSlpWREZyQ1NfdFhOdkdhaklZczNCaDJhMkQyTjlucl81ejBmaTB6cVNTZmlCblh4bklLZmdzX0JfcUZ3bGFYaGFJNjdoVjlvei10aEFw?oc=5"
-  },
-  {
-   "ts": "2026-11-10T11:16:04.867588+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds</b>\n📰 Reuters · Mar 10/11 12:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5"
-  },
-  {
-   "ts": "2026-11-10T11:01:56.468757+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls below $90 as Trump downplays prospect of escalation with Iran</b>\n📰 Reuters · Mar 10/11 02:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9083,11 +9085,19 @@
    "mv": 18.4,
    "range": 95.2,
    "exp": 89.2
+  },
+  {
+   "date": "2026-11-10",
+   "dir": "up",
+   "res": "miss",
+   "mv": -88.7,
+   "range": 135.4,
+   "exp": 82.4
   }
  ],
  "evening_recap": {
-  "date": "2026-11-09T21:02:53.065720+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — LUNDI 09/11</b>\nOr : <b>+70.9$</b> depuis minuit · plus haut 4157.7 (21h25) / plus bas 4062.5 (00h55) · range 95$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+6) à 4131.6 → maintenant 4150.0 (+18.4$)\nRange : 95$ réalisé vs ~89$ attendu (107%)\nNiveaux touchés : P, R1, R2, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 60% de bonnes directions (12 ✅ / 8 ❌ / 1 ➖ sur 21 jours)\n20 derniers jours : 58%  ·  ❌❌✅❌❌➖✅❌✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.58% · Taux 10 ans +0.5 pb · Pétrole -4.18% · EUR/USD +0.73% · S&P 500 +2.44% · Argent +2.78%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever\n🟢 (+10) US strike on bulker marks new escalation as Hormuz ship casualties mount\n🟢 (+8) Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed\n🟢 (+8) British Pound reclaims 1.3400 as Iran war fears ease ahead of US CPI\n\n📅 <b>Demain (mardi)</b>\n🔥 <b>10:00</b> 🇺🇸 FOMC Member Waller Speaks\n🔥 <b>14:30</b> 🇺🇸 Core CPI m/m (prév. 0.2%)\n🔥 <b>14:30</b> 🇺🇸 CPI m/m (prév. 0.3%)\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Logan Speaks\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks\n🔥 <b>21:30</b> 🇺🇸 FOMC Member Bowman Speaks",
+  "date": "2026-11-10T21:01:37.155534+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — MARDI 10/11</b>\nOr : <b>-105.9$</b> depuis minuit · plus haut 4156.2 (00h10) / plus bas 4020.8 (17h45) · range 135$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : 📈 HAUSSIER (+16) à 4131.8 → maintenant 4043.1 (-88.7$)\nRange : 135$ réalisé vs ~82$ attendu (164%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 57% de bonnes directions (12 ✅ / 9 ❌ / 1 ➖ sur 22 jours)\n20 derniers jours : 53%  ·  ❌✅❌❌➖✅❌✅✅❌\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.55% · Taux 10 ans +11.9 pb · Pétrole -0.21% · EUR/USD -0.54% · S&P 500 -0.35% · Argent -3.57%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade\n🟢 (+10) Iran War Day 256: Trump Says Escalation ‘Unlikely’\n🟢 (+10) Americans Urge New Congress to End Iran War and Repeal Trump Tariffs, Poll Finds\n🟢 (+10) 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News\n\n📅 <b>Demain (mercredi)</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Bowman Speaks\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Paulson Speaks",
   "ai": false
  },
  "dp_last": {
