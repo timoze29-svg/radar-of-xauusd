@@ -1089,13 +1089,6 @@
   }
  },
  "seen_news": [
-  "0636335ba933",
-  "ec8f5d9e3445",
-  "ee1c7ce38443",
-  "45a235a2214b",
-  "9943613ab32b",
-  "18df74715385",
-  "380aabb912a8",
   "1dcf5a8892ae",
   "d812e141b7a5",
   "1231738f18cb",
@@ -4088,9 +4081,28 @@
   "8d3b703f7ad6",
   "9a936148390e",
   "64678be90046",
-  "36f922300f9f"
+  "36f922300f9f",
+  "d8aa25324ec7",
+  "06e9b3088495",
+  "0030bd0cd4f8",
+  "1740bac7e630",
+  "d7be88ea5498",
+  "4b103603188c",
+  "86137a93cf7c"
  ],
  "news": [
+  {
+   "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+   "source": "Al Jazeera",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
+   "published": "2026-11-10T15:22:05+00:00",
+   "id": "06e9b3088495",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US Treasury yields surge as October CPI inflation exceeds forecasts",
    "source": "Beinsure",
@@ -4149,6 +4161,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "'Not great': October CPI inflation data comes in hotter than expected as food and rent costs spike",
+   "source": "Yahoo Finance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXBDMy0wcHctM2JTNXIzWHBBZUJMSWhzUFI4WDVWcXRPNy1Qby1GaDR4VTl1NFdpb1ZfMXdkaDZnR0kyMk9rek1sMExiWlhBQ1A4a1B6S281RnNmSWc1bXd1Zi1qQlpGVXp5WlBDb1dsOHRMeVBPNjFSSkJGU1dCN201SXVXVFY3MC1hQk1YMXNaM0N2M0Z4TkZUOWwzWmVPNDFQaTRSVmRVWndwSmEyS3hudmZudHJMT21Hcmw3N3ZKd1pIeFJFU00welk1bmc0elhDc0J6ZURtS0lqN3hSZnlDTi1oN00?oc=5",
+   "published": "2026-11-10T14:23:23+00:00",
+   "id": "1740bac7e630",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
    "method": "mots-clés"
   },
   {
@@ -6465,30 +6489,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Retenue américaine face aux attaques maritimes, soulageant les marchés et pesant sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine Strikes Russia’s Second-Largest Oil Refinery and Iskander Missile Fuel Plant",
-   "source": "Kyiv Post",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IODhFYXl0QmE4QmVtV1pDQzkwX3lFb1BRLV9TNEp0TEZLVWpfbGR6WGFfTzZpbW1SYklnNjlBb1prSWVXQkJhQW9JZw?oc=5",
-   "published": "2026-11-09T12:33:45+00:00",
-   "id": "645e450baa39",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frappes ukrainiennes d'envergure sur des infrastructures stratégiques russes, alimentant la prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil Slides More Than 3% as Trump Downplays Prospect of New Iran Strikes",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
-   "published": "2026-11-09T12:30:00+00:00",
-   "id": "dc3457b3055d",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "Baisse rapide du pétrole et désescalade militaire réduisant l'inflation future et la valeur refuge.",
    "method": "IA"
   }
  ],
