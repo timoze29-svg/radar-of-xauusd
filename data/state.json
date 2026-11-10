@@ -1089,8 +1089,6 @@
   }
  },
  "seen_news": [
-  "f4f45874fb7e",
-  "bb719ab40da1",
   "80cc63ec1ffe",
   "d651737467a6",
   "8c2bdaa30b92",
@@ -4088,7 +4086,9 @@
   "f1f5b1bea281",
   "249834ed14b9",
   "1e097d1efd65",
-  "87ec6d94a002"
+  "87ec6d94a002",
+  "788cc1e2adeb",
+  "b598c89e33bd"
  ],
  "news": [
   {
@@ -4197,6 +4197,18 @@
    "impact": 5,
    "cat": "banques centrales",
    "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Bonds Tumble as Hot Inflation Fuels Bets on More Fed Rate Hikes",
+   "source": "Bloomberg.com",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakFPZlVwd2pvZDUwU0IzS3I3bHNNTlJOV3JRUXpyTEstS0FRN2JHeDE1R2J6cWxBU3o4SWI2SWhLNTdmdDZzTl9Na3lSLVdqcDd1c0RtSHllU3dSRk04aGNqWmZnbVQxdVVDRmhzcmlJU2tHUnJWQ1JNNzhmNXZITHJmdFpOZWdrWWdvam95YWpvd1ZxWDlROG5Za185MW1fWjFqb05QYmhzRDhpY0NHT3dMeWQ?oc=5",
+   "published": "2026-11-10T17:23:39+00:00",
+   "id": "b598c89e33bd",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6478,24 +6490,9 @@
    "cat": "commerce",
    "raison": "Maintien des barrières douanières soutenant modérément l'or face au risque commercial.",
    "method": "IA"
-  },
-  {
-   "title": "Treasury yields rise as CPI data tests mortgage rate outlook",
-   "source": "www.mpamag.com",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0ZnZGR1ZG5BS0NZS1ZCMEdkTEJSZGs0WWVPMG1sbjJ3QjZUdlhNQzFVRU5BMkU1Q29FMnhaMnM4WTBsMGt1UWhFWWh4UW5KZWZwYVZVSE5ZOFlaMU0taGNrMGtmRTBPVTFMTTMxMTlCQ0lVTl9ZaExfTEFsLUFHVzJyQ25Rdk96c1pHVDBIdkg0N3dfUlE5bVV0OUNSVWRZRlFpVzFDdmN6cmw3bjVOdlgyb1pGNURUYUtrektfTkZGa1Z5Vmc?oc=5",
-   "published": "2026-11-09T17:59:02+00:00",
-   "id": "784aaaad15e0",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "Remontée des rendements obligataires américains, augmentant le coût d'opportunité de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|aab106d49ddc": 1792525615.2811975,
-  "news|1b1ff3cf26f6": 1792525616.238265,
-  "rep|recap|2026-10-20": 1792526495.5509017,
   "news|e87c2828c150": 1792528289.1885684,
   "news|388a62d86ece": 1792530969.9916961,
   "news|a8396c788980": 1792532790.4634871,
@@ -8223,7 +8220,8 @@
   "post|2026-11-10T13:30:00-05:00": 1794337481.7659183,
   "news|35ca28651117": 1794338241.149231,
   "pre1h|2026-11-10T15:30:00-05:00": 1794338242.3987663,
-  "news|34cbfc7b4425": 1794339089.5833
+  "news|34cbfc7b4425": 1794339089.5833,
+  "news|b598c89e33bd": 1794340897.87359
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8599,6 +8597,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T20:01:37.873661+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Bonds Tumble as Hot Inflation Fuels Bets on More Fed Rate Hikes</b>\n📰 Bloomberg.com · Mar 10/11 18:23\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPakFPZlVwd2pvZDUwU0IzS3I3bHNNTlJOV3JRUXpyTEstS0FRN2JHeDE1R2J6cWxBU3o4SWI2SWhLNTdmdDZzTl9Na3lSLVdqcDd1c0RtSHllU3dSRk04aGNqWmZnbVQxdVVDRmhzcmlJU2tHUnJWQ1JNNzhmNXZITHJmdFpOZWdrWWdvam95YWpvd1ZxWDlROG5Za185MW1fWjFqb05QYmhzRDhpY0NHT3dMeWQ?oc=5"
+  },
+  {
    "ts": "2026-11-10T19:31:29.583439+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade</b>\n📰 Fox News · Mar 10/11 19:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHNYa19POGtkVEdEX0E1M2c1TWtBd1VSZzUzcGJoVVItMkw5WHNmTHUzQkVpQl9GbTZuRUEzRGlTeXNxMURlNVlXZjRWbld4UUdPeTVXOWlsOGVEajRJbVBZQzlGWlNCX0xPUlUyQTFpUUN3QUtmRHFjWWZEU19vZWVCNU0yTkFEejBjcnVlczlGWTRBUmpJNTlBUXg1b21hWmFCVTZJdFZGQ3VGcDBkbzc2UHQ5QdIBuwFBVV95cUxNSjVHek9yQzFBZUVXdmdpb0hhZUxEU0ZnNzlGeGhpVFloR19aVElnWGY0b2tlclRqY2h0VHljSHpqbExSVm81ekxMM2FSbDIxaFpRQ01udVIyak4waVhZQmswM0JBZVZlcDc4MVJ3SVJnUnBxRl9BYnhISl9rSXYxZjRSazBab1NMQVpMWlNJTFozQUpPOHp5czdkZ0tyMnVldlpSNlBlTExKcUFKMFYxSFVsYTNFLXFiSExZ?oc=5"
@@ -8892,11 +8895,6 @@
    "ts": "2026-11-10T10:46:11.117189+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war is ‘effectively over’ after midterms humiliation</b>\n📰 The Independent · Mar 10/11 10:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVYteEFBMXhoclRMbkRZT0lFemxyeE9nYXdlcGExNm9iN1o4RDd4WmpPaDROZEhhRHVjbzVLcURWVko4am1fS1VPSGJRalRzbnhNZ1hKcW5fVWFvQTZIX1ZYZ2F5NzZvNDlIRWg4bllqS09naDZKenFmQ2J2QnNHMnFselRhRVJfUWFwXzlfZzZROTd4TzFfUTVJU0FfS1k?oc=5"
-  },
-  {
-   "ts": "2026-11-10T10:31:27.862530+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 10/11 10:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGVuZmI2Sjh5TjRhZXdKdk4xOGNyNV9oQ3lfQ0ttWmtfbFJWUnRaQUVld2JwTzNNSzI4dksxcXZ1VUVlMUpNT09ibTVLUm1kanhicWZJbzh2cEdGMFhTbU0tdk5zVGRBcFJJUUtqNHA3NmNrYmgxUE1Va0ZmaHRlMnVyYjNyaDhWWHJxRzAybFpBVk00ODlLODBiM0ZHWlVBSHhBbFNmY9IBrAFBVV95cUxNS0ZKYVVBS0R5Z1RsZGtFaDFocGNIS1pwSTRhYTRqb2pMRnZLZnhOelZRVmo1clJuZzFpZlI2YnVwMHQyMnphY21wc0dDR1NCVVRXUjQxbUJiNlNJSV8wRW1Gc3dwQ1cya19NY0xyX2VJakJ5dFBJWDAycmx3YV9FNGV0WHNFSDEwSng5cGhYbzNudTFYVVo3aW9QYXhMajI4dkE2eDhUT1Rjb2cw?oc=5"
   }
  ],
  "daily_forecast": {
