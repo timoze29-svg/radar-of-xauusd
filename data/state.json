@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1794289550.0916553,
+   "ts": 1794332756.0655887,
    "data": {
     "date": "2026-11-03",
     "net": 179548,
@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "5ad88f71b129",
-  "98874d13cee4",
-  "1962488ff9a3",
-  "39991e997e7b",
   "97c253652796",
   "996daa7a7b53",
   "c30e7e95513b",
@@ -4088,7 +4084,11 @@
   "84df6b3c5d89",
   "fcb74fd3f774",
   "137bd041a244",
-  "51e66b5f756a"
+  "51e66b5f756a",
+  "0ec626beb6a1",
+  "737c23078887",
+  "75dddcf2339a",
+  "ce0e66a34711"
  ],
  "news": [
   {
@@ -4221,6 +4221,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "‘This is sabotage’: Hegseth criticizes impeachment effort, defends Iran war",
+   "source": "The Washington Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOU0NfU1AyTXJKVl9lSTVKM0s0amhrY1VCNFlwU1kzOXNLeVNjd0NMQ1NtVlNLWDl4WmlWVDBET1NfWnRfbjRHQWZPb0hPNHBzeEgxaVVKTDY5WkdINVFfME9TZEJVbXVoT01fWVBIdkI2ZGhsWFZXQWhRb2R2bmV0dThXX3Y3YUw5eDVEM2REOElVbnUwcTdJXzlaSU4zRHZCSXUwbHBuaUR3VWZRMkd3VS05RGM1QWRBQ2R6cEV2eXo0V0trblZieU1PZE9CQW51MHF0VjI0SS1lLUlZVDY0UTEtZjV3WDBwRmFiWVAxaVYxSWpUUGxiYzJITTh2d2ZBOWdaNGdlYw?oc=5",
+   "published": "2026-11-10T15:59:00+00:00",
+   "id": "0ec626beb6a1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6478,22 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Scepticisme européen sur la paix illustrant un enlisement du conflit ukrainien.",
    "method": "IA"
-  },
-  {
-   "title": "THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever",
-   "source": "EnergyNow.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
-   "published": "2026-11-09T16:06:03+00:00",
-   "id": "7deb9e3b48f1",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Escalade protectionniste avec le Canada alimentant les craintes d'inflation et d'incertitude.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|0cf773564f2c": 1792518369.5904915,
   "news|d66566abeac1": 1792520164.378766,
   "news|6b37b318b9da": 1792520165.4488194,
   "news|c93c8a5d0ed8": 1792524683.2268646,
@@ -8219,7 +8218,8 @@
   "pre1h|2026-11-10T13:30:00-05:00": 1794330971.4168887,
   "news|c9ada44d1b30": 1794331890.1871443,
   "news|fcb74fd3f774": 1794332353.2946203,
-  "news|84df6b3c5d89": 1794332354.1451216
+  "news|84df6b3c5d89": 1794332354.1451216,
+  "news|0ec626beb6a1": 1794332791.8120587
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8595,6 +8595,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T17:46:31.812139+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘This is sabotage’: Hegseth criticizes impeachment effort, defends Iran war</b>\n📰 The Washington Post · Mar 10/11 16:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOU0NfU1AyTXJKVl9lSTVKM0s0amhrY1VCNFlwU1kzOXNLeVNjd0NMQ1NtVlNLWDl4WmlWVDBET1NfWnRfbjRHQWZPb0hPNHBzeEgxaVVKTDY5WkdINVFfME9TZEJVbXVoT01fWVBIdkI2ZGhsWFZXQWhRb2R2bmV0dThXX3Y3YUw5eDVEM2REOElVbnUwcTdJXzlaSU4zRHZCSXUwbHBuaUR3VWZRMkd3VS05RGM1QWRBQ2R6cEV2eXo0V0trblZieU1PZE9CQW51MHF0VjI0SS1lLUlZVDY0UTEtZjV3WDBwRmFiWVAxaVYxSWpUUGxiYzJITTh2d2ZBOWdaNGdlYw?oc=5"
+  },
+  {
    "ts": "2026-11-10T17:39:14.145277+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war ‘effectively over’ militarily, but US ready to strike again</b>\n📰 Iran International · Mar 10/11 01:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCeVZKdTZtT0RVUEhBdElDaTZ1cHpIQ09wc1lCT3ZmS0kyTmpqT2QxSFQ5ZmVGZmt1QU52LXo2c1B4ZUJIcmw1bllEeUJoMk5GUnc?oc=5"
@@ -8888,11 +8893,6 @@
    "ts": "2026-11-10T09:31:30.951431+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide</b>\n📰 Le Monde.fr · Mar 10/11 10:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjg5SVl0M01US3RVYlJDNDFKRENxWFBCN0FzUEFmdmxSTWoxcUxpdGJEbWtVVWlwR1JGZkpkWW5oNkNqOXB4WEV4Szh2a2R1VE1Kb0NOWW0zUHpKTXVVU3hKMFdodXBybnJRUkV2TlZsM3dmaWF6Q3FheU4wcVNvck1FS3daMHpERElMTTRCeGdMWG80ZDZUT0tsVGdDc3AyM081SGhNTXE5cVg4LTZNYXhpY2x6VTVJLTVodU41U1FDcUpUVS1NS2VQdDFqTUhUSXJBMTBha2p0RVE2eTJkRk8tanREeG9DU2tzaHhmbHJjYmk0?oc=5"
-  },
-  {
-   "ts": "2026-11-10T09:31:29.920667+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 10/11 10:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5"
   }
  ],
  "daily_forecast": {
