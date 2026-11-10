@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "80cc63ec1ffe",
-  "d651737467a6",
-  "8c2bdaa30b92",
   "e5397cbc102b",
   "a1bac2dabda9",
   "84d6ab8b30e5",
@@ -4088,9 +4085,24 @@
   "1e097d1efd65",
   "87ec6d94a002",
   "788cc1e2adeb",
-  "b598c89e33bd"
+  "b598c89e33bd",
+  "7c68066db7c6",
+  "0295398e5983",
+  "cad069d23baf"
  ],
  "news": [
+  {
+   "title": "What these newly elected U.S. reps. think about tariffs on Canada",
+   "source": "CBC",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwUDZnUVdpVmZVODM2VjhkaU83NWdNV1NERmRsRkR1YzlFYWp0MTVlR2xZZnhST2dOZ1dfRVZyUkdKWXBLVW1OQXYwcVd0aDlEYXlHYjVpNmprUQ?oc=5",
+   "published": "2026-11-10T19:33:37+00:00",
+   "id": "7c68066db7c6",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Tankers continue to burn in the Middle East despite hopes for de-escalation",
    "source": "www.marketscreener.com",
@@ -6478,18 +6490,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Even this blue wave probably won’t wash tariffs away",
-   "source": "The Hill",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Zi02OTQzOHlXQ0kxRVFMbk1rREp0RlhKRFNrNFluMEY4empWb0VTZktsNVU5U3VES2JfdmJPemJ5ek4waGVQR2RSVFBfdUxYV1pjZVVPeVJkOHhWbGZ1Y3RkZHZ5M3BDTFp4LTA4VnlsUjlQM2ljT3VJcGw5dTTSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
-   "published": "2026-11-09T18:00:00+00:00",
-   "id": "84e01e89590e",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Maintien des barrières douanières soutenant modérément l'or face au risque commercial.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8221,7 +8221,8 @@
   "news|35ca28651117": 1794338241.149231,
   "pre1h|2026-11-10T15:30:00-05:00": 1794338242.3987663,
   "news|34cbfc7b4425": 1794339089.5833,
-  "news|b598c89e33bd": 1794340897.87359
+  "news|b598c89e33bd": 1794340897.87359,
+  "pre15m|2026-11-10T15:30:00-05:00": 1794341767.865147
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8597,6 +8598,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T20:16:07.865203+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-10T20:01:37.873661+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Bonds Tumble as Hot Inflation Fuels Bets on More Fed Rate Hikes</b>\n📰 Bloomberg.com · Mar 10/11 18:23\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPakFPZlVwd2pvZDUwU0IzS3I3bHNNTlJOV3JRUXpyTEstS0FRN2JHeDE1R2J6cWxBU3o4SWI2SWhLNTdmdDZzTl9Na3lSLVdqcDd1c0RtSHllU3dSRk04aGNqWmZnbVQxdVVDRmhzcmlJU2tHUnJWQ1JNNzhmNXZITHJmdFpOZWdrWWdvam95YWpvd1ZxWDlROG5Za185MW1fWjFqb05QYmhzRDhpY0NHT3dMeWQ?oc=5"
@@ -8890,11 +8896,6 @@
    "ts": "2026-11-10T10:46:12.153915+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Israel-Iran War Latest Live Updates: ‘Calls Him Every Day’, Netanyahu Reportedly Urges Trump To Restart Iran War As Gulf Nations Warn Against Wider Middle East Escalation</b>\n📰 The Sunday Guardian · Mar 10/11 09:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugJBVV95cUxPbGJCVWo3cWlabW5nV2RjOWZlbVFZLUVVVUVWd3h0UGRvUVFJcERBaGszMU1JdDFjeHpyNGJfOXprOFJJcFFGWHlocEcxd29SLUpZZGM5SVBJWS1wZnhldDdZQzdJZWJYVlFXNVVxZWRXYmtjNjZCeEtfSHRuY2N5eUxTTkg4YWRKZHlzc01qRUo3MEUxLVlXaEtKckcxeGFOU1ZQS2xkMmowc1NzMHF4OE9TRjljOFBhRVZ0bm93VXdnUmhabkpQbkdJR01qSDFXckxicGZKVU54OXVUQzNxUjgxQVhBc2toM2EwYlZfZFhQSTNkSVh6aDRFX0Z3VlgzUm1RSkI3WksyM21teVN4MUhIWVhlTVlhUXFwVVdWdXZXU3ZyYXVNaGhLWlNQbWZkVXlmN2pOeWRvQdIBvwJBVV95cUxNVTFnOXphMGhDQkk4QnRwWENueFpUMUUwTE9qOGVyOUxfT2QxbTdHTnB4SFljQ3MzU01kd1NTMERkc1Vtdk5DbVNzSWxRQ2pHOHZGVGNOQVVyQ2NWcC1CRl96Y0dYOFNMVXpmbEIwM242bVMyc0ppcTNpU19nUmUtVjZGVVl5U1ZkUEVLWTVwaHV3TW1sQ3U1YTVRNnRaOGViOVZicjdBVWRFMzJlel9JU2hURjJyTG93OVdxT2swSjlOTzhHWXNWcWNzOEVPUU5fZzlmRGxuS2NDTXZyMGI1SERxR1pyWDZnNkFvQ3hydTBFTEF4TTJDRk12NkVGTWRRYTk3NzlDRDNhTUJZaUlkUDJuZWhsa2NfbWVFbnBzTUJtNVEyV3g3eWFsaURDVzNEQlo0bHpNVFVuU0RnVW5F?oc=5"
-  },
-  {
-   "ts": "2026-11-10T10:46:11.117189+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war is ‘effectively over’ after midterms humiliation</b>\n📰 The Independent · Mar 10/11 10:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVYteEFBMXhoclRMbkRZT0lFemxyeE9nYXdlcGExNm9iN1o4RDd4WmpPaDROZEhhRHVjbzVLcURWVko4am1fS1VPSGJRalRzbnhNZ1hKcW5fVWFvQTZIX1ZYZ2F5NzZvNDlIRWg4bllqS09naDZKenFmQ2J2QnNHMnFselRhRVJfUWFwXzlfZzZROTd4TzFfUTVJU0FfS1k?oc=5"
   }
  ],
  "daily_forecast": {
