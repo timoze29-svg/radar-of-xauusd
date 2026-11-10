@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "210748275660",
-  "433a025a9905",
-  "d93b5e1a6a0f",
   "a60329c62413",
   "c3cc7c6036cb",
   "13ee39277bf7",
@@ -4088,9 +4085,24 @@
   "120fdeb15e6c",
   "4e576e357d23",
   "7e2eb70a7d25",
-  "684539b50925"
+  "684539b50925",
+  "6b0305b4d07b",
+  "7115fdf6cf00",
+  "9b97084b69d9"
  ],
  "news": [
+  {
+   "title": "First day of Ukraine peace talks 'very productive', US says",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
+   "published": "2026-11-10T14:36:57+00:00",
+   "id": "9b97084b69d9",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold drops 2% as US CPI tops forecasts, strengthening December Fed rate hike bets",
    "source": "FXStreet",
@@ -4377,6 +4389,18 @@
    "impact": 5,
    "cat": "taux",
    "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "10-year Treasury yield jumps after hot CPI and as Waller hints at half-point hike",
+   "source": "CNBC",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00TGg2Rk5HQzViV3NxTHZvREFib0dkOURuR3VIUHZJbjZHWTRzOERZelY0WVZlcVZSNGhCS094UTJDXzM2b3NLeVFSMG5jckhkMndFeG9pc0VvM0JnTUsxN2pTckFuQ3NTMTNZWnQ2MA?oc=5",
+   "published": "2026-11-10T10:25:50+00:00",
+   "id": "6b0305b4d07b",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -6466,34 +6490,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
-   "source": "WTOP News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3E3X3pjVVRmUTIzdzl3NE91NzdqTHlXemQxSFFabTVocmlJMkh5UGtzMTNhb2gwYTdJRnA4SkFnSGZONmdSUUxnTVBiN1U5VmFDLVQ2bE1PXzhUbmllMWxVcDV5Wmh2SW82VURPVHIyTkktdmtHWUtlY2NoVkZDX1NGLUVCR0NTbDF2MTY2ZWZqRnRUU2Rra0hqQW1TOHRTdzZDcTZPdUptQ18xNmZ1MU9TT1QzWUpkYmQwMTRkeGQ?oc=5",
-   "published": "2026-11-09T11:08:00+00:00",
-   "id": "e34e04b13b52",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks",
-   "source": "KSAT",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWTY3LVhJSnFXQktLUUQ1Sm03UExvNmU4TWg1eUxObnJZYVdXN3pyUUt3SllYNHhpR0RyZnFBUlpyektLZThpRFJXX0V2ZHc3RElYcXBfNlQtWFkxWFRZMGtvYVI5WDVCbC0tUmdwbk5zZExJOFNsYjRGeXdhUy1vaHB2MUQwUHZTM0E4LWFWbDlacWZmc0lWbzFoQ05UVjFGa1J6R01Ccm4yR2U2aWpwSUlaS3llN1VWRHhibE52UmpDbmRuZzdBdzhfSnh1aThu?oc=5",
-   "published": "2026-11-09T11:04:32+00:00",
-   "id": "b5e100475c22",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "brk|DXY|pwh|dn|2026-10-19/2026-10-25": 1792507597.9231052,
   "news|2672bb2d5120": 1792508067.4397902,
   "news|e1d74c3e7cdb": 1792509372.614868,
   "news|92f94b510f05": 1792515706.1497102,
@@ -8209,7 +8208,9 @@
   "news|e46b0ded90bf": 1794319294.8634458,
   "post|2026-11-10T08:30:00-05:00": 1794319295.9163218,
   "news|a3d222834bd8": 1794320165.3017528,
-  "pre1h|2026-11-10T10:50:00-05:00": 1794321106.1847003
+  "pre1h|2026-11-10T10:50:00-05:00": 1794321106.1847003,
+  "brk|US10Y|pwh|up|2026-11-09/2026-11-15": 1794322155.9636292,
+  "big|US05Y|2026-11-10": 1794322156.9073997
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8585,6 +8586,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T14:49:16.907462+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 5 ans\n+0.141 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-11-10T14:49:15.963694+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 4.968 → prix : <b>4.975</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.06 | 60j -0.23"
+  },
+  {
    "ts": "2026-11-10T14:31:46.184972+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 78 MIN — 16:50</b>\n\n🇺🇸 <b>FOMC Member Logan Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.30% aujourd'hui · taux 10 ans +10 pb · biais or +7 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 89$ → attends-toi à des mèches rapides."
@@ -8873,16 +8884,6 @@
    "ts": "2026-11-10T04:01:40.138002+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live: Trump says US ready to strike Iran 'if necessary'</b>\n📰 Middle East Eye · Mar 10/11 03:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2dqR0tHT2ZrV1FKNmI1RXVhS0lqYjVZdjFxeUVrcjJVOHNPLXBTNzcyVmg3WjdDUWtQZk5pX3dESWxKRWFfMmRfNk55THhpNm52TVZ6SjVQdkx6cFhCN2swaWprVU94ZTBSWThiY0VSbXJfYTJKUFNpSzBWUUxMMXNiUS1wenJsOU80YWt4VjBTSVAtcHc?oc=5"
-  },
-  {
-   "ts": "2026-11-10T03:46:36.010956+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Shocks Israel With Iran War Repayment Demand After Republicans' Midterm Defeat</b>\n📰 The Times of India · Lun 09/11 15:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU5pN1NSZFVjLVU4dGIweWRldU1Jek1oVnNvbExfZDZwMjkwdE1zTTdFaXRwYjctck45OWpNNHVYSkpUVmY2MFRHZEtNV2tPLXcyVUo2Y0M1bUdjek15bkc2U3dmTTZQNEV1Uk5KdkE2d3N2NU5GaUJsQmJEakFfNHYzWHhydnBiem92a3lUTGhlXzNoUVJfTm9rYVBnVG1TaGw4d3UxZXJvNHdKTTViVFc0bG5IMkpNXzB2NVUyWFR6R3l4cnROS3VmeDh2enpSMnNYcmhrekxsNHF5SFhEcVFZaE1VRVhjclA3SFdYX3FuVTFBcXJz0gH8AUFVX3lxTE92eU1nYmFlNUZ4UXRnZzJMNHNMaWJFUG4wdHMyTkxta2xkaEtYWnV1SlVNbVF1RU5EQzhzNW4wM0F0Q0ZHbTlEb2V2YlZ4N2U1cURCYk5BM2xxMTFMOEs3SnhOVkt5djhUbmgzT2phR1NzMHEwTDVmWXdLZ0k1M0ZlbnRsM2ZHMXJkemktNlN4cVBHZFRpSzdyTG4tR1FEMjY2SFpzZVlJWEYwUDBrV0xOT19GSVZYakxOZXh1bmJrQWhZMUZ6dVN0YVdKckoxUm16V1N2LThHZXVDSXo3aXdjOGxwNlZuckNiczl2enN3cUxSTTlqYjBta3UwWA?oc=5"
-  },
-  {
-   "ts": "2026-11-10T03:31:24.253454+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as Trump downplays prospect of escalation with Iran By Reuters</b>\n📰 Investing.com · Mar 10/11 03:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkQ4SDNnOHFNMldZdks1NUx1VHVPdHgzUllRRmFHMl9MNDE0NDYwaTZDdlRtNDRkYVZjcGRIUDR1clZBY3ZYR2JKVEliNXBEUmdQX3A0eURrR0YwSlNLeFdCQWRrRXhJVUFjRXFELUItejhYSGlKY2h6VHhVLU5xRWJsZzNzTDZ1aElyRkVVMHB5OTV4Z2ppa3lCSW9QVkdVeUt6b1JqSHp1ZE1OQVluSWtuS2k2bUJQ?oc=5"
   }
  ],
  "daily_forecast": {
