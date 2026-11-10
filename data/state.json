@@ -892,7 +892,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1794256290.8069944,
+   "ts": 1794329168.6914787,
    "data": {
     "gold_hours": {
      "0": {
@@ -1052,15 +1052,15 @@
      }
     },
     "dollar": {
-     "n_hours": 5968,
+     "n_hours": 5964,
      "horizon_h": 2,
-     "base_gold_up": 53.4,
-     "base_dxy_down": 48.1,
+     "base_gold_up": 53.3,
+     "base_dxy_down": 48.0,
      "down": {
       "3": {
-       "n": 245,
-       "p_dxy": 51.0,
-       "p_gold": 55.9,
+       "n": 246,
+       "p_dxy": 50.8,
+       "p_gold": 56.1,
        "gold_avg": 1.5
       },
       "4": {
@@ -1073,9 +1073,9 @@
      "up": {
       "3": {
        "n": 267,
-       "p_dxy": 55.1,
-       "p_gold": 48.3,
-       "gold_avg": -0.6
+       "p_dxy": 55.4,
+       "p_gold": 48.7,
+       "gold_avg": -0.7
       },
       "4": {
        "n": 76,
@@ -1089,14 +1089,6 @@
   }
  },
  "seen_news": [
-  "a3a7d0ec7bd8",
-  "01ef67f9ee35",
-  "0d345d50ff95",
-  "98f85a95a0c8",
-  "81b34ac8889c",
-  "b1afd7c39882",
-  "1d8a7364e5ce",
-  "e8445dd685c4",
   "3629e6015273",
   "43ffbd9f38c6",
   "b2a3f4c0a553",
@@ -4088,9 +4080,29 @@
   "17b035c8de1a",
   "eee32a9c3860",
   "8c25a19423c6",
-  "9e69585ad84a"
+  "9e69585ad84a",
+  "e9e5003300d3",
+  "c3134dc5ba10",
+  "13771a423c52",
+  "f120b373bb3f",
+  "ed526cc3299c",
+  "137f51472fa1",
+  "10b441ff23c6",
+  "c908d6c90f81"
  ],
  "news": [
+  {
+   "title": "October inflation data sets stage for December interest rate hike",
+   "source": "USA Today",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMV9KcWI5c2M1SUtTN05QeTlIMEhRR3psTDhFYWRtWnlNMVFkd1lITGRDRTQ5bUE1OHRFUHlNTDVFZ05qN1NiVGx1SWhjeG9pQUMwZndBTEoteTJmMVp1VkhsMFNRN1lodFdWMWVXeHlReFhsallJUEs4dlIwUWV4b1lqNVNnXzQ4T0QtVzdKdDZ0bHNBdGFWMjJnSTRxZHlMTF80aFFhcGpTNjBTUWF4eVVES0JrNkVLZ0hqSXBvcHJtdjN1NVE?oc=5",
+   "published": "2026-11-10T16:33:00+00:00",
+   "id": "137f51472fa1",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Will Clawing Back Tariffs Cut into Manufacturing Jobs?",
    "source": "Alliance for American Manufacturing",
@@ -4212,6 +4224,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Syria to Send Troops to Saudi Arabia Amid Houthi Escalation: Report",
+   "source": "The Defense Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rQlA4TU9BcTAxUG1Xa3pfUzA3RWh1enU1ZmM4bFBxc1ZmS0ZHRE5TMUNFTFI3anUtRHRmeHY1UzQ0SGJ1aUIyZEwtNzhZX0xPNlUyYnJMcnBmOXRLMHBER0tER2lBMnI0eHNRLVNIT0pfQdIBd0FVX3lxTE1Ua0d2dmxDYUxiaE1wdjBhMm5wV09uT1JSdHlUTy02NTluaEY5aEhXUkVhZnVWakZqLWl1U3dNOFZWMlpsZk9ETUY2TUVGR3J5Z2ZZT1pjbjhtZVdlSmRzYzRqMnotRTBzS0NnYmhRWEV3ZlZPblRB?oc=5",
+   "published": "2026-11-10T14:44:24+00:00",
+   "id": "c3134dc5ba10",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "First day of Ukraine peace talks 'very productive', US says",
    "source": "BBC",
    "theme": "Russie/Ukraine",
@@ -4317,6 +4341,18 @@
    "impact": -3,
    "cat": "inflation",
    "raison": "baissier or (inflation)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Inflation remained elevated in October, CPI report shows, upping odds of Fed interest rate hike",
+   "source": "CBS News",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yY1puMmJtSGJhQldvMzg0d2RXa09JdzFnaUZLWkVmdzB3SVV3c2Y1dG1vRk53UlJEQUROUjR3UGFqLVNhOFRHRy1TRVJWWEdGTlNjVHlVR2gyZ0RhMWUzczV6c3R2MkFoYnF2QmZ5b3RBWkRFbUE?oc=5",
+   "published": "2026-11-10T13:37:00+00:00",
+   "id": "ed526cc3299c",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6454,42 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Incertitude prolongée sur la stratégie américaine face à la crise avec l'Iran.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Warns Against New Escalation by US and Allies - Energy News, Top Headlines, Commentaries, Features & Events",
-   "source": "EnergyNow.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnBpN2ZZTGptMW1Dd2xPcWNHSDJVbjhBZzhtR0tuTGlxWVE5ZWd3NjZoWGZHSER6UnJfbXREZW9DbWt5N1diRGVvODNqMHJxVTFGQXNaTmZTT2hnVUxXLWZYU0gwWm0zY1J6U01aUDlVazNUZW56UE9CanRvRjRTX3FCYTdEZ1ZX?oc=5",
-   "published": "2026-11-09T13:37:25+00:00",
-   "id": "c65b71e3a886",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says",
-   "source": "EnergyNow.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDgyTWpjcGJvZzNIU1o5eTE0Z1dKTTdDWlFVMDBtNHhLNnBmVUl4MGRYOGpYYXV0ZkdSNG5VU0JpUklNTkNNMGE5Sy1saUJ4MWM1MEhyc0dTb0Z4U3dwdWE0WlRacTFULWRudF9EeUJPQkJmZGNYOFpPbzdWbnVDVDIzbFk3ZGU0d0VfUkEwNHlsdHc3c00teGx4UmlYdHlVTmV5N1RoWUplVGNidzVMY202a29ZQQ?oc=5",
-   "published": "2026-11-09T13:37:20+00:00",
-   "id": "5665fcdc04d3",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "U.S.-led peace talks to address security guarantees for Russia and Ukraine",
-   "source": "Spectrum News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLU8yb29zaDZfTVRGNmY4YUU2TTBQTWNfbmxmcV9UMnloaXhfVi1kUHMzSmxaVWdpNHZFTzM5cTM4QlBidUQtYjB3WWJaVVppMGh0dHZfSVBBVHBLNnBWQ0R0dW4ybzRLUUFrcXp1RVlYeEI2ZnlQeC16NjYxelFVN0tTekh0Nlc1REZiMDROSUJUd1FaZmgydUhmaXI?oc=5",
-   "published": "2026-11-09T13:36:00+00:00",
-   "id": "f6fdca3a4315",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Discussions concrètes sur les garanties de sécurité favorisant un règlement négocié.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8219,7 +8219,9 @@
   "news|32c9cac35a1d": 1794327372.0562005,
   "news|251aefa01d8b": 1794327372.9976947,
   "brk|DXY|pdh|up|2026-11-10": 1794327374.1696239,
-  "post|2026-11-10T10:50:00-05:00": 1794327375.2122593
+  "post|2026-11-10T10:50:00-05:00": 1794327375.2122593,
+  "news|ed526cc3299c": 1794329166.217867,
+  "brk|DXY|pwh|up|2026-11-09/2026-11-15": 1794329168.698135
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8595,6 +8597,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T16:46:08.698186+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 102.36 → prix : <b>102.38</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.41 | 60j -0.46"
+  },
+  {
+   "ts": "2026-11-10T16:46:06.217933+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Inflation remained elevated in October, CPI report shows, upping odds of Fed interest rate hike</b>\n📰 CBS News · Mar 10/11 14:37\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE5yY1puMmJtSGJhQldvMzg0d2RXa09JdzFnaUZLWkVmdzB3SVV3c2Y1dG1vRk53UlJEQUROUjR3UGFqLVNhOFRHRy1TRVJWWEdGTlNjVHlVR2gyZ0RhMWUzczV6c3R2MkFoYnF2QmZ5b3RBWkRFbUE?oc=5"
+  },
+  {
    "ts": "2026-11-10T16:16:15.213250+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 26 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Logan Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.11%\nTaux 10 ans +0.7 pb\nOr -0.9$ (extrême -8.9$, range 11.8$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -8883,16 +8895,6 @@
    "ts": "2026-11-10T07:46:11.347823+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Extends Drop as Trump Says Further Iran Strikes Unnecessary</b>\n📰 Energy Connects · Mar 10/11 06:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEh5TjhSNVduZzdHdW9KNkJjbmk2T1V0UzhUeTVienktWG11WmpBcHBYSFhtbDFwNl9XMzluRWlYLWRGNEZkcFBRU2RZUnVUR3JXZ2g3azkyWmFadWMySE5YM3BYallNdDdzdlpSQ09rc09rT3RDMml3SmlNdUtVeFB6RDY1QkpBWG9MT2lPd1FLdjZIV0tGaGsyRU5sMXczRjk5N2twUzhrSEVQRDlCX3RFQlNOTXM4UFE?oc=5"
-  },
-  {
-   "ts": "2026-11-10T07:19:11.523917+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Signals Further Airstrikes on Iran Won’t Be Necessary</b>\n📰 Bloomberg.com · Mar 10/11 00:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVduRDc4eWZyV3N1OXZIUnAzOG0yNGNTVDVBd3FaU0t2ZmJua2RXQ2xHSE9WTkdRbW53bTlrTVpkOXNPdzNFVWxzeTh6LVE1X1BNZ3VjVmtybEh4Wmhyd1pPQkFnMTE2Smh2R3FjMl9vaVBLcWFRa19OMkJnWHNQSlM5SmZMYVc1ZjZhRFJnMFBmU2h0bEx4cXE3S3J4Sk8xQXJJdUNPc3paNUx5MlRKUw?oc=5"
-  },
-  {
-   "ts": "2026-11-10T07:19:10.630960+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes</b>\n📰 CNBC · Mar 10/11 07:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SVZ4ZGc5a3Y1STlmenVpVHNaX1MxQklrdlRKOTNlekw1ZThJU3RpZDd2RzhfLVNVZG9IUDRwQng1Q19iaTNfY01DM2lFZlpEbzJqbEZDeDJObkVPRTN1ZTYzOVFULVJuOUc0?oc=5"
   }
  ],
  "daily_forecast": {
