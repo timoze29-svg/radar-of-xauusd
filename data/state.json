@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794284151.1393747,
+   "ts": 1794287754.6052709,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,12 +1089,6 @@
   }
  },
  "seen_news": [
-  "8bbfbaee2247",
-  "46bb99586f4e",
-  "f7e376e697ba",
-  "810817c09f70",
-  "28dc8fe72d8e",
-  "0d2664017cd4",
   "eb8975457062",
   "2423d52782d7",
   "dbb982897df3",
@@ -4088,9 +4082,27 @@
   "d126e658681e",
   "5761fff1c128",
   "f7b37c6da5a0",
-  "261bd99b0ebe"
+  "261bd99b0ebe",
+  "25405996a9dd",
+  "e6a4c96f3559",
+  "b4ef1a4d3732",
+  "67ccc68f1084",
+  "92b52dabd1fe",
+  "6320abd8dbf1"
  ],
  "news": [
+  {
+   "title": "The War Putin Wanted to Keep Away Is Coming Home to Russia",
+   "source": "Bloomberg.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejVOS3ZkMHdJYkh0ZHpjMjRPbTJqbFRrU2g1YlpDelRsbndKbDdGWGdOeDRVdTZYT05pcTR5TlFYQWh6VWRzd3U2U3lrZkhSa19OS1dWU3JTZ205NUNWcjFnSUVsNl9ncnJocm85SDBVcmhBZjRCSkI2V3ZDdGRaWThNZGx5RkdiRDg5RldnM0tmTFZXeUs2ZnBTSEpabC04MVZjLWNwME9aekRRT1VxdGtaV0NlUQ?oc=5",
+   "published": "2026-11-10T05:00:00+00:00",
+   "id": "6320abd8dbf1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US/Israel-Iran war: What UAE residents need to know today (Nov. 10, 2026)",
    "source": "Gulf News",
@@ -6478,23 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Menaces sur le détroit d'Ormuz augmentant les craintes d'approvisionnement mondial.",
    "method": "IA"
-  },
-  {
-   "title": "Dont Talk to Me About the Price of Gas",
-   "source": "pjmedia.com",
-   "theme": "Géopolitique",
-   "link": "https://pjmedia.com/stacey-lennox/2026/11/08/dont-talk-to-me-about-candidate-quality-n4959159",
-   "published": "2026-11-09T02:00:00+00:00",
-   "id": "bd25e68aa1d4",
-   "impact": 1,
-   "cat": "inflation",
-   "raison": "Préoccupations liées aux prix des carburants soutenant les anticipations d'inflation.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "rep|daily|2026-10-20": 1792472565.298812,
-  "news|9b7f6987e081": 1792473360.7606359,
   "brk|GOLD|pdh|dn|2026-10-20": 1792474279.61661,
   "brk|DXY|pdh|dn|2026-10-20": 1792475274.1283698,
   "news|0135795d6c66": 1792476096.5695074,
@@ -8179,9 +8177,10 @@
   "news|aeb2eaa104db": 1794283300.1379092,
   "news|0f57e9e5ec4f": 1794283300.9469972,
   "news|ad9d5e6ea99f": 1794284175.948866,
-  "news|d126e658681e": 1794286897.3573027
+  "news|d126e658681e": 1794286897.3573027,
+  "news|6320abd8dbf1": 1794287773.7548883
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Haussier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8539,6 +8538,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T05:16:15.142556+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Haussier</b> (score +15)\nMoteurs principaux : Taux réels 10 ans (20j) (+12), Sentiment news 24h (+11), Momentum or (vs MM50) (-9)"
+  },
+  {
+   "ts": "2026-11-10T05:16:13.755004+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The War Putin Wanted to Keep Away Is Coming Home to Russia</b>\n📰 Bloomberg.com · Mar 10/11 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPejVOS3ZkMHdJYkh0ZHpjMjRPbTJqbFRrU2g1YlpDelRsbndKbDdGWGdOeDRVdTZYT05pcTR5TlFYQWh6VWRzd3U2U3lrZkhSa19OS1dWU3JTZ205NUNWcjFnSUVsNl9ncnJocm85SDBVcmhBZjRCSkI2V3ZDdGRaWThNZGx5RkdiRDg5RldnM0tmTFZXeUs2ZnBTSEpabC04MVZjLWNwME9aekRRT1VxdGtaV0NlUQ?oc=5"
+  },
+  {
    "ts": "2026-11-10T05:01:37.357381+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US/Israel-Iran war: What UAE residents need to know today (Nov. 10, 2026)</b>\n📰 Gulf News · Mar 10/11 05:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHZJQW5VNGhRODAxWXNrY0pEY0xVc1pCOVBucmJNaF9WMGM5dC0tQ0NFYjZTZnI2VGxxb0ZuR0Rwc3N1ejNCXzU5Q28xVVJuMTRjdmRMMEhIRC1uV0xvZW5DRGEtaGpweldab0F3a1U4M3gtVW8zQ0NPWUVsUXdfWXkwUmwtYWNUd0lmU01ESHR2ZzQ0WFpwOXZvM1NReFBvaGM2VjhtTdIBtwFBVV95cUxOWnZlMEtzY3RHdkgzYzFxV2lES2pYV2pjckpZNUFJY3NlNEhfZXZyTkRJZE9CV205N0ZiSVZEa2lnQWFXbjl0eWNfUF9zNm5pRWhGbmRjZlNWZU9VNXcwalgwZmVEM1MxQV9fZFNod3dzMU9rQTB6NjVyZHk5VmMyaDYwQnpvdVpBcU1VVllVamUzbmxpNHZWOUh2RFlmcEhiS29lemEtVndLQzFKUzNXQkNsVW1jaHM?oc=5"
@@ -8827,16 +8836,6 @@
    "ts": "2026-11-09T15:31:51.840222+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Here are the difficult options Donald Trump is weighing to resolve the war in Iran</b>\n📰 Inquirer.com · Lun 09/11 15:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQZG50TEVFSkFKR1E5ZC1Sdlo0dzBwbVlXeFpZYXptNklTdE56akZVekZldEUtSXA5OXk4UlZBbTlLbXRUbkxYZXc5TTNENHF5WmlpVW1vMm1YamVENk1nN2w5eWswNE1SSjdRNmhiQ1ROQ2VKaWxQTHcyczJxaWVfTUtMT096YTA1Nmx2UnhJaWVmck0?oc=5"
-  },
-  {
-   "ts": "2026-11-09T15:19:42.388077+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +14)\nMoteurs principaux : Taux réels 10 ans (20j) (+14), Sentiment news 24h (+14), Momentum or (vs MM50) (-10)"
-  },
-  {
-   "ts": "2026-11-09T15:19:41.089739+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran stands by demands to end the war as US ramps up military pressure</b>\n📰 Al Jazeera · Lun 09/11 15:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkgtZG1NRldabldXcTZyQ2ZCMjRVVERlVW1ralBFRUdDSUJSTm43X0lWRzVTUGZ3akZqVkl2c2ttR3VnQVNlc0lhU24yY01DM25jTWdwY3NBMzl1NkhOTlNZSnBKcFk5X212QjJXc1RSemQ4NVUtSGhxc0JvQWpGU0xhdVJxcGxFaFFkbzZGalpabDNsMzhpOU1jdVhHazh3MmhVOTdSRVlWZW5kYXBuddIBtgFBVV95cUxOWjNoNFZsbXJob0phMTUzYWt1Q1FONkdmeGRDZV8xcUJfNXZxQm9PaExVMFY3U2M4QWFJdEV0dHd3OXpSY0Z6WXcySFp0ZldFaWRDTmxXSTJNRFE3LU13c3VBTk02djRxZUM2Z2pvTUFRbmxmTEpXM1VUUTJPenlqLWFRZ09MTTI1ZUlGS3pPS3Flajhua1poeXMtN01ENmdNQ2FsMDJzVWNfSzBXalJmenpDRzZBQQ?oc=5"
   }
  ],
  "daily_forecast": {
