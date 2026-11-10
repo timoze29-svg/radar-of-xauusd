@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "638389ab7cfc",
-  "a80a4632447d",
-  "e0bfdb194f8c",
-  "e77b70eaa4da",
-  "cbf162131c34",
   "10c6f93a2f3f",
   "98cb44257aa8",
   "9d5a53b4191c",
@@ -4088,9 +4083,26 @@
   "9275f64f191a",
   "3aa1d4431d00",
   "6ebee7285f54",
-  "7133390fa9ae"
+  "7133390fa9ae",
+  "054849db7ba3",
+  "8d70f694ce83",
+  "fc6b72658482",
+  "455b3db660e3",
+  "add0282bf14f"
  ],
  "news": [
+  {
+   "title": "US Core CPI Rises More-Than-Forecast 0.3%, Supporting Rate Hike",
+   "source": "Bloomberg.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
+   "published": "2026-11-10T13:32:50+00:00",
+   "id": "455b3db660e3",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran War Day 256: Trump Says Escalation ‘Unlikely’",
    "source": "The American Conservative",
@@ -4123,6 +4135,18 @@
    "published": "2026-11-10T12:39:00+00:00",
    "id": "5f890bea6130",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "IDF prepares for surprise Iranian attack as US pursues deal with Tehran",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40Zzhja25JdnVTb242NExwTHpzVV9SYVZQREhGNGdYdlc3WThreFdobjhpejc1eENtWkV2TkQtYWlLOGtxNnZQVHV6YlZvZWJJRTNsSmYyT3NZY0o0QlY2RnRXRWFaSlB5b0ZCNFZR?oc=5",
+   "published": "2026-11-10T12:32:23+00:00",
+   "id": "054849db7ba3",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6466,30 +6490,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Donald Trump Shares Wild Dana White UFC Cartoon of Fighters Attacking Reporters",
-   "source": "Yahoo",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1I4YUt6cUc1NW1RYmhCMHZFb3h3YXlEaWlPZlFraFZWazNqWnhfVUhLSVdOQVJBd2p3eFpQREV5YWs2dFZCMFpFeGVjVzJ3RC1rUU00RnVqX0tLWVhhOUg3X0NiYml6MFgtcjVPUHBwMVFHczNydjFkZURBVmJJSDZ3SFJsM3BBYTN1MlZNcGdYNTQ?oc=5",
-   "published": "2026-11-09T10:09:07+00:00",
-   "id": "7c55ea845d07",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump shares Family Guy-style cartoon of Dana White as press secretary with UFC fighters attacking journalists",
-   "source": "The Independent",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnFOcmpCNEkzYUl2a2pfNXhPeDZ4NXNPY2NaUkxWeGFVRGhsRW1qdU5xUEItbHJ5a19Sd1d0cmFlN2UzcEZhWHdpY1J0UnE5QTAyNVRheDM5YW5Sc0Z5eGMwQkxSdWtmM2VaNmdZZ1V1ay14aXZkX2hieV9QU2k4ZjJ6Z2stX3hqNTY3TnZKU2FXRnFmSWhkZmE0S1NxbXRWU3V4MlNn?oc=5",
-   "published": "2026-11-09T10:03:00+00:00",
-   "id": "55e7430dcec8",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8205,9 +8205,12 @@
   "rep|update|2026-11-10": 1794315706.7025132,
   "pre15m|2026-11-10T08:30:00-05:00": 1794316613.1915016,
   "news|6b1e8023f40b": 1794317488.7905858,
-  "news|5f890bea6130": 1794317489.684612
+  "news|5f890bea6130": 1794317489.684612,
+  "brk|GOLD|pdh|dn|2026-11-10": 1794318374.671033,
+  "brk|US10Y|pdh|up|2026-11-10": 1794318375.629601,
+  "brk|US05Y|pwh|up|2026-11-09/2026-11-15": 1794318376.6359844
  },
- "last_bias_label": "Haussier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8581,6 +8584,31 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T13:46:18.458319+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.26%\n✅ Taux US 10 ans +8.6 pb\n▫️ Pétrole -0.56%\n✅ EUR/USD -0.26%\n▫️ News dollar/Fed : 1 (impact moyen or -6.0)\n   • US Core CPI Rises More-Than-Forecast 0.3%, Supporting Rate Hike\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>55%</b> des cas sur 2h,\net l'or a baissé dans <b>48%</b> des cas (moyenne -0.6$, sur 267 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
+  },
+  {
+   "ts": "2026-11-10T13:46:17.562670+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Haussier → <b>Neutre</b> (score +7)\nMoteurs principaux : Sentiment news 24h (+16), Momentum or (vs MM50) (-13), Taux réels 10 ans (20j) (+12)"
+  },
+  {
+   "ts": "2026-11-10T13:46:16.636048+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Taux US 5 ans</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 4.764 → prix : <b>4.784</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.01 | 60j -0.22"
+  },
+  {
+   "ts": "2026-11-10T13:46:15.629676+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 4.886 → prix : <b>4.950</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.04 | 60j -0.23"
+  },
+  {
+   "ts": "2026-11-10T13:46:14.671097+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 4 062.50 → prix : <b>4 053.00</b>\nATR jour : 88.6$ | Pivot hebdo : 4039.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 682 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-10T13:31:29.684887+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing</b>\n📰 The Guardian · Mar 10/11 13:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWRuMnJLWDducThsUU1nZTMydzQxamhDZWgzRi1qQ1BGZE9XZW9NVjRiTTJIMzlQRklseXdxbEtNS3NMem90UHVfTlB2aXdRRng2OWF3TTZxbmVJY25pbE1peDZtWVRlY3plSWhTTHRONURPYXhTTWhlckhLZmNNR0dnTnRuTTdoQnU3djhsYUtqQngteWlvcWlMUlZ4RVo4cXU0blZZRDUybVVWc1FRSnFtQQ?oc=5"
@@ -8854,31 +8882,6 @@
    "ts": "2026-11-10T02:46:04.766321+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war is 'effectively over' militarily with further strikes unlikely</b>\n📰 BBC · Mar 10/11 03:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5"
-  },
-  {
-   "ts": "2026-11-10T02:01:39.299268+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>2026 carbon budget says Iran war sparked decline in fossil fuel emissions</b>\n📰 abc.net.au · Mar 10/11 02:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.abc.net.au/news/2026-11-10/fossil-fuel-emissions-to-fall-in-2026-due-to-iran-war/107329262"
-  },
-  {
-   "ts": "2026-11-10T01:57:38.440364+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily</b>\n📰 Al Jazeera · Mar 10/11 02:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5"
-  },
-  {
-   "ts": "2026-11-10T01:57:37.588179+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as Trump downplays prospect of escalation with Iran</b>\n📰 Reuters · Mar 10/11 02:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
-  },
-  {
-   "ts": "2026-11-10T01:16:07.112018+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Hegseth against impeachment over Mark Kelly, Iran and boat strikes</b>\n📰 Cronkite News · Mar 10/11 01:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZGNWSjdJRzV6bURoY25jdDktbGFzZXV3aV9kRU0xV2pRVkw5bGtyVE9qM3RoaUV1SlhtOEd1elpxZTVxYmlkeGZaR3dGTXVVNWVTc1lwOE1DVFE1X1ZFanlkR2pXZ0N2S1FwT3FPSlBaQTVzUE1j?oc=5"
-  },
-  {
-   "ts": "2026-11-10T00:48:06.183849+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump says Iran war could end soon, defends Pete Hegseth, Nvidia CEO</b>\n📰 The Jerusalem Post · Mar 10/11 00:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE82MXVqU1JPX3RQaHdweWxrSTJkeVpUNDBEc0JlNUVLODlUXzZsUVNqSTNyUzFEMU1YUDYzNGdhcWpuNWVsQnBySVdDM2tENzlTVVZzWjhFNEptR0RHS2xn?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9072,7 +9075,7 @@
   "ai": false
  },
  "dp_last": {
-  "status": "down",
-  "ts": "2026-11-09T20:01:47.553827+00:00"
+  "status": "up",
+  "ts": "2026-11-10T13:46:18.458067+00:00"
  }
 }
