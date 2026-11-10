@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "5fa14e3f5c8f",
-  "ca70441678d7",
-  "a99f968f4edc",
   "39091d89229a",
   "b134137be1de",
   "4e120826e171",
@@ -4088,9 +4085,24 @@
   "c77fffee6a85",
   "85ddd912ced1",
   "8795c360494f",
-  "033a5f9aa92b"
+  "033a5f9aa92b",
+  "53806d37ae6d",
+  "b685e3765251",
+  "6dbf215f63a1"
  ],
  "news": [
+  {
+   "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+   "source": "CNBC",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SVZ4ZGc5a3Y1STlmenVpVHNaX1MxQklrdlRKOTNlekw1ZThJU3RpZDd2RzhfLVNVZG9IUDRwQng1Q19iaTNfY01DM2lFZlpEbzJqbEZDeDJObkVPRTN1ZTYzOVFULVJuOUc0?oc=5",
+   "published": "2026-11-10T06:58:32+00:00",
+   "id": "53806d37ae6d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "World in brief: FBI looks into Huang affair; Trump says Iran war is “effectively over”",
    "source": "The Economist",
@@ -4594,6 +4606,18 @@
    "cat": "géopolitique",
    "raison": "Déclaration d'apaisement régional réduisant légèrement la prime de risque au Moyen-Orient.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Signals Further Airstrikes on Iran Won’t Be Necessary",
+   "source": "Bloomberg.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVduRDc4eWZyV3N1OXZIUnAzOG0yNGNTVDVBd3FaU0t2ZmJua2RXQ2xHSE9WTkdRbW53bTlrTVpkOXNPdzNFVWxzeTh6LVE1X1BNZ3VjVmtybEh4Wmhyd1pPQkFnMTE2Smh2R3FjMl9vaVBLcWFRa19OMkJnWHNQSlM5SmZMYVc1ZjZhRFJnMFBmU2h0bEx4cXE3S3J4Sk8xQXJJdUNPc3paNUx5MlRKUw?oc=5",
+   "published": "2026-11-09T23:06:02+00:00",
+   "id": "b685e3765251",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
@@ -6466,30 +6490,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Bitget UEX Daily | Chip Rebound Fails to Ease Rate Hike Pressure; Bitcoin Falls Below $75,000 Again; AI Orders Face Val…",
-   "source": "深潮TechFlow",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zOFk3bkRyYWxOQk1GanhqQWhObHVnbk9nZGZZdnpTd1dmRDcyVkJEUkNoSVdDcXd1Z0JMNDd3NWZYQ0xiNFppakRBcjFzVk5UUjRidmY4SnBLRS12?oc=5",
-   "published": "2026-11-09T02:43:32+00:00",
-   "id": "9efcef20f6ca",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "China extends suspension of 24% tariffs on US goods, keeps 10% levy ahead of APEC",
-   "source": "investingLive",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTZ4MlpTSUVFUGhKMnFta2NVVzJlYlUyTFBPM0Y3T0VlNGsxX0dRWk1uc1RSZVRFbGRSc282WDNya2NPM204NFc2UHNqNmdOX3JVbl9QRVNzLVd4OXdvNzVRbWtFQXlmWExWYVpib2lfNFo4Ul94UlY2LWJkOEJnU0VRcEN1cUFsRmwzR1dtVFpZZWNrLU14c2V1T0d3Tjl6NWR1N2p2RGJINXQzRndnSGJB?oc=5",
-   "published": "2026-11-09T02:42:34+00:00",
-   "id": "8bfe686114a1",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Gestes d'apaisement commercial sino-américain réduisant la demande d'actifs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8179,7 +8179,9 @@
   "news|a4c8eb0e5c25": 1794290494.9388351,
   "rep|daily|2026-11-10": 1794290497.3244026,
   "news|59432e91d343": 1794291365.9248614,
-  "brk|DXY|pdh|dn|2026-11-10": 1794293369.6390378
+  "brk|DXY|pdh|dn|2026-11-10": 1794293369.6390378,
+  "news|53806d37ae6d": 1794295150.6308663,
+  "news|b685e3765251": 1794295151.5236423
  },
  "last_bias_label": "Haussier",
  "initialized": true,
@@ -8555,6 +8557,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T07:19:11.523917+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Signals Further Airstrikes on Iran Won’t Be Necessary</b>\n📰 Bloomberg.com · Mar 10/11 00:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVduRDc4eWZyV3N1OXZIUnAzOG0yNGNTVDVBd3FaU0t2ZmJua2RXQ2xHSE9WTkdRbW53bTlrTVpkOXNPdzNFVWxzeTh6LVE1X1BNZ3VjVmtybEh4Wmhyd1pPQkFnMTE2Smh2R3FjMl9vaVBLcWFRa19OMkJnWHNQSlM5SmZMYVc1ZjZhRFJnMFBmU2h0bEx4cXE3S3J4Sk8xQXJJdUNPc3paNUx5MlRKUw?oc=5"
+  },
+  {
+   "ts": "2026-11-10T07:19:10.630960+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes</b>\n📰 CNBC · Mar 10/11 07:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SVZ4ZGc5a3Y1STlmenVpVHNaX1MxQklrdlRKOTNlekw1ZThJU3RpZDd2RzhfLVNVZG9IUDRwQng1Q19iaTNfY01DM2lFZlpEbzJqbEZDeDJObkVPRTN1ZTYzOVFULVJuOUc0?oc=5"
+  },
+  {
    "ts": "2026-11-10T06:49:29.639097+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Dollar Index DXY</b> casse le plus bas de la VEILLE\nNiveau : 101.64 → prix : <b>101.62</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.34 | 60j -0.44"
@@ -8843,16 +8855,6 @@
    "ts": "2026-11-09T17:16:17.149495+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump calls Strait of Hormuz blockade ‘history’s greatest’</b>\n📰 The Hill · Lun 09/11 17:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1EwcGhxVzFLQ2xYSG83alZmVUVTZ2RLcmt3MWJnQ3ZJUGlaVlY5R3J5MXc5V2dDNXpiellVM2FUc0pxREhwN21YVThZcGtDNXlLWjJGY1YwQkxwRkRnM0ViaXh6LW5SN2Nic2FFSG4yYlN5Y1BtRFhDUEwtVDY0TzZBRTBNaVdfbFhZUHJyZ1rSAZYBQVVfeXFMTVFjZFhFSVFPbU10STk2TWFhRnIyRVdERllEWEt0eXpiMUdfLWpNUzllcXY3TVh0bnlPb3BIYnJXRThXZWgxcTJVd0JZMWIwX21CZmMwRldZQVB5Q3VNRXpBd25LQU05UHVmMW8xVkNTWGkyd0xlOWpVUDZtaXFiaW9SVzdCM2QtZEEyeVZBWXF3bGlrVFRB?oc=5"
-  },
-  {
-   "ts": "2026-11-09T17:01:41.010963+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-09T16:16:21.211826+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-5.10 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
