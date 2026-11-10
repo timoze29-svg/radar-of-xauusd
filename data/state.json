@@ -1089,13 +1089,6 @@
   }
  },
  "seen_news": [
-  "97c253652796",
-  "996daa7a7b53",
-  "c30e7e95513b",
-  "92843486bb56",
-  "2aa03bcb54a8",
-  "d152f005938e",
-  "11d948ee9fbd",
   "7be44bfd6c0c",
   "60d8d03f958a",
   "a93d439eb6d5",
@@ -4088,7 +4081,14 @@
   "0ec626beb6a1",
   "737c23078887",
   "75dddcf2339a",
-  "ce0e66a34711"
+  "ce0e66a34711",
+  "59d9e20a7ae9",
+  "47865778bfa5",
+  "799026a85ba1",
+  "4f3244243fc9",
+  "47ddb45c01b9",
+  "626dd50f72a6",
+  "4f28ed1c7afb"
  ],
  "news": [
   {
@@ -4461,6 +4461,18 @@
    "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+   "source": "Al Jazeera",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQcWtnZ216OE9mOHgxN2taSGhhWjZzd1nSAbABQVVfeXFMTVRPdWIwbnlsVHJ4aHBmOTNyWFNTbzhmajNIZXFSaUZlQWNneXQ1ZUczTXlMM3NHYXRNaXg3c2E1UEVxNjJwVm9LU2o5TnNTV2pISE9EVC1WU0w5OFdwUTJBRjJXaERTOEQ2SDFVYnhtTDhvUVV0NlBraXFwM1JXeUNNTFhaRTNRTVdKTnVFUWtYVkROelVIZ3U5R2hSSm5WQUVYTFBFSUNYdHJzY3kwZnY?oc=5",
+   "published": "2026-11-10T12:59:39+00:00",
+   "id": "47ddb45c01b9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Frictions militaires directes entre USA et Iran à Ormuz stimulant l'or.",
    "method": "IA"
-  },
-  {
-   "title": "EU's Kallas: Russia 'pretending' to negotiate on Ukraine while 'bombing civilians'",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2JEbVRTVVAxUDdfY2lCZ3JheVZ5QXdOck1vSDR3X2NpR1dCV1NxcnJITm1xN0Y1VFZ4ZlpibWcxNlJZeXg1YmYycW1GbkQ3RWo3Ym5MZDAzempjaWhRLXFNOEp5ZVBEeS1EMFI1NzF6LVM0UDRiSkdocFBMeWZlRnFXaE01XzRqVWxnS1djYk1lUW5rbDZ3eHhCNUZlYTA?oc=5",
-   "published": "2026-11-09T16:12:02+00:00",
-   "id": "3d1c71095462",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Scepticisme européen sur la paix illustrant un enlisement du conflit ukrainien.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8219,7 +8219,8 @@
   "news|c9ada44d1b30": 1794331890.1871443,
   "news|fcb74fd3f774": 1794332353.2946203,
   "news|84df6b3c5d89": 1794332354.1451216,
-  "news|0ec626beb6a1": 1794332791.8120587
+  "news|0ec626beb6a1": 1794332791.8120587,
+  "news|47ddb45c01b9": 1794333710.9624224
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8595,6 +8596,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T18:01:50.962509+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran lifts 2,000km limit on its ballistic missiles: What that means</b>\n📰 Al Jazeera · Mar 10/11 13:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQcWtnZ216OE9mOHgxN2taSGhhWjZzd1nSAbABQVVfeXFMTVRPdWIwbnlsVHJ4aHBmOTNyWFNTbzhmajNIZXFSaUZlQWNneXQ1ZUczTXlMM3NHYXRNaXg3c2E1UEVxNjJwVm9LU2o5TnNTV2pISE9EVC1WU0w5OFdwUTJBRjJXaERTOEQ2SDFVYnhtTDhvUVV0NlBraXFwM1JXeUNNTFhaRTNRTVdKTnVFUWtYVkROelVIZ3U5R2hSSm5WQUVYTFBFSUNYdHJzY3kwZnY?oc=5"
+  },
+  {
    "ts": "2026-11-10T17:46:31.812139+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘This is sabotage’: Hegseth criticizes impeachment effort, defends Iran war</b>\n📰 The Washington Post · Mar 10/11 16:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOU0NfU1AyTXJKVl9lSTVKM0s0amhrY1VCNFlwU1kzOXNLeVNjd0NMQ1NtVlNLWDl4WmlWVDBET1NfWnRfbjRHQWZPb0hPNHBzeEgxaVVKTDY5WkdINVFfME9TZEJVbXVoT01fWVBIdkI2ZGhsWFZXQWhRb2R2bmV0dThXX3Y3YUw5eDVEM2REOElVbnUwcTdJXzlaSU4zRHZCSXUwbHBuaUR3VWZRMkd3VS05RGM1QWRBQ2R6cEV2eXo0V0trblZieU1PZE9CQW51MHF0VjI0SS1lLUlZVDY0UTEtZjV3WDBwRmFiWVAxaVYxSWpUUGxiYzJITTh2d2ZBOWdaNGdlYw?oc=5"
@@ -8888,11 +8894,6 @@
    "ts": "2026-11-10T09:31:31.973447+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>IDF prepares for two potential Iran escalation scenarios as US pursues diplomacy</b>\n📰 The Jerusalem Post · Mar 10/11 10:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE40Zzhja25JdnVTb242NExwTHpzVV9SYVZQREhGNGdYdlc3WThreFdobjhpejc1eENtWkV2TkQtYWlLOGtxNnZQVHV6YlZvZWJJRTNsSmYyT3NZY0o0QlY2RnRXRWFaSlB5b0ZCNFZR?oc=5"
-  },
-  {
-   "ts": "2026-11-10T09:31:30.951431+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide</b>\n📰 Le Monde.fr · Mar 10/11 10:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjg5SVl0M01US3RVYlJDNDFKRENxWFBCN0FzUEFmdmxSTWoxcUxpdGJEbWtVVWlwR1JGZkpkWW5oNkNqOXB4WEV4Szh2a2R1VE1Kb0NOWW0zUHpKTXVVU3hKMFdodXBybnJRUkV2TlZsM3dmaWF6Q3FheU4wcVNvck1FS3daMHpERElMTTRCeGdMWG80ZDZUT0tsVGdDc3AyM081SGhNTXE5cVg4LTZNYXhpY2x6VTVJLTVodU41U1FDcUpUVS1NS2VQdDFqTUhUSXJBMTBha2p0RVE2eTJkRk8tanREeG9DU2tzaHhmbHJjYmk0?oc=5"
   }
  ],
  "daily_forecast": {
