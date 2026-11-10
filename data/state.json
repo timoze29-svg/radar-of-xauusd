@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "71ca298527d6",
-  "bd613ee84f3c",
-  "369432c46675",
-  "b2bc91446afb",
-  "2e0f0aa801b3",
   "10d38b90dc5b",
   "deb0d93613d7",
   "4eef6e97e47b",
@@ -4088,7 +4083,12 @@
   "f33036cfd958",
   "5bf4fe5ac46e",
   "7689d3945acf",
-  "bf1cf0162b29"
+  "bf1cf0162b29",
+  "a3007172a6df",
+  "fdeb5064890d",
+  "e0b81c2834d1",
+  "34cbfc7b4425",
+  "f1f5b1bea281"
  ],
  "news": [
   {
@@ -4135,6 +4135,18 @@
    "published": "2026-11-10T18:48:29+00:00",
    "id": "35ca28651117",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHNYa19POGtkVEdEX0E1M2c1TWtBd1VSZzUzcGJoVVItMkw5WHNmTHUzQkVpQl9GbTZuRUEzRGlTeXNxMURlNVlXZjRWbld4UUdPeTVXOWlsOGVEajRJbVBZQzlGWlNCX0xPUlUyQTFpUUN3QUtmRHFjWWZEU19vZWVCNU0yTkFEejBjcnVlczlGWTRBUmpJNTlBUXg1b21hWmFCVTZJdFZGQ3VGcDBkbzc2UHQ5QdIBuwFBVV95cUxNSjVHek9yQzFBZUVXdmdpb0hhZUxEU0ZnNzlGeGhpVFloR19aVElnWGY0b2tlclRqY2h0VHljSHpqbExSVm81ekxMM2FSbDIxaFpRQ01udVIyak4waVhZQmswM0JBZVZlcDc4MVJ3SVJnUnBxRl9BYnhISl9rSXYxZjRSazBab1NMQVpMWlNJTFozQUpPOHp5czdkZ0tyMnVldlpSNlBlTExKcUFKMFYxSFVsYTNFLXFiSExZ?oc=5",
+   "published": "2026-11-10T18:43:25+00:00",
+   "id": "34cbfc7b4425",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6478,22 +6490,9 @@
    "cat": "taux",
    "raison": "Remontée des rendements obligataires américains, augmentant le coût d'opportunité de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Boosting healthcare and ending the Iran war are top of the to-do list for House Democrats once they have majority",
-   "source": "PBS",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWlBzWDRFNnNYdWlRVGotaFp0U1U2SjRmX1NuLVE4SHAycjBBM0pGRVRRQU5vUlFTZldCa1ZSYnI1UUFEU3p5LUdJcHZ1SU8tOG1EUm15eTlCZUxhUXNDQXB6cDNuQXJBRDY1ZmlRVzZrdWhlaUNINzR0dmVZWTc1T0d4Y3NNaTE0SkxoeTNodFczYzJueTdpb2NTbDlTbHhjS09kcjRzUl9KMy1CVWFrMk03Z2xHakhLS1ZQTnhwTmdGTjdVRXVNcFE3enB4R1RCbE1EbnhhalJHTmdjSDhVQUNaSlZjQdIB6wFBVV95cUxNQlRSVWg0U2ZvOGlENGRZeDd5dzhiMFlxbEdkQURaMWJnMWJIejl5Mlh4VmRTWUVSOUI0bjNVLTFTdmtweTAzaWVKMGNfVlg4dC1vdlVMR1BUaGduZ1c4OEVORHdkb1hlNTJrb0xVa1F5UTJQSVU4X0w3WGJtbnBweFNIdkVyU01UY1BmbUpMOVd0WGdHWnQ4b1J2dzNobklmNnA5UU9XcngzMkhraWJzNUdGZHNZMDZ5RjRPVjlNZERoNmdDSVFSUWpJdXVfQTRtazJCUE90bTBvWV9idmpHazJwakRKUk00NV9B?oc=5",
-   "published": "2026-11-09T17:34:58+00:00",
-   "id": "686200bca2c8",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Pressions politiques pour stopper le conflit, biais modérément baissier sur la prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|c93c8a5d0ed8": 1792524683.2268646,
   "news|aab106d49ddc": 1792525615.2811975,
   "news|1b1ff3cf26f6": 1792525616.238265,
   "rep|recap|2026-10-20": 1792526495.5509017,
@@ -8223,7 +8222,8 @@
   "news|fca1af86ee92": 1794337480.469177,
   "post|2026-11-10T13:30:00-05:00": 1794337481.7659183,
   "news|35ca28651117": 1794338241.149231,
-  "pre1h|2026-11-10T15:30:00-05:00": 1794338242.3987663
+  "pre1h|2026-11-10T15:30:00-05:00": 1794338242.3987663,
+  "news|34cbfc7b4425": 1794339089.5833
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8599,6 +8599,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T19:31:29.583439+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade</b>\n📰 Fox News · Mar 10/11 19:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHNYa19POGtkVEdEX0E1M2c1TWtBd1VSZzUzcGJoVVItMkw5WHNmTHUzQkVpQl9GbTZuRUEzRGlTeXNxMURlNVlXZjRWbld4UUdPeTVXOWlsOGVEajRJbVBZQzlGWlNCX0xPUlUyQTFpUUN3QUtmRHFjWWZEU19vZWVCNU0yTkFEejBjcnVlczlGWTRBUmpJNTlBUXg1b21hWmFCVTZJdFZGQ3VGcDBkbzc2UHQ5QdIBuwFBVV95cUxNSjVHek9yQzFBZUVXdmdpb0hhZUxEU0ZnNzlGeGhpVFloR19aVElnWGY0b2tlclRqY2h0VHljSHpqbExSVm81ekxMM2FSbDIxaFpRQ01udVIyak4waVhZQmswM0JBZVZlcDc4MVJ3SVJnUnBxRl9BYnhISl9rSXYxZjRSazBab1NMQVpMWlNJTFozQUpPOHp5czdkZ0tyMnVldlpSNlBlTExKcUFKMFYxSFVsYTNFLXFiSExZ?oc=5"
+  },
+  {
    "ts": "2026-11-10T19:17:22.399126+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 73 MIN — 21:30</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.56% aujourd'hui · taux 10 ans +13 pb · biais or -6 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 89$ → attends-toi à des mèches rapides."
@@ -8892,11 +8897,6 @@
    "ts": "2026-11-10T10:31:27.862530+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 10/11 10:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGVuZmI2Sjh5TjRhZXdKdk4xOGNyNV9oQ3lfQ0ttWmtfbFJWUnRaQUVld2JwTzNNSzI4dksxcXZ1VUVlMUpNT09ibTVLUm1kanhicWZJbzh2cEdGMFhTbU0tdk5zVGRBcFJJUUtqNHA3NmNrYmgxUE1Va0ZmaHRlMnVyYjNyaDhWWHJxRzAybFpBVk00ODlLODBiM0ZHWlVBSHhBbFNmY9IBrAFBVV95cUxNS0ZKYVVBS0R5Z1RsZGtFaDFocGNIS1pwSTRhYTRqb2pMRnZLZnhOelZRVmo1clJuZzFpZlI2YnVwMHQyMnphY21wc0dDR1NCVVRXUjQxbUJiNlNJSV8wRW1Gc3dwQ1cya19NY0xyX2VJakJ5dFBJWDAycmx3YV9FNGV0WHNFSDEwSng5cGhYbzNudTFYVVo3aW9QYXhMajI4dkE2eDhUT1Rjb2cw?oc=5"
-  },
-  {
-   "ts": "2026-11-10T10:31:25.271527+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 10/11 10:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2gtSW1CTEVvMER3RTJoWFdYOTZzQWZRcGRUc0M5M2RqRWpqc0ZLb0Z2Ry1tbkh1Ujh3VV9LWFZYVkl2TjZJX0I5NWMwc09qR2FIR2F0cU5Xc1g4UlZScWtWdExnbkVGaC1COE9icE5jTHVZVHpWOUVmZ2F0VUUwSC1LQWJvMkw0VzBwSUJoUS0tRjZiVW5ubjZERmgyaVZOQk8wWVhaMHNJeTRN0gGyAUFVX3lxTFBTRjF4NkJyYTZZd3J4QjlrX3hHUVZGQnY5cG55SHEteUU4OHlKTXZmMjh4OUo0R1ctb2JXMTJPS1Fkb09OVk9ncFhQN1RrdEg5WW5mNzMwUjFKd01BTHBaYWZXODNhTTNLZ0xqTmRfcjVxSXg3cUR0eTBnX3dXVkFZajdWWkk4cDhaMWJNNUdjRTNqeGVXSmluRVNJSXhRbGhvTDlvOWRTdHFMaG51cXE5ckE?oc=5"
   }
  ],
  "daily_forecast": {
