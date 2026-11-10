@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "61002f989835",
-  "bf0e27500ee4",
-  "2c0378cbd5fd",
-  "737c23078887",
-  "b739de774698",
   "5ad88f71b129",
   "98874d13cee4",
   "1962488ff9a3",
@@ -4088,9 +4083,26 @@
   "c9ada44d1b30",
   "29b8a41d171f",
   "0afb8e63e6d3",
-  "5ee1f9315a55"
+  "5ee1f9315a55",
+  "041531ee95d4",
+  "84df6b3c5d89",
+  "fcb74fd3f774",
+  "137bd041a244",
+  "51e66b5f756a"
  ],
  "news": [
+  {
+   "title": "First day of Ukraine peace talks constructive, Zelensky says",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
+   "published": "2026-11-10T17:29:36+00:00",
+   "id": "137bd041a244",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Central banks boost gold reserves in October, l...",
    "source": "Pluang",
@@ -4164,6 +4176,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Fed’s Logan signals at least two rate hikes this winter to curb inflation",
+   "source": "Crypto Briefing",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGNpMVp5OWlxNHdmNVo3dmtkbklOcFRodzAyZ0ZidUdaS1FqOFZUa0ZBTkpWQ0prSWF2elVucHN4ZU5peVpWZEhRZDRZcUVFUnR4M2MtUmZmdml5Z1JvRUdxTGx0RjE3RHlzekF2ZGVGaEczZlFTaEJJeHliS3BLSlRjNDNCbVoyLUh5VGEwMVpDb2lKRG80R1pLTkc5ZHVxSmc?oc=5",
+   "published": "2026-11-10T16:14:57+00:00",
+   "id": "fcb74fd3f774",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Firmer dollar, Middle East de-escalation hopes push aluminium to three-week low",
    "source": "Zawya",
    "theme": "Moyen-Orient",
@@ -4219,6 +4243,18 @@
    "published": "2026-11-10T15:22:05+00:00",
    "id": "06e9b3088495",
    "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israeli strikes and gunfire in Gaza kill 4 people, and other Mideast news",
+   "source": "The Boston Globe",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94ZjhvWG9VWjV5aUF5Y2N2bUp4MmwwMnF1ZFhQRWRBMnlpTEtuWmJoa3J3VjA0ZUxBal9ULU1kYzlZUzVwTktONU5YLVdYXzJXQUgxdGwyMzJjNVY0MnpmbjEwRV9sVC1qaHZuRlpOUExram40aFVJQWxYNUZWSFE?oc=5",
+   "published": "2026-11-10T15:10:23+00:00",
+   "id": "041531ee95d4",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5556,6 +5592,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Trump says Iran war ‘effectively over’ militarily, but US ready to strike again",
+   "source": "Iran International",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCeVZKdTZtT0RVUEhBdElDaTZ1cHpIQ09wc1lCT3ZmS0kyTmpqT2QxSFQ5ZmVGZmt1QU52LXo2c1B4ZUJIcmw1bllEeUJoMk5GUnc?oc=5",
+   "published": "2026-11-10T00:56:10+00:00",
+   "id": "84df6b3c5d89",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump defends Hegseth against impeachment over Mark Kelly, Iran and boat strikes",
    "source": "Cronkite News",
    "theme": "Trump / Iran",
@@ -6442,61 +6490,9 @@
    "cat": "commerce",
    "raison": "Escalade protectionniste avec le Canada alimentant les craintes d'inflation et d'incertitude.",
    "method": "IA"
-  },
-  {
-   "title": "British Pound reclaims 1.3400 as Iran war fears ease ahead of US CPI",
-   "source": "FXStreet",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDdnOUZzNUdFdGF2MlBiTnp4OFlXempNTzlzeVdOQTAzeWh5T3JaaHUtTUVxNnNqTTlyQVhoUWtWMWs4Z0dlQllUamJsdGd0UWpYeVBianBBVHc0aC05LXVZUmRCT0J0WUczTUdVV3pfOFN2MXBOekpoUHJSMkt1VElFVWR6ZkRFYnpObS1ZNmhRNko5T3htT2FRQ0Y4dTJZZUptUDk4bzNXaU5yaUYw?oc=5",
-   "published": "2026-11-09T15:48:30+00:00",
-   "id": "c13aac1f4413",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Apaisement des craintes de guerre avec l'Iran, réduction de la prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Zelenskyy, Modi discuss diplomatic efforts to end Russia-Ukraine war during phone call",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjFaWC11OUFIZTFYTV9ZYjNZMXA3U1ZrSVlpdy1idjM3dDdJNnBZbU5PaFo2NVF6ei05WmRhY0ZtMWxxeEdoOXJGRjZyYjQ4VTVzM0VCTHlscDhtWTVUWHp1Ukd2REdjUkYwOFVmZ1lMci0tSGNHcmd3RkxlX0lOSXZoV20zVlZZU1BCMzlIZFVZRlVuT0J1T3RTMzBQWEM5VDFyTnNPTmpkeV81VlMxbFAtVVd0X2pyOEJkNjZGcGFyWE45WnZ0OVg1UWRWZw?oc=5",
-   "published": "2026-11-09T15:34:05+00:00",
-   "id": "90aad1657028",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Contacts diplomatiques entre Zelenskyy et Modi suggérant une recherche d'apaisement.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Weekly Recap: Central Banks Buy 321 Tons, Post-Election Rally, and Corporate Results - News and Statistics",
-   "source": "IndexBox",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZktXU0pfcENRVE9EdWpBaGFjVHM5X29vZUt4SnM4b25RSUs0SmhPbHNDak1SS2Q4WEkzcnpqRUpySE9mN3F3TGFPWWI2al81WVE1c0dfV3phb2ZmLVcyd0REbEZRcDVBT2VhWkNXc0k2bFZEa19maDhNSEY3RUZjTnB3S3hIYXNEd1NIN1hsajhlUW9fQ0VZQzVKY1pmMDVibkFrOFBtdUFJbVJ4aFFr?oc=5",
-   "published": "2026-11-09T15:21:15+00:00",
-   "id": "3a0eadc4d945",
-   "impact": 3,
-   "cat": "banques centrales",
-   "raison": "Achats massifs de 321 tonnes confirmant le soutien structurel des banques centrales.",
-   "method": "IA"
-  },
-  {
-   "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
-   "source": "WSJ",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
-   "published": "2026-11-09T15:20:44+00:00",
-   "id": "87b708d240a1",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "Hausse des rendements obligataires augmentant le coût d'opportunité de détenir l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|4be2c6240094": 1792517612.2099357,
-  "news|065eb15a3136": 1792517613.2318463,
-  "news|da4b829ca764": 1792517614.3057055,
-  "news|ef6a432ebe5f": 1792517615.3508472,
   "news|0cf773564f2c": 1792518369.5904915,
   "news|d66566abeac1": 1792520164.378766,
   "news|6b37b318b9da": 1792520165.4488194,
@@ -8221,7 +8217,9 @@
   "brk|DXY|pwh|up|2026-11-09/2026-11-15": 1794329168.698135,
   "news|d7d085334e0f": 1794330099.6630847,
   "pre1h|2026-11-10T13:30:00-05:00": 1794330971.4168887,
-  "news|c9ada44d1b30": 1794331890.1871443
+  "news|c9ada44d1b30": 1794331890.1871443,
+  "news|fcb74fd3f774": 1794332353.2946203,
+  "news|84df6b3c5d89": 1794332354.1451216
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8597,6 +8595,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T17:39:14.145277+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war ‘effectively over’ militarily, but US ready to strike again</b>\n📰 Iran International · Mar 10/11 01:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCeVZKdTZtT0RVUEhBdElDaTZ1cHpIQ09wc1lCT3ZmS0kyTmpqT2QxSFQ5ZmVGZmt1QU52LXo2c1B4ZUJIcmw1bllEeUJoMk5GUnc?oc=5"
+  },
+  {
+   "ts": "2026-11-10T17:39:13.294716+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed’s Logan signals at least two rate hikes this winter to curb inflation</b>\n📰 Crypto Briefing · Mar 10/11 17:14\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGNpMVp5OWlxNHdmNVo3dmtkbklOcFRodzAyZ0ZidUdaS1FqOFZUa0ZBTkpWQ0prSWF2elVucHN4ZU5peVpWZEhRZDRZcUVFUnR4M2MtUmZmdml5Z1JvRUdxTGx0RjE3RHlzekF2ZGVGaEczZlFTaEJJeHliS3BLSlRjNDNCbVoyLUh5VGEwMVpDb2lKRG80R1pLTkc5ZHVxSmc?oc=5"
+  },
+  {
    "ts": "2026-11-10T17:31:30.187222+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war: Israel says it will hold talks with Lebanon 'soon'</b>\n📰 DW.com · Mar 10/11 00:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFsc0w2YTNGYVdwVUNlMnF5VVJtV21XS0FZWEQ0MGU4ejVpcTJfd2NNOEZfRDNtaTNSSWFvSlpZQlQ2SHhzYzdOdEFIbFdIc2hqUk85SHQxdG02ckJxX3U5QjhNMTJZWDh5WVdrM2F0a3V3OHRXNlpZaE0yamg3Y0RrbVRaTkFYMmRYV05lZjdHVHdzVnFYVg?oc=5"
@@ -8885,16 +8893,6 @@
    "ts": "2026-11-10T09:31:29.920667+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mar 10/11 10:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5"
-  },
-  {
-   "ts": "2026-11-10T08:47:12.463777+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Waller Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-10T08:31:58.374742+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — EUR/USD\n+0.01013 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
   }
  ],
  "daily_forecast": {
