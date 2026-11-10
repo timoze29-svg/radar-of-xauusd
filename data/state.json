@@ -1089,13 +1089,6 @@
   }
  },
  "seen_news": [
-  "ced950b90209",
-  "ba30b1990811",
-  "3156720f2bc6",
-  "aa26aba19c60",
-  "4a6a8de2cef1",
-  "a7906bf25a72",
-  "699210a16dbc",
   "677e810ebcd9",
   "682ba3a1f568",
   "fb558da36c25",
@@ -4088,7 +4081,14 @@
   "465a32918a51",
   "2be2e0d647aa",
   "136151e04299",
-  "624aef2ba40f"
+  "624aef2ba40f",
+  "aeb2eaa104db",
+  "0f57e9e5ec4f",
+  "a6c95cc4d5cd",
+  "27cb39716d3d",
+  "2fea8f1b7840",
+  "d7592a62cbe7",
+  "7cbc8e71654b"
  ],
  "news": [
   {
@@ -4110,6 +4110,18 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
    "published": "2026-11-10T02:38:00+00:00",
    "id": "8154a67e7fea",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Live: Trump says US ready to strike Iran 'if necessary'",
+   "source": "Middle East Eye",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2dqR0tHT2ZrV1FKNmI1RXVhS0lqYjVZdjFxeUVrcjJVOHNPLXBTNzcyVmg3WjdDUWtQZk5pX3dESWxKRWFfMmRfNk55THhpNm52TVZ6SjVQdkx6cFhCN2swaWprVU94ZTBSWThiY0VSbXJfYTJKUFNpSzBWUUxMMXNiUS1wenJsOU80YWt4VjBTSVAtcHc?oc=5",
+   "published": "2026-11-10T02:34:53+00:00",
+   "id": "aeb2eaa104db",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4510,6 +4522,18 @@
    "cat": "géopolitique",
    "raison": "Désescalade des tensions au Moyen-Orient réduisant la prime de risque géopolitique sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Says Positive Progress Is Being Made Toward Ending Iran War, Further US Military Action Unlikely",
+   "source": "bloomingbit",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMVNQM2dZSjFEVHMwZ215ZUEzNHNYX3U0VjVMNThyWUlJU0lLZzhhYnVjenk2VVBTbW1vc2Q4bEE3c3FmQ1pRRWQ4NkVBRHhuNElwMw?oc=5",
+   "published": "2026-11-09T21:51:20+00:00",
+   "id": "0f57e9e5ec4f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "BREAKING NEWS: Iran Hits Qatar, Bahrain, Saudi Arabia, Kuwait & UAE In Retaliation | AH1B Flowers (3yKBVDt3Iw)",
@@ -6466,30 +6490,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Rubio Sees No Iran Breakthrough as Trump Downplays Strikes",
-   "source": "Bloomberg.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzA3VUJ1UWpnaXNfMkt1RFJGUWxuRG5EX3VsRWJBVngwNVJETXBfS1dUUGFZel9lMEJIdi10dFNlZWduc1ZSOU50bTBfbXVyLUpaQ2EzSmpXSWZGM2pNcFJJaFExVWhDTmxVSnc0TWozMTc5T1lhSHIwU2hTVU1XSzdYU3dDQldWZ2dRS012TUpsSFRBSmJjcEtRbkFIU09NMkFORGpxanpXaXhIVF81TzZoSTE?oc=5",
-   "published": "2026-11-09T01:27:00+00:00",
-   "id": "d8acc064a62b",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat – Winnipeg Free Press",
-   "source": "winnipegfreepress.com",
-   "theme": "Géopolitique",
-   "link": "https://www.winnipegfreepress.com/world/2026/11/08/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat",
-   "published": "2026-11-09T01:00:00+00:00",
-   "id": "c156d0289f8e",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Justification d'une action militaire contre l'Iran, accentuant le risque d'escalade régionale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8179,7 +8179,9 @@
   "news|6dce4dc13e6f": 1794279886.5377576,
   "news|13467ff1b482": 1794279887.3910422,
   "news|50871be290b8": 1794281484.2533798,
-  "news|2be2e0d647aa": 1794282396.0108674
+  "news|2be2e0d647aa": 1794282396.0108674,
+  "news|aeb2eaa104db": 1794283300.1379092,
+  "news|0f57e9e5ec4f": 1794283300.9469972
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8539,6 +8541,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T04:01:40.947410+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says Positive Progress Is Being Made Toward Ending Iran War, Further US Military Action Unlikely</b>\n📰 bloomingbit · Lun 09/11 22:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMVNQM2dZSjFEVHMwZ215ZUEzNHNYX3U0VjVMNThyWUlJU0lLZzhhYnVjenk2VVBTbW1vc2Q4bEE3c3FmQ1pRRWQ4NkVBRHhuNElwMw?oc=5"
+  },
+  {
+   "ts": "2026-11-10T04:01:40.138002+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live: Trump says US ready to strike Iran 'if necessary'</b>\n📰 Middle East Eye · Mar 10/11 03:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2dqR0tHT2ZrV1FKNmI1RXVhS0lqYjVZdjFxeUVrcjJVOHNPLXBTNzcyVmg3WjdDUWtQZk5pX3dESWxKRWFfMmRfNk55THhpNm52TVZ6SjVQdkx6cFhCN2swaWprVU94ZTBSWThiY0VSbXJfYTJKUFNpSzBWUUxMMXNiUS1wenJsOU80YWt4VjBTSVAtcHc?oc=5"
+  },
+  {
    "ts": "2026-11-10T03:46:36.010956+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Shocks Israel With Iran War Repayment Demand After Republicans' Midterm Defeat</b>\n📰 The Times of India · Lun 09/11 15:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU5pN1NSZFVjLVU4dGIweWRldU1Jek1oVnNvbExfZDZwMjkwdE1zTTdFaXRwYjctck45OWpNNHVYSkpUVmY2MFRHZEtNV2tPLXcyVUo2Y0M1bUdjek15bkc2U3dmTTZQNEV1Uk5KdkE2d3N2NU5GaUJsQmJEakFfNHYzWHhydnBiem92a3lUTGhlXzNoUVJfTm9rYVBnVG1TaGw4d3UxZXJvNHdKTTViVFc0bG5IMkpNXzB2NVUyWFR6R3l4cnROS3VmeDh2enpSMnNYcmhrekxsNHF5SFhEcVFZaE1VRVhjclA3SFdYX3FuVTFBcXJz0gH8AUFVX3lxTE92eU1nYmFlNUZ4UXRnZzJMNHNMaWJFUG4wdHMyTkxta2xkaEtYWnV1SlVNbVF1RU5EQzhzNW4wM0F0Q0ZHbTlEb2V2YlZ4N2U1cURCYk5BM2xxMTFMOEs3SnhOVkt5djhUbmgzT2phR1NzMHEwTDVmWXdLZ0k1M0ZlbnRsM2ZHMXJkemktNlN4cVBHZFRpSzdyTG4tR1FEMjY2SFpzZVlJWEYwUDBrV0xOT19GSVZYakxOZXh1bmJrQWhZMUZ6dVN0YVdKckoxUm16V1N2LThHZXVDSXo3aXdjOGxwNlZuckNiczl2enN3cUxSTTlqYjBta3UwWA?oc=5"
@@ -8827,16 +8839,6 @@
    "ts": "2026-11-09T14:31:29.720531+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas sur 20 JOURS\nNiveau : 86.65 → prix : <b>86.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.63 | 60j -0.34"
-  },
-  {
-   "ts": "2026-11-09T14:31:28.774409+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 86.65 → prix : <b>86.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.63 | 60j -0.34"
-  },
-  {
-   "ts": "2026-11-09T14:31:27.530406+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal</b>\n📰 Middle East Eye · Lun 09/11 11:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxORGlGczVQWHM5QkhXWjZoMExpYzNXU0ZPNTFBWC1RbnExb1gyeXQ3NVRVQXo3MXFtM1A1M3YwSWk2VXdDQ2w5LVBWM1QtcjkwckEtT3NwZUFvX1RaTFhPelVJV29pdUJaYUM1aVpPbC1hZDFIa24yNWFFbDY3WHNwMzdrMXVBcFJRT0tKNWxacGJnMEFGanlVbG5KMzBRZ2M?oc=5"
   }
  ],
  "daily_forecast": {
