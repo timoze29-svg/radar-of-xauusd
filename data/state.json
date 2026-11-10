@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "9f4479c091aa",
-  "2a49cba3496d",
-  "f66da31dbcc6",
-  "7c0239bf7246",
   "ced950b90209",
   "ba30b1990811",
   "3156720f2bc6",
@@ -4088,7 +4084,11 @@
   "6957d443f51f",
   "50871be290b8",
   "c11299a8a37d",
-  "b6c910f606a5"
+  "b6c910f606a5",
+  "465a32918a51",
+  "2be2e0d647aa",
+  "136151e04299",
+  "624aef2ba40f"
  ],
  "news": [
   {
@@ -5074,6 +5074,18 @@
    "cat": "géopolitique",
    "raison": "Pression militaire américaine accrue face à l'intransigeance iranienne, risque d'escalade.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Shocks Israel With Iran War Repayment Demand After Republicans' Midterm Defeat",
+   "source": "The Times of India",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU5pN1NSZFVjLVU4dGIweWRldU1Jek1oVnNvbExfZDZwMjkwdE1zTTdFaXRwYjctck45OWpNNHVYSkpUVmY2MFRHZEtNV2tPLXcyVUo2Y0M1bUdjek15bkc2U3dmTTZQNEV1Uk5KdkE2d3N2NU5GaUJsQmJEakFfNHYzWHhydnBiem92a3lUTGhlXzNoUVJfTm9rYVBnVG1TaGw4d3UxZXJvNHdKTTViVFc0bG5IMkpNXzB2NVUyWFR6R3l4cnROS3VmeDh2enpSMnNYcmhrekxsNHF5SFhEcVFZaE1VRVhjclA3SFdYX3FuVTFBcXJz0gH8AUFVX3lxTE92eU1nYmFlNUZ4UXRnZzJMNHNMaWJFUG4wdHMyTkxta2xkaEtYWnV1SlVNbVF1RU5EQzhzNW4wM0F0Q0ZHbTlEb2V2YlZ4N2U1cURCYk5BM2xxMTFMOEs3SnhOVkt5djhUbmgzT2phR1NzMHEwTDVmWXdLZ0k1M0ZlbnRsM2ZHMXJkemktNlN4cVBHZFRpSzdyTG4tR1FEMjY2SFpzZVlJWEYwUDBrV0xOT19GSVZYakxOZXh1bmJrQWhZMUZ6dVN0YVdKckoxUm16V1N2LThHZXVDSXo3aXdjOGxwNlZuckNiczl2enN3cUxSTTlqYjBta3UwWA?oc=5",
+   "published": "2026-11-09T14:44:21+00:00",
+   "id": "2be2e0d647aa",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies",
@@ -6478,22 +6490,9 @@
    "cat": "géopolitique",
    "raison": "Justification d'une action militaire contre l'Iran, accentuant le risque d'escalade régionale.",
    "method": "IA"
-  },
-  {
-   "title": "Houthi attack damages Aramco building in Riyadh",
-   "source": "bordermail.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.bordermail.com.au/story/9388058/houthi-attack-damages-aramco-building-in-riyadh/",
-   "published": "2026-11-09T01:00:00+00:00",
-   "id": "de877b91b758",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Frappe directe sur Riyad et Aramco ravivant fortement la prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|0bce35eac3e8": 1792467088.4185307,
   "news|d286a6af4bae": 1792469765.6076505,
   "news|878e72efd6a5": 1792470734.0304866,
   "news|f1b22d1ca2da": 1792470735.0738797,
@@ -8179,7 +8178,8 @@
   "news|f1f052438220": 1794279885.6693344,
   "news|6dce4dc13e6f": 1794279886.5377576,
   "news|13467ff1b482": 1794279887.3910422,
-  "news|50871be290b8": 1794281484.2533798
+  "news|50871be290b8": 1794281484.2533798,
+  "news|2be2e0d647aa": 1794282396.0108674
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8539,6 +8539,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-10T03:46:36.010956+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Shocks Israel With Iran War Repayment Demand After Republicans' Midterm Defeat</b>\n📰 The Times of India · Lun 09/11 15:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU5pN1NSZFVjLVU4dGIweWRldU1Jek1oVnNvbExfZDZwMjkwdE1zTTdFaXRwYjctck45OWpNNHVYSkpUVmY2MFRHZEtNV2tPLXcyVUo2Y0M1bUdjek15bkc2U3dmTTZQNEV1Uk5KdkE2d3N2NU5GaUJsQmJEakFfNHYzWHhydnBiem92a3lUTGhlXzNoUVJfTm9rYVBnVG1TaGw4d3UxZXJvNHdKTTViVFc0bG5IMkpNXzB2NVUyWFR6R3l4cnROS3VmeDh2enpSMnNYcmhrekxsNHF5SFhEcVFZaE1VRVhjclA3SFdYX3FuVTFBcXJz0gH8AUFVX3lxTE92eU1nYmFlNUZ4UXRnZzJMNHNMaWJFUG4wdHMyTkxta2xkaEtYWnV1SlVNbVF1RU5EQzhzNW4wM0F0Q0ZHbTlEb2V2YlZ4N2U1cURCYk5BM2xxMTFMOEs3SnhOVkt5djhUbmgzT2phR1NzMHEwTDVmWXdLZ0k1M0ZlbnRsM2ZHMXJkemktNlN4cVBHZFRpSzdyTG4tR1FEMjY2SFpzZVlJWEYwUDBrV0xOT19GSVZYakxOZXh1bmJrQWhZMUZ6dVN0YVdKckoxUm16V1N2LThHZXVDSXo3aXdjOGxwNlZuckNiczl2enN3cUxSTTlqYjBta3UwWA?oc=5"
+  },
+  {
    "ts": "2026-11-10T03:31:24.253454+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as Trump downplays prospect of escalation with Iran By Reuters</b>\n📰 Investing.com · Mar 10/11 03:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkQ4SDNnOHFNMldZdks1NUx1VHVPdHgzUllRRmFHMl9MNDE0NDYwaTZDdlRtNDRkYVZjcGRIUDR1clZBY3ZYR2JKVEliNXBEUmdQX3A0eURrR0YwSlNLeFdCQWRrRXhJVUFjRXFELUItejhYSGlKY2h6VHhVLU5xRWJsZzNzTDZ1aElyRkVVMHB5OTV4Z2ppa3lCSW9QVkdVeUt6b1JqSHp1ZE1OQVluSWtuS2k2bUJQ?oc=5"
@@ -8832,11 +8837,6 @@
    "ts": "2026-11-09T14:31:27.530406+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal</b>\n📰 Middle East Eye · Lun 09/11 11:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxORGlGczVQWHM5QkhXWjZoMExpYzNXU0ZPNTFBWC1RbnExb1gyeXQ3NVRVQXo3MXFtM1A1M3YwSWk2VXdDQ2w5LVBWM1QtcjkwckEtT3NwZUFvX1RaTFhPelVJV29pdUJaYUM1aVpPbC1hZDFIa24yNWFFbDY3WHNwMzdrMXVBcFJRT0tKNWxacGJnMEFGanlVbG5KMzBRZ2M?oc=5"
-  },
-  {
-   "ts": "2026-11-09T14:16:12.102746+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans -0.4 pb\nOr -2.6$ (extrême -7.2$, range 10.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
