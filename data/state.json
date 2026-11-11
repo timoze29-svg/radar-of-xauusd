@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794351677.480773,
+   "ts": 1794355280.6665719,
    "data": [
     {
      "title": "CPI y/y",
@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "573751c4297a",
-  "c16dd1c40a5f",
-  "0102af8e1027",
   "8fc7c6a05bb6",
   "6a7ad1f56ef7",
   "08cd5512dfc4",
@@ -4088,7 +4085,10 @@
   "9f5ded3b10be",
   "c29c8ca37546",
   "68715549a728",
-  "99a9926f83ff"
+  "99a9926f83ff",
+  "6c9c04a244d7",
+  "ff3dd0834564",
+  "61320c8cca38"
  ],
  "news": [
   {
@@ -4114,6 +4114,18 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+   "source": "Reuters",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+   "published": "2026-11-10T23:07:22+00:00",
+   "id": "ff3dd0834564",
+   "impact": -7,
+   "cat": "fed",
+   "raison": "Hausse anticipée des taux de la Fed, augmentant rendements réels et dollar.",
+   "method": "IA"
   },
   {
    "title": "Iran Downs US Aircraft as ‘Israel’ Prepares ‘Unprecedented Strikes’ Amid Election Turmoil",
@@ -4173,30 +4185,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Sanctions canadiennes renforçant marginalement le climat de tension géopolitique internationale.",
-   "method": "IA"
-  },
-  {
-   "title": "Watchdog finds patchy customs controls leave big loopholes in EU Russia trade sanctions – EUobserver",
-   "source": "euobserver.com",
-   "theme": "Géopolitique",
-   "link": "https://euobserver.com/248251/watchdog-finds-patchy-customs-controls-leave-big-loopholes-in-eu-russia-trade-sanctions/",
-   "published": "2026-11-10T22:00:00+00:00",
-   "id": "f2763ede02a4",
-   "impact": 0,
-   "cat": "commerce",
-   "raison": "Contournement de sanctions sans répercussion macroéconomique notable sur les cours de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "U . S . charges 3 men with plotting terror attacks – NBC Bay Area",
-   "source": "nbcbayarea.com",
-   "theme": "Géopolitique",
-   "link": "https://www.nbcbayarea.com/news/national-international/us-charges-men-with-plotting-terror-attacks/4173675/",
-   "published": "2026-11-10T22:00:00+00:00",
-   "id": "3c6a5f0f665f",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Événement sécuritaire domestique américain sans portée sur les marchés de capitaux mondiaux.",
    "method": "IA"
   },
   {
@@ -4545,6 +4533,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "Perspectives de paix au Moyen-Orient entraînant un débouclage des positions refuges.",
+   "method": "IA"
+  },
+  {
+   "title": "Iran war live: ADNOC vessel attacked in UAE waters",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-10T15:21:12+00:00",
+   "id": "6c9c04a244d7",
+   "impact": 7,
+   "cat": "géopolitique",
+   "raison": "Escalade militaire directe au Moyen-Orient, stimulant les achats de valeur refuge.",
    "method": "IA"
   },
   {
@@ -8232,7 +8232,10 @@
   "news|7914c3837944": 1794351711.9048443,
   "pre15m|2026-11-10T18:30:00-05:00": 1794352046.9637053,
   "news|9f5ded3b10be": 1794353661.3488579,
-  "news|68715549a728": 1794354375.1198492
+  "news|68715549a728": 1794354375.1198492,
+  "news|ff3dd0834564": 1794355647.2906039,
+  "news|6c9c04a244d7": 1794355648.1464243,
+  "post|2026-11-10T18:30:00-05:00": 1794355649.1912951
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8608,6 +8611,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T00:07:29.191967+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 37 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n🇺🇸 <b>FOMC Member Paulson Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.0 pb\nOr -0.4$ (extrême -1.8$, range 3.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-11-11T00:07:28.146683+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Iran war live: ADNOC vessel attacked in UAE waters</b>\n📰 Arabian Business · Mar 10/11 16:21\n🧠 Escalade militaire directe au Moyen-Orient, stimulant les achats de valeur refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-11T00:07:27.290705+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-7/10)\n\n<b>Fed officials open door to a quicker round of rate hikes as inflation worsens</b>\n📰 Reuters · Mer 11/11 00:07\n🧠 Hausse anticipée des taux de la Fed, augmentant rendements réels et dollar. [IA]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5"
+  },
+  {
    "ts": "2026-11-10T23:46:15.119938+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump swung between war and diplomacy — then chose a third way</b>\n📰 Axios · Mer 11/11 00:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5"
@@ -8891,21 +8909,6 @@
    "ts": "2026-11-10T13:31:28.790691+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Poll shows most Americans want US-Iran war to end</b>\n📰 The Jerusalem Post · Mar 10/11 13:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jWC1XQnhtdF9kUFdTcFo4a1RPR01fckc3eFpMZ1FKbl82dDJUWlJ4NVRnMkNkZmFqdnUzTnhod1Y3VWNOYVhfV2NySWpYNlAyVUZfVVREWEF6MjNOeU5R?oc=5"
-  },
-  {
-   "ts": "2026-11-10T13:16:53.191566+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Core CPI m/m</b>  prév. 0.2% | préc. 0.3%\n🇺🇸 <b>CPI m/m</b>  prév. 0.3% | préc. 0.6%\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-10T13:01:45.757165+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>4086.50</b>  (-45.3$ depuis la prévision de ce matin)\nPrévision du matin : 📈 HAUSSIER (+16) → maintenant +16 (Haussier)\n⏳ En zone d'achat (entre S1 et pivot) : attendre une confirmation\n📏 Range fait : 80$ sur ~82$ attendus (97%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core CPI m/m (prév. 0.2%)\n    🔺 Au-dessus de 0.2% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.2% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 CPI m/m (prév. 0.3%)\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Logan Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>21:30</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Iran War Day 256: Trump Says Escalation ‘Unlikely’\n🟢 (+10) Americans Urge New Congress to End Iran War and Repeal Trump Tariffs, Poll Finds\n🟢 (+10) 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News\n🟢 (+10) Where Trump goes now on the big 3: tariffs, Iran war, immigration"
-  },
-  {
-   "ts": "2026-11-10T13:01:44.244091+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran War Day 256: Trump Says Escalation ‘Unlikely’</b>\n📰 The American Conservative · Mar 10/11 13:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHB4UlV3aExiZTdQYmdkYjYyeTBwcExIVEx1d2hESnhpWkdOMVNlQ2xmNmVyRkh1RlZzTWs3bGlsSFE2aTlQTE9RQl9hcHcxN0h3dDY1ZHpHNXdWbkVfRXJhSWlsV2JIZEVGYTlEMTVfVHNwZDJ1TUVvcmdqVlhTQi1SRlM4LUUxQkltSWpMV3doQQ?oc=5"
   }
  ],
  "daily_forecast": {
