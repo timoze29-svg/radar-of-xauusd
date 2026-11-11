@@ -1100,11 +1100,6 @@
   }
  },
  "seen_news": [
-  "15904a35a9fa",
-  "b39a824b949b",
-  "25843adc6643",
-  "ef8fdfda455f",
-  "be533d733ae8",
   "a27a609175fd",
   "d76e87f12543",
   "34ab13a37f09",
@@ -4099,7 +4094,12 @@
   "c72f40df27ea",
   "11eed4b6be26",
   "a0fdcfa37ed8",
-  "e43a9e2c262e"
+  "e43a9e2c262e",
+  "42426ef6b085",
+  "8447578448ef",
+  "4b95193ef1d5",
+  "027bef97c03e",
+  "fbac018b3e14"
  ],
  "news": [
   {
@@ -4196,6 +4196,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump defends Iran war in Veterans Day speech",
+   "source": "South China Morning Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQllYbjAzc051eW9pTzQtM3F1NzRMeDFBTDhIRXJFNDF2dGhZYkxmbHpoT3VKS1daWVdtYUdhVFBOTlV5Z0I1eHZqSlgyMmRGb2FDRmwtWmFsZWxtb0l0cFU4eUxoSmFtYVBPSlVzZnJGZmNPSjNvNm9JOU9FRHBsYXlySXBlYzh2V2xSa0QwdFlQNkVXT3FFS1NFZlQ4WGdrSUdEZjgtN18tU3J5SENhUdIBsAFBVV95cUxNY0lrazh5QTNmcmtKWC1EbnhWU2hSNWoxTXgwZUlLRXNjbmctcDY4YXhXeTFoTU9ZYkQzWTRqd0piSUhleDNhY3dsNlZjNmptMWFUcktjcVBYT3hDS3VxNUQwamFxc1JFempMc2MyYno5NGsyZFJnVmtFdFRMdm03bWFGZDV5Q0hxR2JBZ0FGNl9xRHJlT3NRZ0JKOWFFVl9GVG9UbHBCd3cwTzB0WDVjRA?oc=5",
+   "published": "2026-11-11T20:30:57+00:00",
+   "id": "4b95193ef1d5",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6489,18 +6501,6 @@
    "cat": "inflation",
    "raison": "Inflation plus tenace que prévu, retardant les baisses de taux de la Fed.",
    "method": "IA"
-  },
-  {
-   "title": "First day of Ukraine peace talks constructive, Zelensky says",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
-   "published": "2026-11-10T17:29:36+00:00",
-   "id": "137bd041a244",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Progrès diplomatiques en Ukraine réduisant l'attrait de l'or comme actif refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8241,7 +8241,8 @@
   "news|0f87097b6468": 1794435374.2000482,
   "news|33e4b15f4fbf": 1794435375.0807703,
   "news|8be9903c6776": 1794436284.0383239,
-  "news|e43a9e2c262e": 1794436285.077014
+  "news|e43a9e2c262e": 1794436285.077014,
+  "news|4b95193ef1d5": 1794437530.247493
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8633,6 +8634,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T22:52:10.247670+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Iran war in Veterans Day speech</b>\n📰 South China Morning Post · Mer 11/11 21:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQllYbjAzc051eW9pTzQtM3F1NzRMeDFBTDhIRXJFNDF2dGhZYkxmbHpoT3VKS1daWVdtYUdhVFBOTlV5Z0I1eHZqSlgyMmRGb2FDRmwtWmFsZWxtb0l0cFU4eUxoSmFtYVBPSlVzZnJGZmNPSjNvNm9JOU9FRHBsYXlySXBlYzh2V2xSa0QwdFlQNkVXT3FFS1NFZlQ4WGdrSUdEZjgtN18tU3J5SENhUdIBsAFBVV95cUxNY0lrazh5QTNmcmtKWC1EbnhWU2hSNWoxTXgwZUlLRXNjbmctcDY4YXhXeTFoTU9ZYkQzWTRqd0piSUhleDNhY3dsNlZjNmptMWFUcktjcVBYT3hDS3VxNUQwamFxc1JFempMc2MyYno5NGsyZFJnVmtFdFRMdm03bWFGZDV5Q0hxR2JBZ0FGNl9xRHJlT3NRZ0JKOWFFVl9GVG9UbHBCd3cwTzB0WDVjRA?oc=5"
+  },
+  {
    "ts": "2026-11-11T22:31:25.077253+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears</b>\n📰 Investing.com · Mer 11/11 15:31\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFFxb3VONWVqcTN4Z2NSYWdoT3ZFOXY0QXBkeFZwOFAzakJoUlpmOGl0RXZFdDFOcVNXUWVDZWhIZDFUMDE2cmNLWVlvaXVROERZYThXQVU0LXo1bHBYazQ4RXY1Y2N1b3dBN1REbHJxNDVQcjd5TzFzLVFZdnBXMHNJdEJvend3WkNBSnJ4Sk5LZk1mVGEwVU51M1NLU25mNTU0aG1VeUVPWlJMODNIZ1UyN2FSRVRvSWhiMjNfOWg5dw?oc=5"
@@ -8926,11 +8932,6 @@
    "ts": "2026-11-11T04:47:03.988089+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -16)\nMoteurs principaux : Momentum or (vs MM50) (-13), Taux réels 10 ans (20j) (+13), Fed (2 ans vs taux Fed) (-9)"
-  },
-  {
-   "ts": "2026-11-11T04:31:35.595891+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Inflation Keeps Rising Amid Iran War, AI</b>\n📰 Bloomberg.com · Mer 11/11 04:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmZ1TDQ3WXRVOHNfNDBBdzdXQ2p4YkViMkstMnNnT3QwSU1ldFp3cVBqaWZ3TFFuNXd6R1lRM1FiN2xHay1jRHB1WWRqS245RGt2UjJWdjJmSmN3ZG9KQWloUTJJd25iWHRCZ3pFdkxnUTI5NU1DcWlkU21VY1lWWVFaUVIzd2MxM3pNZ3hkOXA2c3lHb21GMldrZVZGdlZTVU03SF9oZXhuQUlKUFV5ZFctLVIyZw?oc=5"
   }
  ],
  "daily_forecast": {
