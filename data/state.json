@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "1ddd26476d4c",
-  "a9251036cdf7",
-  "9b48c1cc21cf",
   "d6c0fab79baf",
   "6c07767bfdc7",
   "577f1708352c",
@@ -4099,9 +4096,24 @@
   "95772cc6d87f",
   "c7d3babc860b",
   "cba68113b9eb",
-  "814e36dc145c"
+  "814e36dc145c",
+  "41479edcbf38",
+  "e0eb04105035",
+  "23bcf122e1be"
  ],
  "news": [
+  {
+   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+   "source": "CNBC",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
+   "published": "2026-11-11T20:02:12+00:00",
+   "id": "23bcf122e1be",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russia and Ukraine settle on large prisoner swap",
    "source": "Denver Gazette",
@@ -4151,6 +4163,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Trump honors military service members, defends Iran war at Veterans Day service",
+   "source": "Spectrum News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYl9TUDBITzJrbFZwSzlDOU1IeFJjMHBHYXBiVGZ3cTBiZW9Hc2M5T0JQa0pjR1BKMEFiTzN3NFpFNmU2MnM1QVZTVHItbUgtYXByZzd1ZzdicXJhOVQzcTQ5TVNRd3dUSTZBMVl5Mm9rTGJ2eE5lZno3NnZfYXZlejBmVDVjNG10SmNj?oc=5",
+   "published": "2026-11-11T19:09:00+00:00",
+   "id": "41479edcbf38",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump’s Whisky War Fails to Boost American Producers",
    "source": "Newsweek",
    "theme": "Tarifs",
@@ -4172,18 +4196,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Risque d'escalade militaire et nouvelles sanctions, stimulant les achats de couverture refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran president accuses US, Israel of causing environmental damage during war",
-   "source": "The Korea Times",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXo0QkN4dk13UEVTeHFjQ1ZVb01mR3AxNWhNYnpsU0hGZEZxbzlIRjlFdFdJN2tBUDdhZ3FhNG40LXN5TUJhUmNMUmpRUktjSlF5UTkzdDNsMXVxbDBUMExIUkhMQmQ5U1R1dHVQRTB4cVI2c0pIWnRsem5qanlfZzhybGlrZ1lXMmU3TEpHRHJiVTAzaFBKQmtZOWJ5WGFZdkJST2hLVGljSkNIMDJVUlRrZ3pRaWlmTTE00gHAAUFVX3lxTFBoV29yNS1jWDBMSFJVTXlOeXhNOUhjQWZTejFqLVVVcjNoay1zSDdSdHdvZmw2MmpBUEQ0eTV1SDRmd0E1SW1tVUxZSVNXTVVYdkIybm5wQ3dDZm04SkNBQ241bXA0SVg2TDB2YkduZFRCYy11bGg0ZE8xM0xuZHlObkZWSEZJempGNGZ0VGxDbUJJY3JDMDBIRHFwbURPYmpMaEtJdGdQR1lpbkZuVV9Ga3ZnZDMwRlQ5TFF4SFpFdQ?oc=5",
-   "published": "2026-11-11T18:44:00+00:00",
-   "id": "1b37a485f90c",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Accusations diplomatiques sans impact opérationnel direct sur les marchés financiers.",
    "method": "IA"
   },
   {
@@ -4223,18 +4235,6 @@
    "method": "IA"
   },
   {
-   "title": "Over 11,000 Foreign Military Deaths Recorded by Russia in War on Ukraine",
-   "source": "Bloomberg.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjI5bS1maWM3ZVIzRWZtM1VKMVZQYTFWdkl2UDV5SXBFYy0wMVlOUDNwRnpEZERReV83QWNZTU1wMmdMeU5XS2RCRXZZcEFjemFCaGJEOW9iWDE3TGZRdUdoT1g1RVpRRlViT2RYbTRJQ19VVnYwbThUbHlxRXpBaVFhMFM2VFBVSjl2SV8wQUpiS3AxT2s5YTFiaWRVQ3REUnhTa1pLaUZjVmxBVDNQazBNb0EyVGEzOXJkbmNlVEU?oc=5",
-   "published": "2026-11-11T17:38:04+00:00",
-   "id": "94ab93d5ce68",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Information de bilan humain déjà intégrée, sans effet nouveau sur les cours.",
-   "method": "IA"
-  },
-  {
    "title": "Iran Security Chief Mohsen Rezaei Warns Tehran Will Strike U.S. Bases in Europe: 17 outlets compared",
    "source": "NewsCord",
    "theme": "Iran / Israël",
@@ -4245,18 +4245,6 @@
    "cat": "géopolitique",
    "raison": "Menace d'extension du conflit vers des bases en Europe, forte hausse d'aversion au risque.",
    "method": "IA"
-  },
-  {
-   "title": "Ahead of memoir, Biden reveals doubts about 2024 run, Hunter pardon, Trump’s warm letter",
-   "source": "KATU",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPT1lSNHltMmpLNGQ4UlVQTmNHRXV6WmxDYXdZSERlWXlocV9HSExXVlduY1NfWjlZdGJiMVVPVllZYWhLSmdzZGF4MzNfeXVMUnpCeEgyMW83X2xJLWJUS204YUhHNDdMMzRLaWRvSUNJWm41ekJqeENDYzZ0cms0Q3plalVTUFMxVjNybkNMd1pmWlBfbUVLWDNjWXpPZmNSNGJqUklpb21PTl9tU3NEbG55bE1PcDBwaWU3WGFGdW1PYlNIQmR5TmJTWmJjOGRkNEpycHdsRVNvMnZjbmdJeHBrWWpKNTFXelI4Tmw5M0Nnc2plU2VsM2M3bUF2Q0s1bnFXczZDSEN4cEt4a0RKQTA3bjBoUQ?oc=5",
-   "published": "2026-11-11T17:16:06+00:00",
-   "id": "e4394383e068",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
   },
   {
    "title": "Can Iran Attack Israel With Its Own Operation Spiderweb?",
@@ -4365,6 +4353,18 @@
    "cat": "géopolitique",
    "raison": "Menace directe d'escalade géographique majeure, impulsion haussière refuge pour le métal jaune.",
    "method": "IA"
+  },
+  {
+   "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+   "source": "Al Jazeera",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEM0N0sxdWVLR2tod0U2NE9LZDlDNmgyYTBhLVlsUTRFaXljN3lzbkpyLURSenZGTHpienotWDFCMFlfNjc3OGQ5dEp6Um5QVGZtQ05LbzlHajNJakpLN1VCWktkU0ppNTU1ZmZBaklXVXRCOUw4WENhX1pUWW5NZUVKaTl3ejFRVG9Oa3EwTWtiYTZHRy1Ka2xTb1JIY1ZSSXpVTmF5Y0YtZ01TdV9MQjJsRDM5TDN5eU04U2ZR0gHDAUFVX3lxTE5SWDB6aEdnQTNyOVFUX0dodTY5YzA4aFR1NHFzMlZiUmpxQVlDV2xzSUFGQ2t1MUQ5LWljUHJrSlhvMjJsUjUxT3h1OEFsel9IeWtJVTJmc0M2RHY1ZXdYVXA5NmpGdXkzeEY4aVpjUE9NLUxUdTlQSGpra3JSQjc3eDFfODZmMkIwcEp3WUxLd19leXYxb1Z0ekd4TkZ4TEZRUGgxd1FidFROTHc1dzJtQXl3U1ZzUWRZWkRRWXJqa21TMA?oc=5",
+   "published": "2026-11-11T15:35:49+00:00",
+   "id": "e0eb04105035",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Russia and Ukraine agree to prisoner swap after peace talks",
@@ -6504,8 +6504,6 @@
   }
  ],
  "fired": {
-  "news|bae3331c3831": 1792613764.924822,
-  "news|9d45184ddfd6": 1792613766.0391178,
   "news|fc789c55c8bc": 1792614689.6897426,
   "news|bddaa17b93b5": 1792615567.099603,
   "news|ccf74e0eb7f7": 1792618285.542435,
@@ -8231,7 +8229,8 @@
   "news|2bdb57f8364f": 1794426378.174048,
   "news|2f745a792ea1": 1794426379.109513,
   "news|95772cc6d87f": 1794427557.6097054,
-  "news|c7d3babc860b": 1794427558.4624228
+  "news|c7d3babc860b": 1794427558.4624228,
+  "news|41479edcbf38": 1794428537.4854393
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8623,6 +8622,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T20:22:17.485628+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump honors military service members, defends Iran war at Veterans Day service</b>\n📰 Spectrum News · Mer 11/11 20:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYl9TUDBITzJrbFZwSzlDOU1IeFJjMHBHYXBiVGZ3cTBiZW9Hc2M5T0JQa0pjR1BKMEFiTzN3NFpFNmU2MnM1QVZTVHItbUgtYXByZzd1ZzdicXJhOVQzcTQ5TVNRd3dUSTZBMVl5Mm9rTGJ2eE5lZno3NnZfYXZlejBmVDVjNG10SmNj?oc=5"
+  },
+  {
    "ts": "2026-11-11T20:05:58.462705+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>After the strikes, Iran rethinks the nuclear threshold</b>\n📰 Tehran Times · Mer 11/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDVYanloel9jaW5maDFIWnJmZVZ1YjRJZkNiVW5zSVduQmxfZGFVVTdqRklSdjNaQ1dDYnNMM1RYTkNtZmpkQXdFcUh6azRtcnpNNk1kblpQNUpsZ0FrU05VQ3FlRUR3V21tQm5xVkRHaTE3ZElDcWpScU41RmhJU0FGTUY4aTNiV3U3UVo2THEyZ2JoVzZjMA?oc=5"
@@ -8916,11 +8920,6 @@
    "ts": "2026-11-10T23:01:50.985885+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed officials open door to a half-percentage-point rate hike as inflation worsens</b>\n📰 Reuters · Mar 10/11 21:42\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5"
-  },
-  {
-   "ts": "2026-11-10T23:01:50.098789+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Global carbon pollution dips as Iran war oil shock hits emission</b>\n📰 wmur.com · Mar 10/11 23:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.wmur.com/article/global-carbon-pollution-drops-amid-iran-war/74391857"
   }
  ],
  "daily_forecast": {
