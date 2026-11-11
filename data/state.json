@@ -1100,8 +1100,6 @@
   }
  },
  "seen_news": [
-  "cc505744a9cf",
-  "48654c96752a",
   "96b4575cdd52",
   "3e298c86b34d",
   "10e567813a31",
@@ -4099,7 +4097,9 @@
   "f167bcef5676",
   "bbcab9a77490",
   "289e6afe0908",
-  "3de7fb01910f"
+  "3de7fb01910f",
+  "e184d9b850fe",
+  "4d8ef8a9492c"
  ],
  "news": [
   {
@@ -6504,14 +6504,6 @@
   }
  ],
  "fired": {
-  "news|8b0b2d9e1beb": 1792572392.451018,
-  "news|b8d0298c349f": 1792572393.508007,
-  "news|01187d4b3e6b": 1792573475.6493645,
-  "news|f962a9f286da": 1792573476.5002077,
-  "news|8f8d246d10ed": 1792573477.317496,
-  "news|42254b6ae120": 1792574169.1935039,
-  "news|4721c9955da8": 1792575085.8547647,
-  "news|f87b428663b4": 1792575962.7012436,
   "news|72ed3a257907": 1792579573.110673,
   "news|02c2b865e7a5": 1792579574.2373145,
   "news|201493f1b3e0": 1792579575.2694013,
@@ -8248,7 +8240,8 @@
   "news|209317bcbd1b": 1794377772.318117,
   "news|cbaeb9083497": 1794381373.6767945,
   "news|128d3559c6ab": 1794384153.126069,
-  "brk|DXY|pdh|up|2026-11-11": 1794386254.7783234
+  "brk|DXY|pdh|up|2026-11-11": 1794386254.7783234,
+  "brk|USDJPY|h20|up|2026-11-09/2026-11-15": 1794391301.3147554
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8640,6 +8633,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T10:01:41.314821+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>USD/JPY</b> casse le plus haut sur 20 JOURS\nNiveau : 158.942 → prix : <b>158.967</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.38 | 60j 0.25"
+  },
+  {
    "ts": "2026-11-11T08:37:34.778392+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 102.41 → prix : <b>102.43</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.35 | 60j -0.46"
@@ -8933,11 +8931,6 @@
    "ts": "2026-11-10T15:32:28.039331+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: GCC approves new military command HQ in Kuwait</b>\n📰 Arabian Business · Mar 10/11 11:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-10T15:16:11.502981+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed may accelerate rate hikes after October inflation spike</b>\n📰 Crypto Briefing · Mar 10/11 15:17\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQYllRUnNJdnIxUnRKdjRUZXd2bmdRUmFPSi1kcUNpUDYySmZXWVZrZEpleUFVQ2M0VmpESmNicU5BSThIOGd5cUJlWmR2NE4zSy0xQ3A5Q0FETUlRa240d0JLOEpYc1Nvd0s4X3k5MkRJeWhZMFl6dDBtcm5WQzFTMG10RElERVFqcHdGdmxzdmQ?oc=5"
   }
  ],
  "daily_forecast": {
