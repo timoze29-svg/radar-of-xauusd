@@ -1100,11 +1100,6 @@
   }
  },
  "seen_news": [
-  "86c7853a3c6b",
-  "620904ab4486",
-  "ee4c5eab64bb",
-  "8fea11e4726d",
-  "43600de88094",
   "d047876123c9",
   "737b3995336d",
   "8cb2f7fc92df",
@@ -4099,7 +4094,12 @@
   "c14c3957629d",
   "7627600e57e4",
   "2a1bce612b6f",
-  "17e7c7e4d85e"
+  "17e7c7e4d85e",
+  "d501dc729720",
+  "e6937bd8022a",
+  "9f3ff7fcf75e",
+  "af4437d6357b",
+  "8a22c9349300"
  ],
  "news": [
   {
@@ -4148,6 +4148,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+   "published": "2026-11-11T12:32:56+00:00",
+   "id": "8a22c9349300",
+   "impact": 4,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -5699,6 +5711,18 @@
    "method": "IA"
   },
   {
+   "title": "Tariff Update: Where Things Stand After the Supreme Court Ruling",
+   "source": "Tax Foundation",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLcldvbmFtMUlBd3dRaEN1TDg1MzZISE1MOTZqYWN6NlA5VXpTNlFLQndVRk82QWpsUXUxTUF4TURBM3llWl8xenp0NjZkc01YdHFBYVR1U01lb0RnYlhUQ2ZtTTc4MjFsOTNfUjJyWVNRN2FrbVZBY1d3U3E?oc=5",
+   "published": "2026-11-10T17:15:21+00:00",
+   "id": "e6937bd8022a",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Firmer dollar, Middle East de-escalation hopes push aluminum price to three-week low",
    "source": "Mining.com",
    "theme": "Moyen-Orient",
@@ -6477,36 +6501,9 @@
    "cat": "géopolitique",
    "raison": "Négociations de paix sur l'Ukraine à Abou Dhabi, dégonflant la prime géopolitique sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
-   "source": "The Guardian",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmUxcnRYTG1rQzR0VFZuQW9uSXhBTExLd0stSVNWcFBIZE5aMi0wUnV1eWNFeFpvcFF1SFVvbjF6dDJfZXlQczlkUm92Z0xFYzUyLVlPWTE2d1pHeUhHYlNna0hEaEdBTmhkMU0xclNFRGhvWHZaY3V1WDgxcktaMVNyN3NsaUdTdlpjZ0c5X1pmSmtvd3dyNkdDUXF4ZEt0Slg4bDF3?oc=5",
-   "published": "2026-11-10T09:52:00+00:00",
-   "id": "b6b5252a065e",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "Fin du conflit déclarée par Trump, chute du pétrole et liquidation de prime refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Netanyahu urges Trump daily to renew military strikes on Iran, report says",
-   "source": "Harici",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0YtVEc5RDBocS1ZZjRIaU9EOGZrbUVtSHhPYXJjUFRYdWNlUmQ1dXZ6X1FjYW5lWThDNkloZEF4OTI2emtuU3R0YnpWY29PWGJBb08xU1RDa2RKWlZERnJDU190WE52R2FqSVlzM0JoMmEyRDJOOW5yXzV6MGZpMHpxU1NmaUJuWHhuSUtmZ3NfQl9xRndsYVhoYUk2N2hWOW96LXRoQXDSAagBQVVfeXFMTnNGLVRHOUQwaHEtWWY0SGlPRDhma21FbUh4T2FyY1BUWHVjZVJkNXV2el9RY2FuZVk4QzZJaGRBeDkyNnprblN0dGJ6VmNvT1hiQW9PMVNUQ2tkSlpWREZyQ1NfdFhOdkdhaklZczNCaDJhMkQyTjlucl81ejBmaTB6cVNTZmlCblh4bklLZmdzX0JfcUZ3bGFYaGFJNjdoVjlvei10aEFw?oc=5",
-   "published": "2026-11-10T09:49:43+00:00",
-   "id": "9f7b6b9fb501",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Pressions israéliennes pour frapper l'Iran maintenant un risque d'escalade haussier pour l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|135c5490a91d": 1792588588.4104025,
-  "news|51bedbc60a05": 1792588589.3843305,
-  "news|47c09a9ac389": 1792590369.0065577,
   "news|84a487f3d92b": 1792591312.7162192,
   "news|46793cccf368": 1792591313.924316,
   "news|fc0f4c5a0bad": 1792591314.9350524,
@@ -8235,7 +8232,11 @@
   "news|59811b0c2c4c": 1794402281.0867345,
   "rep|update|2026-11-11": 1794402283.3292158,
   "news|c4ef4886741a": 1794402969.1648157,
-  "brk|EURUSD|pwh|dn|2026-11-09/2026-11-15": 1794402970.5952668
+  "brk|EURUSD|pwh|dn|2026-11-09/2026-11-15": 1794402970.5952668,
+  "big|USDJPY|2026-11-11": 1794405696.2067244,
+  "brk|EURUSD|h20|dn|2026-11-09/2026-11-15": 1794405697.2359502,
+  "brk|EURUSD|h250|dn|2026-11-09/2026-11-15": 1794405698.141213,
+  "big|EURUSD|2026-11-11": 1794405699.093716
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8627,6 +8628,26 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T14:01:39.093798+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — EUR/USD\n-0.01175 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-11-11T14:01:38.141289+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 1 AN\nNiveau : 1.11095 → prix : <b>1.11049</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.17"
+  },
+  {
+   "ts": "2026-11-11T14:01:37.236013+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 20 JOURS\nNiveau : 1.11095 → prix : <b>1.11049</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.17"
+  },
+  {
+   "ts": "2026-11-11T14:01:36.206793+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — USD/JPY\n+1.594 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-11T13:16:10.595340+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 1.11329 → prix : <b>1.11297</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.35 | 60j -0.18"
@@ -8905,26 +8926,6 @@
    "ts": "2026-11-10T17:39:13.294716+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed’s Logan signals at least two rate hikes this winter to curb inflation</b>\n📰 Crypto Briefing · Mar 10/11 17:14\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGNpMVp5OWlxNHdmNVo3dmtkbklOcFRodzAyZ0ZidUdaS1FqOFZUa0ZBTkpWQ0prSWF2elVucHN4ZU5peVpWZEhRZDRZcUVFUnR4M2MtUmZmdml5Z1JvRUdxTGx0RjE3RHlzekF2ZGVGaEczZlFTaEJJeHliS3BLSlRjNDNCbVoyLUh5VGEwMVpDb2lKRG80R1pLTkc5ZHVxSmc?oc=5"
-  },
-  {
-   "ts": "2026-11-10T17:31:30.187222+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war: Israel says it will hold talks with Lebanon 'soon'</b>\n📰 DW.com · Mar 10/11 00:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFsc0w2YTNGYVdwVUNlMnF5VVJtV21XS0FZWEQ0MGU4ejVpcTJfd2NNOEZfRDNtaTNSSWFvSlpZQlQ2SHhzYzdOdEFIbFdIc2hqUk85SHQxdG02ckJxX3U5QjhNMTJZWDh5WVdrM2F0a3V3OHRXNlpZaE0yamg3Y0RrbVRaTkFYMmRYV05lZjdHVHdzVnFYVg?oc=5"
-  },
-  {
-   "ts": "2026-11-10T17:16:11.417226+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 74 MIN — 19:30</b>\n\n🇺🇸 <b>FOMC Member Schmid Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.66% aujourd'hui · taux 10 ans +15 pb · biais or -8 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 89$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-10T17:01:40.910945+00:00",
-   "kind": "dollar_pressure",
-   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.10%\n✅ Taux US 10 ans +2.5 pb\n✅ Pétrole +1.11%\n▫️ EUR/USD -0.03%\n▫️ News dollar/Fed : 7 (impact moyen or -1.1)\n   • Fed’s Waller fuels debate on larger rate hike after high inflation data\n   • Gold Price Forecast: Fed Rate Hike Odds, CPI Data and Key XAUUSD Levels\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>55%</b> des cas sur 2h,\net l'or a baissé dans <b>49%</b> des cas (moyenne -0.7$, sur 267 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
-  },
-  {
-   "ts": "2026-11-10T17:01:39.663161+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil prices hit two-month lows as US downplays further Iran strikes</b>\n📰 Reuters · Mar 10/11 02:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
   }
  ],
  "daily_forecast": {
