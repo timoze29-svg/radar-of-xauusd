@@ -1089,9 +1089,6 @@
   }
  },
  "seen_news": [
-  "4a277c31fb06",
-  "b08806bd5d4d",
-  "3156beaef12b",
   "f8cee6ba870b",
   "7c017c06a3b5",
   "d85474ca3712",
@@ -4088,7 +4085,10 @@
   "afff77e9a243",
   "608888062086",
   "89c4ac95aec1",
-  "c5a4aa49f304"
+  "c5a4aa49f304",
+  "7e97a3b6e21d",
+  "e5b3b9018242",
+  "6de493613fce"
  ],
  "news": [
   {
@@ -4209,6 +4209,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
+   "published": "2026-11-10T23:13:26+00:00",
+   "id": "7e97a3b6e21d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5061,6 +5073,18 @@
    "impact": -3,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US explores Israeli strikes on Yemen's Houthis; IDF chief warns of election delay",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42anMxaG5LZmhzbDVTbEljVENrM2pzVFg3ZUxJcXNObGNJVUxfbXZIbVNLRUozNGhuekd4TUNlb0FXYVVuM0NNRmZUTlZWUEplRkN6Tk1n?oc=5",
+   "published": "2026-11-10T11:48:00+00:00",
+   "id": "e5b3b9018242",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
    "method": "mots-clés"
   },
   {
@@ -6466,30 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Confirmation d'un retrait militaire perçu, entraînant des prises de bénéfices sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Says Positive Progress Emerging to End Iran War, Further Military Action Unlikely",
-   "source": "bloomingbit",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMVNQM2dZSjFEVHMwZ215ZUEzNHNYX3U0VjVMNThyWUlJU0lLZzhhYnVjenk2VVBTbW1vc2Q4bEE3c3FmQ1pRRWQ4NkVBRHhuNElwMw?oc=5",
-   "published": "2026-11-09T21:51:20+00:00",
-   "id": "56716c80669e",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "Désescalade des tensions au Moyen-Orient réduisant la prime de risque géopolitique sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Says Positive Progress Is Being Made Toward Ending Iran War, Further US Military Action Unlikely",
-   "source": "bloomingbit",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMVNQM2dZSjFEVHMwZ215ZUEzNHNYX3U0VjVMNThyWUlJU0lLZzhhYnVjenk2VVBTbW1vc2Q4bEE3c3FmQ1pRRWQ4NkVBRHhuNElwMw?oc=5",
-   "published": "2026-11-09T21:51:20+00:00",
-   "id": "0f57e9e5ec4f",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
