@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794404751.5154402,
+   "ts": 1794408354.5824633,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,11 +1100,6 @@
   }
  },
  "seen_news": [
-  "f30aa22fb364",
-  "158bca8f5a50",
-  "e39e3ae27357",
-  "b635ea34562f",
-  "3e2363591277",
   "043506ccf9c8",
   "7dfa7b58fbb1",
   "babd4ea8049e",
@@ -4099,7 +4094,12 @@
   "fe3cb00f227b",
   "b2359ef36ba3",
   "6a592e7abf3b",
-  "28a9d8914718"
+  "28a9d8914718",
+  "96ad95040c03",
+  "2cc20e32d847",
+  "3ab93f88d098",
+  "6b96d712f403",
+  "da175b2d3de8"
  ],
  "news": [
   {
@@ -4134,6 +4134,30 @@
    "published": "2026-11-11T14:14:55+00:00",
    "id": "4d306509962b",
    "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+   "source": "Reuters",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmdEZENBbDFmNjBmQ1lkUUdxbTUwZlZCZDF0MUo5cXZCTzMxNmdORWpkWl9WX1RucHdsR0VuSWhLOXhSYjZTYUstRFl6WWJ6V3JYallmel9vc0xhS2VGa0EwVGRkdE95MEVlU3RLb3owb0cweERFQUxXaFRqNXJiYURqN2F0WEVWSVY1SzkxbzVqN2V1NlMyMUxXTG1SQ0VEZUZZQm43SUxlbWpRSG15TVhRdUJDdXF5Q1laUmV1MGg?oc=5",
+   "published": "2026-11-11T14:02:23+00:00",
+   "id": "3ab93f88d098",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Letters to the Editor: Russia’s war on Ukraine would be over by now if it weren’t for Trump",
+   "source": "Los Angeles Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTktYSXhLYVJpaFZwYk10VmFxV0JhSWdJM0FwdVlDVjBUSXA2LTBVYVpDVlNjOXVJN1BLZnpNaTJCdUd4bU1hRW5ReUQwMUhBZGd4X2szOFpvM2U3TTViUnU0VjJMZ3R5b2RNdExjMjVXakNGVnlhRnRTM0h0R25la1dTZk5uQzFHVnNtYmpSQTZKanNHUFJYZ3VhZG1ZUQ?oc=5",
+   "published": "2026-11-11T14:00:00+00:00",
+   "id": "da175b2d3de8",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4761,6 +4785,18 @@
    "cat": "géopolitique",
    "raison": "Craintes stagflationnistes et tensions au Moyen-Orient modérément favorables à la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Bitcoin falls below $74k as hot CPI data spurs rate hike bets",
+   "source": "Yahoo Finance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb01CaWljTDhya1lUWXRNTDVNODRMS3didnRXeFZidmxOMkFyRVU0Q01pcmgzWXFsVk9kQkNQd2tJQkRONUNjN2NrMUNTZno5NlVlbkdURnZ5WEoxWHRGWWl4cDl1d1JHcjYtTi1Vd1R3Mi1JelVWTGphLW0yRkUtYndDUi1jRERIUWlUMjFkZ0x3WU5BbjdN?oc=5",
+   "published": "2026-11-11T07:01:00+00:00",
+   "id": "6b96d712f403",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes",
@@ -6465,46 +6501,9 @@
    "cat": "taux",
    "raison": "Bond des taux à 10 ans et CPI chaud très négatifs.",
    "method": "IA"
-  },
-  {
-   "title": "10-year Treasury yield jumps after hot CPI, Waller half-point hike comment",
-   "source": "CNBC",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00TGg2Rk5HQzViV3NxTHZvREFib0dkOURuR3VIUHZJbjZHWTRzOERZelY0WVZlcVZSNGhCS094UTJDXzM2b3NLeVFSMG5jckhkMndFeG9pc0VvM0JnTUsxN2pTckFuQ3NTMTNZWnQ2MA?oc=5",
-   "published": "2026-11-10T10:25:50+00:00",
-   "id": "4f63ae9c803c",
-   "impact": -6,
-   "cat": "taux",
-   "raison": "Flambée des rendements obligataires et propos hawkish de la Fed très pénalisants pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation",
-   "source": "TradingView",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMjFkaExFN093Q0FPQXBtWFh4ak5PdXJnYmZ4NlJLejNDeDNoWWxaU1dfS2dzTFVzSTNQM2pZTmphZnNka2hzRWhMQ09HYnR6cjlZVWlfZU5yc2ZUS2FZTDBYTF91M1VpWUtGdlNoWERnbDJCMjVtSERmQnF2ZUp4a1BORFhRTkZ5QVBKRk1ZZENaTTdSRTFCc2pNeHVMdmxZV3p2Y3hWTXBkSUhvdzhaeG14Y01lLTdIN0xkQjR1VTRhZklUQUpwSXcteXFzQXNyUDhDWHFEbnVxUEk2YVFQdnZpVVE2dw?oc=5",
-   "published": "2026-11-10T10:13:15+00:00",
-   "id": "df0e6e64eb1b",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Optimisme sur la désescalade pesant sur l'ensemble des matières premières refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump says Iran war ‘effectively over’ as Tehran denies planned talks",
-   "source": "Euronews.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3QtV19VWDdZRDFoV3RqUlhURWJMLVdacldKblllSXIyTlVHWERKZU1aMkNHcXJlV09kRllkZjEwVmxmTFdEeEhETmhhVGdSVGVXeUhlMUJzdzRIZEdqSEFtekdvWHNqTWs2MTdfMnRNcXJ5cldDOXRYdDVyNE1YM2NWTkFmRndxQjhMVmlEQkJzM21Tc3YxSEc3aURuemwtZkRlQVhR?oc=5",
-   "published": "2026-11-10T10:04:58+00:00",
-   "id": "e49ffb26cb46",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "Guerre déclarée finie par Trump, effaçant une part majeure de prime.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|e0720d8f27d6": 1792593112.673812,
   "news|1eea92092bd8": 1792594005.0625405,
   "news|b955a101ff9d": 1792594005.9215245,
   "brk|BTC|pwh|up|2026-10-19/2026-10-25": 1792594924.8024256,
@@ -8233,7 +8232,9 @@
   "brk|EURUSD|h250|dn|2026-11-09/2026-11-15": 1794405698.141213,
   "big|EURUSD|2026-11-11": 1794405699.093716,
   "news|d767ea658690": 1794407491.2796454,
-  "news|e6ceeefed988": 1794407492.1915503
+  "news|e6ceeefed988": 1794407492.1915503,
+  "news|3ab93f88d098": 1794408380.544041,
+  "news|da175b2d3de8": 1794408381.4526062
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8625,6 +8626,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T14:46:22.664922+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.19%\n▫️ Taux US 10 ans +0.0 pb\n▫️ Pétrole -0.03%\n✅ EUR/USD -0.22%\n✅ News dollar/Fed : 2 (impact moyen or -8.0)\n   • A 50 basis points rate hike? Warsh’s Fed has a communication problem\n   • COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem\n\n<i>Pas assez d'historique pour chiffrer cette configuration : à confirmer avec ta technique.</i>"
+  },
+  {
+   "ts": "2026-11-11T14:46:21.452750+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Letters to the Editor: Russia’s war on Ukraine would be over by now if it weren’t for Trump</b>\n📰 Los Angeles Times · Mer 11/11 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNTktYSXhLYVJpaFZwYk10VmFxV0JhSWdJM0FwdVlDVjBUSXA2LTBVYVpDVlNjOXVJN1BLZnpNaTJCdUd4bU1hRW5ReUQwMUhBZGd4X2szOFpvM2U3TTViUnU0VjJMZ3R5b2RNdExjMjVXakNGVnlhRnRTM0h0R25la1dTZk5uQzFHVnNtYmpSQTZKanNHUFJYZ3VhZG1ZUQ?oc=5"
+  },
+  {
+   "ts": "2026-11-11T14:46:20.544149+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem</b>\n📰 Reuters · Mer 11/11 15:02\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmdEZENBbDFmNjBmQ1lkUUdxbTUwZlZCZDF0MUo5cXZCTzMxNmdORWpkWl9WX1RucHdsR0VuSWhLOXhSYjZTYUstRFl6WWJ6V3JYallmel9vc0xhS2VGa0EwVGRkdE95MEVlU3RLb3owb0cweERFQUxXaFRqNXJiYURqN2F0WEVWSVY1SzkxbzVqN2V1NlMyMUxXTG1SQ0VEZUZZQm43SUxlbWpRSG15TVhRdUJDdXF5Q1laUmV1MGg?oc=5"
+  },
+  {
    "ts": "2026-11-11T14:31:32.191806+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's decoy flight sparked by fears of Iranian cell with shoulder-fired missile: Official - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 11/11 12:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVJrZjN1UTRKcF9ENHlZclJYUlRUN3NaaG1ucnd1ektfWGpUUW05blJZdWh2NFpqSm1vYi1qY041UEtwcGZCU0ZGQUFtNjJuOW5HeTZpck81Z1FZQVZHOUhlQkVONFhQSXU5N2RlanFxSTV2S29wN0RuQmtRdWhyaWhWX0VSY2JGam1sZ0o0Vms3Q20yZnlWNlpnVmlmOUFPUE5YbFoxOGpmV19VUGxXN2RB0gG3AUFVX3lxTFBfTW5PbGhJcDg0NUJTMkdXYTV1ZTBORkhPYTNSaTNfc080ek5xcloySXdzdlVSaW0xbEpPWGs0bHc3Vk13QVRCNm1LUHFhbk9zRFptTGJtZDctMEdZWFNWRkRBRzB5SGZ0X0FQMmo0cTNqcGlSYW8zcVBLTVljUFZZdU5HT2pNekE4SzVUQktQbWtoejRPOXM1TTNyNlM2VEI5eFVMNl9oMmZrX0RrY2I5TXRTOTZnVQ?oc=5"
@@ -8908,21 +8924,6 @@
    "ts": "2026-11-10T19:04:40.469277+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Daily summary: CPI reading hits markets, hawkish Fed and Wall Street selloff</b>\n📰 XTB.com · Mar 10/11 19:53\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXI1MGpNRlVtT2xEN1otOXZHNFNxWHNKX1ZtcnpUNnRPZG1fNHlKaHBuaDNOeFgtV3FzcWZUNkV4cjlqUzNnZi14NUw4SEVld2Zfcm9JVGdncHM4bUhHRXlJSGswRW5DVnphQlJCMVpuZU5ZQ3RncE8tVTJCRS0zZkRnakU3eXN4TzhJSVE3T2x6ejNtc2lfTWRnMnVsYlgtWXAzYkdkQ24xS1ZvRnd4X1F6OHI4WXFPQkE?oc=5"
-  },
-  {
-   "ts": "2026-11-10T18:16:16.137383+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Schmid Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-10T18:01:50.962509+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran lifts 2,000km limit on its ballistic missiles: What that means</b>\n📰 Al Jazeera · Mar 10/11 13:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQcWtnZ216OE9mOHgxN2taSGhhWjZzd1nSAbABQVVfeXFMTVRPdWIwbnlsVHJ4aHBmOTNyWFNTbzhmajNIZXFSaUZlQWNneXQ1ZUczTXlMM3NHYXRNaXg3c2E1UEVxNjJwVm9LU2o5TnNTV2pISE9EVC1WU0w5OFdwUTJBRjJXaERTOEQ2SDFVYnhtTDhvUVV0NlBraXFwM1JXeUNNTFhaRTNRTVdKTnVFUWtYVkROelVIZ3U5R2hSSm5WQUVYTFBFSUNYdHJzY3kwZnY?oc=5"
-  },
-  {
-   "ts": "2026-11-10T17:46:31.812139+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘This is sabotage’: Hegseth criticizes impeachment effort, defends Iran war</b>\n📰 The Washington Post · Mar 10/11 16:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOU0NfU1AyTXJKVl9lSTVKM0s0amhrY1VCNFlwU1kzOXNLeVNjd0NMQ1NtVlNLWDl4WmlWVDBET1NfWnRfbjRHQWZPb0hPNHBzeEgxaVVKTDY5WkdINVFfME9TZEJVbXVoT01fWVBIdkI2ZGhsWFZXQWhRb2R2bmV0dThXX3Y3YUw5eDVEM2REOElVbnUwcTdJXzlaSU4zRHZCSXUwbHBuaUR3VWZRMkd3VS05RGM1QWRBQ2R6cEV2eXo0V0trblZieU1PZE9CQW51MHF0VjI0SS1lLUlZVDY0UTEtZjV3WDBwRmFiWVAxaVYxSWpUUGxiYzJITTh2d2ZBOWdaNGdlYw?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9125,6 +9126,6 @@
  },
  "dp_last": {
   "status": "up",
-  "ts": "2026-11-10T17:01:40.910904+00:00"
+  "ts": "2026-11-11T14:46:22.664888+00:00"
  }
 }
