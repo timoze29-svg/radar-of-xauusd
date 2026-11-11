@@ -1100,13 +1100,6 @@
   }
  },
  "seen_news": [
-  "35deb004b7c5",
-  "a94512afae32",
-  "26cd37cfbc35",
-  "617799e59213",
-  "6b16624e4ad5",
-  "7d985672323c",
-  "ddfaacd1854a",
   "afea58200ab3",
   "bec0d27a5f44",
   "56b57a92744e",
@@ -4099,9 +4092,40 @@
   "a58607c038bf",
   "c2090362aacd",
   "da737756709d",
-  "94ab93d5ce68"
+  "94ab93d5ce68",
+  "6885e0ad6b09",
+  "c01ffaf0fbf5",
+  "c66052ae47c1",
+  "2f745a792ea1",
+  "2bdb57f8364f",
+  "43111f1bb0da",
+  "dc1b154367d4"
  ],
  "news": [
+  {
+   "title": "Israel's 26th Knesset sworn in; Rubio: Iran blockade makes strikes unnecessary TV7 Israel - 11 Nov.",
+   "source": "TV7 Israel News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWGdPcXhPWWdIN1F5UXptcEVWeTR4NEVnQXFIUFRyVzdpbHB0eXhLZTAtZ0FRbnBQeG9FeV9TSVdOVFlDbklHX1JjMzVhWUo2VG9LZVR3TDBVMHZpYVRkUHVDcUotei1NZTBnZmtMMDZTNlp6X0VZ?oc=5",
+   "published": "2026-11-11T19:36:11+00:00",
+   "id": "2bdb57f8364f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Watch: Trump says 'we won' Iran war during Veterans Day service",
+   "source": "BBC",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRmJDYjhwWEtuOUdPMHZvcktHX3hFWUd3Ym51U3FpLThEQlNUSWpURWdjaXA5cmJsOU5hb192Y0RmSjdCNDF5U3hSZkFNMTZmX3lyZTRWMnQ?oc=5",
+   "published": "2026-11-11T19:30:48+00:00",
+   "id": "2f745a792ea1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump’s Whisky War Fails to Boost American Producers",
    "source": "Newsweek",
@@ -6477,36 +6501,9 @@
    "cat": "taux",
    "raison": "Flambée des rendements souverains et durcissement attendu de la Fed très défavorables à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Fed may accelerate rate hikes after October inflation spike",
-   "source": "Crypto Briefing",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYllRUnNJdnIxUnRKdjRUZXd2bmdRUmFPSi1kcUNpUDYySmZXWVZrZEpleUFVQ2M0VmpESmNicU5BSThIOGd5cUJlWmR2NE4zSy0xQ3A5Q0FETUlRa240d0JLOEpYc1Nvd0s4X3k5MkRJeWhZMFl6dDBtcm5WQzFTMG10RElERVFqcHdGdmxzdmQ?oc=5",
-   "published": "2026-11-10T14:17:03+00:00",
-   "id": "6dfb1e5dc6c2",
-   "impact": -5,
-   "cat": "fed",
-   "raison": "Accélération possible des hausses de taux Fed très négative pour les actifs non rémunérés.",
-   "method": "IA"
-  },
-  {
-   "title": "New Jersey food importer files lawsuit challenging Trump's 50% tariffs on Canadian goods",
-   "source": "Times Argus",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSjdoQjJ1N0NENllTNjlDVVpoNWZYOUJVbFZzQTRXRmlYYU45TDF5MG13RWVscm5ldHhLZFlUeTVCeHgzMFpsdTdScFlxUzZrUzdIcTA0ZjlSTk9NNllHLWstU2R1eFB4NHFra29QT0F2WGsyOVpDR08yUm0tYmV0YWFIN3ZDX0dFN1QtYTU0MUtiSGJ4aUg5MGxaSHZTSmoyZXhEb3RPRUU2ZWc4VVVuQy1BZDNSaWJPZFg2MGdLZmZZMGxuRVd6X3FkQUZKcG90a2ZSUTdILWZIbE92T3Z6ODJtRTQ5Q3JCSVJOekxOckx6Zy1ucWdfMTg4Tk5oVG53OWFVdU1yMG4?oc=5",
-   "published": "2026-11-10T14:11:19+00:00",
-   "id": "fcc720047ecb",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Contestation juridique des tarifs illustrant l'incertitude commerciale protectionniste ambiante.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|88f6b8ab3635": 1792611087.32574,
-  "news|cb888ae7b1d8": 1792611088.443634,
-  "news|ebb63ccbed76": 1792611089.423472,
   "rep|recap|2026-10-21": 1792612902.9773955,
   "news|bae3331c3831": 1792613764.924822,
   "news|9d45184ddfd6": 1792613766.0391178,
@@ -8231,7 +8228,9 @@
   "news|53c5e4ac1a84": 1794420287.8861306,
   "news|65165c0a321d": 1794424746.830945,
   "news|1b37a485f90c": 1794424747.8370004,
-  "news|0efb9d23e0e0": 1794424748.8684776
+  "news|0efb9d23e0e0": 1794424748.8684776,
+  "news|2bdb57f8364f": 1794426378.174048,
+  "news|2f745a792ea1": 1794426379.109513
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8623,6 +8622,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T19:46:19.109799+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch: Trump says 'we won' Iran war during Veterans Day service</b>\n📰 BBC · Mer 11/11 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRmJDYjhwWEtuOUdPMHZvcktHX3hFWUd3Ym51U3FpLThEQlNUSWpURWdjaXA5cmJsOU5hb192Y0RmSjdCNDF5U3hSZkFNMTZmX3lyZTRWMnQ?oc=5"
+  },
+  {
+   "ts": "2026-11-11T19:46:18.174136+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel's 26th Knesset sworn in; Rubio: Iran blockade makes strikes unnecessary TV7 Israel - 11 Nov.</b>\n📰 TV7 Israel News · Mer 11/11 20:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWGdPcXhPWWdIN1F5UXptcEVWeTR4NEVnQXFIUFRyVzdpbHB0eXhLZTAtZ0FRbnBQeG9FeV9TSVdOVFlDbklHX1JjMzVhWUo2VG9LZVR3TDBVMHZpYVRkUHVDcUotei1NZTBnZmtMMDZTNlp6X0VZ?oc=5"
+  },
+  {
    "ts": "2026-11-11T19:19:08.868679+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Prices Gain As Iran War Uncertainty Weighs On Market Sentiment</b>\n📰 Forbes Middle East · Mer 11/11 12:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM1A0d3VOWFVMVUZIdFlWdE5laHFXZ2xYeFB6cVVMcU11RW1NcHk1V0dfaEJvY0JvQmxRZ2FOZU5sS1BkOE8zbV9YNzVKSE1kTlAweHFYMEdrWUE5LVI5UU01S05EZVBYTExoTVFUbHVlQ1plVks5NVB6dTZVa3c5VDc5SzVSdmI2dlZTcjJZSl9TbVF2MWEwR0xSeGtxRkV0cmxuU3dBaFNFeVpqUk14NlZwRE1KanBMbFBn?oc=5"
@@ -8911,16 +8920,6 @@
    "ts": "2026-11-10T23:01:48.227074+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Downs US Aircraft as ‘Israel’ Prepares ‘Unprecedented Strikes’ Amid Election Turmoil</b>\n📰 Orinoco Tribune · Mar 10/11 23:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1F6QkQ2TllTZ3hseVJzbTJyX24tRVlQMHJoZFNVaWV5b3FDcUEyTWszMVVJNkd1R0xRVXBvWm1OWk5hNjVVdHl5RVktODdrdHBUa0dqYTViV012eHlPTU02aHpRLWNsUU5ZdXdoT0FjY3loOTdXQkI5YmUwVUhHeTZmS0R3cXZYcGMyOE9jT0xMUXRfUndnaVdxY19JRTd5T0ZjV1d5RkV2S1pZSW1lNWZPcw?oc=5"
-  },
-  {
-   "ts": "2026-11-10T22:19:43.996006+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 70 MIN — 00:30</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n🇺🇸 <b>FOMC Member Paulson Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.56% aujourd'hui · taux 10 ans +12 pb · biais or -5 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 89$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-10T21:31:27.268437+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hegseth defends his record, Iran war as impeachment vote looms</b>\n📰 The Washington Post · Mar 10/11 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHJadVdURVZBN1VwelMtYTQ2XzFxekpzTFdhTDR2Q3lkNDE2bV9IUmpWZW9KTy1KQ25PWUhGQWszRXN3WmNLdl8zcGUtbEM5Tk10OXlFbUlCMTM1bURjVFdpbzJXNlBXd3NVYy1tanExMXZsREtFZGNob1JTWC00eTJnR3F6MTRHbldFMU12WVNZc1RrclBPQXlrcUNyTkt5U0VZblZ3QUVlMndzT04waG0xN2szS2Uzbms0?oc=5"
   }
  ],
  "daily_forecast": {
