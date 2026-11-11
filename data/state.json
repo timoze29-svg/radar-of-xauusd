@@ -1089,11 +1089,6 @@
   }
  },
  "seen_news": [
-  "79e471f0cb0c",
-  "fd89fb7c3f9a",
-  "417b6675c30c",
-  "a199514d941f",
-  "64e056f693b7",
   "b68caf6af825",
   "31670fcc0b37",
   "a2e24ea91238",
@@ -4088,9 +4083,26 @@
   "109415658120",
   "252489a943ab",
   "c45497dc0e47",
-  "4b4532a93c47"
+  "4b4532a93c47",
+  "3c0646bcdb71",
+  "86b74c93f2a0",
+  "77339a85bdcf",
+  "fe22219f51c0",
+  "1bbbeb1ee770"
  ],
  "news": [
+  {
+   "title": "United States Dollar Index steadies on Fed rate-hike odds | FXStreet",
+   "source": "شبكة تواصل الإخبارية",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kWUNET181eVVCZ2E2RnJ2Rk9qdGdCVzVJZFhJZTZNUDhsemhGSlkzQjlnYXpDd1NzY1d6X0RSVjRDelJBNGRxNFpJT2VRcVhKODZn?oc=5",
+   "published": "2026-11-11T03:52:05+00:00",
+   "id": "77339a85bdcf",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold edges higher after sharp selloff, Fed hike bets weigh",
    "source": "Reuters",
@@ -4206,10 +4218,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdW51YXJVSXFHRUlhZnhBRldCUkl3T3V4Vy1IZFJTRzNJSTJPRTkyQngxZEpTNmExU1I4QldCRUpLbmphR0xPOUF0RXJlLS1tVUNJTzhUU1VtTGxZVDhVV2Q5ZmpNeGNSVFA4Mk9mcGxVSU1pN1J4Z055b004VXZxQW92eG9CWVV5VUZkdkxhZ1Q?oc=5",
    "published": "2026-11-11T02:19:00+00:00",
    "id": "aa7a34a9351c",
-   "impact": 4,
+   "impact": 2,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Incertitude protectionniste et risques de stagflation favorables au métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Iran Unveils Underground Missile City in Warning to US and Israel",
@@ -4218,10 +4230,10 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4R0M3dkVtWVkzVUp5Z09RYnBvTGdQcUVvZTRCQW5YT1p0a2ltUmpQVHctSVBxUWcxZmVFTk1vQzVMdVdxaVRIWjBqa3d3V2tRX0FiS3c5SXBmTWVLV1R1YUd0MnJtdlZORjlGV0FsYzhPWWRGVkVpZVlB?oc=5",
    "published": "2026-11-11T02:10:51+00:00",
    "id": "64a34b3069b9",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Escalade des tensions au Moyen-Orient renforçant la demande d'or refuge.",
+   "method": "IA"
   },
   {
    "title": "US charges 3 men with plotting terror attacks , including planned assault on united kingdom air base",
@@ -4230,10 +4242,10 @@
    "link": "http://www.thegazette.com/news/national/us-charges-3-men-with-plotting-terror-attacks-including-planned-assault-on-uk-air-base/article_6b261f59-e6e5-5b3e-ba83-37fa6cec2476.html",
    "published": "2026-11-11T01:30:00+00:00",
    "id": "de607e7a49aa",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Projet terroriste déjoué, impact marginal sur la prime de risque globale.",
+   "method": "IA"
   },
   {
    "title": "U . S . charges 3 men with plotting terror attacks – NBC New York",
@@ -4242,10 +4254,10 @@
    "link": "https://www.nbcnewyork.com/news/national-international/us-charges-men-with-plotting-terror-attacks/6570215/",
    "published": "2026-11-11T01:30:00+00:00",
    "id": "38be92a6dde2",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Complot terroriste neutralisé, effet refuge minime à très court terme.",
+   "method": "IA"
   },
   {
    "title": "Israel prepares for another war with Iran, warns next conflict could look very different",
@@ -4266,10 +4278,10 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaDF0RG9vblhsZXZRZTNwWFRYU285N2dfTHhFbzdnR21Vc2dPTjVMOEV5djBRdzhqZlNIZ2hCZ0hwVGVPcWZQNGFJdERxTW9pbVdqd3hYMml4YVpEcXZsTk0zYUZkWVJldlBFZ2pmeVFEMWNabUU3TkNzQU45aER2OE91RDFqM19Pemp2dWp0cTFIeUVvMEcwWDVEZDBUV3pzcy1uc2pFUzFjUXQ1VWUtWXRRdG5RZVZkdC1wbzB3VC1zLVVNQzhTWTlKX0ZLbFpaU0VFR251MTJyZXozTVdrdXZ2RQ?oc=5",
    "published": "2026-11-11T01:27:00+00:00",
    "id": "4202e68d26d2",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Pourparlers incertains et désaccord persistant, prime de risque géopolitique maintenue.",
+   "method": "IA"
   },
   {
    "title": "Trilateral talks on the Russia-Ukraine war",
@@ -4278,10 +4290,10 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXdLSDN1R3lZcEs0dVg0ODk0VXpIcUpuTjVNcUVJWHRfWGVia1QtM1o1d1lvYzNEVnpfOWNXaXJRcFYyalM2OWdSMU1IVDFlZWVwN0dIVjVCa21uN3VLdklicFJvZWh2djBWZW16RzJUNVBhM0E1dTlkV0hjVFFvYw?oc=5",
    "published": "2026-11-11T01:02:35+00:00",
    "id": "f3dae105b886",
-   "impact": 6,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Initiatives diplomatiques réduisant légèrement la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "US charges 3 men with plotting terror attacks , including planned assault on air base in Britain",
@@ -4290,10 +4302,10 @@
    "link": "https://www.wsbradio.com/news/us-charges-3-men/3F7OLCCRCY6XZN6OYOQE3WRF3I/",
    "published": "2026-11-11T01:00:00+00:00",
    "id": "3b7843aa386c",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menace neutralisée par les autorités, impact psychologique très limité sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Three men indicted for nearly 20 Iran - backed terror plots across US , Europe , including attack on London synagogue",
@@ -4302,10 +4314,10 @@
    "link": "https://www.clevelandjewishnews.com/jns/three-men-indicted-for-nearly-20-iran-backed-terror-plots-across-us-europe-including-attack/article_bfb5b890-d526-5713-b794-987cfbf70493.html",
    "published": "2026-11-11T01:00:00+00:00",
    "id": "10577f320416",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Inculpations confirmant les tensions avec l'Iran sans choc immédiat sur les marchés.",
+   "method": "IA"
   },
   {
    "title": "US charges three 'Iranian operatives' over UK airbase terrorist plot",
@@ -4314,10 +4326,10 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVHJvREcxTHZQdVlGeE5nU3laaV9BYkpCQVQ4UXNMcWV3VFhfTUpibVR6cXcxTk1EOVk2dHRDcFpmWEFzNzFuMm1PcTFMemVvdVVOdFFnSDllRDFxZ29wTTdZSjI0Tzl5WXpGT2ViMV9aQjFLRmJHZkkwZVpTZ3hCMzY1Qm9EQ29aWHNldExXZ3p6STk1ZUxQTGctSkl6T21yRG9fTmtmUGlvN1BhQ205VDY4MThEQUhrVjM5WkpYWXpoQVJuTWRfSDNlbllqNkw3eXB5UXlMMA?oc=5",
    "published": "2026-11-11T00:52:19+00:00",
    "id": "292b2e2c0358",
-   "impact": 5,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Arrestations d'agents iraniens, rappel du risque géopolitique sans escalade militaire directe.",
+   "method": "IA"
   },
   {
    "title": "Bessent Moved to Military Base In Wake of Iranian Threats",
@@ -4332,28 +4344,16 @@
    "method": "IA"
   },
   {
-   "title": "Trump swung between war and diplomacy — then chose a third way",
-   "source": "Axios",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
-   "published": "2026-11-10T23:37:06+00:00",
-   "id": "68715549a728",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "KPMG economist Swonk forecasts hot PCE report, potential Fed rate hike",
    "source": "Crypto Briefing",
    "theme": "Fed",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVngxcUttSWZGaGQ1T2pHS2U1NjFOZkxCdnpMRnpLMklHYUNBQjhEX3F4Q0N2N2xpbFI4ZEEzV2h2RnhBRTR6SExfa3RudWJaTU9PV0JJV29NLVhGT2FhY1BRNms3N2hfVjlWSUJKWkZ1UTJoWE1vYXJHSHJ2UEJaVmJKRHZSMVZ4QlJLbjU5dGF2TFVKd056MGtkSUUtQQ?oc=5",
    "published": "2026-11-10T23:14:40+00:00",
    "id": "9f5ded3b10be",
-   "impact": -8,
+   "impact": -4,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Anticipation de hausse de taux de la Fed, haussière pour les rendements réels.",
+   "method": "IA"
   },
   {
    "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
@@ -4362,10 +4362,10 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
    "published": "2026-11-10T23:13:26+00:00",
    "id": "7e97a3b6e21d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Congrès démocrate susceptible de freiner l'escalade militaire au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
@@ -4398,10 +4398,10 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5",
    "published": "2026-11-10T22:20:20+00:00",
    "id": "1eccc5dff26c",
-   "impact": 8,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Choc géopolitique majeur au Moyen-Orient entraînant une forte ruée vers les valeurs refuges.",
+   "method": "IA"
   },
   {
    "title": "Larger series of interest rate hikes more likely after hot October CPI",
@@ -4530,10 +4530,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDM5SThMZDJHRFlubEFPY1lvYW1PXzZXbUhDb0FyMk5NRHZYUmR0Mng3T3VLd183X1hkRHRoRlFyclJSc1J0Tnp6TzVYYU4tbHNrWDkzM05UakRqYzB4eDAyb2MzbUN4NDBZWURqbGFyYkpjYm94eWs3akdqY29lYkQxbFR4Y05QVE00M3dIMWdZTEhfaE4yUTJXUHdIdFJGRzNVeUJ4WFhVSzFCUVVsRGQ3anBVemlp?oc=5",
    "published": "2026-11-10T20:36:12+00:00",
    "id": "3794613c79e8",
-   "impact": -10,
+   "impact": -4,
    "cat": "dollar",
-   "raison": "baissier or (dollar, fed, or)",
-   "method": "mots-clés"
+   "raison": "Dollar fort et rhétorique hawkish de la Fed pénalisent lourdement le cours de l'or.",
+   "method": "IA"
   },
   {
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
@@ -4578,10 +4578,10 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX3NNRTBiSmFROU01WjNnazUxNjlSbzNFQVI4YnFIRWJzdk44d3ZEc1lTOTFKNnV4X1htVks5dVBSdVZVOFp0X1VSNVNBTTFrYnFQTFpTRGQwbjh6dkhYY0hQNlU5SFBpM3pJQWJzcHk2SVdjb3gxRm9yN253enM4aTZHMWtMM25ORnF6eFBubDRrQVJJcl9mdzRvbjJGMjd4UDZkeW9wOFZBWVlXMm5nN0JHMGlTWWlKa2FHYWg0UTIzN2J6WUtuSDJVR0lkcUlwbDZQaHItWXc0dw?oc=5",
    "published": "2026-11-10T19:29:39+00:00",
    "id": "10408393034a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Pression populaire pour la fin du conflit, limitant la prime de guerre.",
+   "method": "IA"
   },
   {
    "title": "Tankers continue to burn in the Middle East despite hopes for de-escalation",
@@ -4758,10 +4758,10 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZ6MUpQX1d3VEpvYjUwWWlJZ2RmNEY2WTk3YldIRVpVRFBqcVdodzhjZzd4QjdUQmlWR1VDRnUyQ0VGLTd4Qk1vMHBpZzZYNldWTFdZdWprb3hVQkMxSnRNTWQ3MVNSU2t5NXlLUWlIOTlPQTFabkRhTnp5UkxtQjdFT09WVGhjdnZMMzdobG5sZw?oc=5",
    "published": "2026-11-10T16:14:43+00:00",
    "id": "e2641461b4c7",
-   "impact": 3,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rappel de la gravité du conflit armé, maintenant une prime de risque active.",
+   "method": "IA"
   },
   {
    "title": "'Not great': October CPI inflation rises 0.4% as food and rent costs spike",
@@ -5010,10 +5010,10 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1c1bnE4QlNVdnptemVmRXdNeGdzdGNVME1LLUJ5dEREVW52dDJxMmlLQlJoMVM1VXhZUmNLUDdTSDVXT3Z5d2d3NUZOaXFicm5FczhsOW5xVmVqTUZVZW5VVFhpRHdHVzBMNDB1ZEs2X2VpTlpyMmtJODZZRWJmd0xVUXVicnBlS3ltcDhocUE4TEl3MjkzelhUTDBBWVBuamxrOU5TQkQ2clNBY0E?oc=5",
    "published": "2026-11-10T13:51:00+00:00",
    "id": "088181e9840d",
-   "impact": -5,
+   "impact": -4,
    "cat": "taux",
-   "raison": "baissier or (taux)",
-   "method": "mots-clés"
+   "raison": "Tension sur les rendements obligataires augmentant le coût d'opportunité de l'or.",
+   "method": "IA"
   },
   {
    "title": "T. Rowe Price warned Treasury yields won't peak until a recession hits",
@@ -5022,10 +5022,10 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iMEl4MmtfZThMWkY5clZxWTkzUjhwWGVCeDlxRGxLSDF1Uk9VLWlxenNNQUNYTUJIMkdXT3lldFUtVWJfTnk2ZXY4UFFKTG5jT1NhdHk0YlJTRVA3aE94MzF4TzY0MlAybF84N2hVUmtva1U?oc=5",
    "published": "2026-11-10T13:50:15+00:00",
    "id": "0acebcc28a38",
-   "impact": 6,
-   "cat": "emploi",
-   "raison": "haussier or (emploi)",
-   "method": "mots-clés"
+   "impact": -3,
+   "cat": "taux",
+   "raison": "Perspective de taux durablement élevés, environnement défavorable pour l'or sans rendement.",
+   "method": "IA"
   },
   {
    "title": "Inflation ran hotter than expected last month, underscoring affordability challenges",
@@ -5036,8 +5036,8 @@
    "id": "b539012bca6a",
    "impact": -3,
    "cat": "inflation",
-   "raison": "baissier or (inflation)",
-   "method": "mots-clés"
+   "raison": "Inflation persistante incitant la Fed à maintenir une politique monétaire restrictive.",
+   "method": "IA"
   },
   {
    "title": "Inflation remained elevated in October, CPI report shows, upping odds of Fed interest rate hike",
@@ -5046,10 +5046,10 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yY1puMmJtSGJhQldvMzg0d2RXa09JdzFnaUZLWkVmdzB3SVV3c2Y1dG1vRk53UlJEQUROUjR3UGFqLVNhOFRHRy1TRVJWWEdGTlNjVHlVR2gyZ0RhMWUzczV6c3R2MkFoYnF2QmZ5b3RBWkRFbUE?oc=5",
    "published": "2026-11-10T13:37:00+00:00",
    "id": "ed526cc3299c",
-   "impact": -8,
+   "impact": -5,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Hausse attendue des taux directeurs de la Fed, très pénalisante pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Inflation slowed in October, but annual data missing after shutdown",
@@ -5058,10 +5058,10 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMV9KcWI5c2M1SUtTN05QeTlIMEhRR3psTDhFYWRtWnlNMVFkd1lITGRDRTQ5bUE1OHRFUHlNTDVFZ05qN1NiVGx1SWhjeG9pQUMwZndBTEoteTJmMVp1VkhsMFNRN1lodFdWMWVXeHlReFhsallJUEs4dlIwUWV4b1lqNVNnXzQ4T0QtVzdKdDZ0bHNBdGFWMjJnSTRxZHlMTF80aFFhcGpTNjBTUWF4eVVES0JrNkVLZ0hqSXBvcHJtdjN1NVE?oc=5",
    "published": "2026-11-10T13:35:00+00:00",
    "id": "059dbecf2b5d",
-   "impact": 4,
-   "cat": "politique US",
-   "raison": "haussier or (politique US)",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "inflation",
+   "raison": "Ralentissement de l'inflation détendant légèrement les anticipations de resserrement monétaire.",
+   "method": "IA"
   },
   {
    "title": "US Core CPI Rises More-Than-Forecast 0.3%, Supporting Rate Hike",
@@ -5070,10 +5070,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
    "published": "2026-11-10T13:32:50+00:00",
    "id": "455b3db660e3",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -4,
+   "cat": "inflation",
+   "raison": "Core CPI supérieur aux attentes justifiant un resserrement de la Fed.",
+   "method": "IA"
   },
   {
    "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
@@ -5082,10 +5082,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQcWtnZ216OE9mOHgxN2taSGhhWjZzd1nSAbABQVVfeXFMTVRPdWIwbnlsVHJ4aHBmOTNyWFNTbzhmajNIZXFSaUZlQWNneXQ1ZUczTXlMM3NHYXRNaXg3c2E1UEVxNjJwVm9LU2o5TnNTV2pISE9EVC1WU0w5OFdwUTJBRjJXaERTOEQ2SDFVYnhtTDhvUVV0NlBraXFwM1JXeUNNTFhaRTNRTVdKTnVFUWtYVkROelVIZ3U5R2hSSm5WQUVYTFBFSUNYdHJzY3kwZnY?oc=5",
    "published": "2026-11-10T12:59:39+00:00",
    "id": "47ddb45c01b9",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Extension de la portée balistique iranienne augmentant les risques d'escalade régionale.",
+   "method": "IA"
   },
   {
    "title": "Iran War Day 256: Trump Says Escalation ‘Unlikely’",
@@ -5094,10 +5094,10 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHB4UlV3aExiZTdQYmdkYjYyeTBwcExIVEx1d2hESnhpWkdOMVNlQ2xmNmVyRkh1RlZzTWs3bGlsSFE2aTlQTE9RQl9hcHcxN0h3dDY1ZHpHNXdWbkVfRXJhSWlsV2JIZEVGYTlEMTVfVHNwZDJ1TUVvcmdqVlhTQi1SRlM4LUUxQkltSWpMV3doQQ?oc=5",
    "published": "2026-11-10T12:54:00+00:00",
    "id": "41ac262d964d",
-   "impact": 10,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Déclarations écartant l'escalade, provoquant une baisse de la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Poll shows most Americans want US-Iran war to end",
@@ -5106,10 +5106,10 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jWC1XQnhtdF9kUFdTcFo4a1RPR01fckc3eFpMZ1FKbl82dDJUWlJ4NVRnMkNkZmFqdnUzTnhod1Y3VWNOYVhfV2NySWpYNlAyVUZfVVREWEF6MjNOeU5R?oc=5",
    "published": "2026-11-10T12:40:40+00:00",
    "id": "6b1e8023f40b",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "impact": -1,
+   "cat": "politique US",
+   "raison": "Volonté populaire de paix pouvant encourager la désescalade diplomatique.",
+   "method": "IA"
   },
   {
    "title": "Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing",
