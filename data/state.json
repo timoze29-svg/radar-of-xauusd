@@ -1089,10 +1089,6 @@
   }
  },
  "seen_news": [
-  "997469e49809",
-  "96e18863be0d",
-  "c3480fe46000",
-  "a6588e17f773",
   "0cbe6e9e326e",
   "23d432bd85bf",
   "17c6c149bf05",
@@ -4088,7 +4084,11 @@
   "61320c8cca38",
   "4796d4df1adc",
   "5caaa3301393",
-  "59fba5f4e236"
+  "59fba5f4e236",
+  "524583d9fdc0",
+  "3794613c79e8",
+  "729becd7d8f2",
+  "d37ddf20a1c4"
  ],
  "news": [
   {
@@ -4246,6 +4246,18 @@
    "cat": "fed",
    "raison": "Perspective d'une hausse agressive de 50 pb stimulant les taux réels baissiers pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Dollar Rallies and Gold Slumps on US Price Pressures and Hawkish Fedspeak",
+   "source": "Barchart.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDM5SThMZDJHRFlubEFPY1lvYW1PXzZXbUhDb0FyMk5NRHZYUmR0Mng3T3VLd183X1hkRHRoRlFyclJSc1J0Tnp6TzVYYU4tbHNrWDkzM05UakRqYzB4eDAyb2MzbUN4NDBZWURqbGFyYkpjYm94eWs3akdqY29lYkQxbFR4Y05QVE00M3dIMWdZTEhfaE4yUTJXUHdIdFJGRzNVeUJ4WFhVSzFCUVVsRGQ3anBVemlp?oc=5",
+   "published": "2026-11-10T20:36:12+00:00",
+   "id": "3794613c79e8",
+   "impact": -10,
+   "cat": "dollar",
+   "raison": "baissier or (dollar, fed, or)",
+   "method": "mots-clés"
   },
   {
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
@@ -6478,18 +6490,6 @@
    "cat": "géopolitique",
    "raison": "Menaces persistantes de frappes militaires américaines contre l'Iran maintenant le risque.",
    "method": "IA"
-  },
-  {
-   "title": "US Democratic Congress offers Mexico new channel, not quick tariff relief",
-   "source": "BNamericas",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM19QMnU4NmJTRmdhWGFjWnhLcEtvbTRDallpRE83MFFreG0wSmd2eGhjNDBfa0xsa3BpYVJua2NRQUtSY3lEcTFJR1dJcHNhMUQ2N0dhY3A3QnVxVm9LdldFcV9DbjVrNlQ4bDNRWV8ycjdodU12LTF0NDBEVXVkdDRsbDN6UlpGenUyQWt3RTM0M1loSDR0T25qZkY1M1VQWmlWSWF4dHBJVjdpVDB4aQ?oc=5",
-   "published": "2026-11-09T20:15:00+00:00",
-   "id": "e1ee7fa943d3",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Maintien des tensions tarifaires soutenant légèrement l'aversion au risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8235,7 +8235,8 @@
   "news|68715549a728": 1794354375.1198492,
   "news|ff3dd0834564": 1794355647.2906039,
   "news|6c9c04a244d7": 1794355648.1464243,
-  "post|2026-11-10T18:30:00-05:00": 1794355649.1912951
+  "post|2026-11-10T18:30:00-05:00": 1794355649.1912951,
+  "news|3794613c79e8": 1794357091.7288435
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8611,6 +8612,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T00:31:31.728949+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Rallies and Gold Slumps on US Price Pressures and Hawkish Fedspeak</b>\n📰 Barchart.com · Mar 10/11 21:36\n🧠 baissier or (dollar, fed, or) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDM5SThMZDJHRFlubEFPY1lvYW1PXzZXbUhDb0FyMk5NRHZYUmR0Mng3T3VLd183X1hkRHRoRlFyclJSc1J0Tnp6TzVYYU4tbHNrWDkzM05UakRqYzB4eDAyb2MzbUN4NDBZWURqbGFyYkpjYm94eWs3akdqY29lYkQxbFR4Y05QVE00M3dIMWdZTEhfaE4yUTJXUHdIdFJGRzNVeUJ4WFhVSzFCUVVsRGQ3anBVemlp?oc=5"
+  },
+  {
    "ts": "2026-11-11T00:07:29.191967+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 37 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n🇺🇸 <b>FOMC Member Paulson Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.0 pb\nOr -0.4$ (extrême -1.8$, range 3.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -8904,11 +8910,6 @@
    "ts": "2026-11-10T13:31:29.684887+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing</b>\n📰 The Guardian · Mar 10/11 13:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWRuMnJLWDducThsUU1nZTMydzQxamhDZWgzRi1qQ1BGZE9XZW9NVjRiTTJIMzlQRklseXdxbEtNS3NMem90UHVfTlB2aXdRRng2OWF3TTZxbmVJY25pbE1peDZtWVRlY3plSWhTTHRONURPYXhTTWhlckhLZmNNR0dnTnRuTTdoQnU3djhsYUtqQngteWlvcWlMUlZ4RVo4cXU0blZZRDUybVVWc1FRSnFtQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-10T13:31:28.790691+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Poll shows most Americans want US-Iran war to end</b>\n📰 The Jerusalem Post · Mar 10/11 13:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jWC1XQnhtdF9kUFdTcFo4a1RPR01fckc3eFpMZ1FKbl82dDJUWlJ4NVRnMkNkZmFqdnUzTnhod1Y3VWNOYVhfV2NySWpYNlAyVUZfVVREWEF6MjNOeU5R?oc=5"
   }
  ],
  "daily_forecast": {
