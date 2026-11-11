@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794367866.904064,
+   "ts": 1794371469.6624494,
    "data": [
     {
      "title": "CPI y/y",
@@ -857,6 +857,17 @@
      "gold_weight": 10
     },
     {
+     "title": "FOMC Member Logan Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-13T09:40:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
      "title": "FOMC Member Bowman Speaks",
      "country": "USD",
      "impact": "Low",
@@ -1089,10 +1100,6 @@
   }
  },
  "seen_news": [
-  "a2e24ea91238",
-  "ca899efa0bed",
-  "aac3b6f74e78",
-  "529d34a2a6c4",
   "74b0814c64ce",
   "fead80f4209e",
   "91413f23ffd5",
@@ -4088,7 +4095,11 @@
   "fe22219f51c0",
   "1bbbeb1ee770",
   "91ff028b0fb7",
-  "2661d9d02e06"
+  "2661d9d02e06",
+  "d8e17c2bf85c",
+  "64727c126c88",
+  "3fc1ea3b07c4",
+  "f2f5ab652260"
  ],
  "news": [
   {
@@ -4104,18 +4115,6 @@
    "method": "IA"
   },
   {
-   "title": "Gold climbs to $4,050 as USD pauses hot CPI-led rally; Fed hike bets to cap upside",
-   "source": "FXStreet",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzQxTGJyVUxiWDhBdjI3TVA4N0RjaGk2WG5JOXVEdDlJcjhiTS1kbHg5TlI2S2gxTXZ2bnhLUTZ2TXkwSTRuUG14SWE5WEVHMW9lUlY1LXRWNUUwVDVNOTBvQlpoblRwellqZUt3b1NkY1IzbjF6V21RekpEazhEaXVYV3ktalg1VEV4cUVfYm9xdEhPV2lUS0xFSnkxZzJxRTBiVjdnYndnZ24yeGtuZWEySEFvUHpJUDNRSWk1S2Y?oc=5",
-   "published": "2026-11-11T03:40:48+00:00",
-   "id": "91ff028b0fb7",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
    "title": "Gold edges higher after sharp selloff, Fed hike bets weigh",
    "source": "Reuters",
    "theme": "Or",
@@ -4126,6 +4125,18 @@
    "cat": "fed",
    "raison": "Les anticipations de hausses de taux Fed soutiennent le dollar et pèsent sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "US Inflation Keeps Rising Amid Iran War, AI",
+   "source": "Bloomberg.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmZ1TDQ3WXRVOHNfNDBBdzdXQ2p4YkViMkstMnNnT3QwSU1ldFp3cVBqaWZ3TFFuNXd6R1lRM1FiN2xHay1jRHB1WWRqS245RGt2UjJWdjJmSmN3ZG9KQWloUTJJd25iWHRCZ3pFdkxnUTI5NU1DcWlkU21VY1lWWVFaUVIzd2MxM3pNZ3hkOXA2c3lHb21GMldrZVZGdlZTVU03SF9oZXhuQUlKUFV5ZFctLVIyZw?oc=5",
+   "published": "2026-11-11T03:31:16+00:00",
+   "id": "f2f5ab652260",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Obsolete And Overdue : Withdrawing US Forces From The Gulf",
@@ -4966,6 +4977,18 @@
    "cat": "inflation",
    "raison": "Poussée de l'inflation sous-jacente renforçant le scénario de taux directeurs élevés durablement.",
    "method": "IA"
+  },
+  {
+   "title": "Treasury Yields Surge as Hot CPI Raises Fed Rate Concerns",
+   "source": "Demokratis.co.id",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SRkJlZGpZWnVPSkVmeERycnF0Yy1yTDFadUp6QjVxRDZfTFd2ZHZLMjBjWExVXzJlRUdjQjBHNWdYd0lPQU1qeEY1SlVJQXRqOXBQMzNHb1RTVWJwc0NFeW1HNVM1cjhO?oc=5",
+   "published": "2026-11-10T14:20:37+00:00",
+   "id": "3fc1ea3b07c4",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
+   "method": "mots-clés"
   },
   {
    "title": "Fed may accelerate rate hikes after October inflation spike",
@@ -6478,22 +6501,9 @@
    "cat": "géopolitique",
    "raison": "L'espoir de fin de conflit en Ukraine réduit la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
-   "published": "2026-11-09T23:07:09+00:00",
-   "id": "4f902a29eb7e",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Déclaration d'apaisement régional réduisant légèrement la prime de risque au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|6633c0e6f72e": 1792556167.6759756,
   "news|c6a7a4b3b4aa": 1792558892.9320133,
   "rep|daily|2026-10-21": 1792558895.30145,
   "news|5cec48de4c31": 1792568180.9817755,
@@ -8238,7 +8248,8 @@
   "news|de607e7a49aa": 1794362495.3347962,
   "news|38be92a6dde2": 1794362496.2691395,
   "news|10408393034a": 1794363415.3773391,
-  "news|64a34b3069b9": 1794367887.5805323
+  "news|64a34b3069b9": 1794367887.5805323,
+  "news|f2f5ab652260": 1794371495.5957935
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8614,6 +8625,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T04:31:35.595891+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Inflation Keeps Rising Amid Iran War, AI</b>\n📰 Bloomberg.com · Mer 11/11 04:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmZ1TDQ3WXRVOHNfNDBBdzdXQ2p4YkViMkstMnNnT3QwSU1ldFp3cVBqaWZ3TFFuNXd6R1lRM1FiN2xHay1jRHB1WWRqS245RGt2UjJWdjJmSmN3ZG9KQWloUTJJd25iWHRCZ3pFdkxnUTI5NU1DcWlkU21VY1lWWVFaUVIzd2MxM3pNZ3hkOXA2c3lHb21GMldrZVZGdlZTVU03SF9oZXhuQUlKUFV5ZFctLVIyZw?oc=5"
+  },
+  {
    "ts": "2026-11-11T03:31:27.580644+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Unveils Underground Missile City in Warning to US and Israel</b>\n📰 Defence Security Asia · Mer 11/11 03:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFA4R0M3dkVtWVkzVUp5Z09RYnBvTGdQcUVvZTRCQW5YT1p0a2ltUmpQVHctSVBxUWcxZmVFTk1vQzVMdVdxaVRIWjBqa3d3V2tRX0FiS3c5SXBmTWVLV1R1YUd0MnJtdlZORjlGV0FsYzhPWWRGVkVpZVlB?oc=5"
@@ -8907,11 +8923,6 @@
    "ts": "2026-11-10T14:16:05.301825+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold drops 2% as US CPI tops forecasts, strengthening December Fed rate hike bets</b>\n📰 FXStreet · Mar 10/11 15:02\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWQtS2ZNS2hudkNkbHpxQ3RpYXkyTjh0bnRLVERfTk9Qci1lbGZmdzNJMUxKTVlyOFVjUFJhTTRoX2RXZGEyR25Id1RSdnhuSkpFaFpnOUNQNjkwSmJUX2ViaExjVDY1OXpMbFc4ZnZTQlk2QXVVZjlLems5LUlTZS1ZRDN0SC01WGtlOHlNUzF5YnRSX1J2NnA4c0x3eVNKc2RWVFZhbXA?oc=5"
-  },
-  {
-   "ts": "2026-11-10T14:01:35.916828+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Core CPI m/m</b> : prév. 0.2% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>CPI m/m</b> : prév. 0.3% (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.23%\nTaux 10 ans +4.1 pb\nOr -14.4$ (extrême -34.0$, range 44.1$)\n\n🦅 Marché qui lit l'annonce comme DURE (dollar + taux ↑) → pression baissière sur l'or\n↩️ Le mouvement S'ESSOUFFLE (plus de la moitié reprise)"
   }
  ],
  "daily_forecast": {
