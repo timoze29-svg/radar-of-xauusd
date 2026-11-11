@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794430873.490767,
+   "ts": 1794434485.0150216,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "7d45b389ef4e",
-  "c65a86eb7721",
-  "24c1ef33d414",
   "5cfd77a809fa",
   "f6431fc39953",
   "356fbcef9fbc",
@@ -4099,7 +4096,10 @@
   "c68c4189794a",
   "5be6f036a9c9",
   "90031cd2e7bb",
-  "56f248346eb2"
+  "56f248346eb2",
+  "a44672a87691",
+  "682db302ac4d",
+  "1f3c8e354eb8"
  ],
  "news": [
   {
@@ -4293,6 +4293,18 @@
    "cat": "géopolitique",
    "raison": "Incertitudes sur la posture américaine face à l'Iran soutenant modestement la prime refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump claims US has already won the Iran war, now wants ‘total victory’",
+   "source": "The Times of Israel",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFFLSzZaNWZBMUZuWjM0YUxBUUxQbE9UU0JyZENTekJJSGd2N2RKWXVvTk4xQWhZWWtueTdYMFFrTGNnMGc5YmhZVWpISGM1emtDR3J5YXZkOTVLRmhJOFdXUkdDUUpOQUhFcnNNS2piTF83S244TVh0WU1adENlU2xnTHRKRnpZMDVNQTgwS3BjZnFmenRlX2tjS0RfOW9vSU40YXRhMGRzRVV5SXc0R1pfcHo?oc=5",
+   "published": "2026-11-11T17:48:30+00:00",
+   "id": "682db302ac4d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran Security Chief Mohsen Rezaei Warns Tehran Will Strike U.S. Bases in Europe: 17 outlets compared",
@@ -6489,22 +6501,9 @@
    "cat": "politique US",
    "raison": "Tensions politiques internes autour du conflit maintenant un climat d'incertitude modéré.",
    "method": "IA"
-  },
-  {
-   "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
-   "source": "AP News",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5",
-   "published": "2026-11-10T15:55:00+00:00",
-   "id": "85f81ff8487e",
-   "impact": -3,
-   "cat": "inflation",
-   "raison": "Inflation persistante forçant la Fed à durcir sa politique monétaire, soutenant les rendements.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|8cbb1bc97469": 1792620100.951243,
   "news|5e77b0a34eab": 1792621884.787417,
   "news|3b253b841b37": 1792623697.4097884,
   "news|d1e69f1ccd30": 1792625485.3678744,
@@ -8235,7 +8234,8 @@
   "news|e13ae5ae5253": 1794431960.2628882,
   "news|931cefa37106": 1794431961.307238,
   "news|6031d88625bb": 1794433759.4946406,
-  "news|c68c4189794a": 1794433760.3227985
+  "news|c68c4189794a": 1794433760.3227985,
+  "news|682db302ac4d": 1794434869.2579715
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8627,6 +8627,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-11T22:07:49.258061+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump claims US has already won the Iran war, now wants ‘total victory’</b>\n📰 The Times of Israel · Mer 11/11 18:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFFLSzZaNWZBMUZuWjM0YUxBUUxQbE9UU0JyZENTekJJSGd2N2RKWXVvTk4xQWhZWWtueTdYMFFrTGNnMGc5YmhZVWpISGM1emtDR3J5YXZkOTVLRmhJOFdXUkdDUUpOQUhFcnNNS2piTF83S244TVh0WU1adENlU2xnTHRKRnpZMDVNQTgwS3BjZnFmenRlX2tjS0RfOW9vSU40YXRhMGRzRVV5SXc0R1pfcHo?oc=5"
+  },
+  {
    "ts": "2026-11-11T21:49:20.323125+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold, silver plunge as hotter U.S. inflation raises prospect of larger Fed rate hike - Kitco PM Report</b>\n📰 Kitco · Mar 10/11 23:10\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjFnYTZXd19NRGpCTENYaVNGRFJjYkkyOWM3ZVZycC1NeV9MTVBvVDBsVE10UGhvZFlzRWg1UkJXTDduSVZ2S25QOXBtTGdyZzB3d1VQc3lUc000d2hQUnU2SFBVbG1vU0pTeW5oTlFEdVJRODBKanAwbWpOeC0xOS1UTEhYUzh3WVRYajY4aU1OTlNmSFpkM3VyZEMxcnBqQXVyU2VNMFdOR3R6RXNITEdPbkJpcWZkNy1Bcjln?oc=5"
@@ -8920,11 +8925,6 @@
    "ts": "2026-11-11T01:46:13.752647+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way</b>\n📰 The Guardian · Mer 11/11 02:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaDF0RG9vblhsZXZRZTNwWFRYU285N2dfTHhFbzdnR21Vc2dPTjVMOEV5djBRdzhqZlNIZ2hCZ0hwVGVPcWZQNGFJdERxTW9pbVdqd3hYMml4YVpEcXZsTk0zYUZkWVJldlBFZ2pmeVFEMWNabUU3TkNzQU45aER2OE91RDFqM19Pemp2dWp0cTFIeUVvMEcwWDVEZDBUV3pzcy1uc2pFUzFjUXQ1VWUtWXRRdG5RZVZkdC1wbzB3VC1zLVVNQzhTWTlKX0ZLbFpaU0VFR251MTJyZXozTVdrdXZ2RQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T00:31:31.728949+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Rallies and Gold Slumps on US Price Pressures and Hawkish Fedspeak</b>\n📰 Barchart.com · Mar 10/11 21:36\n🧠 baissier or (dollar, fed, or) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDM5SThMZDJHRFlubEFPY1lvYW1PXzZXbUhDb0FyMk5NRHZYUmR0Mng3T3VLd183X1hkRHRoRlFyclJSc1J0Tnp6TzVYYU4tbHNrWDkzM05UakRqYzB4eDAyb2MzbUN4NDBZWURqbGFyYkpjYm94eWs3akdqY29lYkQxbFR4Y05QVE00M3dIMWdZTEhfaE4yUTJXUHdIdFJGRzNVeUJ4WFhVSzFCUVVsRGQ3anBVemlp?oc=5"
   }
  ],
  "daily_forecast": {
