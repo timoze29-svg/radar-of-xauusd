@@ -1100,10 +1100,6 @@
   }
  },
  "seen_news": [
-  "a27a609175fd",
-  "d76e87f12543",
-  "34ab13a37f09",
-  "c6bda9fe6b5e",
   "45a124907f45",
   "fa16be2a676a",
   "a22351cb8d58",
@@ -4099,7 +4095,11 @@
   "8447578448ef",
   "4b95193ef1d5",
   "027bef97c03e",
-  "fbac018b3e14"
+  "fbac018b3e14",
+  "012b0a606eff",
+  "ad29eb6f3ab0",
+  "b303818d4011",
+  "4bc81d394c5a"
  ],
  "news": [
   {
@@ -4124,6 +4124,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+   "source": "France 24",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzJMZm11eWVnanpvRUY1amhSSkFaVlFjTUpJZk0wWjVxSnlqbjZUbEhXM1JybXJfTGFlYWM3eXFVY3l6LUtKdVd0MHgtcnRhdjEwWVpCM1FJa1lZOTJRcEg3dXVMX1pHS3pLTGRBbjlFZ0h0ZDRwc1VWUXRMaHBBckRhTWJrR0Zod1phaHlURG5DTm9CcGZGM2VGZjB0VThlcTdaN3dDTWxuWTVFbG9F?oc=5",
+   "published": "2026-11-11T21:46:12+00:00",
+   "id": "4bc81d394c5a",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6489,18 +6501,6 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US stocks slip following a discouraging update on inflation",
-   "source": "Boston Herald",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwTF9BTHdmN0FGZTBMcGhSbGFQWjgxLWFqRmdyU1JXNUtfdGRjaXBjZWtualdXcWtYY1FmS2RDc2pDbE8yX2VSUzhUdkxiRUpRem5uNXhXcUwtM0U2SlFmSVJlcFlPV2RMclEzYnV2Yw?oc=5",
-   "published": "2026-11-10T17:31:17+00:00",
-   "id": "be2004fb5a2a",
-   "impact": -2,
-   "cat": "inflation",
-   "raison": "Inflation plus tenace que prévu, retardant les baisses de taux de la Fed.",
-   "method": "IA"
   }
  ],
  "fired": {
