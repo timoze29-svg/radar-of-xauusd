@@ -1100,10 +1100,6 @@
   }
  },
  "seen_news": [
-  "cdb6b33c1fc3",
-  "49bc1b78bcf9",
-  "92e1bb2f1857",
-  "f73d78dc61ce",
   "963fc2974ca8",
   "b1a4d9256435",
   "c35787d6818b",
@@ -4099,7 +4095,11 @@
   "088829fc8f5c",
   "0f5f6137a310",
   "7607d9e3387f",
-  "a7c71462fc53"
+  "a7c71462fc53",
+  "a42499bd1254",
+  "583f7d656b04",
+  "0f130880e07a",
+  "7aa9c61ebdd9"
  ],
  "news": [
   {
@@ -4604,6 +4604,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold extends losses to one-week low as dollar rallies on Fed hike bets",
+   "source": "Reuters",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09mRGRCVmlxTnVTdDR2Y0ktNjVkZE1xUHhyTnZWUGZvbFZFS2hsTFk1SkVfNE82SVZlMTFXbUFtckZMaDIwbzA5RlgxWUxKbE5ZMGhrRkl1UWFrVG9ibW9mdWlGM0NYRTVlQnZramhHSTVadmtEaFhWMDRFY1dYVWRPX1RzNm9YNURTVUVzeGo2aEo4UzZReXRCVlQ0amhjVGFWTU1BVFVQR1k?oc=5",
+   "published": "2026-11-12T03:40:00+00:00",
+   "id": "a42499bd1254",
+   "impact": -6,
+   "cat": "dollar",
+   "raison": "baissier or (dollar)",
    "method": "mots-clés"
   },
   {
@@ -6488,18 +6500,6 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "Le maintien des tarifs alimente le risque stagflationniste, soutenant la demande d'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil Price Falls Below $90 First Time in 4 Months as Trump Signals Iran De - escalation – THISDAYLIVE",
-   "source": "thisdaylive.com",
-   "theme": "Géopolitique",
-   "link": "https://www.thisdaylive.com/2026/11/11/oil-price-falls-below-90-first-time-in-4-months-as-trump-signals-iran-de-escalation/",
-   "published": "2026-11-11T05:30:00+00:00",
-   "id": "2318200b345c",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "La désescalade avec l'Iran et la baisse du pétrole réduisent la prime géopolitique.",
    "method": "IA"
   }
  ],
