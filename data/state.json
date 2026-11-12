@@ -1100,15 +1100,6 @@
   }
  },
  "seen_news": [
-  "d700d199402f",
-  "23371541e848",
-  "4f2dffb3b8c4",
-  "612fe6c75cff",
-  "0fbb27eed9c3",
-  "3aeb5ea71265",
-  "dc9af783f5ae",
-  "12eb6958c62d",
-  "0e5e2bda307a",
   "884794b685a1",
   "040aa842930d",
   "a1b71f684025",
@@ -4099,7 +4090,16 @@
   "fbc1b5f09ea2",
   "c120f85fb028",
   "74e523a378fa",
-  "05e54d44fb35"
+  "05e54d44fb35",
+  "7f87861dabca",
+  "04c3be95d955",
+  "c126cfb4d2d2",
+  "708a0f12883d",
+  "b6421d16ae0c",
+  "da4d7a9f84df",
+  "25233636998a",
+  "20cea83160cf",
+  "073d35d47388"
  ],
  "news": [
   {
@@ -4473,6 +4473,18 @@
    "cat": "géopolitique",
    "raison": "Risque d'internationalisation du conflit impliquant la Russie et la Chine, soutien refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune",
+   "source": "EnergyNow.com",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
+   "published": "2026-11-11T20:08:45+00:00",
+   "id": "04c3be95d955",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
@@ -6489,18 +6501,6 @@
    "cat": "géopolitique",
    "raison": "Sanctions canadiennes renforçant marginalement le climat de tension géopolitique internationale.",
    "method": "IA"
-  },
-  {
-   "title": "More from Fed’s Bowman: Shifts focus to inflation, wants AI and Middle East risks to ease first",
-   "source": "investingLive",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0gwaEttMkRBR0tYWWVvV2FoLWVBMUlUelZBYVpUVjhuNjhtbzMxUFU0aHhEYTktS3hrT2hoNHU1bXh3NFRPQTlIQkNOUkY1amRLbEktM2hYMG5tR29OOUFOdHlqN1ZqNFQydUtkcEtwMFNZSkFfRGhUa29mRm1WTXpYV3BRbEtldXZBc3JkLUJicEVjQXBxckt2WlJ6STN6MnJsZk52bWxzWkUtN1hPOHBuVVMxWVJyM2w1RWhiNUptS18wMVNZWXdZMk0tbG8?oc=5",
-   "published": "2026-11-10T21:42:12+00:00",
-   "id": "3f3a272e0b81",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Discours faucon privilégiant la lutte contre l'inflation, pesant sur l'or via les taux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8224,7 +8224,8 @@
   "big|DXY|2026-11-11": 1794454287.084457,
   "news|330a164bc890": 1794456104.9063733,
   "news|51b5d2d30ba9": 1794456105.8810384,
-  "news|c3f161bce3ce": 1794457149.3921485
+  "news|c3f161bce3ce": 1794457149.3921485,
+  "news|04c3be95d955": 1794457887.9461653
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8616,6 +8617,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T04:31:27.946250+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune</b>\n📰 EnergyNow.com · Mer 11/11 21:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5"
+  },
+  {
    "ts": "2026-11-12T04:19:09.392215+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran warns of expanded retaliation as Israel reportedly readies to attack</b>\n📰 Al Jazeera · Jeu 12/11 05:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGV6WFJxeUNSa0ZVZFFWdC1mUGJUbEtIZldwSjJDWGQxUnFodTZ5akhnY010WTRLMXYtNjh5akpyczZkNjg1LXlUUnlQakJ5WmxORm9xQ0M4ck81WU9WWlhHU0x5WU1neXJrbTU0ZDRtd0JWa01TUTdRNjN1SDZfUkRObDg1dmJySkR3THpuaWh1TU94NVVMSHBJbEZ6VHNWUTlCNC1tTklKWFZlLXBvTHJWVkRtZ9IBuwFBVV95cUxPNmpBLWlIVTN1aUhtZ3R0amt5bWlCWGliV19MV2x5WExRRndaY2o0Nmc3cjVnZnFhX0Y3ZzVRMzBoQV9lZnctRWNiSlZ4LUtMV0JYVEVqaWpwSHo0STQ5Qzc0V0ZmMGlEZDBDNlduRVp2TUx1TjhURlRKYXdzS1N3Z1FKZ3ZJQjBTbGxyOW9tVHJaWXpDZkFqY0pEbVNEaDVkOUNmVmdoUFpQQTJTQnktZU94d3JMVm1iNFVR?oc=5"
@@ -8909,11 +8915,6 @@
    "ts": "2026-11-11T12:46:07.220623+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>United States Dollar Index holds steady amid prospects of a Fed rate hike</b>\n📰 www.tmgm.com · Mer 11/11 06:41\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2UxX3dPdnFvM2RCNVhBYWlaamdsd1Z3VXdUTWR0dkJhMjBaNk9wUjJQLThRZU8zSEJuWUdWd2dkZkstRTg2U0w2blFSRXZrYkVTWGUtRC1td0QtZFBpWDNmNjMzVDdpYWpEWXhhdzMtcmYzSFYzUHl0NmZnX01kenppNDV0aHllUjNQdHNjYWdMOFBxMXplaGtVN3dhbkZrU2FNME9xR0FFclNuYTRFSGowQzVaWUNFSXl3ZVlmS3pKd05F?oc=5"
-  },
-  {
-   "ts": "2026-11-11T12:46:06.313197+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Threatens to Attack Europe</b>\n📰 Middle East Forum · Mer 11/11 13:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSkstUGUyLUVBQ2pPSEh3QXRielBFN0JUNldoZUt3TWExNnZCSUt6clJySjdtOC1YSVFjR0hDY19aY3VWdkpDWEJnVXBrY1Z1SFkxbGxCbmhSU01fanQxRXU0OXlha3hFTDRHNThRMkhYckFQMU5V?oc=5"
   }
  ],
  "daily_forecast": {
