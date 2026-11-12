@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "c01b2f4e3ec8",
-  "3d9a115db223",
-  "11853b117ccf",
   "9d3d1e29a857",
   "fd56be94ef8b",
   "f0c25f93b3f8",
@@ -4099,7 +4096,10 @@
   "f7e11eaf5f4f",
   "aca381d12df6",
   "c613afb11a16",
-  "c48f04419171"
+  "c48f04419171",
+  "6473467e8a60",
+  "afb3bbd5c7a5",
+  "db774cc8197f"
  ],
  "news": [
   {
@@ -6504,7 +6504,6 @@
   }
  ],
  "fired": {
-  "big|SPX|2026-10-22": 1792692203.18474,
   "news|5c41d9123f46": 1792693663.7700913,
   "news|02b3a3676abd": 1792694769.9911885,
   "news|e5f438fc85ee": 1792696574.8292713,
@@ -8234,7 +8233,8 @@
   "big|EURUSD|2026-11-12": 1794505578.6795654,
   "pre15m|2026-11-12T13:10:00-05:00": 1794505579.7774642,
   "big|US10Y|2026-11-12": 1794506496.8834603,
-  "big|US05Y|2026-11-12": 1794506497.9536204
+  "big|US05Y|2026-11-12": 1794506497.9536204,
+  "pre15m|2026-11-12T13:30:00-05:00": 1794506785.483189
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8642,6 +8642,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T18:06:25.483234+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Schmid Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-12T18:01:37.953689+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 5 ans\n+0.127 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
@@ -8935,11 +8940,6 @@
    "ts": "2026-11-12T09:18:10.972152+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump: Iran has been waging war on America since 1979</b>\n📰 JNS.org · Jeu 12/11 10:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGp5Y3loeXpkd1FJbkdmdEl1ZXhaT3dsbWJsbDZPQm9Rd09VTzZQSnNVT1ZtSG50OVktS2VYcHU0WTg5ak5nSGwzSmVuNXNYZ2pFVnlsMkx5QXlyQWdJYnFMVmVWNDZ5RkFpVVRkeEo3ZHVBN2x6RjM0MUpycG9YMm8ycThocG5za0ZyOFJNNA?oc=5"
-  },
-  {
-   "ts": "2026-11-12T09:05:08.071300+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China calls US-backed Israel its friend despite earlier warnings over its recognition of Somaliland and military strikes on Iran</b>\n📰 Business Insider Africa · Mer 11/11 21:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0Exd1B3anM4aTFpR0hqUlBhTXJMem01dGFaT2F3b3I0dEltYXdRMzJqdk9JNDlMT0FvMnlCU2Q3eWpWX1kwOVFlWjBBYWJUTTN3OGdPTUdPcXNzU20xanI1OEx4QS1ZWjczMW82MzJLTXVOeWFCQnpKZFlTODVma2tOUmxWUG1NM1FxbDRIMXZRUEZDRnN2UXNpTTNxYkZHNDBkZTVpd3FRVkxQd1g4VklTV25FaUhZN2ZMcTFDYUlLOXotdkFOeXJkRzR4amlMZHh5SHlZdlNodw?oc=5"
   }
  ],
  "daily_forecast": {
