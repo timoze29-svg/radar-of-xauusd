@@ -1100,8 +1100,6 @@
   }
  },
  "seen_news": [
-  "02d2c1427210",
-  "46273688e235",
   "1ad2c5067a8b",
   "2e8eabab106c",
   "bad4477d3860",
@@ -4099,7 +4097,9 @@
   "e0bfd8b7100a",
   "32f88cd8f259",
   "db962056a603",
-  "e151be911fb4"
+  "e151be911fb4",
+  "3dbd45e2e547",
+  "795f967c8c24"
  ],
  "news": [
   {
@@ -4121,6 +4121,30 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0NTOER1bndtSDZUQ0Jna3l6SWN0aVFub0ZMTFBUb0QyQzNoYTJBTHNQeXVneGhGMVJSM0VQNlh4aXBya3YxUWtDNUtvb0lVc0tJVzJGQ0Q0YVpMQ002cVRwNmo3NmNCYWtLLVJQZkgtVWxnZ2E1T1NxSUh3QnotZ0FPNFl4TUNkQ2R4Tl9B?oc=5",
    "published": "2026-11-12T09:06:51+00:00",
    "id": "50751abdbf12",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "South Africa's citrus exports fall on Iran war disruption, bad weather",
+   "source": "Reuters",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEdMeVJPU1FqTUdleG5McVVJdTBkTXpIbng3bnEzRi1ZWUlSNWFfUExHbnZsc1h4Tm5Nb2k5b1JoWllINEhReExZbndMbTFXZ0JhcUNQWHZrYjlzcGFoRWNuc1FELUk0ekRTVmJub1dYUkNYdzIyZWowRWpITERUWXVScnhBVjlQU2ozWmdmNkhOUUY2U3dQQ1R2OVN5WHNLaFc0NWdVUndrZVRjanpEbVo1Z3o?oc=5",
+   "published": "2026-11-12T08:54:10+00:00",
+   "id": "795f967c8c24",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Canadian hockey sticks, wine and cement subject to new Trump tariffs",
+   "source": "News From The States",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenpxemtYd3o3TWp1V0QxeUxaTWxTVERGNFZ2ak5jdDlSdWRWbHUtS042amhnWEpxS0pYaXNjMlpqSjNGTWRrS0g5UnZEUzZRYUdCTFVXS3RmeHBqeGV5REFVdmVGNkhENVp0b1BDWDA0Z0t6Y0RJUVBBV0J2R05DVFhYWEMzQldNTlRZdTNyeERPaVRoSmloZHYzeXE2dkltSFdvWVR3bDRNUQ?oc=5",
+   "published": "2026-11-12T08:38:52+00:00",
+   "id": "3dbd45e2e547",
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
@@ -6477,30 +6501,6 @@
    "cat": "politique US",
    "raison": "Ligne dure sur l'Iran soutenant marginalement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "United States Dollar Index steadies on Fed rate-hike odds | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kWUNET181eVVCZ2E2RnJ2Rk9qdGdCVzVJZFhJZTZNUDhsemhGSlkzQjlnYXpDd1NzY1d6X0RSVjRDelJBNGRxNFpJT2VRcVhKODZn?oc=5",
-   "published": "2026-11-11T03:52:05+00:00",
-   "id": "77339a85bdcf",
-   "impact": -3,
-   "cat": "dollar",
-   "raison": "Dollar fort et anticipations de hausse Fed pénalisent l'or sans rendement.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold edges higher after sharp selloff, Fed hike bets weigh",
-   "source": "Reuters",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
-   "published": "2026-11-11T03:39:00+00:00",
-   "id": "4bff204c2c0b",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Les anticipations de hausses de taux Fed soutiennent le dollar et pèsent sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8226,7 +8226,8 @@
   "cyc_fail|2026-11-09/2026-11-15": 1794472486.3139236,
   "news|7230180561b2": 1794473330.256643,
   "news|e93b8aed3f9c": 1794474308.0711951,
-  "news|bb6c97993bed": 1794475090.972062
+  "news|bb6c97993bed": 1794475090.972062,
+  "news|795f967c8c24": 1794475878.9699068
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8635,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T09:31:18.969981+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>South Africa's citrus exports fall on Iran war disruption, bad weather</b>\n📰 Reuters · Jeu 12/11 09:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEdMeVJPU1FqTUdleG5McVVJdTBkTXpIbng3bnEzRi1ZWUlSNWFfUExHbnZsc1h4Tm5Nb2k5b1JoWllINEhReExZbndMbTFXZ0JhcUNQWHZrYjlzcGFoRWNuc1FELUk0ekRTVmJub1dYUkNYdzIyZWowRWpITERUWXVScnhBVjlQU2ozWmdmNkhOUUY2U3dQQ1R2OVN5WHNLaFc0NWdVUndrZVRjanpEbVo1Z3o?oc=5"
+  },
+  {
    "ts": "2026-11-12T09:18:10.972152+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump: Iran has been waging war on America since 1979</b>\n📰 JNS.org · Jeu 12/11 10:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGp5Y3loeXpkd1FJbkdmdEl1ZXhaT3dsbWJsbDZPQm9Rd09VTzZQSnNVT1ZtSG50OVktS2VYcHU0WTg5ak5nSGwzSmVuNXNYZ2pFVnlsMkx5QXlyQWdJYnFMVmVWNDZ5RkFpVVRkeEo3ZHVBN2x6RjM0MUpycG9YMm8ycThocG5za0ZyOFJNNA?oc=5"
@@ -8927,11 +8933,6 @@
    "ts": "2026-11-11T18:04:46.859975+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Security Chief Mohsen Rezaei Warns Tehran Will Strike U.S. Bases in Europe: 17 outlets compared</b>\n📰 NewsCord · Mer 11/11 18:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2ZOVjdFcmRBX1E3NG5wUXVPRTFxTWFpSTduT2s3cFZwUTNLd1dpbDF0RVdpZ25LVlRQYWV6aW9QS2NITF92ZG1ycFZSN3JjSHFvSlRLRVZoN0hiemxoOW1ua3JCSy13MmtYcFFtZ2JsR0ZWeFY1WVhhYlJxM0NGSV9aWFRPX2NKemxwZjMwc0FiaUJVZ1BzTXJNNHpZOUhoYjNEREtHOG9SRUNzNmU0dFJycUc5RXZya01BZDFIalBFb2ozRTNUek5jLXhKSzA0S1ZNejhMVnlqcW90TEh6dmxhcFNXZw?oc=5"
-  },
-  {
-   "ts": "2026-11-11T17:34:32.600971+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MAJEURE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut sur 1 AN\nNiveau : 102.95 → prix : <b>102.96</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.37 | 60j -0.46"
   }
  ],
  "daily_forecast": {
