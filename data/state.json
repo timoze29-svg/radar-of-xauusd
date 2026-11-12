@@ -1100,11 +1100,6 @@
   }
  },
  "seen_news": [
-  "1e630ca0257a",
-  "d276d9f8091c",
-  "1176d438b05d",
-  "46de88aec2e0",
-  "2e645ec8a654",
   "c01b2f4e3ec8",
   "3d9a115db223",
   "11853b117ccf",
@@ -4099,7 +4094,12 @@
   "f6fbd3804d46",
   "1f8df4959d95",
   "3f87033bd7e9",
-  "1acdc470dc07"
+  "1acdc470dc07",
+  "1cf1be01815d",
+  "f7e11eaf5f4f",
+  "aca381d12df6",
+  "c613afb11a16",
+  "c48f04419171"
  ],
  "news": [
   {
@@ -8232,7 +8232,9 @@
   "pre1h|2026-11-12T13:30:00-05:00": 1794503768.194758,
   "news|f6fbd3804d46": 1794504685.5695739,
   "big|EURUSD|2026-11-12": 1794505578.6795654,
-  "pre15m|2026-11-12T13:10:00-05:00": 1794505579.7774642
+  "pre15m|2026-11-12T13:10:00-05:00": 1794505579.7774642,
+  "big|US10Y|2026-11-12": 1794506496.8834603,
+  "big|US05Y|2026-11-12": 1794506497.9536204
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8640,6 +8642,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T18:01:37.953689+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 5 ans\n+0.127 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-11-12T18:01:36.883523+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 10 ans\n+0.109 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-12T17:46:19.777505+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -8928,16 +8940,6 @@
    "ts": "2026-11-12T09:05:08.071300+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China calls US-backed Israel its friend despite earlier warnings over its recognition of Somaliland and military strikes on Iran</b>\n📰 Business Insider Africa · Mer 11/11 21:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0Exd1B3anM4aTFpR0hqUlBhTXJMem01dGFaT2F3b3I0dEltYXdRMzJqdk9JNDlMT0FvMnlCU2Q3eWpWX1kwOVFlWjBBYWJUTTN3OGdPTUdPcXNzU20xanI1OEx4QS1ZWjczMW82MzJLTXVOeWFCQnpKZFlTODVma2tOUmxWUG1NM1FxbDRIMXZRUEZDRnN2UXNpTTNxYkZHNDBkZTVpd3FRVkxQd1g4VklTV25FaUhZN2ZMcTFDYUlLOXotdkFOeXJkRzR4amlMZHh5SHlZdlNodw?oc=5"
-  },
-  {
-   "ts": "2026-11-12T08:48:50.256742+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli cabinet to meet Sunday amid opposition fears of strike on Iran</b>\n📰 Anadolu Ajansı · Jeu 12/11 09:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEZTMlZJTEd4OWhVdHVVUXhYZjgycDEtNC1FMXpfRTBQYjNOdnhjXzN4Z0Q2Q3FTZUk0N0tzbHRnaGM2VEZqd25IMG1GZVoycGw5RThUUVA2dEI0U2dYSVpXeWd5MENmTFFkNUdIem1iYnRGN0JwYllYUmozZ0FEeHJDRnNpRWwzdlJIUkdJVTMwVHRLOFphd2YtRk1zZnEwS0N0eTJPS0NpOW9tQ01PSkRRZkFGQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-12T08:34:46.313980+00:00",
-   "kind": "cycle",
-   "text": "⚠️ <b>CYCLE HEBDO : PAS D'INVERSION CETTE SEMAINE</b>\nPhase 2 (jeu→ven) : lun→mer = -73.8$, depuis mercredi -40.1$ → le pattern ÉCHOUE (continuation) ⚠️\nLe marché continue dans le sens lun→mer — ne pas forcer le contre-trend."
   }
  ],
  "daily_forecast": {
