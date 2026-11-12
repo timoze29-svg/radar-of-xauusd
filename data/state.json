@@ -1100,12 +1100,6 @@
   }
  },
  "seen_news": [
-  "c7135ca16519",
-  "a5d35225a142",
-  "e93fa310e1f9",
-  "3d438f818774",
-  "996da829a7bf",
-  "f2254d7231ad",
   "df2781f54cef",
   "9abd275cbe3c",
   "244e25f60911",
@@ -4099,7 +4093,13 @@
   "d7302406ed37",
   "f3eb59214c66",
   "4ed63d269677",
-  "d3faa93bc45c"
+  "d3faa93bc45c",
+  "221d5189950b",
+  "5102d9218753",
+  "354e0d94e7bd",
+  "6ae703bdcac2",
+  "f7d9fb7ea9f7",
+  "63dfe4896a86"
  ],
  "news": [
   {
@@ -8227,7 +8227,8 @@
   "big|SILVER|2026-11-12": 1794497493.234412,
   "post|2026-11-12T10:00:00-05:00": 1794497494.2359304,
   "news|f3eb59214c66": 1794498373.4328775,
-  "news|94e68e63a4ee": 1794498374.3411622
+  "news|94e68e63a4ee": 1794498374.3411622,
+  "pre15m|2026-11-12T11:15:00-05:00": 1794499290.6667595
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8635,6 +8636,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T16:01:30.666805+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-12T15:46:14.341288+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Pound Sterling Price News and Forecast: GBP/USD tumbles below 1.33 post hot US CPI, Fed hawkish rhetoric</b>\n📰 FXStreet · Mer 11/11 18:34\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZnJPZEtiS1M0Q085ODNGYjAxQ01VUk56aTdzV18xdW4xWEl0Y1RnOTQxMWJybFFRZWlOUU14TXQzUGZxRHhyTFFzVUdIVXhQbkhCakpNN0ZaU3BwRVRXZk9IVWJGeWtOekFLYVJxaE9SbXl4b2xvSEhZTDlSejVYU2dLakxGRUR3OHA3RjNxb01yZEN5cVgtV2hGRzhEYTRiNWNMSGVheGlCeTloZVcxekRmX0VjTWNMaEd4dlliRWFUdmN6OXRUb1k0VG94WjR2eFVWVDlFOU9KNGw0?oc=5"
@@ -8928,11 +8934,6 @@
    "ts": "2026-11-12T06:19:21.391538+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine War, Day 1,722: Zelensky — “Window of Opportunity” as Trump Envoys Visit Putin</b>\n📰 EA WorldView · Jeu 12/11 07:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVhhWEYydFlwOXBQTVRPMGV0OEx0VFF1QndJclRIUGpDcVpPcWJBRGtPM2QxWTFVblFQbVR1c0dnRE1sY0h2WVAtemZoelFOcVF0cGNwdzctQ1g4UHhhdmEyeV9zeXNkWEZEY05BWHZnNDVRR1FnZEx1d2dhUVhSUFltd1U3QlRuNl9UbXNuMGZQZ0VhcndGVVZ1MG1ZY0pVaTFwMmVn?oc=5"
-  },
-  {
-   "ts": "2026-11-12T06:01:35.836409+00:00",
-   "kind": "daily",
-   "text": "☀️ <b>PRÉVISION OR — JEUDI 12/11</b>\nPrix : <b>3982.70</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-24/100)\n\n<b>Pourquoi :</b>\n🔴 Dollar (DXY 5j) : +1.41% sur 5 jours\n🔴 Momentum or (vs MM50) : prix 3983 vs MM20 4055 / MM50 4197\n🟢 Taux réels 10 ans (20j) : 2.66% (-0.25 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : -11.4$ · plus haut 4000.2 / plus bas 3973.5 (range 27$)\nDXY +0.13% sur la nuit\n⚠️ Plus bas de la veille (3990) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~89$</b> (ATR 92$ × profil du jeudi)\nDéjà fait en Asie : 27$ (30% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4106.7 | R1 4053.6 | <b>Pivot 4021.6</b> | S1 3968.5 | S2 3936.5\nVeille : PDH 4074.7 / PDL 3989.6  ·  Semaine passée : 4156 / 3889\n\n📅 <b>Annonces du jour</b>\n🔥 <b>14:30</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>16:00</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>17:15</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:10</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>52%</b> du temps (303 jours, ~6.0 ans)\n• Hier : -0.74% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1052 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 0h (12%), 2h (10%) · plus BAS vers 0h (15%), 15h (10%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -73.8$, depuis mercredi -17.8$ → en attente\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 4022 → R1 4054\nObjectifs : PDL 3990 → S1 3968 → S2 3936\n❌ Invalidation : clôture H1 au-dessus de R1 4054\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 4075 → R2 4107\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
