@@ -1100,7 +1100,6 @@
   }
  },
  "seen_news": [
-  "01555ad25454",
   "d2b569d6db65",
   "5e9642dfcebe",
   "e43e39a27003",
@@ -4099,21 +4098,10 @@
   "38fd2170c364",
   "83beae91ef83",
   "368abb8774b5",
-  "03da36c2d2fa"
+  "03da36c2d2fa",
+  "4a495f623f89"
  ],
  "news": [
-  {
-   "title": "White House makes astonishing claim about ‘giggling’ on Trump’s C-Span call",
-   "source": "The Independent",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmV1V2lvVjZoeFl6dXJsWFcxYVB5Y2lpRFhOOExNck9HTmVZOFMwVnlaR2htV05mM05zeUJMVEJfcm5BdTJ2UUhLNlV1TWV5djBaWl9xMEJFclpSNjRyS0dPajV3VjkxdVpxLUFhdlhKVWNUMXpCX1BjQlBMMk9UYXZEUndSS1o1YnZqVS13WUJRVWUtcXgxbHVpVW5mZ2FSWmxFTkk0a2R0cHVa?oc=5",
-   "published": "2026-11-12T01:21:00+00:00",
-   "id": "03da36c2d2fa",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
    "source": "CNBC",
@@ -5639,6 +5627,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Iran war live: Tehran warns of domestic gas shortages caused by conflict",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-11T05:56:23+00:00",
+   "id": "4a495f623f89",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
    "source": "WSJ",
    "theme": "Dette US",
@@ -6504,17 +6504,6 @@
   }
  ],
  "fired": {
-  "news|d1e69f1ccd30": 1792625485.3678744,
-  "news|41020e617be3": 1792626363.6042778,
-  "news|94bb167f1b15": 1792626364.4628117,
-  "news|c670f6a2c521": 1792627293.3839085,
-  "news|92ae377f6b52": 1792627294.3580165,
-  "news|7fbc28b12ba8": 1792628170.802978,
-  "news|6694b3f70e11": 1792629086.4295022,
-  "news|7a6ee0561d0f": 1792629970.408132,
-  "news|0c7967386f2e": 1792629971.4339495,
-  "news|4b2569b6e94d": 1792630894.0018117,
-  "brk|GOLD|pdh|dn|2026-10-21": 1792632733.9119637,
   "news|b684e7bcd4e5": 1792634494.70971,
   "news|b0e6ace8c464": 1792634495.6942687,
   "news|b8d55ebb1316": 1792634496.6287663,
@@ -8242,7 +8231,8 @@
   "news|8be9903c6776": 1794436284.0383239,
   "news|e43a9e2c262e": 1794436285.077014,
   "news|4b95193ef1d5": 1794437530.247493,
-  "news|672b81a7cdf3": 1794439134.2402706
+  "news|672b81a7cdf3": 1794439134.2402706,
+  "news|4a495f623f89": 1794447962.021728
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8624,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T01:46:02.021808+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Tehran warns of domestic gas shortages caused by conflict</b>\n📰 Arabian Business · Mer 11/11 06:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-11T23:18:54.240359+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 11/11 01:18\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5"
@@ -8927,11 +8922,6 @@
    "ts": "2026-11-11T06:16:11.390030+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Price Falls Below $90 First Time in 4 Months as Trump Signals Iran De - escalation – THISDAYLIVE</b>\n📰 thisdaylive.com · Mer 11/11 06:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.thisdaylive.com/2026/11/11/oil-price-falls-below-90-first-time-in-4-months-as-trump-signals-iran-de-escalation/"
-  },
-  {
-   "ts": "2026-11-11T06:01:40.325194+00:00",
-   "kind": "daily",
-   "text": "☀️ <b>PRÉVISION OR — MERCREDI 11/11</b>\nPrix : <b>4068.80</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-22/100)\n\n<b>Pourquoi :</b>\n🟢 Taux réels 10 ans (20j) : 2.66% (-0.25 sur 20j)\n🔴 Momentum or (vs MM50) : prix 4069 vs MM20 4068 / MM50 4207\n🔴 Dollar (DXY 5j) : +0.75% sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : +25.1$ · plus haut 4073.7 / plus bas 4034.1 (range 40$)\nDXY +0.06% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~102$</b> (ATR 96$ × profil du mercredi)\nDéjà fait en Asie : 40$ (39% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4204.5 | R1 4117.3 | <b>Pivot 4069.1</b> | S1 3981.9 | S2 3933.7\nVeille : PDH 4156.2 / PDL 4020.8  ·  Semaine passée : 4156 / 3889\n\n📅 <b>Annonces du jour</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Paulson Speaks\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -2.05% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (212 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 2h (12%), 16h (12%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -5.5$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 4069 → R1 4117\nObjectifs : PDL 4021 → S1 3982 → S2 3934\n❌ Invalidation : clôture H1 au-dessus de R1 4117\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 4156 → R2 4204\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
