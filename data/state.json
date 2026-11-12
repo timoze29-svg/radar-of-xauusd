@@ -1100,11 +1100,6 @@
   }
  },
  "seen_news": [
-  "e08a124f45ec",
-  "b476ff15d15d",
-  "f73cc974edad",
-  "92ba7abdbca3",
-  "a53189d6a758",
   "a63fe0a0f476",
   "e905e2ea2001",
   "9fcdc4ec7626",
@@ -4099,9 +4094,26 @@
   "073d35d47388",
   "09ecdebb420e",
   "fb116891b32c",
-  "56a69f80d254"
+  "56a69f80d254",
+  "0c50f1929504",
+  "e5d770e5ea9b",
+  "daac6b4137f1",
+  "cb84565b7cb7",
+  "c2c3f3707c41"
  ],
  "news": [
+  {
+   "title": "Tracking Trump: Trump defends Iran war in Veterans Day speech; Hegseth impeachment fails; Kennedy family sues Trump; and more",
+   "source": "The Washington Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPM19mc3Z2S2VFb3Z2dmhkclhYSzc1RDdZUWkzRzRYdWVHNGtLZjVxTHhCVTZRUXVGTER0ZllXYWJlamo3VWEyd1M1SWI2b2x0aEFadDZGMFdIM250TFkwbWpnVURaOE9NamJtMTN2OVgxbjBSbEp4Q2hGenB1MERNMzlLOFBpZWZFbVBNTXhPTXViay1yRi03MU5HOFJBR2dReTd4QXJwekl6YUt0ZWUtOFhUMUZTRGJaNTZaU2VYNWdkaTNlVW41cW5EWnFIQ2FmN0VTS0VWQkYwbFZpZ3dwZ2h6OXpTWFZhMTRiRTFMMVpXTGVDUmRLb0pEQ3NMdWJKRVU0?oc=5",
+   "published": "2026-11-12T04:45:30+00:00",
+   "id": "e5d770e5ea9b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
    "source": "Al Jazeera",
@@ -6489,23 +6501,9 @@
    "cat": "commerce",
    "raison": "Maintien des tarifs douaniers alimentant les craintes stagflationnistes favorables au métal précieux.",
    "method": "IA"
-  },
-  {
-   "title": "Global carbon pollution dips as Iran war oil shock hits emission",
-   "source": "wmur.com",
-   "theme": "Géopolitique",
-   "link": "https://www.wmur.com/article/global-carbon-pollution-drops-amid-iran-war/74391857",
-   "published": "2026-11-10T22:00:00+00:00",
-   "id": "dad1065fc3a1",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Choc pétrolier lié au conflit iranien créant des pressions inflationnistes favorables à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|9ebdc7bb2226": 1792645295.0711849,
-  "rep|daily|2026-10-22": 1792645298.3395405,
   "news|0e4be6026af0": 1792647081.0353272,
   "news|a6fb73d04533": 1792648072.6531677,
   "news|c4ee241f1864": 1792648073.649049,
@@ -8226,7 +8224,8 @@
   "news|51b5d2d30ba9": 1794456105.8810384,
   "news|c3f161bce3ce": 1794457149.3921485,
   "news|04c3be95d955": 1794457887.9461653,
-  "news|56a69f80d254": 1794458768.1030402
+  "news|56a69f80d254": 1794458768.1030402,
+  "news|e5d770e5ea9b": 1794459698.98214
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8618,6 +8617,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T05:01:38.982221+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Tracking Trump: Trump defends Iran war in Veterans Day speech; Hegseth impeachment fails; Kennedy family sues Trump; and more</b>\n📰 The Washington Post · Jeu 12/11 05:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPM19mc3Z2S2VFb3Z2dmhkclhYSzc1RDdZUWkzRzRYdWVHNGtLZjVxTHhCVTZRUXVGTER0ZllXYWJlamo3VWEyd1M1SWI2b2x0aEFadDZGMFdIM250TFkwbWpnVURaOE9NamJtMTN2OVgxbjBSbEp4Q2hGenB1MERNMzlLOFBpZWZFbVBNTXhPTXViay1yRi03MU5HOFJBR2dReTd4QXJwekl6YUt0ZWUtOFhUMUZTRGJaNTZaU2VYNWdkaTNlVW41cW5EWnFIQ2FmN0VTS0VWQkYwbFZpZ3dwZ2h6OXpTWFZhMTRiRTFMMVpXTGVDUmRLb0pEQ3NMdWJKRVU0?oc=5"
+  },
+  {
    "ts": "2026-11-12T04:46:08.103132+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Rate Hike Expectations Boost the Dollar</b>\n📰 TradingView · Mer 11/11 21:36\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQam5Xek52UFVMcF9NbzNIMTU2SUZ2VVd1enNRaHFGSFVnWTVDMDZmQ3NWeEdtdlZnYTFjdVNoMXN0ejV6dmlLNW1US0lUd1plR1NzTGZseXFOeVNJWlFQZ0dtMTM2VnExOWJIT0dQWGNsQ1A1Yy01NjBwRks3R1A1TmlIcksxLXdOOV9mTXJhYzdwUjZJUG1xN1pJM1VvREV3dXFsWQ?oc=5"
@@ -8911,11 +8915,6 @@
    "ts": "2026-11-11T13:04:42.387085+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:04</b>\nPrix : <b>4051.00</b>  (-17.8$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-22) → maintenant -23 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 41$ sur ~102$ attendus (40%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) UPDATES: US War on Iran, Day 258 - \"Minor\" US Strikes on Qeshm Island in the Strait of Hormuz\n🟢 (+8) Iran producing up to 50 ballistic missiles a month, half its prewar rate – report\n🟢 (+8) Iran Threatens to Attack Europe\n🟢 (+6) Russia and Ukraine agree to large exchange of prisoners of war, officials in Abu Dhabi say"
-  },
-  {
-   "ts": "2026-11-11T13:04:41.086805+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>10-year Treasury yield tops 5% after hotter CPI data increases rate hike odds</b>\n📰 TradingView · Mar 10/11 18:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUROWk1LZk56SGlCM1YxR1UzcWZwNm5ET21OOXZvUjQ5ZXd3UjU0eVdvUkRfT0Rad2tJbGJrMW5CVDZWYVJXLVNSOVZoWm45QzRYc0hqcGVtVFhzNGhaTjQwRndsVkFBeHpLQzZoSmI4aUtPbXZCNW5nMTJ5cUp3cTlwVjVmOE9vVEE3TVd5TWlHOVlXWllIMjJIOHpFd0VzNU5CT1dibTdhTkFTenpCclpYd2h1enltN3Y1T29uVWlVX0k4M2RYcWtlRDQzUQ?oc=5"
   }
  ],
  "daily_forecast": {
