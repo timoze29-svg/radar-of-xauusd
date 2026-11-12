@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794441678.4750402,
+   "ts": 1794464153.0702739,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1794420083.230006,
+   "ts": 1794464160.239938,
    "data": {
     "date": "2026-11-03",
     "net": 179548,
@@ -1100,14 +1100,6 @@
   }
  },
  "seen_news": [
-  "1ec797907802",
-  "468f23976be2",
-  "b26e63934700",
-  "7638eab81c90",
-  "ef91a369c4fd",
-  "7edbc2f1b01d",
-  "f4b69d5894d7",
-  "5f58e5e1ca18",
   "532685793370",
   "d5f323fbaf0c",
   "a29ea6ef94a0",
@@ -4099,9 +4091,29 @@
   "538771f226d1",
   "d99c32a4dd73",
   "efdad8d7ced3",
-  "6538189a5d0c"
+  "6538189a5d0c",
+  "6ba723593c9d",
+  "7487a36e7b3f",
+  "c8b58e426a82",
+  "e6fe93dbb36f",
+  "164c9e4afbfb",
+  "3ecec575aa56",
+  "14c0d5302b83",
+  "f5425539e830"
  ],
  "news": [
+  {
+   "title": "Ukraine War, Day 1,722: Zelensky — “Window of Opportunity” as Trump Envoys Visit Putin",
+   "source": "EA WorldView",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVhhWEYydFlwOXBQTVRPMGV0OEx0VFF1QndJclRIUGpDcVpPcWJBRGtPM2QxWTFVblFQbVR1c0dnRE1sY0h2WVAtemZoelFOcVF0cGNwdzctQ1g4UHhhdmEyeV9zeXNkWEZEY05BWHZnNDVRR1FnZEx1d2dhUVhSUFltd1U3QlRuNl9UbXNuMGZQZ0VhcndGVVZ1MG1ZY0pVaTFwMmVn?oc=5",
+   "published": "2026-11-12T06:08:22+00:00",
+   "id": "7487a36e7b3f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "The US midterm results could have real consequences for the war in Iran. Could it end soon?",
    "source": "DW.com",
@@ -4316,6 +4328,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXQzWEgtelNiMHRMRXFkQU15NEo2a3ZDRmdFRU5nWllrcV9mNm5BbVFkcjdEc19uVTlJYlpLTjg5UXFQUElJRXNwRmxhMTZUY2JvSGliRjExOUlZWm9iS2Q2QjRPZElPWGlpVmRsTGJPaXkxdDBmSDM1XzhHaVZwS2QxcElkaFl4aDRpUXRWY0JkUFduc3dTaGZuWm8wTDllQmhiZ3c4T19mOW9wcVU3Rw?oc=5",
+   "published": "2026-11-12T02:14:00+00:00",
+   "id": "c8b58e426a82",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5771,6 +5795,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5",
+   "published": "2026-11-11T06:37:00+00:00",
+   "id": "f5425539e830",
+   "impact": -10,
+   "cat": "taux",
+   "raison": "baissier or (fed, taux)",
+   "method": "mots-clés"
+  },
+  {
    "title": "US CPI hotter than expected",
    "source": "FXStreet",
    "theme": "Inflation US",
@@ -6465,49 +6501,9 @@
    "cat": "taux",
    "raison": "Le retour du taux 10 ans à 5% renforce drastiquement le coût d'opportunité.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Downs US Aircraft as ‘Israel’ Prepares ‘Unprecedented Strikes’ Amid Election Turmoil",
-   "source": "Orinoco Tribune",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1F6QkQ2TllTZ3hseVJzbTJyX24tRVlQMHJoZFNVaWV5b3FDcUEyTWszMVVJNkd1R0xRVXBvWm1OWk5hNjVVdHl5RVktODdrdHBUa0dqYTViV012eHlPTU02aHpRLWNsUU5ZdXdoT0FjY3loOTdXQkI5YmUwVUhHeTZmS0R3cXZYcGMyOE9jT0xMUXRfUndnaVdxY19JRTd5T0ZjV1d5RkV2S1pZSW1lNWZPcw?oc=5",
-   "published": "2026-11-10T22:49:16+00:00",
-   "id": "ac19ed1e3df5",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire directe USA-Iran favorisant massivement les flux vers la valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Wall Street slips as hot inflation revives rate hike fears",
-   "source": "CommBank",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDMwMWZIa21ablZISHRVdldDeEZyUVhNWkoxS3JMLV9qeDV2NXU2RjRZVDNsVVdzR1VXOWZJV1Bwd0w0ZWdDWkQ0emxIaldEVVVXb1lKMlNzYU1jSnBFcmZoTk9zUXhRRXcyNnhleDIxU1JRVVYzeVZPSHh4bEVRX1JKSWtyRmpUcWl0cHg1akt3NF9qRE9MVkxiNkNuZHNkM1hCRWR6Q3RVV0l2TzdsZTJOU2JaUHJl?oc=5",
-   "published": "2026-11-10T22:24:29+00:00",
-   "id": "c695c7fd8084",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Iran war turns Dubai into a ghost city",
-   "source": "DW.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5",
-   "published": "2026-11-10T22:20:20+00:00",
-   "id": "1eccc5dff26c",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Choc géopolitique majeur au Moyen-Orient entraînant une forte ruée vers les valeurs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "brk|GOLD|pwh|dn|2026-10-19/2026-10-25": 1792648981.9365177,
-  "brk|GOLD|h20|dn|2026-10-19/2026-10-25": 1792648982.9792988,
-  "news|6abda9afb7ce": 1792649788.8467429,
-  "news|10f87eb875ab": 1792649789.8355544,
   "news|31ecb4f8b2d2": 1792651619.4462228,
   "big|USDJPY|2026-10-22": 1792651620.6202524,
   "brk|COPPER|h20|dn|2026-10-19/2026-10-25": 1792651621.4834852,
@@ -8226,7 +8222,9 @@
   "brk|DXY|pdh|up|2026-11-12": 1794460929.0703692,
   "cyc_end|2026-11-09/2026-11-15": 1794460929.9915526,
   "news|e27775c6d860": 1794461489.7255352,
-  "rep|daily|2026-11-12": 1794463296.8223517
+  "rep|daily|2026-11-12": 1794463296.8223517,
+  "news|7487a36e7b3f": 1794464361.3913918,
+  "news|f5425539e830": 1794464362.3810465
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8632,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T06:19:22.381307+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike</b>\n📰 WSJ · Mer 11/11 07:37\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5"
+  },
+  {
+   "ts": "2026-11-12T06:19:21.391538+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine War, Day 1,722: Zelensky — “Window of Opportunity” as Trump Envoys Visit Putin</b>\n📰 EA WorldView · Jeu 12/11 07:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVhhWEYydFlwOXBQTVRPMGV0OEx0VFF1QndJclRIUGpDcVpPcWJBRGtPM2QxWTFVblFQbVR1c0dnRE1sY0h2WVAtemZoelFOcVF0cGNwdzctQ1g4UHhhdmEyeV9zeXNkWEZEY05BWHZnNDVRR1FnZEx1d2dhUVhSUFltd1U3QlRuNl9UbXNuMGZQZ0VhcndGVVZ1MG1ZY0pVaTFwMmVn?oc=5"
+  },
+  {
    "ts": "2026-11-12T06:01:35.836409+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — JEUDI 12/11</b>\nPrix : <b>3982.70</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-24/100)\n\n<b>Pourquoi :</b>\n🔴 Dollar (DXY 5j) : +1.41% sur 5 jours\n🔴 Momentum or (vs MM50) : prix 3983 vs MM20 4055 / MM50 4197\n🟢 Taux réels 10 ans (20j) : 2.66% (-0.25 sur 20j)\n\n🌏 <b>Session Asie</b> (depuis minuit) : -11.4$ · plus haut 4000.2 / plus bas 3973.5 (range 27$)\nDXY +0.13% sur la nuit\n⚠️ Plus bas de la veille (3990) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~89$</b> (ATR 92$ × profil du jeudi)\nDéjà fait en Asie : 27$ (30% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 4106.7 | R1 4053.6 | <b>Pivot 4021.6</b> | S1 3968.5 | S2 3936.5\nVeille : PDH 4074.7 / PDL 3989.6  ·  Semaine passée : 4156 / 3889\n\n📅 <b>Annonces du jour</b>\n🔥 <b>14:30</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>16:00</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>17:15</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:10</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>52%</b> du temps (303 jours, ~6.0 ans)\n• Hier : -0.74% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1052 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 0h (12%), 2h (10%) · plus BAS vers 0h (15%), 15h (10%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -73.8$, depuis mercredi -17.8$ → en attente\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 4022 → R1 4054\nObjectifs : PDL 3990 → S1 3968 → S2 3936\n❌ Invalidation : clôture H1 au-dessus de R1 4054\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 4075 → R2 4107\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
@@ -8922,16 +8930,6 @@
    "ts": "2026-11-11T14:31:31.279738+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>A 50 basis points rate hike? Warsh’s Fed has a communication problem</b>\n📰 The Globe and Mail · Mer 11/11 15:25\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmdEdU04T1p2Yk5rZXNYbktTZTBjSzdUbFhlZElnRm1ET0RvVkM1SHJ1OFdBOEZlWW5lZDBhSmpMeVZZVDY5ekpwcjdqOEZyY3UxcnBpQ25qV3pOejQ3aHFBajdNUkxDNy1iRGU4aEw1cTZBWE9MWG5MZDVyQ3c3U3hwMS16N2FjYjRCNVBUa3Q2Nkx1SWU1UnZWUWl3UGlqWEJJLTJZYUVKZmpDVUpOc0ppWXZXYmdU?oc=5"
-  },
-  {
-   "ts": "2026-11-11T14:01:39.093798+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — EUR/USD\n-0.01175 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
-  },
-  {
-   "ts": "2026-11-11T14:01:38.141289+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 1 AN\nNiveau : 1.11095 → prix : <b>1.11049</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.17"
   }
  ],
  "daily_forecast": {
