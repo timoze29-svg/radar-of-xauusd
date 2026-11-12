@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794470470.2015839,
+   "ts": 1794474079.3854494,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,13 +1100,6 @@
   }
  },
  "seen_news": [
-  "c046731bc745",
-  "816f8dbe1f85",
-  "9b697d2003c8",
-  "285afe9312e4",
-  "77eba3e179af",
-  "bdec58c1081e",
-  "7662aab7abb3",
   "445d77268d7a",
   "d824cc1c4cd9",
   "d7396073697e",
@@ -4099,7 +4092,14 @@
   "1b49a08102ae",
   "a1af700b5fa2",
   "c56d46a46217",
-  "adc9b13de14c"
+  "adc9b13de14c",
+  "d0ce4ba3ac04",
+  "e93b8aed3f9c",
+  "e03501c621c6",
+  "68d11bb1ac15",
+  "d722190119eb",
+  "a90c9e5c3ae9",
+  "3c3e38795811"
  ],
  "news": [
   {
@@ -4436,6 +4436,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. CPI Fuels Talk of Half-Point Fed Hike as Treasury Yields Spike",
+   "source": "Seoul Economic Daily",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR09vT1JJaW5wTWdoRXFQMkxxeXFwcjFTVUZtTGFZTGc3TXBmQy1VekxqUFZGQUx6Tm81MzMxcU9OUk9lWHFIT2hQWkNWaHJwYmxXYjNVZHVRNmZqbW9iRkYwc3A2ZVVtRF9lb3prNFlzdmVvdzg5S2dqZkRMdVpHQmxiTjlPUndVRXl6UFNCTFRxY2FGbG0tYkRDMVg3SjV4LWFJ?oc=5",
+   "published": "2026-11-12T04:21:01+00:00",
+   "id": "3c3e38795811",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -4881,6 +4893,18 @@
    "cat": "commerce",
    "raison": "Craintes d'inflation tarifaire et d'incertitude commerciale favorables à l'or.",
    "method": "IA"
+  },
+  {
+   "title": "China calls US-backed Israel its friend despite earlier warnings over its recognition of Somaliland and military strikes on Iran",
+   "source": "Business Insider Africa",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0Exd1B3anM4aTFpR0hqUlBhTXJMem01dGFaT2F3b3I0dEltYXdRMzJqdk9JNDlMT0FvMnlCU2Q3eWpWX1kwOVFlWjBBYWJUTTN3OGdPTUdPcXNzU20xanI1OEx4QS1ZWjczMW82MzJLTXVOeWFCQnpKZFlTODVma2tOUmxWUG1NM1FxbDRIMXZRUEZDRnN2UXNpTTNxYkZHNDBkZTVpd3FRVkxQd1g4VklTV25FaUhZN2ZMcTFDYUlLOXotdkFOeXJkRzR4amlMZHh5SHlZdlNodw?oc=5",
+   "published": "2026-11-11T20:00:59+00:00",
+   "id": "e93b8aed3f9c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Where the Russia-Ukraine peace talks stand after Abu Dhabi",
@@ -6477,36 +6501,9 @@
    "cat": "géopolitique",
    "raison": "Opinion sur un retrait US du Golfe, léger risque d'instabilité régionale théorique.",
    "method": "IA"
-  },
-  {
-   "title": "Broad inflation persists across the economy , October CPI shows",
-   "source": "marketplace.org",
-   "theme": "Géopolitique",
-   "link": "https://www.marketplace.org/story/2026/11/10/broad-inflation-persists-across-the-economy-october-cpi-shows",
-   "published": "2026-11-11T03:00:00+00:00",
-   "id": "6f539848558c",
-   "impact": -2,
-   "cat": "inflation",
-   "raison": "Inflation tenace maintenant la Fed hawkish, ce qui soutient les taux réels.",
-   "method": "IA"
-  },
-  {
-   "title": "Could Iran - Linked Cyberattacks Reach Europe Homes And Critical Infrastructure ? - Analysis",
-   "source": "eurasiareview.com",
-   "theme": "Géopolitique",
-   "link": "https://www.eurasiareview.com/11112026-could-iran-linked-cyberattacks-reach-europes-homes-and-critical-infrastructure-analysis/",
-   "published": "2026-11-11T03:00:00+00:00",
-   "id": "1db08f897d80",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Risque cyber théorique lié à l'Iran, prime de risque marginale.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|bcf3806b33a6": 1792659726.4565706,
-  "news|1d0b90cb0c73": 1792659727.788161,
-  "news|d6f23036f591": 1792659728.6851342,
   "news|c07fb79313cf": 1792661505.599519,
   "news|b37edf7d60c8": 1792663301.532029,
   "news|22eed704c8e9": 1792663302.4082563,
@@ -8227,7 +8224,8 @@
   "news|0a7998a4254c": 1794471551.8148725,
   "news|c27ad113f2e5": 1794471552.692246,
   "cyc_fail|2026-11-09/2026-11-15": 1794472486.3139236,
-  "news|7230180561b2": 1794473330.256643
+  "news|7230180561b2": 1794473330.256643,
+  "news|e93b8aed3f9c": 1794474308.0711951
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8635,6 +8633,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T09:05:08.071300+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China calls US-backed Israel its friend despite earlier warnings over its recognition of Somaliland and military strikes on Iran</b>\n📰 Business Insider Africa · Mer 11/11 21:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0Exd1B3anM4aTFpR0hqUlBhTXJMem01dGFaT2F3b3I0dEltYXdRMzJqdk9JNDlMT0FvMnlCU2Q3eWpWX1kwOVFlWjBBYWJUTTN3OGdPTUdPcXNzU20xanI1OEx4QS1ZWjczMW82MzJLTXVOeWFCQnpKZFlTODVma2tOUmxWUG1NM1FxbDRIMXZRUEZDRnN2UXNpTTNxYkZHNDBkZTVpd3FRVkxQd1g4VklTV25FaUhZN2ZMcTFDYUlLOXotdkFOeXJkRzR4amlMZHh5SHlZdlNodw?oc=5"
+  },
+  {
    "ts": "2026-11-12T08:48:50.256742+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli cabinet to meet Sunday amid opposition fears of strike on Iran</b>\n📰 Anadolu Ajansı · Jeu 12/11 09:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEZTMlZJTEd4OWhVdHVVUXhYZjgycDEtNC1FMXpfRTBQYjNOdnhjXzN4Z0Q2Q3FTZUk0N0tzbHRnaGM2VEZqd25IMG1GZVoycGw5RThUUVA2dEI0U2dYSVpXeWd5MENmTFFkNUdIem1iYnRGN0JwYllYUmozZ0FEeHJDRnNpRWwzdlJIUkdJVTMwVHRLOFphd2YtRk1zZnEwS0N0eTJPS0NpOW9tQ01PSkRRZkFGQQ?oc=5"
@@ -8928,11 +8931,6 @@
    "ts": "2026-11-11T17:34:31.617212+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut sur 20 JOURS\nNiveau : 102.95 → prix : <b>102.96</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.37 | 60j -0.46"
-  },
-  {
-   "ts": "2026-11-11T17:02:47.418797+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. brokers another Russia-Ukraine prisoner swap, but war continues as Putin sticks to demand for territory</b>\n📰 CBS News · Mer 11/11 17:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNLWtSMzc5WXQyY2pvSkdWck12QklpTWdRbkYwYjVta09qSWtrb3d1cV8tWUo5cm8yT3JpNFpsamJrVWw4a1MwaHJGdWVBdml5QjRCN19TOVhWMkNJQTdHMGJDcldDRXFxRU9yUk5HMlZXX0dkU1FRdlA0TXNhNFdxb2ZaTXlNbWx1QW9jT0hyTVY0UkRLQ200MzJweWhtUQ?oc=5"
   }
  ],
  "daily_forecast": {
