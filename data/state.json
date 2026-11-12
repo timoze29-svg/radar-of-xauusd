@@ -1100,12 +1100,6 @@
   }
  },
  "seen_news": [
-  "87a2309aec99",
-  "1ee531d6f7de",
-  "2b2dbb4c0c5c",
-  "9d403891dbb1",
-  "b058ad6e317b",
-  "ec1fff48a5c4",
   "6c84aad6fda3",
   "3bc10703c622",
   "df39ba9ff17a",
@@ -4099,7 +4093,13 @@
   "3aee7e23489f",
   "b63fac7dc13b",
   "9ba61ef50cf1",
-  "2d06bbf09530"
+  "2d06bbf09530",
+  "ccb0ab5d753d",
+  "d476a0fab5ff",
+  "7f175ddc2b15",
+  "ee002e60ac5f",
+  "076c2ddd27fe",
+  "e1763751940a"
  ],
  "news": [
   {
@@ -5519,6 +5519,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets",
+   "source": "Business Recorder",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ZnYxY1JPQzh6ZFlheXpvakdPU09wd1Y5akNGb1NvdWZlWkZ1azE4TWtDM0JPRDBvOEpJSlJIYVBEZWtJaDdjWE51MWx3aHc1MGRlZUpn0gFWQVVfeXFMUHRmdjFjUk9DOHpkWWF5em9qR09TT3B3VjlqQ0ZvU291ZmVaRnVrMThNa0MzQk9EMG84SklKUkhhUERla0loN2NYTnUxbHdodzUwZGVlSmc?oc=5",
+   "published": "2026-11-12T03:07:23+00:00",
+   "id": "ee002e60ac5f",
+   "impact": -6,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Hotter-Than-Expected U.S. Inflation Fuels Fed Rate Bets, Sends Yields Higher",
    "source": "JournalArta",
    "theme": "Dette US",
@@ -5877,6 +5889,18 @@
    "cat": "géopolitique",
    "raison": "Risque d'internationalisation du conflit impliquant la Russie et la Chine, soutien refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Europe Scrambles to Limit Effects of Energy Escalation in Iran War",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEZuMWpjWVFaeEdVRDVzSnZORUZlckExSEpVQW1MLTU4d25nMjVVbS1jSzZ5c0pZcDFqbnVDUWRnVTdacjVLR0pXSGExTTZVSE02c0pSWThJaE9ITkNrZ09DVFdLRnVqb00yOS1nck5ncHVZTVZ1NTBYOUVQbmM0YWZKdWNVTnFGYVNSWTZWaEMzNTBhLTM3LWo0M1NKQQ?oc=5",
+   "published": "2026-11-11T20:11:52+00:00",
+   "id": "7f175ddc2b15",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune",
@@ -6477,35 +6501,9 @@
    "cat": "emploi",
    "raison": "haussier or (emploi)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
-   "source": "NPR",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84SXNzaE0wLTZtQjFpZUp3Y2ZkZEtyZVFwQmpyVU9FTDZLR1N5YUJRSjF3R1drZUpfT1pveEdHZVdMZDFPQThlak1oYlpOaHFiT2RIMVh3ZDZZOGNWWFVGM3FmNEs5V1VhMTAzNV9TN3dGVjFId1E?oc=5",
-   "published": "2026-11-11T13:30:00+00:00",
-   "id": "fe3cb00f227b",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "1.4230: Canadian Dollar hits four-week lows as Fed tightening bets boost the Greenback | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZZDBoaU9FU25BM2ZPTUc0aUZWbXdHV2p3Ql9SdnJhLWN4VWZ4RkVhenl4UVdCcE8wdG9XcS1iRnFQX29IQ1AydnRsU0ZuSzNaaDRr?oc=5",
-   "published": "2026-11-11T13:10:56+00:00",
-   "id": "6fdc9a801b3e",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|e5f438fc85ee": 1792696574.8292713,
-  "big|GOLD|2026-10-22": 1792696576.0731838,
   "news|49e1ab806bbb": 1792697494.6389763,
   "news|de2ea203ca0b": 1792698373.3017957,
   "news|e6f1f4ac6abc": 1792698374.451574,
@@ -8238,7 +8236,8 @@
   "news|a9f4cd6604b5": 1794509214.589003,
   "post|2026-11-12T13:10:00-05:00": 1794509215.6188655,
   "news|2d06bbf09530": 1794510091.9182317,
-  "post|2026-11-12T13:30:00-05:00": 1794510093.111965
+  "post|2026-11-12T13:30:00-05:00": 1794510093.111965,
+  "news|7f175ddc2b15": 1794510986.7075868
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8646,6 +8645,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T19:16:26.707677+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Europe Scrambles to Limit Effects of Energy Escalation in Iran War</b>\n📰 EnergyNow.com · Mer 11/11 21:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOWEZuMWpjWVFaeEdVRDVzSnZORUZlckExSEpVQW1MLTU4d25nMjVVbS1jSzZ5c0pZcDFqbnVDUWRnVTdacjVLR0pXSGExTTZVSE02c0pSWThJaE9ITkNrZ09DVFdLRnVqb00yOS1nck5ncHVZTVZ1NTBYOUVQbmM0YWZKdWNVTnFGYVNSWTZWaEMzNTBhLTM3LWo0M1NKQQ?oc=5"
+  },
+  {
    "ts": "2026-11-12T19:01:33.112606+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Schmid Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.02%\nTaux 10 ans +0.4 pb\nOr -2.5$ (extrême -3.5$, range 10.0$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -8939,11 +8943,6 @@
    "ts": "2026-11-12T10:31:25.901946+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Benjamin Netanyahu to convene Israel's Security Cabinet, Gadi Eisenkot warns against Iran war</b>\n📰 The Jerusalem Post · Jeu 12/11 10:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE50X3gzWkc0d0FrTXAwa3lDeFRDQ1diaFF1cDVyaGRXMVZycDFIa3hIV0JHS05WR0hpajB4MW1tczNnQmhkek43cGZLYkFtM2JTMFEyd1VVU0tBMDZGRHZfLTBuNzRuS2ta?oc=5"
-  },
-  {
-   "ts": "2026-11-12T10:31:24.954129+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Rand Paul Blames Iran War, Trump’s Tariffs for GOP Losses: ‘Things Cost Too Much and People Are Strugglin</b>\n📰 Benzinga · Jeu 12/11 11:13\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVF1ekYtbFpqUVZyUDE1ZkpXeDlIc3dWZmxfWlFQQ1JnNU9FZWVwUm5Fc3BXRDZfLUVZRGxFRWVqeW1GQ1o5S0tnOTF4OUtrU1pzUlZGSlRqXzd3dDNZU1ktVnVNdVlvbU1LWEVUS3RpZnBnNzNZM1owV1QxSlpiUnE2cVlIbEpYUEJRcW1yeGJsN0NKOXJMMVhkQ1c2bFBLVnZmeEtn?oc=5"
   }
  ],
  "daily_forecast": {
