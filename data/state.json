@@ -1100,8 +1100,6 @@
   }
  },
  "seen_news": [
-  "1aef9fc6d561",
-  "f26f5ab3742e",
   "1c2a30a99d4f",
   "c55dbfbfe36f",
   "620438e10ca9",
@@ -4099,7 +4097,9 @@
   "5859e5a8a3be",
   "cce3df80f07d",
   "6dfcba7646e8",
-  "d67d0a70e6ff"
+  "d67d0a70e6ff",
+  "5ca54dab2feb",
+  "064f4df429be"
  ],
  "news": [
   {
@@ -4652,6 +4652,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "CPI Pushes Rate Hike Odds To ~100%, But Hikes Aren't The Main Concern (NYSEARCA:SPY)",
+   "source": "Seeking Alpha",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTJLVm0wa0hQNTljOXpfeWUxZlpIRnN3MUFLS1htVkFIU3FwNWtCX0liY2duT1JPSDltckZDQ1o2R05Sc3F4bGRma3NVTW4ybGdJQWJINFBvajdURm5WRm9jSWlwb2dvcE10OUdtY0o5TllGTWx1UU5TQW93QTNOd0dNcEt3Qk5BRDhjWEpRUmo3SjJLR21PeWx1NHVaT2dNVWFmQll5VUV2SUtxekVib3BERjU?oc=5",
+   "published": "2026-11-12T13:00:00+00:00",
+   "id": "064f4df429be",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6488,18 +6500,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Crainte d'extension du conflit sur le sol européen, forte demande refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "British Pound tumbles below 1.33 post hot US CPI, Fed hawkish rhetoric",
-   "source": "FXStreet",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbl9yUTNINkdjNm9mMlRwU01oOVc1X19RTjlOZ3B3Y1dhb0p2MXBRUmotRFk0NjdVMVgxaS1fTVNqSkxTZTUtMEttSFNXOVhaeFJBT3MtUnFvYm9jQUQyb0Nkamk5aDllbzdFc29DbDVmQ3FPTGo4Z0ktY3dFZHMwajRTcElmY0tpYnVRaERPMmtQNGQtdHZkWEdhb1p2R2FtZk9TcW5RSFZ6dmVBUEVJTA?oc=5",
-   "published": "2026-11-11T15:33:48+00:00",
-   "id": "6031d88625bb",
-   "impact": -5,
-   "cat": "dollar",
-   "raison": "Rentrée d'inflation et fermeté du dollar pesant lourdement sur l'or.",
    "method": "IA"
   }
  ],
