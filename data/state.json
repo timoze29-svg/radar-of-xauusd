@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "e905e2ea2001",
-  "9fcdc4ec7626",
-  "c436de6dabfb",
   "7fa04441c0a1",
   "6e1f98fc1876",
   "502b94dfbc59",
@@ -4099,9 +4096,36 @@
   "daac6b4137f1",
   "cb84565b7cb7",
   "c2c3f3707c41",
-  "66a25f7f2a7a"
+  "66a25f7f2a7a",
+  "e27775c6d860",
+  "7d84386b1ae5",
+  "3a759f96a73d"
  ],
  "news": [
+  {
+   "title": "Israel Security Cabinet Orders Strike Preparations as Iran Warns Expanded Retaliation: how 7 outlets framed it",
+   "source": "NewsCord",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV3ZJUVhJbkwxSzBYczdPaGpyejNIczhkcXNhTGlXandMQmFpSDRMb0RMT2YzeTQ0SEdJVFZRNUJaVFdCSW1kdHIwSUNXMTBHRDlZcmlSOFljVnZLVWJweXRxaURfQjNrMlFiRTBiREQwMXFxSmZzWVVkeHdld1dCQTJCc0IwQVhySWhXTVhaTUMya2l2dFpVYnI5V3lYcGR5SXJ1UmEtVFZnU1dpWE9fM0lKdjl0MmhxQ1dKeU9qVlYwcFo1ajRuQ01vV3lrQWZSR1BjOGE4TjRXUUI0SVptd1JoVGZvWmswSEE?oc=5",
+   "published": "2026-11-12T05:20:01+00:00",
+   "id": "e27775c6d860",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil falls over $1 on easing geopolitical fears and oversupply worries",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTRMclVYN05nVk1la2xKQTRKZW9tb1o4cTA0OXJVc0h4YlFzeGR6QWxoNGxLdzZRVGRrc00tamJsUW1QQU1Lb3MtSHpBb05NclE1YmVkQk1rbnpmTFBud2sxc2cydkFRM3dVSmNCUDlyRHkwYXBKQktjVURsYk1BblEtM2FZRWM?oc=5",
+   "published": "2026-11-12T05:06:08+00:00",
+   "id": "7d84386b1ae5",
+   "impact": 6,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Tracking Trump: Trump defends Iran war in Veterans Day speech; Hegseth impeachment fails; Kennedy family sues Trump; and more",
    "source": "The Washington Post",
@@ -6477,34 +6501,9 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Larger series of interest rate hikes more likely after hot October CPI",
-   "source": "katu.com",
-   "theme": "Géopolitique",
-   "link": "https://katu.com/news/nation-world/larger-series-of-interest-rate-hikes-more-likely-after-hot-october-cpi-federal-reserve",
-   "published": "2026-11-10T22:00:00+00:00",
-   "id": "f8c8120549d0",
-   "impact": -5,
-   "cat": "fed",
-   "raison": "Perspectives de hausses de taux accrues renforçant le dollar au détriment de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "White House Vows to Keep Up Tariffs Despite Backlash",
-   "source": "politicalwire.com",
-   "theme": "Géopolitique",
-   "link": "https://politicalwire.com/2026/11/10/white-house-to-keep-up-tariffs-despite-backlash/",
-   "published": "2026-11-10T22:00:00+00:00",
-   "id": "fa5134fb9021",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Maintien des tarifs douaniers alimentant les craintes stagflationnistes favorables au métal précieux.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|0e4be6026af0": 1792647081.0353272,
   "news|a6fb73d04533": 1792648072.6531677,
   "news|c4ee241f1864": 1792648073.649049,
   "brk|USDJPY|pwh|dn|2026-10-19/2026-10-25": 1792648074.8930452,
@@ -8228,7 +8227,8 @@
   "news|e5d770e5ea9b": 1794459698.98214,
   "brk|GOLD|pdh|dn|2026-11-12": 1794460928.117003,
   "brk|DXY|pdh|up|2026-11-12": 1794460929.0703692,
-  "cyc_end|2026-11-09/2026-11-15": 1794460929.9915526
+  "cyc_end|2026-11-09/2026-11-15": 1794460929.9915526,
+  "news|e27775c6d860": 1794461489.7255352
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8620,6 +8620,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T05:31:29.725607+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Israel Security Cabinet Orders Strike Preparations as Iran Warns Expanded Retaliation: how 7 outlets framed it</b>\n📰 NewsCord · Jeu 12/11 06:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV3ZJUVhJbkwxSzBYczdPaGpyejNIczhkcXNhTGlXandMQmFpSDRMb0RMT2YzeTQ0SEdJVFZRNUJaVFdCSW1kdHIwSUNXMTBHRDlZcmlSOFljVnZLVWJweXRxaURfQjNrMlFiRTBiREQwMXFxSmZzWVVkeHdld1dCQTJCc0IwQVhySWhXTVhaTUMya2l2dFpVYnI5V3lYcGR5SXJ1UmEtVFZnU1dpWE9fM0lKdjl0MmhxQ1dKeU9qVlYwcFo1ajRuQ01vV3lrQWZSR1BjOGE4TjRXUUI0SVptd1JoVGZvWmswSEE?oc=5"
+  },
+  {
    "ts": "2026-11-12T05:22:09.991605+00:00",
    "kind": "cycle",
    "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-73.8$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 4028.69 | 50% 4037.4 | 61.8% 4046.11\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
@@ -8913,11 +8918,6 @@
    "ts": "2026-11-11T14:01:37.236013+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 20 JOURS\nNiveau : 1.11095 → prix : <b>1.11049</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.17"
-  },
-  {
-   "ts": "2026-11-11T14:01:36.206793+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — USD/JPY\n+1.594 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
