@@ -1100,14 +1100,6 @@
   }
  },
  "seen_news": [
-  "37de1572e681",
-  "a1596a70f7f7",
-  "0b082723f6e9",
-  "d8df85be6645",
-  "ecf56546a628",
-  "192284cc7e97",
-  "4365b38d555b",
-  "2a83fe59bdeb",
   "247ebd354704",
   "44b124a9384a",
   "3503126d2cef",
@@ -4099,9 +4091,29 @@
   "de1a9f496fa8",
   "d6a639f2fa6f",
   "29aefd892494",
-  "bd20db13e419"
+  "bd20db13e419",
+  "92d570206ad1",
+  "ee2e0d55ca60",
+  "ebef8df2078c",
+  "30eea3bb5287",
+  "0a0ee4355eff",
+  "dc66db6245eb",
+  "1f1d9fd744f4",
+  "be8425fe9634"
  ],
  "news": [
+  {
+   "title": "Taiwan Affairs Office responds to cross-Strait buzz over China Daily video series",
+   "source": "China Daily",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84QW5KMVlVS3hCeXRqLXdMb1c3Wk9IZ1cxQjlYd3FQd0JzVDdvbXh6cjdEeFI0TTVZTld6U19ycE94YzJaNWtRbEpGVm1wcWlCVHJmcWJKZGE2UDgxSm1MQjNZQk5Nd1JTd09kVHVDUDdzaFV2RkNRMFNHUmJVQQ?oc=5",
+   "published": "2026-11-12T03:12:40+00:00",
+   "id": "be8425fe9634",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Middle East expert to Arutz Sheva: If Trump won't strike, Israel must act alone",
    "source": "Israel National News",
@@ -6489,18 +6501,6 @@
    "cat": "géopolitique",
    "raison": "Poursuite des attaques de pétroliers stimulant la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Kansas City Fed's Schmid sees no major economic restriction from policy",
-   "source": "TradingView",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWpWWUJaaHI1RzItNDBZWVl1QTFmVlJya3I3Z3E5SlZON25meXNLaWVTMTJJc2w2MUhoWVN5bUtxT01JQm9objJyQm5Pc2pOaFh4eXlHS1Y2Qkh5dkR1aUdRajgzN0QwZUhOQWl5Rjh4bjBkTmF3eW5fTVoyamk4OFFlMjlEZlVEUWxNcEtSTno4M19MV3RGdWdxS2NxNk80TkRpRmNUZHdoRUZPMkF6RGZsVllJV1AwOXpQQi1ZcFpOVXYwZ1JuNnBTTDlwc3c?oc=5",
-   "published": "2026-11-10T18:58:08+00:00",
-   "id": "46d5aaeaa6a7",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Commentaire hawkish suggérant des taux élevés durables, pénalisant l'actif sans rendement.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8231,7 +8231,8 @@
   "news|d6aaf68eb525": 1794449872.871345,
   "news|03f48eb06523": 1794449873.6969955,
   "news|07654a927009": 1794452540.4312708,
-  "news|29aefd892494": 1794453383.1857202
+  "news|29aefd892494": 1794453383.1857202,
+  "big|DXY|2026-11-11": 1794454287.084457
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8623,6 +8624,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T03:31:27.084518+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Dollar Index DXY\n+0.85 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-12T03:16:23.185796+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin</b>\n📰 The Guardian · Jeu 12/11 03:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUloTmRZUVdRTnN4czkwSHA4cDF5aFdfcVgxNlg2N3djQjRNMEN1VDA2ejJXZDlFdUZremp3ZG5WS3FWWmN6QURJSVItdzUtYzFySFdPcEZVVWNvX3Fva3JLYzdpWUFWd0V4UF9sVG5YdjRmYW9mUW53MUxBc2E5eklpeTBKX05ZdXcyM1ZPRENCeGgxUTZ2bTBkWGh1VU12VDVFSlR5cUtYSTFYd2FOZGtSenpaV2JNa3IzN3NFbUhrSFVZaEpxdzdYcnFpNVdDRzFNTjJEbw?oc=5"
@@ -8916,11 +8922,6 @@
    "ts": "2026-11-11T11:34:28.572130+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran still builds 50 ballistic missiles a month, report says</b>\n📰 www.israelhayom.com · Mer 11/11 07:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTh6MF9yNFFtZmlnb085S3FXSVg1UkZnR21QVHRhbndxUkNZQXBsai0zWjFWenl2MkJQTTZvRWFxM1AxV0hOLUV6Y2J4R1JLdDc5QzBTZUFCUkZHYUwtbVFLbnNJUnJDN0lzamNXWUFsSmhSRjMxOXYzMHl1cDFTOGlhU0RzeEs5TG1fRXNGWXg?oc=5"
-  },
-  {
-   "ts": "2026-11-11T10:01:41.314821+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>USD/JPY</b> casse le plus haut sur 20 JOURS\nNiveau : 158.942 → prix : <b>158.967</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.38 | 60j 0.25"
   }
  ],
  "daily_forecast": {
