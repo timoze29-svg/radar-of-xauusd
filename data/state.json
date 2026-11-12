@@ -1100,13 +1100,6 @@
   }
  },
  "seen_news": [
-  "a3f5654c27de",
-  "0d316004d76c",
-  "0a727a722d56",
-  "7fd57bf2d2f5",
-  "2eb5f465ca93",
-  "4518a1dc434a",
-  "768351ff2692",
   "13f80790a7af",
   "5019d646a16c",
   "34317a783caa",
@@ -4099,7 +4092,14 @@
   "ac3d04a196d8",
   "1b0bc762f123",
   "f34979629c98",
-  "d931199e2cf6"
+  "d931199e2cf6",
+  "546247447945",
+  "a88067e6664b",
+  "40647cdf6ede",
+  "94b9601f8170",
+  "f11c4150617e",
+  "2c99d9892e92",
+  "0d69e6c2b8fa"
  ],
  "news": [
   {
@@ -4184,6 +4184,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war",
+   "source": "CBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJDa1RPY3dDVXliaUtZbUZWYnQ1ZjBFd0h1bVRMTk0zeHZHVGlkb2otaWVoU0Z3T0tYLXZFN2RGRUxwNVFmODhjVTlTYlJPUTZXbVJJeXhzRkdnd0R0QUc1UFFldlhtNGw4cUxDT3UtcFZnWGRTVGRTY2pxMkZWSTBpZVZiU1U?oc=5",
+   "published": "2026-11-12T14:48:39+00:00",
+   "id": "0d69e6c2b8fa",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5819,6 +5831,18 @@
    "method": "IA"
   },
   {
+   "title": "HOT CPI SHOCK: DECEMBER FED RATE HIKE NOW 88.8% PRICED IN!",
+   "source": "Binance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rYkhFdDQxVmxTUlZUOXRyNGR3N2RwcmNRcUpBTlRjbHZuWTRxMV9PZHQyOFdRTjVVbjRmRzhJV2otblE1NE4tWV9KSDA0U1hHQ0tPYU5XMGw4WVZETFZjSm9Mck8?oc=5",
+   "published": "2026-11-11T19:01:39+00:00",
+   "id": "2c99d9892e92",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "A 50bps rate hike? Warsh’s Fed has a comms problem",
    "source": "The News Pakistan",
    "theme": "Fed",
@@ -6477,35 +6501,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump's decoy flight sparked by fears of Iranian cell with shoulder-fired missile: Official - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVJrZjN1UTRKcF9ENHlZclJYUlRUN3NaaG1ucnd1ektfWGpUUW05blJZdWh2NFpqSm1vYi1qY041UEtwcGZCU0ZGQUFtNjJuOW5HeTZpck81Z1FZQVZHOUhlQkVONFhQSXU5N2RlanFxSTV2S29wN0RuQmtRdWhyaWhWX0VSY2JGam1sZ0o0Vms3Q20yZnlWNlpnVmlmOUFPUE5YbFoxOGpmV19VUGxXN2RB0gG3AUFVX3lxTFBfTW5PbGhJcDg0NUJTMkdXYTV1ZTBORkhPYTNSaTNfc080ek5xcloySXdzdlVSaW0xbEpPWGs0bHc3Vk13QVRCNm1LUHFhbk9zRFptTGJtZDctMEdZWFNWRkRBRzB5SGZ0X0FQMmo0cTNqcGlSYW8zcVBLTVljUFZZdU5HT2pNekE4SzVUQktQbWtoejRPOXM1TTNyNlM2VEI5eFVMNl9oMmZrX0RrY2I5TXRTOTZnVQ?oc=5",
-   "published": "2026-11-11T11:16:12+00:00",
-   "id": "e6ceeefed988",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil Prices Gain As Iran War Uncertainty Weighs On Market Sentiment",
-   "source": "Forbes Middle East",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM1A0d3VOWFVMVUZIdFlWdE5laHFXZ2xYeFB6cVVMcU11RW1NcHk1V0dfaEJvY0JvQmxRZ2FOZU5sS1BkOE8zbV9YNzVKSE1kTlAweHFYMEdrWUE5LVI5UU01S05EZVBYTExoTVFUbHVlQ1plVks5NVB6dTZVa3c5VDc5SzVSdmI2dlZTcjJZSl9TbVF2MWEwR0xSeGtxRkV0cmxuU3dBaFNFeVpqUk14NlZwRE1KanBMbFBn?oc=5",
-   "published": "2026-11-11T11:14:07+00:00",
-   "id": "0efb9d23e0e0",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|00e0a03fe664": 1792687573.6159558,
-  "news|014a7263a253": 1792687574.6620781,
   "news|e9d7770c5f8b": 1792689368.841298,
   "news|e10a028ccaf5": 1792689369.8012252,
   "news|1d4de3d71f8e": 1792690300.6229641,
@@ -8228,7 +8226,10 @@
   "post|2026-11-12T10:00:00-05:00": 1794497494.2359304,
   "news|f3eb59214c66": 1794498373.4328775,
   "news|94e68e63a4ee": 1794498374.3411622,
-  "pre15m|2026-11-12T11:15:00-05:00": 1794499290.6667595
+  "pre15m|2026-11-12T11:15:00-05:00": 1794499290.6667595,
+  "news|0d69e6c2b8fa": 1794501978.496892,
+  "news|2c99d9892e92": 1794501979.4220762,
+  "post|2026-11-12T11:15:00-05:00": 1794501980.5613298
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8636,6 +8637,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T16:46:20.562141+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.07%\nTaux 10 ans +1.2 pb\nOr -9.6$ (extrême -10.3$, range 12.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-11-12T16:46:19.422198+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>HOT CPI SHOCK: DECEMBER FED RATE HIKE NOW 88.8% PRICED IN!</b>\n📰 Binance · Mer 11/11 20:01\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rYkhFdDQxVmxTUlZUOXRyNGR3N2RwcmNRcUpBTlRjbHZuWTRxMV9PZHQyOFdRTjVVbjRmRzhJV2otblE1NE4tWV9KSDA0U1hHQ0tPYU5XMGw4WVZETFZjSm9Mck8?oc=5"
+  },
+  {
+   "ts": "2026-11-12T16:46:18.496993+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war</b>\n📰 CBC · Jeu 12/11 15:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJDa1RPY3dDVXliaUtZbUZWYnQ1ZjBFd0h1bVRMTk0zeHZHVGlkb2otaWVoU0Z3T0tYLXZFN2RGRUxwNVFmODhjVTlTYlJPUTZXbVJJeXhzRkdnd0R0QUc1UFFldlhtNGw4cUxDT3UtcFZnWGRTVGRTY2pxMkZWSTBpZVZiU1U?oc=5"
+  },
+  {
    "ts": "2026-11-12T16:01:30.666805+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -8919,21 +8935,6 @@
    "ts": "2026-11-12T07:31:23.019036+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong</b>\n📰 WSJ · Jeu 12/11 08:24\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5"
-  },
-  {
-   "ts": "2026-11-12T06:46:10.681479+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: JD Vance considering in-person talks with Tehran to end conflict</b>\n📰 Arabian Business · Jeu 12/11 05:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-12T06:19:22.381307+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike</b>\n📰 WSJ · Mer 11/11 07:37\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5"
-  },
-  {
-   "ts": "2026-11-12T06:19:21.391538+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine War, Day 1,722: Zelensky — “Window of Opportunity” as Trump Envoys Visit Putin</b>\n📰 EA WorldView · Jeu 12/11 07:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVhhWEYydFlwOXBQTVRPMGV0OEx0VFF1QndJclRIUGpDcVpPcWJBRGtPM2QxWTFVblFQbVR1c0dnRE1sY0h2WVAtemZoelFOcVF0cGNwdzctQ1g4UHhhdmEyeV9zeXNkWEZEY05BWHZnNDVRR1FnZEx1d2dhUVhSUFltd1U3QlRuNl9UbXNuMGZQZ0VhcndGVVZ1MG1ZY0pVaTFwMmVn?oc=5"
   }
  ],
  "daily_forecast": {
