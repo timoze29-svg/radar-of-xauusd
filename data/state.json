@@ -1100,11 +1100,6 @@
   }
  },
  "seen_news": [
-  "1e605329923c",
-  "b28fea204e87",
-  "96873cb827d9",
-  "0a584d3c2492",
-  "468e792393a7",
   "586e2501a32a",
   "fce8cb7cee5a",
   "48f685a6b607",
@@ -4099,7 +4094,12 @@
   "999504a92355",
   "08ae900c8bff",
   "e01f2f46a821",
-  "eb5e118c5804"
+  "eb5e118c5804",
+  "66caa0009bad",
+  "a456a31a1635",
+  "b2a63e730112",
+  "437cafde412a",
+  "62510d4fe1d8"
  ],
  "news": [
   {
@@ -4136,6 +4136,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+   "source": "Al Jazeera",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXQ5Y3BkZ2ViQ1NSQ3MtWXRteVg3ZFNBTFRWWXJ0eHhWUWY0OThCNHl4c2VJaTQ3X05UTjU5WTBRYTZJUkVld1VrZTQ3TDFSUHYyOV9YckpyN2dDOFJfSF93M0g0RHJqV1MweUkwOHdCaWlSVHJvdm9jYm95d1pxM1lCUG5Ibk5lbDduclpmUUhWZ1JjUGlrVmdxSHNBUdIBowFBVV95cUxPa0dyY3drVndxNWVSczdJdmd5T1hCY19iNVViRmZVdlllMEdXUDZxbGtzRjF5T3lySXRYTjdmR01xOUFoNks2RXZtTi12YVBlOExkSWRsLTNLSlMxVWlHUnhyRnpYbEFUUnJOMHpzak9YVm44UGQ4THduVnFqbnF4c292bEF5OHdaSVhTb1Y5NmZXREN3NjBtWlhKUmRDQnpTVHB3?oc=5",
+   "published": "2026-11-12T14:34:14+00:00",
+   "id": "b2a63e730112",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6489,22 +6501,9 @@
    "cat": "fed",
    "raison": "Les anticipations de hausse des taux de la Fed et le dollar fort brident l'or.",
    "method": "IA"
-  },
-  {
-   "title": "US, Russia and Ukraine start second day of Abu Dhabi peace talks",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-   "published": "2026-11-11T10:15:48+00:00",
-   "id": "661320907f75",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Des pourparlers de paix réduisent la prime de risque géopolitique sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|b96420ba2220": 1792683091.7774034,
   "news|1b9ad6ec1075": 1792683965.2411435,
   "news|73439c5fc747": 1792683966.1954567,
   "news|00e0a03fe664": 1792687573.6159558,
@@ -8226,7 +8225,9 @@
   "brk|GOLD|pwh|dn|2026-11-09/2026-11-15": 1794495705.5303626,
   "pre1h|2026-11-12T11:15:00-05:00": 1794495706.4777806,
   "brk|GOLD|h20|dn|2026-11-09/2026-11-15": 1794496704.382677,
-  "brk|GOLD|h250|dn|2026-11-09/2026-11-15": 1794496705.3501985
+  "brk|GOLD|h250|dn|2026-11-09/2026-11-15": 1794496705.3501985,
+  "big|SILVER|2026-11-12": 1794497493.234412,
+  "post|2026-11-12T10:00:00-05:00": 1794497494.2359304
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8635,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T15:31:34.236927+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.14%\nTaux 10 ans -0.2 pb\nOr -12.5$ (extrême -16.5$, range 20.5$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-11-12T15:31:33.234484+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n-2.121 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-12T15:18:26.240228+00:00",
    "kind": "dollar_pressure",
    "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.16%\n✅ Taux US 10 ans +3.6 pb\n▫️ Pétrole +0.49%\n✅ EUR/USD -0.29%\n▫️ News dollar/Fed : 2 (impact moyen or -1.5)\n   • Bitcoin Drops Below $73K as Hot US Inflation Fuels Fed Rate Hike Fears\n   • Trump Tariffs Backfire as Canada Warns of Damage to US Economy\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>55%</b> des cas sur 2h,\net l'or a baissé dans <b>49%</b> des cas (moyenne -0.9$, sur 269 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
@@ -8922,16 +8933,6 @@
    "ts": "2026-11-12T05:22:09.991605+00:00",
    "kind": "cycle",
    "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-73.8$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 4028.69 | 50% 4037.4 | 61.8% 4046.11\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
-  },
-  {
-   "ts": "2026-11-12T05:22:09.070433+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 102.96 → prix : <b>102.99</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.41"
-  },
-  {
-   "ts": "2026-11-12T05:22:08.117061+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 3 989.60 → prix : <b>3 983.20</b>\nATR jour : 92.5$ | Pivot hebdo : 4039.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 683 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
   }
  ],
  "daily_forecast": {
