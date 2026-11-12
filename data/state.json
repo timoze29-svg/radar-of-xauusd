@@ -1100,13 +1100,6 @@
   }
  },
  "seen_news": [
-  "588777f015e0",
-  "1f3d0c19deb5",
-  "1274fafd0fd5",
-  "ace27909c404",
-  "0d0beba0cc80",
-  "fc95bc4ec240",
-  "3620d95744c6",
   "5b1f51650b39",
   "d500e057b4ed",
   "a75ddd37c1f5",
@@ -4099,7 +4092,14 @@
   "7f891dc46b97",
   "ebb5281dd341",
   "7440a08f81ce",
-  "d5d3ee473540"
+  "d5d3ee473540",
+  "67ef83ac7b62",
+  "37844d929470",
+  "94c56dab8898",
+  "dd450ec92a16",
+  "6f3bca99801a",
+  "1d5429db739b",
+  "b9860490910e"
  ],
  "news": [
   {
@@ -5639,6 +5639,18 @@
    "method": "IA"
   },
   {
+   "title": "A 50bps rate hike? Warsh’s Fed has a comms problem",
+   "source": "The News Pakistan",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXVEM3h1UExPWG1zRVp1dHlaeHhzZ09vOHh0REdJckpxM3dwWl9zNVR6X3BRS3AzTEdsOVl3Q1pwX1hjV2FJck5OTzdpaDVxZUQ0eGU3VFBwSnhCOGhSeUZFUTdGSElteVF2RGdKVXlSTkxlanBVYk5EUTBqM2tLSEtDVGFySjhnWlpJdmVPaw?oc=5",
+   "published": "2026-11-11T19:00:00+00:00",
+   "id": "dd450ec92a16",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
    "source": "The Guardian",
    "theme": "Trump / Iran",
@@ -6489,22 +6501,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Ukraine War, Day 1,721: Zelensky — “Happy” with US Change in Russia Talks",
-   "source": "EA WorldView",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmFQS3BHMTVoUDZYRGdURnZaLTJucnNYcENNSURWQzg2Rmd2UTF3TVZMLVBVcXVwM2Z0NV9rcjJCaGNEZ0xKZHZBcGRQMlBBcjRuV2pLVmpMeWMtNE8zWVNuQXdvd0JHclVOV3Q4YXJ5cmY4SXV6czdnWGpLck1OLUcwamRrT2dWUlFwMXVmUWVOWFZ4?oc=5",
-   "published": "2026-11-11T09:28:05+00:00",
-   "id": "4411d65a407f",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Ouvertures diplomatiques potentielles réduisant légèrement la prime de risque refuge sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|6f03e416464c": 1792678604.13364,
   "brk|DXY|pdh|up|2026-10-22": 1792679652.2660818,
   "big|US10Y|2026-10-22": 1792680373.561567,
   "big|US05Y|2026-10-22": 1792680374.4938054,
@@ -8226,7 +8225,8 @@
   "pre1h|2026-11-12T10:00:00-05:00": 1794491162.39518,
   "news|8411fc18b698": 1794492108.5953789,
   "post|2026-11-12T08:30:00-05:00": 1794492109.672342,
-  "news|3e03944532e1": 1794492970.051201
+  "news|3e03944532e1": 1794492970.051201,
+  "news|dd450ec92a16": 1794493889.2819047
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8634,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T14:31:29.282006+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>A 50bps rate hike? Warsh’s Fed has a comms problem</b>\n📰 The News Pakistan · Mer 11/11 20:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXVEM3h1UExPWG1zRVp1dHlaeHhzZ09vOHh0REdJckpxM3dwWl9zNVR6X3BRS3AzTEdsOVl3Q1pwX1hjV2FJck5OTzdpaDVxZUQ0eGU3VFBwSnhCOGhSeUZFUTdGSElteVF2RGdKVXlSTkxlanBVYk5EUTBqM2tLSEtDVGFySjhnWlpJdmVPaw?oc=5"
+  },
+  {
    "ts": "2026-11-12T14:16:10.051297+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US 'doesn't need' deal with Iran, claims control of Strait of Hormuz</b>\n📰 Anadolu Ajansı · Jeu 12/11 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVhfT2d5R3c1d0lSWXN1Um9fcjhzSkp2RklrQk0zc016a0dNeHJEUUNYZk5ZblhwSTI1ejNWbklkdlBieWJ0X1NOaktfSFVFODNncUI5anFtTmlzeExVV3RjeTI5SmhCcUVmekJzTkNZY1o3UzZDcVpmb0xhbmJad3k3VC1JMTlnNDV5NEJRM1puUV9KeXF2TDFJOWY3N09ZNDFBMzZzY2w3bDNTYS16RHJwYmVLOWtO?oc=5"
@@ -8927,11 +8932,6 @@
    "ts": "2026-11-12T02:01:30.614188+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'READ THE ROOM': Jim McGoverns Brutal Attack On Trumps Tariffs; Clash With GOP US House Debate</b>\n📰 The Times of India · Jeu 12/11 02:46\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxObDRXN2NEd2R6VjFwSktyRDlyNTUtdVJLdnk0cmxwWmlRR1lyMXd0WXFuLXBDckllOXYwb1ZKMWtIcWplX2FEV2pLeE9LZWNHWmZpVnk2MmpUZFJoeWJNVnpNWlBMX3NHWWRoV2xxWW9KT2VzS2psbFhfNXhNbExKTWpVeE9tNWxSTjlSLVRGOXpQeUZiME9WZElUSVd0V1JrSUFWRVQ1MnFmOC1FMGU0bEQyc2VTS1p6ZldIcXlhWjAwWURUZ09xYTNmVVVnNFExNWRPdllMMXNBRXZzV3RWenJuVDZfTFBlaktUU3V5ZWhPWFJjN1VVb2N0R1dOT05I0gGGAkFVX3lxTE1oRGxfTF9NYnpubC1xSmc0NWtRRk41c2RRTm1sUVNybDNkSF9UMV9qQ3g0dS1hbEFsQjZmVlVrY0hmaXh1eEtoTTVMZkJxaDg3Sll6YS1fVFpsWGU3Tks4bHk2d2V5NHFMX0d1em5vTDVqVFpMU2UxNWZNNV93c19VT2Q1NHhUMFhHeGVCZFpQREMyRnRiV2dXUGVNRUxjZ1JGbFV1NWlJTXFvaWVKVExvRDFlNWFXVzVtckRfWDlRVjd0V2VuZGRMeXY1ZzVlQWxJWERkYWY1NXNPejhPbEg5UkN6T1QzS1BRb0o2cEYwYmpsN09nanRtNWUxVEZUZ2hHSTBtc1E?oc=5"
-  },
-  {
-   "ts": "2026-11-12T01:46:02.021808+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Tehran warns of domestic gas shortages caused by conflict</b>\n📰 Arabian Business · Mer 11/11 06:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
