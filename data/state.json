@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794455143.958272,
+   "ts": 1794458750.5021904,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "884794b685a1",
-  "040aa842930d",
-  "a1b71f684025",
   "e08a124f45ec",
   "b476ff15d15d",
   "f73cc974edad",
@@ -4099,7 +4096,10 @@
   "da4d7a9f84df",
   "25233636998a",
   "20cea83160cf",
-  "073d35d47388"
+  "073d35d47388",
+  "09ecdebb420e",
+  "fb116891b32c",
+  "56a69f80d254"
  ],
  "news": [
   {
@@ -4437,6 +4437,18 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire au Moyen-Orient ravivant la demande d'or comme valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Fed Rate Hike Expectations Boost the Dollar",
+   "source": "TradingView",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQam5Xek52UFVMcF9NbzNIMTU2SUZ2VVd1enNRaHFGSFVnWTVDMDZmQ3NWeEdtdlZnYTFjdVNoMXN0ejV6dmlLNW1US0lUd1plR1NzTGZseXFOeVNJWlFQZ0dtMTM2VnExOWJIT0dQWGNsQ1A1Yy01NjBwRks3R1A1TmlIcksxLXdOOV9mTXJhYzdwUjZJUG1xN1pJM1VvREV3dXFsWQ?oc=5",
+   "published": "2026-11-11T20:36:28+00:00",
+   "id": "56a69f80d254",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump defends Iran war in Veterans Day speech",
@@ -6489,18 +6501,6 @@
    "cat": "géopolitique",
    "raison": "Choc pétrolier lié au conflit iranien créant des pressions inflationnistes favorables à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Ottawa to reimpose sanctions on Iran after lifting them a decade prior",
-   "source": "theglobeandmail.com",
-   "theme": "Géopolitique",
-   "link": "https://www.theglobeandmail.com/canada/article-ottawa-to-reimpose-sanctions-on-iran-after-lifting-them-a-decade-prior/",
-   "published": "2026-11-10T22:00:00+00:00",
-   "id": "10eeadbc4532",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Sanctions canadiennes renforçant marginalement le climat de tension géopolitique internationale.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8225,7 +8225,8 @@
   "news|330a164bc890": 1794456104.9063733,
   "news|51b5d2d30ba9": 1794456105.8810384,
   "news|c3f161bce3ce": 1794457149.3921485,
-  "news|04c3be95d955": 1794457887.9461653
+  "news|04c3be95d955": 1794457887.9461653,
+  "news|56a69f80d254": 1794458768.1030402
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8617,6 +8618,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T04:46:08.103132+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed Rate Hike Expectations Boost the Dollar</b>\n📰 TradingView · Mer 11/11 21:36\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQam5Xek52UFVMcF9NbzNIMTU2SUZ2VVd1enNRaHFGSFVnWTVDMDZmQ3NWeEdtdlZnYTFjdVNoMXN0ejV6dmlLNW1US0lUd1plR1NzTGZseXFOeVNJWlFQZ0dtMTM2VnExOWJIT0dQWGNsQ1A1Yy01NjBwRks3R1A1TmlIcksxLXdOOV9mTXJhYzdwUjZJUG1xN1pJM1VvREV3dXFsWQ?oc=5"
+  },
+  {
    "ts": "2026-11-12T04:31:27.946250+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune</b>\n📰 EnergyNow.com · Mer 11/11 21:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5"
@@ -8910,11 +8916,6 @@
    "ts": "2026-11-11T13:04:41.086805+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>10-year Treasury yield tops 5% after hotter CPI data increases rate hike odds</b>\n📰 TradingView · Mar 10/11 18:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUROWk1LZk56SGlCM1YxR1UzcWZwNm5ET21OOXZvUjQ5ZXd3UjU0eVdvUkRfT0Rad2tJbGJrMW5CVDZWYVJXLVNSOVZoWm45QzRYc0hqcGVtVFhzNGhaTjQwRndsVkFBeHpLQzZoSmI4aUtPbXZCNW5nMTJ5cUp3cTlwVjVmOE9vVEE3TVd5TWlHOVlXWllIMjJIOHpFd0VzNU5CT1dibTdhTkFTenpCclpYd2h1enltN3Y1T29uVWlVX0k4M2RYcWtlRDQzUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T12:46:07.220623+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>United States Dollar Index holds steady amid prospects of a Fed rate hike</b>\n📰 www.tmgm.com · Mer 11/11 06:41\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2UxX3dPdnFvM2RCNVhBYWlaamdsd1Z3VXdUTWR0dkJhMjBaNk9wUjJQLThRZU8zSEJuWUdWd2dkZkstRTg2U0w2blFSRXZrYkVTWGUtRC1td0QtZFBpWDNmNjMzVDdpYWpEWXhhdzMtcmYzSFYzUHl0NmZnX01kenppNDV0aHllUjNQdHNjYWdMOFBxMXplaGtVN3dhbkZrU2FNME9xR0FFclNuYTRFSGowQzVaWUNFSXl3ZVlmS3pKd05F?oc=5"
   }
  ],
  "daily_forecast": {
