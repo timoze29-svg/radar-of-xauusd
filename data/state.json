@@ -1100,10 +1100,6 @@
   }
  },
  "seen_news": [
-  "1ad2c5067a8b",
-  "2e8eabab106c",
-  "bad4477d3860",
-  "e51163b24bed",
   "da90b2cf611b",
   "2564f0406f7e",
   "7d98667d4f3a",
@@ -4099,9 +4095,37 @@
   "db962056a603",
   "e151be911fb4",
   "3dbd45e2e547",
-  "795f967c8c24"
+  "795f967c8c24",
+  "4c2e8cb3b4b7",
+  "0178a3072302",
+  "6f545faaf57c",
+  "0f130880e07a"
  ],
  "news": [
+  {
+   "title": "Trump Blames Anti-Israel Sentiment, Iran War for Republican Midterm Losses",
+   "source": "politicstoday.org",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHBWZnRLZjVsamRXY3VQSzRCd214eGlQSWNqOVk1YXZPajBJdmlxdzJRcFFGSXJsbXV5b1BsU2Z4a1VqNHZ2X180SjZDNGtYb2JuM1k5OW9Dbi15S1lfQjVMN3J4SmI4T3NLaFJobEZGbHFpVWIwdGdJTmt3TFpGQWhDZkhMY3d0TG1xMktnS09vaUxEbDRfWjlpazZyRkFqRmc?oc=5",
+   "published": "2026-11-12T09:36:08+00:00",
+   "id": "0178a3072302",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iranian commanders threaten to kill Trump, strike US targets worldwide",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rUE9oRU5waDBDdEVFOERlOHBtZGNHVTZRYkFGMU11NU50YUhiVHhXTmRJTWxTbXQtSkJ2VjBJMjdnRDZYZy1HWU00OTBKU25WVnc?oc=5",
+   "published": "2026-11-12T09:30:31+00:00",
+   "id": "6f545faaf57c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump: Iran has been waging war on America since 1979",
    "source": "JNS.org",
@@ -6477,34 +6501,9 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire en Russie stimulant modérément la demande pour la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Taiwan question brooks no external interference: mainland spokesperson on question about China-US discussions at APEC",
-   "source": "Global Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPYVhDVEdZZEZvejNQSVFhaU5HVkFKWUNjWWd1VXZ0R043ZlJzUmE1Wng0bnNqQlJqVTBtaFpIemRNY0ZZNGlsTmZiajAxbFdnUGlFQVBOMkMwcmtnSXNqTWN3?oc=5",
-   "published": "2026-11-11T04:20:00+00:00",
-   "id": "bd3417ec6ff7",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rhétorique habituelle de Pékin sans escalade militaire concrète, soutien refuge négligeable.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump ally Jim Jordan takes House GOP leadership with tough record on Iran",
-   "source": "Iran International",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rMUYwdTVrMC0wem1TZHhRN0xDRkpnWG5sNGo2NzZ4eHNKZnpYdkFfTmpobldRVG1YdGY3N1pURlRUN2Nfbm8zSk8tNjlmc0Jyb2c?oc=5",
-   "published": "2026-11-11T03:58:41+00:00",
-   "id": "e8b879e45871",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Ligne dure sur l'Iran soutenant marginalement la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|c07fb79313cf": 1792661505.599519,
   "news|b37edf7d60c8": 1792663301.532029,
   "news|22eed704c8e9": 1792663302.4082563,
   "news|286e0bbbe386": 1792663303.2432802,
@@ -8227,7 +8226,9 @@
   "news|7230180561b2": 1794473330.256643,
   "news|e93b8aed3f9c": 1794474308.0711951,
   "news|bb6c97993bed": 1794475090.972062,
-  "news|795f967c8c24": 1794475878.9699068
+  "news|795f967c8c24": 1794475878.9699068,
+  "news|0178a3072302": 1794476914.2856264,
+  "news|6f545faaf57c": 1794476915.255039
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8635,6 +8636,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T09:48:35.255187+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iranian commanders threaten to kill Trump, strike US targets worldwide</b>\n📰 Iran International · Jeu 12/11 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rUE9oRU5waDBDdEVFOERlOHBtZGNHVTZRYkFGMU11NU50YUhiVHhXTmRJTWxTbXQtSkJ2VjBJMjdnRDZYZy1HWU00OTBKU25WVnc?oc=5"
+  },
+  {
+   "ts": "2026-11-12T09:48:34.285687+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Blames Anti-Israel Sentiment, Iran War for Republican Midterm Losses</b>\n📰 politicstoday.org · Jeu 12/11 10:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHBWZnRLZjVsamRXY3VQSzRCd214eGlQSWNqOVk1YXZPajBJdmlxdzJRcFFGSXJsbXV5b1BsU2Z4a1VqNHZ2X180SjZDNGtYb2JuM1k5OW9Dbi15S1lfQjVMN3J4SmI4T3NLaFJobEZGbHFpVWIwdGdJTmt3TFpGQWhDZkhMY3d0TG1xMktnS09vaUxEbDRfWjlpazZyRkFqRmc?oc=5"
+  },
+  {
    "ts": "2026-11-12T09:31:18.969981+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>South Africa's citrus exports fall on Iran war disruption, bad weather</b>\n📰 Reuters · Jeu 12/11 09:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEdMeVJPU1FqTUdleG5McVVJdTBkTXpIbng3bnEzRi1ZWUlSNWFfUExHbnZsc1h4Tm5Nb2k5b1JoWllINEhReExZbndMbTFXZ0JhcUNQWHZrYjlzcGFoRWNuc1FELUk0ekRTVmJub1dYUkNYdzIyZWowRWpITERUWXVScnhBVjlQU2ozWmdmNkhOUUY2U3dQQ1R2OVN5WHNLaFc0NWdVUndrZVRjanpEbVo1Z3o?oc=5"
@@ -8923,16 +8934,6 @@
    "ts": "2026-11-11T19:19:06.831014+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Whisky War Fails to Boost American Producers</b>\n📰 Newsweek · Mer 11/11 20:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUpPY2pUMjVMeldqeUJHd2x3UGtSZUI1WG84bnNWV0hIeDdDQWcxNnVEVXZNMlVmc2hlRDRBQm5nYUI5OGVrUFRhLVZKSU1WcHRNN0ZtSS1mb29zLWZySFFyOU1POUp1MldaNVhRZjhMbkhpdGUzSVByM0VlVzFIM3pxSVhSTHc5UmtxRnZ3?oc=5"
-  },
-  {
-   "ts": "2026-11-11T18:04:47.886353+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Inflation Pushes Fed Toward Further Interest Rate Hikes</b>\n📰 Demokratis.co.id · Mer 11/11 18:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZkFVX3lxTE00ZTV0N1lyTHd6MzRYQ1hSVHR1eWNhQzJDWEpWaUxWV1RCenlBY2d5dXlESXpZUVZVTnJ4TGUxajhucUVGVmVpV0ZPY0lBTW1IWTRDb0Zxc3lpU1J4TFJrX0RQWW5IUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T18:04:46.859975+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Security Chief Mohsen Rezaei Warns Tehran Will Strike U.S. Bases in Europe: 17 outlets compared</b>\n📰 NewsCord · Mer 11/11 18:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2ZOVjdFcmRBX1E3NG5wUXVPRTFxTWFpSTduT2s3cFZwUTNLd1dpbDF0RVdpZ25LVlRQYWV6aW9QS2NITF92ZG1ycFZSN3JjSHFvSlRLRVZoN0hiemxoOW1ua3JCSy13MmtYcFFtZ2JsR0ZWeFY1WVhhYlJxM0NGSV9aWFRPX2NKemxwZjMwc0FiaUJVZ1BzTXJNNHpZOUhoYjNEREtHOG9SRUNzNmU0dFJycUc5RXZya01BZDFIalBFb2ozRTNUek5jLXhKSzA0S1ZNejhMVnlqcW90TEh6dmxhcFNXZw?oc=5"
   }
  ],
  "daily_forecast": {
