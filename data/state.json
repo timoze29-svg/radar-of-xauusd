@@ -1100,7 +1100,6 @@
   }
  },
  "seen_news": [
-  "a63fe0a0f476",
   "e905e2ea2001",
   "9fcdc4ec7626",
   "c436de6dabfb",
@@ -4099,7 +4098,8 @@
   "e5d770e5ea9b",
   "daac6b4137f1",
   "cb84565b7cb7",
-  "c2c3f3707c41"
+  "c2c3f3707c41",
+  "66a25f7f2a7a"
  ],
  "news": [
   {
@@ -8225,7 +8225,10 @@
   "news|c3f161bce3ce": 1794457149.3921485,
   "news|04c3be95d955": 1794457887.9461653,
   "news|56a69f80d254": 1794458768.1030402,
-  "news|e5d770e5ea9b": 1794459698.98214
+  "news|e5d770e5ea9b": 1794459698.98214,
+  "brk|GOLD|pdh|dn|2026-11-12": 1794460928.117003,
+  "brk|DXY|pdh|up|2026-11-12": 1794460929.0703692,
+  "cyc_end|2026-11-09/2026-11-15": 1794460929.9915526
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8617,6 +8620,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T05:22:09.991605+00:00",
+   "kind": "cycle",
+   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-73.8$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 4028.69 | 50% 4037.4 | 61.8% 4046.11\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
+  },
+  {
+   "ts": "2026-11-12T05:22:09.070433+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 102.96 → prix : <b>102.99</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.41"
+  },
+  {
+   "ts": "2026-11-12T05:22:08.117061+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 3 989.60 → prix : <b>3 983.20</b>\nATR jour : 92.5$ | Pivot hebdo : 4039.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 683 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-12T05:01:38.982221+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Tracking Trump: Trump defends Iran war in Veterans Day speech; Hegseth impeachment fails; Kennedy family sues Trump; and more</b>\n📰 The Washington Post · Jeu 12/11 05:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPM19mc3Z2S2VFb3Z2dmhkclhYSzc1RDdZUWkzRzRYdWVHNGtLZjVxTHhCVTZRUXVGTER0ZllXYWJlamo3VWEyd1M1SWI2b2x0aEFadDZGMFdIM250TFkwbWpnVURaOE9NamJtMTN2OVgxbjBSbEp4Q2hGenB1MERNMzlLOFBpZWZFbVBNTXhPTXViay1yRi03MU5HOFJBR2dReTd4QXJwekl6YUt0ZWUtOFhUMUZTRGJaNTZaU2VYNWdkaTNlVW41cW5EWnFIQ2FmN0VTS0VWQkYwbFZpZ3dwZ2h6OXpTWFZhMTRiRTFMMVpXTGVDUmRLb0pEQ3NMdWJKRVU0?oc=5"
@@ -8900,21 +8918,6 @@
    "ts": "2026-11-11T14:01:36.206793+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — USD/JPY\n+1.594 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
-  },
-  {
-   "ts": "2026-11-11T13:16:10.595340+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 1.11329 → prix : <b>1.11297</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.35 | 60j -0.18"
-  },
-  {
-   "ts": "2026-11-11T13:16:09.164907+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold steadies after selloff as central-bank demand offsets Fed rate hike concerns</b>\n📰 Investing.com · Mer 11/11 12:46\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOM091dTN5M0hSdmJKUDdFZmtGODd3SDRzenVTMXg1Q0JDZXhDdlF3WUJZSk52dlZVNlJxSFY3X3VteDd6aFIzcUduM29PZHA1WGlncWZxeVBTT0lBcXBKcWxSaVZYZXp4NnZHbFBzZEdLX0xkUHp3TkxIeUJPUHIxaWNHUTdqM1FiTWQ5Nm5BZEtsalA5TUdsc0FGWndWalFraVAyazJrWEc0Y1oyWURQYjJURTJrR2k4czBqdmRGaHYwdlY5ZnZIZEJn?oc=5"
-  },
-  {
-   "ts": "2026-11-11T13:04:42.387085+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:04</b>\nPrix : <b>4051.00</b>  (-17.8$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-22) → maintenant -23 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 41$ sur ~102$ attendus (40%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) UPDATES: US War on Iran, Day 258 - \"Minor\" US Strikes on Qeshm Island in the Strait of Hormuz\n🟢 (+8) Iran producing up to 50 ballistic missiles a month, half its prewar rate – report\n🟢 (+8) Iran Threatens to Attack Europe\n🟢 (+6) Russia and Ukraine agree to large exchange of prisoners of war, officials in Abu Dhabi say"
   }
  ],
  "daily_forecast": {
