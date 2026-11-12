@@ -1100,8 +1100,6 @@
   }
  },
  "seen_news": [
-  "1973fa45c6e6",
-  "cd2e61e0470e",
   "1e630ca0257a",
   "d276d9f8091c",
   "1176d438b05d",
@@ -4099,7 +4097,9 @@
   "29acb94a3ad1",
   "9282101b14fc",
   "f6fbd3804d46",
-  "1f8df4959d95"
+  "1f8df4959d95",
+  "3f87033bd7e9",
+  "1acdc470dc07"
  ],
  "news": [
   {
@@ -4340,6 +4340,18 @@
    "impact": -5,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Central Banks Buy 321 Tonnes of Gold in Q3 as Short-Term Selling Risks Persist",
+   "source": "CEO Magazyn",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zRFZyeTFVUXdYdFRSeHNYOXNyazNJc2owT2tuQXFKWVpXSGg3SjY3eEV0Zi1SRkdiQU54ZDAtdHVVVXluR1pvWlpSV3AzZWtUNDU0V2xQM3dXdjFqRlFlNlhncXZYQQ?oc=5",
+   "published": "2026-11-12T13:32:13+00:00",
+   "id": "3f87033bd7e9",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
   },
   {
@@ -6489,22 +6501,9 @@
    "cat": "taux",
    "raison": "haussier or (taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-   "source": "CNBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUlVVzRJczhQdFdOZHhoSFJISnZBSzhZT1JHdk4wNlFvaHc0N1JvNkhER3htclBYamxXREp3RXZTVzhtcTJmQ1ZCMGMzdmxDWGY4dGo0NzFwbVVJeWRVa05hbWp5OGwyX3JSWEpSTGlSRi1TSE0tWUhuY3V2WkZ3ZTdrMVdkdw?oc=5",
-   "published": "2026-11-11T12:12:48+00:00",
-   "id": "b8dfdf513de5",
-   "impact": -5,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|1d4de3d71f8e": 1792690300.6229641,
   "big|SPX|2026-10-22": 1792692203.18474,
   "news|5c41d9123f46": 1792693663.7700913,
   "news|02b3a3676abd": 1792694769.9911885,
@@ -8231,7 +8230,9 @@
   "news|a8d866f57ac5": 1794502933.5140634,
   "pre1h|2026-11-12T13:10:00-05:00": 1794502934.5776951,
   "pre1h|2026-11-12T13:30:00-05:00": 1794503768.194758,
-  "news|f6fbd3804d46": 1794504685.5695739
+  "news|f6fbd3804d46": 1794504685.5695739,
+  "big|EURUSD|2026-11-12": 1794505578.6795654,
+  "pre15m|2026-11-12T13:10:00-05:00": 1794505579.7774642
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8639,6 +8640,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T17:46:19.777505+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-12T17:46:18.679623+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — EUR/USD\n-0.01180 aujourd'hui = 1.5× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-12T17:31:25.569643+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected</b>\n📰 CNBC · Jeu 12/11 08:38\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5kS2N1QmprS3IzX3ZuTHRrNlBkaERHTlNMTEdzMkk3bUR3eXo5cDcyMGpiSF9xUVpPQzZHaDBZN2NrbHdFVGpmWTZ1ZXAxMXBuOHlkdzNEcEdRQU44Rm14a3llS1VOUFhPaTByWThqaw?oc=5"
@@ -8927,16 +8938,6 @@
    "ts": "2026-11-12T08:34:46.313980+00:00",
    "kind": "cycle",
    "text": "⚠️ <b>CYCLE HEBDO : PAS D'INVERSION CETTE SEMAINE</b>\nPhase 2 (jeu→ven) : lun→mer = -73.8$, depuis mercredi -40.1$ → le pattern ÉCHOUE (continuation) ⚠️\nLe marché continue dans le sens lun→mer — ne pas forcer le contre-trend."
-  },
-  {
-   "ts": "2026-11-12T08:19:12.692461+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran tells COP31 it wants compensation for environmental damage from US - Israeli strikes</b>\n📰 asiaone.com · Jeu 12/11 08:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.asiaone.com:443/asia/iran-tells-cop31-it-wants-compensation-environmental-damage-us-israeli-strikes"
-  },
-  {
-   "ts": "2026-11-12T08:19:11.815088+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Netanyahu Clash Over Iran : Heated Debate on War Strategy Reported</b>\n📰 openthemagazine.com · Jeu 12/11 08:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://openthemagazine.com/world/trump-netanyahu-iran-war-clash-shouting-match-from-hell-reported-as-leaders-disagree"
   }
  ],
  "daily_forecast": {
