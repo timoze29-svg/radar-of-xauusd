@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794512751.6953845,
+   "ts": 1794517275.7480075,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,8 +1100,6 @@
   }
  },
  "seen_news": [
-  "bc194a491d96",
-  "6439498c3a0f",
   "54108408fe43",
   "e019ab475944",
   "21f217aed321",
@@ -4099,7 +4097,9 @@
   "1873a5f6a439",
   "1bed6dc4e12d",
   "971509997f22",
-  "c4eec4a7af15"
+  "c4eec4a7af15",
+  "2fa61e8d5bbe",
+  "b4315140a896"
  ],
  "news": [
   {
@@ -4112,6 +4112,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Sheinbaum downplays migrant caravans as Trump threatens more tariffs",
+   "source": "Courthouse News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWlaWWt0X2FZaEFmY0lvVkxIdGVlQTZBT3pOMGhtdVFIN0g1Wm8xNDNHMGJzdGlQVWVsbmo5NERDbVVIZ3R2aXVCd1VSUXBCbEpMMjc3d1RTUkhwTTBzRzVZbm5jUjh2QmxxQXpTZFJwY05FbC0wby13TDBGMWQ4cGhDdjlacWdXRkFOdjNuME9VUzljeE5ZTVRMdzYzS3FLVGc?oc=5",
+   "published": "2026-11-12T20:02:09+00:00",
+   "id": "b4315140a896",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6489,18 +6501,6 @@
    "cat": "géopolitique",
    "raison": "Menaces directes contre des bases en Europe, risque d'escalade majeure favorable à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Rate Hike?",
-   "source": "inkl",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zb2kzUXo4VTQ4TnBvdHh3SUxJTnM0ZkpPSDhnTEFRQ0ZvdTB6dmZHRzFYdHh1SlRzeDV3YzhKRDJTRzV1djl4d0ZXdw?oc=5",
-   "published": "2026-11-11T14:30:05+00:00",
-   "id": "976c7d70eb45",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8226,7 +8226,8 @@
   "news|e530a122cfb5": 1794513697.9998944,
   "news|f4ae41adbd43": 1794514597.146797,
   "news|58a3ca0f5a96": 1794514597.963668,
-  "news|679d5b6bf02e": 1794516380.6432574
+  "news|679d5b6bf02e": 1794516380.6432574,
+  "rep|recap|2026-11-12": 1794517298.9382534
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8635,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T21:01:37.914345+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — JEUDI 12/11</b>\nOr : <b>-113.7$</b> depuis minuit · plus haut 4005.9 (02h15) / plus bas 3856.7 (16h20) · range 149$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-24) à 3982.7 → maintenant 3882.0 (-100.7$)\nRange : 149$ réalisé vs ~89$ attendu (168%)\nNiveaux touchés : S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 61% de bonnes directions (14 ✅ / 9 ❌ / 1 ➖ sur 24 jours)\n20 derniers jours : 58%  ·  ❌❌➖✅❌✅✅❌✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.32% · Taux 10 ans +10.5 pb · Pétrole +2.85% · EUR/USD -0.38% · S&P 500 -0.34% · Argent -3.31%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Oil Prices Rebound as Hormuz Shipping Attacks Offset Hopes for Iran De-escalation\n🟢 (+10) Rand Paul Blames Iran War, Trump’s Tariffs for GOP Losses: ‘Things Cost Too Much and People Are Strugglin\n🔴 (-10) 10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected\n🔴 (-10) Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Williams Speaks\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.4%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Collins Speaks\n🔥 <b>15:40</b> 🇺🇸 FOMC Member Logan Speaks\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Bowman Speaks\n🔥 <b>18:00</b> 🇺🇸 FOMC Member Daly Speaks"
+  },
+  {
    "ts": "2026-11-12T20:46:20.643351+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases</b>\n📰 Foundation for Defense of Democracies · Jeu 12/11 21:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlFOR0dZeFZ1eEc0b0pYUDhuelBjXzB2a0p6eHhZb21kYUF0R2o4WmJPc216SExnTDEwaW1aWjRGcU9qSUttYVM1Q0lEUi03TzNGNzh1dk04WjF1blo5MlBRTnIwRFRhamxpNFJRSFloOWNmVjRiei12NGlDbWoxUm5QMlI4MU9FaThOU0FRZjdwWWVRMlBuTTBGQUIzbUF0MVozR3k2ZG03UQ?oc=5"
@@ -8927,11 +8933,6 @@
    "ts": "2026-11-12T11:46:06.848783+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Netanyahu call descended into ‘shouting match from hell’ in clash over Iran war</b>\n📰 The Independent · Jeu 12/11 10:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNei1iQVNoV2tCNnk2MHJpMUdoVGVKQXZTeThKMmZxcmhwRUlhUjkyRkN5dUJkZGpzeWYwdTRwMFFiRTZ2VlJfYWZQbWpJams0Yms0SXhHcHNYYVFQQU01UGp6M21QSjNfeFZoTHNQOTZqZG1LNW9HTEF2dWZvOFlvUVNzYXdOMGpWdzhDc25OVkZoUDE2a013SjRKeDU4al85X2NzNC14c0gtamplTU53Yg?oc=5"
-  },
-  {
-   "ts": "2026-11-12T11:46:05.875635+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi</b>\n📰 The Guardian · Jeu 12/11 12:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9133,11 +9134,19 @@
    "mv": -74.6,
    "range": 85.1,
    "exp": 102.2
+  },
+  {
+   "date": "2026-11-12",
+   "dir": "down",
+   "res": "hit",
+   "mv": -100.7,
+   "range": 149.2,
+   "exp": 88.8
   }
  ],
  "evening_recap": {
-  "date": "2026-11-11T21:01:39.256262+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — MERCREDI 11/11</b>\nOr : <b>-49.5$</b> depuis minuit · plus haut 4074.7 (08h25) / plus bas 3989.6 (21h05) · range 85$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-22) à 4068.8 → maintenant 3994.2 (-74.6$)\nRange : 85$ réalisé vs ~102$ attendu (83%)\nNiveaux touchés : P, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 59% de bonnes directions (13 ✅ / 9 ❌ / 1 ➖ sur 23 jours)\n20 derniers jours : 53%  ·  ✅❌❌➖✅❌✅✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.68% · Taux 10 ans +1.5 pb · Pétrole +0.06% · EUR/USD -0.71% · S&P 500 +1.27% · Argent +0.60%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) 2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, &amp; Conflict\n🟢 (+10) After the strikes, Iran rethinks the nuclear threshold\n🟢 (+10) UPDATES: US War on Iran, Day 258 - \"Minor\" US Strikes on Qeshm Island in the Strait of Hormuz\n🟢 (+8) Vance Considers Direct Talks With Iran Hardliner in Push to End War\n\n📅 <b>Demain (jeudi)</b>\n🔥 <b>14:30</b> 🇺🇸 FOMC Member Hammack Speaks\n🔥 <b>16:00</b> 🇺🇸 FOMC Member Barr Speaks\n🔥 <b>17:15</b> 🇺🇸 FOMC Member Goolsbee Speaks\n🔥 <b>19:10</b> 🇺🇸 FOMC Member Daly Speaks\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks",
+  "date": "2026-11-12T21:01:38.938208+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — JEUDI 12/11</b>\nOr : <b>-113.7$</b> depuis minuit · plus haut 4005.9 (02h15) / plus bas 3856.7 (16h20) · range 149$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-24) à 3982.7 → maintenant 3882.0 (-100.7$)\nRange : 149$ réalisé vs ~89$ attendu (168%)\nNiveaux touchés : S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 61% de bonnes directions (14 ✅ / 9 ❌ / 1 ➖ sur 24 jours)\n20 derniers jours : 58%  ·  ❌❌➖✅❌✅✅❌✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.32% · Taux 10 ans +10.5 pb · Pétrole +2.85% · EUR/USD -0.38% · S&P 500 -0.34% · Argent -3.31%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Oil Prices Rebound as Hormuz Shipping Attacks Offset Hopes for Iran De-escalation\n🟢 (+10) Rand Paul Blames Iran War, Trump’s Tariffs for GOP Losses: ‘Things Cost Too Much and People Are Strugglin\n🔴 (-10) 10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected\n🔴 (-10) Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Williams Speaks\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.4%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Collins Speaks\n🔥 <b>15:40</b> 🇺🇸 FOMC Member Logan Speaks\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Bowman Speaks\n🔥 <b>18:00</b> 🇺🇸 FOMC Member Daly Speaks",
   "ai": false
  },
  "dp_last": {
