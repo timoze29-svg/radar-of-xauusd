@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794478551.5559583,
+   "ts": 1794483063.8718822,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,13 +1100,6 @@
   }
  },
  "seen_news": [
-  "3472859cb079",
-  "6a51b433831c",
-  "c796e7708528",
-  "a07769b86099",
-  "1e3ad0712315",
-  "08b50f7c3c80",
-  "276d02cdaa1f",
   "7789fd0b1435",
   "748cd39f1e64",
   "c0e4dad855a7",
@@ -4099,9 +4092,28 @@
   "56be3a4be801",
   "d878a0128c94",
   "c8e196d58400",
-  "eccf8beac8b5"
+  "eccf8beac8b5",
+  "eba1d4fbddc5",
+  "5dd11cad8151",
+  "335cf672195e",
+  "6f713c8a8e31",
+  "eede7695c2d0",
+  "86dfd3e16ade",
+  "e18476b35708"
  ],
  "news": [
+  {
+   "title": "Trump ran on a platform of peace. His war may have cost Republicans the midterms",
+   "source": "The Guardian",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5",
+   "published": "2026-11-12T11:08:00+00:00",
+   "id": "335cf672195e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "War in Ukraine: MEPs demand Russia returns deported Ukrainian children | Aktualności | Parlament Europejski",
    "source": "European Parliament",
@@ -6489,22 +6501,9 @@
    "cat": "inflation",
    "raison": "Pressions inflationnistes maintenant les taux de la Fed élevés, pesant sur l'or sans rendement.",
    "method": "IA"
-  },
-  {
-   "title": "Americans Face Record Credit Card Debt",
-   "source": "wonw1280.iheart.com",
-   "theme": "Géopolitique",
-   "link": "https://wonw1280.iheart.com/content/2026-11-11-americans-face-record-credit-card-debt/",
-   "published": "2026-11-11T06:30:00+00:00",
-   "id": "faf78f0b6c00",
-   "impact": 1,
-   "cat": "fed",
-   "raison": "L'endettement record des ménages signale un risque de ralentissement propice aux baisses de taux.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|0796e21f87d4": 1792667770.7165465,
   "news|ea00ad365261": 1792669580.667824,
   "news|2ef1d270de12": 1792669581.5203981,
   "news|a3636f04389d": 1792669582.3599489,
@@ -8226,7 +8225,8 @@
   "news|6ee0c914da55": 1794479484.9540496,
   "news|b586eaf1e766": 1794479485.901709,
   "news|56be3a4be801": 1794482169.4469373,
-  "news|76c4366ffb4e": 1794482170.406125
+  "news|76c4366ffb4e": 1794482170.406125,
+  "news|335cf672195e": 1794483088.7173562
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8634,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T11:31:28.717432+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump ran on a platform of peace. His war may have cost Republicans the midterms</b>\n📰 The Guardian · Jeu 12/11 12:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5"
+  },
+  {
    "ts": "2026-11-12T11:16:10.406259+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hegseth lays it on thick for Trump to stave off fallout from Iran war</b>\n📰 The Guardian · Mer 11/11 16:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPVW1RdWsweVdxekFfNjlZcFVKTElyR1BwNEpIeXIzMWJlQ25DTTRjSVVMeF9OT0J3TjRQUlgxMkU3VFlBWm1PWUV1Q3pRV0pxZVJpa2ZlN3c1b2hPclpVRjNJLVp4eTFjQWh1bm5XZURudWxZVWtjUFgtb3BiQ0Itc2UtdWhmWjg0cWpteWpMRE1HdEk?oc=5"
@@ -8927,11 +8932,6 @@
    "ts": "2026-11-11T20:22:17.485628+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump honors military service members, defends Iran war at Veterans Day service</b>\n📰 Spectrum News · Mer 11/11 20:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYl9TUDBITzJrbFZwSzlDOU1IeFJjMHBHYXBiVGZ3cTBiZW9Hc2M5T0JQa0pjR1BKMEFiTzN3NFpFNmU2MnM1QVZTVHItbUgtYXByZzd1ZzdicXJhOVQzcTQ5TVNRd3dUSTZBMVl5Mm9rTGJ2eE5lZno3NnZfYXZlejBmVDVjNG10SmNj?oc=5"
-  },
-  {
-   "ts": "2026-11-11T20:05:58.462705+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>After the strikes, Iran rethinks the nuclear threshold</b>\n📰 Tehran Times · Mer 11/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDVYanloel9jaW5maDFIWnJmZVZ1YjRJZkNiVW5zSVduQmxfZGFVVTdqRklSdjNaQ1dDYnNMM1RYTkNtZmpkQXdFcUh6azRtcnpNNk1kblpQNUpsZ0FrU05VQ3FlRUR3V21tQm5xVkRHaTE3ZElDcWpScU41RmhJU0FGTUY4aTNiV3U3UVo2THEyZ2JoVzZjMA?oc=5"
   }
  ],
  "daily_forecast": {
