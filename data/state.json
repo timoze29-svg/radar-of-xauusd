@@ -1100,7 +1100,6 @@
   }
  },
  "seen_news": [
-  "532685793370",
   "d5f323fbaf0c",
   "a29ea6ef94a0",
   "e016bba83eb4",
@@ -4099,7 +4098,8 @@
   "164c9e4afbfb",
   "3ecec575aa56",
   "14c0d5302b83",
-  "f5425539e830"
+  "f5425539e830",
+  "a044d8cc9313"
  ],
  "news": [
   {
@@ -4388,6 +4388,18 @@
    "impact": 10,
    "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump’s Asia trade deals reap small slice of cash",
+   "source": "Financial Times",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFBIU2ZDYkFVNEptM2EzVFZFZnpEeWowaXdrVHZoX25Ha2FfUmFSc0tRQVJRNWswbVBXU28xTjJIbUpTM3NQQXZtTktYMThnQmtza2dNdEM4LVhTTDNsdVFNd3BTcGJ1R1dwZ294c2dld29wM2IyTnVkYUZrU3R4WWR2NmI?oc=5",
+   "published": "2026-11-12T01:01:56+00:00",
+   "id": "a044d8cc9313",
+   "impact": -4,
+   "cat": "commerce",
+   "raison": "baissier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6488,18 +6500,6 @@
    "impact": -7,
    "cat": "fed",
    "raison": "Hausse anticipée des taux de la Fed, augmentant rendements réels et dollar.",
-   "method": "IA"
-  },
-  {
-   "title": "US 10-Year Treasury Coupon Returns to 5% as Auction Demand Cools, Bid-to-Cover Falls to 2.46",
-   "source": "BigGo Finance",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tQUFsNkJtaTQ4Rnh6Mm1SMWNpLUFkaExlY1VwX2lpWXpIcE1zR09VX2EzY29EaDdJeVpYbjc5OC04dmFKdUVYRFFadE02Uy1nTzUwSE9QNHZiUUw0SjFIZXVnblhCV0RZQ25PcnVENmZQMzRwaFE?oc=5",
-   "published": "2026-11-10T23:05:00+00:00",
-   "id": "90caf438d848",
-   "impact": -5,
-   "cat": "taux",
-   "raison": "Le retour du taux 10 ans à 5% renforce drastiquement le coût d'opportunité.",
    "method": "IA"
   }
  ],
