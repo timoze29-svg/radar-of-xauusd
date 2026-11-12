@@ -1100,11 +1100,6 @@
   }
  },
  "seen_news": [
-  "a22de92f58e8",
-  "80575d63cb5d",
-  "b322d244a71a",
-  "42be1511bd60",
-  "7c15a004ccc0",
   "feec4f9d03f5",
   "608f37b44c2e",
   "8a0460ba7d47",
@@ -4099,9 +4094,26 @@
   "2092c175c458",
   "d12593bcd17a",
   "1bf9ff79d979",
-  "965bfce7ce63"
+  "965bfce7ce63",
+  "616e15d5fa2d",
+  "5badfcf9f93f",
+  "387c4481d47e",
+  "ac01a835a9e6",
+  "6eec302c199a"
  ],
  "news": [
+  {
+   "title": "Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
+   "published": "2026-11-12T07:24:00+00:00",
+   "id": "6eec302c199a",
+   "impact": -10,
+   "cat": "taux",
+   "raison": "baissier or (fed, taux)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump’s tariffs echo Jefferson’s failed attempt to weaponise trade",
    "source": "The National",
@@ -4893,6 +4905,18 @@
    "cat": "géopolitique",
    "raison": "Menace directe d'escalade géographique majeure, impulsion haussière refuge pour le métal jaune.",
    "method": "IA"
+  },
+  {
+   "title": "Gold Price Today: Central Banks Buy 321 Tonnes in Biggest Quarter Since 2024",
+   "source": "CaptainAltcoin",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlhwcmI3S2xINXpzcUQ5Y21ocUhfRDlZUDhuYnI3WVdsRGpDeVVEaUdPMU55VDI3MFE5cklQaEQ4WTN3LUlPUjdtYXpQT1ZaQU9TLWtBSElxWmotZW56WWNzLUNubm5mVzE2TTduVXFuY0kwMjBxN2NMaDBSd1poVXVNMHRKV20xTmxnVGdkWXJXZnQtMzZEdjZKYlAzX3R1MGM5VXpn?oc=5",
+   "published": "2026-11-11T15:52:07+00:00",
+   "id": "387c4481d47e",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
   },
   {
    "title": "Dollar Rallies on Expectations of More Fed Rate Hikes",
@@ -6477,36 +6501,9 @@
    "cat": "emploi",
    "raison": "Données d'emploi faibles limitant les hausses de taux, affaiblissant les rendements obligataires réels.",
    "method": "IA"
-  },
-  {
-   "title": "Bessent Moved to Military Base In Wake of Iranian Threats",
-   "source": "The New York Times",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbG81THloYW9zUDI4MkhNMXU5X084d0FtM0YtOXl2MnNTMkRNYXlGRkk3WWg4MUNxVUxtUXdaVlN1UzVXazRaenBjQUJSOVg1S2VtWkRMaGhaeGxOdnpIeXNUb1djNXduSjBiQjZncmdpZ1B5Tl9xeGJBU1hZdElvVzM3RmtGUThORnNJ?oc=5",
-   "published": "2026-11-11T00:07:31+00:00",
-   "id": "688cfc368662",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions directes USA-Iran renforçant modestement la prime de risque géopolitique et valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Rubio says US struck Iran fearing it would retaliate for Israeli attack - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJ1MnM3VFIyRWxoVEM5c25DbEVtYXlEajY3XzlqWjZIbVFCOXNlZC1lc1lxVnpxbkY5YmtUWE5jTUJnUjhzV2hyNlhNeU5JaVRFYW01VVZvVmJxNjZjUFQtZW1MRGtJc2lHdEtpOTNYYmM0WFRfWk9XYTA0NDdhR19zWktTT1h4ME91dWx1SFZacmVBMEZCLUdfNHltam5jcVlv0gGoAUFVX3lxTFBxUkduQU9kUjVvSnJ5b0ZlWVVBa0JkTjk5cGF5TTlFSzZaMXh1dEE3c1pvOVdDZU0xYmg1SFZEVU5HckVTUURnRmJKdi1NV29KdTlJSXNpYUVwbk8yMDJkU2RuM1VhUGY3Wi1ZSkI5VVRIcVdzcmtyWDdXYlhURGJJenZfLWdLOTNoZTFzZV9HWEE0cHUydHppM0s5Z05EdkRuUkRNZzFBdA?oc=5",
-   "published": "2026-11-11T00:06:01+00:00",
-   "id": "ba7ba1982d1e",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|31ecb4f8b2d2": 1792651619.4462228,
-  "big|USDJPY|2026-10-22": 1792651620.6202524,
-  "brk|COPPER|h20|dn|2026-10-19/2026-10-25": 1792651621.4834852,
   "big|COPPER|2026-10-22": 1792655184.771248,
   "news|cc97c2078642": 1792657909.9034424,
   "news|b97d2e61e47c": 1792658774.1876078,
@@ -8225,7 +8222,8 @@
   "rep|daily|2026-11-12": 1794463296.8223517,
   "news|7487a36e7b3f": 1794464361.3913918,
   "news|f5425539e830": 1794464362.3810465,
-  "news|d55a89e44047": 1794465970.6813838
+  "news|d55a89e44047": 1794465970.6813838,
+  "news|6eec302c199a": 1794468683.0189614
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8633,6 +8631,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T07:31:23.019036+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong</b>\n📰 WSJ · Jeu 12/11 08:24\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5"
+  },
+  {
    "ts": "2026-11-12T06:46:10.681479+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: JD Vance considering in-person talks with Tehran to end conflict</b>\n📰 Arabian Business · Jeu 12/11 05:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -8926,11 +8929,6 @@
    "ts": "2026-11-11T14:46:20.544149+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem</b>\n📰 Reuters · Mer 11/11 15:02\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmdEZENBbDFmNjBmQ1lkUUdxbTUwZlZCZDF0MUo5cXZCTzMxNmdORWpkWl9WX1RucHdsR0VuSWhLOXhSYjZTYUstRFl6WWJ6V3JYallmel9vc0xhS2VGa0EwVGRkdE95MEVlU3RLb3owb0cweERFQUxXaFRqNXJiYURqN2F0WEVWSVY1SzkxbzVqN2V1NlMyMUxXTG1SQ0VEZUZZQm43SUxlbWpRSG15TVhRdUJDdXF5Q1laUmV1MGg?oc=5"
-  },
-  {
-   "ts": "2026-11-11T14:31:32.191806+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's decoy flight sparked by fears of Iranian cell with shoulder-fired missile: Official - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 11/11 12:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVJrZjN1UTRKcF9ENHlZclJYUlRUN3NaaG1ucnd1ektfWGpUUW05blJZdWh2NFpqSm1vYi1qY041UEtwcGZCU0ZGQUFtNjJuOW5HeTZpck81Z1FZQVZHOUhlQkVONFhQSXU5N2RlanFxSTV2S29wN0RuQmtRdWhyaWhWX0VSY2JGam1sZ0o0Vms3Q20yZnlWNlpnVmlmOUFPUE5YbFoxOGpmV19VUGxXN2RB0gG3AUFVX3lxTFBfTW5PbGhJcDg0NUJTMkdXYTV1ZTBORkhPYTNSaTNfc080ek5xcloySXdzdlVSaW0xbEpPWGs0bHc3Vk13QVRCNm1LUHFhbk9zRFptTGJtZDctMEdZWFNWRkRBRzB5SGZ0X0FQMmo0cTNqcGlSYW8zcVBLTVljUFZZdU5HT2pNekE4SzVUQktQbWtoejRPOXM1TTNyNlM2VEI5eFVMNl9oMmZrX0RrY2I5TXRTOTZnVQ?oc=5"
   }
  ],
  "daily_forecast": {
