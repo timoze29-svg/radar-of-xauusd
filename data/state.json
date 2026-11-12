@@ -1100,10 +1100,6 @@
   }
  },
  "seen_news": [
-  "7cc574ca41f3",
-  "ca390139bfc6",
-  "869bbfc948bd",
-  "d61c2b06267e",
   "37de1572e681",
   "a1596a70f7f7",
   "0b082723f6e9",
@@ -4099,7 +4095,11 @@
   "d086e4de1e88",
   "2fcf059b3cab",
   "7a7570374e45",
-  "8600e835d301"
+  "8600e835d301",
+  "de1a9f496fa8",
+  "d6a639f2fa6f",
+  "29aefd892494",
+  "bd20db13e419"
  ],
  "news": [
   {
@@ -4121,6 +4121,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjhwNTdmM1U1aFJIQU1va2s3VUFOSWdnM3dkVFBpVUt2ZzdzM3VFSjZ6cFlOYUtOdDAwWHBVb0FYTlZoTTBiQVR0aW1pSk51QTVZTVpCam1XcGxBZ084UGdOa0pzQ2hUNVYyb0Y3ejJpckNYSGZ4ZkF4R2FVa21VN1JtaTVxNnpxSW9NdGkyTzN1eDFpc2c5UUJadlg4QUhYR21PZFp5aHdJdy1MVmhOSF9Tb1JMYjVORmpLX04xZ2NWTmfSAdYBQVVfeXFMUEpTR19sX29oTlBreHJGeFBVemNtUUxKdG00SHozbWZPVE00a1RVU3VwelZSNGJEQnRpTlZCV2ozcWhUM2hSNi1RaXE4TGtlbkNUenpiWHEzZENLMGJUbjdkc2ZiTE02Zk5sbWJXMXFpd0Juay1hVlctdGVNOFNJdE4ydExOT1V2MU94RmE2am5IREpOMTA0RmFyWHdtNDIxU3BlSEI1ckZfQkFRSVJDNU5uaWRoNlFiaFpBN1NaMnhLWnFBbkZPbEVfdEl0TVVuOFV4dlNUZw?oc=5",
    "published": "2026-11-12T02:05:06+00:00",
    "id": "d6aaf68eb525",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUloTmRZUVdRTnN4czkwSHA4cDF5aFdfcVgxNlg2N3djQjRNMEN1VDA2ejJXZDlFdUZremp3ZG5WS3FWWmN6QURJSVItdzUtYzFySFdPcEZVVWNvX3Fva3JLYzdpWUFWd0V4UF9sVG5YdjRmYW9mUW53MUxBc2E5eklpeTBKX05ZdXcyM1ZPRENCeGgxUTZ2bTBkWGh1VU12VDVFSlR5cUtYSTFYd2FOZGtSenpaV2JNa3IzN3NFbUhrSFVZaEpxdzdYcnFpNVdDRzFNTjJEbw?oc=5",
+   "published": "2026-11-12T02:00:00+00:00",
+   "id": "29aefd892494",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6489,18 +6501,6 @@
    "cat": "fed",
    "raison": "Commentaire hawkish suggérant des taux élevés durables, pénalisant l'actif sans rendement.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Producing 50 Missiles Per Month Despite Crippled Industry",
-   "source": "Bloomberg.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeG16Ti1xelBVR2gzWUYzYV9qQzVoVWZ3NGxOV05NSXN6blZBQWEzdXV3bjlWeXJXeVdwRHdTejJ0WmF3UFdCMDVaNl9UYjhobFB3Znl1a1RGV1JZdWhaQ2Iyc1l3YURwRDhiSmpLcWhNeVBBUDVrN3J6M0Z1Wkw1aUEtMWp3RURSdm80aDd3TFgtaHRTM2E2QzVJVlhDQUdqNXVIZVVYUnM5X0E5S3dNOU5TWQ?oc=5",
-   "published": "2026-11-10T18:57:20+00:00",
-   "id": "550db3dd932d",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Persistance de la menace militaire iranienne maintenant une prime de risque au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8230,7 +8230,8 @@
   "news|d993c8f7da37": 1794448890.6141136,
   "news|d6aaf68eb525": 1794449872.871345,
   "news|03f48eb06523": 1794449873.6969955,
-  "news|07654a927009": 1794452540.4312708
+  "news|07654a927009": 1794452540.4312708,
+  "news|29aefd892494": 1794453383.1857202
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8622,6 +8623,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T03:16:23.185796+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin</b>\n📰 The Guardian · Jeu 12/11 03:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUloTmRZUVdRTnN4czkwSHA4cDF5aFdfcVgxNlg2N3djQjRNMEN1VDA2ejJXZDlFdUZremp3ZG5WS3FWWmN6QURJSVItdzUtYzFySFdPcEZVVWNvX3Fva3JLYzdpWUFWd0V4UF9sVG5YdjRmYW9mUW53MUxBc2E5eklpeTBKX05ZdXcyM1ZPRENCeGgxUTZ2bTBkWGh1VU12VDVFSlR5cUtYSTFYd2FOZGtSenpaV2JNa3IzN3NFbUhrSFVZaEpxdzdYcnFpNVdDRzFNTjJEbw?oc=5"
+  },
+  {
    "ts": "2026-11-12T03:02:20.431368+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump vows ‘total victory’ as Iran rejects concessions and threatens wider war</b>\n📰 Iran International · Jeu 12/11 01:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaM1BfNWJVMDk0TjFIQWtaSTdEbGVXdFp3LWxDYVhWNzQ5YmkyM1Fsc0lBaWVtRjVMd3V2TWpVTnhuU2xiM0VGWDg3cGtzMG1XVnc?oc=5"
@@ -8915,11 +8921,6 @@
    "ts": "2026-11-11T10:01:41.314821+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>USD/JPY</b> casse le plus haut sur 20 JOURS\nNiveau : 158.942 → prix : <b>158.967</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.38 | 60j 0.25"
-  },
-  {
-   "ts": "2026-11-11T08:37:34.778392+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 102.41 → prix : <b>102.43</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.35 | 60j -0.46"
   }
  ],
  "daily_forecast": {
