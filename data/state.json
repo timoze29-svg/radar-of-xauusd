@@ -1100,10 +1100,6 @@
   }
  },
  "seen_news": [
-  "d5f323fbaf0c",
-  "a29ea6ef94a0",
-  "e016bba83eb4",
-  "84de01fc74de",
   "fa356c9e7e74",
   "9a3742b96571",
   "a81d55c0c4f7",
@@ -4099,9 +4095,25 @@
   "3ecec575aa56",
   "14c0d5302b83",
   "f5425539e830",
-  "a044d8cc9313"
+  "a044d8cc9313",
+  "d5bea37bb18a",
+  "d55a89e44047",
+  "8a4a5d12abc3",
+  "9e9bf915ea49"
  ],
  "news": [
+  {
+   "title": "Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin",
+   "source": "DW.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF?oc=5",
+   "published": "2026-11-12T06:40:44+00:00",
+   "id": "9e9bf915ea49",
+   "impact": -6,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine War, Day 1,722: Zelensky — “Window of Opportunity” as Trump Envoys Visit Putin",
    "source": "EA WorldView",
@@ -4148,6 +4160,18 @@
    "impact": 6,
    "cat": "fed",
    "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran war live: JD Vance considering in-person talks with Tehran to end conflict",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-12T04:50:56+00:00",
+   "id": "d55a89e44047",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6477,30 +6501,6 @@
    "cat": "fed",
    "raison": "Anticipation de hausse de taux de la Fed, haussière pour les rendements réels.",
    "method": "IA"
-  },
-  {
-   "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
-   "published": "2026-11-10T23:13:26+00:00",
-   "id": "7e97a3b6e21d",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Congrès démocrate susceptible de freiner l'escalade militaire au Moyen-Orient.",
-   "method": "IA"
-  },
-  {
-   "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-   "source": "Reuters",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
-   "published": "2026-11-10T23:07:22+00:00",
-   "id": "ff3dd0834564",
-   "impact": -7,
-   "cat": "fed",
-   "raison": "Hausse anticipée des taux de la Fed, augmentant rendements réels et dollar.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8224,7 +8224,8 @@
   "news|e27775c6d860": 1794461489.7255352,
   "rep|daily|2026-11-12": 1794463296.8223517,
   "news|7487a36e7b3f": 1794464361.3913918,
-  "news|f5425539e830": 1794464362.3810465
+  "news|f5425539e830": 1794464362.3810465,
+  "news|d55a89e44047": 1794465970.6813838
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8632,6 +8633,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-12T06:46:10.681479+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: JD Vance considering in-person talks with Tehran to end conflict</b>\n📰 Arabian Business · Jeu 12/11 05:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-12T06:19:22.381307+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike</b>\n📰 WSJ · Mer 11/11 07:37\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5"
@@ -8925,11 +8931,6 @@
    "ts": "2026-11-11T14:31:32.191806+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's decoy flight sparked by fears of Iranian cell with shoulder-fired missile: Official - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 11/11 12:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVJrZjN1UTRKcF9ENHlZclJYUlRUN3NaaG1ucnd1ektfWGpUUW05blJZdWh2NFpqSm1vYi1qY041UEtwcGZCU0ZGQUFtNjJuOW5HeTZpck81Z1FZQVZHOUhlQkVONFhQSXU5N2RlanFxSTV2S29wN0RuQmtRdWhyaWhWX0VSY2JGam1sZ0o0Vms3Q20yZnlWNlpnVmlmOUFPUE5YbFoxOGpmV19VUGxXN2RB0gG3AUFVX3lxTFBfTW5PbGhJcDg0NUJTMkdXYTV1ZTBORkhPYTNSaTNfc080ek5xcloySXdzdlVSaW0xbEpPWGs0bHc3Vk13QVRCNm1LUHFhbk9zRFptTGJtZDctMEdZWFNWRkRBRzB5SGZ0X0FQMmo0cTNqcGlSYW8zcVBLTVljUFZZdU5HT2pNekE4SzVUQktQbWtoejRPOXM1TTNyNlM2VEI5eFVMNl9oMmZrX0RrY2I5TXRTOTZnVQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T14:31:31.279738+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>A 50 basis points rate hike? Warsh’s Fed has a communication problem</b>\n📰 The Globe and Mail · Mer 11/11 15:25\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmdEdU04T1p2Yk5rZXNYbktTZTBjSzdUbFhlZElnRm1ET0RvVkM1SHJ1OFdBOEZlWW5lZDBhSmpMeVZZVDY5ekpwcjdqOEZyY3UxcnBpQ25qV3pOejQ3aHFBajdNUkxDNy1iRGU4aEw1cTZBWE9MWG5MZDVyQ3c3U3hwMS16N2FjYjRCNVBUa3Q2Nkx1SWU1UnZWUWl3UGlqWEJJLTJZYUVKZmpDVUpOc0ppWXZXYmdU?oc=5"
   }
  ],
  "daily_forecast": {
