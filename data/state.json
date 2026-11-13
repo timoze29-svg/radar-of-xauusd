@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794602760.4505723,
+   "ts": 1794606808.844379,
    "data": [
     {
      "title": "CPI y/y",
@@ -883,6 +883,17 @@
      "country": "USD",
      "impact": "Low",
      "date": "2026-11-13T12:00:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Financial Stability Report",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-13T16:00:00-05:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -8211,7 +8222,8 @@
   "news|743121948b3c": 1794602778.2937186,
   "rep|recap|2026-11-13": 1794603743.3521008,
   "brk|SILVER|pwh|dn|2026-11-09/2026-11-15": 1794606553.2806113,
-  "brk|SILVER|h20|dn|2026-11-09/2026-11-15": 1794606555.8302276
+  "brk|SILVER|h20|dn|2026-11-09/2026-11-15": 1794606555.8302276,
+  "post|2026-11-13T16:00:00-05:00": 1794606824.083012
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8635,6 +8647,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T21:53:44.083727+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 53 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Financial Stability Report</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.0 pb\nOr -4.4$ (extrême -8.6$, range 9.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-13T21:49:15.830322+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 48.550 → prix : <b>48.420</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.89 | 60j 0.85"
@@ -8928,11 +8945,6 @@
    "ts": "2026-11-13T06:01:47.619377+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-9/10)\n\n<b>Dollar Rises and Gold Sinks as T-note Yields Climb</b>\n📰 TradingView · Jeu 12/11 16:40\n🧠 baissier or (dollar, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2x6VDlJU2p3bWVxcjZJSUhBaWtpZG9PNFp5eHFOb0pKODg2QUwzLVRrOFJVYXEwTXRLQy1MdXBzVG9UUGRpcWhLSFNmNjgwb19sS2RBVkczczVLWEd6VEp6X3BwSUJSMW9rcjdPUDdiQVlPelo2MUJtOFFnRkdmbUNVOVc4YjhqTjgtYzcwTkdDMUtoT0Q2RWR5MGR2ZW1ucnNmLVVJMVFQbjg0U3c?oc=5"
-  },
-  {
-   "ts": "2026-11-13T05:46:13.382342+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Rallies and Gold Slumps on the Prospects of Tighter Fed Policy</b>\n📰 TradingView · Ven 13/11 05:45\n🧠 baissier or (dollar, or) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkM5SjJVX2tIc00tdEYxQm1vbDFpc0Z2NGdYUlBaLVZXOG9wM191MDI4NDZZTzBmT0dISW9GbF9qZ1VyemVsNWFlNGhaeVZndXZzdUJnTFBOTmhUbk84OVVKXy1mOU04aGRQMGxqZXlFNXUxUXNWelZkQnJKSnBPUG9QNzZPdzByaVVvWnBvZEhHNmtJTGc3Y2EwSlVON0xWRUlMb2FaNDRVdkM5d1NiOWNScXVhN2RLcWs5MHRNXzZ3R0ZMNE5n?oc=5"
   }
  ],
  "daily_forecast": {
