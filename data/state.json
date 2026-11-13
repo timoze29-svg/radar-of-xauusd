@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794554151.141412,
+   "ts": 1794557759.6805232,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,10 +1100,6 @@
   }
  },
  "seen_news": [
-  "ba048ce1a09d",
-  "713493a22402",
-  "16afdabc6215",
-  "4241be404039",
   "cd23488991da",
   "113fe156ac2e",
   "07fffb888104",
@@ -4099,9 +4095,25 @@
   "9ae1854b18be",
   "58b8df410ff6",
   "eeb2409921ea",
-  "3e9d6f2eee22"
+  "3e9d6f2eee22",
+  "aa019873714e",
+  "ab8ab56ba569",
+  "b5ba8f8ecc2c",
+  "3952b8d31fa5"
  ],
  "news": [
+  {
+   "title": "Europe May Get Seat At Ukraine Peace Talks, But Putin Shows Little Sign Of Compromise",
+   "source": "Radio Free Europe/Radio Liberty",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5raDQxTndfMDMwaTdqSUdxb19DYXd0Q3RhM0dubUFFVUJUdDlGUENUU21qeUV2cUVaSnRNNlhCbENZN1BEUjlCWWtZbTg1S0ROUWZlSmpDUDZwdmxtYnR1WTNkUjNrNzZ6YUItYTVhOXp4U2MtTVHSAXhBVV95cUxQOWVLMHhEX3d6RTAwUjlIbVhwNGktOGlRYlh6R2QwUDJkUW9JQmtVUXB2QzB0MGpTX0txa29SX213dzBBYVVaV2M5enNUam9HT1VzREluZVJmT3NvckVpTFhFd3QtTzhEX0o1X0hZUE9yYUtkdHBUMkY?oc=5",
+   "published": "2026-11-13T07:43:38+00:00",
+   "id": "3952b8d31fa5",
+   "impact": -6,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Middle East tensions escalate as Iran targets U.S. base in Bahrain",
    "source": "Traders Union",
@@ -4760,6 +4772,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold Prices Plunge as Fed Rate Hike Fears Intensify",
+   "source": "Yahoo Finance",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTRENmZzY2lCOFZlaTdSWjItU3VUQXFTMTBlZk1vRUJlcGFNLTQxb0lwM1dkYlMzd2lqSUluYkFVU3FZWVltWFBMZnl3c3BZdmcxSndPZm1KU0s1ZlBqaDYyQmwwcGZSaTNOX0U1YUJ4WUJOTzhUb2FhT2h6NWpqSE1tdTVYckNrR2tsN3diakU1emxRZ3FZUEtKSHNXUQ?oc=5",
+   "published": "2026-11-12T19:44:27+00:00",
+   "id": "aa019873714e",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6477,30 +6501,6 @@
    "cat": "inflation",
    "raison": "baissier or (inflation)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Middle East expert to Arutz Sheva: If Trump won't strike, Israel must act alone",
-   "source": "Israel National News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92WnR0WTNaQmRCVmQ5dXJpd3hlUV9scFdoZUxMa1BWTWZYTHVsclk4YUVSVzA5OUNHTWVoODJmS3B1WHlVYXRaSnVTUXFad3pycUNEWV9Ea1BlQQ?oc=5",
-   "published": "2026-11-12T02:54:16+00:00",
-   "id": "b868abe80e8e",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXQzWEgtelNiMHRMRXFkQU15NEo2a3ZDRmdFRU5nWllrcV9mNm5BbVFkcjdEc19uVTlJYlpLTjg5UXFQUElJRXNwRmxhMTZUY2JvSGliRjExOUlZWm9iS2Q2QjRPZElPWGlpVmRsTGJPaXkxdDBmSDM1XzhHaVZwS2QxcElkaFl4aDRpUXRWY0JkUFduc3dTaGZuWm8wTDllQmhiZ3c4T19mOW9wcVU3Rw?oc=5",
-   "published": "2026-11-12T02:14:00+00:00",
-   "id": "c8b58e426a82",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8204,7 +8204,8 @@
   "news|baabc9ab715c": 1794550808.8961263,
   "news|b5a16c00940b": 1794554168.5363636,
   "news|f7f60e4faf3c": 1794555300.2081873,
-  "news|58b8df410ff6": 1794557011.4432864
+  "news|58b8df410ff6": 1794557011.4432864,
+  "news|aa019873714e": 1794557803.710458
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8628,6 +8629,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T08:16:43.710543+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Prices Plunge as Fed Rate Hike Fears Intensify</b>\n📰 Yahoo Finance · Jeu 12/11 20:44\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNNTRENmZzY2lCOFZlaTdSWjItU3VUQXFTMTBlZk1vRUJlcGFNLTQxb0lwM1dkYlMzd2lqSUluYkFVU3FZWVltWFBMZnl3c3BZdmcxSndPZm1KU0s1ZlBqaDYyQmwwcGZSaTNOX0U1YUJ4WUJOTzhUb2FhT2h6NWpqSE1tdTVYckNrR2tsN3diakU1emxRZ3FZUEtKSHNXUQ?oc=5"
+  },
+  {
    "ts": "2026-11-13T08:03:31.443389+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East tensions escalate as Iran targets U.S. base in Bahrain</b>\n📰 Traders Union · Ven 13/11 08:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1lodHNkb2NhaUlEcmRwQ3NRN1g2SnBoMXp4TFpvWkF6cU1SMHZIYm84cUJkWldWeGR0YzVTdGV5YmRGTVlCNEVlWFBYampFcl81RmhnLTlGRTVjYTVWN0d1MmlFU3U4R2J6RkRkYzB5cGVzTWV6cmRFdncxMkxCYWhjV3NGdGg5WFVDTkJmOVlhZ2ppX0E?oc=5"
@@ -8921,11 +8927,6 @@
    "ts": "2026-11-12T16:46:18.496993+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war</b>\n📰 CBC · Jeu 12/11 15:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJDa1RPY3dDVXliaUtZbUZWYnQ1ZjBFd0h1bVRMTk0zeHZHVGlkb2otaWVoU0Z3T0tYLXZFN2RGRUxwNVFmODhjVTlTYlJPUTZXbVJJeXhzRkdnd0R0QUc1UFFldlhtNGw4cUxDT3UtcFZnWGRTVGRTY2pxMkZWSTBpZVZiU1U?oc=5"
-  },
-  {
-   "ts": "2026-11-12T16:01:30.666805+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
