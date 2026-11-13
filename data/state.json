@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "1f540a50f154",
-  "50efacebe430",
-  "8c9fbd27be03",
   "4e8d71bbe399",
   "553539f8e247",
   "8148a7d53e6c",
@@ -4099,7 +4096,10 @@
   "0805466a5846",
   "0b4b40a774ad",
   "98830a01cfdf",
-  "ac3d543185f3"
+  "ac3d543185f3",
+  "f9c01e478645",
+  "dacae1f1d292",
+  "ac88dbce1864"
  ],
  "news": [
   {
@@ -6504,7 +6504,6 @@
   }
  ],
  "fired": {
-  "news|d91268e02c56": 1792790172.0525982,
   "news|adf21f0ec458": 1792797365.522113,
   "news|65013c4bc4c3": 1792803691.6008866,
   "news|11ea6af7e533": 1792805484.2529156,
@@ -8210,7 +8209,9 @@
   "news|14719666a6d8": 1794600977.5149872,
   "news|4dd0ef000e23": 1794600978.3313034,
   "news|743121948b3c": 1794602778.2937186,
-  "rep|recap|2026-11-13": 1794603743.3521008
+  "rep|recap|2026-11-13": 1794603743.3521008,
+  "brk|SILVER|pwh|dn|2026-11-09/2026-11-15": 1794606553.2806113,
+  "brk|SILVER|h20|dn|2026-11-09/2026-11-15": 1794606555.8302276
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8634,6 +8635,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T21:49:15.830322+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 48.550 → prix : <b>48.420</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.89 | 60j 0.85"
+  },
+  {
+   "ts": "2026-11-13T21:49:13.280675+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 48.550 → prix : <b>48.420</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.89 | 60j 0.85"
+  },
+  {
    "ts": "2026-11-13T21:02:22.430126+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — VENDREDI 13/11</b>\nOr : <b>-4.3$</b> depuis minuit · plus haut 3927.2 (04h35) / plus bas 3871.1 (17h00) · range 56$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-31) à 3898.9 → maintenant 3879.0 (-19.9$)\nRange : 56$ réalisé vs ~97$ attendu (58%)\nNiveaux touchés : P\n\n📈 <b>Fiabilité des prévisions</b> : 62% de bonnes directions (15 ✅ / 9 ❌ / 1 ➖ sur 25 jours)\n20 derniers jours : 58%  ·  ❌➖✅❌✅✅❌✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.25% · Taux 10 ans +5.1 pb · Pétrole +0.01% · EUR/USD -0.29% · S&P 500 -0.41% · Argent -2.44%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran\n🟢 (+10) Southern Iran’s Sirik County near Strait of Hormuz hit by ‘enemy’ strike: state media\n🟢 (+10) US-Israel strikes could push Iran towards nuclear weapons: Ex-diplomat | Tap to know more | Inshorts\n🔴 (-10) Treasury yields rise as traders strengthen Fed rate hike bets\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
@@ -8922,16 +8933,6 @@
    "ts": "2026-11-13T05:46:13.382342+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Rallies and Gold Slumps on the Prospects of Tighter Fed Policy</b>\n📰 TradingView · Ven 13/11 05:45\n🧠 baissier or (dollar, or) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkM5SjJVX2tIc00tdEYxQm1vbDFpc0Z2NGdYUlBaLVZXOG9wM191MDI4NDZZTzBmT0dISW9GbF9qZ1VyemVsNWFlNGhaeVZndXZzdUJnTFBOTmhUbk84OVVKXy1mOU04aGRQMGxqZXlFNXUxUXNWelZkQnJKSnBPUG9QNzZPdzByaVVvWnBvZEhHNmtJTGc3Y2EwSlVON0xWRUlMb2FaNDRVdkM5d1NiOWNScXVhN2RLcWs5MHRNXzZ3R0ZMNE5n?oc=5"
-  },
-  {
-   "ts": "2026-11-13T04:31:22.726570+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war briefing: Europe to join negotiations, says Kushner, as Putin warns against peace keepers</b>\n📰 The Guardian · Ven 13/11 04:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ2J6akdFMTJ6WTVyVlJyZ3ZlUkp3VzE3QTBHVVJpc2ZEcTdJWFB6R29tbGN3VmFMODVSMzhkUHZsNzVzZDlXaHE4WnFkcUllalBzT0xQbzVlTUVvTExReHVKQmZtMElZaG1kS3dMN0RvU0s3N2VRTUg0c3FNbi1KZ1lrd1UxNFh2OEpzb3JFWjVsek5BcE9zcTlOR1dySzYwdkN1V3IxOVdDZFdhaXpRcEJDMzNNc3RqaHBtWThEUVkzQjFHZGN4RVJ5NENfVVVYdy1rcXJ6QzJVMEtk?oc=5"
-  },
-  {
-   "ts": "2026-11-13T04:16:20.386936+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Gulf allies urged restraint on Iran, admits war hurt Republicans in midterms</b>\n📰 The Jerusalem Post · Ven 13/11 01:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HNUpqRmNuWTR6SmdGRFBKVkowc1hQZlhrdVJVZ0NzejQwTW5yZWhTZlV4Qy1KVksxSUFaRFd2dXlvUFJWS1U5T3V3UjF6bnFnYlBwQ3c3N3FsUEI2bU5n?oc=5"
   }
  ],
  "daily_forecast": {
