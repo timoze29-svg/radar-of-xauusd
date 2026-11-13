@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794557759.6805232,
+   "ts": 1794562259.6658494,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,8 +1100,6 @@
   }
  },
  "seen_news": [
-  "ef130dc1a099",
-  "b898b06f7d35",
   "5fefa065f3fc",
   "e91d134b2083",
   "71c1abeb1948",
@@ -4099,7 +4097,9 @@
   "14d49422c221",
   "92cfdb77de01",
   "615e3a84c219",
-  "cf11c328e6f7"
+  "cf11c328e6f7",
+  "2b725e4c2e31",
+  "787fe0482b07"
  ],
  "news": [
   {
@@ -4124,6 +4124,18 @@
    "impact": -10,
    "cat": "taux",
    "raison": "baissier or (fed, taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Second car bomb to hit Russia in two days targets exiled Ukrainian political aide, media report",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5",
+   "published": "2026-11-13T08:41:05+00:00",
+   "id": "787fe0482b07",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6488,18 +6500,6 @@
    "impact": 6,
    "cat": "fed",
    "raison": "haussier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Whitmer wants end to food tariffs",
-   "source": "wmuk.org",
-   "theme": "Géopolitique",
-   "link": "https://www.wmuk.org/2026-11-11/whitmer-wants-end-to-food-tariffs",
-   "published": "2026-11-12T03:30:00+00:00",
-   "id": "4f9f5af8ee78",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   }
  ],
