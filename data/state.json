@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794587465.4822812,
+   "ts": 1794591068.3783355,
    "data": [
     {
      "title": "CPI y/y",
@@ -1100,14 +1100,6 @@
   }
  },
  "seen_news": [
-  "d6f9d48dd416",
-  "8ae2f275878e",
-  "69414db91ab3",
-  "30437b5f417d",
-  "273c75296543",
-  "aafd61414aa6",
-  "7b8e65db092d",
-  "e62ea2a7b48a",
   "7da2f78ee829",
   "b5fa4dfe1ebc",
   "6846032c7284",
@@ -4099,9 +4091,29 @@
   "50ca8b023549",
   "70f7cfdc6b28",
   "a978098b68b7",
-  "e92977bba3d5"
+  "e92977bba3d5",
+  "d5ed2b735a8a",
+  "fe2b7f284d23",
+  "e99dd230cb45",
+  "f29a142b48a1",
+  "b4524609a447",
+  "0d584add808b",
+  "4f8cbbdb2bf0",
+  "3ad224b44724"
  ],
  "news": [
+  {
+   "title": "Australian Dollar weakens as rising US yields, Fed tightening outlook weigh",
+   "source": "www.tmgm.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWQzX2ZSZERkT3pZQXpvRnZMa2s1V01vc1hlaVBlTW5MdGNISDZfYnMzRVJEbnJSeVBYZGp0SGZpMmJWSHpEM2hiajgxREFieU5ka2dRbWhrZGF0VlEyeVVmbkZpaF9xdDRWU1lXV1VLSjRiSGVQRHRNWG5zcVFNRXR3MmZJbnVBUWxaN0xCMDhaSkpqUC0ydXhHWjEyNGRBUnVUQ3I1WkRNd3hnT1QtOTRJNjcyLXBmWGEwdEw4NGY4V3hxajZPMHBzYWotUm5MWWo4NE1sQQ?oc=5",
+   "published": "2026-11-13T17:29:50+00:00",
+   "id": "f29a142b48a1",
+   "impact": -1,
+   "cat": "fed",
+   "raison": "baissier or (dollar, fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Slotkin, Warren Push FTC to Rein in Companies Withholding Tariff Refunds from Consumers",
    "source": "U.S. Senate (.gov)",
@@ -6489,23 +6501,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "War in Ukraine: MEPs demand Russia returns deported Ukrainian children | Aktualności | Parlament Europejski",
-   "source": "European Parliament",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzZxamhUdHE2V3VzX05URmM1LUsyUWU2bkhvRS1NbGt3MVI3OXFqZEVJZUxiNTJkQ1d5bTlONnlqcGZfNnl0cW0tY3lHQk1VNmlmX3FleHUzUDNwSEliNmd6cGRiWkdCRWZUNmRySFBnRVliMHVOZDlKd3k5MXVFSjllY2N4RFoxX0dab3pSZkpqMklDY0dFUVYtWlVBZklHYTluajZiOS10MVFnOWhGVGpRUlBkZjZWY2RaRFFUaUZCUmhPTUFXR214ZFNKTXpiSUE?oc=5",
-   "published": "2026-11-12T11:07:19+00:00",
-   "id": "c8e196d58400",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|ca70441678d7": 1792774900.2343128,
-  "news|ddc6e919d5c6": 1792775764.5158472,
   "news|7ca14d1e1a0b": 1792777595.1397343,
   "news|fb7237d085d5": 1792778497.3388839,
   "news|caa294c038cd": 1792778498.2766576,
@@ -8219,7 +8217,8 @@
   "pre1h|2026-11-13T12:00:00-05:00": 1794584800.6901417,
   "news|a0892e4d0577": 1794586574.553992,
   "post|2026-11-13T10:50:00-05:00": 1794586575.7174656,
-  "pre15m|2026-11-13T12:00:00-05:00": 1794588396.5933154
+  "pre15m|2026-11-13T12:00:00-05:00": 1794588396.5933154,
+  "post|2026-11-13T12:00:00-05:00": 1794591097.1344295
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8643,6 +8642,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T17:31:37.135526+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans +0.0 pb\nOr +1.2$ (extrême +6.3$, range 9.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-13T16:46:36.593376+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -8936,11 +8940,6 @@
    "ts": "2026-11-13T02:16:51.747609+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Beginning Of The End : Israel At The Heart Of America Political Civil War</b>\n📰 scoop.co.nz · Ven 13/11 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.scoop.co.nz/stories/HL2611/S00032/the-beginning-of-the-end-israel-at-the-heart-of-americas-political-civil-war.htm"
-  },
-  {
-   "ts": "2026-11-13T02:16:50.778684+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>🇮🇱🇮🇷🇺🇸 Would Israel strike Iran alone? Netanyahu and Eisenkot just held a 2-hour security meeting as the army is reportedly told to speed up attack plans Larry Johnson, a former CIA analyst, says a solo Israeli strike would bring an answer from far more tha</b>\n📰 X · Ven 13/11 03:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVktDd1JDbFdFSUVRc3hrSlROVHRDb0JCbW1lOEhBamtzbFFKbVRTWTZMeUJpS3BwMWNBUzBDQzRTRnJKOWlpQ3VWWWFXUTNWX2g5cVM4THJ1dGxMSk96R3JKN1dvejcyc3FPSg?oc=5"
   }
  ],
  "daily_forecast": {
