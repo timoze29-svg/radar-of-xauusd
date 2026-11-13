@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "a93cdaab9112",
-  "6f29fb77bb17",
-  "0d3ab8e96547",
   "feb5752df35f",
   "834f04fd5acf",
   "d39c787137ca",
@@ -4099,7 +4096,10 @@
   "ef345c4609dd",
   "b94cc8ecc00a",
   "a950f0b6c621",
-  "bc87d66727bb"
+  "bc87d66727bb",
+  "f0a2411c4570",
+  "8d4daa46456b",
+  "39091d89229a"
  ],
  "news": [
   {
@@ -5363,6 +5363,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Benjamin Netanyahu can still take Israel to war, but his caretaker gov't has limits",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbXc3Tmt2dC1ZMzZvQ3RuSnJZVEFRemhFbVJhYUE3cVN0OVJSZ3BxTDF0UVdGSkVKeFRiY090eXVOb1ZhODkteTJpVENXNy1oOXhBbU1ZRV9RUG5BLUJHNFBPVjFsZkNC?oc=5",
+   "published": "2026-11-12T10:24:32+00:00",
+   "id": "f0a2411c4570",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Senior Iranian Military Commander Threatens to Assassinate Trump and Netanyahu",
    "source": "IranWire",
    "theme": "Trump / Iran",
@@ -5900,6 +5912,18 @@
    "impact": -6,
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil prices fall more than $1 on easing geopolitical tensions",
+   "source": "سانا",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OTVI2VHI1RkY2RkZJRUYySjl6WE9jaUZ5ZzdNNHJGUHpfdlB6ZmtxTkJNYnBLN2NDbTMwTnNsYnlWdHhab3ZqX09NYWs?oc=5",
+   "published": "2026-11-12T06:34:59+00:00",
+   "id": "8d4daa46456b",
+   "impact": 6,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6477,30 +6501,6 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "U.S., Israel Launch Attacks on Iran – Israel Shuts Down Gas Fields",
-   "source": "EnergyNow.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFBOVUNWU1RUSmlEMVZZempwdHMzOGt5dlJpUjJXOC12azJ4T0c3Yl9jZlJ0ZXdQUnFaQy1nSlNZNG02WEpNYnV5bEo3TndDR01HVVFCcjNVMk5xbjNHUVJrcE05cy1qblJQUERXTV8zemxlY182MnVwU1k5WDV6WEhWblFxc1BKa01YN0piUGVrVVNxMFUwVQ?oc=5",
-   "published": "2026-11-11T20:34:15+00:00",
-   "id": "2bb2a8a99982",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump defends Iran war in Veterans Day speech",
-   "source": "South China Morning Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQllYbjAzc051eW9pTzQtM3F1NzRMeDFBTDhIRXJFNDF2dGhZYkxmbHpoT3VKS1daWVdtYUdhVFBOTlV5Z0I1eHZqSlgyMmRGb2FDRmwtWmFsZWxtb0l0cFU4eUxoSmFtYVBPSlVzZnJGZmNPSjNvNm9JOU9FRHBsYXlySXBlYzh2V2xSa0QwdFlQNkVXT3FFS1NFZlQ4WGdrSUdEZjgtN18tU3J5SENhUdIBsAFBVV95cUxNY0lrazh5QTNmcmtKWC1EbnhWU2hSNWoxTXgwZUlLRXNjbmctcDY4YXhXeTFoTU9ZYkQzWTRqd0piSUhleDNhY3dsNlZjNmptMWFUcktjcVBYT3hDS3VxNUQwamFxc1JFempMc2MyYno5NGsyZFJnVmtFdFRMdm03bWFGZDV5Q0hxR2JBZ0FGNl9xRHJlT3NRZ0JKOWFFVl9GVG9UbHBCd3cwTzB0WDVjRA?oc=5",
-   "published": "2026-11-11T20:30:57+00:00",
-   "id": "4b95193ef1d5",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Rhétorique belliqueuse maintenant une prime de risque militaire au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8208,7 +8208,8 @@
   "news|d8b40b833e51": 1794536211.7474363,
   "news|c3c8937d4aff": 1794536212.7919235,
   "news|3ac7db6dc981": 1794536213.7636335,
-  "news|b94cc8ecc00a": 1794536214.7714849
+  "news|b94cc8ecc00a": 1794536214.7714849,
+  "news|f0a2411c4570": 1794537101.0857284
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8616,6 +8617,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T02:31:41.085827+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Benjamin Netanyahu can still take Israel to war, but his caretaker gov't has limits</b>\n📰 The Jerusalem Post · Jeu 12/11 11:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbXc3Tmt2dC1ZMzZvQ3RuSnJZVEFRemhFbVJhYUE3cVN0OVJSZ3BxTDF0UVdGSkVKeFRiY090eXVOb1ZhODkteTJpVENXNy1oOXhBbU1ZRV9RUG5BLUJHNFBPVjFsZkNC?oc=5"
+  },
+  {
    "ts": "2026-11-13T02:16:54.771772+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Canada threatens to sue Stellantis over auto plant sale as Trump trade war shifts production south</b>\n📰 sitkasentinel.com · Ven 13/11 01:45\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 http://www.sitkasentinel.com/stories/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trumps-trade-war-shifts-production,185849"
@@ -8909,11 +8915,6 @@
    "ts": "2026-11-12T14:46:12.298142+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas sur 20 JOURS\nNiveau : 6.1810 → prix : <b>6.1760</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.51 | 60j 0.45"
-  },
-  {
-   "ts": "2026-11-12T14:46:11.403811+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 6.1810 → prix : <b>6.1760</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.51 | 60j 0.45"
   }
  ],
  "daily_forecast": {
