@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794508264.1109717,
+   "ts": 1794530745.014557,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.66,
-     "date": "2026-11-09",
-     "chg5": 0.04,
-     "chg20": -0.25,
+     "last": 2.78,
+     "date": "2026-11-10",
+     "chg5": 0.13,
+     "chg20": -0.1,
      "hist": [
-      2.18,
       2.13,
       2.18,
       2.16,
@@ -129,18 +128,18 @@
       2.64,
       2.6,
       2.63,
-      2.66
+      2.66,
+      2.78
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.2,
-     "date": "2026-11-10",
-     "chg5": -0.1,
-     "chg20": -0.13,
+     "last": 2.24,
+     "date": "2026-11-12",
+     "chg5": -0.02,
+     "chg20": -0.11,
      "hist": [
-      2.44,
       2.39,
       2.4,
       2.4,
@@ -259,18 +258,18 @@
       2.24,
       2.23,
       2.22,
-      2.2
+      2.2,
+      2.24
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.56,
-     "date": "2026-11-09",
-     "chg5": -0.03,
-     "chg20": -0.24,
+     "last": 4.73,
+     "date": "2026-11-10",
+     "chg5": 0.12,
+     "chg20": -0.06,
      "hist": [
-      4.13,
       4.04,
       4.08,
       4.13,
@@ -389,18 +388,18 @@
       4.58,
       4.46,
       4.51,
-      4.56
+      4.56,
+      4.73
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-09",
+     "date": "2026-11-11",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
-      3.62,
       3.63,
       3.63,
       3.63,
@@ -465,7 +464,8 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "9a905f268697",
-  "f5da77834a0f",
-  "27b936260257",
   "c5192a34b66f",
   "9365ac5ece81",
   "f469005bbeae",
@@ -4099,7 +4096,10 @@
   "5561b74820ab",
   "59ad186bab24",
   "36031ce01603",
-  "4ac9ac45c5b8"
+  "4ac9ac45c5b8",
+  "b5443187b6a2",
+  "3c2f4c70d8ff",
+  "d95637d2a30f"
  ],
  "news": [
   {
@@ -4715,6 +4715,18 @@
    "method": "IA"
   },
   {
+   "title": "Bernstein cuts ConocoPhillips and Diamondback ratings as Iran de-escalation looms",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGdhby15VXpfRlpyWTlnSXpnTFotUVFjS3lGV0tWT1FxZFFnajJaVTNfYkRmVFFNaGRxcHR2Z1FyRl94MmtnMFRGNzlNXzRFcU5rRjRRbjFRcnRXZ0lXTjRtTzZGcXl5emNpYURhUzhrT2hHWWxLWDhVS3BNblVBUGFSYnZleVhvWjh4cGc0SWNNeEFFRjZ6Zlk0RWk0OTk5OEQwUzZHQzVRdw?oc=5",
+   "published": "2026-11-12T13:29:28+00:00",
+   "id": "d95637d2a30f",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Annunziata: the war, which seemed so distant, has come into our homes",
    "source": "Eunews",
    "theme": "Moyen-Orient",
@@ -5214,6 +5226,18 @@
    "published": "2026-11-12T09:30:31+00:00",
    "id": "6f545faaf57c",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil supply recovers, but 'no war, no peace' keeps escalation risks elevated",
+   "source": "Saxo",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM0hLVTlPUWZpSFNseXphaXE3eEREN3JZeVVKMU45TG5HMUI0cGZlUWtSdktXSkplUGNOSXl5ekVlVHlkTEdibWNCY19LaE5fcklteF9tTGNZRm1NcDBRcDlqQmZMT3RIR1NmSS1McWJsU01CWHg2VW5NXzk1dmF0R0tLbEdCeGY0TlNtWlM4Rnlnb05HM0JXUTBXcU9sUXpyYzBneFBJRXFjZjgwdXYxaE1UNHdaMVBKSHFzX2lFTDdUZjVCS1ZJSlAtSURzRi1fZ21R?oc=5",
+   "published": "2026-11-12T09:30:00+00:00",
+   "id": "3c2f4c70d8ff",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6477,30 +6501,6 @@
    "cat": "géopolitique",
    "raison": "Objectif de victoire totale éloignant la perspective d'un cessez-le-feu rapide.",
    "method": "IA"
-  },
-  {
-   "title": "Dollar awaits US October CPI as shutdown gap clouds annual inflation gauge and Fed rate outlook",
-   "source": "VT Markets",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYV9MaUI5bThjNmJHbXZaZGVOQkVmNGYtNmNQbWR6N1RXb19neUswNloxanJNRDFURFhubS1sYU80TE5EZXpzQkVvLVBWN1FvYk82ZlpxZ0xrRGpjQmxpaWtIZ0RQMm4yeGd6ZnRxR3pMbXBRaG9QYmc4UFhjUFlvbmtUTTZ3X2F0dXR4eWkwTXUtaEVYVHYxMDhxTTBMSGVxWkdZTlRhX3hkcTFkXzRRTUt6UFpiRGtxQi1RVjdzM3EtcDhidUdJQTktZ1Y3dkgydFRhYjE2cmo?oc=5",
-   "published": "2026-11-11T17:44:16+00:00",
-   "id": "8dad02cc7488",
-   "impact": 5,
-   "cat": "politique US",
-   "raison": "haussier or (politique US)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Pound Sterling Price News and Forecast: GBP/USD tumbles below 1.33 post hot US CPI, Fed hawkish rhetoric",
-   "source": "FXStreet",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZnJPZEtiS1M0Q085ODNGYjAxQ01VUk56aTdzV18xdW4xWEl0Y1RnOTQxMWJybFFRZWlOUU14TXQzUGZxRHhyTFFzVUdIVXhQbkhCakpNN0ZaU3BwRVRXZk9IVWJGeWtOekFLYVJxaE9SbXl4b2xvSEhZTDlSejVYU2dLakxGRUR3OHA3RjNxb01yZEN5cVgtV2hGRzhEYTRiNWNMSGVheGlCeTloZVcxekRmX0VjTWNMaEd4dlliRWFUdmN6OXRUb1k0VG94WjR2eFVWVDlFOU9KNGw0?oc=5",
-   "published": "2026-11-11T17:34:56+00:00",
-   "id": "94e68e63a4ee",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8204,7 +8204,8 @@
   "news|c4830b1d1fab": 1794528100.1602583,
   "post|2026-11-12T18:30:00-05:00": 1794528101.3454964,
   "news|ac3bf9282111": 1794528984.5181136,
-  "news|59ad186bab24": 1794529883.0890498
+  "news|59ad186bab24": 1794529883.0890498,
+  "news|3c2f4c70d8ff": 1794530764.9419017
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8612,6 +8613,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T00:46:04.941980+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil supply recovers, but 'no war, no peace' keeps escalation risks elevated</b>\n📰 Saxo · Jeu 12/11 10:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM0hLVTlPUWZpSFNseXphaXE3eEREN3JZeVVKMU45TG5HMUI0cGZlUWtSdktXSkplUGNOSXl5ekVlVHlkTEdibWNCY19LaE5fcklteF9tTGNZRm1NcDBRcDlqQmZMT3RIR1NmSS1McWJsU01CWHg2VW5NXzk1dmF0R0tLbEdCeGY0TlNtWlM4Rnlnb05HM0JXUTBXcU9sUXpyYzBneFBJRXFjZjgwdXYxaE1UNHdaMVBKSHFzX2lFTDdUZjVCS1ZJSlAtSURzRi1fZ21R?oc=5"
+  },
+  {
    "ts": "2026-11-13T00:31:23.089131+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk</b>\n📰 Crude Oil Prices Today | OilPrice.com · Ven 13/11 01:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0RqMFB6MmQ4MFljd1BtenFxS0dPUjN4RnhCWmVTTExzdnU3OVF3a0lZMWVXelZIaGFDcHpoalhJUlRzb2pRanNOUEo0N1FpUWs3bmVlRXZmRTBnelBnaXR3RU5fQkgyX0lHR1gzOFdJTjdiX0xOaEJnWUloaUtrNEZqTW9TRXBwaElncDdoMFg2OXpWMVA0cXM0UUNlOEZBa3Z6M1YtUlBEWTTSAbABQVVfeXFMTS15d096QzhvbGtwLUUwQjVsLWNTbTdSak5nMVVtdl9waGhSUHRWQUtJU0hrQW15cEU3VWY5Y3RPS2RDN3o2OEVkS0VuVW1wekx6d19FcVROQVVRQlRjRXpEa0ZNVkhJeDQ5UTRRX2NvbjhZNUEzenlGUmpJXzdMTVQtMzNJdFdGaEJnVExabHIzVGVvN1hHRGZiX3BiZ1NMaC1UbzdUNDhYa3pSc0xNZUQ?oc=5"
@@ -8905,11 +8911,6 @@
    "ts": "2026-11-12T13:16:15.429266+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-12T13:16:14.194390+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gulf countries bore the brunt of Tehran's wrath after the United States and Israel launched attacks on Iran on February 28, triggering the war. Link to the full story in the comments section.</b>\n📰 Facebook · Jeu 12/11 14:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYTBGcVVZcTNOME5rOVhXZlZ1V2l4TnBCd28yLWhCYWc5ZDFEU2RqYW5uRThuN3hTVllfbVBKbU03ZnZKYlQweWVxVnk4dXc1Z2ZPbWVwcVNYZmhRX0cyQ2lhUmQzWHVEYnBwMm1wYnYyQTRTMGdtQzQxXzFsdk1HTDE1NEVuVjV0VWdoNkswdzg4Z1JTblBST3NTYVd6aTdmc1M4S3JhRlFkUnJ2MmxUbUF3X0FncXJIQTRnRl9XMXBFNElwbHg5SndkdnM5ZkppSUVLUXBPdw?oc=5"
   }
  ],
  "daily_forecast": {
