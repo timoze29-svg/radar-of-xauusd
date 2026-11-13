@@ -1100,8 +1100,6 @@
   }
  },
  "seen_news": [
-  "b33889ad1498",
-  "20d6f1dafa16",
   "2a928bf5502a",
   "4f5a5244371a",
   "9276f63eff36",
@@ -4099,9 +4097,23 @@
   "584d89f125f5",
   "c4b11bf4593d",
   "934e72d381cb",
-  "1c8f681d171e"
+  "1c8f681d171e",
+  "280310adfb6d",
+  "bcb018bbfcd6"
  ],
  "news": [
+  {
+   "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
+   "source": "CNBC",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iVEhaNGZvZDlvWlBGMldrUE5jUlVpUXp2d0YwdEFzZU5ScmVUOTk0ZDdORVhuMjhvRWZTWVQtR0JXWUlWVWVGVHlfOG4wdWZiZVVQNGZXTzByQ2tCRU5LQmFGajY3VDdtVnZIam9MSdIBdEFVX3lxTE1HYkdxR2dlMXVleXNjckE4Nm4xS1JNU1lQMC1JMGtkQ1FwRU0zWXNsSU45UnpYRjNqeVZkZEVwbmxZYmdnLTlfQkVNRW9iV210ZWtPYjdvRGVUc0ZDSDFMNy1FY2JiLTVjTlJ2eEc1VUxpbGZu?oc=5",
+   "published": "2026-11-13T08:43:24+00:00",
+   "id": "bcb018bbfcd6",
+   "impact": -10,
+   "cat": "taux",
+   "raison": "baissier or (fed, taux)",
+   "method": "mots-clés"
+  },
   {
    "title": "Chinese envoy to UN calls for de-escalation in Yemen",
    "source": "巴士的報",
@@ -6489,18 +6501,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Taiwan Affairs Office responds to cross-Strait buzz over China Daily video series",
-   "source": "China Daily",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84QW5KMVlVS3hCeXRqLXdMb1c3Wk9IZ1cxQjlYd3FQd0JzVDdvbXh6cjdEeFI0TTVZTld6U19ycE94YzJaNWtRbEpGVm1wcWlCVHJmcWJKZGE2UDgxSm1MQjNZQk5Nd1JTd09kVHVDUDdzaFV2RkNRMFNHUmJVQQ?oc=5",
-   "published": "2026-11-12T03:12:40+00:00",
-   "id": "be8425fe9634",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8205,7 +8205,8 @@
   "news|b5a16c00940b": 1794554168.5363636,
   "news|f7f60e4faf3c": 1794555300.2081873,
   "news|58b8df410ff6": 1794557011.4432864,
-  "news|aa019873714e": 1794557803.710458
+  "news|aa019873714e": 1794557803.710458,
+  "news|bcb018bbfcd6": 1794560539.5407631
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8629,6 +8630,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T09:02:19.540848+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Treasury yields rise as traders strengthen Fed rate hike bets</b>\n📰 CNBC · Ven 13/11 09:43\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1iVEhaNGZvZDlvWlBGMldrUE5jUlVpUXp2d0YwdEFzZU5ScmVUOTk0ZDdORVhuMjhvRWZTWVQtR0JXWUlWVWVGVHlfOG4wdWZiZVVQNGZXTzByQ2tCRU5LQmFGajY3VDdtVnZIam9MSdIBdEFVX3lxTE1HYkdxR2dlMXVleXNjckE4Nm4xS1JNU1lQMC1JMGtkQ1FwRU0zWXNsSU45UnpYRjNqeVZkZEVwbmxZYmdnLTlfQkVNRW9iV210ZWtPYjdvRGVUc0ZDSDFMNy1FY2JiLTVjTlJ2eEc1VUxpbGZu?oc=5"
+  },
+  {
    "ts": "2026-11-13T08:16:43.710543+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Prices Plunge as Fed Rate Hike Fears Intensify</b>\n📰 Yahoo Finance · Jeu 12/11 20:44\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNNTRENmZzY2lCOFZlaTdSWjItU3VUQXFTMTBlZk1vRUJlcGFNLTQxb0lwM1dkYlMzd2lqSUluYkFVU3FZWVltWFBMZnl3c3BZdmcxSndPZm1KU0s1ZlBqaDYyQmwwcGZSaTNOX0U1YUJ4WUJOTzhUb2FhT2h6NWpqSE1tdTVYckNrR2tsN3diakU1emxRZ3FZUEtKSHNXUQ?oc=5"
@@ -8922,11 +8928,6 @@
    "ts": "2026-11-12T16:46:19.422198+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>HOT CPI SHOCK: DECEMBER FED RATE HIKE NOW 88.8% PRICED IN!</b>\n📰 Binance · Mer 11/11 20:01\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rYkhFdDQxVmxTUlZUOXRyNGR3N2RwcmNRcUpBTlRjbHZuWTRxMV9PZHQyOFdRTjVVbjRmRzhJV2otblE1NE4tWV9KSDA0U1hHQ0tPYU5XMGw4WVZETFZjSm9Mck8?oc=5"
-  },
-  {
-   "ts": "2026-11-12T16:46:18.496993+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war</b>\n📰 CBC · Jeu 12/11 15:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzJDa1RPY3dDVXliaUtZbUZWYnQ1ZjBFd0h1bVRMTk0zeHZHVGlkb2otaWVoU0Z3T0tYLXZFN2RGRUxwNVFmODhjVTlTYlJPUTZXbVJJeXhzRkdnd0R0QUc1UFFldlhtNGw4cUxDT3UtcFZnWGRTVGRTY2pxMkZWSTBpZVZiU1U?oc=5"
   }
  ],
  "daily_forecast": {
