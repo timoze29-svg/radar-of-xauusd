@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794574036.0697708,
+   "ts": 1794596499.0556896,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1794552355.4303775,
+   "ts": 1794596499.7860425,
    "data": {
     "date": "2026-11-03",
     "net": 179548,
@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "83dc3e4f1da3",
-  "dddfabe8458c",
-  "54848bae6e65",
   "e558000d752f",
   "a066cc89872a",
   "5b968d7fd3b7",
@@ -4099,7 +4096,10 @@
   "71164da1e39d",
   "24b02acb3663",
   "079cc68511ba",
-  "4191897ff4ec"
+  "4191897ff4ec",
+  "b5cda78172ef",
+  "868fee28589b",
+  "054b36975116"
  ],
  "news": [
   {
@@ -4220,6 +4220,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0JYWDY2cjViMW9ZU2dfUHJ5bDRNNzJhWWQ1d0dYVF9LWm9FRG5Jb0g5Q21ybFR0LVoyYlJhdENtT3pSS3BMcWhSZmo0U3FQVnNBbUxQN0xRR0staXFGcDUxaEVULVI1SlB5YXV5SFBMUjBrSHJwNmRzczg0YTBrLWJDbzhFeWM2UXQ5ckliZFVNbURwZ3NLX3IwSk1aTHNSUjRTN2I0bG9oZDhMYWFDZWtiUUh5YlRGU2hn0gG7AUFVX3lxTE1rQlhYNjZyNWIxb1lTZ19QcnlsNE03MmFZZDV3R1hUX0tab0VEbklvSDlDbXJsVHQtWjJiUmF0Q21PelJLcExxaFJmajRTcVBWc0FtTFA3TFFHSy1pcUZwNTFoRVQtUjVKUHlhdXlIUExSMGtIcnA2ZHNzODRhMGstYkNvOEV5YzZRdDlySWJkVU1tRHBnc0tfcjBKTVpMc1JSNFM3YjRsb2hkOExhYUNla2JRSHliVEZTaGc?oc=5",
+   "published": "2026-11-13T16:45:59+00:00",
+   "id": "868fee28589b",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6488,18 +6500,6 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
-   "source": "Reuters",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
-   "published": "2026-11-12T12:29:32+00:00",
-   "id": "df0e17401421",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   }
  ],
