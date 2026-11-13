@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "0fce8545b026",
-  "6a32f6fa9e8d",
-  "e7e28f3f7643",
   "ba048ce1a09d",
   "713493a22402",
   "16afdabc6215",
@@ -4099,9 +4096,24 @@
   "e94c82f5eb60",
   "d05b6b4b44aa",
   "13072a7681b7",
-  "9ae1854b18be"
+  "9ae1854b18be",
+  "58b8df410ff6",
+  "eeb2409921ea",
+  "3e9d6f2eee22"
  ],
  "news": [
+  {
+   "title": "Middle East tensions escalate as Iran targets U.S. base in Bahrain",
+   "source": "Traders Union",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1lodHNkb2NhaUlEcmRwQ3NRN1g2SnBoMXp4TFpvWkF6cU1SMHZIYm84cUJkWldWeGR0YzVTdGV5YmRGTVlCNEVlWFBYampFcl81RmhnLTlGRTVjYTVWN0d1MmlFU3U4R2J6RkRkYzB5cGVzTWV6cmRFdncxMkxCYWhjV3NGdGg5WFVDTkJmOVlhZ2ppX0E?oc=5",
+   "published": "2026-11-13T07:41:59+00:00",
+   "id": "58b8df410ff6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oil heads for second weekly loss as fears of Middle East escalation ease",
    "source": "سانا",
@@ -6489,22 +6501,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Sen. Coons on tariffs, Iran, why Trump should fire Hegseth",
-   "source": "PBS",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNUtldUhsTmppV21jQ2dUcm56RjdKd3FnX2hkVmhDMVhocF81MHhMb1BEODVIai03NTBKM1AwRDdGSERFZUxOSHpUR1JYbnR3bzNfYkFrUDhCaEF4YXc?oc=5",
-   "published": "2026-11-12T02:13:38+00:00",
-   "id": "e200c2229802",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|14fd50e97911": 1792741631.32075,
   "news|93c0e81e9583": 1792746240.9670117,
   "news|3813029c09b5": 1792750565.7433786,
   "news|883a60cbf665": 1792752360.6210287,
@@ -8204,7 +8203,8 @@
   "rep|daily|2026-11-13": 1794549710.2559326,
   "news|baabc9ab715c": 1794550808.8961263,
   "news|b5a16c00940b": 1794554168.5363636,
-  "news|f7f60e4faf3c": 1794555300.2081873
+  "news|f7f60e4faf3c": 1794555300.2081873,
+  "news|58b8df410ff6": 1794557011.4432864
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8628,6 +8628,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T08:03:31.443389+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East tensions escalate as Iran targets U.S. base in Bahrain</b>\n📰 Traders Union · Ven 13/11 08:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1lodHNkb2NhaUlEcmRwQ3NRN1g2SnBoMXp4TFpvWkF6cU1SMHZIYm84cUJkWldWeGR0YzVTdGV5YmRGTVlCNEVlWFBYampFcl81RmhnLTlGRTVjYTVWN0d1MmlFU3U4R2J6RkRkYzB5cGVzTWV6cmRFdncxMkxCYWhjV3NGdGg5WFVDTkJmOVlhZ2ppX0E?oc=5"
+  },
+  {
    "ts": "2026-11-13T07:35:00.208252+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Army Tells Netanyahu and Eisenkot It Sees No Urgent Need to Strike Iran: how 10 outlets framed it</b>\n📰 NewsCord · Ven 13/11 06:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVVRY0J3a3QzM1BKT3JyTDBvaGlEcEc3NWhMbGlYeWlNOHpZX3VjbU9nRFlTR2dtazB1bEs5S0h1c01TMUpPdFlOWDBHc2VlRWJjeUVrbHY5OHE0c1FYNTNpYUVPcG0teDJacm02Qk1FNHJadzI4MmI4VFRDcEdJTUhFTWtUUHFEYVZWZGdKa2xGbFJRYXlLVTRrNGtxeE9sckR6cEVpN1h4UHVoczYxRDQxa0lnenhPMEhRTTEtLWNEYTh0ZTBnVkFuWm16QQ?oc=5"
@@ -8921,11 +8926,6 @@
    "ts": "2026-11-12T16:01:30.666805+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-12T15:46:14.341288+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Pound Sterling Price News and Forecast: GBP/USD tumbles below 1.33 post hot US CPI, Fed hawkish rhetoric</b>\n📰 FXStreet · Mer 11/11 18:34\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZnJPZEtiS1M0Q085ODNGYjAxQ01VUk56aTdzV18xdW4xWEl0Y1RnOTQxMWJybFFRZWlOUU14TXQzUGZxRHhyTFFzVUdIVXhQbkhCakpNN0ZaU3BwRVRXZk9IVWJGeWtOekFLYVJxaE9SbXl4b2xvSEhZTDlSejVYU2dLakxGRUR3OHA3RjNxb01yZEN5cVgtV2hGRzhEYTRiNWNMSGVheGlCeTloZVcxekRmX0VjTWNMaEd4dlliRWFUdmN6OXRUb1k0VG94WjR2eFVWVDlFOU9KNGw0?oc=5"
   }
  ],
  "daily_forecast": {
