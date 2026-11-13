@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "6b2c3b436350",
-  "4d5b5df374e5",
-  "e32aa00d32dd",
   "873b401f9b3e",
   "56dedc73fd37",
   "e9ab24533823",
@@ -4099,7 +4096,10 @@
   "da7d92c38c87",
   "826bce3254bc",
   "edd43fc23d4a",
-  "c63fd98ae374"
+  "c63fd98ae374",
+  "28a09ef7c6e6",
+  "a126769bccb2",
+  "c0c6c70fd5a9"
  ],
  "news": [
   {
@@ -4161,6 +4161,18 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Taiwan launches joint probe with U.S. into suspected Chinese spy who ‘honey-trapped’ Nvidia boss",
+   "source": "Washington Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUNaWjFBT2dnQlp6Tjg4NW5xVVJEOWJybEN5U050OTBkYXZ0am5uaGoxVklYY3BMY2NVLUlxLVdYUGYwcGJCdDRUR1V6dHd5OVRRUmFfN3hLNXlkZ29OX1BiMEk4ckhDenBzWFZrakxRelVSYVVORHRQUVI0X1JvU3BLWmF1VlFHLV9Fc3NTVHdibDJlcTVhOFRqWk93Ni1DMElDT2xuUzEzV1lIVVhyd3hR?oc=5",
+   "published": "2026-11-13T11:32:42+00:00",
+   "id": "c0c6c70fd5a9",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Légère friction sino-américaine liée à l'espionnage, impact refuge très marginal.",
+   "method": "IA"
   },
   {
    "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
@@ -5193,6 +5205,18 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
+  },
+  {
+   "title": "Middle East latest: IAEA 'concerned' about underground uranium-enrichment plant at Isfahan",
+   "source": "The National",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUlUTHlPaTZjN0NQZnVxYWVlaGZhV3djV24xWWN1a1JTVk5Qc2FkSEI1Y21JZTF4M042WXRhUy1WVU1uSmlSTkNWRGRCbk1DX1N2MTJTTVRqZl9zNWM5ZkU1MkpvV3o5aWZmSERONTRvRzBJLVh0YmVRTGlKbE9HbG94Qkg?oc=5",
+   "published": "2026-11-12T17:21:25+00:00",
+   "id": "a126769bccb2",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Inquiétudes nucléaires en Iran ravivant modérément la prime de risque géopolitique au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Silver Holds Steady as Strong U.S. Jobs Report Diverges from Gold’s Slide",
@@ -6477,35 +6501,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Hoax bomb alerts sent to schools in Italy , united kingdom and Ireland in latest disruption",
-   "source": "asiaone.com",
-   "theme": "Géopolitique",
-   "link": "https://www.asiaone.com:443/world/hoax-bomb-alerts-sent-schools-italy-uk-and-ireland-latest-disruption",
-   "published": "2026-11-12T07:00:00+00:00",
-   "id": "69fdd6014dbc",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Saudi Arabia intercepts Houthi missiles , drones ; group denies targeting Mecca",
-   "source": "asiaone.com",
-   "theme": "Géopolitique",
-   "link": "https://www.asiaone.com:443/asia/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca",
-   "published": "2026-11-12T07:00:00+00:00",
-   "id": "ad3ebd411ca3",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|ca3d030ad6bc": 1792760496.6431887,
-  "news|38b0ccc14e0f": 1792760497.6695604,
   "news|ca7dd04937dc": 1792761502.5897915,
   "news|98ecb0f05dba": 1792761503.5947971,
   "news|2d22ff00d3e8": 1792762304.2842987,
@@ -8201,7 +8199,9 @@
   "news|1ef1f8a19cbe": 1794572179.4813614,
   "news|f1cfcf8ff677": 1794572183.305845,
   "pre1h|2026-11-13T08:30:00-05:00": 1794572184.6358345,
-  "news|da7d92c38c87": 1794574065.9359322
+  "news|da7d92c38c87": 1794574065.9359322,
+  "pre1h|2026-11-13T09:10:00-05:00": 1794574996.3400147,
+  "rep|update|2026-11-13": 1794575002.7335553
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8625,6 +8625,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T13:03:17.552214+00:00",
+   "kind": "ny_update",
+   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:03</b>\nPrix : <b>3894.00</b>  (-4.9$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-31) → maintenant -32 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 48$ sur ~97$ attendus (50%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.4%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Collins Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:40</b> 🇺🇸 FOMC Member Logan Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:00</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) US-Israel strikes could push Iran towards nuclear weapons: Ex-diplomat | Tap to know more | Inshorts\n🔴 (-10) Treasury yields rise as traders strengthen Fed rate hike bets\n🟢 (+10) Extensive raid campaign by the occupation army and escalation in settler attacks in the West Bank\n🟢 (+8) Israel is preparing for a lightning strike, but its concerns about Iran have changed."
+  },
+  {
+   "ts": "2026-11-13T13:03:16.340297+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 67 MIN — 15:10</b>\n\n🇺🇸 <b>FOMC Member Collins Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.11% aujourd'hui · taux 10 ans +0 pb · biais or -32 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
+  },
+  {
    "ts": "2026-11-13T12:47:45.936013+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Extensive raid campaign by the occupation army and escalation in settler attacks in the West Bank</b>\n📰 جريدة القدس · Ven 13/11 09:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOQno2cTNDcHl4c0NDUmlNZThsdlE1eXg4a3VIeXVLOWl0TC0tSDA2YTEteEtxZ0pneGVNNUNWYmFHeEJ0aE5mWm9ZbmhodnRXUGZ0QzhCZjVMSVhUdmg5NVAwdEI5cHFXaWdtTi1OU0dVT3VHc2hoTGZTUkgwVl9iaEpOdWtBdGtncXAxbzgyakdsVHpUNjhfTTYzcFg0NlpnNF9KNTFRZXY4THBHcXZndVpiT1RNUQ?oc=5"
@@ -8913,16 +8923,6 @@
    "ts": "2026-11-12T18:31:46.165542+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Price Crashes Below $3,900 as Fed Rate Hike Bets Overwhelm Safe-Haven Demand</b>\n📰 Coinpaper · Jeu 12/11 19:27\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE1SVG5wb1JONGVRMnAzd0FiNFNWdnFiaTRqcHdIWVZGQldYdnVVWEJ1ZlFoTXQwZDcyUjZqRkw2TFFjcllBdVVkMTNsZnlQbHBNRG1DdE1NVzZPXy0zZ2I2Zk5mMUJyRi1fWXluV0dBNmtLV2JMQ2xobFhrVUNFbi1MajNiSEVITXZYSTBzUVVVU3VQUXZXRjN1VnYya0lUQnp2ZDRGNXVfSnJl?oc=5"
-  },
-  {
-   "ts": "2026-11-12T18:06:25.483234+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Schmid Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-12T18:01:37.953689+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 5 ans\n+0.127 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
@@ -8936,8 +8936,8 @@
   "ai": false
  },
  "ny_update": {
-  "date": "2026-11-12T13:01:38.454704+00:00",
-  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3941.00</b>  (-41.7$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-24) → maintenant -20 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 76$ sur ~89$ attendus (86%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>16:00</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>17:15</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:10</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:30</b> 🇺🇸 FOMC Member Schmid Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Rand Paul Blames Iran War, Trump’s Tariffs for GOP Losses: ‘Things Cost Too Much and People Are Strugglin\n🔴 (-10) Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong\n🟢 (+8) Trump And Netanyahu Get Into \"Shouting Match From Hell\" Over Iran War: Report\n🟢 (+8) Trump ran on a platform of peace. His war may have cost Republicans the midterms",
+  "date": "2026-11-13T13:03:22.733514+00:00",
+  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:03</b>\nPrix : <b>3894.00</b>  (-4.9$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-31) → maintenant -32 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 48$ sur ~97$ attendus (50%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.4%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Collins Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:40</b> 🇺🇸 FOMC Member Logan Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:00</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) US-Israel strikes could push Iran towards nuclear weapons: Ex-diplomat | Tap to know more | Inshorts\n🔴 (-10) Treasury yields rise as traders strengthen Fed rate hike bets\n🟢 (+10) Extensive raid campaign by the occupation army and escalation in settler attacks in the West Bank\n🟢 (+8) Israel is preparing for a lightning strike, but its concerns about Iran have changed.",
   "ai": false
  },
  "track": [
