@@ -1100,7 +1100,6 @@
   }
  },
  "seen_news": [
-  "b9692a84c10e",
   "b49fdc75442e",
   "247040884bcc",
   "752f1f07cba2",
@@ -4099,7 +4098,8 @@
   "bd039ce34e00",
   "b8675696048a",
   "5bc8aa6f458d",
-  "010af871bd0a"
+  "010af871bd0a",
+  "f911818d9fd7"
  ],
  "news": [
   {
@@ -4292,6 +4292,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran",
+   "source": "investingLive",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUY0QklSMGI5MFhaZTVEc1VRSF93TXhqWDBHRVh4Z2NmZ19jSEIzcWRKd1l5VFZMcTBDQTdTLXhBNXdwTU50cjV6Tmp4NXJXRE4zYk53Nks5SU1hTThYRVVZeTNtRzZWelRpaTBybkJqYXpoVTZIQVE2MFRjSEt2QTMtaW5hbjZiem5TY21VcWtDZlZ0dVVFQXF3UDA5dGNSbzI5V2gtQ1N1OS13WV9TXzFDUDZJaUlzZnEtN2J6Q2ZjTU9xWnJCa3FsVmtIdHZPU0VGWDM0LXY?oc=5",
+   "published": "2026-11-13T14:52:47+00:00",
+   "id": "f911818d9fd7",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6489,24 +6501,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump ran on a platform of peace. His war may have cost Republicans the midterms",
-   "source": "The Guardian",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5",
-   "published": "2026-11-12T11:08:00+00:00",
-   "id": "335cf672195e",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|7ca14d1e1a0b": 1792777595.1397343,
-  "news|fb7237d085d5": 1792778497.3388839,
-  "news|caa294c038cd": 1792778498.2766576,
   "news|9fc3a5a37a14": 1792779256.3624346,
   "news|a8ddefb7eaf1": 1792780294.1876397,
   "news|e1b5b43b73e4": 1792782098.6979532,
@@ -8219,7 +8216,8 @@
   "post|2026-11-13T10:50:00-05:00": 1794586575.7174656,
   "pre15m|2026-11-13T12:00:00-05:00": 1794588396.5933154,
   "post|2026-11-13T12:00:00-05:00": 1794591097.1344295,
-  "news|41718e3b8986": 1794591974.6530466
+  "news|41718e3b8986": 1794591974.6530466,
+  "news|f911818d9fd7": 1794592900.4307191
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8643,6 +8641,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T18:01:40.430804+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran</b>\n📰 investingLive · Ven 13/11 15:52\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUY0QklSMGI5MFhaZTVEc1VRSF93TXhqWDBHRVh4Z2NmZ19jSEIzcWRKd1l5VFZMcTBDQTdTLXhBNXdwTU50cjV6Tmp4NXJXRE4zYk53Nks5SU1hTThYRVVZeTNtRzZWelRpaTBybkJqYXpoVTZIQVE2MFRjSEt2QTMtaW5hbjZiem5TY21VcWtDZlZ0dVVFQXF3UDA5dGNSbzI5V2gtQ1N1OS13WV9TXzFDUDZJaUlzZnEtN2J6Q2ZjTU9xWnJCa3FsVmtIdHZPU0VGWDM0LXY?oc=5"
+  },
+  {
    "ts": "2026-11-13T17:46:14.653132+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war</b>\n📰 Haaretz · Ven 13/11 16:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5"
@@ -8936,11 +8939,6 @@
    "ts": "2026-11-13T02:16:53.763916+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>CENTCOM calls Israeli media report of possible Iran war resumption  pure speculation</b>\n📰 aa.com.tr · Ven 13/11 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://aa.com.tr/en/us-israel-iran-war/centcom-calls-israeli-media-report-of-possible-iran-war-resumption-pure-speculation-/4123553"
-  },
-  {
-   "ts": "2026-11-13T02:16:52.792046+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Senate Democrats vow to block funding for Trump Iran war in year - end spending deal</b>\n📰 aa.com.tr · Ven 13/11 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://aa.com.tr/en/americas/us-senate-democrats-vow-to-block-funding-for-trumps-iran-war-in-year-end-spending-deal/4123356"
   }
  ],
  "daily_forecast": {
