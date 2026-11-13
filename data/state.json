@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794541551.5566373,
+   "ts": 1794546075.088047,
    "data": [
     {
      "title": "CPI y/y",
@@ -903,19 +903,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1794473333.0963964,
+   "ts": 1794546279.739286,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 115,
       "high": [
        [
         0,
-        14.7
+        13.9
        ],
        [
         15,
-        9.5
+        9.6
        ],
        [
         22,
@@ -925,108 +925,108 @@
       "low": [
        [
         0,
-        19.0
+        19.1
        ],
        [
         2,
-        11.2
+        11.3
        ],
        [
         16,
-        10.3
+        10.4
        ]
       ]
      },
      "1": {
-      "n": 123,
+      "n": 122,
       "high": [
        [
         22,
-        12.2
+        12.3
        ],
        [
         15,
-        8.9
+        9.0
        ],
        [
         2,
-        8.9
+        9.0
        ]
       ],
       "low": [
        [
         0,
-        11.4
+        11.5
        ],
        [
         16,
-        10.6
+        10.7
        ],
        [
         2,
-        8.9
+        8.2
        ]
       ]
      },
      "2": {
-      "n": 121,
+      "n": 120,
       "high": [
        [
         2,
-        11.6
+        11.7
        ],
        [
         16,
-        11.6
+        11.7
        ],
        [
         21,
-        6.6
+        6.7
        ]
       ],
       "low": [
        [
         0,
-        13.2
+        13.3
        ],
        [
         14,
-        7.4
+        7.5
        ],
        [
         21,
-        7.4
+        7.5
        ]
       ]
      },
      "3": {
-      "n": 118,
+      "n": 119,
       "high": [
        [
         0,
-        11.9
+        11.8
        ],
        [
         2,
-        10.2
+        10.9
        ],
        [
         22,
-        9.3
+        9.2
        ]
       ],
       "low": [
        [
         0,
-        15.3
-       ],
-       [
-        15,
-        10.2
+        15.1
        ],
        [
         16,
-        10.2
+        10.9
+       ],
+       [
+        15,
+        10.1
        ]
       ]
      },
@@ -1039,7 +1039,7 @@
        ],
        [
         0,
-        11.1
+        12.0
        ],
        [
         17,
@@ -1053,24 +1053,24 @@
        ],
        [
         15,
-        7.7
+        8.5
        ],
        [
-        16,
-        7.7
+        3,
+        6.8
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5960,
+     "n_hours": 5946,
      "horizon_h": 2,
      "base_gold_up": 53.3,
-     "base_dxy_down": 48.1,
+     "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 246,
-       "p_dxy": 50.8,
+       "n": 244,
+       "p_dxy": 51.2,
        "p_gold": 56.1,
        "gold_avg": 1.5
       },
@@ -1083,15 +1083,15 @@
      },
      "up": {
       "3": {
-       "n": 269,
-       "p_dxy": 55.4,
-       "p_gold": 49.1,
-       "gold_avg": -0.9
+       "n": 266,
+       "p_dxy": 55.3,
+       "p_gold": 49.2,
+       "gold_avg": -1.0
       },
       "4": {
-       "n": 76,
-       "p_dxy": 57.9,
-       "p_gold": 51.3,
+       "n": 75,
+       "p_dxy": 57.3,
+       "p_gold": 50.7,
        "gold_avg": 0.1
       }
      }
@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "562493796127",
-  "fd02d2fe0eb4",
-  "ae50724c2339",
   "334800707021",
   "84b69b95c6c3",
   "fc966b2bb02f",
@@ -4099,7 +4096,10 @@
   "8068d730967e",
   "64fbab50094d",
   "3b4da9a8e56d",
-  "5e5238519b2a"
+  "5e5238519b2a",
+  "c91c6fb74986",
+  "1cb755d82a76",
+  "923776ae7020"
  ],
  "news": [
   {
@@ -4115,12 +4115,36 @@
    "method": "mots-clés"
   },
   {
+   "title": "Global Gold Price Falls Below $3,900; Societe Generale Estimates January Index Rebalancing to Bring $3.3 Billion in Net Buying",
+   "source": "BigGo Finance",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ERUlBeEJQdnZhTzB1REd0V2NGdm5yUDVHOV9jNW5ZZUoxX1RRSmZqRWI0NUg5ZTZvSWpCcDJnWWoyVnJ1a29IVkNJRFpsQVVRVzZYTktPckktamV2RlpjVXhCTGJvSkdfc2podU1lT1YxbmZ6dlE?oc=5",
+   "published": "2026-11-13T04:35:00+00:00",
+   "id": "c91c6fb74986",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
    "title": "Chinese Research Ship May Be Mapping Submarine Routes Near Taiwan",
    "source": "JAPAN Forward",
    "theme": "Chine/Taïwan",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUQxSFc1RWFyZ0F6a0dfTVBQZHJaTndyQkRkV040NmZhc3dNaGJDOWg2WTBGU21EUXNKa29tYkV1dmZzM2pKeXBjTlkxV0NQWHBjNDA4TnFpNmFkZm1GcWlveGR2T0FHemZ6azR4QVBzZ2hYamdpanEtU3p4ZDFWdENXOXI5OG9YXzJ4dlZpYVBJeG9iX1dr?oc=5",
    "published": "2026-11-13T04:32:46+00:00",
    "id": "5e5238519b2a",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold and Silver Price Forecast: Gold Hits 13-Month Low Before US PPI",
+   "source": "FXEmpire",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbHlpSEo5LTR4RDVIZUhNcS0tZ0pOSGJFMFAwcXNrcW9JLTNZdS04X2JIQ004a2Z5S0txbWplMUFYelNtZk5CX1VaUzFDZG1PakJuVngwTEV2TVktVjY5aDNYcnhTZW5YVDhoOHg3ZXNUa1ZMdHE1WlRMNHEyVmR4a3VmR1N6S2tkMjNBR1ItaUNobGpObVFvZngwVjVwb29wS3F0LUNITkh3Y2JRUlkzZ1ZDMGZESXBUaFE?oc=5",
+   "published": "2026-11-13T04:31:44+00:00",
+   "id": "1cb755d82a76",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -4316,30 +4340,6 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "Frictions commerciales persistantes sous Trump incitant à une modeste prudence des marchés.",
-   "method": "IA"
-  },
-  {
-   "title": "The Beginning Of The End : Israel At The Heart Of America Political Civil War",
-   "source": "scoop.co.nz",
-   "theme": "Géopolitique",
-   "link": "https://www.scoop.co.nz/stories/HL2611/S00032/the-beginning-of-the-end-israel-at-the-heart-of-americas-political-civil-war.htm",
-   "published": "2026-11-13T00:45:00+00:00",
-   "id": "d8b40b833e51",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Article d'opinion sans conséquence directe sur les flux financiers ou macroéconomiques.",
-   "method": "IA"
-  },
-  {
-   "title": "Terror - crime nexus - Pakistan Observer",
-   "source": "pakobserver.net",
-   "theme": "Géopolitique",
-   "link": "https://pakobserver.net/terror-crime-nexus/",
-   "published": "2026-11-13T00:45:00+00:00",
-   "id": "28146e98d123",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Information locale sans incidence sur les marchés financiers internationaux ou l'or.",
    "method": "IA"
   },
   {
