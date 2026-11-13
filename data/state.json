@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794530745.014557,
+   "ts": 1794552352.4192622,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1794508268.272238,
+   "ts": 1794552355.4303775,
    "data": {
     "date": "2026-11-03",
     "net": 179548,
@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "e281aeed7a59",
-  "ef85bc88f2a7",
-  "00379165d581",
   "ad10d7b94e78",
   "346acf83b1ee",
   "f7d08447ca00",
@@ -4099,7 +4096,10 @@
   "b8fa51507876",
   "8c934c6a6540",
   "9b1c74ec93f2",
-  "2070781cebf2"
+  "2070781cebf2",
+  "f0b4cd1df5ce",
+  "a97048f58064",
+  "8c1764411fdc"
  ],
  "news": [
   {
@@ -4139,6 +4139,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Russia loses almost half a million lives in war on Ukraine",
+   "source": "Financial Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTN0Y0Iwdm1YeWcwUGZZUDVKTXd0NW1XTHBqOVRhNzQzY3RMTWRYenhWcU9HazhCOS1mcWxjc29YOE1vQUdsLUxWNUtNM1kyR2lrV2ZyLUtuZ1A3LW1PLVZJeE5qUERiRGpSa3FqbzJpSmppMGpMY3ptc3BnTEdpSUVWM2o?oc=5",
+   "published": "2026-11-13T05:01:10+00:00",
+   "id": "8c1764411fdc",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Dollar Rallies and Gold Slumps on the Prospects of Tighter Fed Policy",
    "source": "TradingView",
    "theme": "Dollar",
@@ -4148,6 +4160,18 @@
    "impact": -10,
    "cat": "or",
    "raison": "baissier or (dollar, or)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "EU leaders tussle over whom to send to Ukraine peace talks with Russia",
+   "source": "DW.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJtTGJ2SF9sUkx4dm1IWnNLYmM3VE5lT195M2ZMOFdZMGN3d1JjdmFBRWdVT19FcU1yckxzNUJVTGNXbUFSYlJqRWxhR29rcVhlZ2tSeFE0MEtINXdSTklic2xCTWxHRUlsLW02NFc5N1NEcm1KZHBXTS1lR3hhLU9JWkQ3NkpfSlJVUU12a0xKUWF4R19XaFlqdnFyZXPSAZ8BQVVfeXFMTmJGLTRyRXY1WjY5UlNrM2NKLUVkN3M2OXd0NHVPaS1ZbUZXalVicEJ6U2VaRWd5NGJqNDFieUEzRVUxYm5VQkVJZ3JETlN2bDJNV0Uwd2FVNlRsd0ItN0pNRDhIb1dyZW54YlRGTjBwRGZZckxzNDJRVDZrSktsWVBpR2hOR0t4Z09kQV9iREpzdGRDdmw0YTZzMnRSYTNJ?oc=5",
+   "published": "2026-11-13T04:20:50+00:00",
+   "id": "a97048f58064",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6477,30 +6501,6 @@
    "cat": "commerce",
    "raison": "baissier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "ROI-A 50 bps rate hike? Warsh's Fed has a comms problem: McGeever",
-   "source": "Devdiscourse",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGNUZDdRMUNacjBlWjFrc3pZMGlmaE5TRzJvbERmZzljNERPaFRaX2ZhRXRwQ1BHVE9TTU5QNzJYcEJnWVNRdC1jc3E3ZG54OWpjTlVhWDJSd2pGYU9PY2IwdXI0dExLdmU5TnYzZWs4eXhRdjVxSlVfT3Y3bHdlV014bWUyTG9wSTc4MmRNYzkwdlctVXhKRE01MTBhOU9nTmtkcnNSLVlGWE0zTzZtZW1FTk56bU1wYWxrUzFqNExmZ9IBwgFBVV95cUxOZGNUZDdRMUNacjBlWjFrc3pZMGlmaE5TRzJvbERmZzljNERPaFRaX2ZhRXRwQ1BHVE9TTU5QNzJYcEJnWVNRdC1jc3E3ZG54OWpjTlVhWDJSd2pGYU9PY2IwdXI0dExLdmU5TnYzZWs4eXhRdjVxSlVfT3Y3bHdlV014bWUyTG9wSTc4MmRNYzkwdlctVXhKRE01MTBhOU9nTmtkcnNSLVlGWE0zTzZtZW1FTk56bU1wYWxrUzFqNExmZw?oc=5",
-   "published": "2026-11-11T23:30:18+00:00",
-   "id": "2d06bbf09530",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold falls below $4,000 as Fed rate hike bets grow",
-   "source": "FXStreet",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZldWOUt2Z1JKQ1p0YjAzN01pM251MUNjenJScUVMOFk4UmY3NkYyMTRERDhteWZ2c1VhMmpfY0tscEZJVjZVZW9GQkNOT0FhTnFFeVNIdjZva09BdHMwQm1NTjVWQXNNUHJZTVRqdnJ3Qkh3MElPWktqMW5CYTRCLVRTME1IMXIzU25fQ2VBSWQ0UjVSSDZN?oc=5",
-   "published": "2026-11-11T23:26:23+00:00",
-   "id": "f895b9989f69",
-   "impact": -4,
-   "cat": "fed",
-   "raison": "Anticipations de hausses de taux haussant les rendements réels et pesant lourdement sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
