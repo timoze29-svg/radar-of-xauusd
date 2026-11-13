@@ -1100,12 +1100,6 @@
   }
  },
  "seen_news": [
-  "fc717ef55623",
-  "1db61cb84143",
-  "2976bb09fa68",
-  "b3960bd4543e",
-  "2df9f523a86d",
-  "b6adda277027",
   "8d76c0556470",
   "2d5f7dbd3996",
   "ea5941cf3e0a",
@@ -4099,7 +4093,13 @@
   "beb7404e394f",
   "18166b47b870",
   "b71e7174e449",
-  "f12390817bb3"
+  "f12390817bb3",
+  "775b601ed6ba",
+  "5e280222bbda",
+  "c859f5c1e2ba",
+  "7a589cd9add3",
+  "78be1663e46a",
+  "e669fa297183"
  ],
  "news": [
   {
@@ -4124,6 +4124,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine updates: Second car bomb to hit Russia in two days",
+   "source": "DW.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnNCNXdnNEVwUEljVEQ3bUVOdk1MODVBVER5eC1Nbk15aGppQ0Y1Z1BVS1dsZGYwbTNZdF84QzQzRlJqbnNzQW5xaU1NX2EtcmhqTE9VTHR4OV90bVQ3ZXU4R280NnN6NVUwR0pTaXVoblE5a3d3QmtZbVpTVURoa2RsWGwwZ3l4aUQyX0xMMll4VGtScXZQTw?oc=5",
+   "published": "2026-11-13T10:07:30+00:00",
+   "id": "78be1663e46a",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6489,22 +6501,9 @@
    "cat": "taux",
    "raison": "baissier or (taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-   "source": "Al Jazeera",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGV6WFJxeUNSa0ZVZFFWdC1mUGJUbEtIZldwSjJDWGQxUnFodTZ5akhnY010WTRLMXYtNjh5akpyczZkNjg1LXlUUnlQakJ5WmxORm9xQ0M4ck81WU9WWlhHU0x5WU1neXJrbTU0ZDRtd0JWa01TUTdRNjN1SDZfUkRObDg1dmJySkR3THpuaWh1TU94NVVMSHBJbEZ6VHNWUTlCNC1tTklKWFZlLXBvTHJWVkRtZ9IBuwFBVV95cUxPNmpBLWlIVTN1aUhtZ3R0amt5bWlCWGliV19MV2x5WExRRndaY2o0Nmc3cjVnZnFhX0Y3ZzVRMzBoQV9lZnctRWNiSlZ4LUtMV0JYVEVqaWpwSHo0STQ5Qzc0V0ZmMGlEZDBDNlduRVp2TUx1TjhURlRKYXdzS1N3Z1FKZ3ZJQjBTbGxyOW9tVHJaWXpDZkFqY0pEbVNEaDVkOUNmVmdoUFpQQTJTQnktZU94d3JMVm1iNFVR?oc=5",
-   "published": "2026-11-12T04:05:13+00:00",
-   "id": "c3f161bce3ce",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|883a60cbf665": 1792752360.6210287,
   "news|469f7b920e79": 1792755084.151783,
   "news|0ddec9c7aa67": 1792755973.2543895,
   "news|3e05a731d0a8": 1792756900.3203852,
@@ -8206,7 +8205,8 @@
   "news|aa019873714e": 1794557803.710458,
   "news|bcb018bbfcd6": 1794560539.5407631,
   "news|cf11c328e6f7": 1794561423.3036478,
-  "news|54398bfef4f4": 1794565965.744654
+  "news|54398bfef4f4": 1794565965.744654,
+  "brk|DXY|pdh|up|2026-11-13": 1794567702.8659992
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8630,6 +8630,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T11:01:42.866047+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.24 → prix : <b>103.28</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.33 | 60j -0.41"
+  },
+  {
    "ts": "2026-11-13T10:32:45.744760+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Israel strikes could push Iran towards nuclear weapons: Ex-diplomat | Tap to know more | Inshorts</b>\n📰 Inshorts · Ven 13/11 09:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUJaaWRkWlppcUpIZTFJME9aREdXaXpSekxHc2Fyb3d5NHoxMFNlN0s2b2dVR1EtNEZudXlFWFZNSG5nQ1ZkUmFnSWpHN1h4OTk5MmNYYUpvU1Bka296dGtpQWY1Z09qc0dRTEFIZDZTNEk3R1otbGQwYVZfN01IUU0zclJneEphdjdmZmZhUkRzakwwOTZkWktvMHNXdFN6YnFRUkJGTdIBpwFBVV95cUxOLUJaaWRkWlppcUpIZTFJME9aREdXaXpSekxHc2Fyb3d5NHoxMFNlN0s2b2dVR1EtNEZudXlFWFZNSG5nQ1ZkUmFnSWpHN1h4OTk5MmNYYUpvU1Bka296dGtpQWY1Z09qc0dRTEFIZDZTNEk3R1otbGQwYVZfN01IUU0zclJneEphdjdmZmZhUkRzakwwOTZkWktvMHNXdFN6YnFRUkJGTQ?oc=5"
@@ -8923,11 +8928,6 @@
    "ts": "2026-11-12T17:02:14.578041+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 68 MIN — 19:10</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.29% aujourd'hui · taux 10 ans +9 pb · biais or -24 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 92$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-12T17:02:13.514141+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'</b>\n📰 CNBC · Jeu 12/11 14:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3JPLXo4cE9pTTBQdTFHcEpvaU9BSTlpVU1CZ0FHMndhNG9GcWJOaHNWX1FhaTlyT0k4YllBV3lFMEYwdkhlMGo1YTV4YTVMZnh3eWU2SXpQb3lJNjZMaTJleWllT05kMFpqRHJBSTBSanZMNkJLb1FlaU5GWUlERzV5OWc1VThFSzI1bDQxWGViUkZ6cE5WR3kxdFc4WmVNZkdFX0oyODJjcFdHY2daWQ?oc=5"
   }
  ],
  "daily_forecast": {
