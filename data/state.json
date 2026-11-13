@@ -1100,9 +1100,6 @@
   }
  },
  "seen_news": [
-  "852fd2b92088",
-  "26f467095030",
-  "7e8db38878d0",
   "25c3351f4033",
   "5945cc62037f",
   "c7b299e474a3",
@@ -4099,7 +4096,10 @@
   "7dde002aa362",
   "f6f285a43c48",
   "e67f8d73fbeb",
-  "c2f71a01217b"
+  "c2f71a01217b",
+  "163462393521",
+  "0afc6412cff2",
+  "6978b7279314"
  ],
  "news": [
   {
@@ -6504,10 +6504,6 @@
   }
  ],
  "fired": {
-  "news|2d22ff00d3e8": 1792762304.2842987,
-  "brk|SPX|pwh|dn|2026-10-19/2026-10-25": 1792762306.6906662,
-  "news|9c04bfe5c71a": 1792763177.1852887,
-  "brk|OIL|pwh|up|2026-10-19/2026-10-25": 1792763178.3660555,
   "news|9894eae1334c": 1792764104.7299907,
   "news|eb2d6b68cac9": 1792764105.7461712,
   "news|1228366fcd9e": 1792773964.2405026,
@@ -8203,7 +8199,9 @@
   "news|b58d379e08a3": 1794575772.3748076,
   "pre15m|2026-11-13T08:30:00-05:00": 1794575773.7218072,
   "news|e67f8d73fbeb": 1794576686.0608535,
-  "pre1h|2026-11-13T09:40:00-05:00": 1794576688.7431986
+  "pre1h|2026-11-13T09:40:00-05:00": 1794576688.7431986,
+  "brk|US10Y|pdh|up|2026-11-13": 1794577582.8806307,
+  "pre15m|2026-11-13T09:10:00-05:00": 1794577583.8379118
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8627,6 +8625,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T13:46:23.837972+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Collins Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-13T13:46:22.880722+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 5.117 → prix : <b>5.135</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.16 | 60j -0.28"
+  },
+  {
    "ts": "2026-11-13T13:31:28.743536+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 69 MIN — 15:40</b>\n\n🇺🇸 <b>FOMC Member Logan Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.07% aujourd'hui · taux 10 ans +0 pb · biais or -32 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
@@ -8915,16 +8923,6 @@
    "ts": "2026-11-12T19:16:26.707677+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Europe Scrambles to Limit Effects of Energy Escalation in Iran War</b>\n📰 EnergyNow.com · Mer 11/11 21:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOWEZuMWpjWVFaeEdVRDVzSnZORUZlckExSEpVQW1MLTU4d25nMjVVbS1jSzZ5c0pZcDFqbnVDUWRnVTdacjVLR0pXSGExTTZVSE02c0pSWThJaE9ITkNrZ09DVFdLRnVqb00yOS1nck5ncHVZTVZ1NTBYOUVQbmM0YWZKdWNVTnFGYVNSWTZWaEMzNTBhLTM3LWo0M1NKQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-12T19:01:33.112606+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Schmid Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.02%\nTaux 10 ans +0.4 pb\nOr -2.5$ (extrême -3.5$, range 10.0$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-12T19:01:31.918300+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>ROI-A 50 bps rate hike? Warsh's Fed has a comms problem: McGeever</b>\n📰 Devdiscourse · Jeu 12/11 00:30\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGNUZDdRMUNacjBlWjFrc3pZMGlmaE5TRzJvbERmZzljNERPaFRaX2ZhRXRwQ1BHVE9TTU5QNzJYcEJnWVNRdC1jc3E3ZG54OWpjTlVhWDJSd2pGYU9PY2IwdXI0dExLdmU5TnYzZWs4eXhRdjVxSlVfT3Y3bHdlV014bWUyTG9wSTc4MmRNYzkwdlctVXhKRE01MTBhOU9nTmtkcnNSLVlGWE0zTzZtZW1FTk56bU1wYWxrUzFqNExmZ9IBwgFBVV95cUxOZGNUZDdRMUNacjBlWjFrc3pZMGlmaE5TRzJvbERmZzljNERPaFRaX2ZhRXRwQ1BHVE9TTU5QNzJYcEJnWVNRdC1jc3E3ZG54OWpjTlVhWDJSd2pGYU9PY2IwdXI0dExLdmU5TnYzZWs4eXhRdjVxSlVfT3Y3bHdlV014bWUyTG9wSTc4MmRNYzkwdlctVXhKRE01MTBhOU9nTmtkcnNSLVlGWE0zTzZtZW1FTk56bU1wYWxrUzFqNExmZw?oc=5"
   }
  ],
  "daily_forecast": {
