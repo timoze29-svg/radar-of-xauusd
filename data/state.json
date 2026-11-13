@@ -1100,12 +1100,6 @@
   }
  },
  "seen_news": [
-  "cf5459144316",
-  "b8e2fb3cf83f",
-  "d0eee849db03",
-  "f168dc3cffd2",
-  "f6cd380c1d00",
-  "b4b518b4165e",
   "0d4a82429453",
   "61924ff70f11",
   "2ae3f2c15906",
@@ -4099,7 +4093,13 @@
   "6501173d34a1",
   "dc85f6d591d8",
   "7552ea3def94",
-  "cdbf916c9e03"
+  "cdbf916c9e03",
+  "ec37645c2992",
+  "579bbe547dae",
+  "54beba997e91",
+  "72ddf17af145",
+  "2a00a1b684cd",
+  "bcc8d81d6701"
  ],
  "news": [
   {
@@ -4184,6 +4184,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Europe pushes for a seat at Ukraine peace talks‌ but lacks a unified voice",
+   "source": "AP News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjl3VUUwZnpqWVI3cEE5eEVMZlhzZmwyX3dZMy1oWXU1YjRidlVQa3NoMzhlSVdMbEJCazdBb2NFTFZ4Y2ZDVXZsbzFTTmxMR2E5MG5ndDQtZW5pUHRIRE9uQmQ2VmtCNjZRbWlSTFduYmhWcmNiNjRPRXY3R3ljd2hJQVFKNTJ1eHpFMUxfMkJ5WkJ1dkRQWDJHa3c?oc=5",
+   "published": "2026-11-13T14:22:00+00:00",
+   "id": "bcc8d81d6701",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6489,18 +6501,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "GM-Backed Lithium Americas Hit By Trump Tariffs",
-   "source": "GM Authority",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0NTOER1bndtSDZUQ0Jna3l6SWN0aVFub0ZMTFBUb0QyQzNoYTJBTHNQeXVneGhGMVJSM0VQNlh4aXBya3YxUWtDNUtvb0lVc0tJVzJGQ0Q0YVpMQ002cVRwNmo3NmNCYWtLLVJQZkgtVWxnZ2E1T1NxSUh3QnotZ0FPNFl4TUNkQ2R4Tl9B?oc=5",
-   "published": "2026-11-12T09:06:51+00:00",
-   "id": "50751abdbf12",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8216,7 +8216,8 @@
   "news|1a5432a10219": 1794583038.4940124,
   "news|ccf01bb21b5c": 1794583040.6348813,
   "news|4b53ca972f20": 1794583041.6518583,
-  "pre15m|2026-11-13T10:50:00-05:00": 1794583918.6980214
+  "pre15m|2026-11-13T10:50:00-05:00": 1794583918.6980214,
+  "pre1h|2026-11-13T12:00:00-05:00": 1794584800.6901417
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8640,6 +8641,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T15:46:40.690567+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 73 MIN — 18:00</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.10% aujourd'hui · taux 10 ans +3 pb · biais or -33 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
+  },
+  {
    "ts": "2026-11-13T15:31:58.698065+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>18 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -8933,11 +8939,6 @@
    "ts": "2026-11-13T01:16:15.683436+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu-Eisenkot briefing reportedly told IDF sees no urgent need to strike Iran</b>\n📰 The Times of Israel · Jeu 12/11 22:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFI1MVZRTmRyUWJGZU1HSy1XU240YzkzRUZjT0k1a3NQUHlTNUxWdkxuUWRtcjA3TVBUb2l6UC1wM3NJR3lyWWN2NzZmYTZHMjdFYWtONU9LbTVjT0luYjNSaW92OGkxN0IyNGxRY0I4WTRZZFhRSVBidlBXUWZya05xMDdtelhMYTVCX1VtZDdUU3V3UzdEbUg4R3BSXzk2Wmo0dnQ0cjNGR2JXM18ybNIBtgFBVV95cUxPdEpKek8tWXNaZGxtRkRqaXc0Wm81aERLaG42OXBvcThSOEMzd3k2YnZjbHd5T2JvR0x0SF9EMUxLMWV3SkJ0SVc3OWtmWTVJU2Nsa2dTenFiRGpvZjFzdVJvTXlGSkdBMDdiOW9VanloVGt6Q25iVEJuUTNoTnJQd0VMajNub1BXTDI5NlVuZ21DZFppQWZfazZDWHU5WC1HRjZfdXdrLWI5M0xNbk83a2Y0akpFUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-13T01:16:12.927511+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets</b>\n📰 FXStreet · Ven 13/11 02:11\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNTE81cGpBbTlkb3U5WDJ3LXhrSUJlbWJwT2RpTWoxNjZzN0FWaXlYVUh2SUlvTC1JSEszNjk2X0JCdWR0NTJacDU4LUFnNUI3dTJGWDh2YXlsMG1DTi1GUjlqMF9rZTVRY2VVUmViX3pjYkFXWjB0UWdyMUE0UjNfTEx2S1RRSGl6RVdWSUxCLUVHcG0yVDBEdklfOUlUMzBqcUhpTjM0SHVNNkp6UTNwaktUbw?oc=5"
   }
  ],
  "daily_forecast": {
