@@ -1100,12 +1100,6 @@
   }
  },
  "seen_news": [
-  "7da2f78ee829",
-  "b5fa4dfe1ebc",
-  "6846032c7284",
-  "aeaf236e4fc7",
-  "a4bae5349fb1",
-  "bfcad0ac80ad",
   "b9692a84c10e",
   "b49fdc75442e",
   "247040884bcc",
@@ -4099,7 +4093,13 @@
   "b4524609a447",
   "0d584add808b",
   "4f8cbbdb2bf0",
-  "3ad224b44724"
+  "3ad224b44724",
+  "ce71b3da0276",
+  "41718e3b8986",
+  "bd039ce34e00",
+  "b8675696048a",
+  "5bc8aa6f458d",
+  "010af871bd0a"
  ],
  "news": [
   {
@@ -4242,6 +4242,18 @@
    "published": "2026-11-13T15:37:00+00:00",
    "id": "078eebc7f124",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war",
+   "source": "Haaretz",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5",
+   "published": "2026-11-13T15:34:00+00:00",
+   "id": "41718e3b8986",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6489,18 +6501,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi",
-   "source": "The Guardian",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5",
-   "published": "2026-11-12T11:08:00+00:00",
-   "id": "943d55489fe3",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8218,7 +8218,8 @@
   "news|a0892e4d0577": 1794586574.553992,
   "post|2026-11-13T10:50:00-05:00": 1794586575.7174656,
   "pre15m|2026-11-13T12:00:00-05:00": 1794588396.5933154,
-  "post|2026-11-13T12:00:00-05:00": 1794591097.1344295
+  "post|2026-11-13T12:00:00-05:00": 1794591097.1344295,
+  "news|41718e3b8986": 1794591974.6530466
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8642,6 +8643,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-13T17:46:14.653132+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war</b>\n📰 Haaretz · Ven 13/11 16:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5"
+  },
+  {
    "ts": "2026-11-13T17:31:37.135526+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans +0.0 pb\nOr +1.2$ (extrême +6.3$, range 9.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -8935,11 +8941,6 @@
    "ts": "2026-11-13T02:16:52.792046+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Senate Democrats vow to block funding for Trump Iran war in year - end spending deal</b>\n📰 aa.com.tr · Ven 13/11 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://aa.com.tr/en/americas/us-senate-democrats-vow-to-block-funding-for-trumps-iran-war-in-year-end-spending-deal/4123356"
-  },
-  {
-   "ts": "2026-11-13T02:16:51.747609+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Beginning Of The End : Israel At The Heart Of America Political Civil War</b>\n📰 scoop.co.nz · Ven 13/11 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.scoop.co.nz/stories/HL2611/S00032/the-beginning-of-the-end-israel-at-the-heart-of-americas-political-civil-war.htm"
   }
  ],
  "daily_forecast": {
