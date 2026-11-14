@@ -1111,8 +1111,6 @@
   }
  },
  "seen_news": [
-  "2bc12fffaee2",
-  "50b67bbb33a2",
   "37cf9a9af984",
   "ea1966896871",
   "b43935a2e81a",
@@ -4110,9 +4108,23 @@
   "88be2e052133",
   "d3ec09ed1705",
   "5bc8887b5ca0",
-  "57b36cf50e1c"
+  "57b36cf50e1c",
+  "c4d0a8731a6b",
+  "72e5a76b68b8"
  ],
  "news": [
+  {
+   "title": "Robust Employment Report Supports Further Fed Rate Hikes",
+   "source": "The Conference Board",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0VmZnRneVh6Y2dLTlNKcG1tcXRhUTh6UEUxalZrdmdzVzRmR0tVLUhjcUoxLU5UTElHTFJNdnJFS2s1TmtYY2F4RVJHbHVRQWt3VllaU3lkYmpEZjM0MzJQcGQ5OU9QaG9aRkYxSGJiUEFqajNXQjVlNEZMWVhxdXh2RUVTaG9zN3ZPMWpzYXRrTXJoNDBF?oc=5",
+   "published": "2026-11-14T15:25:31+00:00",
+   "id": "72e5a76b68b8",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "EU Warns New US-Iran Military Escalation Could Have Severe Regional Consequences",
    "source": "Kurdistan24",
@@ -4544,6 +4556,18 @@
    "cat": "géopolitique",
    "raison": "Tensions sino-taïwanaises récurrentes offrant un soutien marginal de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "US Inflation Accelerates Again as Fed Officials Intensify Hawkish Signals",
+   "source": "NAI500",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ01rODBqTUNQWEZ3bkhQeGtsY093TFFLVHc0MEgyQ0lFcmtySjRqdXhRT1k4aWxWeUJlMlpsUXVmbjhHa1A5Q3c5RWl0NXB4czlaSVcwUEhyQTh5aUhrUUlackNyd1NjX1pXajJjSHpuZXRaM1NoSV9BZW40RThQR0V6Uk4xMGozbG1ITmZmcFRNMEZjTW5LQzJ0cGItdC1TWHpHTTFOWDlzUQ?oc=5",
+   "published": "2026-11-14T02:08:35+00:00",
+   "id": "c4d0a8731a6b",
+   "impact": -10,
+   "cat": "fed",
+   "raison": "baissier or (fed, inflation)",
+   "method": "mots-clés"
   },
   {
    "title": "Treasury Yields Jump as Inflation Data and Hawkish Fed Talk Kill Post-Election Rally",
@@ -6488,30 +6512,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (commerce, géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold price drops to over one-year low as fading Middle East peace hopes fan inflation fears",
-   "source": "Mining.com",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkh5Wjk0WTFTVktWMHU5cDFhX3FYS21UMi1HTkliOWs0aEo5Q0cxX2J5b2xEVkM1em9wdU5ud2tFcWF4MS02U19FeFV4NTRSWjJkM3R6NHJZYnNqZHQzSUpOMkpsVVFKREd0X0V2Skxfd0ZnNk1WandWdHpRV1VsUzdFcWtjSXlBamU4ZjZXUUI2RWZjWlRDWDFOcl8zeVVDcWZkZkRtNHl2c18yb0swN2lRaw?oc=5",
-   "published": "2026-11-12T21:51:46+00:00",
-   "id": "1a5e8ae5383d",
-   "impact": -3,
-   "cat": "inflation",
-   "raison": "Craintes inflationnistes ravivant les anticipations de taux élevés, ce qui pénalise le métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "Can the US Dollar Index Extend Gains After Hitting a Fresh Year-to-Date High of 103.08 as Fed Rate Hike Bets Rise?",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHFSTW1WVTZMNlV1N3JIWENlYWMzRFJteVNRb0YtM0g1Q1BMZ3lKRWpkeWVEbzdhenYxN09YM2pfLWh6ZThBcG5JZGdSeUMzTi0xZklFQ2JoWWtTaV9IdDloMnhRQlFXcWhnYkFHMDZSWjlQMjZaekoxSjBqdklCdFlYZlRfbkdicXYxR0VVVnFIRmFJMUJNdmlQQTZlZkItdlgtdDQ0ZWVMckI5YzJ6ZkVtelZTbWVLbHRQY2FhR0J1Sk1QcmFPZFVRVWxWTzRUamJtbzU2eW1FenN0?oc=5",
-   "published": "2026-11-12T21:48:53+00:00",
-   "id": "4e948cec2628",
-   "impact": -3,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8226,7 +8226,9 @@
   "news|b23680b617e4": 1794667569.72875,
   "news|980176be0cda": 1794669493.2757602,
   "news|fa21a05c99d3": 1794671166.5949106,
-  "news|3b041addaa42": 1794672139.851455
+  "news|3b041addaa42": 1794672139.851455,
+  "news|72e5a76b68b8": 1794673811.461694,
+  "news|c4d0a8731a6b": 1794673814.9614964
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8650,6 +8652,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T16:30:14.961724+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>US Inflation Accelerates Again as Fed Officials Intensify Hawkish Signals</b>\n📰 NAI500 · Sam 14/11 03:08\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ01rODBqTUNQWEZ3bkhQeGtsY093TFFLVHc0MEgyQ0lFcmtySjRqdXhRT1k4aWxWeUJlMlpsUXVmbjhHa1A5Q3c5RWl0NXB4czlaSVcwUEhyQTh5aUhrUUlackNyd1NjX1pXajJjSHpuZXRaM1NoSV9BZW40RThQR0V6Uk4xMGozbG1ITmZmcFRNMEZjTW5LQzJ0cGItdC1TWHpHTTFOWDlzUQ?oc=5"
+  },
+  {
+   "ts": "2026-11-14T16:30:11.461761+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Robust Employment Report Supports Further Fed Rate Hikes</b>\n📰 The Conference Board · Sam 14/11 16:25\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0VmZnRneVh6Y2dLTlNKcG1tcXRhUTh6UEUxalZrdmdzVzRmR0tVLUhjcUoxLU5UTElHTFJNdnJFS2s1TmtYY2F4RVJHbHVRQWt3VllaU3lkYmpEZjM0MzJQcGQ5OU9QaG9aRkYxSGJiUEFqajNXQjVlNEZMWVhxdXh2RUVTaG9zN3ZPMWpzYXRrTXJoNDBF?oc=5"
+  },
+  {
    "ts": "2026-11-14T16:02:19.851548+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Divisions over Iran: Israel Pushes for War as Trump Seeks a Way Out</b>\n📰 شبكة يافا الإخبارية · Sam 14/11 15:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE43SWg4N2g5M0FmS1dYMVdleUxGQ2c1am1BaHRSYUxiclZqN3RDN09ZYUZCZHFfNHpqa21sZ2RrRmtBWGVISGthTFFpLXpoWEF4?oc=5"
@@ -8938,16 +8950,6 @@
    "ts": "2026-11-13T14:46:06.553360+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Taux US 5 ans</b> casse le plus haut sur 20 JOURS\nNiveau : 4.976 → prix : <b>4.987</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.13 | 60j -0.29"
-  },
-  {
-   "ts": "2026-11-13T14:46:04.214152+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut sur 20 JOURS\nNiveau : 5.150 → prix : <b>5.162</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.16 | 60j -0.27"
-  },
-  {
-   "ts": "2026-11-13T14:32:06.075103+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 78 MIN — 16:50</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.08% aujourd'hui · taux 10 ans +5 pb · biais or -33 (Baissier)\n💵 Dollar EN FORCE ↑ (baissier or) — 3/4 signaux\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
   }
  ],
  "daily_forecast": {
