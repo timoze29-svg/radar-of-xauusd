@@ -1111,10 +1111,6 @@
   }
  },
  "seen_news": [
-  "cdbec22f4345",
-  "3fc7f9df1257",
-  "6e15dc57c4f1",
-  "224526c348e2",
   "0efa5ca3f552",
   "2df17a5f07ca",
   "817790a6ff98",
@@ -4110,7 +4106,11 @@
   "2ed58ff053ef",
   "a90da913131b",
   "88aa230e5e3c",
-  "9b546f625a38"
+  "9b546f625a38",
+  "c57cdddeb390",
+  "538f231b23ae",
+  "20dba0f425b9",
+  "f21e36b3b218"
  ],
  "news": [
   {
@@ -5072,6 +5072,18 @@
    "cat": "géopolitique",
    "raison": "Extension maritime du conflit ukrainien entretenant l'incertitude géopolitique globale.",
    "method": "IA"
+  },
+  {
+   "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+   "source": "The Guardian",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5",
+   "published": "2026-11-13T12:07:00+00:00",
+   "id": "538f231b23ae",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US Assures India Lower Tariffs Than Peers in Trade Deal",
@@ -6500,22 +6512,9 @@
    "cat": "commerce",
    "raison": "Menaces tarifaires répétées alimentant le risque protectionniste, impact modéré limité par le dollar.",
    "method": "IA"
-  },
-  {
-   "title": "Gold Slumps 3% Below $3,900: What Is Causing the Continued Decline in Gold Prices?",
-   "source": "TradingKey",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUxMamcxTS1KSFRiUXduM1FwQ3dCUDFJcEE2RGNfbGJmc2dqbXk1YVA3UGQ0eWxIQWlMYm5HWjNRSE1uMW82WjVZQXByZkNRUVhOOVVwNjJPejJILXVOYVhNZDlVd0pGc0tzMjFkdTY4X1E4OHZWbHE3dTJqY2ZrLWoyYnRPR3dlTERDX3Zjd2NsaWV0VVpjcUFNVGpPV1FxUHhTVlRmNUQyYlIzNFYxQ1lvMG04SzJrQmdNUnducVZlbGh1di1YSWhtLUJZUQ?oc=5",
-   "published": "2026-11-12T15:43:18+00:00",
-   "id": "dd5facf25785",
-   "impact": -2,
-   "cat": "or",
-   "raison": "Rupture de support technique et prises de bénéfices accentuant la pression vendeuse immédiate.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|b4fe58f395b7": 1792812692.964293,
   "news|0463939d4182": 1792815527.8040125,
   "news|cdd231b94a17": 1792817196.99158,
   "news|5c8b91a26e14": 1792820275.1971545,
@@ -8228,7 +8227,8 @@
   "big|BTC|2026-11-14": 1794623493.8978105,
   "news|cd98a1c9cfe0": 1794625300.89945,
   "news|2ed58ff053ef": 1794626168.9069579,
-  "news|a90da913131b": 1794627080.8728354
+  "news|a90da913131b": 1794627080.8728354,
+  "news|538f231b23ae": 1794627967.581591
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8652,6 +8652,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T03:46:07.581667+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran says it targeted US military radar in Bahrain in retaliatory strike</b>\n📰 The Guardian · Ven 13/11 13:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5"
+  },
+  {
    "ts": "2026-11-14T03:31:20.872938+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>UN watchdog 'increasingly concerned' over uninspected Iran nuclear site</b>\n📰 BBC · Ven 13/11 13:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ISUJpaGVUMDU4Q3VLd0xnbUZMWjhCdE9sek5ScTFwbjFOa2xabFhRVU5KQklkbFhCUmJFTU5VZ0tzUW0tYUdBZUNDazE0dU9WbFh1N2ZnY0lmcG5LZVE?oc=5"
@@ -8945,11 +8950,6 @@
    "ts": "2026-11-13T12:16:19.481458+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed rate hike expectations push ringgit lower against US dollar</b>\n📰 Malay Mail · Jeu 12/11 19:38\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPenBqMEZkc1Zvb2h2NC00c21pN2JtWE9fN0NUWENCdWlGNE1GdXU0aEZOV0l2U2xac3BJQmVoYWJ2UUVLalZ1cEM1NVJGdy1hS1MwaXR0NTBSY0paTzJSV2p5bENrY19mNkY0Nkp4Vmh5S3FOc3BrVlpYUVRXMWpDVGpIYzFvMmE5SUdCN2c4WGtuaW1xdmJxbFE0S2R4NHFjdDRhZS1DLTZqalJQYUl1SDFUX3VMYWZORVHSAb8BQVVfeXFMTXZZdWZvWUc2UEM0UGdkQVVGeDRNZ0R3a0VEbzVLdV8wbEZXV0l0YmhJMkd2SzNhSDAySzNLcXhQSHFUbWFFcndnaExod19kZVNiYTZNSXNvYnUzSGl2OUZ0SWZROFpLcmdCRmJVczJfVDJKS1NGY0U3NnBFZWxRaXdpQnVWMFczT2kwdEhiNnQtYjdEUzFjdENpTzYwU1NZX2NIS2k0ZExzMUFZaDZrdkZoYWVnQlpOM092X2VranM?oc=5"
-  },
-  {
-   "ts": "2026-11-13T12:02:35.285319+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel is preparing for a lightning strike, but its concerns about Iran have changed.</b>\n📰 Vietnam.vn · Ven 13/11 12:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3FTWnhfbkVZS0RKX1FuRmxZUmxjUWszbXlrXzZCRS1IN3FWbng2b0I1ZGxCZnZkRUNJVndsazdGNXBUTnViMnRMVEhBQTdJNjdIV3ZWVVpjeVNTVmwwTjNfSEV5QlZxbHkxX29XMTFRLTV6TDhaX1JaT0I3R2dnZ3RZeW1EWTJwUHc2Q3BCdw?oc=5"
   }
  ],
  "daily_forecast": {
