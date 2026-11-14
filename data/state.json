@@ -1111,13 +1111,6 @@
   }
  },
  "seen_news": [
-  "654a414c9843",
-  "2e72ffbd9a11",
-  "c814bda556a3",
-  "03ced6b85e99",
-  "fde4b5d9a25c",
-  "b193b53f476e",
-  "1a7dc0b32405",
   "375dd1959ff0",
   "18719fd10b69",
   "c57ea19e3511",
@@ -4110,9 +4103,40 @@
   "e87c987ae759",
   "fc460411b02d",
   "e3e6c361576d",
-  "0c6a1d7e6093"
+  "0c6a1d7e6093",
+  "2d368b60140a",
+  "02ae55c30aea",
+  "97189f0e852c",
+  "aaead4de720e",
+  "d9cf4485d498",
+  "d5035ab83aa1",
+  "f5b76cfbc964"
  ],
  "news": [
+  {
+   "title": "Donald Trump weighs holding off on new Iran attacks despite Israeli lobbying",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3bXZheE9sM2dIbUJwYVo0bXk5YlZPbndwM3Ewa2RTY0loMXBjczE3U3NBR0huaGVPd2dELVdDRkUxUU9QaGF0NFBIYXBiRmJjUGhGSXQ4MWhZS0FKbjR0VnlveXc2WTFHVXc?oc=5",
+   "published": "2026-11-14T20:40:30+00:00",
+   "id": "2d368b60140a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Mexico’s week in review: Trump renews tariff threats as Sheinbaum prepares for China",
+   "source": "Mexico News Daily",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1J4UXBsYzFuZVFzemdSRVlyUzJHYWpOZzNmWEs0YTRta2lHS0RrbHprc3MycGFPWWVFeTZ5VktnWGFsZEI1OFQ4c3RtMkVqQzd6WFRmbUNqQkwxUWFGTEhqTF8wakJLaWN1NFFaVmU2WUNab01VSHlYdEJNQ3NRMzdkclBZc3RFcHpjSXlXXzJERG8?oc=5",
+   "published": "2026-11-14T20:02:08+00:00",
+   "id": "02ae55c30aea",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "IDF fears surprise US attack on Iran as tensions rise over nuclear talks",
    "source": "The Jerusalem Post",
@@ -6488,30 +6512,6 @@
    "cat": "géopolitique",
    "raison": "Perspectives de pourparlers de paix réduisant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
-   "source": "Reuters",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2lRcFhDeEM4YTZPLVVWRHNYTnU2XzJhTFJMTUpjT2lyY0JwZ25WaGxCR01JTVpRZTJBVE5SZ0Y1LXdqSzJFRDBWVW15TnEwRE9idm9zeGVGZlpPVndfdGhoQlhmaHlkSFdDZmdXOGQ2N00xMVlKX3JFbkMtYzN5Y2VULUkzNkZmV1VtMnBCSU81eFRkRGFxUG9XRlVqcGNfelRrSHZQNXZQSExsbDhBaVdlcWlfWDhu?oc=5",
-   "published": "2026-11-13T03:12:00+00:00",
-   "id": "4573c4253f50",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold Price Forecast: Gold Tumbles Below $3,900 as Trump Says No Need for Iran Deal; Can October PPI Spur a Rebound?",
-   "source": "TradingKey",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUoxSDF6c3NpY0E1TUwxTmM0WExVdkoyZEN3eE1QYkphMnhSWHpKNl8xTW5FT2VMY3hFLThfcFJWVFJuQ2pCTnFfZVVhRER0U0VieHpSQl9oa0FvMnJMNTl2Q0NtYjgxZ3dMSG9kXzFqZzY2djVrM284dUxmaHEteWVFdG42NFNPQ2cyY09xdzF5bVMwS3hQa09qWnQtSXVPRG5GWkZnNEtIUlRNZTYwMm1ubEJCa0ROLTdrWWZVNllTTU03d25yZGJvMUg5WWNEXzhBMmVNZkxzZTNX?oc=5",
-   "published": "2026-11-13T02:37:30+00:00",
-   "id": "c4c7bdff3a85",
-   "impact": -2,
-   "cat": "or",
-   "raison": "Baisse technique sous pression, marchés attentistes avant les chiffres d'inflation PPI.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8238,7 +8238,8 @@
   "news|bab40ac176d5": 1794688295.0616612,
   "news|80edbf1017ef": 1794688298.7401469,
   "news|64d4c72ebf4a": 1794688299.7456126,
-  "news|e87c987ae759": 1794690978.3648305
+  "news|e87c987ae759": 1794690978.3648305,
+  "news|2d368b60140a": 1794691881.2199652
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8662,6 +8663,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T21:31:21.220030+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump weighs holding off on new Iran attacks despite Israeli lobbying</b>\n📰 The Jerusalem Post · Sam 14/11 21:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFB3bXZheE9sM2dIbUJwYVo0bXk5YlZPbndwM3Ewa2RTY0loMXBjczE3U3NBR0huaGVPd2dELVdDRkUxUU9QaGF0NFBIYXBiRmJjUGhGSXQ4MWhZS0FKbjR0VnlveXc2WTFHVXc?oc=5"
+  },
+  {
    "ts": "2026-11-14T21:16:18.364920+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Occidental Scraps New Oil Hedges as Iran War Fuels Price Volatility</b>\n📰 EnergyNow.com · Sam 14/11 14:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Yzd2IyUzdqUUNEd0t2ZVBtTHRIMVA1bzBVODdqbEVIQ1lpSW93cWdRM0ZmTy1mQjNibFlLWnVtS3kyWDYxZVdaZDJuU2V6MXVZamFWUkVzSmZQbGkteWtkTTBtRnJtUDJXZGdyN3Z6WFlsbjBIdDFoejZXdUFxVEVDeHRYLThNaUxMUDFkbm5GTUJtVGVZTU1hb0hnMUE?oc=5"
@@ -8955,11 +8961,6 @@
    "ts": "2026-11-13T21:53:44.083727+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 53 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Financial Stability Report</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.0 pb\nOr -4.4$ (extrême -8.6$, range 9.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-13T21:49:15.830322+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 48.550 → prix : <b>48.420</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.89 | 60j 0.85"
   }
  ],
  "daily_forecast": {
