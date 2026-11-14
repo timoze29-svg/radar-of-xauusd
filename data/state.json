@@ -1111,9 +1111,6 @@
   }
  },
  "seen_news": [
-  "f609153095f1",
-  "778492b2d265",
-  "33c41e2a1af0",
   "cdbec22f4345",
   "3fc7f9df1257",
   "6e15dc57c4f1",
@@ -4110,7 +4107,10 @@
   "d7f4750bb506",
   "b4a12e995251",
   "a8ba670e3cfc",
-  "2ed58ff053ef"
+  "2ed58ff053ef",
+  "a90da913131b",
+  "88aa230e5e3c",
+  "9b546f625a38"
  ],
  "news": [
   {
@@ -5023,6 +5023,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+   "source": "BBC",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ISUJpaGVUMDU4Q3VLd0xnbUZMWjhCdE9sek5ScTFwbjFOa2xabFhRVU5KQklkbFhCUmJFTU5VZ0tzUW0tYUdBZUNDazE0dU9WbFh1N2ZnY0lmcG5LZVE?oc=5",
+   "published": "2026-11-13T12:28:28+00:00",
+   "id": "a90da913131b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6500,22 +6512,9 @@
    "cat": "or",
    "raison": "Rupture de support technique et prises de bénéfices accentuant la pression vendeuse immédiate.",
    "method": "IA"
-  },
-  {
-   "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan",
-   "source": "KFXL",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUx5N2w3MmlVYlVMY2oyVzlydXhPZi1sY3RRSk4tNWpmczNCWEJMVXl2dEhNZkFPRjBYWFRXdGJJS194OVJYYkJXcmdwSlRDclRVZ3RXeDR6bkQ0OFJzWk5VZElGSWdRdUZFS3gwTW14dERaLUViZURITEJDWjk0ZE1wd3JPZGdTUFVnVHNQTXlUS2ZnUUpLcTV3dXZvaE5iX3JyZGdvMUFvR1dVelhhYzNLblRPeG1zV3BCYzZTdEZCZ3ExYUVfa2hRNA?oc=5",
-   "published": "2026-11-12T15:41:09+00:00",
-   "id": "3542b034d698",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Bruit politique récurrent sur les droits de douane avec impact direct très limité.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|62c4942f4b5f": 1792811779.1424592,
   "news|b4fe58f395b7": 1792812692.964293,
   "news|0463939d4182": 1792815527.8040125,
   "news|cdd231b94a17": 1792817196.99158,
@@ -8228,7 +8227,8 @@
   "news|c846686f1476": 1794623492.8803875,
   "big|BTC|2026-11-14": 1794623493.8978105,
   "news|cd98a1c9cfe0": 1794625300.89945,
-  "news|2ed58ff053ef": 1794626168.9069579
+  "news|2ed58ff053ef": 1794626168.9069579,
+  "news|a90da913131b": 1794627080.8728354
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8652,6 +8652,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T03:31:20.872938+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>UN watchdog 'increasingly concerned' over uninspected Iran nuclear site</b>\n📰 BBC · Ven 13/11 13:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ISUJpaGVUMDU4Q3VLd0xnbUZMWjhCdE9sek5ScTFwbjFOa2xabFhRVU5KQklkbFhCUmJFTU5VZ0tzUW0tYUdBZUNDazE0dU9WbFh1N2ZnY0lmcG5LZVE?oc=5"
+  },
+  {
    "ts": "2026-11-14T03:16:08.907037+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>[Weekend Money] \"U.S. Treasury Yields to Peak Early Next Year... Increase Long-Term Bond Holdings Ahead of 2028 Rate Cuts\"</b>\n📰 아시아경제 · Sam 14/11 03:47\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRXFZUnZnWXhpVHgxSG9FVjYyOHdzdWhIWnk0VjFyQ3pteW5Xanh2UnlJdmNiX3BOb0U0WFZsaTR2T3AweFZJQ3hiRURVNHNrVHBzUHZQUTVVNUJFV2lkaFpBdXc?oc=5"
@@ -8945,11 +8950,6 @@
    "ts": "2026-11-13T12:02:35.285319+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel is preparing for a lightning strike, but its concerns about Iran have changed.</b>\n📰 Vietnam.vn · Ven 13/11 12:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3FTWnhfbkVZS0RKX1FuRmxZUmxjUWszbXlrXzZCRS1IN3FWbng2b0I1ZGxCZnZkRUNJVndsazdGNXBUTnViMnRMVEhBQTdJNjdIV3ZWVVpjeVNTVmwwTjNfSEV5QlZxbHkxX29XMTFRLTV6TDhaX1JaT0I3R2dnZ3RZeW1EWTJwUHc2Q3BCdw?oc=5"
-  },
-  {
-   "ts": "2026-11-13T11:46:11.659626+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Indian rupee snaps rising streak on hawkish Fed, oil rise</b>\n📰 Reuters · Ven 13/11 04:12\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2lRcFhDeEM4YTZPLVVWRHNYTnU2XzJhTFJMTUpjT2lyY0JwZ25WaGxCR01JTVpRZTJBVE5SZ0Y1LXdqSzJFRDBWVW15TnEwRE9idm9zeGVGZlpPVndfdGhoQlhmaHlkSFdDZmdXOGQ2N00xMVlKX3JFbkMtYzN5Y2VULUkzNkZmV1VtMnBCSU81eFRkRGFxUG9XRlVqcGNfelRrSHZQNXZQSExsbDhBaVdlcWlfWDhu?oc=5"
   }
  ],
  "daily_forecast": {
