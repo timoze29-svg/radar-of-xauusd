@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794633346.261309,
+   "ts": 1794636949.0660105,
    "data": [
     {
      "title": "CPI y/y",
@@ -1111,8 +1111,6 @@
   }
  },
  "seen_news": [
-  "08479584375b",
-  "d34925b60d2d",
   "5f294ef4e1b9",
   "b0b7973b1f43",
   "f4f80b99292c",
@@ -4110,9 +4108,23 @@
   "f00340be5561",
   "e5987546c48c",
   "8231c84c0507",
-  "c0a2fcc53871"
+  "c0a2fcc53871",
+  "b96e4cb9b24f",
+  "944f21b48343"
  ],
  "news": [
+  {
+   "title": "Vietnam’s real trade test lies beyond Trump’s tariffs",
+   "source": "Asia Times",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW9PNVRRcW9oWWlNc0dUODFHRXo2eERRUktrMHBnRzREUldPV2xPS2FzTWJsM1FUOE42dGlzUzl6RGpLNUZzR0ROcy1jQkc5NkIyeTVOTHV0a1dLM01FQ3JHVHZ5OXRka2NxaXV4UDJYbmdhdk1LNWcxQVAxT3hhd3ZTOVJUZmV6?oc=5",
+   "published": "2026-11-14T06:00:58+00:00",
+   "id": "944f21b48343",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "The migrant caravan crossing Mexico that has triggered Trump’s new tariff threat: ‘Our fear is that the Mexican president will send us back’",
    "source": "EL PAÍS English",
@@ -4591,6 +4603,18 @@
    "impact": -1,
    "cat": "fed",
    "raison": "baissier or (dollar, fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
+   "source": "WSJ",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHpaLUVTUE9TendtYnBmVEhIQWdVMFQ3N0xyU0V1bFN4T2w5N2twdndFQ3k5M1hCejNaalROT3BrdDFTZ1hscHVsSUhSQTRtbTMzd21VR3RhZFg5Z1N4SnhCck9CWkxLUTNQRzQ2NE8yZGExaU1BcWVFV3o5cU5oT2diTUZPejNKWHFoaFpYUzdxX1QwZjNEMVE4VGZMQWZRZDZjT25R?oc=5",
+   "published": "2026-11-13T17:13:00+00:00",
+   "id": "b96e4cb9b24f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6488,35 +6512,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran says four tankers on fire in Hormuz",
-   "source": "Daily Sun",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVZmUFdoM1ZtcGJva1VMcFprdjZpWjQ5c2F6VmtCQTNURWVJVlloLURzdFV2ZHBiY0xkRm9HYzVKNTdwZ1JRLTBIbEF3aDI2V3dpb0ViM0RURndFOXJqNkQtQTE3LW5Rb0xXcThKaHFDOU9FMmtUN25QandnNmxQNXM2R3pUZw?oc=5",
-   "published": "2026-11-12T16:24:09+00:00",
-   "id": "8ce4382521e3",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump threatens to double Mexico tariffs over alleged migrant influx",
-   "source": "Yahoo Finance",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXNSbFpkN2o1NHRXWUJlYndOVlhWa3BtXzN3dERWamZidjFJTUpGN0JQVElhNmtPc3o1a0F2a3hsaWNfQzQwSDZfM0tkaGNyY2xRVHdXcWdPZ25rV1VwbS1lNVhla0lfeW9BQVF0ME5zX3ZOWS1ZaGhLRjN0N3N6ZXI5NG9SZkdLcElPX3B3VjB2VlpTekdoSVJuTFdMZGZHT1M0cg?oc=5",
-   "published": "2026-11-12T16:13:14+00:00",
-   "id": "a7ac09879162",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Risque de guerre commerciale et d'inflation, mais compensé par le renforcement potentiel du dollar.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|cdd231b94a17": 1792817196.99158,
-  "news|5c8b91a26e14": 1792820275.1971545,
   "news|1b90164b7af8": 1792836104.7234972,
   "news|84c3b16d9aa7": 1792838914.7739139,
   "news|f2f82d0b1419": 1792839691.3121374,
@@ -8229,7 +8227,8 @@
   "news|a90da913131b": 1794627080.8728354,
   "news|538f231b23ae": 1794627967.581591,
   "news|9a73f6c1a405": 1794628893.923973,
-  "news|e48790e252ac": 1794630870.4884186
+  "news|e48790e252ac": 1794630870.4884186,
+  "news|b96e4cb9b24f": 1794636968.0016952
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8653,6 +8652,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T06:16:08.001774+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Escalates Low-Level Conflict With a Shot at Bahrain</b>\n📰 WSJ · Ven 13/11 18:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHpaLUVTUE9TendtYnBmVEhIQWdVMFQ3N0xyU0V1bFN4T2w5N2twdndFQ3k5M1hCejNaalROT3BrdDFTZ1hscHVsSUhSQTRtbTMzd21VR3RhZFg5Z1N4SnhCck9CWkxLUTNQRzQ2NE8yZGExaU1BcWVFV3o5cU5oT2diTUZPejNKWHFoaFpYUzdxX1QwZjNEMVE4VGZMQWZRZDZjT25R?oc=5"
+  },
+  {
    "ts": "2026-11-14T04:34:31.672974+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
@@ -8946,11 +8950,6 @@
    "ts": "2026-11-13T13:03:17.552214+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:03</b>\nPrix : <b>3894.00</b>  (-4.9$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-31) → maintenant -32 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 48$ sur ~97$ attendus (50%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core PPI m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 PPI m/m (prév. 0.4%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Collins Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:40</b> 🇺🇸 FOMC Member Logan Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>16:50</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:00</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) US-Israel strikes could push Iran towards nuclear weapons: Ex-diplomat | Tap to know more | Inshorts\n🔴 (-10) Treasury yields rise as traders strengthen Fed rate hike bets\n🟢 (+10) Extensive raid campaign by the occupation army and escalation in settler attacks in the West Bank\n🟢 (+8) Israel is preparing for a lightning strike, but its concerns about Iran have changed."
-  },
-  {
-   "ts": "2026-11-13T13:03:16.340297+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 67 MIN — 15:10</b>\n\n🇺🇸 <b>FOMC Member Collins Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.11% aujourd'hui · taux 10 ans +0 pb · biais or -32 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
   }
  ],
  "daily_forecast": {
