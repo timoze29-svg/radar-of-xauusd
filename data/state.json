@@ -1111,10 +1111,6 @@
   }
  },
  "seen_news": [
-  "8004e6cd6259",
-  "39e960a7d0d2",
-  "4be14c25c486",
-  "0e63f2c8fd6d",
   "ab904838035b",
   "47305db394fc",
   "c35b4c57bed4",
@@ -4110,7 +4106,11 @@
   "2d7782b96960",
   "5c9644ceccae",
   "0cc5e6eab034",
-  "b23680b617e4"
+  "b23680b617e4",
+  "5eb59ddf8cf7",
+  "3ba2d624977d",
+  "ae5ba2896189",
+  "a8800be65aff"
  ],
  "news": [
   {
@@ -4133,6 +4133,18 @@
    "published": "2026-11-14T14:00:51+00:00",
    "id": "b23680b617e4",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
+   "source": "Dayton Daily News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM0MzQVBoVVN4Z2RBTGYtSFlDd01jTmlnY1VvWlo5MXJySkhSQWVvZ0Z1UDlHRzdldm9taG9Fbkx5NnVibXBLMWZJZkExMjdtNXU0dmJMWUR0Vkplc2hScjMtU0RabzJrNnNva1ZtWUdMbkNwSHppYzNrZVJYZlROWmJrWjd4bHcwZHpVWDd4Z05zaUp6Ul9oNm9yS0NiRjZuUlJHQlZLdVYyUTdSZllsMG5HekotamRLMTk2RE81WE5LMjBwMjI5NWhuZzNtSFpLSndVdEZSRTMxZ2lYeDJvdGcyNFZEVjdyaVJMZGNybzR2YjYxaFVuV1dFNA?oc=5",
+   "published": "2026-11-14T13:53:31+00:00",
+   "id": "3ba2d624977d",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4180,6 +4192,18 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1ZOQkZOUFlTWklpVXVpbjFKd2RZdTNBbGNZUHN2ZGhILUdDSDlnVmVRQkxaVzBoajJKWEkyTjEyTEFUdENFejMwNnNucEdDRkRSdTZ4eXh2WXo3ckswZWE0ZGVrSnMtYXpOZkhQNDhPQ3NEWmdKc05MeWhaQUpGV25YUTZLR1FQX2xfNWVCdTRvaFpIR0ppTUtGcTBCZXNVZGlVc0VXaG9KTkNxOGfSAbMBQVVfeXFMTnhoendibndFZDA5c1RndEd1dDIzNjVBWngxZnB0T0NDMFNKMldxcHRmb2NMOC1veFB6TnZZTXdXUUg1M2JzWVRGYTlqTGVkcU5uelItYXA2b0VQTGlJR3hkb2FyS19BT0Z5NW92U3pJYmFyWUxaRWV2cEFhUFJZc1ZTSWdnQjFwdlZNNXVWalA4TXhyWkh5eWZ2bU1iWm1yaGlYYWU4REZBck9wcTNIRUIyRHc?oc=5",
    "published": "2026-11-14T13:03:47+00:00",
    "id": "cbf81202b328",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "At least 25 sailors killed in and around Strait of Hormuz, UN says",
+   "source": "Report.az",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFo2cmg4UGRBUU5fWjZOdzFuSEE4Mmw4cnA4WnBfb1pXMmlwT0ZZbTJsYlFLZGd3S1d1WUtWckZxQWVsVTJRVFVpejhMVEJfQTFGUVhPeE10NDJSclBIWGhhRDZ5d2YzSWxyQ3hqVjd6dUdrWkoweDVuY1VCZUhwdmtKQVNDRWk1Zk10LWFtSklIVVJMdEhGX0RtZUNpbXNCYlVZUA?oc=5",
+   "published": "2026-11-14T12:38:02+00:00",
+   "id": "ae5ba2896189",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6485,30 +6509,6 @@
    "published": "2026-11-12T21:18:00+00:00",
    "id": "ed5cac8dec8a",
    "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Mexico's Sheinbaum pushes back on Trump’s tariff threat, says no caravans have reached U.S. border since 2025",
-   "source": "Spectrum News",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdW45WGZMS1htZDRyMXZ2SW9fWDduNjBBek5XaUZuWHl1WmlSS0hXNDVZTGVmNkpyNGZVR2ZLMk5MWHVKWEFEMnJDWDBoYk5rVHUxNGcyTXVNeUVlM2lvbENGS0JhQjJqSC14N0FnWHhDSnctd3NCeWxFVFJuTzF5SWVSWHVMNWw3ZWRHWldJNE9ZUXFLdVZVY2s0NjBOZkFzd1haeUdSdVZ6RTltcVRPcVJkcEpvXzhzUVE?oc=5",
-   "published": "2026-11-12T21:18:00+00:00",
-   "id": "be293651a2b1",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Even as they stabilize, tariffs continue to drive up prices",
-   "source": "www.marketplace.org",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVC1LQllRd1o0bDhaNGFiaXg1amR2ZW9MaWp2TnMyMEhaYzdfbHgtQkRrTXF2UVM5bGJJaWo2dWpUbE1WNkRsaDd5Q1VDdHFIOG9qZEljSFpxNFlzWkJzTkY1U2tocVhmbEd5dllmUWRZdHdoREg4ckNPa3V5bWR5U3hpRjhCa2x4SHFSNC1aX3FYS2tSWTRVMk5MY2ZkR0pDQXVnc0ZMTzY?oc=5",
-   "published": "2026-11-12T21:15:51+00:00",
-   "id": "46c31919c5d1",
-   "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
