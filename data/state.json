@@ -1111,10 +1111,6 @@
   }
  },
  "seen_news": [
-  "bb7ce29d21ea",
-  "ffcc33d7bec0",
-  "16549810a0fb",
-  "df2137a5b38a",
   "3830aef1a9c7",
   "4237d12bf113",
   "9bbadd7d529d",
@@ -4110,9 +4106,25 @@
   "95786a75894e",
   "4f42fb872f17",
   "fc0434ccf35c",
-  "95defc4af9e8"
+  "95defc4af9e8",
+  "bc9ecb4f426a",
+  "e69a8b5bb3e7",
+  "b07d998dea87",
+  "e9fafb2c5c78"
  ],
  "news": [
+  {
+   "title": "Two tankers strike mines in Strait of Hormuz",
+   "source": "Israel National News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZjNiTkF1a3R5MTl2ZVNXQ2dlNklUX0xMQWs1Vlh3dHg5eURIeWFheUJYWG5USkUtQVRYcndmdHpyemtDVmNpYzkxZ0ptWjJYSVctOXpTZjRaQQ?oc=5",
+   "published": "2026-11-14T19:24:20+00:00",
+   "id": "e69a8b5bb3e7",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Strait of Hormuz in chaos as 3 oil tankers struck by mines, says Iran",
    "source": "AOL.com",
@@ -6500,18 +6512,6 @@
    "cat": "géopolitique",
    "raison": "Incertitude sur une confrontation directe avec l'Iran favorisant modérément les valeurs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Iran war live: Trump says US does not need Iran deal as Vance told to focus on domestic issues",
-   "source": "Arabian Business",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "published": "2026-11-13T00:54:14+00:00",
-   "id": "2d74210f9b8a",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions accrues USA-Iran et refus de compromis diplomatique soutenant l'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8236,7 +8236,8 @@
   "news|6b784c1855df": 1794681972.879022,
   "news|1a9d89c7e3f3": 1794681973.9719086,
   "news|e90f6396fcfa": 1794682912.921797,
-  "news|95defc4af9e8": 1794684137.8762918
+  "news|95defc4af9e8": 1794684137.8762918,
+  "news|e69a8b5bb3e7": 1794684692.8819573
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8660,6 +8661,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T19:31:32.882049+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Two tankers strike mines in Strait of Hormuz</b>\n📰 Israel National News · Sam 14/11 20:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZjNiTkF1a3R5MTl2ZVNXQ2dlNklUX0xMQWs1Vlh3dHg5eURIeWFheUJYWG5USkUtQVRYcndmdHpyemtDVmNpYzkxZ0ptWjJYSVctOXpTZjRaQQ?oc=5"
+  },
+  {
    "ts": "2026-11-14T19:22:17.876400+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns of 'immediate and decisive response' to any new US or Israel attack</b>\n📰 TRT World · Sam 14/11 01:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iVV9LN1Q0WjN1OTdacVMzR2pqbi1abmcxWmZucGx2R0ZuMWNEM3BLTXBUeFRfTTVXUWhuT1JhRUdrVmk1VnozX085cENSVE1VcVJydUd4RFM?oc=5"
@@ -8953,11 +8959,6 @@
    "ts": "2026-11-13T17:46:14.653132+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war</b>\n📰 Haaretz · Ven 13/11 16:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5"
-  },
-  {
-   "ts": "2026-11-13T17:31:37.135526+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans +0.0 pb\nOr +1.2$ (extrême +6.3$, range 9.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
