@@ -1111,11 +1111,6 @@
   }
  },
  "seen_news": [
-  "9798df9cb524",
-  "2564af807779",
-  "5b2b0d4f08cd",
-  "18296213d2d8",
-  "b217e0bfa027",
   "2289c65fa980",
   "e94019b6ddbf",
   "a4462591fdce",
@@ -4110,9 +4105,26 @@
   "f14c3a156224",
   "1a9d89c7e3f3",
   "9cd41724f9dd",
-  "33984a2e5909"
+  "33984a2e5909",
+  "966d5d10d47f",
+  "621fc682fd7c",
+  "e90f6396fcfa",
+  "77f6391f4211",
+  "95786a75894e"
  ],
  "news": [
+  {
+   "title": "Strait of Hormuz in chaos as 3 oil tankers struck by mines, says Iran",
+   "source": "AOL.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vbHJxSU9BYmU4VjZlR3BHRGVaajVVOElzNDNVOTBRenR2VDRJeUMxQzZvUE51d0dPUXYydHk3em1QekhuUGZBMURZWnNpTGNQcWIwckxwbHdEWVFBSUJvS2F3bDVXNm9kZ1pTTzFzN0ZlTzc5UnpZSg?oc=5",
+   "published": "2026-11-14T18:05:23+00:00",
+   "id": "e90f6396fcfa",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Netanyahu pushes Trump for Iran strikes amid Mossad US visit",
    "source": "The New Arab",
@@ -6500,18 +6512,6 @@
    "cat": "géopolitique",
    "raison": "Blocages diplomatiques en Ukraine maintenant la prime de risque géopolitique intacte.",
    "method": "IA"
-  },
-  {
-   "title": "US Senate Democrats vow to block funding for Trump Iran war in year - end spending deal",
-   "source": "aa.com.tr",
-   "theme": "Géopolitique",
-   "link": "https://aa.com.tr/en/americas/us-senate-democrats-vow-to-block-funding-for-trumps-iran-war-in-year-end-spending-deal/4123356",
-   "published": "2026-11-13T00:45:00+00:00",
-   "id": "c3c8937d4aff",
-   "impact": -1,
-   "cat": "politique US",
-   "raison": "Opposition du Sénat réduisant le risque d'une escalade militaire prolongée financée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8234,7 +8234,8 @@
   "news|53c40f504ccd": 1794681084.0598521,
   "news|f8249b084ce7": 1794681084.82463,
   "news|6b784c1855df": 1794681972.879022,
-  "news|1a9d89c7e3f3": 1794681973.9719086
+  "news|1a9d89c7e3f3": 1794681973.9719086,
+  "news|e90f6396fcfa": 1794682912.921797
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8658,6 +8659,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T19:01:52.921873+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Strait of Hormuz in chaos as 3 oil tankers struck by mines, says Iran</b>\n📰 AOL.com · Sam 14/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5vbHJxSU9BYmU4VjZlR3BHRGVaajVVOElzNDNVOTBRenR2VDRJeUMxQzZvUE51d0dPUXYydHk3em1QekhuUGZBMURZWnNpTGNQcWIwckxwbHdEWVFBSUJvS2F3bDVXNm9kZ1pTTzFzN0ZlTzc5UnpZSg?oc=5"
+  },
+  {
    "ts": "2026-11-14T18:46:13.972030+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold faces weekly rout as high US yields fuel Fed rate hike bets</b>\n📰 FXStreet · Ven 13/11 21:23\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkZkMHgwOHYxaW1lNy00SV94aTBhLXZXaEp1YXgwXzNVVWJQRXB4TVVVZEQzRm9QUGRoVVhEWmpOQzM5UEpvbENRVUpvOEFkUzZhNzZWY0hseTk2UTA4NDZYOUY2aUFHLWlYeXdoRUhIajdxM1hPcDVIZVZGeEx4LXJmN1JzMGE2SHd5LV9DaU05UFY1RUxra21LOFc1WFJGVWpvQmIyTlVuU3M?oc=5"
@@ -8951,11 +8957,6 @@
    "ts": "2026-11-13T16:46:36.593376+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-13T16:16:15.718586+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 26 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.02%\nTaux 10 ans +0.2 pb\nOr -8.3$ (extrême -12.9$, range 13.3$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
