@@ -1111,10 +1111,6 @@
   }
  },
  "seen_news": [
-  "ab8f49b875cb",
-  "33518d35968e",
-  "59fa7dabd2f7",
-  "af03ca413dad",
   "f609153095f1",
   "778492b2d265",
   "33c41e2a1af0",
@@ -4110,9 +4106,37 @@
   "25a1a9cb7d22",
   "34d026decc05",
   "cd98a1c9cfe0",
-  "25e111174e60"
+  "25e111174e60",
+  "d7f4750bb506",
+  "b4a12e995251",
+  "a8ba670e3cfc",
+  "2ed58ff053ef"
  ],
  "news": [
+  {
+   "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
+   "source": "Yahoo News Canada",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGg1bUpZenFJRGlIM0U4Ylc0WE1FUUcyQ0EtWXUxeEtPS2otWDhPMTV3VnJ1QTRPa1VWNnNmYUthaEpQaURINlpsSlU2OUYtSzRlSmUxclBWY0VCZ2w2b3ZZQmstSF9VemVnWElDVXJJVW9mazdXWTlKdjM3a2VZZVdxUQ?oc=5",
+   "published": "2026-11-14T03:01:00+00:00",
+   "id": "b4a12e995251",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "[Weekend Money] \"U.S. Treasury Yields to Peak Early Next Year... Increase Long-Term Bond Holdings Ahead of 2028 Rate Cuts\"",
+   "source": "아시아경제",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRXFZUnZnWXhpVHgxSG9FVjYyOHdzdWhIWnk0VjFyQ3pteW5Xanh2UnlJdmNiX3BOb0U0WFZsaTR2T3AweFZJQ3hiRURVNHNrVHBzUHZQUTVVNUJFV2lkaFpBdXc?oc=5",
+   "published": "2026-11-14T02:47:00+00:00",
+   "id": "2ed58ff053ef",
+   "impact": 8,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Taiwan Attacks China Critics",
    "source": "WV News",
@@ -4472,6 +4496,18 @@
    "cat": "géopolitique",
    "raison": "Tensions nucléaires accrues avec l'Iran renforçant la demande d'actifs refuges.",
    "method": "IA"
+  },
+  {
+   "title": "U.S., Eurozone Bond Yields Rise",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUm1uQmRvQ0wyVFV4VDljWGRaaWZVRDVONmUwc0dlNW9DeF9zMzRtME5KQmxjOHRkemVqeFA4TVBwUnQzLXhIekJ6ODVzOWpTVUZWemlCakw0UUF1RzY2TWJ0MXF2VkpDTHFsVnpSOU1Vd2wzTWN1dS16dGYwM3FDSC1GR0JuNTlXM3hqcjVoRnpaaW1JNkotYmYzalhoRWFYSmNIMFpYLXJSam1xbmhHZTdtTGRNd0hrZnplUDQ0MmMybERQUVd2ZA?oc=5",
+   "published": "2026-11-13T18:00:00+00:00",
+   "id": "a8ba670e3cfc",
+   "impact": -4,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
+   "method": "mots-clés"
   },
   {
    "title": "Escalation in Middle East Possible in Coming Days, Polish PM Says",
@@ -6476,42 +6512,6 @@
    "cat": "commerce",
    "raison": "Bruit politique récurrent sur les droits de douane avec impact direct très limité.",
    "method": "IA"
-  },
-  {
-   "title": "Dollar Rises and Gold Sinks as T-note Yields Climb",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2x6VDlJU2p3bWVxcjZJSUhBaWtpZG9PNFp5eHFOb0pKODg2QUwzLVRrOFJVYXEwTXRLQy1MdXBzVG9UUGRpcWhLSFNmNjgwb19sS2RBVkczczVLWEd6VEp6X3BwSUJSMW9rcjdPUDdiQVlPelo2MUJtOFFnRkdmbUNVOVc4YjhqTjgtYzcwTkdDMUtoT0Q2RWR5MGR2ZW1ucnNmLVVJMVFQbjg0U3c?oc=5",
-   "published": "2026-11-12T15:40:46+00:00",
-   "id": "176dc4186f3d",
-   "impact": -9,
-   "cat": "taux",
-   "raison": "baissier or (dollar, taux)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Bipartisan push possible to curb Trump tariffs",
-   "source": "Supply Chain Dive",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0R3UUFUeDJBNmhYRHNQMjBlREh0OHoyOElSMXg0U1VPdjBUNnFNYmRxSjhSU0xWRUFVOVBGU3lweldHZzFpZ1F1Rl9fSXJoeGc1Y2tLWjNkQ0JpRHBEVlA1czQ0QnBKdnMzbjZXblBLdGNVWHV6UGFsUEw4blVGcUx1dXVSTGFWd05mZFdNaTIzVklEeHc?oc=5",
-   "published": "2026-11-12T15:29:43+00:00",
-   "id": "96c755c32448",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Possibilité de freiner les tarifs douaniers, apaisant les craintes d'inflation tarifaire et d'incertitude.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Faces Pressure as Real Yields Climb After October CPI Report",
-   "source": "FXEmpire",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmtQb1hKVlpJeEV2ZHB1Z0x2V08yaTNmM25PWlNiOEhJOTdkbVB1Sk9FVTlEeGF0MkltZ05uVWk5SDZEXzJOVEJwR0xnNjF6aTBrUHd6ckdmU29tQVBSdUxpWkVhRTdlTERVR1ZZZXh0WGJEZ0xndmdlblduNHRwVE1Nc3dVYnU1T1lmWTh4bTB3LUtXWG93cDdaM0RGc0JVSkZGbDBsaGRuVmJpQkVsX2R4T0VsVlE?oc=5",
-   "published": "2026-11-12T15:23:52+00:00",
-   "id": "3d56135fe188",
-   "impact": -4,
-   "cat": "taux",
-   "raison": "baissier or (taux)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8227,7 +8227,8 @@
   "news|7c23bafc3e60": 1794622283.2985206,
   "news|c846686f1476": 1794623492.8803875,
   "big|BTC|2026-11-14": 1794623493.8978105,
-  "news|cd98a1c9cfe0": 1794625300.89945
+  "news|cd98a1c9cfe0": 1794625300.89945,
+  "news|2ed58ff053ef": 1794626168.9069579
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8651,6 +8652,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T03:16:08.907037+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>[Weekend Money] \"U.S. Treasury Yields to Peak Early Next Year... Increase Long-Term Bond Holdings Ahead of 2028 Rate Cuts\"</b>\n📰 아시아경제 · Sam 14/11 03:47\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRXFZUnZnWXhpVHgxSG9FVjYyOHdzdWhIWnk0VjFyQ3pteW5Xanh2UnlJdmNiX3BOb0U0WFZsaTR2T3AweFZJQ3hiRURVNHNrVHBzUHZQUTVVNUJFV2lkaFpBdXc?oc=5"
+  },
+  {
    "ts": "2026-11-14T03:01:40.899545+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Rubio: ‘No need’ for further strikes on Iran because the economic pain ‘is so great’</b>\n📰 The Times of Israel · Sam 14/11 02:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2JIaGFwbllfMEcyUzd4Qy1MQTFIMy1RZTV1SGlWNlhKOTE3b2FpZ2VSQjI3SDZkeEFpMWhYTS01eUNwVFlETzM0WkZrbXZTR1RzbmRmbVVZOGdxNWpfTWswZmo0UjJLeGx3dWM4aWd3cmlMbmtESnZxd2hfQUh4akVGMTQ5ekhrZWxMeWM4Q0dCRFR0NkdLX0NTM0Z2dUF3VkJaNFBBMzR2ZWtQVEwweDFPa2JiOE9qWGU0N0RISEFpTkU?oc=5"
@@ -8944,11 +8950,6 @@
    "ts": "2026-11-13T11:46:11.659626+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Indian rupee snaps rising streak on hawkish Fed, oil rise</b>\n📰 Reuters · Ven 13/11 04:12\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2lRcFhDeEM4YTZPLVVWRHNYTnU2XzJhTFJMTUpjT2lyY0JwZ25WaGxCR01JTVpRZTJBVE5SZ0Y1LXdqSzJFRDBWVW15TnEwRE9idm9zeGVGZlpPVndfdGhoQlhmaHlkSFdDZmdXOGQ2N00xMVlKX3JFbkMtYzN5Y2VULUkzNkZmV1VtMnBCSU81eFRkRGFxUG9XRlVqcGNfelRrSHZQNXZQSExsbDhBaVdlcWlfWDhu?oc=5"
-  },
-  {
-   "ts": "2026-11-13T11:01:42.866047+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.24 → prix : <b>103.28</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.33 | 60j -0.41"
   }
  ],
  "daily_forecast": {
