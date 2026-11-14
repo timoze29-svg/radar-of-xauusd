@@ -914,19 +914,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1794618971.8466022,
+   "ts": 1794690982.1817553,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        13.9
+        14.7
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
@@ -936,77 +936,77 @@
       "low": [
        [
         0,
-        19.1
+        19.0
        ],
        [
         2,
-        11.3
+        11.2
        ],
        [
         16,
-        10.4
+        10.3
        ]
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
        ],
        [
         15,
-        9.0
+        8.9
        ],
        [
         2,
-        9.0
+        8.9
        ]
       ],
       "low": [
        [
         0,
-        11.5
+        11.4
        ],
        [
         16,
-        10.7
+        10.6
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 121,
       "high": [
        [
         2,
-        11.7
+        11.6
        ],
        [
         16,
-        11.7
+        11.6
        ],
        [
         21,
-        6.7
+        6.6
        ]
       ],
       "low": [
        [
         0,
-        13.3
+        13.2
        ],
        [
         14,
-        7.5
+        7.4
        ],
        [
         21,
-        7.5
+        7.4
        ]
       ]
      },
@@ -1050,7 +1050,7 @@
        ],
        [
         0,
-        11.9
+        11.0
        ],
        [
         17,
@@ -1064,24 +1064,24 @@
        ],
        [
         15,
-        8.5
+        7.6
        ],
        [
-        3,
-        6.8
+        16,
+        7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5956,
+     "n_hours": 5980,
      "horizon_h": 2,
      "base_gold_up": 53.3,
-     "base_dxy_down": 48.1,
+     "base_dxy_down": 48.0,
      "down": {
       "3": {
-       "n": 244,
-       "p_dxy": 51.2,
+       "n": 246,
+       "p_dxy": 50.8,
        "p_gold": 56.1,
        "gold_avg": 1.5
       },
@@ -1094,15 +1094,15 @@
      },
      "up": {
       "3": {
-       "n": 266,
-       "p_dxy": 55.3,
-       "p_gold": 49.2,
-       "gold_avg": -1.0
+       "n": 269,
+       "p_dxy": 55.4,
+       "p_gold": 49.1,
+       "gold_avg": -0.9
       },
       "4": {
-       "n": 75,
-       "p_dxy": 57.3,
-       "p_gold": 50.7,
+       "n": 76,
+       "p_dxy": 57.9,
+       "p_gold": 51.3,
        "gold_avg": 0.1
       }
      }
@@ -1111,12 +1111,6 @@
   }
  },
  "seen_news": [
-  "20cd17a1d937",
-  "d9d81b940fd5",
-  "8c57b2fe1a16",
-  "1f6dc16c510f",
-  "2f7ef6a139ee",
-  "e32246f89255",
   "654a414c9843",
   "2e72ffbd9a11",
   "c814bda556a3",
@@ -4110,7 +4104,13 @@
   "6c94cef32134",
   "cdcd28e55e53",
   "47c180af2ca7",
-  "c03ff1a0be2a"
+  "c03ff1a0be2a",
+  "1ee3a65a8630",
+  "7fde8753cb81",
+  "e87c987ae759",
+  "fc460411b02d",
+  "e3e6c361576d",
+  "0c6a1d7e6093"
  ],
  "news": [
   {
@@ -4121,6 +4121,18 @@
    "published": "2026-11-14T20:00:28+00:00",
    "id": "0b7f91a97b4a",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel fears surprise US strike on Iran as nuclear talks fuel concerns of escalation - analysis",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLOFpzRl9MQUJDakYzbFlFLVRtXzRxdjVhT215Y0piSG9LRHJucXU1WmpzSDJXYi1zV3FyblIzWTQySzFBRWZkVnV4TEhZMDBUWE4tdjlZWGdlXzJMSmZsVXhqUldlNHN5T3c?oc=5",
+   "published": "2026-11-14T20:00:28+00:00",
+   "id": "7fde8753cb81",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4318,6 +4330,18 @@
    "method": "IA"
   },
   {
+   "title": "Randy Essex: After midterm rout, Republicans may help force Trump to back off tariffs",
+   "source": "Windsor Star",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXJJU0JQNnFYdTMtS1hiYU0tMVhoRGFJckNPY2lxSm9GQWMtQzlrYlp5Z2RuS1BjRGpBZW9qOHZFSWdseGxCZkwwUkJUcHNVTnYwTE1rUjFHY0FqMm1QekxQNlFJdUIzclA0UzZXcEJwWl9iV0Jidk1CWFhvWmgtSmJCRnZXZGppNXVNREFlM3RsVGFBa2VmTElTMGpqaVFnbHJkd1d2WUF6N0hqR1Bpb2JRb01fZDA?oc=5",
+   "published": "2026-11-14T15:09:12+00:00",
+   "id": "e3e6c361576d",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "EU Warns New US-Iran Military Escalation Could Have Severe Regional Consequences",
    "source": "Kurdistan24",
    "theme": "Moyen-Orient",
@@ -4420,6 +4444,18 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5",
    "published": "2026-11-14T13:49:30+00:00",
    "id": "e01050cf0724",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Occidental Scraps New Oil Hedges as Iran War Fuels Price Volatility",
+   "source": "EnergyNow.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Yzd2IyUzdqUUNEd0t2ZVBtTHRIMVA1bzBVODdqbEVIQ1lpSW93cWdRM0ZmTy1mQjNibFlLWnVtS3kyWDYxZVdaZDJuU2V6MXVZamFWUkVzSmZQbGkteWtkTTBtRnJtUDJXZGdyN3Z6WFlsbjBIdDFoejZXdUFxVEVDeHRYLThNaUxMUDFkbm5GTUJtVGVZTU1hb0hnMUE?oc=5",
+   "published": "2026-11-14T13:37:09+00:00",
+   "id": "e87c987ae759",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6476,46 +6512,9 @@
    "cat": "or",
    "raison": "Baisse technique sous pression, marchés attentistes avant les chiffres d'inflation PPI.",
    "method": "IA"
-  },
-  {
-   "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQk5HZ2otLXgxVjM2Y2t3MVVGZllBYWlRUTBIYjJZb3FGcW15b0g1ZUlfR0FQT2NTZGhUcFpGR1JYczNaT3hucW91SE92U21TMW9lZEtkdUVTQm1hYUx1WmFJYmFzODdaUXFRSjV1aXZ5VzBRYzhrcHhvdTBMNVF2V1ZPTVhoWVN1dmdWRUUydWFFQi1mblE3a2dhN3ItSHhIWkNKSm1uMjVhS09NbW9na0VR0gG3AUFVX3lxTFBZTDVsS0F3WXJrQ1VlTDd1dUgzWC03ZlFSQjdSMzUyNG9JUzhzNW8wbmc2YXBiM1ZXbjlLa2NZc3VTTWtKY09QeHNOWHlFQl9mbVp2aFFId1JtdEFwb1N1WWc2c1VqYTJaX0U4ZTNjV1d4SUJJRW9WckF0Mm1hUVFQWENJS0xiYUNOTnRGdkk3WkRSZVJRUWxrRHlzN0JIX25ybzVCNk5ob2FjWEpobHJBblJabzhjdw?oc=5",
-   "published": "2026-11-13T02:37:30+00:00",
-   "id": "cb5b44c9a5bc",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risque d'escalade militaire en mer Baltique ravivant les flux de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Commodity Corner: Oil holds gains on US-Iran tensions; gold near one-year low on rate hike bets",
-   "source": "Moneycontrol.com",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT0cyZWlFRlRPNmZYSWh6Y0RWWUNDb28taUppbUx1T19GZkM2TFB2YW1NVWotay1tdzgxSHExMEZLTG9uLTc2OGQ1Q09za3FVbGsxLVo3eVp1OHRmanljQnladFVKYXA0dVNjeGRLTWdBZ253Y215eXZ0SEhFRC02cTJUYU1rdzJRMEFPSjlDa0lFeVJQZzFSZ3h0TzlPZXg4YkFjNDhoczNPZVhJMnFvVnBVREhqYVdfWDYwZ21GUU9Yak0yRllQQjlxMUZnNHlsakkzeEFLNDhpeXFRd2IxNDNqOG5qQ3VJb2o4cUZR0gHzAUFVX3lxTE9hWWFXLU9TbWdNTXktN0laSXJWcC1IRGxpdmp1alpzazR3N0hqVGU2TE82RkFLM3NiWFEyeVJMM1BVVWpEaktiMmpVSG9mTC03dVZjS09sckNEdkxzMGJZSkozc2ZhMUZISVVQRXhVeS02S2dPTmN3Rm5CakFYeWgxVXBia2NVQlQ3QjRHcXRrOEw3M2t1MDRGWkpUc1ppakt6S0tVdEdSRDh5NGdQaTUxSVdlZ3R1TnU5SzdwaTBsOU9acE03ZzM1YkRPS202NFdTRXJqR0hOdnlYSTJXRDJZTlBrYXU5VXpmX1g3UFJjX3lRaw?oc=5",
-   "published": "2026-11-13T02:31:00+00:00",
-   "id": "58a748e322e5",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "🇮🇱🇮🇷🇺🇸 Would Israel strike Iran alone? Netanyahu and Eisenkot just held a 2-hour security meeting as the army is reportedly told to speed up attack plans Larry Johnson, a former CIA analyst, says a solo Israeli strike would bring an answer from far more tha",
-   "source": "X",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVktDd1JDbFdFSUVRc3hrSlROVHRDb0JCbW1lOEhBamtzbFFKbVRTWTZMeUJpS3BwMWNBUzBDQzRTRnJKOWlpQ3VWWWFXUTNWX2g5cVM4THJ1dGxMSk96R3JKN1dvejcyc3FPSg?oc=5",
-   "published": "2026-11-13T02:11:37+00:00",
-   "id": "828fc96eeab1",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Craintes d'une frappe unilatérale israélienne sur l'Iran, fort soutien refuge pour l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|072dbb4a7f2c": 1792876571.6225731,
   "news|1913bdcca745": 1792882895.3343563,
   "news|118c1ab1a888": 1792884682.9088604,
   "news|9fb796956aa5": 1792884683.876696,
@@ -8238,7 +8237,8 @@
   "news|dcd69b5bb087": 1794687367.201806,
   "news|bab40ac176d5": 1794688295.0616612,
   "news|80edbf1017ef": 1794688298.7401469,
-  "news|64d4c72ebf4a": 1794688299.7456126
+  "news|64d4c72ebf4a": 1794688299.7456126,
+  "news|e87c987ae759": 1794690978.3648305
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8662,6 +8662,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T21:16:18.364920+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Occidental Scraps New Oil Hedges as Iran War Fuels Price Volatility</b>\n📰 EnergyNow.com · Sam 14/11 14:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Yzd2IyUzdqUUNEd0t2ZVBtTHRIMVA1bzBVODdqbEVIQ1lpSW93cWdRM0ZmTy1mQjNibFlLWnVtS3kyWDYxZVdaZDJuU2V6MXVZamFWUkVzSmZQbGkteWtkTTBtRnJtUDJXZGdyN3Z6WFlsbjBIdDFoejZXdUFxVEVDeHRYLThNaUxMUDFkbm5GTUJtVGVZTU1hb0hnMUE?oc=5"
+  },
+  {
    "ts": "2026-11-14T20:31:39.745905+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war - ABC News</b>\n📰 Breaking News, Latest News and Videos · Sam 14/11 13:29\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORng2eU5QQWk1a21qSHlmMjZGR1ExSDh6NXAyNW1HZkd3ZE9HWl81SFRyT0xEcjJQTVg4bFBoT3ZMekNwN3pHd1cxZXBvSndhRkpseFZOM2hpalJidkd4VUl6bUpuTHN6cFgzUkszSVdzeFdLYlZ4NTJ5TFozNWYxdG5sWVhYaVJSN1hydWk3RzlERE1HNHVGUNIBngFBVV95cUxNWmljYjB6Vms3NUV3Qzg0MWxQcUo5VFI2RzFTTzNmSmhYM0VMODlDTjhfT19uaXhaOVM5azhnNXlJTEV3aFk5M3NWdnFxaEZsRVV6VzdGbGdpeEF6UG84cS1kNFVNT01oN21SODg3ajZ1SzdYZVozd2RuczViT3VGeUtTYjY5TmpqVV9YLWFtZTBJd3JpVENwVGM4c21WUQ?oc=5"
@@ -8955,11 +8960,6 @@
    "ts": "2026-11-13T21:49:15.830322+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 20 JOURS\nNiveau : 48.550 → prix : <b>48.420</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.89 | 60j 0.85"
-  },
-  {
-   "ts": "2026-11-13T21:49:13.280675+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 48.550 → prix : <b>48.420</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.89 | 60j 0.85"
   }
  ],
  "daily_forecast": {
