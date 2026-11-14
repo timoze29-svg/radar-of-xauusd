@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794676549.4692876,
+   "ts": 1794680156.885334,
    "data": [
     {
      "title": "CPI y/y",
@@ -1111,11 +1111,6 @@
   }
  },
  "seen_news": [
-  "3f26ea6d0e67",
-  "59b598f85a93",
-  "e35157e386c2",
-  "74e266642303",
-  "7c1ee929f558",
   "a00ed13f7ac6",
   "7cd5907eb1ec",
   "95b8c288fabf",
@@ -4110,9 +4105,26 @@
   "174227191f4b",
   "6d0b5a28ac43",
   "e64f366517b4",
-  "774c1e2449eb"
+  "774c1e2449eb",
+  "c6a368d5bb81",
+  "2df35c36f256",
+  "e5ea3c619d43",
+  "a177caf63ec0",
+  "1d2089abab31"
  ],
  "news": [
+  {
+   "title": "Netanyahu pushes Trump for Iran strikes amid Mossad US visit",
+   "source": "The New Arab",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbURBNW9jQ2hZX1FLQjZzZ3lXMHVvdkh4eW9tcWFIdkg1b18tWk83b0p0MEw2M01KYUVrWXBPVy1FNVRuVVo3bFM5Sm1vWFZidU1WV0tQeGhKNGNiTzNVSmRMUU14WVcwbkt2LTlpXzRhWmlkV1VlXzl5by1JMDVPWmNHNVJjUDB6VHQ1ZVZR?oc=5",
+   "published": "2026-11-14T17:28:14+00:00",
+   "id": "2df35c36f256",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US warns citizens of rapid escalation risk after Houthi attacks on Saudi Arabia",
    "source": "The Jerusalem Post",
@@ -6500,23 +6512,9 @@
    "cat": "géopolitique",
    "raison": "Attaques directes de pétroliers à Ormuz créant un choc géopolitique très haussier.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says Gulf allies urged restraint on Iran, admits war hurt Republicans in midterms",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HNUpqRmNuWTR6SmdGRFBKVkowc1hQZlhrdVJVZ0NzejQwTW5yZWhTZlV4Qy1KVksxSUFaRFd2dXlvUFJWS1U5T3V3UjF6bnFnYlBwQ3c3N3FsUEI2bU5n?oc=5",
-   "published": "2026-11-13T00:31:44+00:00",
-   "id": "054f86d92b8a",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Pression pour la désescalade au Moyen-Orient réduisant la prime de risque immédiate.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|8b7573886f84": 1792865096.6236997,
-  "news|f75e027f087a": 1792865097.4494011,
   "news|da913e6af3cd": 1792867566.4798658,
   "news|4d569b2c6665": 1792867567.3676517,
   "news|c8cca0a70cf2": 1792867568.2808714,
@@ -8234,7 +8232,8 @@
   "news|0c7406bf5ada": 1794676751.6402075,
   "news|0850062cc247": 1794677492.777826,
   "news|5e3e0340c6bf": 1794677493.6729288,
-  "news|5eaee61c1d34": 1794677494.4499447
+  "news|5eaee61c1d34": 1794677494.4499447,
+  "news|2df35c36f256": 1794680175.5088778
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8658,6 +8657,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T18:16:15.508993+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu pushes Trump for Iran strikes amid Mossad US visit</b>\n📰 The New Arab · Sam 14/11 18:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPbURBNW9jQ2hZX1FLQjZzZ3lXMHVvdkh4eW9tcWFIdkg1b18tWk83b0p0MEw2M01KYUVrWXBPVy1FNVRuVVo3bFM5Sm1vWFZidU1WV0tQeGhKNGNiTzNVSmRMUU14WVcwbkt2LTlpXzRhWmlkV1VlXzl5by1JMDVPWmNHNVJjUDB6VHQ1ZVZR?oc=5"
+  },
+  {
    "ts": "2026-11-14T17:31:34.450074+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US PPI Inflation Hits 6.5%, Highest Since 2022, as Nasdaq Sinks and Bitcoin Faces Fed Rate Hike Risk</b>\n📰 Coinpaper · Ven 13/11 19:43\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEFxR1lXRVNFdHlqZlBWZTMyTmhmWEZvbzNEMVpsTmlBQ2Z2VUVUNDRXbWlHdHNPd2lKS25Qc21ONHp3cUI0V0ZLRTFfcm5QTlYwM2FCTGgtTFU1LU5DMXdVSWxnbUlvZjNUbmVPZF8xRUlqYVlyaGt4SERWdHBiaGZFdDVJdFJqY1g1WWVlaHZfSVFjTlpsQ3ZoT01ERGQ5NnVoOFVjSi1jMmNkV3drQ1dhdE1uajJmUDhIemNIOEszQkE?oc=5"
@@ -8951,11 +8955,6 @@
    "ts": "2026-11-13T15:17:21.652129+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions</b>\n📰 Yahoo Finance · Jeu 12/11 21:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTRMclVYN05nVk1la2xKQTRKZW9tb1o4cTA0OXJVc0h4YlFzeGR6QWxoNGxLdzZRVGRrc00tamJsUW1QQU1Lb3MtSHpBb05NclE1YmVkQk1rbnpmTFBud2sxc2cydkFRM3dVSmNCUDlyRHkwYXBKQktjVURsYk1BblEtM2FZRWM?oc=5"
-  },
-  {
-   "ts": "2026-11-13T15:17:20.635175+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold pares gains as mixed US PPI offers little relief from Fed tightening fears</b>\n📰 FXStreet · Ven 13/11 14:54\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQekpaVjlZbTJwWWQxTWVQLXV4VkZKeDR2dlNfanhvbjVMTUdTWHEyYUxCS2x1Mkt3aWJ2em1Cdm16SWlhNS16c3Z3eG9WRjBtRWRCOGJmcWNSUGhLN09LY2NxbUx6Q1FuaGpoZVdOT3J6ZlA4eUl0LVJWdEVEU0dCZ1dELWhWakFtcm04N0FBS3FWempF?oc=5"
   }
  ],
  "daily_forecast": {
