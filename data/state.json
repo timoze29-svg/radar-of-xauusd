@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794656752.9716504,
+   "ts": 1794661271.6992424,
    "data": [
     {
      "title": "CPI y/y",
@@ -1111,7 +1111,6 @@
   }
  },
  "seen_news": [
-  "d4fc1b3e54f9",
   "55f355ec19fb",
   "5f8ca06ccc7f",
   "d8acc064a62b",
@@ -4110,7 +4109,8 @@
   "121d8098c1bc",
   "2a7db04355c0",
   "1a377ea88154",
-  "96d33d169ac7"
+  "96d33d169ac7",
+  "12914bb185d9"
  ],
  "news": [
   {
@@ -4976,6 +4976,18 @@
    "cat": "géopolitique",
    "raison": "Mobilisation navale massive chinoise vers Taïwan, risque sérieux de blocus haussier pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Board of Peace urges 'immediate' implementation of Trump’s Gaza plan after Israeli strike on hospital",
+   "source": "Muslim Network TV",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVJKcHM1aUFmQno1UTZIWEtteU01ZEE2MlhmeW5naWE3RlkyTjlFT05jVXNVWmlaSDcyejNWT2lhcDhpRnJLRnpua0FQbDNfMnYtTWMyWTR6SmhwSklEUXlLYjVQa3ZJRlVxLUdPMWQ3UnQwNnR3VVM0eER2R1c1YVpuc2NrMUMtMURqa2JWY3ZqNVNuRFVsSEpabjhleGh2Mk5LSXJyYWZQSk9WMUw0alpqbm1XRDJYeERBcmlUbUg2aHFxNEhj?oc=5",
+   "published": "2026-11-13T15:11:45+00:00",
+   "id": "12914bb185d9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Tariff Rebuke in Midterms Is Set to Unlock US Factory Investments",
@@ -6499,18 +6511,6 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump threatens to double tariffs on Mexico over migrant caravan",
-   "source": "Denver Gazette",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGwwYlBlb2xXNFBPY2YyNkVSUDR0eGQycjhIdXNwVHljYjYtN2d3amJRUlJtQ3g2OTNvZHRZZzdPV3JHVXhlS25YTUxkeURtTERfNXkxc1NLQzY5Ymg3SF9SeDJ5ZWpPbzJvSWg4YTJ0QXFhME9sdUxwZjVRQ21pTjYwcUpKOW9CUUVvSkhRY3VoRGMtUDIwVzZ2Njl0N0p4SmxBNzJiTEs0QQ?oc=5",
-   "published": "2026-11-12T19:44:11+00:00",
-   "id": "0e46e32f2668",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   }
  ],
@@ -8229,7 +8229,8 @@
   "news|812c48c374da": 1794650948.5661128,
   "news|b59825649043": 1794654966.7562747,
   "news|1392eb41fbbe": 1794655886.266796,
-  "news|332a3b838f34": 1794660571.4163475
+  "news|332a3b838f34": 1794660571.4163475,
+  "news|12914bb185d9": 1794661323.4028912
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8653,6 +8654,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T13:02:03.402960+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Board of Peace urges 'immediate' implementation of Trump’s Gaza plan after Israeli strike on hospital</b>\n📰 Muslim Network TV · Ven 13/11 16:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVJKcHM1aUFmQno1UTZIWEtteU01ZEE2MlhmeW5naWE3RlkyTjlFT05jVXNVWmlaSDcyejNWT2lhcDhpRnJLRnpua0FQbDNfMnYtTWMyWTR6SmhwSklEUXlLYjVQa3ZJRlVxLUdPMWQ3UnQwNnR3VVM0eER2R1c1YVpuc2NrMUMtMURqa2JWY3ZqNVNuRFVsSEpabjhleGh2Mk5LSXJyYWZQSk9WMUw0alpqbm1XRDJYeERBcmlUbUg2aHFxNEhj?oc=5"
+  },
+  {
    "ts": "2026-11-14T12:49:31.416437+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>A War on Identity.. Occupation Authorities Escalate Targeting of Civil and Cultural Institutions in Occupied Jerusalem</b>\n📰 جريدة القدس · Sam 14/11 13:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ29BQVhIREItV2FxMXdlNmxTazI1dkUzaDk1UEFfUUNQR1JUWkp5c2J4Uks0YUY5NENSbEhhMXk5Wlc1TDVjRE8wWFdRRzNsMnRxbDdKQ2VTejliLU9GaTZfYU0td0dfUDdqRlNvQjROMW5wQ3ZYYXo0THFTTDhqU1RlMGhZc0hiUGRJZXBTQ3VNUGNabGozZEtXYk9HUkc3RUtIWXIzYldKNEE?oc=5"
@@ -8946,11 +8952,6 @@
    "ts": "2026-11-13T14:02:39.498236+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed’s Goolsbee warns inflation worsening, pressures policy tightening</b>\n📰 Crypto Briefing · Ven 13/11 14:49\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHl2b1JGS21yY0g1V0ZlTHFLcVVHY2dXaGhKY2hwUlBvRzZEY2o5ZVpkMU9ZenVMelczbDk4UWlUWUtyWUVfWWltWUNwY25wSmhhQXIyUGJEeXIxZEhkRWVVSmwwZ296ZDE1c0NLR1hTOGlKYVZxc29kTnpZam1xRXlVTEt1aE9hdHUwRXBVaDdtbFdWZDNmRTNwRQ?oc=5"
-  },
-  {
-   "ts": "2026-11-13T13:46:23.837972+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Collins Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
