@@ -1111,13 +1111,6 @@
   }
  },
  "seen_news": [
-  "79a35345d5f7",
-  "d20117204bf8",
-  "6158de4f24df",
-  "66d38b433cfd",
-  "6ea0dbc3368c",
-  "1082ea3e49bc",
-  "3569521db959",
   "219f27d42f9b",
   "426df07cef12",
   "f71343990d3b",
@@ -4110,7 +4103,14 @@
   "f94d97e4da50",
   "f5ffc108ca97",
   "e7a5acff9a5b",
-  "65a4a68d0d68"
+  "65a4a68d0d68",
+  "72ee7c58897c",
+  "1743bac67f70",
+  "fa21a05c99d3",
+  "27c284307e60",
+  "93b555508096",
+  "1cdbfc6ee94f",
+  "764b9234eafd"
  ],
  "news": [
   {
@@ -4135,6 +4135,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "EA on LBC: GOP’s Mississippi Blues as Trump Sidelines Vance on Iran War",
+   "source": "EA WorldView",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzU4cWMyZGNwSTRCSjFoMXJJTjFZdEdJWmVvWVdEU0RxSHVXaXhwNGdWNzZlWktlTzZZeDUtbVo0QnBhSU5YeUs0S2o2WFhmNENMbTQyLW9weTdrMTFfUnNkc2dFcjN5NG4xWGRpdGV3b240M25Rd1VNazkzRllZcEs2dnhKWE9VSWNVYnhXZDRRaWduR1E?oc=5",
+   "published": "2026-11-14T14:43:17+00:00",
+   "id": "fa21a05c99d3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6500,24 +6512,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Donald Trump threatens renewed strikes on Iran, claims regime on brink of collapse",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MdnNWR09aeDE5WkJFMmJPYUFCRm5ROHJ6SGs3aDRMdUt6WmYwalk4RExvMzdFSDJQRHVoTVZ5cVAwVUMzTDU3cV9LNWVlMTl2WGxRWmNfcVMtM19tVEJhNVg5V2MzTHM1NHc?oc=5",
-   "published": "2026-11-12T21:28:26+00:00",
-   "id": "7705faecf3de",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "brk|BTC|pwh|dn|2026-10-19/2026-10-25": 1792855157.7822695,
-  "brk|BTC|h20|dn|2026-10-19/2026-10-25": 1792855158.6493857,
-  "news|bf9f415fc8c8": 1792856073.1309469,
   "news|dca7766c6b80": 1792856769.8858502,
   "news|8b7573886f84": 1792865096.6236997,
   "news|f75e027f087a": 1792865097.4494011,
@@ -8228,7 +8225,8 @@
   "news|f1a17d85dab2": 1794665772.2489116,
   "news|e7becc5691fc": 1794665774.7544112,
   "news|b23680b617e4": 1794667569.72875,
-  "news|980176be0cda": 1794669493.2757602
+  "news|980176be0cda": 1794669493.2757602,
+  "news|fa21a05c99d3": 1794671166.5949106
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8652,6 +8650,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T15:46:06.595002+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>EA on LBC: GOP’s Mississippi Blues as Trump Sidelines Vance on Iran War</b>\n📰 EA WorldView · Sam 14/11 15:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzU4cWMyZGNwSTRCSjFoMXJJTjFZdEdJWmVvWVdEU0RxSHVXaXhwNGdWNzZlWktlTzZZeDUtbVo0QnBhSU5YeUs0S2o2WFhmNENMbTQyLW9weTdrMTFfUnNkc2dFcjN5NG4xWGRpdGV3b240M25Rd1VNazkzRllZcEs2dnhKWE9VSWNVYnhXZDRRaWduR1E?oc=5"
+  },
+  {
    "ts": "2026-11-14T15:18:13.275838+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>EU Warns New US-Iran Military Escalation Could Have Severe Regional Consequences</b>\n📰 Kurdistan24 · Sam 14/11 15:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1R4SHhxOXRTSWtzdnMtMk5JN01TaGhKMnE3WllLdVRwVUVwa3FkTV81a19XM3dXcTNzVUsxbklEWjZpc2dzTUE1Y1ZKOW9kemx5cXlnQ0VQTGlUVURBZWR0eGxnMnVRRlN3RlNqZ2Q3dGFVMVpVNjVSeUpDd0NKNFJWb1RGU0VyY3NWMVVNdkUzb3NleEdVd04xOEw1b2RPM190QVgtcGhIdU5rWlEwLWNPNnFHRGV6X0lqbDF3MktBZw?oc=5"
@@ -8945,11 +8948,6 @@
    "ts": "2026-11-13T14:32:05.296451+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 22 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Collins Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.04%\nTaux 10 ans +0.4 pb\nOr +1.7$ (extrême +6.0$, range 7.2$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-13T14:32:02.268575+00:00",
-   "kind": "dollar_pressure",
-   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n▫️ DXY +0.02%\n✅ Taux US 10 ans +4.6 pb\n✅ Pétrole +0.97%\n✅ EUR/USD -0.17%\n▫️ News dollar/Fed : 2 (impact moyen or -2.0)\n   • Fed’s Goolsbee warns inflation worsening, pressures policy tightening\n   • US wholesale inflation eases in October but remains elevated at 6.5%, highest since 2022\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>55%</b> des cas sur 2h,\net l'or a baissé dans <b>49%</b> des cas (moyenne -1.0$, sur 266 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
   }
  ],
  "daily_forecast": {
