@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794596499.0556896,
+   "ts": 1794618950.9827855,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.78,
-     "date": "2026-11-10",
-     "chg5": 0.13,
-     "chg20": -0.1,
+     "last": 2.86,
+     "date": "2026-11-12",
+     "chg5": 0.22,
+     "chg20": 0.02,
      "hist": [
-      2.13,
       2.18,
       2.16,
       2.1,
@@ -129,18 +128,18 @@
       2.6,
       2.63,
       2.66,
-      2.78
+      2.78,
+      2.86
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
      "last": 2.24,
-     "date": "2026-11-12",
-     "chg5": -0.02,
-     "chg20": -0.11,
+     "date": "2026-11-13",
+     "chg5": 0.0,
+     "chg20": -0.08,
      "hist": [
-      2.39,
       2.4,
       2.4,
       2.39,
@@ -259,18 +258,18 @@
       2.23,
       2.22,
       2.2,
+      2.24,
       2.24
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.73,
-     "date": "2026-11-10",
-     "chg5": 0.12,
-     "chg20": -0.06,
+     "last": 4.86,
+     "date": "2026-11-12",
+     "chg5": 0.28,
+     "chg20": 0.04,
      "hist": [
-      4.04,
       4.08,
       4.13,
       4.01,
@@ -389,14 +388,15 @@
       4.46,
       4.51,
       4.56,
-      4.73
+      4.73,
+      4.86
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -463,7 +463,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -914,7 +914,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1794546279.739286,
+   "ts": 1794618971.8466022,
    "data": {
     "gold_hours": {
      "0": {
@@ -1042,25 +1042,25 @@
       ]
      },
      "4": {
-      "n": 117,
+      "n": 118,
       "high": [
        [
         16,
-        14.5
+        14.4
        ],
        [
         0,
-        12.0
+        11.9
        ],
        [
         17,
-        11.1
+        11.0
        ]
       ],
       "low": [
        [
         0,
-        12.0
+        11.9
        ],
        [
         15,
@@ -1074,10 +1074,10 @@
      }
     },
     "dollar": {
-     "n_hours": 5946,
+     "n_hours": 5956,
      "horizon_h": 2,
      "base_gold_up": 53.3,
-     "base_dxy_down": 48.2,
+     "base_dxy_down": 48.1,
      "down": {
       "3": {
        "n": 244,
@@ -1111,13 +1111,6 @@
   }
  },
  "seen_news": [
-  "8ebfd6c11b22",
-  "483d8f648165",
-  "d21e3646dfdd",
-  "fa8bcdd81146",
-  "3d53ccca32ec",
-  "77f17c0f2edf",
-  "5c79253691b3",
   "81b39ed4ba29",
   "b0c4422ccc14",
   "5f7c60740e01",
@@ -4110,44 +4103,39 @@
   "fe4523a6c689",
   "a6721424f0f3",
   "3f05421779bc",
-  "8a1cc95cb86f"
+  "8a1cc95cb86f",
+  "b25574eaa8f2",
+  "e1876d03f528",
+  "9c609c10a5b6",
+  "f936dca4bacf",
+  "3a6cdb7536dc",
+  "324566ef3855",
+  "f1ec9206ae1e"
  ],
  "news": [
   {
-   "title": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran",
-   "source": "PBS",
+   "title": "Trump does not want to resume war with Iran 'for now': Report",
+   "source": "Anadolu Ajansı",
    "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHRmUU1nendWQU5JOEp5c0VxXzhXVEVOaHdVUnlZNUI2MFpsMHd6VERDSWV0TE4yYlVISFpMMmJmMVJ1S1BuYVpKQlljOVRSdzd3dVZJLVVRaTVLOFQ0Q3pqeHhZeXNtZUpzdGVwYXJhVXhiSWZ0UUtBRkNHaHk5blZ2WVR1TDlNbGViUG9ENTZjckFoSWg4RkVWbHNJVnFLYkFBZWc2cHpwSFpVamsyc0xRckRFZk9uN05qTWJXSGZ5cGcyZks0?oc=5",
-   "published": "2026-11-14T00:30:01+00:00",
-   "id": "3f05421779bc",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXVRZ1d4T2tYRDEzQjdCOVBKQ1BsTEg3WnR2TzNvdjJXVzF5TFU4WlowYVp3SEVhcGtaNU1NSURfOXkyVUZhaWI5dFVsSjQxbkVWek5IZkZfVE9NYzdXVkdIN2ZSU0pHeEV6MVFyc3ZHUnlPeGZxQ1B3UmoxUzJWeTlmc0Zwb0xqdVgwNWpKdVBaT0RBZWpsSGp3NTR3bDdvczQ2ZWhYd2dab2FvdTNn?oc=5",
+   "published": "2026-11-14T00:39:07+00:00",
+   "id": "b25574eaa8f2",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
    "method": "mots-clés"
   },
   {
-   "title": "Amid Nationwide Ground Stop, Trump Rants About Overhauling Entertainment Industry",
-   "source": "Yahoo News Singapore",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TYzVZOTE5SVI4dW44X2hfd25COTRfVzBYTHNsU0ZLR1hTazRRSjNsaDUxeWM0Qm4tbEQ4VTlMeE8wa3Y2NjBnOVJfVHpyQTJQV1ExU3VqYi15ZUxQZzdjTTdicTlmMXhzUm9ZWVdjdGluV2lmamh3RWc4ZkpUR2s?oc=5",
-   "published": "2026-11-13T23:33:51+00:00",
-   "id": "a6721424f0f3",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says",
+   "source": "Arab News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2lVby1sUDgxNXZXcm0zc29WUTBzNWlLaXFEZ0NZenp3Ml9xTmVvOXJsVzJ4aTdZejBSeU1PcHhMNlZrU09hMUF0dlB2aVFtYWNoNFpqVkM3YU51SWp0dmM4ZlN1NGY2cjNoOWNtcVVybU1hRkduMklRekFzcURvWlZGdGd5VHEtRGFmbHFiMGRGN2JQWVJ0RmhKZGVVNUI1Y3QtWE9IMTJsRTZ5eG1malc4czQ2andCMklBRWNhTExBeWtyajI1Z1hnM0N3WS1teXNqdlUydzliUndUeDdBZjFn?oc=5",
+   "published": "2026-11-14T00:16:38+00:00",
+   "id": "e1876d03f528",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump Hasn’t Commented on Nationwide Flight Shutdown, But He’s Promoting the Federal Film Incentive",
-   "source": "Variety",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUc3YTFrQ1hoMENXRkVCRW85aVhiU0dwQTluNWtwN1lGV3AyMlBpVkZpdEd4MFVEeU5GWW9CSDBOMGpWLWV4QmZLVXJDa2VKV21wZmFjcnFPalpIRTJPN3ZYMTd1WGZkaUkzd21MMVRaRGRnRjhRdEVEeU1uTFl3am9scWhMSVhrMjRCV2ZRVUI3UnV4Y3owVEFlQ3NaTzJ1bWlqRTMzZFpiNUJxQ1E?oc=5",
-   "published": "2026-11-13T23:28:00+00:00",
-   "id": "71bb34ae782c",
-   "impact": 0,
-   "cat": "politique US",
-   "raison": "Aucun impact macroéconomique ou financier mesurable sur l'or.",
-   "method": "IA"
   },
   {
    "title": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
@@ -4520,6 +4508,18 @@
    "cat": "géopolitique",
    "raison": "Tensions militaires Chine-Taïwan soutenant la demande pour la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "The 10-year U.S. Treasury yield climbed to 5.12% and the 30-year yield neared 5.45%, placing the bond market back in the spotlight.",
+   "source": "Moomoo",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbHBTOHAxYXVOWFVHQXZBVnVtNUdaaHk0WGZKOEZPN1VNYkh4SXJkTXpwc1VMOU43am9ZSUVjQkJOSDVaWVR4c3M4OC1Sa1lZMnUyWlJBcEZxRzRNT2tfSGFtQUJpbUZFdksyTVFETXM4cEVVTGd1d1BIOUU4cjBvT1ptN2VjYmo5Q21ORFJDLVJodUU?oc=5",
+   "published": "2026-11-13T16:25:06+00:00",
+   "id": "f1ec9206ae1e",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
+   "method": "mots-clés"
   },
   {
    "title": "US denies Iran’s claim it hit two radar sites in Bahrain",
@@ -8226,9 +8226,10 @@
   "pre1h|2026-11-13T19:00:00-05:00": 1794610339.1448402,
   "pre15m|2026-11-13T19:00:00-05:00": 1794613746.9027102,
   "post|2026-11-13T19:00:00-05:00": 1794616568.4583468,
-  "news|8a1cc95cb86f": 1794618274.94456
+  "news|8a1cc95cb86f": 1794618274.94456,
+  "news|e1876d03f528": 1794618969.2981572
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8650,6 +8651,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T01:16:11.898798+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -42)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
+  },
+  {
+   "ts": "2026-11-14T01:16:09.298247+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says</b>\n📰 Arab News · Sam 14/11 01:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2lVby1sUDgxNXZXcm0zc29WUTBzNWlLaXFEZ0NZenp3Ml9xTmVvOXJsVzJ4aTdZejBSeU1PcHhMNlZrU09hMUF0dlB2aVFtYWNoNFpqVkM3YU51SWp0dmM4ZlN1NGY2cjNoOWNtcVVybU1hRkduMklRekFzcURvWlZGdGd5VHEtRGFmbHFiMGRGN2JQWVJ0RmhKZGVVNUI1Y3QtWE9IMTJsRTZ5eG1malc4czQ2andCMklBRWNhTExBeWtyajI1Z1hnM0N3WS1teXNqdlUydzliUndUeDdBZjFn?oc=5"
+  },
+  {
    "ts": "2026-11-14T01:04:34.944654+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: US launches fresh strikes as hostilities flare again</b>\n📰 DW.com · Ven 13/11 20:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWNFQTNYTzU5VkMwWjJocU5TQ3JwYzd4ZEFFV01sU21xREt6R19pZ0Z0YVdoV3ZyQWZ3aEptRFM3aVozMVU1U1g0OXFYWkdGZTBqUzUwdEtjMkhfZmkydk9VSGtBMzFzUUloM1BNVjl4NWJoeDhrOW1XbW04VDAxSldJVHY2empRQlMzQzdySWtRNlBZ0gGUAUFVX3lxTE45R2NyMUYtdVBUdFhQVk9YeTVqdWxZR0lDNXpIOE9YSVJrY254V1MxYTZud1E4VDFTazlROVZKd1BxcUNPdHpZQUx3X0xwajNnZ3lYN09McFNkeEY1SE9kM1VrU2cxaV8yR09McjlvcEN4V1ZpZnhZOTU1NVZiN2N4eUN3cDl2M1ZxaFhDZmFWR0ZqdGE?oc=5"
@@ -8938,16 +8949,6 @@
    "ts": "2026-11-13T08:16:43.710543+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Prices Plunge as Fed Rate Hike Fears Intensify</b>\n📰 Yahoo Finance · Jeu 12/11 20:44\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNNTRENmZzY2lCOFZlaTdSWjItU3VUQXFTMTBlZk1vRUJlcGFNLTQxb0lwM1dkYlMzd2lqSUluYkFVU3FZWVltWFBMZnl3c3BZdmcxSndPZm1KU0s1ZlBqaDYyQmwwcGZSaTNOX0U1YUJ4WUJOTzhUb2FhT2h6NWpqSE1tdTVYckNrR2tsN3diakU1emxRZ3FZUEtKSHNXUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-13T08:03:31.443389+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East tensions escalate as Iran targets U.S. base in Bahrain</b>\n📰 Traders Union · Ven 13/11 08:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1lodHNkb2NhaUlEcmRwQ3NRN1g2SnBoMXp4TFpvWkF6cU1SMHZIYm84cUJkWldWeGR0YzVTdGV5YmRGTVlCNEVlWFBYampFcl81RmhnLTlGRTVjYTVWN0d1MmlFU3U4R2J6RkRkYzB5cGVzTWV6cmRFdncxMkxCYWhjV3NGdGg5WFVDTkJmOVlhZ2ppX0E?oc=5"
-  },
-  {
-   "ts": "2026-11-13T07:35:00.208252+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Army Tells Netanyahu and Eisenkot It Sees No Urgent Need to Strike Iran: how 10 outlets framed it</b>\n📰 NewsCord · Ven 13/11 06:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVVRY0J3a3QzM1BKT3JyTDBvaGlEcEc3NWhMbGlYeWlNOHpZX3VjbU9nRFlTR2dtazB1bEs5S0h1c01TMUpPdFlOWDBHc2VlRWJjeUVrbHY5OHE0c1FYNTNpYUVPcG0teDJacm02Qk1FNHJadzI4MmI4VFRDcEdJTUhFTWtUUHFEYVZWZGdKa2xGbFJRYXlLVTRrNGtxeE9sckR6cEVpN1h4UHVoczYxRDQxa0lnenhPMEhRTTEtLWNEYTh0ZTBnVkFuWm16QQ?oc=5"
   }
  ],
  "daily_forecast": {
