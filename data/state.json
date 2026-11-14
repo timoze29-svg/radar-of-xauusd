@@ -1111,7 +1111,6 @@
   }
  },
  "seen_news": [
-  "e837f0f6d4eb",
   "8ebfd6c11b22",
   "483d8f648165",
   "d21e3646dfdd",
@@ -4110,7 +4109,8 @@
   "59b5b926eede",
   "fe4523a6c689",
   "a6721424f0f3",
-  "3f05421779bc"
+  "3f05421779bc",
+  "8a1cc95cb86f"
  ],
  "news": [
   {
@@ -4222,18 +4222,6 @@
    "method": "IA"
   },
   {
-   "title": "Europe Must Step Up to Settle the Russia-Ukraine War",
-   "source": "Council on Foreign Relations",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5",
-   "published": "2026-11-13T20:41:35+00:00",
-   "id": "553bb000f647",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Analyse d'un cercle de réflexion sans effet immédiat sur les marchés.",
-   "method": "IA"
-  },
-  {
    "title": "Fresh Off Electoral Defeat on Iran War, Trump Floats New Military Front in Cuba",
    "source": "Truthout",
    "theme": "Trump / Iran",
@@ -4340,6 +4328,18 @@
    "cat": "géopolitique",
    "raison": "Pression israélienne pour frapper l'Iran intensifiant les tensions au Moyen-Orient.",
    "method": "IA"
+  },
+  {
+   "title": "Iran: US launches fresh strikes as hostilities flare again",
+   "source": "DW.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWNFQTNYTzU5VkMwWjJocU5TQ3JwYzd4ZEFFV01sU21xREt6R19pZ0Z0YVdoV3ZyQWZ3aEptRFM3aVozMVU1U1g0OXFYWkdGZTBqUzUwdEtjMkhfZmkydk9VSGtBMzFzUUloM1BNVjl4NWJoeDhrOW1XbW04VDAxSldJVHY2empRQlMzQzdySWtRNlBZ0gGUAUFVX3lxTE45R2NyMUYtdVBUdFhQVk9YeTVqdWxZR0lDNXpIOE9YSVJrY254V1MxYTZud1E4VDFTazlROVZKd1BxcUNPdHpZQUx3X0xwajNnZ3lYN09McFNkeEY1SE9kM1VrU2cxaV8yR09McjlvcEN4V1ZpZnhZOTU1NVZiN2N4eUN3cDl2M1ZxaFhDZmFWR0ZqdGE?oc=5",
+   "published": "2026-11-13T19:14:11+00:00",
+   "id": "8a1cc95cb86f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump’s Tariffs on Canada Face Pressure From U.S. Lawmakers as Trade Talks Continue",
@@ -6515,7 +6515,6 @@
   }
  ],
  "fired": {
-  "news|65013c4bc4c3": 1792803691.6008866,
   "news|11ea6af7e533": 1792805484.2529156,
   "news|270204ce201e": 1792805485.2135482,
   "news|5930229e02ea": 1792805486.120968,
@@ -8226,7 +8225,8 @@
   "news|5d0a98f43d1e": 1794608172.478045,
   "pre1h|2026-11-13T19:00:00-05:00": 1794610339.1448402,
   "pre15m|2026-11-13T19:00:00-05:00": 1794613746.9027102,
-  "post|2026-11-13T19:00:00-05:00": 1794616568.4583468
+  "post|2026-11-13T19:00:00-05:00": 1794616568.4583468,
+  "news|8a1cc95cb86f": 1794618274.94456
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8650,6 +8650,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T01:04:34.944654+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: US launches fresh strikes as hostilities flare again</b>\n📰 DW.com · Ven 13/11 20:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWNFQTNYTzU5VkMwWjJocU5TQ3JwYzd4ZEFFV01sU21xREt6R19pZ0Z0YVdoV3ZyQWZ3aEptRFM3aVozMVU1U1g0OXFYWkdGZTBqUzUwdEtjMkhfZmkydk9VSGtBMzFzUUloM1BNVjl4NWJoeDhrOW1XbW04VDAxSldJVHY2empRQlMzQzdySWtRNlBZ0gGUAUFVX3lxTE45R2NyMUYtdVBUdFhQVk9YeTVqdWxZR0lDNXpIOE9YSVJrY254V1MxYTZud1E4VDFTazlROVZKd1BxcUNPdHpZQUx3X0xwajNnZ3lYN09McFNkeEY1SE9kM1VrU2cxaV8yR09McjlvcEN4V1ZpZnhZOTU1NVZiN2N4eUN3cDl2M1ZxaFhDZmFWR0ZqdGE?oc=5"
+  },
+  {
    "ts": "2026-11-13T23:49:06.902752+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>11 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Jefferson Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -8943,11 +8948,6 @@
    "ts": "2026-11-13T07:35:00.208252+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Army Tells Netanyahu and Eisenkot It Sees No Urgent Need to Strike Iran: how 10 outlets framed it</b>\n📰 NewsCord · Ven 13/11 06:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVVRY0J3a3QzM1BKT3JyTDBvaGlEcEc3NWhMbGlYeWlNOHpZX3VjbU9nRFlTR2dtazB1bEs5S0h1c01TMUpPdFlOWDBHc2VlRWJjeUVrbHY5OHE0c1FYNTNpYUVPcG0teDJacm02Qk1FNHJadzI4MmI4VFRDcEdJTUhFTWtUUHFEYVZWZGdKa2xGbFJRYXlLVTRrNGtxeE9sckR6cEVpN1h4UHVoczYxRDQxa0lnenhPMEhRTTEtLWNEYTh0ZTBnVkFuWm16QQ?oc=5"
-  },
-  {
-   "ts": "2026-11-13T07:16:08.536457+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mark Kelly on Trump, the Iran War and his 2028 decision</b>\n📰 Politico · Ven 13/11 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTNfa200UGRNRGwzWmhHeFBuTGc4QnlYWG9hNTkzU1B3WDI2RVhacndLN29vYV8xN2hFRVpRQjNQNE42TlRSYTd6cUVyYjhkRGFjS2xYdkZrQkJvY3lJTzg3ODFOTkVaaDEwaUU4bmV5UjVua3ZXenBhZk5KbjFPQXlHQkFmaHkyMHRaVC02V093MlJvSG1nNmoxSmtIaDFfSDdXZUdtYw?oc=5"
   }
  ],
  "daily_forecast": {
