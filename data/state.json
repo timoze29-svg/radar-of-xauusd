@@ -1111,8 +1111,6 @@
   }
  },
  "seen_news": [
-  "73c785aa45f8",
-  "de877b91b758",
   "ab8f49b875cb",
   "33518d35968e",
   "59fa7dabd2f7",
@@ -4110,9 +4108,23 @@
   "c846686f1476",
   "c4bbd50a8e7c",
   "25a1a9cb7d22",
-  "34d026decc05"
+  "34d026decc05",
+  "cd98a1c9cfe0",
+  "25e111174e60"
  ],
  "news": [
+  {
+   "title": "Taiwan Attacks China Critics",
+   "source": "WV News",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVRWelpXaE9VWDlrNXZBU0ZhcmlyM1F2Q3FzcHFWT2ZPcV9Qbk1EYWFpY2tKWWJmVThzd1hieFUyaGozdmlxY3pXeWJZYi1oQU9WZzVGZDFnbkVMbTRueXNTam5vaXhLdVBiekt2RVQ0YmdrVXAySHdRUkxyTnREOWt1R3BLWmlqSzh3SjgxNFpjSUZXckdpU0hRcUNkSi1McXRwVnVHekM4TWc3SWYtVE9XR0w?oc=5",
+   "published": "2026-11-14T02:45:27+00:00",
+   "id": "25e111174e60",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Treasury Yields Jump as Inflation Data and Hawkish Fed Talk Kill Post-Election Rally",
    "source": "BigGo Finance",
@@ -4133,6 +4145,18 @@
    "published": "2026-11-14T02:08:00+00:00",
    "id": "c4bbd50a8e7c",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Rubio: ‘No need’ for further strikes on Iran because the economic pain ‘is so great’",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2JIaGFwbllfMEcyUzd4Qy1MQTFIMy1RZTV1SGlWNlhKOTE3b2FpZ2VSQjI3SDZkeEFpMWhYTS01eUNwVFlETzM0WkZrbXZTR1RzbmRmbVVZOGdxNWpfTWswZmo0UjJLeGx3dWM4aWd3cmlMbmtESnZxd2hfQUh4akVGMTQ5ekhrZWxMeWM4Q0dCRFR0NkdLX0NTM0Z2dUF3VkJaNFBBMzR2ZWtQVEwweDFPa2JiOE9qWGU0N0RISEFpTkU?oc=5",
+   "published": "2026-11-14T01:13:06+00:00",
+   "id": "cd98a1c9cfe0",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6488,30 +6512,6 @@
    "cat": "taux",
    "raison": "baissier or (taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
-   "published": "2026-11-12T15:22:30+00:00",
-   "id": "f3eb59214c66",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Contacts diplomatiques bilatéraux diminuant marginalement la prime de risque liée à la guerre.",
-   "method": "IA"
-  },
-  {
-   "title": "Bitcoin Drops Below $73K as Hot US Inflation Fuels Fed Rate Hike Fears",
-   "source": "Altcoin Buzz",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUtlZUgzRFZDUDdYZjdlNzE0ZVN5UERDd0VMZnFhMVNLRDk1dWo0TTkyaklaY0R4aG9TWUZBaUFfdDJCYXlQR1U3czUyMkJGb0NQU3gxVnd3Z3QyNkZPcnpEblZvbS04eDJoOVNRbXJkOWpzOGRPT3RsZ2p4ZndnY2dUZzNmYkppRFk0RmRiMEM4TnBZMWwyVzg1UFI?oc=5",
-   "published": "2026-11-12T14:53:38+00:00",
-   "id": "22236af2c09f",
-   "impact": -3,
-   "cat": "fed",
-   "raison": "Craintes de resserrement monétaire de la Fed et hausse des taux réels pénalisant l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8226,7 +8226,8 @@
   "news|e1876d03f528": 1794618969.2981572,
   "news|7c23bafc3e60": 1794622283.2985206,
   "news|c846686f1476": 1794623492.8803875,
-  "big|BTC|2026-11-14": 1794623493.8978105
+  "big|BTC|2026-11-14": 1794623493.8978105,
+  "news|cd98a1c9cfe0": 1794625300.89945
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8650,6 +8651,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T03:01:40.899545+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Rubio: ‘No need’ for further strikes on Iran because the economic pain ‘is so great’</b>\n📰 The Times of Israel · Sam 14/11 02:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2JIaGFwbllfMEcyUzd4Qy1MQTFIMy1RZTV1SGlWNlhKOTE3b2FpZ2VSQjI3SDZkeEFpMWhYTS01eUNwVFlETzM0WkZrbXZTR1RzbmRmbVVZOGdxNWpfTWswZmo0UjJLeGx3dWM4aWd3cmlMbmtESnZxd2hfQUh4akVGMTQ5ekhrZWxMeWM4Q0dCRFR0NkdLX0NTM0Z2dUF3VkJaNFBBMzR2ZWtQVEwweDFPa2JiOE9qWGU0N0RISEFpTkU?oc=5"
+  },
+  {
    "ts": "2026-11-14T02:31:33.897866+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 208 aujourd'hui = 1.8× l'ATR\n🥇 🔴 baissier pour l'or"
@@ -8943,11 +8949,6 @@
    "ts": "2026-11-13T11:01:42.866047+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.24 → prix : <b>103.28</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.33 | 60j -0.41"
-  },
-  {
-   "ts": "2026-11-13T10:32:45.744760+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Israel strikes could push Iran towards nuclear weapons: Ex-diplomat | Tap to know more | Inshorts</b>\n📰 Inshorts · Ven 13/11 09:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUJaaWRkWlppcUpIZTFJME9aREdXaXpSekxHc2Fyb3d5NHoxMFNlN0s2b2dVR1EtNEZudXlFWFZNSG5nQ1ZkUmFnSWpHN1h4OTk5MmNYYUpvU1Bka296dGtpQWY1Z09qc0dRTEFIZDZTNEk3R1otbGQwYVZfN01IUU0zclJneEphdjdmZmZhUkRzakwwOTZkWktvMHNXdFN6YnFRUkJGTdIBpwFBVV95cUxOLUJaaWRkWlppcUpIZTFJME9aREdXaXpSekxHc2Fyb3d5NHoxMFNlN0s2b2dVR1EtNEZudXlFWFZNSG5nQ1ZkUmFnSWpHN1h4OTk5MmNYYUpvU1Bka296dGtpQWY1Z09qc0dRTEFIZDZTNEk3R1otbGQwYVZfN01IUU0zclJneEphdjdmZmZhUkRzakwwOTZkWktvMHNXdFN6YnFRUkJGTQ?oc=5"
   }
  ],
  "daily_forecast": {
