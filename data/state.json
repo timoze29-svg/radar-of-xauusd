@@ -1111,8 +1111,6 @@
   }
  },
  "seen_news": [
-  "b145f92a7246",
-  "5eb59ddf8cf7",
   "8004e6cd6259",
   "39e960a7d0d2",
   "4be14c25c486",
@@ -4110,7 +4108,9 @@
   "fa530984368c",
   "e7becc5691fc",
   "2d7782b96960",
-  "5c9644ceccae"
+  "5c9644ceccae",
+  "0cc5e6eab034",
+  "b23680b617e4"
  ],
  "news": [
   {
@@ -4120,6 +4120,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFkya1I4ZDAxM1JfMDIxY1pqVVBLWERpN0ZXVl9EbzRqQmh3MXdOS0FOMmFiMGZ0blo4dk9ZY0pTZExMaC1jajdYYkZudmVPZVlidU1nYWlYb00yMUhHNzlWeHF6bVZaT2Z5R001TDRLTEtMLVdtSWVoSThSYWNmXzh3Z3l1VVFySkJrZktMUHpyUUpkSVM5c3ViOFp5NjQ0TEFzbldaYXJmdw?oc=5",
    "published": "2026-11-14T14:01:00+00:00",
    "id": "f1a17d85dab2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzRLSUdRS1ItTVljNEY3X3d6cV9FZE84VHBTVnZjenIzZHl0c2RTbnZReGNpNE1IVmc0dXZCclhrcjhLanViS1RCYUpiOXRFSU8yZmRkNGsxdE9HOGNoNVpUTXJVSHVUc0labE90V3ZxbDhwWDJwZlcyam1Lc095Z3ctXzA2RlI3d29oWXh0NmdvYjFmWHAxWmhOSk9PZDlVTHdKcEVfTGlRRElvRHl4X1NmdVNRRWVmRWxxVw?oc=5",
+   "published": "2026-11-14T14:00:51+00:00",
+   "id": "b23680b617e4",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6500,25 +6512,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "In Netanyahu-Eisenkot briefing, IDF reportedly says no urgent need to strike Iran",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFI1MVZRTmRyUWJGZU1HSy1XU240YzkzRUZjT0k1a3NQUHlTNUxWdkxuUWRtcjA3TVBUb2l6UC1wM3NJR3lyWWN2NzZmYTZHMjdFYWtONU9LbTVjT0luYjNSaW92OGkxN0IyNGxRY0I4WTRZZFhRSVBidlBXUWZya05xMDdtelhMYTVCX1VtZDdUU3V3UzdEbUg4R3BSXzk2Wmo0dnQ0cjNGR2JXM18ybNIBtgFBVV95cUxPdEpKek8tWXNaZGxtRkRqaXc0Wm81aERLaG42OXBvcThSOEMzd3k2YnZjbHd5T2JvR0x0SF9EMUxLMWV3SkJ0SVc3OWtmWTVJU2Nsa2dTenFiRGpvZjFzdVJvTXlGSkdBMDdiOW9VanloVGt6Q25iVEJuUTNoTnJQd0VMajNub1BXTDI5NlVuZ21DZFppQWZfazZDWHU5WC1HRjZfdXdrLWI5M0xNbk83a2Y0akpFUQ?oc=5",
-   "published": "2026-11-12T21:08:58+00:00",
-   "id": "6dfcba7646e8",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|827ef6cab832": 1792851911.424813,
-  "news|f4a503bbb55a": 1792851912.3516276,
-  "news|1347879f71f7": 1792851913.2451956,
-  "news|e743dffadaf4": 1792853168.762407,
   "brk|BTC|pwh|dn|2026-10-19/2026-10-25": 1792855157.7822695,
   "brk|BTC|h20|dn|2026-10-19/2026-10-25": 1792855158.6493857,
   "news|bf9f415fc8c8": 1792856073.1309469,
@@ -8230,9 +8226,10 @@
   "news|332a3b838f34": 1794660571.4163475,
   "news|12914bb185d9": 1794661323.4028912,
   "news|f1a17d85dab2": 1794665772.2489116,
-  "news|e7becc5691fc": 1794665774.7544112
+  "news|e7becc5691fc": 1794665774.7544112,
+  "news|b23680b617e4": 1794667569.72875
  },
- "last_bias_label": "FORTEMENT BAISSIER",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8654,6 +8651,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T14:46:10.764745+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -38)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
+  },
+  {
+   "ts": "2026-11-14T14:46:09.728819+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Anti-Trump Republican courts other defectors as House weighs another vote against Iran war</b>\n📰 Fox News · Sam 14/11 15:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzRLSUdRS1ItTVljNEY3X3d6cV9FZE84VHBTVnZjenIzZHl0c2RTbnZReGNpNE1IVmc0dXZCclhrcjhLanViS1RCYUpiOXRFSU8yZmRkNGsxdE9HOGNoNVpUTXJVSHVUc0labE90V3ZxbDhwWDJwZlcyam1Lc095Z3ctXzA2RlI3d29oWXh0NmdvYjFmWHAxWmhOSk9PZDlVTHdKcEVfTGlRRElvRHl4X1NmdVNRRWVmRWxxVw?oc=5"
+  },
+  {
    "ts": "2026-11-14T14:16:14.754664+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signals By Investing.com</b>\n📰 Investing.com India · Ven 13/11 15:45\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNQW10STRCeTdha3llQmZhbzJELUI5a1NhZm5TejVPckdlbnZpMjE0dk5Jd1RmTmRyUjI5OEVkelNLcDZyYzJINjhMbjZPSU5tNE82dGhSSlRNcHdLbDBQMEVfS2ZjUGs5MzVjVmxGWmRORWxfcUlwOURSSXljcV9vZHZqdkRjV2dyenpLWmJUVnZtR0hpdmE0WUFRZkpZaVpvaVlJdXYwbGZ1UlpYa1ZweHgxdXc5MURGakE3dHliYw?oc=5"
@@ -8942,16 +8949,6 @@
    "ts": "2026-11-13T14:32:00.956058+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Commodity Corner: Oil holds gains on US-Iran tensions; gold near one-year low on rate hike bets</b>\n📰 Moneycontrol.com · Ven 13/11 03:31\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT0cyZWlFRlRPNmZYSWh6Y0RWWUNDb28taUppbUx1T19GZkM2TFB2YW1NVWotay1tdzgxSHExMEZLTG9uLTc2OGQ1Q09za3FVbGsxLVo3eVp1OHRmanljQnladFVKYXA0dVNjeGRLTWdBZ253Y215eXZ0SEhFRC02cTJUYU1rdzJRMEFPSjlDa0lFeVJQZzFSZ3h0TzlPZXg4YkFjNDhoczNPZVhJMnFvVnBVREhqYVdfWDYwZ21GUU9Yak0yRllQQjlxMUZnNHlsakkzeEFLNDhpeXFRd2IxNDNqOG5qQ3VJb2o4cUZR0gHzAUFVX3lxTE9hWWFXLU9TbWdNTXktN0laSXJWcC1IRGxpdmp1alpzazR3N0hqVGU2TE82RkFLM3NiWFEyeVJMM1BVVWpEaktiMmpVSG9mTC03dVZjS09sckNEdkxzMGJZSkozc2ZhMUZISVVQRXhVeS02S2dPTmN3Rm5CakFYeWgxVXBia2NVQlQ3QjRHcXRrOEw3M2t1MDRGWkpUc1ppakt6S0tVdEdSRDh5NGdQaTUxSVdlZ3R1TnU5SzdwaTBsOU9acE03ZzM1YkRPS202NFdTRXJqR0hOdnlYSTJXRDJZTlBrYXU5VXpmX1g3UFJjX3lRaw?oc=5"
-  },
-  {
-   "ts": "2026-11-13T14:16:22.831183+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Logan Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-13T14:16:21.586267+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war</b>\n📰 Axios · Ven 13/11 14:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5"
   }
  ],
  "daily_forecast": {
