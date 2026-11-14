@@ -1111,7 +1111,6 @@
   }
  },
  "seen_news": [
-  "5c6c6215e29d",
   "d72cdd9e4beb",
   "b925a4f36733",
   "38fabaaf1aed",
@@ -4110,7 +4109,8 @@
   "794fcb374019",
   "a107f30bd42b",
   "ece85812e77e",
-  "20f92e83ab55"
+  "20f92e83ab55",
+  "812c48c374da"
  ],
  "news": [
   {
@@ -4121,6 +4121,18 @@
    "published": "2026-11-14T08:55:54+00:00",
    "id": "1f53a9fcce4c",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Nuclear arms but also Iran war on agenda of Trump’s meeting with Putin, Xi",
+   "source": "The Arab Weekly",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkNHd2N4UHc5S0xUTW13ckMxekktZDRHZEV1MzNERGItS1NySVk3c055dDhGNzhFNWlNTmtiLU5XMmN3TExZdlRYN0dudVF6QUptTFBiX1dBaUdrMjM1TU1ZUkowN1E3cUttWXdqYjN4VGFUMXpCTzdsVzZTaW5EMXgyUndCVTQwU0Nj?oc=5",
+   "published": "2026-11-14T08:48:45+00:00",
+   "id": "812c48c374da",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6500,22 +6512,9 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Middle East latest: IAEA 'concerned' about underground uranium-enrichment plant at Isfahan",
-   "source": "The National",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUlUTHlPaTZjN0NQZnVxYWVlaGZhV3djV24xWWN1a1JTVk5Qc2FkSEI1Y21JZTF4M042WXRhUy1WVU1uSmlSTkNWRGRCbk1DX1N2MTJTTVRqZl9zNWM5ZkU1MkpvV3o5aWZmSERONTRvRzBJLVh0YmVRTGlKbE9HbG94Qkg?oc=5",
-   "published": "2026-11-12T17:21:25+00:00",
-   "id": "a126769bccb2",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Inquiétudes nucléaires en Iran ravivant modérément la prime de risque géopolitique au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|1b90164b7af8": 1792836104.7234972,
   "news|84c3b16d9aa7": 1792838914.7739139,
   "news|f2f82d0b1419": 1792839691.3121374,
   "news|5d7d7c3fe4fb": 1792841480.3442178,
@@ -8230,7 +8229,8 @@
   "news|e48790e252ac": 1794630870.4884186,
   "news|b96e4cb9b24f": 1794636968.0016952,
   "news|8268896c5a69": 1794642366.9691615,
-  "news|1f53a9fcce4c": 1794647957.0087976
+  "news|1f53a9fcce4c": 1794647957.0087976,
+  "news|812c48c374da": 1794650948.5661128
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8654,6 +8654,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T10:09:08.566206+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Nuclear arms but also Iran war on agenda of Trump’s meeting with Putin, Xi</b>\n📰 The Arab Weekly · Sam 14/11 09:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkNHd2N4UHc5S0xUTW13ckMxekktZDRHZEV1MzNERGItS1NySVk3c055dDhGNzhFNWlNTmtiLU5XMmN3TExZdlRYN0dudVF6QUptTFBiX1dBaUdrMjM1TU1ZUkowN1E3cUttWXdqYjN4VGFUMXpCTzdsVzZTaW5EMXgyUndCVTQwU0Nj?oc=5"
+  },
+  {
    "ts": "2026-11-14T09:19:17.008885+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump To Discuss Iran, Nuclear Arms With Putin, Xi At Landmark Summit</b>\n📰 Radio Free Europe/Radio Liberty · Sam 14/11 09:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnJHSWM2eFlYcVBrdHhsQUpqVUxkZ05KTUh2aGZybFNyQnlJZkFKVWYtX2NvcFNIdU9KT1M3QVNPRkhNdmZQU0lGdVZLQjd3MGpYcGx3dzVmU2hTUjFQbUlnQWVTTGNvcXA3eWYwTFNCWURoY01tdUJUWGM5LWRDeHZTRm82bFlPWXlCRVVROUtpSmRrZHIydkV0dTJoSmU2OHZnR01lX3fSAasBQVVfeXFMTnF5T0c0dWdySndHMzJ3NXVRMGxGWVJsaTRGcEQ0bEtyXzdIcmpNUnhQQU42RkVlaWVJSENEakFUUnJGenpqY25jNXdzMzZwTXU2Q3BTeDN6aDMyRU14UWQxb1JSaDJkT1dSeFZuUFA5UHNhM2FVdzFFbWVPODNUVXNsX2lfcVJJZk1ZbEZ4WFlpMHc0OEUwaWtGZVNBTldiVlZncmVINmJsemRR?oc=5"
@@ -8947,11 +8952,6 @@
    "ts": "2026-11-13T13:31:26.060944+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Fed expected rate cuts this year. Now it’s bracing for another inflation fight</b>\n📰 CNBC · Ven 13/11 11:00\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIzZHZCSGlfZTAwY0VGY1hwZ0stMC1fblpqQ1N1eC1tWHRFazYxeDMxcVIzdEs0NXNUMVRhVWdJTVhOc2ZQcmQwaUFkOVJMZDVJTG5kUlE2aWtNYnljaHlqU05HWjFIUzl0MTJ1UzZGYk11SU5mXzJuTmxwOWFqbHo1TnkwTXZpMFA00gGQAUFVX3lxTE9QZHhGMjFUYWFSaGRxQ2lrQXpWYkdUTzJ6QmRUNFcxV092Q2MzbzZyMm9paGp2eGpEVEVXUzhsdkRZZy1GOFYycFVXYXFTVmlfZmlvM1EzUGh0TkMtU1dlZlVyd0xYemFaeDNYR0RYc2lhdTk4UTNsVjNJM2hXS2hod3dBTzBfYlNnT0dmLUk5dw?oc=5"
-  },
-  {
-   "ts": "2026-11-13T13:16:13.721883+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>Core PPI m/m</b>  prév. 0.3% | préc. 0.7%\n🇺🇸 <b>PPI m/m</b>  prév. 0.4% | préc. 1.3%\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
