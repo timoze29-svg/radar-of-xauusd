@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1794640554.3004777,
+   "ts": 1794683757.2500932,
    "data": {
     "date": "2026-11-03",
     "net": 179548,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794680156.885334,
+   "ts": 1794683757.3003173,
    "data": [
     {
      "title": "CPI y/y",
@@ -1111,9 +1111,6 @@
   }
  },
  "seen_news": [
-  "2289c65fa980",
-  "e94019b6ddbf",
-  "a4462591fdce",
   "bb7ce29d21ea",
   "ffcc33d7bec0",
   "16549810a0fb",
@@ -4110,7 +4107,10 @@
   "621fc682fd7c",
   "e90f6396fcfa",
   "77f6391f4211",
-  "95786a75894e"
+  "95786a75894e",
+  "4f42fb872f17",
+  "fc0434ccf35c",
+  "95defc4af9e8"
  ],
  "news": [
   {
@@ -4748,6 +4748,18 @@
    "cat": "géopolitique",
    "raison": "Privilège du canal diplomatique réduisant temporairement la menace d'un choc militaire incontrôlé.",
    "method": "IA"
+  },
+  {
+   "title": "Iran warns of 'immediate and decisive response' to any new US or Israel attack",
+   "source": "TRT World",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iVV9LN1Q0WjN1OTdacVMzR2pqbi1abmcxWmZucGx2R0ZuMWNEM3BLTXBUeFRfTTVXUWhuT1JhRUdrVmk1VnozX085cENSVE1VcVJydUd4RFM?oc=5",
+   "published": "2026-11-14T00:01:13+00:00",
+   "id": "95defc4af9e8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
@@ -6500,18 +6512,6 @@
    "cat": "géopolitique",
    "raison": "Tensions accrues USA-Iran et refus de compromis diplomatique soutenant l'or refuge.",
    "method": "IA"
-  },
-  {
-   "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
-   "source": "barryanddistrictnews.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.barryanddistrictnews.co.uk/news/national/26725533.can-no-progress-reaching-ukraine-peace-agreement-without-eu---martin/",
-   "published": "2026-11-13T00:45:00+00:00",
-   "id": "7ea7b778e4bd",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Blocages diplomatiques en Ukraine maintenant la prime de risque géopolitique intacte.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8235,7 +8235,8 @@
   "news|f8249b084ce7": 1794681084.82463,
   "news|6b784c1855df": 1794681972.879022,
   "news|1a9d89c7e3f3": 1794681973.9719086,
-  "news|e90f6396fcfa": 1794682912.921797
+  "news|e90f6396fcfa": 1794682912.921797,
+  "news|95defc4af9e8": 1794684137.8762918
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8659,6 +8660,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T19:22:17.876400+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns of 'immediate and decisive response' to any new US or Israel attack</b>\n📰 TRT World · Sam 14/11 01:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iVV9LN1Q0WjN1OTdacVMzR2pqbi1abmcxWmZucGx2R0ZuMWNEM3BLTXBUeFRfTTVXUWhuT1JhRUdrVmk1VnozX085cENSVE1VcVJydUd4RFM?oc=5"
+  },
+  {
    "ts": "2026-11-14T19:01:52.921873+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Strait of Hormuz in chaos as 3 oil tankers struck by mines, says Iran</b>\n📰 AOL.com · Sam 14/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5vbHJxSU9BYmU4VjZlR3BHRGVaajVVOElzNDNVOTBRenR2VDRJeUMxQzZvUE51d0dPUXYydHk3em1QekhuUGZBMURZWnNpTGNQcWIwckxwbHdEWVFBSUJvS2F3bDVXNm9kZ1pTTzFzN0ZlTzc5UnpZSg?oc=5"
@@ -8952,11 +8958,6 @@
    "ts": "2026-11-13T17:31:37.135526+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans +0.0 pb\nOr +1.2$ (extrême +6.3$, range 9.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-13T16:46:36.593376+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
