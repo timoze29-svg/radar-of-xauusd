@@ -1111,8 +1111,6 @@
   }
  },
  "seen_news": [
-  "965ab8cfc235",
-  "9206971a5d1a",
   "036169b59cad",
   "2b83fcd68c38",
   "3f0b56f4efc2",
@@ -4110,7 +4108,9 @@
   "6ac7eb70f504",
   "ffc8f94c2b97",
   "13ef62d82661",
-  "529792d387be"
+  "529792d387be",
+  "2c3c92de84d8",
+  "f00340be5561"
  ],
  "news": [
   {
@@ -4483,6 +4483,18 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Perspective de discussions de paix en Ukraine tempérant la prime de crise.",
+   "method": "IA"
+  },
+  {
+   "title": "How many people have been killed in the Iran war?",
+   "source": "DD News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBY3dnUXc4YldSR3oxSEowaUY1bkczNVU5eHpCVWMwRHlXZWd3RnN0N3RkOVd3MDhUclhaQU1odnBpNV9Ed2MwUUN1RUQ2bVFDc0JIZEFSQTNXSnU2MnpIdEhKbTZZMXl1emdtYXU3TW02RkhYbkJnOVgxcC1IRzQ?oc=5",
+   "published": "2026-11-13T18:24:31+00:00",
+   "id": "2c3c92de84d8",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Rappel des tensions au Moyen-Orient offrant un soutien mineur de valeur refuge.",
    "method": "IA"
   },
   {
@@ -5494,6 +5506,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Oil prices head for second weekly drop as US-Iran tensions ease, shipping risks persist",
+   "source": "TRT World",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoMU5tdHl5XzhINExSZlZubjY4Sk85MkNpZWtmZE5GbjVOOWthME9zc2t5aUhJMDl5bVRIUFNhZGRIR0xaWnc2OWFlMkZoLTBicmZLTkZkaVc?oc=5",
+   "published": "2026-11-13T06:49:13+00:00",
+   "id": "f00340be5561",
+   "impact": -2,
+   "cat": "géopolitique",
+   "raison": "L'apaisement relatif des tensions US-Iran réduit la prime de risque sur l'or.",
+   "method": "IA"
+  },
+  {
    "title": "Chinese envoy calls for dialogue, de-escalation in Yemen, Red Sea",
    "source": "CGTN",
    "theme": "Moyen-Orient",
@@ -6488,30 +6512,6 @@
    "cat": "commerce",
    "raison": "Risque de guerre commerciale et d'inflation, mais compensé par le renforcement potentiel du dollar.",
    "method": "IA"
-  },
-  {
-   "title": "Trump threatens Mexico with tariffs over caravans after election losses",
-   "source": "The Center Square",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2FsMmJ2ek96dE5YOElkWHdPb0xxUkZYcUs4XzlNek1BYklzT05scDJDNFA5TmpBVW1qRVM4elEwOXE2TnU1SlZCV2RKMmkxbXlFNnBBWk1CV1lGRFNKcE96aWxPeXRFa1dKWGJfV1Q4aDhqOW9rd0NqUVRzMkNfSE1GdEU0T0dGLWRSUllrYnpRbU1L0gGaAUFVX3lxTE1LUTlJUWsyRnI2c1g0alZtWWk2QlZ5ZWZZY0tTNVNqZ2l0Z1g3MUt5U1UweTI4QTMyV0JaaHQzam1HYmE1eDNkb1dNVWlWTVdqZW1VWmViTzZVR0VWN0JfcEU0M2FvbnNmY0p6Qms1YWxYdHhUd2lIb29TNm1KaUlqVHJzdTJVa21FTTRGNjRPTkhZR09iZHZ4UXc?oc=5",
-   "published": "2026-11-12T16:13:00+00:00",
-   "id": "2fbc829d0145",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "U.S. Dollar Climbs to 19-Month High as Rate Hike Bets Push Down the Euro and Yen",
-   "source": "TipRanks",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzlmTlgxZ3lUTnh1aWRqZjduTjg5TmJPSmV1OVhIY25jMExxeGJsbzVYbnZuLWpmQm5fMmJ0RHNfVzJ6OVN2clQ5V0Z5dWI1MHFtMzBQNjlBOWptSmZwSkM0RURLd2Izc2dMZElNU0JhbkZpS3Vta0Y3dWxhTGJtY00yYVFpY0RrTW9ZZG1LMFdkc0FidWdabVJBV3U5Uk1fNWppV1JFeVZxVFN5MUE?oc=5",
-   "published": "2026-11-12T16:08:29+00:00",
-   "id": "5b86e10b04a1",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
