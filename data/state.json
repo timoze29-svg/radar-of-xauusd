@@ -1111,8 +1111,6 @@
   }
  },
  "seen_news": [
-  "a3d6ff07f0fb",
-  "032ec865ccf7",
   "6048886bf2db",
   "a0488c07925d",
   "8349ea8ba240",
@@ -4110,9 +4108,23 @@
   "39eb4c9a8dd0",
   "69363b184c1b",
   "a20e8a2f1a7f",
-  "25e125e48290"
+  "25e125e48290",
+  "b2250d64bd42",
+  "56a9b1aa0666"
  ],
  "news": [
+  {
+   "title": "War in Iran: Weakened by the Midterms, Trump Takes a Wait-and-See Approach",
+   "source": "Left Voice",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fRXBpV3l0aWhVdkIxYTBOUGs2YXc3b2hiU3k1WHJSZktsM3ZobzQ5Q002VHZPX0lJMk5IaElQLUxxZUwyRlR2VUY3VXFGYjRRel8xaDVyZlpmbktzbVZYZENJRQ?oc=5",
+   "published": "2026-11-14T21:54:41+00:00",
+   "id": "b2250d64bd42",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
    "source": "theyeshivaworld.com",
@@ -6500,18 +6512,6 @@
    "cat": "or",
    "raison": "baissier or (dollar, or)",
    "method": "mots-clés"
-  },
-  {
-   "title": "EU leaders tussle over whom to send to Ukraine peace talks with Russia",
-   "source": "DW.com",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJtTGJ2SF9sUkx4dm1IWnNLYmM3VE5lT195M2ZMOFdZMGN3d1JjdmFBRWdVT19FcU1yckxzNUJVTGNXbUFSYlJqRWxhR29rcVhlZ2tSeFE0MEtINXdSTklic2xCTWxHRUlsLW02NFc5N1NEcm1KZHBXTS1lR3hhLU9JWkQ3NkpfSlJVUU12a0xKUWF4R19XaFlqdnFyZXPSAZ8BQVVfeXFMTmJGLTRyRXY1WjY5UlNrM2NKLUVkN3M2OXd0NHVPaS1ZbUZXalVicEJ6U2VaRWd5NGJqNDFieUEzRVUxYm5VQkVJZ3JETlN2bDJNV0Uwd2FVNlRsd0ItN0pNRDhIb1dyZW54YlRGTjBwRGZZckxzNDJRVDZrSktsWVBpR2hOR0t4Z09kQV9iREpzdGRDdmw0YTZzMnRSYTNJ?oc=5",
-   "published": "2026-11-13T04:20:50+00:00",
-   "id": "a97048f58064",
-   "impact": -5,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8242,7 +8242,8 @@
   "news|2d368b60140a": 1794691881.2199652,
   "news|fd3a325f2cbb": 1794692797.5237393,
   "news|751918fd6fd7": 1794692800.144902,
-  "news|43d7c42b7ca3": 1794692801.0291507
+  "news|43d7c42b7ca3": 1794692801.0291507,
+  "news|b2250d64bd42": 1794693880.681799
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8666,6 +8667,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T22:04:40.681933+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>War in Iran: Weakened by the Midterms, Trump Takes a Wait-and-See Approach</b>\n📰 Left Voice · Sam 14/11 22:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fRXBpV3l0aWhVdkIxYTBOUGs2YXc3b2hiU3k1WHJSZktsM3ZobzQ5Q002VHZPX0lJMk5IaElQLUxxZUwyRlR2VUY3VXFGYjRRel8xaDVyZlpmbktzbVZYZENJRQ?oc=5"
+  },
+  {
    "ts": "2026-11-14T21:46:41.029267+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Get Focused on London’: How Iran’s Agents Attacked European Targets</b>\n📰 The New York Times · Sam 14/11 20:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHBIeDZtZmYySmEtWjhlalVOTnpNVXQtcEhvWlJqcFJLQ0lUYWh4RVVuN0JMZGV6M2kzVzlrWDFOVVpQZDVkakt0bzlsVWdwZ2VVR0lVcUhLTm1LZlMySC0td3RlNUZqVzBGVGVSZXNxdVoyQ2FwdlFOYXpMQ2FGUTRNWHZVR2M?oc=5"
@@ -8959,11 +8965,6 @@
    "ts": "2026-11-14T01:04:34.944654+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran: US launches fresh strikes as hostilities flare again</b>\n📰 DW.com · Ven 13/11 20:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWNFQTNYTzU5VkMwWjJocU5TQ3JwYzd4ZEFFV01sU21xREt6R19pZ0Z0YVdoV3ZyQWZ3aEptRFM3aVozMVU1U1g0OXFYWkdGZTBqUzUwdEtjMkhfZmkydk9VSGtBMzFzUUloM1BNVjl4NWJoeDhrOW1XbW04VDAxSldJVHY2empRQlMzQzdySWtRNlBZ0gGUAUFVX3lxTE45R2NyMUYtdVBUdFhQVk9YeTVqdWxZR0lDNXpIOE9YSVJrY254V1MxYTZud1E4VDFTazlROVZKd1BxcUNPdHpZQUx3X0xwajNnZ3lYN09McFNkeEY1SE9kM1VrU2cxaV8yR09McjlvcEN4V1ZpZnhZOTU1NVZiN2N4eUN3cDl2M1ZxaFhDZmFWR0ZqdGE?oc=5"
-  },
-  {
-   "ts": "2026-11-13T23:49:06.902752+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>11 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Jefferson Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
