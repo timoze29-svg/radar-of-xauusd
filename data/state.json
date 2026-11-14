@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794624352.0381362,
+   "ts": 1794628872.2566578,
    "data": [
     {
      "title": "CPI y/y",
@@ -1111,10 +1111,6 @@
   }
  },
  "seen_news": [
-  "0efa5ca3f552",
-  "2df17a5f07ca",
-  "817790a6ff98",
-  "328099dc730d",
   "49200de8927a",
   "7e747aedfd2a",
   "bbe1cdf3bb2e",
@@ -4110,7 +4106,11 @@
   "c57cdddeb390",
   "538f231b23ae",
   "20dba0f425b9",
-  "f21e36b3b218"
+  "f21e36b3b218",
+  "f5de6df928f8",
+  "9a73f6c1a405",
+  "ead69847d017",
+  "00faef1974b9"
  ],
  "news": [
   {
@@ -4711,6 +4711,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "As Mossad chief visits US, fears grow Netanyahu could strike Iran to block Eisenkot",
+   "source": "Al-Monitor",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVllfSFl5WVFrLU04aDRISENhMTNwUDJ2RUxGTmNlOUM0Y0c3S3lwSHJJSjBiZEZuNjNwX1BlbzR4eGVPemQxMzV5enV3UzJnZUxhR1FSTUM4VHZtY1hvMjNEa1o1cmhiWEQzQXMxWlVYeklSYW9EU0lnanYxNjBCUnIxdEg4cVBXNWJxVTA3NHIxRWhSQ1p2bGVtR0Flei1NY2J6WVBFSHI4Zmk4YkF3TmlMcnEzbjBXc2taTDBn?oc=5",
+   "published": "2026-11-13T15:43:49+00:00",
+   "id": "9a73f6c1a405",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6500,18 +6512,6 @@
    "cat": "taux",
    "raison": "La hausse des rendements obligataires américains augmente le coût d'opportunité de détenir de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans",
-   "source": "Forbes",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5",
-   "published": "2026-11-12T15:53:11+00:00",
-   "id": "08e52949316f",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Menaces tarifaires répétées alimentant le risque protectionniste, impact modéré limité par le dollar.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8228,7 +8228,8 @@
   "news|cd98a1c9cfe0": 1794625300.89945,
   "news|2ed58ff053ef": 1794626168.9069579,
   "news|a90da913131b": 1794627080.8728354,
-  "news|538f231b23ae": 1794627967.581591
+  "news|538f231b23ae": 1794627967.581591,
+  "news|9a73f6c1a405": 1794628893.923973
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8652,6 +8653,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-14T04:01:33.924059+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Mossad chief visits US, fears grow Netanyahu could strike Iran to block Eisenkot</b>\n📰 Al-Monitor · Ven 13/11 16:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOVllfSFl5WVFrLU04aDRISENhMTNwUDJ2RUxGTmNlOUM0Y0c3S3lwSHJJSjBiZEZuNjNwX1BlbzR4eGVPemQxMzV5enV3UzJnZUxhR1FSTUM4VHZtY1hvMjNEa1o1cmhiWEQzQXMxWlVYeklSYW9EU0lnanYxNjBCUnIxdEg4cVBXNWJxVTA3NHIxRWhSQ1p2bGVtR0Flei1NY2J6WVBFSHI4Zmk4YkF3TmlMcnEzbjBXc2taTDBn?oc=5"
+  },
+  {
    "ts": "2026-11-14T03:46:07.581667+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran says it targeted US military radar in Bahrain in retaliatory strike</b>\n📰 The Guardian · Ven 13/11 13:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5"
@@ -8945,11 +8951,6 @@
    "ts": "2026-11-13T12:16:23.306139+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Feels the Weight of USD, Yields on Hawkish Fed and CPI</b>\n📰 FOREX.com · Jeu 12/11 17:45\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkp0V0FIZ0dkNXkxaEs1QWNSUGZYVFhTLXBNeXFfWTYwT182blhhRHZta29ER19LQjlxOXRqRmNueGM2ZDBZMWNDWU5jcDVsYm9XU2xPTHZmME9BaVYxSUhmZ3BjZEd2WEVBTEVKUXdSdmxOeDNyOVVBcnl4NWVUWUFxcjRXaXZsNklRRFNxazZDVzV5VXdGNEgtLU85Q3N1QXY0cmwtelU?oc=5"
-  },
-  {
-   "ts": "2026-11-13T12:16:19.481458+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed rate hike expectations push ringgit lower against US dollar</b>\n📰 Malay Mail · Jeu 12/11 19:38\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPenBqMEZkc1Zvb2h2NC00c21pN2JtWE9fN0NUWENCdWlGNE1GdXU0aEZOV0l2U2xac3BJQmVoYWJ2UUVLalZ1cEM1NVJGdy1hS1MwaXR0NTBSY0paTzJSV2p5bENrY19mNkY0Nkp4Vmh5S3FOc3BrVlpYUVRXMWpDVGpIYzFvMmE5SUdCN2c4WGtuaW1xdmJxbFE0S2R4NHFjdDRhZS1DLTZqalJQYUl1SDFUX3VMYWZORVHSAb8BQVVfeXFMTXZZdWZvWUc2UEM0UGdkQVVGeDRNZ0R3a0VEbzVLdV8wbEZXV0l0YmhJMkd2SzNhSDAySzNLcXhQSHFUbWFFcndnaExod19kZVNiYTZNSXNvYnUzSGl2OUZ0SWZROFpLcmdCRmJVczJfVDJKS1NGY0U3NnBFZWxRaXdpQnVWMFczT2kwdEhiNnQtYjdEUzFjdENpTzYwU1NZX2NIS2k0ZExzMUFZaDZrdkZoYWVnQlpOM092X2VranM?oc=5"
   }
  ],
  "daily_forecast": {
