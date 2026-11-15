@@ -1166,11 +1166,6 @@
   }
  },
  "seen_news": [
-  "e1ee7fa943d3",
-  "fd4f3665e20d",
-  "d0bf348af28d",
-  "abe939a957ac",
-  "8f56a63ab9f8",
   "ca3f9d23fae6",
   "bb6167cfa04c",
   "8ff0bcf9dd1c",
@@ -4165,9 +4160,26 @@
   "b692e673945c",
   "067213726b15",
   "0d628cc0acb6",
-  "5eee75aec5f8"
+  "5eee75aec5f8",
+  "7ad7cc36715f",
+  "8a2c2050d016",
+  "2963e3df6408",
+  "9c0c3809d6f6",
+  "c943a46362c3"
  ],
  "news": [
+  {
+   "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+   "source": "Al Jazeera",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmJpRzd4b1dzR0xuNEpuS0tRS0xXYkI0UldTdG9SU3pwVEFRVThGQUwweFo1TUxlXzlOMVd0cFBMNmEyTlhGRXlHUjZTZE1aeGZZN29Nb1BiMVMzYS1tZGJSWEYweXRDcV9xdEJ2dy02WVd3cXBlZzhHYUR1VXFTRDdCZlRoOG9HTzEtU3J3VXI0eVZHdFFnVWRlVHJHd0ROcDlhYU9YTTAtcnVncm1tVTMyWTgxbjQ4TU5IR0lCa9IBxAFBVV95cUxNZGxFLUFwd2ZGRlF4cFpIQnl2VXhHVHYtVUJmMU1xLV9mNjM4aDliWFFidmdJX1lKZS02anJpOWlSNTBkdGhKMi16djFpQWtwMU9NVHNEY3I5UHBfR1MtcHBSREZ0dWVnQ3AzN0VIRy1NY3VfR215Q1NlVFc5OVdNVzlnYWZIZTdKU3BvdHRIVGVQSVVBeVpHZ3laeXlCb2lNLTVLWXd4X0JIdTJ3MGhJRXNKT2RHck40c1JJdlNVNUVqVnFk?oc=5",
+   "published": "2026-11-15T12:16:09+00:00",
+   "id": "8a2c2050d016",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests.",
    "source": "The Motley Fool",
@@ -6555,18 +6567,6 @@
    "cat": "géopolitique",
    "raison": "Rappel symbolique des tensions au Moyen-Orient, impact de refuge très marginal.",
    "method": "IA"
-  },
-  {
-   "title": "More than 10 killed as Russia, Ukraine trade accusations following overnight strikes, Abu Dhabi talks",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHRNMEZzekFmUE9ZTnJfQldIUFdaTktPNUpMZzE5TnV2TVl3XzhCRlZObHA5RkhrQWt4Wl9NUWVtM1UxcndzQUwzWDhlT1FLR0xTMUVUX2RzYjF2YThBdTI0ZVFPZFlrb05hdXFxcGVNYlhSTHZLNWtGVjBHbGJobVFwQnQ2QkRPcGJzWURQN1ZjczRNS3NfX1RrNGRmRGpUY0Qwc2dtRzNkZHZQSVMzem9hVktyRmNianp3X0YxZUlaS2lkZndQeHg0RmxSeEhyYmpoeFlkYTRwdkVpNkNkNjNKUmluZw?oc=5",
-   "published": "2026-11-13T14:26:15+00:00",
-   "id": "2224a958df1d",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frappes continues en Ukraine, léger soutien valeur refuge sans rupture majeure.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8286,7 +8286,8 @@
   "news|df6a2f558881": 1794741736.2335527,
   "news|5e883fda0264": 1794742653.5861447,
   "news|f716c9d7704a": 1794744128.5319953,
-  "news|a47a84edca15": 1794744131.4037232
+  "news|a47a84edca15": 1794744131.4037232,
+  "news|8a2c2050d016": 1794746066.6024013
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8710,6 +8711,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T12:34:26.602480+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes</b>\n📰 Al Jazeera · Dim 15/11 13:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmJpRzd4b1dzR0xuNEpuS0tRS0xXYkI0UldTdG9SU3pwVEFRVThGQUwweFo1TUxlXzlOMVd0cFBMNmEyTlhGRXlHUjZTZE1aeGZZN29Nb1BiMVMzYS1tZGJSWEYweXRDcV9xdEJ2dy02WVd3cXBlZzhHYUR1VXFTRDdCZlRoOG9HTzEtU3J3VXI0eVZHdFFnVWRlVHJHd0ROcDlhYU9YTTAtcnVncm1tVTMyWTgxbjQ4TU5IR0lCa9IBxAFBVV95cUxNZGxFLUFwd2ZGRlF4cFpIQnl2VXhHVHYtVUJmMU1xLV9mNjM4aDliWFFidmdJX1lKZS02anJpOWlSNTBkdGhKMi16djFpQWtwMU9NVHNEY3I5UHBfR1MtcHBSREZ0dWVnQ3AzN0VIRy1NY3VfR215Q1NlVFc5OVdNVzlnYWZIZTdKU3BvdHRIVGVQSVVBeVpHZ3laeXlCb2lNLTVLWXd4X0JIdTJ3MGhJRXNKT2RHck40c1JJdlNVNUVqVnFk?oc=5"
+  },
+  {
    "ts": "2026-11-15T12:20:51.884341+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -42)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
@@ -9003,11 +9009,6 @@
    "ts": "2026-11-14T18:16:15.508993+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu pushes Trump for Iran strikes amid Mossad US visit</b>\n📰 The New Arab · Sam 14/11 18:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPbURBNW9jQ2hZX1FLQjZzZ3lXMHVvdkh4eW9tcWFIdkg1b18tWk83b0p0MEw2M01KYUVrWXBPVy1FNVRuVVo3bFM5Sm1vWFZidU1WV0tQeGhKNGNiTzNVSmRMUU14WVcwbkt2LTlpXzRhWmlkV1VlXzl5by1JMDVPWmNHNVJjUDB6VHQ1ZVZR?oc=5"
-  },
-  {
-   "ts": "2026-11-14T17:31:34.450074+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US PPI Inflation Hits 6.5%, Highest Since 2022, as Nasdaq Sinks and Bitcoin Faces Fed Rate Hike Risk</b>\n📰 Coinpaper · Ven 13/11 19:43\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEFxR1lXRVNFdHlqZlBWZTMyTmhmWEZvbzNEMVpsTmlBQ2Z2VUVUNDRXbWlHdHNPd2lKS25Qc21ONHp3cUI0V0ZLRTFfcm5QTlYwM2FCTGgtTFU1LU5DMXdVSWxnbUlvZjNUbmVPZF8xRUlqYVlyaGt4SERWdHBiaGZFdDVJdFJqY1g1WWVlaHZfSVFjTlpsQ3ZoT01ERGQ5NnVoOFVjSi1jMmNkV3drQ1dhdE1uajJmUDhIemNIOEszQkE?oc=5"
   }
  ],
  "daily_forecast": {
