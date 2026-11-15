@@ -1166,10 +1166,6 @@
   }
  },
  "seen_news": [
-  "6cac57a7a2f2",
-  "6950cf296e4e",
-  "0b4122509294",
-  "91d471841667",
   "cec9c4eefba8",
   "39839aafb333",
   "3e73d61b796e",
@@ -4165,9 +4161,25 @@
   "2696b1ceff96",
   "698707ca0940",
   "7e603930351a",
-  "7d910fe527bc"
+  "7d910fe527bc",
+  "2a7559144673",
+  "93d76f10ada7",
+  "93db5372d545",
+  "5460f31a1040"
  ],
  "news": [
+  {
+   "title": "Iran launches second drone attack on Bahrain in just three days",
+   "source": "Israel National News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JY2N5N29yMFQxbXdZVVNUaF80SEVmbDJmZVFKaHJQc09QVEVCMmZqZEoxc3pLYkVCcWw3ZnNqU2Q5bGlkZEU4LV84eFNrMHVobWNoOEpuN2JZZw?oc=5",
+   "published": "2026-11-15T17:25:02+00:00",
+   "id": "93db5372d545",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Donald Trump Dictated His Longest-Ever Truth Social Post, a 1,321-Word Attack on Bill Maher, While Aboard Air Force One: Report",
    "source": "AOL.com",
@@ -4199,6 +4211,18 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUtINm83UmtnLXFTVERsOFhuYnRMODFLOWdNcDEtYmhBR1JTVDhtb1ZYSnFVTWZkR1E1ckxEWXR5WGp4TExCWTBoSkM5eUtlZzNobFpwblJfeV83Tk5CNnlYOXd6dW16WHk3UFRJX1UtYVZXdEZDN0JxQ0NPbVdfS05lMTk?oc=5",
    "published": "2026-11-15T16:31:02+00:00",
    "id": "54c7ef1f9af6",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Saudi-led coalition says it intercepted 3 drones over Mecca, Medina amid escalation with Houthis",
+   "source": "Anadolu Ajansı",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYlE5V0gtMHlkTkFsLUlfNjZlMkhTVEJ2ZkdxTG9DRWV3RGF0VHdhbnlVZ2Q4eWY3T1Q3RFZDZndkVjNFZWdDbm00WHZ1OHhKNDNFa0FPZ1V1d3BVTml3cWhfZUZXZS1QTUxOTktYb2c5WnZEUjZGeHJKalZwUG5yVFpyU1FUQWk0ZWk4UDE0RzRsU0FkYjJBV096bHNfZmhJYjc2cTBmOFRHbjZGdWZzYUJjZUVMNVNENmNHUVNjc3JRQnRLbEdxd1VUNzVBQjF3Z2pLcFdnOA?oc=5",
+   "published": "2026-11-15T16:21:36+00:00",
+   "id": "5460f31a1040",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6543,35 +6567,9 @@
    "cat": "commerce",
    "raison": "Fronde interne républicaine diminuant la probabilité d'une guerre tarifaire agressive.",
    "method": "IA"
-  },
-  {
-   "title": "US military denies Iran claim of attack on radar in Bahrain , says it shot down two drones",
-   "source": "hindustantimes.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hindustantimes.com/world-news/us-military-denies-iran-s-claim-of-attack-on-radar-in-bahrain-says-it-shot-down-two-drones-101794581485752.html",
-   "published": "2026-11-13T18:00:00+00:00",
-   "id": "c4a4b6fa4a97",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Interception de drones iraniens confirmant un niveau de friction militaire élevé.",
-   "method": "IA"
-  },
-  {
-   "title": "Reports : U . N . Atomic Agency  Increasingly Concerned  Iran Wont Let It Inspect Uranium Facility Trump Bombed",
-   "source": "breitbart.com",
-   "theme": "Géopolitique",
-   "link": "https://www.breitbart.com/middle-east/2026/11/13/reports-u-n-atomic-agency-increasingly-concerned-iran-wont-let-it-inspect-uranium-facility-trump-bombed/",
-   "published": "2026-11-13T18:00:00+00:00",
-   "id": "fd75eb79964e",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions nucléaires accrues avec l'Iran renforçant la demande d'actifs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|2a1505d190ba": 1792950371.3329294,
-  "news|b317f1695dc3": 1792950372.2828937,
   "news|9ddc7ee2f438": 1792953091.8125885,
   "news|ff6a23c2247d": 1792953092.8286254,
   "news|50b78fa03d63": 1792953093.6941557,
@@ -8281,7 +8279,8 @@
   "news|ebbced5b10f4": 1794761171.729479,
   "news|8b478b49c572": 1794761772.9377499,
   "news|ebc5fb394e01": 1794763926.8700187,
-  "news|564bd2d93d63": 1794763929.4266963
+  "news|564bd2d93d63": 1794763929.4266963,
+  "news|93db5372d545": 1794765698.7823126
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8705,6 +8704,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T18:01:38.782390+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran launches second drone attack on Bahrain in just three days</b>\n📰 Israel National News · Dim 15/11 18:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JY2N5N29yMFQxbXdZVVNUaF80SEVmbDJmZVFKaHJQc09QVEVCMmZqZEoxc3pLYkVCcWw3ZnNqU2Q5bGlkZEU4LV84eFNrMHVobWNoOEpuN2JZZw?oc=5"
+  },
+  {
    "ts": "2026-11-15T17:32:09.426821+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US intelligence believes Iran could still have up to 2,500 missiles – report</b>\n📰 The Times of Israel · Dim 15/11 11:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm9YZEZBLTUxTUZOODItV1Q1Z2RweWVTYVBBMTgySWIyOVN5eWJrT0g4SUVHMmJkbTJLWGQ5dkNYMmlPb3BQaHB2TEJyYm1HaEM4bVVMOHR4a1FBRmN2SWFrRUk1Qi1DWmRya1Q4MDhwWlMzMnNCc1ljVXhSSGJEUXdkUHlwbDhPNW5uUEM5VmZhREFtdks5OHBOemUzMnN5dXF2QzNTSdIBrAFBVV95cUxPZm40NWNrbnlXc1NsbXlOU3V4R00wNXdIQ0FuMnl3dGdzbkpqaGxmTmRQbFJNM2NNM0pOYm1lWC0zNEs3SXhjZnRtcVYtdFZqNHZ4eDRwdHZTSjZTczFSR2FZNGxoOGc2ay1KRDBfbnNOQjhQWEcybW9jV0syaVBDaFVGX2Jyd0l0OWlQWlFZRmg0dFF5N3pVNUxqa2xvN0lBWUc4WXR0U3pLbnZ4?oc=5"
@@ -8998,11 +9002,6 @@
    "ts": "2026-11-15T00:01:45.013331+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 157 aujourd'hui = 1.7× l'ATR\n🥇 🔴 baissier pour l'or"
-  },
-  {
-   "ts": "2026-11-14T22:48:43.057410+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -46)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
   }
  ],
  "daily_forecast": {
