@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794721548.629706,
+   "ts": 1794725154.3499901,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1166,8 +1166,6 @@
   }
  },
  "seen_news": [
-  "cd91841e0fd0",
-  "3a7c9e356450",
   "ecb5c391c173",
   "4e93029e9792",
   "1db80e1ab5ee",
@@ -4165,9 +4163,23 @@
   "4129aa9c8c44",
   "fe01ee3990e2",
   "26990343465b",
-  "fec9e11e6783"
+  "fec9e11e6783",
+  "67e6ce4d69a8",
+  "0a9b260a6813"
  ],
  "news": [
+  {
+   "title": "Arthur Hayes Says Fed Rate Hikes Will Prompt Wealthy Investors To Buy More Bitcoin, Real Estate, Watches And Wine",
+   "source": "TradingView",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbE5ZbG42Zkl6RHR6Z29IS3RxSjQtdFJTRDdMd3FtalhvZXpRMUdiY2x5Y0pxTFF1Q0xsZHVJV2xKbk5nR0ZZNkdiQWlHcUdNR2YzT0docEQydEFsZDFiVkh2QXlfM19iaU9sVENtcTBGd1dUVUt5cEg0SndqWGt3eDlDRVEwd2tnSlFGR3k4dXhHMjRyWmRaV05xUTBlTGJaZG5DX1hDVEVEXzBIMTlIWVdORVF5WExIMlFWYjNvVnQwMmJzczUxNm42YnVnV0t4elVBQ3lGU3duenBHcGhHbVpqU2ZaWHlocDR1MVpQZWtZNEVYSkt3b1pfUWVYMGhab2c?oc=5",
+   "published": "2026-11-15T06:15:00+00:00",
+   "id": "0a9b260a6813",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Israel's defense establishment sees no urgent need to strike Iran until new gov't formed - report",
    "source": "The Jerusalem Post",
@@ -6555,22 +6567,9 @@
    "cat": "emploi",
    "raison": "haussier or (emploi)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump's envoys hope to get Europe involved in Russia-Ukraine peace talks",
-   "source": "NPR",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMm9lM1ZUVWRtVFNkNkRKQmRFWGJJbDczczNDX2tnNkxoOU5jdkc0RWZwcDAtellPN2sxNldYejlmcWtQbktiaHZFalFORzJMMlJlZTN4aTUzVmxSZGhrakpDY1ctNmlVWnFNdGRjU3JadVQzM3FlTGFhZHdQX2NOV09QRkpyX0cyRUdRREstYXVTWFplam9lVFd4cGxDTUNKTVRaSkhoUk5fU0diSHhFUk5rQWFFd1U?oc=5",
-   "published": "2026-11-13T09:42:43+00:00",
-   "id": "582f65420778",
-   "impact": -6,
-   "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|429f2a8321f7": 1792910770.9109743,
   "news|be0f33a25018": 1792910771.8697827,
   "news|652ea85fa249": 1792914563.7402105,
   "news|a9a37e40c9f6": 1792917152.8195982,
@@ -8297,9 +8296,10 @@
   "news|3384ad20db51": 1794719072.343749,
   "news|28f6fe8c9ce4": 1794721747.7520254,
   "news|5745855c3892": 1794721750.2797782,
-  "news|1de08539fc3d": 1794723367.820351
+  "news|1de08539fc3d": 1794723367.820351,
+  "news|0a9b260a6813": 1794725171.0785546
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8721,6 +8721,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T06:46:13.982924+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
+  },
+  {
+   "ts": "2026-11-15T06:46:11.078654+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Arthur Hayes Says Fed Rate Hikes Will Prompt Wealthy Investors To Buy More Bitcoin, Real Estate, Watches And Wine</b>\n📰 TradingView · Dim 15/11 07:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPbE5ZbG42Zkl6RHR6Z29IS3RxSjQtdFJTRDdMd3FtalhvZXpRMUdiY2x5Y0pxTFF1Q0xsZHVJV2xKbk5nR0ZZNkdiQWlHcUdNR2YzT0docEQydEFsZDFiVkh2QXlfM19iaU9sVENtcTBGd1dUVUt5cEg0SndqWGt3eDlDRVEwd2tnSlFGR3k4dXhHMjRyWmRaV05xUTBlTGJaZG5DX1hDVEVEXzBIMTlIWVdORVF5WExIMlFWYjNvVnQwMmJzczUxNm42YnVnV0t4elVBQ3lGU3duenBHcGhHbVpqU2ZaWHlocDR1MVpQZWtZNEVYSkt3b1pfUWVYMGhab2c?oc=5"
+  },
+  {
    "ts": "2026-11-15T06:16:07.820429+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel's defense establishment sees no urgent need to strike Iran until new gov't formed - report</b>\n📰 The Jerusalem Post · Dim 15/11 07:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSkdqMjRWeXlLVzV0NllGeDdnM3k0bTJRaFg5cEMyUjh2VzR1eGFzbWo1cDdpbUY1T3A1RW1Ua3NHWkhXZDdkR0k4VTRtLWU0bWRVVDBSYjBLNTVWWjBWeURfLWdoTzdhNF9FU3RR?oc=5"
@@ -9009,16 +9019,6 @@
    "ts": "2026-11-14T11:16:06.756367+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing</b>\n📰 Fox News · Sam 14/11 12:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWJuc0RtNzJfUGxQdWRNNlJfeGkyTEpMLTNkU2hITkNlWEo1aGxkUy0zelNTNkJFemRVSmk3WG9aR2hLNXNqcTVjVFlYVnZCaEFYbXFvcnJ0LXRIM3puUTJRcjV6V3VCY2wzSU5HNThzWEt3WmlJdGxvOE1jSlVmQW9LVGVxRDBRZXZLMW5DYkNJOUZ1aDZ6S1QyV21mQWlqYkVCTlYwR1llUFBUcXlKeklCcnpXZ9IBuwFBVV95cUxPTGRPaE9ld0pFd3BXc0l4UHFqNmhFeVpqNjk4MFFBeS1ZSEQ3TXdYNUdaUDRRbkZ6eFlZenRsUmhiMHdyWV9sTEVodWg4cnp1eWdBcWVOcEFfdnNmM1NJNmpSX0MwdS1jdnZkZ3ZzYm82UERLcTZFNnd3eVl4cXI1cGgwc3Y1V0YxSlhSZVlUbjY4ckc1bTFsN09TaDFMdnY2ZFZMdUplSFRHSWp3Z0NRR0VVWkJxcnlxdnZr?oc=5"
-  },
-  {
-   "ts": "2026-11-14T10:09:08.566206+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Nuclear arms but also Iran war on agenda of Trump’s meeting with Putin, Xi</b>\n📰 The Arab Weekly · Sam 14/11 09:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkNHd2N4UHc5S0xUTW13ckMxekktZDRHZEV1MzNERGItS1NySVk3c055dDhGNzhFNWlNTmtiLU5XMmN3TExZdlRYN0dudVF6QUptTFBiX1dBaUdrMjM1TU1ZUkowN1E3cUttWXdqYjN4VGFUMXpCTzdsVzZTaW5EMXgyUndCVTQwU0Nj?oc=5"
-  },
-  {
-   "ts": "2026-11-14T09:19:17.008885+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump To Discuss Iran, Nuclear Arms With Putin, Xi At Landmark Summit</b>\n📰 Radio Free Europe/Radio Liberty · Sam 14/11 09:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnJHSWM2eFlYcVBrdHhsQUpqVUxkZ05KTUh2aGZybFNyQnlJZkFKVWYtX2NvcFNIdU9KT1M3QVNPRkhNdmZQU0lGdVZLQjd3MGpYcGx3dzVmU2hTUjFQbUlnQWVTTGNvcXA3eWYwTFNCWURoY01tdUJUWGM5LWRDeHZTRm82bFlPWXlCRVVROUtpSmRrZHIydkV0dTJoSmU2OHZnR01lX3fSAasBQVVfeXFMTnF5T0c0dWdySndHMzJ3NXVRMGxGWVJsaTRGcEQ0bEtyXzdIcmpNUnhQQU42RkVlaWVJSENEakFUUnJGenpqY25jNXdzMzZwTXU2Q3BTeDN6aDMyRU14UWQxb1JSaDJkT1dSeFZuUFA5UHNhM2FVdzFFbWVPODNUVXNsX2lfcVJJZk1ZbEZ4WFlpMHc0OEUwaWtGZVNBTldiVlZncmVINmJsemRR?oc=5"
   }
  ],
  "daily_forecast": {
