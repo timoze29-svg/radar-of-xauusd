@@ -1111,11 +1111,6 @@
   }
  },
  "seen_news": [
-  "8ae67d92c871",
-  "9e0474bcec63",
-  "15ffd6b16f26",
-  "4597457ed449",
-  "9efcef20f6ca",
   "01e6e22ae66d",
   "c94a2ba376f3",
   "fb24fef655db",
@@ -4110,7 +4105,12 @@
   "9c5f8c6c02ed",
   "d5b16070460d",
   "39ce42341548",
-  "2a3ceac52afa"
+  "2a3ceac52afa",
+  "3e6e8e2aad6c",
+  "29198594f013",
+  "22e518355f26",
+  "43f267aeeef0",
+  "9df9294a807d"
  ],
  "news": [
   {
@@ -4868,6 +4868,18 @@
    "cat": "commerce",
    "raison": "Discussions commerciales préliminaires sino-américaines apaisant temporairement les craintes protectionnistes.",
    "method": "IA"
+  },
+  {
+   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "source": "Al Jazeera",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5",
+   "published": "2026-11-14T07:57:30+00:00",
+   "id": "29198594f013",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
@@ -6500,23 +6512,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Ukraine War, Day 1,723: No Advance But Europe To Join Talks With Russia",
-   "source": "EA WorldView",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjBqWXNWUk41eHpXYXBZbW5ZS1pzTjFIaDZSQWJxbDc0VGxaZ3IzZktESXkxM1pQRXdZX29fR0JrcVpYQjRLT0VLU0xsRXZkRmpHVlBKcVRkcGZoZ1gwTWM0S29KVHF4eUN0ZWI5dTVkVkkyNUJoOGl4NWJ3V25wemJpR3BRSldVdWdJLTVWcjRPT2RwcXVV?oc=5",
-   "published": "2026-11-13T07:09:13+00:00",
-   "id": "36e8f01253e2",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|665fc010488d": 1792894572.5474567,
-  "news|35732eec0fcf": 1792895481.7749908,
   "news|c462f8f5bfbc": 1792897376.17132,
   "news|4a37ece3b370": 1792904489.3669558,
   "news|9464faad0526": 1792907164.4013367,
@@ -8242,7 +8240,8 @@
   "news|6ba0ff0ad838": 1794703754.5278416,
   "news|df9963613309": 1794705368.356334,
   "news|d5b16070460d": 1794708968.779664,
-  "news|ebf55a026ee4": 1794708971.2532258
+  "news|ebf55a026ee4": 1794708971.2532258,
+  "news|29198594f013": 1794710254.122609
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8666,6 +8665,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T02:37:34.122737+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran</b>\n📰 Al Jazeera · Sam 14/11 08:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5"
+  },
+  {
    "ts": "2026-11-15T02:16:12.423759+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
@@ -8959,11 +8963,6 @@
    "ts": "2026-11-14T04:01:33.924059+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Mossad chief visits US, fears grow Netanyahu could strike Iran to block Eisenkot</b>\n📰 Al-Monitor · Ven 13/11 16:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOVllfSFl5WVFrLU04aDRISENhMTNwUDJ2RUxGTmNlOUM0Y0c3S3lwSHJJSjBiZEZuNjNwX1BlbzR4eGVPemQxMzV5enV3UzJnZUxhR1FSTUM4VHZtY1hvMjNEa1o1cmhiWEQzQXMxWlVYeklSYW9EU0lnanYxNjBCUnIxdEg4cVBXNWJxVTA3NHIxRWhSQ1p2bGVtR0Flei1NY2J6WVBFSHI4Zmk4YkF3TmlMcnEzbjBXc2taTDBn?oc=5"
-  },
-  {
-   "ts": "2026-11-14T03:46:07.581667+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran says it targeted US military radar in Bahrain in retaliatory strike</b>\n📰 The Guardian · Ven 13/11 13:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5"
   }
  ],
  "daily_forecast": {
