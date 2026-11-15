@@ -1166,12 +1166,6 @@
   }
  },
  "seen_news": [
-  "ecd393b8cce1",
-  "566f2ba3aaba",
-  "9e5368000b92",
-  "e614503fe34f",
-  "c98684738873",
-  "992e8483a374",
   "5db45e996f7a",
   "a903ad2a6e67",
   "317444b63e4e",
@@ -4165,9 +4159,39 @@
   "23b10f380206",
   "8184fd22bc7c",
   "1b29659d14c4",
-  "48e172e5da8b"
+  "48e172e5da8b",
+  "38e10d6596a1",
+  "6708ba47b33e",
+  "df6a2f558881",
+  "793ffa65a7d7",
+  "716e12900667",
+  "b69daab73818"
  ],
  "news": [
+  {
+   "title": "Yemen escalation widens as coalition intercepts missiles toward Riyadh",
+   "source": "سانا",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KZVJqMVFOOW9VTUo0VXVKSXVxN01MZnZHRE5EckJhTkJzaFI0NUt1Nm03YTllNHYwMVZRVmEyaVpDWDdGS0NfdXU1dDRiVzBP?oc=5",
+   "published": "2026-11-15T10:13:54+00:00",
+   "id": "df6a2f558881",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine reportedly strikes Russian military airfield in Astrakhan Oblast, at least 30 explosions heard",
+   "source": "The Kyiv Independent",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkowbV8xR2J0QmJlRE4yUDR0T3c5S3NoREFMdmJGVE01WGtBNWhfOU50RXJnS3ZoSW1UYVZrdm1Sbm1XTzZuOFA2a1BkYTREUnBFMUNzTVV3OV9JZlFJQnBzcGVSaE5jcTV3aUxuTEd6b2VpcUJvR1ZvM2dIcjREd3NIWF9DeUpJLWhNNUwwTDRkR3p5c3B4WThIQTFTY3UxUmhrdDVFb0xoWVJaNmhud3EzaVFBNDBlVjJNdTdVVWl2UlgyX19KYjNn?oc=5",
+   "published": "2026-11-15T10:05:01+00:00",
+   "id": "b69daab73818",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Israel Kills Top Hamas Commander In Gaza; Iran Claims Bahrain Strike",
    "source": "Deccan Chronicle",
@@ -6543,35 +6567,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Mossad chief visits Washington to press Trump to resume Iran war",
-   "source": "Ynetnews",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IN3pHdWlsTmVtNDJWMllwNmJ3VWhRQ01mcHozRkxLNzVGeDhRbmNNVHVfYk1UenFYTW1hamJ1bGIxWUtzRnF0S0NlT3hpYVJKRDd3anhR?oc=5",
-   "published": "2026-11-13T14:17:25+00:00",
-   "id": "1a5432a10219",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Lobbying actif pour relancer l'action militaire contre l'Iran, amplification du risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Report: Mossad chief meets Trump officials, presses to resume Iran war",
-   "source": "Ynetnews",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IN3pHdWlsTmVtNDJWMllwNmJ3VWhRQ01mcHozRkxLNzVGeDhRbmNNVHVfYk1UenFYTW1hamJ1bGIxWUtzRnF0S0NlT3hpYVJKRDd3anhR?oc=5",
-   "published": "2026-11-13T14:17:25+00:00",
-   "id": "a0892e4d0577",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Rencontres au sommet poussant à l'escalade militaire anti-Iran, flux acheteurs refuges probables.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|47206fa581d3": 1792926096.5168474,
-  "news|073ca7324dd3": 1792926968.5169363,
   "news|6fdcf08798c8": 1792927890.5926547,
   "news|a90a49d156bf": 1792927891.5745654,
   "news|4a87901b96b8": 1792927892.490628,
@@ -8294,9 +8292,10 @@
   "news|c8c9e1b23e5f": 1794730783.8925757,
   "burst|Iran|166178": 1794730785.941465,
   "news|0eceac4fdefd": 1794733866.680432,
-  "news|6651acb66855": 1794739589.953722
+  "news|6651acb66855": 1794739589.953722,
+  "news|df6a2f558881": 1794741736.2335527
  },
- "last_bias_label": "FORTEMENT BAISSIER",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8718,6 +8717,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T11:22:19.365922+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
+  },
+  {
+   "ts": "2026-11-15T11:22:16.233686+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Yemen escalation widens as coalition intercepts missiles toward Riyadh</b>\n📰 سانا · Dim 15/11 11:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KZVJqMVFOOW9VTUo0VXVKSXVxN01MZnZHRE5EckJhTkJzaFI0NUt1Nm03YTllNHYwMVZRVmEyaVpDWDdGS0NfdXU1dDRiVzBP?oc=5"
+  },
+  {
    "ts": "2026-11-15T10:46:29.953800+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran - Nuclear Deal, Sanctions, Diplomacy</b>\n📰 Britannica · Dim 15/11 10:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMlM1QWlIb2V3MGVoSll6Mm5yaXA0RERMZjNjNWpJNldUTF9CNDZzUFVQMlI5Nl9BRlVTSzd5X1NsUmtVVkoyQTE4bzFoWXQ4TzZlNUxwaHAtd1E2bmQ4SkNvTVJpMzZtU3c?oc=5"
@@ -9006,16 +9015,6 @@
    "ts": "2026-11-14T17:02:54.073040+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields</b>\n📰 EnergyNow.com · Ven 13/11 18:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDA5TDdJSGIyM3lYMDFIWVVTUVNJRmVtREJucEE3SGs5a2x1eTFOc0RSS2dxTXVlX0xBNWlwX09PMGdxeTNobm5jYnpMVUI0cUhVNVZlbEd0a2VQdi0yTGtVYmJoa1ByR2JjZ2dzU3JlZ1hhbXpVMkhxUlNfY0ptaWJyVVE4RldjUWFTRjlMYzc?oc=5"
-  },
-  {
-   "ts": "2026-11-14T17:02:51.004139+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Army Chief Stands Alone Against Netanyahu’s Push to Resume Iran War - POLITIS</b>\n📰 To the point · Ven 13/11 22:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnprQUN1cU1TYVdCRzVNR012ZF9WUU1ZWVJ0eHVJWmUwUkpSekpqV1pmY1oyZVIzemhwLS1DYnd6ekFUeFp3LTNMRVFyQmRwMEQ4UXZ4bWJUbzg4UmF3Mk5fbGw4UjVFeEdHWXppYkFUd0hHTFhKOHczS1l3bzR1UTJ6cW9vQWRQR010a3kyU0lIVWF0VElYc3FZS1k2cE5kQVZ3V1NQRW5idmZnbVRXaWNNMA?oc=5"
-  },
-  {
-   "ts": "2026-11-14T16:30:14.961724+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>US Inflation Accelerates Again as Fed Officials Intensify Hawkish Signals</b>\n📰 NAI500 · Sam 14/11 03:08\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ01rODBqTUNQWEZ3bkhQeGtsY093TFFLVHc0MEgyQ0lFcmtySjRqdXhRT1k4aWxWeUJlMlpsUXVmbjhHa1A5Q3c5RWl0NXB4czlaSVcwUEhyQTh5aUhrUUlackNyd1NjX1pXajJjSHpuZXRaM1NoSV9BZW40RThQR0V6Uk4xMGozbG1ITmZmcFRNMEZjTW5LQzJ0cGItdC1TWHpHTTFOWDlzUQ?oc=5"
   }
  ],
  "daily_forecast": {
