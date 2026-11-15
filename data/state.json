@@ -1111,7 +1111,6 @@
   }
  },
  "seen_news": [
-  "df18252d52bb",
   "e34e04b13b52",
   "44d3b1a56cfa",
   "868aa3ca81ed",
@@ -4110,7 +4109,8 @@
   "a67db650c79f",
   "59ebb89cdc60",
   "a50eda5a904b",
-  "54074441158e"
+  "54074441158e",
+  "45e928e5268d"
  ],
  "news": [
   {
@@ -4556,6 +4556,18 @@
    "cat": "géopolitique",
    "raison": "Retrait des menaces d'attaques imminentes diminuant la tension haussière sur l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Iran Warns Against New Escalation by US and Allies",
+   "source": "EnergyNow",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWJYTFI0TFNwSVF3NVhpUWtqejRtdDNmcVZVV2NlWTR5VHVKN1E3aVREcnMyQmt2X0N5d05wVm1UbWdsbG80QmJLMG1YaFRybU5fSE91WFFmSFY3OEdQWmdpVWdKaHNxQmNoRkNSUE81aG1tTmVidHRBWUctX2R2cVc5akQyaU0?oc=5",
+   "published": "2026-11-14T13:32:59+00:00",
+   "id": "45e928e5268d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine hits key Russian oil hub, military airbase in latest long-range strikes",
@@ -6500,24 +6512,9 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Dollar Rallies and Gold Slumps on the Prospects of Tighter Fed Policy",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkM5SjJVX2tIc00tdEYxQm1vbDFpc0Z2NGdYUlBaLVZXOG9wM191MDI4NDZZTzBmT0dISW9GbF9qZ1VyemVsNWFlNGhaeVZndXZzdUJnTFBOTmhUbk84OVVKXy1mOU04aGRQMGxqZXlFNXUxUXNWelZkQnJKSnBPUG9QNzZPdzByaVVvWnBvZEhHNmtJTGc3Y2EwSlVON0xWRUlMb2FaNDRVdkM5d1NiOWNScXVhN2RLcWs5MHRNXzZ3R0ZMNE5n?oc=5",
-   "published": "2026-11-13T04:45:16+00:00",
-   "id": "def189892ba2",
-   "impact": -10,
-   "cat": "or",
-   "raison": "baissier or (dollar, or)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|1913bdcca745": 1792882895.3343563,
-  "news|118c1ab1a888": 1792884682.9088604,
-  "news|9fb796956aa5": 1792884683.876696,
   "news|ba7ba1982d1e": 1792888391.9848778,
   "news|46be7a41bcfc": 1792890105.9848318,
   "news|5b46f4f6d3e3": 1792892763.0711954,
@@ -8243,7 +8240,8 @@
   "news|fd3a325f2cbb": 1794692797.5237393,
   "news|751918fd6fd7": 1794692800.144902,
   "news|43d7c42b7ca3": 1794692801.0291507,
-  "news|b2250d64bd42": 1794693880.681799
+  "news|b2250d64bd42": 1794693880.681799,
+  "big|BTC|2026-11-15": 1794700905.0132709
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8667,6 +8665,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T00:01:45.013331+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 157 aujourd'hui = 1.7× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-14T22:48:43.057410+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -46)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
@@ -8960,11 +8963,6 @@
    "ts": "2026-11-14T01:16:11.898798+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -42)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-14T01:16:09.298247+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says</b>\n📰 Arab News · Sam 14/11 01:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2lVby1sUDgxNXZXcm0zc29WUTBzNWlLaXFEZ0NZenp3Ml9xTmVvOXJsVzJ4aTdZejBSeU1PcHhMNlZrU09hMUF0dlB2aVFtYWNoNFpqVkM3YU51SWp0dmM4ZlN1NGY2cjNoOWNtcVVybU1hRkduMklRekFzcURvWlZGdGd5VHEtRGFmbHFiMGRGN2JQWVJ0RmhKZGVVNUI1Y3QtWE9IMTJsRTZ5eG1malc4czQ2andCMklBRWNhTExBeWtyajI1Z1hnM0N3WS1teXNqdlUydzliUndUeDdBZjFn?oc=5"
   }
  ],
  "daily_forecast": {
