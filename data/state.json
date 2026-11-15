@@ -1111,12 +1111,6 @@
   }
  },
  "seen_news": [
-  "01e6e22ae66d",
-  "c94a2ba376f3",
-  "fb24fef655db",
-  "3c7b29b1048c",
-  "dc3457b3055d",
-  "692237d67786",
   "f9a13f0f68e5",
   "a51fb9a6a0fa",
   "645e450baa39",
@@ -4110,7 +4104,13 @@
   "29198594f013",
   "22e518355f26",
   "43f267aeeef0",
-  "9df9294a807d"
+  "9df9294a807d",
+  "492f951a9c18",
+  "1269b8872946",
+  "6f6a23b08e11",
+  "5d5cbe50b186",
+  "e31e7d805ba4",
+  "ae231f9a2c20"
  ],
  "news": [
   {
@@ -4736,6 +4736,18 @@
    "cat": "géopolitique",
    "raison": "Posture d'apaisement temporaire des États-Unis réduisant les craintes d'escalade militaire majeure.",
    "method": "IA"
+  },
+  {
+   "title": "Week Ahead: Fed Rate Hikes, US Retail Sales & Inflation",
+   "source": "www.equiti.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2RTcUhwYnlYcXNtSnNFQUdDV3JmTGt5SVVWSHRQVk1pWEhzczJfVHpQWlJYa09QUUtlZmFnci1RQkprLTYtNEpMQmxJaGFoaXk0QXJDcWE3UER4a2tadFpYenpkSnhfbDVnVEtNN25FTUUyMmk3cGMyTFlWUC1PTE11Y1QyWjFKd2RsMElUTFVCSHJlYnd2VDNHOGJkbVBlQlE?oc=5",
+   "published": "2026-11-14T11:47:36+00:00",
+   "id": "e31e7d805ba4",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Report: Trump Tells Advisers He May Hold Off on Iran Attacks Barring New Provocations",
@@ -6500,18 +6512,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump removes Vice President from handling the war in Iran",
-   "source": "Baltic News Network",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGQzelhIQ1EtZk9RdWcwcDRfNDB4cG9MRm9YNjMzUnlYTFFUUjFyaGFlWFM1V2pQRUFzQmpwdndQRDNUd1ljeEFiTHQwckxiZlFTV0JMVGVUSlNCbXJtemtWUU84OGh4ZTZDTnpBTFhlWHBhMnp5eXR6bGZWUkN3VG8yV1hiaUN4YXBXM3hZTEdKZ1E5NHdTdQ?oc=5",
-   "published": "2026-11-13T07:31:08+00:00",
-   "id": "b58d379e08a3",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8241,7 +8241,8 @@
   "news|df9963613309": 1794705368.356334,
   "news|d5b16070460d": 1794708968.779664,
   "news|ebf55a026ee4": 1794708971.2532258,
-  "news|29198594f013": 1794710254.122609
+  "news|29198594f013": 1794710254.122609,
+  "news|e31e7d805ba4": 1794710766.2477105
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8665,6 +8666,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T02:46:06.247811+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Week Ahead: Fed Rate Hikes, US Retail Sales &amp; Inflation</b>\n📰 www.equiti.com · Sam 14/11 12:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2RTcUhwYnlYcXNtSnNFQUdDV3JmTGt5SVVWSHRQVk1pWEhzczJfVHpQWlJYa09QUUtlZmFnci1RQkprLTYtNEpMQmxJaGFoaXk0QXJDcWE3UER4a2tadFpYenpkSnhfbDVnVEtNN25FTUUyMmk3cGMyTFlWUC1PTE11Y1QyWjFKd2RsMElUTFVCSHJlYnd2VDNHOGJkbVBlQlE?oc=5"
+  },
+  {
    "ts": "2026-11-15T02:37:34.122737+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran</b>\n📰 Al Jazeera · Sam 14/11 08:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5"
@@ -8958,11 +8964,6 @@
    "ts": "2026-11-14T04:22:08.055684+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-14T04:01:33.924059+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Mossad chief visits US, fears grow Netanyahu could strike Iran to block Eisenkot</b>\n📰 Al-Monitor · Ven 13/11 16:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOVllfSFl5WVFrLU04aDRISENhMTNwUDJ2RUxGTmNlOUM0Y0c3S3lwSHJJSjBiZEZuNjNwX1BlbzR4eGVPemQxMzV5enV3UzJnZUxhR1FSTUM4VHZtY1hvMjNEa1o1cmhiWEQzQXMxWlVYeklSYW9EU0lnanYxNjBCUnIxdEg4cVBXNWJxVTA3NHIxRWhSQ1p2bGVtR0Flei1NY2J6WVBFSHI4Zmk4YkF3TmlMcnEzbjBXc2taTDBn?oc=5"
   }
  ],
  "daily_forecast": {
