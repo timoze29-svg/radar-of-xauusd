@@ -1166,10 +1166,6 @@
   }
  },
  "seen_news": [
-  "76bec85e6e21",
-  "a56a6b87c193",
-  "7deb9e3b48f1",
-  "a1685d767780",
   "e1ee7fa943d3",
   "fd4f3665e20d",
   "d0bf348af28d",
@@ -4165,9 +4161,25 @@
   "a47a84edca15",
   "f716c9d7704a",
   "0e8892c012b9",
-  "890b1f7e3fdd"
+  "890b1f7e3fdd",
+  "b692e673945c",
+  "067213726b15",
+  "0d628cc0acb6",
+  "5eee75aec5f8"
  ],
  "news": [
+  {
+   "title": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests.",
+   "source": "The Motley Fool",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDBodFF6V2tfV2dzVGJsY0k2bFJVeXNuM29DR1FzaXRpSjdwMnRKdFdramhvb1pFaW1mRVp4WkZUbTNwZjdrNkt5c0RmSHhYa0xNOTZNVFI1ZFpEQzBsdVFnRjMyMElDZjVkNVdFVE1yVlhLVWs2bXFsSDFPTE91VzQ4UkZBZlQ0d0swbzhCSHZpSDBzcGhn?oc=5",
+   "published": "2026-11-15T12:02:00+00:00",
+   "id": "067213726b15",
+   "impact": -2,
+   "cat": "fed",
+   "raison": "Spéculation de hausse des taux renforçant les rendements réels et pesant sur l'or.",
+   "method": "IA"
+  },
   {
    "title": "Egypt, Pakistan, Turkey FMs urge diplomacy to avert further US-Iran escalation - Foreign Affairs - Egypt",
    "source": "Ahram Online",
@@ -4175,10 +4187,10 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdXN0TXo2bG1rVHVILTk1ekJ5QVFubHAyN18wNERCci02SVpqZC1mMkNqOExqUC14N0IzeWtkRlp6RnhPYmhpeDdvMERpNXZEN3RJV3R0OHRrTDBxQ1BXcUItbV93N0V4VHVyaGpYZlRUQ2FFWFA3eE93aUVVdzlORlUwWEZOSmpRQklpeTA1cWJVQkptVFhGNUg5TTZaMmdNVllXNm9yT185U3JQMTA1d01GUHhZekxmdHRRaUhlMjlRR0F4ZEpCVzJHMU4?oc=5",
    "published": "2026-11-15T11:16:39+00:00",
    "id": "5e883fda0264",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Appels diplomatiques atténuant marginalement la prime de risque géopolitique au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Iran attacks Bahrain in escalation of Gulf hostilities",
@@ -4187,10 +4199,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1NnZUh3czlKU042ZUlRajRsMzFZdUN4WkwycmtaYVRTa3kycVB5ai04SGFWV2JvOURhSVNmSUE0VDdMUGk5VERpM0NjaUI0UmY5eUpTRmlEZFk4NWEyaFp1eDRoclkxVnBfcFh0YW13ejBybkRGdnE1VDhubnJjZk9zUko?oc=5",
    "published": "2026-11-15T10:50:05+00:00",
    "id": "f716c9d7704a",
-   "impact": 10,
+   "impact": 7,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Escalade majeure embrasant le Golfe, propulsant violemment la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Yemen escalation widens as coalition intercepts missiles toward Riyadh",
@@ -4199,10 +4211,10 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KZVJqMVFOOW9VTUo0VXVKSXVxN01MZnZHRE5EckJhTkJzaFI0NUt1Nm03YTllNHYwMVZRVmEyaVpDWDdGS0NfdXU1dDRiVzBP?oc=5",
    "published": "2026-11-15T10:13:54+00:00",
    "id": "df6a2f558881",
-   "impact": 10,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tensions persistantes dans le Golfe soutenant modestement la prime de risque sécuritaire.",
+   "method": "IA"
   },
   {
    "title": "Ukraine reportedly strikes Russian military airfield in Astrakhan Oblast, at least 30 explosions heard",
@@ -4211,10 +4223,10 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkowbV8xR2J0QmJlRE4yUDR0T3c5S3NoREFMdmJGVE01WGtBNWhfOU50RXJnS3ZoSW1UYVZrdm1Sbm1XTzZuOFA2a1BkYTREUnBFMUNzTVV3OV9JZlFJQnBzcGVSaE5jcTV3aUxuTEd6b2VpcUJvR1ZvM2dIcjREd3NIWF9DeUpJLWhNNUwwTDRkR3p5c3B4WThIQTFTY3UxUmhrdDVFb0xoWVJaNmhud3EzaVFBNDBlVjJNdTdVVWl2UlgyX19KYjNn?oc=5",
    "published": "2026-11-15T10:05:01+00:00",
    "id": "b69daab73818",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe ukrainienne en profondeur ravivant les craintes d'escalade du conflit russo-ukrainien.",
+   "method": "IA"
   },
   {
    "title": "Israel Kills Top Hamas Commander In Gaza; Iran Claims Bahrain Strike",
@@ -4239,30 +4251,6 @@
    "cat": "commerce",
    "raison": "Fragmentation commerciale et pivot vers la Chine favorisant doucement la dédollarisation.",
    "method": "IA"
-  },
-  {
-   "title": "Iran - Nuclear Deal, Sanctions, Diplomacy",
-   "source": "Britannica",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMlM1QWlIb2V3MGVoSll6Mm5yaXA0RERMZjNjNWpJNldUTF9CNDZzUFVQMlI5Nl9BRlVTSzd5X1NsUmtVVkoyQTE4bzFoWXQ4TzZlNUxwaHAtd1E2bmQ4SkNvTVJpMzZtU3c?oc=5",
-   "published": "2026-11-15T09:16:35+00:00",
-   "id": "6651acb66855",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil's Inflationary Ripple Keeps Gold in Check as Central Bank Buying Offers Partial Shelter",
-   "source": "ad-hoc-news.de",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUzZ4dWNTVzJycUk2YjVhYkp1YlM1LVRoSFlpWGZycUpOM1Fpb0tNd3VRZWZlc2RBRWNnX0ZMY3lnZHJqcVowTDc2eERHN3FmdXZWajUxSWQ5Mm1sbWVSWnBtRDJWNkVIZThYcUtORkFpTHRIbTFlQVFtSThiM0FhdWFPS3htWWZsRi1LcnVQLWxrb3JfZjFweXhnRWYycmt6OC1TVGlnR01jMWdWcXJUa1FmVVpuYkRGRTI5WlB1a0hsaXFvaElQQXRzRF93VnJSaWJNMWZhalhWOEtXN1N6Q3c4U2kwYUwwYy1CMWNBQmd1N2FHMnc?oc=5",
-   "published": "2026-11-15T09:11:27+00:00",
-   "id": "227509c1f144",
-   "impact": 5,
-   "cat": "banques centrales",
-   "raison": "haussier or (banques centrales)",
-   "method": "mots-clés"
   },
   {
    "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise",
@@ -4535,10 +4523,10 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXJZRDB2MEdGbWRKMmlmM01pbjJ0UGNvQzZUYnVZcHJUaGpncU1TelRHckg1cGFiajdzbDh6U05GY05oeEg5cktMTHVZd1FOd3FaVTVCRTFuNUNEd3lZNmstT3Z2NWdkZHBzSDFtdXJrSTNxRXc1eXFkT2RHSjRtSG9iVF92VmtzTEd6Nm1Pdk45cGFYNzU0Wi1hc2ZaRnlsUjF3WlRaQVk4dHhrQ3lFdWRB?oc=5",
    "published": "2026-11-15T07:04:33+00:00",
    "id": "a47a84edca15",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Hausse graduelle des tensions régionales, maintenant un plancher de prime géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Violent attacks on China critics in Taiwan raise repression concerns",
@@ -4595,10 +4583,10 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5",
    "published": "2026-11-15T05:21:17+00:00",
    "id": "5a343b59001f",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Événement tragique du conflit ukrainien sans impact macroéconomique systémique sur les marchés.",
+   "method": "IA"
   },
   {
    "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
@@ -4610,6 +4598,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Anxiété géopolitique diffuse en Europe offrant un soutien marginal à l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump threatens Mexico with tariff jump over migrant caravan | NewsNation Live",
+   "source": "KARK",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQak9BQTJjRTVXOThIR3Z6Tms2djB0SnBjZkMwYno5c3FzUkhMMUFrb2VObmUtRWlmMFZPZ0RXTFY3WF9ON0RZZlNfT3BnMUZDOTJVSDVXZ0U4ZldRYzBrZ1ItNDFjMFVWWHJXOW1MNzhGN2FHRlVCU1kxRHdtN3phOHdmWnlENmpEcWtyS0RmeE1neGVkQThoT1A5bzJwSmZmdGZISXVVdmtHVFFwTzNXQU5SYw?oc=5",
+   "published": "2026-11-15T04:33:44+00:00",
+   "id": "b692e673945c",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "Menaces tarifaires ravivant l'incertitude commerciale et un léger flux d'achat refuge.",
    "method": "IA"
   },
   {
@@ -4694,6 +4694,18 @@
    "impact": -2,
    "cat": "politique US",
    "raison": "Posture d'apaisement conditionnel de Trump réduisant la prime de guerre immédiate.",
+   "method": "IA"
+  },
+  {
+   "title": "PLA activities in the waters and airspace around Taiwan",
+   "source": "中華民國國防部- 全球資訊網",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hUmxXalVUXzdsdHlZMjhnSlBkTklncHI1dEs1QmtKdGVnTE5iZTBTczBKZHhnNXB6d1NEMDUzMmNjclJ3LUFpRDFoTlUtbWFlNUxRbTlB?oc=5",
+   "published": "2026-11-15T02:46:23+00:00",
+   "id": "5eee75aec5f8",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions militaires récurrentes autour de Taïwan apportant un soutien marginal comme valeur refuge.",
    "method": "IA"
   },
   {
@@ -6555,18 +6567,6 @@
    "cat": "géopolitique",
    "raison": "Frappes continues en Ukraine, léger soutien valeur refuge sans rupture majeure.",
    "method": "IA"
-  },
-  {
-   "title": "More warships, mixed messages: US reportedly prepares allies for Iran escalation",
-   "source": "Al-Bawaba",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRZkxvbXZLNFBRMVRnQWdzSFlPY3F4U0NudTMxdmlScnM0YTdzMkhfell4VUx4Sk1GTUhKZGtycXQ5VUM1N203Z0lmUU9tQnFMSi10ZEdoRTVna3dvVmVONlV3eGpld2Vhcmt4blg4TUxnUllJUnd4cg?oc=5",
-   "published": "2026-11-13T14:22:25+00:00",
-   "id": "c2c3a8744835",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Déploiement naval américain et préparation à une escalade contre l'Iran, soutien géopolitique évident.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8288,7 +8288,7 @@
   "news|f716c9d7704a": 1794744128.5319953,
   "news|a47a84edca15": 1794744131.4037232
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8710,6 +8710,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T12:20:51.884341+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -42)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
+  },
+  {
    "ts": "2026-11-15T12:02:11.403886+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran rebuilds missile arsenal, intelligence estimates up to 2,500 missiles</b>\n📰 Israel Hayom · Dim 15/11 08:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXJZRDB2MEdGbWRKMmlmM01pbjJ0UGNvQzZUYnVZcHJUaGpncU1TelRHckg1cGFiajdzbDh6U05GY05oeEg5cktMTHVZd1FOd3FaVTVCRTFuNUNEd3lZNmstT3Z2NWdkZHBzSDFtdXJrSTNxRXc1eXFkT2RHSjRtSG9iVF92VmtzTEd6Nm1Pdk45cGFYNzU0Wi1hc2ZaRnlsUjF3WlRaQVk4dHhrQ3lFdWRB?oc=5"
@@ -9003,11 +9008,6 @@
    "ts": "2026-11-14T17:31:34.450074+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US PPI Inflation Hits 6.5%, Highest Since 2022, as Nasdaq Sinks and Bitcoin Faces Fed Rate Hike Risk</b>\n📰 Coinpaper · Ven 13/11 19:43\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEFxR1lXRVNFdHlqZlBWZTMyTmhmWEZvbzNEMVpsTmlBQ2Z2VUVUNDRXbWlHdHNPd2lKS25Qc21ONHp3cUI0V0ZLRTFfcm5QTlYwM2FCTGgtTFU1LU5DMXdVSWxnbUlvZjNUbmVPZF8xRUlqYVlyaGt4SERWdHBiaGZFdDVJdFJqY1g1WWVlaHZfSVFjTlpsQ3ZoT01ERGQ5NnVoOFVjSi1jMmNkV3drQ1dhdE1uajJmUDhIemNIOEszQkE?oc=5"
-  },
-  {
-   "ts": "2026-11-14T17:31:33.673054+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>A Larger-Than-Normal Fed Rate Hike in December Now Looks More Likely. Here's Why.</b>\n📰 The Motley Fool · Sam 14/11 18:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzR3WW5ZR3luVUczMzVITHpTQlZFeFdPTjRWUVVrX0UwQUtJREpwYzJrVmFjY3YzeEh1bWxsMjF4VkpUb3JRaF9ZaVd1Ti1EblRVNTdZUHR3eW5Tb2ZaWHR3aFFxbHR0WWZFeGVtZ05PcXl3LU9yQ0p6ODFQWmVHZ1dqU082emE5d2pqbldOMVJUbzlsaTl4TkJhSm9iOUJiRTh5OV94ZnVrUTZVTFp2dERFam5uYTFJRHg3X1diVQ?oc=5"
   }
  ],
  "daily_forecast": {
