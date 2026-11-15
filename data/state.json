@@ -1166,9 +1166,6 @@
   }
  },
  "seen_news": [
-  "d042fa2c966f",
-  "de3f44192971",
-  "6482d808f042",
   "9516c1480a73",
   "71b2d9598907",
   "81e3d8496a98",
@@ -4165,9 +4162,24 @@
   "35623156a9c1",
   "3d343bc897da",
   "506a7f8ba8c4",
-  "2745d25c6f17"
+  "2745d25c6f17",
+  "c441770533bb",
+  "1de08539fc3d",
+  "bae4f0a78140"
  ],
  "news": [
+  {
+   "title": "Israel's defense establishment sees no urgent need to strike Iran until new gov't formed - report",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSkdqMjRWeXlLVzV0NllGeDdnM3k0bTJRaFg5cEMyUjh2VzR1eGFzbWo1cDdpbUY1T3A1RW1Ua3NHWkhXZDdkR0k4VTRtLWU0bWRVVDBSYjBLNTVWWjBWeURfLWdoTzdhNF9FU3RR?oc=5",
+   "published": "2026-11-15T06:01:23+00:00",
+   "id": "1de08539fc3d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US intercepts two Iranian drones as IRGC claims strike on radar in Bahrain",
    "source": "The Jerusalem Post",
@@ -6555,22 +6567,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "U.S. Treasury yields rise as Fed hike bets strengthen",
-   "source": "Traders Union",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFdlNk1PS0c3VHJoNmszTlFqNzEtaGlqMkh3Q0c0V1d2bjR2empMSktLZ0hnQ0xWVGRva1E1azRNT3JOYzJraWtWaUwzc0RQbC1zbzJBbXRtTXNfNFExYzJycldlTkJZZnB5RU9aLWlnemFHNG1YLWk1emRoMkstYTJuTDR2UTJ5djNQN0ljQ2NnQUFI?oc=5",
-   "published": "2026-11-13T09:24:23+00:00",
-   "id": "804429814fae",
-   "impact": -5,
-   "cat": "taux",
-   "raison": "baissier or (taux)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|db32b9f6d8d5": 1792908965.410267,
   "news|429f2a8321f7": 1792910770.9109743,
   "news|be0f33a25018": 1792910771.8697827,
   "news|652ea85fa249": 1792914563.7402105,
@@ -8297,7 +8296,8 @@
   "news|e31e7d805ba4": 1794710766.2477105,
   "news|3384ad20db51": 1794719072.343749,
   "news|28f6fe8c9ce4": 1794721747.7520254,
-  "news|5745855c3892": 1794721750.2797782
+  "news|5745855c3892": 1794721750.2797782,
+  "news|1de08539fc3d": 1794723367.820351
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8721,6 +8721,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T06:16:07.820429+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel's defense establishment sees no urgent need to strike Iran until new gov't formed - report</b>\n📰 The Jerusalem Post · Dim 15/11 07:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSkdqMjRWeXlLVzV0NllGeDdnM3k0bTJRaFg5cEMyUjh2VzR1eGFzbWo1cDdpbUY1T3A1RW1Ua3NHWkhXZDdkR0k4VTRtLWU0bWRVVDBSYjBLNTVWWjBWeURfLWdoTzdhNF9FU3RR?oc=5"
+  },
+  {
    "ts": "2026-11-15T05:49:10.280004+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Inside discouraging October inflation report as rate spikes amid raging Iran war</b>\n📰 AOL.com · Sam 14/11 09:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOUEs1MzlWa1dzZG01ZEFTNXFYZjdhb25ZdXJVUS03LVdNUHRYMjQxUFVZS1ZadDZ1aGFpMjg1NHNXOG5uakpWWG5aRFRvMlpxdEZWZ2Zvc291VWNCSGxhbWNWVm5XaWNQbWl3WkczVHVucHBDTnYxck81S2JkaUtPaHRkV2FZekdCVnY3RUl6LXptUQ?oc=5"
@@ -9014,11 +9019,6 @@
    "ts": "2026-11-14T09:19:17.008885+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump To Discuss Iran, Nuclear Arms With Putin, Xi At Landmark Summit</b>\n📰 Radio Free Europe/Radio Liberty · Sam 14/11 09:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnJHSWM2eFlYcVBrdHhsQUpqVUxkZ05KTUh2aGZybFNyQnlJZkFKVWYtX2NvcFNIdU9KT1M3QVNPRkhNdmZQU0lGdVZLQjd3MGpYcGx3dzVmU2hTUjFQbUlnQWVTTGNvcXA3eWYwTFNCWURoY01tdUJUWGM5LWRDeHZTRm82bFlPWXlCRVVROUtpSmRrZHIydkV0dTJoSmU2OHZnR01lX3fSAasBQVVfeXFMTnF5T0c0dWdySndHMzJ3NXVRMGxGWVJsaTRGcEQ0bEtyXzdIcmpNUnhQQU42RkVlaWVJSENEakFUUnJGenpqY25jNXdzMzZwTXU2Q3BTeDN6aDMyRU14UWQxb1JSaDJkT1dSeFZuUFA5UHNhM2FVdzFFbWVPODNUVXNsX2lfcVJJZk1ZbEZ4WFlpMHc0OEUwaWtGZVNBTldiVlZncmVINmJsemRR?oc=5"
-  },
-  {
-   "ts": "2026-11-14T07:46:06.969285+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Indian Rupee falls further amid fears of Fed's aggressive tightening cycle</b>\n📰 FXStreet · Ven 13/11 12:40\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNUF9xLWdyVzRCMnpEbWJuUUMtNU5iREpWMm5zQm9xMkR6UjhCM05IYXByUFhZVXZSQXgxTGJiNkwwOVNjTkl5eFgzR3NUcXpSM05XTTkwaGtLdFJuN1E2SnRMdU52cnVqRjdiU1FhVXJ4QTloRmZtd3N6LXN4dE9xc2lSU3ZOdHM0NGRxSU9xaVJ3S3E3ZFZLZ0ozMlRIc2ZRMDdtUllXYjNwVk5TM1pv?oc=5"
   }
  ],
  "daily_forecast": {
