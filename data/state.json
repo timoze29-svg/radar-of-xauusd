@@ -1111,14 +1111,6 @@
   }
  },
  "seen_news": [
-  "45004dad6e11",
-  "474335d94d0e",
-  "bab2116ea8ba",
-  "462e8a4ff6ba",
-  "0bee176b2703",
-  "d90e96795647",
-  "7ab6145a2920",
-  "521b571ef0c1",
   "6f599986e7df",
   "fbda8cbf30d3",
   "daff1ddeeae0",
@@ -4110,7 +4102,15 @@
   "eb65652639ca",
   "df9963613309",
   "59f25cf683e0",
-  "5ff2735e493d"
+  "5ff2735e493d",
+  "08af99082e5c",
+  "d923c3036584",
+  "569710a6b3ca",
+  "c0bd5fd1237c",
+  "351c281d95d5",
+  "196a7c36dd9a",
+  "2253dac44b82",
+  "e5bc14dda2fd"
  ],
  "news": [
   {
@@ -4373,6 +4373,18 @@
    "published": "2026-11-14T17:50:07+00:00",
    "id": "59f25cf683e0",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
+   "published": "2026-11-14T17:45:37+00:00",
+   "id": "d923c3036584",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6500,18 +6512,6 @@
    "cat": "banques centrales",
    "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Houthis claim attacks on Saudi oil facilities as tensions escalate",
-   "source": "samaa tv",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjZXSDFiUWtRX0FEMXh0a0Q0RTctM1p0VldZYXNIMGlwMzZZZVR6aGpSMEl2bzRvMWNjWVN0eG84RC1WU2hpNGxxaWNTUXZYNGhsNXhBdk1aVlBCTFc3Uy1FZUFHLVZqMC1qZHlPbS1la2R1NHZJQ0xpZW95d29oOFR2bS1GMXQ3ekg3b2I3d0NtVWhjcG9JdTdWNHhuWnM?oc=5",
-   "published": "2026-11-13T05:45:55+00:00",
-   "id": "baabc9ab715c",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8244,7 +8244,7 @@
   "news|6ba0ff0ad838": 1794703754.5278416,
   "news|df9963613309": 1794705368.356334
  },
- "last_bias_label": "FORTEMENT BAISSIER",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8666,6 +8666,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T01:31:25.757647+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
+  },
+  {
    "ts": "2026-11-15T01:16:08.356426+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Figures Iran Still Has Up to 2,500 Missiles, Countering Trump Assertions</b>\n📰 WSJ · Dim 15/11 02:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDVwNnk4SFpaRVhKQVNBZFI3VkdXM1VQaEtPcURJT3FMUUxXaVF5NjNVOUt6U0gyY0NWeV8tQkR5cXQtT2V0OUVncDhrdlh3amRZckptN2Uzbi1yNXhteFN2S1hMbGpIZEdXLTN0YTQ5aXVkVURRWmFHTTdIS2cxUjFKWVlFY19JbmZFN3ZucXVFTkV5OV83a2xrdnFRb0VUT0x2R3N5TVJFbWZFNzF5N0hSQlVhNmpYUDExU1Njbw?oc=5"
@@ -8959,11 +8964,6 @@
    "ts": "2026-11-14T03:01:40.899545+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Rubio: ‘No need’ for further strikes on Iran because the economic pain ‘is so great’</b>\n📰 The Times of Israel · Sam 14/11 02:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2JIaGFwbllfMEcyUzd4Qy1MQTFIMy1RZTV1SGlWNlhKOTE3b2FpZ2VSQjI3SDZkeEFpMWhYTS01eUNwVFlETzM0WkZrbXZTR1RzbmRmbVVZOGdxNWpfTWswZmo0UjJLeGx3dWM4aWd3cmlMbmtESnZxd2hfQUh4akVGMTQ5ekhrZWxMeWM4Q0dCRFR0NkdLX0NTM0Z2dUF3VkJaNFBBMzR2ZWtQVEwweDFPa2JiOE9qWGU0N0RISEFpTkU?oc=5"
-  },
-  {
-   "ts": "2026-11-14T02:31:33.897866+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 208 aujourd'hui = 1.8× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
