@@ -1166,8 +1166,6 @@
   }
  },
  "seen_news": [
-  "da3a10f9d649",
-  "71e9798de65c",
   "b1cec97dde89",
   "4866d10d1def",
   "fc9ed3fd29b1",
@@ -4165,7 +4163,9 @@
   "e802a2d4e027",
   "b2bdd9938a79",
   "227509c1f144",
-  "05f679081020"
+  "05f679081020",
+  "7d938f0c0ad1",
+  "6651acb66855"
  ],
  "news": [
   {
@@ -4191,6 +4191,18 @@
    "cat": "commerce",
    "raison": "Fragmentation commerciale et pivot vers la Chine favorisant doucement la dédollarisation.",
    "method": "IA"
+  },
+  {
+   "title": "Iran - Nuclear Deal, Sanctions, Diplomacy",
+   "source": "Britannica",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMlM1QWlIb2V3MGVoSll6Mm5yaXA0RERMZjNjNWpJNldUTF9CNDZzUFVQMlI5Nl9BRlVTSzd5X1NsUmtVVkoyQTE4bzFoWXQ4TzZlNUxwaHAtd1E2bmQ4SkNvTVJpMzZtU3c?oc=5",
+   "published": "2026-11-15T09:16:35+00:00",
+   "id": "6651acb66855",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil's Inflationary Ripple Keeps Gold in Check as Central Bank Buying Offers Partial Shelter",
@@ -6555,30 +6567,9 @@
    "cat": "géopolitique",
    "raison": "Intensification des combats terrestres en Ukraine, statu quo belliqueux sans choc macro nouveau.",
    "method": "IA"
-  },
-  {
-   "title": "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signals",
-   "source": "Investing.com",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVJHWnVTR3dKWHBOdXNkSXdscVBhZ2h1RUUwaXJZa1Q1NGVpaHFBVk1QTHR4aTRwSnNGNk1qbGR6NkItYy1jRHZlazg2UWRScmZZLWRBeld6RTFiRGhkOFVmOHd2U1hHT1dORjhGdjhlSzRpUWw1alAyUk1QMkNGTkt2X1lJdVVLSDlLQ3V1X3NzYTlSMWFhbkwtck5tQURjTlpWb2QzMlB3TXlWSURxcWMzbWpYSW1qb2tzelRoTkY?oc=5",
-   "published": "2026-11-13T14:00:48+00:00",
-   "id": "29ee04507e62",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|86a0f77c3106": 1792919790.1177871,
-  "news|fdf7eab0b16a": 1792919791.0937982,
-  "news|e923624b7251": 1792920877.110759,
-  "news|eba2896c8d03": 1792920878.1471605,
-  "news|2fca023a5380": 1792922496.3225083,
-  "news|0d2e463034a2": 1792922497.351732,
-  "news|a146d623234d": 1792922498.3906846,
-  "news|76375da9202b": 1792922499.2760499,
-  "news|194b8c918b7b": 1792923552.233664,
   "news|47206fa581d3": 1792926096.5168474,
   "news|073ca7324dd3": 1792926968.5169363,
   "news|6fdcf08798c8": 1792927890.5926547,
@@ -8302,7 +8293,8 @@
   "news|3f9018f0279f": 1794730782.9806101,
   "news|c8c9e1b23e5f": 1794730783.8925757,
   "burst|Iran|166178": 1794730785.941465,
-  "news|0eceac4fdefd": 1794733866.680432
+  "news|0eceac4fdefd": 1794733866.680432,
+  "news|6651acb66855": 1794739589.953722
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8726,6 +8718,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T10:46:29.953800+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran - Nuclear Deal, Sanctions, Diplomacy</b>\n📰 Britannica · Dim 15/11 10:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMlM1QWlIb2V3MGVoSll6Mm5yaXA0RERMZjNjNWpJNldUTF9CNDZzUFVQMlI5Nl9BRlVTSzd5X1NsUmtVVkoyQTE4bzFoWXQ4TzZlNUxwaHAtd1E2bmQ4SkNvTVJpMzZtU3c?oc=5"
+  },
+  {
    "ts": "2026-11-15T09:11:06.680517+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump considers backing down from military escalation against Iran with conditions</b>\n📰 جريدة القدس · Dim 15/11 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVVRMTg1MkM1RWRYcDVrb0k2eEt6TWlwMzVRc2IzbERibnFLaXRLTTB0N1FIQklscDU2M2J3dW5RYkRhWlp4MGVhdHF6b0YzUUhRd2tHYUZtTUdROWFiQkc1ZURQcVU3clFhWlR0WXVTa2tzdkVoUEpQNnpQVkxjaFROam5yUFJEQzg3ZU9mbDZTTnU4d3dWMlZvQ2EyeFBfdzg5ME9LSWRHZw?oc=5"
@@ -9019,11 +9016,6 @@
    "ts": "2026-11-14T16:30:14.961724+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>US Inflation Accelerates Again as Fed Officials Intensify Hawkish Signals</b>\n📰 NAI500 · Sam 14/11 03:08\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ01rODBqTUNQWEZ3bkhQeGtsY093TFFLVHc0MEgyQ0lFcmtySjRqdXhRT1k4aWxWeUJlMlpsUXVmbjhHa1A5Q3c5RWl0NXB4czlaSVcwUEhyQTh5aUhrUUlackNyd1NjX1pXajJjSHpuZXRaM1NoSV9BZW40RThQR0V6Uk4xMGozbG1ITmZmcFRNMEZjTW5LQzJ0cGItdC1TWHpHTTFOWDlzUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-14T16:30:11.461761+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Robust Employment Report Supports Further Fed Rate Hikes</b>\n📰 The Conference Board · Sam 14/11 16:25\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0VmZnRneVh6Y2dLTlNKcG1tcXRhUTh6UEUxalZrdmdzVzRmR0tVLUhjcUoxLU5UTElHTFJNdnJFS2s1TmtYY2F4RVJHbHVRQWt3VllaU3lkYmpEZjM0MzJQcGQ5OU9QaG9aRkYxSGJiUEFqajNXQjVlNEZMWVhxdXh2RUVTaG9zN3ZPMWpzYXRrTXJoNDBF?oc=5"
   }
  ],
  "daily_forecast": {
