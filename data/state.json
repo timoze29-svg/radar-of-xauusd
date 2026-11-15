@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794729676.5363503,
+   "ts": 1794752154.105324,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1166,11 +1166,6 @@
   }
  },
  "seen_news": [
-  "2943b54249f0",
-  "f19ce6febbf2",
-  "56716c80669e",
-  "cdd0eddf7c6f",
-  "27b5f6ad6950",
   "fce354a08240",
   "e18c4d595818",
   "68fe7959744f",
@@ -4165,7 +4160,12 @@
   "b87c75de9c00",
   "b60b637d1b42",
   "474912c11ea1",
-  "d7e0c551f8a3"
+  "d7e0c551f8a3",
+  "8f1ea7d3885b",
+  "762f06610ff5",
+  "a495b08dbca9",
+  "d57b87f1daea",
+  "65d28ec06fbd"
  ],
  "news": [
   {
@@ -4211,6 +4211,30 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVlg3R0JUa253enlTSlFOMVBMaXRZRHQ3MlZOSV9uanFBazNDZkplWFY5RjZzLVd6anlxYzZoRVkxekE1S2hsbXpiRFJ0TzJMNUUxdkx3VmgydE02amlzc3NlNGRqbGpsLXVFWTVYTDQ1WF94dFpNT0lReGE5MXk0VjdlRmI5aFpLWUxQSjdJWkloelBHQmRTV19EeTZzZFE3N1hPemtIZy1LVFlaTkJ5QVdYMlcyZWVudjdqN0RtQzkzYU5NQUdiNUZzblh5TG5sdFJORGswNHlHaEE?oc=5",
    "published": "2026-11-15T13:00:14+00:00",
    "id": "52d706350b73",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Chinese J-10C jet spotted with modified Russian-origin heavy-strike missile",
+   "source": "South China Morning Post",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDRWU1FCMmpkOXFJY01Od0VVZTBSaFRmN2NlekwzWndWZVN3S2tHOW9jLUlOMkg4MmZNZFdVSDRiU0RlYUdxYU5NRnoyblBha1dhbGNnNzJXVUZzUF9ZQkY3LVJnZ2g0emJHNXhjdm44TWVOSGdoWGpuMjJjSVJfbkkxVnFVWWRkS2Ffb2dvaEVQZjdJOGhNSEQ2RzJWSWpYVlk3MDd2X3V2UUJYZF9QNWk1VDhoSFNQYnNYMVUyNi1YTEx0amRPT1FwMVM5dTNrRlptd0tfMNIB1wFBVV95cUxQcHlrenI0aDhtelphNXdGRExCLW45bW1XMmdWWGdndWZQVi1RaUhqMS0zdFh5dDNpUEY3VlhqY2FyRk9aZ2ZEWHFQTzMxZ1NEVFpDVnBYbHNNZzFQTnZYWmlnWFd5SFZZZzRxMnl6RmtNSE9mSXg3akRtN3NuVnZScFcwSjRYUFp2R3k4cS1ObnJLbzR2XzVWeUdlakdrRnZ2U2ZaMU1QS0FiaF9hUWFqajVrX1Faa0UybEd4THdodkRNTk5SQ0RPY28wQU9HNVlnMjg5V25rQQ?oc=5",
+   "published": "2026-11-15T13:00:09+00:00",
+   "id": "65d28ec06fbd",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel kills a top Hamas commander, Jordan sentences 3 in church attack and other Mideast news",
+   "source": "The Boston Globe",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTVlY011LVJtNmp3bVdORjhfdXhGaGJWWVZYNDIyWWFocHhfdUtqV2lvZ0RBWE1VVlREUzNTZXM1S25hUENaWUtUSmJfa3pYaXdKZjVUQ3ZPTDROb0tjNzZZTTh1Uk9YUk54T0ZKR3BjdjFpbzFXRHgwVlZpQjNacF9iMGwtN2lGcE04dzdGY3d5RHpuMDdDSDZuQzJJLWhXb0RwTnUzQnQ0UWNEQVR3?oc=5",
+   "published": "2026-11-15T12:48:33+00:00",
+   "id": "762f06610ff5",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6543,30 +6567,6 @@
    "cat": "géopolitique",
    "raison": "Craintes imminentes de frappes israéliennes sur l'Iran, forte poussée de la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Moscow car bomb severely injures former aide to Ukraine’s pro-Russia ex-PM",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHNDQWF5VDBTVmdYOW5Ha21wTlp4NW9wQ1A3QTMybnh0S1AyMUlsMnA5MlM5QkxwdTVrRkdLanJITUhjTWlrczNwZ2E3TUd3UG8xenFZSFpvMGYzdkpPQV9zNmI3eXV2eDFMMzhNWnM3bVNjVFZVWDU3dEtyS2VKMw?oc=5",
-   "published": "2026-11-13T15:37:00+00:00",
-   "id": "078eebc7f124",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Attentat ciblé à Moscou illustrant la friction persistante, effet haussier très contenu.",
-   "method": "IA"
-  },
-  {
-   "title": "Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war",
-   "source": "Haaretz",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5",
-   "published": "2026-11-13T15:34:00+00:00",
-   "id": "41718e3b8986",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Pressions israéliennes directes pour une guerre contre l'Iran, net regain de tension géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8279,7 +8279,8 @@
   "news|8a2c2050d016": 1794746066.6024013,
   "news|f7868e600d24": 1794750730.885791,
   "news|52d706350b73": 1794750733.5825548,
-  "news|b87c75de9c00": 1794751475.9117846
+  "news|b87c75de9c00": 1794751475.9117846,
+  "news|762f06610ff5": 1794752170.2017193
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8703,6 +8704,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-15T14:16:10.201807+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel kills a top Hamas commander, Jordan sentences 3 in church attack and other Mideast news</b>\n📰 The Boston Globe · Dim 15/11 13:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTVlY011LVJtNmp3bVdORjhfdXhGaGJWWVZYNDIyWWFocHhfdUtqV2lvZ0RBWE1VVlREUzNTZXM1S25hUENaWUtUSmJfa3pYaXdKZjVUQ3ZPTDROb0tjNzZZTTh1Uk9YUk54T0ZKR3BjdjFpbzFXRHgwVlZpQjNacF9iMGwtN2lGcE04dzdGY3d5RHpuMDdDSDZuQzJJLWhXb0RwTnUzQnQ0UWNEQVR3?oc=5"
+  },
+  {
    "ts": "2026-11-15T14:04:35.911928+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel kills a top Hamas commander as Jordan sentences 3 in church attack, World News</b>\n📰 AsiaOne.com · Dim 15/11 09:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFBtTmZpdHVBUGE5OWh6TTdxTE1qZkdhTUtDSEwyMUItUFBWajFjbnNuVUluWUQtMnZ5dXZxLXZHUzgxSDhOUlZlNUZ5Y3RpV0dnLUZYaXNCM0wzSC1fRGpIWldQUGdaamN4S1l4UUFfSkpaUV9sS291bzhhTExDNHNfWkZtT2JPQUZueURGU1MtOFc3a0M4Zzcycw?oc=5"
@@ -8996,11 +9002,6 @@
    "ts": "2026-11-14T19:01:52.921873+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Strait of Hormuz in chaos as 3 oil tankers struck by mines, says Iran</b>\n📰 AOL.com · Sam 14/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5vbHJxSU9BYmU4VjZlR3BHRGVaajVVOElzNDNVOTBRenR2VDRJeUMxQzZvUE51d0dPUXYydHk3em1QekhuUGZBMURZWnNpTGNQcWIwckxwbHdEWVFBSUJvS2F3bDVXNm9kZ1pTTzFzN0ZlTzc5UnpZSg?oc=5"
-  },
-  {
-   "ts": "2026-11-14T18:46:13.972030+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold faces weekly rout as high US yields fuel Fed rate hike bets</b>\n📰 FXStreet · Ven 13/11 21:23\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkZkMHgwOHYxaW1lNy00SV94aTBhLXZXaEp1YXgwXzNVVWJQRXB4TVVVZEQzRm9QUGRoVVhEWmpOQzM5UEpvbENRVUpvOEFkUzZhNzZWY0hseTk2UTA4NDZYOUY2aUFHLWlYeXdoRUhIajdxM1hPcDVIZVZGeEx4LXJmN1JzMGE2SHd5LV9DaU05UFY1RUxra21LOFc1WFJGVWpvQmIyTlVuU3M?oc=5"
   }
  ],
  "daily_forecast": {
