@@ -1166,14 +1166,6 @@
   }
  },
  "seen_news": [
-  "dc7bfa935642",
-  "02ac0238f44c",
-  "172cf1dc9dcb",
-  "1ad2a3ae5a55",
-  "917db13b6e37",
-  "d126e658681e",
-  "5761fff1c128",
-  "f7b37c6da5a0",
   "261bd99b0ebe",
   "25405996a9dd",
   "e6a4c96f3559",
@@ -4165,9 +4157,29 @@
   "ba1aa78d1752",
   "d1e29e8aab91",
   "db286e01449e",
-  "2e5ae19398f3"
+  "2e5ae19398f3",
+  "ce679b460ae5",
+  "70b8898e861f",
+  "5c50445dd8c5",
+  "094225ffbe24",
+  "fdbf74f2b72a",
+  "84a2bf669cdb",
+  "c3c60a9fe68f",
+  "48317bdd45e7"
  ],
  "news": [
+  {
+   "title": "Gold Slides Below $3,900 as Hot Inflation Data Fuels Fed Rate Hike Bets",
+   "source": "the deep dive",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0R2Rll3WnVlQXVqdUJMZGJ1WGxvQXZKMWgxZGR0YmpCM0xRd3dBYUJudmo5djlRbUhmUDJ4Z0FmV01icnB1LWlkakRmdHU3NkFiX2Q5MllkNHNkN2NkbEtNdW1YQ3ZMdDNrNnlwblR6WTZHZ2RqWGJBUURta094N040US1fVUVUeVN0RUxTV3g0MlVTYkdCVw?oc=5",
+   "published": "2026-11-16T02:12:17+00:00",
+   "id": "5c50445dd8c5",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ringgit opens almost flat against US$ amid hawkish Fed outlook",
    "source": "KLSE Screener",
@@ -4695,6 +4707,18 @@
    "cat": "géopolitique",
    "raison": "Escalade régionale ciblant un allié américain, stimulant les achats de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "US condemns Iran, Houthi attacks on Saudi Arabia, demands end to escalation",
+   "source": "People Daily",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEJzRWNDVFdfa0NaTE5fenkyejhjdDViSjc3bzFyZENHc05ZY2hSVU50Ymg0bmM5RkhiOElhZF9OMzZwaFBtNU0ya2VodXV3RDJLZGFDNDd1WEpHS0FUR0lvYXgzNmVsTzNNNkx5X0pONGFFLXU3LUt3bmlCRWxsNmU4WUU5dUliVGZaLURmSlJfaXQtN2Y0RVB3SWFOMHdXRTJsYzRib2Q2dw?oc=5",
+   "published": "2026-11-15T15:52:32+00:00",
+   "id": "fdbf74f2b72a",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
@@ -6543,30 +6567,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Nuclear arms but also Iran war on agenda of Trump’s meeting with Putin, Xi",
-   "source": "The Arab Weekly",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkNHd2N4UHc5S0xUTW13ckMxekktZDRHZEV1MzNERGItS1NySVk3c055dDhGNzhFNWlNTmtiLU5XMmN3TExZdlRYN0dudVF6QUptTFBiX1dBaUdrMjM1TU1ZUkowN1E3cUttWXdqYjN4VGFUMXpCTzdsVzZTaW5EMXgyUndCVTQwU0Nj?oc=5",
-   "published": "2026-11-14T08:48:45+00:00",
-   "id": "812c48c374da",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Mention explicite d'une guerre contre l'Iran, maintenant un plancher géopolitique haussier.",
-   "method": "IA"
-  },
-  {
-   "title": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz",
-   "source": "The National",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXFoNFFYdTBqTjZjZ3pBRTk4bm9QWkRnRUstbndsQV8wd1dhX281Y1hhblZCNjdJT2dZWGZXZWZBWGZTWDBZNXg0bVc1a1hGbjNSWHFNb2FveFY3VjhXRy1ZRU1CVWFUa3B4aGtNdjVwZU5WTmR2VkhHNmJHYjZ1VGg5dXpYWG5JWmVuSExGQ3MwLUE?oc=5",
-   "published": "2026-11-14T08:48:37+00:00",
-   "id": "821da47721ac",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Mines et pétroliers touchés à Ormuz : escalade majeure sur les approvisionnements énergétiques mondiaux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8281,7 +8281,9 @@
   "brk|GOLD|pdh|dn|2026-11-15": 1794791979.222584,
   "brk|SILVER|h250|dn|2026-11-09/2026-11-15": 1794791982.1447113,
   "brk|DXY|pdh|up|2026-11-15": 1794792727.2057831,
-  "news|db286e01449e": 1794794655.6077092
+  "news|db286e01449e": 1794794655.6077092,
+  "news|5c50445dd8c5": 1794795369.3240783,
+  "news|fdbf74f2b72a": 1794795370.3354578
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8705,6 +8707,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T02:16:10.335727+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US condemns Iran, Houthi attacks on Saudi Arabia, demands end to escalation</b>\n📰 People Daily · Dim 15/11 16:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEJzRWNDVFdfa0NaTE5fenkyejhjdDViSjc3bzFyZENHc05ZY2hSVU50Ymg0bmM5RkhiOElhZF9OMzZwaFBtNU0ya2VodXV3RDJLZGFDNDd1WEpHS0FUR0lvYXgzNmVsTzNNNkx5X0pONGFFLXU3LUt3bmlCRWxsNmU4WUU5dUliVGZaLURmSlJfaXQtN2Y0RVB3SWFOMHdXRTJsYzRib2Q2dw?oc=5"
+  },
+  {
+   "ts": "2026-11-16T02:16:09.324157+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Slides Below $3,900 as Hot Inflation Data Fuels Fed Rate Hike Bets</b>\n📰 the deep dive · Lun 16/11 03:12\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0R2Rll3WnVlQXVqdUJMZGJ1WGxvQXZKMWgxZGR0YmpCM0xRd3dBYUJudmo5djlRbUhmUDJ4Z0FmV01icnB1LWlkakRmdHU3NkFiX2Q5MllkNHNkN2NkbEtNdW1YQ3ZMdDNrNnlwblR6WTZHZ2RqWGJBUURta094N040US1fVUVUeVN0RUxTV3g0MlVTYkdCVw?oc=5"
+  },
+  {
    "ts": "2026-11-16T02:04:15.607839+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit opens almost flat against US$ amid hawkish Fed outlook</b>\n📰 KLSE Screener · Lun 16/11 02:51\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1I3VzhuSVJOZ3FGRndBeUdFcnRMMGhSeEEtdld3amVhQ2xscXMzU2NYbTRJa0t5LTVienRKWF9xZC1zTWtuaGkxOTJhZVNoaUdCc053Yjl2c09tMEFNQWxZRkF0MjE0SHpPSUpaS0Z3RFZoRnhranN1WEJLWDFDSUhFRWE3TEJBZDdDZTIwZzBnb1FjM2RQa1NIVjhucEJ1eWdYUnNIX1RVX3VFYWd5Rw?oc=5"
@@ -8993,16 +9005,6 @@
    "ts": "2026-11-15T08:19:43.892799+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran rebuilding missile arsenal , with up to 2 , 500 missiles remaining , report says</b>\n📰 ynetnews.com · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.ynetnews.com/article/hyz7en8czg"
-  },
-  {
-   "ts": "2026-11-15T08:19:42.980842+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran claims drone attack on US base in Bahrain as Gulf tensions rise</b>\n📰 ynetnews.com · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.ynetnews.com/article/s1wbfalrzx"
-  },
-  {
-   "ts": "2026-11-15T08:19:42.069776+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran navy says three tankers on fire after hitting mines in Hormuz</b>\n📰 bdnews24.com · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://bdnews24.com/world/middle-east/47mh9vo0tx"
   }
  ],
  "daily_forecast": {
