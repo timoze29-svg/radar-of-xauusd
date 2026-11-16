@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794829551.145101,
+   "ts": 1794833155.8611295,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -6581,7 +6581,6 @@
   }
  ],
  "fired": {
-  "news|93d5eb8b51c5": 1793018339.7565331,
   "news|6d6b601f2b8b": 1793019888.6878493,
   "news|62423b65fb9a": 1793019889.5723267,
   "news|a130ccdc9853": 1793019890.4526086,
@@ -8304,7 +8303,8 @@
   "news|837884a5c1a9": 1794823323.1535125,
   "post|2026-11-16T05:00:00-05:00": 1794824529.9850976,
   "news|a188dd26bf6f": 1794825108.9865758,
-  "news|6e812267f444": 1794832475.262309
+  "news|6e812267f444": 1794832475.262309,
+  "pre1h|2026-11-16T09:05:00-05:00": 1794833274.8177786
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8744,6 +8744,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T12:47:54.818052+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 77 MIN — 15:05</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.05% aujourd'hui · taux 10 ans +0 pb · biais or -46 (FORTEMENT BAISSIER)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
+  },
+  {
    "ts": "2026-11-16T12:34:35.262382+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US estimates Iran has up to 2,500 ballistic missiles, or more</b>\n📰 The New Arab · Dim 15/11 15:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtfVnU2U2NZa2NTOWkzS1pyLWFRcWxRMDlVR2c1Mk5JbEhuMkJ1eVVTLTJpc09SdUJmaVZUX0dGYW5sOEFpeHgwWG45Ny04TFRsdEt5cGFqalBRbWFPbGljdkhWLVRKdUlRNkNwYXFoTG91MEJISUJBdkFaWkItQ1dld2s4UVUyeWc?oc=5"
@@ -9037,11 +9042,6 @@
    "ts": "2026-11-16T00:02:38.932721+00:00",
    "kind": "cycle",
    "text": "⚠️ <b>CYCLE HEBDO : PAS D'INVERSION CETTE SEMAINE</b>\nPhase 2 (jeu→ven) : lun→mer = -73.8$, depuis mercredi -97.4$ → le pattern ÉCHOUE (continuation) ⚠️\nLe marché continue dans le sens lun→mer — ne pas forcer le contre-trend."
-  },
-  {
-   "ts": "2026-11-15T21:48:27.613721+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -41)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
   }
  ],
  "daily_forecast": {
