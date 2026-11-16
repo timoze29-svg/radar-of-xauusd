@@ -1177,7 +1177,6 @@
   }
  },
  "seen_news": [
-  "97e76f0c1b6b",
   "a1aeb733b88c",
   "1486844d7f16",
   "3c6a5f0f665f",
@@ -4176,7 +4175,8 @@
   "34f5cba439c2",
   "e5e729241521",
   "7b3899cb586e",
-  "77db801bc7f8"
+  "77db801bc7f8",
+  "c53254011a26"
  ],
  "news": [
   {
@@ -8314,7 +8314,8 @@
   "post|2026-11-16T12:00:00-05:00": 1794850299.5702043,
   "news|d5f16a1954dc": 1794851176.068831,
   "pre1h|2026-11-16T14:15:00-05:00": 1794852113.967055,
-  "news|e5e729241521": 1794853030.3873003
+  "news|e5e729241521": 1794853030.3873003,
+  "brk|SPX|pwh|dn|2026-11-16/2026-11-22": 1794853903.713892
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8754,6 +8755,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T18:31:43.713958+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>S&amp;P 500</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 7 422.2 → prix : <b>7 418.9</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.31 | 60j 0.36"
+  },
+  {
    "ts": "2026-11-16T18:17:10.387385+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel plan possible strikes on Iran's economic infrastructure – NYT</b>\n📰 Iran International · Lun 16/11 01:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOcjJkUGI2WE9uWmhuOU40b0tPRGxncVNuTi04VldVN2hjaDZXOU83OG5TUzlkV2hKRkhTV202cTRGVUp6Slpkc1JrMFlnUFhVSEE?oc=5"
@@ -9047,11 +9053,6 @@
    "ts": "2026-11-16T06:49:14.641848+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
-  },
-  {
-   "ts": "2026-11-16T06:32:03.785371+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran claims drone attack on US military base in Bahrain</b>\n📰 France 24 · Dim 15/11 16:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2ZocWx0VkRxMGh5N25RcDZMQnQ1LS1HU0RMVHg5U3dOWDlGRTlkcHdaRHVCLTRfR3hUYXE4a3BVV0ZncERjU2RuVXlnR2dBcUhMTUc3UVR0RG1tNW9sV1FVX2FBLTNhRXE1WkJ5WmwxR2pQVHZHV3ZxSVdHVnpUWWFjNjgyX0tSZWtz?oc=5"
   }
  ],
  "daily_forecast": {
