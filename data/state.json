@@ -1177,12 +1177,6 @@
   }
  },
  "seen_news": [
-  "3c6a5f0f665f",
-  "a5f2d7c31a94",
-  "b22b2fa2657a",
-  "afee166b0ae7",
-  "384924c67a5d",
-  "9ad25ee75542",
   "9c91cf6c2a3f",
   "fa5134fb9021",
   "2535f1cae02b",
@@ -4176,7 +4170,13 @@
   "77db801bc7f8",
   "c53254011a26",
   "f4aee57760f8",
-  "8da972cd0738"
+  "8da972cd0738",
+  "ec266c87f84c",
+  "a3a918a6f0f7",
+  "702985b03e76",
+  "ab9f1ac4f16d",
+  "5a9816d0caf3",
+  "ec6923e0ca12"
  ],
  "news": [
   {
@@ -8315,7 +8315,8 @@
   "news|d5f16a1954dc": 1794851176.068831,
   "pre1h|2026-11-16T14:15:00-05:00": 1794852113.967055,
   "news|e5e729241521": 1794853030.3873003,
-  "brk|SPX|pwh|dn|2026-11-16/2026-11-22": 1794853903.713892
+  "brk|SPX|pwh|dn|2026-11-16/2026-11-22": 1794853903.713892,
+  "pre15m|2026-11-16T14:15:00-05:00": 1794855710.2592273
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8755,6 +8756,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T19:01:50.259286+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-16T18:31:43.713958+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>S&amp;P 500</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 7 422.2 → prix : <b>7 418.9</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.31 | 60j 0.36"
@@ -9048,11 +9054,6 @@
    "ts": "2026-11-16T06:49:15.559545+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
-  },
-  {
-   "ts": "2026-11-16T06:49:14.641848+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
   }
  ],
  "daily_forecast": {
