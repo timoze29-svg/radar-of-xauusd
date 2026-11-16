@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794787277.4203577,
+   "ts": 1794791754.3456798,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -925,7 +925,7 @@
     {
      "title": "FOMC Member Waller Speaks",
      "country": "USD",
-     "impact": "Medium",
+     "impact": "Low",
      "date": "2026-11-20T08:25:00-05:00",
      "forecast": "",
      "previous": "",
@@ -1166,10 +1166,6 @@
   }
  },
  "seen_news": [
-  "012023d2b048",
-  "b1218bab72af",
-  "e78c60f8a762",
-  "ad9d5e6ea99f",
   "7a12098ad71e",
   "cb5d2899c825",
   "662ca6ce915f",
@@ -4165,9 +4161,37 @@
   "72a4575a7e6e",
   "787a51a666bd",
   "ca048318ae46",
-  "39b6af5b6343"
+  "39b6af5b6343",
+  "782de126789c",
+  "cef63a4b283b",
+  "99e43e70f189",
+  "9ee6b44b2224"
  ],
  "news": [
+  {
+   "title": "WTI falls to near $87.00 as Middle East supply surplus outweighs regional attacks",
+   "source": "www.tmgm.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV1Z6b0pVdzlvbmVhNEJJNzRWWEotS21qY1RZanctc2hERmg4MnpsVVAwV3JIeWxBNXpLd3FmTXZTLWhPai1DcjlOWmZOVmVDQUx0RkxrM2dsYWZFSzdPbjBWa28yLVZPazhIeTdPOXhqQWpnN01INERDbHdzWGM4SG9tM0toZ3J4TU5iZjZicXRQMHBDcWV2cU9RV1dxbWZndVZnWGRCRjNJaW5UWXJyOW1xSkNPQi15NmFSUG52SmNkRENDa2UzZE5PSUdvR015UTUyOXhINnNjSlQta2oxUkxB?oc=5",
+   "published": "2026-11-16T01:14:27+00:00",
+   "id": "cef63a4b283b",
+   "impact": -2,
+   "cat": "géopolitique",
+   "raison": "Baisse du pétrole et détente géopolitique réduisent la prime de risque et l'inflation.",
+   "method": "IA"
+  },
+  {
+   "title": "The Era Of Expensive Money: How Higher Capital Costs Are Reshaping Global Growth - Analysis",
+   "source": "Eurasia Review",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZEtWT19YOG5GMGRhS2lYMEFwenVqUzlSRlpOSTdMRGg1Zjl0b3NaaTJqVUNFTVRYNWNqc0lHNlJiV3RBRlZhLThYVF9NeUxNX0JqTmd3VnBxa0lwU3M1QUlaY3FiVzFUMFA2SUd6TG4xTHByOWIxX0JMeGN4Y0hFaUd1aVFCSGdERjdUZ0h5MDVYdDBTZGdtMUg3MUNmZzJPdTBwOURKd3hFdi1OV293UGxBTTRYVERfeEczVnJ1RmgwUzFZd2dv?oc=5",
+   "published": "2026-11-16T00:49:36+00:00",
+   "id": "9ee6b44b2224",
+   "impact": -1,
+   "cat": "taux",
+   "raison": "Taux élevés persistants augmentent le coût d'opportunité de détenir de l'or non rémunéré.",
+   "method": "IA"
+  },
   {
    "title": "Gold prices today, November 16th: Global prices fall, SJC gold price drops by 5 million VND compared to the beginning of November.",
    "source": "Vietnam.vn",
@@ -4223,10 +4247,10 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWs5RXBJVGFPNmtnckp4LVV4NkF1TnhNSnF0RFJpbWplQ19hSWJtd3BEUGh0Y2pzOTFDeWtYcG1FT3k4djZWdWcxVE83VzJubmUtY1VBLXJuNG1RZWU2UzdRTVdHN3JxaklEVEozOFB2STdlZy1TVUoybEowZG9tZE9jY3pwY2pqTFpJX0lnX2VVTElf?oc=5",
    "published": "2026-11-15T23:47:21+00:00",
    "id": "6761d2c7df8a",
-   "impact": -3,
+   "impact": -2,
    "cat": "or",
-   "raison": "baissier or (or)",
-   "method": "mots-clés"
+   "raison": "Sentiment de marché dégradé et dynamique de liquidation technique pesant sur les cours.",
+   "method": "IA"
   },
   {
    "title": "China’s HQ-17A air-defense network offers mobile missile protection for troops near Taiwan Strait",
@@ -4406,6 +4430,18 @@
    "impact": -3,
    "cat": "inflation",
    "raison": "Inflation élevée repoussant les baisses de taux, dollar et rendements réels soutenus.",
+   "method": "IA"
+  },
+  {
+   "title": "Fed’s Schmid Says Inflation Runs Uncomfortably Above 2% Target At 3% Core",
+   "source": "Sahi",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzNxaUpGQkhQVTFfSWFhOUZoS0Z0cV9ZWGNFQ3FmQU0xMmNnR25GU2IxMU1lNEp6ZW5DS3h5MHo2YThrM1lRZ1IzVElsRFltVTVOdElZWDV5eGthZE5DTFJEVXVsalljenpleVhQRlJuOTYtWkI3QkU5MkZzWFpIRmNlS01fUV9nbjhjd3NES1lEY2h5M1hEWU90VkdLdw?oc=5",
+   "published": "2026-11-15T19:41:37+00:00",
+   "id": "99e43e70f189",
+   "impact": -2,
+   "cat": "fed",
+   "raison": "Commentaire hawkish repoussant les baisses de taux, haussier pour les rendements et le dollar.",
    "method": "IA"
   },
   {
@@ -4715,10 +4751,10 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2RiekM1T0x5ZGU0cXdjMWNkb1dxV29ENHA1QWhCbmtNQnR1ZnVja1hiX0tZWlVoMkpDODRKRnFCS05ZMGhTSnVFdmYyU3lJTHE4LTYweXJwRkg3T3Nqc1h2UzdWSi1sMUhRVGoxSlhBdmZZRTRRRGZPQXJUN3lfVkV1dVhRZjBjSW0wOUszWUlRcW9mUmc5RUttUnpqekZJSmlKTnBTWFQ0bEZjSGx5elk5elRtQUo3WTVCcTV5RQ?oc=5",
    "published": "2026-11-15T14:16:59+00:00",
    "id": "37e2171bdc81",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rhétorique belliqueuse renforçant modérément la prime de risque géopolitique et l'attrait refuge.",
+   "method": "IA"
   },
   {
    "title": "Ukraine Strikes Russia’s Key Military Aircraft Testing Airfield, Triggering Major Ammunition Detonat…",
@@ -6531,47 +6567,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
-   "source": "investingLive",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3JGTTlrR2tPcTdQTGQzRGJMU2ZGOVhNZGlCLXZCbENMNUktdm5XQy1ZOVFwS1FPYVhHamVnUkNiQTJWOVgxVV9qdE1tUDl2Nmp1a0hDTWJvR0FhZDg2a2Q5ZDFqcDZITFFCUDgwRU1QYXlWRGx4S1ptYmIta0F3OEpoOW1jTTByVDQ2alBocGVCOWhjdWprdWNybWVvSnpoamxpZXl0SElQcTBnN0RYMWN3?oc=5",
-   "published": "2026-11-14T07:43:20+00:00",
-   "id": "5ecf2ca00c43",
-   "impact": -1,
-   "cat": "or",
-   "raison": "Échec technique sous résistance signalant un essoufflement acheteur et un risque de consolidation.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump: Middle East allies asked me to hold off on new Iran strikes",
-   "source": "NewsCord",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxXzB3N1FCb3hETG9jRjFKdFhteEdHTzhpY0ZGbTNiQ3pWSFlTcTZRcEpUeEpmLTBMMloySG55OEcyX01NcTFVRTEwUF9BMks2a0VnWmxyZVNqTDlvVmo1YTA0M25TYkVOU0FfMHhIa3RFWjJ0OEFDeTZVT0xtQmc?oc=5",
-   "published": "2026-11-14T07:39:54+00:00",
-   "id": "a1395adfbdb5",
-   "impact": -4,
-   "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Opinion | Trump’s Legacy-Defining Decision on Iran",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX25DYzhuNl9MbFFzU29IWUJ6NS1CZjFvc3NYcmdlRlNVQmJNMTF2NFZydnRwcnVmTzRZSEZjSkh3QVFQclJUUkZ4QzBDeWZpUFRWUUZBaVJiSy1LLXVlWmhJaFprSFVoUFZQS2N2NmFwdG1oYW5vbzd4aGFPcEFfc0hHN01ieEt4WHhVQTRpWDJWV2VfRU9B?oc=5",
-   "published": "2026-11-14T07:05:06+00:00",
-   "id": "417b6675c30c",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Anticipations de durcissement face à l'Iran alimentant légèrement la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|f61baee91f0a": 1792976497.580523,
-  "news|c0f8d9b6d301": 1792977364.2913685,
   "news|34e352aae0bb": 1792979167.7945058,
   "news|543576e85335": 1792980099.7135596,
   "news|fd990a2bbd31": 1792982770.5256703,
@@ -8281,7 +8279,9 @@
   "news|37e2171bdc81": 1794789085.4233532,
   "brk|EURUSD|pwh|dn|2026-11-16/2026-11-22": 1794789086.4486873,
   "brk|EURUSD|h20|dn|2026-11-16/2026-11-22": 1794789087.2250621,
-  "brk|EURUSD|h250|dn|2026-11-16/2026-11-22": 1794789088.003075
+  "brk|EURUSD|h250|dn|2026-11-16/2026-11-22": 1794789088.003075,
+  "brk|GOLD|pdh|dn|2026-11-15": 1794791979.222584,
+  "brk|SILVER|h250|dn|2026-11-09/2026-11-15": 1794791982.1447113
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8705,6 +8705,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T01:19:42.144792+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 1 AN\nNiveau : 48.125 → prix : <b>48.090</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.9 | 60j 0.85"
+  },
+  {
+   "ts": "2026-11-16T01:19:39.222663+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 3 871.10 → prix : <b>3 868.20</b>\nATR jour : 98.3$ | Pivot hebdo : 4039.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>45%</b> des cas (extension médiane 12$, 683 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-16T00:31:28.003150+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 1 AN\nNiveau : 1.10266 → prix : <b>1.10241</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.12 | 60j -0.14"
@@ -8993,16 +9003,6 @@
    "ts": "2026-11-15T08:19:40.246274+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Sirens sound in Bahrain as Iran Guards claim drone attack</b>\n📰 rnz.co.nz · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.rnz.co.nz/news/world/2609842/sirens-sound-in-bahrain-as-iran-s-guards-claim-drone-attack"
-  },
-  {
-   "ts": "2026-11-15T08:19:39.335128+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Blasts , sirens in Bahrain as Iran attacks on US base</b>\n📰 omanobserver.om · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.omanobserver.om/article/1199692/world/region/blasts-sirens-in-bahrain-as-iran-attacks-on-us-base"
-  },
-  {
-   "ts": "2026-11-15T08:19:36.259758+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Military Intelligence : Hezbollah highly likely to join if war with Iran resumes</b>\n📰 israelnationalnews.com · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.israelnationalnews.com/news/436212"
   }
  ],
  "daily_forecast": {
