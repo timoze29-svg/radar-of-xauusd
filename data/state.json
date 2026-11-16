@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794817869.8393157,
+   "ts": 1794839483.7772396,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1177,12 +1177,6 @@
   }
  },
  "seen_news": [
-  "c9ada44d1b30",
-  "29b8a41d171f",
-  "0afb8e63e6d3",
-  "5ee1f9315a55",
-  "041531ee95d4",
-  "84df6b3c5d89",
   "fcb74fd3f774",
   "137bd041a244",
   "51e66b5f756a",
@@ -4176,7 +4170,13 @@
   "40ce8627e8bd",
   "e5159086ce6c",
   "0ac453bd3266",
-  "b2be72fe4c72"
+  "b2be72fe4c72",
+  "704cbcbe9d3c",
+  "39d73757b507",
+  "7e97381b7f57",
+  "83520ae5dfd6",
+  "ae8dbc294fe0",
+  "a0364a7934a5"
  ],
  "news": [
   {
@@ -6581,7 +6581,6 @@
   }
  ],
  "fired": {
-  "news|fd6799fede5e": 1793025091.2288506,
   "news|5c99da83da09": 1793025977.2812278,
   "news|8fcec140e8e3": 1793026912.2943327,
   "news|575ccffacedd": 1793027960.128058,
@@ -8304,7 +8303,8 @@
   "pre15m|2026-11-16T09:05:00-05:00": 1794836963.2044628,
   "news|62ee057c63bd": 1794837702.5027623,
   "news|e2e178230ddb": 1794837703.4370768,
-  "news|80941767ea43": 1794838580.5440857
+  "news|80941767ea43": 1794838580.5440857,
+  "post|2026-11-16T09:05:00-05:00": 1794839505.4793487
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8744,6 +8744,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T14:31:45.480175+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 26 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans -0.6 pb\nOr +3.9$ (extrême +4.7$, range 5.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-16T14:16:20.544170+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Posts AI-Generated Slop Video After CBS Airs Iran War Report</b>\n📰 Yahoo · Lun 16/11 12:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTk4V1ZUckx0TjIwSms2MDdSV0ZVd1ZqMDF6S09MTG1PNGZyUGpYY2hoY0h5RlJMeTRvbFZpZk5lNWRTSkNNanM4UWpXeW1pRTFPc2RSQm9IbmtfM2hZMDNEQXBfemY5R0wwaFJ5NE5xUjJjbG1xVWxqcDgzVXlVZDlnbTRneUVtUWcwY0hGdV9fdzg?oc=5"
@@ -9037,11 +9042,6 @@
    "ts": "2026-11-16T03:04:41.339203+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>United States Dollar Index holds gains above 103.50 on hawkish Fed comments | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Lun 16/11 03:55\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkOXFrUXNjc00xTFl4d3FUdFZhU2dfb3FTZkhJOU9MUDN4M1BFNkdsWXRocXNXZkJScF9UUWNrZTczUnZGbGRVYnllakxaQTVwbS04?oc=5"
-  },
-  {
-   "ts": "2026-11-16T02:46:17.839346+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit opens almost flat against US dollar amid hawkish Fed outlook</b>\n📰 Newswav · Lun 16/11 03:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQVk5IVVIxVV9YTy02YUNRaTdiZUV1TjRWMGNoWHpLNmM0N0FJc1JQc056emljMjFfYy1KOG1ZNHppNUNkUk5DZ1pVcWxFWG9TcUZnZEVsaFFkRWlldVQ0SWpXRTBvcDI2elo3ODJXQ0lWX3VvUkx0aHM2aHBsTVhyV1ZNRmVidTFpZkR6TkEyejNIb1pCdHFzRk1OQkJYMHBpaTF3VVhReXFSQTR3ZWc?oc=5"
   }
  ],
  "daily_forecast": {
