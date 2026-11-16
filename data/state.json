@@ -1166,9 +1166,6 @@
   }
  },
  "seen_news": [
-  "a7bf8426dedb",
-  "fc1f1243fada",
-  "0ba552d44fec",
   "dc7bfa935642",
   "02ac0238f44c",
   "172cf1dc9dcb",
@@ -4165,19 +4162,22 @@
   "37171f436631",
   "d6b2540e2490",
   "ef8647d6eb5e",
-  "ba1aa78d1752"
+  "ba1aa78d1752",
+  "d1e29e8aab91",
+  "db286e01449e",
+  "2e5ae19398f3"
  ],
  "news": [
   {
-   "title": "Tea expo strengthens China-Taiwan cross-Strait tea industry ties",
-   "source": "Asia News Network",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVm51VXFua1ZuOERVNUIzQllNRjY3SG5tV1dxX0RyRlRGWWc2NzN5UDlKUDIybjdJN1N6cHVhREV4b1QwWjF6eUlvYWJ0QmdRanZhUEkzT3pPYnlBMllBZmpnZmt2LW1CUGprNk1jZmEzM3dxb0R5YjVtNnc0WTNWZko0UDRKRmlseVVuV3RYVjFzU05Q?oc=5",
-   "published": "2026-11-16T01:45:30+00:00",
-   "id": "d6b2540e2490",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
+   "title": "Ringgit opens almost flat against US$ amid hawkish Fed outlook",
+   "source": "KLSE Screener",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1I3VzhuSVJOZ3FGRndBeUdFcnRMMGhSeEEtdld3amVhQ2xscXMzU2NYbTRJa0t5LTVienRKWF9xZC1zTWtuaGkxOTJhZVNoaUdCc053Yjl2c09tMEFNQWxZRkF0MjE0SHpPSUpaS0Z3RFZoRnhranN1WEJLWDFDSUhFRWE3TEJBZDdDZTIwZzBnb1FjM2RQa1NIVjhucEJ1eWdYUnNIX1RVX3VFYWd5Rw?oc=5",
+   "published": "2026-11-16T01:51:07+00:00",
+   "id": "db286e01449e",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -4299,6 +4299,18 @@
    "cat": "fed",
    "raison": "Craintes de hausses de taux face à l'inflation, poussant dollar et rendements réels.",
    "method": "IA"
+  },
+  {
+   "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
+   "source": "The Kyiv Independent",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenJfWV9sVzd3Y0VKZUZwQllodlNacUhTLVpIc2NObXJVNkhmdmo3QXoydFVXVzdIeVdfbnZQV3l4YnAxYUlqZlJYejYtUks0TzVlMXVlNW9LaTBrNWVsdXBOdjVnbGw1ajQtQTJDT3JER3pxTklnRF9rcEZnTFhkWGhOclIxcjZ0N3pKSkl0VUJ4aldXM0NoSUxvdXByV1RIQy1QbVJwcDRwMU1hM1RRRVpvQlc?oc=5",
+   "published": "2026-11-15T23:30:24+00:00",
+   "id": "2e5ae19398f3",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump congratulates Democrats on midterms, says Iran war played role",
@@ -6555,23 +6567,9 @@
    "cat": "géopolitique",
    "raison": "Mines et pétroliers touchés à Ormuz : escalade majeure sur les approvisionnements énergétiques mondiaux.",
    "method": "IA"
-  },
-  {
-   "title": "Dow Jones Forecast: Trump’s Mexico Tariff Remarks Test the Rally",
-   "source": "FXEmpire",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjZtQi1oVzBmVW1RUXFVMDVSWGtRWDI5di1CRWtmVUFMdXE2Yk52N3ZZQVFEUllXQTlic2IycExISWozVzZXZVFQbnVPd2NKNjBlWXhRTlhUR1M3LUR3X2l0eENiQW5Ca29uWDI5OFA1OS1UVVJHN1IyZk9xVkJvZk54eW5MQnVUM3J0NjZyNy1YdktwTFZRV3Zqems0OFQ1TWFqR1ZzRnBnSTgzN2ptVkJSaw?oc=5",
-   "published": "2026-11-14T08:20:42+00:00",
-   "id": "794fcb374019",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Menaces de droits de douane pesant sur les actions, stimulant l'aversion au risque.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|34e352aae0bb": 1792979167.7945058,
-  "news|543576e85335": 1792980099.7135596,
   "news|fd990a2bbd31": 1792982770.5256703,
   "news|29880bfcc4e5": 1792984569.9490747,
   "news|a611975b09ea": 1792988164.1619,
@@ -8282,7 +8280,8 @@
   "brk|EURUSD|h250|dn|2026-11-16/2026-11-22": 1794789088.003075,
   "brk|GOLD|pdh|dn|2026-11-15": 1794791979.222584,
   "brk|SILVER|h250|dn|2026-11-09/2026-11-15": 1794791982.1447113,
-  "brk|DXY|pdh|up|2026-11-15": 1794792727.2057831
+  "brk|DXY|pdh|up|2026-11-15": 1794792727.2057831,
+  "news|db286e01449e": 1794794655.6077092
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8706,6 +8705,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T02:04:15.607839+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit opens almost flat against US$ amid hawkish Fed outlook</b>\n📰 KLSE Screener · Lun 16/11 02:51\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1I3VzhuSVJOZ3FGRndBeUdFcnRMMGhSeEEtdld3amVhQ2xscXMzU2NYbTRJa0t5LTVienRKWF9xZC1zTWtuaGkxOTJhZVNoaUdCc053Yjl2c09tMEFNQWxZRkF0MjE0SHpPSUpaS0Z3RFZoRnhranN1WEJLWDFDSUhFRWE3TEJBZDdDZTIwZzBnb1FjM2RQa1NIVjhucEJ1eWdYUnNIX1RVX3VFYWd5Rw?oc=5"
+  },
+  {
    "ts": "2026-11-16T01:32:07.205843+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.44 → prix : <b>103.45</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.33 | 60j -0.41"
@@ -8999,11 +9003,6 @@
    "ts": "2026-11-15T08:19:42.069776+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran navy says three tankers on fire after hitting mines in Hormuz</b>\n📰 bdnews24.com · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://bdnews24.com/world/middle-east/47mh9vo0tx"
-  },
-  {
-   "ts": "2026-11-15T08:19:41.155601+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Saudi Arabia intercepts Houthi missiles targeting Riyadh as Iran claims Bahrain drone attack</b>\n📰 gulfnews.com · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-as-bahrain-issues-threat-alert-1.500747797"
   }
  ],
  "daily_forecast": {
