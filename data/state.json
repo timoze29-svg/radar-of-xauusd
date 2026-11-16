@@ -1177,9 +1177,6 @@
   }
  },
  "seen_news": [
-  "d934650efed7",
-  "dd920036eb07",
-  "8c2d8ea2cbe0",
   "ab377eb2ca6c",
   "edf714413c52",
   "4d57cd00599d",
@@ -4176,9 +4173,24 @@
   "1ed5a0baef88",
   "9601d60825df",
   "5b50f0857386",
-  "c4a22168e8ed"
+  "c4a22168e8ed",
+  "b824e18bcc51",
+  "b444259b2ecb",
+  "e9165c40f047"
  ],
  "news": [
+  {
+   "title": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack | World News | 2news.com",
+   "source": "KTVN",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUJVVnllWFZzeHdnbTRoLXctMkhCaDdFRzlic0hvdXAzdjVPbWN0SlNodldNZG00Z1paMWxMcDFkTC02UzdmTTZOWTZoY3Jhcm51cEJkbkdBMy0yaUl4WDFEbmZrbVJwNnJKS1VEemdpMTZVWlhkaUxuZTBaVEF4LWNxaVA3ZVpMdFVwN1hQR1dRZzE3RDdpNE9XRTdEaE9ON29aenIzd1N6djd1TE9kbm9hU3c1LUxBODk1M1B1dVY5T3Q2blVabjB0RURXUEFBNmtMT3Y3c2U4XzFjZ2NtZkJseGVmeFM3TjZMelh5SUVXTDhmbkpxRFRKelNhN1pwTnc?oc=5",
+   "published": "2026-11-16T09:29:24+00:00",
+   "id": "b444259b2ecb",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "LIVE Updates: USS Theodore Roosevelt arrives in Middle East as US-Iran tensions escalate",
    "source": "Latest news from Azerbaijan",
@@ -4213,6 +4225,18 @@
    "impact": 5,
    "cat": "taux",
    "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold below US$4,000: Market bets on Fed rate hike",
+   "source": "Shanghai Metals Market",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDhVVkdrc3ltNmVadHdsWFN0VkdjNDFFQ29BS0p5S3dCMmU4dVdwUE90UHNQNk50X2FjVGRpWUVhd3FCbEpMS2g0NVd5cVlyLUNtWkZhR2ZWTE81WTd1cWlPSnVLbkZpMWdMRDJwM1NyQ2JfUzcwYUhkUm54WE8yWlhXdXVqeTZWaG5nMG95OFdEVThSWlB4LXFlZXE3TWZTVXRDeldOSThDWVQ4SlBTMGZ4Ny1IdVY1SGVTOHN3?oc=5",
+   "published": "2026-11-16T09:06:00+00:00",
+   "id": "b824e18bcc51",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6554,30 +6578,6 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire directe au Moyen-Orient stimulant immédiatement les achats refuge.",
    "method": "IA"
-  },
-  {
-   "title": "The Fed’s battle against inflation risks turning into a forever war—and may last as long as Operation Iraqi Freedom while Iran ‘status quo’ drags on",
-   "source": "Yahoo Finance",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3dwZ2tqWW8xeWh3LXpsdkdtWVhMTzFJWlV0Zk9WZzZ6eDJ2YlRZZ3N2Z29waXZCWVdPeHRmRjNtc0xrdG5hRDZPU200MXFzUmQwZm5MTUxWSFBTUU1yd0pFQ2dxRXBhTTFIRnptVnphY3lKbXMyaE93Y3Q5VzZ0NkQ1TVFjRmktaE1EUC1xeFJDb3Q5TlVobEZNUDJFUzBX?oc=5",
-   "published": "2026-11-14T23:31:14+00:00",
-   "id": "28f6fe8c9ce4",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Perspective de politique monétaire restrictive durable, taux réels restant défavorables.",
-   "method": "IA"
-  },
-  {
-   "title": "War in Iran: Weakened by the Midterms, Trump Takes a Wait-and-See Approach",
-   "source": "Left Voice",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fRXBpV3l0aWhVdkIxYTBOUGs2YXc3b2hiU3k1WHJSZktsM3ZobzQ5Q002VHZPX0lJMk5IaElQLUxxZUwyRlR2VUY3VXFGYjRRel8xaDVyZlpmbktzbVZYZENJRQ?oc=5",
-   "published": "2026-11-14T21:54:41+00:00",
-   "id": "b2250d64bd42",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Hésitation américaine réduisant temporairement la prime de risque géopolitique sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8312,7 +8312,9 @@
   "news|44c16061e0d2": 1794819134.1411443,
   "news|a22d869a0f27": 1794819134.98495,
   "pre1h|2026-11-16T05:00:00-05:00": 1794819136.1881382,
-  "news|c4a22168e8ed": 1794821491.5705366
+  "news|c4a22168e8ed": 1794821491.5705366,
+  "news|b824e18bcc51": 1794822739.526448,
+  "pre15m|2026-11-16T05:00:00-05:00": 1794822740.7336745
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8752,6 +8754,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T09:52:20.733717+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>8 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-16T09:52:19.526533+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold below US$4,000: Market bets on Fed rate hike</b>\n📰 Shanghai Metals Market · Lun 16/11 10:06\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDhVVkdrc3ltNmVadHdsWFN0VkdjNDFFQ29BS0p5S3dCMmU4dVdwUE90UHNQNk50X2FjVGRpWUVhd3FCbEpMS2g0NVd5cVlyLUNtWkZhR2ZWTE81WTd1cWlPSnVLbkZpMWdMRDJwM1NyQ2JfUzcwYUhkUm54WE8yWlhXdXVqeTZWaG5nMG95OFdEVThSWlB4LXFlZXE3TWZTVXRDeldOSThDWVQ4SlBTMGZ4Ny1IdVY1SGVTOHN3?oc=5"
+  },
+  {
    "ts": "2026-11-16T09:31:31.570665+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>LIVE Updates: USS Theodore Roosevelt arrives in Middle East as US-Iran tensions escalate</b>\n📰 Latest news from Azerbaijan · Lun 16/11 10:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFRxc2pMZGVQcjNUUkgwNkpaNDRNZl9ka1JOb0JwT28yS1ZBS3dBZ3pWdkpIWURBcUJFUS1jamd6ZThrWDVPVDg1bU81Mk96dENEak52M1gzWk9GbjhkMGUzZERRb2d3UG1MYU1wR0tUX0owRy0zcGdESzJQbnVSOUlma2xONE9Ua0RSWWxlbGdRU3BhRU02QlRmckRmQzV2YTluX1RfU0hhMkNh?oc=5"
@@ -9040,16 +9052,6 @@
    "ts": "2026-11-15T21:16:12.955714+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too</b>\n📰 New York Post · Dim 15/11 22:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlB1SEVVNFVLT3JzZ2p0Z1h2UU5SWi1ZSkRheVNtZHVqWUcySFl3VXFDdV84WnBNUlJWOFMzMm1yYTE5TGJGbXl0aWJOMU9saVJybHJGa2xGdHFYTkExY1R5ZGw1NlpQU3N2WFVyZ2sxaHhjeWd4cl9yQzc5T0U0WjMzMWNJWlBTU0h3dzJ5d2s0cTRGUVptMmFId1JVRUhPX3hxaA?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:32:51.514681+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-15T20:32:48.695118+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Bessent warns of historic Iran economic collapse while Pence criticizes halt to war</b>\n📰 Iran International · Dim 15/11 18:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYTFVTTdXUzNYNUhDSlpNS2VjV1VVTUs2MU43Z1lfamE5MkhlMFdtMVdReUVjTjNZZVpNSmZVUmJ6Ry1IWm9CTk1JUS1ONW1VTkVEX2tJdWJiNUMxZHc?oc=5"
   }
  ],
  "daily_forecast": {
