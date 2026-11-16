@@ -1177,9 +1177,6 @@
   }
  },
  "seen_news": [
-  "ab377eb2ca6c",
-  "edf714413c52",
-  "4d57cd00599d",
   "41ac262d964d",
   "ad22eaa86eb9",
   "23d30d11c6d1",
@@ -4176,7 +4173,10 @@
   "c4a22168e8ed",
   "b824e18bcc51",
   "b444259b2ecb",
-  "e9165c40f047"
+  "e9165c40f047",
+  "837884a5c1a9",
+  "23fb03aca85d",
+  "81ac3709850b"
  ],
  "news": [
   {
@@ -4228,6 +4228,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Ukraine strikes bridge linking Russia to Crimea in 1,336-drone barrage",
+   "source": "South China Morning Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmVubTdWMGkzRFAwaHI2SjFkaFNvQnl3SXBvVXE3MGdCcHVzVzdPV2ZBczZmMmZYMzBoaGh1cmE1Wml3Njc4S3F6UUxISWhUQlFkVzB1aDdZNGFBaExNanpzY1VFYnNJOVNJRVJGS0xwWXY2SlhwYVZiZ1VzLUtFNFB4RW1qNmN3X3JMVDl4eXo4eDUwWXh2U21sREdZRHhYS1hHT1BkYlNMWW53cXdlQV9NNGJ1NnR6LVd3?oc=5",
+   "published": "2026-11-16T09:15:47+00:00",
+   "id": "23fb03aca85d",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Gold below US$4,000: Market bets on Fed rate hike",
    "source": "Shanghai Metals Market",
    "theme": "Or",
@@ -4237,6 +4249,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran Launches New Strike on Bahrain, Raising Tensions in the Gulf",
+   "source": "https://globalpost.com/",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOW52UlZrZFRjRHRSUVVMNFotR2tYNFJjY1dmU3JNUl9VbTBqdkwtd0FJaGQ2ZnRUV0M3bVNYcmVZanctZlRvSGhFb0FXcTRKLUEzV2UySjRPMHdFRDl6QmRqWjRPSW1URld1VFRPN001RlRNZ3k4LVVZOE44NGkyRkdPbVdnT0ZQUnBERW94SWVOSWtxcEtXX2tZc1I?oc=5",
+   "published": "2026-11-16T09:04:53+00:00",
+   "id": "837884a5c1a9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6554,30 +6578,6 @@
    "cat": "géopolitique",
    "raison": "Arsenal iranien important confirmé, contredisant l'idée d'un conflit déjà maîtrisé.",
    "method": "IA"
-  },
-  {
-   "title": "Israel sees no imminent Iran threat but weighs possible solo strike",
-   "source": "Egyptian Gazette",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNk05b0ZHbWprVzBONkctUHFrNVgzUHRIZWZvdGFNSXYtZ1NQaWVlWkxRTzVkc2d0MXF1RThITEswMHZPTm54LTVRYzUtdkFvQy1IbFE3d0tTakpWUlVpZlZlVlI2LVotRDFlYi1uM0xRNW1MOEtydG9LeFNCdVo2ZW00c0cyeWR2SV9MZk1CWmdRam4zaXN6NlVBeGx0djFTVUlkVlVn?oc=5",
-   "published": "2026-11-15T00:24:26+00:00",
-   "id": "a9cae8bcfa53",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Menace d'une frappe unilatérale israélienne maintenant une tension géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Live - Bahrain intercepts Iranian drone, Saudi confronts missiles targeting Riyadh",
-   "source": "Iran International",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYTFVTTdXUzNYNUhDSlpNS2VjV1VVTUs2MU43Z1lfamE5MkhlMFdtMVdReUVjTjNZZVpNSmZVUmJ6Ry1IWm9CTk1JUS1ONW1VTkVEX2tJdWJiNUMxZHc?oc=5",
-   "published": "2026-11-14T23:48:15+00:00",
-   "id": "4b4dd96650c3",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire directe au Moyen-Orient stimulant immédiatement les achats refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8314,7 +8314,8 @@
   "pre1h|2026-11-16T05:00:00-05:00": 1794819136.1881382,
   "news|c4a22168e8ed": 1794821491.5705366,
   "news|b824e18bcc51": 1794822739.526448,
-  "pre15m|2026-11-16T05:00:00-05:00": 1794822740.7336745
+  "pre15m|2026-11-16T05:00:00-05:00": 1794822740.7336745,
+  "news|837884a5c1a9": 1794823323.1535125
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8754,6 +8755,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T10:02:03.153593+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Launches New Strike on Bahrain, Raising Tensions in the Gulf</b>\n📰 https://globalpost.com/ · Lun 16/11 10:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQOW52UlZrZFRjRHRSUVVMNFotR2tYNFJjY1dmU3JNUl9VbTBqdkwtd0FJaGQ2ZnRUV0M3bVNYcmVZanctZlRvSGhFb0FXcTRKLUEzV2UySjRPMHdFRDl6QmRqWjRPSW1URld1VFRPN001RlRNZ3k4LVVZOE44NGkyRkdPbVdnT0ZQUnBERW94SWVOSWtxcEtXX2tZc1I?oc=5"
+  },
+  {
    "ts": "2026-11-16T09:52:20.733717+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>8 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -9047,11 +9053,6 @@
    "ts": "2026-11-15T21:16:15.740483+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran launches drone attacks against US military base in Bahrain</b>\n📰 The Guardian · Dim 15/11 18:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5"
-  },
-  {
-   "ts": "2026-11-15T21:16:12.955714+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too</b>\n📰 New York Post · Dim 15/11 22:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlB1SEVVNFVLT3JzZ2p0Z1h2UU5SWi1ZSkRheVNtZHVqWUcySFl3VXFDdV84WnBNUlJWOFMzMm1yYTE5TGJGbXl0aWJOMU9saVJybHJGa2xGdHFYTkExY1R5ZGw1NlpQU3N2WFVyZ2sxaHhjeWd4cl9yQzc5T0U0WjMzMWNJWlBTU0h3dzJ5d2s0cTRGUVptMmFId1JVRUhPX3hxaA?oc=5"
   }
  ],
  "daily_forecast": {
