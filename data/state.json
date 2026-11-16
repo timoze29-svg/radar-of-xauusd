@@ -1177,13 +1177,6 @@
   }
  },
  "seen_news": [
-  "09bdd298c1f7",
-  "ca384907e5f7",
-  "506ce2ac873e",
-  "cecf00da2b13",
-  "c65b71e3a886",
-  "ccefc9360e67",
-  "2897034656c5",
   "a85f170729a6",
   "2f9a6db1d4b2",
   "931171b22d2d",
@@ -4176,7 +4169,14 @@
   "261bd99b0ebe",
   "962ef2f18292",
   "aae39ae60e71",
-  "bba70408aa78"
+  "bba70408aa78",
+  "ad139fd1f956",
+  "9968540be164",
+  "4b4b44741aad",
+  "a40a4b1725ee",
+  "f0ad12f848e0",
+  "8abf2adb30c7",
+  "dd760c8cd1c9"
  ],
  "news": [
   {
@@ -4273,6 +4273,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Fuel depot in Azov, Russia reportedly in flames following Ukrainian drone attacks",
+   "source": "The Kyiv Independent",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYjJZQTdQX05wd2tuUnFBajJMUU9BdGJHMEdFalhjdlFiMWtTZFg3blZVektJV01IWG1vM3RwVExrWnlzclptYTgxa01QTEVBSjJfd2twUmQzYmlhVENrQ1RjWndad3c3ZnZydDd0ZnZCOGE2eWlUa0l6dW1WUmFOSGo2bHk4aG9ydmN0T2lUcVB0alVQeEVveHBNZE90S3R1VHhJekJKWXA3bndsaFE?oc=5",
+   "published": "2026-11-16T04:48:49+00:00",
+   "id": "a40a4b1725ee",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6566,18 +6578,6 @@
    "cat": "emploi",
    "raison": "Emploi solide incitant la Fed au resserrement monétaire, pesant sur le métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "White House confirms Trump-Xi-Putin trilateral summit in China, Iran and nuclear arms on agenda",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bFJSQnNWSjBBbjlmSVh4YWtsTlBqVEVNUFBLdHlDejgwM0NWVHZCZXRscjc2NG9ycjA4bnlibXdnQ2VLOHlkdUFHWHlxdm9kZlVzRXFfUFppNG02SVEw?oc=5",
-   "published": "2026-11-14T15:20:14+00:00",
-   "id": "0c7406bf5ada",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Diplomatie au sommet réduisant le risque géopolitique global et la prime de sécurité.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8310,7 +8310,11 @@
   "brk|GOLD|h250|dn|2026-11-16/2026-11-22": 1794808923.5654285,
   "rep|weekly|2026-11-16": 1794808932.6678288,
   "rep|daily|2026-11-16": 1794808933.5488117,
-  "news|aae39ae60e71": 1794810723.7852888
+  "news|aae39ae60e71": 1794810723.7852888,
+  "brk|DXY|pdh|up|2026-11-16": 1794811754.6417542,
+  "brk|DXY|pwh|up|2026-11-16/2026-11-22": 1794811755.5594087,
+  "brk|DXY|h20|up|2026-11-16/2026-11-22": 1794811756.4405966,
+  "brk|DXY|h250|up|2026-11-16/2026-11-22": 1794811757.3105404
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8750,6 +8754,26 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T06:49:17.310642+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MAJEURE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut sur 1 AN\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
+  },
+  {
+   "ts": "2026-11-16T06:49:16.440697+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut sur 20 JOURS\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
+  },
+  {
+   "ts": "2026-11-16T06:49:15.559545+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE FORTE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la SEMAINE PASSÉE\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
+  },
+  {
+   "ts": "2026-11-16T06:49:14.641848+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
+  },
+  {
    "ts": "2026-11-16T06:32:03.785371+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran claims drone attack on US military base in Bahrain</b>\n📰 France 24 · Dim 15/11 16:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2ZocWx0VkRxMGh5N25RcDZMQnQ1LS1HU0RMVHg5U3dOWDlGRTlkcHdaRHVCLTRfR3hUYXE4a3BVV0ZncERjU2RuVXlnR2dBcUhMTUc3UVR0RG1tNW9sV1FVX2FBLTNhRXE1WkJ5WmwxR2pQVHZHV3ZxSVdHVnpUWWFjNjgyX0tSZWtz?oc=5"
@@ -9028,26 +9052,6 @@
    "ts": "2026-11-15T16:46:12.921998+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -38)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-15T16:46:11.729558+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump's Tariff War Brings Canada And Brazil Closer; Carney's $400 Million Brazil Pledge</b>\n📰 The Times of India · Dim 15/11 16:21\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdVNrQ3diMDI5ejNRV3ROSnZraERSdXotWG5IVm5wOXRBUENtZl9hU0lNUVVuR1hSaGlidE9mV1lHMVVBSUhMc3p5ZE9vMllyUFNibElqR2M2Q0lUX2M3VHc0ZWNsdjNkaHZGVjJheTI2bm5HNjFUdVY1T0hEU2pfZ0FRS0k2ZnZDVlFSLTFCWTB3VGZ0LWgyb0tjaEQ0OW8zS0hvX1l2YXRib3BDM001b3RnUTNzaWF6SE1hZUxQb3VTTVQzQVk3ZlNPeGQ3VzRPLVJDSVdZMGpVMFpSRF9Ka3FaRHh0RTB6Y3BTRkd3di1pYnlJMS1R0gH8AUFVX3lxTE01dmllN2lPdUxGeDh1UHZ4aTFncUhoQlpnaV9qcjh5a0JFN3JfX1lld3VBd3l1STRTd2lSb0ZzNVV0MHBKSnVCNXROamVPandrTlluWWE5SFNLOHlzSUFfQUhZLW1GREd4S0dZYkZheDVaRTNqMWRERVFyTWp3aXI4Zl9GTnNmenJMU0VpVlpiak0ydE5weWZpb29DVThLdXFhemRiQ3BJQzF6akxjMVhJRVFhSWVlaEpzb2hjVmhKRXJrS0ItdEZTcUxuUVdvZUVDdjBmMGl4azNhUkxtUmZqSktTOENJYzFsTlptNXFfaVdqdTRNTDc5bGpHUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-15T16:17:55.922745+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-15T16:17:53.059517+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S.</b>\n📰 The Washington Post · Dim 15/11 17:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDJzX3ZZUmk0ZHJvY3hHNFpBbDRfQlBpT25MWEZNNGY1QUsxWnlRVkl2WXNFN3puTS1ra2pHc2ZkeDI5WUxZcm9yZ1JheGRQYXlGM0VfMVRmY01UdmVDc1R1UDYyUk9MWGpKTzQ0bzFKOGJQS3VhMDhJdzkyaDQwanNLTFMzVU5vRVdUbVRudjQtQ0NCZXdleUJOeWwxaEVXQ3c0TEs1dkNZSTY4RnAxc1I3c1JhY3dNNy1JRFR4cmJnWHNl?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:49:08.360791+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
   }
  ],
  "daily_forecast": {
