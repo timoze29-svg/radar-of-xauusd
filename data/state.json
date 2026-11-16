@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794807983.7543273,
+   "ts": 1794812565.7458375,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1177,12 +1177,6 @@
   }
  },
  "seen_news": [
-  "a85f170729a6",
-  "2f9a6db1d4b2",
-  "931171b22d2d",
-  "c993566b44b9",
-  "7464cedbc5ff",
-  "4e9ce66344b1",
   "72c6301237d8",
   "42aa7dcbe85c",
   "89b105292ad3",
@@ -4176,9 +4170,39 @@
   "a40a4b1725ee",
   "f0ad12f848e0",
   "8abf2adb30c7",
-  "dd760c8cd1c9"
+  "dd760c8cd1c9",
+  "bbbed35952d6",
+  "671723a43ad1",
+  "ce377fddf310",
+  "93c25771d68f",
+  "b92e685a96b3",
+  "5a32ddfe8549"
  ],
  "news": [
+  {
+   "title": "Above 103.50: United States Dollar Index retains gains on hawkish Fed remarks",
+   "source": "www.tmgm.com",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDhfWjg2WmJLUE10b0xmZUJUZjN1SFVIUTNEemRlN1lVWm9pWWNZMU5YRTJiWVNpTWZDWEdRM0NKdFVFelZXOEJBMEdLZ3JuclNCZkxWUm9WS1JxbHNqc3ZUT3RDUF9FRGwwaGpPRjZJRlF3dFliYkctU3ZZQ0YwLTVsaHVpQXFzSjdCVkxaYi1EVHBQa2dYclZXRXc4aTFGc3d3SW9Ub2NSUXhWcEdIc0RtUXNMMExLRF80alRhbVFsS0NTSVBfVm9kaWdLTUlPYkFfclZaU2k?oc=5",
+   "published": "2026-11-16T06:59:14+00:00",
+   "id": "93c25771d68f",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "KIC dumps China ETFs, pivots to Japan, Taiwan in Q3",
+   "source": "KED Global",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zV3Ytd2NmbHFQQV90MVVEM1pOSWMyNlpHTnNKem5UODBhSzJxNUo5dUVKc0xrZVBwSlgxeEQyLWpPRlRSUTdoV01rOE5MZFhoSng1UmlkMlVvYjNBV2RDblpuVkhlVEhpbFU0TmJVT0szNDd1SDgycmF6eXpiZw?oc=5",
+   "published": "2026-11-16T06:52:03+00:00",
+   "id": "5a32ddfe8549",
+   "impact": 6,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump Considered Iran Strike Before Election, But Israel’s Military Chief Opposed It - Report",
    "source": "i24NEWS",
@@ -4261,6 +4285,18 @@
    "impact": -10,
    "cat": "fed",
    "raison": "baissier or (fed, taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran war live: Third US aircraft carrier arrives in Middle East",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-16T04:59:46+00:00",
+   "id": "671723a43ad1",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4706,6 +4742,18 @@
    "cat": "taux",
    "raison": "Envolée des rendements obligataires américains et dollar fort, très défavorables au métal jaune.",
    "method": "IA"
+  },
+  {
+   "title": "Iran attack on US base intercepted as Israel warns of Iranian plot against President Trump",
+   "source": "Fox News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3c2ZkeUI0bkl5S2tERGVlbjN4cEVvNTg3bUVLNTlKc3ZrSVM5MG94NUN4LUM3a2NpNDMxTTlKeUtudFMtckgzTWlfVk1YWVVSWDNpV2lR?oc=5",
+   "published": "2026-11-15T21:50:19+00:00",
+   "id": "ce377fddf310",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "‘Davidson Window' Admiral Hopes He Was Wrong On China's Ability To Take Taiwan By 2027",
@@ -6530,54 +6578,6 @@
    "cat": "commerce",
    "raison": "Incertitudes sur les droits de douane Trump alimentant un climat d'aversion au risque.",
    "method": "IA"
-  },
-  {
-   "title": "Silver's bullish breakout case builds as bond yields retreat",
-   "source": "StoneX",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0RXcm5ybGZXYWtEa3o3aEFPRzJwUGE1V0xIeHV3VnJQTjNaWEJWMXBLbFJGdC1CSktsaW9qdGhhZ1RDcjRjNk5RUXQ3NjFZenRFcnhRbTVTQ2hJVWFxV3U1RU4wa1RYNER4QTdrSDBEbV9VdWRINm5maklfdUczQm5mdU94VW5PMXJjd1N6d3ltUE9JZFBfLUxpSnZZd1N6RTNaeFBXZVZ4aHFW?oc=5",
-   "published": "2026-11-14T16:16:28+00:00",
-   "id": "f511f2774181",
-   "impact": 2,
-   "cat": "taux",
-   "raison": "Le repli des rendements obligataires soutient mécaniquement les métaux précieux non porteurs d'intérêts.",
-   "method": "IA"
-  },
-  {
-   "title": "Violent attacks on China critics in Taiwan raise concern",
-   "source": "The Manila Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRW83cmtiT1YxZ3BIMEJRbHZHOHNBenc5b21PdXlDWEp2TTAxRkpiZ3l4Z1pReXkzU09oLWpCUV9NWEYzM1h0NzN1bWpUbVZCbWhrLURUT0h1RDBBZExwOUF3anNGZm9KWGNvSTZZd193NnJXdUZ3ZnBXektkYlduOFdoVmhEMGhFbDVUQW9hS1AxSTBkbFZFQV9yQ185RzU3ZVR0TlhSRnctTlJWTjgwcjM5UEtROFczZkxpbWZuMNIBxAFBVV95cUxOd0RFemhTbE4yM05Ya0V3WGNIMV9uMU5hODc1TUQzNlpKUHNLSi16R2lCS0ltdXRXSkUzTUoxeHdST1c1VnNfS3JidFJWRkw2NVpxLUZiU2d4R1NpQmVGOEdibnk3NC16bEhnWjFFQ3FnX0tkOTQ1WC1qYVpQV0V6Z1JlbTV4cFhMVkpldTBaN0wzc2VJb0NEQVFkN0M3cUhJNjdET3NqZWFqZmRuTUItbExQRFNGY1RTQTkzQUxsVHF5MkIw?oc=5",
-   "published": "2026-11-14T16:07:00+00:00",
-   "id": "770d8fd9b9f3",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
-   "published": "2026-11-14T15:35:47+00:00",
-   "id": "66a37fb5508c",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Remboursements massifs allégeant les tensions commerciales mais injectant des liquidités.",
-   "method": "IA"
-  },
-  {
-   "title": "Robust Employment Report Supports Further Fed Rate Hikes",
-   "source": "The Conference Board",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0VmZnRneVh6Y2dLTlNKcG1tcXRhUTh6UEUxalZrdmdzVzRmR0tVLUhjcUoxLU5UTElHTFJNdnJFS2s1TmtYY2F4RVJHbHVRQWt3VllaU3lkYmpEZjM0MzJQcGQ5OU9QaG9aRkYxSGJiUEFqajNXQjVlNEZMWVhxdXh2RUVTaG9zN3ZPMWpzYXRrTXJoNDBF?oc=5",
-   "published": "2026-11-14T15:25:31+00:00",
-   "id": "72e5a76b68b8",
-   "impact": -4,
-   "cat": "emploi",
-   "raison": "Emploi solide incitant la Fed au resserrement monétaire, pesant sur le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8314,7 +8314,10 @@
   "brk|DXY|pdh|up|2026-11-16": 1794811754.6417542,
   "brk|DXY|pwh|up|2026-11-16/2026-11-22": 1794811755.5594087,
   "brk|DXY|h20|up|2026-11-16/2026-11-22": 1794811756.4405966,
-  "brk|DXY|h250|up|2026-11-16/2026-11-22": 1794811757.3105404
+  "brk|DXY|h250|up|2026-11-16/2026-11-22": 1794811757.3105404,
+  "news|93c25771d68f": 1794812952.6798017,
+  "news|671723a43ad1": 1794812955.2509222,
+  "news|ce377fddf310": 1794812956.1734219
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8754,6 +8757,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T07:09:16.173721+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran attack on US base intercepted as Israel warns of Iranian plot against President Trump</b>\n📰 Fox News · Dim 15/11 22:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3c2ZkeUI0bkl5S2tERGVlbjN4cEVvNTg3bUVLNTlKc3ZrSVM5MG94NUN4LUM3a2NpNDMxTTlKeUtudFMtckgzTWlfVk1YWVVSWDNpV2lR?oc=5"
+  },
+  {
+   "ts": "2026-11-16T07:09:15.251187+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Third US aircraft carrier arrives in Middle East</b>\n📰 Arabian Business · Lun 16/11 05:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-16T07:09:12.679897+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Above 103.50: United States Dollar Index retains gains on hawkish Fed remarks</b>\n📰 www.tmgm.com · Lun 16/11 07:59\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDhfWjg2WmJLUE10b0xmZUJUZjN1SFVIUTNEemRlN1lVWm9pWWNZMU5YRTJiWVNpTWZDWEdRM0NKdFVFelZXOEJBMEdLZ3JuclNCZkxWUm9WS1JxbHNqc3ZUT3RDUF9FRGwwaGpPRjZJRlF3dFliYkctU3ZZQ0YwLTVsaHVpQXFzSjdCVkxaYi1EVHBQa2dYclZXRXc4aTFGc3d3SW9Ub2NSUXhWcEdIc0RtUXNMMExLRF80alRhbVFsS0NTSVBfVm9kaWdLTUlPYkFfclZaU2k?oc=5"
+  },
+  {
    "ts": "2026-11-16T06:49:17.310642+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MAJEURE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut sur 1 AN\nNiveau : 103.44 → prix : <b>103.46</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.32 | 60j -0.4"
@@ -9037,21 +9055,6 @@
    "ts": "2026-11-15T17:32:09.426821+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US intelligence believes Iran could still have up to 2,500 missiles – report</b>\n📰 The Times of Israel · Dim 15/11 11:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm9YZEZBLTUxTUZOODItV1Q1Z2RweWVTYVBBMTgySWIyOVN5eWJrT0g4SUVHMmJkbTJLWGQ5dkNYMmlPb3BQaHB2TEJyYm1HaEM4bVVMOHR4a1FBRmN2SWFrRUk1Qi1DWmRya1Q4MDhwWlMzMnNCc1ljVXhSSGJEUXdkUHlwbDhPNW5uUEM5VmZhREFtdks5OHBOemUzMnN5dXF2QzNTSdIBrAFBVV95cUxPZm40NWNrbnlXc1NsbXlOU3V4R00wNXdIQ0FuMnl3dGdzbkpqaGxmTmRQbFJNM2NNM0pOYm1lWC0zNEs3SXhjZnRtcVYtdFZqNHZ4eDRwdHZTSjZTczFSR2FZNGxoOGc2ay1KRDBfbnNOQjhQWEcybW9jV0syaVBDaFVGX2Jyd0l0OWlQWlFZRmg0dFF5N3pVNUxqa2xvN0lBWUc4WXR0U3pLbnZ4?oc=5"
-  },
-  {
-   "ts": "2026-11-15T17:32:06.870116+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump Dictated His Longest-Ever Truth Social Post, a 1,321-Word Attack on Bill Maher, While Aboard Air Force One: Report</b>\n📰 AOL.com · Dim 15/11 18:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQUS1VUGliLWwzWlNiNnF3cm5hZVl5a1RoOVJMRHY3ekJ0bWJUM0VZLU5FMUZNLWwwUEtDdktJak1WU1lTZ0lZRUJNejhDNVJTNkEwNUhmX1RRYzBOd1JRNWdpemFTRUxmN2lyWG00R29aNnRKeElnM2hpY3RMYzFrMFVtRjY?oc=5"
-  },
-  {
-   "ts": "2026-11-15T16:56:12.937825+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Inside Iran's Secret Missile Cities: Crews Reveal How They Kept Firing Under US-Israel Strikes</b>\n📰 The Times of India · Dim 15/11 17:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQWmVlVTQwT040ZjJJdFRGcmp0Tll5ZFRkR3VVbm5MQzEzUmh4REpzX0ZfOWZqVHNUWXI5RXlzblBrckNQb2VMOGVsSDVGMDVCSDNlbVJtcUhMX195TTVldU95Wl9NNEdmUHZGdUlCalROT19aTjRWVGtZcHNlWHR4M21LdE42Y0tPanl5WENZclBvUlRiQUh6dkpqQVNIN0pKWmZHbUNMaGVxZTh3ZFlBOHZGaGVrc3A5aFp2OVpFZnk0cU9QQTFnSzNsVU44RTZ1UF9yai1SbHVqQ3FmRmxwdm5kU01ITXFxVWMtMzlGWkFFWXFuR2lfZmVNTF9YMjZ3SGRV0gGIAkFVX3lxTFBuSlB5bUJvTWFGMFA1ejh2QWJ0alVMS0Q3cURfN0JIQnJsX2RTU081VzIwVnZ0S3lYdlE1YklVM1NXNXFWd1RIQ1pzdW1RVmMwNnNsUWwyS0phZTF6NVR5X0pqd2lEcnhHd1BtMFlIY2hhU1hBVW52VkhlMGk1R1hnM3A1Z1NNQms3V0dtWDgxSGJKa2x5emQzSW9yNEZlS05sYjhTeUkwZXA2Mm9ETG8zRVl0SUE3T3c4dkRnM1pWaElhQXY0TG5Ebk9VRHQ3YVVCOUdiVEdkcHRYZkc3Y1V2c29TdEZjZ2RCTE82TU1kY0JHRGhJbkoySG1xSU05VS1nZU5TdVo2cQ?oc=5"
-  },
-  {
-   "ts": "2026-11-15T16:46:12.921998+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -38)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
   }
  ],
  "daily_forecast": {
