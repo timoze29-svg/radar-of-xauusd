@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794833155.8611295,
+   "ts": 1794836760.6397645,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -980,15 +980,15 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1794763931.685876,
+   "ts": 1794836963.1696908,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 114,
       "high": [
        [
         0,
-        14.8
+        14.0
        ],
        [
         15,
@@ -996,83 +996,83 @@
        ],
        [
         22,
-        7.8
+        7.9
        ]
       ],
       "low": [
        [
         0,
-        19.1
+        19.3
        ],
        [
         2,
-        11.3
-       ],
-       [
-        16,
-        10.4
-       ]
-      ]
-     },
-     "1": {
-      "n": 123,
-      "high": [
-       [
-        22,
-        12.2
-       ],
-       [
-        15,
-        8.9
-       ],
-       [
-        2,
-        8.9
-       ]
-      ],
-      "low": [
-       [
-        0,
         11.4
        ],
        [
         16,
-        10.6
-       ],
-       [
-        2,
-        8.9
+        10.5
        ]
       ]
      },
-     "2": {
+     "1": {
       "n": 121,
       "high": [
        [
+        22,
+        12.4
+       ],
+       [
+        15,
+        9.1
+       ],
+       [
         2,
-        11.6
-       ],
-       [
-        16,
-        11.6
-       ],
-       [
-        21,
-        6.6
+        9.1
        ]
       ],
       "low": [
        [
         0,
-        13.2
+        11.6
        ],
        [
-        14,
-        7.4
+        16,
+        10.7
+       ],
+       [
+        2,
+        8.3
+       ]
+      ]
+     },
+     "2": {
+      "n": 120,
+      "high": [
+       [
+        16,
+        11.7
+       ],
+       [
+        2,
+        10.8
        ],
        [
         21,
-        7.4
+        6.7
+       ]
+      ],
+      "low": [
+       [
+        0,
+        13.3
+       ],
+       [
+        14,
+        7.5
+       ],
+       [
+        21,
+        7.5
        ]
       ]
      },
@@ -1116,7 +1116,7 @@
        ],
        [
         0,
-        11.0
+        11.9
        ],
        [
         17,
@@ -1130,24 +1130,24 @@
        ],
        [
         15,
-        7.6
+        8.5
        ],
        [
-        16,
-        7.6
+        3,
+        6.8
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5970,
+     "n_hours": 5937,
      "horizon_h": 2,
-     "base_gold_up": 53.2,
-     "base_dxy_down": 48.0,
+     "base_gold_up": 53.3,
+     "base_dxy_down": 48.2,
      "down": {
       "3": {
-       "n": 246,
-       "p_dxy": 50.8,
+       "n": 244,
+       "p_dxy": 51.2,
        "p_gold": 56.1,
        "gold_avg": 1.5
       },
@@ -1160,15 +1160,15 @@
      },
      "up": {
       "3": {
-       "n": 269,
-       "p_dxy": 55.4,
+       "n": 265,
+       "p_dxy": 55.1,
        "p_gold": 49.1,
-       "gold_avg": -0.9
+       "gold_avg": -1.0
       },
       "4": {
-       "n": 76,
-       "p_dxy": 57.9,
-       "p_gold": 51.3,
+       "n": 75,
+       "p_dxy": 57.3,
+       "p_gold": 50.7,
        "gold_avg": 0.1
       }
      }
@@ -1177,14 +1177,6 @@
   }
  },
  "seen_news": [
-  "c3134dc5ba10",
-  "13771a423c52",
-  "f120b373bb3f",
-  "ed526cc3299c",
-  "137f51472fa1",
-  "10b441ff23c6",
-  "c908d6c90f81",
-  "e9ac5686bd5e",
   "d7d085334e0f",
   "90a8a171e655",
   "cdc3eae94150",
@@ -4176,9 +4168,29 @@
   "5a65d2b6799f",
   "f5d928503f9f",
   "5142b5721881",
-  "f21688cf130a"
+  "f21688cf130a",
+  "59bdbaece8d7",
+  "559f21da62f9",
+  "b847efbd9b6a",
+  "c2311dd384ce",
+  "b8dd36923a3c",
+  "d70dd1e9e6eb",
+  "620e8afe695d",
+  "dc3493442681"
  ],
  "news": [
+  {
+   "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldXRHVxRFh1enZnM0FycFdjbnk0LTc4Y093Wm1Jb0hieDBDSUNGcnM1cVhNMExSWUVLT0dSdjNSMmp0RUVPekpqMml6b2VtbzhfWkJSazJmUXV5bDljakdUUVF5VGlPYUIxVDdNdHI3UVNhT0FqYW5QOWJKMG5fY3NRYTJ6RENEajFlYmdodEZCTEw0LW9ldTFxTTh4S0R3bHc5a2h6N1FRaFBDRkxFbVBSdHFpQdIBuwFBVV95cUxQSTFVVi1PZlRHVDRieWdSYmpwZndlR1huenBHQ3FHcDVBb3pLQVFqWUxNdFNITEtoN2NJbVB5bWhZTng5ZkpuWXZPWmg5LXNyU2hNY05Od0ZCQTVoLVVfeFNWYkNRY1YwX05iZTB0N1NOQmJfMjg0SGpKWFVuVnNzT1Jfa0d3c3gxSXItUWxCSDNNLUljOTVWOGNDNzBlc0ktUk5GcG5Gd1kteUdkaUlVblVpZzVkQzdBMGNV?oc=5",
+   "published": "2026-11-16T13:28:36+00:00",
+   "id": "d70dd1e9e6eb",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Middle East tensions escalate as third US Aircraft Carrier deploys and Iran launches fresh attacks on Bahrain",
    "source": "ProtoThema English",
@@ -4189,6 +4201,18 @@
    "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil decline reflects easing escalation risk; Doomberg puts WTI equilibrium at $85–$95",
+   "source": "www.tokenpost.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NUGxERTBKdGo3QTBxcDE2UFlfQ3pWbnJaTWYxa01LVVpZa2tTejdzT3JPdEhQdV9sXy1FNEVabGJZX0podndfeVdlbm01amR6ODI2RlJjNXhpdw?oc=5",
+   "published": "2026-11-16T13:22:59+00:00",
+   "id": "b847efbd9b6a",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (fed, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4322,6 +4346,18 @@
    "cat": "commerce",
    "raison": "Persistance des tensions tarifaires favorisant le risque d'inflation et la diversification.",
    "method": "IA"
+  },
+  {
+   "title": "Opinion | Should Mark Carney push for a trade deal now — or wait Donald Trump out?",
+   "source": "Toronto Star",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYVo2MmdIOUM4OUdtTDhZbWdiRlJtX1VMdG5aYWhjWGZrckRxYXJZdkZCelhMWVBmRU51U2QtSFBzbXV0S25qR2FkLXhiZV9FVXotYXBoc0pibTlvZ0xoNURaSUp4N29KeTlCdnNlUU9HRGRvZUpsd2tjRGsza3l0M3lhVmJqVTNoeDNVN0lBMzAzWHIyTk1FODlySjlUZU9oSUtjQnlvQkRVRk9tXzF3TlhBZmctZFZib2FfdGEyVm44akZqZ2ZxVUtHQjIwSmJjRHp6bUNkaHVtYjdLSGJBc3lDZXoyN2c?oc=5",
+   "published": "2026-11-16T11:09:02+00:00",
+   "id": "c2311dd384ce",
+   "impact": -2,
+   "cat": "commerce",
+   "raison": "baissier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
@@ -6542,49 +6578,9 @@
    "cat": "inflation",
    "raison": "Baisse des carburants réduisant les anticipations d'inflation et la demande de couverture.",
    "method": "IA"
-  },
-  {
-   "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh as Iran claims Bahrain drone attack",
-   "source": "gulfnews.com",
-   "theme": "Géopolitique",
-   "link": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-as-bahrain-issues-threat-alert-1.500747797",
-   "published": "2026-11-15T07:45:00+00:00",
-   "id": "e129aa38e5aa",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Tirs de missiles sur Riyad et Bahreïn, aggravation nette du risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Saudi intercepts two ballistic missiles fired towards Riyadh",
-   "source": "omanobserver.om",
-   "theme": "Géopolitique",
-   "link": "https://www.omanobserver.om/article/1199693/world/region/saudi-intercepts-two-ballistic-missiles-fired-towards-riyadh",
-   "published": "2026-11-15T07:45:00+00:00",
-   "id": "fb0737b60e2c",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Missiles balistiques visant Riyad, maintien d'une prime de risque élevée au Golfe.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran navy says three tankers on fire after hitting mines in Hormuz",
-   "source": "bdnews24.com",
-   "theme": "Géopolitique",
-   "link": "https://bdnews24.com/world/middle-east/47mh9vo0tx",
-   "published": "2026-11-15T07:45:00+00:00",
-   "id": "c81bfe7a6d77",
-   "impact": 7,
-   "cat": "géopolitique",
-   "raison": "Menace critique sur le détroit d'Ormuz, choc pétrolier potentiel et fuite refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|eefa9f90d358": 1793022550.2696018,
-  "brk|SILVER|pwh|dn|2026-10-26/2026-11-01": 1793022552.80061,
-  "brk|SILVER|h20|dn|2026-10-26/2026-11-01": 1793022553.6848514,
-  "brk|EURUSD|pwh|dn|2026-10-26/2026-11-01": 1793022554.599937,
   "news|a26e0083a672": 1793024174.4492629,
   "news|fd6799fede5e": 1793025091.2288506,
   "news|5c99da83da09": 1793025977.2812278,
@@ -8304,7 +8300,9 @@
   "rep|update|2026-11-16": 1794834106.8652878,
   "news|24b1da064312": 1794834976.1881676,
   "news|5a65d2b6799f": 1794835896.748051,
-  "news|c0fd5602a501": 1794835897.7488203
+  "news|c0fd5602a501": 1794835897.7488203,
+  "news|b847efbd9b6a": 1794836959.5932066,
+  "pre15m|2026-11-16T09:05:00-05:00": 1794836963.2044628
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8744,6 +8742,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T13:49:23.204573+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>16 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-16T13:49:19.593302+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil decline reflects easing escalation risk; Doomberg puts WTI equilibrium at $85–$95</b>\n📰 www.tokenpost.com · Lun 16/11 14:22\n🧠 haussier or (fed, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NUGxERTBKdGo3QTBxcDE2UFlfQ3pWbnJaTWYxa01LVVpZa2tTejdzT3JPdEhQdV9sXy1FNEVabGJZX0podndfeVdlbm01amR6ODI2RlJjNXhpdw?oc=5"
+  },
+  {
    "ts": "2026-11-16T13:31:37.749073+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s escalation will only worsen its problems and benefit no one</b>\n📰 Al Arabiya English · Lun 16/11 13:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF9ka2Jmc3Z0ZXZ5OUJfTTFGQzFOdm1FSlA4ZzlIYVZKWEU5UVEwNEJ5OFh0bUtiMlpYNThTN0pTMGZTblh6eVlRXzJ6S1R3aGhzZm1RUmNsZU5BUzJZUWphQjFOLWlIVTU3TzZZOUM2eEJhdS1VOXY0VWg5M0xDQXlRMC0wQjlFOTFiZkZDbzVhdzY5UmdmYWJOdUo4UVpfUWVxcElQNlN3QkVWMkxTYk93Z9IBuAFBVV95cUxNV2RLeTh1Z3J1SVMtdlBzcUxITzAtM1dYYzdVU1JsWGFsdnRfdWIzaUxuMG0yb2hzQlJscnQwdXZlZzB0WDBsSXhQWGdrUlQxRlRGYm9LOGR5NFZabW95UXNOZGp3T0JxQ19yazR6R1ZwV0NDWE9oYjROLWNmLWF6MG9kcmZodjhzeEVTUV9lbXcyYnFrTm5iN0ktMnVQMkljZ1dlN2E0SW0yd2VLRmNha2txaTlxTlhY?oc=5"
@@ -9032,16 +9040,6 @@
    "ts": "2026-11-16T02:04:15.607839+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit opens almost flat against US$ amid hawkish Fed outlook</b>\n📰 KLSE Screener · Lun 16/11 02:51\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1I3VzhuSVJOZ3FGRndBeUdFcnRMMGhSeEEtdld3amVhQ2xscXMzU2NYbTRJa0t5LTVienRKWF9xZC1zTWtuaGkxOTJhZVNoaUdCc053Yjl2c09tMEFNQWxZRkF0MjE0SHpPSUpaS0Z3RFZoRnhranN1WEJLWDFDSUhFRWE3TEJBZDdDZTIwZzBnb1FjM2RQa1NIVjhucEJ1eWdYUnNIX1RVX3VFYWd5Rw?oc=5"
-  },
-  {
-   "ts": "2026-11-16T01:32:07.205843+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Dollar Index DXY</b> casse le plus haut de la VEILLE\nNiveau : 103.44 → prix : <b>103.45</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.33 | 60j -0.41"
-  },
-  {
-   "ts": "2026-11-16T01:19:42.144792+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>Argent (XAG)</b> casse le plus bas sur 1 AN\nNiveau : 48.125 → prix : <b>48.090</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.9 | 60j 0.85"
   }
  ],
  "daily_forecast": {
