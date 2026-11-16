@@ -1177,9 +1177,6 @@
   }
  },
  "seen_news": [
-  "cc46cdc25ba6",
-  "ddb63f790e97",
-  "f7ba51329957",
   "09bdd298c1f7",
   "ca384907e5f7",
   "506ce2ac873e",
@@ -4176,7 +4173,10 @@
   "909aa537f03f",
   "a75ca8654550",
   "21636b5c2a46",
-  "261bd99b0ebe"
+  "261bd99b0ebe",
+  "962ef2f18292",
+  "aae39ae60e71",
+  "bba70408aa78"
  ],
  "news": [
   {
@@ -5078,6 +5078,18 @@
    "cat": "géopolitique",
    "raison": "Efforts diplomatiques réduisant marginalement la prime de risque géopolitique immédiate.",
    "method": "IA"
+  },
+  {
+   "title": "Iran claims drone attack on US military base in Bahrain",
+   "source": "France 24",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2ZocWx0VkRxMGh5N25RcDZMQnQ1LS1HU0RMVHg5U3dOWDlGRTlkcHdaRHVCLTRfR3hUYXE4a3BVV0ZncERjU2RuVXlnR2dBcUhMTUc3UVR0RG1tNW9sV1FVX2FBLTNhRXE1WkJ5WmwxR2pQVHZHV3ZxSVdHVnpUWWFjNjgyX0tSZWtz?oc=5",
+   "published": "2026-11-15T15:26:08+00:00",
+   "id": "aae39ae60e71",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump's Tariff War Brings Canada And Brazil Closer; Carney's $400 Million Brazil Pledge",
@@ -6566,22 +6578,9 @@
    "cat": "géopolitique",
    "raison": "Diplomatie au sommet réduisant le risque géopolitique global et la prime de sécurité.",
    "method": "IA"
-  },
-  {
-   "title": "Randy Essex: After midterm rout, Republicans may help force Trump to back off tariffs",
-   "source": "Windsor Star",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXJJU0JQNnFYdTMtS1hiYU0tMVhoRGFJckNPY2lxSm9GQWMtQzlrYlp5Z2RuS1BjRGpBZW9qOHZFSWdseGxCZkwwUkJUcHNVTnYwTE1rUjFHY0FqMm1QekxQNlFJdUIzclA0UzZXcEJwWl9iV0Jidk1CWFhvWmgtSmJCRnZXZGppNXVNREFlM3RsVGFBa2VmTElTMGpqaVFnbHJkd1d2WUF6N0hqR1Bpb2JRb01fZDA?oc=5",
-   "published": "2026-11-14T15:09:12+00:00",
-   "id": "e3e6c361576d",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Recul potentiel des tarifs douaniers diminuant le risque stagflationniste et l'incertitude commerciale.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|e6772e8cb1f3": 1792995380.9188173,
   "news|dfb9dbc0d485": 1793001143.4162889,
   "news|7309dd2cefb0": 1793001144.4006946,
   "news|4af6069f827b": 1793002247.9309258,
@@ -8310,7 +8309,8 @@
   "brk|GOLD|h20|dn|2026-11-16/2026-11-22": 1794808922.7646837,
   "brk|GOLD|h250|dn|2026-11-16/2026-11-22": 1794808923.5654285,
   "rep|weekly|2026-11-16": 1794808932.6678288,
-  "rep|daily|2026-11-16": 1794808933.5488117
+  "rep|daily|2026-11-16": 1794808933.5488117,
+  "news|aae39ae60e71": 1794810723.7852888
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8750,6 +8750,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T06:32:03.785371+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran claims drone attack on US military base in Bahrain</b>\n📰 France 24 · Dim 15/11 16:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2ZocWx0VkRxMGh5N25RcDZMQnQ1LS1HU0RMVHg5U3dOWDlGRTlkcHdaRHVCLTRfR3hUYXE4a3BVV0ZncERjU2RuVXlnR2dBcUhMTUc3UVR0RG1tNW9sV1FVX2FBLTNhRXE1WkJ5WmwxR2pQVHZHV3ZxSVdHVnpUWWFjNjgyX0tSZWtz?oc=5"
+  },
+  {
    "ts": "2026-11-16T06:02:12.792039+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — LUNDI 16/11</b>\nPrix : <b>3841.60</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-49/100)\n\n<b>Pourquoi :</b>\n🔴 Dollar (DXY 5j) : +1.70% sur 5 jours\n🔴 Momentum or (vs MM50) : prix 3842 vs MM20 4019 / MM50 4169\n🔴 Taux US 10 ans (5j) : +30 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : -47.6$ · plus haut 3904.3 / plus bas 3837.9 (range 66$)\nDXY -0.05% sur la nuit\n⚠️ Plus bas de la veille (3871) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~101$</b> (ATR 98$ × profil du lundi)\nDéjà fait en Asie : 66$ (66% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3951.0 | R1 3918.6 | <b>Pivot 3894.9</b> | S1 3862.5 | S2 3838.8\nVeille : PDH 3927.2 / PDL 3871.1  ·  Semaine passée : 4158 / 3857\n\n📅 <b>Annonces du jour</b>\n🔥 <b>11:00</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:05</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:00</b> 🇺🇸 Fed Chairman Warsh Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:15</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>51%</b> du temps (280 jours, ~6.0 ans)\n• Hier : +0.03% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1051 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (15%), 15h (10%) · plus BAS vers 0h (19%), 2h (11%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -28.1$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 3895 → R1 3919\nObjectifs : PDL 3871 → S1 3863 → S2 3839\n❌ Invalidation : clôture H1 au-dessus de R1 3919\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 3927 → R2 3951\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
@@ -9043,11 +9048,6 @@
    "ts": "2026-11-15T15:49:08.360791+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-15T15:49:07.313468+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Egypt and Türkiye intensify diplomatic efforts to prevent fresh US-Iran military escalation</b>\n📰 The Eastleigh Voice · Dim 15/11 16:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzR5WVhOU0lMdFR2RDJnOF9wdUM2YmFPdE9oRHZIVGEwVUZUS1pWYTRlbnpkWFVDQTY3UE5Da0RzTlFpMENUX25YeEtsZ0tLN0g5ZGdodU4yTkJTeVJxSk4xa294YlhLb3VfWVJzb0Y3cm1zWmJHLXJJSGJBeE5xNjlvWFRTYVVfQXJETjA2bnpjRDJXWVdqYkY2RnNQUVB6RFRtYmtvaF9LVnp4WjdQcHV1VGJhdkNucXp2MGtDS3VsYTdKZE4xTkY0RG54bXhoWHVLdnhR?oc=5"
   }
  ],
  "daily_forecast": {
