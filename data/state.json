@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794861965.158367,
+   "ts": 1794866476.4141214,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -740,7 +740,7 @@
      "country": "USD",
      "impact": "High",
      "date": "2026-11-17T08:30:00-05:00",
-     "forecast": "0.2%",
+     "forecast": "0.1%",
      "previous": "0.8%",
      "actual": "",
      "gold_label": "Consommation",
@@ -822,6 +822,17 @@
      "actual": "",
      "gold_label": "Inflation (CPI) — gros impact via la Fed",
      "gold_weight": 9
+    },
+    {
+     "title": "FOMC Member Daly Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-18T12:15:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
     },
     {
      "title": "FOMC Member Barr Speaks",
@@ -1210,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "968058cca414",
-  "4202e68d26d2",
-  "3b7843aa386c",
   "6aede4c95ead",
   "8098d9889417",
   "877b67e1f9ef",
@@ -4209,7 +4217,10 @@
   "a85d8596e264",
   "772f3e73f042",
   "fdfc52f14591",
-  "8afe40ce0a18"
+  "8afe40ce0a18",
+  "8a1da5085d94",
+  "488f395a7902",
+  "dbb2b8c439e0"
  ],
  "news": [
   {
@@ -4222,6 +4233,18 @@
    "impact": -2,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "China arms up US-backed Somalia as president attacks Israel and Taiwan over ties with breakaway territory",
+   "source": "Business Insider Africa",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObW0wWDBXcUpBSzNzd19MWk5Ld2pBbmpsUGFQbGZTUlRMcTUyUmhkMjRVbWNqWF9KUXVRNzJrZzBibHhtcDRsYlJLbFNDSFJQek9oWkZocXo2aC12all3MW9zQmZlTlhuWHVyUGlWTlBEaTFvUlJtdkRYMG9Gb2pTWUw2OG5PM3ZHQm04T0txRmRXaGtlREE4Y0gxdVJWM0NzZXh6Z0dmNzRHdGpTVWh5ZTdUT1o4ZzR1SlJ6N19TWVhCODA0VUg5SDVHLVhjQTZ3bXV0SFNqMVBhQQ?oc=5",
+   "published": "2026-11-16T21:32:17+00:00",
+   "id": "dbb2b8c439e0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4343,6 +4366,18 @@
    "cat": "géopolitique",
    "raison": "Tensions accrues avec l'Iran stimulant les flux vers la valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Fed’s Hammack favors gradual rate hikes amid inflation concerns",
+   "source": "Crypto Briefing",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0NfYWxZSms2OFk2YVhmbko4alExNGpjcHhlRkFPOHk0Q1BWckNoZWx0RkRHQlh4aHRwU19rUng0ZENLWFJpSEZoeXdmd0RQdnczSzFOZTBRSWQ4TlBrckpVT2tZdEp4WHFYWkNsZWwzNzBha2x0ekRjRy1mWWhCS1V4a3Q5YXRQSmlEcXJyQmZuVk96?oc=5",
+   "published": "2026-11-16T19:27:32+00:00",
+   "id": "488f395a7902",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Tells Reporter to ‘Be Careful’ When Asked About Iranian Drone Attack",
@@ -6587,34 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Fermeture de frontière avec la Russie, léger soutien au statut de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Mossad intelligence points to Iranian drone plot targeting Trump, top U.S. officials",
-   "source": "The New Voice of Ukraine",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTjJKVF9DSzFZRWFZa21kNG9rSFU2LVNGYjIwWGczdHJjYUJiYkZTVmNoZFBMR09BaTNrZ3pTSmdYUndyaWp0aFZ5U0EtV2FselRndVVGNHgydGtRUHVqNENuZWQ4S3NYdWFleWhmYzBXV2h5NUJyVjI5R0VpRk5IZEQxdzhUNUlfbkJJNXU4Mk5US3FLbTV6LVJHa1VWSTBraUJVRW5vMHRMdXlRLWV4aEhKbEJMSTNJclZPcXFlY0t0a2ZZdHdjbVc2ZG7SAcgBQVVfeXFMT3NjZWpEVGlnNmJ1QkdBVWVnRXhtaW9JVGROYTBHejBKTUEzMm1ZQWFnWm1NTHNqZ05xbXpmaVYwOVFrclZKY01TdkctZGNoT0JHUmNCWlpGTHo2dEI1MG94QzRMUC00U3FOV2VYZXB2ZG9YTkltWmxTYU1rTEJCZ05LU3VsTU9NdW42QTlTbWVYSlFrN3A4Y3Z5V0ZzOW1Hek1LczhMckRuRUVSeVdCbGhBRDdjNWJ4M2t6U3J5b2haNnRaRjlWM1Y?oc=5",
-   "published": "2026-11-15T16:30:00+00:00",
-   "id": "31dbcd4172b2",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Escalade des tensions sécuritaires USA-Iran favorisant la demande pour les valeurs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Saudi-led coalition says it intercepted 3 drones over Mecca, Medina amid escalation with Houthis",
-   "source": "Anadolu Ajansı",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYlE5V0gtMHlkTkFsLUlfNjZlMkhTVEJ2ZkdxTG9DRWV3RGF0VHdhbnlVZ2Q4eWY3T1Q3RFZDZndkVjNFZWdDbm00WHZ1OHhKNDNFa0FPZ1V1d3BVTml3cWhfZUZXZS1QTUxOTktYb2c5WnZEUjZGeHJKalZwUG5yVFpyU1FUQWk0ZWk4UDE0RzRsU0FkYjJBV096bHNfZmhJYjc2cTBmOFRHbjZGdWZzYUJjZUVMNVNENmNHUVNjc3JRQnRLbEdxd1VUNzVBQjF3Z2pLcFdnOA?oc=5",
-   "published": "2026-11-15T16:21:36+00:00",
-   "id": "5460f31a1040",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Escalade des attaques de drones houthis vers des cibles hautement sensibles en Arabie.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|912e858b99ba": 1793051167.3896408,
   "news|19690a870603": 1793053154.405046,
   "news|450fd6cc0ed9": 1793053889.8020222,
   "news|1a39aad1eb95": 1793053890.7267075,
@@ -8354,7 +8364,10 @@
   "news|964e72e99584": 1794860105.8630147,
   "news|3ecb9d115b01": 1794862102.1950126,
   "news|42561a52c8b3": 1794862927.9848769,
-  "rep|recap|2026-11-16": 1794862929.7525144
+  "rep|recap|2026-11-16": 1794862929.7525144,
+  "news|dbb2b8c439e0": 1794866504.0844784,
+  "news|488f395a7902": 1794866506.703976,
+  "pre1h|2026-11-16T18:10:00-05:00": 1794866507.8726757
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8794,6 +8807,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T22:01:47.873049+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 68 MIN — 00:10</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.15% aujourd'hui · taux 10 ans -3 pb · biais or -37 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
+  },
+  {
+   "ts": "2026-11-16T22:01:46.704225+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed’s Hammack favors gradual rate hikes amid inflation concerns</b>\n📰 Crypto Briefing · Lun 16/11 20:27\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0NfYWxZSms2OFk2YVhmbko4alExNGpjcHhlRkFPOHk0Q1BWckNoZWx0RkRHQlh4aHRwU19rUng0ZENLWFJpSEZoeXdmd0RQdnczSzFOZTBRSWQ4TlBrckpVT2tZdEp4WHFYWkNsZWwzNzBha2x0ekRjRy1mWWhCS1V4a3Q5YXRQSmlEcXJyQmZuVk96?oc=5"
+  },
+  {
+   "ts": "2026-11-16T22:01:44.084561+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China arms up US-backed Somalia as president attacks Israel and Taiwan over ties with breakaway territory</b>\n📰 Business Insider Africa · Lun 16/11 22:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxObW0wWDBXcUpBSzNzd19MWk5Ld2pBbmpsUGFQbGZTUlRMcTUyUmhkMjRVbWNqWF9KUXVRNzJrZzBibHhtcDRsYlJLbFNDSFJQek9oWkZocXo2aC12all3MW9zQmZlTlhuWHVyUGlWTlBEaTFvUlJtdkRYMG9Gb2pTWUw2OG5PM3ZHQm04T0txRmRXaGtlREE4Y0gxdVJWM0NzZXh6Z0dmNzRHdGpTVWh5ZTdUT1o4ZzR1SlJ6N19TWVhCODA0VUg5SDVHLVhjQTZ3bXV0SFNqMVBhQQ?oc=5"
+  },
+  {
    "ts": "2026-11-16T21:02:08.982266+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — LUNDI 16/11</b>\nOr : <b>-34.1$</b> depuis minuit · plus haut 3904.3 (00h55) / plus bas 3835.2 (06h55) · range 69$\n\n<b>➖ JOURNÉE SANS DIRECTION</b>\nPrévu ce matin : 📉 BAISSIER (-49) à 3841.6 → maintenant 3855.1 (+13.5$)\nRange : 69$ réalisé vs ~101$ attendu (68%)\nNiveaux touchés : P, S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 62% de bonnes directions (15 ✅ / 9 ❌ / 2 ➖ sur 26 jours)\n20 derniers jours : 61%  ·  ➖✅❌✅✅❌✅✅✅➖\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.15% · Taux 10 ans -3.3 pb · Pétrole -3.40% · EUR/USD -0.26% · S&P 500 -1.86% · Argent -4.43%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Major escalation as USS Theodore Roosevelt arrives in Middle East after new Iran strikes\n🟢 (+10) Iran Refuses to Halt Nuclear Program as Third US Carrier Strike Group Arrives\n🟢 (+10) Middle East tensions escalate as third US Aircraft Carrier deploys and Iran launches fresh attacks on Bahrain\n🟢 (+10) Oil decline reflects easing escalation risk; Doomberg puts WTI equilibrium at $85–$95\n\n📅 <b>Demain (mardi)</b>\n🔥 <b>00:10</b> 🇺🇸 FOMC Member Barkin Speaks\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Goolsbee Speaks\n🔥 <b>13:30</b> 🇺🇸 FOMC Member Musalem Speaks\n🔥 <b>14:30</b> 🇺🇸 Core Retail Sales m/m (prév. 0.4%)\n🔥 <b>14:30</b> 🇺🇸 Retail Sales m/m (prév. 0.2%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Waller Speaks\n🔥 <b>15:30</b> 🇺🇸 FOMC Member Hammack Speaks\n🔥 <b>20:25</b> 🇺🇸 FOMC Member Williams Speaks"
@@ -9077,21 +9105,6 @@
    "ts": "2026-11-16T10:02:03.153593+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Launches New Strike on Bahrain, Raising Tensions in the Gulf</b>\n📰 https://globalpost.com/ · Lun 16/11 10:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQOW52UlZrZFRjRHRSUVVMNFotR2tYNFJjY1dmU3JNUl9VbTBqdkwtd0FJaGQ2ZnRUV0M3bVNYcmVZanctZlRvSGhFb0FXcTRKLUEzV2UySjRPMHdFRDl6QmRqWjRPSW1URld1VFRPN001RlRNZ3k4LVVZOE44NGkyRkdPbVdnT0ZQUnBERW94SWVOSWtxcEtXX2tZc1I?oc=5"
-  },
-  {
-   "ts": "2026-11-16T09:52:20.733717+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>8 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-16T09:52:19.526533+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold below US$4,000: Market bets on Fed rate hike</b>\n📰 Shanghai Metals Market · Lun 16/11 10:06\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDhVVkdrc3ltNmVadHdsWFN0VkdjNDFFQ29BS0p5S3dCMmU4dVdwUE90UHNQNk50X2FjVGRpWUVhd3FCbEpMS2g0NVd5cVlyLUNtWkZhR2ZWTE81WTd1cWlPSnVLbkZpMWdMRDJwM1NyQ2JfUzcwYUhkUm54WE8yWlhXdXVqeTZWaG5nMG95OFdEVThSWlB4LXFlZXE3TWZTVXRDeldOSThDWVQ4SlBTMGZ4Ny1IdVY1SGVTOHN3?oc=5"
-  },
-  {
-   "ts": "2026-11-16T09:31:31.570665+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>LIVE Updates: USS Theodore Roosevelt arrives in Middle East as US-Iran tensions escalate</b>\n📰 Latest news from Azerbaijan · Lun 16/11 10:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFRxc2pMZGVQcjNUUkgwNkpaNDRNZl9ka1JOb0JwT28yS1ZBS3dBZ3pWdkpIWURBcUJFUS1jamd6ZThrWDVPVDg1bU81Mk96dENEak52M1gzWk9GbjhkMGUzZERRb2d3UG1MYU1wR0tUX0owRy0zcGdESzJQbnVSOUlma2xONE9Ua0RSWWxlbGdRU3BhRU02QlRmckRmQzV2YTluX1RfU0hhMkNh?oc=5"
   }
  ],
  "daily_forecast": {
