@@ -1166,14 +1166,6 @@
   }
  },
  "seen_news": [
-  "a6c95cc4d5cd",
-  "27cb39716d3d",
-  "2fea8f1b7840",
-  "d7592a62cbe7",
-  "7cbc8e71654b",
-  "0f602765b7b9",
-  "288574b44abd",
-  "b70bfe2e1b16",
   "cf4b206d5670",
   "76bc24cbe12a",
   "9fe0bc11110f",
@@ -4165,7 +4157,15 @@
   "6761d2c7df8a",
   "fa3e5128a380",
   "367ec0f7a05e",
-  "6afe24d86718"
+  "6afe24d86718",
+  "eb7011935e92",
+  "03b00a25ba26",
+  "b79ac1e7d387",
+  "37e2171bdc81",
+  "f9f2f44018c0",
+  "6ba425327a7a",
+  "df54a0fe0c42",
+  "f6b677c3b13c"
  ],
  "news": [
   {
@@ -4659,6 +4659,18 @@
    "cat": "commerce",
    "raison": "Pivot commercial vers la Chine renforçant la dynamique de dédollarisation favorable à l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Iran warns its response to any new attack ‘will not be limited or short-lived’",
+   "source": "Anadolu Ajansı",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2RiekM1T0x5ZGU0cXdjMWNkb1dxV29ENHA1QWhCbmtNQnR1ZnVja1hiX0tZWlVoMkpDODRKRnFCS05ZMGhTSnVFdmYyU3lJTHE4LTYweXJwRkg3T3Nqc1h2UzdWSi1sMUhRVGoxSlhBdmZZRTRRRGZPQXJUN3lfVkV1dVhRZjBjSW0wOUszWUlRcW9mUmc5RUttUnpqekZJSmlKTnBTWFQ0bEZjSGx5elk5elRtQUo3WTVCcTV5RQ?oc=5",
+   "published": "2026-11-15T14:16:59+00:00",
+   "id": "37e2171bdc81",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine Strikes Russia’s Key Military Aircraft Testing Airfield, Triggering Major Ammunition Detonat…",
@@ -6555,22 +6567,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump Threatens Mexico with Double Tariffs over Migrant Caravan",
-   "source": "조선일보",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOazJqaEdhR0UzMTFBMHJNZWluX3NDRzJhYXlkQWpqYnlDSFF2VFFfa1c0bHZILUhJQjNIRVlkaHJQYWxUdDJGdTJLNUFmV01Gb0I1dE9ULUwxSXFWa0RVM0VjMm16d1ZVZWFidkpxWTBkdXQ4Vmc4c19LaXB5NjBEYWVMN3U?oc=5",
-   "published": "2026-11-14T04:38:37+00:00",
-   "id": "9584c6370589",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Escalade tarifaire contre le Mexique, source de pressions stagflationnistes favorables à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|496b661db1f7": 1792974686.525488,
   "news|f61baee91f0a": 1792976497.580523,
   "news|c0f8d9b6d301": 1792977364.2913685,
   "news|34e352aae0bb": 1792979167.7945058,
@@ -8278,7 +8277,11 @@
   "news|da3fbd4630c7": 1794777372.9556391,
   "news|5c85c75cb116": 1794777375.7402086,
   "news|859536b8189f": 1794777376.72543,
-  "cyc_fail|2026-11-16/2026-11-22": 1794787358.9326737
+  "cyc_fail|2026-11-16/2026-11-22": 1794787358.9326737,
+  "news|37e2171bdc81": 1794789085.4233532,
+  "brk|EURUSD|pwh|dn|2026-11-16/2026-11-22": 1794789086.4486873,
+  "brk|EURUSD|h20|dn|2026-11-16/2026-11-22": 1794789087.2250621,
+  "brk|EURUSD|h250|dn|2026-11-16/2026-11-22": 1794789088.003075
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8702,6 +8705,26 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T00:31:28.003150+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 1 AN\nNiveau : 1.10266 → prix : <b>1.10241</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.12 | 60j -0.14"
+  },
+  {
+   "ts": "2026-11-16T00:31:27.225154+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas sur 20 JOURS\nNiveau : 1.10266 → prix : <b>1.10241</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.12 | 60j -0.14"
+  },
+  {
+   "ts": "2026-11-16T00:31:26.448749+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>EUR/USD</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 1.10266 → prix : <b>1.10241</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.12 | 60j -0.14"
+  },
+  {
+   "ts": "2026-11-16T00:31:25.423438+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns its response to any new attack ‘will not be limited or short-lived’</b>\n📰 Anadolu Ajansı · Dim 15/11 15:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2RiekM1T0x5ZGU0cXdjMWNkb1dxV29ENHA1QWhCbmtNQnR1ZnVja1hiX0tZWlVoMkpDODRKRnFCS05ZMGhTSnVFdmYyU3lJTHE4LTYweXJwRkg3T3Nqc1h2UzdWSi1sMUhRVGoxSlhBdmZZRTRRRGZPQXJUN3lfVkV1dVhRZjBjSW0wOUszWUlRcW9mUmc5RUttUnpqekZJSmlKTnBTWFQ0bEZjSGx5elk5elRtQUo3WTVCcTV5RQ?oc=5"
+  },
+  {
    "ts": "2026-11-16T00:02:38.932721+00:00",
    "kind": "cycle",
    "text": "⚠️ <b>CYCLE HEBDO : PAS D'INVERSION CETTE SEMAINE</b>\nPhase 2 (jeu→ven) : lun→mer = -73.8$, depuis mercredi -97.4$ → le pattern ÉCHOUE (continuation) ⚠️\nLe marché continue dans le sens lun→mer — ne pas forcer le contre-trend."
@@ -8980,26 +9003,6 @@
    "ts": "2026-11-15T08:19:36.259758+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Military Intelligence : Hezbollah highly likely to join if war with Iran resumes</b>\n📰 israelnationalnews.com · Dim 15/11 08:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.israelnationalnews.com/news/436212"
-  },
-  {
-   "ts": "2026-11-15T06:46:13.982924+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-15T06:46:11.078654+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Arthur Hayes Says Fed Rate Hikes Will Prompt Wealthy Investors To Buy More Bitcoin, Real Estate, Watches And Wine</b>\n📰 TradingView · Dim 15/11 07:15\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPbE5ZbG42Zkl6RHR6Z29IS3RxSjQtdFJTRDdMd3FtalhvZXpRMUdiY2x5Y0pxTFF1Q0xsZHVJV2xKbk5nR0ZZNkdiQWlHcUdNR2YzT0docEQydEFsZDFiVkh2QXlfM19iaU9sVENtcTBGd1dUVUt5cEg0SndqWGt3eDlDRVEwd2tnSlFGR3k4dXhHMjRyWmRaV05xUTBlTGJaZG5DX1hDVEVEXzBIMTlIWVdORVF5WExIMlFWYjNvVnQwMmJzczUxNm42YnVnV0t4elVBQ3lGU3duenBHcGhHbVpqU2ZaWHlocDR1MVpQZWtZNEVYSkt3b1pfUWVYMGhab2c?oc=5"
-  },
-  {
-   "ts": "2026-11-15T06:16:07.820429+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel's defense establishment sees no urgent need to strike Iran until new gov't formed - report</b>\n📰 The Jerusalem Post · Dim 15/11 07:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSkdqMjRWeXlLVzV0NllGeDdnM3k0bTJRaFg5cEMyUjh2VzR1eGFzbWo1cDdpbUY1T3A1RW1Ua3NHWkhXZDdkR0k4VTRtLWU0bWRVVDBSYjBLNTVWWjBWeURfLWdoTzdhNF9FU3RR?oc=5"
-  },
-  {
-   "ts": "2026-11-15T05:49:10.280004+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Inside discouraging October inflation report as rate spikes amid raging Iran war</b>\n📰 AOL.com · Sam 14/11 09:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOUEs1MzlWa1dzZG01ZEFTNXFYZjdhb25ZdXJVUS03LVdNUHRYMjQxUFVZS1ZadDZ1aGFpMjg1NHNXOG5uakpWWG5aRFRvMlpxdEZWZ2Zvc291VWNCSGxhbWNWVm5XaWNQbWl3WkczVHVucHBDTnYxck81S2JkaUtPaHRkV2FZekdCVnY3RUl6LXptUQ?oc=5"
   }
  ],
  "daily_forecast": {
