@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794866476.4141214,
+   "ts": 1794870950.0775375,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "2a741ed71064",
-  "53911a8dff37",
-  "c3acfe190795",
   "f87618c7b642",
   "3aca01dbffe4",
   "de607e7a49aa",
@@ -4220,7 +4217,10 @@
   "a8f201772353",
   "5e86a8269cf7",
   "c9e6a42e03a8",
-  "931e1cf9230a"
+  "931e1cf9230a",
+  "e381b6a58d00",
+  "963a285b30fd",
+  "4a9c9cac5a9a"
  ],
  "news": [
   {
@@ -8369,7 +8369,8 @@
   "news|842b5299a0f3": 1794868287.1534321,
   "pre15m|2026-11-16T18:10:00-05:00": 1794869176.8475416,
   "news|df2fc7121cbe": 1794870114.7466779,
-  "news|931e1cf9230a": 1794870115.636251
+  "news|931e1cf9230a": 1794870115.636251,
+  "pre15m|2026-11-16T18:30:00-05:00": 1794870985.7851453
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8809,6 +8810,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T23:16:25.785207+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-16T23:01:55.636445+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on - ABC News</b>\n📰 Breaking News, Latest News and Videos · Lun 16/11 16:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzUxYW1DQXFGR3RsYThFQ3UxMmhQZTIwNG44ZHI1VENmWWNLYjN4Rm5QWTVpY1Rpa2JHX0ZrTHgzaEFldnFXeXVqbk9YajVmdk1tZTQ2bkNSZksxNmtGYk0tQ20zeFg1UVVqUGlReVhUMFRnV3RXTVc2TmR1VTZXNmRMTFlqQUZOMlVITTlQaXowUVl2UkHSAZsBQVVfeXFMTTJ5Y050Vm52ZWFjTkhvQzd2eHpxMm9FbXVSVU9KOXp5eXJYQzBDbnFXdVh1MS1iWXVRQ2RUemJqdVNIa2FHakozaW1rTHh5dldHeF9hU1p3SmNYRFVUSW4zTHBpUmoxTWFFS0VTSDdOZVhTWUJ6aTN3UnFWN2d3SndMb3lKRmhUWExBZGQxQzIxdmdERElvd0xJbm8?oc=5"
@@ -9102,11 +9108,6 @@
    "ts": "2026-11-16T13:01:46.042324+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3873.20</b>  (+31.6$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-49) → maintenant -45 (FORTEMENT BAISSIER)\n✅ Le scénario baissier TIENT\n📏 Range fait : 69$ sur ~101$ attendus (68%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>15:05</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:00</b> 🇺🇸 Fed Chairman Warsh Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:15</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) PTV. . #PTVNewsNow | Brazilian President Lula da Silva defends multilateralism amid rising U.S. tariffs and Trump’s political retaliation\n🟢 (+8) Trump heads to Asia for high-stakes Xi talks as Iran tensions escalate\n🟢 (+6) EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say\n🔴 (-5) Gold below US$4,000: Market bets on Fed rate hike"
-  },
-  {
-   "ts": "2026-11-16T13:01:40.483591+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>PTV. . #PTVNewsNow | Brazilian President Lula da Silva defends multilateralism amid rising U.S. tariffs and Trump’s political retaliation</b>\n📰 Facebook · Lun 16/11 13:20\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMXd3bW5URVlicVhRbDZ2UWN1UzQ0TmJFQlN6N2NkQWJmSjRER0k0RS1sV0t6OG5sUzRqZFBzRzlMekFLVWQxZWZJUmFuX0ctQ2JBeGhqUmNpVlhPVm1RZlJvcG52S2wwb0RnMlN2dXJ4Q0xpS0xQYTFJcnF4eXZRaGduUGxTTHdoSGl2bllOT0dGa2Y3UXRsbE9IZEJFbG55UU1jb0RkNlA5VGF5Mmh6LXBhOXZUbC1sMXNIbVFodXBEX1ZMWmlPUDd1UTVVUTRkN3c?oc=5"
   }
  ],
  "daily_forecast": {
