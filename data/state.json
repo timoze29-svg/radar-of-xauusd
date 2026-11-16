@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794773757.1231108,
+   "ts": 1794796262.290819,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794791754.3456798,
+   "ts": 1794796262.3886445,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -674,6 +674,17 @@
      "country": "USD",
      "impact": "High",
      "date": "2026-11-16T12:00:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Hammack Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-16T14:15:00-05:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -1166,8 +1177,6 @@
   }
  },
  "seen_news": [
-  "261bd99b0ebe",
-  "25405996a9dd",
   "e6a4c96f3559",
   "b4ef1a4d3732",
   "67ccc68f1084",
@@ -4165,7 +4174,9 @@
   "fdbf74f2b72a",
   "84a2bf669cdb",
   "c3c60a9fe68f",
-  "48317bdd45e7"
+  "48317bdd45e7",
+  "eb31e09a8d4f",
+  "27c6a53ddbf7"
  ],
  "news": [
   {
