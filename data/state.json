@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794839483.7772396,
+   "ts": 1794861964.8075392,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794857483.5707102,
+   "ts": 1794861965.158367,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -685,6 +685,28 @@
      "country": "USD",
      "impact": "Low",
      "date": "2026-11-16T14:15:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Barkin Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-16T18:10:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Goolsbee Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-16T18:30:00-05:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -872,6 +894,17 @@
      "country": "USD",
      "impact": "Low",
      "date": "2026-11-19T08:50:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
+    },
+    {
+     "title": "FOMC Member Jefferson Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-19T09:25:00-05:00",
      "forecast": "",
      "previous": "",
      "actual": "",
@@ -1177,9 +1210,6 @@
   }
  },
  "seen_news": [
-  "729becd7d8f2",
-  "d37ddf20a1c4",
-  "e2641461b4c7",
   "557e6bbbe4ce",
   "649bf9c89256",
   "292b2e2c0358",
@@ -4176,7 +4206,10 @@
   "841b1c266165",
   "15bcb77bc778",
   "e1b94bed0f7c",
-  "4925ae115258"
+  "4925ae115258",
+  "3ecb9d115b01",
+  "dd2b74b89275",
+  "48284c1a6dd9"
  ],
  "news": [
   {
@@ -4201,6 +4234,30 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Saudi, Qatari foreign ministers discuss efforts to de-escalate regional tensions",
+   "source": "Middle East Eye",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0hvZW1GdDdyVTVka0tKVTZaUmRVWlIybkx0bTlQOGNSOTRQTWNRNnJDMV9oOUt2Y1p1Sk5JaUlydDBMOThKemw3bzF4a3p1VmNzUmM0bjgtV2VBUTQxb0FGelUwTDRDdXBqWDZPOUprMHowT0xWeG81RzBaTWlZSHUySGVGOFEzbkVjclpyVUIxTU9LbUJ2UTVDQU5sUF84S1EzZDdPTEE5RVAtY1RqaEp6Ym9yaHdZSGxZZEV4Z19HQQ?oc=5",
+   "published": "2026-11-16T19:58:00+00:00",
+   "id": "48284c1a6dd9",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Tells Reporter to ‘Be Careful’ When Asked About Iranian Drone Attack",
+   "source": "People.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkdYN2VNM2Fxdzk4aVVXclItTUZMa3MzOUZPMVdENTZac0JxOGQtQVRqWFlYanBDS3lEMm1LY3VTUHA4NTNOV1ZRVkR4ZXg5N25rN0JSM1pfaE1hVG9rZk5XOWZEOE1qVnBJdU05aFZieGpILTNqMkJKUGlvRWhoOW90M2JaWUZucDF6ck5MbDR2YXlIbU5oelEyeGhkZlJYd0IyWl9CZzV6ZzRKNmpOalZKWQ?oc=5",
+   "published": "2026-11-16T19:16:08+00:00",
+   "id": "3ecb9d115b01",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6554,35 +6611,9 @@
    "cat": "géopolitique",
    "raison": "Échec des pourparlers et frappes continues maintenant le statut d'actif refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock",
-   "source": "Radio Free Europe/Radio Liberty",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmFQTk0wbmE3QWFxcXB1NDBaTklta0FiWGVtTzY4TXp3N2VEaG9ZYUZmS0tWeFhzajZJOURYQUdGdTEzVzZwb21QbS1QbURHNFEzUUJxNGNaSTNiQ1UtS29EanRqd3FKNEtITjk2Q1dCeGRCcDNPSjFfYnF0dVMxVlh2QXRNbzB5VXlr0gGOAUFVX3lxTE9Hcm5zRjdZX3c3dzVDQmdlRXdLTWtLNVBhS0xTUDVWQ19YZTZPUXlFQi1zTGxoWTJoem96Si1tY2JCXzAydUs4c3hqamNwUEdBVldYS0NNWjRfQXBrTmpSRW15cm9RWFBXcHBjSVo4Q291b2U1NEplaFZfRUhrazJNR0Jwd2tQdkVjbE5McHc?oc=5",
-   "published": "2026-11-15T15:00:27+00:00",
-   "id": "ac047c6f63a7",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Impasse diplomatique persistante en Ukraine soutenant modérément la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "US estimates Iran has up to 2,500 ballistic missiles, or more",
-   "source": "The New Arab",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtfVnU2U2NZa2NTOWkzS1pyLWFRcWxRMDlVR2c1Mk5JbEhuMkJ1eVVTLTJpc09SdUJmaVZUX0dGYW5sOEFpeHgwWG45Ny04TFRsdEt5cGFqalBRbWFPbGljdkhWLVRKdUlRNkNwYXFoTG91MEJISUJBdkFaWkItQ1dld2s4UVUyeWc?oc=5",
-   "published": "2026-11-15T14:59:34+00:00",
-   "id": "6e812267f444",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|6c1c53a318bc": 1793045950.4236977,
-  "news|869dcc4e51fe": 1793047579.0396137,
   "news|3fa64dedc7ae": 1793048509.1809385,
   "rep|recap|2026-10-26": 1793048511.5021026,
   "news|912e858b99ba": 1793051167.3896408,
@@ -8322,7 +8353,8 @@
   "news|a51f0e3fda09": 1794858387.2091625,
   "news|e06e650ed05f": 1794858388.2024517,
   "post|2026-11-16T14:15:00-05:00": 1794858389.4019144,
-  "news|964e72e99584": 1794860105.8630147
+  "news|964e72e99584": 1794860105.8630147,
+  "news|3ecb9d115b01": 1794862102.1950126
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8762,6 +8794,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T20:48:22.195102+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Tells Reporter to ‘Be Careful’ When Asked About Iranian Drone Attack</b>\n📰 People.com · Lun 16/11 20:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkdYN2VNM2Fxdzk4aVVXclItTUZMa3MzOUZPMVdENTZac0JxOGQtQVRqWFlYanBDS3lEMm1LY3VTUHA4NTNOV1ZRVkR4ZXg5N25rN0JSM1pfaE1hVG9rZk5XOWZEOE1qVnBJdU05aFZieGpILTNqMkJKUGlvRWhoOW90M2JaWUZucDF6ck5MbDR2YXlIbU5oelEyeGhkZlJYd0IyWl9CZzV6ZzRKNmpOalZKWQ?oc=5"
+  },
+  {
    "ts": "2026-11-16T20:15:05.863085+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel strikes deep inside Lebanon after prolonged restraint at U.S. request</b>\n📰 Haaretz · Lun 16/11 21:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQNUdzYVIycndKMjRzMTNqZjF0LWFVdTY2eTdndkVQak1iaTdPMGhZcXJPVFV5R0tOQm9CWEZOUWtieWtQd0YzVjVxenF0YjJIWVhHS3NPenBfa2REMUxyRGs3TTZCcUxBVmZZeDc5dVE3ZTJ3VlcxckVNa1FQdVBFTlQwUGJkOFh0WmxiclVpb2hVSk9lelE1akNIaTl1MlhvcExUZXI4aDVaRzF5YmdVcEZKMjVpdVZIQkxSaV90UmRjeUt3YVhUZDdDRmdHZ296azhhUWw0d1ZCNDk1SGFFZFpUQkJ5WlhvbUYtLU5pYm9QYWdLVzJ3LWRfVURTUGhYYkNhRXdSQkdBRUtBZE02SVVDTzNKcGZ6Si1MUnpZcFozdw?oc=5"
@@ -9055,11 +9092,6 @@
    "ts": "2026-11-16T08:52:14.985228+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US-Israel-Iran War Latest News: Iran Raises Stakes With Bahrain Drone Attacks, Threatens Gulf States Against ‘Reopening Old Wounds’ Amid Escalating Regional Tensions</b>\n📰 The Sunday Guardian · Dim 15/11 17:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxQaVJrWmFGLThLQ2ppOVdyb0JpaEJlajFmWUpLODhFSlYwSVhtaEs1UWExTEprLUFkR1hlVFFyYTdSYUhPZzBydEQ3a2VjWV95QU9qbDVuZjBSdFVvSmMtWVk1RDBZQW93Uk1GdU9qZmVYYUNsdkZ0SFVFMGRTZjdZZmNPZUhVaDRuTFlZOUNKMUZQVmEyU0MteU92WjZad3JpdDR3QXNvRE5MVmJhcnI2OUdCX0pDbHNteUdpSTlBdVl4SjBEN3JaVTI0M2Nja1d6cHcwN2kwcTNkRmFrLWd1RkVXV19reDJ0TUJFdVcwOGJ2aS15b254ZnZ0MUNuTlczSldVM2FWck5va2k3XzRvNlpRREVSQktkeDZWdW9paTlJd2k1Nnh3cUFaZGhoRkXSAbQCQVVfeXFMUFdHdFBmSzBVZVlObzVaeU1iUXlkVmIwT21GMHBQV3NucUFGNWViY0x2UWFYc2dOZHJWMkduM0NXa283Z3FnT0NxZnhvbzdhaEZpSktQTGVfUXdFbGtJbG1VcXdock9MQUhPRzVTSjRKMjExV3Vnb25vLXBsOTZxRXVZN3g1WHhGNk80eXBxck5qQmM4QXdLaTBycDZKZGdLekUtRFVSZzhMUzFES1FfSnRCVXFlcDJlZWpxSDE1N0hkMUtaOEZUQnlaT2gtdnRJbmFWZEszVExuN0JTcUhtRWs2WlMtMkpfT0lVSm1xTTRGclZfVzlCSzhCZGFZR2FMODNkMVNvT1F0ZWRRQUdQWEdZTmFWTkhkWTRsaXR4UWk1ZmFhQWR1RDU0YkRFODFrUkI0RW4?oc=5"
-  },
-  {
-   "ts": "2026-11-16T08:52:14.141461+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Will find you : Iran threatens 2 US Navy officers who  ordered  Minab school strike</b>\n📰 tribuneindia.com · Lun 16/11 09:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.tribuneindia.com/news/world/well-find-you-iran-threatens-two-us-navy-officers-for-minab-school-strike/"
   }
  ],
  "daily_forecast": {
