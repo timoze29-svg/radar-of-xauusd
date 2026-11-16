@@ -1177,11 +1177,6 @@
   }
  },
  "seen_news": [
-  "e932332022ab",
-  "54a5d4238b55",
-  "1c19211db2b4",
-  "a67d6e8398ef",
-  "2519df5de6d6",
   "8d3b703f7ad6",
   "9a936148390e",
   "64678be90046",
@@ -4176,7 +4171,12 @@
   "0d22b94a9813",
   "f0f82cc58b28",
   "546b0bd310fc",
-  "925624df56f5"
+  "925624df56f5",
+  "5f41a2185bb9",
+  "6e812267f444",
+  "c2afdf119d90",
+  "1d70295f70e1",
+  "0f117d5b1bd0"
  ],
  "news": [
   {
@@ -5740,6 +5740,18 @@
    "method": "IA"
   },
   {
+   "title": "US estimates Iran has up to 2,500 ballistic missiles, or more",
+   "source": "The New Arab",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtfVnU2U2NZa2NTOWkzS1pyLWFRcWxRMDlVR2c1Mk5JbEhuMkJ1eVVTLTJpc09SdUJmaVZUX0dGYW5sOEFpeHgwWG45Ny04TFRsdEt5cGFqalBRbWFPbGljdkhWLVRKdUlRNkNwYXFoTG91MEJISUJBdkFaWkItQ1dld2s4UVUyeWc?oc=5",
+   "published": "2026-11-15T14:59:34+00:00",
+   "id": "6e812267f444",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "FM, Kuwaiti Crown Prince Discuss Bilateral Ties, Regional De-escalation",
    "source": "Sada Elbalad English",
    "theme": "Moyen-Orient",
@@ -6566,32 +6578,9 @@
    "cat": "banques centrales",
    "raison": "Achats officiels et appétit institutionnel en ETF renforçant directement la demande physique.",
    "method": "IA"
-  },
-  {
-   "title": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise",
-   "source": "Gulf News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFE2Z1ZqR1R2Mm4yal9HbE4zVWlzdTlkbVVwRHhBM3d0Z3laYUk3ekZ4VXJhLXUySEl0QndzRWlweFRERmFZMjNxQnZUaVY3YUZIYjZBbWdaa0F3ay12VUllRTYzc1JGOTJNbzA0bEtGOGxzTGpVM29wV3RmNzU3X0xXU1luN2tTNkpySzBYdjI1cWNyR3Jfc0d2dzVBWlhndE5BX0VzUnplZmVqVDRtUWlwMU9pUWhqZnJKUHc1MWhMWV9W0gHUAUFVX3lxTE8tTjFYYnBBX2ZQMkw3RnNJZGdSSkpvRkI1ZGZIZGNKX0hWRzhqbzI1STlyYWZ5WDJCcXdjSWhYV0pZcl90NHFHR1VEVU9SdVVBMnI5ZUJyWXoxTlE5T1NTcjBYQUN6cl8wdVlpNm11ajBGaDVvajd4Ym1HcThWVkRmQklWemdKODVQTUlxNGZ5aTByZzZJdFc1NndZeXhkcmpEZllNSV95QkZJWFJDckxrMHdMV1haWG50bEYxNDdVWGp6N1hJTVdYNTVRVHY1ZmhNdXBM?oc=5",
-   "published": "2026-11-15T05:51:40+00:00",
-   "id": "46b58cc48526",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Interceptions de missiles dans le Golfe renforçant brutalement la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|fa289321caff": 1793011747.8358932,
-  "news|60fa83bedff7": 1793012392.1484873,
-  "brk|DXY|pdh|up|2026-10-26": 1793012393.3097444,
-  "news|d43f151c1cbc": 1793014464.5215456,
-  "news|b4ed6703a793": 1793014465.3406932,
-  "news|a72263ac152e": 1793015169.9401078,
-  "news|85fc65505520": 1793015170.9384859,
-  "news|c75b002c821f": 1793016105.0674076,
-  "news|3994eec07f78": 1793016105.9874814,
-  "news|8c56acbecb42": 1793016106.8797972,
-  "news|bbbdd8bd4714": 1793016965.5055602,
   "news|93d5eb8b51c5": 1793018339.7565331,
   "news|6d6b601f2b8b": 1793019888.6878493,
   "news|62423b65fb9a": 1793019889.5723267,
@@ -8314,7 +8303,8 @@
   "pre15m|2026-11-16T05:00:00-05:00": 1794822740.7336745,
   "news|837884a5c1a9": 1794823323.1535125,
   "post|2026-11-16T05:00:00-05:00": 1794824529.9850976,
-  "news|a188dd26bf6f": 1794825108.9865758
+  "news|a188dd26bf6f": 1794825108.9865758,
+  "news|6e812267f444": 1794832475.262309
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8754,6 +8744,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T12:34:35.262382+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US estimates Iran has up to 2,500 ballistic missiles, or more</b>\n📰 The New Arab · Dim 15/11 15:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtfVnU2U2NZa2NTOWkzS1pyLWFRcWxRMDlVR2c1Mk5JbEhuMkJ1eVVTLTJpc09SdUJmaVZUX0dGYW5sOEFpeHgwWG45Ny04TFRsdEt5cGFqalBRbWFPbGljdkhWLVRKdUlRNkNwYXFoTG91MEJISUJBdkFaWkItQ1dld2s4UVUyeWc?oc=5"
+  },
+  {
    "ts": "2026-11-16T10:31:48.986653+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold hits over one-year low on resilient dollar as hawkish Fed bets build</b>\n📰 Reuters · Lun 16/11 02:25\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5"
@@ -9047,11 +9042,6 @@
    "ts": "2026-11-15T21:48:27.613721+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -41)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-15T21:16:17.916638+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
   }
  ],
  "daily_forecast": {
