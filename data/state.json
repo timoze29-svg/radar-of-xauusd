@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794799869.2156353,
+   "ts": 1794803481.1211674,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1177,9 +1177,6 @@
   }
  },
  "seen_news": [
-  "8795c360494f",
-  "033a5f9aa92b",
-  "53806d37ae6d",
   "b685e3765251",
   "6dbf215f63a1",
   "33a40a7794a9",
@@ -4176,7 +4173,10 @@
   "773cf420caca",
   "6382d448e7ff",
   "4c4991da08df",
-  "e18a8559c080"
+  "e18a8559c080",
+  "4cee838a6bf6",
+  "8017a74607fe",
+  "c79d95d84731"
  ],
  "news": [
   {
@@ -4198,6 +4198,18 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVjFWWUFUbjZYX3l3M0hZcEJIX3kwMHpqQWZqT2tDd0kxeXY0blFlWE1RNEZzQkgyR2JYRzlmNEJEQXp5c3VIeUhLZGNTQmJvNXpUZ2M2SGk0Zmx5NWNSRUNyZnVSWWE0WGExZ1BLenp4dzZLZTh0aUxSd2h1LXg2aTVKYkt4bzk2Q2hvSEUzblFKVHN4YkFSMDN4NV9RdXcxMmJsMWhTT1NmVVVZczV3aURsQVpjdXVQN2Z0RjVxd2lQU0dJN0JPZExWR1d5YVhNN3h2Vkx1YUNTQWJpaldLSnFTbFZBZw?oc=5",
    "published": "2026-11-16T04:09:36+00:00",
    "id": "d539aeb17a50",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold hangs near YTD low as Fed rate hike bets and Middle East tensions support USD",
+   "source": "FXStreet",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSUVwQV9lbWNEVnc1X0d5ZVZsbEdqdTN1SmVKQVBuVXp0dW9KNlZXaGZ1MmliUE4yVG5OZ3R5YkNhY24zR2drSjJoT0lucm93NTVtRHhhUHlEUVFLNkE0eUgzLTJXd2lFYU9sVU92Q21tS2Q4MVIwZVB5ZWg3REpody1OMnRNSGctZ1llOEdsWTNaZ1NfT3QxNnNjVFc0andWSWdWZEM5akhHM0FueU52MXcxZlpleU8tYmc2TE1GOHNrSGM?oc=5",
+   "published": "2026-11-16T04:04:15+00:00",
+   "id": "4cee838a6bf6",
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
@@ -6566,18 +6578,6 @@
    "cat": "géopolitique",
    "raison": "Retrait des menaces d'attaques imminentes diminuant la tension haussière sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Warns Against New Escalation by US and Allies",
-   "source": "EnergyNow",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWJYTFI0TFNwSVF3NVhpUWtqejRtdDNmcVZVV2NlWTR5VHVKN1E3aVREcnMyQmt2X0N5d05wVm1UbWdsbG80QmJLMG1YaFRybU5fSE91WFFmSFY3OEdQWmdpVWdKaHNxQmNoRkNSUE81aG1tTmVidHRBWUctX2R2cVc5akQyaU0?oc=5",
-   "published": "2026-11-14T13:32:59+00:00",
-   "id": "45e928e5268d",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Mises en garde iraniennes maintenant la prime de risque géopolitique élevée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8297,7 +8297,8 @@
   "news|1125df8e0790": 1794798282.2569835,
   "news|d539aeb17a50": 1794802569.8168106,
   "news|7bdac87376a1": 1794802572.45694,
-  "news|773cf420caca": 1794802573.2119582
+  "news|773cf420caca": 1794802573.2119582,
+  "news|4cee838a6bf6": 1794803502.7662146
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8721,6 +8722,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-16T04:31:42.766293+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold hangs near YTD low as Fed rate hike bets and Middle East tensions support USD</b>\n📰 FXStreet · Lun 16/11 05:04\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSUVwQV9lbWNEVnc1X0d5ZVZsbEdqdTN1SmVKQVBuVXp0dW9KNlZXaGZ1MmliUE4yVG5OZ3R5YkNhY24zR2drSjJoT0lucm93NTVtRHhhUHlEUVFLNkE0eUgzLTJXd2lFYU9sVU92Q21tS2Q4MVIwZVB5ZWg3REpody1OMnRNSGctZ1llOEdsWTNaZ1NfT3QxNnNjVFc0andWSWdWZEM5akhHM0FueU52MXcxZlpleU8tYmc2TE1GOHNrSGM?oc=5"
+  },
+  {
    "ts": "2026-11-16T04:16:13.212200+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel warns US of alleged Iranian plot to attack President Trump</b>\n📰 Fox News · Dim 15/11 23:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wR3k5WDZsN20xRWFvN0w3MlY1SDZCVmYwQkJlQ3RUMEE2d3RpSnVnaHVkdkh1VTNBSFdKUDUxaWU4ZXpoVXh6SGRhU19xV00zSW1jRnZR?oc=5"
@@ -9014,11 +9020,6 @@
    "ts": "2026-11-15T11:22:19.365922+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-14), Taux US 10 ans (5j) (-12)"
-  },
-  {
-   "ts": "2026-11-15T11:22:16.233686+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Yemen escalation widens as coalition intercepts missiles toward Riyadh</b>\n📰 سانا · Dim 15/11 11:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KZVJqMVFOOW9VTUo0VXVKSXVxN01MZnZHRE5EckJhTkJzaFI0NUt1Nm03YTllNHYwMVZRVmEyaVpDWDdGS0NfdXU1dDRiVzBP?oc=5"
   }
  ],
  "daily_forecast": {
