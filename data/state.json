@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "0fafd9026bb2",
-  "dcc47a4e99e9",
-  "c153ae248581",
   "9235fe5c3e8b",
   "6987c8e95285",
   "c0edb73b3d86",
@@ -4220,7 +4217,10 @@
   "9cd92ea667e3",
   "e7d2ec0d236b",
   "b6d40bb6df33",
-  "943aa2224abe"
+  "943aa2224abe",
+  "8d906c9472ff",
+  "711277df66d2",
+  "0a592b2464dc"
  ],
  "news": [
   {
@@ -4230,6 +4230,18 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXNqYXI2TmhqbGYxcXZTc3h0RHpYTVdOYmRZM0t1azBVNkg0T3daSE84VUp5N0xseTM1Rjl2Mlk4QWpSY2gxYTlHSGxRNDhLTE5JaG1TbEtIU2tRa2VFTXhOMGxERU9jR2I1RC1GRmtkS05iS2JwZ1hqeUI5bVVTT0xfMDkxeXl0WExnTEtMTmh5WUNJeUotU19KajNyRlUwLUFoWkNGdVhkcEs1UFl2eHB1UVZQSGVHVmlfY1dnOHBObFp3dkc3ZWNrOG9XdnM?oc=5",
    "published": "2026-11-16T23:52:45+00:00",
    "id": "943aa2224abe",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Vance claims Iran won’t be a ‘forever war’ even as Trump sends third aircraft carrier to Middle East",
+   "source": "The Independent",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXNTTktEQ0VhSGZPZnk1RGl6SVFDMkNDMGdEbzBUTUpjNENQYk9iSE5nT21BdWpPenZONjdRbVUyaFhMaUFzLV9WZE4ybHE2NVplMlJpbGpHZGdmU0JnMV9WeHRfUnlDNlZEMzlFRC11bEktd1pIVmlyeUNCczk4SnhWallXa1lTVV9sejdKQVR3RlN2VWlTRHNiV1BFdlRKTDk1cE9WZ1IwVS1yZUxONFBWc0d6UnF5WURneXd0ZGpPLVFxSmNB?oc=5",
+   "published": "2026-11-16T23:37:00+00:00",
+   "id": "711277df66d2",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Légère prime de risque géopolitique liée à l'Iran, sans impact macroéconomique immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
-   "source": "New York Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlB1SEVVNFVLT3JzZ2p0Z1h2UU5SWi1ZSkRheVNtZHVqWUcySFl3VXFDdV84WnBNUlJWOFMzMm1yYTE5TGJGbXl0aWJOMU9saVJybHJGa2xGdHFYTkExY1R5ZGw1NlpQU3N2WFVyZ2sxaHhjeWd4cl9yQzc5T0U0WjMzMWNJWlBTU0h3dzJ5d2s0cTRGUVptMmFId1JVRUhPX3hxaA?oc=5",
-   "published": "2026-11-15T21:05:00+00:00",
-   "id": "da3fbd4630c7",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes autour d'Ormuz soutenant la prime de risque géopolitique sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8376,7 +8376,8 @@
   "post|2026-11-16T18:30:00-05:00": 1794873793.7639158,
   "news|b6d40bb6df33": 1794874762.1460292,
   "news|9cd92ea667e3": 1794874762.9532344,
-  "news|943aa2224abe": 1794875507.2962606
+  "news|943aa2224abe": 1794875507.2962606,
+  "news|711277df66d2": 1794876559.7545705
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8816,6 +8817,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T00:49:19.754650+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance claims Iran won’t be a ‘forever war’ even as Trump sends third aircraft carrier to Middle East</b>\n📰 The Independent · Mar 17/11 00:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXNTTktEQ0VhSGZPZnk1RGl6SVFDMkNDMGdEbzBUTUpjNENQYk9iSE5nT21BdWpPenZONjdRbVUyaFhMaUFzLV9WZE4ybHE2NVplMlJpbGpHZGdmU0JnMV9WeHRfUnlDNlZEMzlFRC11bEktd1pIVmlyeUNCczk4SnhWallXa1lTVV9sejdKQVR3RlN2VWlTRHNiV1BFdlRKTDk1cE9WZ1IwVS1yZUxONFBWc0d6UnF5WURneXd0ZGpPLVFxSmNB?oc=5"
+  },
+  {
    "ts": "2026-11-17T00:31:47.296351+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US intel said to indicate Iran is drawing up plans for potential ‘dirty bomb’ attack in DC</b>\n📰 The Times of Israel · Mar 17/11 00:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXNqYXI2TmhqbGYxcXZTc3h0RHpYTVdOYmRZM0t1azBVNkg0T3daSE84VUp5N0xseTM1Rjl2Mlk4QWpSY2gxYTlHSGxRNDhLTE5JaG1TbEtIU2tRa2VFTXhOMGxERU9jR2I1RC1GRmtkS05iS2JwZ1hqeUI5bVVTT0xfMDkxeXl0WExnTEtMTmh5WUNJeUotU19KajNyRlUwLUFoWkNGdVhkcEs1UFl2eHB1UVZQSGVHVmlfY1dnOHBObFp3dkc3ZWNrOG9XdnM?oc=5"
@@ -9109,11 +9115,6 @@
    "ts": "2026-11-16T14:46:20.853607+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump's 'praying soldiers' video raises eyebrows over AI and Iran War timing</b>\n📰 AOL.com · Lun 16/11 15:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3hJWW9ibjZwb2xBTXhYVzhRQm40N0hYdG1UVHlEd3FkOTRmNDI4RG5IUkNMMTFCRUgwY0JpdXVlSWpCdm0xakY0YVVnUHVzVkxzMmswLUtXZ2JhcEgtdlZwVE5nRWIzd0c3cGJtZTBCTml3d19STldJWS1aTzRWUzlDQ2ItbXc?oc=5"
-  },
-  {
-   "ts": "2026-11-16T14:31:45.480175+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 26 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans -0.6 pb\nOr +3.9$ (extrême +4.7$, range 5.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
