@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794928552.531175,
+   "ts": 1794951069.3490272,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.91,
-     "date": "2026-11-13",
-     "chg5": 0.31,
-     "chg20": 0.13,
+     "last": 2.92,
+     "date": "2026-11-16",
+     "chg5": 0.29,
+     "chg20": 0.18,
      "hist": [
-      2.16,
       2.1,
       2.09,
       2.06,
@@ -129,7 +128,8 @@
       2.66,
       2.78,
       2.86,
-      2.91
+      2.91,
+      2.92
      ],
      "gold_rel": -1
     },
@@ -265,12 +265,11 @@
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.88,
-     "date": "2026-11-13",
-     "chg5": 0.42,
-     "chg20": 0.11,
+     "last": 4.83,
+     "date": "2026-11-16",
+     "chg5": 0.32,
+     "chg20": 0.09,
      "hist": [
-      4.13,
       4.01,
       4.0,
       3.99,
@@ -389,14 +388,15 @@
       4.56,
       4.73,
       4.86,
-      4.88
+      4.88,
+      4.83
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -459,9 +459,9 @@
       3.63,
       3.63,
       3.63,
-      3.63,
-      3.63,
-      3.63,
+      3.88,
+      3.88,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794946572.5662966,
+   "ts": 1794951069.395048,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "a611b41fb0ec",
-  "3da2fdfb8ec8",
-  "99fba124b680",
   "f259b66bb24b",
   "fabf8d6b4ad6",
   "d4a7106b865f",
@@ -4220,7 +4217,10 @@
   "66572062f057",
   "23c6f95382c5",
   "1dae47de9390",
-  "6fc2422151fc"
+  "6fc2422151fc",
+  "af75165ad2d7",
+  "2d7d11675aa8",
+  "3f5d6596761c"
  ],
  "news": [
   {
@@ -4281,6 +4281,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain, and US retaliation",
+   "source": "AP News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5",
+   "published": "2026-11-17T20:06:00+00:00",
+   "id": "af75165ad2d7",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4494,6 +4506,18 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWlFISnJ0cmFwTW5TaU9PLWtob1NsQ1lYaGFjbGlKNkF0djFBNHEtSldHVVBZbGg2RVd4YmUteldTVE9JWWtFTkhzaHdQcWppRWo0LVNkaWplQWp6ejJMRkdxSjRobFBpRjRpRld1WGFLZXo3Q2JrX0drMHdHNUFfaXl1dkNNSE12TnB1T1l6V19EcU8zeF83SV94eTNTLUtQbERkem5JZ29vNlF2UGVlY3ZaOGlJUG8?oc=5",
    "published": "2026-11-17T17:29:10+00:00",
    "id": "e8b29239dd94",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "A two-month lull ends with Iran’s third strike on U.S. targets in Bahrain",
+   "source": "Los Angeles Times",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOERCeEwxcENOVGVodWpFZWZ6SHlHMU9DR2pfWmpoVllXV0gtYkRqY3RXVFZsRXpzajVzU01ILW5QSFF2MTZGUGVFcFV2MVRtdXdrUHM3cFR2b3BKY2VScG51SFBuRlkzSVIxRVEyQ3YxWGl0cUh5OEhwMWsyMVI5eWlGRkFoOFFzUEtGcjltVkZuSzJVYUVqU2JaNDRzSDdpWTJhcDAzcUpSeHREZWxHME1xaTJYNW5wZVAySXlteTU?oc=5",
+   "published": "2026-11-17T17:22:33+00:00",
+   "id": "2d7d11675aa8",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6598,36 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Attaque aérienne ukrainienne record marquant une nette escalade du conflit contre la Russie.",
    "method": "IA"
-  },
-  {
-   "title": "Diesel Falls Below $6 a Gallon, Easing Inflationary Pressure",
-   "source": "Bloomberg.com",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXVZTFNXYWhOWE1yWF9QVjBNMUlCU3ZTNTVqUjUzaXNYTVh2TnFrQUN2MXk1UHZReDFTa3lfSTlseXJNNTNfV2NCSjlRVXpKTDY5NDFXZjhvbTB0OHBtajhQSDdhY3dSSW1kdzJvcG85ZTdUWFhQRDU2c0IyLVQ3NmtFMUFONVRVanF1dTVJWmJIb3dlaUY2dm4zSkd1NDVCaGxnaUNBM1k1dUlLVUdYR2NEQQ?oc=5",
-   "published": "2026-11-16T16:59:37+00:00",
-   "id": "e1b94bed0f7c",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Recul des coûts énergétiques modérant l'inflation et la demande d'or comme couverture.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran Threatens Israel — But Is Afraid to Strike?",
-   "source": "TV7 Israel News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mempjMlk2VWotUHUxY1FTeC1nOGI0dW4yLUdJVURZWjV3akFXSkhEdFNuYWJnYlgzYjIxME1maVp4dUFxM0NBZ3dTZ2hSLWhDN3djVmlfbDM4b19vN3ExU2pVbzktTzFyYmhQZDRsRTc3dnlwZFU0?oc=5",
-   "published": "2026-11-16T16:33:01+00:00",
-   "id": "fb3ee8dcabb6",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Hésitation perçue de l'Iran apaisant temporairement les craintes d'escalade régionale incontrôlée.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "rep|recap|2026-10-27": 1793134902.4973404,
-  "news|00ea542c8450": 1793135774.5440943,
-  "news|98ce95918e84": 1793136682.8403087,
   "news|9ace014a4c6a": 1793137571.5455089,
   "news|f44e514a8620": 1793139548.379102,
   "news|ebe5783331a3": 1793139549.2280078,
@@ -8429,7 +8426,9 @@
   "news|e293012ecbdd": 1794948443.593544,
   "news|5b3505fcb278": 1794949297.475538,
   "news|2976efae1f8f": 1794949298.428807,
-  "rep|recap|2026-11-17": 1794949300.6074529
+  "rep|recap|2026-11-17": 1794949300.6074529,
+  "news|af75165ad2d7": 1794951458.964272,
+  "news|2d7d11675aa8": 1794951461.531175
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8885,6 +8884,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T21:37:41.531299+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>A two-month lull ends with Iran’s third strike on U.S. targets in Bahrain</b>\n📰 Los Angeles Times · Mar 17/11 18:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOERCeEwxcENOVGVodWpFZWZ6SHlHMU9DR2pfWmpoVllXV0gtYkRqY3RXVFZsRXpzajVzU01ILW5QSFF2MTZGUGVFcFV2MVRtdXdrUHM3cFR2b3BKY2VScG51SFBuRlkzSVIxRVEyQ3YxWGl0cUh5OEhwMWsyMVI5eWlGRkFoOFFzUEtGcjltVkZuSzJVYUVqU2JaNDRzSDdpWTJhcDAzcUpSeHREZWxHME1xaTJYNW5wZVAySXlteTU?oc=5"
+  },
+  {
+   "ts": "2026-11-17T21:37:38.964361+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>A 2-month lull ends with Iran’s third strike on US targets in Bahrain, and US retaliation</b>\n📰 AP News · Mar 17/11 21:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5"
+  },
+  {
    "ts": "2026-11-17T21:01:39.694237+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — MARDI 17/11</b>\nOr : <b>-10.9$</b> depuis minuit · plus haut 3894.0 (16h40) / plus bas 3839.2 (14h40) · range 55$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-45) à 3887.1 → maintenant 3848.6 (-38.5$)\nRange : 55$ réalisé vs ~92$ attendu (60%)\nNiveaux touchés : P, R1\n\n📈 <b>Fiabilité des prévisions</b> : 64% de bonnes directions (16 ✅ / 9 ❌ / 2 ➖ sur 27 jours)\n20 derniers jours : 67%  ·  ✅❌✅✅❌✅✅✅➖✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.08% · Taux 10 ans -1.8 pb · Pétrole +0.19% · EUR/USD +0.09% · S&P 500 -1.07% · Argent +0.32%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Russia and Ukraine escalate attacks\n🟢 (+10) Gold to hit $5,600/oz by 2028 as Fed rate cuts and central bank buying boost demand, says Goldman Sachs.\n🟢 (+10) Bahrain intercepts new Iranian attacks as Middle East tensions escalate\n🟢 (+10) Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate\n\n📅 <b>Demain (mercredi)</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Daly Speaks\n🔥 <b>19:35</b> 🇺🇸 FOMC Member Barr Speaks\n🔥 <b>20:00</b> 🇺🇸 FOMC Meeting Minutes\n🔥 <b>20:30</b> 🇺🇸 FOMC Member Williams Speaks\n🔥 <b>22:15</b> 🇺🇸 FOMC Member Kashkari Speaks"
@@ -9173,16 +9182,6 @@
    "ts": "2026-11-17T13:16:11.414182+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump responds to reported ‘dirty bomb’ threat from Iran: ‘They happen to be crazy’</b>\n📰 New York Post · Mar 17/11 13:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWZtZ3k0WW9DWnltM21xRVhZdnFCdTlYbDdCTU10aGdxa1dRVnAxeGo1MUVvODBsanNEZ0dlTXIzZ043ODR0RzE5dEtjZzlGMmpmbi1OdXUzVVFOLWVESThPVmFMZU1kekFBam84VmZKSUVLeGNtY25aM1dfa1J6d3VHOG1sRzl0VU9oUE1hdXhNUTl6SmpmdEdiclZPQ3ZVUmk0eUlGWGN5cVhRZmZKZTF1aGV5eGxX?oc=5"
-  },
-  {
-   "ts": "2026-11-17T13:16:10.497653+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington</b>\n📰 Reuters · Mar 17/11 14:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5"
-  },
-  {
-   "ts": "2026-11-17T13:02:51.916041+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:02</b>\nPrix : <b>3862.10</b>  (-25.0$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-45) → maintenant -42 (FORTEMENT BAISSIER)\n✅ Le scénario baissier TIENT\n📏 Range fait : 44$ sur ~92$ attendus (48%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:30</b> 🇺🇸 Core Retail Sales m/m (prév. 0.4%)\n    🔺 Au-dessus de 0.4% (économie plus forte que prévu) → moins de raisons de baisser les taux → dollar ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.4% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Retail Sales m/m (prév. 0.1%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Waller Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:30</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:25</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Bahrain intercepts new Iranian attacks as Middle East tensions escalate\n🟢 (+10) Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate\n🟢 (+8) EA on Express 24-7: Trump Camp’s “Limbo” in Its War on Iran\n🟢 (+8) Trump on dirty bomb report: ‘We take it very seriously’"
   }
  ],
  "daily_forecast": {
