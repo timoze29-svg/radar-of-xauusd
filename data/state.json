@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "2f745a792ea1",
-  "2bdb57f8364f",
-  "43111f1bb0da",
   "dc1b154367d4",
   "471e793c7885",
   "e4394383e068",
@@ -4220,7 +4217,10 @@
   "c329c75764c4",
   "90565dd83839",
   "431d6425fdd3",
-  "9922ef864215"
+  "9922ef864215",
+  "81f6e6d6310c",
+  "8d176cfceffd",
+  "85bae0471188"
  ],
  "news": [
   {
@@ -4266,6 +4266,18 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajFmR3VPczdHemhDbFZUazgteWN4azBBbUZKc3N6bWVzVGpXWTNRRXBDZW5kRk5LQ0tSemJSRVVqelowd25uX1FoT0xDVVdST3dhXzY0R1A5UkZiUGZqQUx1NUJBb3hkNzVZNWJ1YmVON1lHMDRJNEdxWkZIeTQtSncxbmNYQnhtMms3QkRwbERlVHJnUGtQcFVaXzk1dWRHZlE?oc=5",
    "published": "2026-11-17T21:37:06+00:00",
    "id": "39a2fd3c242f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine’s Crimean Bridge attack is a very personal humiliation for Putin",
+   "source": "Atlantic Council",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnpra0h4LW1JTVQ0WkpRVU9JQkVETXF2azQ3b21zMWVKVzlNc241V2F3M1p0V0w3X2xQTFV2bEdWOTBxdjFOVU1LUkd6MElvaml1ckVjRmVjZGpGbmdYNFd2ZUU5ZUNJdUNpVDlUQklWZzlHYmI3ams1RUlJSGxaUHBhc0tReURVSUsxNjRfSDRoVENMa3pOUWZjM2E3V3lZekF5S3RiMVl2a0ZsR2dIaHRNTXBFRkt0SEtUNDEtTGo?oc=5",
+   "published": "2026-11-17T21:31:00+00:00",
+   "id": "85bae0471188",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6610,23 +6622,9 @@
    "cat": "banques centrales",
    "raison": "Répétition de la cible haussière de Goldman via les achats institutionnels.",
    "method": "IA"
-  },
-  {
-   "title": "A third aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war",
-   "source": "Anchorage Daily News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlgxVXZJMXRnVGVUc2VIdnFHc3FORF9Ec3E3TVJzaWRJQWFBWGxVc2tJY1BBb0lnNWZXWEJWZkF6SER4aUhSSkpIZDRlazgwdjJTbVRuSkNHU2hPbFNRM1NLQTRTQ3ZqS282TkdrakNGenNFVExrNkN5VU1ia2g4T25SOTZyU09talEta0V5QndZMVI5b0Q3Z0VhcGRqVzgxZERsUDhwU2RvRU1LMFo4Yi1RYTB2Q0JmWmFBVEMtcE9OVEp4Sl9Ja3poQ05DYTFHOG96Z0pCbw?oc=5",
-   "published": "2026-11-16T19:10:09+00:00",
-   "id": "42561a52c8b3",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Déploiement naval lourd face à l'Iran, montée des risques de conflit.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|f44e514a8620": 1793139548.379102,
-  "news|ebe5783331a3": 1793139549.2280078,
   "news|974132f0d93b": 1793142100.0585907,
   "news|40fe3e25169f": 1793142970.4110959,
   "news|2e9c751f6fda": 1793143888.1773388,
@@ -8432,7 +8430,8 @@
   "news|496a33b42376": 1794953766.222038,
   "news|39a2fd3c242f": 1794953768.7515829,
   "news|c3ebc97b4d86": 1794953769.6671925,
-  "news|431d6425fdd3": 1794953770.610175
+  "news|431d6425fdd3": 1794953770.610175,
+  "news|85bae0471188": 1794954688.5593426
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8888,6 +8887,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T22:31:28.559433+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine’s Crimean Bridge attack is a very personal humiliation for Putin</b>\n📰 Atlantic Council · Mar 17/11 22:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnpra0h4LW1JTVQ0WkpRVU9JQkVETXF2azQ3b21zMWVKVzlNc241V2F3M1p0V0w3X2xQTFV2bEdWOTBxdjFOVU1LUkd6MElvaml1ckVjRmVjZGpGbmdYNFd2ZUU5ZUNJdUNpVDlUQklWZzlHYmI3ams1RUlJSGxaUHBhc0tReURVSUsxNjRfSDRoVENMa3pOUWZjM2E3V3lZekF5S3RiMVl2a0ZsR2dIaHRNTXBFRkt0SEtUNDEtTGo?oc=5"
+  },
+  {
    "ts": "2026-11-17T22:16:10.610279+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine</b>\n📰 BBC · Mar 17/11 17:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5"
@@ -9181,11 +9185,6 @@
    "ts": "2026-11-17T13:46:09.022170+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -39)\nMoteurs principaux : Dollar (DXY 5j) (-16), Sentiment news 24h (+15), Momentum or (vs MM50) (-15)"
-  },
-  {
-   "ts": "2026-11-17T13:46:07.884362+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike</b>\n📰 NBC News · Mar 17/11 12:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjlyREctVlhIbFZKYlFsRFBDOEcyZzlnQnJIWVllVFk1SXN4dlBaVkZhajNZV2ZLU0MtS1hMUG5Nd1NGREFaV1pzbHZET2hPQTFIV25aWXhRTzkxX2hsY1lqanpvTmUyQmhKUV9oRGk5ck9ldUFoeVdtX3JZT05QcmlCd09DUXNDa2lPaGdOWnBOOEpjbWU0bF9OVDFtRTV0WE1USnhISGw?oc=5"
   }
  ],
  "daily_forecast": {
