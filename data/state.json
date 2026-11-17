@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794938480.0166554,
+   "ts": 1794942952.2400434,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "4522a6263fc8",
-  "af636eb02805",
-  "18bcd3b00426",
-  "d6901a04deff",
-  "f6700215f5e4",
   "8ef5a0a6b218",
   "7e1e73437aeb",
   "ce136cde4a98",
@@ -4220,7 +4215,12 @@
   "5e7e36ddbb99",
   "3cc4888914b5",
   "b81d370f226c",
-  "a7c2d6772326"
+  "a7c2d6772326",
+  "5cfbc5c96a75",
+  "f2a8f57f64fc",
+  "828720e14fe7",
+  "ab2381abfa06",
+  "50a10f26464f"
  ],
  "news": [
   {
@@ -4269,6 +4269,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump’s Navy secretary pick says Iran war is straining military resources",
+   "source": "Spectrum News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBWZ19xWWh3ZGJvN0d0Z3NTZ3N0QkFGeEZHdkpvY2dKczZzYmR4TjlaWDgtT21hYWJxeURXT2dDWm1qemVoTkVDeWxCOTc2ZGFrc0E0d0QzNVIwUU1FZVNTNEVzVmRaSG9mVzJmdDQwU21YN3E4RDMtS2Ezem9uNDdmbGU0R0g5eEE5WDVKS1BRVGtNUkh2TnlYc2VPeGR5d1l0T29PelFYVWgzTzlYZVBwZWItb19WNVRVMnZCbllqcDhKVERhVw?oc=5",
+   "published": "2026-11-17T18:27:00+00:00",
+   "id": "828720e14fe7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6610,18 +6622,6 @@
    "cat": "taux",
    "raison": "Pression haussière sur les rendements obligataires mondiaux défavorable au métal jaune.",
    "method": "IA"
-  },
-  {
-   "title": "The Latest: Trump will head to Asia for economic deals and historic nuclear talks",
-   "source": "Midland Daily News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlRmaGxyWF9pOHBiOUo4d2tya1I1T09kbDgyenN3N2Q2QUZWWDY5cEg4SjdrWDVhVnVpZVUzclFDT0JEQ2lYWmxjaFpPWHJza01INmszZVhEdFRFT3BzQlNGckF3Ql9EeHQ0MWlqQVllYWctMjYtbVVYVXlrQXRPWEhhZFpvYVMySDBheUlySFFPd2JxSHIzWGE4TURZZktLaEQ3NUg3WjNuS2QwNHc?oc=5",
-   "published": "2026-11-16T13:56:07+00:00",
-   "id": "62ee057c63bd",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Signaux d'ouverture diplomatique et d'accords bilatéraux freinant la demande défensive.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8418,7 +8418,8 @@
   "news|54f361287ea7": 1794940288.1047153,
   "news|d4c39263ea4c": 1794942278.6848207,
   "news|5e7e36ddbb99": 1794942281.4348228,
-  "pre15m|2026-11-17T14:25:00-05:00": 1794942282.5854886
+  "pre15m|2026-11-17T14:25:00-05:00": 1794942282.5854886,
+  "news|828720e14fe7": 1794942969.8482208
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8874,6 +8875,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T19:16:09.848296+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Navy secretary pick says Iran war is straining military resources</b>\n📰 Spectrum News · Mar 17/11 19:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBWZ19xWWh3ZGJvN0d0Z3NTZ3N0QkFGeEZHdkpvY2dKczZzYmR4TjlaWDgtT21hYWJxeURXT2dDWm1qemVoTkVDeWxCOTc2ZGFrc0E0d0QzNVIwUU1FZVNTNEVzVmRaSG9mVzJmdDQwU21YN3E4RDMtS2Ezem9uNDdmbGU0R0g5eEE5WDVKS1BRVGtNUkh2TnlYc2VPeGR5d1l0T29PelFYVWgzTzlYZVBwZWItb19WNVRVMnZCbllqcDhKVERhVw?oc=5"
+  },
+  {
    "ts": "2026-11-17T19:04:42.585540+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>20 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -9167,11 +9173,6 @@
    "ts": "2026-11-17T11:46:09.414885+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia, Ukraine exchange strikes on bridges ahead of Xi-Trump-Putin summit</b>\n📰 AFP.com · Mar 17/11 08:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOWm1oRVExdEtVWHB6dWMtb2kzN01waDZ0dDZMOXhNTFR4TDVSUlI0WWpqYmhiMTFHeWxZR2pzZkRzNmxBSUJXSGNpVks4UmQtM1hETm1qRDcxWmNTOGRReU9WZXh3UVRSM2ZGUTRQNDBUUTBwR1NtSXhROGRvakM0eGRkT0Z0aFp5c0ZsWEZOWHpyWk15?oc=5"
-  },
-  {
-   "ts": "2026-11-17T11:31:24.896947+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US intel said to indicate Iran planning potential ‘dirty bomb’ attack in Washington</b>\n📰 The Times of Israel · Mar 17/11 10:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnY4Z3N4VFhWUEhLZ2hkb0VVZ2xRd0dzdWtoSlcybkJlMHhHRUd3NG02ejJWbHBTcDRHc1Z3WGxfbVZfRGNMd3V1QklwNGRKaDRreXNkVW16MWhraVZhS29KalFKVUhybnBqZDk5OG1nWVNkd3RMQ0t0aFlFdHBHVmZLMlJGUXFqcUtEaHZCWWgzNUNiQkJzNldRZ0ZDVjZfeHN3VTBzLXdqNV9yTWF4Vm5B0gG3AUFVX3lxTE1ZSGFfQy05TGRnU1RHU0FkWVFJUHdxZENMYzh4RloyaC1rZE1VVmlRa0otYXBKbWZZWkczeTVBU1NLS1ZwUGJFTEpiSy1sTjVSVzIwZWw4U3B6NjVacFBHVmFkckEtQUxSMUVGQXNQY3RQZlVEdXhHNWZ1SG9ZR2xwQmxlOE5td3B3QmpnMzF4QzczUVdZWFd6RzNiNmFlYnJaMXh5eXJKc2daSElzYW5fOHFNeGdUOA?oc=5"
   }
  ],
  "daily_forecast": {
