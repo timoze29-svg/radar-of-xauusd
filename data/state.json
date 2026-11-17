@@ -1221,7 +1221,6 @@
   }
  },
  "seen_news": [
-  "41a605d46f18",
   "1ece5627500f",
   "a76650037581",
   "241405ab2269",
@@ -4220,7 +4219,8 @@
   "28d7e960d38b",
   "31f568b84f85",
   "cde062c88b15",
-  "feb7a30951b6"
+  "feb7a30951b6",
+  "4bed83a5338f"
  ],
  "news": [
   {
@@ -4233,6 +4233,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran fires at U.S. facility in Bahrain as Tehran resumes strikes on Arab neighbors",
+   "source": "PBS",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlVZWjRCSVZZOTdxbEJHVlVJTjVyV2xWVXdaQ2tqUmVRNFJkaElDa2xhYWFqbEcwRDlaWnpNWF9OMy05OE5mM2N4VkhRQVZHdTFUTTlyd2JUSkwxR0Q3ZEh1UDZZNDB5cmVHa1lfMkM0ZldWT1pJRmVTTWVPMWEzQnloMWY2Zjh1TDdaeHRONmIwbERZLWtfMy12Z19JcDV2eUJxZElIWDdBWW5CU1NEYU5TVjJRRjjSAbwBQVVfeXFMTm93R19jS3VPR050YTJCYXBSQ25mYlo1RXNhZ1JSSXVZdEdiYUJJeloyZHlkUnJYTTc5dGVzbmlqZHY3Tlhscjc5cWxqT1JRTHMtVHlORE5TUVpKQVZ1d3FGUjhwcDlHbk5JSFVoeXZya1lTU1ZIUW9SRkUwZ2t0akZGa2t4VEpfdEZJRS0xcFFEZGVaVGtNcWFvOWdLTFFRUmFhTXBsQ1FydjA5X3dZUHdDVmE4WnduNXVUMTc?oc=5",
+   "published": "2026-11-17T18:53:00+00:00",
+   "id": "4bed83a5338f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Prolongation de l'effort de guerre confortant un contexte d'affrontement durable.",
    "method": "IA"
-  },
-  {
-   "title": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
-   "source": "PBS",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUgwRUxaX2xHbVlybWJPWEtzb3NKdHdiY3FsSDhIeF8tQnBqZEdUdUlCZlVrWkloNGFDYVh4eU5fU3ZhUWZRVlM0cGJVTzlPY1pMTXJUSVhMcEY5bzNteUhpU01ISzlWU0VlblVzRll2TEdILU9rNnptXy1rMzVDb2E1QlhlNEFHYklBOWNDYndpLTcwTUlaVnp1YTJwNFp3eUlfdl90RWhlZC1wZktYNTd2anRuZFEwT09zZmU4X1RIMWktTFJB0gHMAUFVX3lxTFBOVk1kay1tdjlNdVB4NlhGd3EwX1pZcmppZWxESUJTeEZkUE1jdVZzRkZqWWN2RVM5SVZyNld5RjNIS3gtOF9ZcVhQZm9Ecm5sMFhHTHQxWjlqalpoTFpKb2tzZ1c5V1lJaUxVVWxmQVA0WERESHcwWEkzVk0xMG4wNlBRNjU5U3ZYLUx0Vk1MNGFMWnR0NGhjd1l0ZGFqTkRxc2V5OWdJcDIwclp1MzI1ZXlEUXBxTGNkRXZPeW9idGRSYVBYd2lEY1VRbg?oc=5",
-   "published": "2026-11-16T14:54:28+00:00",
-   "id": "b704ef3ff1e3",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Poursuite des frappes régionales au Moyen-Orient soutenant l'achat refuge à court terme.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8420,7 +8420,9 @@
   "news|5e7e36ddbb99": 1794942281.4348228,
   "pre15m|2026-11-17T14:25:00-05:00": 1794942282.5854886,
   "news|828720e14fe7": 1794942969.8482208,
-  "news|5574c3d65595": 1794943896.4231336
+  "news|5574c3d65595": 1794943896.4231336,
+  "news|4bed83a5338f": 1794944914.2237704,
+  "post|2026-11-17T14:25:00-05:00": 1794944917.248464
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8876,6 +8878,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T19:48:37.249483+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 23 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.2 pb\nOr -0.8$ (extrême -5.6$, range 6.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-11-17T19:48:34.223856+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran fires at U.S. facility in Bahrain as Tehran resumes strikes on Arab neighbors</b>\n📰 PBS · Mar 17/11 19:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlVZWjRCSVZZOTdxbEJHVlVJTjVyV2xWVXdaQ2tqUmVRNFJkaElDa2xhYWFqbEcwRDlaWnpNWF9OMy05OE5mM2N4VkhRQVZHdTFUTTlyd2JUSkwxR0Q3ZEh1UDZZNDB5cmVHa1lfMkM0ZldWT1pJRmVTTWVPMWEzQnloMWY2Zjh1TDdaeHRONmIwbERZLWtfMy12Z19JcDV2eUJxZElIWDdBWW5CU1NEYU5TVjJRRjjSAbwBQVVfeXFMTm93R19jS3VPR050YTJCYXBSQ25mYlo1RXNhZ1JSSXVZdEdiYUJJeloyZHlkUnJYTTc5dGVzbmlqZHY3Tlhscjc5cWxqT1JRTHMtVHlORE5TUVpKQVZ1d3FGUjhwcDlHbk5JSFVoeXZya1lTU1ZIUW9SRkUwZ2t0akZGa2t4VEpfdEZJRS0xcFFEZGVaVGtNcWFvOWdLTFFRUmFhTXBsQ1FydjA5X3dZUHdDVmE4WnduNXVUMTc?oc=5"
+  },
+  {
    "ts": "2026-11-17T19:31:36.423224+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.</b>\n📰 KVUE · Mar 17/11 19:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM3l2QlFFbGZzcUg5RGRLWll3MmxVenYydW53aHd1US1MbkJZQ2hlQ09uUlVkMnczek1aYjlTb1N5d3ctcUVHVVdZNWNfMFBRTXFZamswV2lBSU8zQUNjVWxaVUs2dk1ndDhzdkd2dk01NFM2a3ZPOU51aHBnRTUyWmQwakdIcXRlamdfTk1laDg2MVRXU3ktSUxkWXcxYW1YdE5JamdRX21nMF9RM2tRS1JmSHk0V2VrQzJxdU5CMjFCaEQtQVl1UWZINWVqZ1VzY00tMndpVkVUNEYzQjNzeXFweGc?oc=5"
@@ -9164,16 +9176,6 @@
    "ts": "2026-11-17T12:31:27.930193+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>EA on Express 24-7: Trump Camp’s “Limbo” in Its War on Iran</b>\n📰 EA WorldView · Mar 17/11 13:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UTzdCeGwydS1tSXBCRWUzMnhmVVRsWVZXZVVIR1hZdmh1ZUU0bURIUldnT0NvRFpDbkJyRUVQNk5RNGlTNU4yNjZabzZsUkNtV3FCTEdkYkxWMkJERUV3UGRfYw?oc=5"
-  },
-  {
-   "ts": "2026-11-17T12:16:12.625520+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 74 MIN — 14:30</b>\n\n🇺🇸 <b>Core Retail Sales m/m</b>  prév. 0.4% | préc. 0.9%\n🇺🇸 <b>Retail Sales m/m</b>  prév. 0.1% | préc. 0.8%\n🥇 Consommation\n\n<b>Scénarios pour l'or :</b>\n🔺 Au-dessus de 0.4% (économie plus forte que prévu) → moins de raisons de baisser les taux → dollar ↑ → <b>or ↓</b>\n🔻 En dessous de 0.4% → effet inverse → <b>or ↑</b>\n\n📌 Contexte : DXY +0.01% aujourd'hui · taux 10 ans +0 pb · biais or -45 (FORTEMENT BAISSIER)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-17T12:07:48.245522+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>22 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Musalem Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
