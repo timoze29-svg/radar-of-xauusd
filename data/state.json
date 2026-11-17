@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "1ece5627500f",
-  "a76650037581",
-  "241405ab2269",
-  "447a26350edc",
-  "5f5f54b8a570",
   "9b68b22a251d",
   "8db1c81f89f3",
   "5abe97d6c004",
@@ -4220,7 +4215,12 @@
   "31f568b84f85",
   "cde062c88b15",
   "feb7a30951b6",
-  "4bed83a5338f"
+  "4bed83a5338f",
+  "ab4f1ed56361",
+  "982c9be6ff1e",
+  "a6787dd3daaf",
+  "0249d2e4fa0d",
+  "2b627df33c44"
  ],
  "news": [
   {
@@ -4320,6 +4320,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Will Gold Prices Rise After the Fed's Expected December Rate Hike?",
+   "source": "Yahoo Finance",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWctLXJnSWdVYW5Tcjh2S09STExVTWFuMWM4NFdnTjRFQ216c00xOVBRVUFPQ25JTDRkb1Uzd19ua2pyRkpRZ3hYZ2xxellPVjFyMGJQYkN3dVBUUnByVEhITzJKM1U3c3ZtM2tFSEd4SlRlMjlvbDhTUWd3czd5cFJrOTFCTWlCUDFOVzNwdU4ySTgxX2RHYWlDYS1laXUtN3c?oc=5",
+   "published": "2026-11-17T18:02:58+00:00",
+   "id": "ab4f1ed56361",
+   "impact": -3,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "GM planning on tariffs sticking around, regardless of next president",
    "source": "The Detroit News",
    "theme": "Tarifs",
@@ -4351,6 +4363,18 @@
    "published": "2026-11-17T17:29:10+00:00",
    "id": "e8b29239dd94",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine strikes key bridge linking Russia to Crimea",
+   "source": "NBC News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXE5NFdlQVVwQktrc1hqN2l6WEQ3aV9kM1E2S3Q0NWE5U3pTTGE0akJLUlZJRDdNa0ZUWHppNWN5OTZLTUUwMkZwcy1ubEUwMTBOdkVGdURZWkloTHhuTmdOa0E2S3AwX3p6ZnZZMlJxeFVwa0k4NEllTk1sQ1VickY1My1NdVE1SkUzQ3hnNXJCcmRKcEtscFY1YUFudXoyTlZj?oc=5",
+   "published": "2026-11-17T17:21:05+00:00",
+   "id": "2b627df33c44",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -5916,6 +5940,18 @@
    "method": "IA"
   },
   {
+   "title": "Utility charges drive up October CPI; inflation eases to 8.2 per cent",
+   "source": "Jamaica Gleaner",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjNHcjhMTUhMQmE0VG9MN3g2VHcxbFoyUTNnNU5EbWR0Tkc1ZS1nWlZ1RHJ1M0J0eGsxZWd1cnNIM19XczFiVFpjVldVa2FCNXdXNEt5eVMydTF3RW9iekJ3dUNNSzk0RDFnZ0hRMHo2MnRzMXRrM3BiLXVXNmRtMlBjUlhuTWk3c0UzY1JLaE5aenNaSm9jU3FGcTBTLXNrdDVTdkxsZG1Ra0hSQUdv?oc=5",
+   "published": "2026-11-16T22:57:02+00:00",
+   "id": "0249d2e4fa0d",
+   "impact": 4,
+   "cat": "inflation",
+   "raison": "haussier or (inflation)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Central bank buying to support higher gold price in 2027: Goldman",
    "source": "Mining.com.au",
    "theme": "Banques centr.",
@@ -6585,42 +6621,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Intensification des frappes militaires en Europe de l'Est soutenant la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGvSAbABQVVfeXFMUDRCRU5IcDVoTU9UMm1sTmNwZnd1cTdYQ2I3V1hiLW1pUDZTUDY1djFpU1ExeHF3TjlGMUVlMlhTRjdQXzhQU25HcUpDN0VEdHRYblQxZ042OTVpaWV6UkVXT2tWaDh3QWRPZDRLZTN1Wk9oOGdyRURRN1ZVOHg2cld4X003TC1ZZnlROVNEeU1NbkZUZjNyZzNBNUppZUd6bi1MUUI0STlfVVltUVpUMWk?oc=5",
-   "published": "2026-11-16T15:17:38+00:00",
-   "id": "7e4df7a9aada",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Kremlin aide denies Russia agreed to include Europe in Ukraine peace talks",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY0FmVF9kSmNHVV9ZbWY3cHg5Rm41UlRaY21vMzYxRDh1ZzItZHl1UzRpRDBDRnFfMFNOdi11S2dnckdQSExYWDBBYV9MVEVWZlRnam9ET29oaHNzRzhCd2s2ZGU3NlQ3TzgyMEVyYy1CTTN6ZllCdHk1d1dTc2JwYWtMUmNwb2kwbk5uOFNGTWxySmFMQThRTUFDeU1RYy0xeS05c3BEclloYnJUcnQ0?oc=5",
-   "published": "2026-11-16T15:11:30+00:00",
-   "id": "6a899c618990",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Enlisement diplomatique prolongeant l'incertitude sécuritaire sur le continent européen.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzUxYW1DQXFGR3RsYThFQ3UxMmhQZTIwNG44ZHI1VENmWWNLYjN4Rm5QWTVpY1Rpa2JHX0ZrTHgzaEFldnFXeXVqbk9YajVmdk1tZTQ2bkNSZksxNmtGYk0tQ20zeFg1UVVqUGlReVhUMFRnV3RXTVc2TmR1VTZXNmRMTFlqQUZOMlVITTlQaXowUVl2UkHSAZsBQVVfeXFMTTJ5Y050Vm52ZWFjTkhvQzd2eHpxMm9FbXVSVU9KOXp5eXJYQzBDbnFXdVh1MS1iWXVRQ2RUemJqdVNIa2FHakozaW1rTHh5dldHeF9hU1p3SmNYRFVUSW4zTHBpUmoxTWFFS0VTSDdOZVhTWUJ6aTN3UnFWN2d3SndMb3lKRmhUWExBZGQxQzIxdmdERElvd0xJbm8?oc=5",
-   "published": "2026-11-16T15:10:27+00:00",
-   "id": "931e1cf9230a",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Prolongation de l'effort de guerre confortant un contexte d'affrontement durable.",
    "method": "IA"
   }
  ],
