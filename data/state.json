@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "048e3f69a190",
-  "83037e3051bd",
-  "30033e709998",
   "a71e2d24002a",
   "f9ba3f99043d",
   "b986bb3d4e20",
@@ -4220,7 +4217,10 @@
   "7da464b2dab4",
   "9bfd42264bec",
   "d7f7114a52f4",
-  "6ff288a1742a"
+  "6ff288a1742a",
+  "4fff6b69d551",
+  "ccad61edd736",
+  "4c27aca171f1"
  ],
  "news": [
   {
@@ -4338,6 +4338,18 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBWZ19xWWh3ZGJvN0d0Z3NTZ3N0QkFGeEZHdkpvY2dKczZzYmR4TjlaWDgtT21hYWJxeURXT2dDWm1qemVoTkVDeWxCOTc2ZGFrc0E0d0QzNVIwUU1FZVNTNEVzVmRaSG9mVzJmdDQwU21YN3E4RDMtS2Ezem9uNDdmbGU0R0g5eEE5WDVKS1BRVGtNUkh2TnlYc2VPeGR5d1l0T29PelFYVWgzTzlYZVBwZWItb19WNVRVMnZCbllqcDhKVERhVw?oc=5",
    "published": "2026-11-17T18:27:00+00:00",
    "id": "828720e14fe7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump warns Iran over reported dirty bomb plot targeting US officials, report says",
+   "source": "FOX 5 DC",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON3lDYmk2ZUd5X2ZHUWlWUk91NHJRRThBcUthOXp3d0xEVFA1SGQ3NmtnNm03eVpyQW50TjM4YVoxZy1mZVdJRDRJSTMzTzltMEliakpoNjhDV1JfR1h0WlJBanlRQTY0bkt5bVBzYzdIZ3oxY1pBMFRMZ3NSTDczVk1jaDlBNEktclJPUlRVVzNEeUpGMVI3aVhQdGgzZmczdlZhV2VsRURQWW8zeWc?oc=5",
+   "published": "2026-11-17T18:23:13+00:00",
+   "id": "4fff6b69d551",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6610,22 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Perspectives de sommets diplomatiques apaisant temporairement les craintes de confrontation majeure.",
    "method": "IA"
-  },
-  {
-   "title": "Tracking ship traffic through the Strait of Hormuz. Updated regularly.",
-   "source": "NBC News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
-   "published": "2026-11-16T15:33:58+00:00",
-   "id": "2db672e44cac",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Surveillance d'un corridor énergétique critique maintenant une vigilance géopolitique minimale.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|7989b8747d1d": 1793132347.7550817,
   "rep|recap|2026-10-27": 1793134902.4973404,
   "news|00ea542c8450": 1793135774.5440943,
   "news|98ce95918e84": 1793136682.8403087,
@@ -8424,7 +8423,8 @@
   "news|4bed83a5338f": 1794944914.2237704,
   "post|2026-11-17T14:25:00-05:00": 1794944917.248464,
   "news|7da464b2dab4": 1794946589.6816473,
-  "news|b358aaafecd4": 1794946590.4382405
+  "news|b358aaafecd4": 1794946590.4382405,
+  "news|4fff6b69d551": 1794947552.3333602
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8880,6 +8880,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T20:32:32.333455+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran over reported dirty bomb plot targeting US officials, report says</b>\n📰 FOX 5 DC · Mar 17/11 19:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxON3lDYmk2ZUd5X2ZHUWlWUk91NHJRRThBcUthOXp3d0xEVFA1SGQ3NmtnNm03eVpyQW50TjM4YVoxZy1mZVdJRDRJSTMzTzltMEliakpoNjhDV1JfR1h0WlJBanlRQTY0bkt5bVBzYzdIZ3oxY1pBMFRMZ3NSTDczVk1jaDlBNEktclJPUlRVVzNEeUpGMVI3aVhQdGgzZmczdlZhV2VsRURQWW8zeWc?oc=5"
+  },
+  {
    "ts": "2026-11-17T20:16:30.438324+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance vows US won’t make long-term commitment to Iran war</b>\n📰 The Hill · Mar 17/11 17:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQdThxcGtWb1dHOGcxV2lfLWVYVDItNjlOWV9sN0ozTmJaN0pPTmxxZnFQaWxVQUgyNTNhX3h1a0JIcExYT0lKd3E3TXl0VnFsNWpQMlVHakF6T25UMHB6N0hkbERxazVjQW9ibUlFcjJ4V1pvc2tlM3VOamNPNWU2NF82SmN0Z2c5Z0HSAY8BQVVfeXFMT182R3hkR1lQWkgyYUJNSlkxX0pRamJrWDdXcWh6TFI5bXBhS0hlSnh5TVdPeUxkSTVxZXdxMkpwcVcybjNkVmtSYk9MWC1PVkU3VVdoM2hmYkpmb1FzTDB6cS15d0RmaUttMEhjN0R3T0daN1RWNktUakpDTDlOdFhPQnMxYVExdW56anFvSFU?oc=5"
@@ -9173,11 +9178,6 @@
    "ts": "2026-11-17T12:55:13.744923+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Bahrain intercepts new Iranian attacks as Middle East tensions escalate</b>\n📰 Israel National News · Mar 17/11 11:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLX0g4cHh2NEdtTE5UUDA5UGU3ZEZjSEQ1eGtVdDFvM0EzdXY2NWtYSXU1V19wUVYzRW5CMGJkNkxWQU1IUUFCU2loT1IxQkxZeVFERUlYOFJ3Zw?oc=5"
-  },
-  {
-   "ts": "2026-11-17T12:31:29.745969+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance says there’s ‘no daylight’ between him and Trump on the Iran war</b>\n📰 NBC News · Mar 17/11 03:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDRDNGxfNWRYMTJBNF9hczlPU2hyb3NtZnY3OFE0aWllZDRFdkRMWWtDazN4S3hZMXFqZFpveERPTnVleHFIZm9kN1dqWlpPcEVXdkwzZXJOb2t6SkNmVi03N3B0ei1HTThqNEwteHNiVVhMSTI5bmh6QjROczBiVUtKRFpHRXFsZklGUjNCOHFPeEJY?oc=5"
   }
  ],
  "daily_forecast": {
