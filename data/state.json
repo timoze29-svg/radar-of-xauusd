@@ -1221,7 +1221,6 @@
   }
  },
  "seen_news": [
-  "1b8e91c9f35e",
   "5601be0e73f5",
   "d871e9d4fcaa",
   "68d0cbc5ce4e",
@@ -4220,7 +4219,8 @@
   "e213ded5b11a",
   "d99a966e566f",
   "28c7413a2e87",
-  "b3d0d7d9b728"
+  "b3d0d7d9b728",
+  "52ef58b47138"
  ],
  "news": [
   {
@@ -4317,6 +4317,18 @@
    "impact": -2,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Saudi, Qatari foreign ministers discuss regional de-escalation efforts",
+   "source": "A News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJmREh5UE9iTk92NjBmcXRvZ2tIaVJfbFYta3RIclhkdmZyWmVXMUU3eEV1dU9reFdmZzBIWXkwaWZPd3pQQVRxTVJRbjVMVkRfYWRYS0FsZXl3emttQmltNlViTVlWUW8yRXRiWEtnZXYzMVpuNjhOaEpXV0tOYjNyQktucjJOUWpFU3JXbFVKVnUyX180dnpBbmIyOEExa0RORGxpYkVCSFNlUFNnZXFoV1FqNUpz0gG-AUFVX3lxTFBtUy1CWEVDbVc3WWxqcGNTU3VaQmtfdVBPbkYyQWhFbDA5ZUNqT2QxLTJNeGZJY0oxSUVRM1l4WW84M0hZalptNTRXZW9MSUFNcFJQNXJXQlZHSkFXMXFORXhRUkE1cW95cVI5ekNTX1M2MkZjdzZ0eTFreE1UM19VcmlzczRNMUMtR1R6WEw5c0NVUXpnSGl0YjdSVnc4SXEwTGhDcHFlOGpNcGRkMDZyNUtkMXRaazNueHRkYVE?oc=5",
+   "published": "2026-11-16T21:38:00+00:00",
+   "id": "52ef58b47138",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6610,18 +6622,6 @@
    "cat": "inflation",
    "raison": "Inflation élevée repoussant les baisses de taux, dollar et rendements réels soutenus.",
    "method": "IA"
-  },
-  {
-   "title": "Fed’s Schmid Says Inflation Runs Uncomfortably Above 2% Target At 3% Core",
-   "source": "Sahi",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzNxaUpGQkhQVTFfSWFhOUZoS0Z0cV9ZWGNFQ3FmQU0xMmNnR25GU2IxMU1lNEp6ZW5DS3h5MHo2YThrM1lRZ1IzVElsRFltVTVOdElZWDV5eGthZE5DTFJEVXVsalljenpleVhQRlJuOTYtWkI3QkU5MkZzWFpIRmNlS01fUV9nbjhjd3NES1lEY2h5M1hEWU90VkdLdw?oc=5",
-   "published": "2026-11-15T19:41:37+00:00",
-   "id": "99e43e70f189",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Commentaire hawkish repoussant les baisses de taux, haussier pour les rendements et le dollar.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8373,7 +8373,8 @@
   "news|db7c50f55cf2": 1794872770.5379844,
   "news|de0a42be3172": 1794872771.3353238,
   "news|d99a966e566f": 1794872772.1193607,
-  "post|2026-11-16T18:10:00-05:00": 1794872773.1449993
+  "post|2026-11-16T18:10:00-05:00": 1794872773.1449993,
+  "post|2026-11-16T18:30:00-05:00": 1794873793.7639158
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8813,6 +8814,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T00:03:13.764882+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 33 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.0 pb\nOr +7.2$ (extrême +8.4$, range 12.2$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-16T23:46:13.145752+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.00%\nTaux 10 ans +0.0 pb\nOr +0.2$ (extrême +1.4$, range 5.1$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -9106,11 +9112,6 @@
    "ts": "2026-11-16T14:01:42.502872+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Latest: Trump will head to Asia for economic deals and historic nuclear talks</b>\n📰 Midland Daily News · Lun 16/11 14:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlRmaGxyWF9pOHBiOUo4d2tya1I1T09kbDgyenN3N2Q2QUZWWDY5cEg4SjdrWDVhVnVpZVUzclFDT0JEQ2lYWmxjaFpPWHJza01INmszZVhEdFRFT3BzQlNGckF3Ql9EeHQ0MWlqQVllYWctMjYtbVVYVXlrQXRPWEhhZFpvYVMySDBheUlySFFPd2JxSHIzWGE4TURZZktLaEQ3NUg3WjNuS2QwNHc?oc=5"
-  },
-  {
-   "ts": "2026-11-16T13:49:23.204573+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>16 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
