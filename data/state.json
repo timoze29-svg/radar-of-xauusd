@@ -1221,8 +1221,6 @@
   }
  },
  "seen_news": [
-  "1d4c36154572",
-  "a4286f9ebaa3",
   "db94000d4cc5",
   "209317bcbd1b",
   "e883936323ca",
@@ -4220,7 +4218,9 @@
   "b5f83f121ada",
   "1b1625ece979",
   "07f722163546",
-  "22a86b110b8a"
+  "22a86b110b8a",
+  "4610777539e3",
+  "f92c3187af19"
  ],
  "news": [
   {
@@ -4231,6 +4231,18 @@
    "published": "2026-11-17T06:43:37+00:00",
    "id": "1b1625ece979",
    "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+   "source": "The Guardian",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1RSYjZRRl8zR3hSNWZLMVZZYkVpMTQ0VG42QTd6c2lHUHNHYWp1ZVQxaUdZTkVVTTZ0UzlKTWxGcjN3Z3RhZjhVb1QzQ01MM1pYRkxIZEtFNFZIWDRrSTJLU29JeWFSdGgwTG1jb1Fsa0tNMEdRM3ZjX1ZNZkZCLVYyYWhVNUNGa3dHOWdLUjVEUW5yT1ZTMHI4T3pjakllMXZndw?oc=5",
+   "published": "2026-11-17T06:37:00+00:00",
+   "id": "4610777539e3",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6610,22 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Baisse du pétrole et détente géopolitique réduisent la prime de risque et l'inflation.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Targets Bahrain Base But Says Path to US Deal Is Open",
-   "source": "Bloomberg",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXpxVVpLejY0TU5TcHFqQUFIY1YtTThlNkc3MFJ2OVkwM2JZZHcyeHF5WVkzVzdXX1IwZHlWeDBPcnkyeXdtQXkyWHpKdlU4aGl6SnA4cmVfMmxUWEhBMlR4MjluNkNUNUJieUxhSDlZZzVRYkxKdUxYY0RGNTJGWXB6NlpPb09jcWhOYS0wOE40QjdnZWRzTFNPOTZ1dEpuTERPWFcyZkxqcmwwcF80V2VfNA?oc=5",
-   "published": "2026-11-16T01:07:00+00:00",
-   "id": "9ffe1a0c57c9",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions militaires persistantes mais ouverture diplomatique, limitant la prime de risque géopolitique sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|3ba02544233f": 1793082681.6481252,
   "news|66508f9fe924": 1793085529.9448614,
   "news|d13d47863eb9": 1793089145.93441,
   "news|4b9121a6c429": 1793092587.2522383,
@@ -8377,7 +8376,8 @@
   "news|877555b58558": 1794885375.9242644,
   "news|f60a41663106": 1794892576.4696267,
   "news|fe8792c4cae4": 1794893669.4611814,
-  "rep|daily|2026-11-17": 1794895490.0317433
+  "rep|daily|2026-11-17": 1794895490.0317433,
+  "news|4610777539e3": 1794899773.6054595
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8833,6 +8833,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T07:16:13.605550+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact</b>\n📰 The Guardian · Mar 17/11 07:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1RSYjZRRl8zR3hSNWZLMVZZYkVpMTQ0VG42QTd6c2lHUHNHYWp1ZVQxaUdZTkVVTTZ0UzlKTWxGcjN3Z3RhZjhVb1QzQ01MM1pYRkxIZEtFNFZIWDRrSTJLU29JeWFSdGgwTG1jb1Fsa0tNMEdRM3ZjX1ZNZkZCLVYyYWhVNUNGa3dHOWdLUjVEUW5yT1ZTMHI4T3pjakllMXZndw?oc=5"
+  },
+  {
    "ts": "2026-11-17T06:04:47.310547+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — MARDI 17/11</b>\nPrix : <b>3887.10</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-45/100)\n\n<b>Pourquoi :</b>\n🔴 Dollar (DXY 5j) : +1.18% sur 5 jours\n🔴 Momentum or (vs MM50) : prix 3887 vs MM20 4007 / MM50 4158\n🔴 Taux US 10 ans (5j) : +26 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : +27.6$ · plus haut 3889.6 / plus bas 3845.9 (range 44$)\nDXY -0.14% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~92$</b> (ATR 98$ × profil du mardi)\nDéjà fait en Asie : 44$ (48% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3933.3 | R1 3893.1 | <b>Pivot 3864.2</b> | S1 3824.0 | S2 3795.1\nVeille : PDH 3904.3 / PDL 3835.2  ·  Semaine passée : 4158 / 3857\n\n📅 <b>Annonces du jour</b>\n🔥 <b>00:10</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>13:30</b> 🇺🇸 FOMC Member Musalem Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Core Retail Sales m/m (prév. 0.4%)\n    🔺 Au-dessus de 0.4% (économie plus forte que prévu) → moins de raisons de baisser les taux → dollar ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.4% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Retail Sales m/m (prév. 0.1%)\n🔥 <b>15:10</b> 🇺🇸 FOMC Member Waller Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:30</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:25</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>55%</b> du temps (311 jours, ~6.0 ans)\n• Hier : -0.86% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1051 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 15h (9%) · plus BAS vers 0h (12%), 16h (11%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +17.4$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 3864 → R1 3893\nObjectifs : PDL 3835 → S1 3824 → S2 3795\n❌ Invalidation : clôture H1 au-dessus de R1 3893\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 3904 → R2 3933\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
@@ -9126,11 +9131,6 @@
    "ts": "2026-11-16T15:46:18.154163+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 74 MIN — 18:00</b>\n\n🇺🇸 <b>Fed Chairman Warsh Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.10% aujourd'hui · taux 10 ans -4 pb · biais or -40 (FORTEMENT BAISSIER)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-16T15:46:17.190280+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Dollar (DXY 5j) (-17), Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (-11)"
   }
  ],
  "daily_forecast": {
