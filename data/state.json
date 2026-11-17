@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "e5b3b9018242",
-  "6de493613fce",
-  "b2544a4cf1b4",
-  "64a34b3069b9",
   "aa7a34a9351c",
   "4bff204c2c0b",
   "bde8713df6fb",
@@ -4220,7 +4216,11 @@
   "5734be0f2b7f",
   "22afb07109a5",
   "6b5f996a63d6",
-  "9b6971ab762a"
+  "9b6971ab762a",
+  "22451af1c0d2",
+  "292d757f5d00",
+  "4fcdb6875af4",
+  "1539c7c27485"
  ],
  "news": [
   {
@@ -4521,6 +4521,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Post-election economic reports make Fed interest rate hike certain",
+   "source": "Denver Gazette",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTh4bjNyUDJvQkRLSUNmVjlpOHZrYTEzcWZrRkZscUE3RVdSRFNKYUZNYXJYajI4YkMyaVVLeUtRN2pUZ08yVkRjNEZsd3FOQVZ2aGhscmJUMWNycG53N2JvOVBmdFNJMHJTU01hRy1PRzlfVjNxRk80RWlON2hTeHJUYmljTDAwa2R6cFhTY3NIZF9ocHUxazJuUkg4UjlRYzJETS1GM0c2cXV6?oc=5",
+   "published": "2026-11-16T20:21:20+00:00",
+   "id": "4fcdb6875af4",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Tensions continues en Ukraine maintenant une légère prime de risque géopolitique sans choc majeur.",
    "method": "IA"
-  },
-  {
-   "title": "Israel warns US of alleged Iranian plot to attack President Trump",
-   "source": "Fox News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wR3k5WDZsN20xRWFvN0w3MlY1SDZCVmYwQkJlQ3RUMEE2d3RpSnVnaHVkdkh1VTNBSFdKUDUxaWU4ZXpoVXh6SGRhU19xV00zSW1jRnZR?oc=5",
-   "published": "2026-11-15T22:32:14+00:00",
-   "id": "773cf420caca",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8375,7 +8375,8 @@
   "news|711277df66d2": 1794876559.7545705,
   "news|58cc2d2b674c": 1794877299.3736937,
   "news|22afb07109a5": 1794880896.6703906,
-  "news|5734be0f2b7f": 1794880899.5609794
+  "news|5734be0f2b7f": 1794880899.5609794,
+  "news|4fcdb6875af4": 1794881771.0459137
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8815,6 +8816,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T02:16:11.046022+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Post-election economic reports make Fed interest rate hike certain</b>\n📰 Denver Gazette · Lun 16/11 21:21\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTh4bjNyUDJvQkRLSUNmVjlpOHZrYTEzcWZrRkZscUE3RVdSRFNKYUZNYXJYajI4YkMyaVVLeUtRN2pUZ08yVkRjNEZsd3FOQVZ2aGhscmJUMWNycG53N2JvOVBmdFNJMHJTU01hRy1PRzlfVjNxRk80RWlON2hTeHJUYmljTDAwa2R6cFhTY3NIZF9ocHUxazJuUkg4UjlRYzJETS1GM0c2cXV6?oc=5"
+  },
+  {
    "ts": "2026-11-17T02:01:39.561393+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US intelligence warns of Iranian dirty bomb or chemical attack plot targeting Trump officials: CNN</b>\n📰 Anadolu Ajansı · Mar 17/11 01:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN29GT2pOUUhmd3hiSmV4TGZsb0hJOFEzVHB6LWEySnVROXRodTlmdWdIZHJKb2gwa0ZaZHJldTdJTFBLMDQ4bEg1Zm40M3YxUTR4eUgwLTF6dndlT0NLTkN2aGRmbXhvYm1mMkJ1UkJSUHV1bF9RVDViR2h3bGdiXzhmOUdncjhoTXcxQ0hOMUN4M3ZiNU5aRDdYbnByMFFDa1JScVpFMGFsd1NpdFJiZXFMdHhyN3pIcjRPVllHbHU3VFZDbVhvZHdSMXpsYnV1?oc=5"
@@ -9108,11 +9114,6 @@
    "ts": "2026-11-16T15:16:09.214349+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says The New Bari Weiss-Run ‘60 Minutes’ Is ‘Even Worse’—Disputes Iran War Reporting</b>\n📰 Forbes · Lun 16/11 16:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmt3eUdSUTNnYkQ4UVlSbkJJQ09oX1BSbC1YREVRTVZOQXNTaVBSVWJ2aUp4QnFBWEVVNlV2dElnbTlFSmpiWTBtUjBnUTQ3djd3clZPTkRxWVB2ZUQzUjN3OEVwbzNvTTQxLVlzSElsbThfTzlBbzU1MUx4STkxVzRYZk5KZXpkYW9YQkZ4SzNKWjBUYS1NbE5EampINDRLNEdxVjZIelcxY1N2THlwVnRhY01vWnZuTldnM3BrRlRpN2NkeGozd2t4Z1VhdUdGb2lhY3FR?oc=5"
-  },
-  {
-   "ts": "2026-11-16T15:02:03.586228+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Army Officer In Iran War Makes Damning Claim Against Trump Administration On '60 Minutes'</b>\n📰 Yahoo News Singapore · Lun 16/11 15:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBPT3FkUDE1ZXJTVU05S294UlNhaVdSMmN3NEo3aXBlVVRDTy16dUdYeDZ0OEdiTFgxQUFXaHlQaXluZnN2N01rMzZOWEZMam1tT3FpajFzbk9ycnZ1SGkydktOcDNhdDhlYzlSTXh2TVNRUQ?oc=5"
   }
  ],
  "daily_forecast": {
