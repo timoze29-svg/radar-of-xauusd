@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794861964.8075392,
+   "ts": 1794884484.4081903,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.86,
-     "date": "2026-11-12",
-     "chg5": 0.22,
-     "chg20": 0.02,
+     "last": 2.91,
+     "date": "2026-11-13",
+     "chg5": 0.31,
+     "chg20": 0.13,
      "hist": [
-      2.18,
       2.16,
       2.1,
       2.09,
@@ -129,18 +128,18 @@
       2.63,
       2.66,
       2.78,
-      2.86
+      2.86,
+      2.91
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.24,
-     "date": "2026-11-13",
-     "chg5": 0.0,
-     "chg20": -0.08,
+     "last": 2.2,
+     "date": "2026-11-16",
+     "chg5": -0.03,
+     "chg20": -0.15,
      "hist": [
-      2.4,
       2.4,
       2.39,
       2.39,
@@ -259,18 +258,18 @@
       2.22,
       2.2,
       2.24,
-      2.24
+      2.24,
+      2.2
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.86,
-     "date": "2026-11-12",
-     "chg5": 0.28,
-     "chg20": 0.04,
+     "last": 4.88,
+     "date": "2026-11-13",
+     "chg5": 0.42,
+     "chg20": 0.11,
      "hist": [
-      4.08,
       4.13,
       4.01,
       4.0,
@@ -389,14 +388,15 @@
       4.51,
       4.56,
       4.73,
-      4.86
+      4.86,
+      4.88
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-12",
+     "date": "2026-11-13",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -462,7 +462,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794879956.971443,
+   "ts": 1794884484.915184,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "bc75e34a0d0b",
-  "7eec978c2ee0",
-  "9903316fa583",
-  "288e290997d6",
-  "c308afb95b37",
   "fdeda3fd18ef",
   "d3dd8250709d",
   "03c342cb9437",
@@ -4220,9 +4215,26 @@
   "aaba2cabc33a",
   "d10e9a627a18",
   "33cd02f85d6f",
-  "19589985f644"
+  "19589985f644",
+  "1b71170a630c",
+  "fde9d6cd379d",
+  "7c5fbe849e66",
+  "f98264a7d214",
+  "244b9a4fce79"
  ],
  "news": [
+  {
+   "title": "Vance says there’s ‘no daylight’ between him and Trump on the war in Iran",
+   "source": "NBC News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDRDNGxfNWRYMTJBNF9hczlPU2hyb3NtZnY3OFE0aWllZDRFdkRMWWtDazN4S3hZMXFqZFpveERPTnVleHFIZm9kN1dqWlpPcEVXdkwzZXJOb2t6SkNmVi03N3B0ei1HTThqNEwteHNiVVhMSTI5bmh6QjROczBiVUtKRFpHRXFsZklGUjNCOHFPeEJY?oc=5",
+   "published": "2026-11-17T02:59:00+00:00",
+   "id": "1b71170a630c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine: Russian strikes hit bridges in Kyiv, mayor says",
    "source": "DW.com",
@@ -4246,6 +4258,18 @@
    "cat": "géopolitique",
    "raison": "Risque accru de confrontation militaire directe au Moyen-Orient stimulant les flux refuges.",
    "method": "IA"
+  },
+  {
+   "title": "US vice president vows Trump will not let Iran conflict become another ‘forever war'",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2FXcWRZV2xtbmpTbFhaWlhCY3dIay00c0RBMmxCdDNCMjlNTHFrenZ3bEtJN0IwSWFFdFl6VV9hUFdvM0tOV2xmWTVrUWN3RWxPU2FMZTJ1bHdUV2gyVXpXdEladHExTXlSY01SanRySmlobWdaY3F3cmdpNTFPTmlQTElXOEpGelVlUVFjQUg4eHpNWkFZRDBKdkc3c01nTFRRQ2xyMFNTWm9rT0ZtZVJqNEN1MkNxYldVbA?oc=5",
+   "published": "2026-11-17T02:11:59+00:00",
+   "id": "fde9d6cd379d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Dollar Index Tops 103.6 to Hit 52-Week High, Fully Recovering to Pre-Trump Tariff Shock Levels",
@@ -4906,6 +4930,18 @@
    "cat": "géopolitique",
    "raison": "Incertitude accrue sur les sanctions ou actions envers l'Iran offrant un léger soutien.",
    "method": "IA"
+  },
+  {
+   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
+   "published": "2026-11-16T16:16:31+00:00",
+   "id": "7c5fbe849e66",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "3rd American aircraft carrier arrives in the Middle East as Trump keeps options open in Iran war",
@@ -6586,46 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Tensions récurrentes à Taïwan, léger soutien refuge sans escalade militaire imminente.",
    "method": "IA"
-  },
-  {
-   "title": "December FOMC: Focus Shifts to Size of Rate Hike as Fed Official Says Inflation Moving in \"Wrong Direction\"",
-   "source": "BigGo Finance",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTm9YNC1CSnl6LWtVM0NZQTU0MVR4WWw3U1hOdUhMQTVsbm80QUhIbTN6U3dPRndCVXg4SEx3QTVyRWV0TERfcUg3VEc1SFI0TGZPNkZUb2xLT09tMENUSWdEMXZyenZ5R0piOHlPb18zVGVtS2c?oc=5",
-   "published": "2026-11-15T23:35:00+00:00",
-   "id": "b71c2c389f5e",
-   "impact": -5,
-   "cat": "fed",
-   "raison": "Craintes de hausses de taux face à l'inflation, poussant dollar et rendements réels.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
-   "source": "The Kyiv Independent",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenJfWV9sVzd3Y0VKZUZwQllodlNacUhTLVpIc2NObXJVNkhmdmo3QXoydFVXVzdIeVdfbnZQV3l4YnAxYUlqZlJYejYtUks0TzVlMXVlNW9LaTBrNWVsdXBOdjVnbGw1ajQtQTJDT3JER3pxTklnRF9rcEZnTFhkWGhOclIxcjZ0N3pKSkl0VUJ4aldXM0NoSUxvdXByV1RIQy1QbVJwcDRwMU1hM1RRRVpvQlc?oc=5",
-   "published": "2026-11-15T23:30:24+00:00",
-   "id": "2e5ae19398f3",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Escalade des frappes sur les infrastructures russes alimentant les tensions et l'aversion au risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump congratulates Democrats on midterms, says Iran war played role",
-   "source": "AFP.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BczZxRVIxc2wySjZlQnhTcF8tWEhsaGxqekNsYndKSFlPMkhKUGFBZ0tleXhRRFVWbXBVSDFUdUZuVFRaa21McmE2cw?oc=5",
-   "published": "2026-11-15T23:08:53+00:00",
-   "id": "9e7619fafd1a",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rhétorique politique évoquant le risque iranien, apportant un léger soutien de précaution.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|f9557448e611": 1793067373.8748484,
   "news|6432d85ec529": 1793071885.9855275,
   "news|6264c4acbe56": 1793074561.5427086,
   "brk|DXY|pdh|up|2026-10-27": 1793078352.013843,
@@ -8376,9 +8375,11 @@
   "news|58cc2d2b674c": 1794877299.3736937,
   "news|22afb07109a5": 1794880896.6703906,
   "news|5734be0f2b7f": 1794880899.5609794,
-  "news|4fcdb6875af4": 1794881771.0459137
+  "news|4fcdb6875af4": 1794881771.0459137,
+  "news|1b71170a630c": 1794884518.2211757,
+  "news|fde9d6cd379d": 1794884520.8936217
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8816,6 +8817,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T03:02:02.243285+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -42)\nMoteurs principaux : Dollar (DXY 5j) (-17), Sentiment news 24h (+15), Momentum or (vs MM50) (-15)"
+  },
+  {
+   "ts": "2026-11-17T03:02:00.893760+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US vice president vows Trump will not let Iran conflict become another ‘forever war'</b>\n📰 Anadolu Ajansı · Mar 17/11 03:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2FXcWRZV2xtbmpTbFhaWlhCY3dIay00c0RBMmxCdDNCMjlNTHFrenZ3bEtJN0IwSWFFdFl6VV9hUFdvM0tOV2xmWTVrUWN3RWxPU2FMZTJ1bHdUV2gyVXpXdEladHExTXlSY01SanRySmlobWdaY3F3cmdpNTFPTmlQTElXOEpGelVlUVFjQUg4eHpNWkFZRDBKdkc3c01nTFRRQ2xyMFNTWm9rT0ZtZVJqNEN1MkNxYldVbA?oc=5"
+  },
+  {
+   "ts": "2026-11-17T03:01:58.221284+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance says there’s ‘no daylight’ between him and Trump on the war in Iran</b>\n📰 NBC News · Mar 17/11 03:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDRDNGxfNWRYMTJBNF9hczlPU2hyb3NtZnY3OFE0aWllZDRFdkRMWWtDazN4S3hZMXFqZFpveERPTnVleHFIZm9kN1dqWlpPcEVXdkwzZXJOb2t6SkNmVi03N3B0ei1HTThqNEwteHNiVVhMSTI5bmh6QjROczBiVUtKRFpHRXFsZklGUjNCOHFPeEJY?oc=5"
+  },
+  {
    "ts": "2026-11-17T02:16:11.046022+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Post-election economic reports make Fed interest rate hike certain</b>\n📰 Denver Gazette · Lun 16/11 21:21\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTh4bjNyUDJvQkRLSUNmVjlpOHZrYTEzcWZrRkZscUE3RVdSRFNKYUZNYXJYajI4YkMyaVVLeUtRN2pUZ08yVkRjNEZsd3FOQVZ2aGhscmJUMWNycG53N2JvOVBmdFNJMHJTU01hRy1PRzlfVjNxRk80RWlON2hTeHJUYmljTDAwa2R6cFhTY3NIZF9ocHUxazJuUkg4UjlRYzJETS1GM0c2cXV6?oc=5"
@@ -9099,21 +9115,6 @@
    "ts": "2026-11-16T15:34:38.124869+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 5.115 → prix : <b>5.113</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.16 | 60j -0.31"
-  },
-  {
-   "ts": "2026-11-16T15:34:35.473014+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Iran move closer to renewed war as exchange of fire increases</b>\n📰 Euronews.com · Lun 16/11 12:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNR05ZTHJDeXhhSTcybVlvaTFZQTM5VmdDYVpBN0hEZnhYakdfaGtqdHpCclZxM29DNXJxMHdxdExOUHhWVTlZUldKNXo2ZjA3UlpEUzE2QmZiTHBJVWR5NjF3ZEpqSVplaG1rUFpzMFVyazZYSjh0dDIwQnIzelVTempKWEJIblRtb0xCbFRybkZuYjZkd2RJYkh0aXY4MlNRaFVoMjFxRGdCMktYY3dDNExrdTVtQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-16T15:16:10.291784+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Dollar Surges On Increased Fed Rate Hike Bets</b>\n📰 RTTNews · Lun 16/11 14:12\n🧠 baissier or (dollar, fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXJRM01QN0l0Wi12TmhTbXIxcWtEQTFlVVVmSnZYOWRLTjNXbXpLY1VTempKSEVjbHBIVkk3UHc0VHRidF9XX1ZaZXA5RXFJTktNZXhKUU1LemY5aVVHSXR3UGZ1Ql9QaHpvdUI2NlFBVVlZWXhlN1oyYjE2LVVnRXVOV2JOcEI4YzF4VU95TQ?oc=5"
-  },
-  {
-   "ts": "2026-11-16T15:16:09.214349+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says The New Bari Weiss-Run ‘60 Minutes’ Is ‘Even Worse’—Disputes Iran War Reporting</b>\n📰 Forbes · Lun 16/11 16:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmt3eUdSUTNnYkQ4UVlSbkJJQ09oX1BSbC1YREVRTVZOQXNTaVBSVWJ2aUp4QnFBWEVVNlV2dElnbTlFSmpiWTBtUjBnUTQ3djd3clZPTkRxWVB2ZUQzUjN3OEVwbzNvTTQxLVlzSElsbThfTzlBbzU1MUx4STkxVzRYZk5KZXpkYW9YQkZ4SzNKWjBUYS1NbE5EampINDRLNEdxVjZIelcxY1N2THlwVnRhY01vWnZuTldnM3BrRlRpN2NkeGozd2t4Z1VhdUdGb2lhY3FR?oc=5"
   }
  ],
  "daily_forecast": {
