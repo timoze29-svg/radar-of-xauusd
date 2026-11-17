@@ -1221,13 +1221,6 @@
   }
  },
  "seen_news": [
-  "1f5ac1768a1f",
-  "b3680b250514",
-  "82516334e3f7",
-  "54ae3bbf8191",
-  "cd3f3e615270",
-  "56bc98a788e5",
-  "08ae32904c7b",
   "68dabc6ca3b0",
   "da6d4da59e45",
   "cbabf7e5eda8",
@@ -4220,9 +4213,28 @@
   "ca88bec81151",
   "40a71468a17c",
   "8fc54670fa9a",
-  "27d97708f9ad"
+  "27d97708f9ad",
+  "9256d51ee190",
+  "172ec3db6d77",
+  "5b27c271f71f",
+  "cd17846cc19c",
+  "c7a9c7ba8ddf",
+  "e6bbb7fcf626",
+  "eba89e5d05c0"
  ],
  "news": [
+  {
+   "title": "Tuesday, November 17. Russia’s War On Ukraine: News And Information From Ukraine",
+   "source": "Forbes",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWFOa2k3bWtheFlTZTZoUGR0cjY4R2h0bU94ZWNYcjV0VTE4Q1BHM2VDSmdpYWpxbGU0S09lQUFSMUFDeUVFMUtseXpQMUdMRWdiWDdISmJnWk1fZndXMVdDOC1uazJYSm9IMVpVSVdfZTdtQkcwNmtqZkhTTlRYb3hUVXJhczlYUzVMWlZmRFQtMHJQMkZJNTZ0V3Z6bzY1WGpBSHl1VFhwSzNjN0JEa3BhZ0F4enkwWDRWc2I5Z2NKUEpkVEk1cw?oc=5",
+   "published": "2026-11-17T14:01:02+00:00",
+   "id": "eba89e5d05c0",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
    "source": "Al Jazeera",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Frappe directe dans le Golfe menaçant la stabilité régionale et stimulant l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine Strikes Crimean Bridge as Russian Reports Claim One of Its Arches Has Shifted",
-   "source": "UNITED24 Media",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGFtS1NpZWpsWVFzODZyaUdTUFd1RVFIYm5vVzQwRTFYYWJibGtNZnk1Q3RuUkQyRFQ1NG5MbWJ2MEJKYjRuTXNNNGFlQ3ozcFM0S3pHZkZ2QXNUVG51Y001Z0tKSWh5cG9qTVlrWnpEVFRDVEw0Uzd5MkVjRjhYaFZHbzRNMFlNRWs3YTIwVDVXUGRZb0ZTRll2c2VNeGItNUlGZnRZOFNWLVZxYnd3ZU9yTFhuOXZsYnlwMEttaTEzeU9LQ2ViTTBxa3o?oc=5",
-   "published": "2026-11-16T09:04:51+00:00",
-   "id": "08c32e032a01",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Dégâts confirmés sur une infrastructure critique alimentant la nervosité des investisseurs.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8394,7 +8394,8 @@
   "news|30694d6450f8": 1794923167.0784197,
   "news|466da50d974c": 1794923167.8842368,
   "pre15m|2026-11-17T09:10:00-05:00": 1794923170.588399,
-  "post|2026-11-17T08:30:00-05:00": 1794924102.7234418
+  "post|2026-11-17T08:30:00-05:00": 1794924102.7234418,
+  "pre15m|2026-11-17T09:30:00-05:00": 1794924965.2466426
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8850,6 +8851,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T14:16:05.246697+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-17T14:01:42.724398+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Core Retail Sales m/m</b> : prév. 0.4% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>Retail Sales m/m</b> : prév. 0.1% (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.08%\nTaux 10 ans +1.6 pb\nOr -10.5$ (extrême -21.0$, range 20.8$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -9143,11 +9149,6 @@
    "ts": "2026-11-16T22:46:16.847646+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>24 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-16T22:31:27.153510+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>3rd American aircraft carrier arrives in the Middle East as Trump keeps options open in Iran war</b>\n📰 TribLIVE.com · Lun 16/11 17:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTlNWOW51OU41eUFxbTBvS2c2TEFjWlRiaEQ1NGlYRkRlUDBrU1Y3R0FDNnpmV2hJV1lPVXNuMGZ3UmdIMy1OUjQzcHlPenZJYTZCUzFZOVNXWWF4NDBXUUNKMFBNakJDVnZCcjNKVFIwREp3bmRoNWswYmVqZ2Y4VHhYN2RmNkg4OUN6NmpNVjRLZXhpbUUwbW5qaWpjOEJPWkRoNkc5cUdTNEwwR1g0am1hbEJpQmJZWUQ0S2M1OE8wMV8tZk9HQQ?oc=5"
   }
  ],
  "daily_forecast": {
