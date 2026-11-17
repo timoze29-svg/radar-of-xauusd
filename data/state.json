@@ -1221,12 +1221,6 @@
   }
  },
  "seen_news": [
-  "f99e6ff76ced",
-  "379e70328da9",
-  "af94356bb9c9",
-  "141ae7b2cc7a",
-  "0ff92ce4e12e",
-  "177ae26bd4c9",
   "4d93d9478792",
   "2dd5ccd568d0",
   "91e7d49e537b",
@@ -4220,7 +4214,13 @@
   "09f1072e7623",
   "83b903c1da78",
   "52cbdff0767c",
-  "91acc41c8fde"
+  "91acc41c8fde",
+  "06eeb92780b9",
+  "54f361287ea7",
+  "fa13ac0807a8",
+  "b611b0585e8d",
+  "e6dc502c1001",
+  "bf076f475c64"
  ],
  "news": [
   {
@@ -4320,6 +4320,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Trump says US taking 'seriously' threat of Iran using dirty bomb in DC",
+   "source": "USA Today",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDBQOGx1dHlkdnEzQWNkTllHbjBXUFd3UVpVR1Jmd3htMU5ZREwtTGdoUUQ2TUEtZFU5V0lsZVo0N2RpYTNWTWxwVTdFeWZqN3RvRmJnOUNVRms0a0QwYXFkUG82M2c3UzhDVmEyUXhHOWFjelVjZ21uaV82WUVHaGJlRi1MeWw1bUUxOFRwMGpHZG5jUElvN3VwalZFREE2T0Zr?oc=5",
+   "published": "2026-11-17T16:49:00+00:00",
+   "id": "fa13ac0807a8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
    "source": "CNBC",
    "theme": "Trump / Iran",
@@ -4365,6 +4377,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump and Tehran gamble on time as Iran war stalemate deepens",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5",
+   "published": "2026-11-17T16:23:42+00:00",
+   "id": "54f361287ea7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6084,6 +6108,18 @@
    "method": "IA"
   },
   {
+   "title": "Gold: Central Bank Buying Is Keeping It Afloat as More Fed Hikes Are Expected",
+   "source": "Investing.com",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOal9nbG1RUnNxVTlESVFPbnI1bzkwejJ3UUVPbTNzSG9RaGtPQ2d3Mkd6elBJNHpVT0NTN0daNkNIeUNKWTBnWl9NRWM5TXpTbVptTVBZUWM0SzRTLVliZnJ4TEd5ejM4Nkh2Ylk4TndsUjZGblBJTkJwQllBNnBURjJodUJudVBjd0RpdEV0STJrLWpySDhCaGNhZGVuVERUS0xjUWRLQ0pyZHVDSHRkeGc1MTVRcXdtY1ZuRFln?oc=5",
+   "published": "2026-11-16T19:20:06+00:00",
+   "id": "b611b0585e8d",
+   "impact": 6,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump Tells Reporter to ‘Be Careful’ When Asked About Iranian Drone Attack",
    "source": "People.com",
    "theme": "Trump / Iran",
@@ -6586,46 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Simple article d'opinion sur l'opinion publique, effet marginal sur les flux.",
    "method": "IA"
-  },
-  {
-   "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year",
-   "source": "Nikkei Asia",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVYwVDg5MXZXMnJqM2dieklWMm82aEdtZnJjVDFhZEtOMktkUzgydnEzT2lOOU1VX0R5ajd0Z25jQzhPRFJMT1FmZUNwNkJMVWxRcERrQ05SSEVMOUcxV1gxeEo2U295ZjNuMEd0VUpoTGowOWY4TE80RS1KbGNIYjFUYjZMZ19CbXpSYmE5bVo2SmVWWHROa2JxUHFsVnphREhTVEt2MDZhU3IxYl9ueUhGZmQ5T3lZNEpUMERZeFM?oc=5",
-   "published": "2026-11-16T13:30:00+00:00",
-   "id": "e5159086ce6c",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Espoirs d'apaisement tarifaire sino-américain réduisant modérément la prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldXRHVxRFh1enZnM0FycFdjbnk0LTc4Y093Wm1Jb0hieDBDSUNGcnM1cVhNMExSWUVLT0dSdjNSMmp0RUVPekpqMml6b2VtbzhfWkJSazJmUXV5bDljakdUUVF5VGlPYUIxVDdNdHI3UVNhT0FqYW5QOWJKMG5fY3NRYTJ6RENEajFlYmdodEZCTEw0LW9ldTFxTTh4S0R3bHc5a2h6N1FRaFBDRkxFbVBSdHFpQdIBuwFBVV95cUxQSTFVVi1PZlRHVDRieWdSYmpwZndlR1huenBHQ3FHcDVBb3pLQVFqWUxNdFNITEtoN2NJbVB5bWhZTng5ZkpuWXZPWmg5LXNyU2hNY05Od0ZCQTVoLVVfeFNWYkNRY1YwX05iZTB0N1NOQmJfMjg0SGpKWFVuVnNzT1Jfa0d3c3gxSXItUWxCSDNNLUljOTVWOGNDNzBlc0ktUk5GcG5Gd1kteUdkaUlVblVpZzVkQzdBMGNV?oc=5",
-   "published": "2026-11-16T13:28:36+00:00",
-   "id": "d70dd1e9e6eb",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite continue du conflit en Ukraine, dynamique déjà largement intégrée au marché.",
-   "method": "IA"
-  },
-  {
-   "title": "Middle East tensions escalate as third US Aircraft Carrier deploys and Iran launches fresh attacks on Bahrain",
-   "source": "ProtoThema English",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWDRLY1VROC1ya2JwSXBhRjFZdGstUW1mdUVWVUFmLXh3S3VxT3NyU2RGT1ZoSnpzUloydXdPQTFtV1RySXJKTHduRmJuOTFlQ0JxWmJzSGlHa0M4TjVlYkRKYzlxSTFCQkE5dGRXVVZXOF9VeG0tNThvSXhwTWxYM1FqTzcxQWRiaElCYllybGItakRVaEpJSW0ycl9ZT2tyUk1STzRrU3lOUEdBcktnTUtYVXBkUTZJX0gzcS1lOHpyeEVsaXItMG9WVEdIOFhXQlYzT29fekxTbFcxOEhR?oc=5",
-   "published": "2026-11-16T13:23:00+00:00",
-   "id": "5a65d2b6799f",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Frappes sur Bahreïn et renforts navals américains amplifiant l'aversion au risque.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|8651e5fe282b": 1793125883.4276223,
   "news|45b6034eaeb2": 1793126781.0158267,
   "news|7989b8747d1d": 1793132347.7550817,
   "rep|recap|2026-10-27": 1793134902.4973404,
@@ -8415,7 +8414,9 @@
   "news|b497e8aee0fb": 1794938512.109217,
   "news|09f1072e7623": 1794939411.9639506,
   "news|83b903c1da78": 1794939412.8001542,
-  "pre1h|2026-11-17T14:25:00-05:00": 1794939413.8593931
+  "pre1h|2026-11-17T14:25:00-05:00": 1794939413.8593931,
+  "news|fa13ac0807a8": 1794940287.1186738,
+  "news|54f361287ea7": 1794940288.1047153
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8871,6 +8872,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-17T18:31:28.104825+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Tehran gamble on time as Iran war stalemate deepens</b>\n📰 Reuters · Mar 17/11 17:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5"
+  },
+  {
+   "ts": "2026-11-17T18:31:27.118769+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US taking 'seriously' threat of Iran using dirty bomb in DC</b>\n📰 USA Today · Mar 17/11 17:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDBQOGx1dHlkdnEzQWNkTllHbjBXUFd3UVpVR1Jmd3htMU5ZREwtTGdoUUQ2TUEtZFU5V0lsZVo0N2RpYTNWTWxwVTdFeWZqN3RvRmJnOUNVRms0a0QwYXFkUG82M2c3UzhDVmEyUXhHOWFjelVjZ21uaV82WUVHaGJlRi1MeWw1bUUxOFRwMGpHZG5jUElvN3VwalZFREE2T0Zr?oc=5"
+  },
+  {
    "ts": "2026-11-17T18:16:53.859727+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 68 MIN — 20:25</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.21% aujourd'hui · taux 10 ans -3 pb · biais or -34 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
@@ -9159,16 +9170,6 @@
    "ts": "2026-11-17T11:05:38.981288+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine and Russia trade strikes on key bridges ahead of Putin-Trump-Xi summit</b>\n📰 CBS News · Mar 17/11 11:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE10STZVMjlwekNqNzdzaTNockl6aUFRaWZ1MkkwU3ZVSzh1a1JMQXBqWVphTEFRTWNXWTNIVHlsdE9lWENIdVo1SWc2ckFSbVZmQVpkQVpNT1E2VXN3U2xhLW95VW85Rkp5THBnT2Fib2pWRFl2YmJfMlBwSnpHdw?oc=5"
-  },
-  {
-   "ts": "2026-11-17T10:47:24.968315+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine strike collapses section of Putin’s prized bridge to occupied Crimea</b>\n📰 CNN · Mar 17/11 08:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5"
-  },
-  {
-   "ts": "2026-11-17T10:47:22.688050+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>2-month lull ends with Iran’s third strike on U.S. targets in Bahrain</b>\n📰 The Tribune-Democrat · Mar 17/11 11:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWJTSllQY20wSXJGZzZLdkpUYzA1UEtOSzVmdkpPRGItUmNQTXZpZ2YxQmVyamE2aHdXOWNUdlhrMlUyRTR6Q1JVblQ4cC1ONmNvbmJxcFVOeXJYUmZ5N1hESTdmQ2dCVXFqNmZkdmdMLVB1aS1abWVzbE9zUUEyX1hkLUNqSjVvMXYyZWxZUFVCOWExZHZJc25EcVVILXRrLTNIVTdKX3NKSW94alRBbG9SQmFrdWhXeEhjVWFmN2kwT1c4czNRSlJSelczNVlWZ2pCY1d4ODFDVjRaZGJGZg?oc=5"
   }
  ],
  "daily_forecast": {
