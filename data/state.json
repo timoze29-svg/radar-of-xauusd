@@ -1024,15 +1024,15 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1794836963.1696908,
+   "ts": 1794909763.128548,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 114,
+      "n": 115,
       "high": [
        [
         0,
-        14.0
+        14.8
        ],
        [
         15,
@@ -1040,21 +1040,21 @@
        ],
        [
         22,
-        7.9
+        7.8
        ]
       ],
       "low": [
        [
         0,
-        19.3
+        19.1
        ],
        [
         2,
-        11.4
+        11.3
        ],
        [
         16,
-        10.5
+        10.4
        ]
       ]
      },
@@ -1090,15 +1090,15 @@
       ]
      },
      "2": {
-      "n": 120,
+      "n": 119,
       "high": [
        [
         16,
-        11.7
+        11.8
        ],
        [
         2,
-        10.8
+        10.9
        ],
        [
         21,
@@ -1108,15 +1108,15 @@
       "low": [
        [
         0,
-        13.3
+        13.4
        ],
        [
         14,
-        7.5
+        7.6
        ],
        [
         21,
-        7.5
+        7.6
        ]
       ]
      },
@@ -1184,15 +1184,15 @@
      }
     },
     "dollar": {
-     "n_hours": 5937,
+     "n_hours": 5936,
      "horizon_h": 2,
      "base_gold_up": 53.3,
-     "base_dxy_down": 48.2,
+     "base_dxy_down": 48.1,
      "down": {
       "3": {
-       "n": 244,
-       "p_dxy": 51.2,
-       "p_gold": 56.1,
+       "n": 243,
+       "p_dxy": 51.4,
+       "p_gold": 56.0,
        "gold_avg": 1.5
       },
       "4": {
@@ -1221,14 +1221,6 @@
   }
  },
  "seen_news": [
-  "0030c7702cf8",
-  "2ec73a727068",
-  "3bfef4a21bb2",
-  "182174714920",
-  "f43ba52249a0",
-  "b419123e75f8",
-  "70280e11a621",
-  "cb04e8aea128",
   "69416d50d837",
   "2c6051f10970",
   "98c3de911a4a",
@@ -4220,9 +4212,53 @@
   "d48da2fe1364",
   "2e5d294c5673",
   "a83d4baa16b1",
-  "9fee2ccec639"
+  "9fee2ccec639",
+  "c77ff188269d",
+  "081bd8672cd6",
+  "f1c24d6f2960",
+  "f7b5544b7022",
+  "59f132a5fcc9",
+  "d960d9a27721",
+  "80f02d0d8249",
+  "2eb9caad4d54"
  ],
  "news": [
+  {
+   "title": "Russia and Ukraine Trade Strikes Against Key Bridges",
+   "source": "The New York Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWtLTm1oUmtNWG42UWhuQ0l1Q05RS2pJd1NZaHBRTjNPYmpBYUV2cEJ2VkhySDZpa3RjV0dpd25WaTFCbERTdVNpZU9IQ1Y0OHVZUHZiTjc2c1hURGN6STBLRC04eTYzclJIanh2cllwM2pZRDJQanpFeERPWlN1Zjc3TXZkZXhwZWk1YllzVlk3bGRGQ0s0?oc=5",
+   "published": "2026-11-17T09:55:26+00:00",
+   "id": "59f132a5fcc9",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions persistantes en Ukraine, léger soutien refuge sans choc d'offre majeur.",
+   "method": "IA"
+  },
+  {
+   "title": "China’s J-10C missile upgrade could become a Taiwan war trap",
+   "source": "Asia Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWUwRzFFX20tWTRPVU5XTG9RR2hpZnJ5R2tKRmVoZGtkVmNQVGQ4ekFlXzFrSHpnc2JyNmdhSVh4emxCMklyTG1POGdQb05hTkdZTzZtdDhNNkFMN1J3WFdkZEU1b0hzQnc4VmphRGtydXp4YkJ2QkczUk9zU1RSbjJzZG1iOHBxTnhZMjlySFdhMzRO?oc=5",
+   "published": "2026-11-17T09:46:11+00:00",
+   "id": "d960d9a27721",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Risque géopolitique latent autour de Taïwan, impact immédiat limité sur les flux.",
+   "method": "IA"
+  },
+  {
+   "title": "Business - China, Canada agree to further reduce tariffs at APEC summit in Shenzhen",
+   "source": "France 24",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV2J1VEZzUGdnU1U1bzFtU2NYUjRmUFhxbllHTXJia3BNV2pZaXV6c2JlTGJrT25nRGJ1Yld0SlUyOVhxYTRpTkV5YnFJUjZSTFhyNnA2dFk5eWlPT1NhV3ZUUXVuR2pMcFhMMGlaekhIU2FzSzZ2dlBRZHdEZElVX0NvZktlY3djNUdLenhlVEU4RFdOQVI2XzE0cE8zbTRlRGlwOURtM21nVXlSS3l6T2d1cVVwdG1oZnNQY2pRV0t4ckFM?oc=5",
+   "published": "2026-11-17T09:45:26+00:00",
+   "id": "081bd8672cd6",
+   "impact": -1,
+   "cat": "commerce",
+   "raison": "Désescalade tarifaire bilatérale favorisant l'appétit pour le risque, neutre à légèrement baissier.",
+   "method": "IA"
+  },
   {
    "title": "Russia, Ukraine Trade Strikes On Key Bridges In Kyiv And Crimea",
    "source": "Radio Free Europe/Radio Liberty",
@@ -4233,6 +4269,30 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Escalade militaire régionale alimentant modérément la demande d'or comme valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "T. Rowe Price’s Ritu Vohora: Higher bond yields, harder questions",
+   "source": "Investment Week",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdW5pM3BiZ25ERGNEOXB3ZEJNODBCQ0tPWEY4UFJYeDdUbnRZMWdLTjl6Z3owaS1UT0ZhbHh2cHg3ZWxEYkcyOXdVU3JJOEp2amlVcUt0bFFrRG5FWF9rZlRIUEhkUUxpQlNsTVlwR1hTS2hTQ2NiZ1RiVUhQdlFoOE5HeGtncXlldGxabTVmWmpJNXlqeU5tam10SHpoVjVYV1E?oc=5",
+   "published": "2026-11-17T09:33:45+00:00",
+   "id": "2eb9caad4d54",
+   "impact": -2,
+   "cat": "taux",
+   "raison": "Hausse des rendements obligataires augmentant le coût d'opportunité de détenir de l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
+   "published": "2026-11-17T09:27:41+00:00",
+   "id": "f1c24d6f2960",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Escalade militaire en Crimée, renforcement modéré de la demande de valeur refuge.",
    "method": "IA"
   },
   {
@@ -4332,6 +4392,18 @@
    "method": "IA"
   },
   {
+   "title": "Ukrainian Strike Sends More Than 270 Meters of Russia’s Crimean Bridge Into the Sea. How Bad Is the Damage?",
+   "source": "UNITED24 Media",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVBBaXFXZzJVVnBsODhTMjc0U21kRXplLXJ6eUxKQVRpMnEwb0hrMkt3cU1ER0t2ZzhnOUVHNkpYNnhxbUNBZEpIOWhLUDhwUFlPVlR2NFBhMjh6QS14R3JjNXlCYVlmSHEtcC1JLWIwQ256S1ZsX2lKNWZsNmZUWG5DRjNqUEtaTVNSa2lIZGJIM1hWeTRPZTE4eVBuTVAtUld0V3g2Q1VWYkZ0WUp0VzhvUmdlS0FtWUVfcVE0UFNCX3kzbWxlOWs3YlFxeTJoUmdsbk1fX0NXSnd0VG5OSUk2S0s2QQ?oc=5",
+   "published": "2026-11-17T08:47:15+00:00",
+   "id": "f7b5544b7022",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Dommages majeurs sur infrastructure stratégique russe, risque de représailles haussier pour l'or.",
+   "method": "IA"
+  },
+  {
    "title": "Gold News: Spot Gold Tests Long-Term Value Zone After More-Than-Year Low",
    "source": "FXEmpire",
    "theme": "Or",
@@ -4401,6 +4473,18 @@
    "impact": 1,
    "cat": "inflation",
    "raison": "Article d'analyse sans nouvelle macroéconomique concrète, impact quasi nul sur les cours.",
+   "method": "IA"
+  },
+  {
+   "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+   "source": "BBC",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NYVFTSEtzV3VvOVhraFNhOWhQcmcza3NXUU1oZzRQUDdFNkNhbG94MmozLTI0S21kSmZ0MFVNVzRBM0dtQ2JUODZjY01xdmFETjBfZ1BxU2NldDg?oc=5",
+   "published": "2026-11-17T07:44:17+00:00",
+   "id": "80f02d0d8249",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Friction militaire russo-japonaise, prime de risque géopolitique marginalement haussière.",
    "method": "IA"
   },
   {
@@ -6538,90 +6622,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold price today, November 16th: Sharp drop after 1 week, buyers suffer a loss of 8.2 million VND/tael",
-   "source": "Laodong.vn",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSzVwdkl6cTYwOXNRdWZxdm0xTmlVeEpseWdaWEg3VE5JY1ZrOHRSTG93c1Y3WVFzODM5cUZqM0NTM3ByYjZHUU9NS3JxSTA0d1dJWmhQRWZJRF82TFNMdzVMNFNfNWJ1SjNuRXROMGtvdzJ1a1R2QWV6T1o5am1YUkF1ckZEN3JjMHQwWnVnVndvNE9rTmxjemw3R0Nib2FNMTR3ZUl2TUxBZFNRYWh5UUZmZnQ2X1drVHhFUjFtRlBRd1hndGxmdUZR?oc=5",
-   "published": "2026-11-16T02:57:18+00:00",
-   "id": "811e79cd31dc",
-   "impact": -1,
-   "cat": "or",
-   "raison": "Constat rétrospectif des cours locaux vietnamiens, impact fondamental quasi nul sur le cours mondial.",
-   "method": "IA"
-  },
-  {
-   "title": "Indian bonds brace for a rough week as US treasury selloff sends yields soaring",
-   "source": "The Times of India",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcXZXcnJtX1pPbXlMN0lEQ1ZfUV92YS1LNTFpRWkxdXhGbGs0a0xyRUpxTmVlakZiX0hLM2UtMUNTX21jakU1TjBhUjBxbkE0cDZhREd1TUxIbmlaUEtlR05sWGpjZWx6bTl2ZXkzLWpZcDRfWWVueG9PWjhBNjU1OGFaOTZBQ3FoUFN4RS1wRzhhMnpSTTZkY1N5UFRJdkxaSWNubzBJUTc4YmtJYThkVGptZFoyS0ZjU0dVUjVrNXQzX29tVG8xbXZPY2hkclplRml6VDRWR21Wb08tLTQ4cmRYeFNnUVFBYXI2YU1sVTJvSGF4Qm9JZw?oc=5",
-   "published": "2026-11-16T02:57:00+00:00",
-   "id": "c2e8ad162017",
-   "impact": -3,
-   "cat": "taux",
-   "raison": "La hausse des rendements obligataires américains augmente le coût d'opportunité de détenir de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "United States Dollar Index holds gains above 103.50 on hawkish Fed comments | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkOXFrUXNjc00xTFl4d3FUdFZhU2dfb3FTZkhJOU9MUDN4M1BFNkdsWXRocXNXZkJScF9UUWNrZTczUnZGbGRVYnllakxaQTVwbS04?oc=5",
-   "published": "2026-11-16T02:55:02+00:00",
-   "id": "f5b676743ed0",
-   "impact": -2,
-   "cat": "dollar",
-   "raison": "Un dollar fort soutenu par une Fed hawkish pèse mécaniquement sur le lingot.",
-   "method": "IA"
-  },
-  {
-   "title": "US forced-labor tariff to figure in Marcos-Trump talks",
-   "source": "Philstar.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEs0Z3VveW1PMERJS0VydWwxR1ZRME9zc0pidG5FSDFWaDBaUnlDZ2FvWDYxQmIxZ2dwZi1HcEpDb1A3Q0FKMDRwejlVWVVJN2JyeW8waF9TdElrcXNIWDRRSTRwOTJNWUNOR2x0QXllclJweUdEUjlTbE12NlAzSDZTb01qWjdmMlNzZmpKYlk4TWNjUllSS3k0WmpDX2diVDg3NdIBqwFBVV95cUxPeDR4dExEenpLMGNiZVFtSnRZSC1fVVhwRWh2ei1NLS1DSm5ZSkNwMnVydnU3d2phTGFlTGVtcldoZElrZzhZQzRyTXZVQ05MbGhHNU8zWm9PT3IzdjVVeE41dTVPQWhhd2FIQll0MTFGVmRnWm8wcmc0MU5wMC1WOVczdEZWZlBhQTczT0tmVVpkZ3BGY091YXpNTzhqR1ktWmR1ZWkwTDU3eTA?oc=5",
-   "published": "2026-11-16T02:53:00+00:00",
-   "id": "4c4991da08df",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
-   "source": "WSJ",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
-   "published": "2026-11-16T02:46:19+00:00",
-   "id": "3196ee8eac88",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Désescalade perçue avec l'Iran diminuant la prime de risque et l'attrait refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "United States Dollar Index holds gains above 103.50 on hawkish Fed comments",
-   "source": "FXStreet",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUQ1Skg4R0RWamZ5V1QtVDFDTVVsQ0RVWlhLRGc5OUR1Ti1hckZLaHNNSmJYV2hrTzdYaF9sZUZ4enpZeGVDTUh6UkVVZjFjMlp0aXByektNTUdobFU0cnRMeW5nTmdvaGgwOEQyNGlzcXZBeXNtN1ZSX1JxTDZLWE9hZGdOXzRrZ2Qtb3M0bzFCUGxEdmJZcDRHNVVhMmVRMjVmSVF4UkNWQ2xXUmd1WUdIT0dIZkpR?oc=5",
-   "published": "2026-11-16T02:45:21+00:00",
-   "id": "1125df8e0790",
-   "impact": -2,
-   "cat": "dollar",
-   "raison": "Dollar ferme et rhétorique hawkish de la Fed renforcent le coût d'opportunité de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine war briefing: Energy attacks made possible by continuing Starshield restrictions, says Zelenskyy",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUndLQk1KbFRBWVEwdTRHRWN3cVdOQk5CVGtmN193ck5EbnlmZUxYUEhGN1llTV9wRTByTUJ6Ry15ZXQ1bEJyakRZendBbTR1eUlvb0RzeElFb1pjbzNQYkVkSEQxTXVlQjlyaG9VekF0bEJNYnlFa2ZKaWt1cldtTDJQQWhadlJOVU1jOGl3b0Z3dkx3akY0cU44NmNPQ3FYSmxnRkoxRjEydTAzY3BFX0dZeUpjWFN5QXIzQVZHTFF6NW9iLVZpQWNJeWlLTTduTlJjcWZkdUY1U0YwdUlBODJB?oc=5",
-   "published": "2026-11-16T02:43:00+00:00",
-   "id": "ec3838c88225",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Guerre d'usure continue en Ukraine apportant un soutien de fond minime.",
-   "method": "IA"
   }
  ],
  "fired": {
