@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795039280.7299771,
+   "ts": 1795043761.4536917,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "f3eb59214c66",
-  "4ed63d269677",
-  "d3faa93bc45c",
-  "221d5189950b",
   "5102d9218753",
   "354e0d94e7bd",
   "6ae703bdcac2",
@@ -4220,7 +4216,11 @@
   "b88b59f10dbc",
   "318444a18aaf",
   "74143d29e49d",
-  "f13b4b8843bd"
+  "f13b4b8843bd",
+  "356ea04622d0",
+  "4f03fced564f",
+  "3eb2dcb48948",
+  "79566d6c8892"
  ],
  "news": [
   {
@@ -4426,6 +4426,18 @@
    "cat": "fed",
    "raison": "Discours hawkish et rendements obligataires en hausse pénalisent l'actif sans rendement.",
    "method": "IA"
+  },
+  {
+   "title": "Mossad chief lobbied for fresh US-Israeli strikes on Iran during US trip, sources say",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUE5HaFlNc0JMc1V3d2NtV25kVlJoN1RRay1GemlzYUpVYUV2SUllSkk3cFpueGxPSkgtbWZ5RllrV0lTMllWLWRnYXdnSFhiVjZfQXhpSVo2cXQwSDJQU2EtN1BlcnJRRU1SRllKNl9EWUE0X1dtVXMtNDF5U250R0JDVGx1V2R4NWNhaDBJSldnUk5FQUNrbXZPbkc4amc1WFhNTnlyd2IwcXhCenFERlZRWlhJUdIBuwFBVV95cUxQNzlJVDFqSXg5RVRyak92MTJlLUY0c01MZzRVZHFPX2o3eVNJd3NlY2JmMU1MZEtYY0hheVI2YkJnY0RQNnA1OGtwRjlfdlF5SXZDMEkzQ1pKS0VzUm5IMndzTDB4LVNJb0c0dkFJUnZEQm5sLTNYZWlxbjl5dVBCRy1FbGFxc1cwV244bnA5a09tSHpZM2VnTEE2bXIzdGc0WU9UM3M0dWw1S01obVBqMnhHVDVvSDJiZC1N?oc=5",
+   "published": "2026-11-18T19:13:00+00:00",
+   "id": "4f03fced564f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Fed minutes: nearly all participants see further rate hikes as likely appropriate",
@@ -6610,24 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Ciblage de la 5e Flotte américaine à Bahreïn, risque de guerre ouverte.",
    "method": "IA"
-  },
-  {
-   "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-   "source": "NPR",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3RGxpNDRlLU9XRVNDenV4bWMzQU03QzRvRlc0eEN0aFF5aV9OYkg3VGZtT3M1UUNyRnpWVmFnbDdRbmRKazhsQnNmVjh2MFJUNk45dmVIaUtucWh5bW9haDR0Z2ZIZjBfMU1QVVhFc05BMlVIZnB4RUF0WQ?oc=5",
-   "published": "2026-11-17T18:34:31+00:00",
-   "id": "c3ebc97b4d86",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Frappes répétées contre les infrastructures militaires américaines dans le Golfe.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|3e154ee3641f": 1793229366.455141,
-  "news|2ccab504f223": 1793229367.2689073,
-  "news|92a1c0831eaf": 1793229368.0879114,
   "news|d7e1d14e9b2f": 1793232102.5368242,
   "news|e566669bb128": 1793232103.4512148,
   "news|6b73a9a60979": 1793236564.7566638,
@@ -8461,7 +8458,8 @@
   "news|7b646def35ce": 1795040171.1830215,
   "news|3d0fce1c6ca3": 1795041093.575757,
   "news|ec67fcca8d0e": 1795041094.4203248,
-  "news|f6aa92d7e514": 1795042348.4137788
+  "news|f6aa92d7e514": 1795042348.4137788,
+  "news|4f03fced564f": 1795043778.7949102
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8933,6 +8931,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T23:16:18.794995+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad chief lobbied for fresh US-Israeli strikes on Iran during US trip, sources say</b>\n📰 The Times of Israel · Mer 18/11 20:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUE5HaFlNc0JMc1V3d2NtV25kVlJoN1RRay1GemlzYUpVYUV2SUllSkk3cFpueGxPSkgtbWZ5RllrV0lTMllWLWRnYXdnSFhiVjZfQXhpSVo2cXQwSDJQU2EtN1BlcnJRRU1SRllKNl9EWUE0X1dtVXMtNDF5U250R0JDVGx1V2R4NWNhaDBJSldnUk5FQUNrbXZPbkc4amc1WFhNTnlyd2IwcXhCenFERlZRWlhJUdIBuwFBVV95cUxQNzlJVDFqSXg5RVRyak92MTJlLUY0c01MZzRVZHFPX2o3eVNJd3NlY2JmMU1MZEtYY0hheVI2YkJnY0RQNnA1OGtwRjlfdlF5SXZDMEkzQ1pKS0VzUm5IMndzTDB4LVNJb0c0dkFJUnZEQm5sLTNYZWlxbjl5dVBCRy1FbGFxc1cwV244bnA5a09tSHpZM2VnTEE2bXIzdGc0WU9UM3M0dWw1S01obVBqMnhHVDVvSDJiZC1N?oc=5"
+  },
+  {
    "ts": "2026-11-18T22:52:28.413904+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>More Iran war? US military buildup and fresh attacks in Gulf fuel fears of escalation</b>\n📰 Ynetnews · Mer 18/11 22:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XTXZ5V2RRcG1DOHhKbnNkMzJ4WGNFb3FnNU84ZHBweDh3aDhWb25HRjJxLXgxMmdFRzJnZzRxeG9ibW95S3JZWjloZnN1V05Ib183SDlR?oc=5"
@@ -9226,11 +9229,6 @@
    "ts": "2026-11-18T14:16:09.684899+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel warns that it is ready to take more territory if escalation in the region increases</b>\n📰 Demócrata · Mer 18/11 13:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG8tZUszc3lYdEZaRWsyeXd3M2dZVHR1MW53R1hjVUg1SGdCWG5kT001ZzRMdUl1MVVoRUhodDJjNFdfdVdrVmNOd2xTdVlXRUEtNnMxWUlMMWlwcFZWdnNoc2NfSjJUQTRTYnZxd3plQjBXVEw3Qi1lQU1ublE4cVdCZGtOLU55eEliTTNaRERBUmRSQTVwWDYyOFJBU0h1QWpiZjIzcTgyNmt2M1JrYWtzdThCdUtVdWxCUUV2M2dUekcxMWt5SFcyZGJhaGJxdlZV0gHTAUFVX3lxTE5Uby1lSzNzeVh0RlpFazJ5d3czZ1lUdHUxbndHWGNVSDVIZ0JYbmRPTTVnNEx1SXUxVWhFSGh0MmM0V191V2tWY053bFN1WVdFQS02czFZSUwxaXBwVlZ2c2hzY19KMlRBNFNidnF3emVCMFdUTDdCLWVBTW5uUThxV0Jka04tTnl4SWJNM1pEREFSZFJBNXBYNjI4UkFTSHVBamJmMjNxODI2a3YzUmtha3N1OEJ1S1V1bEJRRXYzZ1R6RzExa3lIVzJkYmFoYnF2VlU?oc=5"
-  },
-  {
-   "ts": "2026-11-18T14:16:08.672552+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s fake AI video of US troops amid Iran war backfires: “Absolutely sickening”</b>\n📰 Dagens.com · Mer 18/11 15:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3lBeWQtZlF4TUVpRkhobHRhTmR6bXJrQWEzQjBtTWk3R0hnT0dZMzRqNGczQTFyMGZXYTFhMXAzekdwcVl3bTEyci0yTmdBcXVfNnhIREFEU2xQTGdMaHJiNTdmVFB6ZlM4WTE0T3VzWVM3cTlRZ2RkVzZwVkV4eHhmdGFRNmZoT0RqTWRtc2VkY2FWcTY0aC1RczU5NzFFWmhwLXEyaUN1dw?oc=5"
   }
  ],
  "daily_forecast": {
