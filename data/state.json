@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "e80e31e557b7",
-  "ae65d2b1a7ab",
-  "40bccc64e114",
   "918b8292155c",
   "c695c7fd8084",
   "cffe807d375e",
@@ -4220,7 +4217,10 @@
   "7cd97b970f74",
   "420d6acdd9a9",
   "ead5815fdebc",
-  "1eb3c71fe9f6"
+  "1eb3c71fe9f6",
+  "e88f83ab69c9",
+  "6807363a6496",
+  "89134fc84499"
  ],
  "news": [
   {
@@ -4236,6 +4236,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Trump warns Iran over report of ‘dirty bomb’ plot",
+   "source": "NBC News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZU1kbTRGUkNYR3JDdFppZVpYWFBLcW9vdFJKalhvSXZwUEZnQXFqMjdnSW1GaDZfRE1GYUU3U3dEWExnd3FOaVhXSW0xUHBqdVlXRVNIZFM2TWNJOUlWekhrQnNtRXJxc0NYRjJtRFljNUc4dmtCdFFVUWJfQklGSjdERGZFLXhGdzMyc2lDZlFWcTZJZXo0VE9FUVJGb2ZvZHp5a1Bn?oc=5",
+   "published": "2026-11-17T23:58:15+00:00",
+   "id": "e88f83ab69c9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Iran Is Emboldened After Trump and GOP’s Election Losses, Officials Say",
    "source": "The New York Times",
    "theme": "Trump / Iran",
@@ -4245,18 +4257,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Risque accru de tensions au Moyen-Orient offrant un léger soutien de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Washington Can Start Delivering on Affordability by Rejecting Trump’s Tariffs",
-   "source": "Tax Foundation",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhRRFhsa2d6d0NORXVyMEloRFU4b3J5al83QnNnXzlBYWcxSmZKWGJLZUlqQnVBWDd5ckR2STZ2WVNrN29YWGxKZFRlNVdVUEpraWFfM1RiU2owZTB3TFhlUjNZQXR0OW1PWkR5NTg3R01pZExLQjFQaFZRM0ZpWUQzVGM?oc=5",
-   "published": "2026-11-17T22:59:04+00:00",
-   "id": "bfeaa0d615e7",
-   "impact": 0,
-   "cat": "commerce",
-   "raison": "Opinion d'un think tank sans portée politique immédiate sur les tarifs.",
    "method": "IA"
   },
   {
@@ -8431,7 +8431,8 @@
   "news|85bae0471188": 1794954688.5593426,
   "news|2fd6a99b38bb": 1794955565.0319788,
   "news|420d6acdd9a9": 1794960964.6816847,
-  "news|7cd97b970f74": 1794960967.274304
+  "news|7cd97b970f74": 1794960967.274304,
+  "news|e88f83ab69c9": 1794961887.0502837
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8887,6 +8888,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T00:31:27.050379+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran over report of ‘dirty bomb’ plot</b>\n📰 NBC News · Mer 18/11 00:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNZU1kbTRGUkNYR3JDdFppZVpYWFBLcW9vdFJKalhvSXZwUEZnQXFqMjdnSW1GaDZfRE1GYUU3U3dEWExnd3FOaVhXSW0xUHBqdVlXRVNIZFM2TWNJOUlWekhrQnNtRXJxc0NYRjJtRFljNUc4dmtCdFFVUWJfQklGSjdERGZFLXhGdzMyc2lDZlFWcTZJZXo0VE9FUVJGb2ZvZHp5a1Bn?oc=5"
+  },
+  {
    "ts": "2026-11-18T00:16:07.274393+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Middle East Brief: Naval Tensions in Hormuz and Escalating Conflicts Across the Region</b>\n📰 Sada Elbalad English · Mar 17/11 14:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDAzbmM4UHZOV2pUVlZfVVhsd2R0UnFBQnNob0RMSXVIREZGYktCczVYZW1uQ3MzN0NOM256bWQwcWZEMnE4NjhMT01yejJnSXdoU0E0TElNblFVZUdxcnZMZjZ0cmt1ajZ6Sl84Y2FLbThzMjNmQy12Y196LUdoSDFJQjl5d3FUOFF3Sk83U2w3ZGxXNjFOVHFPTXp3V1M5Vmg3dA?oc=5"
@@ -9180,11 +9186,6 @@
    "ts": "2026-11-17T14:16:05.246697+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-17T14:01:42.724398+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Core Retail Sales m/m</b> : prév. 0.4% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>Retail Sales m/m</b> : prév. 0.1% (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.08%\nTaux 10 ans +1.6 pb\nOr -10.5$ (extrême -21.0$, range 20.8$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
