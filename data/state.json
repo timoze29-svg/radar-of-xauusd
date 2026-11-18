@@ -1221,14 +1221,6 @@
   }
  },
  "seen_news": [
-  "94c56dab8898",
-  "dd450ec92a16",
-  "6f3bca99801a",
-  "1d5429db739b",
-  "b9860490910e",
-  "b08e68b5dd1b",
-  "b4a57e743564",
-  "ef7f1c2728c2",
   "08f2e39b2d67",
   "56ae7f34ad2b",
   "e7f758cd4f1d",
@@ -4220,9 +4212,29 @@
   "c3c1515b03e3",
   "6afcd33e73b9",
   "cbcbdcd5d39b",
-  "453328b3458c"
+  "453328b3458c",
+  "9cc50bf693f9",
+  "62c128dad826",
+  "00b2179fd54d",
+  "bb1eae404626",
+  "efc0665b9d3b",
+  "6e6f79bb5a30",
+  "8dce04136dda",
+  "10a0a5603215"
  ],
  "news": [
+  {
+   "title": "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+   "source": "Kathleen Hays Presents: Central Bank Central",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy15WmRpeFUycWVWbE1HRVpMU1BpOVdJRjg3ejhQWHctckJmOGR2TEthcXhLb2dOcWRITUhMS09qNzh1SjU1NjlJR2xHLVNIeDQ3dkRtMjFHbjF4b1dtTS1CUkFUcDlyZ1BZRWhibHpZQlh3cW5nSm03WXBwRGtXa1F3?oc=5",
+   "published": "2026-11-18T20:03:34+00:00",
+   "id": "bb1eae404626",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Kaplan Sees 10x Gold as Central Banks Buy the Dip",
    "source": "Streetwise Reports",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Menaces de représailles iraniennes sur les infrastructures augmentant le risque d'embrasement énergétique.",
    "method": "IA"
-  },
-  {
-   "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
-   "published": "2026-11-17T16:56:38+00:00",
-   "id": "431d6425fdd3",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Effondrement partiel du pont de Crimée faisant craindre une réponse russe dévastatrice.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8454,7 +8454,8 @@
   "post|2026-11-18T14:30:00-05:00": 1795031537.7653172,
   "news|c3c1515b03e3": 1795032450.9003901,
   "news|6afcd33e73b9": 1795032453.3791974,
-  "pre1h|2026-11-18T16:15:00-05:00": 1795032454.5563197
+  "pre1h|2026-11-18T16:15:00-05:00": 1795032454.5563197,
+  "news|bb1eae404626": 1795034066.346891
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8926,6 +8927,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T20:34:26.346964+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes</b>\n📰 Kathleen Hays Presents: Central Bank Central · Mer 18/11 21:03\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy15WmRpeFUycWVWbE1HRVpMU1BpOVdJRjg3ejhQWHctckJmOGR2TEthcXhLb2dOcWRITUhMS09qNzh1SjU1NjlJR2xHLVNIeDQ3dkRtMjFHbjF4b1dtTS1CUkFUcDlyZ1BZRWhibHpZQlh3cW5nSm03WXBwRGtXa1F3?oc=5"
+  },
+  {
    "ts": "2026-11-18T20:07:34.556739+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 67 MIN — 22:15</b>\n\n🇺🇸 <b>FOMC Member Kashkari Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.28% aujourd'hui · taux 10 ans -4 pb · biais or -43 (FORTEMENT BAISSIER)\n💵 Dollar EN FORCE ↑ (baissier or) — 2/4 signaux\n📏 ATR jour de l'or : 97$ → attends-toi à des mèches rapides."
@@ -9219,11 +9225,6 @@
    "ts": "2026-11-18T12:16:08.253823+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump is trying to put the Iran war behind him, but it’s not over</b>\n📰 The Washington Post · Mer 18/11 12:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5"
-  },
-  {
-   "ts": "2026-11-18T12:16:07.325625+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>1 killed, nearly 30 injured as Russia, Ukraine exchange overnight strikes amid Putin's China visit</b>\n📰 Anadolu Ajansı · Mer 18/11 13:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZkZidTluVGRrZ3FfTWpwckJUdGpYNzREZ1F6dW9mZlJ6ZlBGZ214NFA0RDVFX0VVemZENnlhN3V3RFNqb1FFdDBRMndlM2dxb2JFaW0tN3NSVUM4eUFrT1llMjl0Z25heXVjY3VoNDZVa1BucGYtVFRKVkVwVHpBdTJwTUVTTDNGUmYyVUltcUMxTzFVN0lIUlN5Q3R2NUE3cHBtWXpGQ19qYVNXUGEzbEN0ZlY5NzVwN2hkb0RiRXM5MzVyU0d5WXFuc0hsMGFBak00YTd5V0h2Rmc?oc=5"
   }
  ],
  "daily_forecast": {
