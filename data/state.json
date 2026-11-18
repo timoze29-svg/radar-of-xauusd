@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794972897.2287486,
+   "ts": 1794995152.1572268,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "20cea83160cf",
-  "073d35d47388",
-  "09ecdebb420e",
-  "fb116891b32c",
-  "56a69f80d254",
   "0c50f1929504",
   "e5d770e5ea9b",
   "daac6b4137f1",
@@ -4220,7 +4215,12 @@
   "a73c88f05bfd",
   "4c61cfe1e71a",
   "e53b932874fa",
-  "8fb1404ff53c"
+  "8fb1404ff53c",
+  "4881e31d5463",
+  "51555c86e45f",
+  "3dfde8e12e89",
+  "3696f7bb85e3",
+  "b5dc6d54c2a7"
  ],
  "news": [
   {
@@ -4714,6 +4714,18 @@
    "cat": "géopolitique",
    "raison": "Perspective d'escalade délibérée de l'Iran alimentant l'achat défensif d'or.",
    "method": "IA"
+  },
+  {
+   "title": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
+   "source": "CBS News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJURjBQYXVkNTJSWEMyUlRrbFJ3NjJETGptNjYxX1JSS3lob1NOekp3WkZYcDdWVUtEaFRHYlpzUGg5d1FlNDE0QWdhMmtoUzBJb2piaWZFZWF3OFBaNjY1dTJMMldkdTVtNE1lWFJadlhpRFdFeWZYam5zN3RwWmFiSUw?oc=5",
+   "published": "2026-11-17T23:59:00+00:00",
+   "id": "51555c86e45f",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump warns Iran over report of ‘dirty bomb’ plot",
@@ -6610,25 +6622,9 @@
    "cat": "fed",
    "raison": "Anticipations de hausse des taux renforçant les rendements réels au détriment de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. $14 billion arms sale ‘up to’ Trump, Taiwan official says",
-   "source": "The Japan Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUC1nZWctclNpWXBxWS01c1N6MlJRUE0tZmVNUnZwVl8zTUdoNi1YZTA5YWtwbDMwVEZxOGRDUS1yUUd1cGhlR1AyZUJEMUxHcmtkbnNxQWRQSEd2dkE5eDBQTko2MU85aGRuYkJJZEpxVWY3d09GcVpkb1UxUDJLMFE5WVlzN18yYUxiZGdiQVUycy1WWWpyTy1HVlowUUtGR3ROaURDWQ?oc=5",
-   "published": "2026-11-17T03:14:00+00:00",
-   "id": "9fee2ccec639",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Ventes d'armes à Taïwan ravivant les frictions sino-américaines à court terme.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|194fab35ed78": 1793180768.6078868,
-  "news|f2c7cfeaa218": 1793180769.5328856,
-  "news|23e611c9cf88": 1793180770.4360635,
-  "news|f6c502b7b0ba": 1793180771.3110352,
   "news|9e5b3a224646": 1793182562.3863914,
   "news|d4048f854da4": 1793184363.6777966,
   "news|db20f9c6be2d": 1793184364.6215477,
@@ -8430,7 +8426,8 @@
   "brk|OIL|h20|dn|2026-11-16/2026-11-22": 1794991586.327796,
   "news|baf0136c5c9b": 1794992894.725268,
   "news|b9edcfb8e082": 1794992895.6595702,
-  "news|e53b932874fa": 1794994645.753324
+  "news|e53b932874fa": 1794994645.753324,
+  "news|51555c86e45f": 1794995370.0753958
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8902,6 +8899,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T09:49:30.075485+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz</b>\n📰 CBS News · Mer 18/11 00:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJURjBQYXVkNTJSWEMyUlRrbFJ3NjJETGptNjYxX1JSS3lob1NOekp3WkZYcDdWVUtEaFRHYlpzUGg5d1FlNDE0QWdhMmtoUzBJb2piaWZFZWF3OFBaNjY1dTJMMldkdTVtNE1lWFJadlhpRFdFeWZYam5zN3RwWmFiSUw?oc=5"
+  },
+  {
    "ts": "2026-11-18T09:37:25.753447+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bahrain, Kuwait announce incoming attacks amid increased US-Iran tensions</b>\n📰 The Jerusalem Post · Mer 18/11 09:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeTRlNmtkbFdLalhzVlY2NTZkb3hQOS1qQkFOUzJUZEVJMUxINmsyalNEM1JnMnRwYmJpRXE3S2RNTTNsdHIwbVZKRmY1a3BEdXhlNXZ4Qmllek1Z?oc=5"
@@ -9195,11 +9197,6 @@
    "ts": "2026-11-17T18:01:49.572407+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia and Ukraine escalate attacks</b>\n📰 DW.com · Mar 17/11 18:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBDbHZIbWhwckJULWJIYzFOZTZKb2NhR3VwM1FPZmViNzQ4eTVGcHJVS2dYaWl2dGZlQk9wQWszR1p2RUtJSi1yMlpLUDVLVHhPaWlPWjBQemF4VXRjNExhNG5BcFJTc2xDTXBtZ2dyY0RNWS1YQUZoaUZLOXk?oc=5"
-  },
-  {
-   "ts": "2026-11-17T17:46:19.798711+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran could pay major price if it carries out dirty-bomb plan</b>\n📰 CNN · Mar 17/11 17:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE9ORHVZSjFGdGFnWE1WcW1mbVF3S0Q1cElVQTJmMWNzX2ViSXZpUVZRbjVrek83NnZ3RlFWMEdIWXVXRTFuLUtWZGFyVnBldk94UXg0RkpoTEd4TTVKODZvaFZHc214VDVETkduQ045YlFMZTdkYmdYRFFjbV93dw?oc=5"
   }
  ],
  "daily_forecast": {
