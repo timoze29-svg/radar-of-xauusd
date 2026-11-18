@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "8d8a02b37342",
-  "25f12f92448d",
-  "40eee69f9cb7",
-  "da6c07517205",
   "b214d11da95f",
   "7c9c46ea9cb7",
   "999504a92355",
@@ -4220,7 +4216,11 @@
   "73c54b66072b",
   "d9be2b186669",
   "2386b80f5833",
-  "158a42e078d6"
+  "158a42e078d6",
+  "44a64dd16e89",
+  "ca66ef2d1854",
+  "1b522bf14f30",
+  "3bde7470dfb8"
  ],
  "news": [
   {
@@ -6625,7 +6625,6 @@
   }
  ],
  "fired": {
-  "news|442f750cc742": 1793223125.139231,
   "news|90f27fed2e35": 1793226683.9226139,
   "news|3e154ee3641f": 1793229366.455141,
   "news|2ccab504f223": 1793229367.2689073,
@@ -8458,7 +8457,8 @@
   "pre15m|2026-11-18T16:15:00-05:00": 1795035895.8870296,
   "rep|recap|2026-11-18": 1795035897.7006354,
   "news|d9be2b186669": 1795036718.761231,
-  "news|2386b80f5833": 1795036721.494003
+  "news|2386b80f5833": 1795036721.494003,
+  "post|2026-11-18T16:15:00-05:00": 1795037877.133754
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8930,6 +8930,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T21:37:57.134675+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 22 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Kashkari Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.0 pb\nOr +2.1$ (extrême +2.5$, range 2.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-18T21:18:41.494131+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war tensions rise ahead of Trump's China summit</b>\n📰 Fox News · Mer 18/11 18:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZUDk1LTZpZUgwVEJBMk92cWd0RnRrYm1CVU9wOWE5UDRmOWhkWVpRTkNfOTFCUDBPYTgxZS1ZQzNucWlERG84WkhWOTExZFp1bS1oNzFn?oc=5"
@@ -9223,11 +9228,6 @@
    "ts": "2026-11-18T13:46:29.523217+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Kuwait warns Israeli nuclear ambiguity, Iran's nuclear program undermine Middle East stability</b>\n📰 Times Kuwait · Mer 18/11 08:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVl0S0JSNDVUbkpkVGtGZENFWUZoLUlCcDM0QTJFUHJMOUNodTZna0d5cFY4RjJyckU4UTNQNFpqVWU1X2pqRXo0LU1NMlVhYWRPc3VUSDVmMVd1UUJiYnhKSzBqQjZ5SXd4U09mLUxHSndRTW9jM2dYVDRXRGRabUwwbnRLZ2J6TFQtMlFvbHY3Q3g4OVd5aHlGZkFNRHdDTW9sZEo5TV96ZlBSTmNBc3ZtVExqeHBS?oc=5"
-  },
-  {
-   "ts": "2026-11-18T13:46:28.735221+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Index: Fed minutes in focus as hawkish expectations meet overbought signals</b>\n📰 FXStreet · Mer 18/11 13:30\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPeS1sdjdRNVg2czRFbVNxaGJ4bXJNRURmdl9rV09NU2FEakk0M1JOY0hsZmNlVTdVLXY1d05kUVI0M19jSmQxcXZKd1RlaHNLVzJwUXpMVjB3LVJvSTV2Nl83Ni1vdllDZTdwcXNWa3BzS3VlNEFwenNIQjJBUEh5Z29PbG9wWFhHN3ZjbHJhTFJNYWJZNFBNblBHMnNodWFGdXIyakVraVlsWE5idWVqbmpva2pMN1lzbjBFbDRaczFjYUFVdkE?oc=5"
   }
  ],
  "daily_forecast": {
