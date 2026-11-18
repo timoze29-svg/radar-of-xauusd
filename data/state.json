@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "6f713c8a8e31",
-  "eede7695c2d0",
-  "86dfd3e16ade",
-  "e18476b35708",
   "70a8e833f4f6",
   "b4c4175e88c8",
   "943d55489fe3",
@@ -4220,7 +4216,11 @@
   "032234ad7f53",
   "1c73ea9b7385",
   "888f976fcc2a",
-  "cba089499d06"
+  "cba089499d06",
+  "e735dd023a9d",
+  "a575b10c7b10",
+  "6f271b1602da",
+  "fc7c630b9b5b"
  ],
  "news": [
   {
@@ -4365,6 +4365,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold plunges to 14-month low, silver tumbles as Fed rate hike bets intensify - Kitco AM Report",
+   "source": "Kitco",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1lPTzhpcGxNNEc1UnNNUl95N0tVaWhyM21jaHlsY1BkWFlKM25DclBGZXBoaDFZaWJNbzNubU9FZTV4UzgzMW52Tm1TUkVkRVRfbjlrekhKVmxzcWdHT19zTXJpbjdiaGNDTU5XenB2bWo2aXd1cHh4emdfR0xmaVU2MmtZdjB0akt3MHhnSXNUeGNVemRCZHVWN3lmS0h4Mm9QbGVBdHlUUndrSVpDVDV0VDl6RmFyYjJENkRB?oc=5",
+   "published": "2026-11-18T14:06:27+00:00",
+   "id": "e735dd023a9d",
+   "impact": -10,
+   "cat": "or",
+   "raison": "baissier or (fed, or)",
    "method": "mots-clés"
   },
   {
@@ -6610,23 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Avertissement russe direct à la France augmentant le risque d'escalade OTAN-Russie.",
    "method": "IA"
-  },
-  {
-   "title": "Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike",
-   "source": "NBC News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjlyREctVlhIbFZKYlFsRFBDOEcyZzlnQnJIWVllVFk1SXN4dlBaVkZhajNZV2ZLU0MtS1hMUG5Nd1NGREFaV1pzbHZET2hPQTFIV25aWXhRTzkxX2hsY1lqanpvTmUyQmhKUV9oRGk5ck9ldUFoeVdtX3JZT05QcmlCd09DUXNDa2lPaGdOWnBOOEpjbWU0bF9OVDFtRTV0WE1USnhISGw?oc=5",
-   "published": "2026-11-17T11:38:22+00:00",
-   "id": "466da50d974c",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Destruction partielle d'une infrastructure symbolique russe provoquant une fuite vers la sécurité.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|cd16387882bf": 1793205091.2474236,
-  "news|18ddd386f453": 1793205092.1665914,
   "pre1h|2026-10-28T14:00:00-04:00": 1793205968.3418908,
   "pre1h|2026-10-28T14:30:00-04:00": 1793207899.0265942,
   "news|f7ba52a20f52": 1793208700.5036147,
@@ -8441,7 +8439,8 @@
   "news|026f2d82a5c7": 1795018575.0861666,
   "news|300f757d9659": 1795018575.8339317,
   "news|8664ca20db28": 1795018576.5841622,
-  "news|888f976fcc2a": 1795019490.7457457
+  "news|888f976fcc2a": 1795019490.7457457,
+  "news|e735dd023a9d": 1795020363.6243567
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8913,6 +8912,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T16:46:03.624433+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Gold plunges to 14-month low, silver tumbles as Fed rate hike bets intensify - Kitco AM Report</b>\n📰 Kitco · Mer 18/11 15:06\n🧠 baissier or (fed, or) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1lPTzhpcGxNNEc1UnNNUl95N0tVaWhyM21jaHlsY1BkWFlKM25DclBGZXBoaDFZaWJNbzNubU9FZTV4UzgzMW52Tm1TUkVkRVRfbjlrekhKVmxzcWdHT19zTXJpbjdiaGNDTU5XenB2bWo2aXd1cHh4emdfR0xmaVU2MmtZdjB0akt3MHhnSXNUeGNVemRCZHVWN3lmS0h4Mm9QbGVBdHlUUndrSVpDVDV0VDl6RmFyYjJENkRB?oc=5"
+  },
+  {
    "ts": "2026-11-18T16:31:30.745867+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>DW News. . Vladimir Putin's Russia and Iran have strengthened their alliance in recent years. Despite their close ties, the Kremlin has little incentive to push for a rapid end to the conflict, especially as instability in the Strait of Hormuz creates new opportunities f</b>\n📰 Facebook · Mer 18/11 17:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkxyOTViRENaQklyTUh0dVA0MWFKZTFWX0VYNnNPaU5PUEh3cko0TEc0NWoyZFd2SWo2NEk5VERMdWxNV09ieV9QcUNpbC1aNGpFUWIyTHZGRlgtWk9TZ1BsWFMxSzB0cHhZN1pUWWVYVEZ2bEFxUFAzR0RwTDU4a0dIX2ZxekxxelVYSnVpb05RcVRqWTVoS2gyamFZMFZleGpJUjlVc1JMQndWSWRGXzE2emJlUGo0dm1uVWNjN05NUlphaE1WVFM2VkYydkpTVGI5alhLUGZGY1gzNmh3cXdB?oc=5"
@@ -9206,11 +9210,6 @@
    "ts": "2026-11-18T01:31:22.303325+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Emboldened by US midterm results, Iran drafts plans to escalate war</b>\n📰 The Jerusalem Post · Mer 18/11 01:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE85bEZIQ1lIN1NBbUwycWlXd3VzNTJQa1hVSE4wTEJZLU9TM0xvcXd5MTZ0YkRtY0tYbFpuTkhLMHVoYlktcFc0YWVzNVJ5ZTVYczRMMkxnX1pDS2VVeWlvWndaR0dwYzRGTXc?oc=5"
-  },
-  {
-   "ts": "2026-11-18T01:16:09.632165+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump slammed for 'absolutely sickening' AI-generated video of troops as Iran war drags</b>\n📰 AOL.com · Mar 17/11 20:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhxbnJFbmxmTTBUcEFXc2RrZGw4VnktUVkxRHdCRTE4ZWRYQmNQT1NmOUV2V01PRkwtelJiQUVVcW5qaU5PenJVWmNjaTZhVkZvYmNsUjA3WGx2RC1UYXVXWE1ybk1tcGxGSEpwUzB5eFlKcVl0VzhBN3Rkbi1rN01wd0VucVhK?oc=5"
   }
  ],
  "daily_forecast": {
