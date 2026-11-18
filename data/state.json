@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795017678.4883842,
+   "ts": 1795039280.7007594,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.92,
-     "date": "2026-11-16",
-     "chg5": 0.29,
-     "chg20": 0.18,
+     "last": 2.89,
+     "date": "2026-11-17",
+     "chg5": 0.23,
+     "chg20": 0.09,
      "hist": [
-      2.1,
       2.09,
       2.06,
       2.07,
@@ -129,7 +128,8 @@
       2.78,
       2.86,
       2.91,
-      2.92
+      2.92,
+      2.89
      ],
      "gold_rel": -1
     },
@@ -265,12 +265,11 @@
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.83,
-     "date": "2026-11-16",
-     "chg5": 0.32,
-     "chg20": 0.09,
+     "last": 4.8,
+     "date": "2026-11-17",
+     "chg5": 0.24,
+     "chg20": 0.03,
      "hist": [
-      4.01,
       4.0,
       3.99,
       3.98,
@@ -389,14 +388,15 @@
       4.73,
       4.86,
       4.88,
-      4.83
+      4.83,
+      4.8
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-16",
+     "date": "2026-11-17",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -458,7 +458,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795034769.901514,
+   "ts": 1795039280.7299771,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -8460,7 +8460,7 @@
   "news|2386b80f5833": 1795036721.494003,
   "post|2026-11-18T16:15:00-05:00": 1795037877.133754
  },
- "last_bias_label": "FORTEMENT BAISSIER",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-09": {
@@ -8930,6 +8930,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T22:06:19.152565+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : FORTEMENT BAISSIER → <b>Baissier</b> (score -37)\nMoteurs principaux : Momentum or (vs MM50) (-15), Dollar (DXY 5j) (-12), Fed (2 ans vs taux Fed) (-10)"
+  },
+  {
    "ts": "2026-11-18T21:37:57.134675+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 22 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Kashkari Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.0 pb\nOr +2.1$ (extrême +2.5$, range 2.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -9223,11 +9228,6 @@
    "ts": "2026-11-18T13:46:30.304263+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘The most ominous signal’: Four ways Trump may pivot after the midterm rout</b>\n📰 The Washington Post · Mer 18/11 03:21\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQRE0wVUt4UjlxcV9JckJzUS1kMWdIQnhXSy1EOVN0ZmF0UHpvRTNfOVdQOER1WV9kQnNKZ21XeUc2NjUtOW5Mcl9iTFZQQko2azQ4STRHcnhPSXdKaDdQclJXWXdoNXBoTUFEaUxwUG01WHFrNFJHbWp1NG4tNTdPNjNpYXkzcXBYYWdRaWpWaURLS1hDZWxxWm1YbGVqc2xYck9EcA?oc=5"
-  },
-  {
-   "ts": "2026-11-18T13:46:29.523217+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Kuwait warns Israeli nuclear ambiguity, Iran's nuclear program undermine Middle East stability</b>\n📰 Times Kuwait · Mer 18/11 08:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVl0S0JSNDVUbkpkVGtGZENFWUZoLUlCcDM0QTJFUHJMOUNodTZna0d5cFY4RjJyckU4UTNQNFpqVWU1X2pqRXo0LU1NMlVhYWRPc3VUSDVmMVd1UUJiYnhKSzBqQjZ5SXd4U09mLUxHSndRTW9jM2dYVDRXRGRabUwwbnRLZ2J6TFQtMlFvbHY3Q3g4OVd5aHlGZkFNRHdDTW9sZEo5TV96ZlBSTmNBc3ZtVExqeHBS?oc=5"
   }
  ],
  "daily_forecast": {
