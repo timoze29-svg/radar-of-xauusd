@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "5be6f036a9c9",
-  "90031cd2e7bb",
-  "56f248346eb2",
-  "a44672a87691",
   "682db302ac4d",
   "1f3c8e354eb8",
   "e27b618c2dfb",
@@ -4220,9 +4216,25 @@
   "a83450c12692",
   "010c00b961e7",
   "a6c467200dd1",
-  "6e249cc4f577"
+  "6e249cc4f577",
+  "e6a4c96f3559",
+  "69ae243bfbc4",
+  "a0a027d27e08",
+  "ccd8dd069638"
  ],
  "news": [
+  {
+   "title": "Emboldened by US midterm results, Iran drafts plans to escalate war",
+   "source": "The Jerusalem Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85bEZIQ1lIN1NBbUwycWlXd3VzNTJQa1hVSE4wTEJZLU9TM0xvcXd5MTZ0YkRtY0tYbFpuTkhLMHVoYlktcFc0YWVzNVJ5ZTVYczRMMkxnX1pDS2VVeWlvWndaR0dwYzRGTXc?oc=5",
+   "published": "2026-11-18T00:41:12+00:00",
+   "id": "69ae243bfbc4",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump warns Iran over report of ‘dirty bomb’ plot",
    "source": "NBC News",
@@ -6610,18 +6622,6 @@
    "cat": "dollar",
    "raison": "Raffermissement du dollar et resserrement monétaire pénalisant mécaniquement le cours de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time?",
-   "source": "WWD",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
-   "published": "2026-11-16T20:33:41+00:00",
-   "id": "1a119693ea77",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Incertitudes sur la trêve commerciale Trump-Xi, légère prime de risque.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8432,7 +8432,8 @@
   "news|e88f83ab69c9": 1794961887.0502837,
   "brk|GOLD|pdh|dn|2026-11-17": 1794962772.0254307,
   "news|a6c467200dd1": 1794964568.7292466,
-  "news|010c00b961e7": 1794964569.6320393
+  "news|010c00b961e7": 1794964569.6320393,
+  "news|69ae243bfbc4": 1794965482.3032079
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8888,6 +8889,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T01:31:22.303325+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Emboldened by US midterm results, Iran drafts plans to escalate war</b>\n📰 The Jerusalem Post · Mer 18/11 01:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE85bEZIQ1lIN1NBbUwycWlXd3VzNTJQa1hVSE4wTEJZLU9TM0xvcXd5MTZ0YkRtY0tYbFpuTkhLMHVoYlktcFc0YWVzNVJ5ZTVYczRMMkxnX1pDS2VVeWlvWndaR0dwYzRGTXc?oc=5"
+  },
+  {
    "ts": "2026-11-18T01:16:09.632165+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump slammed for 'absolutely sickening' AI-generated video of troops as Iran war drags</b>\n📰 AOL.com · Mar 17/11 20:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhxbnJFbmxmTTBUcEFXc2RrZGw4VnktUVkxRHdCRTE4ZWRYQmNQT1NmOUV2V01PRkwtelJiQUVVcW5qaU5PenJVWmNjaTZhVkZvYmNsUjA3WGx2RC1UYXVXWE1ybk1tcGxGSEpwUzB5eFlKcVl0VzhBN3Rkbi1rN01wd0VucVhK?oc=5"
@@ -9181,11 +9187,6 @@
    "ts": "2026-11-17T14:46:08.752544+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says government takes report of Iranian plans for dirty bomb ‘very seriously’</b>\n📰 The Washington Post · Mar 17/11 15:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcFlvTGVHYURPQUs2bmJTc2VFZkg1VC1WdTRKQnJrV09uTDhwbVRaOXktUFZsbVNrTWwyMlpUNnBUb2hYSjJ0QXhHRGx2T2x5YVZOS0s0R3FpTDRyeXFKX1pUUmJJVnJ0M25PQmlka3JoVWhWa01OZm5CdW55elJSbnRpb2JPQllqckRzM1lwWFhKT253dTZ5SXV5OExpcF9yRjJRa1kyQUN5Y2taWmdWQlNvaEdMQV91emhKb3BTT3o0RElzLUN0Tk9WYW4xZlhs?oc=5"
-  },
-  {
-   "ts": "2026-11-17T14:31:30.329193+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>FORTEMENT BAISSIER</b> (score -40)\nMoteurs principaux : Dollar (DXY 5j) (-16), Sentiment news 24h (+15), Momentum or (vs MM50) (-15)"
   }
  ],
  "daily_forecast": {
