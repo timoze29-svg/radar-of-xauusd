@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1794951069.3490272,
+   "ts": 1794972897.2287486,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -135,12 +135,11 @@
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.2,
-     "date": "2026-11-16",
-     "chg5": -0.03,
-     "chg20": -0.15,
+     "last": 2.21,
+     "date": "2026-11-17",
+     "chg5": -0.01,
+     "chg20": -0.14,
      "hist": [
-      2.4,
       2.39,
       2.39,
       2.38,
@@ -259,7 +258,8 @@
       2.2,
       2.24,
       2.24,
-      2.2
+      2.2,
+      2.21
      ],
      "gold_rel": 1
     },
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794969067.0734386,
+   "ts": 1794972897.2612867,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,7 +1221,6 @@
   }
  },
  "seen_news": [
-  "d086e4de1e88",
   "2fcf059b3cab",
   "7a7570374e45",
   "8600e835d301",
@@ -4218,6 +4217,7 @@
   "238f531dcd4a",
   "7bb930a5f585",
   "7deb9e3b48f1",
+  "1ba8c2ca11e8",
   "303450028034",
   "683a234ca412",
   "fb582ab9a474"
@@ -4483,7 +4483,7 @@
    "published": "2026-11-17T22:24:30+00:00",
    "id": "7deb9e3b48f1",
    "impact": 10,
-   "cat": "géopolitique",
+   "cat": "commerce",
    "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
