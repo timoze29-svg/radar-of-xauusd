@@ -6625,8 +6625,6 @@
   }
  ],
  "fired": {
-  "news|fa20aa741358": 1793148367.37164,
-  "news|ac73ebd0e631": 1793148368.306278,
   "news|1f795839b2dc": 1793149299.0021002,
   "news|8a0407ce6209": 1793151094.466405,
   "news|45e928e5268d": 1793152000.097581,
@@ -8432,7 +8430,8 @@
   "news|2fd6a99b38bb": 1794955565.0319788,
   "news|420d6acdd9a9": 1794960964.6816847,
   "news|7cd97b970f74": 1794960967.274304,
-  "news|e88f83ab69c9": 1794961887.0502837
+  "news|e88f83ab69c9": 1794961887.0502837,
+  "brk|GOLD|pdh|dn|2026-11-17": 1794962772.0254307
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8888,6 +8887,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T00:46:12.025502+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 3 835.20 → prix : <b>3 826.90</b>\nATR jour : 97.6$ | Pivot hebdo : 3966.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>46%</b> des cas (extension médiane 12$, 684 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-18T00:31:27.050379+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran over report of ‘dirty bomb’ plot</b>\n📰 NBC News · Mer 18/11 00:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNZU1kbTRGUkNYR3JDdFppZVpYWFBLcW9vdFJKalhvSXZwUEZnQXFqMjdnSW1GaDZfRE1GYUU3U3dEWExnd3FOaVhXSW0xUHBqdVlXRVNIZFM2TWNJOUlWekhrQnNtRXJxc0NYRjJtRFljNUc4dmtCdFFVUWJfQklGSjdERGZFLXhGdzMyc2lDZlFWcTZJZXo0VE9FUVJGb2ZvZHp5a1Bn?oc=5"
@@ -9181,11 +9185,6 @@
    "ts": "2026-11-17T14:31:28.416417+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Dollar Index eases from April 2025 high as hawkish Fed bets and geopolitics underpin demand</b>\n📰 VT Markets · Mar 17/11 14:42\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXZEc1VsYmstODhhRzFqNXI5OU1FcWd6Y0hySVc2NmJVci1CSGI4c185Q0t2MEZOZURxSUlHNDlXMzVaM0tvdENkZlVRQWVqYXdkeHh4SWtpTi1jNk4zNFZ4VjgxZHZtbFU3VGpNZXU2c2YzdnVzcXprWE9GNlFBMEdVMjZKSC1EMnpkWEptc2wxcTZGQ1o4TjNxWlAtcjlYdk5hc0tRSGhmSnRZNERsYUk2ZExUandmYmN5QXNZTFB0RzV3Z0lqUHdaYkM1ckZ2UWsw?oc=5"
-  },
-  {
-   "ts": "2026-11-17T14:16:05.246697+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>14 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
