@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1794991552.054621,
+   "ts": 1795034769.8288333,
    "data": {
     "date": "2026-11-10",
     "net": 190107,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795031155.261732,
+   "ts": 1795034769.901514,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,12 +1221,6 @@
   }
  },
  "seen_news": [
-  "08f2e39b2d67",
-  "56ae7f34ad2b",
-  "e7f758cd4f1d",
-  "dc2f0294a399",
-  "4bbf0b6b39c3",
-  "5b211f0963c5",
   "72c8a20380f2",
   "7d7de7782f06",
   "8201e6e8f10c",
@@ -4220,9 +4214,27 @@
   "efc0665b9d3b",
   "6e6f79bb5a30",
   "8dce04136dda",
-  "10a0a5603215"
+  "10a0a5603215",
+  "d9fbdfe9a62a",
+  "abe0ddb092c6",
+  "9182b0a4c3f9",
+  "bcd4a89c749b",
+  "918b8292155c",
+  "7e9bef1f299e"
  ],
  "news": [
+  {
+   "title": "Iran strikes US drone sites in Kuwait as hostilities escalate in Middle East",
+   "source": "SBS",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFRCTmRzQS1CSHc2ZUtISVd1Rms5azVOZVJQd0FSMHJ5Ujd4Nk5JLTdKM2lobUdiRE1ScGgwWC1fa2lKeF9ySVdhMnNIeExtbE5hYkxzcTBYOEpoLXRoLTdpTFBNSEZ1eGVqdV8yZWlyY3VQWV9MaTRjbG1qZURwcmRhWFpKZml2OGM3c3NhUF82WDZ6N2QwV2oxZmMwV293VzdNbmEzUEV5aHRxT2dkdVdkSm11c1BhM3h1ZVdHcW5BVGg0SUxkOQ?oc=5",
+   "published": "2026-11-18T20:10:37+00:00",
+   "id": "d9fbdfe9a62a",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
    "source": "Kathleen Hays Presents: Central Bank Central",
@@ -4881,6 +4893,18 @@
    "impact": -4,
    "cat": "commerce",
    "raison": "baissier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+   "source": "BBC",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTa1F2RExCTGE2dGZ5eTN2YlZzRnNyQk5WUjAxT1lFNEg5NHd5c09VZTdTZmhvaXNsTW9GNzIwX3dqTDNDV19xazJtSFIxeHFzeFhCRXRZa3NRQm51eVE?oc=5",
+   "published": "2026-11-18T13:04:48+00:00",
+   "id": "9182b0a4c3f9",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6597,30 +6621,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Incertitude prolongée au Moyen-Orient maintenant un plancher structurel sur la prime géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold to hit $5,600/oz by 2028 as Fed rate cuts and central bank buying boost demand, says Goldman Sachs.",
-   "source": "Pluang",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzBSTE5DTkNOT0NyclpfN0hDRXkyVVN6U1NHQTZmTlFpMEwwNUprWEtvbjNMOXJ4LVF5NEhHeU43WlRNVGtsR1g5YlEzdldpdHA4blBZaGRYYUtjYzRUdU4zTVpWWEpnc25ZbG1XUHlIOGxZVG9hUl9YMlFMTlRGSkNGZDVmYVlFcEhJdTAzR0JLOHpsOF83dEZpbDNCeENJQ19lTVJ6TW9hYW56?oc=5",
-   "published": "2026-11-17T17:06:32+00:00",
-   "id": "26de90c0e75d",
-   "impact": 3,
-   "cat": "or",
-   "raison": "Objectif très haussier d'une banque d'affaires majeure galvanisant le sentiment acheteur.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran Vows Tit-for-Tat Strikes on Civilian Infrastructure if Attacked",
-   "source": "Bloomberg.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb05lWHNKaUUydkN6dW1mcTJQbzJCM2VWTXRkcEFFOHNQaVFfblhhMEhETm9IbGxMc01ONDcxcTJGOVVCRzJTR3RRbktySDlzM2dxOEkzUGh4OW1wWTZPLUR1WmNsSGlkaTQzUF9yVkR5RlRqOTYtYWJzMUh5bnBST3N3eDJTTzlYY1ZSckxCQnlhV1RxTVNzdW9HMVlKdGtMTTVSU1lBNG9ycVBaemE5QS1SaW5wUThEcXRFNmNTaw?oc=5",
-   "published": "2026-11-17T17:02:01+00:00",
-   "id": "db640ed972d9",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces de représailles iraniennes sur les infrastructures augmentant le risque d'embrasement énergétique.",
    "method": "IA"
   }
  ],
@@ -8455,7 +8455,8 @@
   "news|c3c1515b03e3": 1795032450.9003901,
   "news|6afcd33e73b9": 1795032453.3791974,
   "pre1h|2026-11-18T16:15:00-05:00": 1795032454.5563197,
-  "news|bb1eae404626": 1795034066.346891
+  "news|bb1eae404626": 1795034066.346891,
+  "news|d9fbdfe9a62a": 1795034785.2283597
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8927,6 +8928,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T20:46:25.228434+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran strikes US drone sites in Kuwait as hostilities escalate in Middle East</b>\n📰 SBS · Mer 18/11 21:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFRCTmRzQS1CSHc2ZUtISVd1Rms5azVOZVJQd0FSMHJ5Ujd4Nk5JLTdKM2lobUdiRE1ScGgwWC1fa2lKeF9ySVdhMnNIeExtbE5hYkxzcTBYOEpoLXRoLTdpTFBNSEZ1eGVqdV8yZWlyY3VQWV9MaTRjbG1qZURwcmRhWFpKZml2OGM3c3NhUF82WDZ6N2QwV2oxZmMwV293VzdNbmEzUEV5aHRxT2dkdVdkSm11c1BhM3h1ZVdHcW5BVGg0SUxkOQ?oc=5"
+  },
+  {
    "ts": "2026-11-18T20:34:26.346964+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes</b>\n📰 Kathleen Hays Presents: Central Bank Central · Mer 18/11 21:03\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy15WmRpeFUycWVWbE1HRVpMU1BpOVdJRjg3ejhQWHctckJmOGR2TEthcXhLb2dOcWRITUhMS09qNzh1SjU1NjlJR2xHLVNIeDQ3dkRtMjFHbjF4b1dtTS1CUkFUcDlyZ1BZRWhibHpZQlh3cW5nSm03WXBwRGtXa1F3?oc=5"
@@ -9220,11 +9226,6 @@
    "ts": "2026-11-18T12:46:22.166594+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed’s Waller warns inflation heading wrong direction, may prompt rate hikes</b>\n📰 Crypto Briefing · Mer 18/11 13:43\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnQ4RF9ndXhtUEktRnNCVkNmazRNMk8xTWtSWXBYWlFHc1d3N2ZBUjltdDBCcnh4Y0NYV1JHUDdtTExlSDYwcDBLRWVlczhmMU5PcTd5UXVtMUhzVlVwQWY0YmtQd05fSVh4UU9CTGFna01rVUIxVlh4bWk2MGplb2FlZW9WV1NsVEgyX1JjQ0dEMzFfcVJsTzh4dVZocEZzc1l3?oc=5"
-  },
-  {
-   "ts": "2026-11-18T12:16:08.253823+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump is trying to put the Iran war behind him, but it’s not over</b>\n📰 The Washington Post · Mer 18/11 12:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5"
   }
  ],
  "daily_forecast": {
