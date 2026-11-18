@@ -1221,13 +1221,6 @@
   }
  },
  "seen_news": [
-  "50f358a68834",
-  "8411fc18b698",
-  "6e164b79f698",
-  "052cacfffb88",
-  "0da3cc8f5dee",
-  "4c29e72b6f5d",
-  "2be1c725f8fd",
   "7fa1622dcf21",
   "c741af9851a5",
   "7d2c6d5377e6",
@@ -4220,9 +4213,64 @@
   "d32488f90990",
   "8b3a5141c1c3",
   "9c7c43c5f6b4",
-  "8931e4f9eee0"
+  "8931e4f9eee0",
+  "4a2f938b219b",
+  "0424c8f39301",
+  "38f187f445ab",
+  "e3ea7b61373a",
+  "8ed15d4d27fa",
+  "9a7a2bdef36a",
+  "be2b570c476c"
  ],
  "news": [
+  {
+   "title": "Gold price drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric",
+   "source": "Mining.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzJ3SW41M0FnMmVhbTNmV0xqR3dfYlZLMV9nM0FDNzMydGI3MFdLVmJWYnZLRFVyd2pWdGZucHl6SGdqdDZTekg4NmE0TVNHVGFIb09Zc1gxdHk3TjBicmdIYWhmQkZnUDVobWJvTk83U0pCSEdLbXBfTWMyUThHb2JwVjU5OFFOWHBxbk5NR01ReVdseDVhalB1cGYtWncyZFV4cVhPOUVIZw?oc=5",
+   "published": "2026-11-18T19:14:14+00:00",
+   "id": "4a2f938b219b",
+   "impact": -10,
+   "cat": "fed",
+   "raison": "baissier or (fed, taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Fed minutes: nearly all participants see further rate hikes as likely appropriate",
+   "source": "Crypto Briefing",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVhEUTMwX3UyR212djFEckFOZkdOOHRvNkZMOXNFZVBNeEpwMi1ocVBON3BiM0lYaG16d21TNVFvZ2stckZXQkEzQ1F3X2NTcVdxM0JaRk5kNEY5SG02MWNobUR4QzNIbURtQkJwYjhGZzkxa1hKQXdKbnVLTXdmbXR4RTRBM2Y5OFRFdFFFWjZONklVLVR5LW5ESGJxU0lST2Ztd2lWdEs3ZW9M?oc=5",
+   "published": "2026-11-18T19:05:09+00:00",
+   "id": "e3ea7b61373a",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Central Bank Buying, Middle East Risks And The Outlook For Commodities",
+   "source": "Seeking Alpha",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1ZucFlDRGptdHRfWXBaUnlsMVRIams1alVsQXJ4VVlnZElSc0VndjZYVW81UVRnQkpQZUtlWkp2Y0xrOEM0dTV2dnZBX0lpNUVYLWE3c1RUYmlRN1FqREFQVjd0V1VkSWlvbkpZdzZESVJ4QlRxNHRtb3ZaSjNfOHZjLXMxUHpFTXNIa0h6ckhtTm9pUTdoN2RCRU9lbHRJa1JSRg?oc=5",
+   "published": "2026-11-18T18:55:00+00:00",
+   "id": "9a7a2bdef36a",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump-Vance tensions grow over Iran war as Marco Rubio emerges as 2028 favorite",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90R2lMaWlCR2NDVTBBS01zNUJHb1dTQl81U2NyMDdsZlBxWnJuTVBYX0FIMXlqTDZzOXhMNkY3ZXlGRWwzT2JsbHVpSUVEN3lVbjRUWW11XzZjd1VmYkl4M0R6d0s?oc=5",
+   "published": "2026-11-18T18:46:49+00:00",
+   "id": "38f187f445ab",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Waller Urges Half Point Fed Rate Hike to Fight Inflation",
    "source": "Limapagi",
@@ -4233,6 +4281,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China",
+   "source": "Fox News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkpOdlB0QTkxRnY2WXJ5bmJsYkJ0OUc2UFcyb1JfVFFvOEM4QzYxT193My1DeWoyeGlscHNwelNJMlRkdHI0YzZXTXNxM1Z5NE95NDRaZnB2VUNwcVB2Y1F5ckdycDBOTU1mN0t2QVk3WDVTTm9zdzVkZmFydlFfRE5zWEhlWnpMUGtpMzYyUEtPY3oyTFdRbTlycExMUFhmU3VvUDZUSWg5QTZpNk5CNmdVYWVkWWo0WkJlZdIBwgFBVV95cUxPUFNsZzRZREVadllKd1pfdUpheVkxNXpwYWdWZDJmblZpYTllanhhSjUteDRBTml5Ym9FSHJUb2lhUmRPMy1QbUYtcGFIOTBXSkJXcjhXcW81bHl3Zk0xb2o2aEcxM3pHUEE5MnM1bnZJNURqM3M0N0NGUm0xSy00VlFOYkE5U0o4cEU4YUx3bnZqUzR2STZMb3M0QkhiTHpwWmU0UFhqNGxYWjJwaXhKTUVrMloyU2RVSXJYQk9ldllHZw?oc=5",
+   "published": "2026-11-18T18:32:36+00:00",
+   "id": "be2b570c476c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6562,72 +6622,9 @@
    "cat": "or",
    "raison": "Objectif haussier à long terme soutenant timidement le sentiment des investisseurs.",
    "method": "IA"
-  },
-  {
-   "title": "Vance vows US won’t make long-term commitment to Iran war",
-   "source": "The Hill",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdThxcGtWb1dHOGcxV2lfLWVYVDItNjlOWV9sN0ozTmJaN0pPTmxxZnFQaWxVQUgyNTNhX3h1a0JIcExYT0lKd3E3TXl0VnFsNWpQMlVHakF6T25UMHB6N0hkbERxazVjQW9ibUlFcjJ4V1pvc2tlM3VOamNPNWU2NF82SmN0Z2c5Z0HSAY8BQVVfeXFMT182R3hkR1lQWkgyYUJNSlkxX0pRamJrWDdXcWh6TFI5bXBhS0hlSnh5TVdPeUxkSTVxZXdxMkpwcVcybjNkVmtSYk9MWC1PVkU3VVdoM2hmYkpmb1FzTDB6cS15d0RmaUttMEhjN0R3T0daN1RWNktUakpDTDlOdFhPQnMxYVExdW56anFvSFU?oc=5",
-   "published": "2026-11-17T16:19:00+00:00",
-   "id": "b358aaafecd4",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Refus d'un conflit prolongé réduisant légèrement la prime de risque militaire.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine strikes Crimea bridge after Russian attacks on Kyiv",
-   "source": "Vatican News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFA3aGZaa0xmVi1SU2hPRTVRdkh3a0k5dzhIdUJtMHZYVnlfbHR5eTM1OExMY0g1dzYxSmVQUmZxOUgwRE1ldDZfQUh0RzVPX3dCRnNJRXNxdUJJWkZrWXZWdmdtTzJobVdMVWZNZVBPRzVZQWY5ekpmWW9OWE5KcmZSRlBiaXBXdlVMRHBnV3Z2Vms?oc=5",
-   "published": "2026-11-17T16:12:23+00:00",
-   "id": "9f9698f6c733",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frappe sur une infrastructure clé ravivant la demande d'actifs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-   "source": "The Guardian",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSG12Wlc5NkNZNU5KOUI2V1BzSFE5VWhfNmt1Z2hhemRjekxGMkM2QUJWT0hGSk04NmwtOVRRaHBGSlVpY1VZRW5OM1oxTkVZUks4RmhFRG9OYXJQdzJyNGJISU9ROTZXZms2TFM1Zy1OcU9zWVBKYmt1MVpFX1dkcnp3LXM2M09VWlUweVYzTnQ1cmtDMnY3QlFaTQ?oc=5",
-   "published": "2026-11-17T16:05:00+00:00",
-   "id": "280ab831a307",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Menace iranienne évoquée mais relativisée, maintenant une modeste prime d'incertitude.",
-   "method": "IA"
-  },
-  {
-   "title": "US Dollar: Rate expectations and energy moves lend support – MUFG",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek5id1pHLXRxdEdqd3Fuc3d5RFl4WG5aZzZQT3QyaHBwazNjd3JGUDhJbDBrY3NSUnVkNDR3LXNVZ0VsV0N1bTZMeHdOSkNZeTA4WXJmU0dVV3ZYbC1mTzJDRHFwZjdoT0hPYllmWW15TjJ2VzZvbU1wMUZJaERKdHZQdDVVY3FkSVVkaURoTldFNExvXzN4bkJfUWtWR1RzQk9HSTJiRUdvMC14Y3hJWU0tOEFPaTRYQVRWbXF3NzR0YzJSQ0NZUnN0bw?oc=5",
-   "published": "2026-11-17T16:03:02+00:00",
-   "id": "8ccccfd06617",
-   "impact": -3,
-   "cat": "dollar",
-   "raison": "La vigueur du dollar et les taux élevés pèsent sur le coût d'opportunité.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
-   "source": "France 24",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0FDZ1BwNTZhZmI1a3hxZkxMamFNZzZ1MXhnS0FiMDNsMHBRZUU2UUpualp6aFBZUGMydEtRWVlXajdLSjRFQ1ppMkF1R3NhNWlsVGNPX2Q5M3o5S05oand5ejU4b3Y4dHUzMG4xMGNnclFiVTlZOFRxdzZocHl5M2tJSU9fTW8yMkZvX3pCVGhmZ2hPbWRHTFFxUUQtQk9KMVBzZHJVOFBLNWF3SGF2ZFFoTVI0OGdIaUw5RQ?oc=5",
-   "published": "2026-11-17T15:44:54+00:00",
-   "id": "df366b451763",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Propos présidentiels alarmistes renforçant temporairement la recherche de sécurité.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|5ac90ccc4f7c": 1793214458.5463078,
-  "news|f4a9cb271a23": 1793214459.4745889,
-  "post|2026-10-28T14:30:00-04:00": 1793214460.6162102,
   "news|ac526b8be764": 1793215129.7581813,
   "news|8e9c51846a01": 1793216952.2222104,
   "brk|GOLD|pdh|up|2026-10-28": 1793217695.984735,
@@ -8447,7 +8444,12 @@
   "news|d32488f90990": 1795028496.9981284,
   "news|30cf6badec1b": 1795028497.930818,
   "news|8931e4f9eee0": 1795028498.7910738,
-  "post|2026-11-18T13:35:00-05:00": 1795028499.9876294
+  "post|2026-11-18T13:35:00-05:00": 1795028499.9876294,
+  "news|4a2f938b219b": 1795029406.0095215,
+  "news|e3ea7b61373a": 1795029406.832945,
+  "news|38f187f445ab": 1795029407.6157491,
+  "news|be2b570c476c": 1795029408.3986096,
+  "pre15m|2026-11-18T14:30:00-05:00": 1795029409.5623214
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8919,6 +8921,31 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T19:16:49.562394+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-18T19:16:48.398786+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China</b>\n📰 Fox News · Mer 18/11 19:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkpOdlB0QTkxRnY2WXJ5bmJsYkJ0OUc2UFcyb1JfVFFvOEM4QzYxT193My1DeWoyeGlscHNwelNJMlRkdHI0YzZXTXNxM1Z5NE95NDRaZnB2VUNwcVB2Y1F5ckdycDBOTU1mN0t2QVk3WDVTTm9zdzVkZmFydlFfRE5zWEhlWnpMUGtpMzYyUEtPY3oyTFdRbTlycExMUFhmU3VvUDZUSWg5QTZpNk5CNmdVYWVkWWo0WkJlZdIBwgFBVV95cUxPUFNsZzRZREVadllKd1pfdUpheVkxNXpwYWdWZDJmblZpYTllanhhSjUteDRBTml5Ym9FSHJUb2lhUmRPMy1QbUYtcGFIOTBXSkJXcjhXcW81bHl3Zk0xb2o2aEcxM3pHUEE5MnM1bnZJNURqM3M0N0NGUm0xSy00VlFOYkE5U0o4cEU4YUx3bnZqUzR2STZMb3M0QkhiTHpwWmU0UFhqNGxYWjJwaXhKTUVrMloyU2RVSXJYQk9ldllHZw?oc=5"
+  },
+  {
+   "ts": "2026-11-18T19:16:47.615928+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump-Vance tensions grow over Iran war as Marco Rubio emerges as 2028 favorite</b>\n📰 The Jerusalem Post · Mer 18/11 19:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE90R2lMaWlCR2NDVTBBS01zNUJHb1dTQl81U2NyMDdsZlBxWnJuTVBYX0FIMXlqTDZzOXhMNkY3ZXlGRWwzT2JsbHVpSUVEN3lVbjRUWW11XzZjd1VmYkl4M0R6d0s?oc=5"
+  },
+  {
+   "ts": "2026-11-18T19:16:46.833112+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed minutes: nearly all participants see further rate hikes as likely appropriate</b>\n📰 Crypto Briefing · Mer 18/11 20:05\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVhEUTMwX3UyR212djFEckFOZkdOOHRvNkZMOXNFZVBNeEpwMi1ocVBON3BiM0lYaG16d21TNVFvZ2stckZXQkEzQ1F3X2NTcVdxM0JaRk5kNEY5SG02MWNobUR4QzNIbURtQkJwYjhGZzkxa1hKQXdKbnVLTXdmbXR4RTRBM2Y5OFRFdFFFWjZONklVLVR5LW5ESGJxU0lST2Ztd2lWdEs3ZW9M?oc=5"
+  },
+  {
+   "ts": "2026-11-18T19:16:46.009656+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Gold price drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric</b>\n📰 Mining.com · Mer 18/11 20:14\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzJ3SW41M0FnMmVhbTNmV0xqR3dfYlZLMV9nM0FDNzMydGI3MFdLVmJWYnZLRFVyd2pWdGZucHl6SGdqdDZTekg4NmE0TVNHVGFIb09Zc1gxdHk3TjBicmdIYWhmQkZnUDVobWJvTk83U0pCSEdLbXBfTWMyUThHb2JwVjU5OFFOWHBxbk5NR01ReVdseDVhalB1cGYtWncyZFV4cVhPOUVIZw?oc=5"
+  },
+  {
    "ts": "2026-11-18T19:01:39.988588+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 26 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.6 pb\nOr -2.2$ (extrême -3.6$, range 5.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -9192,31 +9219,6 @@
    "ts": "2026-11-18T09:49:30.075485+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz</b>\n📰 CBS News · Mer 18/11 00:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJURjBQYXVkNTJSWEMyUlRrbFJ3NjJETGptNjYxX1JSS3lob1NOekp3WkZYcDdWVUtEaFRHYlpzUGg5d1FlNDE0QWdhMmtoUzBJb2piaWZFZWF3OFBaNjY1dTJMMldkdTVtNE1lWFJadlhpRFdFeWZYam5zN3RwWmFiSUw?oc=5"
-  },
-  {
-   "ts": "2026-11-18T09:37:25.753447+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bahrain, Kuwait announce incoming attacks amid increased US-Iran tensions</b>\n📰 The Jerusalem Post · Mer 18/11 09:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeTRlNmtkbFdLalhzVlY2NTZkb3hQOS1qQkFOUzJUZEVJMUxINmsyalNEM1JnMnRwYmJpRXE3S2RNTTNsdHIwbVZKRmY1a3BEdXhlNXZ4Qmllek1Z?oc=5"
-  },
-  {
-   "ts": "2026-11-18T09:08:15.659715+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar dips from 19-month high as Fed hawkishness keeps tightening bets elevated</b>\n📰 VT Markets · Mar 17/11 14:42\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDByWDBoTldYQUE4bHVFSmllTzRXZVVXeko4eGVJdUZpZkh3TEZNZWszQjBTSzZGdTRoNmpCTTVKOXpQX19IT0xfT0FESU5KWUhqcW9hSTM5VzlLSjNxWVBUWlpad0swWVMxV0NwVm11OTI3bGNXcm54dlJzSFg4UkNMTHAyZHVnUjdtMzJvVkZhdlZ1Vy05SnVfUmVma2FsY2UwTk9sOXotdm9LV0xuOUdjRHBudW11YTlPMVpIcnVWOHotWXBtag?oc=5"
-  },
-  {
-   "ts": "2026-11-18T09:08:14.725373+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Market Midweek Wrap: Prices Fall Despite Iran Escalation – Here’s What Traders Are Watching</b>\n📰 Asianet Newsable · Mer 18/11 09:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTUJkYU1xTm5BRkVqMG01c2lqNWsxelBEM283WlhOdHpHTWsxaUdaZEM1cUdKMG16NU5NdVppWC1QSmJjbkZMcjhCOUlMYmZsVmZwN3UwQ1hKQ3o5WURqUENKcXBHajI5VnFSaV9KZHEwN2x4M1FsRk00VHdvUkQzUXhNM3BXT203V25SaVoyVVJpYUNMUEpkRXB3N0dkS1NUSWNVTUk1VExId2tiU1dlZjM0ZWN6Yi1jTTljUzA5YW4xeWF3ZUR0Y0pLaGpweVBOM25uc2JXRnNaOG84Wm1XekNjSndYNDd40gHuAUFVX3lxTE9VWGRrSGpFZXRQbWpwekloa3psQUpsc0RqT2hRckZSel9qNGFDX2tjaFdOMVdzR3dvMlBKMkhtOGxTeUJObk1ieVlwZThUTmY2cXphLUUwb2VPdFBrUkVXQnRVNThUTHRyRW9lZ1FSSnByeWg3R2VyXy1XVkpybGRlMWFvWU91MVNUN0JsTDBfdzRWMU5EMXNubkFmRmpoejNOX21HQnUtbkE5ZlF3dV9OY2NsOVNsaGJJT1c2QlJGV3ZQX2dNdEFlV0U2QnFJcmo0OGtsX3psTkZpX3BiWUhOeW10d05ZMDBBS2N1MFE?oc=5"
-  },
-  {
-   "ts": "2026-11-18T08:46:26.327882+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas sur 20 JOURS\nNiveau : 83.88 → prix : <b>82.99</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.62 | 60j -0.32"
-  },
-  {
-   "ts": "2026-11-18T08:46:25.423277+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 83.88 → prix : <b>82.99</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.62 | 60j -0.32"
   }
  ],
  "daily_forecast": {
