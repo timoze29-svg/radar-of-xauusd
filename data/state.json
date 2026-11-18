@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794994266.7264407,
+   "ts": 1794997869.7810154,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "538771f226d1",
-  "d99c32a4dd73",
-  "efdad8d7ced3",
-  "6538189a5d0c",
-  "6ba723593c9d",
   "7487a36e7b3f",
   "c8b58e426a82",
   "e6fe93dbb36f",
@@ -4220,9 +4215,26 @@
   "696d0d08b9b1",
   "02252b09298d",
   "43a4b3d4c0b9",
-  "7af810ce560f"
+  "7af810ce560f",
+  "8245521b4882",
+  "61f102568648",
+  "1d58785bb258",
+  "3131873b6b4c",
+  "4d1f1fc00799"
  ],
  "news": [
+  {
+   "title": "U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’",
+   "source": "Time Magazine",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2ZfMmFJTUpGeWlETnhsTjZDY1NEeXlJdW5Hbkl2c3ZrRmtFcGtnaWVGTTVqejMwRGgtd3RyUWVmdkxmcHdoclB3anU2MjZVR3ZJYnNrSHR6ejZaQ0w1a043VVpiUllXV3AyYUdFQ3pXOW92S1A2THJfT3dmVFNqNU9vLXUwY3JYRENOaE42X1U?oc=5",
+   "published": "2026-11-18T10:15:44+00:00",
+   "id": "61f102568648",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
    "source": "The New York Times",
@@ -4257,6 +4269,18 @@
    "impact": -4,
    "cat": "commerce",
    "raison": "baissier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Sterling Slips as UK CPI Looms and Fed Hawkishness Keeps Dollar Bid",
+   "source": "VT Markets",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDM3SUJSVUEyb0NxWjd6aFBJdWR4U0JISEpTRUt0SnFmcFFxNjJ6aDlGeVVGTXJTeDRheDlwQWcxR3RIQ25IRHktLXRHSkNqTjA4NWJrVXl4MTN0dVl5a1I3WE9UVGFuOFVMT1JNRlVQMS1Ib1BDbDUtelRhakpmckxHWEItX0h1NXFkZzJ6aUZFRFpCMWFfUWotcXF4RjNFcjhEXzl2aFpjQWtMa1NXcG4zMA?oc=5",
+   "published": "2026-11-18T09:12:48+00:00",
+   "id": "4d1f1fc00799",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6598,30 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Menace de guerre USA-Iran et choc pétrolier potentiel, fort catalyseur refuge pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "How Trump and Xi went from tariff war to trade truce",
-   "source": "Raleigh News & Observer",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUmx2SllSaVFKajlMalZtTTd2NktsOE5qbnNBQ05xcGtNOG5BRXlXSUhnbGgwVElMdUE0RFZoY2t3czlid0h0NDh3TFRFUGM1R2ZXb0ZHY0Z0WFdscXNSZ05JSUpSZDNNUGtTM0V0RTZsNXZwZGNKYUJNYUkxOHc?oc=5",
-   "published": "2026-11-17T04:07:05+00:00",
-   "id": "aa3c5e5a006a",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Trêve commerciale sino-américaine favorisant l'appétit pour le risque au détriment des valeurs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
-   "published": "2026-11-17T03:46:56+00:00",
-   "id": "5d7383a4caf5",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Frappes sur des infrastructures clés en Ukraine, maintenant la demande de couverture refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8430,7 +8430,9 @@
   "news|7da558ef85d7": 1794996240.6544316,
   "news|6787c093b197": 1794996242.679789,
   "news|7af810ce560f": 1794997149.0758207,
-  "news|02252b09298d": 1794997151.6273754
+  "news|02252b09298d": 1794997151.6273754,
+  "news|61f102568648": 1794997890.8909647,
+  "news|4d1f1fc00799": 1794997891.8409472
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8902,6 +8904,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T10:31:31.841056+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Sterling Slips as UK CPI Looms and Fed Hawkishness Keeps Dollar Bid</b>\n📰 VT Markets · Mer 18/11 10:12\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxObDM3SUJSVUEyb0NxWjd6aFBJdWR4U0JISEpTRUt0SnFmcFFxNjJ6aDlGeVVGTXJTeDRheDlwQWcxR3RIQ25IRHktLXRHSkNqTjA4NWJrVXl4MTN0dVl5a1I3WE9UVGFuOFVMT1JNRlVQMS1Ib1BDbDUtelRhakpmckxHWEItX0h1NXFkZzJ6aUZFRFpCMWFfUWotcXF4RjNFcjhEXzl2aFpjQWtMa1NXcG4zMA?oc=5"
+  },
+  {
+   "ts": "2026-11-18T10:31:30.891045+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’</b>\n📰 Time Magazine · Mer 18/11 11:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2ZfMmFJTUpGeWlETnhsTjZDY1NEeXlJdW5Hbkl2c3ZrRmtFcGtnaWVGTTVqejMwRGgtd3RyUWVmdkxmcHdoclB3anU2MjZVR3ZJYnNrSHR6ejZaQ0w1a043VVpiUllXV3AyYUdFQ3pXOW92S1A2THJfT3dmVFNqNU9vLXUwY3JYRENOaE42X1U?oc=5"
+  },
+  {
    "ts": "2026-11-18T10:19:11.627486+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US strikes Iranian missile site on Qeshm Island as Gulf tensions escalate</b>\n📰 Daijiworld · Mer 18/11 04:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFA3SnJFeXEzcUM1MGdqaWlwX19rWllramM0SmtLUm5QWXZQdXBaaGpHNzdBUFRUci1vV09iMU5GSGtCV1B3Qy0xbWFIc1RLc1JfN0o4dGQyUkUxUTdGdkZ4OTJsT1BlVEdudkE?oc=5"
@@ -9190,16 +9202,6 @@
    "ts": "2026-11-17T18:31:28.104825+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and Tehran gamble on time as Iran war stalemate deepens</b>\n📰 Reuters · Mar 17/11 17:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5"
-  },
-  {
-   "ts": "2026-11-17T18:31:27.118769+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US taking 'seriously' threat of Iran using dirty bomb in DC</b>\n📰 USA Today · Mar 17/11 17:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDBQOGx1dHlkdnEzQWNkTllHbjBXUFd3UVpVR1Jmd3htMU5ZREwtTGdoUUQ2TUEtZFU5V0lsZVo0N2RpYTNWTWxwVTdFeWZqN3RvRmJnOUNVRms0a0QwYXFkUG82M2c3UzhDVmEyUXhHOWFjelVjZ21uaV82WUVHaGJlRi1MeWw1bUUxOFRwMGpHZG5jUElvN3VwalZFREE2T0Zr?oc=5"
-  },
-  {
-   "ts": "2026-11-17T18:16:53.859727+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 68 MIN — 20:25</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.21% aujourd'hui · taux 10 ans -3 pb · biais or -34 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 98$ → attends-toi à des mèches rapides."
   }
  ],
  "daily_forecast": {
