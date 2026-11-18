@@ -1221,17 +1221,6 @@
   }
  },
  "seen_news": [
-  "29b3044c6fd5",
-  "91e8e5c0ad73",
-  "088829fc8f5c",
-  "0f5f6137a310",
-  "7607d9e3387f",
-  "a7c71462fc53",
-  "a42499bd1254",
-  "583f7d656b04",
-  "0f130880e07a",
-  "7aa9c61ebdd9",
-  "5c359b5d9b05",
   "4c2e8cb3b4b7",
   "fe68c95990fc",
   "2c8d4070ca6b",
@@ -4220,7 +4209,18 @@
   "ba806a41ebb0",
   "cedefeba3aa8",
   "5f00d632c2cd",
-  "c96e35b62cba"
+  "c96e35b62cba",
+  "bce3a422c568",
+  "27abf863442c",
+  "9e28ebeef3bd",
+  "61e46fcdb773",
+  "ca1f1df3e545",
+  "bf223b8a5e08",
+  "6659bd0c07d8",
+  "838547a3ac85",
+  "999d0a581769",
+  "70942953730f",
+  "64d91712afda"
  ],
  "news": [
   {
@@ -4245,6 +4245,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Canada weighs Chinese investment as US tariffs threaten its auto industry",
+   "source": "BBC",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
+   "published": "2026-11-18T14:35:18+00:00",
+   "id": "bf223b8a5e08",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -4500,6 +4512,18 @@
    "method": "IA"
   },
   {
+   "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
+   "source": "MarketWatch",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQWJoUzdJbWMwX21ueUs0VlY4dGE0SkRHMF9pMjBwczRTOXpPTmxOdVZvU1kyWHJfQXIzTkFubHo2b0l6Q3VJS29BRzVveFk1VVBQZUZHMi0tTTVfWVJTR1FhbEMtdy10eEJHTUxtZGd3TENLYkhiazdqWDl0ZWNGdVljLUdzVGJUc3RkZlFETGZNeFRlWUhaT3pqWU1oUFRUWXZQQ3h0SUdrQjBiS1oyeWVJN0VxMjZkMGk0UUJ4cFRKTGRhYTgya0VIWVZldjlucHZhTndfVUxJWTQtZ0EyMg?oc=5",
+   "published": "2026-11-18T11:38:00+00:00",
+   "id": "838547a3ac85",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Trump is trying to put the Iran war behind him, but it’s not over",
    "source": "The Washington Post",
    "theme": "Trump / Iran",
@@ -4738,6 +4762,18 @@
    "cat": "dollar",
    "raison": "Fermeté de la Fed soutenant le dollar au détriment de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "‘Biggest trade deal' between US, PH sealed – Trump By Joyce Rocamora MANILA – United States President Donald Trump on Wednesday said the Philippines and the U.S. have concluded the “biggest trade deal ever made” between the two states. The U.S. l",
+   "source": "Facebook",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSE5DeDcwekxtQm1EU3p1VjcyM3Z3N0ZrY20tWmMzeEJSaTVuVGgxaTZiRTBDNWpIVG5sS2xiQTZmeld0TVpqd3FZWUFUZXo2eFV4VERWeExIN0NkU29ET1hENG9EX1BMcnF4Y0o1X1h6TW43SFR0QkZBUHZlNVNUeU43TDhRZEdHS1JLTWZjM2dhcGI2VjN2RmhtcnhVWUVoUXU2VVFOejhnRW9QbVB2dDFZSUI0cjBHM0d6TnhuZkdCZzRmeGZQd2M5aVZUc2lDZmZLbA?oc=5",
+   "published": "2026-11-18T09:00:20+00:00",
+   "id": "ca1f1df3e545",
+   "impact": -4,
+   "cat": "commerce",
+   "raison": "baissier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil Market Midweek Wrap: Prices Fall Despite Iran Escalation – Here’s What Traders Are Watching",
@@ -5154,6 +5190,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
    "published": "2026-11-18T03:10:00+00:00",
    "id": "6787c093b197",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold drops to 14-month low as hawkish Fed rhetoric boosts dollar, yields",
+   "source": "Reuters",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+   "published": "2026-11-18T03:10:00+00:00",
+   "id": "27abf863442c",
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
@@ -6574,58 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Tensions militaires accrues avant un sommet géopolitique, léger soutien refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Bahrain intercepts new Iranian attacks as Middle East tensions escalate",
-   "source": "Israel National News",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLX0g4cHh2NEdtTE5UUDA5UGU3ZEZjSEQ1eGtVdDFvM0EzdXY2NWtYSXU1V19wUVYzRW5CMGJkNkxWQU1IUUFCU2loT1IxQkxZeVFERUlYOFJ3Zw?oc=5",
-   "published": "2026-11-17T10:15:52+00:00",
-   "id": "b9731f941f1a",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Escalade directe impliquant l'Iran stimulant les achats refuges sur l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine strikes Crimean bridge for second day as Russia pounds Kyiv bridges",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
-   "published": "2026-11-17T10:11:01+00:00",
-   "id": "3d57b16bdbe5",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Poursuite des frappes croisées maintenant une légère prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "A 2-month lull ends with Iran's third strike on US targets in Bahrain",
-   "source": "Newsday",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjNNZkFQTXV6VGVpSFNUTENLM1kyOG94LUQwbjBWOFE2Y2NJaTBFX3FZaGxMOW12RGNETENteTVGeG5IZk5JRTE4SFV4V0hYLXR0cVJPQTBOOUY3elZWQ3Y5MGxNeUhUSmFTVV92aTRsU0Y2M1B2X1FEVUN1TzJER19B?oc=5",
-   "published": "2026-11-17T10:08:07+00:00",
-   "id": "82bad450e81e",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Frappes iraniennes sur cibles américaines accentuant le risque d'embrasement régional.",
-   "method": "IA"
-  },
-  {
-   "title": "2-month lull ends with Iran’s third strike on U.S. targets in Bahrain",
-   "source": "The Tribune-Democrat",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWJTSllQY20wSXJGZzZLdkpUYzA1UEtOSzVmdkpPRGItUmNQTXZpZ2YxQmVyamE2aHdXOWNUdlhrMlUyRTR6Q1JVblQ4cC1ONmNvbmJxcFVOeXJYUmZ5N1hESTdmQ2dCVXFqNmZkdmdMLVB1aS1abWVzbE9zUUEyX1hkLUNqSjVvMXYyZWxZUFVCOWExZHZJc25EcVVILXRrLTNIVTdKX3NKSW94alRBbG9SQmFrdWhXeEhjVWFmN2kwT1c4czNRSlJSelczNVlWZ2pCY1d4ODFDVjRaZGJGZg?oc=5",
-   "published": "2026-11-17T10:07:00+00:00",
-   "id": "5940acda4f9d",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Ciblage de forces américaines par l'Iran renforçant la demande d'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|f77196a29726": 1793201487.2954435,
   "news|a25970d8e3ec": 1793202368.158996,
   "news|e6bf05bb4607": 1793203301.7508035,
   "news|cd16387882bf": 1793205091.2474236,
@@ -8436,7 +8435,9 @@
   "news|da757914dbe0": 1795013177.5530655,
   "brk|US10Y|pdh|dn|2026-11-18": 1795014143.3532407,
   "news|5f00d632c2cd": 1795014981.6993332,
-  "news|ba806a41ebb0": 1795014983.999236
+  "news|ba806a41ebb0": 1795014983.999236,
+  "news|838547a3ac85": 1795015893.9604475,
+  "news|27abf863442c": 1795015895.0425723
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8908,6 +8909,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T15:31:35.042690+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold drops to 14-month low as hawkish Fed rhetoric boosts dollar, yields</b>\n📰 Reuters · Mer 18/11 04:10\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5"
+  },
+  {
+   "ts": "2026-11-18T15:31:33.960537+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues</b>\n📰 MarketWatch · Mer 18/11 12:38\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQWJoUzdJbWMwX21ueUs0VlY4dGE0SkRHMF9pMjBwczRTOXpPTmxOdVZvU1kyWHJfQXIzTkFubHo2b0l6Q3VJS29BRzVveFk1VVBQZUZHMi0tTTVfWVJTR1FhbEMtdy10eEJHTUxtZGd3TENLYkhiazdqWDl0ZWNGdVljLUdzVGJUc3RkZlFETGZNeFRlWUhaT3pqWU1oUFRUWXZQQ3h0SUdrQjBiS1oyeWVJN0VxMjZkMGk0UUJ4cFRKTGRhYTgya0VIWVZldjlucHZhTndfVUxJWTQtZ0EyMg?oc=5"
+  },
+  {
    "ts": "2026-11-18T15:16:23.999350+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Status quo’ between US and Iran could break out into war, analysts warn</b>\n📰 Al Jazeera · Mer 18/11 15:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGNDR0Z2Z005TDhGUFhZRXRTU3FkWTUxUmdURHFsaTYzYTBDbF8tUjFvLVJSWUgxa25pbnBZZjFUMUd5Rks2T0VRYVpZendaTThLWUZISlA3NVIzQ25ZdjFya1dEV2NvTUdtZkx0a1dPWV90RUQxSlk5aHdUTjRvZU9sWXduVHJnOXcxZTVPRkFrSGJyZm82OG0weTNydlBIcXNtUEpDc2kycGN6d1h5ONIBtgFBVV95cUxQWnFkWE9kZXQyLXJYaFNYRlFnbUdCZ2tSck9NRlhJcmF3R0lXRGpuTlBOM3ZkQm53c0lVYmoxQ3pUTlJuQ1VJbFViX2QzV01aMkU1U2hsc2RLbjhQcFp5Z3FCQi1RbnpkQTV3UW96dG5qbnl6Z19sVjhGeFpubFJjNGlpQmlWRlZsUnRTbFc5cnNzM29JbGxJQzEtVjhJMTNwSWNYRzhqc2ZlbVpPTDdpdjlmMHdlUQ?oc=5"
@@ -9196,16 +9207,6 @@
    "ts": "2026-11-17T22:46:05.032054+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Josh Turek outlines his Senate priorities, including ending the Iran war, stopping Trump tariffs and making healthcare affordable for everyone except trans people needing gender-affirming care</b>\n📰 Little Village Magazine · Mar 17/11 20:53\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE1rWkoyTk1VR3ZzZlpSR0F4TXpDQWpCUFBlcHkxVGNieVBhTkRKZTJacVVwSDFlZGFfX0dubTIxMUhfa0lUTFFZZFhzaUljVW9kUThzVEVvMmN2bGExcEljV0dxWkNJRkR3UnNxT2dOUWN3RW9MWXc?oc=5"
-  },
-  {
-   "ts": "2026-11-17T22:31:28.559433+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine’s Crimean Bridge attack is a very personal humiliation for Putin</b>\n📰 Atlantic Council · Mar 17/11 22:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnpra0h4LW1JTVQ0WkpRVU9JQkVETXF2azQ3b21zMWVKVzlNc241V2F3M1p0V0w3X2xQTFV2bEdWOTBxdjFOVU1LUkd6MElvaml1ckVjRmVjZGpGbmdYNFd2ZUU5ZUNJdUNpVDlUQklWZzlHYmI3ams1RUlJSGxaUHBhc0tReURVSUsxNjRfSDRoVENMa3pOUWZjM2E3V3lZekF5S3RiMVl2a0ZsR2dIaHRNTXBFRkt0SEtUNDEtTGo?oc=5"
-  },
-  {
-   "ts": "2026-11-17T22:16:10.610279+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine</b>\n📰 BBC · Mar 17/11 17:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5"
   }
  ],
  "daily_forecast": {
