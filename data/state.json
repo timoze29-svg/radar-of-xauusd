@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1794972897.2612867,
+   "ts": 1794977156.5621173,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "0a0ee4355eff",
-  "dc66db6245eb",
-  "1f1d9fd744f4",
   "be8425fe9634",
   "f1746ccd52ba",
   "330a164bc890",
@@ -4220,7 +4217,10 @@
   "6070e33989b8",
   "80ffd0a812ea",
   "fbfc5cf6ea1e",
-  "0930394f3bbf"
+  "0930394f3bbf",
+  "aedc206aa3f3",
+  "cd83aa56bf7e",
+  "d9698279d439"
  ],
  "news": [
   {
@@ -4690,6 +4690,18 @@
    "cat": "géopolitique",
    "raison": "Frappes cinétiques directes des chasseurs américains en territoire souverain iranien.",
    "method": "IA"
+  },
+  {
+   "title": "Iran developing dirty bomb/chemical attack on officials in DC; WH says no credible threat - report | LIVE BLOG",
+   "source": "i24NEWS",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQUZqdEpqSS1KdHY3YS10U1dUT2ppR0RPSG53UW93TkF6aVVUdVR2NThWMW9uS0hnQnVvQ0Roa0JiWFJiWldmMWxjM1BXckdpZXhrbWo3R3RvTERKaDhFVi1oREJHQ2FHMnFQVHVyUmg2SW1GZTdaS29hd0ZWM1VuaW9tRldBbDlXS0xfdXBKRGp1VDhFVWx5b1BJNHMxbVhudXk3SC1FVUFZajZ3NTFuSVJZUDZ6ZEFvTkRVQjVkaHNNRVBab18tbXdqN3B3RjhVM2l6dTZFemYwN1NMTGJUZXk5cUo3eXdfRTNF?oc=5",
+   "published": "2026-11-17T19:41:54+00:00",
+   "id": "cd83aa56bf7e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
@@ -6610,22 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Allégations de complot terroriste à Washington provoquant une vague immédiate d'aversion au risque.",
    "method": "IA"
-  },
-  {
-   "title": "Utility charges drive up October CPI; inflation eases to 8.2 per cent",
-   "source": "Jamaica Gleaner",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjNHcjhMTUhMQmE0VG9MN3g2VHcxbFoyUTNnNU5EbWR0Tkc1ZS1nWlZ1RHJ1M0J0eGsxZWd1cnNIM19XczFiVFpjVldVa2FCNXdXNEt5eVMydTF3RW9iekJ3dUNNSzk0RDFnZ0hRMHo2MnRzMXRrM3BiLXVXNmRtMlBjUlhuTWk3c0UzY1JLaE5aenNaSm9jU3FGcTBTLXNrdDVTdkxsZG1Ra0hSQUdv?oc=5",
-   "published": "2026-11-16T22:57:02+00:00",
-   "id": "0249d2e4fa0d",
-   "impact": 4,
-   "cat": "inflation",
-   "raison": "haussier or (inflation)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|cdda6d79771a": 1793162765.8876185,
   "news|9e62982b1cfd": 1793166366.2045698,
   "news|f1e8164de2d4": 1793166367.3613572,
   "rep|daily|2026-10-28": 1793167484.2004628,
@@ -8427,7 +8426,8 @@
   "news|40e9b9c61a07": 1794968354.8652763,
   "news|5a356308de62": 1794968355.6990724,
   "news|538f502a07e1": 1794969090.5019479,
-  "news|0930394f3bbf": 1794976282.825018
+  "news|0930394f3bbf": 1794976282.825018,
+  "news|cd83aa56bf7e": 1794977174.9558413
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8883,6 +8883,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T04:46:14.955928+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran developing dirty bomb/chemical attack on officials in DC; WH says no credible threat - report | LIVE BLOG</b>\n📰 i24NEWS · Mar 17/11 20:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQUZqdEpqSS1KdHY3YS10U1dUT2ppR0RPSG53UW93TkF6aVVUdVR2NThWMW9uS0hnQnVvQ0Roa0JiWFJiWldmMWxjM1BXckdpZXhrbWo3R3RvTERKaDhFVi1oREJHQ2FHMnFQVHVyUmg2SW1GZTdaS29hd0ZWM1VuaW9tRldBbDlXS0xfdXBKRGp1VDhFVWx5b1BJNHMxbVhudXk3SC1FVUFZajZ3NTFuSVJZUDZ6ZEFvTkRVQjVkaHNNRVBab18tbXdqN3B3RjhVM2l6dTZFemYwN1NMTGJUZXk5cUo3eXdfRTNF?oc=5"
+  },
+  {
    "ts": "2026-11-18T04:31:22.825115+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely</b>\n📰 Council on Foreign Relations · Mar 17/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5"
@@ -9176,11 +9181,6 @@
    "ts": "2026-11-17T15:46:43.410118+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington</b>\n📰 Al Jazeera · Mar 17/11 16:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDlnOVlnZ3ZLTHB4REV3MHBxcS1TZWZxTjhfd3c0bHZmMXg5SWVLd2cyS2hxaXZUaklpaGdVYVYtMGZFWjZwUFM5UlNTUVZQNnZLNTU0UjBzLVhTUnQ2Q3ZpSmRzcEdNOHAta1l5NGJmOFY4SkRGOGIyT0RiZmVYb0FlQ1hjeUpzMjZmSGJzcDl5bmM1bHVRVFBnNmt3d1dVRWlCSjJtbkdCZEhiakQ4V3o4ZTBmbjU2TUl1OVdwUW4zWHPSAcgBQVVfeXFMTUZGT0pyTnFWVTd1RVZVRTlUNDl5SXc0NFdBdDU2ZWVMcE5INEVpa2pqdW44TWJWMUtxaXlnV1JwWkVMVGZKRmFEUXZUenR6M0laQTRwc2pGVFZ4dV9HNjBuUFRKZmhKdC0xcWMxVldvVE1rZmpRQ0hEVnBPSFFfQ29pNVhvTDdSRThGcTlRUDZJV2phaWFwRS1ablNDdXZhV2M1b1dOQ2xiZURhdTgwS2pzMTZrS2dubV9yOWE2RGJNNlYzOTFhTkQ?oc=5"
-  },
-  {
-   "ts": "2026-11-17T15:32:06.197053+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran dismisses CNN report of a plot to attack Washington with a 'dirty bomb'</b>\n📰 DW.com · Mar 17/11 15:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPNEI2SUhucFZweWtGLThHYUVqWWYtRFA1Y01GaWxfLVFWWVo4NFBWQS1WTXRqblh1S3NxeDZXMkFXb1dHbkFwbDBTRjJ6Mk5ZR2VRdzlNenRmM3lCRWUtSDI4c2NrUjZDTWZZQnNfblk2MU55VllabkhROHlZSkh1Mm9ROWZodXpDYVNwYUs1eWV2WDJBSEpsejdyR2ExUdIBngFBVV95cUxNbHBZVWVab1R6TDZZdGh4TjAxVm1ZdFZQajc1TGRIRjhVTzdGek9udmFEWnhISW1hOHVNcUZac3J2TVBCZ2tJVE1pSmkwRzg2VzRaTkg4WlNzbWFuTUt3WWM0a3VZMEZGS0VpVUNOaTNJODBHNWRYemFvQ2NTRy1wTEFfWE1XYWJXLUNDYmlGT19fbzdjTE9oeUpwVVdVdw?oc=5"
   }
  ],
  "daily_forecast": {
