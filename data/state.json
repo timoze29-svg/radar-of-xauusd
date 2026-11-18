@@ -1221,12 +1221,6 @@
   }
  },
  "seen_news": [
-  "29aefd892494",
-  "bd20db13e419",
-  "92d570206ad1",
-  "ee2e0d55ca60",
-  "ebef8df2078c",
-  "30eea3bb5287",
   "0a0ee4355eff",
   "dc66db6245eb",
   "1f1d9fd744f4",
@@ -4220,7 +4214,13 @@
   "db596b109d0c",
   "9f3aeee48259",
   "c417478916b2",
-  "4d38fe847dca"
+  "4d38fe847dca",
+  "3e7d109fd5cf",
+  "8ff1a733bb99",
+  "6070e33989b8",
+  "80ffd0a812ea",
+  "fbfc5cf6ea1e",
+  "0930394f3bbf"
  ],
  "news": [
   {
@@ -5424,6 +5424,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely",
+   "source": "Council on Foreign Relations",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5",
+   "published": "2026-11-17T13:00:00+00:00",
+   "id": "0930394f3bbf",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
    "source": "The New York Times",
    "theme": "Russie/Ukraine",
@@ -6610,29 +6622,9 @@
    "cat": "inflation",
    "raison": "haussier or (inflation)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Central bank buying to support higher gold price in 2027: Goldman",
-   "source": "Mining.com.au",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEs3S0xHeDRPVXFScDQ5YUlydTFXeG9jOHRZYTZGSWpCbGhvNE1ITGc2Nk9Vbk5WVXFMQXRpckxabDRKVW9wNGpQVmJUVHU0OU5WcDVlTDItcEVxWDZ5amlSQzEzT0MxLXliWGpHRGJXSUV3M1hZLWZ6NFVBWWZJTG1wTWhqM3ZPSWtYeFpRS00?oc=5",
-   "published": "2026-11-16T22:33:18+00:00",
-   "id": "19bdc54be527",
-   "impact": 2,
-   "cat": "banques centrales",
-   "raison": "Confirmation institutionnelle des flux acheteurs des banques centrales soutenant la tendance haussière.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|a19d717fd9fe": 1793154690.671177,
-  "news|1d0bdf1363fc": 1793155633.8327906,
-  "news|5990a1d1beb8": 1793156495.8395193,
-  "news|2ce19641d184": 1793157371.7157578,
-  "news|e7a00fae6e20": 1793157372.5713577,
-  "news|c4aeeb51c36a": 1793158292.7338393,
-  "news|5461a8b9d7b1": 1793158293.6664102,
-  "brk|DXY|pdh|up|2026-10-28": 1793161150.374252,
   "news|cdda6d79771a": 1793162765.8876185,
   "news|9e62982b1cfd": 1793166366.2045698,
   "news|f1e8164de2d4": 1793166367.3613572,
@@ -8434,7 +8426,8 @@
   "news|486bec18405a": 1794968354.0147195,
   "news|40e9b9c61a07": 1794968354.8652763,
   "news|5a356308de62": 1794968355.6990724,
-  "news|538f502a07e1": 1794969090.5019479
+  "news|538f502a07e1": 1794969090.5019479,
+  "news|0930394f3bbf": 1794976282.825018
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8890,6 +8883,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T04:31:22.825115+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely</b>\n📰 Council on Foreign Relations · Mar 17/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5"
+  },
+  {
    "ts": "2026-11-18T02:31:30.502032+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US Hits Qeshm Island, Iran Retaliates With Bahrain Air Base Attack As Peace Attempts Take Back Seat Again</b>\n📰 The Daily Jagran · Mer 18/11 03:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWFlmbFMtSjRWemlPMHdhdDhDSU5Lek1ISlRORkFPaVBDSFBNRHlhMXNOdTBwVEJyUC1HNnZRbVA2Q3J1cWx4R3kzb1lFS0Joc2tWWFRnQTUxY0J2VFU5dVhMMmxGUkZSNGZXVG5tZ1BzX0c2MUMtVVVvUGRKaDM5YzlaUnM3WGdBSGRtRTdFZUozUl9EREI1VkNOTk9OdEpVcWhodTNUakV5VWRENHZaUFlrck92NXhHaGdnejJXSFNqcTdpaXUtaUc0TUljOVQ2TVlqb3BQbHUyRHk4TnFWcm91SXFIeWNfTHpJ0gHyAUFVX3lxTFAxbS1SbVp4TEdack96TXN6ZFU1MUJZcDhBcUt3VUlYTXRPanpNTUFuN3BPUnV4TGVWdjlNTjBNWFlzdlJydjhNTl9vOXkwd1E2d25PR0RyY3R6SmxhMVpwTkFCT1ZERFliNlBkenNyVk92aDFFc2VtMDU3OFQ2ZEEybVd1MlU0M3hlSF9OOWtXX0ZNNVBtR3BWc0x6eUFoOGRrdG9nZlNRSjk4aHZMalRwQy14WjZsVHNOZS16bjVBYnhVTUZZM3poOWlVZVhHSE1HaTNTZzRmV013SVZpMnhDbGYyY053Rl9kZ1p5MkhUcWVB?oc=5"
@@ -9183,11 +9181,6 @@
    "ts": "2026-11-17T15:32:06.197053+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran dismisses CNN report of a plot to attack Washington with a 'dirty bomb'</b>\n📰 DW.com · Mar 17/11 15:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPNEI2SUhucFZweWtGLThHYUVqWWYtRFA1Y01GaWxfLVFWWVo4NFBWQS1WTXRqblh1S3NxeDZXMkFXb1dHbkFwbDBTRjJ6Mk5ZR2VRdzlNenRmM3lCRWUtSDI4c2NrUjZDTWZZQnNfblk2MU55VllabkhROHlZSkh1Mm9ROWZodXpDYVNwYUs1eWV2WDJBSEpsejdyR2ExUdIBngFBVV95cUxNbHBZVWVab1R6TDZZdGh4TjAxVm1ZdFZQajc1TGRIRjhVTzdGek9udmFEWnhISW1hOHVNcUZac3J2TVBCZ2tJVE1pSmkwRzg2VzRaTkg4WlNzbWFuTUt3WWM0a3VZMEZGS0VpVUNOaTNJODBHNWRYemFvQ2NTRy1wTEFfWE1XYWJXLUNDYmlGT19fbzdjTE9oeUpwVVdVdw?oc=5"
-  },
-  {
-   "ts": "2026-11-17T15:32:03.027830+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Is Iran plotting a ‘dirty bomb’ attack in the US? What we know</b>\n📰 Al Jazeera · Mar 17/11 16:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFp4SnYzOXRsMUp6V1hFd2VxdkhrbXQ3MEJKdF9QYVVaMUVsZENOS0t1cjFzMnNROVR6WHdVX3UwOHNmMEVzNnhvLW9TXzBpZ3RtUS1FR3o0R19ueEZfYUw2eTd4Y0ZxZ2tIbVV3eUZiRWFncmYxdWZFWkdHYm9oN29PdTVvREtZUkxzX0dJOHJkNzkwVVp6N3g5VURCRC1vSFdR0gGoAUFVX3lxTE5FU3NQVk5OaDlLVkpUZEVyYUhrengybi1XR2tCanVTbW00OXR4NnVWelBJZERXV1d4YjBsdXVmaXNFekdZWDNpckY4dXFYc3F4ZW5OS1dWaGpEdmZOUnY5RmFqVzl6VUhyN3FfbjEtaVBMYWU4di1KZGJUSXJoVS0zTVZzOEtLSFhuWC1wT3ZMVmdEdUpvWUgtNHVDc2hzU1pheEotSW5NVg?oc=5"
   }
  ],
  "daily_forecast": {
