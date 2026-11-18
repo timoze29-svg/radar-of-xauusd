@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "c8e196d58400",
-  "eccf8beac8b5",
-  "eba1d4fbddc5",
-  "5dd11cad8151",
-  "335cf672195e",
   "6f713c8a8e31",
   "eede7695c2d0",
   "86dfd3e16ade",
@@ -4220,7 +4215,12 @@
   "25d8927d533b",
   "9ff4b8ef3b01",
   "0a43c886dfa8",
-  "3b6f4f6274f9"
+  "3b6f4f6274f9",
+  "7c271efc3115",
+  "032234ad7f53",
+  "1c73ea9b7385",
+  "888f976fcc2a",
+  "cba089499d06"
  ],
  "news": [
   {
@@ -4230,6 +4230,18 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGdZX1pkd0JWZDZuVU9GbTQ0SEdrLU9FTXcydmZ2c0NyVmgyRWhBYlVBaENlVld3TjN0TTlVYUdadmtuTHN5Y1dJRlhGUzhEeU9Cdk5wOGlmTHlnNmFhbFVEcDA4aVA5b1FpdlRORTREZ2VkLTVfNS1FRlhxQ2lsOHRFaEREcGxFbnZKcDMtWEUwOXhxYUpncjNn?oc=5",
    "published": "2026-11-18T16:04:27+00:00",
    "id": "026f2d82a5c7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "DW News. . Vladimir Putin's Russia and Iran have strengthened their alliance in recent years. Despite their close ties, the Kremlin has little incentive to push for a rapid end to the conflict, especially as instability in the Strait of Hormuz creates new opportunities f",
+   "source": "Facebook",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkxyOTViRENaQklyTUh0dVA0MWFKZTFWX0VYNnNPaU5PUEh3cko0TEc0NWoyZFd2SWo2NEk5VERMdWxNV09ieV9QcUNpbC1aNGpFUWIyTHZGRlgtWk9TZ1BsWFMxSzB0cHhZN1pUWWVYVEZ2bEFxUFAzR0RwTDU4a0dIX2ZxekxxelVYSnVpb05RcVRqWTVoS2gyamFZMFZleGpJUjlVc1JMQndWSWRGXzE2emJlUGo0dm1uVWNjN05NUlphaE1WVFM2VkYydkpTVGI5alhLUGZGY1gzNmh3cXdB?oc=5",
+   "published": "2026-11-18T16:02:37+00:00",
+   "id": "888f976fcc2a",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Destruction partielle d'une infrastructure symbolique russe provoquant une fuite vers la sécurité.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine damages Crimean bridge in major strike as Russia pounds Kyiv bridges",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
-   "published": "2026-11-17T11:33:12+00:00",
-   "id": "6461ba0b890a",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Frappes mutuelles sur des infrastructures clés renforçant brutalement le risque d'embrasement.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8440,7 +8440,8 @@
   "pre1h|2026-11-18T12:15:00-05:00": 1795017832.4658372,
   "news|026f2d82a5c7": 1795018575.0861666,
   "news|300f757d9659": 1795018575.8339317,
-  "news|8664ca20db28": 1795018576.5841622
+  "news|8664ca20db28": 1795018576.5841622,
+  "news|888f976fcc2a": 1795019490.7457457
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8912,6 +8913,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T16:31:30.745867+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>DW News. . Vladimir Putin's Russia and Iran have strengthened their alliance in recent years. Despite their close ties, the Kremlin has little incentive to push for a rapid end to the conflict, especially as instability in the Strait of Hormuz creates new opportunities f</b>\n📰 Facebook · Mer 18/11 17:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkxyOTViRENaQklyTUh0dVA0MWFKZTFWX0VYNnNPaU5PUEh3cko0TEc0NWoyZFd2SWo2NEk5VERMdWxNV09ieV9QcUNpbC1aNGpFUWIyTHZGRlgtWk9TZ1BsWFMxSzB0cHhZN1pUWWVYVEZ2bEFxUFAzR0RwTDU4a0dIX2ZxekxxelVYSnVpb05RcVRqWTVoS2gyamFZMFZleGpJUjlVc1JMQndWSWRGXzE2emJlUGo0dm1uVWNjN05NUlphaE1WVFM2VkYydkpTVGI5alhLUGZGY1gzNmh3cXdB?oc=5"
+  },
+  {
    "ts": "2026-11-18T16:16:16.584285+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli spy chief lobbied for joint Iran strikes on US visit, sources say</b>\n📰 Reuters · Mer 18/11 16:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5"
@@ -9205,11 +9211,6 @@
    "ts": "2026-11-18T01:16:09.632165+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump slammed for 'absolutely sickening' AI-generated video of troops as Iran war drags</b>\n📰 AOL.com · Mar 17/11 20:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhxbnJFbmxmTTBUcEFXc2RrZGw4VnktUVkxRHdCRTE4ZWRYQmNQT1NmOUV2V01PRkwtelJiQUVVcW5qaU5PenJVWmNjaTZhVkZvYmNsUjA3WGx2RC1UYXVXWE1ybk1tcGxGSEpwUzB5eFlKcVl0VzhBN3Rkbi1rN01wd0VucVhK?oc=5"
-  },
-  {
-   "ts": "2026-11-18T01:16:08.729385+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain</b>\n📰 Al Jazeera · Mer 18/11 00:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5"
   }
  ],
  "daily_forecast": {
