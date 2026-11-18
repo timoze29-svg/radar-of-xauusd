@@ -1221,8 +1221,6 @@
   }
  },
  "seen_news": [
-  "e151be911fb4",
-  "3dbd45e2e547",
   "795f967c8c24",
   "0178a3072302",
   "6f545faaf57c",
@@ -4220,7 +4218,9 @@
   "a3193a03f90e",
   "da757914dbe0",
   "7ae78f1e0d96",
-  "f6d0257d130b"
+  "f6d0257d130b",
+  "4ff9077211f6",
+  "c75883461f38"
  ],
  "news": [
   {
@@ -6625,8 +6625,6 @@
   }
  ],
  "fired": {
-  "news|a9107727279e": 1793199699.0548985,
-  "news|2af3a5e44221": 1793199700.0687232,
   "news|8f84dc3cf0f5": 1793200571.3436284,
   "news|d9ab0d293cf2": 1793200572.375976,
   "news|f77196a29726": 1793201487.2954435,
@@ -8437,7 +8435,8 @@
   "news|2e75c0e95273": 1795011369.6847894,
   "news|0af8bdb30ee3": 1795011370.7070556,
   "news|e7a80b9db45a": 1795013174.9791303,
-  "news|da757914dbe0": 1795013177.5530655
+  "news|da757914dbe0": 1795013177.5530655,
+  "brk|US10Y|pdh|dn|2026-11-18": 1795014143.3532407
  },
  "last_bias_label": "FORTEMENT BAISSIER",
  "initialized": true,
@@ -8909,6 +8908,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-18T15:02:23.353314+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 5.089 → prix : <b>5.068</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j -0.13 | 60j -0.27"
+  },
+  {
    "ts": "2026-11-18T14:46:17.553183+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Index: Fed minutes eyed as hawkish rally looks stretched | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Mer 18/11 13:34\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjRHhraGhab1VsalVPbTBKUDZhbDlMVEtWNGNCN0tRcEpGZTA2blY2RjVGWE5tbjUtWUJBQVQzTHBHWUZ3dXNmbngwNFVtaHl4amJN?oc=5"
@@ -9202,11 +9206,6 @@
    "ts": "2026-11-17T22:16:08.751691+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's Iran dilemma: Strike, negotiate or tighten the blockade</b>\n📰 Israel Hayom · Mar 17/11 22:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPajFmR3VPczdHemhDbFZUazgteWN4azBBbUZKc3N6bWVzVGpXWTNRRXBDZW5kRk5LQ0tSemJSRVVqelowd25uX1FoT0xDVVdST3dhXzY0R1A5UkZiUGZqQUx1NUJBb3hkNzVZNWJ1YmVON1lHMDRJNEdxWkZIeTQtSncxbmNYQnhtMms3QkRwbERlVHJnUGtQcFVaXzk1dWRHZlE?oc=5"
-  },
-  {
-   "ts": "2026-11-17T22:16:06.222116+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US strikes Iran’s Qeshm Island</b>\n📰 JNS.org · Mar 17/11 22:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9WeUZWdmtkWGZPazhFTXJBQXAxdjRKVGpFVXQ1TmZLQ3BiQmIyeHhhLXJtc19wVmVjazhGUTlpRWFtdFVTbkpsZWVvTl9xT3hGUUVzcWJOSVFQbzJDVW1hRl8taVpVT3BqVHRjUy1Rd2k?oc=5"
   }
  ],
  "daily_forecast": {
