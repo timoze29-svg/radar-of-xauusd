@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "7f175ddc2b15",
-  "ee002e60ac5f",
-  "076c2ddd27fe",
   "e1763751940a",
   "cbf9db5274c0",
   "fe312a2c8dfd",
@@ -4220,7 +4217,10 @@
   "4d4d45850254",
   "6d5e4bce1666",
   "b5b5b3c92ad4",
-  "fed5721a3688"
+  "fed5721a3688",
+  "3ac22be85736",
+  "03af9ec08f67",
+  "0a8ecf158b67"
  ],
  "news": [
   {
@@ -4546,6 +4546,18 @@
    "cat": "fed",
    "raison": "Hausses de taux de la Fed pénalisant lourdement l'actif non rémunéré.",
    "method": "IA"
+  },
+  {
+   "title": "Federal Reserve Considers Larger December Rate Hike",
+   "source": "조선일보",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnBCRjdSR2NzUjhhRXREVktrdm14RUJGRFZ0UkR4SXE3a1d6YkJQV3FTMlZFelBicGJ2dXU0LUZyMXZ6MXpMMzIzTHVoZk9mOXJjOXhQcGlJcDN6MG9ZVDlHa2o0cXZwQ1FyZDJXVkdVRm8zTFc2c1JIZTI2VnFVbm5LZ2E0eXNvTUg3UUlR?oc=5",
+   "published": "2026-11-18T23:20:19+00:00",
+   "id": "03af9ec08f67",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
@@ -6609,18 +6621,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Fin de l'accalmie avec nouvelle escalade militaire USA-Iran, net retour du risque.",
-   "method": "IA"
-  },
-  {
-   "title": "U . S . strikes Iran Qeshm Island after reported attack on Bahrain radar site",
-   "source": "eng.chinamil.com.cn",
-   "theme": "Géopolitique",
-   "link": "http://eng.chinamil.com.cn/2025xb/W/N/16500419.html",
-   "published": "2026-11-18T01:15:00+00:00",
-   "id": "5a356308de62",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Frappe directe sur le territoire iranien confirmant une dynamique belliqueuse haussière.",
    "method": "IA"
   }
  ],
