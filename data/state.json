@@ -1221,7 +1221,6 @@
   }
  },
  "seen_news": [
-  "d476a0fab5ff",
   "7f175ddc2b15",
   "ee002e60ac5f",
   "076c2ddd27fe",
@@ -4220,9 +4219,22 @@
   "7a4588b5c83b",
   "4d4d45850254",
   "6d5e4bce1666",
-  "b5b5b3c92ad4"
+  "b5b5b3c92ad4",
+  "fed5721a3688"
  ],
  "news": [
+  {
+   "title": "104.00: United States Dollar Index hits fresh 19-month high on Fed’s hawkish undertone",
+   "source": "FXStreet",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPblp4LVl0NE9uVGRmRzB4U1JxYnAwNDNNXzBrSFRZaDMzaS1RRmhXSDJKaDlsaDN0TWlnS2Q3QjRKMXQxNjRaSjc0Zy0zR2w0N3B2dF9ablljUmZydk5kSXhvMGY2NDBWNEVWb0tkQVpGRExFSTVET182d2VNZzhTblVLREdERWFfbW83SnRtZFNveGNFSzhyWWNua1lOYldXdEtRSDF4dmNYbEUxSEhjVkM0Q19wQkUxMUg4RjVsaFBReE5O?oc=5",
+   "published": "2026-11-19T05:04:54+00:00",
+   "id": "fed5721a3688",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Nuclear arms and ending wars in Iran and Ukraine will top the agenda at Trump-Xi-Putin meeting",
    "source": "AP News",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Frappe directe sur le territoire iranien confirmant une dynamique belliqueuse haussière.",
    "method": "IA"
-  },
-  {
-   "title": "Emboldened by US midterm results, Iran drafts plans to escalate war",
-   "source": "The Jerusalem Post",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85bEZIQ1lIN1NBbUwycWlXd3VzNTJQa1hVSE4wTEJZLU9TM0xvcXd5MTZ0YkRtY0tYbFpuTkhLMHVoYlktcFc0YWVzNVJ5ZTVYczRMMkxnX1pDS2VVeWlvWndaR0dwYzRGTXc?oc=5",
-   "published": "2026-11-18T00:41:12+00:00",
-   "id": "69ae243bfbc4",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Perspective d'escalade délibérée de l'Iran alimentant l'achat défensif d'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8474,7 +8474,9 @@
   "news|da1908eb55fc": 1795060145.5898664,
   "news|fc39fa8b201e": 1795060146.4974637,
   "news|7a4588b5c83b": 1795063753.3419518,
-  "news|98aa29e94864": 1795063755.7240899
+  "news|98aa29e94864": 1795063755.7240899,
+  "news|fed5721a3688": 1795065552.3720884,
+  "cyc_end|2026-11-16/2026-11-22": 1795065553.512212
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8946,6 +8948,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T05:19:13.512269+00:00",
+   "kind": "cycle",
+   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-127.8$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 3790.72 | 50% 3805.8 | 61.8% 3820.88\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
+  },
+  {
+   "ts": "2026-11-19T05:19:12.372164+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>104.00: United States Dollar Index hits fresh 19-month high on Fed’s hawkish undertone</b>\n📰 FXStreet · Jeu 19/11 06:04\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPblp4LVl0NE9uVGRmRzB4U1JxYnAwNDNNXzBrSFRZaDMzaS1RRmhXSDJKaDlsaDN0TWlnS2Q3QjRKMXQxNjRaSjc0Zy0zR2w0N3B2dF9ablljUmZydk5kSXhvMGY2NDBWNEVWb0tkQVpGRExFSTVET182d2VNZzhTblVLREdERWFfbW83SnRtZFNveGNFSzhyWWNua1lOYldXdEtRSDF4dmNYbEUxSEhjVkM0Q19wQkUxMUg4RjVsaFBReE5O?oc=5"
+  },
+  {
    "ts": "2026-11-19T04:49:15.724191+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump said to privately vent about Vance blaming GOP midterm losses on Iran war</b>\n📰 The Times of Israel · Jeu 19/11 01:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmhCUDF4d0ZvVkhmU1daNWIydEVKODlsUkhLaE9UekVMZnFYVkFLNkdTSThSazdFNi1VVjhQM2l4VEt0UHNhQzhHYi1wNW9UV1NCZ0RIWjZ4WFg1RDBTMFNOZVlCdWtQcXJJS3N4Q0VMOEV3SDAzbG9IQ201S3BNc2JjVWw4Q3pmQWNrX1pUeTI0NWI1OUh5aU5qb3BHaWlfQ2tYaGxQa2R2ZUZGN3Ria9IBtgFBVV95cUxOSnFfMWlyWXVqbXVUWVpvMlFLN2t0U1E2eG15YV9XdENMb0F4Tl92YjMtTXIySElGMmRxRUZudS1xdEJTNGh3V3Axak1ucl96bzhwZU8yLXBreGl4UVhpYTNybG9nLXZCSE00YkVNelRpMi1aaXBIcjFWTmR5X24zeGZrYWViUjk2Umd6S1EtMXE4eHh2RDBVZUoxdi0wZE1MRy1yLW1GdWMxdWg0dU9CMmRfNl91UQ?oc=5"
@@ -9234,16 +9246,6 @@
    "ts": "2026-11-18T19:01:37.930932+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran over reported dirty bomb | FOX 5 AT 6AM</b>\n📰 FOX 5 DC · Mer 18/11 19:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CbzFrbHNQM2s1dnpCVFM2amNmSlhjWU5rSWZieVhKanBGNFFQaUMwa0stOWhEaTBmS1RDbC1XdFgyU3hNM0pUMWROc2NtcDhBeGVsdnpWVXc2YVNyaHfSAWNBVV95cUxOa0lwaDl5MExBRVJ5NWNIdnZmcHBuYnZmdGpvdnVCYzhWV1UxaUd1dWFtUHNyMlVCSnV1VXhKN3N4dGJlNkFsTkFPa2F3ZFZpMGphWFNKMy1xYUJPcjBORDVSb28?oc=5"
-  },
-  {
-   "ts": "2026-11-18T19:01:36.998236+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Waller Urges Half Point Fed Rate Hike to Fight Inflation</b>\n📰 Limapagi · Mer 18/11 19:43\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE12czF2dWxKMlZycTdBdkR0U1JzV0pTUlR5QVp1bHNTcXBDemdlbXIxUDdjLVIyazZnb2t0Y2s0TVFONkJVNVB1VFBYT0xvd1o0eEE1UWJ6VzVmbS0yOFg4QnhvZUFTbWNwdGc?oc=5"
-  },
-  {
-   "ts": "2026-11-18T18:49:25.015816+00:00",
-   "kind": "pre_event",
-   "text": "⏰ <b>11 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Meeting Minutes</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
   }
  ],
  "daily_forecast": {
