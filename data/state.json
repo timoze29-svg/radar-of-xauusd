@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "d2170f0247b9",
-  "775960f7253e",
-  "b0f921be90f4",
-  "7600efab22d7",
   "8e10f215f709",
   "b91051636af6",
   "ef345c4609dd",
@@ -4220,7 +4216,11 @@
   "e4e2b5c7e8e2",
   "0284fdb79000",
   "1119cbf12bad",
-  "564e5196362a"
+  "564e5196362a",
+  "896b1dd4a6ec",
+  "d6222c178ae4",
+  "7c9c0cb0fec9",
+  "9aa28e2fc308"
  ],
  "news": [
   {
@@ -4231,6 +4231,30 @@
    "published": "2026-11-19T13:13:05+00:00",
    "id": "1119cbf12bad",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump, Xi and Putin reach agreements on oil and nuclear risks but no major breakthroughs",
+   "source": "AP News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
+   "published": "2026-11-19T13:13:00+00:00",
+   "id": "d6222c178ae4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil prices rise as Middle East shipping attacks counter supply surplus outlook",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU05SE9NUnE2RUpRRlNtTVRjTDc0Ykh0Rlk1TTVXZDZTTkRQTURicXJBVnZJNXhpZWVSXzczWUhOUXNnanlwTERRNTVHTjE4NW9DTml0dGt2NTRzOEpWczVYdENfaUVpbXdKUTZKbHgtdFBDSDNWNVBHYnczejM0djRvV3I?oc=5",
+   "published": "2026-11-19T13:02:50+00:00",
+   "id": "9aa28e2fc308",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4458,6 +4482,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRENfLXp5eF9aZE1uSmtMcDk1TTl2cDVBU180aTFIeHVmMG54UzR4Z3Niel93ZC1jSlAtelhodDBfbWlweXFwckhuSGwxdVVPYlA0MWp5b2pRSmtoY25ja3NsUFRSZ3R4ZGVfTG95cVRVZF9ScU1TQXNZX0JLbmlKT1Z6cUxuNlFPZ0lsLTJ2OFVFOEF6X2NtaXljbzdHZ0VEVkROQ2tMekRxd9IBvgFBVV95cUxPRHo4SzE2Njd5elFJYlM0aHRDOW9nLXRnNE4xeFN2d09Wb3RLejZ1RlRBbjYtZlFvVzVOSnUzbWc0d3Mxclpsc1RlRjFJR1hqcC1JSEJTQy0xRGdlQWVPalF2TUV1cExWUUEwTHlQNlVxa2JuN1ZrV2RTVjhXV3JldzhTNTZEdTQ1bFM0MlphVzR4TXJTN2daY2NtWVY4UUZOelo3NDlNbTRBcVVXa01zd3Y2MmtmeFpqa0FLbnJR?oc=5",
    "published": "2026-11-19T08:48:00+00:00",
    "id": "4c2911d077ed",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Netanyahu Seeks Joint US-Israel Strike on Iran: NYT",
+   "source": "JFeed",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnA4bTBRcUJKUkg2T1RCYk9YX2d6enhLanc2bTJfcEt0VmVXcm82b05BYmlpMU8zOFdfYlZtYmZUeFVlS1p2UEtrSXhaT0NacW1oNFZwVmU0SnNHREROdjNzdDZDY2w3TDYwdjBKMXU5SVN3cVVrWmlhRkVxZno0N0paaw?oc=5",
+   "published": "2026-11-19T08:41:36+00:00",
+   "id": "7c9c0cb0fec9",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6586,46 +6622,9 @@
    "cat": "dollar",
    "raison": "Dollar fort et attentisme avant le compte-rendu de la Fed pèsent légèrement.",
    "method": "IA"
-  },
-  {
-   "title": "Daily Update: Russia Loses 1,970 Troops as Crimean Bridge Makes Its Debut on Ukraine’s Losses List",
-   "source": "UNITED24 Media",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcnN6YXowZWsyNmtlWjQ4eVhHQkhnNkxhUGZCTGwyeUxSRDBldWtDZWFoUVVTYkJGZGpucDRtd0RMUzJBRXZjek1SMXgyTUVSN3NESVZYc3dCc2ttd2t6dTRMejdBV2RWTFNrUjJZdnVYdzRMUzNXQlh1RkF3SmNkZXJlZXc5SU1LN3BZVHhUbjFQbGJDcmtEdUp3UHFiaXJHcmFyRG4weUx0ZklVOG5EWjZmYkVlSWRNSFBkSEpPTk1XRFpPQlN4Q1NUUF9UQTNjdVR1WlNKQXByUQ?oc=5",
-   "published": "2026-11-18T07:42:09+00:00",
-   "id": "4528f005ccc1",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite du conflit russo-ukrainien déjà intégrée, soutien marginal et temporaire comme valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "US Strikes IRGC Site on Qeshm Island as Iran War Flares Anew",
-   "source": "Bloomberg.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy04aVlmWEc4cksxcmFWZTdRek9UOGtuZXRQT3VCYUZuNDZwYjFjTEhDRzNDSEM3LTY5dUF3YlpKOExncVR1aFZ3Z2dlM0c1ajN2ZHJUSFdNOW1mZmZiNXc4V0Jqa1BQc3ItYmxOamIxX3FieWc4QldOTFUxRER6bnc1YnVESzhnUXV2VUcwVkstcmdGNkhGRDYtcTNGX29maFV3MmZZR3piZmxDVm9DSVd5M3FoQQ?oc=5",
-   "published": "2026-11-18T07:40:00+00:00",
-   "id": "dfce9086323d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Kuwait warns Israeli nuclear ambiguity, Iran's nuclear program undermine Middle East stability",
-   "source": "Times Kuwait",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVl0S0JSNDVUbkpkVGtGZENFWUZoLUlCcDM0QTJFUHJMOUNodTZna0d5cFY4RjJyckU4UTNQNFpqVWU1X2pqRXo0LU1NMlVhYWRPc3VUSDVmMVd1UUJiYnhKSzBqQjZ5SXd4U09mLUxHSndRTW9jM2dYVDRXRGRabUwwbnRLZ2J6TFQtMlFvbHY3Q3g4OVd5aHlGZkFNRHdDTW9sZEo5TV96ZlBSTmNBc3ZtVExqeHBS?oc=5",
-   "published": "2026-11-18T07:34:50+00:00",
-   "id": "3130cc0c2ddd",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "pre15m|2026-10-29T09:45:00-04:00": 1793280015.9507272,
   "news|8acb5c0e1dc7": 1793281570.6212788,
   "post|2026-10-29T09:15:00-04:00": 1793281572.7418664,
   "news|775b6e2ab083": 1793282694.88606,
@@ -8485,7 +8484,10 @@
   "news|1119cbf12bad": 1795094372.7025428,
   "news|cb555930307d": 1795094373.6901598,
   "news|e4e2b5c7e8e2": 1795094374.669587,
-  "pre1h|2026-11-19T09:25:00-05:00": 1795094375.8660886
+  "pre1h|2026-11-19T09:25:00-05:00": 1795094375.8660886,
+  "news|d6222c178ae4": 1795095087.5587533,
+  "news|7c9c0cb0fec9": 1795095088.4645517,
+  "pre15m|2026-11-19T08:50:00-05:00": 1795095089.6129947
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8973,6 +8975,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T13:31:29.613051+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>19 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-19T13:31:28.464657+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu Seeks Joint US-Israel Strike on Iran: NYT</b>\n📰 JFeed · Jeu 19/11 09:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnA4bTBRcUJKUkg2T1RCYk9YX2d6enhLanc2bTJfcEt0VmVXcm82b05BYmlpMU8zOFdfYlZtYmZUeFVlS1p2UEtrSXhaT0NacW1oNFZwVmU0SnNHREROdjNzdDZDY2w3TDYwdjBKMXU5SVN3cVVrWmlhRkVxZno0N0paaw?oc=5"
+  },
+  {
+   "ts": "2026-11-19T13:31:27.558835+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, Xi and Putin reach agreements on oil and nuclear risks but no major breakthroughs</b>\n📰 AP News · Jeu 19/11 14:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5"
+  },
+  {
    "ts": "2026-11-19T13:19:35.866379+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 65 MIN — 15:25</b>\n\n🇺🇸 <b>FOMC Member Jefferson Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.10% aujourd'hui · taux 10 ans +0 pb · biais or -28 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 103$ → attends-toi à des mèches rapides."
@@ -9256,21 +9273,6 @@
    "ts": "2026-11-19T01:19:14.133454+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>CENTCOM chief in Israel following US, Iran strikes in Gulf</b>\n📰 The New Arab · Jeu 19/11 01:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnZmYzJGNUNhRGMxLUFkVkc5TUFOZUZfSlMwR0NyRE1QeVdDVi11UU1nc3djWlBxVGpVRTRONWttelRyeHFtUEc3OTFOLXJmNXdoS1pyRkkzdWVYME5sQWRQTHNlaW9Db1UyUEtPRU5WaEVtV0FrUFdLTFRwR2ZuU3VrcjNaZFXSAYwBQVVfeXFMT3UyUU1Kay1wZFl6OWZPaEh2Sm5CMEp5Zks5bUxnamxuSnJER011bnZpNkRkSUk3TTF4Mm5YZFlUZ0lwU1NYVGxqbmRkQWRlaGVaLW91elA4SWRVNHRxQ2w2Y2ZZaTBvSlhWRkp5cG9SYVNVbmRUQUh5UU9Qc2N0dzVWN0Fyb2txODJyakc?oc=5"
-  },
-  {
-   "ts": "2026-11-19T01:19:13.351878+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s ‘dirty bomb’ threat underscores risks to US homeland</b>\n📰 The Hill · Jeu 19/11 01:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGJFTko1RmlfeUFkNE40eGRiTWlOMUJGel9rekRhREtsUnVieHF2cGFwQ0dtV0hrc245YWt4d3FicFZrZTJxaEdBUHBYWmoxU2hRbFlldl9GaVpFUXVjOFVRV3FrZzJxbnBuRkVoTFBXQzdrWTZiZVFLa3pxckNSSElJbHAwcFV10gGOAUFVX3lxTFAzR29VMmhHbU5GT2hYT2x3c052NFByZnRRU3c4TEtHM0N3UHVsdXlReEVDR0NaYTh4NlJ2anVWN09lZ05ST0xfY0Q0R0xLMUJ1M2hOSlE4eTlzdzlndHVEZXFIQ0F4XzFZYWJHV0NpUlVra18wYUhPTW1ldHlpSmtHWmRwS0dxU2ZYTHBiUmc?oc=5"
-  },
-  {
-   "ts": "2026-11-19T00:49:40.313084+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Breaking: Fed Minutes keep further rate hikes firmly on the table</b>\n📰 FXStreet · Mer 18/11 20:06\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE01T3JfZ2pnNUxDQnFDdVdLQWI5T1AzLWZlb2VxUlN0VEJnOTBOdWZYelJrZTRET3ZOQVBHUWQxeVVVTE1DZmptUkRucHF1VVBTQ1VLQmZXaWFIaWNUendUUU1GbHM0UEdsZ1lZYVotU1Q0c245R2phMXpwOFpubVhkdzJvWmNCU0tBWW16VG9TUnFqNHVDZk4xRGhSWGd0dWd1elR1X3V1UzJkQVNseXB4WDd5VHM?oc=5"
-  },
-  {
-   "ts": "2026-11-19T00:49:39.311267+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>FOMC Minutes | Fed Minutes Show Almost All Officials Expect More Rate Hikes, With Some Open to a Larger December Move</b>\n📰 TradingView · Mer 18/11 20:13\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOFF3TWdhZ2V3M09RZXBIVTVvc3lVci1JZUdtWW5McmNEWEdiMmJuX3VTU2FuZnQ0UHNXeHB6c3pON3lvU0RkMEJyNExnQVk4UG5ybUVoeHJ0UkprWFZLeVpCeWh6eWtyb3RhMkFYMzRvMWhxTVZxcDg2QWJTdlM3bVFGUVlmS1gydG9jT2ZBOVVtUlpGVFNXSm5nbmIxQ3dxeXNOb1NTMGdienlnby1Kd1FhWDZDSHhpWjVlWUluVUR0VVU3bl9RM0R5bUY5S3cwQ1J6R2EzZ0hKV1FPbXpOMktaRDA4SnBiUG50dDd0c0VsQWlFbTZHc0tnYlJONXJTSUJqOGxfbHk?oc=5"
   }
  ],
  "daily_forecast": {
