@@ -1221,12 +1221,6 @@
   }
  },
  "seen_news": [
-  "1fd437435c29",
-  "72de4e706c15",
-  "d17c3576c487",
-  "c5856a7baff9",
-  "a1e09422f5ab",
-  "fe411ea4c0ee",
   "f600c06bf58c",
   "8068d730967e",
   "64fbab50094d",
@@ -4220,9 +4214,27 @@
   "64f07f87fe41",
   "65e8d8e5937b",
   "7b7608331ade",
-  "fc51a2f6ded2"
+  "fc51a2f6ded2",
+  "0e491d253028",
+  "a5ee7eb67d44",
+  "97cfbe79b9fc",
+  "9baa7fb9a3ad",
+  "8746be631571",
+  "08c4bd9975cf"
  ],
  "news": [
+  {
+   "title": "Ukraine strikes Putin’s prized Crimean Bridge for third time in a week",
+   "source": "NBC News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5",
+   "published": "2026-11-19T15:00:08+00:00",
+   "id": "97cfbe79b9fc",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Bitcoin vs Gold Price Forecast: XAU Hits 14-Month Low as BTC Retests $63K on Fed Rate Hike Fears",
    "source": "CoinGape",
@@ -6610,18 +6622,6 @@
    "cat": "fed",
    "raison": "Anticipations de hausses de taux de la Fed poussant les rendements réels.",
    "method": "IA"
-  },
-  {
-   "title": "U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’",
-   "source": "Time Magazine",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2ZfMmFJTUpGeWlETnhsTjZDY1NEeXlJdW5Hbkl2c3ZrRmtFcGtnaWVGTTVqejMwRGgtd3RyUWVmdkxmcHdoclB3anU2MjZVR3ZJYnNrSHR6ejZaQ0w1a043VVpiUllXV3AyYUdFQ3pXOW92S1A2THJfT3dmVFNqNU9vLXUwY3JYRENOaE42X1U?oc=5",
-   "published": "2026-11-18T10:15:44+00:00",
-   "id": "61f102568648",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Frappe militaire américaine directe en Iran déclenchant un afflux vers les valeurs refuges.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8487,7 +8487,8 @@
   "news|6d3866972ad1": 1795100512.201449,
   "news|58564baf76eb": 1795100513.0215557,
   "news|492e62817fd2": 1795100513.8156714,
-  "post|2026-11-19T09:25:00-05:00": 1795100514.7624502
+  "post|2026-11-19T09:25:00-05:00": 1795100514.7624502,
+  "news|97cfbe79b9fc": 1795102293.2412984
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8975,6 +8976,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T15:31:33.241375+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine strikes Putin’s prized Crimean Bridge for third time in a week</b>\n📰 NBC News · Jeu 19/11 16:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5"
+  },
+  {
    "ts": "2026-11-19T15:01:54.763023+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 36 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Jefferson Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.09%\nTaux 10 ans +0.8 pb\nOr +0.4$ (extrême +9.3$, range 12.2$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
@@ -9268,11 +9274,6 @@
    "ts": "2026-11-19T03:07:20.649680+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-146.60 aujourd'hui = 1.5× l'ATR"
-  },
-  {
-   "ts": "2026-11-19T02:46:16.704873+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mideast nations redouble peace efforts as Israel pushes for Iran strikes, officials say</b>\n📰 The Globe and Mail · Mer 18/11 13:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0x6M1JRQWdrMkJ1ZmgzWGVhUVRqMHJwMW5DbXJnYUtVakJMX0tSMVMxUWo4Uld3a29VbDRrWkpsU2gtUmdrcWZTamVhbU1RSzBMdXRXQktab3Y5LVh1bzc4UkZaQ18tWEE2UWxuMkROSDAwS3hlZnVwSlBHT1RPMlMzV3g2djBWM2VWTm5fYnBCanYx?oc=5"
   }
  ],
  "daily_forecast": {
