@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795048265.8912323,
+   "ts": 1795051873.1867287,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,8 +1221,6 @@
   }
  },
  "seen_news": [
-  "b8086e81ab4c",
-  "b889cac1160b",
   "97643bf1a0d7",
   "071dd5ec7587",
   "a8d866f57ac5",
@@ -4220,9 +4218,23 @@
   "ed77658bd8fc",
   "a9faad8ca5e0",
   "2911a9107f7b",
-  "b2c114344941"
+  "b2c114344941",
+  "e9aef6c5d251",
+  "c19f7235896f"
  ],
  "news": [
+  {
+   "title": "Trump says US doesn’t need help from China, Russia to end Iran war",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdjhtQmhyTHZuT0ZjcFlxU3FZXzdFQ01KNTNNZXd0d25Dc2gxMHlmcFl1VXZGN2FsbjZDZ1ZrMzVpaHMwWW8yZW0wU3NGaGs3VUJoRGRWdWxWT1hXMVdxTmtGM3hNMzAycG93Mi1lckhmR3ZIY2hMWUdDdFFGUVZCbUJrcDJPOHp4RGdVSWJUekNPTUNCYlFtNC1NVXluZFh6N0VTV2o5VENrZDg?oc=5",
+   "published": "2026-11-19T01:28:23+00:00",
+   "id": "c19f7235896f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
    "source": "Al Jazeera",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Frappe réussie sur le pont de Crimée ravivant les tensions militaires régionales.",
    "method": "IA"
-  },
-  {
-   "title": "Germany rejects US criticism of Ukraine's deep strikes inside Russia",
-   "source": "Anadolu Ajansı",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGMzcnNNdkpjcm5MQTJSZGd6dWN4OU45NWduUWR0R2NheVIzUXJjUWloUHc0emZLV1RpMDBJTy1sTU9QYTVPakFnTllPODMxM3B2bk95enFTZXRXWFh2WTRXMGI3ZEVhM2V1b2FNQ0ZUUXRLa2hXbkxZdnVtLVFBWjNJMG50YUVlV1E0NmswZU9UWUNhQnU0UmRyczdMancwSk1nWTZoM3lxWDA?oc=5",
-   "published": "2026-11-17T20:53:04+00:00",
-   "id": "90565dd83839",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Divergences au sein de l'OTAN sur l'escalade militaire en Ukraine.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8466,7 +8466,8 @@
   "news|466e54ede6e3": 1795049379.3111541,
   "news|f827589fde24": 1795049380.3129747,
   "news|ed77658bd8fc": 1795051153.351723,
-  "news|a9faad8ca5e0": 1795051154.1333425
+  "news|a9faad8ca5e0": 1795051154.1333425,
+  "news|c19f7235896f": 1795051892.9572914
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8938,6 +8939,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T01:31:32.957372+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US doesn’t need help from China, Russia to end Iran war</b>\n📰 Anadolu Ajansı · Jeu 19/11 02:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdjhtQmhyTHZuT0ZjcFlxU3FZXzdFQ01KNTNNZXd0d25Dc2gxMHlmcFl1VXZGN2FsbjZDZ1ZrMzVpaHMwWW8yZW0wU3NGaGs3VUJoRGRWdWxWT1hXMVdxTmtGM3hNMzAycG93Mi1lckhmR3ZIY2hMWUdDdFFGUVZCbUJrcDJPOHp4RGdVSWJUekNPTUNCYlFtNC1NVXluZFh6N0VTV2o5VENrZDg?oc=5"
+  },
+  {
    "ts": "2026-11-19T01:19:14.133454+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>CENTCOM chief in Israel following US, Iran strikes in Gulf</b>\n📰 The New Arab · Jeu 19/11 01:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnZmYzJGNUNhRGMxLUFkVkc5TUFOZUZfSlMwR0NyRE1QeVdDVi11UU1nc3djWlBxVGpVRTRONWttelRyeHFtUEc3OTFOLXJmNXdoS1pyRkkzdWVYME5sQWRQTHNlaW9Db1UyUEtPRU5WaEVtV0FrUFdLTFRwR2ZuU3VrcjNaZFXSAYwBQVVfeXFMT3UyUU1Kay1wZFl6OWZPaEh2Sm5CMEp5Zks5bUxnamxuSnJER011bnZpNkRkSUk3TTF4Mm5YZFlUZ0lwU1NYVGxqbmRkQWRlaGVaLW91elA4SWRVNHRxQ2w2Y2ZZaTBvSlhWRkp5cG9SYVNVbmRUQUh5UU9Qc2N0dzVWN0Fyb2txODJyakc?oc=5"
@@ -9231,11 +9237,6 @@
    "ts": "2026-11-18T16:16:15.086256+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad Chief Pushed for Joint US-Israel Strikes on Iran</b>\n📰 Modern Diplomacy · Mer 18/11 17:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxORGdZX1pkd0JWZDZuVU9GbTQ0SEdrLU9FTXcydmZ2c0NyVmgyRWhBYlVBaENlVld3TjN0TTlVYUdadmtuTHN5Y1dJRlhGUzhEeU9Cdk5wOGlmTHlnNmFhbFVEcDA4aVA5b1FpdlRORTREZ2VkLTVfNS1FRlhxQ2lsOHRFaEREcGxFbnZKcDMtWEUwOXhxYUpncjNn?oc=5"
-  },
-  {
-   "ts": "2026-11-18T16:03:52.466174+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 71 MIN — 18:15</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.23% aujourd'hui · taux 10 ans -3 pb · biais or -44 (FORTEMENT BAISSIER)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 97$ → attends-toi à des mèches rapides."
   }
  ],
  "daily_forecast": {
