@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795105878.802165,
+   "ts": 1795128350.3989654,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.89,
-     "date": "2026-11-17",
-     "chg5": 0.23,
-     "chg20": 0.09,
+     "last": 2.88,
+     "date": "2026-11-18",
+     "chg5": 0.1,
+     "chg20": 0.11,
      "hist": [
-      2.09,
       2.06,
       2.07,
       2.07,
@@ -129,18 +128,18 @@
       2.86,
       2.91,
       2.92,
-      2.89
+      2.89,
+      2.88
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.19,
-     "date": "2026-11-18",
-     "chg5": -0.01,
-     "chg20": -0.16,
+     "last": 2.16,
+     "date": "2026-11-19",
+     "chg5": -0.08,
+     "chg20": -0.21,
      "hist": [
-      2.39,
       2.38,
       2.4,
       2.39,
@@ -259,18 +258,18 @@
       2.24,
       2.2,
       2.21,
-      2.19
+      2.19,
+      2.16
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
      "last": 4.8,
-     "date": "2026-11-17",
-     "chg5": 0.24,
-     "chg20": 0.03,
+     "date": "2026-11-18",
+     "chg5": 0.07,
+     "chg20": 0.01,
      "hist": [
-      4.0,
       3.99,
       3.98,
       4.05,
@@ -389,6 +388,7 @@
       4.86,
       4.88,
       4.83,
+      4.8,
       4.8
      ],
      "gold_rel": -1
@@ -396,7 +396,7 @@
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-17",
+     "date": "2026-11-18",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -457,7 +457,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795123871.9149935,
+   "ts": 1795128350.435292,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,14 +1221,6 @@
   }
  },
  "seen_news": [
-  "1e0fb9937704",
-  "be7c7c0e1b59",
-  "063a79fcda51",
-  "4a1f64b870e0",
-  "1adcea83fbec",
-  "9f7e371f5bf2",
-  "50ca8b023549",
-  "70f7cfdc6b28",
   "a978098b68b7",
   "e92977bba3d5",
   "d5ed2b735a8a",
@@ -4220,7 +4212,15 @@
   "9061e00c18fc",
   "4208578c15eb",
   "a3dd8f483e80",
-  "6c7b25934867"
+  "6c7b25934867",
+  "0efd03c474b6",
+  "df623013a7af",
+  "190ef15cbbcf",
+  "6bafb8fcef6a",
+  "1d5940b39686",
+  "634251623a66",
+  "d924fa5e4d5c",
+  "59032ec80f29"
  ],
  "news": [
   {
@@ -4246,6 +4246,18 @@
    "cat": "or",
    "raison": "Prises de bénéfices techniques signalées, tempérées par des flux acheteurs sous-jacents.",
    "method": "IA"
+  },
+  {
+   "title": "Israeli Mossad chief said to push for new Iran strike",
+   "source": "Breakingthenews.net",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0M0cGJHdnZwRk5qM2puNTFKRVBLVFEyMzZFQllfWF9Uclkzd0dnWHNHeWJjVkE5ZEJwZFliMmtfVkV5YmNNVDR1bDhiN3RpcGRPbDZQWTlPdUJwRnB1b3k5NTJWTmpocE14VS1BRlZhQVZkcENzRUFEdy13ODI0MFBtdFZZckE1YmVDQUN2NHpxZWdmWmh2MTdpcFFfelU?oc=5",
+   "published": "2026-11-19T21:49:00+00:00",
+   "id": "190ef15cbbcf",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "70 percent of Americans back targeted tariffs on steel: Poll",
@@ -4414,6 +4426,18 @@
    "cat": "inflation",
    "raison": "Craintes de pressions stagflationnistes liées aux guerres, stimulant les achats d'or comme couverture.",
    "method": "IA"
+  },
+  {
+   "title": "Andy Burnham says Europe 'ready to enter negotiations' to help end Russia's war in Ukraine",
+   "source": "Sky News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEdfVllWVXlSYXNabGx1YzF4ajlSSVhvN3dsSGttdm9PVkIwZExNb1QzUWpyTjdFREFtWmlGRFlOZEdvLVNER1NDREg2NUMta0prcGVJRHBkYnhLa2o1RllTeTJTMUZDZ3hpMHE5cHF0clRWcE1NVVJGbE9Ca25ZaV9Ec3dEdHBxNXctQ3h0UHp6WFJoOEdIc0IzMmNRV1RHX0VLbUZmd05qcnB6UGx0R0lyMUd6MWR5TlZ6U2k3Umg2Zw?oc=5",
+   "published": "2026-11-19T20:03:30+00:00",
+   "id": "634251623a66",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US Senate Rejects Resolution Curbing Trump's Iran War Powers",
@@ -6598,34 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Espoir diplomatique de fin de guerre érodant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs",
-   "source": "Politico",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "published": "2026-11-18T17:24:00+00:00",
-   "id": "e94b437e5e20",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Guerre commerciale US-Chine persistante, mais effet direct à court terme très limité.",
-   "method": "IA"
-  },
-  {
-   "title": "Crimean Bridge collapse: Final moments after Ukrainian attack",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Vm9SSXEtZXR6djdCUExFUmdvdDVQLWRGcEg4ZWJnRHRTc0lzVW9BRmhydjFUUFR0cF9pOWx0MFFfZmJPMnNPNk5CbGVsMTRYXzJTZHV2WkY?oc=5",
-   "published": "2026-11-18T17:09:43+00:00",
-   "id": "5873836bf656",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Attaque majeure contre le pont de Crimée ravivant les craintes d'escalade ukrainienne.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|ec98c54813a5": 1793313251.5174704,
   "news|8fc813d3a4c1": 1793317575.5015395,
   "news|2a3ff799e975": 1793317576.5986905,
   "big|BTC|2026-10-29": 1793317577.8293018,
@@ -8492,7 +8491,8 @@
   "news|f3137fa14705": 1795126012.5770273,
   "pre1h|2026-11-19T18:30:00-05:00": 1795126643.4575646,
   "news|9061e00c18fc": 1795127618.2678378,
-  "news|33da5816691d": 1795127619.2130537
+  "news|33da5816691d": 1795127619.2130537,
+  "news|190ef15cbbcf": 1795128550.269925
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8980,6 +8980,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T22:49:10.270026+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Mossad chief said to push for new Iran strike</b>\n📰 Breakingthenews.net · Jeu 19/11 22:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0M0cGJHdnZwRk5qM2puNTFKRVBLVFEyMzZFQllfWF9Uclkzd0dnWHNHeWJjVkE5ZEJwZFliMmtfVkV5YmNNVDR1bDhiN3RpcGRPbDZQWTlPdUJwRnB1b3k5NTJWTmpocE14VS1BRlZhQVZkcENzRUFEdy13ODI0MFBtdFZZckE1YmVDQUN2NHpxZWdmWmh2MTdpcFFfelU?oc=5"
+  },
+  {
    "ts": "2026-11-19T22:33:39.213170+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>PM reportedly tells aides renewed war with Iran ‘unavoidable’; Trump: ‘I’m not rushing’</b>\n📰 The Times of Israel · Jeu 19/11 19:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdks1U2laNVhiRmlqQ2xZTjN6R1NCY0RidmNhVUhtcGEyMWdLUTVuRTF6b0NVWTcwSUUtME52WC0zQ0g1VnVQSzBMLV9RN2F3bkZ4R1F0dTVxZWpqWmlyWmRyUWpScjJIZTNjamgzNTNybVVOQzNLNXlHdXpJdTlKY0ZLOUNLVkFaeTVyS0JrRzBib0NCa3JmWU1kT2gzUjBBcmpJUUtPVFRyS2IxU3ktb1gtY09LenJpVFVHTnFn0gHDAUFVX3lxTFBGVmM4RVBOSVo5MVFjT2Z3QWs3Y29TSzBmZnRSV2J5NXEzNnJxN2hrZTlkclN5dFd1V2kzV0dfZDUycjg0WlFnWnFpcUcwNlliQjVacU11WlRmSzZTdDNEQnkzdV9LdDlCZmdNYnRZeVZ1RkNldTg5VU5aQ1J0VGZHcTVicjFrNXMtUngtUS0yenVocWRRTl9sZlBsM2hHZ0FBMnZ5alBjTjJUcnlpVE1HWUJZMG5rVUpWMGJUcWRUVWIwWQ?oc=5"
@@ -9273,11 +9278,6 @@
    "ts": "2026-11-19T13:19:32.702626+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>AI, Nuclear Arms, Taiwan: Takeaways From Trump’s China Trip</b>\n📰 Bloomberg.com · Jeu 19/11 14:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONW5LbnJKVFI0anVJcHRYc01xdE0wNkt6UEdZaW5zTzhMOVJBVWNXeXdJaFVUTDRTa0k1RGgtdDVkaWFsYnB5enZtR0lNTDBXVTVoSXR0Z1lBNG9NWldKdkF0SnVuSVVmTjNHLWJvUEs5di1zZnVuM2lPNk1OT0Y0YmZDakp1YzlTazR1eXNrRW02VTRza19ZWTVBQU9DRjBJTndqdzJvam5pLXVsOFRR?oc=5"
-  },
-  {
-   "ts": "2026-11-19T13:04:47.226816+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:04</b>\nPrix : <b>3719.90</b>  (-17.5$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-34) → maintenant -29 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 65$ sur ~98$ attendus (67%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:50</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:25</b> 🇺🇸 FOMC Member Jefferson Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:30</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:15</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>22:00</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Shutdown fight takes shape as Democrats target Trump’s Iran war\n🟢 (+10) The bill for Trump’s trade war is coming due—at home and abroad\n🟢 (+10) Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine\n🟢 (+8) Trump considers fresh strikes on Iran amid pressure from Israel: Report"
   }
  ],
  "daily_forecast": {
