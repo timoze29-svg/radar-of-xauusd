@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "cb675c8566ea",
-  "1873a5f6a439",
-  "1bed6dc4e12d",
-  "971509997f22",
-  "c4eec4a7af15",
   "2fa61e8d5bbe",
   "b4315140a896",
   "4bd4125da436",
@@ -4220,9 +4215,26 @@
   "247ad4bc9792",
   "21e4a17258cb",
   "aea13455afa6",
-  "08a1aee59f86"
+  "08a1aee59f86",
+  "2c93ee0f789b",
+  "4a9f212fc502",
+  "b57748fad8bd",
+  "ed9a52d79138",
+  "8e58cee2a720"
  ],
  "news": [
+  {
+   "title": "Ukraine War, Day 1,729: Kyiv Strikes Putin’s Kerch Bridge Again",
+   "source": "EA WorldView",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVY3ZjlrLWtyVVhlR05FZm4zbzdlMEE4WFpwb3dFY0RTNE5jWFQ4SmZGYjJzclo4MHpwTFhvZC1KNjdXRG5SbXRWSVdUMnJCQTlXT214d2dEWDVuLWJiWE1UVnFJSi00Wk1WVG00dTNpWkgzX0RkUDNvTnJkRUVKMldB?oc=5",
+   "published": "2026-11-19T07:05:52+00:00",
+   "id": "8e58cee2a720",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold Price Today: Why Gold Has Crashed Nearly 30% Despite Heavy Central Bank Buying",
    "source": "CaptainAltcoin",
@@ -6610,18 +6622,6 @@
    "cat": "fed",
    "raison": "baissier or (emploi, fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
-   "published": "2026-11-18T01:41:00+00:00",
-   "id": "d3bc8eddb22b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Désaccords verbaux entre alliés sur l'Ukraine, effet négligeable sur les flux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8485,7 +8485,8 @@
   "news|b9dc19c558ff": 1795070008.7644641,
   "news|247ad4bc9792": 1795070771.8351495,
   "news|6ebcae33991a": 1795070772.6175656,
-  "news|08a1aee59f86": 1795071916.874651
+  "news|08a1aee59f86": 1795071916.874651,
+  "news|8e58cee2a720": 1795072567.1329954
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8973,6 +8974,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T07:16:07.133072+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine War, Day 1,729: Kyiv Strikes Putin’s Kerch Bridge Again</b>\n📰 EA WorldView · Jeu 19/11 08:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVY3ZjlrLWtyVVhlR05FZm4zbzdlMEE4WFpwb3dFY0RTNE5jWFQ4SmZGYjJzclo4MHpwTFhvZC1KNjdXRG5SbXRWSVdUMnJCQTlXT214d2dEWDVuLWJiWE1UVnFJSi00Wk1WVG00dTNpWkgzX0RkUDNvTnJkRUVKMldB?oc=5"
+  },
+  {
    "ts": "2026-11-19T07:05:16.874751+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine war, Russia-US ties discussed during Putin-Trump talks in China: Kremlin aide</b>\n📰 Anadolu Ajansı · Jeu 19/11 07:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXNJRldHekQxOFhjbWxpbWUyS0tjTUpDbFFEcW5KQmkwcUFfWG1PcWlqcDdiblprWFNNa2JlTi1hVldHVG5obEY2Um1MYlBVdmk3X3haeHBJRFpna21GSU91X3N2MGxyS2JUREFwQjYtWFM4XzNjRzNtUVBzalBwdEo5MURkeXgzUTE4ZGVEZXY4YzhZbG9pbHdOOUVpcXVfZWZwVlEwVWdIS1Byel96WXZHdk16TTVOWXBwaw?oc=5"
@@ -9266,11 +9272,6 @@
    "ts": "2026-11-18T19:52:17.766332+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 22 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.02%\nTaux 10 ans -0.4 pb\nOr -7.2$ (extrême -8.5$, range 8.9$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-18T19:52:16.780435+00:00",
-   "kind": "dollar_pressure",
-   "text": "⚠️ <b>DOLLAR EN FORCE — risque de hausse</b>\n🥇 Lecture : <b>BAISSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY +0.12%\n▫️ Taux US 10 ans +0.6 pb\n✅ Pétrole +0.70%\n✅ EUR/USD -0.12%\n✅ News dollar/Fed : 3 (impact moyen or -7.7)\n   • Gold price drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric\n   • Fed minutes: nearly all participants see further rate hikes as likely appropriate\n\n📊 <b>Historique (≈2 ans en H1)</b> : quand on a eu au moins 3 signaux sur 4 dans ce sens,\nle dollar a continué à monter dans <b>55%</b> des cas sur 2h,\net l'or a baissé dans <b>49%</b> des cas (moyenne -0.8$, sur 269 cas).\n<i>Pour comparer : l'or monte 53% du temps sur 2h en général.</i>"
   }
  ],
  "daily_forecast": {
