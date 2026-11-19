@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795119352.5558357,
+   "ts": 1795123871.9149935,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,7 +1221,6 @@
   }
  },
  "seen_news": [
-  "4fcc123a9971",
   "078eebc7f124",
   "bb99d30b02c2",
   "a0892e4d0577",
@@ -4220,7 +4219,8 @@
   "85d76127d61e",
   "2f42256ec923",
   "fcaf1dd91a81",
-  "be2b17492d6f"
+  "be2b17492d6f",
+  "2041017a21c9"
  ],
  "news": [
   {
@@ -6625,9 +6625,6 @@
   }
  ],
  "fired": {
-  "news|6a87eafec9f9": 1793308593.343641,
-  "news|5718799edcbb": 1793308594.547448,
-  "news|91d290ee2a18": 1793308595.5555403,
   "news|640d3fccaa11": 1793310191.3923402,
   "news|6c932cfcf480": 1793310192.340413,
   "news|982a0b2a1959": 1793310193.2820919,
@@ -8491,7 +8488,8 @@
   "pre15m|2026-11-19T16:00:00-05:00": 1795120664.1314187,
   "news|d5bc9b39d55c": 1795121168.0062618,
   "brk|VIX|h20|up|2026-11-16/2026-11-22": 1795121169.1498532,
-  "rep|recap|2026-11-19": 1795122345.2941854
+  "rep|recap|2026-11-19": 1795122345.2941854,
+  "post|2026-11-19T16:00:00-05:00": 1795123892.6310713
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8979,6 +8977,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T21:31:32.632375+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.05%\nTaux 10 ans +0.0 pb\nOr -9.2$ (extrême -9.8$, range 11.8$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-19T21:05:42.749034+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — JEUDI 19/11</b>\nOr : <b>-63.1$</b> depuis minuit · plus haut 3759.5 (02h05) / plus bas 3663.3 (21h00) · range 96$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-34) à 3737.4 → maintenant 3667.1 (-70.3$)\nRange : 96$ réalisé vs ~98$ attendu (99%)\nNiveaux touchés : S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 67% de bonnes directions (18 ✅ / 9 ❌ / 2 ➖ sur 29 jours)\n20 derniers jours : 67%  ·  ✅✅❌✅✅✅➖✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.07% · Taux 10 ans -1.4 pb · Pétrole +1.50% · EUR/USD +0.02% · S&P 500 -1.98% · Argent -2.57%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Shutdown fight takes shape as Democrats target Trump’s Iran war\n🟢 (+10) Risk of US Strikes on Iran Grows as Sides Escalate Skirmishes\n🟢 (+10) The bill for Trump’s trade war is coming due—at home and abroad\n🟢 (+10) Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Paulson Speaks\n🔥 <b>14:25</b> 🇺🇸 FOMC Member Waller Speaks\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Cook Speaks"
@@ -9272,11 +9275,6 @@
    "ts": "2026-11-19T11:16:05.938280+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Shutdown fight takes shape as Democrats target Trump’s Iran war</b>\n📰 The Hill · Jeu 19/11 12:00\n🧠 haussier or (géopolitique, politique US) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmpxQVZsLWFmNnQ2WTl6ZVNzb2VUTlhVOUQ3SFJqVW4yNmk2MHh5ZDRCQVh4aVI5RlJkc3FVMmVWT3hub2dvUGVwTTZxZWZaY0trTnRSWVVvQlJRLTg3U2psRVByTGp4bm1tREZ5dzE0MjNSMXFMRWJJV2JsMWFPWF9QekJ3QXdxWklGZG5ITDBGUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-19T11:02:09.431685+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Nuclear arms and ending wars in Iran and Ukraine top the agenda at Trump-Xi-Putin meeting</b>\n📰 KFVS12 · Jeu 19/11 09:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRENfLXp5eF9aZE1uSmtMcDk1TTl2cDVBU180aTFIeHVmMG54UzR4Z3Niel93ZC1jSlAtelhodDBfbWlweXFwckhuSGwxdVVPYlA0MWp5b2pRSmtoY25ja3NsUFRSZ3R4ZGVfTG95cVRVZF9ScU1TQXNZX0JLbmlKT1Z6cUxuNlFPZ0lsLTJ2OFVFOEF6X2NtaXljbzdHZ0VEVkROQ2tMekRxd9IBvgFBVV95cUxPRHo4SzE2Njd5elFJYlM0aHRDOW9nLXRnNE4xeFN2d09Wb3RLejZ1RlRBbjYtZlFvVzVOSnUzbWc0d3Mxclpsc1RlRjFJR1hqcC1JSEJTQy0xRGdlQWVPalF2TUV1cExWUUEwTHlQNlVxa2JuN1ZrV2RTVjhXV3JldzhTNTZEdTQ1bFM0MlphVzR4TXJTN2daY2NtWVY4UUZOelo3NDlNbTRBcVVXa01zd3Y2MmtmeFpqa0FLbnJR?oc=5"
   }
  ],
  "daily_forecast": {
