@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795105878.8469858,
+   "ts": 1795110351.4953032,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,14 +1221,6 @@
   }
  },
  "seen_news": [
-  "934e72d381cb",
-  "1c8f681d171e",
-  "280310adfb6d",
-  "bcb018bbfcd6",
-  "5cf86bcc5a75",
-  "584fe67cca85",
-  "2f7449b47b90",
-  "14d49422c221",
   "92cfdb77de01",
   "615e3a84c219",
   "cf11c328e6f7",
@@ -4220,9 +4212,29 @@
   "dffcb5140f0f",
   "f25a0b231835",
   "df7185b65cd2",
-  "162902db3bd7"
+  "162902db3bd7",
+  "a3d7a6d26e4c",
+  "c970e72ca83f",
+  "874e16d0f830",
+  "e567fa949f21",
+  "127a91ae1ead",
+  "95a3d204d9e1",
+  "6859f12146ec",
+  "515a0cc640b0"
  ],
  "news": [
+  {
+   "title": "Kataib Hezbollah Chief Abu Hussein al-Hamidawi Signals De-Escalation in Jurf al-Sakhar Dispute",
+   "source": "NewsCord",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMGNpTURkRzR1MXhhOGlSYVZDdTBRRTVlTXZ6WmwwRzdFcXV1Skx4Q3BHR0ZpRzFEUXAxM0tVbTFQNm9NelliUHM0ZjF3VHYyTjZ2ZHY0UzMyQUpaZ3htQ1RXR1NFVElMbFByTlZCQ3NkNGF2aW83TS0zQ3NtcDk3YkNKZUhrZm9lcEtVaFl3NkJHMF9uWEsxZ216anJWSDd5RDhjTUt2NENHR09RUWVhb1B0Y1JrRy1EaFhtVTRIZDBiMHZXT0doR3NpdUViS09pbGFrcmZvdFFKMVdHSVpIdDVBdmZ0aG1f?oc=5",
+   "published": "2026-11-19T17:29:23+00:00",
+   "id": "e567fa949f21",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike",
    "source": "CBS News",
@@ -6610,25 +6622,9 @@
    "cat": "dollar",
    "raison": "Nouveaux sommets annuels du dollar exerçant une pression baissière directe sur XAUUSD.",
    "method": "IA"
-  },
-  {
-   "title": "Emirati Stocks Diverge Amid Renewed Middle East Escalation",
-   "source": "www.marketscreener.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzJ3T1RPZlJpeEZ1ZGxKOF9ySTFNMjBQTGdhemlMbG9GbVNRcDlEaGJzRWxWUFNNRXdKbFNSbk8zUWJqdENuX2c4ckNncFpkRDcwb0tWZnhQeUpFQ1Vxd1VoVTkyX0dxbnBDeXhpNEQyRnlpWHdZODBqTmRJMDZ3eHU4TncyZmQ2N0p6dEJJbUd2c2pkUnhvV2RsNTFrZ0VCMm9XNFVCZ05JM0VTX25FaQ?oc=5",
-   "published": "2026-11-18T11:52:19+00:00",
-   "id": "cedefeba3aa8",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "L'escalade au Moyen-Orient pèse sur les actifs régionaux, soutenant l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|cd7007e8a833": 1793295088.148827,
-  "news|638b1fce41c9": 1793295089.0649033,
-  "news|7767bba10ef1": 1793295089.955384,
-  "news|abd6ac412ed0": 1793296154.0619466,
   "news|c69f7fdc6da0": 1793296899.763577,
   "news|60db53ef52ce": 1793297958.2212274,
   "news|c81db7fb37e1": 1793298691.7786846,
@@ -8489,7 +8485,8 @@
   "news|97a5e64eebc2": 1795106083.851176,
   "news|33cb429fc7b1": 1795107705.241674,
   "news|59d4cfe82fa0": 1795108757.862891,
-  "pre15m|2026-11-19T12:30:00-05:00": 1795108759.0332081
+  "pre15m|2026-11-19T12:30:00-05:00": 1795108759.0332081,
+  "post|2026-11-19T12:30:00-05:00": 1795110733.803974
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8977,6 +8974,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T17:52:13.804952+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 22 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.02%\nTaux 10 ans +0.4 pb\nOr +1.9$ (extrême +4.2$, range 4.7$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-19T17:19:19.033271+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>11 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Goolsbee Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -9270,11 +9272,6 @@
    "ts": "2026-11-19T05:46:06.353486+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>FOMC minutes reveal Fed officials expect more rate hikes despite October pause</b>\n📰 TradingView · Jeu 19/11 06:03\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTVUOFlhVjFsaVVqSHVGb3BZYUZlRmdQaV9iajRyWS1yRjRFMWJNQnhZZ1RpOHR3eHM4ZFF5U3VCS1p3d2J4YzY5eHFtSGRJblVoRmtRaVhYRHhfRDcyS1Z5bnFGeDlQU1lQTFhINUFVNlE1Y1Zmbm1TTWRMNmhBQnpYYzA2VV9vRmI2M2ZIMkFBY2FFdERJRGo0a19UQnBBd1h0elJQOGs0bTJSY2diZG15N3dtWnBsTWxhVEI2R2pXOTdPS1JVTUtPTmpoWnVqdk1XYm5WdnVjekE?oc=5"
-  },
-  {
-   "ts": "2026-11-19T05:19:13.512269+00:00",
-   "kind": "cycle",
-   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-127.8$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 3790.72 | 50% 3805.8 | 61.8% 3820.88\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
   }
  ],
  "daily_forecast": {
