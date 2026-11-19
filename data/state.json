@@ -1221,8 +1221,6 @@
   }
  },
  "seen_news": [
-  "de6ebc47368b",
-  "96128e09fe12",
   "ae20b0ad9f86",
   "6501173d34a1",
   "dc85f6d591d8",
@@ -4220,7 +4218,9 @@
   "bc14f5c13054",
   "6637484983e9",
   "941da98a4fc1",
-  "6206fbf42b08"
+  "6206fbf42b08",
+  "089e715de00a",
+  "57d0928e1c43"
  ],
  "news": [
   {
@@ -4254,6 +4254,18 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0lwWVdqMlEzMDB1SGhlNjZ6cWNDejdBOWtyLVZtalRBcEp4REZEQVdBN0lTVmd1RThCVnFtUzM4OER6SDhGcWNmOEpqdlQ4SDlBZFkzYUR2ZkZBNThQZDNVRkU0U0J0TG9GdUFaZWk0TGFwTGlta1JrbzY5dDNaeGwybjR4c3M?oc=5",
    "published": "2026-11-19T19:46:59+00:00",
    "id": "aa5aa13500b2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran war powers measure again falls short in Senate",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44WGgzc2Z1WWZYOW9XTnNTb29CbTg5RHd2RWE4cnJab19WN0tWR2NjNUxxQ1FMcURoSnU4SWpFRWdNNnZabjlQUWs1aHdZMU95WEh2MnI4cjZfdE1XSk1SeE1DNHRtY0J4MlFnaWEydS1wN0U3OVpxeg?oc=5",
+   "published": "2026-11-19T19:46:00+00:00",
+   "id": "089e715de00a",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6610,22 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Craintes d'une dérive vers une guerre totale alimentant la demande de sécurité.",
    "method": "IA"
-  },
-  {
-   "title": "US Dollar faces limited scope for gains as rate hikes are priced in – MUFG",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkxUclpKU1p2YW1YRFJBTWxiTFBRNVgyVlNHNS1mdGpjWWk0WXFWTml3TUl4bXlCU2pDam5SaDI4NmVKZnM0VFpQLWNPRHlfd2g2cTR1dVNaYTQzVGRwYUxmQ2FodXNNd01za3hobnpWOUtlVldiZkdUT3M0bm5kUWFzQzZwQlJQLVFkdndrR3FfQWJ1d1BOLUpqNENEWlIwQzRpMmRic3dBUzJwWWNXTTFZcmU?oc=5",
-   "published": "2026-11-18T14:38:21+00:00",
-   "id": "5b5797039b1f",
-   "impact": 2,
-   "cat": "dollar",
-   "raison": "Potentiel haussier du dollar épuisé, allégeant la pression baissière sur le métal.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|d488806ecc5a": 1793306252.9265776,
   "news|f60eee1e32f3": 1793306767.4679608,
   "news|ad8f6dc36077": 1793306768.422097,
   "news|9128202327f0": 1793306769.3600028,
@@ -8491,7 +8490,11 @@
   "news|d7b8ad4bad42": 1795118504.3113337,
   "brk|DXY|pdh|up|2026-11-19": 1795118505.3063388,
   "news|6637484983e9": 1795119901.6300719,
-  "news|bc14f5c13054": 1795119904.1898806
+  "news|bc14f5c13054": 1795119904.1898806,
+  "news|089e715de00a": 1795120660.9868286,
+  "brk|BTC|pwh|dn|2026-11-16/2026-11-22": 1795120662.1619675,
+  "brk|BTC|h20|dn|2026-11-16/2026-11-22": 1795120663.14926,
+  "pre15m|2026-11-19T16:00:00-05:00": 1795120664.1314187
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8979,6 +8982,26 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T20:37:44.131459+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>22 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-19T20:37:43.149324+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 20 JOURS\nNiveau : 62 017 → prix : <b>61 695</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.37 | 60j 0.44"
+  },
+  {
+   "ts": "2026-11-19T20:37:42.162030+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 62 018 → prix : <b>61 695</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.37 | 60j 0.44"
+  },
+  {
+   "ts": "2026-11-19T20:37:40.986912+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war powers measure again falls short in Senate</b>\n📰 CBS News · Jeu 19/11 20:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE44WGgzc2Z1WWZYOW9XTnNTb29CbTg5RHd2RWE4cnJab19WN0tWR2NjNUxxQ1FMcURoSnU4SWpFRWdNNnZabjlQUWs1aHdZMU95WEh2MnI4cjZfdE1XSk1SeE1DNHRtY0J4MlFnaWEydS1wN0U3OVpxeg?oc=5"
+  },
+  {
    "ts": "2026-11-19T20:25:04.189993+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran wants US to open Hormuz Strait as soon as possible</b>\n📰 DD News · Jeu 19/11 14:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQUU8yd2JPV25iU0E1cU5hUUNmT0pBTHR0eGtpcmJoV2FYeEhDeWdKdW1CaXd5X2JXWkhTaGZUc1IzeDllYnpVX2VyRHhXY2lNT0Z1ODRJTFpKaGxBM1FQZkh2SUVMT2ZaME5DdS1SdHE0Vi1jcGRMTzFUS0pIM04ybm9wUERHZlVrd3U3Y0NlU1BpRWZpUkpJ?oc=5"
@@ -9257,26 +9280,6 @@
    "ts": "2026-11-19T10:37:35.080272+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Nuclear arms and ending wars in Iran and Ukraine set to top agenda at Trump-Xi-Putin meeting</b>\n📰 ABC7 Chicago · Jeu 19/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNbmVkekVPaE9pUHotdFQ4THNEcnFwaDFjNWhRR010WXVTaVFZVWhNSm04eG9SOUl1WHdSZVk5XzJGcENLRTBiRXJZaVBLNmgtMHJCaC1RZXFvV3FWMG1CMER4VHNMQkpvYjFWYUotNDJpZmF3NTV6am1STmZYd1pNLW96cFVwZVY4dXVTOXRxbkNJcGRHOE53ejI5cmpveXFaNHhTbTEwQnowbEpIc3lVVjNSeUFRdw?oc=5"
-  },
-  {
-   "ts": "2026-11-19T10:16:21.380731+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage</b>\n📰 CNBC · Jeu 19/11 07:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE84Vi1aVi13N1FETHdkbnpZcWtOdmlTRzY1V3h1dDlxWjh1Qy1pVXpYZlY0WENXTzlVVFBHMTZFcnVWUDVReTdSQm5Wa1VKNmxpcFIyeHJaNkpTeW90TDh3TXYzSnZ4WFI3aElsRWlHVFrSAXZBVV95cUxNRXA1WncwREE4MW5Wa2U3SkpyVUlsVEJDUHFBbVIxd1FCNWpEOHRoX1pDWGhzdl9kZnN0M1ZMdVVRNlM0bW1DRXhmeVRPcGlNQnFtcjg2U1lmVEVmX1JaZkNMMFZjcUdwVHR3Ri1rNTZvVTRBbUl3?oc=5"
-  },
-  {
-   "ts": "2026-11-19T10:16:20.444752+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighs renewed Iran strikes as Netanyahu pushes for week-long air campaign - report</b>\n📰 The Jerusalem Post · Jeu 19/11 10:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPSVFpMXk4LU1pYVFBM2NtcU00cV85Q1NIZzVCZ2N3eFhpVmoxQjlrSXplRW5rYW1JMTh2c2ZVTi1hWEtBTWtlblQzRDJZdU5jcDdDd0xqaFR2Sm0yXzJV?oc=5"
-  },
-  {
-   "ts": "2026-11-19T10:16:19.372859+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US, Russia, China 'uniquely positioned' for nuclear arms talks, urges Ukraine peace</b>\n📰 Anadolu Ajansı · Jeu 19/11 10:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNckR0Q3NGUWxMczBjVnZwdWlXMUNXS01JcFU4dlFHVUlwX25Sd1pmX190RFBhMllnYzFmeHZNeGdGek1CVWJtek5uS1pMZWpEcTVPdnpGdHg0alpHRHlzdEU0MjhhRDVFM0wtbjFlMHkzcmZPcV9xeFVxd21iRWtkeUlNWkVhSHFONU8wcjJDZ0dIc1dET3FEajZISklZdzlJNk1oSl9KVU5jOXpXdV8zNnQ3V0V4RzRSTmxTTEp3T2xhSFh0VnNJ?oc=5"
-  },
-  {
-   "ts": "2026-11-19T10:16:18.361458+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine</b>\n📰 AP News · Jeu 19/11 11:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5"
   }
  ],
  "daily_forecast": {
