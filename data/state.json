@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "94b9601f8170",
-  "f11c4150617e",
-  "2c99d9892e92",
-  "0d69e6c2b8fa",
   "b8086e81ab4c",
   "b889cac1160b",
   "97643bf1a0d7",
@@ -4220,7 +4216,11 @@
   "466e54ede6e3",
   "f827589fde24",
   "d65bd25129b2",
-  "204130ea1b47"
+  "204130ea1b47",
+  "ed77658bd8fc",
+  "a9faad8ca5e0",
+  "2911a9107f7b",
+  "b2c114344941"
  ],
  "news": [
   {
@@ -4233,6 +4233,30 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran’s ‘dirty bomb’ threat underscores risks to US homeland",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGJFTko1RmlfeUFkNE40eGRiTWlOMUJGel9rekRhREtsUnVieHF2cGFwQ0dtV0hrc245YWt4d3FicFZrZTJxaEdBUHBYWmoxU2hRbFlldl9GaVpFUXVjOFVRV3FrZzJxbnBuRkVoTFBXQzdrWTZiZVFLa3pxckNSSElJbHAwcFV10gGOAUFVX3lxTFAzR29VMmhHbU5GT2hYT2x3c052NFByZnRRU3c4TEtHM0N3UHVsdXlReEVDR0NaYTh4NlJ2anVWN09lZ05ST0xfY0Q0R0xLMUJ1M2hOSlE4eTlzdzlndHVEZXFIQ0F4XzFZYWJHV0NpUlVra18wYUhPTW1ldHlpSmtHWmRwS0dxU2ZYTHBiUmc?oc=5",
+   "published": "2026-11-19T00:04:00+00:00",
+   "id": "ed77658bd8fc",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "CENTCOM chief in Israel following US, Iran strikes in Gulf",
+   "source": "The New Arab",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnZmYzJGNUNhRGMxLUFkVkc5TUFOZUZfSlMwR0NyRE1QeVdDVi11UU1nc3djWlBxVGpVRTRONWttelRyeHFtUEc3OTFOLXJmNXdoS1pyRkkzdWVYME5sQWRQTHNlaW9Db1UyUEtPRU5WaEVtV0FrUFdLTFRwR2ZuU3VrcjNaZFXSAYwBQVVfeXFMT3UyUU1Kay1wZFl6OWZPaEh2Sm5CMEp5Zks5bUxnamxuSnJER011bnZpNkRkSUk3TTF4Mm5YZFlUZ0lwU1NYVGxqbmRkQWRlaGVaLW91elA4SWRVNHRxQ2w2Y2ZZaTBvSlhWRkp5cG9SYVNVbmRUQUh5UU9Qc2N0dzVWN0Fyb2txODJyakc?oc=5",
+   "published": "2026-11-19T00:01:31+00:00",
+   "id": "a9faad8ca5e0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6598,34 +6622,9 @@
    "cat": "géopolitique",
    "raison": "Divergences au sein de l'OTAN sur l'escalade militaire en Ukraine.",
    "method": "IA"
-  },
-  {
-   "title": "CENTCOM chief visits Israel amid reports of US preparations for possible attack on Iran: Report",
-   "source": "Anadolu Ajansı",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzdrTnhGRTdGNG5FSDJkek9WNEE3Qkx3dDFCQmYzY19EZXlTWmVGWWszbVgybGVja2tJWkswT2VKM1dCejM2WnNua19FR0ZlOE9vN1hYX2QtUEVrbWc3YnVBVFFfQWQwd04zU2F2aXBfeVlhYXVTaEVDeGo2dHFYaGxabWxuTUNUU1ZoSWZtRTEzVWxDMDdwbjEzTFpDajZJVnVkTmJ5UVRvZmoxaEVhbjI5dHNTNWowck82NDc3bDNacmg4dHFRa3E3MXVad21xRUE?oc=5",
-   "published": "2026-11-17T20:48:04+00:00",
-   "id": "2976efae1f8f",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Préparatifs militaires concrets US-Israël contre l'Iran stimulant les achats refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
-   "source": "Bloomberg.com",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJ3VWxtanltWDFIdk5Jc2U5eFdaUFp6aG1PVVkwVVNpNVZxRFRvQllPcjYwVGh1OVlpVG9pQ1QyX283NldTUnBMa0NxRllJd1E3UDVacklIdTh0MmxsQnc2LTRfaGFFR092OHZZNnUwNEFGLVBFaFF5M0paNFo5d0t4YUIyUDNOVnV5UVVyRTlJRmN6azkxTmNjR251eU8yaDVmX2tJdGpFNkdIekVRbndoMEo?oc=5",
-   "published": "2026-11-17T20:14:31+00:00",
-   "id": "6fffd1a0c11e",
-   "impact": -6,
-   "cat": "taux",
-   "raison": "Rendements réels attendus au-delà de 5 %, augmentant lourdement le coût d'opportunité de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|6b73a9a60979": 1793236564.7566638,
   "news|9182aebc9585": 1793237679.9395516,
   "news|b0abe94b7ed3": 1793238546.2972772,
   "news|17627ce65687": 1793240344.2284012,
@@ -8465,7 +8464,9 @@
   "news|a49c1a48397e": 1795049375.7091448,
   "news|af8fe973bbba": 1795049378.3235111,
   "news|466e54ede6e3": 1795049379.3111541,
-  "news|f827589fde24": 1795049380.3129747
+  "news|f827589fde24": 1795049380.3129747,
+  "news|ed77658bd8fc": 1795051153.351723,
+  "news|a9faad8ca5e0": 1795051154.1333425
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8937,6 +8938,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T01:19:14.133454+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>CENTCOM chief in Israel following US, Iran strikes in Gulf</b>\n📰 The New Arab · Jeu 19/11 01:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnZmYzJGNUNhRGMxLUFkVkc5TUFOZUZfSlMwR0NyRE1QeVdDVi11UU1nc3djWlBxVGpVRTRONWttelRyeHFtUEc3OTFOLXJmNXdoS1pyRkkzdWVYME5sQWRQTHNlaW9Db1UyUEtPRU5WaEVtV0FrUFdLTFRwR2ZuU3VrcjNaZFXSAYwBQVVfeXFMT3UyUU1Kay1wZFl6OWZPaEh2Sm5CMEp5Zks5bUxnamxuSnJER011bnZpNkRkSUk3TTF4Mm5YZFlUZ0lwU1NYVGxqbmRkQWRlaGVaLW91elA4SWRVNHRxQ2w2Y2ZZaTBvSlhWRkp5cG9SYVNVbmRUQUh5UU9Qc2N0dzVWN0Fyb2txODJyakc?oc=5"
+  },
+  {
+   "ts": "2026-11-19T01:19:13.351878+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran’s ‘dirty bomb’ threat underscores risks to US homeland</b>\n📰 The Hill · Jeu 19/11 01:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGJFTko1RmlfeUFkNE40eGRiTWlOMUJGel9rekRhREtsUnVieHF2cGFwQ0dtV0hrc245YWt4d3FicFZrZTJxaEdBUHBYWmoxU2hRbFlldl9GaVpFUXVjOFVRV3FrZzJxbnBuRkVoTFBXQzdrWTZiZVFLa3pxckNSSElJbHAwcFV10gGOAUFVX3lxTFAzR29VMmhHbU5GT2hYT2x3c052NFByZnRRU3c4TEtHM0N3UHVsdXlReEVDR0NaYTh4NlJ2anVWN09lZ05ST0xfY0Q0R0xLMUJ1M2hOSlE4eTlzdzlndHVEZXFIQ0F4XzFZYWJHV0NpUlVra18wYUhPTW1ldHlpSmtHWmRwS0dxU2ZYTHBiUmc?oc=5"
+  },
+  {
    "ts": "2026-11-19T00:49:40.313084+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Breaking: Fed Minutes keep further rate hikes firmly on the table</b>\n📰 FXStreet · Mer 18/11 20:06\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE01T3JfZ2pnNUxDQnFDdVdLQWI5T1AzLWZlb2VxUlN0VEJnOTBOdWZYelJrZTRET3ZOQVBHUWQxeVVVTE1DZmptUkRucHF1VVBTQ1VLQmZXaWFIaWNUendUUU1GbHM0UEdsZ1lZYVotU1Q0c245R2phMXpwOFpubVhkdzJvWmNCU0tBWW16VG9TUnFqNHVDZk4xRGhSWGd0dWd1elR1X3V1UzJkQVNseXB4WDd5VHM?oc=5"
@@ -9225,16 +9236,6 @@
    "ts": "2026-11-18T16:03:52.466174+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 71 MIN — 18:15</b>\n\n🇺🇸 <b>FOMC Member Daly Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.23% aujourd'hui · taux 10 ans -3 pb · biais or -44 (FORTEMENT BAISSIER)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 97$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-18T15:46:14.477605+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Investors await Fed Minutes amid rising bets of a steeper tightening cycle | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Mer 18/11 16:37\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wU0NQRFJFV0JlTU1yYWNiSUdDWXR4bDI3cjF4M1VSREJlNHJWR19UWEozcTNldXpOa0ZsdFozQVpkbzFMalZ1cWd1MXZicTlPU0hF?oc=5"
-  },
-  {
-   "ts": "2026-11-18T15:31:35.042690+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold drops to 14-month low as hawkish Fed rhetoric boosts dollar, yields</b>\n📰 Reuters · Mer 18/11 04:10\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5"
   }
  ],
  "daily_forecast": {
