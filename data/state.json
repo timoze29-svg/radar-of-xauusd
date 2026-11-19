@@ -1221,12 +1221,6 @@
   }
  },
  "seen_news": [
-  "e1763751940a",
-  "cbf9db5274c0",
-  "fe312a2c8dfd",
-  "b788c00d0cab",
-  "329cbe8b90a4",
-  "99829c2ebb1f",
   "ce1de33f68ad",
   "5efed2848b54",
   "3326f8fca46f",
@@ -4220,7 +4214,13 @@
   "fed5721a3688",
   "3ac22be85736",
   "03af9ec08f67",
-  "0a8ecf158b67"
+  "0a8ecf158b67",
+  "ac05bec9ae42",
+  "23361307cf16",
+  "e94b437e5e20",
+  "e1b2171f720a",
+  "9eee9511beb3",
+  "4ea6944396cb"
  ],
  "news": [
   {
@@ -4230,6 +4230,18 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPblp4LVl0NE9uVGRmRzB4U1JxYnAwNDNNXzBrSFRZaDMzaS1RRmhXSDJKaDlsaDN0TWlnS2Q3QjRKMXQxNjRaSjc0Zy0zR2w0N3B2dF9ablljUmZydk5kSXhvMGY2NDBWNEVWb0tkQVpGRExFSTVET182d2VNZzhTblVLREdERWFfbW83SnRtZFNveGNFSzhyWWNua1lOYldXdEtRSDF4dmNYbEUxSEhjVkM0Q19wQkUxMUg4RjVsaFBReE5O?oc=5",
    "published": "2026-11-19T05:04:54+00:00",
    "id": "fed5721a3688",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "FOMC minutes reveal Fed officials expect more rate hikes despite October pause",
+   "source": "TradingView",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTVUOFlhVjFsaVVqSHVGb3BZYUZlRmdQaV9iajRyWS1yRjRFMWJNQnhZZ1RpOHR3eHM4ZFF5U3VCS1p3d2J4YzY5eHFtSGRJblVoRmtRaVhYRHhfRDcyS1Z5bnFGeDlQU1lQTFhINUFVNlE1Y1Zmbm1TTWRMNmhBQnpYYzA2VV9vRmI2M2ZIMkFBY2FFdERJRGo0a19UQnBBd1h0elJQOGs0bTJSY2diZG15N3dtWnBsTWxhVEI2R2pXOTdPS1JVTUtPTmpoWnVqdk1XYm5WdnVjekE?oc=5",
+   "published": "2026-11-19T05:03:00+00:00",
+   "id": "e1b2171f720a",
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
@@ -4534,6 +4546,18 @@
    "cat": "géopolitique",
    "raison": "Pressions israéliennes persistantes pour des frappes soutenant le statut refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Top US, Israeli Military Chiefs Meet as Israel Presses for New Iran Strikes",
+   "source": "الحرة",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wdkVRT01aSVZVOHo0UG8wRGJHZjhNRnZBNTR3Q20tTWxsYlpaZnNhdlNEVmwybnRwU3ZhYmJYNDJrQQ?oc=5",
+   "published": "2026-11-18T23:25:14+00:00",
+   "id": "23361307cf16",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
@@ -5100,6 +5124,18 @@
    "method": "IA"
   },
   {
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs",
+   "source": "Politico",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "published": "2026-11-18T17:24:00+00:00",
+   "id": "e94b437e5e20",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Crimean Bridge collapse: Final moments after Ukrainian attack",
    "source": "BBC",
    "theme": "Russie/Ukraine",
@@ -5313,6 +5349,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Central banks buy 321 tonnes of gold amid low prices in Q3 report - Read Full Report Here",
+   "source": "Zoom News",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTG1CaDlONzBnRE1ILThzWHhMTklPa0RkWUc2WnF6SjNCczFoY2pCbFBmY2ZwN2VqWExrQTk5WklUY0c0QTV4QkZHeTJGVDF6S1hZY2VpVXY5QVRuZVdlZUZBaENjeFBXMVJPVXlMWS13aDhUWjRqU3BmZ1dLMWI0bkc2ajZnRE5FejZRSTZlZ1YybVRqbVRoVjBNOUN1X0JETFZDRTd5V0hqU1lKaTVVcmxzQTZ6eTd6d0h3SHdmbnh6SVA2eUR0ZC1KZ9IB0AFBVV95cUxQOUE3akxWRm1vVlhJLU9zNjB1NmFfRTNldXFZSks4eHR6T1VFMEtQZzJ2RGtJWWhRYk00dEFiVG5ORXJ0R1NEcENJRHhSbEVLLXlmUDlkQnFYVGpHclBodi1QY1pmSU9ZTFIxVTROMC1YeDRTM05hSU4ydEJ1RTJMczNyOGRLV2lpR3NXWTFvcTI1NGtJVkduYjJiUV9MWlJsRWFNZ0NEVjVWYU5uSlpXOVg5aUR5TGVFN1BnU3VOV1FKTEdfbzBiUDhtaG5Dcks3?oc=5",
+   "published": "2026-11-18T15:19:05+00:00",
+   "id": "9eee9511beb3",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
   },
   {
@@ -6573,54 +6621,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Intensification des frappes ukrainiennes ravivant le risque de représailles russes.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-   "source": "kwit.org",
-   "theme": "Géopolitique",
-   "link": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-   "published": "2026-11-18T01:15:00+00:00",
-   "id": "979a219563d0",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Frappes iraniennes visant une base clé américaine à Bahreïn, choc refuge notable.",
-   "method": "IA"
-  },
-  {
-   "title": "U . S . Strikes Iranian Missile Site After Drone Attack in Bahrain",
-   "source": "sanangelolive.com",
-   "theme": "Géopolitique",
-   "link": "https://sanangelolive.com/news/national/2026-11-17/us-strikes-iranian-missile-site-after-drone-attack-bahrain",
-   "published": "2026-11-18T01:15:00+00:00",
-   "id": "89b2fdfb5749",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Représailles militaires américaines dans le Golfe soutenant la demande d'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de - escalate in Iran",
-   "source": "midmichigannow.com",
-   "theme": "Géopolitique",
-   "link": "https://midmichigannow.com/news/nation-world/tucker-carlson-says-he-spoke-to-trump-and-is-convinced-he-wants-to-de-escalate-in-iran-nukes-truth-social-house-senate-rrt",
-   "published": "2026-11-18T01:15:00+00:00",
-   "id": "486bec18405a",
-   "impact": -2,
-   "cat": "politique US",
-   "raison": "Signaux de désescalade américaine réduisant temporairement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-   "source": "thisiswiltshire.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.thisiswiltshire.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-   "published": "2026-11-18T01:15:00+00:00",
-   "id": "40e9b9c61a07",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Fin de l'accalmie avec nouvelle escalade militaire USA-Iran, net retour du risque.",
    "method": "IA"
   }
  ],
@@ -8476,7 +8476,10 @@
   "news|7a4588b5c83b": 1795063753.3419518,
   "news|98aa29e94864": 1795063755.7240899,
   "news|fed5721a3688": 1795065552.3720884,
-  "cyc_end|2026-11-16/2026-11-22": 1795065553.512212
+  "cyc_end|2026-11-16/2026-11-22": 1795065553.512212,
+  "news|e1b2171f720a": 1795067166.353394,
+  "news|23361307cf16": 1795067168.9042919,
+  "news|e94b437e5e20": 1795067169.683777
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8948,6 +8951,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T05:46:09.683916+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Carney says Trump’s trade war is giving China an edge on EVs</b>\n📰 Politico · Mer 18/11 18:24\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5"
+  },
+  {
+   "ts": "2026-11-19T05:46:08.904421+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Top US, Israeli Military Chiefs Meet as Israel Presses for New Iran Strikes</b>\n📰 الحرة · Jeu 19/11 00:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wdkVRT01aSVZVOHo0UG8wRGJHZjhNRnZBNTR3Q20tTWxsYlpaZnNhdlNEVmwybnRwU3ZhYmJYNDJrQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-19T05:46:06.353486+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>FOMC minutes reveal Fed officials expect more rate hikes despite October pause</b>\n📰 TradingView · Jeu 19/11 06:03\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTVUOFlhVjFsaVVqSHVGb3BZYUZlRmdQaV9iajRyWS1yRjRFMWJNQnhZZ1RpOHR3eHM4ZFF5U3VCS1p3d2J4YzY5eHFtSGRJblVoRmtRaVhYRHhfRDcyS1Z5bnFGeDlQU1lQTFhINUFVNlE1Y1Zmbm1TTWRMNmhBQnpYYzA2VV9vRmI2M2ZIMkFBY2FFdERJRGo0a19UQnBBd1h0elJQOGs0bTJSY2diZG15N3dtWnBsTWxhVEI2R2pXOTdPS1JVTUtPTmpoWnVqdk1XYm5WdnVjekE?oc=5"
+  },
+  {
    "ts": "2026-11-19T05:19:13.512269+00:00",
    "kind": "cycle",
    "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-127.8$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 3790.72 | 50% 3805.8 | 61.8% 3820.88\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
@@ -9231,21 +9249,6 @@
    "ts": "2026-11-18T19:16:46.009656+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Gold price drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric</b>\n📰 Mining.com · Mer 18/11 20:14\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzJ3SW41M0FnMmVhbTNmV0xqR3dfYlZLMV9nM0FDNzMydGI3MFdLVmJWYnZLRFVyd2pWdGZucHl6SGdqdDZTekg4NmE0TVNHVGFIb09Zc1gxdHk3TjBicmdIYWhmQkZnUDVobWJvTk83U0pCSEdLbXBfTWMyUThHb2JwVjU5OFFOWHBxbk5NR01ReVdseDVhalB1cGYtWncyZFV4cVhPOUVIZw?oc=5"
-  },
-  {
-   "ts": "2026-11-18T19:01:39.988588+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 26 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans +0.6 pb\nOr -2.2$ (extrême -3.6$, range 5.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-18T19:01:38.791197+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Waller’s Hawkish Talk Kept Treasury Yields From Falling Further</b>\n📰 Finimize · Mer 18/11 00:58\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXdHYm1PYzhoOVJEaUotZTlQZVNTdUg5ZDZoU1R6V3pjbmRDcHo5M2dWdE1LdXlKbl9jLXhVR09QS0RWX2dtSDgwcV9WSXBHYnp5SDRwUVlha0RGM0ljNGxpYUl2VUphS1dVQ2x2dmlMcWR4SXFTd3ViZmN0dWJVaFptb3F6VGxHd3hJaUVINGZEWm8xSmc?oc=5"
-  },
-  {
-   "ts": "2026-11-18T19:01:37.930932+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran over reported dirty bomb | FOX 5 AT 6AM</b>\n📰 FOX 5 DC · Mer 18/11 19:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CbzFrbHNQM2s1dnpCVFM2amNmSlhjWU5rSWZieVhKanBGNFFQaUMwa0stOWhEaTBmS1RDbC1XdFgyU3hNM0pUMWROc2NtcDhBeGVsdnpWVXc2YVNyaHfSAWNBVV95cUxOa0lwaDl5MExBRVJ5NWNIdnZmcHBuYnZmdGpvdnVCYzhWV1UxaUd1dWFtUHNyMlVCSnV1VXhKN3N4dGJlNkFsTkFPa2F3ZFZpMGphWFNKMy1xYUJPcjBORDVSb28?oc=5"
   }
  ],
  "daily_forecast": {
