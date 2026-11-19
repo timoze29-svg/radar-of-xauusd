@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795064475.2444384,
+   "ts": 1795068081.598219,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "ce1de33f68ad",
-  "5efed2848b54",
-  "3326f8fca46f",
-  "0834eed5955e",
-  "a46d14035f21",
   "07587d810a0f",
   "b254148da93c",
   "e530a122cfb5",
@@ -4220,7 +4215,12 @@
   "e94b437e5e20",
   "e1b2171f720a",
   "9eee9511beb3",
-  "4ea6944396cb"
+  "4ea6944396cb",
+  "1cefc94064fe",
+  "e8d7962e867d",
+  "5d3b12742c2f",
+  "9312dec0b482",
+  "9f2f7dced87f"
  ],
  "news": [
   {
@@ -4245,6 +4245,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Japan bond yields fall as equity market jitters boost safe-haven demand",
+   "source": "The Economic Times",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGVUV1VtbDdXYU1VTklMNzBpMlRMWFVGRXM1TG02Ni1IVFcyZU9iWXJQUzdOLW92V2VvMmZlODVGejY2OU1jUXV1Ujl4Zlc5aXEyZnVyUFNwYzY5cHpjSW9QRndROUFDUVpGY0tkVkxpMmpOdExoR2VvUUlydzVseUlsUzZXcUgyMHpjNXZLS1BFdGpKUXdpdFc0aXhPeGtZTjVFRV90UFk2QXRGLW5vVERQTklHalh6anhLeDh0WjdDczdDcEZjb0RLNmNsTmFuUWhUN01zWEJlYXFoSmdQbGNDc2NWdzJYRkNCaTZoMmY2eTDSAfgBQVVfeXFMTnJxRjU4UlV0UmZLVXJTb3lxc042aW90Z3RVeVplRTdNYjdjek5wWWVZb1pGbHpTQUw3eEVQbEhfVHBYMUNBMW5TSmY2amlocm5PanptdnFwSW5ZdFEtb2d2ekFsZmF6ZlFrVG5Od3BrcEV4cjd5eDVjbndkdE82Z2lyXzJpdmNMaUFwVjRwYjBZYnFBSEpHRkFQU3VCcXNsNDBKNFo2RHZhSjU4WDAxWU1ybVowUG9PM0Z6OWJpYjdXQVJPbXpKRUtYQU5IeEk4eVd5TWd0eGtkNFNLS0doc0s2Y0hJZTFWcXR3a05KNEZTeTVzeG4tSnE?oc=5",
+   "published": "2026-11-19T04:34:38+00:00",
+   "id": "9312dec0b482",
+   "impact": 4,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -6312,6 +6324,18 @@
    "method": "IA"
   },
   {
+   "title": "India bonds rise tracking easing crude oil, US Treasury yields",
+   "source": "Business Recorder",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGY1ekRxQWV2UnZVODkwV2tOamJobjlBTnhvUVoxbTNwWEtPUUdxYWh0Vk1QSWk4OGE3SUlEOVdMWEVPVmhITldWOVpKUGoyRHVHQ0RzbmgxM014dWZUOTBPUWxndUwxLUFlbnc4Vk9WbUxWdFVxX2pIZnBpTDJKb0wtRXZpb1VFVVY0NGFVN0JidGxIQVlFUy12Mkx1S2QxUzAw0gFWQVVfeXFMUEYzSmRHQTd5ZTgtWV8xekRtc2NMWUNaX3lqYW82TUpOd2E4ZlhqczVnNE9tQ1lXRGJCRml2dmh4Z1UwYzZBeVZTVDJqNXZEVURheGJmWlE?oc=5",
+   "published": "2026-11-18T06:37:19+00:00",
+   "id": "9f2f7dced87f",
+   "impact": 8,
+   "cat": "fed",
+   "raison": "haussier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Egypt, Oman Discuss Efforts to De-escalate Regional Tensions",
    "source": "Sada Elbalad English",
    "theme": "Moyen-Orient",
@@ -6598,34 +6622,9 @@
    "cat": "commerce",
    "raison": "Allègement tarifaire chinois réduisant l'aversion au risque et l'attrait de l'or refuge.",
    "method": "IA"
-  },
-  {
-   "title": "U . S . strikes Iranian missile site in  self - defense  | News",
-   "source": "wyomingnewsnow.tv",
-   "theme": "Géopolitique",
-   "link": "https://www.wyomingnewsnow.tv/news/national/u-s-strikes-iranian-missile-site-in-self-defense/article_23c1f7c2-09ae-5b60-b29e-9f3959037d85.html",
-   "published": "2026-11-18T01:15:00+00:00",
-   "id": "4127f57095b9",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Frappe américaine contre l'Iran alimentant les tensions et la recherche de sécurité.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine strikes major Russian bridge as aerial attacks escalate",
-   "source": "richmondandtwickenhamtimes.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26735858.ukraine-strikes-major-russian-bridge-aerial-attacks-escalate/",
-   "published": "2026-11-18T01:15:00+00:00",
-   "id": "29608924bf0b",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Intensification des frappes ukrainiennes ravivant le risque de représailles russes.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "rep|daily|2026-10-29": 1793253697.0437303,
   "news|7440b5552a1a": 1793254565.6541877,
   "news|9512819d5504": 1793255668.1414468,
   "news|11e63cf97939": 1793260017.6105735,
@@ -8479,7 +8478,9 @@
   "cyc_end|2026-11-16/2026-11-22": 1795065553.512212,
   "news|e1b2171f720a": 1795067166.353394,
   "news|23361307cf16": 1795067168.9042919,
-  "news|e94b437e5e20": 1795067169.683777
+  "news|e94b437e5e20": 1795067169.683777,
+  "news|9f2f7dced87f": 1795068103.2063825,
+  "rep|daily|2026-11-19": 1795068105.5637894
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8947,9 +8948,35 @@
     "PDL": 3839.2
    },
    "ts": "2026-11-18T06:01:50.152314+00:00"
+  },
+  "2026-11-19": {
+   "dir": "down",
+   "score": -34,
+   "p0": 3737.3999,
+   "exp_range": 97.6,
+   "levels": {
+    "P": 3774.33,
+    "R1": 3826.87,
+    "S1": 3689.37,
+    "R2": 3911.83,
+    "S2": 3636.83,
+    "PDH": 3859.3,
+    "PDL": 3721.8
+   },
+   "ts": "2026-11-19T06:01:44.561548+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-19T06:01:44.561572+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — JEUDI 19/11</b>\nPrix : <b>3737.40</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-34/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3737 vs MM20 3969 / MM50 4130\n🔴 Dollar (DXY 5j) : +0.68% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.80% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +7.1$ · plus haut 3759.5 / plus bas 3722.6 (range 37$)\nDXY +0.06% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~98$</b> (ATR 103$ × profil du jeudi)\nDéjà fait en Asie : 37$ (38% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3911.8 | R1 3826.9 | <b>Pivot 3774.3</b> | S1 3689.4 | S2 3636.8\nVeille : PDH 3859.3 / PDL 3721.8  ·  Semaine passée : 4158 / 3857\n\n📅 <b>Annonces du jour</b>\n🔥 <b>14:50</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:25</b> 🇺🇸 FOMC Member Jefferson Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:30</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:15</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>22:00</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>52%</b> du temps (303 jours, ~6.0 ans)\n• Hier : -3.16% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (214 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 0h (12%), 2h (11%) · plus BAS vers 0h (15%), 16h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -127.8$, depuis mercredi -4.5$ → en attente\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 3774 → R1 3827\nObjectifs : PDL 3722 → S1 3689 → S2 3637\n❌ Invalidation : clôture H1 au-dessus de R1 3827\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 3859 → R2 3912\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
+  {
+   "ts": "2026-11-19T06:01:43.206486+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>India bonds rise tracking easing crude oil, US Treasury yields</b>\n📰 Business Recorder · Mer 18/11 07:37\n🧠 haussier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGY1ekRxQWV2UnZVODkwV2tOamJobjlBTnhvUVoxbTNwWEtPUUdxYWh0Vk1QSWk4OGE3SUlEOVdMWEVPVmhITldWOVpKUGoyRHVHQ0RzbmgxM014dWZUOTBPUWxndUwxLUFlbnc4Vk9WbUxWdFVxX2pIZnBpTDJKb0wtRXZpb1VFVVY0NGFVN0JidGxIQVlFUy12Mkx1S2QxUzAw0gFWQVVfeXFMUEYzSmRHQTd5ZTgtWV8xekRtc2NMWUNaX3lqYW82TUpOd2E4ZlhqczVnNE9tQ1lXRGJCRml2dmh4Z1UwYzZBeVZTVDJqNXZEVURheGJmWlE?oc=5"
+  },
   {
    "ts": "2026-11-19T05:46:09.683916+00:00",
    "kind": "news",
@@ -9239,21 +9266,11 @@
    "ts": "2026-11-18T19:16:47.615928+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump-Vance tensions grow over Iran war as Marco Rubio emerges as 2028 favorite</b>\n📰 The Jerusalem Post · Mer 18/11 19:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE90R2lMaWlCR2NDVTBBS01zNUJHb1dTQl81U2NyMDdsZlBxWnJuTVBYX0FIMXlqTDZzOXhMNkY3ZXlGRWwzT2JsbHVpSUVEN3lVbjRUWW11XzZjd1VmYkl4M0R6d0s?oc=5"
-  },
-  {
-   "ts": "2026-11-18T19:16:46.833112+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed minutes: nearly all participants see further rate hikes as likely appropriate</b>\n📰 Crypto Briefing · Mer 18/11 20:05\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVhEUTMwX3UyR212djFEckFOZkdOOHRvNkZMOXNFZVBNeEpwMi1ocVBON3BiM0lYaG16d21TNVFvZ2stckZXQkEzQ1F3X2NTcVdxM0JaRk5kNEY5SG02MWNobUR4QzNIbURtQkJwYjhGZzkxa1hKQXdKbnVLTXdmbXR4RTRBM2Y5OFRFdFFFWjZONklVLVR5LW5ESGJxU0lST2Ztd2lWdEs3ZW9M?oc=5"
-  },
-  {
-   "ts": "2026-11-18T19:16:46.009656+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>Gold price drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric</b>\n📰 Mining.com · Mer 18/11 20:14\n🧠 baissier or (fed, taux) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzJ3SW41M0FnMmVhbTNmV0xqR3dfYlZLMV9nM0FDNzMydGI3MFdLVmJWYnZLRFVyd2pWdGZucHl6SGdqdDZTekg4NmE0TVNHVGFIb09Zc1gxdHk3TjBicmdIYWhmQkZnUDVobWJvTk83U0pCSEdLbXBfTWMyUThHb2JwVjU5OFFOWHBxbk5NR01ReVdseDVhalB1cGYtWncyZFV4cVhPOUVIZw?oc=5"
   }
  ],
  "daily_forecast": {
-  "date": "2026-11-18T06:01:51.137259+00:00",
-  "text": "☀️ <b>PRÉVISION OR — MERCREDI 18/11</b>\nPrix : <b>3794.20</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-32/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 173 news notées, moyenne +0.60\n🔴 Momentum or (vs MM50) : prix 3794 vs MM20 3988 / MM50 4144\n🔴 Dollar (DXY 5j) : +0.73% sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : -61.1$ · plus haut 3859.3 / plus bas 3781.7 (range 78$)\nDXY +0.06% sur la nuit\n⚠️ Plus bas de la veille (3839) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~104$</b> (ATR 97$ × profil du mercredi)\nDéjà fait en Asie : 78$ (75% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3920.6 | R1 3892.4 | <b>Pivot 3865.8</b> | S1 3837.6 | S2 3811.0\nVeille : PDH 3894.0 / PDL 3839.2  ·  Semaine passée : 4158 / 3857\n\n📅 <b>Annonces du jour</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:35</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:00</b> 🇺🇸 FOMC Meeting Minutes\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:30</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>22:15</b> 🇺🇸 FOMC Member Kashkari Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : +0.29% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1051 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 16h (12%), 2h (11%) · plus BAS vers 0h (13%), 14h (8%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -75.5$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 3866 → R1 3892\nObjectifs : PDL 3839 → S1 3838 → S2 3811\n❌ Invalidation : clôture H1 au-dessus de R1 3892\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 3894 → R2 3921\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-11-19T06:01:45.563746+00:00",
+  "text": "☀️ <b>PRÉVISION OR — JEUDI 19/11</b>\nPrix : <b>3737.40</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-34/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3737 vs MM20 3969 / MM50 4130\n🔴 Dollar (DXY 5j) : +0.68% sur 5 jours\n🔴 Fed (2 ans vs taux Fed) : 2 ans 4.80% vs Fed 3.88% → hausses anticipées\n\n🌏 <b>Session Asie</b> (depuis minuit) : +7.1$ · plus haut 3759.5 / plus bas 3722.6 (range 37$)\nDXY +0.06% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~98$</b> (ATR 103$ × profil du jeudi)\nDéjà fait en Asie : 37$ (38% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3911.8 | R1 3826.9 | <b>Pivot 3774.3</b> | S1 3689.4 | S2 3636.8\nVeille : PDH 3859.3 / PDL 3721.8  ·  Semaine passée : 4158 / 3857\n\n📅 <b>Annonces du jour</b>\n🔥 <b>14:50</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:25</b> 🇺🇸 FOMC Member Jefferson Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:30</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:15</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>22:00</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>52%</b> du temps (303 jours, ~6.0 ans)\n• Hier : -3.16% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (214 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 0h (12%), 2h (11%) · plus BAS vers 0h (15%), 16h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -127.8$, depuis mercredi -4.5$ → en attente\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 3774 → R1 3827\nObjectifs : PDL 3722 → S1 3689 → S2 3637\n❌ Invalidation : clôture H1 au-dessus de R1 3827\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 3859 → R2 3912\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
