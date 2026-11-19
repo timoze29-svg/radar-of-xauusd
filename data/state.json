@@ -1221,8 +1221,6 @@
   }
  },
  "seen_news": [
-  "31b56a510d75",
-  "1ef1f8a19cbe",
   "f1cfcf8ff677",
   "ea1912aedc6b",
   "43314fa31ace",
@@ -4220,9 +4218,23 @@
   "3691fb018b3b",
   "f484d5eb09de",
   "ff5d3b4d465f",
-  "29575806f326"
+  "29575806f326",
+  "3c3e676f9b4f",
+  "238fef92b9a1"
  ],
  "news": [
+  {
+   "title": "Anthropic Debuts; Trump's China Visit Puts Taiwan And Ukraine In Focus",
+   "source": "Benzinga",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2NsaVRPWjViUFhmSVZubXdDNm1xR3JEcXdKRUtMNWYxZldyODQzV3A0YjdHTlkxZUUxcldtQ2RPRGQ0anZua3pTaWZBUzlKTUtJOHhWZjFPOU81U1BxN2oxeGM5dG04WWZsLXJFak1KcXk0N3hFV1ZQMm9xR1RsOEZpdTBfVkVDcGp5bTVWYmxYeHJuTk1rZTlXY3FBUDVvcXF4bEFseFhRMURJb2w4ZmJHLVVFcDA?oc=5",
+   "published": "2026-11-19T18:35:56+00:00",
+   "id": "238fef92b9a1",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
    "source": "Axios",
@@ -4290,10 +4302,10 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXl0bjRHSURJZzI4WHZrbXpJYTlWd21SUzcybVpxaUpWRjVMNm9oSkVtbUJURFQ0MDdiMlJ5MmdYSjhIM0JWaW1MSlg1WHdyaGp3WXg4VHRia3B5Z2kwcTFLSTdxWkkxWFFWclBsXzRZYnpxVW5xWktpUlJfeTJhYmpyQWVZRHpxS3FQN2JDdEYxMHJlSFgzeW1sbzRqY0hJRUE?oc=5",
    "published": "2026-11-19T18:10:37+00:00",
    "id": "b5424bac9e41",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque d'escalade avec l'Iran et rebond pétrolier soutenant l'or comme couverture.",
+   "method": "IA"
   },
   {
    "title": "Kushner says Russia is 'comfortable' with NATO-like security guarantees for Ukraine to end war",
@@ -4302,10 +4314,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFhwUEs0TGJiLU9OTTFqQ3lROTRyT3d6TG1MWGMtMkNLQXFfTUZQN3B3a1FqT2FwSDc2WVBqVDBWeWtHLThIeWxkM21oclBPalFPMnBnUGh3UWFRTGJkbmczcVBTbkc2QjYwZzA2aGxLb2pNd1FxSjUzQXh6TlJEbEpmak1SVC1VcmpNLUZaaEI?oc=5",
    "published": "2026-11-19T18:01:30+00:00",
    "id": "6aa409078ac2",
-   "impact": 6,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Espoirs de garanties et de fin de guerre réduisant la prime refuge ukrainienne.",
+   "method": "IA"
   },
   {
    "title": "More voters blame Trump’s tariffs for raising cost of living than Iran war: poll",
@@ -4314,10 +4326,10 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE5kbnRzSEY3NWM1aEZyMC1zUWJ2UHEtVjNsZGNJMmhnWmt6RVlZeEdMM1A3TG1aTjQwVXc0OTJRYWY5MXZlZkpkVmR1S2p6eVpBTDN0NjFDVDFBWmNoelRFZTFMRWZodl9EeXJ3cXJCUmNzX21hb1VMWGlkUl9hd2tVTFpYRDRiSzVrVzFPZy1Sa2JKektHSzNFLVZZRVE?oc=5",
    "published": "2026-11-19T17:56:00+00:00",
    "id": "daacaf3e2ff9",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Simple sondage d'opinion sans effet macroéconomique direct sur les taux ou devises.",
+   "method": "IA"
   },
   {
    "title": "Kataib Hezbollah Chief Abu Hussein al-Hamidawi Signals De-Escalation in Jurf al-Sakhar Dispute",
@@ -4326,10 +4338,10 @@
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMGNpTURkRzR1MXhhOGlSYVZDdTBRRTVlTXZ6WmwwRzdFcXV1Skx4Q3BHR0ZpRzFEUXAxM0tVbTFQNm9NelliUHM0ZjF3VHYyTjZ2ZHY0UzMyQUpaZ3htQ1RXR1NFVElMbFByTlZCQ3NkNGF2aW83TS0zQ3NtcDk3YkNKZUhrZm9lcEtVaFl3NkJHMF9uWEsxZ216anJWSDd5RDhjTUt2NENHR09RUWVhb1B0Y1JrRy1EaFhtVTRIZDBiMHZXT0doR3NpdUViS09pbGFrcmZvdFFKMVdHSVpIdDVBdmZ0aG1f?oc=5",
    "published": "2026-11-19T17:29:23+00:00",
    "id": "e567fa949f21",
-   "impact": 1,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Signal mineur de désescalade locale en Irak détendant très légèrement les tensions régionales.",
+   "method": "IA"
   },
   {
    "title": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike",
@@ -4338,10 +4350,10 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yNHJ2ekFIeGFSWktPUmVMSF85amtLLV9kQ1RRSXRBUVNVZDFndHRFcUd1aDByY0VQeG91TzFlMDVJdU85aWJ6V2g5cDBQaGg3Q0JUTjhlMkt3a2c0S1Q3UHZURkZWcHFZZGVGM1NoLURSQQ?oc=5",
    "published": "2026-11-19T17:22:22+00:00",
    "id": "162902db3bd7",
-   "impact": 1,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Refus de cessez-le-feu en Ukraine prolongeant le conflit et soutenant la prime refuge.",
+   "method": "IA"
   },
   {
    "title": "Riyadh tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
@@ -4350,10 +4362,10 @@
    "link": "https://bdnews24.com/world/middle-east/fivt512358",
    "published": "2026-11-19T17:15:00+00:00",
    "id": "c77b1b104f58",
-   "impact": 6,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappe directe sur Riyad accentuant nettement les tensions régionales et la prime géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Israel Has a Problem: Trump Hasn’t Said Yes to New Iran Strikes, and His Own Officials Are Split Over the Intelligence",
@@ -4362,10 +4374,10 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcnZ1RlRPUldBalhQWUFzc3JSX3lUX1pjVFhRWUhMYmZ4M1ZnaXBxWW90VlVud3J6eU94QWRPbl9PR3ZDOUwzZXR2bGtud1BnejJYcmg2bGhpUG05T3oyTC04MjhYV1BOeGRHcUItQTNYT1hMeTdoSUdFVmg5amhmUWpZM1lxLWhLX1IyR0NfZXM2S3B4TlBpT1hPbU1aZnlaWFowcktoUGtGNEZJRW56amdCYi1oS2F2MzBrTjBXQ3RGbkwwNlNORExEeEFEbFpYOWZmNnZ6ZTNpX3QzSFR5ZGZMblRuX1E?oc=5",
    "published": "2026-11-19T16:59:06+00:00",
    "id": "20a1fa8c82ca",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Hésitations américaines réduisant le risque immédiat de frappes militaires contre l'Iran.",
+   "method": "IA"
   },
   {
    "title": "Target booked $301 million from tariff refunds this quarter, nearly a fifth of its operating profit",
@@ -4374,10 +4386,10 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRG8xRnNVV1JZbXdkdDRMVFJWRkpBd3JUNHMzYVZ3QWJEZVh5OW5oSDljWXRjWWtiTEl5Y0pZdWNXMDF0NmhxRW5tUUVGVzkyN0VRbDl0Tmpxb252Um45OVdLR3RGY0xXTmdicWRaYjlXYWNqVGY3U25tOEcwOERmNkFmNkNTekxPNUVhX0hBWQ?oc=5",
    "published": "2026-11-19T16:53:00+00:00",
    "id": "1ab75cbc3951",
-   "impact": 4,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Résultat microéconomique spécifique d'une entreprise sans impact macroéconomique sur l'or.",
+   "method": "IA"
   },
   {
    "title": "This Company Turns American Milk Into Canadian Cheese. Tariffs Are Curdling Those Plans.",
@@ -4386,10 +4398,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1RHX3RyUWhwQklEUjZZX3B6VGF5WGx3VHZtZ1lOeDNSenZCd0ItV3pkXzZEanV2VC1SdmprV25ZYUJJNjcyUS1raW9rYVNRdEVlUk04cVprOXBYeGJCdmFNWTJIWU13b285OWM2M1BRUE9iWHFzbFJpeklzLTJOaV80aGpKbms4ZjJIRXdBMTBieWlMS1pneFZvYjBVcFZDNmRrOWprcFlWTmJDT0FqcTRVNmFocW55?oc=5",
    "published": "2026-11-19T16:32:59+00:00",
    "id": "b141ca7be129",
-   "impact": 4,
+   "impact": 0,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Cas d'entreprise anecdotique n'influençant pas les marchés de capitaux ou devises.",
+   "method": "IA"
   },
   {
    "title": "Russia pushes winter strikes west as Ukraine’s power grid comes under sustained attack",
@@ -4422,10 +4434,10 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmViaWkxekhjeVItOUZzek5XZHRkS0xpZi1DcnRpb2lYQTlrT0JZazVRVVh3czhWejBJNk5EM0luRTkyX2wzVzRNREhISG5SNnFpTjMtUG5LZm9IdEoxaWstcV9RYWdDR3N0RGRkU1J0eDRaODBOVjZwRm80R2w5UlN6akRYQ0VpcFVQSWJISmlZSkQy?oc=5",
    "published": "2026-11-19T16:12:11+00:00",
    "id": "2b2eee736954",
-   "impact": 5,
+   "impact": 1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Persistance des droits de douane entretenant des frictions commerciales et une inflation structurelle.",
+   "method": "IA"
   },
   {
    "title": "The Kerch Bridge is crucial to Russia’s war effort and for asserting Moscow’s control of Crimea",
@@ -4434,10 +4446,10 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2dGSTR6V29HUE5jRFV4MDVGRHNPSzVsTUw3UE1FUWZPZDNuVnJfWnBqQlFXb2t1VnVKd2VCRl9LUnJPLUZ6TjlfZDZnM2pTazZ4Z2Z2WFRUMTk1Z09FUUlaMndwalFONVg0UGRySHlEZVoyNndSckd2b0I2VkcxUnZsbExJTXhuM0pjdjVZMFhBeGJ3SzB2aWlsM21VcGc?oc=5",
    "published": "2026-11-19T16:10:58+00:00",
    "id": "cbf4aac11503",
-   "impact": 6,
+   "impact": 0,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Article d'analyse descriptive sans événement nouveau pour catalyser les cours de l'or.",
+   "method": "IA"
   },
   {
    "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fires",
@@ -4446,10 +4458,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWFGZFRJR2VzUjBpaE53VkNkUVJ1aXlhZTI2b01QRW5XeUQzeWNQWF9Ta3pSclFoaGt0VDR6YnFyYUt3dEVWY3hQbXA3RWp1TVZIOU14Z1p1OTV1cW5jZnV6ajZ2anc5NDlFMmdJOG95aFM5SXBpUkZWcVd1Zk10aGNwY0hrSVJq?oc=5",
    "published": "2026-11-19T15:54:42+00:00",
    "id": "34d38c8aa360",
-   "impact": 1,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rejet des négociations de cessez-le-feu par Moscou maintenant l'attrait pour l'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Daily Briefing Nov. 19: Trump again weighing new strikes on Iran – is this time different?",
@@ -4458,10 +4470,10 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQREZfWlVyNnR4RnAwQ0ZyaV80UV91UFpMTUdpbExCLWQtTWNKRGNvM2xPMUF5Sl9wREJEYUF3dHdwRVB0OFpDaEhRWGltb2cyTnZqWU9CQm5CTmpTWmFoYjViYWxRZUlCYUVMTXM1R1JkV0FjRUtDZ3Y0Q0lQQjBSWmh1SExYbm9PbU8xRmpvMzhUdVFiczU3ZzZCQ3g2aG5tX1k1ZVI3YWJvTTBvUk9tZWdfOGFTR0nSAbwBQVVfeXFMT1NzSVN5Y3ZpcWs5YWVTLTA1emlvZmYwWF82ZkVrTl92czFWM0hXUk5YbWRWejBWTDFETWxmaEV5VENaSWxBTzNiUlpMMmxQdGVrTGw0eUdOZGhlLTRvdDdjeDlIbmhXRVNRRkdUXzBRYTRSNDUySU9VaFR2U2h0UGRjU0F2ak1nRVBnZjFiUm84Z01ON3l2SE5NU18wMjBaTEhqSXJnWEh5YlNET3JSVjlGRkRBQm1ZdkdMd1c?oc=5",
    "published": "2026-11-19T15:39:31+00:00",
    "id": "fcfb907d772d",
-   "impact": 3,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Éventualité de frappes contre l'Iran maintenant une prime de risque géopolitique modérée.",
+   "method": "IA"
   },
   {
    "title": "Pentagon Policy Chief Says Ukraine's Deep Strikes on Russia Don't Work. Germany and Britain Push Back",
@@ -4470,10 +4482,10 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY3UxZEY0R3ZmSlBpTjVydF9QbXB3X0VyM3FxV0JQeHU5RmZ0SVJuNHhoZVJhRU9sWFZJRWRYYllqUnAxbno2bGY0bXUyMG1NcXZNSEJQdDcwbHo3X0pCUTJrcDhpLWxxaWRQWkVFdzhyMm1Jb2FkVUtoOTNqblhxTjB2bVVPTFFhX1VJU21haS1fRHJVYVpNMUhDbDdyQmk1a01EbjJIZ1B1TzUxak9CZngxOA?oc=5",
    "published": "2026-11-19T15:29:01+00:00",
    "id": "6a7a59bedbd3",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Désaccords entre alliés occidentaux maintenant une incertitude latente sur le front ukrainien.",
+   "method": "IA"
   },
   {
    "title": "Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge",
@@ -4482,10 +4494,10 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemI5QkZDNUlldjVMZHNwb3hVZFp0bXI1RHRRMHhwUmhac1JtRzlPZURvUkNZdng3d3FlTGJjWWJYc05YbGx3eDUxQ2dweGtkdVhMaTJicDRKS1UycDlZTm1ONTBrUTlRV2xzTWhTNnZYOWNvSFVhNFgyT0NLYnVPR3R5OEd3dl85OGlqUkg3WmFNN184aWloN084R0pPRFp4N28yY1BYU2kxMHVX?oc=5",
    "published": "2026-11-19T15:06:00+00:00",
    "id": "7bf984e11fcb",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces russes de représailles sévères incitant à des couvertures sur les valeurs refuges.",
+   "method": "IA"
   },
   {
    "title": "Ukraine strikes Putin’s prized Crimean Bridge for third time in a week",
@@ -4494,10 +4506,10 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5",
    "published": "2026-11-19T15:00:08+00:00",
    "id": "97cfbe79b9fc",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Multiplication des frappes ukrainiennes augmentant le risque d'une riposte militaire russe accrue.",
+   "method": "IA"
   },
   {
    "title": "Bitcoin vs Gold Price Forecast: XAU Hits 14-Month Low as BTC Retests $63K on Fed Rate Hike Fears",
@@ -4506,10 +4518,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUVoSVRtZWNiN1piZU5vbTZUVlNiblJIRy11UDdvUEVlb1dxX3J6czlpaGcwWi1PR0ZsZEEyR1gwYy1KdXJaNjA0UzhrSlJhTk9EQnNWUTJMVFBxV25UY0hnRThYeDBrZmtGYkZ6aVBzQTRvTl9YSEhGZjdXVFFRNEZnMncxbl84ZXprSnR0WTNkQ3FHZlFtSGp0ckdOTHRMUkFLN3J1Zmt1MEVPTENfVjlYSUc4WVd2?oc=5",
    "published": "2026-11-19T14:54:32+00:00",
    "id": "6d3866972ad1",
-   "impact": -8,
+   "impact": -4,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Craintes de hausses de taux Fed renforçant les rendements réels au détriment de l'or.",
+   "method": "IA"
   },
   {
    "title": "USS George Washington leaves Mideast as Trump mulls ways to end Iran war",
@@ -4518,10 +4530,10 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2otLXRySk5fZ1kzTHNjRmg1X2pmT1o1VnpSVW5la3BGN05Oc3locko0c0hSZkhIRmJtVTlwZFVpNDFNWnJzTnFNcGFyOVBHTVE5Y1lKbk5BMldwOXB1dU5UN2xoMWxPYU9icHhDX0xENXIwd1pTN3h1WWlkQTEza3BTbmMxQVlYQjFGck9BUlpkMVFmNnlnRW5VV2lnRlk0eWlncmZYNV8tQmpWellqZg?oc=5",
    "published": "2026-11-19T14:53:52+00:00",
    "id": "58564baf76eb",
-   "impact": 8,
+   "impact": -3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Retrait d'un porte-avions américain signalant un apaisement militaire et réduisant la prime refuge.",
+   "method": "IA"
   },
   {
    "title": "Iran war live: Strait of Hormuz crisis dubbed ‘largest energy shock in history’",
@@ -4530,10 +4542,10 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
    "published": "2026-11-19T14:43:21+00:00",
    "id": "33cb429fc7b1",
-   "impact": 10,
+   "impact": 8,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Choc énergétique historique à Ormuz déclenchant une ruée majeure vers la valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs",
@@ -4542,10 +4554,10 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
    "published": "2026-11-19T14:31:00+00:00",
    "id": "17c15a22188c",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Absence d'avancée sur le dossier nucléaire maintenant l'incertitude stratégique mondiale sans panique.",
+   "method": "IA"
   },
   {
    "title": "Debt Ceiling Season Returns: T-Bills, Liquidity and the Market",
@@ -4554,10 +4566,10 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TRDlTZGh5VlNxQnpxbmtxVW9CRkt0MDFNUjUxcHF5YThJRHpfTEl3M2hXbHpXS1MwQ1VrdzQ4ZDZKU25UZXNNUkNRTEZseEFjWmRBTDRsa2U4SlhRNVBFaDBqRnkxSlFQNUdGXzdRajVPWXZUTWlr?oc=5",
    "published": "2026-11-19T14:22:09+00:00",
    "id": "240256c99646",
-   "impact": 4,
+   "impact": 1,
    "cat": "politique US",
-   "raison": "haussier or (politique US)",
-   "method": "mots-clés"
+   "raison": "Incertitudes sur le plafond de la dette US stimulant modestement la demande d'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Putin Vows to Retaliate After Crimea Bridge Attacks",
@@ -4566,10 +4578,10 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdE96Vk4yQ2p2YnBaOE1ZUVBldDZtRVFQZ3NpMlRNUjNuZkZlWFp3aUJ0a1h3bmptd3M2U0p5SDd1cHZFc0g2anVYSHBTbDBsbFVScWdtS29FX2t1MHNXQ2ZRcWZiUnBSOGpGcnFLaEc0eGxEQjEzc3JwOUs4QUVuWUNKQWVaei05NkE5bjdkZV8?oc=5",
    "published": "2026-11-19T14:09:00+00:00",
    "id": "58535e940ed7",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Promesse de représailles par Moscou maintenant une tension élevée favorable à l'or refuge.",
+   "method": "IA"
   },
   {
    "title": "Gold Plunges 30% From Record High to 14-Month Low on Fed Hawkishness, Strong Dollar",
@@ -4578,10 +4590,10 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKVWdFYk5VZWhNN3NnOW1WRi0zNFpXUnlXcHdnOWsxajUyemI1cUNIR0VOOGN2WkNHNlFLOC1mMldLUl9WbXJ6WXhPdnRfelpmR1BTdkU1dHRDbnplNVE1SXhEN09Ob01fLVNGdGw0VUNncU90Nnc?oc=5",
    "published": "2026-11-19T14:05:00+00:00",
    "id": "b102cb141426",
-   "impact": -10,
-   "cat": "or",
-   "raison": "baissier or (fed, or)",
-   "method": "mots-clés"
+   "impact": -6,
+   "cat": "fed",
+   "raison": "Fermeté agressive de la Fed et dollar fort provoquant de lourdes liquidations sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Putin says Russia will not negotiate ceasefire after Ukraine inflicted 'serious damage' on Crimean Bridge",
@@ -4590,10 +4602,10 @@
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVpRekZKcXp2MnBUSUZIX0VzaGo3UkY3c2UzckpodUswZzgyczBoNGlUOWpPWTBLeGtSekROVHFXODZGMXB0NVlXMXdocG51cEFwS2k3dWdFakhBWTdVQnBOSkVkbVc3SjExMjVwRjZJQUpSaDFWMXg2ajNXZFJTVndDdEtPd1lnWU03Qk9OWlFGdG1KTkthaklpVEdsdTJDSlJSZmVKckdVZ0RKRUNFeGVRNHgwZTdlZ2pUV1RmWTRWeWlZeWJXWWluSlN2M3c4Vnd1Z2xsNXRWdU9I?oc=5",
    "published": "2026-11-19T14:00:08+00:00",
    "id": "7adb9874ca4a",
-   "impact": -6,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Refus de négocier de Moscou renforçant la probabilité d'une guerre d'usure prolongée.",
+   "method": "IA"
   },
   {
    "title": "Odds of new US strikes on Iran reportedly rising, as Israel presses for action",
@@ -4602,10 +4614,10 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlpYVFqZ19KemItVkNHTWJoM2tVVlVkX1F2b1M4TFl4NUFCS0hsMUNfZ0s2MGNwTFFiRUw0OF9PQmY3M2h1S1Q2bm1iTU9WS2gyMVdVSEtqc2FoYWNZVW9NbGgxWlc4azlGVW5LYU96aHhoeXNZb2FNMG5BdFhRNmtLWlc2TklkWEVFcndBVnFfRUNnX2ZTOC1yaGNmQTl3djZkR0FNSHRVM1RHaFZHejN6MWpZYkZjU2xDekRR?oc=5",
    "published": "2026-11-19T13:53:38+00:00",
    "id": "9dd946709561",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Probabilité accrue de frappes américaines sur l'Iran alimentant la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
@@ -4614,10 +4626,10 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
    "published": "2026-11-19T13:44:00+00:00",
    "id": "48bba90a461e",
-   "impact": 8,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Statu quo sans percée diplomatique nucléaire, conservant un plancher d'incertitude géopolitique globale.",
+   "method": "IA"
   },
   {
    "title": "Pompeo, after strike kills Iranian commander, says US committed to de-escalation",
@@ -4626,22 +4638,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc3ZsQ1VvRFVXbngzQ0FMbXlZVnpSSlpPZWFadFB3Qjg3elhUa21NSjVRNnhhUlNndE9jd2ZtdDhWSGZRREQ2RGljRzM5c0hGWThId1pkbkNKaWo2d184NnlMTDlMYVZHNjZFSFo3Q3Zyc3lUemNKNmQ1YmtLV1ppcnlGem40a1dJNHZCdXlNRmlMTXFsQ0JWNENQRFhtOEZqbFZYejFkaXFvYk1hUlZsZUZoY2ItTlNy?oc=5",
    "published": "2026-11-19T13:21:20+00:00",
    "id": "6c06e34602cc",
-   "impact": 7,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "AI, Nuclear Arms, Taiwan: Takeaways From Trump’s China Trip",
-   "source": "Bloomberg.com",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONW5LbnJKVFI0anVJcHRYc01xdE0wNkt6UEdZaW5zTzhMOVJBVWNXeXdJaFVUTDRTa0k1RGgtdDVkaWFsYnB5enZtR0lNTDBXVTVoSXR0Z1lBNG9NWldKdkF0SnVuSVVmTjNHLWJvUEs5di1zZnVuM2lPNk1OT0Y0YmZDakp1YzlTazR1eXNrRW02VTRza19ZWTVBQU9DRjBJTndqdzJvam5pLXVsOFRR?oc=5",
-   "published": "2026-11-19T13:13:05+00:00",
-   "id": "1119cbf12bad",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Engagement américain envers la désescalade apaisant temporairement les craintes de conflit direct.",
+   "method": "IA"
   },
   {
    "title": "Trump, Xi and Putin reach agreements on oil and nuclear risks but no major breakthroughs",
