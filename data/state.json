@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795061756.7308657,
+   "ts": 1795084271.3678164,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1221,8 +1221,6 @@
   }
  },
  "seen_news": [
-  "f96f1db713db",
-  "ac3bf9282111",
   "d1cf5ecc26b7",
   "e1f8c90fc86d",
   "5561b74820ab",
@@ -4220,7 +4218,9 @@
   "f0fd5a0dbd0d",
   "d6ef6b2f4e4e",
   "00a02bf34256",
-  "67e6f079877d"
+  "67e6f079877d",
+  "dd333f71da52",
+  "ad1d44acb98d"
  ],
  "news": [
   {
@@ -4266,6 +4266,18 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSC1SbFVLc2F5bWFZaEVsbVZzeHRzY01aWWJIMjliY3R6SXdyRzAyWDJ1VnIzazBndzFsMUNaZll0NlpxV2g4clhMaUhQUGJ0b1VhNHp3cy0wR29OMjJXbTVoSFJrVWxKb1dQVEZCSHplcFA4ZnYxTk9TUEhPTnkybA?oc=5",
    "published": "2026-11-19T09:52:17+00:00",
    "id": "b680e9faa104",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Nuclear arms and ending wars in Iran and Ukraine set to top agenda at Trump-Xi-Putin meeting",
+   "source": "ABC7 Chicago",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbmVkekVPaE9pUHotdFQ4THNEcnFwaDFjNWhRR010WXVTaVFZVWhNSm04eG9SOUl1WHdSZVk5XzJGcENLRTBiRXJZaVBLNmgtMHJCaC1RZXFvV3FWMG1CMER4VHNMQkpvYjFWYUotNDJpZmF3NTV6am1STmZYd1pNLW96cFVwZVY4dXVTOXRxbkNJcGRHOE53ejI5cmpveXFaNHhTbTEwQnowbEpIc3lVVjNSeUFRdw?oc=5",
+   "published": "2026-11-19T09:45:00+00:00",
+   "id": "ad1d44acb98d",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6610,22 +6622,9 @@
    "cat": "commerce",
    "raison": "Durcissement technologique contre la Chine alimentant un léger réflexe de prudence.",
    "method": "IA"
-  },
-  {
-   "title": "India bonds rise tracking easing crude oil, US Treasury yields",
-   "source": "Business Recorder",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGY1ekRxQWV2UnZVODkwV2tOamJobjlBTnhvUVoxbTNwWEtPUUdxYWh0Vk1QSWk4OGE3SUlEOVdMWEVPVmhITldWOVpKUGoyRHVHQ0RzbmgxM014dWZUOTBPUWxndUwxLUFlbnc4Vk9WbUxWdFVxX2pIZnBpTDJKb0wtRXZpb1VFVVY0NGFVN0JidGxIQVlFUy12Mkx1S2QxUzAw0gFWQVVfeXFMUEYzSmRHQTd5ZTgtWV8xekRtc2NMWUNaX3lqYW82TUpOd2E4ZlhqczVnNE9tQ1lXRGJCRml2dmh4Z1UwYzZBeVZTVDJqNXZEVURheGJmWlE?oc=5",
-   "published": "2026-11-18T06:37:19+00:00",
-   "id": "9f2f7dced87f",
-   "impact": 8,
-   "cat": "fed",
-   "raison": "haussier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|cd4e0e2d95bb": 1793270075.999707,
   "news|75a2da21c268": 1793270764.7363412,
   "news|396f9c9482f1": 1793272570.0463185,
   "news|1696a02be6ea": 1793272571.1012602,
@@ -8486,7 +8485,8 @@
   "news|718418196a1b": 1795083378.3613703,
   "news|00a02bf34256": 1795083379.372778,
   "news|c5eabfcd6d3f": 1795083380.444655,
-  "news|d6ef6b2f4e4e": 1795083381.3806505
+  "news|d6ef6b2f4e4e": 1795083381.3806505,
+  "news|ad1d44acb98d": 1795084655.0801368
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8974,6 +8974,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T10:37:35.080272+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Nuclear arms and ending wars in Iran and Ukraine set to top agenda at Trump-Xi-Putin meeting</b>\n📰 ABC7 Chicago · Jeu 19/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNbmVkekVPaE9pUHotdFQ4THNEcnFwaDFjNWhRR010WXVTaVFZVWhNSm04eG9SOUl1WHdSZVk5XzJGcENLRTBiRXJZaVBLNmgtMHJCaC1RZXFvV3FWMG1CMER4VHNMQkpvYjFWYUotNDJpZmF3NTV6am1STmZYd1pNLW96cFVwZVY4dXVTOXRxbkNJcGRHOE53ejI5cmpveXFaNHhTbTEwQnowbEpIc3lVVjNSeUFRdw?oc=5"
+  },
+  {
    "ts": "2026-11-19T10:16:21.380731+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage</b>\n📰 CNBC · Jeu 19/11 07:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE84Vi1aVi13N1FETHdkbnpZcWtOdmlTRzY1V3h1dDlxWjh1Qy1pVXpYZlY0WENXTzlVVFBHMTZFcnVWUDVReTdSQm5Wa1VKNmxpcFIyeHJaNkpTeW90TDh3TXYzSnZ4WFI3aElsRWlHVFrSAXZBVV95cUxNRXA1WncwREE4MW5Wa2U3SkpyVUlsVEJDUHFBbVIxd1FCNWpEOHRoX1pDWGhzdl9kZnN0M1ZMdVVRNlM0bW1DRXhmeVRPcGlNQnFtcjg2U1lmVEVmX1JaZkNMMFZjcUdwVHR3Ri1rNTZvVTRBbUl3?oc=5"
@@ -9267,11 +9272,6 @@
    "ts": "2026-11-18T21:18:41.494131+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war tensions rise ahead of Trump's China summit</b>\n📰 Fox News · Mer 18/11 18:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZUDk1LTZpZUgwVEJBMk92cWd0RnRrYm1CVU9wOWE5UDRmOWhkWVpRTkNfOTFCUDBPYTgxZS1ZQzNucWlERG84WkhWOTExZFp1bS1oNzFn?oc=5"
-  },
-  {
-   "ts": "2026-11-18T21:18:38.761317+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s anger with Vance is growing after VP blamed the Iran war for the Republican midterm losses: report</b>\n📰 The Independent · Mer 18/11 21:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXV1M2NaelBoOU5QRzYySzJURi13TzQ5WnhwWnBVX0o0c1IwLUlYalRMOVdHc1U1VzFuUjU5OWhQR0dwbmFXUWdMM0J1eFp4bHZRNWhGVVZmM3NfMVdFME9xRXFZZVFuMXdRZ3M0MUlxVzRVQUJiaFdVUVV2RUVqR0ZGQlhnODUwemNmSlVfZ2ZrNGhSd3NBai1DdXcxR0djcXNlb01obHN0dG9neFNFaw?oc=5"
   }
  ],
  "daily_forecast": {
