@@ -1221,7 +1221,6 @@
   }
  },
  "seen_news": [
-  "663513676f03",
   "b7b277c82f6e",
   "e614f2cc1171",
   "9b9439baee09",
@@ -4220,7 +4219,8 @@
   "ad441d4fb65a",
   "d1da2d86cb90",
   "f859826c99a6",
-  "0b89d3e051b0"
+  "0b89d3e051b0",
+  "7d78acebdb45"
  ],
  "news": [
   {
@@ -6625,9 +6625,6 @@
   }
  ],
  "fired": {
-  "post|2026-10-29T08:30:00-04:00": 1793279031.7470305,
-  "pre15m|2026-10-29T09:15:00-04:00": 1793279032.645962,
-  "rep|update|2026-10-29": 1793279034.5972512,
   "pre15m|2026-10-29T09:45:00-04:00": 1793280015.9507272,
   "news|8acb5c0e1dc7": 1793281570.6212788,
   "post|2026-10-29T09:15:00-04:00": 1793281572.7418664,
@@ -8483,7 +8480,8 @@
   "news|ef38af0c5c3e": 1795088003.1364675,
   "news|e544c65fbf80": 1795088003.9179347,
   "brk|GOLD|pdh|dn|2026-11-19": 1795091669.2169054,
-  "pre1h|2026-11-19T08:50:00-05:00": 1795091671.9630287
+  "pre1h|2026-11-19T08:50:00-05:00": 1795091671.9630287,
+  "rep|update|2026-11-19": 1795093501.7171054
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8971,6 +8969,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T13:04:47.226816+00:00",
+   "kind": "ny_update",
+   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:04</b>\nPrix : <b>3719.90</b>  (-17.5$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-34) → maintenant -29 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 65$ sur ~98$ attendus (67%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:50</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:25</b> 🇺🇸 FOMC Member Jefferson Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:30</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:15</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>22:00</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Shutdown fight takes shape as Democrats target Trump’s Iran war\n🟢 (+10) The bill for Trump’s trade war is coming due—at home and abroad\n🟢 (+10) Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine\n🟢 (+8) Trump considers fresh strikes on Iran amid pressure from Israel: Report"
+  },
+  {
    "ts": "2026-11-19T12:34:31.963289+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 75 MIN — 14:50</b>\n\n🇺🇸 <b>FOMC Member Hammack Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.07% aujourd'hui · taux 10 ans +0 pb · biais or -30 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 103$ → attends-toi à des mèches rapides."
@@ -9264,11 +9267,6 @@
    "ts": "2026-11-18T23:31:34.319823+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump frustrated with JD Vance over Iran war criticism, privately praises Rubio, report says</b>\n📰 Ynetnews · Mer 18/11 21:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYNlV5b2VEWlltZlBEVmdSQm44TGZWekJNR3JkYUhfcFg1U203aWtLakk4N1J3OFJUVlZ1UGR2SWVIMHJxSkVxd04talBUTERjeXp5M3BB?oc=5"
-  },
-  {
-   "ts": "2026-11-18T23:31:33.533578+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Republicans at a crossroads for Iran war support</b>\n📰 National News Desk · Mer 18/11 22:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVR6QkhQYXpMQzRHalFhcEQ2cnRSazRyMHhJQk4zeG9vM2doN0dLY1JIMkhka1RUMFRkX0hreXQzTGU1TXRpUmhidEVIUlNYMVBuYnB1RnhRTlVBNnhFdDFWdkxtejA0d3d1aEZ1dk9QUVJrNmVBajNQQzZ2cDNHcnhNNm5YVkdhWERtNDRTOWJPM09wcEhuUEVsMXVXOTRoOF85RTZyX2cxUFMzbUhOUF9fRjBnYktaQ1hVdjBYYTdKUHNyNHVxTUM5TVdybWxobU1FYVowd3EtZw?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9282,8 +9280,8 @@
   "ai": false
  },
  "ny_update": {
-  "date": "2026-11-18T13:01:42.987265+00:00",
-  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3748.60</b>  (-45.6$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-32) → maintenant -48 (FORTEMENT BAISSIER)\n✅ Le scénario baissier TIENT\n📏 Range fait : 112$ sur ~104$ attendus (107%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Daly Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>19:35</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:00</b> 🇺🇸 FOMC Meeting Minutes\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:30</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>22:15</b> 🇺🇸 FOMC Member Kashkari Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🔴 (-8) Fed’s Waller warns inflation heading wrong direction, may prompt rate hikes\n🟢 (+8) US Strikes IRGC Site on Qeshm Island as Iran War Flares Anew\n🟢 (+7) Iran attacks Kuwait in widening escalation\n🟢 (+7) Bahrain, Kuwait announce incoming attacks amid increased US-Iran tensions",
+  "date": "2026-11-19T13:05:01.717073+00:00",
+  "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:04</b>\nPrix : <b>3719.90</b>  (-17.5$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-34) → maintenant -29 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 65$ sur ~98$ attendus (67%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:50</b> 🇺🇸 FOMC Member Hammack Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>15:25</b> 🇺🇸 FOMC Member Jefferson Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:30</b> 🇺🇸 FOMC Member Goolsbee Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>20:15</b> 🇺🇸 FOMC Member Barr Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>22:00</b> 🇺🇸 FOMC Member Barkin Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Shutdown fight takes shape as Democrats target Trump’s Iran war\n🟢 (+10) The bill for Trump’s trade war is coming due—at home and abroad\n🟢 (+10) Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine\n🟢 (+8) Trump considers fresh strikes on Iran amid pressure from Israel: Report",
   "ai": false
  },
  "track": [
