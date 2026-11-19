@@ -1221,12 +1221,6 @@
   }
  },
  "seen_news": [
-  "0ce6712b971c",
-  "7b9548d77f4e",
-  "79d8d94fb2a7",
-  "9655ce806bfd",
-  "4340bfbb80bd",
-  "78c8033279fe",
   "e879f73e4526",
   "fc5234ca0cde",
   "417cabb30dae",
@@ -4220,9 +4214,27 @@
   "6f42042fea57",
   "b19795fd3c69",
   "809ce94f12ed",
-  "d691cf738129"
+  "d691cf738129",
+  "5793c5b18fec",
+  "fe312a2c8dfd",
+  "d8cd7b6e03bd",
+  "1e09869a89db",
+  "2ffba31298c3",
+  "cac37ccf2148"
  ],
  "news": [
+  {
+   "title": "Shutdown fight takes shape as Democrats target Trump’s Iran war",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmpxQVZsLWFmNnQ2WTl6ZVNzb2VUTlhVOUQ3SFJqVW4yNmk2MHh5ZDRCQVh4aVI5RlJkc3FVMmVWT3hub2dvUGVwTTZxZWZaY0trTnRSWVVvQlJRLTg3U2psRVByTGp4bm1tREZ5dzE0MjNSMXFMRWJJV2JsMWFPWF9QekJ3QXdxWklGZG5ITDBGUQ?oc=5",
+   "published": "2026-11-19T11:00:00+00:00",
+   "id": "d8cd7b6e03bd",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique, politique US)",
+   "method": "mots-clés"
+  },
   {
    "title": "The bill for Trump’s trade war is coming due—at home and abroad",
    "source": "Fortune",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Poursuite du conflit en Ukraine offrant un soutien refuge marginal sans escalade majeure.",
    "method": "IA"
-  },
-  {
-   "title": "US, Iran trade blows while Gulf states push for de-escalation",
-   "source": "Middle East Online",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTdsRWRPYlpyMkpNWEdKMWtEVTYzdGVjWURDRnJKMi1XLW9pUDVEN2FNOEVHZGg3TEU1N1o5OWQ0eE9Ob05ZNzlSRW9DSTBzV0RTOTJBbnpjNTltdjRIOFpGZVlzM290VGJkX0cyMDZyZUo4TGNFNkdWMjdyTkltcmlzQ3U4NUk2eTFUZEEwUDEtQkc4?oc=5",
-   "published": "2026-11-18T07:02:54+00:00",
-   "id": "26340b384a22",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Confrontation directe USA-Iran renforçant la demande d'or comme valeur refuge géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8488,7 +8488,8 @@
   "news|ad1d44acb98d": 1795084655.0801368,
   "news|3adeab04059d": 1795085176.382667,
   "news|610d8a00d0fa": 1795086128.609686,
-  "news|4c2911d077ed": 1795086129.4315844
+  "news|4c2911d077ed": 1795086129.4315844,
+  "news|d8cd7b6e03bd": 1795086965.9382057
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8976,6 +8977,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T11:16:05.938280+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Shutdown fight takes shape as Democrats target Trump’s Iran war</b>\n📰 The Hill · Jeu 19/11 12:00\n🧠 haussier or (géopolitique, politique US) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmpxQVZsLWFmNnQ2WTl6ZVNzb2VUTlhVOUQ3SFJqVW4yNmk2MHh5ZDRCQVh4aVI5RlJkc3FVMmVWT3hub2dvUGVwTTZxZWZaY0trTnRSWVVvQlJRLTg3U2psRVByTGp4bm1tREZ5dzE0MjNSMXFMRWJJV2JsMWFPWF9QekJ3QXdxWklGZG5ITDBGUQ?oc=5"
+  },
+  {
    "ts": "2026-11-19T11:02:09.431685+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Nuclear arms and ending wars in Iran and Ukraine top the agenda at Trump-Xi-Putin meeting</b>\n📰 KFVS12 · Jeu 19/11 09:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRENfLXp5eF9aZE1uSmtMcDk1TTl2cDVBU180aTFIeHVmMG54UzR4Z3Niel93ZC1jSlAtelhodDBfbWlweXFwckhuSGwxdVVPYlA0MWp5b2pRSmtoY25ja3NsUFRSZ3R4ZGVfTG95cVRVZF9ScU1TQXNZX0JLbmlKT1Z6cUxuNlFPZ0lsLTJ2OFVFOEF6X2NtaXljbzdHZ0VEVkROQ2tMekRxd9IBvgFBVV95cUxPRHo4SzE2Njd5elFJYlM0aHRDOW9nLXRnNE4xeFN2d09Wb3RLejZ1RlRBbjYtZlFvVzVOSnUzbWc0d3Mxclpsc1RlRjFJR1hqcC1JSEJTQy0xRGdlQWVPalF2TUV1cExWUUEwTHlQNlVxa2JuN1ZrV2RTVjhXV3JldzhTNTZEdTQ1bFM0MlphVzR4TXJTN2daY2NtWVY4UUZOelo3NDlNbTRBcVVXa01zd3Y2MmtmeFpqa0FLbnJR?oc=5"
@@ -9269,11 +9275,6 @@
    "ts": "2026-11-18T22:31:33.575882+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad chief called for renewed strikes on Iran during Washington visit</b>\n📰 Nacionale · Mer 18/11 18:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQamxHcEh3WEh1eGNGUkhkTmlsWEp6MXljUVZnQWNvcjdpQ1Z5U0JFS1dyQlAtX3JITjJoN1c3SkdXOEZDeE9TbjBfaVhQSk45dEFiLVVZN200T1gyX0dHRVhaM1dsa3k1NHhkYzFKaXBuNDhZR1llZ2pWX3dKWmlXcG43UmpLcnFNcE1LR0oyU2NmcFpfa3loRXUwanljdXVW?oc=5"
-  },
-  {
-   "ts": "2026-11-18T22:16:11.183125+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump grows frustrated with Vance over Iran war criticism: Report</b>\n📰 Anadolu Ajansı · Mer 18/11 22:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmNET3NiRGF5c1VvRGxubmtWa1BIOWVzV185M19qN3FJM2Q3TmlMN2xhTXJDSXFmZWFMVmZIS3E5VkVqNHQzMHRsWWZfV3E2WEZyeW1LMzNPZlVtajZBeE12a3p1X050MnlrTGNMb29ITkdFaWREczU1ZzNuNG8tVjNFcWlMRVBqU2c0Q1dsVHJwVWJ0SHM5WEV6amFkMjQyalVybg?oc=5"
   }
  ],
  "daily_forecast": {
