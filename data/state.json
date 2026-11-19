@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "28a09ef7c6e6",
-  "a126769bccb2",
-  "c0c6c70fd5a9",
-  "fa6a09054d4c",
-  "d01cf4a998fc",
   "b58d379e08a3",
   "0d1c48c4eaaa",
   "5f14b2960705",
@@ -4220,9 +4215,26 @@
   "f3fb2bb6daf2",
   "16c9a7526553",
   "942e4681f6bd",
-  "66c98683b0ca"
+  "66c98683b0ca",
+  "015b0ad290e6",
+  "f5a19daa4063",
+  "bee9ca7943b8",
+  "86e2dabdf61b",
+  "abd4bc17a041"
  ],
  "news": [
+  {
+   "title": "Europe expects to join new Ukraine peace talks soon, says Merz",
+   "source": "AFP.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXVHRWNXMUNOTjNLN0Z3YmZmSktEelY0NEl2VHdmMUxraGpMRVNFRzJDV0QxaHJyNHpoVGtWa01FSUs3VEZiR3hWVGI2dV9hOUNZY2ZkdFhYNVJpQ1VpY002V2NSRFh3eWRWSlJTY3JqaVBLYXFFbUpubEhhbl9Lc1FMZnZSVkZD?oc=5",
+   "published": "2026-11-19T19:36:56+00:00",
+   "id": "86e2dabdf61b",
+   "impact": -5,
+   "cat": "géopolitique",
+   "raison": "baissier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "The Ukrainians weighed down by grief in war with Russia",
    "source": "Channel 4 News | Substack",
@@ -4245,18 +4257,6 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump calls it “Highly Consequential” as China trip leaves an embarrassing trade problem to address tomorrow",
-   "source": "AOL.com",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2lucjk2eVNxamV6OXduV3ZFSmw0UFdHNnZYZWlqNWllRHdRaUxHdUhveXBPZHBwdEtWVXNsN2V2aXFDaEpLTzZvUVlxTF9iejZ1b0o4cmVEbWdkbFVQaGFjSnlRejF5ZXh2MVhlYVpXeHNSU05EUzlhYVRGTnFjT05aTnE0aEREZkE?oc=5",
-   "published": "2026-11-19T18:56:19+00:00",
-   "id": "fba48eb4edc2",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -6625,7 +6625,6 @@
   }
  ],
  "fired": {
-  "news|3bc48e5a6ee0": 1793303353.6275218,
   "news|c305cee7716e": 1793304093.605007,
   "news|fdc1b7b320aa": 1793304094.552806,
   "news|7723e9bdf6ff": 1793304973.5067277,
@@ -8487,7 +8486,9 @@
   "brk|US10Y|pdh|dn|2026-11-19": 1795113422.5891798,
   "pre15m|2026-11-19T14:15:00-05:00": 1795115085.7321775,
   "news|8b27bac42824": 1795115769.0911393,
-  "news|f3fb2bb6daf2": 1795116880.9050977
+  "news|f3fb2bb6daf2": 1795116880.9050977,
+  "post|2026-11-19T14:15:00-05:00": 1795117755.0101516,
+  "pre1h|2026-11-19T16:00:00-05:00": 1795117759.4631646
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8975,6 +8976,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-19T19:49:19.463607+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 71 MIN — 22:00</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.06% aujourd'hui · taux 10 ans -1 pb · biais or -21 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 103$ → attends-toi à des mèches rapides."
+  },
+  {
+   "ts": "2026-11-19T19:49:15.010940+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 34 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans -0.2 pb\nOr +1.2$ (extrême +4.5$, range 6.9$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
    "ts": "2026-11-19T19:34:40.905213+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks</b>\n📰 PBS · Jeu 19/11 16:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzdsMkRqaDh4b1E0WTJzdnZ4em1DajdPN2g1S0llb3BnZVRJQzU2Qk9QNjFYUnNWcUY3M2FHNTR5R0k1c3Z6TXpnN2hwVDNnR2ZIWmQtTGtra2ZNckpQS1RabHhTWFBSZFlYVjA3el9Bek9FNnJfSUU2YnJOd09LUWpLT2pUWHZkLUpST1R0bTc5bGk1U1dJb2JfdFRPQ1gwa24waHdfbXTSAa4BQVVfeXFMUDdkQ3pkTHhpSElJbW4tTHlwZUxTcjIxTE5EQks5ZmF3TXc0UFdNZTVtMFQzQ2tEN2lndXNxSXRNMzlmajZicTM0dnd6QXJXN1R1TGNxb21zUkMtRDIyQzZmOTdZYTVyQXNxSllQeXhmelNNcS1FSFBwdlkxNUl5QjNEN3JKT2ZTUnpHSUV2Wl8wOWNzTWdQTzZaLUFxOHlFOWtHVVYtMnBYMEJiVmdn?oc=5"
@@ -9263,16 +9274,6 @@
    "ts": "2026-11-19T06:46:12.617691+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Trump says Tehran ‘can’t be trusted’ and defends conflict aims</b>\n📰 Arabian Business · Jeu 19/11 05:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-19T06:46:11.835231+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump’s Nuclear Dream Plays Right Into China’s Hands</b>\n📰 Newsweek · Jeu 19/11 07:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxORFN0UVBJNldCajVBV0xGSDdEeFo2VDMzbWhkSEN2NlY5UlpmUDJCWWI2RHQyOS1RWFFTV0dtZU9sS0EyNVZ1QTVhOEJnVEtwMTNfcFA2aVZ3WGxmeVRvX2x1eklpYU5QWURSSFJyeUpadXRZM0hfSXBqam9vU2JsREwzTF90SVFIUGhkQkFkQWhUYUc5TVE?oc=5"
-  },
-  {
-   "ts": "2026-11-19T06:33:28.764563+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain</b>\n📰 PBS · Jeu 19/11 01:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNaW9yLUs5SFJFWmk1NUp3aUpBc0lfYl95MEJsUl83dUs2ck9rT1ctbllHMFU0bWpseVFKSG01MV9ueV9LNW9EazJ2M2xla19qSzBPWklsM0F6ZHhDd3h1TzRxTFhSMm5aamtzN3AtZnFORWlNVk1yM0tTY0phUXRORmJwUmFIbU1BZ3ZyanlTVkg0TDMzekV3V0ZkVEl2MTNENkQyOTNSWjVsZGhVNWhZZHpFdjNDTUnSAbwBQVVfeXFMT2g5NGpZdnN5R1R2QXVsV2txeXQzYWhVdllQa1NrY2RSM2JsSHNvNmNWRnNzSGk2UlpoRnlJVFdGbGNQZnJwd0M2S2FDdEdRWmRDTEJ6UFdMUXp0d040UjlHdWFLLVROcjdmRHhCNzdySDNvWFdfWWRsS1BNVkNVYUYybnFmX2RaTFh3TmQxeFFqb2VvUnVxbWlpM3E5Y1Q0dWRPNVBJMzFGSDZZQnltTlQyYTlNUllQa09WZWw?oc=5"
   }
  ],
  "daily_forecast": {
