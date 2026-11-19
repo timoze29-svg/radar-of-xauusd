@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1795034769.8288333,
+   "ts": 1795078884.564435,
    "data": {
     "date": "2026-11-10",
     "net": 190107,
@@ -1221,10 +1221,6 @@
   }
  },
  "seen_news": [
-  "064f4df429be",
-  "b79a31a8d209",
-  "2965fa4ec749",
-  "859216b030c3",
   "3cde66af2925",
   "99ed153dd40c",
   "833a5b2b2743",
@@ -4220,7 +4216,11 @@
   "ed0ec54615fb",
   "de2970dc3bd1",
   "c13c811bd2fb",
-  "c9729de4483a"
+  "c9729de4483a",
+  "aeff27794236",
+  "44ebf6154ae7",
+  "f1d5e777b2c1",
+  "d188993b9cf1"
  ],
  "news": [
   {
@@ -4230,22 +4230,34 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGlpV250M2NxUmdLbnJveGFxSk5QTGw3VTBSV240U1ZYdXVuVGIxWnlJTlVOZEgtTGVpYXFrZjFDdk1Ic2NOUkxseEYzQ3NWclY1MU40MlNNXzZTUnpja19wLTBXcExYaWtoaW1VRUNWRkdRNDIySjBTdk9BWm1tTG8yTXpvMEljNFBtN1VtazFpN2pRcUdXWVVlN0h1WFBTalZKU2RlZ0NuLUVJY3BF?oc=5",
    "published": "2026-11-19T08:40:34+00:00",
    "id": "c13c811bd2fb",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Tensions persistantes en Asie soutenant très modérément la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
-   "title": "Gold Price Forecast: XAU/USD regains ground below $3,700, outlook remains fragile",
-   "source": "FXStreet",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHljRkd6dVZEZWZOWWU5X2ljMzJTamVFUHNjbXkxRzJsVGdXOEhRQVZYZDVCaXR5bUZDaTFhVHZFMFFvcmZyTlRlS25obW1oemJKV2c5QWMzNTVlMkZCeEpiWlFxWE1hWVdzM0UtV1dQOTJsM2dvX3kxRE5PWmRQSTNRSktpM25nS2w5VzloMXpIeGlUc3FFX2ZNb24taVAyWWVueVJXZHVLZ05YNEdjTUpnTDVKTmV2U0Z3VWJB?oc=5",
-   "published": "2026-11-19T08:37:25+00:00",
-   "id": "ed0ec54615fb",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
+   "title": "Ukraine strikes Putin's Crimean bridge again, halting trains",
+   "source": "Politico",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ib3J3VUIzaGljY0M0dEMtZ1pPOEhGVFBZWUNZN241cEJRZDRKb3U1NVRzalVZdDhncDFGWUJKaFlLVzJhSGFiVllqZzJiQUNWSG9mTDU3dDZJWl96cEYyV0dJblI?oc=5",
+   "published": "2026-11-19T08:39:00+00:00",
+   "id": "f1d5e777b2c1",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Escalade militaire locale stimulant marginalement la demande de valeur refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkhuRXZBS0pyYWltUGM2UGg4ejdvOExOcVhTNnJqeVVOS2s3T2pEdU1SV0J4SUhDcnp6WDVWaERPR19taTd3OXRvdEg1NGdmdWtwOWdadkFOOXMtZVN5T29Yak9hTzJpSVIzSUU5bXBEcGJua1dzRVFobVVDcFlxZi00MzBfZWNnQUZwdmRuVWJsczlja2ZBOXBndw?oc=5",
+   "published": "2026-11-19T08:09:00+00:00",
+   "id": "d188993b9cf1",
+   "impact": 2,
+   "cat": "géopolitique",
+   "raison": "Tensions géopolitiques persistantes en Ukraine offrant un léger soutien refuge à l'or.",
+   "method": "IA"
   },
   {
    "title": "US Dollar Price Forecast: DXY Holds 103.76 as Fed Minutes Back Hikes, EUR/USD and GBP/USD Stay Weak",
@@ -6610,18 +6622,6 @@
    "cat": "dollar",
    "raison": "Blocage du dollar sous résistance, soutenant mécaniquement l'or par corrélation inverse.",
    "method": "IA"
-  },
-  {
-   "title": "Gold drops 2% to over one-year low as hawkish Fed signals boost dollar",
-   "source": "Reuters",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
-   "published": "2026-11-18T03:10:00+00:00",
-   "id": "6787c093b197",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
