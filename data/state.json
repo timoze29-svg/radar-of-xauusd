@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "c0a2fcc53871",
-  "b96e4cb9b24f",
-  "944f21b48343",
   "920790d4860c",
   "14b4ee5d3013",
   "e2f35602e0c0",
@@ -4220,7 +4217,10 @@
   "e97f5492140b",
   "1e5bbdf811dc",
   "bcad7491d212",
-  "90f900d04da6"
+  "90f900d04da6",
+  "da658623fb89",
+  "672b81a7cdf3",
+  "48b4fdb8847c"
  ],
  "news": [
   {
@@ -6264,6 +6264,18 @@
    "method": "IA"
   },
   {
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "published": "2026-11-19T08:11:00+00:00",
+   "id": "672b81a7cdf3",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "Escalade protectionniste majeure stimulant l'aversion au risque et la couverture contre la stagflation.",
+   "method": "IA"
+  },
+  {
    "title": "Crimea bridge has been attacked again, says Russian-installed governor",
    "source": "The Guardian",
    "theme": "Russie/Ukraine",
@@ -6610,22 +6622,9 @@
    "cat": "commerce",
    "raison": "Assouplissement tarifaire chinois réduisant les craintes de guerre commerciale mondiale.",
    "method": "IA"
-  },
-  {
-   "title": "Gold Rebounds From 14-Month Low as Bargain Buyers Defy Hawkish Fed Signals",
-   "source": "BigGo Finance",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5La3g1ZDB3RjhmRkh1QWRkNld5QWpHRGlrdU1NQ2pzTkZIQXEwWi01VnRZUDk2RC1pWm40UzRsUWtsbEIzd1R1Z2lVeU5WM2R5ZF92ZVpldkVCVVJWd0dtdGlKOUNQclMtcXFHU0JxOW9pYVV6TUE?oc=5",
-   "published": "2026-11-19T03:26:00+00:00",
-   "id": "e544c65fbf80",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Achats à bon compte offrant un soutien technique à court terme après un creux.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|84be11455516": 1793336490.7654023,
   "news|02e9c55af430": 1793339164.8987377,
   "rep|daily|2026-10-30": 1793340098.6818094,
   "brk|GOLD|pwh|dn|2026-10-26/2026-11-01": 1793347367.5611494,
@@ -8507,7 +8506,10 @@
   "news|6f5d819cf817": 1795144575.979957,
   "news|f509d345d541": 1795146365.554079,
   "news|6cb99dc6e5d5": 1795146366.4402947,
-  "news|2ea095a447a9": 1795149193.7664387
+  "news|2ea095a447a9": 1795149193.7664387,
+  "brk|GOLD|pdh|dn|2026-11-20": 1795151802.8932328,
+  "big|GOLD|2026-11-20": 1795151814.4215722,
+  "big|SILVER|2026-11-20": 1795151815.4041893
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8995,6 +8997,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T05:16:55.404250+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n-3.208 aujourd'hui = 2.0× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
+   "ts": "2026-11-20T05:16:54.421637+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-162.20 aujourd'hui = 1.6× l'ATR"
+  },
+  {
+   "ts": "2026-11-20T05:16:42.893301+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 3 620.60 → prix : <b>3 523.30</b>\nATR jour : 101.3$ | Pivot hebdo : 3966.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>46%</b> des cas (extension médiane 12$, 684 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-20T04:33:13.766526+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Dollar Firms on Weak Stocks and Hawkish Fed</b>\n📰 TradingView · Jeu 19/11 21:31\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVFFcFhTVmRSdUI4dHVLY0JFUzZwWlZ2UUFJRks5Ui1velAzbWE5Vm5RODZ2Q0VMTmE3UTNQT1M1ajJVUFY2SkJURTBNQlFHeE5Kb2phRWZKaTBiS3ZFRTJSN2NTaWVjdFAtaFJHZUoteDhHQWNoNEZGTHY3aVliZ0hrN0ljR19aS0dpYW9BQmdteVhvRFlVNGZFX3ptZjYzQ2h4Wg?oc=5"
@@ -9278,21 +9295,6 @@
    "ts": "2026-11-19T18:16:12.956166+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Has a Problem: Trump Hasn’t Said Yes to New Iran Strikes, and His Own Officials Are Split Over the Intelligence</b>\n📰 National Security Journal · Jeu 19/11 17:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcnZ1RlRPUldBalhQWUFzc3JSX3lUX1pjVFhRWUhMYmZ4M1ZnaXBxWW90VlVud3J6eU94QWRPbl9PR3ZDOUwzZXR2bGtud1BnejJYcmg2bGhpUG05T3oyTC04MjhYV1BOeGRHcUItQTNYT1hMeTdoSUdFVmg5amhmUWpZM1lxLWhLX1IyR0NfZXM2S3B4TlBpT1hPbU1aZnlaWFowcktoUGtGNEZJRW56amdCYi1oS2F2MzBrTjBXQ3RGbkwwNlNORExEeEFEbFpYOWZmNnZ6ZTNpX3QzSFR5ZGZMblRuX1E?oc=5"
-  },
-  {
-   "ts": "2026-11-19T18:16:11.967193+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>West of Suez: Brent rebounds as US ponders Iran escalation</b>\n📰 Quantum Commodity Intelligence · Jeu 19/11 19:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXl0bjRHSURJZzI4WHZrbXpJYTlWd21SUzcybVpxaUpWRjVMNm9oSkVtbUJURFQ0MDdiMlJ5MmdYSjhIM0JWaW1MSlg1WHdyaGp3WXg4VHRia3B5Z2kwcTFLSTdxWkkxWFFWclBsXzRZYnpxVW5xWktpUlJfeTJhYmpyQWVZRHpxS3FQN2JDdEYxMHJlSFgzeW1sbzRqY0hJRUE?oc=5"
-  },
-  {
-   "ts": "2026-11-19T18:01:45.655534+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 73 MIN — 20:15</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.02% aujourd'hui · taux 10 ans -1 pb · biais or -18 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 103$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-19T18:01:44.428627+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>More voters blame Trump’s tariffs for raising cost of living than Iran war: poll</b>\n📰 New York Post · Jeu 19/11 18:56\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE5kbnRzSEY3NWM1aEZyMC1zUWJ2UHEtVjNsZGNJMmhnWmt6RVlZeEdMM1A3TG1aTjQwVXc0OTJRYWY5MXZlZkpkVmR1S2p6eVpBTDN0NjFDVDFBWmNoelRFZTFMRWZodl9EeXJ3cXJCUmNzX21hb1VMWGlkUl9hd2tVTFpYRDRiSzVrVzFPZy1Sa2JKektHSzNFLVZZRVE?oc=5"
   }
  ],
  "daily_forecast": {
