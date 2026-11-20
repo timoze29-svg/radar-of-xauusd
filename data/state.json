@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795194080.8228402,
+   "ts": 1795198559.5622864,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1232,13 +1232,6 @@
   }
  },
  "seen_news": [
-  "54074441158e",
-  "45e928e5268d",
-  "5c51084b931a",
-  "6ba0ff0ad838",
-  "a9cae8bcfa53",
-  "bc2be5fda85e",
-  "d951404c6c55",
   "987cbbd88d9d",
   "0b36d85d8608",
   "d0000a87acac",
@@ -4231,7 +4224,14 @@
   "1cc2c9d9d07a",
   "16b78c10d932",
   "da6e6e1e412d",
-  "63df8e3ee08a"
+  "63df8e3ee08a",
+  "b252164bb903",
+  "d1a86f3d1660",
+  "9a34f36f3fa1",
+  "080f075e3d2f",
+  "55e137d629e0",
+  "826e29e8ad23",
+  "90d4ebbb4524"
  ],
  "news": [
   {
@@ -4302,6 +4302,18 @@
    "published": "2026-11-20T16:27:44+00:00",
    "id": "5438d5c915c5",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russian drone strike kills Ukrainian TV producer Khrystyna Lysenko in Odesa",
+   "source": "Committee to Protect Journalists",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbll0ZTBHd0JNNzFTWGFiSGhDcUQycXRyOHF2b0xCSG1YQ3IxcGZrNm4yeWZvcGlEUzE2TUozVnRzc0F0eXBXQk5JcmRmS3JpaldJME51ODRldHJ6SXBoeVpRMXZQem5YSnYzSWE0N3Yzd2Rra29QM09WWWxaUDBJSVZ0Q0o1RmY0eDhxNlFXeXFXdXZmaFZBNl9pQzR0aTRKTlHSAacBQVVfeXFMUDN6QmlucW9DejRoQWJNQ3JqMzhFSVJiOGVkc0psUHdRSmh4UGtJd1NTWUFsajAzN0FFcHhkZ3lkWmI5bmpib2t0NUFtNktXRHN1ZkMtV204Nm5idldUR3E2NVhZYmNTUTdEaGVHTG5CcmtvZmNaRVpJZFJpb0NTT3Q0ZTF4Y2NPNEI4NFJZcUo0V2RDTFk4UmVuczlXOXoyUkluWl9ybVE?oc=5",
+   "published": "2026-11-20T16:25:14+00:00",
+   "id": "55e137d629e0",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6621,18 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Crise humanitaire persistante au Yémen, soutien marginal à la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says he doesn’t need help from Russia, China to end Iran war",
-   "source": "The Hill",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUtDR2s4M1RSa21mS0FuT1k2VG9BOVNGQUZ2bEd2a3BTM3lwamVsTlJJTk5vdzFhaDhRUWRyYlUxaFRrNVNfMU82R0RfaTNOZU9LRG5BdFgtT2FRX05jU2VCcVBocmpEY1dlcEs4YXlrbE9TZGV2RmFscDgzRWdicGpXdHNqaUxlc25VZVJNcVTSAZYBQVVfeXFMUF9ZVmd5bW9NN0xOcDJjZnZWeGxoU05VVjBNV3FJQ1JPRHU4QTNhblE1V0xTOGFWYlpweUlTUFBSemlzNmtXeWYwZ3BLNm5haEJmNE1VeUZfdDA0MXV2X0dwN09YX0JWSnBMcXVwZXZaeHo5X05YamYzUzBvUWQ3a2M0Uy1zT2Zyckh0V2IxX1pVc19IemhB?oc=5",
-   "published": "2026-11-19T20:07:00+00:00",
-   "id": "98c54b9d976c",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "L'évocation d'une fin de conflit réduit légèrement la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8528,7 +8528,8 @@
   "news|59709cd2d3fc": 1795196784.798724,
   "post|2026-11-20T12:15:00-05:00": 1795196785.9844096,
   "news|16b78c10d932": 1795197797.8641946,
-  "news|1cc2c9d9d07a": 1795197800.41561
+  "news|1cc2c9d9d07a": 1795197800.41561,
+  "big|US10Y|2026-11-20": 1795198600.0756783
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9016,6 +9017,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T18:16:40.075746+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 10 ans\n-0.118 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
    "ts": "2026-11-20T18:03:20.415718+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US, Israel considering new attack on Iran</b>\n📰 Egyptian Gazette · Ven 20/11 17:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWdLR0pfSkN4X0VhOXJ4X0tvemFqZUI1UGVrcmZlYkNvSm4tUURtMEZpa3JBYUtUSUNsZFN0ekpXUnE1WVVkVEJEd25kWjQxVUlpczlJUW9WeXo2czdxTEwxTFhjUk1LckpDeEs4SExHMWFmZExrc3NzSzFFUWJJRkRn?oc=5"
@@ -9309,11 +9315,6 @@
    "ts": "2026-11-20T05:16:54.421637+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-162.20 aujourd'hui = 1.6× l'ATR"
-  },
-  {
-   "ts": "2026-11-20T05:16:42.893301+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 3 620.60 → prix : <b>3 523.30</b>\nATR jour : 101.3$ | Pivot hebdo : 3966.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>46%</b> des cas (extension médiane 12$, 684 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
   }
  ],
  "daily_forecast": {
