@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "20f92e83ab55",
-  "812c48c374da",
-  "4cbf910f8d6e",
   "69219bb66912",
   "97a6adfca6f0",
   "9104f59a95d2",
@@ -4220,9 +4217,24 @@
   "246bf351ed6f",
   "426f0c21752a",
   "57bca766669e",
-  "d01523f983ef"
+  "d01523f983ef",
+  "c9b596bd2fab",
+  "0f2716eb9608",
+  "56ffaf6a2eb4"
  ],
  "news": [
+  {
+   "title": "Hours after Trump-Putin talks, Russia hits Ukraine with massive, deadly attack",
+   "source": "CNN",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5",
+   "published": "2026-11-20T07:40:34+00:00",
+   "id": "0f2716eb9608",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Anthropic’s IPO, gold price drops: 5 figures investors are watching this week",
    "source": "South China Morning Post",
@@ -6610,18 +6622,6 @@
    "cat": "géopolitique",
    "raison": "Escalade ciblée en Crimée, renforçant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Gold hits 14-month low: Why are silver and copper prices falling too? Experts explain what investors should do now",
-   "source": "Livemint",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeFNuVU5qelZhTS1uRFNEc3k3T082R2NRdW9Qa0lDbUJMdDFhcWpNbHhWaVhpTkpRcTFrZ0R4U1RnNlBxNWZwSWY2emExVVVuak9YZUs2WThwaWJNbEQ0NWhLMVBFVjVOVHliR1Y5TTFOXzlLTzRteTFBdnNYRy1Yc2NJWFpMMzJ1X0FRQTU4dHRKbFA4VzVsckhKcUVmTE5XdnljNXJhd2JhTkV3aHhlQ1dpQ2Fmaks4SnhQckd3R1AxVDJoeUw3Z1R0Nkk3ZklGN25JR2JuZXhUcjAzTzdlUlBIanBMcGtHdHU5R3pZNkhKSnlFWjJuX290bU5lTzYtYXZmQ3p4US1LcXdx0gGSAkFVX3lxTFBBUU9RRjJ3N3FMVlE2VTdQUGFBd25RNUJFYThjM0FZZ0FUaVBxS05mazRVRWxXdzBIMG8xUVlqXzRrWW1fay0yTkNHTGxBRW5QLXJKTno3YURBVjU2Rk1yaUczMDQ2YnV1dnQwNlJlRjBGUHAwX0tOcE9ld3JjY2xGQk5CMC1ORWZkd1RNZnpFVG1ZLWszSGh1aUJDaGNtYjE1bWI5NHF2ZVRsWXBzUElkN3VXaWlRSFBfQlVoX0dKN01VYTlQN0xkUVRMTDFaNm9EMDZnZXBlNWJ0UXFvc3hGN041bnJFVEpyeGtldE1HRUtvd19JaVBPUl81VUdvTVEwTF95aHc0aXRJdzBoeXRpVWc?oc=5",
-   "published": "2026-11-19T06:54:26+00:00",
-   "id": "df9cb2bd8693",
-   "impact": -2,
-   "cat": "or",
-   "raison": "Rapport rétrospectif confirmant un fort momentum baissier et des liquidations sur les métaux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8512,7 +8512,8 @@
   "news|47a1cba22e7e": 1795154501.7016568,
   "rep|daily|2026-11-20": 1795154516.6330402,
   "news|e3f5021cbf27": 1795156359.2262745,
-  "news|246bf351ed6f": 1795159883.3459392
+  "news|246bf351ed6f": 1795159883.3459392,
+  "news|0f2716eb9608": 1795160949.633806
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -9000,6 +9001,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T07:49:09.633886+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hours after Trump-Putin talks, Russia hits Ukraine with massive, deadly attack</b>\n📰 CNN · Ven 20/11 08:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5"
+  },
+  {
    "ts": "2026-11-20T07:31:23.346014+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes - Region - World</b>\n📰 Ahram Online · Jeu 19/11 11:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGFGNzYyUE1GclFMckVCeThtZlFSM3ZRZzlWNWpZQmYtUVN2Qk9CZzFZcFFjNUVabW5yeXJZYnZGajVIX0JnR1R2TEx6Ym9QVWVRY1pvMXE2cHE1Q0VQZkxCTGd5Q1BFVmhXSWlfRUItWkkxUlBXSFYtQ1JjZ1VaNW5iVWt1bTlDdlhhX2VjN2FMdzNyQk0tT21BbkpWMDhGUTJyeFlyOVRFelA0RWRFRzc0TDFuY3l4aHlKZA?oc=5"
@@ -9293,11 +9299,6 @@
    "ts": "2026-11-19T19:49:19.463607+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 71 MIN — 22:00</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.06% aujourd'hui · taux 10 ans -1 pb · biais or -21 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 103$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-19T19:49:15.010940+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 34 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans -0.2 pb\nOr +1.2$ (extrême +4.5$, range 6.9$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
