@@ -526,14 +526,13 @@
    }
   },
   "cot": {
-   "ts": 1795167066.887785,
+   "ts": 1795210281.2382987,
    "data": {
-    "date": "2026-11-10",
-    "net": 190107,
-    "chg_week": 10559,
-    "percentile_3y": 29,
+    "date": "2026-11-17",
+    "net": 166132,
+    "chg_week": -23975,
+    "percentile_3y": 16,
     "hist": [
-     210339,
      204588,
      217560,
      223886,
@@ -584,13 +583,14 @@
      199865,
      186451,
      179548,
-     190107
+     190107,
+     166132
     ],
-    "lecture": "Positionnement neutre"
+    "lecture": "Spéculateurs peu positionnés → carburant haussier dispo"
    }
   },
   "calendar": {
-   "ts": 1795206672.4533417,
+   "ts": 1795210281.2877176,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1232,13 +1232,6 @@
   }
  },
  "seen_news": [
-  "77152eb549b9",
-  "a860137ba667",
-  "28f6fe8c9ce4",
-  "5745855c3892",
-  "35623156a9c1",
-  "3d343bc897da",
-  "506a7f8ba8c4",
   "2745d25c6f17",
   "c441770533bb",
   "1de08539fc3d",
@@ -4231,7 +4224,14 @@
   "eabf2c5b9f87",
   "c26b7d7f3752",
   "f4dfc2f44ad6",
-  "326e772f5530"
+  "326e772f5530",
+  "7c1ac6e1be76",
+  "59a053cadbc7",
+  "8c52089ee864",
+  "6be6ba4e75b8",
+  "e11e436891c4",
+  "41e4bedbd18a",
+  "4c0e5b60b522"
  ],
  "news": [
   {
@@ -4242,6 +4242,18 @@
    "published": "2026-11-20T21:01:25+00:00",
    "id": "f4dfc2f44ad6",
    "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Vice President Vance declines to say he would have ordered Iran strikes",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5",
+   "published": "2026-11-20T20:45:44+00:00",
+   "id": "8c52089ee864",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4746,6 +4758,18 @@
    "published": "2026-11-20T15:22:39+00:00",
    "id": "b162b660f567",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "What we know about the latest Russian missile strikes on Ukraine",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
+   "published": "2026-11-20T15:14:01+00:00",
+   "id": "4c0e5b60b522",
+   "impact": 2,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6609,34 +6633,9 @@
    "cat": "géopolitique",
    "raison": "Rhétorique d'apaisement temporaire réduisant à la marge la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Officials raise concerns about tariffs' impact on California",
-   "source": "North Penn Now",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUZNdnBFeXZzVVhfc05zUjZqWVRDRktFSkVNTXVKZjNaRklGMW9INnRpcHlvOHFmdG1IZjlaeXgwVERHV3ptVXpqOWpuQ0d3Tk55WXU3QnFLZGRqV29tbUFUdE9TNFR5YnJaTnNPa3h1T3ZaX096MlA1eVZRTDJHSmFZM3pPUzctc19NUW82WTNnT0tfLTlRS3dYTzZMb2pI?oc=5",
-   "published": "2026-11-19T23:20:00+00:00",
-   "id": "05f4909592c7",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Inquiétudes protectionnistes régionales, léger soutien marginal face aux risques d'inflation.",
-   "method": "IA"
-  },
-  {
-   "title": "FORECAST: Goldman Sees 2026 Brent at $80-$90 Until US-Iran Deal or Major Escalation",
-   "source": "EnergyNow",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTNiTWk5TDEyTUs5cFI3TFRCZ1RDVDREV0lmdEN4ZzZVbFgxd1JteXpMYlppcThZemg2dUM0SXJfWlBvdVBFbzFyeVJtUjlrUjVNRzBwRUQ2QVNCbmFvTGxvVDg2Z2g5Rnd1ZE1RbHZPSnFjNFlVNHZaUFRUMnZvbUJCbncxSkpOWGxYeEJETVVXTVlfZVUwbG51TDRCZEJ6eERIaGlsMG8xV1hWaDFF?oc=5",
-   "published": "2026-11-19T23:19:15+00:00",
-   "id": "f8249b084ce7",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|82fe44aa9c47": 1793395902.473224,
   "news|0c0ab8881f6b": 1793396762.1052988,
   "news|b5424cb06e28": 1793398933.489386,
   "news|3e55d1008773": 1793398934.3600585,
@@ -8538,7 +8537,8 @@
   "big|VIX|2026-11-20": 1795206947.7117164,
   "news|6233fa036293": 1795207568.6595004,
   "rep|recap|2026-11-20": 1795208501.4998274,
-  "news|9ad69726aacc": 1795209370.0637732
+  "news|9ad69726aacc": 1795209370.0637732,
+  "news|8c52089ee864": 1795210351.2191987
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9026,6 +9026,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T21:32:31.219303+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Vice President Vance declines to say he would have ordered Iran strikes</b>\n📰 Reuters · Ven 20/11 21:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5"
+  },
+  {
    "ts": "2026-11-20T21:16:10.063873+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump considering new Iran strikes as US military warns of strain on forces</b>\n📰 Financial Times · Ven 20/11 21:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5"
@@ -9319,11 +9324,6 @@
    "ts": "2026-11-20T12:07:52.670284+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US could launch joint strike on Iran within two weeks, former Navy chief predicts</b>\n📰 The Jerusalem Post · Ven 20/11 12:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9VaDR3cGtCckhHamdYMG0yYlFYamFadlp1MEFMUlBSbmpJb1RWdjVDMzUteWVnWlYyVE9KRV9pQzJiMTdnNGNONS0yTzFMN3VlYTQ1eWhyTGxmS0dyOXYxOVJnbzBSZ202X2c?oc=5"
-  },
-  {
-   "ts": "2026-11-20T10:46:49.689226+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes</b>\n📰 Naharnet · Jeu 19/11 13:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVlRVDRGOUJTd1BXc243Smpva1lCRnlDZGFHWmpVa2tiTVN2SHVtY0tyd3RBaUNvVDIwMEpINW5pSmdrMTdFZnVhMU5Lakx1cEJnemV3Tzc3bXpzV0tGS0RER0lXV2ZrWnplMGpuZEQxLXJ5SFAxTVVHb2t3azdDbEYxY0VzY3BkaC1CWFJHS1BDNVhHTk5YeXR6ZTVrSTFfX1ctNVRYOVhNd2hfNE9xNlRSOU1xMnZtb284MVpyU2xzdw?oc=5"
   }
  ],
  "daily_forecast": {
