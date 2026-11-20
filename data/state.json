@@ -1035,19 +1035,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1795127622.023552,
+   "ts": 1795200415.2234037,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        14.8
+        15.5
        ],
        [
         15,
-        9.6
+        9.5
        ],
        [
         22,
@@ -1057,77 +1057,77 @@
       "low": [
        [
         0,
-        19.1
+        19.0
        ],
        [
         2,
-        11.3
+        11.2
        ],
        [
         16,
-        10.4
+        10.3
        ]
       ]
      },
      "1": {
-      "n": 122,
+      "n": 123,
       "high": [
        [
         22,
-        12.3
+        12.2
        ],
        [
         15,
-        9.0
+        8.9
        ],
        [
         2,
-        9.0
+        8.9
        ]
       ],
       "low": [
        [
         0,
-        11.5
+        11.4
        ],
        [
         16,
-        10.7
+        10.6
        ],
        [
         2,
-        8.2
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 121,
       "high": [
        [
         16,
-        11.7
+        11.6
        ],
        [
         2,
-        10.8
+        10.7
        ],
        [
         21,
-        6.7
+        6.6
        ]
       ],
       "low": [
        [
         0,
-        13.3
+        13.2
        ],
        [
         14,
-        7.5
+        7.4
        ],
        [
         21,
-        7.5
+        7.4
        ]
       ]
      },
@@ -1163,67 +1163,67 @@
       ]
      },
      "4": {
-      "n": 117,
+      "n": 118,
       "high": [
        [
         16,
-        14.5
+        14.4
        ],
        [
         0,
-        12.0
+        11.9
        ],
        [
         17,
-        11.1
+        11.0
        ]
       ],
       "low": [
        [
         0,
-        12.0
+        11.9
        ],
        [
         15,
-        8.5
+        7.6
        ],
        [
-        14,
-        6.8
+        16,
+        7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5946,
+     "n_hours": 5976,
      "horizon_h": 2,
-     "base_gold_up": 53.1,
-     "base_dxy_down": 48.0,
+     "base_gold_up": 53.0,
+     "base_dxy_down": 47.9,
      "down": {
       "3": {
-       "n": 244,
-       "p_dxy": 51.6,
-       "p_gold": 55.7,
-       "gold_avg": 1.5
+       "n": 247,
+       "p_dxy": 51.0,
+       "p_gold": 55.5,
+       "gold_avg": 1.3
       },
       "4": {
-       "n": 57,
-       "p_dxy": 49.1,
-       "p_gold": 57.9,
-       "gold_avg": 0.8
+       "n": 58,
+       "p_dxy": 48.3,
+       "p_gold": 56.9,
+       "gold_avg": 0.5
       }
      },
      "up": {
       "3": {
-       "n": 266,
-       "p_dxy": 54.9,
-       "p_gold": 48.9,
-       "gold_avg": -0.9
+       "n": 269,
+       "p_dxy": 55.0,
+       "p_gold": 48.7,
+       "gold_avg": -0.8
       },
       "4": {
-       "n": 75,
-       "p_dxy": 57.3,
-       "p_gold": 50.7,
+       "n": 76,
+       "p_dxy": 57.9,
+       "p_gold": 51.3,
        "gold_avg": 0.1
       }
      }
@@ -1232,9 +1232,6 @@
   }
  },
  "seen_news": [
-  "d923c3036584",
-  "569710a6b3ca",
-  "c0bd5fd1237c",
   "351c281d95d5",
   "196a7c36dd9a",
   "2253dac44b82",
@@ -4231,9 +4228,24 @@
   "e7f1d61d3337",
   "b09aec25a3e2",
   "2a3cd3133917",
-  "dfa94ab9e3e5"
+  "dfa94ab9e3e5",
+  "5400c1abf380",
+  "fa1670e582ab",
+  "c812a25d9863"
  ],
  "news": [
+  {
+   "title": "Gold and Silver Slide as Fed Eyes Rate Hikes at Dec. 9 Meeting",
+   "source": "JCK",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNWFoeVE3YlRUWGU3dTFzNzVoYWFJMmRaM0UtVGtoYmtlZGtvUFZ4RXJDU1JDRGNncERzQ25Cc215SXpQVXZsU2x2OE1NQXFIazk0dUZSR3FVUDZmZ1lYSTVwLVhSd3JTYXNaOUJVNmRHekpt?oc=5",
+   "published": "2026-11-20T18:34:46+00:00",
+   "id": "5400c1abf380",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump invoked a 96-year-old law to hit US$20B in Canadian goods with 50% tariffs — and there's no expiry date",
    "source": "Money.ca",
@@ -6621,23 +6633,9 @@
    "cat": "géopolitique",
    "raison": "Horizon lointain réduisant la prime de risque géopolitique immédiate sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
-   "published": "2026-11-19T20:35:24+00:00",
-   "id": "2f42256ec923",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque accru d'intervention militaire contre l'Iran soutenant la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "post|2026-10-30T13:30:00-04:00": 1793384282.2572377,
-  "news|026d16110ce5": 1793385088.9225166,
   "brk|VIX|h20|up|2026-10-26/2026-11-01": 1793386153.1037548,
   "news|d133f68b2754": 1793389567.750217,
   "news|b5cd0701a76c": 1793389569.0009856,
@@ -8529,7 +8527,8 @@
   "post|2026-11-20T12:15:00-05:00": 1795196785.9844096,
   "news|16b78c10d932": 1795197797.8641946,
   "news|1cc2c9d9d07a": 1795197800.41561,
-  "big|US10Y|2026-11-20": 1795198600.0756783
+  "big|US10Y|2026-11-20": 1795198600.0756783,
+  "news|5400c1abf380": 1795200411.634144
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9017,6 +9016,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T18:46:51.634222+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold and Silver Slide as Fed Eyes Rate Hikes at Dec. 9 Meeting</b>\n📰 JCK · Ven 20/11 19:34\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNWFoeVE3YlRUWGU3dTFzNzVoYWFJMmRaM0UtVGtoYmtlZGtvUFZ4RXJDU1JDRGNncERzQ25Cc215SXpQVXZsU2x2OE1NQXFIazk0dUZSR3FVUDZmZ1lYSTVwLVhSd3JTYXNaOUJVNmRHekpt?oc=5"
+  },
+  {
    "ts": "2026-11-20T18:16:40.075746+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 10 ans\n-0.118 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
@@ -9310,11 +9314,6 @@
    "ts": "2026-11-20T05:16:55.404250+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n-3.208 aujourd'hui = 2.0× l'ATR\n🥇 🔴 baissier pour l'or"
-  },
-  {
-   "ts": "2026-11-20T05:16:54.421637+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Or (XAUUSD)\n-162.20 aujourd'hui = 1.6× l'ATR"
   }
  ],
  "daily_forecast": {
