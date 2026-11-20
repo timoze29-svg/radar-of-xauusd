@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "6015a6699dec",
-  "f9349afe20b6",
-  "d61f9d9f4206",
   "68c76278fa81",
   "5d77f3b5023f",
   "815d3a9386fc",
@@ -4220,7 +4217,10 @@
   "1e363a3e0af2",
   "3d92c07d7dc8",
   "06d0c6321161",
-  "54a4d2536a37"
+  "54a4d2536a37",
+  "3408182d64f4",
+  "5fbaa3c18314",
+  "d81f8bb8e825"
  ],
  "news": [
   {
@@ -4662,6 +4662,18 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmpRMGNmblZnQnFWeldveEk3dDhMZFhCRGlGSHBoNjhabGU4dUJsSGNidHNER0RmdDF4cUpRc1hUSnNqR3g2U3J0eWVyN1NrdUhuUGEycjdKN1VqWTBfMzc4RENHYmRpRXhzUEpaS1gxbVJ6VnQ1elRuR1Y3TFNmTzBxbG4xbkJFM0ZBVW8wSFYxeHVwRGtkUjg4ckd4dGtfMU54N0J2bXh0aXJHVWt1c3JYRnhPR3RC?oc=5",
    "published": "2026-11-19T22:47:31+00:00",
    "id": "26c0926fc84d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Senate GOP tanks new resolution blocking Trump’s war in Iran",
+   "source": "News From The States",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFdfbUoyWFhNTzBFeGhucy1ISGRUaHA1c0dUUTlxXzZNTjVpZmRJc1VJY0U3OTEtWEQ0UU9uQ2pVWFZiRFduV3dwVHhJTUk5OVlJVllXMGs3Wm9LZW1STlZJSGk0c2hxbng4SHhCMUdpM01sWWQwd0Zjekp3TnlhMUpzMVRvYzVWY3Z5UDZRQldfMUxFbU9mcXdLdHJ1S0ZtUVlB?oc=5",
+   "published": "2026-11-19T22:22:00+00:00",
+   "id": "5fbaa3c18314",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6610,18 +6622,6 @@
    "cat": "fed",
    "raison": "Hausses de taux de la Fed pénalisant lourdement l'actif non rémunéré.",
    "method": "IA"
-  },
-  {
-   "title": "Federal Reserve Considers Larger December Rate Hike",
-   "source": "조선일보",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnBCRjdSR2NzUjhhRXREVktrdm14RUJGRFZ0UkR4SXE3a1d6YkJQV3FTMlZFelBicGJ2dXU0LUZyMXZ6MXpMMzIzTHVoZk9mOXJjOXhQcGlJcDN6MG9ZVDlHa2o0cXZwQ1FyZDJXVkdVRm8zTFc2c1JIZTI2VnFVbm5LZ2E0eXNvTUg3UUlR?oc=5",
-   "published": "2026-11-18T23:20:19+00:00",
-   "id": "03af9ec08f67",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "Perspective d'une forte hausse des taux très pénalisante pour l'actif sans rendement.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8500,7 +8500,8 @@
   "news|422c8da0fc89": 1795139175.338977,
   "news|ea24044549dc": 1795139178.1248379,
   "news|ea6f12d82af9": 1795139178.9083333,
-  "news|26c0926fc84d": 1795139179.6760385
+  "news|26c0926fc84d": 1795139179.6760385,
+  "news|5fbaa3c18314": 1795140095.306079
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8988,6 +8989,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T02:01:35.306157+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Senate GOP tanks new resolution blocking Trump’s war in Iran</b>\n📰 News From The States · Jeu 19/11 23:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFdfbUoyWFhNTzBFeGhucy1ISGRUaHA1c0dUUTlxXzZNTjVpZmRJc1VJY0U3OTEtWEQ0UU9uQ2pVWFZiRFduV3dwVHhJTUk5OVlJVllXMGs3Wm9LZW1STlZJSGk0c2hxbng4SHhCMUdpM01sWWQwd0Zjekp3TnlhMUpzMVRvYzVWY3Z5UDZRQldfMUxFbU9mcXdLdHJ1S0ZtUVlB?oc=5"
+  },
+  {
    "ts": "2026-11-20T01:46:19.676154+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ending the Iran War Is Donald Trump’s Least Worst Option. Here’s Why.</b>\n📰 The National Interest · Jeu 19/11 23:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmpRMGNmblZnQnFWeldveEk3dDhMZFhCRGlGSHBoNjhabGU4dUJsSGNidHNER0RmdDF4cUpRc1hUSnNqR3g2U3J0eWVyN1NrdUhuUGEycjdKN1VqWTBfMzc4RENHYmRpRXhzUEpaS1gxbVJ6VnQ1elRuR1Y3TFNmTzBxbG4xbkJFM0ZBVW8wSFYxeHVwRGtkUjg4ckd4dGtfMU54N0J2bXh0aXJHVWt1c3JYRnhPR3RC?oc=5"
@@ -9281,11 +9287,6 @@
    "ts": "2026-11-19T15:46:06.537388+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge</b>\n📰 The Guardian · Jeu 19/11 16:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQemI5QkZDNUlldjVMZHNwb3hVZFp0bXI1RHRRMHhwUmhac1JtRzlPZURvUkNZdng3d3FlTGJjWWJYc05YbGx3eDUxQ2dweGtkdVhMaTJicDRKS1UycDlZTm1ONTBrUTlRV2xzTWhTNnZYOWNvSFVhNFgyT0NLYnVPR3R5OEd3dl85OGlqUkg3WmFNN184aWloN084R0pPRFp4N28yY1BYU2kxMHVX?oc=5"
-  },
-  {
-   "ts": "2026-11-19T15:31:33.241375+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine strikes Putin’s prized Crimean Bridge for third time in a week</b>\n📰 NBC News · Jeu 19/11 16:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5"
   }
  ],
  "daily_forecast": {
