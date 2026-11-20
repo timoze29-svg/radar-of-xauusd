@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795169747.558336,
+   "ts": 1795173561.2332199,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -4216,10 +4216,10 @@
   "6390d78dacc9",
   "d627a0cf82ac",
   "9370a10e9146",
-  "dc8f1ed853d7",
+  "3542b034d698",
   "722f63cca1b5",
-  "1b0466e14cdf",
-  "08429884a29e",
+  "01edde31df60",
+  "d44acc769170",
   "85dc51c58ed2"
  ],
  "news": [
@@ -4269,6 +4269,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan",
+   "source": "KABB",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTTltcWZrdWJHYXlvN1NsRFVsNGppV0pVVzdtRW9RUHlNb3lpRTRUTnlsQlMzTHlSdGwwTFdnODRYTWV4ZWdtUHRSWEN1Q2p1d0pSNDc4bHdRV1V3bDhidS1hb0VfUVRFVGxYc2N2NFpaRWRLWlJyaUxuTWVXdTc2X0tqVklxdk1zT1Nxa0NmQW9LTF9qWmVmZkxtdDRZbWZ2TXpNMTY1N2k5ek1TaWVMR3k5bllOQVNGajNpbUVoUy1LWXhrNzh0VV9FOG1FendMQXpDT1pWN2FZZ0hPWWpmUVNOTQ?oc=5",
+   "published": "2026-11-20T09:43:22+00:00",
+   "id": "3542b034d698",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -4353,6 +4365,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine: Three Kyiv bridges hit during major Russian missile attack",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U2hsRV9SaGdVUWxNYmtvWWhVS0NvOUJfVzVCTERKOVp5aUNaNkE4aXU4LVpaZndwakNCMmF0cUtGTjBZN0JrblJDMTM2dE5CMENIQjVUQXM4LWM?oc=5",
+   "published": "2026-11-20T08:19:32+00:00",
+   "id": "01edde31df60",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4618,6 +4642,18 @@
    "cat": "dollar",
    "raison": "Le repli du dollar face à l'euro soutient mécaniquement les cours de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
+   "source": "DW.com",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHhTb1g1R2RIRzUybW9xc0dNb1RrSXdIaG5IV0Z2MlFfVFJVejdNX0dzR01ZbldSekw2eXdzaWNWcERvbF9DTjgwUGNWYjVKY0poQWlEeXduSUNkVGMydVNZQzdpZXpQUFVDLTdOY25jLVFVTFdtalBPMVQ4U0UxbHR0N1BFYV93V2p5a25Wc1MwRk9wVlHSAZYBQVVfeXFMUFRKWkxxcW5ua0xhTTBOLWt4S3dqdTZUUTIzbGJFT1RoLTUycDAwVG5uZ21SdFdVNlhkbC02azZOZ20wbkdvczE4UlpITDcwbGJ0dUllaVhXdDJISk9sb3JRTTZSTlduYkw3QUdYMHRvWTJnSjlTYVNuM0VaaHlhXzJyLUF1RWFKMTRHdG1jSXlERVZRMnZn?oc=5",
+   "published": "2026-11-20T05:29:40+00:00",
+   "id": "d44acc769170",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Iran: US launches fresh strikes as hostilities flare again",
@@ -6597,30 +6633,6 @@
    "impact": 4,
    "cat": "géopolitique",
    "raison": "Risque accru d'escalade militaire directe au Moyen-Orient renforçant la demande d'actif refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Shutdown fight takes shape as Democrats target Trump’s Iran war",
-   "source": "The Hill",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmpxQVZsLWFmNnQ2WTl6ZVNzb2VUTlhVOUQ3SFJqVW4yNmk2MHh5ZDRCQVh4aVI5RlJkc3FVMmVWT3hub2dvUGVwTTZxZWZaY0trTnRSWVVvQlJRLTg3U2psRVByTGp4bm1tREZ5dzE0MjNSMXFMRWJJV2JsMWFPWF9QekJ3QXdxWklGZG5ITDBGUQ?oc=5",
-   "published": "2026-11-19T11:00:00+00:00",
-   "id": "d8cd7b6e03bd",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Incertitude budgétaire et dissensions politiques à Washington apportant un léger soutien refuge à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Congress drifts toward shutdown deadline without a funding strategy",
-   "source": "The Hill",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmpxQVZsLWFmNnQ2WTl6ZVNzb2VUTlhVOUQ3SFJqVW4yNmk2MHh5ZDRCQVh4aVI5RlJkc3FVMmVWT3hub2dvUGVwTTZxZWZaY0trTnRSWVVvQlJRLTg3U2psRVByTGp4bm1tREZ5dzE0MjNSMXFMRWJJV2JsMWFPWF9QekJ3QXdxWklGZG5ITDBGUQ?oc=5",
-   "published": "2026-11-19T11:00:00+00:00",
-   "id": "ad74fffee605",
-   "impact": 2,
-   "cat": "politique US",
-   "raison": "Menace de fermeture gouvernementale affaiblissant le dollar et favorisant les valeurs refuges alternatives.",
    "method": "IA"
   }
  ],
