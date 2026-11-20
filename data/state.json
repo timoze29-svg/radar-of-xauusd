@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "cec3440cf6d5",
-  "33d1d3dd8501",
-  "794fcb374019",
-  "a107f30bd42b",
-  "ece85812e77e",
   "20f92e83ab55",
   "812c48c374da",
   "4cbf910f8d6e",
@@ -4220,7 +4215,12 @@
   "07e9cd782920",
   "e5599b2d129a",
   "1f6217759d4d",
-  "ba889a5e814e"
+  "ba889a5e814e",
+  "b4787d4687d3",
+  "246bf351ed6f",
+  "426f0c21752a",
+  "57bca766669e",
+  "d01523f983ef"
  ],
  "news": [
   {
@@ -6216,6 +6216,18 @@
    "method": "IA"
   },
   {
+   "title": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes - Region - World",
+   "source": "Ahram Online",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGFGNzYyUE1GclFMckVCeThtZlFSM3ZRZzlWNWpZQmYtUVN2Qk9CZzFZcFFjNUVabW5yeXJZYnZGajVIX0JnR1R2TEx6Ym9QVWVRY1pvMXE2cHE1Q0VQZkxCTGd5Q1BFVmhXSWlfRUItWkkxUlBXSFYtQ1JjZ1VaNW5iVWt1bTlDdlhhX2VjN2FMdzNyQk0tT21BbkpWMDhGUTJyeFlyOVRFelA0RWRFRzc0TDFuY3l4aHlKZA?oc=5",
+   "published": "2026-11-19T10:58:27+00:00",
+   "id": "246bf351ed6f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Risk of US Strikes on Iran Grows as Sides Escalate Skirmishes",
    "source": "Bloomberg.com",
    "theme": "Moyen-Orient",
@@ -6609,18 +6621,6 @@
    "impact": -2,
    "cat": "or",
    "raison": "Rapport rétrospectif confirmant un fort momentum baissier et des liquidations sur les métaux.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Price Today: Why Gold Has Crashed Nearly 30% Despite Heavy Central Bank Buying",
-   "source": "CaptainAltcoin",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0xnVlB5TFBhODNpeUpFOVVLZlp5WWFZT3lKakZVcDhxcXJGSTRSa2d6MnR5ODUtWXdPQ2xodFJhbTl4eE56bmhnLWVxakFRSUowMlhDVmoyeWF4ZFY5Mlk4b1hIWjZhdmFwZWk5MGlPSXFrM2s5Q0NiZkdBUXVHUFByblZ2dE1QT3k3ZWFjWGNtZzZnU1k2SVQ0UUp1YVA2a3YtVERqaEQtQ2JrQUE?oc=5",
-   "published": "2026-11-19T06:32:16+00:00",
-   "id": "5e92216ef4d1",
-   "impact": -3,
-   "cat": "or",
-   "raison": "Forte pression vendeuse technique et capitulation malgré le soutien institutionnel structurel.",
    "method": "IA"
   }
  ],
@@ -8511,7 +8511,8 @@
   "news|8b345bf69087": 1795154498.9730282,
   "news|47a1cba22e7e": 1795154501.7016568,
   "rep|daily|2026-11-20": 1795154516.6330402,
-  "news|e3f5021cbf27": 1795156359.2262745
+  "news|e3f5021cbf27": 1795156359.2262745,
+  "news|246bf351ed6f": 1795159883.3459392
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8999,6 +9000,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T07:31:23.346014+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes - Region - World</b>\n📰 Ahram Online · Jeu 19/11 11:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGFGNzYyUE1GclFMckVCeThtZlFSM3ZRZzlWNWpZQmYtUVN2Qk9CZzFZcFFjNUVabW5yeXJZYnZGajVIX0JnR1R2TEx6Ym9QVWVRY1pvMXE2cHE1Q0VQZkxCTGd5Q1BFVmhXSWlfRUItWkkxUlBXSFYtQ1JjZ1VaNW5iVWt1bTlDdlhhX2VjN2FMdzNyQk0tT21BbkpWMDhGUTJyeFlyOVRFelA0RWRFRzc0TDFuY3l4aHlKZA?oc=5"
+  },
+  {
    "ts": "2026-11-20T06:32:39.226362+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>30 Kamikaze Drones &amp; 20 Minutes: Watch Iran's Deadly Drone Swarm Strike Israel &amp; US Bases</b>\n📰 The Times of India · Ven 20/11 07:09\n🧠 Escalade militaire directe au Moyen-Orient provoquant un puissant afflux vers la valeur refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU2xObXpVSWxZSTlvQnI0SVFaamx5Mk00aHJ1RE8tZFhDUVpwai1HYXJubW5ESGJFbEVaQkdYenk3bFFmbHgzZmUtQjdSQTJTeG5zaXYxaU56MVEzVFN6UTd1clJFUUN3bm15X2NNR1VrZ2gyWnJSc0tMaTdleUFhQ2xIME1XWTJ5ZDQtNFJUZU15M3JLNGVpZHllaHZJby03LV8zWHIyVHRlZjNrVVF5VVFvSWVnSGFMeEc5UGZ0ek5BdjZKT2NGMjRocXFWLW9PZWpVX3diLVlJT2MzQTFVcjhQa2RWSURpcnM2b3d1aGp4eHFOekM00gH8AUFVX3lxTE5wNjNWX3BxUkJkOG1tQy1YWHFwY1ZIMHpLeFNIMTF0T1FVaHJaaExwU2hRWGJIekFDLU1ucW5oMjk3azZHSHR2UjhKaURseHJfM0xaWFJRUWNYdFhSNHBWajlSYWZNaEtVd0hLbWtiY2FOc3NjSW5LYnJZcXFpMzFVX2hSUWFaOTJZakItOVN4LXBlcWpianNzUVFJdWxoR0dyVjVVMEhsMmF1WEJ1TUhIZ0tOck5tNTNzU0pXTE5rdzhOYWFTTm90cFB6Q2tUTy1DV3ZmeWt1R3Uxd1dWcG5yenRQaFh3OGRMLXdEX3VmRklGbnQtaTlEdklmaw?oc=5"
@@ -9292,11 +9298,6 @@
    "ts": "2026-11-19T19:49:15.010940+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 34 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Barr Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.01%\nTaux 10 ans -0.2 pb\nOr +1.2$ (extrême +4.5$, range 6.9$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-19T19:34:40.905213+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks</b>\n📰 PBS · Jeu 19/11 16:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzdsMkRqaDh4b1E0WTJzdnZ4em1DajdPN2g1S0llb3BnZVRJQzU2Qk9QNjFYUnNWcUY3M2FHNTR5R0k1c3Z6TXpnN2hwVDNnR2ZIWmQtTGtra2ZNckpQS1RabHhTWFBSZFlYVjA3el9Bek9FNnJfSUU2YnJOd09LUWpLT2pUWHZkLUpST1R0bTc5bGk1U1dJb2JfdFRPQ1gwa24waHdfbXTSAa4BQVVfeXFMUDdkQ3pkTHhpSElJbW4tTHlwZUxTcjIxTE5EQks5ZmF3TXc0UFdNZTVtMFQzQ2tEN2lndXNxSXRNMzlmajZicTM0dnd6QXJXN1R1TGNxb21zUkMtRDIyQzZmOTdZYTVyQXNxSllQeXhmelNNcS1FSFBwdlkxNUl5QjNEN3JKT2ZTUnpHSUV2Wl8wOWNzTWdQTzZaLUFxOHlFOWtHVVYtMnBYMEJiVmdn?oc=5"
   }
  ],
  "daily_forecast": {
