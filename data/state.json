@@ -1221,16 +1221,6 @@
   }
  },
  "seen_news": [
-  "cb8446ed7702",
-  "6b7536ce932a",
-  "e4cf9dc2e355",
-  "1579874e2fd3",
-  "c4a4b6fa4a97",
-  "932aab013d49",
-  "d7ee3ab69150",
-  "54e5b29845ed",
-  "79ebfcca5584",
-  "af01d7fc4ba7",
   "c8ac0fe7f59a",
   "a5e4dbaf1d5b",
   "4219d3f05af5",
@@ -4220,9 +4210,55 @@
   "deb58442cb8e",
   "ca2f4e5933f4",
   "e836b0dee000",
-  "5c7ab89ab94a"
+  "5c7ab89ab94a",
+  "b39d37e660f3",
+  "1eaf8b9e7970",
+  "c76ccddd3de0",
+  "c4a9a326d7f4",
+  "332dce6cc0df",
+  "ea4336c525bc",
+  "b4464cd93fa3",
+  "0dce07f279de",
+  "0be1ec877f7a",
+  "8935505ad68d"
  ],
  "news": [
+  {
+   "title": "Congressman Neal weighs in on Trump’s tariffs, looming government shutdown",
+   "source": "WWLP",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF94Wi1DbWI4Tl96T2lNX0IzZERIbjAtUnpsMUhPbVVzYmQ1a2R4Q050OUQ5VkJFQU9VRG1oVUh2Z0VsekNIZGFvckQ3NGQ1YWdBQjBseERiYUJnUHZQdGNyNjVyRFBEdlo5NVNhY25UWW9UMWVIRE90S3FxRmctU0pqWkQzb05GeTFtc0Z4czBndTZUeldxNzAwRFVTMkVValk5V2M5LWNZYTVNV2RSbEoxONIBuAFBVV95cUxNSVQ3LXJhTHkzRTk4d25FZFVXNXk0Nl9iTzVkVW1lQ24tOHhRU0d3djJFUDliMVNacFJhX1dfVGFDaVhzVERyOFNHTHlNb2YzejlBRTZXbE5GN3VfeTBzUDlQOVQ5WHVDMnlERERHUTB1SVVCakd1NUR6aXg1N3ZUMjBWTTlKdFFjNnpIMy01YzdkWTdOTXNXVS1zN0ZSYk1LZ092RUtVSFp3LVZqOFJwcjVIRzlKcEZO?oc=5",
+   "published": "2026-11-20T00:30:18+00:00",
+   "id": "332dce6cc0df",
+   "impact": 2,
+   "cat": "politique US",
+   "raison": "Risque de shutdown budgétaire et incertitudes tarifaires soutenant modérément la demande refuge.",
+   "method": "IA"
+  },
+  {
+   "title": "Dollar-yen stalls just short of 160 barrier as Anthropic IPO fails to lift U.S. stocks, fueling yen buying",
+   "source": "BigGo Finance",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VQ1lJUVlveTlGZGtRZ0FBUGtIaG8yekw3SmNzTVJaVnNXVDJuVkpWQ0hmZ0NMTHh2YTJWUmNTRE5SczY5VGhQNVNmWTJBT0J0dzJNR1FVSV9CX2haQ0o1bngteTc2RXFFcGRYTEdIdWgyc1lvM3c?oc=5",
+   "published": "2026-11-20T00:25:00+00:00",
+   "id": "b4464cd93fa3",
+   "impact": 2,
+   "cat": "dollar",
+   "raison": "Repli du dollar face au yen et aversion au risque actions profitables au métal jaune.",
+   "method": "IA"
+  },
+  {
+   "title": "Trump’s trilateral draws backlash from Republicans and Ukraine allies",
+   "source": "Politico",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnhZLVp2Y25hNHlIRGk5TVpEUWlKcmFIN2xyUnZkWHFyTEJRTFhReVFmeENkdTJrMUxia2s5LVdzSnI1UHBmM2h1MVlRYUtCQW53MFdhWlFwb3NKTGpCaFNuV1piUjRSUl9kSWdic19ZaTIyVGdXRUFzS2ZiZXNoN09McmhuNHBoLWVkWlhIaWVKUEdkYVJUcHdrSS1ya1QwQ3RjcA?oc=5",
+   "published": "2026-11-20T00:06:00+00:00",
+   "id": "0dce07f279de",
+   "impact": 1,
+   "cat": "géopolitique",
+   "raison": "Frictions politiques autour du dossier ukrainien entretenant une légère prime de risque géopolitique.",
+   "method": "IA"
+  },
   {
    "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
    "source": "Al Jazeera",
@@ -4233,6 +4269,30 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Perspective d'apaisement en Ukraine réduisant modérément la prime de risque géopolitique.",
+   "method": "IA"
+  },
+  {
+   "title": "The Inflation Fight May Be About to Turn Painful",
+   "source": "WSJ",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0taZlpLMjZNSHV5LVZIWktScXlHVHB3Ri1SMElOR3UycjRibjRfTUM1Y05nQW1SYkljelpjVkdkaGFXRVQyeHVpZTB1T1h1SWQwNHRPTUlTTUJFS0tFVHR1R0c5M1ZLWWlxYmN0aEVqSzZRYkROWlhqTEo2Q2daZEZ2S1lwaDAwRV9lU1lGcEgyM00yOTZBVW9MYw?oc=5",
+   "published": "2026-11-19T23:40:55+00:00",
+   "id": "ea4336c525bc",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "Perspective de taux restrictifs prolongés pour mater l'inflation, pénalisant l'or via les taux réels.",
+   "method": "IA"
+  },
+  {
+   "title": "Israel’s ambassador to US says the decision to strike Iran lies with Trump",
+   "source": "Middle East Eye",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUpsQjNRSmFSN3djcTdXSGh4Z0dON0tJZUNoUy1aWWVrVTZOUndQTkF5MWhaY0JZUGNfU21YeFptSjUtZXVIaENDTWNPMndfenJQWk0xazhCZndaQWVRdDd5em9SVUN0Z0N1M1RoM0c2TFBJWHdBMzIzUWxweVR0dzZuQ3NNVGZnSjRIMzRscUNrNGdzRy0yRHNOZ1dRLWlSUTBGUjJHTmJzYTBaRHc2S3ZRVUdfdw?oc=5",
+   "published": "2026-11-19T23:40:00+00:00",
+   "id": "1eaf8b9e7970",
+   "impact": 4,
+   "cat": "géopolitique",
+   "raison": "Risque d'escalade militaire majeure avec l'Iran stimulant fortement l'achat de valeur refuge.",
    "method": "IA"
   },
   {
@@ -4869,6 +4929,18 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Hésitations américaines réduisant le risque immédiat de frappes militaires contre l'Iran.",
+   "method": "IA"
+  },
+  {
+   "title": "Crude Oil Prices Edge Higher on Fears of Escalation in US-Iran Conflict",
+   "source": "Barchart.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakVQNFFWQWc4WldBSkN0LThtZkZvejcxRDBIb3U5bGoycEJUYWNaRDJPbXlNbVdudUVZX1drX0xmSzVsOGpPWGdWbi1lMk1CV1U0S2tOYkFIZVhleU0xa0dIeWJ6aW42Zlk0X29WNU1sdXBvWF9rQkVUcllJVVF4dUtNd1JUUHpDakh1S0lvVFgzN2xZUnFUdmVRZFlxRnloZ0JXZFJmbi1NUk0zV25iWF9JamNGdw?oc=5",
+   "published": "2026-11-19T16:38:30+00:00",
+   "id": "c76ccddd3de0",
+   "impact": 3,
+   "cat": "géopolitique",
+   "raison": "Tensions géopolitiques au Moyen-Orient et hausse de l'énergie alimentant la demande d'or refuge.",
    "method": "IA"
   },
   {
@@ -5724,6 +5796,18 @@
    "method": "IA"
   },
   {
+   "title": "AI is Worsening Inflation and Making Things More Expensive, IMF Warns",
+   "source": "BeInCrypto",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40THZyMmJTSlhhZnl1bUZyU2RpWUxRSmdOTDA0cDRESGFqd2hhSGI5OG1GaHFSbl84ZmV1endZTmdQa2cybHBma0hCWjVCcXhSYkhZMmlJY0lJUV9DVkMwSXNKdmxPbTdLaF9PZHZ6NWx3Zw?oc=5",
+   "published": "2026-11-19T05:56:58+00:00",
+   "id": "8935505ad68d",
+   "impact": -1,
+   "cat": "inflation",
+   "raison": "Pression inflationniste suggérant des politiques monétaires plus dures, pesant sur l'actif sans rendement.",
+   "method": "IA"
+  },
+  {
    "title": "Oil Steadies as NYT Reports Trump Is Weighing Fresh Iran Strikes",
    "source": "Energy Connects",
    "theme": "Trump / Iran",
@@ -6537,90 +6621,6 @@
    "impact": 3,
    "cat": "banques centrales",
    "raison": "Achats institutionnels et prime de risque moyen-orientale soutiennent les cours.",
-   "method": "IA"
-  },
-  {
-   "title": "Jeffries, Who’s Pledged to End Trump’s War on Iran, Says “No” on Defunding It",
-   "source": "Truthout",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjRHTU5TTWRveWx0M2tqSG9UcC1nd1hxWGVpellEZjRfSGdSdVBBQUNhemFUOE5Cd2pzYW5ObVMtUXppbnc2LUNfUkRRMVF1eWhldFAxX0RGYUV1enU4Y0pmMUlWSW1HcktZcm9seG5VSnBCRnd0SmhJV3c1YVVEZmwyd0VjNXBlQ0lVQmRZaGpsVEVjTlFHY1dqYTl6ajhGNnljUQ?oc=5",
-   "published": "2026-11-18T18:53:34+00:00",
-   "id": "b8a0c5a36823",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions géopolitiques persistantes avec l'Iran maintenant une légère prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump-Vance tensions grow over Iran war as Marco Rubio emerges as 2028 favorite",
-   "source": "The Jerusalem Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90R2lMaWlCR2NDVTBBS01zNUJHb1dTQl81U2NyMDdsZlBxWnJuTVBYX0FIMXlqTDZzOXhMNkY3ZXlGRWwzT2JsbHVpSUVEN3lVbjRUWW11XzZjd1VmYkl4M0R6d0s?oc=5",
-   "published": "2026-11-18T18:46:49+00:00",
-   "id": "38f187f445ab",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Incertitude politique américaine autour de l'Iran alimentant modérément la demande refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "US Dollar Index balances hawkish expectations against overbought signals as Fed minutes take centre stage",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMk41ZEFOZ3FuVm42bkVTRGZMNlhDUmhJQ3dNbUc2SGd3R1RhejFiVm5CRHk3R1ozSTV1Nktvc1g2V1F1VGwtT3hwdEtManBPdVEwSks2N0VWWEFlSzRKNGxtMGpPMXdWQmh6ZGdUcEU3dFRZaFNYVTZoNlVjNkhTSDFRaHU4VVZFLW5hYlVyMjE1ZHdabG4zU2x1RVRjZ0VCQXBlMVIyRnUtM1dDYnNFNzlwWE5IVWYzUXpDenJ6a1d0NzJtZGNQOV9yWm1sZXZ4cnlaTXp2cllKWGhkVVFqYU44NTJfZmhh?oc=5",
-   "published": "2026-11-18T18:46:16+00:00",
-   "id": "51b668f79394",
-   "impact": -1,
-   "cat": "dollar",
-   "raison": "Attentisme face au dollar fort mais techniquement suracheté avant les minutes Fed.",
-   "method": "IA"
-  },
-  {
-   "title": "Waller Urges Half Point Fed Rate Hike to Fight Inflation",
-   "source": "Limapagi",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12czF2dWxKMlZycTdBdkR0U1JzV0pTUlR5QVp1bHNTcXBDemdlbXIxUDdjLVIyazZnb2t0Y2s0TVFONkJVNVB1VFBYT0xvd1o0eEE1UWJ6VzVmbS0yOFg4QnhvZUFTbWNwdGc?oc=5",
-   "published": "2026-11-18T18:43:00+00:00",
-   "id": "d32488f90990",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "Appel d'un gouverneur influent à 50 pb de hausse : choc haussier sur taux réels.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China",
-   "source": "Fox News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkpOdlB0QTkxRnY2WXJ5bmJsYkJ0OUc2UFcyb1JfVFFvOEM4QzYxT193My1DeWoyeGlscHNwelNJMlRkdHI0YzZXTXNxM1Z5NE95NDRaZnB2VUNwcVB2Y1F5ckdycDBOTU1mN0t2QVk3WDVTTm9zdzVkZmFydlFfRE5zWEhlWnpMUGtpMzYyUEtPY3oyTFdRbTlycExMUFhmU3VvUDZUSWg5QTZpNk5CNmdVYWVkWWo0WkJlZdIBwgFBVV95cUxPUFNsZzRZREVadllKd1pfdUpheVkxNXpwYWdWZDJmblZpYTllanhhSjUteDRBTml5Ym9FSHJUb2lhUmRPMy1QbUYtcGFIOTBXSkJXcjhXcW81bHl3Zk0xb2o2aEcxM3pHUEE5MnM1bnZJNURqM3M0N0NGUm0xSy00VlFOYkE5U0o4cEU4YUx3bnZqUzR2STZMb3M0QkhiTHpwWmU0UFhqNGxYWjJwaXhKTUVrMloyU2RVSXJYQk9ldllHZw?oc=5",
-   "published": "2026-11-18T18:32:36+00:00",
-   "id": "be2b570c476c",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire touchant les infrastructures énergétiques russes, soutien pour l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump warns Iran over reported dirty bomb | FOX 5 AT 6AM",
-   "source": "FOX 5 DC",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CbzFrbHNQM2s1dnpCVFM2amNmSlhjWU5rSWZieVhKanBGNFFQaUMwa0stOWhEaTBmS1RDbC1XdFgyU3hNM0pUMWROc2NtcDhBeGVsdnpWVXc2YVNyaHfSAWNBVV95cUxOa0lwaDl5MExBRVJ5NWNIdnZmcHBuYnZmdGpvdnVCYzhWV1UxaUd1dWFtUHNyMlVCSnV1VXhKN3N4dGJlNkFsTkFPa2F3ZFZpMGphWFNKMy1xYUJPcjBORDVSb28?oc=5",
-   "published": "2026-11-18T18:13:51+00:00",
-   "id": "30cf6badec1b",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Rhétorique nucléaire alarmiste stimulant immédiatement les flux vers les valeurs refuges.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil Retreats from Above $100, but Set for Weekly Rise on Middle East Escalation",
-   "source": "EnergyNow",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1VycV9hcUFfSGt0eFFlWXVoQkZVNkFGWk1QWGdCdG9NUFRZNDIzQWxPcTdOTndnNHg4THhjSFJXSmh4R003UUNtelhoc18xM1RQQTRyNWxLWVhEaFpZVEhZUDBFeGs3dWx4ODF4QU9rYjE3TDBOWU85RjdzdG9xM3pLUXRTMC13Zy0yQ0NyazhlYl9jVXNydGRzS2Zwb1JHRi0taVFMd0dxQ1k?oc=5",
-   "published": "2026-11-18T18:05:19+00:00",
-   "id": "c77fffee6a85",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions persistantes au Moyen-Orient compensant le léger repli technique des cours pétroliers.",
    "method": "IA"
   }
  ],
