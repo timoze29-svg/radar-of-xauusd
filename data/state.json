@@ -1221,9 +1221,6 @@
   }
  },
  "seen_news": [
-  "81569dc925e7",
-  "e44a41dd1684",
-  "b0566812956e",
   "0b0557ed9d06",
   "5e7280d449ec",
   "715a73f96dfd",
@@ -4220,21 +4217,12 @@
   "4466ff01b4fb",
   "9d0ceb1ad6c6",
   "f40cdca97e02",
-  "7c50b6ef36db"
+  "7c50b6ef36db",
+  "dc9cc17d27f4",
+  "273249b5756e",
+  "a7f88cd65ced"
  ],
  "news": [
-  {
-   "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit",
-   "source": "The Daily Beast",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxXVW5SSkw3RjBobFp4T0FQMUNmbFhVZ1J5dHR6NHFFVnpBam11dVNTNHZpY1liQTZlam9QZHBGVlZ6dWlmT28wc3NiUFF4UlQ1S0R3ZlpvSmo2YVVNdktadHhIT3FKc25pXzd6RnA1NndxT18tSGZSOWJ6ZDZieVdJRVlVQV95U1c3NFBCX3ZnZFhqMXhTQkdPdFE?oc=5",
-   "published": "2026-11-20T02:06:00+00:00",
-   "id": "7c50b6ef36db",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Canada auto plant the 'front line' in Trump's trade war",
    "source": "France 24",
@@ -4281,6 +4269,18 @@
    "impact": -2,
    "cat": "fed",
    "raison": "Anticipations d'une Fed restrictive pesant sur l'or via des taux réels plus élevés.",
+   "method": "IA"
+  },
+  {
+   "title": "Japanese Yen strengths as inflation data reaffirms BoJ rate hike bets",
+   "source": "FXStreet",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzR0Qi11WXY0V0dTX1FDSVJUcGxKZkxKblZfdU9VbVlpNDNuLVRtdlJ3RG53eWlyZkxpUzEyZHd5emtzeE9ZUlNISWRDMVZHbnlmYTMtZVZ3aUM2UmdBSlpfcWRlNmV5TS1zRXF4ZmdYTURPaDZlcnB6MTJpY0N4RnpDZmVfT2lOdWx3aEE4SVc1Uml2andXck80cWo4anlnYTJLRDBpbWhxRmZSbHY2RkJR?oc=5",
+   "published": "2026-11-20T01:20:30+00:00",
+   "id": "273249b5756e",
+   "impact": 1,
+   "cat": "dollar",
+   "raison": "Un yen plus fort affaiblit le dollar, offrant un léger soutien à l'or.",
    "method": "IA"
   },
   {
@@ -4617,6 +4617,18 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Pression pour frapper l'Iran, ravivant les tensions géopolitiques et le statut refuge de l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "China pledges friendship with Taiwan amid tensions over US bill",
+   "source": "Yeni Safak English",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1dSWHVUcXE5RjRaQ1YzQ1VaVlhwUjV0eVh5c2Rvb19nM1V5SGZibVFiSjNrVktsa1pocVI5SmxKUHB2UDl2bTJBcXV6REt6cHQzYUNPT1VsV3M2OU9hVXlCYnZKV0ZFQnFSbjJaWGJpRnBhVXhtNmtGSWFYYllaMDExUXlSbHNBb2tJWjVNdE9Zbl9MVWpseDh3aGR4N0JEZ0hDVg?oc=5",
+   "published": "2026-11-19T23:31:31+00:00",
+   "id": "a7f88cd65ced",
+   "impact": -1,
+   "cat": "géopolitique",
+   "raison": "Rhétorique d'apaisement temporaire réduisant à la marge la prime de risque géopolitique.",
    "method": "IA"
   },
   {
@@ -6609,18 +6621,6 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "Incertitude tarifaire et frictions commerciales maintenant une légère pression inflationniste.",
-   "method": "IA"
-  },
-  {
-   "title": "Israel's Spy Chief Urged Trump Officials to Strike Iran",
-   "source": "Yahoo",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3hsbnBMZi1tN0Q3YXZRbmJiSHRDUGVQTG41MTd3M3hpOFNOR3l4a2lSLU1UTUEtZnNOVF80anRBNDVrWHVtTmJ0eUFTU0ViMDNOZEo3alpHWWhxTGgyd1VTTl9jUkhmb2xDcUtiS1MzWGc0UjE0OTFoOVJONVNIbVNJTXlINVNvOVNiR2NVbUpWZUk?oc=5",
-   "published": "2026-11-18T23:25:20+00:00",
-   "id": "a49c1a48397e",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Pressions israéliennes persistantes pour des frappes soutenant le statut refuge.",
    "method": "IA"
   }
  ],
