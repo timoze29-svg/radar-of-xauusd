@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795137346.1782074,
+   "ts": 1795140948.5170612,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,7 +1221,6 @@
   }
  },
  "seen_news": [
-  "91f0f6655b7f",
   "81569dc925e7",
   "e44a41dd1684",
   "b0566812956e",
@@ -4220,9 +4219,22 @@
   "2eb0a31bce0b",
   "4466ff01b4fb",
   "9d0ceb1ad6c6",
-  "f40cdca97e02"
+  "f40cdca97e02",
+  "7c50b6ef36db"
  ],
  "news": [
+  {
+   "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit",
+   "source": "The Daily Beast",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxXVW5SSkw3RjBobFp4T0FQMUNmbFhVZ1J5dHR6NHFFVnpBam11dVNTNHZpY1liQTZlam9QZHBGVlZ6dWlmT28wc3NiUFF4UlQ1S0R3ZlpvSmo2YVVNdktadHhIT3FKc25pXzd6RnA1NndxT18tSGZSOWJ6ZDZieVdJRVlVQV95U1c3NFBCX3ZnZFhqMXhTQkdPdFE?oc=5",
+   "published": "2026-11-20T02:06:00+00:00",
+   "id": "7c50b6ef36db",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Canada auto plant the 'front line' in Trump's trade war",
    "source": "France 24",
@@ -4242,10 +4254,10 @@
    "link": "https://www.winnipegfreepress.com/business/2026/11/19/tariffs-upend-holiday-season",
    "published": "2026-11-20T01:30:00+00:00",
    "id": "2e39eca6c312",
-   "impact": 4,
+   "impact": 1,
    "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
+   "raison": "Incertitudes commerciales et risque inflationniste modérément favorables à l'or comme couverture.",
+   "method": "IA"
   },
   {
    "title": "Trump , Xi and Putin hold rare 3 - way talks on nuclear risks but deliver no breakthroughs",
@@ -4254,22 +4266,10 @@
    "link": "https://www.kpcnews.com/article_e0c406b0-e630-5059-b132-ffa5d668f70f.html",
    "published": "2026-11-20T01:30:00+00:00",
    "id": "98aab1979f7c",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "US sanctions heap pressure on Aussie bikie  world boss",
-   "source": "maitlandmercury.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.maitlandmercury.com.au/story/9395079/aussie-bikie-world-president-cops-us-cartel-sanctions/",
-   "published": "2026-11-20T01:30:00+00:00",
-   "id": "2eb0a31bce0b",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Absence d'accord nucléaire maintenant une prime de risque géopolitique résiduelle sur l'or.",
+   "method": "IA"
   },
   {
    "title": "Ringgit Holds Ground Despite Hawkish Fed Expectations",
@@ -4566,10 +4566,10 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaDJOakhVVnVOMmVma0kxYTNVZDAyZkF1ZjF4QXpLb1ZhVF9FVlRfNWZxTndhN1Rwa3h0aTRPMzd1VFBVRVVIUGlWaXdXTDAwcy1mRTg5UE1hT2Q3RmVVemJSZ3gwQXgxemg0ZmgyVFNXS2dQNms3ZEN0dm1GbEp0MXRzZE9JSDVJS3FNMDYxZmRTdWlCWjBEMXBiTml6R2lGQnZISEcycHFPRzV4SkI4djVJZjItendHWEJfMG96S1VFMHJCcUJkX2JvcjVTeG8xQy1fcHI0T0R3NUUyN2FQUUxSWHRkQQ?oc=5",
    "published": "2026-11-19T23:42:00+00:00",
    "id": "4041bc3fa40e",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Report des frappes contre l'Iran allégeant la prime de risque géopolitique immédiate.",
+   "method": "IA"
   },
   {
    "title": "Russia launches mass missile attack against Ukraine after Putin vows revenge",
@@ -4806,10 +4806,10 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
    "published": "2026-11-19T20:50:00+00:00",
    "id": "856b47e80683",
-   "impact": -8,
+   "impact": -5,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Dollar fort et craintes de durcissement monétaire augmentent le coût d'opportunité de l'or.",
+   "method": "IA"
   },
   {
    "title": "Trump says he won’t strike Iran again before 2027, as Israeli envoy says Israel may ‘go it alone’ against Tehran regime",
@@ -5106,10 +5106,10 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NEFPaW1OWGJpajkySkhPNWhYZktCcmFwb2dGYldxRVBFQlNuM3pCY0ZXOE1va0duWFdhRDd6VTg0TXVRTXdMQ3kzZ2syQ2ZBNjZxY2Z3?oc=5",
    "published": "2026-11-19T18:50:02+00:00",
    "id": "ecb2aac6a8ad",
-   "impact": 8,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Temporisation de Trump réduisant le risque d'escalade imminente au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Gold prices could fall another 5% to $3,500 as Fed tightening fears grow – Razaqzada",
@@ -5610,10 +5610,10 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PMFVGeWVuYzNJWGRkamxMcDczc09VWDR5VkdEcXFJSHBKeEEwY1ZZQjVQMFBGY01oSk11aV9vQUd6TEhGUUtHLVhJWFZyZE1IV2NtY0xQZmtjN2owRGVxR2JNTVRYNDVBY3BHS0N5eDBpbEFf?oc=5",
    "published": "2026-11-19T13:06:34+00:00",
    "id": "b82f9402a603",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menace accrue de frappes majeures stimulant fortement la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Oil prices rise as Middle East shipping attacks counter supply surplus outlook",
@@ -5670,10 +5670,10 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOU1qMGxDcnlJbjg4eEJzbU82Z1pWSndxeUJSMXlPR1pRVmVMRlZUSUFfSFNlRU42RUxna3RPTUtuM1RURURWZlVaZHBmOFJPTVJDdU1KeWJYZUdhb0dLMmE5U2w1NzlPRWx1QjNNNUNvMUdnQ3JkblRhTXVuNnJEdnJZcWpZLUtJY3RPbWlZWURFNm5SV29QbkFQbTVqMTZTcWdOaVE4Wl9Rck9tYXIzOFQ2ZnlMZm5BY2d4YmtsZTBneXY3a3lGMHZTLU9kbjFKRC1ySlJtTkxqX2pSVnJfc29odEd0czVvRlJmNXVJcjJ6RjMtSHl5NGJJYnFfOGlwdUHSAYcCQVVfeXFMTXRtYTJOalJZLWhaaDFhUFJGdFh6d0xTV1VCcDV3amU0eUNYV0RFVWpjT01jTXZZOUxQbk91Y1MzanhvUmxQeVI5blN2LU9XVzU3UXRTS1VObjdJZ2xpNHlHMG03UlY2U1hwZGphbmREQlBsWm0tSnlDczZESU1GX3ZfaW5aSG1XU3FOWVk5c0F4U0hIQ3J3S3pVSmZra2ZSNk1FbTdZaGs3a3FGa2NlTmMydms4aTVlZE1IUEhXMEtMYm5jUDhYTVBnUmhDLW9QdGp4S19yNUt6NnZGdkhWeXJnUnFLV3NkTExINllKcWxZX2hMVzVfeDI5bUQ3ejRyMTFYWjNhSWM?oc=5",
    "published": "2026-11-19T11:59:15+00:00",
    "id": "1b03591c6c8d",
-   "impact": -10,
+   "impact": -5,
    "cat": "taux",
-   "raison": "baissier or (fed, taux)",
-   "method": "mots-clés"
+   "raison": "Hausse des rendements obligataires et rhétorique hawkish de Waller très baissières pour l'or.",
+   "method": "IA"
   },
   {
    "title": "Democratic Congress Brings Budget Gridlock and a Tug of War for Gold",
