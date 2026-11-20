@@ -1232,12 +1232,6 @@
   }
  },
  "seen_news": [
-  "3f9018f0279f",
-  "c4f40e832dc4",
-  "36258e8be76b",
-  "c8c9e1b23e5f",
-  "11147e3a83ec",
-  "9fdf0b5dd6bb",
   "631ff257fe16",
   "a5427c208a23",
   "613bb0eee832",
@@ -4231,7 +4225,13 @@
   "2462d8980b3b",
   "a6cb482e4628",
   "864e23d0965e",
-  "b288526074c3"
+  "b288526074c3",
+  "96c68632138e",
+  "ceca147b5f97",
+  "aa7dd4035854",
+  "82dbcb500299",
+  "2a01e1cd0d7e",
+  "37b59c56ec88"
  ],
  "news": [
   {
@@ -4422,6 +4422,18 @@
    "published": "2026-11-20T21:45:00+00:00",
    "id": "a6cb482e4628",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel braces for surprise Iran attack as US weighs strikes",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMEI0ZHEyNW04NnhCVVNRbE1KRE9FWVFOZ01UWWgyYnFMRXBaSGhsNU4wMEpOQzdYZnhQUGZmRnVyN21fUExuZHhJMFQ0T2JaNUM0M0FR?oc=5",
+   "published": "2026-11-20T21:34:29+00:00",
+   "id": "82dbcb500299",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6621,26 +6633,9 @@
    "cat": "géopolitique",
    "raison": "Perspective d'apaisement en Ukraine réduisant modérément la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Pushes Iran Strike Decision to Next Year: 'We've Got Time'",
-   "source": "Haaretz",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaDJOakhVVnVOMmVma0kxYTNVZDAyZkF1ZjF4QXpLb1ZhVF9FVlRfNWZxTndhN1Rwa3h0aTRPMzd1VFBVRVVIUGlWaXdXTDAwcy1mRTg5UE1hT2Q3RmVVemJSZ3gwQXgxemg0ZmgyVFNXS2dQNms3ZEN0dm1GbEp0MXRzZE9JSDVJS3FNMDYxZmRTdWlCWjBEMXBiTml6R2lGQnZISEcycHFPRzV4SkI4djVJZjItendHWEJfMG96S1VFMHJCcUJkX2JvcjVTeG8xQy1fcHI0T0R3NUUyN2FQUUxSWHRkQQ?oc=5",
-   "published": "2026-11-19T23:42:00+00:00",
-   "id": "4041bc3fa40e",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Report des frappes contre l'Iran allégeant la prime de risque géopolitique immédiate.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|0c0ab8881f6b": 1793396762.1052988,
-  "news|b5424cb06e28": 1793398933.489386,
-  "news|3e55d1008773": 1793398934.3600585,
-  "news|a5605c0a58b3": 1793400366.6855762,
-  "news|8a93450fb279": 1793401292.4689176,
   "news|055f1dd75ced": 1793403089.0923648,
   "news|4fd527b30b4c": 1793403967.3403358,
   "news|6c86b92bedd3": 1793404896.9319482,
@@ -8538,7 +8533,8 @@
   "news|6233fa036293": 1795207568.6595004,
   "rep|recap|2026-11-20": 1795208501.4998274,
   "news|9ad69726aacc": 1795209370.0637732,
-  "news|8c52089ee864": 1795210351.2191987
+  "news|8c52089ee864": 1795210351.2191987,
+  "news|82dbcb500299": 1795215706.8584023
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9026,6 +9022,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T23:01:46.858492+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel braces for surprise Iran attack as US weighs strikes</b>\n📰 Ynetnews · Ven 20/11 22:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMEI0ZHEyNW04NnhCVVNRbE1KRE9FWVFOZ01UWWgyYnFMRXBaSGhsNU4wMEpOQzdYZnhQUGZmRnVyN21fUExuZHhJMFQ0T2JaNUM0M0FR?oc=5"
+  },
+  {
    "ts": "2026-11-20T21:32:31.219303+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US Vice President Vance declines to say he would have ordered Iran strikes</b>\n📰 Reuters · Ven 20/11 21:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5"
@@ -9319,11 +9320,6 @@
    "ts": "2026-11-20T12:07:55.683331+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price crashes 36% from record high as Fed rate hike fears intensify</b>\n📰 Beinsure · Ven 20/11 10:58\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1JTTAtMmdoZmhoemR3dll6THFLRjgzYnhHYU5wOVRnVFJ2VF9hYUtoTUEtWGJUaWdGWWczVWg1NTVHOHl2cU9DNlJBekdadU9xdmpIeTd1TFh3WmhRSU11bTNoaXpWa3AySXZsV3dobw?oc=5"
-  },
-  {
-   "ts": "2026-11-20T12:07:52.670284+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US could launch joint strike on Iran within two weeks, former Navy chief predicts</b>\n📰 The Jerusalem Post · Ven 20/11 12:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9VaDR3cGtCckhHamdYMG0yYlFYamFadlp1MEFMUlBSbmpJb1RWdjVDMzUteWVnWlYyVE9KRV9pQzJiMTdnNGNONS0yTzFMN3VlYTQ1eWhyTGxmS0dyOXYxOVJnbzBSZ202X2c?oc=5"
   }
  ],
  "daily_forecast": {
