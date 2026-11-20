@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795181473.0112655,
+   "ts": 1795185074.899058,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1011,6 +1011,17 @@
      "gold_weight": 6
     },
     {
+     "title": "President Trump Speaks",
+     "country": "USD",
+     "impact": "Medium",
+     "date": "2026-11-20T12:00:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "",
+     "gold_weight": 4
+    },
+    {
      "title": "FOMC Member Cook Speaks",
      "country": "USD",
      "impact": "Low",
@@ -1221,11 +1232,6 @@
   }
  },
  "seen_news": [
-  "a6b748a538ae",
-  "80ebd00cce14",
-  "3cde2b9289c2",
-  "84a0b633d59c",
-  "100cfbbceb3f",
   "80edbf1017ef",
   "a9902ae9046c",
   "93c5585ad746",
@@ -4220,7 +4226,12 @@
   "be4980cd1a02",
   "f154bddcecaf",
   "eb9d99566273",
-  "1d626f2ab766"
+  "1d626f2ab766",
+  "0e608ff3942d",
+  "2b107095bcf0",
+  "00dcc8e319f8",
+  "e60b56d8443f",
+  "d9c3843027b1"
  ],
  "news": [
   {
@@ -4231,6 +4242,18 @@
    "published": "2026-11-20T13:53:33+00:00",
    "id": "ceb591118fb2",
    "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel, US consider Iran attack as Democrats seek funding ban",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrbGcxNU1fbk55WnJLbmh5ajQ0NDVWSWR5TmFZTDV4MW1hMUZwLTkxMldzSHhVLUtHd1ZLQ0I1b1pHX2gtREh4RHVGSHhhRjBXNnY5cXRYMEY1a25Rd09YQTRKX2FISWVEZFE?oc=5",
+   "published": "2026-11-20T13:51:00+00:00",
+   "id": "00dcc8e319f8",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6610,18 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Tensions géopolitiques au Moyen-Orient et hausse de l'énergie alimentant la demande d'or refuge.",
    "method": "IA"
-  },
-  {
-   "title": "After Putin talks, Trump tells Europe it could save lives and cash if Ukraine war ends",
-   "source": "POLITICO.eu",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHlfQkZyMGRXeTNJY1N3azV6THBOREQzblNTUWR2eG9ZdE43QzV2aUVWd1J0VlMyd2NMN3dHRUFQNll5RDFuVHZwZXRxcFNfeUVHT293a0dwUG1tcDhXX1pGeDRVSGtYb092RWVoc3hVVGxwc2xpRy1lbjRqall0UWVaeElfMGVXc0xQcVlfVEgzUy03cEc0Zm5ROU92dkQ0WnV1THBNQW8zOGt5bWR2czdCVHo4Nm8?oc=5",
-   "published": "2026-11-19T16:38:00+00:00",
-   "id": "9c866958d5e4",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Pression accrue pour clore le conflit ukrainien, érodant la prime de risque associée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8513,7 +8524,8 @@
   "brk|US10Y|pdh|dn|2026-11-20": 1795182371.4756322,
   "post|2026-11-20T08:25:00-05:00": 1795183401.9432282,
   "news|ceb591118fb2": 1795184187.8889573,
-  "news|8e006fb335f6": 1795184188.7819057
+  "news|8e006fb335f6": 1795184188.7819057,
+  "news|00dcc8e319f8": 1795185106.197226
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9001,6 +9013,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T14:31:46.197340+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US consider Iran attack as Democrats seek funding ban</b>\n📰 The Jerusalem Post · Ven 20/11 14:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBrbGcxNU1fbk55WnJLbmh5ajQ0NDVWSWR5TmFZTDV4MW1hMUZwLTkxMldzSHhVLUtHd1ZLQ0I1b1pHX2gtREh4RHVGSHhhRjBXNnY5cXRYMEY1a25Rd09YQTRKX2FISWVEZFE?oc=5"
+  },
+  {
    "ts": "2026-11-20T14:16:28.782036+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff</b>\n📰 Bloomberg.com · Ven 20/11 14:48\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5"
@@ -9294,11 +9311,6 @@
    "ts": "2026-11-20T00:02:51.366449+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit</b>\n📰 WSJ · Ven 20/11 00:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2poV3JYSVEtZHRZTmlXWXNpcUR6VEVZUnZEY01xeTB0WlhhMUVvTngyM1YwMHRieTY0R0lnMjhsWEJwa2lsY1RvNkluUXlKQ0dlZXlwR2VSdV9OSGE0RVZsNUJSTkRheno5NGJnbG1TRk9waG1CMFhCV3FadzgtbmlsQzAwd0dfZHRRMkZMWkpXcmVmMG9neVhtZUxkMUlka2tVdTdNbjRhcm5TZmY2dWw4SUs?oc=5"
-  },
-  {
-   "ts": "2026-11-19T23:34:36.513283+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Hot October CPI Strengthens the Case for Further Fed Tightening</b>\n📰 The Conference Board · Jeu 19/11 17:16\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjJmcjluQklHcHprUWxhZTRyV2VXaFZuOUY4bFN3SDlqbk1NS3pybm5xdkpvM1ItVHJCT2hTYVNVOVdpalZnZmgxdG8zY2Rpdll4ZWdDd0VUMFd0SFVGLVpNRTRTMmxKeDVlN0piZmhGNEtxUjQ4QS1idzg1YjNBckhCX0tIN1Z4WlNXNGlMZW9oSWM?oc=5"
   }
  ],
  "daily_forecast": {
