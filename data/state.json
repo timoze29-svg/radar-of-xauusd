@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795172482.7193065,
+   "ts": 1795194954.1575015,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -1232,14 +1232,6 @@
   }
  },
  "seen_news": [
-  "25e125e48290",
-  "b2250d64bd42",
-  "56a9b1aa0666",
-  "caf2527e2043",
-  "a5bc2c1e6b99",
-  "7414fdb71d9c",
-  "fea33c0bd419",
-  "579ba62b1318",
   "16312645b1d3",
   "09513e8eebb3",
   "6f448c071fad",
@@ -4231,9 +4223,29 @@
   "73887f1ed6c0",
   "c17acc4d611a",
   "a0a5a3177f03",
-  "83d81dd04d5f"
+  "83d81dd04d5f",
+  "f8cd6e9cabac",
+  "c8bcaccfa9f5",
+  "4670b9f4da4b",
+  "9d58fcd972d9",
+  "e8a9aee748a7",
+  "d2f6bdbd2f1f",
+  "bd9b206609ab",
+  "64e5df97eb45"
  ],
  "news": [
+  {
+   "title": "The escalating standoff between Iran and the U.S.–Israel coalition,",
+   "source": "TV7 Israel News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMUFONmtBdUt6ckJUcUtvMlg0QUtPUGRibkRQV1ZWWnF5bnhLRnljNlJRaFVkZjVLWFBieVhzOHJfRlhnaGw5aFBHd2h5RFlhZFNLSWxFNmN0d1RvSVQ3TE41d0V3Nzd1dWJzZFlHY3dPWU9kQTgyN0dyTQ?oc=5",
+   "published": "2026-11-20T17:00:47+00:00",
+   "id": "9d58fcd972d9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
    "source": "AP News",
@@ -6621,24 +6633,9 @@
    "cat": "inflation",
    "raison": "Choc énergétique durable et risque de stagflation favorables à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "There is no going back  to the way it was before  the Iran war energy shock , IEA says",
-   "source": "ksat.com",
-   "theme": "Géopolitique",
-   "link": "https://www.ksat.com/business/2026/11/19/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says/",
-   "published": "2026-11-19T19:30:00+00:00",
-   "id": "d7b8ad4bad42",
-   "impact": 3,
-   "cat": "inflation",
-   "raison": "Pressions inflationnistes persistantes sur l'énergie, soutien structurel pour le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|a51e94308a86": 1793380570.2222352,
-  "brk|VIX|pwh|up|2026-10-26/2026-11-01": 1793380571.643692,
-  "big|VIX|2026-10-30": 1793380572.613128,
   "news|13b378653881": 1793381670.9015355,
   "news|7b15540891b6": 1793382551.7006333,
   "big|COPPER|2026-10-30": 1793383313.1791983,
@@ -8526,7 +8523,8 @@
   "news|10511bd0b6e3": 1795193174.2352803,
   "news|3e7737d3bb10": 1795194109.0022893,
   "news|73887f1ed6c0": 1795194109.7505164,
-  "pre15m|2026-11-20T12:15:00-05:00": 1795194110.7049396
+  "pre15m|2026-11-20T12:15:00-05:00": 1795194110.7049396,
+  "news|9d58fcd972d9": 1795194985.0196862
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9014,6 +9012,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T17:16:25.019791+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The escalating standoff between Iran and the U.S.–Israel coalition,</b>\n📰 TV7 Israel News · Ven 20/11 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMUFONmtBdUt6ckJUcUtvMlg0QUtPUGRibkRQV1ZWWnF5bnhLRnljNlJRaFVkZjVLWFBieVhzOHJfRlhnaGw5aFBHd2h5RFlhZFNLSWxFNmN0d1RvSVQ3TE41d0V3Nzd1dWJzZFlHY3dPWU9kQTgyN0dyTQ?oc=5"
+  },
+  {
    "ts": "2026-11-20T17:01:50.704981+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Cook Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -9307,11 +9310,6 @@
    "ts": "2026-11-20T02:13:41.223300+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Likelihood of major US strikes on Iran rises as regional hostilities intensify</b>\n📰 Israel Hayom · Jeu 19/11 14:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1PMFVGeWVuYzNJWGRkamxMcDczc09VWDR5VkdEcXFJSHBKeEEwY1ZZQjVQMFBGY01oSk11aV9vQUd6TEhGUUtHLVhJWFZyZE1IV2NtY0xQZmtjN2owRGVxR2JNTVRYNDVBY3BHS0N5eDBpbEFf?oc=5"
-  },
-  {
-   "ts": "2026-11-20T02:13:40.345370+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu seeks green light to strike Iran; Trump: ‘I'm not rushing, we'll see after New Year’</b>\n📰 Ynetnews · Jeu 19/11 19:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NEFPaW1OWGJpajkySkhPNWhYZktCcmFwb2dGYldxRVBFQlNuM3pCY0ZXOE1va0duWFdhRDd6VTg0TXVRTXdMQ3kzZ2syQ2ZBNjZxY2Z3?oc=5"
   }
  ],
  "daily_forecast": {
