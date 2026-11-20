@@ -1221,11 +1221,6 @@
   }
  },
  "seen_news": [
-  "57b36cf50e1c",
-  "c4d0a8731a6b",
-  "72e5a76b68b8",
-  "88fb55b1b0b2",
-  "d3763a951d5e",
   "58470895536f",
   "2acd0da7fa9e",
   "51c652ce14ef",
@@ -4220,7 +4215,12 @@
   "b3cae97995b0",
   "62c2c8940ad7",
   "ff29e01b207a",
-  "6a43329fb356"
+  "6a43329fb356",
+  "5eb59ddf8cf7",
+  "a8adcfe20435",
+  "88be2e052133",
+  "fd08e02c51bc",
+  "9114330569d8"
  ],
  "news": [
   {
@@ -4350,6 +4350,18 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5",
    "published": "2026-11-20T07:40:34+00:00",
    "id": "0f2716eb9608",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hours after Trump reportedly says ‘tired’ Putin is ready for a deal, Ukraine hit with massive strikes",
+   "source": "CNN",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5",
+   "published": "2026-11-20T07:40:34+00:00",
+   "id": "fd08e02c51bc",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -5301,6 +5313,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "COMMENTARY: Here’s How Canadian Policymakers Should Respond to Trump’s Tariffs - Fraser Institute",
+   "source": "EnergyNow",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "published": "2026-11-19T22:54:13+00:00",
+   "id": "88be2e052133",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6432,6 +6456,18 @@
    "method": "IA"
   },
   {
+   "title": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes",
+   "source": "Naharnet",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVlRVDRGOUJTd1BXc243Smpva1lCRnlDZGFHWmpVa2tiTVN2SHVtY0tyd3RBaUNvVDIwMEpINW5pSmdrMTdFZnVhMU5Lakx1cEJnemV3Tzc3bXpzV0tGS0RER0lXV2ZrWnplMGpuZEQxLXJ5SFAxTVVHb2t3azdDbEYxY0VzY3BkaC1CWFJHS1BDNVhHTk5YeXR6ZTVrSTFfX1ctNVRYOVhNd2hfNE9xNlRSOU1xMnZtb284MVpyU2xzdw?oc=5",
+   "published": "2026-11-19T12:19:00+00:00",
+   "id": "a8adcfe20435",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "US Treasury yields rise as Fed minutes flag AI inflation risks, Waller backs bigger December rate hike | Hindustan Times",
    "source": "Hindustan Times",
    "theme": "Dette US",
@@ -6585,42 +6621,6 @@
    "impact": -1,
    "cat": "commerce",
    "raison": "Normalisation commerciale bilatérale diminuant légèrement l'anxiété sur le commerce international.",
-   "method": "IA"
-  },
-  {
-   "title": "WTI Climbs Back Above $82.00 as Middle East Tensions Escalate",
-   "source": "www.tmgm.com",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjVWbEFacGZ0Sm41empVZ1F1NG5jemdsdDBjOGw1MW9ZRENMWWpyZFlORy1aRW04Z2NsTndVODR4T0RSM1BzNDVNd0huSVN1TWNOWE9FREt0QVhZVnZPaDg5WkNya3hHTkdIRENQQnBFMmV2ODE5bWxPYXQ5b1poTWk5VkJPSmt2al9iQjBHWHRjQ2Z1R3ViR18xSEczQ2xzWnMtd1ZiMGVzcG5SVHZCeW5JWk5nRmtOdHFKRi1UZzhHNTdIR1E?oc=5",
-   "published": "2026-11-19T10:34:34+00:00",
-   "id": "23c0797a4792",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Rebond du pétrole alimentant les anticipations d'inflation et la recherche de sécurité géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "FCDO warns ‘risk of sudden escalation is high’ in Middle East",
-   "source": "Travel Gossip",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmkxVkxmVTNyaHVjSzVVQmhYdmotalZVQkhmV1FObDh4ekZBR0xEeUZjWVQ3SEx5TUxGMVlqYklDcmtyUVRXb09MSmVBcnpZcVJRRi1LMWladEJxekV4V3dnb1U2YmNvcFdONzlaR2ZVU1lxWmJPRmM2Y1g1Z2R5Mkhzc0N5eWRUR0VEVlZfZldORmdkeTN3TzA2Nm5wVVE?oc=5",
-   "published": "2026-11-19T10:14:38+00:00",
-   "id": "f0fd5a0dbd0d",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Alerte diplomatique britannique confirmant une tension régionale aiguë propice aux actifs défensifs.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine",
-   "source": "AP News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
-   "published": "2026-11-19T10:09:00+00:00",
-   "id": "718418196a1b",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Ouverture diplomatique tripartite inédite réduisant potentiellement les primes de risque mondiales.",
    "method": "IA"
   }
  ],
@@ -8516,7 +8516,9 @@
   "news|0f532ad18c6f": 1795166381.9816873,
   "news|55724a41f31a": 1795167980.071001,
   "news|7328254f286e": 1795169978.642712,
-  "news|ecef15c3cca5": 1795169981.2510304
+  "news|ecef15c3cca5": 1795169981.2510304,
+  "news|fd08e02c51bc": 1795171608.8528256,
+  "news|a8adcfe20435": 1795171609.6890867
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -9004,6 +9006,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T10:46:49.689226+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes</b>\n📰 Naharnet · Jeu 19/11 13:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVlRVDRGOUJTd1BXc243Smpva1lCRnlDZGFHWmpVa2tiTVN2SHVtY0tyd3RBaUNvVDIwMEpINW5pSmdrMTdFZnVhMU5Lakx1cEJnemV3Tzc3bXpzV0tGS0RER0lXV2ZrWnplMGpuZEQxLXJ5SFAxTVVHb2t3azdDbEYxY0VzY3BkaC1CWFJHS1BDNVhHTk5YeXR6ZTVrSTFfX1ctNVRYOVhNd2hfNE9xNlRSOU1xMnZtb284MVpyU2xzdw?oc=5"
+  },
+  {
+   "ts": "2026-11-20T10:46:48.852920+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hours after Trump reportedly says ‘tired’ Putin is ready for a deal, Ukraine hit with massive strikes</b>\n📰 CNN · Ven 20/11 08:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5"
+  },
+  {
    "ts": "2026-11-20T10:19:41.251149+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Will US strike Iran again? Trump says decision can wait until 2027</b>\n📰 Gulf News · Ven 20/11 06:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDREQm1lckJpeEFwZ1pNMmk0M1FVbHpieHpyWi1KZDBTTEljaEhKODhrNjVzcGpPallxdkN6ek9HdEpWX0pCNk1kUTR3QjZtNkdnTGxxXzgxSjlocGJBWGhQSnhoWVczNkRVZk9MWmUtOWhxc0gwaUhOVGxUWk5lRWdBZGJIT1RnVlcwMWF0RG9qMlVTU2s0MF9ZOWtRa0s4RXhPNC1RTnBHOFJGMjhFN0dZZ9IBxgFBVV95cUxNZzRBRDM1aG1QeTM2clhzX1ZPc3R4ODBIV3lUR2tLZU1VR3dwdDl4ck53VFhiTFkxMFQ1NDlLeEpITG1rMjJQd2JzYjgyY1JUWVBBb0t2Nm5Wclo0SzJ3MklqMk5PTXIyU3RZTUVMdXFyUDlmUmRZSVBpdUdmV3N1MDdZdlgtRGlHUlJpUl9fS3RXMG9iZHYxTzlZd2VRZXFEWjhwQWRKZTdQVEZlaVd5UXVsQkt2bERMTWVPWUZhYjl5NG9wNnc?oc=5"
@@ -9292,16 +9304,6 @@
    "ts": "2026-11-19T20:37:44.131459+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>22 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Barkin Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
-  },
-  {
-   "ts": "2026-11-19T20:37:43.149324+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 20 JOURS\nNiveau : 62 017 → prix : <b>61 695</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.37 | 60j 0.44"
-  },
-  {
-   "ts": "2026-11-19T20:37:42.162030+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 62 018 → prix : <b>61 695</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.37 | 60j 0.44"
   }
  ],
  "daily_forecast": {
