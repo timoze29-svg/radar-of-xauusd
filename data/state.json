@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795161678.1595998,
+   "ts": 1795165280.3015704,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1221,12 +1221,6 @@
   }
  },
  "seen_news": [
-  "85fcd854deb7",
-  "972681ec9a89",
-  "35d8622fd126",
-  "7a77d783c2b2",
-  "9c3db73952df",
-  "fa530984368c",
   "e7becc5691fc",
   "2d7782b96960",
   "5c9644ceccae",
@@ -4220,9 +4214,27 @@
   "fd708fc1b845",
   "cce3df80f07d",
   "4f91ccf17922",
-  "28c3bcaf0e0a"
+  "28c3bcaf0e0a",
+  "b512cc8330f1",
+  "b74d7215d59d",
+  "8c54d01bdb6b",
+  "a7b2baddf1ff",
+  "49e3016aada5",
+  "c9234e3982b9"
  ],
  "news": [
+  {
+   "title": "Japan’s key inflation rises to 2.2% in October and reinforces the option of a rate hike",
+   "source": "Demócrata",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHNRXzdvZDZfOGlTY3FjRHZveWFxNGNwMHdZeGRscFFhNWV6aC0zWGFIXy13UW9EZDNkczRUNnJ0d0xBT2dKM05QSy1SVnpxNWlpZkljU09HRGtGSmpuYzBwVzJZcnp4aXRlQjdNQS02SHNvWEdlU1JxU05vVm9ob1FQeWZ0cDhCUUxKTXRNcmJjb3V1Qk1oV1pGRFZYQ0ZsZEhzdmlLME9sYzNhcG1jTjVNMXo1RDhMSG1yYUg3Qy3SAcYBQVVfeXFMTWRwNmtiOXlBZ1BkNzNYMV9qQTNtVFM5M3pfeFRQcEpPQlludmstMklfTlJKdlBSd1l1Q3V2bTE4ZXIyLXJtb282OWJ4ek5CeDVOMktfVXQxRjJVN1lMdVB0RVRxSUc4UG83aFRxRlJOVkN1MTA3QjVaMWdkTkl0UGdOV0k0NFFOdTZjWkFNNDNjbFFGYThURGRfTkI2TnFySFpuaEFYV2hmeXJ1TkRsMzhMOWFsQVBQcGl0MEMyLWRMZ3NGUWV3?oc=5",
+   "published": "2026-11-20T08:46:43+00:00",
+   "id": "a7b2baddf1ff",
+   "impact": -9,
+   "cat": "fed",
+   "raison": "baissier or (fed, inflation)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine strains Russian logistics with Crimean bridge strikes",
    "source": "Reuters",
@@ -6610,22 +6622,9 @@
    "cat": "inflation",
    "raison": "Effondrement brutal du brut et espoir de désescalade laminant anticipations d'inflation et primes refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
-   "published": "2026-11-19T08:11:00+00:00",
-   "id": "672b81a7cdf3",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "Escalade protectionniste majeure stimulant l'aversion au risque et la couverture contre la stagflation.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|b876c3422a63": 1793351251.3862622,
   "news|7506a8b24c76": 1793351774.635967,
   "news|d53648cc7a01": 1793351775.761797,
   "news|b27faa4f984c": 1793351776.7943046,
@@ -8514,7 +8513,8 @@
   "news|0f2716eb9608": 1795160949.633806,
   "news|b9339b958b6a": 1795162762.3813205,
   "news|187b3f98fbbd": 1795162765.205165,
-  "news|52eb0cf5a7da": 1795162766.152283
+  "news|52eb0cf5a7da": 1795162766.152283,
+  "news|a7b2baddf1ff": 1795165853.7061052
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -9002,6 +9002,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T09:10:53.706232+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-9/10)\n\n<b>Japan’s key inflation rises to 2.2% in October and reinforces the option of a rate hike</b>\n📰 Demócrata · Ven 20/11 09:46\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHNRXzdvZDZfOGlTY3FjRHZveWFxNGNwMHdZeGRscFFhNWV6aC0zWGFIXy13UW9EZDNkczRUNnJ0d0xBT2dKM05QSy1SVnpxNWlpZkljU09HRGtGSmpuYzBwVzJZcnp4aXRlQjdNQS02SHNvWEdlU1JxU05vVm9ob1FQeWZ0cDhCUUxKTXRNcmJjb3V1Qk1oV1pGRFZYQ0ZsZEhzdmlLME9sYzNhcG1jTjVNMXo1RDhMSG1yYUg3Qy3SAcYBQVVfeXFMTWRwNmtiOXlBZ1BkNzNYMV9qQTNtVFM5M3pfeFRQcEpPQlludmstMklfTlJKdlBSd1l1Q3V2bTE4ZXIyLXJtb282OWJ4ek5CeDVOMktfVXQxRjJVN1lMdVB0RVRxSUc4UG83aFRxRlJOVkN1MTA3QjVaMWdkTkl0UGdOV0k0NFFOdTZjWkFNNDNjbFFGYThURGRfTkI2TnFySFpuaEFYV2hmeXJ1TkRsMzhMOWFsQVBQcGl0MEMyLWRMZ3NGUWV3?oc=5"
+  },
+  {
    "ts": "2026-11-20T08:19:26.152391+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Spy Chief Pressed for Renewed Iran Strikes During U . S . Visit</b>\n📰 hindustantimes.com · Ven 20/11 07:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.hindustantimes.com/world-news/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-101795144686603.html"
@@ -9295,11 +9300,6 @@
    "ts": "2026-11-19T20:01:44.311435+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>There is no going back  to the way it was before  the Iran war energy shock , IEA says</b>\n📰 ksat.com · Jeu 19/11 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.ksat.com/business/2026/11/19/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says/"
-  },
-  {
-   "ts": "2026-11-19T20:01:43.476690+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>No going back after Iran War energy shock , IEA says</b>\n📰 gulfcoastnewsnow.com · Jeu 19/11 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.gulfcoastnewsnow.com/article/iran-war-energy-shock-long-term-impact-iea/74479995"
   }
  ],
  "daily_forecast": {
