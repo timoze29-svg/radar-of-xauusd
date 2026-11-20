@@ -1232,10 +1232,6 @@
   }
  },
  "seen_news": [
-  "de0454b9691c",
-  "6f33333e5d00",
-  "bd1353d745f9",
-  "1199b09d701c",
   "ca1f802f7670",
   "cd8a1712d431",
   "9c0618ead7cf",
@@ -4231,7 +4227,11 @@
   "672b5b69b210",
   "112ec69190a2",
   "9ebe14440f82",
-  "597f7b5ed9a3"
+  "597f7b5ed9a3",
+  "600716a53b00",
+  "732da18aa141",
+  "498588cf512b",
+  "48e3dfbfae3a"
  ],
  "news": [
   {
@@ -6636,7 +6636,6 @@
   }
  ],
  "fired": {
-  "rep|recap|2026-10-30": 1793394100.9476619,
   "news|30c2a906375d": 1793394966.890388,
   "news|82fe44aa9c47": 1793395902.473224,
   "news|0c0ab8881f6b": 1793396762.1052988,
@@ -8538,7 +8537,8 @@
   "news|8f81d9ad5415": 1795206945.687228,
   "brk|VIX|h250|up|2026-11-16/2026-11-22": 1795206946.8377483,
   "big|VIX|2026-11-20": 1795206947.7117164,
-  "news|6233fa036293": 1795207568.6595004
+  "news|6233fa036293": 1795207568.6595004,
+  "rep|recap|2026-11-20": 1795208501.4998274
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9026,6 +9026,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T21:01:40.586757+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — VENDREDI 20/11</b>\nOr : <b>-109.1$</b> depuis minuit · plus haut 3638.1 (00h05) / plus bas 3502.9 (19h45) · range 135$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-27) à 3546.8 → maintenant 3523.9 (-22.9$)\nRange : 135$ réalisé vs ~99$ attendu (136%)\nNiveaux touchés : S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 68% de bonnes directions (19 ✅ / 9 ❌ / 2 ➖ sur 30 jours)\n20 derniers jours : 67%  ·  ✅❌✅✅✅➖✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.05% · Taux 10 ans -14.0 pb · Pétrole +1.13% · EUR/USD -0.03% · S&P 500 -3.90% · Argent -5.15%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Fresh US-Israel attack on Iran under consideration as tensions escalate - Report\n🟢 (+10) Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation\n🟢 (+10) Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv\n🟢 (+10) Iran war escalation raises concern over civilian death toll\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
+  },
+  {
    "ts": "2026-11-20T20:46:08.659578+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump responds after Vance blames Iran war for midterm losses, VP says his job is to support president</b>\n📰 Fox News · Ven 20/11 21:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGs0QUE2YnhLZVZUVEcyeGtoLUNDdGdRdExtaXVUUjdEaXRGQ0Nwd29KRzdTSVkzM2JNLWpFX3EtZUwtUzhnOHBZYmxFM3dqTHBBanM0dDI0eE9KUncwM3huRm0yTnYyWkd5S3ZWbWlCRFJyYUg3VUNPSmh2NzV2Y0tuY3dzc05mZVBqQUZVM2ZaUXp1ZFFMeG5QWU9waFJ4dDhpbDEwNnlqSFJST09WZUhPUU_SAboBQVVfeXFMUEY0bEIyMl90OGRmenNobE5neGdFUjJUUjhqTnhSNk5aV0hQeVVZd2VhYkdKU0k1NlVScm43SGRJc2RiTHdHMzl0bzFOMGw2Mnh6cl95Q0JId1hGQXU4Skt5R2lIejY3bEJ6bV9CSk5qZHJVajBOZ2xJQVBjTWY2bUlZNjA0S3lJWk5uWjBIQzNndWE2Uk81T1FGcTlDeTQ0NXk5Y0pHLWl5TVNxUmZocmtlMzlEdVFBZUt3?oc=5"
@@ -9319,11 +9324,6 @@
    "ts": "2026-11-20T10:46:48.852920+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Hours after Trump reportedly says ‘tired’ Putin is ready for a deal, Ukraine hit with massive strikes</b>\n📰 CNN · Ven 20/11 08:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5"
-  },
-  {
-   "ts": "2026-11-20T10:19:41.251149+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Will US strike Iran again? Trump says decision can wait until 2027</b>\n📰 Gulf News · Ven 20/11 06:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDREQm1lckJpeEFwZ1pNMmk0M1FVbHpieHpyWi1KZDBTTEljaEhKODhrNjVzcGpPallxdkN6ek9HdEpWX0pCNk1kUTR3QjZtNkdnTGxxXzgxSjlocGJBWGhQSnhoWVczNkRVZk9MWmUtOWhxc0gwaUhOVGxUWk5lRWdBZGJIT1RnVlcwMWF0RG9qMlVTU2s0MF9ZOWtRa0s4RXhPNC1RTnBHOFJGMjhFN0dZZ9IBxgFBVV95cUxNZzRBRDM1aG1QeTM2clhzX1ZPc3R4ODBIV3lUR2tLZU1VR3dwdDl4ck53VFhiTFkxMFQ1NDlLeEpITG1rMjJQd2JzYjgyY1JUWVBBb0t2Nm5Wclo0SzJ3MklqMk5PTXIyU3RZTUVMdXFyUDlmUmRZSVBpdUdmV3N1MDdZdlgtRGlHUlJpUl9fS3RXMG9iZHYxTzlZd2VRZXFEWjhwQWRKZTdQVEZlaVd5UXVsQkt2bERMTWVPWUZhYjl5NG9wNnc?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9573,11 +9573,19 @@
    "mv": -70.3,
    "range": 96.2,
    "exp": 97.6
+  },
+  {
+   "date": "2026-11-20",
+   "dir": "down",
+   "res": "hit",
+   "mv": -22.9,
+   "range": 135.2,
+   "exp": 99.3
   }
  ],
  "evening_recap": {
-  "date": "2026-11-19T21:05:45.294139+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — JEUDI 19/11</b>\nOr : <b>-63.1$</b> depuis minuit · plus haut 3759.5 (02h05) / plus bas 3663.3 (21h00) · range 96$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-34) à 3737.4 → maintenant 3667.1 (-70.3$)\nRange : 96$ réalisé vs ~98$ attendu (99%)\nNiveaux touchés : S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 67% de bonnes directions (18 ✅ / 9 ❌ / 2 ➖ sur 29 jours)\n20 derniers jours : 67%  ·  ✅✅❌✅✅✅➖✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.07% · Taux 10 ans -1.4 pb · Pétrole +1.50% · EUR/USD +0.02% · S&P 500 -1.98% · Argent -2.57%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Shutdown fight takes shape as Democrats target Trump’s Iran war\n🟢 (+10) Risk of US Strikes on Iran Grows as Sides Escalate Skirmishes\n🟢 (+10) The bill for Trump’s trade war is coming due—at home and abroad\n🟢 (+10) Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine\n\n📅 <b>Demain (vendredi)</b>\n🔥 <b>00:30</b> 🇺🇸 FOMC Member Paulson Speaks\n🔥 <b>14:25</b> 🇺🇸 FOMC Member Waller Speaks\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Cook Speaks",
+  "date": "2026-11-20T21:01:41.499782+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — VENDREDI 20/11</b>\nOr : <b>-109.1$</b> depuis minuit · plus haut 3638.1 (00h05) / plus bas 3502.9 (19h45) · range 135$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-27) à 3546.8 → maintenant 3523.9 (-22.9$)\nRange : 135$ réalisé vs ~99$ attendu (136%)\nNiveaux touchés : S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 68% de bonnes directions (19 ✅ / 9 ❌ / 2 ➖ sur 30 jours)\n20 derniers jours : 67%  ·  ✅❌✅✅✅➖✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.05% · Taux 10 ans -14.0 pb · Pétrole +1.13% · EUR/USD -0.03% · S&P 500 -3.90% · Argent -5.15%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Fresh US-Israel attack on Iran under consideration as tensions escalate - Report\n🟢 (+10) Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation\n🟢 (+10) Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv\n🟢 (+10) Iran war escalation raises concern over civilian death toll\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻",
   "ai": false
  },
  "dp_last": {
