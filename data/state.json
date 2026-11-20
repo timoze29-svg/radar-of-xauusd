@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795194954.1575015,
+   "ts": 1795217465.7316039,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
      "last": 2.88,
-     "date": "2026-11-18",
-     "chg5": 0.1,
-     "chg20": 0.11,
+     "date": "2026-11-19",
+     "chg5": 0.02,
+     "chg20": 0.12,
      "hist": [
-      2.06,
       2.07,
       2.07,
       2.07,
@@ -129,18 +128,18 @@
       2.91,
       2.92,
       2.89,
+      2.88,
       2.88
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.16,
-     "date": "2026-11-19",
-     "chg5": -0.08,
-     "chg20": -0.21,
+     "last": 2.15,
+     "date": "2026-11-20",
+     "chg5": -0.09,
+     "chg20": -0.17,
      "hist": [
-      2.38,
       2.4,
       2.39,
       2.38,
@@ -259,18 +258,18 @@
       2.2,
       2.21,
       2.19,
-      2.16
+      2.16,
+      2.15
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.8,
-     "date": "2026-11-18",
-     "chg5": 0.07,
-     "chg20": 0.01,
+     "last": 4.76,
+     "date": "2026-11-19",
+     "chg5": -0.1,
+     "chg20": -0.05,
      "hist": [
-      3.99,
       3.98,
       4.05,
       4.05,
@@ -389,14 +388,15 @@
       4.88,
       4.83,
       4.8,
-      4.8
+      4.8,
+      4.76
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-18",
+     "date": "2026-11-19",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -456,7 +456,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -1232,10 +1232,6 @@
   }
  },
  "seen_news": [
-  "71326c975f64",
-  "80e2b6b59c86",
-  "c24a64339b3a",
-  "67dc4b6ae870",
   "a3975c4d0045",
   "fd58bdce0329",
   "8bcb518cb973",
@@ -4231,9 +4227,37 @@
   "1250f49dc80c",
   "3be29fca13ee",
   "75584ebb5555",
-  "35f04bf5d1c4"
+  "35f04bf5d1c4",
+  "90172c3fd25b",
+  "c48f6e177bd7",
+  "0783708127be",
+  "92471dd5274b"
  ],
  "news": [
+  {
+   "title": "US Dollar Index (DXY) stalls below 104.00 as Fed rate hike bets are offset by AI jitters",
+   "source": "www.tmgm.com",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd1FWY1o5MlN1LWhaVUhjNVZoSC1rVFlXcmpTcWl2SWxOQjR1ZS02SURVT0ZQeF93ejZMYm5lQlZtVFVtaXdkcG5KaU1HMnhWSUR6REdJMkV3MElvWEdUMm9XTlctM21lTlVPVnU2azd0b1ZCdDJZdlF0UVZ0UGc3azV2bThiLXc3dVhPVW00QlVmVHVWWmhwMlpwZk9qT0xrX3hBdDdJbm1lc2Z4bHk3VFBmZGcyR2MzVzJQNVA0OVNCRU5xVlhsSzREM2E4UWtWV1FHYVBLSnA4Q0RSWG9qRg?oc=5",
+   "published": "2026-11-20T23:18:55+00:00",
+   "id": "c48f6e177bd7",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold Takes a Beating as Hawkish Fed Sparks Worst Week in Eight Months",
+   "source": "Yahoo Finance",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHRqR1J2alFiOXd3Y2tteUlQenZGRXhiVlR2Tk4xSEVSTUd5Q2pwV2lMcmpvYm1uWFAzTWZ1T2lsYkZEczNGZlVsOGhTZW5zMXl6Wkg0Q1ZtcV9sd2t6YzQ3Ri1tejZtbUlFYVdObWNJZUU1N19GR3V6RkxTWi1QbXNnVHVuUmdtLU5hQjdyeklTSTB0cUludHFvWGtod2RvaXc?oc=5",
+   "published": "2026-11-20T22:56:19+00:00",
+   "id": "90172c3fd25b",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "U.S. stocks slump into correction territory amid tech and AI worries",
    "source": "The Washington Post",
@@ -4701,6 +4725,18 @@
    "cat": "inflation",
    "raison": "Baisse du pétrole réduisant les anticipations d'inflation et la demande de couverture.",
    "method": "IA"
+  },
+  {
+   "title": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I?oc=5",
+   "published": "2026-11-20T17:41:23+00:00",
+   "id": "0783708127be",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Frank Talk: Why Central Bank buying is keeping gold afloat as more Fed hikes are expected",
@@ -6597,42 +6633,6 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump’s trilateral draws backlash from Republicans and Ukraine allies",
-   "source": "Politico",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnhZLVp2Y25hNHlIRGk5TVpEUWlKcmFIN2xyUnZkWHFyTEJRTFhReVFmeENkdTJrMUxia2s5LVdzSnI1UHBmM2h1MVlRYUtCQW53MFdhWlFwb3NKTGpCaFNuV1piUjRSUl9kSWdic19ZaTIyVGdXRUFzS2ZiZXNoN09McmhuNHBoLWVkWlhIaWVKUEdkYVJUcHdrSS1ya1QwQ3RjcA?oc=5",
-   "published": "2026-11-20T00:06:00+00:00",
-   "id": "0dce07f279de",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frictions politiques autour du dossier ukrainien entretenant une légère prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "News Wrap: Russian drone attack damages Dutch embassy and cathedral in Ukraine",
-   "source": "PBS",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnVaQ0g4SURaeFZUVE14eW1BMWtLRlBYVlUxcnBEUG9zN1JyS2hnQllQRG0tZDlySEw2ZW1sZ29hak92OXo4aGt4dzVMSThrX05rZElveVJlcDE2bVI5ZVlYdktzRE9IUF84eV92ZWZfZGs3bEl1aWhoM1RyNGdoNnZROFBqN3BQNmQ1NmJKbTRFRWZLM3FjOUM3ejJPc01iQ0xnRENyZm9jLVdxcmVQcg?oc=5",
-   "published": "2026-11-19T23:45:23+00:00",
-   "id": "b2ddb2f811d7",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Escalade diplomatique mineure en Ukraine, soutien marginal à la valeur refuge sans choc macroéconomique.",
-   "method": "IA"
-  },
-  {
-   "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlJnSGR1SWI4TnZ5UHc4TzlBc215UXN4ZVRvYVZ0OHc2Uk9uTjN6N2hPZ212Z090eXpHWFB1bTgxVDFhSnBhOWFONkJ5NlU4cUNoWXNVYUpHR2VuOWtuT3pXa05QclJoM0kwZ1RmYnZPaHA4cVg3eU9WVjUtTVBKUG8zeGdWVkxVYXV5dUl2dk9raWFhTFFzVXlsWEVKbHZseUFpb01CLVQ5d9IBrwFBVV95cUxNLVN5MWFBRlFfZzZxY3g3amFZUktOcnM0XzItRFkteVl2dEM2c2Utem5kVU9EaXZmLVR5NmE2Y0tSOTM3cjF3VXdySmNMdE13OV9kQ0dQbG9XSWFvSWs4ZDJlYVVhMnRZZHF0c2RsazJwTnlvZkVIU3BacGRpUmtjMnVPeFd1Wlhqay1CMTVYUlBZTHowb2ZtZ3RkSW1FMjdQakFWakJnaUVTdUtCZTNF?oc=5",
-   "published": "2026-11-19T23:42:52+00:00",
-   "id": "e836b0dee000",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Perspective d'apaisement en Ukraine réduisant modérément la prime de risque géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8534,7 +8534,9 @@
   "rep|recap|2026-11-20": 1795208501.4998274,
   "news|9ad69726aacc": 1795209370.0637732,
   "news|8c52089ee864": 1795210351.2191987,
-  "news|82dbcb500299": 1795215706.8584023
+  "news|82dbcb500299": 1795215706.8584023,
+  "news|c48f6e177bd7": 1795217486.2073138,
+  "news|90172c3fd25b": 1795217488.7713227
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9022,6 +9024,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-20T23:31:28.771436+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Takes a Beating as Hawkish Fed Sparks Worst Week in Eight Months</b>\n📰 Yahoo Finance · Ven 20/11 23:56\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHRqR1J2alFiOXd3Y2tteUlQenZGRXhiVlR2Tk4xSEVSTUd5Q2pwV2lMcmpvYm1uWFAzTWZ1T2lsYkZEczNGZlVsOGhTZW5zMXl6Wkg0Q1ZtcV9sd2t6YzQ3Ri1tejZtbUlFYVdObWNJZUU1N19GR3V6RkxTWi1QbXNnVHVuUmdtLU5hQjdyeklTSTB0cUludHFvWGtod2RvaXc?oc=5"
+  },
+  {
+   "ts": "2026-11-20T23:31:26.207401+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Index (DXY) stalls below 104.00 as Fed rate hike bets are offset by AI jitters</b>\n📰 www.tmgm.com · Sam 21/11 00:18\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd1FWY1o5MlN1LWhaVUhjNVZoSC1rVFlXcmpTcWl2SWxOQjR1ZS02SURVT0ZQeF93ejZMYm5lQlZtVFVtaXdkcG5KaU1HMnhWSUR6REdJMkV3MElvWEdUMm9XTlctM21lTlVPVnU2azd0b1ZCdDJZdlF0UVZ0UGc3azV2bThiLXc3dVhPVW00QlVmVHVWWmhwMlpwZk9qT0xrX3hBdDdJbm1lc2Z4bHk3VFBmZGcyR2MzVzJQNVA0OVNCRU5xVlhsSzREM2E4UWtWV1FHYVBLSnA4Q0RSWG9qRg?oc=5"
+  },
+  {
    "ts": "2026-11-20T23:01:46.858492+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel braces for surprise Iran attack as US weighs strikes</b>\n📰 Ynetnews · Ven 20/11 22:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMEI0ZHEyNW04NnhCVVNRbE1KRE9FWVFOZ01UWWgyYnFMRXBaSGhsNU4wMEpOQzdYZnhQUGZmRnVyN21fUExuZHhJMFQ0T2JaNUM0M0FR?oc=5"
@@ -9310,16 +9322,6 @@
    "ts": "2026-11-20T12:37:34.622534+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Clock ticking on Iran strike as Tehran races to fortify nuclear sites</b>\n📰 Ynetnews · Ven 20/11 12:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdGlQNHFfQjhjZWhVQXZyZ0cwTVVReW1ySG9nOGRDQU5vZFg3cGFBX3Q4MlJESTZybHhMRE9Nc2NsYXBxdXZFdDgxV2dNSkE3X2drQkswTWpIVjhjem5ZVlMtTWNmejlRUlVrOWhB?oc=5"
-  },
-  {
-   "ts": "2026-11-20T12:07:56.977687+00:00",
-   "kind": "pre_event",
-   "text": "⏳ <b>DANS 77 MIN — 14:25</b>\n\n🇺🇸 <b>FOMC Member Waller Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.05% aujourd'hui · taux 10 ans +0 pb · biais or -23 (Baissier)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 101$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-20T12:07:55.683331+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price crashes 36% from record high as Fed rate hike fears intensify</b>\n📰 Beinsure · Ven 20/11 10:58\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1JTTAtMmdoZmhoemR3dll6THFLRjgzYnhHYU5wOVRnVFJ2VF9hYUtoTUEtWGJUaWdGWWczVWg1NTVHOHl2cU9DNlJBekdadU9xdmpIeTd1TFh3WmhRSU11bTNoaXpWa3AySXZsV3dobw?oc=5"
   }
  ],
  "daily_forecast": {
