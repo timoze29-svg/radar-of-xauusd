@@ -1232,14 +1232,6 @@
   }
  },
  "seen_news": [
-  "6051ef042162",
-  "2219674d2de7",
-  "ebc5fb394e01",
-  "766c348346e3",
-  "564bd2d93d63",
-  "54c7ef1f9af6",
-  "27efa3a86618",
-  "2696b1ceff96",
   "698707ca0940",
   "7e603930351a",
   "7d910fe527bc",
@@ -4231,7 +4223,15 @@
   "b193fa6a1fa6",
   "35405e2e958c",
   "fe5b330d88aa",
-  "34a17a34c9e2"
+  "34a17a34c9e2",
+  "e03501c621c6",
+  "1fd6740db6ca",
+  "95eec0b9d207",
+  "57905cd9919c",
+  "c4bfd649a505",
+  "c5397901914a",
+  "95bc9f9a828e",
+  "8fd25abe4e1f"
  ],
  "news": [
   {
@@ -4242,6 +4242,30 @@
    "published": "2026-11-21T11:06:42+00:00",
    "id": "fe5b330d88aa",
    "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Two Tanker Attack Incidents Reported Near Oman Khasab",
+   "source": "arynews.tv",
+   "theme": "Géopolitique",
+   "link": "https://arynews.tv/two-tanker-attack-incidents-reported-near-omans-khasab-on-saturday-ukmto-says",
+   "published": "2026-11-21T10:30:00+00:00",
+   "id": "95bc9f9a828e",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih",
+   "source": "EA WorldView",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3hUazcyZ0J0a2Y0c1hodFBWc09tSkg5RHdINE1FalBCbV8zSzNPalpzc2plN2xBVGlsZzd6OHZyMGJxWi12dzZyR3VCcWJTWVVNSWtuSjZOVTMzZUtLUXRsUzJ4dVBDWkJTbXZLLWhER01INFJ2aXZmZHUtQkhCOWk2aU5GT1NZM0d1NjhyQQ?oc=5",
+   "published": "2026-11-21T09:30:54+00:00",
+   "id": "1fd6740db6ca",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6608,30 +6632,6 @@
    "impact": 1,
    "cat": "dollar",
    "raison": "Hausse du yen affaiblissant le dollar, offrant un soutien très marginal à l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold prices are falling: Should UAE residents buy now or wait for a further drop?",
-   "source": "Gulf Business",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3hOd2lfTE44aDhfS3BvVVR3VFUtVURkMmt2a25xbFpybnRPbW1FbzlPRnd2V1Q3QWk1bzZoaFpmVlpfRDZsMXhlRDgzQzJlbmhTVGQtbVRpdHpEVUkxanhZSTdNcjdVd0dEU2VvZVUwaDcxWXktWndCbXp5WkoxMzY5b3JZMkkwc2d4S1Y2eU1ic2NhU09rc1FwZ2Z1WFpfc2lYU2ZIU21hR2RLME0wb3QwRkNLOXVYbEE?oc=5",
-   "published": "2026-11-20T06:21:51+00:00",
-   "id": "0367f4914c96",
-   "impact": -1,
-   "cat": "or",
-   "raison": "Article retail constatant une baisse récente des prix, sans impulsion macroéconomique nouvelle.",
-   "method": "IA"
-  },
-  {
-   "title": "30 Kamikaze Drones & 20 Minutes: Watch Iran's Deadly Drone Swarm Strike Israel & US Bases",
-   "source": "The Times of India",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU2xObXpVSWxZSTlvQnI0SVFaamx5Mk00aHJ1RE8tZFhDUVpwai1HYXJubW5ESGJFbEVaQkdYenk3bFFmbHgzZmUtQjdSQTJTeG5zaXYxaU56MVEzVFN6UTd1clJFUUN3bm15X2NNR1VrZ2gyWnJSc0tMaTdleUFhQ2xIME1XWTJ5ZDQtNFJUZU15M3JLNGVpZHllaHZJby03LV8zWHIyVHRlZjNrVVF5VVFvSWVnSGFMeEc5UGZ0ek5BdjZKT2NGMjRocXFWLW9PZWpVX3diLVlJT2MzQTFVcjhQa2RWSURpcnM2b3d1aGp4eHFOekM00gH8AUFVX3lxTE5wNjNWX3BxUkJkOG1tQy1YWHFwY1ZIMHpLeFNIMTF0T1FVaHJaaExwU2hRWGJIekFDLU1ucW5oMjk3azZHSHR2UjhKaURseHJfM0xaWFJRUWNYdFhSNHBWajlSYWZNaEtVd0hLbWtiY2FOc3NjSW5LYnJZcXFpMzFVX2hSUWFaOTJZakItOVN4LXBlcWpianNzUVFJdWxoR0dyVjVVMEhsMmF1WEJ1TUhIZ0tOck5tNTNzU0pXTE5rdzhOYWFTTm90cFB6Q2tUTy1DV3ZmeWt1R3Uxd1dWcG5yenRQaFh3OGRMLXdEX3VmRklGbnQtaTlEdklmaw?oc=5",
-   "published": "2026-11-20T06:09:41+00:00",
-   "id": "e3f5021cbf27",
-   "impact": 7,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire directe au Moyen-Orient provoquant un puissant afflux vers la valeur refuge.",
    "method": "IA"
   }
  ],
