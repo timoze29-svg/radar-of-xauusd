@@ -1232,11 +1232,6 @@
   }
  },
  "seen_news": [
-  "bde350ffeaf6",
-  "c7372b824bad",
-  "68d8fee78cb2",
-  "e5768405cb04",
-  "ea84ceb8f019",
   "2ee480846fdf",
   "f742e0d13cd1",
   "9dd8a1b03bb0",
@@ -4231,9 +4226,26 @@
   "1902852bc90c",
   "54b7c5edcc05",
   "0c546036a7d8",
-  "82e094772e8b"
+  "82e094772e8b",
+  "73e42882496e",
+  "0e88ce37d0f0",
+  "1381d0fb8262",
+  "7a3e18ae7d6d",
+  "4cfe6f519b68"
  ],
  "news": [
+  {
+   "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+   "source": "The Guardian",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
+   "published": "2026-11-21T02:41:00+00:00",
+   "id": "7a3e18ae7d6d",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Australia, Canada, and New Zealand condemn Russia's war on Ukraine",
    "source": "Anadolu Ajansı",
@@ -5373,6 +5385,18 @@
    "cat": "géopolitique",
    "raison": "Frappe confirmée en Pologne, potentiel d'implication directe de l'OTAN très haussier.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: Houthi rebels say financial centre in Riyadh is a ‘military target’",
+   "source": "Arabian Business",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-20T13:32:02+00:00",
+   "id": "73e42882496e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Report: Israel, US weigh new Iran strikes 'in the short term'",
@@ -6608,30 +6632,6 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "Tensions protectionnistes accrues soutenant modérément la demande de valeur refuge face aux risques stagflationnistes.",
-   "method": "IA"
-  },
-  {
-   "title": "Tariffs upend holiday season – Winnipeg Free Press",
-   "source": "winnipegfreepress.com",
-   "theme": "Géopolitique",
-   "link": "https://www.winnipegfreepress.com/business/2026/11/19/tariffs-upend-holiday-season",
-   "published": "2026-11-20T01:30:00+00:00",
-   "id": "2e39eca6c312",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Incertitudes commerciales et risque inflationniste modérément favorables à l'or comme couverture.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump , Xi and Putin hold rare 3 - way talks on nuclear risks but deliver no breakthroughs",
-   "source": "kpcnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.kpcnews.com/article_e0c406b0-e630-5059-b132-ffa5d668f70f.html",
-   "published": "2026-11-20T01:30:00+00:00",
-   "id": "98aab1979f7c",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Absence d'accord nucléaire maintenant une prime de risque géopolitique résiduelle sur l'or.",
    "method": "IA"
   }
  ],
@@ -8536,7 +8536,8 @@
   "news|6e3abe515d1d": 1795226560.2360218,
   "news|20ac35c2d7d6": 1795229350.428097,
   "news|182b7e9b6332": 1795229353.1065207,
-  "news|54b7c5edcc05": 1795230307.369652
+  "news|54b7c5edcc05": 1795230307.369652,
+  "news|73e42882496e": 1795230969.0406387
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9024,6 +9025,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T03:16:09.040794+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Houthi rebels say financial centre in Riyadh is a ‘military target’</b>\n📰 Arabian Business · Ven 20/11 14:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-21T03:05:07.369723+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran is ‘bullsh*tting’ on effort to end war</b>\n📰 CNN · Ven 20/11 22:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVhVbGZLY1otcEhJU2xyQnNHV0FjZkh0VEYwVlA1eUNIOGlTMUMzVFdBdXdWUmZtV25GYVVXbjFrbzVDb18tTDBOTVRzNW1Qcnp2djZYWHBvVWpHVWpNU0RMTDZLU2RsUnVjaVcteUtXLXBvSThMYUpEajN0NVMzRXdCamZsdFV6b0RsWkNFVEM?oc=5"
@@ -9317,11 +9323,6 @@
    "ts": "2026-11-20T14:16:27.889050+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation</b>\n📰 Al-Monitor · Ven 20/11 14:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjhFbTdrQXpweGl0T2UzY3E4Slh5REd2SU5WQjhYN2JoaXBQWk9BQWdNR1k3U080SVpfY3RHWC1YTGRKSXBxRi03d2RnaTh2a1RBaFFBT3R6aHZDekEyOU5USUprREx6aU9CNUl5UGQzb25ReUNsX1ROcmFsa1dCSDlHejh6SEptNU14UzYyWkdWWGVCbTByWEI2cTUtODE5eWVleE1HYXl3YnVISjJjbnYyMWZOa0RMNzF1TEdQNA?oc=5"
-  },
-  {
-   "ts": "2026-11-20T14:03:21.943872+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 38 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Waller Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.07%\nTaux 10 ans -0.8 pb\nOr +13.5$ (extrême +14.6$, range 19.0$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
