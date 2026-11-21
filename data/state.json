@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795227357.2026024,
+   "ts": 1795231858.9272041,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -6636,7 +6636,6 @@
   }
  ],
  "fired": {
-  "news|08eeedb28663": 1793417479.0286605,
   "news|95fc03dc5b67": 1793418366.060189,
   "news|ac57a2c97a78": 1793420188.3204494,
   "news|4b85e492036b": 1793423088.8659203,
@@ -8537,7 +8536,8 @@
   "news|20ac35c2d7d6": 1795229350.428097,
   "news|182b7e9b6332": 1795229353.1065207,
   "news|54b7c5edcc05": 1795230307.369652,
-  "news|73e42882496e": 1795230969.0406387
+  "news|73e42882496e": 1795230969.0406387,
+  "big|BTC|2026-11-21": 1795231884.6482108
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9025,6 +9025,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T03:31:24.648257+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 112 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-21T03:16:09.040794+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Houthi rebels say financial centre in Riyadh is a ‘military target’</b>\n📰 Arabian Business · Ven 20/11 14:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -9318,11 +9323,6 @@
    "ts": "2026-11-20T14:16:28.782036+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff</b>\n📰 Bloomberg.com · Ven 20/11 14:48\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5"
-  },
-  {
-   "ts": "2026-11-20T14:16:27.889050+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation</b>\n📰 Al-Monitor · Ven 20/11 14:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjhFbTdrQXpweGl0T2UzY3E4Slh5REd2SU5WQjhYN2JoaXBQWk9BQWdNR1k3U080SVpfY3RHWC1YTGRKSXBxRi03d2RnaTh2a1RBaFFBT3R6aHZDekEyOU5USUprREx6aU9CNUl5UGQzb25ReUNsX1ROcmFsa1dCSDlHejh6SEptNU14UzYyWkdWWGVCbTByWEI2cTUtODE5eWVleE1HYXl3YnVISjJjbnYyMWZOa0RMNzF1TEdQNA?oc=5"
   }
  ],
  "daily_forecast": {
