@@ -1232,10 +1232,6 @@
   }
  },
  "seen_news": [
-  "b2bdd9938a79",
-  "227509c1f144",
-  "05f679081020",
-  "7d938f0c0ad1",
   "6651acb66855",
   "289fe40c877c",
   "5a343b59001f",
@@ -4231,7 +4227,11 @@
   "69e933a056f7",
   "7be44bfd6c0c",
   "133528161aba",
-  "09be1fe38805"
+  "09be1fe38805",
+  "ea3d5501f602",
+  "5dac1fedbb4b",
+  "fac6c10820e2",
+  "49341b06e6a3"
  ],
  "news": [
   {
@@ -4271,6 +4271,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Former Ukrainian Prime Minister Discusses U.S. Diplomacy Amid Russia-Ukraine War",
+   "source": "C-SPAN",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVNValEzV2UzV2prRDR3bE9odmpiY0VHaEwyLUJQUDhIY0JlS3VpYUhkUGZIT0FURmtMTER4LXlLa0JXd1E4MVBXUUpoQTNuV2RoVVc3dzBua0daeWNrY0pWR2VLbEp3QklseW1JdS15aUNaSkxhZkxOSE9NZ2xlc0FUZzE4YXVVb1VxQ3hHbEFyZ2lJdXdLMnQ2SU0wNjhMV1hlS1FPcU5XbG9OamVQQUdGb3BXMXlvMW42SWZaS212eUV4ck8xcnlrT2pYeWt0?oc=5",
+   "published": "2026-11-21T00:54:41+00:00",
+   "id": "49341b06e6a3",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
    "source": "TradingView",
    "theme": "Moyen-Orient",
@@ -4305,6 +4317,18 @@
    "cat": "dollar",
    "raison": "Pause du dollar sous 104 soutenant légèrement le cours de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Trump says Iran wants deal but terms unacceptable; Vance sidesteps question on his approval of war",
+   "source": "The Times of Israel",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDRIZFpnNlRXZHZKZTRoS2pMUUF1RnQyWm5Yc29xeHFyWkkwYjRNQnBlRmd3N0JpNHdlT3Z1dEJiVTlDVUN1TVVBd1RqeFhBS3plLTBESjBqdlF5MFRzMldCWnFIVW1aT01LaVJ2YVNTTHRzbTZTNzJhUDhSY2RndFJETnMyMHhzUUFpUHExMHR1YVhpbGF5R2loYkFpU2VHXzhILXBjMGpzd2otbkZ1aU1aemJKb3psY0FJRGJ4SzJXSC1WcG5z0gHMAUFVX3lxTE8yTE5tVkhBMS1xN3lWRE01VXVrUnFvNkxTamZPSXpwblFBNF9wUDVBcU5ORVlvZ05TeklIRWdVREZTSjktdXkzcjNFaGwwejNUR19GM0o2Y3U5U21LajhyM24tU3lNSVhaV2RXNlNUWnhrNjhxUmIzOE01M1JOcGI1MFlzTlJFWGlVb3A0Y0hHVldnNVBEdHVGZk4yWlJYTkNFZnpwM0xyaGRRZlJoaF8wYTJINGJ2OFJLVWwtN1ctRlJrS1FyZG1PMUlaRA?oc=5",
+   "published": "2026-11-20T23:15:25+00:00",
+   "id": "5dac1fedbb4b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "U.S. Treasury yields and global bond yields plunge as traders flee AI rout By Investing.com",
@@ -6609,30 +6633,6 @@
    "cat": "autre",
    "raison": "Chute brutale des actions mondiales provoquant une fuite classique vers la valeur refuge or.",
    "method": "IA"
-  },
-  {
-   "title": "KSA : Riyadh tower hit in Houthi strike",
-   "source": "gdnonline.com",
-   "theme": "Géopolitique",
-   "link": "https://www.gdnonline.com:443/Details/1413395/Riyadh-tower-hit-in-Houthi-strike",
-   "published": "2026-11-20T00:45:00+00:00",
-   "id": "42355f8487e7",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Frappe directe sur Riyad ravivant brutalement l'aversion au risque et la prime pétrolière.",
-   "method": "IA"
-  },
-  {
-   "title": "Dollar heads for fourth week of gains after Anthropic IPO, Fed rate hike bets",
-   "source": "Crypto Briefing",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTl0Z2tJbk5RLWxmSnlwbDBfUS1VckpyMmJUMGZrYnpsQ0NxODd6eVhzWTBwdURCVW1xc3pYdEZTaF9DQWEwTVlnTk9RNjVfUHhHYmNiWmE0N1ZSWVQtcmxsQkV3NkdqdkppWGlMdU9BWGpDWFpRV0JJVVNubFp2YmdTd2daSUhXM3dtSVFpbGhreEtSTENGODViNE5LWG1YUjRjYl93VQ?oc=5",
-   "published": "2026-11-20T00:34:04+00:00",
-   "id": "3d281fda2c6d",
-   "impact": -4,
-   "cat": "dollar",
-   "raison": "Dollar haussier sur fond de craintes de hausses de taux Fed, défavorable à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8533,9 +8533,10 @@
   "news|99177f5bc2e4": 1795219401.7504284,
   "news|d4778fae4f3f": 1795221995.059985,
   "news|e9b9226182ee": 1795222889.4750574,
-  "news|6cc5e64f63b7": 1795223995.8246243
+  "news|6cc5e64f63b7": 1795223995.8246243,
+  "news|5dac1fedbb4b": 1795225578.5708463
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-12": {
@@ -9021,6 +9022,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T01:46:19.871541+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (+11), Fed (2 ans vs taux Fed) (-9)"
+  },
+  {
+   "ts": "2026-11-21T01:46:18.570936+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran wants deal but terms unacceptable; Vance sidesteps question on his approval of war</b>\n📰 The Times of Israel · Sam 21/11 00:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDRIZFpnNlRXZHZKZTRoS2pMUUF1RnQyWm5Yc29xeHFyWkkwYjRNQnBlRmd3N0JpNHdlT3Z1dEJiVTlDVUN1TVVBd1RqeFhBS3plLTBESjBqdlF5MFRzMldCWnFIVW1aT01LaVJ2YVNTTHRzbTZTNzJhUDhSY2RndFJETnMyMHhzUUFpUHExMHR1YVhpbGF5R2loYkFpU2VHXzhILXBjMGpzd2otbkZ1aU1aemJKb3psY0FJRGJ4SzJXSC1WcG5z0gHMAUFVX3lxTE8yTE5tVkhBMS1xN3lWRE01VXVrUnFvNkxTamZPSXpwblFBNF9wUDVBcU5ORVlvZ05TeklIRWdVREZTSjktdXkzcjNFaGwwejNUR19GM0o2Y3U5U21LajhyM24tU3lNSVhaV2RXNlNUWnhrNjhxUmIzOE01M1JOcGI1MFlzTlJFWGlVb3A0Y0hHVldnNVBEdHVGZk4yWlJYTkNFZnpwM0xyaGRRZlJoaF8wYTJINGJ2OFJLVWwtN1ctRlJrS1FyZG1PMUlaRA?oc=5"
+  },
+  {
    "ts": "2026-11-21T01:19:55.824708+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran denies reports of US-Israeli missile strike on Qeshm Island</b>\n📰 Anadolu Ajansı · Sam 21/11 02:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2p2eV9xTmVRS3E2b0tOeDUwZnRiUkpBMEEyRzREQkNablVHSXhCenJUOXZrVmhEZGZmb2JBVDBJTDFzRGIxQzdsa0NabWdIWEJkOVV2ZUNBTzZZdFVCWnBiQlgtM3c0QjZrQU42NS1udzRFR3FoZEp3LU9Fb2hOOXFhZHdmdEhIa20zNFlJTjFzQ1hQZ2lyWUFnSjJPeXJQekFVUlJ1TnZWWW5LWlNheEtKTDFEamc?oc=5"
@@ -9309,16 +9320,6 @@
    "ts": "2026-11-20T13:16:10.506945+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war escalation raises concern over civilian death toll</b>\n📰 DD News · Ven 20/11 12:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFRjeUJtcDhnRHlxVkNTRTRoUEsxNFF2NzFzWFU2TlNoNk9pc0FSY0RSSzdkLU82TFFiR3RPelF1SmI2T0syNnlDeHlPUFdxN29Lc3EyMkllaGJxRUVDdWN3c3lSRHZ3R0VoSFFzVFIzb2FKcWJhRHFNRHkwbzZXWjE0ZndCYWVtRmRSU1pJMWhldkg1SlE?oc=5"
-  },
-  {
-   "ts": "2026-11-20T13:16:09.699675+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks</b>\n📰 NBC News · Ven 20/11 12:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2ZMT1N0Qk5yUzFfNEdMR3RYcFdxbG03VlBfeWtKOGhHM1ZkV0lXT3pVRjFNOGNjY2w1c3JtWVhMcFRoUXdZd2hKc0hlanVET0VoczdqNWlMbnFXSXROTlVUNnJsWjFtWGZjMEdqVEt0RDhpUk91SzBXY2RhQy1INHZhRzJRbnRHbVVBanVwTVphRUVvaC1jcTIxLXZ3MGt0OWZUMDJkRUprQ3E1bjJWYXl1eFZJQmhTY1E?oc=5"
-  },
-  {
-   "ts": "2026-11-20T13:01:45.378465+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3568.90</b>  (+22.1$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-27) → maintenant -20 (Baissier)\n✅ Le scénario baissier TIENT\n📏 Range fait : 123$ sur ~99$ attendus (124%) → journée déjà bien remplie\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>14:25</b> 🇺🇸 FOMC Member Waller Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>18:15</b> 🇺🇸 FOMC Member Cook Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Clock ticking on Iran strike as Tehran races to fortify nuclear sites\n🔴 (-9) Japan’s key inflation rises to 2.2% in October and reinforces the option of a rate hike\n🟢 (+8) Trump Says Vance Erred in Critique of Iran War as Questions Swirl About VP\n🟢 (+8) 3 ways the next Congress can stop Trump’s war with Iran"
   }
  ],
  "daily_forecast": {
