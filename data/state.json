@@ -1232,18 +1232,6 @@
   }
  },
  "seen_news": [
-  "f0ad12f848e0",
-  "8abf2adb30c7",
-  "dd760c8cd1c9",
-  "bbbed35952d6",
-  "671723a43ad1",
-  "ce377fddf310",
-  "93c25771d68f",
-  "b92e685a96b3",
-  "5a32ddfe8549",
-  "96639063110f",
-  "67619a6a51f0",
-  "9c5e45114b90",
   "94a30697f80f",
   "05799cb15997",
   "459e0a296bf5",
@@ -4231,7 +4219,19 @@
   "5405ab64a786",
   "31967596c0d9",
   "a76530ae78be",
-  "4b540bdccc74"
+  "4b540bdccc74",
+  "97b588bb2fe4",
+  "0d3dcff976b0",
+  "12c4c1f142a3",
+  "c0027b9c8dd8",
+  "68260c734ada",
+  "9a3e09cdc26b",
+  "598b8dc3fb3b",
+  "f287ba09c8a6",
+  "ba57f05c1301",
+  "02a01f31228e",
+  "3a1835a1baba",
+  "e3a7ddc7536b"
  ],
  "news": [
   {
@@ -4281,18 +4281,6 @@
    "cat": "géopolitique",
    "raison": "Tensions politiques et risque accru de frappe sur l'Iran soutenant l'or refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Taiwan warns Canada against deepening trade ties with China",
-   "source": "United News of Bangladesh",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGUzM0VkS3E4VG5MbWFzWWZjaWJHZGowcnVzZDFxVjVNR0dfLWp0ZkxVZzQ3MUU4N3lQUlYxZEt0ZjZoaHpzaWZaNHNHQ1R6MVo5bE43Z2ZDYzFJeTRJRVo5T1lUcVN4emFrN3ZNZ09ac08zRWJXcHNZUS15TlBRZ2tZNUF5MXlaT0dOV1RrUUQwOHhWNjBOUXVFNTJUVXdOM1E?oc=5",
-   "published": "2026-11-21T19:34:36+00:00",
-   "id": "3d8a4fa4efd9",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
   },
   {
    "title": "Russian crew evacuating ship hit by drones off coast of Finland",
@@ -4847,6 +4835,18 @@
    "method": "IA"
   },
   {
+   "title": "New US tariffs come in at lower 10% rate",
+   "source": "DD News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZUcwUjFMeUFYYnhRZElpckF3Y1d2Q0FYU2hvTDhNLWg1WjR6ZHNjUTdEZkVaTXo5NDN1dzE1Wm9sOHdJS2o2cjZrNVBSVVNrQ0RSRXBoQU1zTzA4SnVsUmxuM2NIZ01iNG95Y3Bfa05HdUE?oc=5",
+   "published": "2026-11-21T06:48:49+00:00",
+   "id": "9a3e09cdc26b",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russian missile hits Poland as Ukraine allies hold military exercise",
    "source": "the-star.co.ke",
    "theme": "Géopolitique",
@@ -4905,6 +4905,18 @@
    "cat": "inflation",
    "raison": "Tribune d'opinion sur l'inflation passée sans effet direct sur les anticipations de marché.",
    "method": "IA"
+  },
+  {
+   "title": "Trump Press Conference Highlights $17 B Asia Trade Deals, Permitting Reform, and Calls for Healthcare Deal with Democrats",
+   "source": "Forth.News",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tR2xEdTJDZ0xPUVJlWFpuMnlDZ0g3RTlVN1FaWjV1RTJDYXJPZnhOYkhzV08tX1FacmNOZWlILU1fTTNTTmFTWHFsZ0RCTml4el9iZHVhaDZtMWk2QTFEV193?oc=5",
+   "published": "2026-11-21T03:52:59+00:00",
+   "id": "97b588bb2fe4",
+   "impact": -4,
+   "cat": "commerce",
+   "raison": "baissier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Spot Gold Plunges Nearly 9% in a Week, Losing $3,600 Handle; China's Gold Jewelry Prices Fall for Tenth Straight Day, Down More Than 650 Yuan This Year",
@@ -6621,18 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Multiplication d'attaques d'envergure en Ukraine entretenant l'incertitude sécuritaire en Europe de l'Est.",
    "method": "IA"
-  },
-  {
-   "title": "US Dollar: Further upside supported by risks of Fed tightening - ING",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG51NlZwVk9XOElhbkd0TlFubUJhQnVzU0lVb21HRlkyQm03Vm9qb1d2RjZ5RlNkQUM2d05EVEZZUmhsWjdsVEVITUhBVkYzQjl6N3dqRVR0V1N4ZGJna3laYzlaQVZhM21HRjVBM0pjYzlaaVRlMS1IQ3I0Wktqa1M5d3dGUElFaDlHdjBqY2VwRl9lT3dORS1Bd1pmcHRDQUtXRDFwZ201OW4xZ2pPVmd4MzkxT2FOY3hfVXJmZjY?oc=5",
-   "published": "2026-11-20T11:43:46+00:00",
-   "id": "fe12dbb9ef55",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
