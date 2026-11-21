@@ -1232,12 +1232,6 @@
   }
  },
  "seen_news": [
-  "04f5ec225b5b",
-  "21a3175529e6",
-  "792f2e0b925b",
-  "f1757593534c",
-  "46b58cc48526",
-  "1125df8e0790",
   "f5b676743ed0",
   "b72b29305bdb",
   "811e79cd31dc",
@@ -4231,9 +4225,27 @@
   "3bf790704f3f",
   "1dfce9d39443",
   "d1e442d04717",
-  "f257904a6870"
+  "f257904a6870",
+  "1e134d317028",
+  "8a1e69a023fe",
+  "6aaf6471266a",
+  "482953a12b76",
+  "55d61d615d35",
+  "74812e61d860"
  ],
  "news": [
+  {
+   "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+   "source": "The Guardian",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
+   "published": "2026-11-21T17:26:00+00:00",
+   "id": "6aaf6471266a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
    "source": "idahopress.com",
@@ -4917,6 +4929,18 @@
    "cat": "politique US",
    "raison": "Pressions politiques pour baisser les taux, favorable à l'or mais impact concret limité.",
    "method": "IA"
+  },
+  {
+   "title": "Japan’s CPI picks up, keeping BOJ on track for rate hike",
+   "source": "The Edge Malaysia",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMZXp2Wkh6U1czN1lyWUM0SVdPTENaNGtyVnJGbllTbGJvUU92SGVENmFzLVJXUERWR09CVTFOZlNObzQtdmRJWFg5S3pZM3hr?oc=5",
+   "published": "2026-11-21T01:52:30+00:00",
+   "id": "482953a12b76",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "Russia unleashes barrage of missiles on Ukraine, killing at least 8",
@@ -6608,30 +6632,6 @@
    "impact": -1,
    "cat": "politique US",
    "raison": "Velléités politiques de retrait réduisant à moyen terme la prime liée au conflit.",
-   "method": "IA"
-  },
-  {
-   "title": "U.S. Treasury yields fall as equity sell-off drives safe-haven demand",
-   "source": "Traders Union",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaE9TdUlBeVJyMFViUHh3bXJSNFZwV3hQUVFBQ1c0eWlTQ1lfaXRZbzY3ZjhzeTZGSWZtQ2JzRUlMZDhyRVdOUjlYU0w0dVMzTkdTWkVqWnVqeThXVmxlcHMyaG4xZ2J6U3NQNlBSS2RSb1h1U2wtQmpIOFAzYUE1Szc5cF8ySmRuNDE3dE5lajJuZm9pdjVR?oc=5",
-   "published": "2026-11-20T10:55:32+00:00",
-   "id": "4f9a7dfd4e78",
-   "impact": 4,
-   "cat": "taux",
-   "raison": "Chute conjointe des rendements obligataires et des actions, mécanisme optimal pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Dollar takes a breather near 19-month peak; Yen jumps on hot CPI By Investing.com",
-   "source": "Investing.com India",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWFIS3cyaVRjcVJIOFFpN082cV9TdDF4emdnSzFKZVUwZVQ0NGt4TFpUQWFWOHJubExzZmVDQjBZbFNHbTlPNDFGNm5kRG1OaXJ2enhVQ08yUmhxa2RKWUN2SEhhZUhBZWxOaUlkX0o4T0pFQk5NUTVGRlV4TGltcDBlSVVpUzE0M2kwODhHaENuOHZDazk1dFBiYmVDUkF1aC1pbldRTUhQb1lHWXNOaDdlQ1FLZjR4Mzk4ZGd6bw?oc=5",
-   "published": "2026-11-20T10:45:52+00:00",
-   "id": "1879fee66959",
-   "impact": 2,
-   "cat": "dollar",
-   "raison": "Pause sur les sommets du dollar américain offrant un soutien mécanique court terme à l'or.",
    "method": "IA"
   }
  ],
@@ -8526,7 +8526,8 @@
   "news|38058d223b5c": 1795279572.212817,
   "news|4bc6325c5a3d": 1795279572.9942398,
   "news|8025e9b9eec0": 1795281899.5317407,
-  "news|f367eaae19d7": 1795281901.9980345
+  "news|f367eaae19d7": 1795281901.9980345,
+  "news|6aaf6471266a": 1795282285.1584404
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9014,6 +9015,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T17:31:25.158542+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon</b>\n📰 The Guardian · Sam 21/11 18:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5"
+  },
+  {
    "ts": "2026-11-21T17:25:01.998142+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Reported Hormuz attacks hit wartime highs . Oil prices fall anyway . · Digg</b>\n📰 digg.com · Sam 21/11 17:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://digg.com/world-business/hk32yb03"
@@ -9307,11 +9313,6 @@
    "ts": "2026-11-20T19:01:46.977244+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar: Could Fed tightening risks underpin further gains? - ING</b>\n📰 www.tmgm.com · Ven 20/11 10:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHlhdWRNcTE0RVB1bnJzXzg4UXBuWHNNRVNpeU5VZE9mdVhOVUNEZ1ZZekY5S2swbTR5VE9QY2hORU4xZnByRXhPOFFadXpJUkZVZVNvNHZZdjNwUEkydUs5dFd4U0NfYTR1Y0tFX3g0dDJEYV8wNTlSUmx2MG9JQk9TTGhyazJac3VKQzdSamFOejk0TTNnaFlPN1RSTzBYUnhvWU8yYzlsNm5hOWdsbFlLRTRCNU1kVmFLYnloNlBzWlE?oc=5"
-  },
-  {
-   "ts": "2026-11-20T19:01:46.093447+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means</b>\n📰 NBC News · Ven 20/11 19:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5"
   }
  ],
  "daily_forecast": {
