@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795231858.9272041,
+   "ts": 1795235464.64181,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1232,12 +1232,6 @@
   }
  },
  "seen_news": [
-  "474912c11ea1",
-  "d7e0c551f8a3",
-  "8f1ea7d3885b",
-  "762f06610ff5",
-  "a495b08dbca9",
-  "d57b87f1daea",
   "65d28ec06fbd",
   "a219dc879717",
   "5aa1cb02f422",
@@ -4231,7 +4225,13 @@
   "ca50e6fc3c7d",
   "cc659ed494cb",
   "8d5fa7c152dc",
-  "12229e4efb43"
+  "12229e4efb43",
+  "5f88064856b2",
+  "c7bedd730f97",
+  "93f1084237ed",
+  "bfc4d212923b",
+  "f2cb456be1f9",
+  "c6334a056836"
  ],
  "news": [
   {
@@ -4833,6 +4833,18 @@
    "cat": "géopolitique",
    "raison": "Espoir d'accord diplomatique avec Téhéran réduisant marginalement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Trump defends Vance’s Iran war statement",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1daYi11bU1PbGN3Uno0blJJSTktdExvZWhNWVNWWTZzUGVhZG1HZDE5TFdud1pDWDZURDNCamdtd2M1TFNsc2M4V0ZBb2hndkZPQkU5cHNjOTJwU0QzVTNxUjlvNmFOeUFlc05zY3VnODVaWU9sTGVINGVsWF91blB0Z1JWWjlSTUwwMHpoX1JQdDhnZHNQQTNnR1dNT1E?oc=5",
+   "published": "2026-11-20T21:24:00+00:00",
+   "id": "c7bedd730f97",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
@@ -6621,22 +6633,9 @@
    "cat": "géopolitique",
    "raison": "Risque d'escalade militaire imminente soutenant les flux acheteurs vers la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "'By attacking Iran, Trump wanted to disengage from the Middle East. Instead, he is settling in'",
-   "source": "Le Monde.fr",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT3hPSVdWT1N6ZXJYRUxCSm1VUmwyTE9XV0M0N1BCMjBjMS1TVnNaek5BT2t5bmQxQXlYMUIwcm5TbkhJV3VsZk9jRWFjazlHbkhPSDByQmxTNS02SXViaDl5cTFLZ253aWFBeFBYUGxVTXRGV0VYVDc3Z2M0bGtyLVpJSlptZDFQSklkeWVCSW12VGJxbWpya3hQa2w4alZDLTNvTEJVVjhDWVg1MGhBUWhCSC0xU181YjZzbE41THV1RXNGUDVUdG8wMTM2NkhnTmVZeVhfa2doaGdjYlpNaHhCNS0tRG5MMmhvOXByYWw?oc=5",
-   "published": "2026-11-20T02:24:37+00:00",
-   "id": "6cb99dc6e5d5",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Analyse d'enlisement régional maintenant une prime de risque sans provoquer de choc immédiat.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|ac57a2c97a78": 1793420188.3204494,
   "news|4b85e492036b": 1793423088.8659203,
   "news|7e3014e91ff4": 1793425569.0070434,
   "news|4f47ed60f2ce": 1793429174.667423,
@@ -8538,7 +8537,8 @@
   "news|73e42882496e": 1795230969.0406387,
   "big|BTC|2026-11-21": 1795231884.6482108,
   "news|b576a8c191ac": 1795232953.1970816,
-  "brk|BTC|h250|dn|2026-11-16/2026-11-22": 1795232954.3273444
+  "brk|BTC|h250|dn|2026-11-16/2026-11-22": 1795232954.3273444,
+  "news|c7bedd730f97": 1795235673.3941712
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9026,6 +9026,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T04:34:33.394309+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Vance’s Iran war statement</b>\n📰 CNN · Ven 20/11 22:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1daYi11bU1PbGN3Uno0blJJSTktdExvZWhNWVNWWTZzUGVhZG1HZDE5TFdud1pDWDZURDNCamdtd2M1TFNsc2M4V0ZBb2hndkZPQkU5cHNjOTJwU0QzVTNxUjlvNmFOeUFlc05zY3VnODVaWU9sTGVINGVsWF91blB0Z1JWWjlSTUwwMHpoX1JQdDhnZHNQQTNnR1dNT1E?oc=5"
+  },
+  {
    "ts": "2026-11-21T03:49:14.327411+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 1 AN\nNiveau : 57 748 → prix : <b>56 722</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.37 | 60j 0.43"
@@ -9319,11 +9324,6 @@
    "ts": "2026-11-20T15:31:30.495070+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia pummels Ukraine, missile hits Poland, after Putin threat</b>\n📰 AFP.com · Ven 20/11 14:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2R1cFZiTXZVcXVNdGxxeGVWR2MtX1NKRkxxYkx0X0xwUDJOMHhjbUpSQmh4NE1pVjJMN0dkeTQ0RW9VdTFwdEt0dFVOMkNJV2hLMWg1aUNBQ09nQWlHaWRfanlhSTJDUXNBcWNnb1RjYm1JNV9BYW9kXzRIXzhPWVhac01LZnFKZEw3Wg?oc=5"
-  },
-  {
-   "ts": "2026-11-20T14:52:16.994695+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Israel, US weigh new Iran strikes 'in the short term'</b>\n📰 Ynetnews · Ven 20/11 14:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WWnNaSllWZ1lJZlFFQTMzZ042TFFZRGliVTVkRVlHT20tNTZYQ0t5ODJOZkF1dlFUdDNHYmJ5VVhkX3FYTy1ZWHFOc0F2MlU3SG1OWGtn?oc=5"
   }
  ],
  "daily_forecast": {
