@@ -1232,9 +1232,6 @@
   }
  },
  "seen_news": [
-  "1ffa881659d2",
-  "3b75c9170874",
-  "115005fde360",
   "bde350ffeaf6",
   "c7372b824bad",
   "68d8fee78cb2",
@@ -4231,7 +4228,10 @@
   "182b7e9b6332",
   "20ac35c2d7d6",
   "8ab3551a66b0",
-  "1902852bc90c"
+  "1902852bc90c",
+  "54b7c5edcc05",
+  "0c546036a7d8",
+  "82e094772e8b"
  ],
  "news": [
   {
@@ -4593,6 +4593,18 @@
    "cat": "géopolitique",
    "raison": "Tensions persistantes autour de Taïwan, offrant un léger soutien de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump says Iran is ‘bullsh*tting’ on effort to end war",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVhVbGZLY1otcEhJU2xyQnNHV0FjZkh0VEYwVlA1eUNIOGlTMUMzVFdBdXdWUmZtV25GYVVXbjFrbzVDb18tTDBOTVRzNW1Qcnp2djZYWHBvVWpHVWpNU0RMTDZLU2RsUnVjaVcteUtXLXBvSThMYUpEajN0NVMzRXdCamZsdFV6b0RsWkNFVEM?oc=5",
+   "published": "2026-11-20T21:56:00+00:00",
+   "id": "54b7c5edcc05",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump insists Iran won't make an 'acceptable' deal as concerns grow about next steps",
@@ -6621,18 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Absence d'accord nucléaire maintenant une prime de risque géopolitique résiduelle sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Ringgit Holds Ground Despite Hawkish Fed Expectations",
-   "source": "BusinessToday Malaysia",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVdyNWJlckJYbkhmTFNDVXpPZmRjbnZhWm1WczVMYW5mR19uSjNaZVdFSDBvRS1RZTYwSzBLbTFoVmI3UEE2Z0hic3VVZk9yU2ZUbDZuVlpRU3F5SXNmMEpzM0RBSkF3X0ZqeU9lTHJwa2dBVEVmelFQYnJ1QmJ0bDlxR0VIZmg3NG55b2FpdHNycUN4ejdhOFZkT2FRb28?oc=5",
-   "published": "2026-11-20T01:28:02+00:00",
-   "id": "ea24044549dc",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Anticipations d'une Fed restrictive pesant sur l'or via des taux réels plus élevés.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8535,7 +8535,8 @@
   "news|5dac1fedbb4b": 1795225578.5708463,
   "news|6e3abe515d1d": 1795226560.2360218,
   "news|20ac35c2d7d6": 1795229350.428097,
-  "news|182b7e9b6332": 1795229353.1065207
+  "news|182b7e9b6332": 1795229353.1065207,
+  "news|54b7c5edcc05": 1795230307.369652
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9023,6 +9024,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T03:05:07.369723+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran is ‘bullsh*tting’ on effort to end war</b>\n📰 CNN · Ven 20/11 22:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVhVbGZLY1otcEhJU2xyQnNHV0FjZkh0VEYwVlA1eUNIOGlTMUMzVFdBdXdWUmZtV25GYVVXbjFrbzVDb18tTDBOTVRzNW1Qcnp2djZYWHBvVWpHVWpNU0RMTDZLU2RsUnVjaVcteUtXLXBvSThMYUpEajN0NVMzRXdCamZsdFV6b0RsWkNFVEM?oc=5"
+  },
+  {
    "ts": "2026-11-21T02:49:13.106640+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Hit By Iran War, Israel Pivots To Cheaper Air Defence Amid Rising Tensions</b>\n📰 NDTV · Ven 20/11 07:40\n🧠 haussier or (fed, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWdRclZyOUVySnF5X3FBS0JKSXFjYlktREpMakZiT3NmZGpsOUlVLWlzbjhudUFRdDVfUDVSeFl0dFNZVHloT0hyS2hoSTFlcDRzYU40ODVOdmE2bHBnYlhTVW1VcWZBeDMzVmprTHZpeUx2OG1PRGxxMHNjV2RkMU80Q1BSWDdvN2s4OHllQUloUzdBeXpQSS0zUU1Oa3ZUSmljMmpSeTVwVW5tTElMcWlNYzIya0otZDVjRy1yQzNuajRRb1lkWtIB0AFBVV95cUxNWXZHZjRES2tmWnBpQ0lFbjVBOU04UFp0LVVPY3M2SEphZXp0TnlMb1M4M29FSkxTT1FLTUo4VGJUYmU5MEo5WXFBZlBUWkhubGFsMDFNbGRXbnk5cExBNjlQY0N0QmpqeXhnX2xCUUJndC1vdndMTklqVDNJcWdOTUhDWV9zYWRrbjZKTERlajllR0xoOHNfNldzb0d4UGZTUldPZW9wRzIyNkdjZElrOHVwamNUTTlwbGVWNXNvRTVGdVVWM2JuWm9QcEJFNG8y?oc=5"
@@ -9316,11 +9322,6 @@
    "ts": "2026-11-20T14:03:21.943872+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 38 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Waller Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.07%\nTaux 10 ans -0.8 pb\nOr +13.5$ (extrême +14.6$, range 19.0$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-20T13:46:12.339060+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -11)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+10), Taux US 10 ans (5j) (+10)"
   }
  ],
  "daily_forecast": {
