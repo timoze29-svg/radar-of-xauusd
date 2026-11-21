@@ -1232,12 +1232,6 @@
   }
  },
  "seen_news": [
-  "5b50f0857386",
-  "c4a22168e8ed",
-  "b824e18bcc51",
-  "b444259b2ecb",
-  "e9165c40f047",
-  "837884a5c1a9",
   "23fb03aca85d",
   "81ac3709850b",
   "2fb8317bc88c",
@@ -4231,9 +4225,27 @@
   "a92043c4b319",
   "2cb5eec52c5e",
   "05e6a76871d0",
-  "5d7b8abec98c"
+  "5d7b8abec98c",
+  "72e5ee119441",
+  "8b4cd120e057",
+  "bb3db4e67809",
+  "ddd1f96b9559",
+  "464328d74495",
+  "d14597761d56"
  ],
  "news": [
+  {
+   "title": "Trump's battleship plan drives up Navy costs as Iran war strains fleet",
+   "source": "upi",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlhVVktVUHRlN0ZkNnBPN2JFd2pKS3pKTzZJc3FXTzFGdEJXSmVlUEF5YURfUVlaYmhiOEstTndkWkthX05yMDhHR0dWZncyOGtHWXo0SENwYlhodVVRZVFCaGlrY1pYeGlDVlhEYzUwd29pdDB0b1BLZm5QdVgybnlYaDZUNmfSAYwBQVVfeXFMUEFYS2YwcTU1SWZzS0diY2RSWi1leThYQXJwZEJsdmtmOVlYRlFCMWNxczg0eGVnejhSbGNLRlEycm5idlJYRzFLckpmVWwxdmhTeHpVcDlkMGhXTXlaSGY5dlR3cVZMeVRtSzY0VzItU0h5SUZOSDVFUTNhRklHQzlyZWRpNlRGLWZrUUU?oc=5",
+   "published": "2026-11-21T22:06:11+00:00",
+   "id": "8b4cd120e057",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iranian Attack Sets Bahrain Industrial Facility Ablaze",
    "source": "cwibc.co.id",
@@ -6621,18 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Violations de l'espace polonais amplifiant l'angoisse d'un embrasement généralisé OTAN-Russie.",
    "method": "IA"
-  },
-  {
-   "title": "Tariffs keeping essential baby products costly despite U.S.-China deal",
-   "source": "Kiowa County Press",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblBfakVfSm1MVDVibWV2UnFCVkowbGl0eTVpVlBkenZXRFRDT04xMU9FRDZtTV84U0tWNkU3SGlscUZDSlFRMHlTbnZuV08yaUVmOTFPa29zeUlTZUhfaGMyOUcyU0YyMjd5VzZ5bVlkdXlGMjVVaUlfYW12VnVoWC1SWGxWY0UyTDM3N2d2SjVjUkR3aE93WmJldDZWMW1SbGIzak8zdFk?oc=5",
-   "published": "2026-11-20T12:19:39+00:00",
-   "id": "50be4e09db34",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Persistance de frictions commerciales et pressions inflationnistes douces, effet marginal sur les taux.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8529,7 +8529,8 @@
   "news|5268f8dea428": 1795294902.8872197,
   "news|6c68fa3d6a97": 1795297580.6499634,
   "news|6442ff0c338d": 1795302037.8686628,
-  "news|10fd9a016295": 1795302038.7853363
+  "news|10fd9a016295": 1795302038.7853363,
+  "news|8b4cd120e057": 1795302967.268605
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9017,6 +9018,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T23:16:07.268692+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump's battleship plan drives up Navy costs as Iran war strains fleet</b>\n📰 upi · Sam 21/11 23:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlhVVktVUHRlN0ZkNnBPN2JFd2pKS3pKTzZJc3FXTzFGdEJXSmVlUEF5YURfUVlaYmhiOEstTndkWkthX05yMDhHR0dWZncyOGtHWXo0SENwYlhodVVRZVFCaGlrY1pYeGlDVlhEYzUwd29pdDB0b1BLZm5QdVgybnlYaDZUNmfSAYwBQVVfeXFMUEFYS2YwcTU1SWZzS0diY2RSWi1leThYQXJwZEJsdmtmOVlYRlFCMWNxczg0eGVnejhSbGNLRlEycm5idlJYRzFLckpmVWwxdmhTeHpVcDlkMGhXTXlaSGY5dlR3cVZMeVRtSzY0VzItU0h5SUZOSDVFUTNhRklHQzlyZWRpNlRGLWZrUUU?oc=5"
+  },
+  {
    "ts": "2026-11-21T23:00:39.839373+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -13)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (+11), Sentiment news 24h (+10)"
@@ -9310,11 +9316,6 @@
    "ts": "2026-11-21T00:03:21.750516+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran-aligned Houthi terrorists prepare to strike Saudi Red Sea ports</b>\n📰 The Jerusalem Post · Ven 20/11 15:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsSE01Slg2cWdST3c0R3lkUUJzUUI5V2ptMHRDa05mcGhmZmdBbkRSXzZnTDhIeVo1WC1jVHhIdlM4ZGpXcUU2b01hOXR0OVZPTGhYa3c4WjhjVmh0?oc=5"
-  },
-  {
-   "ts": "2026-11-20T23:31:28.771436+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Takes a Beating as Hawkish Fed Sparks Worst Week in Eight Months</b>\n📰 Yahoo Finance · Ven 20/11 23:56\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHRqR1J2alFiOXd3Y2tteUlQenZGRXhiVlR2Tk4xSEVSTUd5Q2pwV2lMcmpvYm1uWFAzTWZ1T2lsYkZEczNGZlVsOGhTZW5zMXl6Wkg0Q1ZtcV9sd2t6YzQ3Ri1tejZtbUlFYVdObWNJZUU1N19GR3V6RkxTWi1QbXNnVHVuUmdtLU5hQjdyeklTSTB0cUludHFvWGtod2RvaXc?oc=5"
   }
  ],
  "daily_forecast": {
