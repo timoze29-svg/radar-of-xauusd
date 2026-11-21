@@ -1232,9 +1232,6 @@
   }
  },
  "seen_news": [
-  "aa7c70313df7",
-  "87e8c45d700c",
-  "d806eebf5cbf",
   "51d61c6a7a76",
   "027a3b6ca1a3",
   "2823918eabf4",
@@ -4231,7 +4228,10 @@
   "870f653c49e3",
   "7188ee9d40ba",
   "fe12dbb9ef55",
-  "30759625c514"
+  "30759625c514",
+  "189abdefcb31",
+  "e274f764df0f",
+  "bf76a320c5b5"
  ],
  "news": [
   {
@@ -4304,6 +4304,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Which regions are most affected by Trump's tariffs?",
+   "source": "The Portugal News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTlkeUlxUlhyV2RQVHg0Zm5HeDk2bllhTkRHSzcyUUZpMUlubVF4RDdraGJreW1xczllVkhXVUxiekR5VTZxZWJ1STU4QmQ1eV9rbzBuaVlaZWY4WmZ5Q1VPc1FxVWVfZ0FjTFZuQUtyOTY1WV91SXJneUducnM0cmNNNGNLelI1UnI2N1M5c2c5UmRISGNIYl9MYXNMXzlKTmFidWpTaw?oc=5",
+   "published": "2026-11-21T06:05:06+00:00",
+   "id": "e274f764df0f",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -4653,6 +4665,18 @@
    "cat": "géopolitique",
    "raison": "Menace d'escalade militaire directe contre l'Iran, stimulant la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Japanese Yen gains modestly as CPI data bolsters expectations of a December BoJ rate hike",
+   "source": "www.tmgm.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYjUzbHRHdUNnM3N4XzlOeXNuWHBuUGE5U1FxYkJjN2hURGdxUEtONzVtTjhsWHZtQWI0bm0yUlBkSlZ1dkVGNUUzWGl0LWJvOXZ3VWsydGduZDM4QTJ2TkdmMFZRS0FIY05naS0xb1hKMUl2V0VXTERTYnBKREpWOWxpb2tGRHFwNHd4WGJtTFBGR2xiQmVkNm1reEkwazE2VUhLbHVVUl9MTGxUWlMwbnJvazRlZTJfYTJQQzBjd2IzVlZYbU1GQi1vSG1EcDhXR2laWGM4QkdnU2pDUFNnVEFGMEtab3Zj?oc=5",
+   "published": "2026-11-20T23:28:35+00:00",
+   "id": "bf76a320c5b5",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
   },
   {
    "title": "US Dollar Index (DXY) stalls below 104.00 as Fed rate hike bets are offset by AI jitters",
@@ -6608,30 +6632,6 @@
    "impact": -3,
    "cat": "géopolitique",
    "raison": "Report d'une action militaire américaine, dissipant temporairement le risque d'escalade immédiate en Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "EUR/USD Drifts Near 1.0980 as Fed-ECB Policy Gap Supports Dollar Pullback",
-   "source": "VT Markets",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHVvbEYwTHM1N0tXZUxOUGRLVUZFclJmYUZpa2s1VjhnTHF4T3kzdkdiN1drd0FsYVl3Qk81NmZXb1dVczhjSWQxY2g1ZkVac0pLWFVjUzN0X1pvSEd4cVdMSVNrUWh2d1lmb0FqQWtWRUQyYTQ2T2ltSGZQUkZUWTE1Q0M2MW5ZOWNEV1UtN3I4bERqZDd3MHBFdmlLMEp1b1ZXaWRqeU5md2F3MDJ0dUhySU9kNTJ0WXE0?oc=5",
-   "published": "2026-11-20T05:37:19+00:00",
-   "id": "c08c29bb00e5",
-   "impact": 2,
-   "cat": "dollar",
-   "raison": "Le repli du dollar face à l'euro soutient mécaniquement les cours de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran: US launches fresh strikes as hostilities flare again",
-   "source": "DW.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWNFQTNYTzU5VkMwWjJocU5TQ3JwYzd4ZEFFV01sU21xREt6R19pZ0Z0YVdoV3ZyQWZ3aEptRFM3aVozMVU1U1g0OXFYWkdGZTBqUzUwdEtjMkhfZmkydk9VSGtBMzFzUUloM1BNVjl4NWJoeDhrOW1XbW04VDAxSldJVHY2empRQlMzQzdySWtRNlBZ0gGUAUFVX3lxTE45R2NyMUYtdVBUdFhQVk9YeTVqdWxZR0lDNXpIOE9YSVJrY254V1MxYTZud1E4VDFTazlROVZKd1BxcUNPdHpZQUx3X0xwajNnZ3lYN09McFNkeEY1SE9kM1VrU2cxaV8yR09McjlvcEN4V1ZpZnhZOTU1NVZiN2N4eUN3cDl2M1ZxaFhDZmFWR0ZqdGE?oc=5",
-   "published": "2026-11-20T05:06:37+00:00",
-   "id": "8a1cc95cb86f",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Frappes directes américaines en Iran, forte impulsion haussière immédiate sur la valeur refuge.",
    "method": "IA"
   }
  ],
