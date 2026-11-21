@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1795210281.2382987,
+   "ts": 1795253875.8136272,
    "data": {
     "date": "2026-11-17",
     "net": 166132,
@@ -1232,9 +1232,6 @@
   }
  },
  "seen_news": [
-  "9096b0744b8a",
-  "8b478b49c572",
-  "33b7a7410160",
   "63167073d331",
   "da4303a1d052",
   "aa7c70313df7",
@@ -4231,7 +4228,10 @@
   "42414928e2bb",
   "c23477ca9912",
   "14474f1de620",
-  "1fd6740db6ca"
+  "1fa7a3cb06aa",
+  "0264ac66c0e8",
+  "870f653c49e3",
+  "7188ee9d40ba"
  ],
  "news": [
   {
@@ -4302,6 +4302,18 @@
    "published": "2026-11-21T06:26:22+00:00",
    "id": "fa1d23ca4867",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "As Trump cosies up to Xi, Taipei’s citizens take up drone warfare",
+   "source": "The Observer",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUZGVm1PVG5lTjFlWlhaaTdSRWE2cURQS3BPSFA4R3RGejdlQW5RY1dtUVVpOHBVeXBFQkhXdWd3VjFXazVLWHpwZ0NyZjA5TWdkV0xYUUZHWGczTTI4TnFuYm1neTZwcUJtaktxYjZRRzNUYmxzRURKZWE3WXFMSlhzRzVyN1ByRXVaV2VlSXBZbVZzY3RqVUNfOWRsaWpDamFVLVRIa2xRY3RmeEp0S2k4RQ?oc=5",
+   "published": "2026-11-21T06:03:58+00:00",
+   "id": "0264ac66c0e8",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6636,8 +6648,6 @@
   }
  ],
  "fired": {
-  "news|6e2ca04eaf5c": 1793438402.4371052,
-  "news|1ec541e60fc2": 1793439085.6222544,
   "news|d7fc3af423c1": 1793442688.9225366,
   "news|01ca4f9a9d57": 1793442690.022346,
   "news|45775a2c4192": 1793448970.699841,
@@ -8535,7 +8545,8 @@
   "news|c2bd4b53e849": 1795239088.241337,
   "news|9033a67f2ba3": 1795242868.1315498,
   "news|c8d3f6700222": 1795250085.0526571,
-  "news|577d80c2fbfd": 1795251706.1654449
+  "news|577d80c2fbfd": 1795251706.1654449,
+  "news|0264ac66c0e8": 1795254118.3208218
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9023,6 +9034,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T09:41:58.320934+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Trump cosies up to Xi, Taipei’s citizens take up drone warfare</b>\n📰 The Observer · Sam 21/11 07:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUZGVm1PVG5lTjFlWlhaaTdSRWE2cURQS3BPSFA4R3RGejdlQW5RY1dtUVVpOHBVeXBFQkhXdWd3VjFXazVLWHpwZ0NyZjA5TWdkV0xYUUZHWGczTTI4TnFuYm1neTZwcUJtaktxYjZRRzNUYmxzRURKZWE3WXFMSlhzRzVyN1ByRXVaV2VlSXBZbVZzY3RqVUNfOWRsaWpDamFVLVRIa2xRY3RmeEp0S2k4RQ?oc=5"
+  },
+  {
    "ts": "2026-11-21T09:01:46.165527+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude Oil Gains as Traders Weigh Possible Iran War Escalation |</b>\n📰 Business Post Nigeria · Sam 21/11 09:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXhJbFlna19WZTVHVUVIdHFCd2hTWnkxTmJMZWoxRWZwWmV0THMwT3ROZ0VITEFkTzJZRFRWUG5FX1FLR3NYaHd4ZVdFVUE0QWJMc0NVN2ZSb2gzdnpNMnhUS3pJanZiNWl4aEZNbGd2TzN2T0VYYmZUdnpIcGNtWEl5ZHRGcTdyOEFFajh2LVZiVEJOMkVRakhB?oc=5"
@@ -9316,11 +9332,6 @@
    "ts": "2026-11-20T16:01:45.198979+00:00",
    "kind": "pre_event",
    "text": "⏳ <b>DANS 73 MIN — 18:15</b>\n\n🇺🇸 <b>FOMC Member Cook Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY -0.27% aujourd'hui · taux 10 ans -11 pb · biais or -10 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 101$ → attends-toi à des mèches rapides."
-  },
-  {
-   "ts": "2026-11-20T16:01:42.624175+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 5 ans\n-0.127 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
   }
  ],
  "daily_forecast": {
