@@ -1232,12 +1232,6 @@
   }
  },
  "seen_news": [
-  "5706c8e30c6c",
-  "0972d526a244",
-  "049d053f1caa",
-  "30fb8503633f",
-  "da205b48617e",
-  "b71c2c389f5e",
   "fd89b25e9204",
   "7ff0524c6db3",
   "ad48e2ee7c77",
@@ -4231,7 +4225,13 @@
   "766b99c84e6a",
   "dfb38fad14f8",
   "07b22771a2de",
-  "dde313d296fb"
+  "dde313d296fb",
+  "b7f8056041d5",
+  "5d1652fa8477",
+  "49b0de35e6df",
+  "d8ad4d4f387b",
+  "d6a57995f5cf",
+  "7cc66d7ae30b"
  ],
  "news": [
   {
@@ -4266,6 +4266,18 @@
    "published": "2026-11-21T14:48:45+00:00",
    "id": "1fee9dd386e4",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
+   "source": "New York Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0VzSEdkMFJlclR3UnhCVFVBa0dKWVF4SEd2Zzk3M0t1NW5GZWI4U2Q4T28xS1dtNXdVTl90VzJfQ0RCVE9rdENDWk93MHpTTGtzaU9lQ29BS2ZaVklnZzhMY2tYeTBhV3hnWlhNYmdWRE1yd0N5X1hELTNubmtiU2k4bXI5T3BHTGlONjRyajFsckY0MVZUSmFicWhQazBuM1dkRlU2OEI0MXpUWUZvM2tkVWpWUUxzR2U3TUJR?oc=5",
+   "published": "2026-11-21T14:40:00+00:00",
+   "id": "5d1652fa8477",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6621,18 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Perspective d'un conflit prolongé au Moyen-Orient ancrant une prime de risque durable.",
    "method": "IA"
-  },
-  {
-   "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
-   "source": "CNBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjNFFLQXkxc1VHTlM2WkFrdDhyU1hRN1VkazhsZHkwZEs3Y0l6YVBQbUNHU0V2Qmo3M2J4RnBHMDg3Nm84QlJEMFRSNjBUNTFvX2lqX0FxM2o0cUxUbDk0Z1JaZ3NwQ0lNeU02YkJwVUM3ZjZ1OXEwTTFRUUxCZ9IBgwFBVV95cUxQU0hTNTNmMDhiTzhCemlfTF9TRU11d2hGemFUWnM3RzBmOHlXQi14RnRfWWdIUE13bHFiY2U4N2Z6aTJsWW9zamtmdUdDSkJmYTBvMDJqNTNuMXdZaUl4Q011LTh6WGNQeGdzaFZMVG80Q2sxRzljMlUyMFZ0b2FRMnRERQ?oc=5",
-   "published": "2026-11-20T09:26:45+00:00",
-   "id": "55724a41f31a",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Avancée diplomatique perçue réduisant légèrement la probabilité d'une escalade immédiate incontrôlée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8524,7 +8524,8 @@
   "news|fe27c7ddbd43": 1795268773.7942023,
   "news|15578d5bcb91": 1795275973.7147193,
   "news|07b22771a2de": 1795277119.1553075,
-  "news|dde313d296fb": 1795277119.9606438
+  "news|dde313d296fb": 1795277119.9606438,
+  "news|5d1652fa8477": 1795277769.823922
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9012,6 +9013,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T16:16:09.824023+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes</b>\n📰 New York Post · Sam 21/11 15:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0VzSEdkMFJlclR3UnhCVFVBa0dKWVF4SEd2Zzk3M0t1NW5GZWI4U2Q4T28xS1dtNXdVTl90VzJfQ0RCVE9rdENDWk93MHpTTGtzaU9lQ29BS2ZaVklnZzhMY2tYeTBhV3hnWlhNYmdWRE1yd0N5X1hELTNubmtiU2k4bXI5T3BHTGlONjRyajFsckY0MVZUSmFicWhQazBuM1dkRlU2OEI0MXpUWUZvM2tkVWpWUUxzR2U3TUJR?oc=5"
+  },
+  {
    "ts": "2026-11-21T16:05:19.960761+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Trump cosies up to Xi, Taiwan’s citizens take up drone warfare</b>\n📰 The Observer · Sam 21/11 09:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUZGVm1PVG5lTjFlWlhaaTdSRWE2cURQS3BPSFA4R3RGejdlQW5RY1dtUVVpOHBVeXBFQkhXdWd3VjFXazVLWHpwZ0NyZjA5TWdkV0xYUUZHWGczTTI4TnFuYm1neTZwcUJtaktxYjZRRzNUYmxzRURKZWE3WXFMSlhzRzVyN1ByRXVaV2VlSXBZbVZzY3RqVUNfOWRsaWpDamFVLVRIa2xRY3RmeEp0S2k4RQ?oc=5"
@@ -9305,11 +9311,6 @@
    "ts": "2026-11-20T17:46:25.985144+00:00",
    "kind": "post_event",
    "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Cook Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.03%\nTaux 10 ans -0.6 pb\nOr -9.2$ (extrême -12.6$, range 17.4$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
-  },
-  {
-   "ts": "2026-11-20T17:46:24.798817+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation</b>\n📰 EnergyNow.com · Ven 20/11 00:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0ZIZjhiYjU3d20tSzV1WTF6V2NqUVZCWkxPeDczTGdsX1RBakFTd0FBblE5RGRmNXdfYlRiMllUa251WHYxS2RCc1dRZmZSUllmakQySHBCZDhhNmRZQVlIOFk3Z3ZfeGl3NXVFUk1VdGE2bC1vc1BodW5lU2cxQ3RYZ3puLUluUWNzY01ncUtfdGdiT210emt0UjljMEszcWFUc05PX08xUDIxbWhTRGdMNVlTUlBJZ2lJ?oc=5"
   }
  ],
  "daily_forecast": {
