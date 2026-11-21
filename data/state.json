@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795279550.192567,
+   "ts": 1795284074.502537,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1232,11 +1232,6 @@
   }
  },
  "seen_news": [
-  "79258dfcda77",
-  "766c9a380815",
-  "b222f35c396d",
-  "9ffe1a0c57c9",
-  "fd61a3095036",
   "e42cc3ef80f5",
   "d539aeb17a50",
   "aedb6b14b744",
@@ -4231,7 +4226,12 @@
   "f99df0617cf9",
   "152d3531b2b7",
   "4767729d90f0",
-  "83afc791cef6"
+  "83afc791cef6",
+  "09c13667c03c",
+  "b58aee6d1c06",
+  "6ffe09407653",
+  "45a8df1847ac",
+  "c76b79caa69c"
  ],
  "news": [
   {
@@ -5831,6 +5831,18 @@
    "method": "IA"
   },
   {
+   "title": "Iran strike imminent? IDF Spokesperson urges public to ignore rumors",
+   "source": "Israel National News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sOERoWnFsMFNIRVZFWmJ5cDAySzhILURBWkhQWF9IMW5LTmt6bkh0YzdhWTFxOV9HRGJ1cnlNbUdjTG01Ujg5RUpGdXhhYU1xaThIQXd3TFBaQQ?oc=5",
+   "published": "2026-11-20T18:50:28+00:00",
+   "id": "45a8df1847ac",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Tariff refunds for public companies",
    "source": "FlowingData",
    "theme": "Tarifs",
@@ -6621,25 +6633,9 @@
    "cat": "inflation",
    "raison": "Risque d'approvisionnement pétrolier attisant les craintes d'un choc d'inflation importée favorable à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "US Dollar: Fed tightening risks underpin further gains - ING",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeXRZSWtfaDZsMUtKUno3NGVJeHMycGxlczVIVkhURGI2X3pzQ3pyZGFCN1dDWVFPYk90dVZMYTRGdldrUnlQSEYzYlA5QjMtdnV1WW1hNEczS2dkWmlqWVlfbkZJVjRSZDhWYWttQ1Y0MFlBT1ppdFhvenJYZEs4bDg3bW9NSXo2amtJR3RDSDhCTDBPODVMVUJSZG5SMWEwYzB5YkNUWnBhcE9Pc2FVMmdrdERDRWhWaUlnR3RGOVFvdkE?oc=5",
-   "published": "2026-11-20T11:09:34+00:00",
-   "id": "10511bd0b6e3",
-   "impact": -4,
-   "cat": "dollar",
-   "raison": "Resserrement monétaire accru de la Fed renforçant le dollar face aux métaux précieux.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|3d778c7e9961": 1793468769.8809383,
-  "news|93494c889e1e": 1793468770.768881,
-  "news|1b6edab25f57": 1793468771.6130836,
-  "news|031c571731ee": 1793469718.5365765,
   "news|3ae968141342": 1793471112.2447236,
   "news|3ddcc1b5ac2e": 1793471485.1518996,
   "news|05b03e70cbf0": 1793473299.2248564,
@@ -8527,7 +8523,8 @@
   "news|4bc6325c5a3d": 1795279572.9942398,
   "news|8025e9b9eec0": 1795281899.5317407,
   "news|f367eaae19d7": 1795281901.9980345,
-  "news|6aaf6471266a": 1795282285.1584404
+  "news|6aaf6471266a": 1795282285.1584404,
+  "news|45a8df1847ac": 1795284118.7876742
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9015,6 +9012,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T18:01:58.787768+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran strike imminent? IDF Spokesperson urges public to ignore rumors</b>\n📰 Israel National News · Ven 20/11 19:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sOERoWnFsMFNIRVZFWmJ5cDAySzhILURBWkhQWF9IMW5LTmt6bkh0YzdhWTFxOV9HRGJ1cnlNbUdjTG01Ujg5RUpGdXhhYU1xaThIQXd3TFBaQQ?oc=5"
+  },
+  {
    "ts": "2026-11-21T17:31:25.158542+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon</b>\n📰 The Guardian · Sam 21/11 18:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5"
@@ -9308,11 +9310,6 @@
    "ts": "2026-11-20T19:17:40.181313+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Plays Down Tensions With Vance Over Iran War Critique</b>\n📰 Bloomberg.com · Ven 20/11 19:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1FmMDBhXzVLc2w1VTU1MS1qa1NrRXotUEhRSzJrS2k3UHg3LWxYSzVGLXNfSmVvY1lWV3VVUmhoSGlTby10TUtuM0ZvVnl1OUNJMFZ2VjNfOXF4emFNbm81TGhYQml2Z1h1RUk3WGhzeGY1dU9zcmRzaHpvM3B1bmZMRjRQcm1Xc181ZGlCR2lGNTd4bUtmRkhidU9OODIwNUVrTEk5aUhyaDFkTDh3?oc=5"
-  },
-  {
-   "ts": "2026-11-20T19:01:46.977244+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar: Could Fed tightening risks underpin further gains? - ING</b>\n📰 www.tmgm.com · Ven 20/11 10:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHlhdWRNcTE0RVB1bnJzXzg4UXBuWHNNRVNpeU5VZE9mdVhOVUNEZ1ZZekY5S2swbTR5VE9QY2hORU4xZnByRXhPOFFadXpJUkZVZVNvNHZZdjNwUEkydUs5dFd4U0NfYTR1Y0tFX3g0dDJEYV8wNTlSUmx2MG9JQk9TTGhyazJac3VKQzdSamFOejk0TTNnaFlPN1RSTzBYUnhvWU8yYzlsNm5hOWdsbFlLRTRCNU1kVmFLYnloNlBzWlE?oc=5"
   }
  ],
  "daily_forecast": {
