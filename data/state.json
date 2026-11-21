@@ -1232,10 +1232,6 @@
   }
  },
  "seen_news": [
-  "21f169e694d3",
-  "90440015d9d5",
-  "ebbced5b10f4",
-  "a29ea6ef94a0",
   "02a301b21a83",
   "9096b0744b8a",
   "8b478b49c572",
@@ -4231,9 +4227,25 @@
   "fb1319bffb81",
   "c8d3f6700222",
   "b89737c68714",
-  "0e3be6e779a6"
+  "0e3be6e779a6",
+  "577d80c2fbfd",
+  "42414928e2bb",
+  "c23477ca9912",
+  "14474f1de620"
  ],
  "news": [
+  {
+   "title": "Crude Oil Gains as Traders Weigh Possible Iran War Escalation |",
+   "source": "Business Post Nigeria",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXhJbFlna19WZTVHVUVIdHFCd2hTWnkxTmJMZWoxRWZwWmV0THMwT3ROZ0VITEFkTzJZRFRWUG5FX1FLR3NYaHd4ZVdFVUE0QWJMc0NVN2ZSb2gzdnpNMnhUS3pJanZiNWl4aEZNbGd2TzN2T0VYYmZUdnpIcGNtWEl5ZHRGcTdyOEFFajh2LVZiVEJOMkVRakhB?oc=5",
+   "published": "2026-11-21T08:44:38+00:00",
+   "id": "577d80c2fbfd",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold Price Nears 52-Week Low, Institutions Forecast Rebound to $5,200 Next Year",
    "source": "NAI500",
@@ -6621,18 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Risque d'escalade militaire contre l'Iran stimulant la demande pour la valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Analysis • Netanyahu's failed coup makes him all the keener on reigniting the Iranian front",
-   "source": "Haaretz",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUU0yNFNZWEhlMmlSQmhDQnVsS19KLWhxeHRlRHkxeUlNV2pfc1FrNndqczFZX2pmaV9QckFJM3paLWJVZHdUZjJWbnRuTlBqMjFWbGVUR2VNZ2JDeXJabFVfNGhUWjJxbXFwUk9kcFR3aDhCZHdtY19GblQzVDJNZ2tBZHZ4T2E2aksxT3BXQjBBQzdLOEVhTFRBYmdPT0dVVXphaXpqYjBOcThHckMwSnl3cXNrTmcxZk9kcE9HVzZDdV9rUUVuT1AwQnVXa1JjM2F5NlVDOWNORUtQZVAwZy1Tb3dCTUlVTEt4aU1PSUVpaUtQQU5FQ2d1YmVybUk2akRnT3VIZy1XVnVYTFdNTGZjdWFCbWUyRHpOeTRxV0x2ZXpS?oc=5",
-   "published": "2026-11-20T04:03:00+00:00",
-   "id": "f737fb229c74",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Risque accru d'initiative militaire israélienne contre l'Iran, soutenant la prime de guerre.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8534,7 +8534,8 @@
   "news|c7bedd730f97": 1795235673.3941712,
   "news|c2bd4b53e849": 1795239088.241337,
   "news|9033a67f2ba3": 1795242868.1315498,
-  "news|c8d3f6700222": 1795250085.0526571
+  "news|c8d3f6700222": 1795250085.0526571,
+  "news|577d80c2fbfd": 1795251706.1654449
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9022,6 +9023,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T09:01:46.165527+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude Oil Gains as Traders Weigh Possible Iran War Escalation |</b>\n📰 Business Post Nigeria · Sam 21/11 09:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXhJbFlna19WZTVHVUVIdHFCd2hTWnkxTmJMZWoxRWZwWmV0THMwT3ROZ0VITEFkTzJZRFRWUG5FX1FLR3NYaHd4ZVdFVUE0QWJMc0NVN2ZSb2gzdnpNMnhUS3pJanZiNWl4aEZNbGd2TzN2T0VYYmZUdnpIcGNtWEl5ZHRGcTdyOEFFajh2LVZiVEJOMkVRakhB?oc=5"
+  },
+  {
    "ts": "2026-11-21T08:34:45.052779+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar: Fed tightening risks support further gains – ING | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Ven 20/11 09:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNW5wYld6YWxsV3NnRnN5VDJLUUVLQUVhTGM5NVZUbzBQWTZrZlozSExTWUxlUm05OS1ySUNCVW55azNpbnlFY0d5TXNqSm5iRkRF?oc=5"
@@ -9315,11 +9321,6 @@
    "ts": "2026-11-20T16:01:42.624175+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Taux US 5 ans\n-0.127 aujourd'hui = 1.5× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-11-20T15:49:20.301796+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The U.S. and Iran Are Back to Trading Strikes</b>\n📰 Foreign Policy · Ven 20/11 12:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbUtPd0N2aE9RSlA5Y19OMUx6SllSTmdPbDJ6MXQ3U1RIbGxYb3UtQmxXeGJGWFgybUtGeFRlVW53S3ozbjFpVGVCeDhfNXhRTDZsaEZqWEhkSjd6UlFtWnZfMkpHbTRVYVFkWmtjZm5aZURHVUtNMmgtWmthQzA?oc=5"
   }
  ],
  "daily_forecast": {
