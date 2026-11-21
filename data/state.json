@@ -1232,9 +1232,6 @@
   }
  },
  "seen_news": [
-  "2ee480846fdf",
-  "f742e0d13cd1",
-  "9dd8a1b03bb0",
   "b6b0375c81d1",
   "b87c75de9c00",
   "b60b637d1b42",
@@ -4231,7 +4228,10 @@
   "0e88ce37d0f0",
   "1381d0fb8262",
   "7a3e18ae7d6d",
-  "4cfe6f519b68"
+  "4cfe6f519b68",
+  "942437b5bf5c",
+  "b576a8c191ac",
+  "ca50e6fc3c7d"
  ],
  "news": [
   {
@@ -4254,6 +4254,18 @@
    "published": "2026-11-21T02:19:54+00:00",
    "id": "1902852bc90c",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia strikes Ukraine hours after Trump-Putin-Xi Summit",
+   "source": "CNN",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCVDdXS2lBN3pHYUY4YTN5M2xPM2xFaWZUNFhHSWEyTkJ1R3VDTzQ0dmRNd1gyOWFOMHJPNkxlRjgzU2JxM0tNOXJITjdBSmxrQ0JYX2ZwbFpqZ0JQampHRnN4M1d6LXI1azJSb3V3?oc=5",
+   "published": "2026-11-21T02:07:44+00:00",
+   "id": "b576a8c191ac",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4473,6 +4485,18 @@
    "cat": "autre",
    "raison": "Chute généralisée des marchés boursiers soutenant la demande de valeur refuge.",
    "method": "IA"
+  },
+  {
+   "title": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
+   "source": "investingLive",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUdWUXJITGJ5T2NsT2VyaElRUDRNSnF0X2pkQ2k1czRRYXllY0hwNk5hdmZuZnBtYUtDNnExSXdCd052OFoyNlRHTG1SLXB1M2hqRk5fcWNnLUs3OWpMUGl1YXZ4VnJVOG1Xc0FicTdwVndLZDhMWnphMnlYZmVxcjRuLU5Ha2t1TVpiNmlfdDFhb1o4aHJQN01WWlQxUTdRRk5lUFN1N3ppYjdY?oc=5",
+   "published": "2026-11-21T00:16:21+00:00",
+   "id": "942437b5bf5c",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
+   "method": "mots-clés"
   },
   {
    "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
@@ -6609,34 +6633,9 @@
    "cat": "dollar",
    "raison": "Affaiblissement du dollar et recul des taux américains, double moteur haussier pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
-   "source": "The Guardian",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NBME5lcEdSYzBycGFKdDhzaHJ2MU5iU1RsYnlxaFRYaHc4SU1YU0s3bTZyd3EwNHItMTBSY2FvOHBjaW9pcjRxNkRBVWRISk1YYUNHcHAwZXJ4MHBxZU5TUzJoTFhMbTZUSzJSckpFS3NqcGhBXzNpb21scGc4Y3hQSjFsTFpkWVllREUwSkJ2TGhmck91dl92aVRtWi1lSjBNUE9wVUQzZHIyREdIZkFSOGVra01RWUVPaGk1SFdRZk1FZkRwaU5tYmJNcE91el81QXduSjg?oc=5",
-   "published": "2026-11-20T01:38:00+00:00",
-   "id": "fc7c76ed0ba4",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Piste diplomatique pouvant réduire à terme la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Canada auto plant the 'front line' in Trump's trade war",
-   "source": "France 24",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbG1CZDk0QlZJTTk4MU5CV25lNjBrMGZTRGRTT0FKNHVtRUZ4LTZrMTRrQ0JSZlg0dlZzZndUY0t2b3FOalBBbnhIU3V2M3pXaU1MeUN4Nmk3UUNTSFI2cVo3QUxpTDdDbEl2WU9TZ3I0b1ZiajA4emJfOFBIMWZQTHVaMHJGOHFheVgzY3BmRGpvcDZ2ci1LR3VpaklOaVRBMlE?oc=5",
-   "published": "2026-11-20T01:32:18+00:00",
-   "id": "422c8da0fc89",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Tensions protectionnistes accrues soutenant modérément la demande de valeur refuge face aux risques stagflationnistes.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|95fc03dc5b67": 1793418366.060189,
   "news|ac57a2c97a78": 1793420188.3204494,
   "news|4b85e492036b": 1793423088.8659203,
   "news|7e3014e91ff4": 1793425569.0070434,
@@ -8537,7 +8536,9 @@
   "news|182b7e9b6332": 1795229353.1065207,
   "news|54b7c5edcc05": 1795230307.369652,
   "news|73e42882496e": 1795230969.0406387,
-  "big|BTC|2026-11-21": 1795231884.6482108
+  "big|BTC|2026-11-21": 1795231884.6482108,
+  "news|b576a8c191ac": 1795232953.1970816,
+  "brk|BTC|h250|dn|2026-11-16/2026-11-22": 1795232954.3273444
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9025,6 +9026,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T03:49:14.327411+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 1 AN\nNiveau : 57 748 → prix : <b>56 722</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.37 | 60j 0.43"
+  },
+  {
+   "ts": "2026-11-21T03:49:13.197161+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia strikes Ukraine hours after Trump-Putin-Xi Summit</b>\n📰 CNN · Sam 21/11 03:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTFBCVDdXS2lBN3pHYUY4YTN5M2xPM2xFaWZUNFhHSWEyTkJ1R3VDTzQ0dmRNd1gyOWFOMHJPNkxlRjgzU2JxM0tNOXJITjdBSmxrQ0JYX2ZwbFpqZ0JQampHRnN4M1d6LXI1azJSb3V3?oc=5"
+  },
+  {
    "ts": "2026-11-21T03:31:24.648257+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Bitcoin\n-4 112 aujourd'hui = 1.6× l'ATR\n🥇 🔴 baissier pour l'or"
@@ -9313,16 +9324,6 @@
    "ts": "2026-11-20T14:52:16.994695+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Israel, US weigh new Iran strikes 'in the short term'</b>\n📰 Ynetnews · Ven 20/11 14:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WWnNaSllWZ1lJZlFFQTMzZ042TFFZRGliVTVkRVlHT20tNTZYQ0t5ODJOZkF1dlFUdDNHYmJ5VVhkX3FYTy1ZWHFOc0F2MlU3SG1OWGtn?oc=5"
-  },
-  {
-   "ts": "2026-11-20T14:31:46.197340+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US consider Iran attack as Democrats seek funding ban</b>\n📰 The Jerusalem Post · Ven 20/11 14:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBrbGcxNU1fbk55WnJLbmh5ajQ0NDVWSWR5TmFZTDV4MW1hMUZwLTkxMldzSHhVLUtHd1ZLQ0I1b1pHX2gtREh4RHVGSHhhRjBXNnY5cXRYMEY1a25Rd09YQTRKX2FISWVEZFE?oc=5"
-  },
-  {
-   "ts": "2026-11-20T14:16:28.782036+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff</b>\n📰 Bloomberg.com · Ven 20/11 14:48\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5"
   }
  ],
  "daily_forecast": {
