@@ -1232,8 +1232,6 @@
   }
  },
  "seen_news": [
-  "b49ed759f2e0",
-  "64a65d5d76be",
   "ac122ed14f8b",
   "e9ef52582540",
   "14b4bcb7cb85",
@@ -4231,9 +4229,23 @@
   "99bf4924ff0f",
   "f8b9fe90b3c1",
   "69f9ac2c50d8",
-  "eaf6f1ad0f69"
+  "eaf6f1ad0f69",
+  "9033a67f2ba3",
+  "8aca8a42dbe8"
  ],
  "news": [
+  {
+   "title": "Iran war could last until 2029: Former Trump defense secretary",
+   "source": "NewsNation",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12VTc4cHo4cWhxVk94TE56Um5IZmY1UEg2dWNrS0FrMi1zbjNodGNYMGhtZk85aFprTzJWZXVKUVZFdFRzVkNRdExrZ0RlZnJ3YzBwTzRKRTJybENBaEs3V1RyUUZFeTVkZlRIWm53VlVMLWVuM1HSAXtBVV95cUxOd0ZSQ1hrZ2k2LURsUU1DUUE4alU3eXR2eWdZYldGcHVVOEdwRlhndFdfNzh1VWlRZFBWa25rbENxSnpHaTFMR1Vhc2cycloxeTRRNTdVUkl4WUtNTVZyRnBtZjF3Z0FiMTVMTG5LZ29RYlpCT2d5djNMN2s?oc=5",
+   "published": "2026-11-21T02:42:15+00:00",
+   "id": "9033a67f2ba3",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
    "source": "The Guardian",
@@ -6621,22 +6633,9 @@
    "cat": "fed",
    "raison": "Optimisme économique américain réduisant les anticipations de baisses de taux agressives.",
    "method": "IA"
-  },
-  {
-   "title": "Trump puts Iran strikes on hold till New Year, Netanyahu pushes for fresh bombing",
-   "source": "India Today",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNmdIVHl5dWpXU0NEVnNudGJ6R211VkdWSUlsaFhRbDRySzQwa3YyV2U2WUNvWFQ2MVBqM2pWb2drY2M5TlpNQm9hbXpJaUhqSHM5ZGZJUzJDb01FX1JvRlA2Q2VidE0xUmstNE5OVjRRSVdycEF4REpXT2Q5TElWLVI4dzNGRkZZcmZKSTlYNGRRSmJ4dFVIcENuRE51Ynd3alNqNGxVTmxoMnlubDZIcTRmX3Y5MEgyRDAtNTRCSTBsZFNTTGNTNWt4eEp3YWRVRVhUbzhES2dDSXNCaHhGQmt2V2ViTjdvUjM4RTVLcmZNZ9IB8gFBVV95cUxPNmdIVHl5dWpXU0NEVnNudGJ6R211VkdWSUlsaFhRbDRySzQwa3YyV2U2WUNvWFQ2MVBqM2pWb2drY2M5TlpNQm9hbXpJaUhqSHM5ZGZJUzJDb01FX1JvRlA2Q2VidE0xUmstNE5OVjRRSVdycEF4REpXT2Q5TElWLVI4dzNGRkZZcmZKSTlYNGRRSmJ4dFVIcENuRE51Ynd3alNqNGxVTmxoMnlubDZIcTRmX3Y5MEgyRDAtNTRCSTBsZFNTTGNTNWt4eEp3YWRVRVhUbzhES2dDSXNCaHhGQmt2V2ViTjdvUjM4RTVLcmZNZw?oc=5",
-   "published": "2026-11-20T03:40:02+00:00",
-   "id": "f509d345d541",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Report des frappes allégeant temporairement la prime de risque géopolitique sur le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|7e3014e91ff4": 1793425569.0070434,
   "news|4f47ed60f2ce": 1793429174.667423,
   "news|5b3f21075622": 1793433883.3175783,
   "news|eaafafb6c29b": 1793434762.8399165,
@@ -8538,7 +8537,8 @@
   "news|b576a8c191ac": 1795232953.1970816,
   "brk|BTC|h250|dn|2026-11-16/2026-11-22": 1795232954.3273444,
   "news|c7bedd730f97": 1795235673.3941712,
-  "news|c2bd4b53e849": 1795239088.241337
+  "news|c2bd4b53e849": 1795239088.241337,
+  "news|9033a67f2ba3": 1795242868.1315498
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9026,6 +9026,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T06:34:28.131695+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war could last until 2029: Former Trump defense secretary</b>\n📰 NewsNation · Sam 21/11 03:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE12VTc4cHo4cWhxVk94TE56Um5IZmY1UEg2dWNrS0FrMi1zbjNodGNYMGhtZk85aFprTzJWZXVKUVZFdFRzVkNRdExrZ0RlZnJ3YzBwTzRKRTJybENBaEs3V1RyUUZFeTVkZlRIWm53VlVMLWVuM1HSAXtBVV95cUxOd0ZSQ1hrZ2k2LURsUU1DUUE4alU3eXR2eWdZYldGcHVVOEdwRlhndFdfNzh1VWlRZFBWa25rbENxSnpHaTFMR1Vhc2cycloxeTRRNTdVUkl4WUtNTVZyRnBtZjF3Z0FiMTVMTG5LZ29RYlpCT2d5djNMN2s?oc=5"
+  },
+  {
    "ts": "2026-11-21T05:31:28.241416+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold heads for worst week since March as hawkish Fed, AI sell-off weigh</b>\n📰 AMWatch · Ven 20/11 11:32\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE83a29ZaWhpZzgwdmJSWHhGa0Myd25kYnNsMUFZcGtNUW1WRnNnNzdIcFVRSWRQbFR5TnNOaS1kSkxqVzhaNWx0REFsQTVxS2xmQW81X1dzc1hFRkVMSEdlMTBWS3JnV0FTeVdfWVhvcw?oc=5"
@@ -9319,11 +9324,6 @@
    "ts": "2026-11-20T15:49:19.554363+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US weigh renewed Iran strikes as Democrats seek to block war funding - report</b>\n📰 The Jerusalem Post · Ven 20/11 15:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBrbGcxNU1fbk55WnJLbmh5ajQ0NDVWSWR5TmFZTDV4MW1hMUZwLTkxMldzSHhVLUtHd1ZLQ0I1b1pHX2gtREh4RHVGSHhhRjBXNnY5cXRYMEY1a25Rd09YQTRKX2FISWVEZFE?oc=5"
-  },
-  {
-   "ts": "2026-11-20T15:49:18.805717+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Treasury Secretary Bessent questions Fed’s larger rate hike plans</b>\n📰 Crypto Briefing · Ven 20/11 16:40\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3B5c3BETGd0ZzI1SVdCQm9yd05xbklnd1MyOXNnM2liNjg4UDQwRUhmeW0tcjEwSkJFU0NMd1F6Q0Q3RUd6NXBoVlJVNmJKWmI4bkR6cVNZWm1FV1IwRzBlMHNEUTdTLXVRd3lfaHFnN216WS1CTHE2S3Y3NHZic0lJeC1MYUg5SHg2OENlQUZmbUR6Zml3?oc=5"
   }
  ],
  "daily_forecast": {
