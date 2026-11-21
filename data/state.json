@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795235464.64181,
+   "ts": 1795239065.7767692,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1232,7 +1232,6 @@
   }
  },
  "seen_news": [
-  "2598700aa415",
   "d7cc39e59428",
   "d8d5bdcc56f3",
   "939f88d7764e",
@@ -4231,7 +4230,8 @@
   "7ca8c680c08b",
   "53c91903b9a9",
   "87436690899e",
-  "7de8d5fe5f6e"
+  "7de8d5fe5f6e",
+  "c2bd4b53e849"
  ],
  "news": [
   {
@@ -5915,6 +5915,18 @@
    "method": "IA"
   },
   {
+   "title": "Gold heads for worst week since March as hawkish Fed, AI sell-off weigh",
+   "source": "AMWatch",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83a29ZaWhpZzgwdmJSWHhGa0Myd25kYnNsMUFZcGtNUW1WRnNnNzdIcFVRSWRQbFR5TnNOaS1kSkxqVzhaNWx0REFsQTVxS2xmQW81X1dzc1hFRkVMSEdlMTBWS3JnV0FTeVdfWVhvcw?oc=5",
+   "published": "2026-11-20T10:32:13+00:00",
+   "id": "c2bd4b53e849",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "CPI data bolsters December BoJ rate hike expectations, nudging Japanese Yen higher",
    "source": "www.tmgm.com",
    "theme": "Inflation US",
@@ -6621,22 +6633,9 @@
    "cat": "or",
    "raison": "Paris sur un durcissement monétaire et liquidations techniques pesant lourdement sur le métal.",
    "method": "IA"
-  },
-  {
-   "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
-   "source": "Reuters",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
-   "published": "2026-11-20T03:24:00+00:00",
-   "id": "e3b7b498fa41",
-   "impact": -4,
-   "cat": "taux",
-   "raison": "Anticipations de taux restrictifs et appels de marge pesant directement sur le cours.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|4b85e492036b": 1793423088.8659203,
   "news|7e3014e91ff4": 1793425569.0070434,
   "news|4f47ed60f2ce": 1793429174.667423,
   "news|5b3f21075622": 1793433883.3175783,
@@ -8538,7 +8537,8 @@
   "big|BTC|2026-11-21": 1795231884.6482108,
   "news|b576a8c191ac": 1795232953.1970816,
   "brk|BTC|h250|dn|2026-11-16/2026-11-22": 1795232954.3273444,
-  "news|c7bedd730f97": 1795235673.3941712
+  "news|c7bedd730f97": 1795235673.3941712,
+  "news|c2bd4b53e849": 1795239088.241337
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9026,6 +9026,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T05:31:28.241416+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold heads for worst week since March as hawkish Fed, AI sell-off weigh</b>\n📰 AMWatch · Ven 20/11 11:32\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE83a29ZaWhpZzgwdmJSWHhGa0Myd25kYnNsMUFZcGtNUW1WRnNnNzdIcFVRSWRQbFR5TnNOaS1kSkxqVzhaNWx0REFsQTVxS2xmQW81X1dzc1hFRkVMSEdlMTBWS3JnV0FTeVdfWVhvcw?oc=5"
+  },
+  {
    "ts": "2026-11-21T04:34:33.394309+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Vance’s Iran war statement</b>\n📰 CNN · Ven 20/11 22:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1daYi11bU1PbGN3Uno0blJJSTktdExvZWhNWVNWWTZzUGVhZG1HZDE5TFdud1pDWDZURDNCamdtd2M1TFNsc2M4V0ZBb2hndkZPQkU5cHNjOTJwU0QzVTNxUjlvNmFOeUFlc05zY3VnODVaWU9sTGVINGVsWF91blB0Z1JWWjlSTUwwMHpoX1JQdDhnZHNQQTNnR1dNT1E?oc=5"
@@ -9319,11 +9324,6 @@
    "ts": "2026-11-20T15:49:18.805717+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Treasury Secretary Bessent questions Fed’s larger rate hike plans</b>\n📰 Crypto Briefing · Ven 20/11 16:40\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3B5c3BETGd0ZzI1SVdCQm9yd05xbklnd1MyOXNnM2liNjg4UDQwRUhmeW0tcjEwSkJFU0NMd1F6Q0Q3RUd6NXBoVlJVNmJKWmI4bkR6cVNZWm1FV1IwRzBlMHNEUTdTLXVRd3lfaHFnN216WS1CTHE2S3Y3NHZic0lJeC1MYUg5SHg2OENlQUZmbUR6Zml3?oc=5"
-  },
-  {
-   "ts": "2026-11-20T15:31:30.495070+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Russia pummels Ukraine, missile hits Poland, after Putin threat</b>\n📰 AFP.com · Ven 20/11 14:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2R1cFZiTXZVcXVNdGxxeGVWR2MtX1NKRkxxYkx0X0xwUDJOMHhjbUpSQmh4NE1pVjJMN0dkeTQ0RW9VdTFwdEt0dFVOMkNJV2hLMWg1aUNBQ09nQWlHaWRfanlhSTJDUXNBcWNnb1RjYm1JNV9BYW9kXzRIXzhPWVhac01LZnFKZEw3Wg?oc=5"
   }
  ],
  "daily_forecast": {
