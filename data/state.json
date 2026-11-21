@@ -1232,12 +1232,6 @@
   }
  },
  "seen_news": [
-  "b85e853880b0",
-  "81c347758bb5",
-  "1293cc815403",
-  "f0397ca5101f",
-  "bde066709194",
-  "855546985463",
   "d027a8187729",
   "d10ed7eb7006",
   "8748f4e7aa4d",
@@ -4231,20 +4225,26 @@
   "844482ea0080",
   "6c68fa3d6a97",
   "be57c3f9506b",
-  "606cf486ce28"
+  "606cf486ce28",
+  "94443597ee9b",
+  "faaa7c274629",
+  "bdf5ecfb9101",
+  "d1758dd97a09",
+  "a5ebecec14f2",
+  "aff1ea647b03"
  ],
  "news": [
   {
-   "title": "Trump: US, Russia, China are great powers of 2026",
+   "title": "Trump calls Putin, Xi his friends",
    "source": "Breakingthenews.net",
    "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2hOV29aNFhCc29FUnVidVdVc0hfUEU3NUlXbVdLSDc5Q3l4UUFoSDJVV1A3WlFHckYyTGJqNkt3d0p4aEstaWY4ekFwX1dad3pnSmhVZDFLbmNoMkhac1pJNlV2cWh5RnlBYkx6NmRDQUlZbmZPNWpKRGRkY00xNmpadE9TdVYtdUZmS2hsTWJ4SmhQbmlN?oc=5",
-   "published": "2026-11-21T21:15:00+00:00",
-   "id": "676ae22242f5",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjY3eG5lYVg5dGxpaFVUOVhWMFl1anhEMnZTQzQ2ZGJtU1hVS0NhcTlBWFhZMWpJck8xcU5leHZpRmJJWHgwaW1wV0dPeVJnYUJwU0JGU3A5UHFjTjgtaFhrdmFVdXV6U0NXdEVTYWh1ZFVkX29Hc3ZBcUsycVNZSy1ORQ?oc=5",
+   "published": "2026-11-21T21:50:00+00:00",
+   "id": "94443597ee9b",
    "impact": 0,
-   "cat": "politique US",
-   "raison": "Déclaration géopolitique générale sans implication directe sur le dollar ou les taux réels.",
-   "method": "IA"
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
   },
   {
    "title": "Shafaq News..Explosion off Iran as Bahrain reports industrial site attack",
@@ -8529,7 +8529,7 @@
   "news|5268f8dea428": 1795294902.8872197,
   "news|6c68fa3d6a97": 1795297580.6499634
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-12": {
@@ -9015,6 +9015,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T22:01:39.378038+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (+11), Fed (2 ans vs taux Fed) (-9)"
+  },
+  {
    "ts": "2026-11-21T21:46:21.979143+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (+11), Fed (2 ans vs taux Fed) (-9)"
@@ -9308,11 +9313,6 @@
    "ts": "2026-11-20T21:01:40.586757+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — VENDREDI 20/11</b>\nOr : <b>-109.1$</b> depuis minuit · plus haut 3638.1 (00h05) / plus bas 3502.9 (19h45) · range 135$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-27) à 3546.8 → maintenant 3523.9 (-22.9$)\nRange : 135$ réalisé vs ~99$ attendu (136%)\nNiveaux touchés : S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 68% de bonnes directions (19 ✅ / 9 ❌ / 2 ➖ sur 30 jours)\n20 derniers jours : 67%  ·  ✅❌✅✅✅➖✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.05% · Taux 10 ans -14.0 pb · Pétrole +1.13% · EUR/USD -0.03% · S&P 500 -3.90% · Argent -5.15%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Fresh US-Israel attack on Iran under consideration as tensions escalate - Report\n🟢 (+10) Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation\n🟢 (+10) Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv\n🟢 (+10) Iran war escalation raises concern over civilian death toll\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
-  },
-  {
-   "ts": "2026-11-20T20:46:08.659578+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump responds after Vance blames Iran war for midterm losses, VP says his job is to support president</b>\n📰 Fox News · Ven 20/11 21:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGs0QUE2YnhLZVZUVEcyeGtoLUNDdGdRdExtaXVUUjdEaXRGQ0Nwd29KRzdTSVkzM2JNLWpFX3EtZUwtUzhnOHBZYmxFM3dqTHBBanM0dDI0eE9KUncwM3huRm0yTnYyWkd5S3ZWbWlCRFJyYUg3VUNPSmh2NzV2Y0tuY3dzc05mZVBqQUZVM2ZaUXp1ZFFMeG5QWU9waFJ4dDhpbDEwNnlqSFJST09WZUhPUU_SAboBQVVfeXFMUEY0bEIyMl90OGRmenNobE5neGdFUjJUUjhqTnhSNk5aV0hQeVVZd2VhYkdKU0k1NlVScm43SGRJc2RiTHdHMzl0bzFOMGw2Mnh6cl95Q0JId1hGQXU4Skt5R2lIejY3bEJ6bV9CSk5qZHJVajBOZ2xJQVBjTWY2bUlZNjA0S3lJWk5uWjBIQzNndWE2Uk81T1FGcTlDeTQ0NXk5Y0pHLWl5TVNxUmZocmtlMzlEdVFBZUt3?oc=5"
   }
  ],
  "daily_forecast": {
