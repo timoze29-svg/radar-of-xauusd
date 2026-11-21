@@ -1232,11 +1232,6 @@
   }
  },
  "seen_news": [
-  "7e1660d07cbb",
-  "fe067be8dad5",
-  "1c820a07d2b7",
-  "cf3925860fb3",
-  "0873f748fa11",
   "68243fe8bc0d",
   "f16c99031f64",
   "8c78ac9a1000",
@@ -4231,7 +4226,12 @@
   "9ef2ba27b6a2",
   "e896a728c411",
   "d4778fae4f3f",
-  "5665fcdc04d3"
+  "5665fcdc04d3",
+  "e9b9226182ee",
+  "823b72a504c0",
+  "9aece2585081",
+  "c41ed130a78c",
+  "9b546f625a38"
  ],
  "news": [
   {
@@ -4245,6 +4245,18 @@
    "cat": "inflation",
    "raison": "Baisse du pétrole réduisant les pressions inflationnistes et la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Trump ‘considering new strikes on Iran after being warned military is running out of time’",
+   "source": "The Independent",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFkyQ0JGVDlDLTF3Vk8tU1hVTkh3YWpoUFJ4RjBaZEotVkhSYVhvWmZtTU92anVQNlNhTEdCN3pSN2dQQnFhSFRuYkJzLVlTZlgxUVUxZzQyWHJfY09LME10andxejc2TnZrUnNINUFOZHVhZ1ZvRWUzVHV3TzdiWlZveHFyRGJQVm41cHI0SzFnT1YwTHpBZ3hGbG5YRTcy?oc=5",
+   "published": "2026-11-21T00:04:00+00:00",
+   "id": "e9b9226182ee",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "US Dollar Index (DXY) stalls below 104.00 as Fed rate hike bets are offset by AI jitters",
@@ -4701,6 +4713,18 @@
    "cat": "fed",
    "raison": "Pression sur l'indépendance de la Fed et biais pour des taux plus bas, soutien haussier.",
    "method": "IA"
+  },
+  {
+   "title": "Tariff refunds for public companies",
+   "source": "FlowingData",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zQUZaZnJJR0l3aWdZLS1tWWFFZWhvenF0Q1BHMzBUaGk1TEJqXzNjVVUtQmx4RjIxcU4tR0I5T3FMTW1HTFB1c19NNVRpTWdPN3hiN2ZNa1pJaU1ZTTVBMHVPUjVsRy1Fb01ROVBLYXdEVl9EUk12N3RPbw?oc=5",
+   "published": "2026-11-20T18:48:20+00:00",
+   "id": "9aece2585081",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
@@ -6609,30 +6633,6 @@
    "cat": "géopolitique",
    "raison": "Analyse stratégique de long terme, soutien marginal et diffus à la prime refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Congressman Neal weighs in on Trump’s tariffs, looming government shutdown",
-   "source": "WWLP",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF94Wi1DbWI4Tl96T2lNX0IzZERIbjAtUnpsMUhPbVVzYmQ1a2R4Q050OUQ5VkJFQU9VRG1oVUh2Z0VsekNIZGFvckQ3NGQ1YWdBQjBseERiYUJnUHZQdGNyNjVyRFBEdlo5NVNhY25UWW9UMWVIRE90S3FxRmctU0pqWkQzb05GeTFtc0Z4czBndTZUeldxNzAwRFVTMkVValk5V2M5LWNZYTVNV2RSbEoxONIBuAFBVV95cUxNSVQ3LXJhTHkzRTk4d25FZFVXNXk0Nl9iTzVkVW1lQ24tOHhRU0d3djJFUDliMVNacFJhX1dfVGFDaVhzVERyOFNHTHlNb2YzejlBRTZXbE5GN3VfeTBzUDlQOVQ5WHVDMnlERERHUTB1SVVCakd1NUR6aXg1N3ZUMjBWTTlKdFFjNnpIMy01YzdkWTdOTXNXVS1zN0ZSYk1LZ092RUtVSFp3LVZqOFJwcjVIRzlKcEZO?oc=5",
-   "published": "2026-11-20T00:30:18+00:00",
-   "id": "332dce6cc0df",
-   "impact": 2,
-   "cat": "politique US",
-   "raison": "Risque de shutdown budgétaire et incertitudes tarifaires soutenant modérément la demande refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Houthi Missile Debris Strikes Saudi PIF Tower; Gold Plunges 3.2% in a Day, Silver Sinks Nearly 5%",
-   "source": "BigGo Finance",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWnZmWDdZMDVXalJkVlV3TGsxaS0wZ0RJYjgxTDNYWnowbmg4OGpCemxPVjhfWHQwcjFmTXdWakpQU1IyOTRtN0JmNFpBellTQTNOX0VNMnhrU1JPTU4teEVIVUhBV2VlSmZoWjRBZ3M2a0tqeEE?oc=5",
-   "published": "2026-11-20T00:26:00+00:00",
-   "id": "97542920b6bd",
-   "impact": 3,
-   "cat": "or",
-   "raison": "haussier or (géopolitique, or)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8533,7 +8533,8 @@
   "news|c48f6e177bd7": 1795217486.2073138,
   "news|90172c3fd25b": 1795217488.7713227,
   "news|99177f5bc2e4": 1795219401.7504284,
-  "news|d4778fae4f3f": 1795221995.059985
+  "news|d4778fae4f3f": 1795221995.059985,
+  "news|e9b9226182ee": 1795222889.4750574
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9021,6 +9022,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T01:01:29.475156+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump ‘considering new strikes on Iran after being warned military is running out of time’</b>\n📰 The Independent · Sam 21/11 01:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFkyQ0JGVDlDLTF3Vk8tU1hVTkh3YWpoUFJ4RjBaZEotVkhSYVhvWmZtTU92anVQNlNhTEdCN3pSN2dQQnFhSFRuYkJzLVlTZlgxUVUxZzQyWHJfY09LME10andxejc2TnZrUnNINUFOZHVhZ1ZvRWUzVHV3TzdiWlZveHFyRGJQVm41cHI0SzFnT1YwTHpBZ3hGbG5YRTcy?oc=5"
+  },
+  {
    "ts": "2026-11-21T00:46:35.060070+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu urges unity amid threats; Trump warns Iran against dirty bomb use TV7 Israel News 20 Nov.</b>\n📰 TV7 Israel News · Ven 20/11 20:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0wRFRwTHZueVNMRHFtVU1jY1daNEN1bzZ3WU1HTngxT0hMNm5JRm9jOFM4RDNEZFlxR2FqVkd0U1haODZ3ZmxRc3o1R1pQWDljOEJudG9oZnQ4RjQwem12R0VFNUFHM2lRQVB3ZE9uN0R6N1hsZTdJ?oc=5"
@@ -9314,11 +9320,6 @@
    "ts": "2026-11-20T13:01:43.244504+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>3 ways the next Congress can stop Trump’s war with Iran</b>\n📰 Reason Foundation · Ven 20/11 13:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTVBNzIwaFEzRFBqbzFPT3VWd2VQX1ZCTzhtTE1KMkk3NG1UMy1FMERrMGRUUjdaS0NyWll3dUJmaERCWG1RZVlJN2p5OWtXLUI1TGdxaW1SWTA5Vm1SdVM2YWc2aGFmNGZ2TFJqWlZ1V256V3pWLVFMRmtVVWlsRG1aeTZtQUR1enE4b2lR?oc=5"
-  },
-  {
-   "ts": "2026-11-20T12:46:16.360258+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US could launch joint strike on Iran within weeks, ex-Navy chief says</b>\n📰 The Jerusalem Post · Ven 20/11 12:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9VaDR3cGtCckhHamdYMG0yYlFYamFadlp1MEFMUlBSbmpJb1RWdjVDMzUteWVnWlYyVE9KRV9pQzJiMTdnNGNONS0yTzFMN3VlYTQ1eWhyTGxmS0dyOXYxOVJnbzBSZ202X2c?oc=5"
   }
  ],
  "daily_forecast": {
