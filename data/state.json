@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795284074.502537,
+   "ts": 1795287676.7773306,
    "data": [
     {
      "title": "FOMC Member Barr Speaks",
@@ -1232,13 +1232,6 @@
   }
  },
  "seen_news": [
-  "db6cc5462f95",
-  "dc85d93c2add",
-  "80fe7c7f4933",
-  "44114dbd9b51",
-  "5b6885a70f05",
-  "f28c58f9e988",
-  "fab3d2b3e2e2",
   "996602cd2067",
   "340497313d1d",
   "c952c8acf628",
@@ -4231,9 +4224,40 @@
   "52534c1fbe64",
   "71caac21f52b",
   "8ad060534c47",
-  "7bf38e487be5"
+  "7bf38e487be5",
+  "1bffd530875f",
+  "3d0307fbedd9",
+  "58666ffab74b",
+  "7e21db134752",
+  "01e321f30966",
+  "715a1463c773",
+  "4c03d7730cac"
  ],
  "news": [
+  {
+   "title": "Idaho Unemployment Rises to 3.7% in October",
+   "source": "Wisevoter",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2JiRGNXcHNkRG5aR2tId1JBSFRhYmxwckU0aVhNUG43V1VHYjV3azRuaS1ic3h6RUVaRVlrcFdvYWE1OGFmVTNLcklJRVgwT2xNOHE2aEZ5YVhGeUVjRnBEeWluTHk5aDFVMnh4ak9zbzBlN2dDVmtsVUtDSU5ITHAxeWRRX0N4R2lLZFhSS18?oc=5",
+   "published": "2026-11-21T18:55:50+00:00",
+   "id": "01e321f30966",
+   "impact": 5,
+   "cat": "emploi",
+   "raison": "haussier or (emploi)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold's Safe Haven Status In Doubt As GLD, IAU Outflows Jump And Price Falls",
+   "source": "Benzinga",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVJ5Y3B3ZFBLV0RVTGhoYUlWOGU0WjVDREJLaXNINHF1bHJqUW5xUFdpWHZUQTNRUERkM0VfdVFWcEFsQUNyTFF1S0dRaEV6OWo2M2hmR3l2REJZZWRpejRFa29BQlpKdUFQcHhzRFRkSWQxMGs5bmhRcmNaYTdRVG9QNjNZcGE3SkFWMlBGdGJ3cFUyZzJraVNBWWpkUTZ5UHRPWHlJVnhKc2VOdHhtNGoydlZDR3hnSGNLaWJGRVNiNmpYTDBTc2hvTFBCUQ?oc=5",
+   "published": "2026-11-21T18:45:05+00:00",
+   "id": "1bffd530875f",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Israel's Relentless Lebanon Strikes Are Threatening to Unravel Washington's Peace Deal",
    "source": "Latin Times",
@@ -4241,10 +4265,10 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUE4UnlFM21MWkRnNzU3TWcwSG9PbzBTc1pJLWw5TGhNMXpJNmhrYU9iYV9UMGU2M2ZhekRZLXJtUU56Qlpad3lNOE1LTDNxSHBsdFdldmlFOW1RVkYzSWRTczNicVJua2hRbkh6Q2NFX3RKeTZ6NU5YTVBzV0k2QlRQSFcxdXFjT2FOY1pocw?oc=5",
    "published": "2026-11-21T18:28:31+00:00",
    "id": "319d22451998",
-   "impact": 1,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Fragilisation de la trêve au Moyen-Orient maintenant une prime de risque modérée.",
+   "method": "IA"
   },
   {
    "title": "Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’",
@@ -4253,10 +4277,10 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
    "published": "2026-11-21T18:16:10+00:00",
    "id": "8ad060534c47",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque direct d'escalade OTAN-Russie provoquant des achats réflexes de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
@@ -4265,10 +4289,10 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnhUUThYUUwyVEJWbDJ6UFZlMVJPUmpLTmNvMmNHRWV5TUZNZ2Nyai1Ycy1xWWVzbmlQUjhlVHZSRl9nRGZNZzhmWjNUN09IVUFyX2cwcWNTVHFzX1lscnNYak1BUVpKTE4teEdYWldJR1otRUUtQnVXUmlQMkpkMExJMEYyRnVvLXV6WnhpUkhTUUJSeFdYY3M1VkvSAaIBQVVfeXFMT2VqUEdaM1RGcnRaQnBFNGJ1aDVIdzB6ZEFFNnM4OUQ3YlYtTFEtWkV4Y1ptWkxNTUlEMjg5RFdtODduQWtjSkJqcWd2cE13OGZISVdQOGRxMXR0WFE2TlJiV2tCbkpGeEpjMTVEQkRyc3g2cEx3UkhSaUtXa2YxSUNCMl9rZXhzbGp3cHBKb3R1MVlaYjRUOV9TZVN2MWdGU2FB?oc=5",
    "published": "2026-11-21T18:08:56+00:00",
    "id": "dfe2f04b217c",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perspective d'accord diplomatique réduisant légèrement la prime de risque liée à l'Iran.",
+   "method": "IA"
   },
   {
    "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
@@ -4277,9 +4301,21 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
    "published": "2026-11-21T17:26:00+00:00",
    "id": "6aaf6471266a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
+   "impact": 0,
+   "cat": "politique US",
+   "raison": "Divergence rhétorique interne sans conséquence macroéconomique directe sur le cours de l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "\"People Bought Less Gold, Prices Fell\": PM Modi Recalls His May Appeal",
+   "source": "NDTV",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlFkaFBuRXVSWVdvSWpRM1pNaDBSTUd3VS1WQkRjTzhCMFh1RjVRY1BjVjNXVlJmY19scjktWFowQjNJcHpic3ZxUHFieVYxTUZVdUtvWUtBczZpY3loMVhicmVzTHNLZG1WS0VOM2hXbWVUalJUVGFzX3FUVl9Lc2RENV93Y0xLYWFXdE9VVUl6UDcyNmRpYjN0TXFRandmd29ZZUNYZUlheWNCSmRUZkIzYVNYaFR3TnRxc0JRX2xmTHEzc3Y00gHPAUFVX3lxTFBmcEhZTklialZkSWM0b2hzVHFtcXhQNGhDYm9iNXBDTGJxeEVjNlRObkIxYWM3SkluM201TDdaZ2N4X1NfRlJoOWtSYVYyY3JTMjlUUFZuM0Z6Sk02VzFYZzlwN1NrWVhrZ3NiVnY3V0JFd0JhU2tYVWhpalRaNVpCRDlSek5RUmRybDRVZWh2bXhPUEFPSS01anlRVkowZl93LVNJd0pUT1AzMHdRd1lGMXZYYXdzeTRGdmNQVE5CQnBUZ0Q5cHI0Y09HNW9pYw?oc=5",
+   "published": "2026-11-21T16:38:34+00:00",
+   "id": "3d0307fbedd9",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -4289,10 +4325,10 @@
    "link": "http://www.idahopress.com/ap_news/us/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_d69706d0-0aa1-5a72-85d7-55f28dbbb892.html",
    "published": "2026-11-21T16:30:00+00:00",
    "id": "8025e9b9eec0",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces sur le trafic maritime renforçant l'attrait de l'or face aux tensions régionales.",
+   "method": "IA"
   },
   {
    "title": "US denies Iranian account that missile damaged F - 16 over Gulf",
@@ -4301,22 +4337,10 @@
    "link": "https://cyprus-mail.com/2026/11/21/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf",
    "published": "2026-11-21T16:30:00+00:00",
    "id": "0746b6f16d89",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Pakistan halts gold mining in Khyber Pakhtunkhwa as Governor alleges proceeds financing terrorism : Report",
-   "source": "prokerala.com",
-   "theme": "Géopolitique",
-   "link": "https://www.prokerala.com/news/articles/a1839593.html",
-   "published": "2026-11-21T16:30:00+00:00",
-   "id": "9fad2b40fc62",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frictions militaires persistantes dans le Golfe sans escalade majeure avérée.",
+   "method": "IA"
   },
   {
    "title": "Reported Hormuz attacks hit wartime highs . Oil prices fall anyway . · Digg",
@@ -4325,10 +4349,22 @@
    "link": "https://digg.com/world-business/hk32yb03",
    "published": "2026-11-21T16:30:00+00:00",
    "id": "f367eaae19d7",
-   "impact": 10,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Tensions réelles à Ormuz mais absence de choc pétrolier limitant la hausse.",
+   "method": "IA"
+  },
+  {
+   "title": "Pakistan halts gold mining in Khyber Pakhtunkhwa as Governor alleges proceeds financing terrorism : Report",
+   "source": "prokerala.com",
+   "theme": "Géopolitique",
+   "link": "https://www.prokerala.com/news/articles/a1839593.html",
+   "published": "2026-11-21T16:30:00+00:00",
+   "id": "9fad2b40fc62",
+   "impact": 0,
+   "cat": "or",
+   "raison": "Suspension minière locale pakistanaise négligeable à l'échelle de l'offre mondiale d'or.",
+   "method": "IA"
   },
   {
    "title": "Realistic? President Trump pushes a year-end Ukraine peace deal",
@@ -4337,9 +4373,33 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2hXQk14aXMtWmhZcGRmUS1TUUVDMjUyazZSV1JzVXFvQWxZTDZyZ1RTZ05qMGZ5WFluXzM4ZncwX3oyM21hVVlkc0pyTDAzYmZySHFvSUZSWEZ0ekNfekdTUzZfMDJLS1NMRUhvVGxWc2szal9uVDVuZmc1eFVZWS1XWVlOX3B1VzJKVzUyUFZHbGR4cXNyZV8za2o5MFJz?oc=5",
    "published": "2026-11-21T16:14:50+00:00",
    "id": "f1f04a3ba381",
-   "impact": -6,
+   "impact": -2,
    "cat": "géopolitique",
-   "raison": "baissier or (géopolitique)",
+   "raison": "Espoirs d'accord de paix en Ukraine réduisant la prime géopolitique sur l'or.",
+   "method": "IA"
+  },
+  {
+   "title": "China on verge of launching new nuclear sub: report",
+   "source": "Taipei Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xVVduSVRmNEFNX0pMMTBXR1dIU0lGMzNfRUxOaDREcFpWNGFKV0gxM3FudzVidU15YUx4ai1hOEVibWVqdlBHMGVIRk43TGlRbm1hX2NMbFoyc2ZyMXdYbjJMRC05dENqcEJJb0huSWtmUmtXemZzaXh3?oc=5",
+   "published": "2026-11-21T16:00:00+00:00",
+   "id": "4c03d7730cac",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Taiwan archers claim women’s team silver at Asian Cup",
+   "source": "Taipei Times",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmUjhxTXFneHcta21lUjJwNGFnSDhPVGJOcExwS09JZEc3dS1qWUwtQVdqVGVqWm1BdUNSQVZWdGlGVFk0Z01lZk5XSnBjZGgtWTFwelFQcUZtVmxRSVJ5bnNwblRqUzA0RXdZZWhiN25JY2puckhYUQ?oc=5",
+   "published": "2026-11-21T16:00:00+00:00",
+   "id": "715a1463c773",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
@@ -4349,10 +4409,10 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1hpR2Fwb0RHalNvQmdRMThOeEw0Zk9oaEUtS19qUlJzMlUxMWNlbnJYVkJIUmV3REdqc2JLQVRjdzUzaGZWQmdUbUdLSkdLT2dqYlFDbC1PbmxZODMyMi1nS0h6WDFqNkEtMDU5WDd2Sl9BWmVTWEV3eHMzVHJnbl9hN2lBYWNvcmZ2UVo4T1Z4ZlRmbGtkcEU1djF1SnVuZ2tPak5JYURDZ0pXQUc2XzJrdEVqa0tTVG5ZWmNB?oc=5",
    "published": "2026-11-21T15:53:51+00:00",
    "id": "07b22771a2de",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Volonté affichée de négociation avec Téhéran détendant temporairement le risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
@@ -4361,10 +4421,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT25tR284UTNyRzU1TFlqY2E2MzVHSE1OSEFmdHdpc0g5UHJjd3FORUcwVHlwODRtTHMxX1d6YXdxY0trYk42b1FqMmJOaEFIRDVKY3Q2TFFOeEJ4OUFqakhaYmN1UlpNYU55R1lrVUxVMnhyYTdVSjBiY0FhTHZZT1pzRmRMbjFnUE9ZSUlPVVZoNzEzdkRXbW1JSVdfX3A0dExHYl9pQ0dDWVXSAbABQVVfeXFMTXdLRTZWdnFuc1hSNkhCUC0tRUh3a1dLMW5KTG5kSmFwaW8yQW1aVGNyV3dKT0x4YlVDMnhJTkk1eTZzWHFMZ2Q4ZnplVzRSUWRGY3NCVTl6eHlUekcxNVZCdDNkblJ2bWh0MGdPQ1U3UWhsSHlPQ1hQM2JMZk1Fc24wWF92ME1xLWpvUk1SZnViX0MwZUtWNmotakI4dGlZNzd0amZVZ3FGQ25CS2RmRmI?oc=5",
    "published": "2026-11-21T15:03:46+00:00",
    "id": "52534c1fbe64",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Perturbations critiques à Ormuz stimulant la demande de couverture pour valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "Money flooding out of South African bonds as United States interest rate hike looms",
@@ -4373,10 +4433,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBtT2dSOFJwRUdXVmlXaG43SkhLS3RnUzZKNGNBcUJMQlJ5ZDlhOTJGaHdjUWVzLW1VS2EyeFFwUVlyV2FLVGpObDROaXVwOFNEcFFWRlhOU0ZrQlZueTZ6ZWNvQUdOTUZiM1VPaHNPWE1Qb20xRDdsSmc2dGZpMjhZNTVaYmpPZTV3TGhVUmwwTDJ4VWxYUUREaVVqVHVzMlp3MkhHVktIR19lV0gxSHRRRGFPQ3Fhei1FYWpaaFBpbHM?oc=5",
    "published": "2026-11-21T15:00:00+00:00",
    "id": "fcefaf41f458",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -3,
+   "cat": "taux",
+   "raison": "Anticipations de hausse des taux Fed renforçant les rendements réels et le dollar.",
+   "method": "IA"
   },
   {
    "title": "Two killed, scores wounded as ballistic missile strikes Zelenskyy's hometown",
@@ -4385,10 +4445,10 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDE0OXRVa3lCemVzZ2NTdUNyMmYwYVRYLTBWRUNwcnBwSkxRNHIwRnF0SGRGcHk5dl93dldRNHMzOU5mekY1VHlSOC04YzBzSWhDMUVpTTYtMGZSbHViQnlVRm1zS1ZmaTNoSm9hbGZMLWhjX01xaW9ZYWEydG9kZndlMNIBgwFBVV95cUxNN1pRdEV2RktreFE2c3BlZFVTTlE2cFRoWHYyd3E2WlNCbnR4MXRtaUtYd18zTzNSczZDMFZvNjhMVVBsRHNsRUttaUFTVk03VnQ0aTNNclFYQjBDSFhPTnZITDE5RTR0czhFOEp0a3JKMVJkSmIwYnFhRGx1anFlNUk1MA?oc=5",
    "published": "2026-11-21T14:48:45+00:00",
    "id": "1fee9dd386e4",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite des frappes en Ukraine, impact marginal déjà largement intégré par le marché.",
+   "method": "IA"
   },
   {
    "title": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
@@ -4397,70 +4457,10 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0VzSEdkMFJlclR3UnhCVFVBa0dKWVF4SEd2Zzk3M0t1NW5GZWI4U2Q4T28xS1dtNXdVTl90VzJfQ0RCVE9rdENDWk93MHpTTGtzaU9lQ29BS2ZaVklnZzhMY2tYeTBhV3hnWlhNYmdWRE1yd0N5X1hELTNubmtiU2k4bXI5T3BHTGlONjRyajFsckY0MVZUSmFicWhQazBuM1dkRlU2OEI0MXpUWUZvM2tkVWpWUUxzR2U3TUJR?oc=5",
    "published": "2026-11-21T14:40:00+00:00",
    "id": "5d1652fa8477",
-   "impact": 10,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home city",
-   "source": "whtimes.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.whtimes.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/",
-   "published": "2026-11-21T14:30:00+00:00",
-   "id": "edf6d55f7558",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Briton swims in Strait of Hormuz to highlight  environmental cost of war",
-   "source": "penarthtimes.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.penarthtimes.co.uk/news/national/26750618.briton-swims-strait-hormuz-highlight-environmental-cost-war/",
-   "published": "2026-11-21T14:30:00+00:00",
-   "id": "c067c384ea65",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russian strikes kill child , paramedic in Zelenskyy hometown ; rescuers targeted",
-   "source": "upnorthlive.com",
-   "theme": "Géopolitique",
-   "link": "https://upnorthlive.com/news/nation-world/russian-strikes-kill-child-paramedic-zelenskyys-hometown-rescuers-targeted",
-   "published": "2026-11-21T14:30:00+00:00",
-   "id": "db435a705b18",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Man swims in Strait of Hormuz to highlight Iran war impact",
-   "source": "wdsu.com",
-   "theme": "Géopolitique",
-   "link": "https://www.wdsu.com/article/lewis-pugh-strait-of-hormuz-swim-iran-war/74497133",
-   "published": "2026-11-21T14:30:00+00:00",
-   "id": "38058d223b5c",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Zelensky brands Putin a  killer  as Russian double - tap missile attack kills two",
-   "source": "mirror.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.mirror.co.uk/news/world-news/zelensky-brands-putin-killer-russian-37901996",
-   "published": "2026-11-21T14:30:00+00:00",
-   "id": "4bc6325c5a3d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Pressions bellicistes envers l'Iran accroissant l'incertitude et la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Gold Plunges 9% in a Week, Breaks Below $4,000 Line; Experts Say \"Liquidity Vacuum,\" Not a Bearish Turn in Fundamentals",
@@ -4469,10 +4469,10 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMlVjbTBYdHNydUpmMmktNU5TeFdCcDEtcF9mTkhjdnZFTjJmb2lsb2toMHVfWld6QW15YVpnU0w1Y0VaUXNRMFBaX1RkN3ZFc1FTd3VNV3prM3BSZUlodkF4V2RENm1XNkFMR29XcjZuSHNpMnc?oc=5",
    "published": "2026-11-21T14:25:00+00:00",
    "id": "cd631065c3bc",
-   "impact": -3,
+   "impact": -4,
    "cat": "or",
-   "raison": "baissier or (or)",
-   "method": "mots-clés"
+   "raison": "Cassure technique majeure et ventes forcées accentuant la pression baissière immédiate.",
+   "method": "IA"
   },
   {
    "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now",
@@ -4481,22 +4481,10 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
    "published": "2026-11-21T14:19:00+00:00",
    "id": "65b31beed10f",
-   "impact": 4,
+   "impact": -1,
    "cat": "commerce",
-   "raison": "haussier or (commerce, géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russian ‘triple-tap’ attack in Ukraine kills emergency worker and 7-year-old in Zelensky’s home city",
-   "source": "CNN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVFENUFiWHpVUERfMGl2ZDViQ2NXUExGZWItNUFEVWJ6b1hDX05rRERkR2VaUWJ0dVhRSGRua2N6SFJTaWU0MXRzYVFWdENPVVNKRmkxUDR6LWNNZzE1SDA4QnJWVURhcUVjam56aDdUS1BRQ09nWjBtSHA1ZDk0Tg?oc=5",
-   "published": "2026-11-21T13:00:43+00:00",
-   "id": "c156e5ee8509",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Recherche d'accord commercial réduisant modérément l'incertitude tarifaire internationale.",
+   "method": "IA"
   },
   {
    "title": "Iran War Day 277: American and Israeli Hawks Push for Major Attack",
@@ -4505,10 +4493,10 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0JPSEZnZ2Y3cGh6eTZ1U1k3d3A2RFEtS2stWG1OZTRTM2EwRmVsN3UwVFJ1Mjc5SEtpVExmZDZRdURXdkdDNkw0aTN1M05UbzZlQ0VPYWpXMG9rY0pYd1NfWDNrdkkwbDJjendUazhpNk92MUNaUUdzWDNTTzVTTDBDdkpEXzlqNjR0aXZpSE42QnVlZFFNNmgycE9TNjVGSGdLanR3SEpvQQ?oc=5",
    "published": "2026-11-21T12:35:00+00:00",
    "id": "15578d5bcb91",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque d'extension militaire au Moyen-Orient alimentant une demande modérée de sécurité.",
+   "method": "IA"
   },
   {
    "title": "Other Views: Trump’s pivot from Iran to fraud signals a political strategy",
@@ -4769,6 +4757,18 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82cU91bW9DaDBiNl9mNlJBZTFxZi1RQldRampWdDZZRWJtY1h3TlFwWmU2QnFySDItSW1qcS1oR3UtQXIxMm5wNHRrNlR6RFph?oc=5",
    "published": "2026-11-21T09:14:58+00:00",
    "id": "35405e2e958c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US and Israel Discuss New Military Strike on Iran",
+   "source": "Kurdistan TV",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBNlVZbnBKOF9WYjNVdkduaGpzSFNQVGxveXZkT2hiY2FzOXJBMThpbmpIamt0bDJybWRYWE9DbDBaN2M3YUVTbGpZTHdGWnB0bXV2b19FbXU1ak5z?oc=5",
+   "published": "2026-11-21T09:01:23+00:00",
+   "id": "7e21db134752",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6636,7 +6636,6 @@
   }
  ],
  "fired": {
-  "news|05b03e70cbf0": 1793473299.2248564,
   "news|7539962d23eb": 1793475962.5413952,
   "news|1c7086791fe7": 1793480491.9276607,
   "news|1bdd0e8fa338": 1793481368.7570004,
@@ -8526,7 +8525,8 @@
   "news|dfe2f04b217c": 1795285160.087682,
   "news|9de5f994a53e": 1795285161.145977,
   "news|8ad060534c47": 1795286769.2313583,
-  "news|52534c1fbe64": 1795286771.9151196
+  "news|52534c1fbe64": 1795286771.9151196,
+  "news|7e21db134752": 1795287967.660948
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9014,6 +9014,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T19:06:07.661041+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel Discuss New Military Strike on Iran</b>\n📰 Kurdistan TV · Sam 21/11 10:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBNlVZbnBKOF9WYjNVdkduaGpzSFNQVGxveXZkT2hiY2FzOXJBMThpbmpIamt0bDJybWRYWE9DbDBaN2M3YUVTbGpZTHdGWnB0bXV2b19FbXU1ak5z?oc=5"
+  },
+  {
    "ts": "2026-11-21T18:46:11.915254+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Tankers hit in Strait of Hormuz as Iran tightens grip on shipping</b>\n📰 Al Jazeera · Sam 21/11 16:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT25tR284UTNyRzU1TFlqY2E2MzVHSE1OSEFmdHdpc0g5UHJjd3FORUcwVHlwODRtTHMxX1d6YXdxY0trYk42b1FqMmJOaEFIRDVKY3Q2TFFOeEJ4OUFqakhaYmN1UlpNYU55R1lrVUxVMnhyYTdVSjBiY0FhTHZZT1pzRmRMbjFnUE9ZSUlPVVZoNzEzdkRXbW1JSVdfX3A0dExHYl9pQ0dDWVXSAbABQVVfeXFMTXdLRTZWdnFuc1hSNkhCUC0tRUh3a1dLMW5KTG5kSmFwaW8yQW1aVGNyV3dKT0x4YlVDMnhJTkk1eTZzWHFMZ2Q4ZnplVzRSUWRGY3NCVTl6eHlUekcxNVZCdDNkblJ2bWh0MGdPQ1U3UWhsSHlPQ1hQM2JMZk1Fc24wWF92ME1xLWpvUk1SZnViX0MwZUtWNmotakI4dGlZNzd0amZVZ3FGQ25CS2RmRmI?oc=5"
@@ -9307,11 +9312,6 @@
    "ts": "2026-11-20T19:31:43.744818+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Weekly Forecast: DXY eyes 104.00 amid hawkish Fed</b>\n📰 FXStreet · Ven 20/11 20:22\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2x0dWpmckxNTVZoMG9Lc2xsUloyWllIRnJKeEN2OGhmdjNYbmFZV3dRZ0otUjRXNEJtOGI5NXprVk0xRkhISHJLY2NLRkNDMjU1cjhVSmw1YTlVLUtZVTFUNE9wd1g0ZGZjeEllTldTX1BIU3pIRW83MGdtWkd4Yjk3UW9UUkhDT3RobGh4OEpmN2c4Z1ptUVJ2UUJUWl90SEwyVU14WkNIM1ZCLWF0eTM5dFIxb0JwZ1hyM1BiTQ?oc=5"
-  },
-  {
-   "ts": "2026-11-20T19:31:42.889640+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Iran against reported 'dirty bomb' plot targeting Washington</b>\n📰 Anadolu Ajansı · Ven 20/11 20:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnI2X3JaX3JnYUVfZ1pTZnpmVnpKd1hEMVBJQjhrWXlQbWZxbEhuOG5IaEFQOEtfbk91TEdCd21uTVN0UEpZY3ZKaU9GdV9zLTBGNnI4TnNoVE5CN1NZeDdSSWNBa3lQZzZVa0VRcGdJazZ0T3JTd0JnZ3A1Rm1HVjF3eFhEaEs5bFgzMXdRbXVJRTYtRGdXTWtvbTc0S2V5a1RxZmdOMjMtZE5SWHdTRg?oc=5"
   }
  ],
  "daily_forecast": {
