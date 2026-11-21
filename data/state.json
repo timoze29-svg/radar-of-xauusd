@@ -1232,10 +1232,6 @@
   }
  },
  "seen_news": [
-  "955b0c303807",
-  "15a1ec135d15",
-  "01a06829b89e",
-  "f227dcab68d7",
   "dbc0be335771",
   "ca44981f3dac",
   "5706c8e30c6c",
@@ -4231,7 +4227,11 @@
   "a73bd062116a",
   "513761bbedd1",
   "5886069f89b7",
-  "0f884e5b8790"
+  "0f884e5b8790",
+  "15578d5bcb91",
+  "60de4fe766a8",
+  "766b99c84e6a",
+  "dfb38fad14f8"
  ],
  "news": [
   {
@@ -4290,6 +4290,18 @@
    "published": "2026-11-21T13:00:43+00:00",
    "id": "c156e5ee8509",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran War Day 277: American and Israeli Hawks Push for Major Attack",
+   "source": "The American Conservative",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0JPSEZnZ2Y3cGh6eTZ1U1k3d3A2RFEtS2stWG1OZTRTM2EwRmVsN3UwVFJ1Mjc5SEtpVExmZDZRdURXdkdDNkw0aTN1M05UbzZlQ0VPYWpXMG9rY0pYd1NfWDNrdkkwbDJjendUazhpNk92MUNaUUdzWDNTTzVTTDBDdkpEXzlqNjR0aXZpSE42QnVlZFFNNmgycE9TNjVGSGdLanR3SEpvQQ?oc=5",
+   "published": "2026-11-21T12:35:00+00:00",
+   "id": "15578d5bcb91",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6621,28 +6633,9 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Japan’s key inflation rises to 2.2% in October and reinforces the option of a rate hike",
-   "source": "Demócrata",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHNRXzdvZDZfOGlTY3FjRHZveWFxNGNwMHdZeGRscFFhNWV6aC0zWGFIXy13UW9EZDNkczRUNnJ0d0xBT2dKM05QSy1SVnpxNWlpZkljU09HRGtGSmpuYzBwVzJZcnp4aXRlQjdNQS02SHNvWEdlU1JxU05vVm9ob1FQeWZ0cDhCUUxKTXRNcmJjb3V1Qk1oV1pGRFZYQ0ZsZEhzdmlLME9sYzNhcG1jTjVNMXo1RDhMSG1yYUg3Qy3SAcYBQVVfeXFMTWRwNmtiOXlBZ1BkNzNYMV9qQTNtVFM5M3pfeFRQcEpPQlludmstMklfTlJKdlBSd1l1Q3V2bTE4ZXIyLXJtb282OWJ4ek5CeDVOMktfVXQxRjJVN1lMdVB0RVRxSUc4UG83aFRxRlJOVkN1MTA3QjVaMWdkTkl0UGdOV0k0NFFOdTZjWkFNNDNjbFFGYThURGRfTkI2TnFySFpuaEFYV2hmeXJ1TkRsMzhMOWFsQVBQcGl0MEMyLWRMZ3NGUWV3?oc=5",
-   "published": "2026-11-20T08:46:43+00:00",
-   "id": "a7b2baddf1ff",
-   "impact": 1,
-   "cat": "inflation",
-   "raison": "Hausse des taux japonais probable soutenant le yen au détriment du dollar.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|7fe909b97c92": 1793457975.740029,
-  "news|5565b50d0b7d": 1793457976.7013855,
-  "news|221905407927": 1793458890.2176716,
-  "news|d15e8bf6e062": 1793459768.4770715,
-  "news|a51fe95215df": 1793460682.2580311,
-  "news|f306343aa961": 1793460683.1670396,
-  "news|e939d5cc69b4": 1793460684.0335774,
   "news|4099a33ec8e5": 1793462492.1053798,
   "news|0c5da0224a43": 1793462493.0451956,
   "news|2091df6e0fef": 1793464283.7695365,
@@ -8530,7 +8523,8 @@
   "news|74e763b9dc37": 1795262689.5283604,
   "news|cf4b8a1f923e": 1795266107.837459,
   "news|7fab656508ef": 1795266975.33503,
-  "news|fe27c7ddbd43": 1795268773.7942023
+  "news|fe27c7ddbd43": 1795268773.7942023,
+  "news|15578d5bcb91": 1795275973.7147193
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9018,6 +9012,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T15:46:13.714812+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran War Day 277: American and Israeli Hawks Push for Major Attack</b>\n📰 The American Conservative · Sam 21/11 13:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0JPSEZnZ2Y3cGh6eTZ1U1k3d3A2RFEtS2stWG1OZTRTM2EwRmVsN3UwVFJ1Mjc5SEtpVExmZDZRdURXdkdDNkw0aTN1M05UbzZlQ0VPYWpXMG9rY0pYd1NfWDNrdkkwbDJjendUazhpNk92MUNaUUdzWDNTTzVTTDBDdkpEXzlqNjR0aXZpSE42QnVlZFFNNmgycE9TNjVGSGdLanR3SEpvQQ?oc=5"
+  },
+  {
    "ts": "2026-11-21T13:46:13.794299+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Strike Coming? US-Israel Military Chiefs Meet to Plan | Jerusalem Dateline,</b>\n📰 cbn.com · Ven 20/11 18:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHBScy1yNHRidHlFXzhfc0hrNmVrdVBMZk0tY0Nhd0xrRGoyODVZSW5PVmVFaWR1RXlPdDI4M1NibE1MNXg1WUxtdUNlWVpCb3pKUlhqRVpYb3F3ZzlTMXFiQWRHWHZJR2ZMQlpKZWh2WlVjTlFoZ2NMQlhoallGV1RpNXNEaDVGZm9HNWt4Zzg2dHZ3R1lWZmpvclRFNEJhVGsw?oc=5"
@@ -9311,11 +9310,6 @@
    "ts": "2026-11-20T17:46:22.822692+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US weighing attack on Iran in coming days — report</b>\n📰 The Times of Israel · Ven 20/11 14:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDVXWnJFQ0ZCMm5YYVB1Q0I5ZFU1ZW5SaEFHYTJNZTRieGtUN0I4Wm1RNHhjajFZZjM5UWo5dXkyQXZsckhhcVptUGl4elpvblp1TmNIM0xDdTdBTXVMVjZVV21wMHZubkRlSmxoemZhUzdqMWpvUFI2ajdqanVlWHpneFRvM0RrUTBTdWtWTDg2UmtKWDlkZnBpLUxqSFd4VWJJ?oc=5"
-  },
-  {
-   "ts": "2026-11-20T17:32:10.975966+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Bitcoin Price Slides After Fed Holds Interest Rates Steady, Rate Hike Odds Rise</b>\n📰 CoinMarketCap · Ven 20/11 05:54\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXlrOGJQQ2I4WnJWeThMMXdxTGFNZGNsUHZwXzNEVU1Ib0Q1bklSb0w2cC0zcjZyaU9LeGtPeWRXTUxMWW03dkRjZjhuRTY2UVdEMGk3SHZhNmROcUNDSml6Zm1zRHlpX2d5Z1FmWUNoWXIxS1hROFB4V1RiZHpKOVZfNkRVYm5JTGtlMDUzR3VqRnFuQUJ3?oc=5"
   }
  ],
  "daily_forecast": {
