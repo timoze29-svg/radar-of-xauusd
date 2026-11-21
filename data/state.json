@@ -1232,8 +1232,6 @@
   }
  },
  "seen_news": [
-  "bb220e8cedea",
-  "124c110a22be",
   "b0ea1f52ce30",
   "21f169e694d3",
   "90440015d9d5",
@@ -4231,7 +4229,9 @@
   "fa8add2d9d55",
   "069b32d25721",
   "cef7b2220a66",
-  "fb1319bffb81"
+  "fb1319bffb81",
+  "c8d3f6700222",
+  "b89737c68714"
  ],
  "news": [
   {
@@ -6143,6 +6143,18 @@
    "method": "IA"
   },
   {
+   "title": "US Dollar: Fed tightening risks support further gains – ING | FXStreet",
+   "source": "شبكة تواصل الإخبارية",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNW5wYld6YWxsV3NnRnN5VDJLUUVLQUVhTGM5NVZUbzBQWTZrZlozSExTWUxlUm05OS1ySUNCVW55azNpbnlFY0d5TXNqSm5iRkRF?oc=5",
+   "published": "2026-11-20T08:47:52+00:00",
+   "id": "c8d3f6700222",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Japan’s key inflation rises to 2.2% in October and reinforces the option of a rate hike",
    "source": "Demócrata",
    "theme": "Inflation US",
@@ -6621,26 +6633,9 @@
    "cat": "inflation",
    "raison": "Hausse des taux de la BoJ soutenant le yen face au dollar américain.",
    "method": "IA"
-  },
-  {
-   "title": "Starit of Hormuz Iran attacks",
-   "source": "politicaldog101.com",
-   "theme": "Géopolitique",
-   "link": "https://politicaldog101.com/tag/starit-of-hormuz-iran-attacks/",
-   "published": "2026-11-20T03:45:00+00:00",
-   "id": "4f1ca2fbf1e4",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Menace directe sur le détroit d'Ormuz, choc pétrolier potentiel et forte aversion au risque.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|4f47ed60f2ce": 1793429174.667423,
-  "news|5b3f21075622": 1793433883.3175783,
-  "news|eaafafb6c29b": 1793434762.8399165,
-  "news|48c37a0821de": 1793434763.8484015,
-  "news|9b5bb67309ef": 1793434764.71279,
   "news|6e2ca04eaf5c": 1793438402.4371052,
   "news|1ec541e60fc2": 1793439085.6222544,
   "news|d7fc3af423c1": 1793442688.9225366,
@@ -8538,7 +8533,8 @@
   "brk|BTC|h250|dn|2026-11-16/2026-11-22": 1795232954.3273444,
   "news|c7bedd730f97": 1795235673.3941712,
   "news|c2bd4b53e849": 1795239088.241337,
-  "news|9033a67f2ba3": 1795242868.1315498
+  "news|9033a67f2ba3": 1795242868.1315498,
+  "news|c8d3f6700222": 1795250085.0526571
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -9026,6 +9022,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-21T08:34:45.052779+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar: Fed tightening risks support further gains – ING | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Ven 20/11 09:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNW5wYld6YWxsV3NnRnN5VDJLUUVLQUVhTGM5NVZUbzBQWTZrZlozSExTWUxlUm05OS1ySUNCVW55azNpbnlFY0d5TXNqSm5iRkRF?oc=5"
+  },
+  {
    "ts": "2026-11-21T06:34:28.131695+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war could last until 2029: Former Trump defense secretary</b>\n📰 NewsNation · Sam 21/11 03:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE12VTc4cHo4cWhxVk94TE56Um5IZmY1UEg2dWNrS0FrMi1zbjNodGNYMGhtZk85aFprTzJWZXVKUVZFdFRzVkNRdExrZ0RlZnJ3YzBwTzRKRTJybENBaEs3V1RyUUZFeTVkZlRIWm53VlVMLWVuM1HSAXtBVV95cUxOd0ZSQ1hrZ2k2LURsUU1DUUE4alU3eXR2eWdZYldGcHVVOEdwRlhndFdfNzh1VWlRZFBWa25rbENxSnpHaTFMR1Vhc2cycloxeTRRNTdVUkl4WUtNTVZyRnBtZjF3Z0FiMTVMTG5LZ29RYlpCT2d5djNMN2s?oc=5"
@@ -9319,11 +9320,6 @@
    "ts": "2026-11-20T15:49:20.301796+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The U.S. and Iran Are Back to Trading Strikes</b>\n📰 Foreign Policy · Ven 20/11 12:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbUtPd0N2aE9RSlA5Y19OMUx6SllSTmdPbDJ6MXQ3U1RIbGxYb3UtQmxXeGJGWFgybUtGeFRlVW53S3ozbjFpVGVCeDhfNXhRTDZsaEZqWEhkSjd6UlFtWnZfMkpHbTRVYVFkWmtjZm5aZURHVUtNMmgtWmthQzA?oc=5"
-  },
-  {
-   "ts": "2026-11-20T15:49:19.554363+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US weigh renewed Iran strikes as Democrats seek to block war funding - report</b>\n📰 The Jerusalem Post · Ven 20/11 15:12\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBrbGcxNU1fbk55WnJLbmh5ajQ0NDVWSWR5TmFZTDV4MW1hMUZwLTkxMldzSHhVLUtHd1ZLQ0I1b1pHX2gtREh4RHVGSHhhRjBXNnY5cXRYMEY1a25Rd09YQTRKX2FISWVEZFE?oc=5"
   }
  ],
  "daily_forecast": {
