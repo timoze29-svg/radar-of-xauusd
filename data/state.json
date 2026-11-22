@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "1629a149d081",
-  "d56a83c6e8c8",
   "eee3581b1dc7",
   "742c191bca16",
   "32c876c90836",
@@ -3956,9 +3954,23 @@
   "0a17197edac8",
   "28e86fe5cd66",
   "76b613c191ec",
-  "22feaad1c95f"
+  "22feaad1c95f",
+  "5f5ee33567de",
+  "1825fec6f0ce"
  ],
  "news": [
+  {
+   "title": "DW News. . Iran is openly threatening European countries with missile attacks and clandestine operations if the US bombs again. How big of a threat is the Islamic Republic really for Europe? #dwgeopolitics",
+   "source": "Facebook",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjhYZHFjTTNnQWVNLTVnRHpOeFYyM2Q2YVpDUjByMkFabjVqV1RqdEVYZ1BmRzVjdjQteWlqY0daZ0g5aFd3LTNBQ1lpY09ZaGNHMk10aHBfRS1CdEVtanZhVkFHZ3VNUHI3UXAtUnNULUVDT2t4S2pCejJHSTlENzRwOGlpYzNVWGg0SXN2bUZQMzJsSmY3enpXZVV1NHFjZFdB?oc=5",
+   "published": "2026-11-22T07:50:09+00:00",
+   "id": "1825fec6f0ce",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "EA on WION: Ukraine Collapses Putin’s Kerch Bridge and Illusion of “Victory”",
    "source": "EA WorldView",
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Menace de bombe sale exacerbant les tensions bilatérales et l'attrait pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "US Dollar Weekly Forecast: DXY eyes 104.00 amid hawkish Fed",
-   "source": "FXStreet",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2x0dWpmckxNTVZoMG9Lc2xsUloyWllIRnJKeEN2OGhmdjNYbmFZV3dRZ0otUjRXNEJtOGI5NXprVk0xRkhISHJLY2NLRkNDMjU1cjhVSmw1YTlVLUtZVTFUNE9wd1g0ZGZjeEllTldTX1BIU3pIRW83MGdtWkd4Yjk3UW9UUkhDT3RobGh4OEpmN2c4Z1ptUVJ2UUJUWl90SEwyVU14WkNIM1ZCLWF0eTM5dFIxb0JwZ1hyM1BiTQ?oc=5",
-   "published": "2026-11-20T19:22:59+00:00",
-   "id": "3c9c72ed4d62",
-   "impact": -3,
-   "cat": "dollar",
-   "raison": "Appréciation attendue du dollar et Fed restrictive pesant directement sur le métal jaune.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|196c4246b860": 1793518470.5029871,
   "news|7b5ad2a26548": 1793520394.1899416,
   "news|ca0f7866b782": 1793522767.9224148,
   "news|801ac54fe132": 1793533579.0000083,
@@ -8251,7 +8250,8 @@
   "news|6c072f7a0132": 1795329089.6668036,
   "news|3c7d9003d6e8": 1795329981.917592,
   "news|168280a6eef0": 1795329985.7624643,
-  "news|1f0d8f0f8b91": 1795331775.555751
+  "news|1f0d8f0f8b91": 1795331775.555751,
+  "news|1825fec6f0ce": 1795334696.5177035
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8739,6 +8739,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T08:04:56.517805+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>DW News. . Iran is openly threatening European countries with missile attacks and clandestine operations if the US bombs again. How big of a threat is the Islamic Republic really for Europe? #dwgeopolitics</b>\n📰 Facebook · Dim 22/11 08:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjhYZHFjTTNnQWVNLTVnRHpOeFYyM2Q2YVpDUjByMkFabjVqV1RqdEVYZ1BmRzVjdjQteWlqY0daZ0g5aFd3LTNBQ1lpY09ZaGNHMk10aHBfRS1CdEVtanZhVkFHZ3VNUHI3UXAtUnNULUVDT2t4S2pCejJHSTlENzRwOGlpYzNVWGg0SXN2bUZQMzJsSmY3enpXZVV1NHFjZFdB?oc=5"
+  },
+  {
    "ts": "2026-11-22T07:16:15.555835+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>🇺🇸🇮🇷 Trump could restart the Iran war within days, but the next escalation could rapidly spiral beyond America's control A highly placed U.S source warned Brandon that the U.S and Israel could resume major military operations against Iran within 48–96 hour</b>\n📰 X · Sam 21/11 19:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1CQ3pDUDhna2o0eFQtSmRTTzE0R1l3dW9CQjMyQXMxMURma0lVUU1ZbjYwTllPSFl3UUlwUjBIWXk5Y21RcmdwZGFlWWlKUEUzT3NKc1JORW53bWxPbi13YWxjSVNZOUxzUFQ2dQ?oc=5"
@@ -9032,11 +9037,6 @@
    "ts": "2026-11-21T09:41:58.320934+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As Trump cosies up to Xi, Taipei’s citizens take up drone warfare</b>\n📰 The Observer · Sam 21/11 07:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUZGVm1PVG5lTjFlWlhaaTdSRWE2cURQS3BPSFA4R3RGejdlQW5RY1dtUVVpOHBVeXBFQkhXdWd3VjFXazVLWHpwZ0NyZjA5TWdkV0xYUUZHWGczTTI4TnFuYm1neTZwcUJtaktxYjZRRzNUYmxzRURKZWE3WXFMSlhzRzVyN1ByRXVaV2VlSXBZbVZzY3RqVUNfOWRsaWpDamFVLVRIa2xRY3RmeEp0S2k4RQ?oc=5"
-  },
-  {
-   "ts": "2026-11-21T09:01:46.165527+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude Oil Gains as Traders Weigh Possible Iran War Escalation |</b>\n📰 Business Post Nigeria · Sam 21/11 09:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXhJbFlna19WZTVHVUVIdHFCd2hTWnkxTmJMZWoxRWZwWmV0THMwT3ROZ0VITEFkTzJZRFRWUG5FX1FLR3NYaHd4ZVdFVUE0QWJMc0NVN2ZSb2gzdnpNMnhUS3pJanZiNWl4aEZNbGd2TzN2T0VYYmZUdnpIcGNtWEl5ZHRGcTdyOEFFajh2LVZiVEJOMkVRakhB?oc=5"
   }
  ],
  "daily_forecast": {
