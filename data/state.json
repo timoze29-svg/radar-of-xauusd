@@ -760,99 +760,99 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1795273362.1993268,
+   "ts": 1795345494.3067281,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 114,
       "high": [
        [
         0,
-        15.5
+        14.9
        ],
        [
         15,
-        9.5
+        9.6
        ],
        [
         22,
-        7.8
+        7.9
        ]
       ],
       "low": [
        [
         0,
-        19.0
+        19.3
        ],
        [
         2,
-        11.2
-       ],
-       [
-        16,
-        10.3
-       ]
-      ]
-     },
-     "1": {
-      "n": 123,
-      "high": [
-       [
-        22,
-        12.2
-       ],
-       [
-        15,
-        8.9
-       ],
-       [
-        2,
-        8.9
-       ]
-      ],
-      "low": [
-       [
-        0,
         11.4
        ],
        [
         16,
-        10.6
-       ],
-       [
-        2,
-        8.9
+        10.5
        ]
       ]
      },
-     "2": {
-      "n": 121,
+     "1": {
+      "n": 122,
       "high": [
        [
-        16,
-        11.6
+        22,
+        12.3
+       ],
+       [
+        15,
+        9.0
        ],
        [
         2,
-        10.7
-       ],
-       [
-        21,
-        6.6
+        9.0
        ]
       ],
       "low": [
        [
         0,
-        13.2
+        11.5
        ],
        [
-        14,
-        7.4
+        16,
+        10.7
+       ],
+       [
+        2,
+        8.2
+       ]
+      ]
+     },
+     "2": {
+      "n": 120,
+      "high": [
+       [
+        16,
+        11.7
+       ],
+       [
+        2,
+        10.8
        ],
        [
         21,
-        7.4
+        6.7
+       ]
+      ],
+      "low": [
+       [
+        0,
+        13.3
+       ],
+       [
+        14,
+        7.5
+       ],
+       [
+        21,
+        7.5
        ]
       ]
      },
@@ -896,7 +896,7 @@
        ],
        [
         0,
-        11.9
+        12.7
        ],
        [
         17,
@@ -910,26 +910,26 @@
        ],
        [
         15,
-        7.6
+        8.5
        ],
        [
-        16,
-        7.6
+        14,
+        6.8
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5980,
+     "n_hours": 5946,
      "horizon_h": 2,
      "base_gold_up": 53.0,
-     "base_dxy_down": 47.9,
+     "base_dxy_down": 48.0,
      "down": {
       "3": {
-       "n": 247,
-       "p_dxy": 51.0,
+       "n": 245,
+       "p_dxy": 51.4,
        "p_gold": 55.5,
-       "gold_avg": 1.3
+       "gold_avg": 1.4
       },
       "4": {
        "n": 58,
@@ -940,15 +940,15 @@
      },
      "up": {
       "3": {
-       "n": 269,
-       "p_dxy": 55.0,
-       "p_gold": 48.7,
-       "gold_avg": -0.8
+       "n": 265,
+       "p_dxy": 55.1,
+       "p_gold": 49.1,
+       "gold_avg": -0.9
       },
       "4": {
-       "n": 76,
-       "p_dxy": 57.9,
-       "p_gold": 51.3,
+       "n": 75,
+       "p_dxy": 57.3,
+       "p_gold": 50.7,
        "gold_avg": 0.1
       }
      }
@@ -957,7 +957,6 @@
   }
  },
  "seen_news": [
-  "e5e729241521",
   "7b3899cb586e",
   "77db801bc7f8",
   "c53254011a26",
@@ -3954,11 +3953,24 @@
   "c27678d0dbe5",
   "2ae6f21412ec",
   "6e6a8a048cfe",
+  "bfb21cc7368f",
   "81a288ff412e",
   "d3c408fad360",
-  "df0351848918"
+  "c23e460abf95"
  ],
  "news": [
+  {
+   "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
+   "source": "Financial Times",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUJBeUxqakhMalJCcG5UZmpLOXM1R1E0YzN1VmFoM0RoQTNiZ0JrV0IzZU9rMy1RWDZlSk1FVmYtTWNITjZxTmtmZklHMlZTYlZJZUdMaXRSMTNSMGJxTFhrNVBVWXZONFJFRlRzUjhCM3BWV2I2NU54OUp1VlZleXlNM18?oc=5",
+   "published": "2026-11-22T11:00:05+00:00",
+   "id": "bfb21cc7368f",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russian cargo ship still on fire off Finland after drone attack",
    "source": "Al Jazeera",
@@ -6345,18 +6357,6 @@
    "impact": -1,
    "cat": "politique US",
    "raison": "Vote démocrate anti-guerre réduisant marginalement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump :  We Want To Make A Real Deal , Not A Fake Deal . The Iranians Have Been Bullshitting People For 51 Years",
-   "source": "i24news.tv",
-   "theme": "Géopolitique",
-   "link": "https://www.i24news.tv/en/news/international/americas/artc-trump-we-want-to-make-a-real-deal-not-a-fake-deal-the-iranians-have-been-bullshitting-people-for-51-years",
-   "published": "2026-11-20T21:45:00+00:00",
-   "id": "68e31389ed0f",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Postures dures de Trump envers l'Iran entretenant la volatilité et le risque géopolitique.",
    "method": "IA"
   }
  ],
