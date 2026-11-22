@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795352473.3498178,
+   "ts": 1795374080.0869992,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "76b971bb0e42",
-  "c4cd704cc82a",
-  "d1abb848500b",
   "c2e702b4631c",
   "618940080b63",
   "096e9d2751f1",
@@ -3956,21 +3953,12 @@
   "e3ba4eebfbbc",
   "b172e8b20fbc",
   "23fbcd12bb89",
-  "f0410af0ae63"
+  "f0410af0ae63",
+  "fffe58a0a8b5",
+  "92ee2517d916",
+  "28d142be3512"
  ],
  "news": [
-  {
-   "title": "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper",
-   "source": "The Washington Post",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDYyYTg1VElqWlc2N1A3UTAwMXlZdmhleGlYN3pmYTcxQjBJZFlQaXVTVjNNazlGT00tRFFEVDJsb0VOY2R1SVNkYnZ5b2V2S1Z3SG9RR2VMNzJUT01iMkJQTDIxS0ZPZHExNlp4UjRHcUpUcGNOLTRJMVNyR2ZLdGROY3QtT19vYnVQaHhuZ0xwbzJBYlRGdWJzNDBmaTR1LUNHYmtwa1F0N1lMTzg2OWlldmpTNzcxbGxCNXJKX2FSeTBnbjdqVlJDQXYxVFhsQkR1cQ?oc=5",
-   "published": "2026-11-22T18:40:10+00:00",
-   "id": "b172e8b20fbc",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
   {
    "title": "Russian strikes kill 6 in Kyiv region, Ukraine says",
    "source": "South China Morning Post",
@@ -3979,6 +3967,18 @@
    "published": "2026-11-22T18:32:59+00:00",
    "id": "23fbcd12bb89",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "IDF intelligence said to warn unilateral Iran strike could spark multi-front war",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb04tQWtCYUJ5Tkl2QXBjUFdfT3VsLXlNZFpZdXRMdklaOGVLRXRfUWs5R3JRY2JhMnRtZldLR2FBYW5NamNBdG9mU3BtdmRzcDVVZXVab2JJWkVtbUVrQzBhSVpzYXJUQ3lEXzNwUUlvSTJZZTVuOFdmQ2N6UzZZazN1UXM4dDJnZ01IdXZ4dHA4R1pNT2tlSXFyX2FtSEpDQUlydnZjR2RGZ0ZkaVVUUkpQZmc2eFR6RW1sX1NTYXpwVnh1?oc=5",
+   "published": "2026-11-22T18:24:32+00:00",
+   "id": "fffe58a0a8b5",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6361,8 +6361,6 @@
   }
  ],
  "fired": {
-  "news|0f1e9bd2d04b": 1793559699.6616175,
-  "news|db9cae72280e": 1793559700.7128165,
   "news|967f42ca03cc": 1793560568.46918,
   "news|d677ff958ff2": 1793560569.5507889,
   "news|3236ce4bdeb2": 1793562367.4772346,
@@ -8274,7 +8272,8 @@
   "news|f2a71fd7bca2": 1795371390.3886657,
   "news|a9c735c2c8e6": 1795371835.018233,
   "news|789174484a50": 1795372354.6963716,
-  "burst|Trump|166238": 1795372355.7767568
+  "burst|Trump|166238": 1795372355.7767568,
+  "news|fffe58a0a8b5": 1795374332.4993465
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8762,6 +8761,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T19:05:32.499434+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>IDF intelligence said to warn unilateral Iran strike could spark multi-front war</b>\n📰 The Times of Israel · Dim 22/11 19:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOb04tQWtCYUJ5Tkl2QXBjUFdfT3VsLXlNZFpZdXRMdklaOGVLRXRfUWs5R3JRY2JhMnRtZldLR2FBYW5NamNBdG9mU3BtdmRzcDVVZXVab2JJWkVtbUVrQzBhSVpzYXJUQ3lEXzNwUUlvSTJZZTVuOFdmQ2N6UzZZazN1UXM4dDJnZ01IdXZ4dHA4R1pNT2tlSXFyX2FtSEpDQUlydnZjR2RGZ0ZkaVVUUkpQZmc2eFR6RW1sX1NTYXpwVnh1?oc=5"
+  },
+  {
    "ts": "2026-11-22T18:32:35.776810+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : TRUMP</b>\n6 articles en 45 min (normale ≈ 0.9) → un sujet s'emballe\n\n🥇 Impact moyen : +6.0/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+8) Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’ — <i>Fox News</i>\n• (+8) 'Bottom of the sea': Trump threatens Iranian navy, weighs new attacks by New Year if talks fail — <i>The Jerusalem Post</i>\n• (+8) Trump Seeks Permanent Deal to Prevent Iran from Acquiring Nuclear Weapons — <i>Kurdistan24</i>\n• (+8) Trump threatens to resume war on Iran — <i>News of Bahrain</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
@@ -9055,11 +9059,6 @@
    "ts": "2026-11-22T01:32:09.513659+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Report: Israel tracking Iranian push to rebuild missile arsenal</b>\n📰 Israel National News · Sam 21/11 17:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udkh4cnNvUXAyZHIzMHJjU19KUndxZ1lLS3RhRlE3R0FPc2NXQjBvLUhTcXZnVWViQ3lTNjhXeEttMFpMZ1cwd2VyUnJ0UUdySkhLdTdScEVBQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-22T00:31:37.698610+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Beats Bitcoin, Gold and Stocks as Fed Rate Hike Fears Grow</b>\n📰 CryptoRank · Sam 21/11 20:50\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGNHeVZJTmw3Q0RMdGRCNzFmRUFoVXJLaVU0Qm1kSmVpVWxsZ0IydUxEa0lPeXNrNWI3ZGNnRE9qOTRYTEJ0S1RUME0xbGw5NUExM1lsRXRUTlVLYkMyYWpFLURobzZkM09xY1BMbl9XeWg1eTJLWkRUcXFZMWdEMFJsazZTZFJ3VEd3?oc=5"
   }
  ],
  "daily_forecast": {
