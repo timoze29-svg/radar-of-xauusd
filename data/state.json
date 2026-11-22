@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "19589985f644",
-  "1b71170a630c",
-  "fde9d6cd379d",
   "7c5fbe849e66",
   "f98264a7d214",
   "244b9a4fce79",
@@ -3956,9 +3953,24 @@
   "eb09536b92df",
   "4c7198b145be",
   "d96ebd1ff21b",
-  "df4f41fb956c"
+  "df4f41fb956c",
+  "13272b35db4b",
+  "263f483bb872",
+  "6b1523aff7d8"
  ],
  "news": [
+  {
+   "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
+   "source": "CNN",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5",
+   "published": "2026-11-22T15:13:28+00:00",
+   "id": "6b1523aff7d8",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
    "source": "Al Jazeera",
@@ -6346,18 +6358,6 @@
    "cat": "géopolitique",
    "raison": "Nouvelle vague de bombardements lourds maintenant une demande soutenue pour les valeurs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "'Look at India': Trump praises 7% growth, questions US interest-rate policy",
-   "source": "Mathrubhumi English",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0dKVklMQmVvc1hPcnpaSTZpMFZjRnFRR0xlcXpFZTlHZEo3Nl9lcVVnNTN6WVZJcE9JTDJZblQycW5HT1lFVTVDZnotVm5nSWVLSGNWNXBlR0tEUGNVMnExcTlDUjZxOWhzNEZtcENsX1FLRUNRRXFrVFF5ZkEweWd3bTNzMUdnMXdpTGdzQm5MbktUNjQzdllVbjluTUlpcDN5cVZkcTFQUlBoNWFKUUdpc9IBuAFBVV95cUxQeExodkFUb0M2anROaG1zSW13ZWllZWl2TjliVWFYQUFxcVdpMFo1akRXZXJxUEp0Y1lUdGx0Q2RNZzZCTVdGcUpIellmZVQxam9jRHFCOGRfdlEyNkNSRTVoa3JWTHk4dlJua2tTYi1DNFYtX19hTk5aV3pQUWNOUzZzRi1KV1VlQXNKeHpfaTFvWkFmSExfdnZfa1hsTmFHcFdjOUFqVFVfMnFPTjF3QWFFQ2N5Tmp2?oc=5",
-   "published": "2026-11-21T01:04:24+00:00",
-   "id": "8ec26e728c05",
-   "impact": 1,
-   "cat": "politique US",
-   "raison": "Pression de Trump pour baisser les taux, affaiblissant potentiellement le dollar à terme.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8272,7 +8272,8 @@
   "news|72a812ac4470": 1795355356.0592186,
   "news|e2a74a4787c4": 1795356974.030052,
   "news|da3850ee1c75": 1795358771.8154519,
-  "news|87911d792662": 1795358774.4017823
+  "news|87911d792662": 1795358774.4017823,
+  "news|6b1523aff7d8": 1795361506.476976
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8760,6 +8761,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T15:31:46.477095+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began</b>\n📰 CNN · Dim 22/11 16:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5"
+  },
+  {
    "ts": "2026-11-22T14:46:14.401893+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Arab Parliament condemns Iranian attack on Bahrain, warns of regional escalation</b>\n📰 سانا · Dim 22/11 13:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiTEFVX3lxTE55ZzdYa2U0QlJlYVJ2U2xQZ3dpWmwwTGpBRDFRQ0M4RHJMXzJJcmNnb2hWZ0d4OEpfSEtOa09Na0d1clc5SDRneWNoUng?oc=5"
@@ -9053,11 +9059,6 @@
    "ts": "2026-11-21T22:16:08.185075+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -13)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (+11), Fed (2 ans vs taux Fed) (-9)"
-  },
-  {
-   "ts": "2026-11-21T22:01:39.378038+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (+11), Fed (2 ans vs taux Fed) (-9)"
   }
  ],
  "daily_forecast": {
