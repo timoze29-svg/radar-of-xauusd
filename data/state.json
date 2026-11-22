@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "a5eb34db2afd",
-  "0ae596fddba0",
-  "ea31adff8fbb",
-  "2eb7fbd5f4aa",
-  "c70763db51e8",
   "e67459884d73",
   "9ea178aeab00",
   "e2faeeae19e5",
@@ -3956,9 +3951,26 @@
   "485d66f2b0a4",
   "dc9ecae6a596",
   "81a2d6684f4e",
-  "e2488fc3bc89"
+  "e2488fc3bc89",
+  "5b156438cb1a",
+  "aab9d0303b53",
+  "f158b49278f7",
+  "b72ee24bf038",
+  "051368492282"
  ],
  "news": [
+  {
+   "title": "Trump threatens Iran strikes in new year, says blockade runners will be sunk",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzRXdabm5KR1czc1RxLU9xQUFoNUdmNHNrYTFPdFBrOENlZ1c1UURxWHZpd0lJUXFEcjhqWW5JcmF3VWIzbzlpNW9aSlZOVWt2ZWc?oc=5",
+   "published": "2026-11-22T20:58:58+00:00",
+   "id": "f158b49278f7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russian cargo ship leaves Finland’s territorial waters after drone attack",
    "source": "Al Jazeera",
@@ -6346,18 +6358,6 @@
    "cat": "géopolitique",
    "raison": "Attaque en Ukraine déjà récurrente n'apportant pas de surprise macroéconomique majeure.",
    "method": "IA"
-  },
-  {
-   "title": "IRGC claims downing of US MQ - 9 drone over Strait of Hormuz",
-   "source": "news.webindia123.com",
-   "theme": "Géopolitique",
-   "link": "https://news.webindia123.com/news/Articles/World/20261121/4522619.html",
-   "published": "2026-11-21T11:30:00+00:00",
-   "id": "f088062caa32",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Destruction confirmée d'un drone américain exacerbant les tensions militaires au Moyen-Orient.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8271,7 +8271,8 @@
   "news|368f8fa3c00a": 1795375080.0130033,
   "news|b9ee178751a1": 1795375915.9566803,
   "news|3b57a87085a3": 1795378753.2754772,
-  "news|684d1fe66bff": 1795379499.3729975
+  "news|684d1fe66bff": 1795379499.3729975,
+  "news|f158b49278f7": 1795382171.407215
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8759,6 +8760,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T21:16:11.407320+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump threatens Iran strikes in new year, says blockade runners will be sunk</b>\n📰 Iran International · Dim 22/11 21:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzRXdabm5KR1czc1RxLU9xQUFoNUdmNHNrYTFPdFBrOENlZ1c1UURxWHZpd0lJUXFEcjhqWW5JcmF3VWIzbzlpNW9aSlZOVWt2ZWc?oc=5"
+  },
+  {
    "ts": "2026-11-22T20:31:39.373196+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran shows off 'missile city,' Trump warns of strikes</b>\n📰 LiveNOW from FOX · Dim 22/11 20:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwRWloU2lnbTJZMTRMYWsxNlE0ZWtTRDk4bTRkbjc1cVEtcVRPV0ltZ0sybFlUZmdSTWJMWjAyNWlscTJMOXR3M2lmTUt6b2NHSnY4SWs5Q0kxdXc0dEpBTW9jd9IBaEFVX3lxTE9lbjZER0FqX1hWdFZKdXpMNEZxWS1rMGEwMTM3M05QZUtXWUZteUZFQ3JEbnR5MmMxQmc2TGh2aUpxc0lOX3Mtd1FyV0dEcnB1NlhsYmNheVdGZWtXYWJUdWIzWWhXU3pa?oc=5"
@@ -9052,11 +9058,6 @@
    "ts": "2026-11-22T04:16:29.572181+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Taux US 10 ans (5j) (+11), Fed (2 ans vs taux Fed) (-9)"
-  },
-  {
-   "ts": "2026-11-22T04:16:26.789494+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Claims US F-16 Was Hit by Missile in Gulf; US Denies Attack</b>\n📰 Deshabhimani · Dim 22/11 03:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkFpS0hkWGE0WEd3SjR5eXozNmJ3cGVSd2h2MTh6YU9aSGJOVFhRR3hUYXNOWl9wTG9Femt3dXo0NEExTGlkblRZLVFuRnhWVmxTX3FDcGxQSU9FYmtYaDY0MXJhbVhDdU55dGQ1ZnVEMmlySTNWcElKckVxcXRqS2ppVTJTOHpyelNTTmFreW94MDlHeDFMOVNDRVMwX2NId2tVQ2NFd0lLdXF3ODJVcjR2U3FrV0JhTUR5N3NBbUw1LUpIS3Fv?oc=5"
   }
  ],
  "daily_forecast": {
