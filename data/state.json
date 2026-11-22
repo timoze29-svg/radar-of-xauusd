@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "0dd962eeb777",
-  "9581a0ab4364",
-  "2cea8c60fa7f",
-  "d28d916389db",
   "10dd8319a53b",
   "5ca0645de8d5",
   "e84dd12eebd2",
@@ -3956,7 +3952,11 @@
   "b647b1952daf",
   "e9cccc6be079",
   "5ae585207782",
-  "a1ab111a8a89"
+  "a1ab111a8a89",
+  "1f0d8f0f8b91",
+  "50d9a808eb20",
+  "f9545aee2f94",
+  "4be422fa614f"
  ],
  "news": [
   {
@@ -4642,6 +4642,18 @@
    "cat": "or",
    "raison": "Désengagements massifs des ETF aurifères confirmant un repli technique et vendeur.",
    "method": "IA"
+  },
+  {
+   "title": "🇺🇸🇮🇷 Trump could restart the Iran war within days, but the next escalation could rapidly spiral beyond America's control A highly placed U.S source warned Brandon that the U.S and Israel could resume major military operations against Iran within 48–96 hour",
+   "source": "X",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CQ3pDUDhna2o0eFQtSmRTTzE0R1l3dW9CQjMyQXMxMURma0lVUU1ZbjYwTllPSFl3UUlwUjBIWXk5Y21RcmdwZGFlWWlKUEUzT3NKc1JORW53bWxPbi13YWxjSVNZOUxzUFQ2dQ?oc=5",
+   "published": "2026-11-21T18:43:14+00:00",
+   "id": "1f0d8f0f8b91",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Israel's Relentless Lebanon Strikes Are Threatening to Unravel Washington's Peace Deal",
@@ -6346,18 +6358,6 @@
    "cat": "commerce",
    "raison": "Remboursements douaniers allégeant marginalement les tensions commerciales et l'inflation importée.",
    "method": "IA"
-  },
-  {
-   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
-   "published": "2026-11-20T18:47:36+00:00",
-   "id": "66a37fb5508c",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8250,7 +8250,8 @@
   "news|016f06421718": 1795328176.4780905,
   "news|6c072f7a0132": 1795329089.6668036,
   "news|3c7d9003d6e8": 1795329981.917592,
-  "news|168280a6eef0": 1795329985.7624643
+  "news|168280a6eef0": 1795329985.7624643,
+  "news|1f0d8f0f8b91": 1795331775.555751
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8738,6 +8739,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T07:16:15.555835+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>🇺🇸🇮🇷 Trump could restart the Iran war within days, but the next escalation could rapidly spiral beyond America's control A highly placed U.S source warned Brandon that the U.S and Israel could resume major military operations against Iran within 48–96 hour</b>\n📰 X · Sam 21/11 19:43\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1CQ3pDUDhna2o0eFQtSmRTTzE0R1l3dW9CQjMyQXMxMURma0lVUU1ZbjYwTllPSFl3UUlwUjBIWXk5Y21RcmdwZGFlWWlKUEUzT3NKc1JORW53bWxPbi13YWxjSVNZOUxzUFQ2dQ?oc=5"
+  },
+  {
    "ts": "2026-11-22T06:46:25.762584+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Bitcoin Falls Below $74K After Hot US Inflation Fuels Fed Rate Hike Bets – Solana, Ethereum, XRP Hit Harder</b>\n📰 Stocktwits · Sam 21/11 15:01\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNRUVacmpsWm1naU93b21kU1EtbktvU0NMUWUyMFJobGpWRVVCQnlNVmYwcEFDU3R4WkJoS0l0bjVBa05qU1ltazAzMU5SQVJ2WncyeGhkdnRXd1JpVXlHVGo3bVp6OERZelhpa2ZZQ2xUeVRoRm01RmdNTGliN29xWjhRVW5Pcm5KVG5qVHgwcnhrdF9ZdTUyRGFOYndSSkNHNm9iRm1MR2t3WjRWT2diNFBxVDRaN3E3YjA4SFRyWUJLNEtXWHdrNG9vVVVPd2VxMndyODdJZEdwRTh1M0NaMDVpNEw3RDY2R2g5RlBzaE14WllOWF9UOE9BU0RtN3J6WWUyZm1R?oc=5"
@@ -9031,11 +9037,6 @@
    "ts": "2026-11-21T09:01:46.165527+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude Oil Gains as Traders Weigh Possible Iran War Escalation |</b>\n📰 Business Post Nigeria · Sam 21/11 09:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXhJbFlna19WZTVHVUVIdHFCd2hTWnkxTmJMZWoxRWZwWmV0THMwT3ROZ0VITEFkTzJZRFRWUG5FX1FLR3NYaHd4ZVdFVUE0QWJMc0NVN2ZSb2gzdnpNMnhUS3pJanZiNWl4aEZNbGd2TzN2T0VYYmZUdnpIcGNtWEl5ZHRGcTdyOEFFajh2LVZiVEJOMkVRakhB?oc=5"
-  },
-  {
-   "ts": "2026-11-21T08:34:45.052779+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar: Fed tightening risks support further gains – ING | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Ven 20/11 09:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNW5wYld6YWxsV3NnRnN5VDJLUUVLQUVhTGM5NVZUbzBQWTZrZlozSExTWUxlUm05OS1ySUNCVW55azNpbnlFY0d5TXNqSm5iRkRF?oc=5"
   }
  ],
  "daily_forecast": {
