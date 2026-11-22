@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "9ace014a4c6a",
-  "071854716d8b",
-  "cdf233515e03",
-  "d417e2498ced",
   "76b971bb0e42",
   "c4cd704cc82a",
   "d1abb848500b",
@@ -3956,9 +3952,37 @@
   "ccb694213038",
   "789174484a50",
   "6c2fb4bd946f",
-  "0d1b93c301c0"
+  "0d1b93c301c0",
+  "e3ba4eebfbbc",
+  "b172e8b20fbc",
+  "23fbcd12bb89",
+  "f0410af0ae63"
  ],
  "news": [
+  {
+   "title": "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper",
+   "source": "The Washington Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDYyYTg1VElqWlc2N1A3UTAwMXlZdmhleGlYN3pmYTcxQjBJZFlQaXVTVjNNazlGT00tRFFEVDJsb0VOY2R1SVNkYnZ5b2V2S1Z3SG9RR2VMNzJUT01iMkJQTDIxS0ZPZHExNlp4UjRHcUpUcGNOLTRJMVNyR2ZLdGROY3QtT19vYnVQaHhuZ0xwbzJBYlRGdWJzNDBmaTR1LUNHYmtwa1F0N1lMTzg2OWlldmpTNzcxbGxCNXJKX2FSeTBnbjdqVlJDQXYxVFhsQkR1cQ?oc=5",
+   "published": "2026-11-22T18:40:10+00:00",
+   "id": "b172e8b20fbc",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russian strikes kill 6 in Kyiv region, Ukraine says",
+   "source": "South China Morning Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUNOMnljaHRpcGxWS2pENUxkclFRSFktMFFOMkk3SkNOdDg1YjRFQ2w4MjNZRXVEczZWQnRuWDFfNmQ4VEw5Y1l3M3hva0JDWUlnQ3JMcy1NZ1FzRURtcDBHRW8wTVBlY3hKTGN1OVJkc1NTT0s2VDFTWW9CYkVyT2hnZWRrUkxKUzl1bTFOQ3NEU2V4Z3lKT3ItT1BucUVoQjMyeA?oc=5",
+   "published": "2026-11-22T18:32:59+00:00",
+   "id": "23fbcd12bb89",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump threatens to resume war on Iran",
    "source": "News of Bahrain",
@@ -3966,10 +3990,10 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcktQbkd0aXE0MFlNbWc3VU9nYkpzRUMxNE9JV1VuOTA4TkxsTGVVSG1kVG9LMkg2dUhIZGxxWTVHdmFLajNUTno2LVBmSzdTUlUwYVh0M2xpaWZObEl2NlF3dFJzUjNfU2lMQnVlNzI3RktfckNaSTBIeU50dDdXWS1wSEI?oc=5",
    "published": "2026-11-22T18:23:50+00:00",
    "id": "789174484a50",
-   "impact": 8,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces de guerre directe contre l'Iran, forte hausse de la prime de risque géopolitique.",
+   "method": "IA"
   },
   {
    "title": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
@@ -3978,10 +4002,10 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGR3aFJ3RURSVFJJZ1Z4UXdOenJEUjRPeDhvcjg4RUV1eGhvYWpzTDBXUzQ2OXktZFQwTm1QTE45Q3ZRa3EwN3JnQkRKMXZaUnQ5Y2x4VFloZ3pYcWxzMjNCLVJzSHZvZ1hGbzRQMlVWYWZSQnhiRklJT0Z0YlZ3eEx4d0xPc0ZBeEpkMTV3M0l5MjJaX0pvV2FERnRMbnUxMGREUWlMUHY5RVBfQ2pLU2doNzVDNTg?oc=5",
    "published": "2026-11-22T18:23:29+00:00",
    "id": "ccb694213038",
-   "impact": 1,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Risque accru de frappes militaires au Moyen-Orient soutenant la demande de valeur refuge.",
+   "method": "IA"
   },
   {
    "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
@@ -3990,10 +4014,10 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUlFiT2FkTDRqQjBEYU5FczdQVmFfTmNLeWR3NWtfSzk0S2tXOTIyTlNCZEpjMEd3WHM4cHpLRnVOYWEzZ3VzY3phOV8yMVI5bE1VbXVUUlRCTWQyWTZJcnlzM05YQ3JFSVh6UE96RGVTQVRpc0Q1NnVrVnRWeDBpemIyTEhIS09FbTZN?oc=5",
    "published": "2026-11-22T18:12:18+00:00",
    "id": "0d1b93c301c0",
-   "impact": 3,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Ouverture diplomatique modérée réduisant très légèrement la prime de risque sur l'Ukraine.",
+   "method": "IA"
   },
   {
    "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
@@ -4002,10 +4026,10 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDROSjJ4ZmFrSWp4VDNoeS1aRVlHb25QQXJvV0JhQWtrNjdJekNQWHEyQ0VhZUIyNHBpd3l2eEJSYmc4Zk45V2lhcWxwMzJBT09XYk1hRzZwa0FkT2ltdUl2STFtb1lBVHRtVFpDTGtYc2FVZWJqQXYyYlFSVzBhNzhpbE83NlByTGJHQjloNEZvZ9IBlwFBVV95cUxORzQwam00SzMzbWFrZHNQMlAxQU1sTmJ3ZEFQRU51V1B4MGxUb1FFeUo3R05ya0hQMFRVRjRGOTlVZDliV25wbGdnZzI1YlI5N2lpTnltOE5ZYUItZDViTlJvNkRCaGR0M2NxQ19zeEJrSmhVTGVKVGpoRFBNTlFlMFpxUzNKblhkYjlBek91OUJxbmZNdkRr?oc=5",
    "published": "2026-11-22T18:10:27+00:00",
    "id": "f5703c3894c3",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Poursuite des tensions en Ukraine déjà largement intégrée par les marchés.",
+   "method": "IA"
   },
   {
    "title": "Trump Seeks Permanent Deal to Prevent Iran from Acquiring Nuclear Weapons",
@@ -4014,10 +4038,10 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelZoVjd1WU1rZHFDQWRFV1pLRm9WTlVOMjY1ekdwTXRvVTBKOTVqcG4wMjN4dmJsWDVnejNid3l3ZXBFQ0l3VGhzUV9CbnNmYVgydkZ4M2V6RE9DMEZST280VHo0cmVXQ05RTi1peFk1cmY1aXNvRnMtZXhfdUU1VFRtNnhGeGFIZWcyMnpBc1JhODh5Z1lRQVl0cWtSanJTTEtleXZ5X0dfdVk0am9lelVNTmJMWHNu?oc=5",
    "published": "2026-11-22T18:06:22+00:00",
    "id": "c25c1b5b8beb",
-   "impact": 8,
+   "impact": -1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "La recherche d'un accord diplomatique diminue marginalement la prime de risque sécuritaire.",
+   "method": "IA"
   },
   {
    "title": "'Bottom of the sea': Trump threatens Iranian navy, weighs new attacks by New Year if talks fail",
@@ -4026,10 +4050,10 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5R1d3NnpMQnptb3pLTTllV21oWmJIRE8zeHJxNkNFYjVma2VYMTQwZ3hyVzgyRE5MS092bEo1elJGSzB2SEhqM0tzRXZRR3ZWckQyV3pRcDRwdVIzUURz?oc=5",
    "published": "2026-11-22T17:58:55+00:00",
    "id": "a9c735c2c8e6",
-   "impact": 8,
+   "impact": 4,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces explicites contre la marine iranienne stimulant les achats d'or refuge.",
+   "method": "IA"
   },
   {
    "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
@@ -4038,10 +4062,10 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Iam5qNS1BbndYckdzVmNMaTdIeVE5YlNZWVUxd3NkWFZGSERXNTRoMkFTS3JVekc5WE5ReGtEd2NCbzZyT3lxUjF1Umo1U0lsX2RCcnMxeDY?oc=5",
    "published": "2026-11-22T17:57:43+00:00",
    "id": "8ba6c8f59385",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Frappes russes continues en Ukraine sans rupture stratégique majeure pour les marchés.",
+   "method": "IA"
   },
   {
    "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
@@ -4050,10 +4074,10 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0E?oc=5",
    "published": "2026-11-22T17:52:35+00:00",
    "id": "fabaf5ae3866",
-   "impact": 8,
+   "impact": 3,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Rhétorique agressive de Trump ravivant l'incertitude géopolitique au Moyen-Orient.",
+   "method": "IA"
   },
   {
    "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
@@ -4062,10 +4086,10 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
    "published": "2026-11-22T17:18:26+00:00",
    "id": "6c2fb4bd946f",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Incident maritime en mer Baltique augmentant les frictions entre la Russie et l'OTAN.",
+   "method": "IA"
   },
   {
    "title": "DW News. . Rescuers in Ukraine are searching for people trapped under the rubble of an apartment building in the Kyiv region after a Russian drone attack. #DWNews",
@@ -4074,10 +4098,10 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVC1IdzF4RXJHa1NhcnJqSnF2NG5IZndoSE5CQW01MXpsQVQtTVlQMFVoUUFzeExlRmZRc0l0c1FKUDNwTTFEbXpvU1BDNWN4d1I0RV9WWVhuanM4QU8xd1lmQ1ByV0ItTUdDa2kzbzZ4Tnd4MzhsNVlGdVdvbzMwbHMtMlU3SnJYZHlCQm0wY3NBeE1ZQnBHSWF5M1JvQlJLNWNvWFhWOFF1OW5KZ29OdjNpeWF5ZS1qSWlDalV6UGo2MERLV0p4UUdmR3FmMzZiN01MQ3p3d3BfS3g1bDZPWXhR?oc=5",
    "published": "2026-11-22T17:15:08+00:00",
    "id": "6942d9d9b50c",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Attaques récurrentes de drones en Ukraine, impact négligeable sur les flux macroéconomiques.",
+   "method": "IA"
   },
   {
    "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
@@ -4086,10 +4110,10 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFVTX1ZRdG95VXVFbTBCdEVjNDQxeUJCSC1zczMtNVJtSTNsX1Z4NkJFUGowNW1xNjNJUlJ3NkZuazFqM183NUhueGF0LU5xUzZocnFNR3N4WEktS3Ezelo3YldkT1I5dGMxYW1BZFZQNTVOQmlxMjM2cmlONjhhbEs2ZnJIRk9Rc1dHaXVJSzJuSlNibVNlOWp5ZU1qSGdYcE9adA?oc=5",
    "published": "2026-11-22T16:56:00+00:00",
    "id": "372b8ee1f282",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Élargissement géographique des frappes contre des cibles russes, prime de risque modérée.",
+   "method": "IA"
   },
   {
    "title": "Ukrainian Security Service conduct a long-range strike on a Russian warship in Libya - report",
@@ -4098,10 +4122,10 @@
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOU9nWjhrdjYzMWgxNVN0NmFoSjNMN2o0T0JLeEFiTlVJUm9OdXFWMl81U2hMOVRGTXQtbDRWODJCanViM0x4dW5QZGctUThLQmoyRlRLeDZXU2VuclBzT3lMS21Pd0M4elI5T2hrUDFtY3dYSkZUYXZmbTVpWVZvQTctOWdIeTRsNGZjMVI5cGFDUU5qUmZfNC0waFIzb0pXeWxfZ0ozYUF0eXlEY2VOR1ItOURzV0J4V3Y3b3hsTGZhLWd0LWZEaHg2eGhqZWQzMVRwR0U5N2RqRGNBVk03bHVfZjhVYTF0U3VBUUZsTW4zcHJD?oc=5",
    "published": "2026-11-22T16:55:29+00:00",
    "id": "e3f53fd1277c",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Opération ukrainienne longue portée démontrant une escalade des capacités militaires.",
+   "method": "IA"
   },
   {
    "title": "Ukraine war latest: US delays on Patriot missiles 'difficult to understand' as Russia fires 165 missiles in single week, Zelensky says",
@@ -4110,10 +4134,10 @@
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb1hDeGZPSTNtQmhNb3d2VlNZQkNoSUdKY002Z0YybHhTd3JiX2VmWk1nSDZJMHk3RjF3Y25veHZaOEh3eGV0dGllbm5mMFhnZ20ybzZXZ1ExTHZMZllDeDlfZlBOOElMLXR1Zzk5SXYtWjRoUGtnOS1ucW5FMUpRMGNNRlFRcmJkT25KWGpHb2FXZzZqcmJiVFAwZ2RjUzA0LTFEUGs1Y0FvLVROWjlMTXdUQVNCOEctUThCblprdVNQVVhvbDg4anVBRTFJak1jVnBudmhTQVZKdGdoY0RWYjR3SURIamozUzhaRWxZNXE?oc=5",
    "published": "2026-11-22T16:53:12+00:00",
    "id": "0112ecb0d9aa",
-   "impact": -4,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "désescalade (attaque écartée / reportée) → baissier or",
-   "method": "mots-clés"
+   "raison": "Tensions logistiques sur les livraisons d'armes, impact de marché très marginal.",
+   "method": "IA"
   },
   {
    "title": "Russian attack near Ukraine’s capital strikes apartment building, killing 3 and burying others",
@@ -4122,22 +4146,10 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
    "published": "2026-11-22T16:53:00+00:00",
    "id": "4544b44b4986",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump congratulates Democrats on midterms, says Iran war played role",
-   "source": "AFP.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BczZxRVIxc2wySjZlQnhTcF8tWEhsaGxqekNsYndKSFlPMkhKUGFBZ0tleXhRRFVWbXBVSDFUdUZuVFRaa21McmE2cw?oc=5",
-   "published": "2026-11-22T16:40:03+00:00",
-   "id": "9e7619fafd1a",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Bilan humain tragique mais dynamique de guerre habituelle déjà pricée.",
+   "method": "IA"
   },
   {
    "title": "Russian vessel docked in Libya hit in suspected drone attack, authorities say",
@@ -4146,10 +4158,10 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamhUZkJwenh5LXdfUnM3WDZZZTNMak93ZWhPTzNUXzBoQlhJMlNXdUdWemVYdFRHVGxCVE8wNEZlT1czaElmQ2JuZ05JV1VfNVVsZzZEMFNpcEc0MEk2YUY2UTByeFRxWTZUWFh0UEt5WlA5WE1SZzIzLWVjUGszQWZIcDhPSkRrUlBsUzRJMA?oc=5",
    "published": "2026-11-22T16:38:33+00:00",
    "id": "034ad07ac784",
-   "impact": 6,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Confirmation d'une frappe en Libye maintenant une nervosité géopolitique résiduelle.",
+   "method": "IA"
   },
   {
    "title": "Palestine calls for  deterrent measure against occupier  terrorism  in West Bank",
@@ -4158,10 +4170,10 @@
    "link": "https://aa.com.tr/en/middle-east/palestine-calls-for-deterrent-measures-against-occupier-terrorism-in-west-bank/4133690",
    "published": "2026-11-22T16:30:00+00:00",
    "id": "2f1ec3e7dd41",
-   "impact": 5,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Appels diplomatiques en Cisjordanie sans déclencheur macroéconomique significatif.",
+   "method": "IA"
   },
   {
    "title": "Trump Threatens More Strikes on Iran’s Kharg Island, Pushes Allies on Strait of Hormuz",
@@ -4170,10 +4182,10 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEJkYjV5SWxuU3RxOUo2eHR0ZklpbDhsenVUMXdNNlhmRDRJTW95MVB2LVp4c0VHdWpPaFRRS0JLcHVtM0pyTkdZWUp2bU5aZ3R6enFxb3FRUUQ5SllCNEs2bkh0WmZObjFZT1NPQmswM3lGQThGUEVIdVBUeHZEeTBhcUZxNlpNa1htdW9IeG5PMFZjMFdVMzFHRHFhU3BweWdaS0phNUgxWUw2Z3N3WTlldFh3QQ?oc=5",
    "published": "2026-11-22T16:24:11+00:00",
    "id": "9c298b0851bf",
-   "impact": 10,
+   "impact": 5,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Menaces sur Ormuz et infrastructures pétrolières iraniennes : risque de choc inflationniste haussier.",
+   "method": "IA"
   },
   {
    "title": "Russian attack near Ukraine’s capital strikes apartment building, killing 2 and wounding 4",
@@ -4200,18 +4212,6 @@
    "method": "IA"
   },
   {
-   "title": "CCP legal warfare evolving: minister",
-   "source": "Taipei Times",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTzJ5bzAwTmhKdlYyekh4OXgyLU5RQzdrYklLTVRLdHcxcXRPV29wUEF6bVkxWEJaOW53QS02X3pIV0p2U29hSHM4YTd1UWhfd0V6cm1qRkJmWGRzbGhjaksxVmhpOVRoUEtLN3p4TjcyY0lZeTA5WQ?oc=5",
-   "published": "2026-11-22T16:00:00+00:00",
-   "id": "08029b4b46ae",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
    "title": "From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over",
    "source": "NBC News",
    "theme": "Russie/Ukraine",
@@ -4230,10 +4230,10 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
    "published": "2026-11-22T15:37:33+00:00",
    "id": "0c94446993da",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Suspicion d'attaque en Libye sans nouvelle contagion régionale avérée.",
+   "method": "IA"
   },
   {
    "title": "Live - Saudi Arabia warns Iran of consequences after attack on Bahrain injures two",
@@ -4254,10 +4254,10 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0VmZnRneVh6Y2dLTlNKcG1tcXRhUTh6UEUxalZrdmdzVzRmR0tVLUhjcUoxLU5UTElHTFJNdnJFS2s1TmtYY2F4RVJHbHVRQWt3VllaU3lkYmpEZjM0MzJQcGQ5OU9QaG9aRkYxSGJiUEFqajNXQjVlNEZMWVhxdXh2RUVTaG9zN3ZPMWpzYXRrTXJoNDBF?oc=5",
    "published": "2026-11-22T15:24:39+00:00",
    "id": "72e5a76b68b8",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "impact": -6,
+   "cat": "emploi",
+   "raison": "Emploi robuste favorisant les hausses de taux Fed, négatif pour le métal jaune.",
+   "method": "IA"
   },
   {
    "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
@@ -4326,10 +4326,10 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE9sOGE2QzhJZlVrSWJsT0ZZcHp1ZGZaYTM3TGloZTV0cWo2T0tXLTZrYmtmQ0xEQXpfUGRlNURtNFNhM1Q2VEZUQzhqbWVKdHZNajNxekJxSTJpZUtLbU1YNTJqNFVaWUJmR2pqekI5OHFFc2FYTnlSeFduNElfMzJUdHFuZm54QlRTV3c5Z0JWeFNKZlJ1M1NISmhrNUxwVGJjNjdZeEx5SXpNUmc?oc=5",
    "published": "2026-11-22T14:24:47+00:00",
    "id": "f2a71fd7bca2",
-   "impact": 8,
+   "impact": 2,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Déstabilisation interne en Iran accentuant l'incertitude dans la région du Golfe.",
+   "method": "IA"
   },
   {
    "title": "Fed may need multiple rate hikes to tackle persistent inflation",
@@ -4338,10 +4338,10 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenlUc1J5SnhkX3FaZmh2SXJaY3RUdS1JSXNRWjB2U0NWNmlGYm94ZWtiTy1pYWdKYk9nMXUxNm9pOFhNOW1rRno2eUtzbi14OFJKdkJhZjFjSktJa0E4M1NGbEYzZXY5aVNOcGp0MzdSODN0dGVJU216Ykx0bEJNYmF3aTlCS016dUVTckhmWVM0S2t6cVE?oc=5",
    "published": "2026-11-22T14:24:14+00:00",
    "id": "289a5e6a85f4",
-   "impact": -8,
+   "impact": -6,
    "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
+   "raison": "Perspective de hausses de taux supplémentaires propulsant les taux réels à la hausse.",
+   "method": "IA"
   },
   {
    "title": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank",
@@ -4530,10 +4530,10 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
    "published": "2026-11-22T11:25:14+00:00",
    "id": "b7fc8ab462dc",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Suivi de l'incendie maritime en Baltique sans escalade politique immédiate supplémentaire.",
+   "method": "IA"
   },
   {
    "title": "At least 2 people wounded in Iran attacks on Bahrain",
@@ -4734,10 +4734,10 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnc2SENVdFZpODQ1VC1xQkpqV0I3LXNJTzk1NHpiRjQ3ZHE0LV9tTWtrRTRIM2lDWWZiTFZyNGhMX1U3eXlNMFAtVlJzOTFLMmk0dnZJaU5taVFDaldqaVJjSTlWcnRRaXRXSDdrV3RVYmxoT2RQSnpSQUlqYm9aZ0xXZHpSdUYxTEJOTnU1RjVEWDQyUU0xVG1GUUE3d0w3Ykk5dnFPTVNwV2dk?oc=5",
    "published": "2026-11-22T10:12:30+00:00",
    "id": "b2e38293c50c",
-   "impact": 6,
+   "impact": 1,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Violences locales récurrentes n'impactant pas directement les flux globaux de capitaux.",
+   "method": "IA"
   },
   {
    "title": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips - ABC News",
@@ -4782,10 +4782,10 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSE5YUHliSGJ0T2JHYkhGa3g1NHI0NzB4WEwzTDEzazZSc3oxYmFvMXNLMzdzdGFWdHV3U0lnQlp0V1pnX1EteGdNdTdYQTRURk5qdWlkUF9ndjB5cVpNRVZ4RFJPb190aFRYTmNuOGIyQ2VmLThrOWZpM0ZRY0VPVWxRVTJxNU4zRWg0NE94Q0FCNzVUdS1BdURtbHhNdw?oc=5",
    "published": "2026-11-22T09:45:59+00:00",
    "id": "3a2980b8f0e9",
-   "impact": 10,
+   "impact": 7,
    "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
+   "raison": "Escalade majeure avec pétroliers coulés et bases US ciblées : puissante ruée vers l'or.",
+   "method": "IA"
   },
   {
    "title": "Nana Ouyang says she keeps hoping Taiwan Strait will one day grow narrower",
