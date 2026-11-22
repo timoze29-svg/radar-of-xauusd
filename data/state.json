@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795329954.0838926,
+   "ts": 1795352473.3498178,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795347955.5778418,
+   "ts": 1795352473.3840199,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,28 +957,6 @@
   }
  },
  "seen_news": [
-  "a8f201772353",
-  "5e86a8269cf7",
-  "c9e6a42e03a8",
-  "931e1cf9230a",
-  "e381b6a58d00",
-  "963a285b30fd",
-  "4a9c9cac5a9a",
-  "e66d372289e0",
-  "7689a47e5688",
-  "aa539e9b7f82",
-  "5a0e2d3ba037",
-  "57d7407e4e73",
-  "b235b1adfb5c",
-  "69e4495a957f",
-  "de0a42be3172",
-  "db7c50f55cf2",
-  "e213ded5b11a",
-  "d99a966e566f",
-  "28c7413a2e87",
-  "b3d0d7d9b728",
-  "52ef58b47138",
-  "159e7380e26d",
   "9cd92ea667e3",
   "e7d2ec0d236b",
   "b6d40bb6df33",
@@ -3956,7 +3934,29 @@
   "4ba04d4f003e",
   "494c905577f4",
   "94441e95bece",
-  "a4a4764618c9"
+  "a4a4764618c9",
+  "691cf229f552",
+  "30df5c308773",
+  "de59229ee05c",
+  "1b91bed973d7",
+  "84f370561458",
+  "64e6219dbdc0",
+  "c130db4639ed",
+  "56c2c754e888",
+  "8456b7d2054a",
+  "8dce82ebf82f",
+  "14e225b128fc",
+  "a10de0833423",
+  "0f37931317c1",
+  "ac3051a9f92f",
+  "087eae49db64",
+  "8d2f89980938",
+  "2b39025ae5d2",
+  "bac9a6e5922b",
+  "5f80c180ef65",
+  "1a4dcb1d2115",
+  "06eab786aa70",
+  "ba65c700a53d"
  ],
  "news": [
   {
@@ -3967,6 +3967,66 @@
    "published": "2026-11-22T12:33:10+00:00",
    "id": "400b582e6ecb",
    "impact": 3,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks",
+   "source": "cyprus-mail.com",
+   "theme": "Géopolitique",
+   "link": "https://cyprus-mail.com/2026/11/22/bahrain-says-iran-strikes-industrial-facility-as-air-defences-intercept-attacks",
+   "published": "2026-11-22T12:30:00+00:00",
+   "id": "64e6219dbdc0",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran claims it shot down US drone near Strait of Hormuz",
+   "source": "news.az",
+   "theme": "Géopolitique",
+   "link": "https://news.az/news/iran-claims-it-shot-down-us-drone-near-strait-of-hormuz",
+   "published": "2026-11-22T12:30:00+00:00",
+   "id": "c130db4639ed",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russian cargo ship still burning after drone strike off Finland",
+   "source": "news.az",
+   "theme": "Géopolitique",
+   "link": "https://news.az/news/russian-cargo-ship-still-burning-after-drone-strike-off-finland",
+   "published": "2026-11-22T12:30:00+00:00",
+   "id": "14e225b128fc",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "At least 14 feared trapped after Russian drone strike collapses building in Ukraine Kyiv region",
+   "source": "moneycontrol.com",
+   "theme": "Géopolitique",
+   "link": "https://www.moneycontrol.com/world/at-least-14-feared-trapped-after-russian-drone-strike-collapses-building-in-ukraine-s-kyiv-region-article-14086600.html",
+   "published": "2026-11-22T12:30:00+00:00",
+   "id": "a10de0833423",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump attempts to reach Kim Jong Un go unanswered as North Korea expands nuclear arsenal : Report",
+   "source": "moneycontrol.com",
+   "theme": "Géopolitique",
+   "link": "https://www.moneycontrol.com/world/trump-s-attempts-to-reach-kim-jong-un-go-unanswered-as-north-korea-expands-nuclear-arsenal-report-article-14086564.html",
+   "published": "2026-11-22T12:30:00+00:00",
+   "id": "2b39025ae5d2",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4053,6 +4113,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Indonesia, EU Seal Zero-Tariff Trade Deal After Decade-Long Talks",
+   "source": "Tempo.co English",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjBqM0dKTHRSeGhyenlKTWJsZGw3UWVoZzFEM1lnUWZrZmVJWXZoYzFyQ0J5NEhvTU91VHYzYzRFWnAwaGhsM0lGNXNRRjc3YlNJUy1zTEdOaXR2UkxWS2FlYUVlNlhfUjU4M0hnQnBiVzlFamRPTFBhNFpXNmRUT3dfdE5PUmtoanhpX0ZHeU1iQnVNV0NGWng0S2hZQQ?oc=5",
+   "published": "2026-11-22T11:00:59+00:00",
+   "id": "1b91bed973d7",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6286,82 +6358,9 @@
    "cat": "commerce",
    "raison": "Perspective d'accord temporaire réduisant l'incertitude commerciale et la volatilité sur les marchés.",
    "method": "IA"
-  },
-  {
-   "title": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
-   "source": "investingLive",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUdWUXJITGJ5T2NsT2VyaElRUDRNSnF0X2pkQ2k1czRRYXllY0hwNk5hdmZuZnBtYUtDNnExSXdCd052OFoyNlRHTG1SLXB1M2hqRk5fcWNnLUs3OWpMUGl1YXZ4VnJVOG1Xc0FicTdwVndLZDhMWnphMnlYZmVxcjRuLU5Ha2t1TVpiNmlfdDFhb1o4aHJQN01WWlQxUTdRRk5lUFN1N3ppYjdY?oc=5",
-   "published": "2026-11-21T00:16:21+00:00",
-   "id": "942437b5bf5c",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Choc d'inflation alimentaire réduisant le pouvoir d'achat indien pour les achats physiques d'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
-   "source": "TradingView",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2pHSG41RU82N3lRdHhhN0k0UmpsQW9nUHhFX3U4TGZjMXFfVDlRWk1Hano0cGFCR3RESUpxVVRZYWhOdkRUVkRCOGJXUVExYmxsdVhlV3l5OFNmenY1LWx0VTlCTkw4c3N5LXFOVE0tdjlJODIwTHBGc0JrUjFPYmFXT3NIbFNPWURWbWh6My0xbUU4NXc2UW1rSmZ2M1VIbV91VE15QktDTGxDdGFvX3VLS2dBc0RPYm9tNlEwM1BreXo1V3RIVmptTW16ajBJUEZJS1diRWJlSFhrUkZ4NU93?oc=5",
-   "published": "2026-11-21T00:10:00+00:00",
-   "id": "9ef2ba27b6a2",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Baisse du pétrole réduisant les pressions inflationnistes et la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump ‘considering new strikes on Iran after being warned military is running out of time’",
-   "source": "The Independent",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFkyQ0JGVDlDLTF3Vk8tU1hVTkh3YWpoUFJ4RjBaZEotVkhSYVhvWmZtTU92anVQNlNhTEdCN3pSN2dQQnFhSFRuYkJzLVlTZlgxUVUxZzQyWHJfY09LME10andxejc2TnZrUnNINUFOZHVhZ1ZvRWUzVHV3TzdiWlZveHFyRGJQVm41cHI0SzFnT1YwTHpBZ3hGbG5YRTcy?oc=5",
-   "published": "2026-11-21T00:04:00+00:00",
-   "id": "e9b9226182ee",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Menace d'escalade militaire directe contre l'Iran, stimulant la demande de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the crypto market",
-   "source": "investingLive",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkU2c09kN252eGYyd0gxRkNsOGtGS1pXRlVPa2VFX284eGhDN1BSY1dmd0ZWZ3dTOWNkbk40OExRcjlFVXhRdUw2aWpGUURFeUVfeW9uc3A4VlVxcXZHeDJJcTNtYTlhSGZlOHNIVC1ySXVZd2dPNlFBNzFjdzM3TTFJYWZrZDZOenBIRlZTdVJGeHZrRUp6cnZyUU4wZk9hb2Jpakl5ZzctaWJMMkNjTUJWRUp0T2djZjZmRnJZSUZhdVNRbHZXeW1OVlU?oc=5",
-   "published": "2026-11-20T23:50:26+00:00",
-   "id": "053bcddce07e",
-   "impact": -2,
-   "cat": "fed",
-   "raison": "Repricing hawkish de la Fed et taux réels élevés pénalisant les actifs sans rendement.",
-   "method": "IA"
-  },
-  {
-   "title": "Japanese Yen gains modestly as CPI data bolsters expectations of a December BoJ rate hike",
-   "source": "www.tmgm.com",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYjUzbHRHdUNnM3N4XzlOeXNuWHBuUGE5U1FxYkJjN2hURGdxUEtONzVtTjhsWHZtQWI0bm0yUlBkSlZ1dkVGNUUzWGl0LWJvOXZ3VWsydGduZDM4QTJ2TkdmMFZRS0FIY05naS0xb1hKMUl2V0VXTERTYnBKREpWOWxpb2tGRHFwNHd4WGJtTFBGR2xiQmVkNm1reEkwazE2VUhLbHVVUl9MTGxUWlMwbnJvazRlZTJfYTJQQzBjd2IzVlZYbU1GQi1vSG1EcDhXR2laWGM4QkdnU2pDUFNnVEFGMEtab3Zj?oc=5",
-   "published": "2026-11-20T23:28:35+00:00",
-   "id": "bf76a320c5b5",
-   "impact": 1,
-   "cat": "dollar",
-   "raison": "Hausse attendue des taux japonais pesant légèrement sur le dollar américain.",
-   "method": "IA"
-  },
-  {
-   "title": "US Dollar Index (DXY) stalls below 104.00 as Fed rate hike bets are offset by AI jitters",
-   "source": "www.tmgm.com",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd1FWY1o5MlN1LWhaVUhjNVZoSC1rVFlXcmpTcWl2SWxOQjR1ZS02SURVT0ZQeF93ejZMYm5lQlZtVFVtaXdkcG5KaU1HMnhWSUR6REdJMkV3MElvWEdUMm9XTlctM21lTlVPVnU2azd0b1ZCdDJZdlF0UVZ0UGc3azV2bThiLXc3dVhPVW00QlVmVHVWWmhwMlpwZk9qT0xrX3hBdDdJbm1lc2Z4bHk3VFBmZGcyR2MzVzJQNVA0OVNCRU5xVlhsSzREM2E4UWtWV1FHYVBLSnA4Q0RSWG9qRg?oc=5",
-   "published": "2026-11-20T23:18:55+00:00",
-   "id": "c48f6e177bd7",
-   "impact": 1,
-   "cat": "dollar",
-   "raison": "Pause du dollar sous 104 soutenant légèrement le cours de l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|9f569f8302b8": 1793537297.6569738,
   "news|3365862d9112": 1793539147.140641,
   "news|bca9cca38f9b": 1793539147.9595385,
   "news|01fc4de4ca0e": 1793539884.1006465,
@@ -8268,7 +8267,10 @@
   "news|c07515d102e5": 1795347085.7870517,
   "news|984114d76c4a": 1795347086.5573237,
   "news|107c07dca324": 1795350677.9962242,
-  "news|4ba04d4f003e": 1795351577.8954298
+  "news|4ba04d4f003e": 1795351577.8954298,
+  "news|64e6219dbdc0": 1795352524.2785816,
+  "news|c130db4639ed": 1795352526.881506,
+  "news|2b39025ae5d2": 1795352527.6503973
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8756,6 +8758,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T13:02:07.650561+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump attempts to reach Kim Jong Un go unanswered as North Korea expands nuclear arsenal : Report</b>\n📰 moneycontrol.com · Dim 22/11 13:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.moneycontrol.com/world/trump-s-attempts-to-reach-kim-jong-un-go-unanswered-as-north-korea-expands-nuclear-arsenal-report-article-14086564.html"
+  },
+  {
+   "ts": "2026-11-22T13:02:06.881691+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran claims it shot down US drone near Strait of Hormuz</b>\n📰 news.az · Dim 22/11 13:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.az/news/iran-claims-it-shot-down-us-drone-near-strait-of-hormuz"
+  },
+  {
+   "ts": "2026-11-22T13:02:04.278714+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Bahrain says Iran strikes industrial facility as air defences intercept attacks</b>\n📰 cyprus-mail.com · Dim 22/11 13:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://cyprus-mail.com/2026/11/22/bahrain-says-iran-strikes-industrial-facility-as-air-defences-intercept-attacks"
+  },
+  {
    "ts": "2026-11-22T12:46:17.895514+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar , Germany call on Iran to end support for Houthis and increase nuclear transparency</b>\n📰 dunyanews.tv · Dim 22/11 12:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://dunyanews.tv/en/World/984234-qatar-germany-call-on-iran-to-end-support-for-houthis-and-increase-nu"
@@ -9039,21 +9056,6 @@
    "ts": "2026-11-21T19:48:28.661338+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Anti-Netanyahu bloc suspects Iran War push aims to block new government</b>\n📰 Israel Hayom · Sam 21/11 20:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZG9GbzZ4a2ZJTHRJaUFFVjE0ZUd2QWloOGZ5WUZWZWF3OW14WVlQUzZYWDJLV1oxbXgwU1NNUk5rRWFDZjZ5blN6RlN0QWlDUTI1ZnZtVkJQaDM3R0JTLU1nbDFHY1NVZTJJWUNTRE9BWVM0czZ2enhBZ0NXajJZTXBlZ2lBVHZEaEVEQjZNVGdRbjNDeWd3Q05zZ09EYjNZMW1ZSnozWGhaNHUtRjdWZg?oc=5"
-  },
-  {
-   "ts": "2026-11-21T19:06:07.661041+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US and Israel Discuss New Military Strike on Iran</b>\n📰 Kurdistan TV · Sam 21/11 10:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBNlVZbnBKOF9WYjNVdkduaGpzSFNQVGxveXZkT2hiY2FzOXJBMThpbmpIamt0bDJybWRYWE9DbDBaN2M3YUVTbGpZTHdGWnB0bXV2b19FbXU1ak5z?oc=5"
-  },
-  {
-   "ts": "2026-11-21T18:46:11.915254+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Tankers hit in Strait of Hormuz as Iran tightens grip on shipping</b>\n📰 Al Jazeera · Sam 21/11 16:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT25tR284UTNyRzU1TFlqY2E2MzVHSE1OSEFmdHdpc0g5UHJjd3FORUcwVHlwODRtTHMxX1d6YXdxY0trYk42b1FqMmJOaEFIRDVKY3Q2TFFOeEJ4OUFqakhaYmN1UlpNYU55R1lrVUxVMnhyYTdVSjBiY0FhTHZZT1pzRmRMbjFnUE9ZSUlPVVZoNzEzdkRXbW1JSVdfX3A0dExHYl9pQ0dDWVXSAbABQVVfeXFMTXdLRTZWdnFuc1hSNkhCUC0tRUh3a1dLMW5KTG5kSmFwaW8yQW1aVGNyV3dKT0x4YlVDMnhJTkk1eTZzWHFMZ2Q4ZnplVzRSUWRGY3NCVTl6eHlUekcxNVZCdDNkblJ2bWh0MGdPQ1U3UWhsSHlPQ1hQM2JMZk1Fc24wWF92ME1xLWpvUk1SZnViX0MwZUtWNmotakI4dGlZNzd0amZVZ3FGQ25CS2RmRmI?oc=5"
-  },
-  {
-   "ts": "2026-11-21T18:46:09.231438+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’</b>\n📰 The Washington Post · Sam 21/11 19:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5"
   }
  ],
  "daily_forecast": {
