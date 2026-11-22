@@ -957,16 +957,6 @@
   }
  },
  "seen_news": [
-  "a2ddda6b6b39",
-  "2e65ca7179b7",
-  "5a5e3b15d1b4",
-  "bd8b07d1c407",
-  "6f9521ddf49f",
-  "4a484e0a38f6",
-  "f1bfeb7ee7bc",
-  "ee1cadac7f7b",
-  "48adc66ed6ca",
-  "91531847965d",
   "9740f17c5285",
   "373e053c5d9e",
   "a1b716ddd6b2",
@@ -3956,9 +3946,31 @@
   "aa06c8b3858a",
   "5da3c5be73a4",
   "85b3dfaa011b",
-  "372b8ee1f282"
+  "372b8ee1f282",
+  "fabaf5ae3866",
+  "776c13d17d5e",
+  "15b10738c2ba",
+  "60e3687fb635",
+  "c3cd0bd98afb",
+  "2f1ec3e7dd41",
+  "a4692c3dada8",
+  "0a2ec3c08dd4",
+  "c2340f36a162",
+  "5d6ebeb27008"
  ],
  "news": [
+  {
+   "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0E?oc=5",
+   "published": "2026-11-22T17:52:35+00:00",
+   "id": "fabaf5ae3866",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "DW News. . Rescuers in Ukraine are searching for people trapped under the rubble of an apartment building in the Kyiv region after a Russian drone attack. #DWNews",
    "source": "Facebook",
@@ -4005,6 +4017,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Palestine calls for  deterrent measure against occupier  terrorism  in West Bank",
+   "source": "aa.com.tr",
+   "theme": "Géopolitique",
+   "link": "https://aa.com.tr/en/middle-east/palestine-calls-for-deterrent-measures-against-occupier-terrorism-in-west-bank/4133690",
+   "published": "2026-11-22T16:30:00+00:00",
+   "id": "2f1ec3e7dd41",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6334,34 +6358,9 @@
    "cat": "inflation",
    "raison": "Tribune d'opinion sur l'inflation passée sans effet direct sur les anticipations de marché.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Press Conference Highlights $17 B Asia Trade Deals, Permitting Reform, and Calls for Healthcare Deal with Democrats",
-   "source": "Forth.News",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tR2xEdTJDZ0xPUVJlWFpuMnlDZ0g3RTlVN1FaWjV1RTJDYXJPZnhOYkhzV08tX1FacmNOZWlILU1fTTNTTmFTWHFsZ0RCTml4el9iZHVhaDZtMWk2QTFEV193?oc=5",
-   "published": "2026-11-21T03:52:59+00:00",
-   "id": "97b588bb2fe4",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Annonces d'accords commerciaux et dérégulation stimulant l'appétit pour le risque au détriment de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Spot Gold Plunges Nearly 9% in a Week, Losing $3,600 Handle; China's Gold Jewelry Prices Fall for Tenth Straight Day, Down More Than 650 Yuan This Year",
-   "source": "BigGo Finance",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wSl9TVmo0MmYxM1lpYTVDSWVlRnF5U19zcjZuTnB6Q2RwM2tHWmVVNVFxRVp6THBvdEdlejJQaWU2TjdFYXlkcDVsTmVVZmEydTc0XzZEcWZUdm5TS3N0S2d5MW1RNnhjVHNuQmUzMDBvT0Rrcnc?oc=5",
-   "published": "2026-11-21T03:25:00+00:00",
-   "id": "d7830a618cb4",
-   "impact": -5,
-   "cat": "or",
-   "raison": "Capitulation technique majeure et effondrement de la demande physique chinoise pesant lourdement.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|0fabef4b5d41": 1793556100.5321622,
   "news|775a9981ba23": 1793556972.4055078,
   "news|d21cefda6110": 1793556973.3853176,
   "news|65fd001c075b": 1793556974.246921,
@@ -8275,7 +8274,8 @@
   "news|fdd727a98c77": 1795365970.0263476,
   "news|3a2980b8f0e9": 1795365970.8703105,
   "news|289a5e6a85f4": 1795367769.943559,
-  "news|9c298b0851bf": 1795369575.8357437
+  "news|9c298b0851bf": 1795369575.8357437,
+  "news|fabaf5ae3866": 1795370503.9889383
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8763,6 +8763,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T18:01:43.989028+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’</b>\n📰 Fox News · Dim 22/11 18:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0E?oc=5"
+  },
+  {
    "ts": "2026-11-22T17:46:15.835832+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump Threatens More Strikes on Iran’s Kharg Island, Pushes Allies on Strait of Hormuz</b>\n📰 EnergyNow.com · Dim 22/11 17:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEJkYjV5SWxuU3RxOUo2eHR0ZklpbDhsenVUMXdNNlhmRDRJTW95MVB2LVp4c0VHdWpPaFRRS0JLcHVtM0pyTkdZWUp2bU5aZ3R6enFxb3FRUUQ5SllCNEs2bkh0WmZObjFZT1NPQmswM3lGQThGUEVIdVBUeHZEeTBhcUZxNlpNa1htdW9IeG5PMFZjMFdVMzFHRHFhU3BweWdaS0phNUgxWUw2Z3N3WTlldFh3QQ?oc=5"
@@ -9056,11 +9061,6 @@
    "ts": "2026-11-21T23:49:14.225388+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war turns Dubai into a ghost city</b>\n📰 DW.com · Sam 21/11 12:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5"
-  },
-  {
-   "ts": "2026-11-21T23:49:11.524347+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Strait of Hormuz Attacks Hit Highest Level Since U.S.-Israel-Iran War Began: how 17 outlets framed it</b>\n📰 NewsCord · Dim 22/11 00:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQLU15RFlwS2NabF9pUlVrN3MyOU9CYjFQWmZuMFYydWhHR3daQW1oaHFXSjNKcy1tVkMtbGI1bUZaWHpPUXkyaWZYRzlBb1NsZ3MtalV5Y0ZzR1doeXowb3ZWSUI4aDJKQU5PYXpMSWhVcDd6N0QyQjI4TzY4N0ZFY2pjRmxHd1ZuWGcxa2M1NURQbjVNY0N4NG00dlpWZF80ZXFXdnNQOU1GMVlEVkpJc3pEbTJVT3FTZkQ4U0ZpbVlDRXRfN1E?oc=5"
   }
  ],
  "daily_forecast": {
