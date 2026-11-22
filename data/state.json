@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "f92c3187af19",
-  "1cc2602621ab",
-  "27fbf0d914db",
-  "9f1881744889",
-  "2750a4603acc",
   "f0831b517f89",
   "255192a5db88",
   "d7c79d94b02d",
@@ -3956,7 +3951,12 @@
   "4558d4629953",
   "f5703c3894c3",
   "034ad07ac784",
-  "8ba6c8f59385"
+  "8ba6c8f59385",
+  "9e7619fafd1a",
+  "a9c735c2c8e6",
+  "4544b44b4986",
+  "b7fc8ab462dc",
+  "4c335f14a920"
  ],
  "news": [
   {
@@ -3978,6 +3978,18 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelZoVjd1WU1rZHFDQWRFV1pLRm9WTlVOMjY1ekdwTXRvVTBKOTVqcG4wMjN4dmJsWDVnejNid3l3ZXBFQ0l3VGhzUV9CbnNmYVgydkZ4M2V6RE9DMEZST280VHo0cmVXQ05RTi1peFk1cmY1aXNvRnMtZXhfdUU1VFRtNnhGeGFIZWcyMnpBc1JhODh5Z1lRQVl0cWtSanJTTEtleXZ5X0dfdVk0am9lelVNTmJMWHNu?oc=5",
    "published": "2026-11-22T18:06:22+00:00",
    "id": "c25c1b5b8beb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "'Bottom of the sea': Trump threatens Iranian navy, weighs new attacks by New Year if talks fail",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5R1d3NnpMQnptb3pLTTllV21oWmJIRE8zeHJxNkNFYjVma2VYMTQwZ3hyVzgyRE5MS092bEo1elJGSzB2SEhqM0tzRXZRR3ZWckQyV3pRcDRwdVIzUURz?oc=5",
+   "published": "2026-11-22T17:58:55+00:00",
+   "id": "a9c735c2c8e6",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4053,6 +4065,30 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russian attack near Ukraine’s capital strikes apartment building, killing 3 and burying others",
+   "source": "AP News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
+   "published": "2026-11-22T16:53:00+00:00",
+   "id": "4544b44b4986",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump congratulates Democrats on midterms, says Iran war played role",
+   "source": "AFP.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BczZxRVIxc2wySjZlQnhTcF8tWEhsaGxqekNsYndKSFlPMkhKUGFBZ0tleXhRRFVWbXBVSDFUdUZuVFRaa21McmE2cw?oc=5",
+   "published": "2026-11-22T16:40:03+00:00",
+   "id": "9e7619fafd1a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4438,6 +4474,18 @@
    "cat": "géopolitique",
    "raison": "Attaques coordonnées et interceptions multiples illustrant l'ouverture de fronts régionaux simultanés.",
    "method": "IA"
+  },
+  {
+   "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+   "source": "BBC",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+   "published": "2026-11-22T11:25:14+00:00",
+   "id": "b7fc8ab462dc",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "At least 2 people wounded in Iran attacks on Bahrain",
@@ -6309,54 +6357,6 @@
    "impact": 1,
    "cat": "dollar",
    "raison": "Repli du dollar offrant un léger répit mécanique aux cours du métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil prices rise on renewed fears of escalation in the Middle East",
-   "source": "سانا",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qQVZfUllfdTN5Wnd3MW1aUlBpYnVmZVBTdlR0Nm5jRWVCeU5UYWFadmlsbDJ4NDRJQUt2d1Q0LTlxaGRaY0ZrNWpJZjQ?oc=5",
-   "published": "2026-11-21T07:07:27+00:00",
-   "id": "1013c5b7fd19",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Risque géopolitique au Moyen-Orient et pressions inflationnistes favorables au métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih",
-   "source": "EA WorldView",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3hUazcyZ0J0a2Y0c1hodFBWc09tSkg5RHdINE1FalBCbV8zSzNPalpzc2plN2xBVGlsZzd6OHZyMGJxWi12dzZyR3VCcWJTWVVNSWtuSjZOVTMzZUtLUXRsUzJ4dVBDWkJTbXZLLWhER01INFJ2aXZmZHUtQkhCOWk2aU5GT1NZM0d1NjhyQQ?oc=5",
-   "published": "2026-11-21T07:05:52+00:00",
-   "id": "1fd6740db6ca",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tragédie récurrente du conflit ne modifiant pas les anticipations fondamentales des investisseurs.",
-   "method": "IA"
-  },
-  {
-   "title": "New US tariffs come in at lower 10% rate",
-   "source": "DD News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZUcwUjFMeUFYYnhRZElpckF3Y1d2Q0FYU2hvTDhNLWg1WjR6ZHNjUTdEZkVaTXo5NDN1dzE1Wm9sOHdJS2o2cjZrNVBSVVNrQ0RSRXBoQU1zTzA4SnVsUmxuM2NIZ01iNG95Y3Bfa05HdUE?oc=5",
-   "published": "2026-11-21T06:48:49+00:00",
-   "id": "9a3e09cdc26b",
-   "impact": -2,
-   "cat": "commerce",
-   "raison": "Tarifs douaniers inférieurs aux craintes, allégeant les anticipations d'une guerre commerciale inflationniste agressive.",
-   "method": "IA"
-  },
-  {
-   "title": "Russian missile hits Poland as Ukraine allies hold military exercise",
-   "source": "the-star.co.ke",
-   "theme": "Géopolitique",
-   "link": "https://www.the-star.co.ke/news/world/2026-11-21-russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk",
-   "published": "2026-11-21T06:45:00+00:00",
-   "id": "c5d3e2ffa88c",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "Crainte aiguë d'engagement direct de l'OTAN, envolée immédiate de la prime de risque.",
    "method": "IA"
   }
  ],
@@ -8272,7 +8272,8 @@
   "news|9c298b0851bf": 1795369575.8357437,
   "news|fabaf5ae3866": 1795370503.9889383,
   "news|c25c1b5b8beb": 1795371387.988554,
-  "news|f2a71fd7bca2": 1795371390.3886657
+  "news|f2a71fd7bca2": 1795371390.3886657,
+  "news|a9c735c2c8e6": 1795371835.018233
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8760,6 +8761,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T18:23:55.018328+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Bottom of the sea': Trump threatens Iranian navy, weighs new attacks by New Year if talks fail</b>\n📰 The Jerusalem Post · Dim 22/11 18:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5R1d3NnpMQnptb3pLTTllV21oWmJIRE8zeHJxNkNFYjVma2VYMTQwZ3hyVzgyRE5MS092bEo1elJGSzB2SEhqM0tzRXZRR3ZWckQyV3pRcDRwdVIzUURz?oc=5"
+  },
+  {
    "ts": "2026-11-22T18:16:30.388773+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Truckers strike, blackouts spread as blockade pushes Iran to the brink</b>\n📰 Israel Hayom · Dim 22/11 15:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE9sOGE2QzhJZlVrSWJsT0ZZcHp1ZGZaYTM3TGloZTV0cWo2T0tXLTZrYmtmQ0xEQXpfUGRlNURtNFNhM1Q2VEZUQzhqbWVKdHZNajNxekJxSTJpZUtLbU1YNTJqNFVaWUJmR2pqekI5OHFFc2FYTnlSeFduNElfMzJUdHFuZm54QlRTV3c5Z0JWeFNKZlJ1M1NISmhrNUxwVGJjNjdZeEx5SXpNUmc?oc=5"
@@ -9053,11 +9059,6 @@
    "ts": "2026-11-22T00:31:33.746166+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran War Escalation Raises Maritime Risks and US Funding Dispute</b>\n📰 Demokratis.co.id · Dim 22/11 01:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBMRGd5NDJ4c1ZER2Itcmp2VDVaX25SNnZKMFZ5RzZfZFd0QVdzczZqdFBHTnBWY1ZLck9jQWVYa3lHWjJSVFoxc2ZjVVp2aE41SEZWd3lqbFFEQ2huWFJXTjk2WERiSjRtTUVoV283WQ?oc=5"
-  },
-  {
-   "ts": "2026-11-22T00:01:40.000578+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US-Iran War Live Updates: Tehran says it hit US radars in Bahrain as fire breaks out at civilian site</b>\n📰 The Indian Express · Dim 22/11 00:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNMUJtUU43cGtFVW1aQ1FRX3d0ZUxxNFkySnQ5REFsY3RiV3hkb0RIRS1oRTlYcnZIRXpCWGowcTVQNlVsSnVwbjR4eURjMnRVYXpwTklYc0ZSeU1Lb1JwdzZnSjZrdktwb094NkhfZDZQanRKS3pUOU9nbU1iamt1TEtLYjhTUzNpTFNxUXFQS3ktY1gyUEszbWZERTJMN3FNb09TdVZYQkxVaHZVMlFZekhhNGFqZWI5UFFxazIwZ0tDU0VxVkF5T3ZoUU01NlphdUxYejBLbjVvMGk5VU8wc0FfVUIxSEF5NVQycFh0Q01SWTZjTkZiSHRFcm90U01SeHljZg?oc=5"
   }
  ],
  "daily_forecast": {
