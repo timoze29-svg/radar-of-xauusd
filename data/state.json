@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "66098278383a",
-  "e60c08b83080",
-  "3e7b5da26755",
-  "bd6faf4f6a03",
-  "6693fdee6672",
   "dc9ecae6a596",
   "a494b06dd3d2",
   "d04189f9cd69",
@@ -3956,7 +3951,12 @@
   "9bee411d32a2",
   "3b57a87085a3",
   "7b7b2075cb9f",
-  "4b711c044084"
+  "4b711c044084",
+  "822d7f162b06",
+  "26cf8fbe3764",
+  "684d1fe66bff",
+  "e2fffd53b123",
+  "bf949000dc39"
  ],
  "news": [
   {
@@ -3967,6 +3967,18 @@
    "published": "2026-11-22T19:55:45+00:00",
    "id": "7b7b2075cb9f",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran shows off 'missile city,' Trump warns of strikes",
+   "source": "LiveNOW from FOX",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwRWloU2lnbTJZMTRMYWsxNlE0ZWtTRDk4bTRkbjc1cVEtcVRPV0ltZ0sybFlUZmdSTWJMWjAyNWlscTJMOXR3M2lmTUt6b2NHSnY4SWs5Q0kxdXc0dEpBTW9jd9IBaEFVX3lxTE9lbjZER0FqX1hWdFZKdXpMNEZxWS1rMGEwMTM3M05QZUtXWUZteUZFQ3JEbnR5MmMxQmc2TGh2aUpxc0lOX3Mtd1FyV0dEcnB1NlhsYmNheVdGZWtXYWJUdWIzWWhXU3pa?oc=5",
+   "published": "2026-11-22T19:54:47+00:00",
+   "id": "684d1fe66bff",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,18 +6358,6 @@
    "cat": "géopolitique",
    "raison": "Pressions continues sur les infrastructures ukrainiennes soutenant timidement le statut refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Iran war turns Dubai into a ghost city",
-   "source": "DW.com",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5",
-   "published": "2026-11-21T11:11:49+00:00",
-   "id": "1eccc5dff26c",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Déstabilisation économique régionale sévère dans le Golfe alimentant la fuite vers l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8270,7 +8270,8 @@
   "news|fffe58a0a8b5": 1795374332.4993465,
   "news|368f8fa3c00a": 1795375080.0130033,
   "news|b9ee178751a1": 1795375915.9566803,
-  "news|3b57a87085a3": 1795378753.2754772
+  "news|3b57a87085a3": 1795378753.2754772,
+  "news|684d1fe66bff": 1795379499.3729975
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8758,6 +8759,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T20:31:39.373196+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran shows off 'missile city,' Trump warns of strikes</b>\n📰 LiveNOW from FOX · Dim 22/11 20:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwRWloU2lnbTJZMTRMYWsxNlE0ZWtTRDk4bTRkbjc1cVEtcVRPV0ltZ0sybFlUZmdSTWJMWjAyNWlscTJMOXR3M2lmTUt6b2NHSnY4SWs5Q0kxdXc0dEpBTW9jd9IBaEFVX3lxTE9lbjZER0FqX1hWdFZKdXpMNEZxWS1rMGEwMTM3M05QZUtXWUZteUZFQ3JEbnR5MmMxQmc2TGh2aUpxc0lOX3Mtd1FyV0dEcnB1NlhsYmNheVdGZWtXYWJUdWIzWWhXU3pa?oc=5"
+  },
+  {
    "ts": "2026-11-22T20:19:13.275564+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz</b>\n📰 EnergyNow.com · Dim 22/11 17:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDkwVmRyeVVoMDB2N3dYVFFmeERKajZmVWJLWWRaM2ZKMV8zODdGSGFEOHpqWEpHSG1wM1JpOW5CMUV3angxLUtSNzRTMGFwSmJPQUNuUzFnZWUwTlIwRFNpcWk4OE9nZ1l0N2ZvamxZVl9zSE1lVWpyNWthdmJEUXlpeDQtaWd0R0lTbXZ5OWhzbTBNbVd5bC1sTVk2T3dvazFMWTZvUzlybTNOTmRGYWlTM280Ynl5?oc=5"
@@ -9051,11 +9057,6 @@
    "ts": "2026-11-22T04:16:26.789494+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Claims US F-16 Was Hit by Missile in Gulf; US Denies Attack</b>\n📰 Deshabhimani · Dim 22/11 03:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkFpS0hkWGE0WEd3SjR5eXozNmJ3cGVSd2h2MTh6YU9aSGJOVFhRR3hUYXNOWl9wTG9Femt3dXo0NEExTGlkblRZLVFuRnhWVmxTX3FDcGxQSU9FYmtYaDY0MXJhbVhDdU55dGQ1ZnVEMmlySTNWcElKckVxcXRqS2ppVTJTOHpyelNTTmFreW94MDlHeDFMOVNDRVMwX2NId2tVQ2NFd0lLdXF3ODJVcjR2U3FrV0JhTUR5N3NBbUw1LUpIS3Fv?oc=5"
-  },
-  {
-   "ts": "2026-11-22T02:32:06.439056+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+7/10)\n\n<b>Bahrain said on Saturday that an Iranian attack had hit a civilian industrial facility, causing a fire but no injuries, while Iran's Revolutionary Guards said they launched a missile-and-drone attack on US military positions in the kingdom, home to the US Navy's Fift</b>\n📰 Facebook · Dim 22/11 02:25\n🧠 Attaque iranienne visant des intérêts américains, choc géopolitique dopant massivement l'or refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV1ZQTlpObjFaWTFwVFNIQzU1b0FQU0t3b3FMdm51TVVtaDB5b0pVelM5WHFwa3FORXNWZHpUUDE0d2Q3TEdYc04xRnNVY1UzaEozR0xrSEFBdjlJb2dXRFVmN2E5dXl4dTBneWRKNVd0NF9VQTlsVTlya3dRUDhDN1BEQUhIVkZqaG5neW9yVXgweHQybWlMd1lxZ2dZbGpFVDM1ZlFVN09QYWhwMl94SmFPU0ZRZkxxTTVhVWJnSmpxdE1wXzlhS1pXQ2pOOU5ObGoyQg?oc=5"
   }
  ],
  "daily_forecast": {
