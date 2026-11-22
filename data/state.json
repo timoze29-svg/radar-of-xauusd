@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "b0739bf3e8bb",
-  "d0a7b87a827f",
-  "633c9c5ca3af",
-  "f2d98eefa2fa",
-  "80941767ea43",
   "40ce8627e8bd",
   "e5159086ce6c",
   "0ac453bd3266",
@@ -3956,7 +3951,12 @@
   "c04d8d486b7f",
   "c2515590851a",
   "319406f0f07e",
-  "016f06421718"
+  "016f06421718",
+  "9fb9c03bf9b2",
+  "deb237503efd",
+  "6c072f7a0132",
+  "07369f36c100",
+  "047fa1d322cc"
  ],
  "news": [
   {
@@ -4039,6 +4039,18 @@
    "published": "2026-11-22T04:19:00+00:00",
    "id": "b5b59fecdd2c",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran Strikes US Bases in Bahrain as Gulf Tensions Escalate",
+   "source": "cwibc.co.id",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xX0dtYlpzQ0VSR1ZqLWdHWHJCVm96N3hLN3dwc25lV2tyZjE2YWVSSVNkYkVWRW1tZ2VVNkJveHRqM3I3aFZacVlnQndPeTdUWUlBVmxqMllRRTZBcmE1YnN3?oc=5",
+   "published": "2026-11-22T03:36:10+00:00",
+   "id": "6c072f7a0132",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Menace d'escalade militaire régionale soutenant légèrement la demande d'actifs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Gold and Silver Slide as Fed Eyes Rate Hikes at Dec. 9 Meeting",
-   "source": "JCK",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNWFoeVE3YlRUWGU3dTFzNzVoYWFJMmRaM0UtVGtoYmtlZGtvUFZ4RXJDU1JDRGNncERzQ25Cc215SXpQVXZsU2x2OE1NQXFIazk0dUZSR3FVUDZmZ1lYSTVwLVhSd3JTYXNaOUJVNmRHekpt?oc=5",
-   "published": "2026-11-20T18:34:46+00:00",
-   "id": "5400c1abf380",
-   "impact": -5,
-   "cat": "taux",
-   "raison": "Anticipations de hausses de taux de la Fed poussant les rendements réels haussiers.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|5db07dadee74": 1793514677.1892142,
   "news|450342eb5a0a": 1793515562.0478895,
   "news|196c4246b860": 1793518470.5029871,
   "news|7b5ad2a26548": 1793520394.1899416,
@@ -8249,7 +8248,8 @@
   "news|d3ac75850880": 1795314726.4389405,
   "news|c31f8136dfdc": 1795320986.7893968,
   "news|b5b59fecdd2c": 1795322765.399528,
-  "news|016f06421718": 1795328176.4780905
+  "news|016f06421718": 1795328176.4780905,
+  "news|6c072f7a0132": 1795329089.6668036
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8737,6 +8737,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T06:31:29.666880+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran Strikes US Bases in Bahrain as Gulf Tensions Escalate</b>\n📰 cwibc.co.id · Dim 22/11 04:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xX0dtYlpzQ0VSR1ZqLWdHWHJCVm96N3hLN3dwc25lV2tyZjE2YWVSSVNkYkVWRW1tZ2VVNkJveHRqM3I3aFZacVlnQndPeTdUWUlBVmxqMllRRTZBcmE1YnN3?oc=5"
+  },
+  {
    "ts": "2026-11-22T06:16:16.478170+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Today’s Market Recap: Brent Crude Nears $100, Gold and Bitcoin Under Pressure as US-Iran Conflict Escalates</b>\n📰 TradingKey · Sam 21/11 16:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxONWt6QmkzNHhoU0FPRTllQXRmck9sZ1dMaG9wc1NBeFpHeUU0SnBRZGdjN0EyblRET19xNmU2aHM0d2Vmc043VFh3bnRudU9uWUdPc0R3ZGFad0tycWkwQ1NHMXQzTzZUb2Znand2MW9FT216ODIxaFJreEZIUmI0a3hhV0JfeE05cGVWZTRMRHllbi1IX09ROWJBZXByMUV6VjU0TkpkeE1iV29meVBveHZXVkVlTXZIRHJ2LXNmZkdEa1JJU19JRWN0d3hZMzZLWm55RkVkN1gxaUYzcWN0TXZ5MA?oc=5"
@@ -9030,11 +9035,6 @@
    "ts": "2026-11-21T05:31:28.241416+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold heads for worst week since March as hawkish Fed, AI sell-off weigh</b>\n📰 AMWatch · Ven 20/11 11:32\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE83a29ZaWhpZzgwdmJSWHhGa0Myd25kYnNsMUFZcGtNUW1WRnNnNzdIcFVRSWRQbFR5TnNOaS1kSkxqVzhaNWx0REFsQTVxS2xmQW81X1dzc1hFRkVMSEdlMTBWS3JnV0FTeVdfWVhvcw?oc=5"
-  },
-  {
-   "ts": "2026-11-21T04:34:33.394309+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Vance’s Iran war statement</b>\n📰 CNN · Ven 20/11 22:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1daYi11bU1PbGN3Uno0blJJSTktdExvZWhNWVNWWTZzUGVhZG1HZDE5TFdud1pDWDZURDNCamdtd2M1TFNsc2M4V0ZBb2hndkZPQkU5cHNjOTJwU0QzVTNxUjlvNmFOeUFlc05zY3VnODVaWU9sTGVINGVsWF91blB0Z1JWWjlSTUwwMHpoX1JQdDhnZHNQQTNnR1dNT1E?oc=5"
   }
  ],
  "daily_forecast": {
