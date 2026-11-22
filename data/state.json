@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "62ee057c63bd",
-  "03c3cb20fddc",
   "b0739bf3e8bb",
   "d0a7b87a827f",
   "633c9c5ca3af",
@@ -3956,7 +3954,9 @@
   "3d89a73e5053",
   "0b1f929d668d",
   "c04d8d486b7f",
-  "c2515590851a"
+  "c2515590851a",
+  "319406f0f07e",
+  "016f06421718"
  ],
  "news": [
   {
@@ -4774,6 +4774,18 @@
    "cat": "géopolitique",
    "raison": "Volonté affichée de négociation avec Téhéran détendant temporairement le risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Today’s Market Recap: Brent Crude Nears $100, Gold and Bitcoin Under Pressure as US-Iran Conflict Escalates",
+   "source": "TradingKey",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONWt6QmkzNHhoU0FPRTllQXRmck9sZ1dMaG9wc1NBeFpHeUU0SnBRZGdjN0EyblRET19xNmU2aHM0d2Vmc043VFh3bnRudU9uWUdPc0R3ZGFad0tycWkwQ1NHMXQzTzZUb2Znand2MW9FT216ODIxaFJreEZIUmI0a3hhV0JfeE05cGVWZTRMRHllbi1IX09ROWJBZXByMUV6VjU0TkpkeE1iV29meVBveHZXVkVlTXZIRHJ2LXNmZkdEa1JJU19JRWN0d3hZMzZLWm55RkVkN1gxaUYzcWN0TXZ5MA?oc=5",
+   "published": "2026-11-21T15:15:07+00:00",
+   "id": "016f06421718",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
@@ -6346,25 +6358,9 @@
    "cat": "taux",
    "raison": "Anticipations de hausses de taux de la Fed poussant les rendements réels haussiers.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
-   "source": "NBC News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
-   "published": "2026-11-20T18:26:03+00:00",
-   "id": "eeeffa038762",
-   "impact": -3,
-   "cat": "géopolitique",
-   "raison": "Perspectives d'apaisement diplomatique en Ukraine réduisant la prime de risque sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|be96ee771f54": 1793511084.740266,
-  "news|55c752f7a7c3": 1793511085.826196,
-  "news|b79d3917eaa3": 1793511966.2641191,
-  "news|663707ef289d": 1793513767.9286432,
   "news|5db07dadee74": 1793514677.1892142,
   "news|450342eb5a0a": 1793515562.0478895,
   "news|196c4246b860": 1793518470.5029871,
@@ -8252,7 +8248,8 @@
   "news|418c433d3e15": 1795311131.9330163,
   "news|d3ac75850880": 1795314726.4389405,
   "news|c31f8136dfdc": 1795320986.7893968,
-  "news|b5b59fecdd2c": 1795322765.399528
+  "news|b5b59fecdd2c": 1795322765.399528,
+  "news|016f06421718": 1795328176.4780905
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8740,6 +8737,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T06:16:16.478170+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Today’s Market Recap: Brent Crude Nears $100, Gold and Bitcoin Under Pressure as US-Iran Conflict Escalates</b>\n📰 TradingKey · Sam 21/11 16:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxONWt6QmkzNHhoU0FPRTllQXRmck9sZ1dMaG9wc1NBeFpHeUU0SnBRZGdjN0EyblRET19xNmU2aHM0d2Vmc043VFh3bnRudU9uWUdPc0R3ZGFad0tycWkwQ1NHMXQzTzZUb2Znand2MW9FT216ODIxaFJreEZIUmI0a3hhV0JfeE05cGVWZTRMRHllbi1IX09ROWJBZXByMUV6VjU0TkpkeE1iV29meVBveHZXVkVlTXZIRHJ2LXNmZkdEa1JJU19JRWN0d3hZMzZLWm55RkVkN1gxaUYzcWN0TXZ5MA?oc=5"
+  },
+  {
    "ts": "2026-11-22T04:46:05.399604+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Weighs Cooperation, Iran War Tensions</b>\n📰 news8000.com · Dim 22/11 05:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3BhMDVzcG1TTzhRLWhMaV9zOFFaR0FibEFxZTlUR21jMWRqZVR4MWdzY200cGJjVTlUTkJScFJZNFJxb29wcjl5NlRIaWtRRl96WnZqVlBEczBTb25OVGdocUlibTZScW9ySjd4WjlCYWlZbTdqMXhDU2xQUHE2UjEtLUpPSUo0YzJqbkV6WEhHdzMtN2pXekVSdG5GZXR1eEdOMmFMd0JmWjUzbFNuM3FvQll2WlU2UGd0aA?oc=5"
@@ -9033,11 +9035,6 @@
    "ts": "2026-11-21T04:34:33.394309+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump defends Vance’s Iran war statement</b>\n📰 CNN · Ven 20/11 22:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1daYi11bU1PbGN3Uno0blJJSTktdExvZWhNWVNWWTZzUGVhZG1HZDE5TFdud1pDWDZURDNCamdtd2M1TFNsc2M4V0ZBb2hndkZPQkU5cHNjOTJwU0QzVTNxUjlvNmFOeUFlc05zY3VnODVaWU9sTGVINGVsWF91blB0Z1JWWjlSTUwwMHpoX1JQdDhnZHNQQTNnR1dNT1E?oc=5"
-  },
-  {
-   "ts": "2026-11-21T03:49:14.327411+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>Bitcoin</b> casse le plus bas sur 1 AN\nNiveau : 57 748 → prix : <b>56 722</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.37 | 60j 0.43"
   }
  ],
  "daily_forecast": {
