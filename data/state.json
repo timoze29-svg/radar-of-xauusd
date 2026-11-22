@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "75df95bb8292",
-  "bd99457f7120",
-  "c16015b8909c",
-  "a508e76d379a",
-  "27b88e47020a",
   "fcfd87965e99",
   "3b5cc9a1d630",
   "e2844b4eadc3",
@@ -3956,9 +3951,26 @@
   "3b99ebcaa25e",
   "84aeabaaf77f",
   "ac25cb769712",
-  "e89e1cb0763f"
+  "e89e1cb0763f",
+  "ad067b10912b",
+  "336d0ef5f5a9",
+  "9b78aaa818dc",
+  "5fea558b11db",
+  "302341a79e2f"
  ],
  "news": [
+  {
+   "title": "UPDATES: US War on Iran, Day 269 — Houthi Missile Attacks on Saudi Arabia",
+   "source": "EA WorldView",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
+   "published": "2026-11-22T08:07:07+00:00",
+   "id": "336d0ef5f5a9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
    "source": "Al Jazeera",
@@ -6346,18 +6358,6 @@
    "cat": "dollar",
    "raison": "haussier or (dollar)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump’s tariffs have Panama looking to diversify. Can Mercosur be the answer?",
-   "source": "Buenos Aires Herald",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlZFbE5jcVZ2ZTh4NGFJbWFIQ2I1NTB3c05NZmFENUN3dHY2aTZNNEtxN1VQUUZwNGZub3Uydlg3T2UxVVRKb3FaaFdvTkw1MFNndFc3MHZjTXN0dVk3eVFmUkF5RS1TRHFMS0lxemZQYURDaXRyRHV2bVRlbUFkTjF1TTlMNHhZX3JHQkV3Q1dNVGFQa2piQXI2bVFxUmxzbnpEM2p2MFk0cXRhMk8yQ3FFNmQzMmdXNEtELTg5TzAtZw?oc=5",
-   "published": "2026-11-20T20:26:06+00:00",
-   "id": "da1fe582a865",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8252,7 +8252,8 @@
   "news|1f0d8f0f8b91": 1795331775.555751,
   "news|1825fec6f0ce": 1795334696.5177035,
   "news|3b99ebcaa25e": 1795335475.9337652,
-  "news|80b3eebeb6bd": 1795335476.890238
+  "news|80b3eebeb6bd": 1795335476.890238,
+  "news|336d0ef5f5a9": 1795336311.674186
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8740,6 +8741,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-22T08:31:51.674279+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>UPDATES: US War on Iran, Day 269 — Houthi Missile Attacks on Saudi Arabia</b>\n📰 EA WorldView · Dim 22/11 09:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5"
+  },
+  {
    "ts": "2026-11-22T08:17:56.890342+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war dominates UK government's concerns, Bloomberg reports</b>\n📰 Iran International · Dim 22/11 07:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Zc2Nrc215dEwxSUo3Mkk2ZDJrYVVwV3NDbHZ1U1p6MjdvU0ZfVkYtQ0lhZTEwZzBJMTBQRFlJLVplbVlsU1VJUVU2STNVVnJvT1E?oc=5"
@@ -9033,11 +9039,6 @@
    "ts": "2026-11-21T11:55:42.873668+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the crypto market</b>\n📰 investingLive · Sam 21/11 00:50\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkU2c09kN252eGYyd0gxRkNsOGtGS1pXRlVPa2VFX284eGhDN1BSY1dmd0ZWZ3dTOWNkbk40OExRcjlFVXhRdUw2aWpGUURFeUVfeW9uc3A4VlVxcXZHeDJJcTNtYTlhSGZlOHNIVC1ySXVZd2dPNlFBNzFjdzM3TTFJYWZrZDZOenBIRlZTdVJGeHZrRUp6cnZyUU4wZk9hb2Jpakl5ZzctaWJMMkNjTUJWRUp0T2djZjZmRnJZSUZhdVNRbHZXeW1OVlU?oc=5"
-  },
-  {
-   "ts": "2026-11-21T11:19:05.727893+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel and the United States are exploring options to strike energy facilities in Iran</b>\n📰 شبكة يافا الإخبارية · Sam 21/11 10:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE82cU91bW9DaDBiNl9mNlJBZTFxZi1RQldRampWdDZZRWJtY1h3TlFwWmU2QnFySDItSW1qcS1oR3UtQXIxMm5wNHRrNlR6RFph?oc=5"
   }
  ],
  "daily_forecast": {
