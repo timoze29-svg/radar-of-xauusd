@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795440674.545999,
+   "ts": 1795463150.6508274,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "781d38c3d154",
-  "7aea816210a8",
-  "f211804a601a",
   "a5e59b9904f0",
   "17501a74e176",
   "4fdf1880ec03",
@@ -3945,7 +3942,10 @@
   "155a3f67ff10",
   "63be9305b765",
   "372fd5bf75be",
-  "f507a37da016"
+  "f507a37da016",
+  "e2c576b49939",
+  "29548349d85c",
+  "4697f040fdc8"
  ],
  "news": [
   {
@@ -3967,6 +3967,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQldMRm82QldpSzdqVFZhU1lzZmJsdVFTQlc4OEhXSFEtcEtXa3UyUXFhcVFKZ0c1TzNvMFpsa0s1YmFtTWIwNUZGRFRub0NpMzdJQ2NMMFlCcFc3NGdtbFZ2ZDJWMll1Yy1DZi1ITVdvb194MzItNzB3OFFhMExiS3J6cjdvMXFoTlRUai16S2IzNXZjbXUxSzVDdDVTMjh6bTNJMHkyNmd4d9IBrwFBVV95cUxPNzVPY2VfaXRDZkt0Q2M2NUktdzNXcGdZV054VkR5T09rS0x3aUlucGtjelVxbHpsYjd0RGNtbGFMOENEZk1remV2MUwyOGFIX2FqMGFKY20xSklVYU8zZmxDRzlJLWwxNkpRWk02TzdDalNlY1hCcnc2NEV4V3lBU2JNNkM2SHBJc082bm5lNWowcnBUR01LYTF5ZzhyN2lsTS1NOUllLXc2X0NJSGlF?oc=5",
    "published": "2026-11-23T18:53:06+00:00",
    "id": "63be9305b765",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Eisenkot clashes with Netanyahu over Iran strikes, sees no 'immediate threat'",
+   "source": "Al-Monitor",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHVhNVp2eVhpSk0xcmk3QTEtbW0wX0g2T0xTemFpcF9ESzFRQkRZZEd2Mzhvc0thaDI5enozQVkzTVZHUXBvZlktTmRqZDl5aTBCeGRJQ19GaDJ0T0tJN1VPT3Z5Ul80LThwSjdpVXBkSFkzSmlKSFRTZGZBX3F3emhBcEF3N2xHQnFOTlpUMUsxTkVWYjhvS3BiN0V3SXdvQm9ybFFUUEdzXzV1aUs3dHB3VUs?oc=5",
+   "published": "2026-11-23T18:46:10+00:00",
+   "id": "4697f040fdc8",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Bilan humain tragique mais dynamique de guerre habituelle déjà pricée.",
    "method": "IA"
-  },
-  {
-   "title": "Russian vessel docked in Libya hit in suspected drone attack, authorities say",
-   "source": "CNN",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamhUZkJwenh5LXdfUnM3WDZZZTNMak93ZWhPTzNUXzBoQlhJMlNXdUdWemVYdFRHVGxCVE8wNEZlT1czaElmQ2JuZ05JV1VfNVVsZzZEMFNpcEc0MEk2YUY2UTByeFRxWTZUWFh0UEt5WlA5WE1SZzIzLWVjUGszQWZIcDhPSkRrUlBsUzRJMA?oc=5",
-   "published": "2026-11-22T16:38:33+00:00",
-   "id": "034ad07ac784",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Confirmation d'une frappe en Libye maintenant une nervosité géopolitique résiduelle.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8274,7 +8274,9 @@
   "news|6111ea0a63e4": 1795456907.3750935,
   "news|0e7bc7328762": 1795458704.771532,
   "news|63be9305b765": 1795462301.7457795,
-  "news|372fd5bf75be": 1795462304.318365
+  "news|372fd5bf75be": 1795462304.318365,
+  "news|4697f040fdc8": 1795463171.1671677,
+  "pre1h|2026-11-23T16:00:00-05:00": 1795463172.2335336
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8762,6 +8764,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T19:46:12.233864+00:00",
+   "kind": "pre_event",
+   "text": "⏳ <b>DANS 74 MIN — 22:00</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n🥇 Fed — décision / discours\n\n<b>Scénarios pour l'or :</b>\n🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📌 Contexte : DXY +0.52% aujourd'hui · taux 10 ans +2 pb · biais or -12 (Neutre)\n💵 Dollar : pas de pression nette sur la dernière heure\n📏 ATR jour de l'or : 108$ → attends-toi à des mèches rapides."
+  },
+  {
+   "ts": "2026-11-23T19:46:11.167283+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Eisenkot clashes with Netanyahu over Iran strikes, sees no 'immediate threat'</b>\n📰 Al-Monitor · Lun 23/11 19:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHVhNVp2eVhpSk0xcmk3QTEtbW0wX0g2T0xTemFpcF9ESzFRQkRZZEd2Mzhvc0thaDI5enozQVkzTVZHUXBvZlktTmRqZDl5aTBCeGRJQ19GaDJ0T0tJN1VPT3Z5Ul80LThwSjdpVXBkSFkzSmlKSFRTZGZBX3F3emhBcEF3N2xHQnFOTlpUMUsxTkVWYjhvS3BiN0V3SXdvQm9ybFFUUEdzXzV1aUs3dHB3VUs?oc=5"
+  },
+  {
    "ts": "2026-11-23T19:31:44.318493+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Liberman warns Netanyahu against ordering 'illegal' Israeli strike on Iran without US backing</b>\n📰 The Jerusalem Post · Lun 23/11 18:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5lOUpsc2pnMVc3RkV2bUFoNjBsaUJIZjEyRVJhamdvY1l3WEZleUZjbnhLUm9ZUGZCUlk4b2g1QWtxbGdMbjNubmxaTDUyMHR1Mml6YVlZbmMxeS1CRnlpMGY5WVEwODQ5dGZNZ1B6OUlQZmxVaGUtazE5MA?oc=5"
@@ -9050,16 +9062,6 @@
    "ts": "2026-11-23T06:01:56.673888+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump links Iran attacks, stock market decline to Democrats' midterm prospects</b>\n📰 The Business Standard · Lun 23/11 06:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHpIUzUwYk1PYkJHT25McWVWSUY2Zzd0TU9BRTVtR0hFaWFDb003YTRKYXhSQWlQV205dlhqTXdzUzZhbjNZckVLeWZnRjN3czdtcV9FU0dkeWlXbHVHREpnOE5SeDRKbTFOa1l4U3Nmb1hkMHctUzhGdDRHdHJUTU1iemNRajVzdm5WNURRbWQ4QzMtVWJlOFl0VnFJM09jZmstT2NidTBHYkFPMlQ4eFo2NmdQS1h1Nnc?oc=5"
-  },
-  {
-   "ts": "2026-11-23T05:37:37.554084+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Falls as Hawkish Fed Expectations Lift the Dollar and U.S. Treasury Yields By Kedia Advisory</b>\n📰 Investing.com India · Lun 23/11 05:49\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPOU1wRTNsRDRsX3NBMDlxWkhuZXp1UWdsNmQtb3ZNYWNicUZJcW1nbVZhNnJZN1ZnRmk3Y00zVGpfLU1NbXJ4TmdZNVBXV1AyMFdKU185ZWsyaDlld052OERTS3FsZDNFSGFEeng0Z1pMaUQ1YzZVd01ON25acVVTcHY3am1ZRVplemZFYUFaWjhqY3IycUJIZ0FnbnhMRFAtcmliOW1lZTZsd2JYczBEcng1eHQ1X2FmMlNDN3FiRzhsNkFaUDdvcUJray0?oc=5"
-  },
-  {
-   "ts": "2026-11-23T05:37:36.614313+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US Congressman puts Iran war, tariffs and healthcare on early House agenda</b>\n📰 MorungExpress · Lun 23/11 06:09\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxONEV2Z2F5Qm8zWDhvcHpRUXBTclBQdkpFLWZOT2cxUVpPUG1YOU9TdnljN3BnVHVnTXlOY0F5MUM4RTBDb01OUGI4ZmtaaDg1cDZkN1NCTndEQzRiMmFLeERwUHlLWnlKUGVXZDFWdHRreGc4MGdHVDNfUTZxNmlyMW1oQWtxRkhCSThyMGZrOFRKU0dUS0lEaF83RmxXOHpjOWJXWVNn?oc=5"
   }
  ],
  "daily_forecast": {
