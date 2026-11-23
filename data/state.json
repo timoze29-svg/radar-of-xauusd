@@ -957,12 +957,6 @@
   }
  },
  "seen_news": [
-  "3696f7bb85e3",
-  "b5dc6d54c2a7",
-  "6787c093b197",
-  "cb6c8f5ac056",
-  "a57b18ab4be9",
-  "bcf51eb61623",
   "7da558ef85d7",
   "5fde863bb798",
   "696d0d08b9b1",
@@ -3956,7 +3950,13 @@
   "aa91834eae04",
   "ff3b9a97aef5",
   "41106d07c9fb",
-  "46451017e6e1"
+  "46451017e6e1",
+  "0240a3b2fb01",
+  "aeafad6ed693",
+  "6163f61acc44",
+  "2899a4c66808",
+  "ec3402ea04de",
+  "4c1485310299"
  ],
  "news": [
   {
@@ -4726,6 +4726,18 @@
    "cat": "géopolitique",
    "raison": "Attaque tragique mais récurrente en Ukraine, prime de risque déjà largement intégrée.",
    "method": "IA"
+  },
+  {
+   "title": "US weighs delaying Iran strikes despite Israeli pressure for military action",
+   "source": "Iran International",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9adkZlN1ZVUGNvcmx4ajloYkFZaEpLeDNzMFpzdVNNZGhEOGNkVUxWRWlKb21LSUw2U1pLZl9tTDZkc3E2ZUIzWWtJSWNuS1RhRXc?oc=5",
+   "published": "2026-11-23T04:23:44+00:00",
+   "id": "0240a3b2fb01",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Holds Off On Iran Strike As Netanyahu Presses For Joint Action - Report | LIVE BLOG",
@@ -6345,18 +6357,6 @@
    "impact": 3,
    "cat": "géopolitique",
    "raison": "Confirmation des plans d'escalade militaire conjointe contre l'Iran, haussier pour l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Bahrain says Iranian attack caused fire at industrial facility",
-   "source": "Al Jazeera",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlibGxsbXZhME1WYWYtNmJmUHpzSTg5RHRBUVlEbmkxUUk1X183TE9xbV9raDRRTkxZcXZIa3VMX0d3RFU2OEh1YXRLMkNObnUtbEp3cC1WcTUzUXl2dlNBdk02cHdPdXBxeG41NVVHTWk3dEpabE14bGpVemx1aXFrX3pDMUZVZGVSWDhMb1JfcjhPa2FIdGkwMk1zSmVGSVJwMHFfMNIBrAFBVV95cUxOcmJjTXlwWFQ5ak4yeS1scHJoUVVGYVhqSkF1WS13TXR1RFFLdUwtSDZwYmJ2ajZWOGJtcGlLU1diU1NwTXNhaEs3MTlPUnNyUlNNSXVOMXp4ZmVIZVpuX1l4akQ2S09pMWN3eTdhVW81akVGYm50cUIwQ2duZ0ExdFNnN3B0OGwzMGlnc01oMjhyRjlTQjNMa1JrNlpRZlktNkZrUTZZV2xkR2kt?oc=5",
-   "published": "2026-11-22T09:52:57+00:00",
-   "id": "2a5c47e81504",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Dégâts industriels confirmés à Bahreïn accentuant la vulnérabilité des infrastructures du Golfe.",
    "method": "IA"
   }
  ],
@@ -8285,7 +8285,8 @@
   "news|50cf8c074cdf": 1795431707.408787,
   "news|dbd21d85d8de": 1795432573.506925,
   "news|fab7a1b7ec21": 1795432574.488736,
-  "news|20c89cdf1a18": 1795434375.0164633
+  "news|20c89cdf1a18": 1795434375.0164633,
+  "news|0240a3b2fb01": 1795435323.7969346
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8773,6 +8774,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T12:02:03.797032+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>US weighs delaying Iran strikes despite Israeli pressure for military action</b>\n📰 Iran International · Lun 23/11 05:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE9adkZlN1ZVUGNvcmx4ajloYkFZaEpLeDNzMFpzdVNNZGhEOGNkVUxWRWlKb21LSUw2U1pLZl9tTDZkc3E2ZUIzWWtJSWNuS1RhRXc?oc=5"
+  },
+  {
    "ts": "2026-11-23T11:46:15.016546+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns of renewed US strikes on Iran if negotiations fail</b>\n📰 RBC-Ukraine · Lun 23/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXJPcVRFOG83TWdkSnhxblluSjFrTVBaYURHVW5UeWJNQkxuUnhKQi02TkdSVXJQU3hobXY3bFZQaGlqYmxkYTRuRHlzOEl6ODk3WlcxbHVwUVo3aThBN2FiQ292NGZMdXNQSGhQUGpZQmtocDlWeWY3akc2cjlwQjlvU2pka2lPYXEtQjBKblRLejg?oc=5"
@@ -9066,11 +9072,6 @@
    "ts": "2026-11-22T21:46:22.368143+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump threatens fresh strikes on Iran after New Year if talks fail , accuses Tehran of stalling negotiations</b>\n📰 timesofindia.indiatimes.com · Dim 22/11 21:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://timesofindia.indiatimes.com/world/us/trump-threatens-fresh-strikes-on-iran-after-new-year-if-talks-fail-accuses-tehran-of-stalling-negotiations/articleshow/136083179.cms"
-  },
-  {
-   "ts": "2026-11-22T21:46:21.465758+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump signals possible renewed strikes on Iran after New Year if talks fail</b>\n📰 middle-east-online.com · Dim 22/11 21:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middle-east-online.com/en/trump-signals-possible-renewed-strikes-iran-after-new-year-if-talks-fail"
   }
  ],
  "daily_forecast": {
