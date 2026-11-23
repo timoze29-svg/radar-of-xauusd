@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "05d8e86a322a",
-  "58c4dd8406d2",
-  "09f1072e7623",
-  "83b903c1da78",
-  "52cbdff0767c",
   "91acc41c8fde",
   "06eeb92780b9",
   "54f361287ea7",
@@ -3956,7 +3951,12 @@
   "28d6f57548e6",
   "064bb3ef9164",
   "ed520ab06aed",
-  "417215fdb2a5"
+  "417215fdb2a5",
+  "c6f383b850d0",
+  "95511db4d299",
+  "e416c0337ee1",
+  "3738f9b6fe6c",
+  "2422a08b4347"
  ],
  "news": [
   {
@@ -4026,6 +4026,18 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWJmOE9OMTNFR2s4QmZtZWtfLXpuSVJGbTJXOGNla3VhaHAxTVZTZ05Sd1hOZW5wZHFYM2NxSDFUd3dsX3dEbUtiWFBCS2VWWmJjTHZKSE1sSHhLSjllZXlOOXdDMzBqZzNQaWZOdmhaa1dmaXc3c1JkU2R4YkdFLUhB?oc=5",
    "published": "2026-11-23T01:13:09+00:00",
    "id": "baedb6008cb6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Watch Trump says he is inclined to resume strikes on Iran after new year - FNC",
+   "source": "FOX One",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUEzZkE5QVdEM1lyc2RTekR6enN6VXhPSHBnNEk1bDBMNm1MTEg1Nk43WHNhUGNLZDVfZkJwandsV3dwOHNIZ1MyQlhVYzdVSFpOZ256dGUwcUx6Z2Z5ZkdWaXpXUjE4LWZuWk9XbExvV2w5WFRMbGNDQTBDaC11SG5WZFROWWItLWdoczRSRFJJMnFEMEFBUWdMNE41X0JhXy1BZFkwQkRndVlUWWtHSw?oc=5",
+   "published": "2026-11-23T00:22:43+00:00",
+   "id": "e416c0337ee1",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6346,23 +6358,9 @@
    "cat": "or",
    "raison": "Rappel d'une baisse passée de demande physique indienne, impact marginal immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
-   "source": "idahopress.com",
-   "theme": "Géopolitique",
-   "link": "http://www.idahopress.com/ap_news/us/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_d69706d0-0aa1-5a72-85d7-55f28dbbb892.html",
-   "published": "2026-11-21T16:30:00+00:00",
-   "id": "8025e9b9eec0",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces sur le trafic maritime renforçant l'attrait de l'or face aux tensions régionales.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|ddc61cd8ee61": 1793586690.1791875,
-  "news|2eff21a9383f": 1793587568.0878785,
   "news|c4d14af7237e": 1793588552.3591821,
   "news|895f762199e4": 1793589549.8050828,
   "news|218bfa044090": 1793589550.700548,
@@ -8275,7 +8273,8 @@
   "news|8bb9a0030971": 1795394764.8962357,
   "news|baedb6008cb6": 1795396569.334503,
   "news|58dbe8dd79a4": 1795397490.168581,
-  "news|02908c802fcb": 1795399321.6597173
+  "news|02908c802fcb": 1795399321.6597173,
+  "news|e416c0337ee1": 1795401986.5845723
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8763,6 +8762,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T02:46:26.584681+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch Trump says he is inclined to resume strikes on Iran after new year - FNC</b>\n📰 FOX One · Lun 23/11 01:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUEzZkE5QVdEM1lyc2RTekR6enN6VXhPSHBnNEk1bDBMNm1MTEg1Nk43WHNhUGNLZDVfZkJwandsV3dwOHNIZ1MyQlhVYzdVSFpOZ256dGUwcUx6Z2Z5ZkdWaXpXUjE4LWZuWk9XbExvV2w5WFRMbGNDQTBDaC11SG5WZFROWWItLWdoczRSRFJJMnFEMEFBUWdMNE41X0JhXy1BZFkwQkRndVlUWWtHSw?oc=5"
+  },
+  {
    "ts": "2026-11-23T02:02:01.659838+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump threatened strikes on Iran after the New Year</b>\n📰 Українські Національні Новини (УНН) · Lun 23/11 02:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE13cU1GMlVpQ21BYW9EVXdsTm1TeHR0X2tqdkJ1aEl6UXlGaFRQZzliRWdRRy10Rl9jc3RwUENacVQyZ0lVd3RKSHpFNjN0dGc4aG5FTjZrM1FycXVZeVg4Yy1GaGlhYk5RMmlsWWM2aUEyM2YxUlB1VWRacWFHNWvSAX5BVV95cUxOYmR4c3l4dzRtV0RILXJJLWVjX0lMVlZHa253ZURaa2FkRWtHTU9yQ0JVMDFTQ2R0ckV4Qk5rME1Ia1NGeF9lMXR1elJoVHhpcGtrdk1LUElYMF9icEpJd3J6WXhDYjJjTmNyVEY5R1N2YUo4aTRleDQ5cVdqYkE?oc=5"
@@ -9056,11 +9060,6 @@
    "ts": "2026-11-22T10:46:08.587402+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's Guard claims it downed US MQ-1 drone east of Hormuz</b>\n📰 Yeni Safak English · Dim 22/11 11:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFNiLVVmT1pJTUxYbTkzT2pWeXh5S1NOS294aUpwTlVvbkZZZkdDdk5NMlRYWjJ3RlVTZ21MN19OWWFJWi13NUdGWEJmN1dzWkVFUlpqdmlKeVhxbkF2LVZuelphQzZZc3RDbDNQRmhmeS1Xc3dRNjd6dk5Kamcxalg3V2hyYlJCdUV5RkJyWms2S0RPZmpGZEdPa0Q?oc=5"
-  },
-  {
-   "ts": "2026-11-22T10:46:06.130673+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel and US Agree on Joint Plans for Possible Escalation Against Iran: Report</b>\n📰 www.businesstimes-bd.com · Dim 22/11 11:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE40Y0pmN0N1TTVhQ1hUSWhQZ2tyRHU2ZVlhbV91aDBEUTh6WV9OWE0xY0hKMVI4cGpJT3VBT0Ytd0xKU0hOLWY1TTFhUDlDMGtYVU82QTBIc2V4aVJPOUVuc3RySEV5cEI5aUx4MjVwU3ZHQQ?oc=5"
   }
  ],
  "daily_forecast": {
