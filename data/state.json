@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "fc0ce2ab2500",
-  "863695d6f028",
-  "7b646def35ce",
-  "dcb5589c4d86",
   "b017fc3956e0",
   "fed87e9d8226",
   "a5ca24f66cbf",
@@ -3945,7 +3941,11 @@
   "84e9cba3223f",
   "f74036d32c55",
   "321c2d894168",
-  "2997e8b32239"
+  "2997e8b32239",
+  "c452fe04e69d",
+  "7d7b9ee9619d",
+  "1b522bf14f30",
+  "dfa3ddf4bcaf"
  ],
  "news": [
   {
@@ -3982,6 +3982,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Mossad researchers see no urgency for Iran strike as chief pushes military action – report",
+   "source": "The Times of Israel",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjFkN1MzVzIxRWxUQXNFc3V6RlVpYlpBaDVHTnlsT3hRekJacUh0N3dpc2VpdTI5VG5IOXpZbnRsMk9lWTVidENvMllWWWRlSEwya2NfdFk3S0Z3d21ickk1MWV6V29JTm5oVVJGQndXMVZ6YWhuZFVKS3ppWDRhcXJrTW5aZDVYd1hKZXpFRFdwejdTczg2SGgzUTZHU2pvUDNablFJTHlBTnpYQVdUWkJLZUFRUFFzbGtN?oc=5",
+   "published": "2026-11-23T21:49:41+00:00",
+   "id": "7d7b9ee9619d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,24 +6347,9 @@
    "cat": "géopolitique",
    "raison": "Annonce d'armement iranien classique, impact limité sans utilisation concrète imminente.",
    "method": "IA"
-  },
-  {
-   "title": "Boy, 7, pulled from rubble hours after Russian strike in Ukraine, rescuers say",
-   "source": "BBC",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wVkg2NVRIYUt4SUZXMnZVZDRCWTlmSDBJLVZMdFV0UjloTVJVbkJpSHNiZm5SUlh3d1oyRGdqeV9jUDh2YTQzNkx4QnYteFNPMGdkNndyTWVHV0k?oc=5",
-   "published": "2026-11-22T22:25:00+00:00",
-   "id": "dd7d3009f316",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Actualité dramatique du conflit ukrainien, effet financier marginal et déjà pricé.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|2dd47366371b": 1793660506.9939165,
-  "news|b09d8bd866d3": 1793660507.8691778,
-  "news|bc82050a1036": 1793661376.9975748,
   "news|139709cc87e2": 1793662291.1375825,
   "news|07bfd8be54e0": 1793663178.926271,
   "news|6eaaaf77e0a4": 1793664101.9593585,
@@ -8276,7 +8273,8 @@
   "news|dd3ab5722f5a": 1795470368.7690823,
   "news|a75c86de117a": 1795470369.6908484,
   "news|87a072ca7cf5": 1795474150.8325047,
-  "news|737fdcc102eb": 1795474153.350604
+  "news|737fdcc102eb": 1795474153.350604,
+  "news|7d7b9ee9619d": 1795476684.3941388
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8764,6 +8762,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T23:31:24.394233+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad researchers see no urgency for Iran strike as chief pushes military action – report</b>\n📰 The Times of Israel · Lun 23/11 22:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjFkN1MzVzIxRWxUQXNFc3V6RlVpYlpBaDVHTnlsT3hRekJacUh0N3dpc2VpdTI5VG5IOXpZbnRsMk9lWTVidENvMllWWWRlSEwya2NfdFk3S0Z3d21ickk1MWV6V29JTm5oVVJGQndXMVZ6YWhuZFVKS3ppWDRhcXJrTW5aZDVYd1hKZXpFRFdwejdTczg2SGgzUTZHU2pvUDNablFJTHlBTnpYQVdUWkJLZUFRUFFzbGtN?oc=5"
+  },
+  {
    "ts": "2026-11-23T22:49:13.350719+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>CALL TO ATTACK : Iranian Regime Newspaper Urges Tehran To Strike First , Portrays President Trump As Hitler</b>\n📰 theyeshivaworld.com · Lun 23/11 22:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.theyeshivaworld.com/news/israel-news/2627040/call-to-attack-iranian-regime-newspaper-urges-tehran-to-strike-first-portrays-president-trump-as-hitler.html"
@@ -9057,11 +9060,6 @@
    "ts": "2026-11-23T09:04:52.759456+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel, US reportedly working on joint plans for Iran escalation | Daily Sabah</b>\n📰 Daily Sabah · Dim 22/11 11:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaE1SOHJpcmRaTUo0cnpaMTN4RHhXampKMmxtUmg0VXJIYlFiODJxZVJhNkFOQWt0UWlkdzJjYnNmTjJyMVU5eU1ER2VXSzRJQmVXQTh2Rng0Y0RpT29qUFNLSk12V3VzMGtyQXFjUG00QTVyMVRFYmE4R0VPS2hTdnpqLXJGdTA4dDMxVjlVdkZHTVpBemZld0sxcmtUR2dvSm5ERkF0T3DSAa4BQVVfeXFMTkxiNnVjNngtVE9HbWxhdFZuaUl4NzNTUzZtSWFWcVh5dGtvMDI4dmJiV2ZDT0NvQ0RlTmY0d3NCSzRSNS11TktQMVI3MVhkWDFnM002UnQ5cXY1NDVUeHhoTDlhMlctX3BtNFoxUGk4S05SYWZxYnNyLVNTMk51STlESUFLcVVVMko4c1JKY3hKVEVGdGNIVHNJVldYdGxMS0xrcWxUZ3lRNFNON2NR?oc=5"
-  },
-  {
-   "ts": "2026-11-23T09:04:50.240558+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran deal could be worse for Israel than war, Middle East expert warns</b>\n📰 The Jerusalem Post · Lun 23/11 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE12X1FtTFZ0aFZQY21vY2ZvaEpKemFQNnZ4cEU3ZXNWVWlpWlhYSGZBU3VLM2E0MGt5b2dBSXNsNkdEdFlDNU1uUFU0WmU0T01hZjl2UFVUVlZCaDFoU3VUeXZtQ3RHVjZfQ0E?oc=5"
   }
  ],
  "daily_forecast": {
