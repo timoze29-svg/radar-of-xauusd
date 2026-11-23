@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795395672.533759,
+   "ts": 1795399274.9840393,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "c333370ffad3",
-  "fded6f4572aa",
-  "71070e925b08",
-  "93704d67c001",
   "0f8b6357d9fa",
   "2599f1f5c843",
   "0dbd9b977461",
@@ -3956,19 +3952,23 @@
   "99c77182e8bc",
   "c0f6ac2cfad6",
   "dd7d3009f316",
-  "63abecd50bf5"
+  "63abecd50bf5",
+  "54d99c860eb4",
+  "02908c802fcb",
+  "bff51e89f28c",
+  "51737d590d71"
  ],
  "news": [
   {
-   "title": "Gold Drops 10% Amid Margin Calls as AI-Driven Tech Sell-Off Spreads",
-   "source": "KuCoin",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1Nxcmc2TFJDU0h0cDU4NHpEUlhIWXhkMFJ4MEJtV2tvaWNiQWZRMkxyMlctQzBta3lBbUp3Z3BGdUN0YTNEYTFHeHdKNklWYTJVdnNFdzNRbzRGLTdNTEE1bDV4TXc3SEJBdmNWcHR3bG5XNXpXYTJLaEhVLV9SeTVKWFd5NlVTbzFPN1ktSjRKYTdJN1BUMjdRUGFTRURnUTl4Nmh3?oc=5",
-   "published": "2026-11-23T01:34:43+00:00",
-   "id": "99c77182e8bc",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
+   "title": "Trump threatened strikes on Iran after the New Year",
+   "source": "Українські Національні Новини (УНН)",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13cU1GMlVpQ21BYW9EVXdsTm1TeHR0X2tqdkJ1aEl6UXlGaFRQZzliRWdRRy10Rl9jc3RwUENacVQyZ0lVd3RKSHpFNjN0dGc4aG5FTjZrM1FycXVZeVg4Yy1GaGlhYk5RMmlsWWM2aUEyM2YxUlB1VWRacWFHNWvSAX5BVV95cUxOYmR4c3l4dzRtV0RILXJJLWVjX0lMVlZHa253ZURaa2FkRWtHTU9yQ0JVMDFTQ2R0ckV4Qk5rME1Ia1NGeF9lMXR1elJoVHhpcGtrdk1LUElYMF9icEpJd3J6WXhDYjJjTmNyVEY5R1N2YUo4aTRleDQ5cVdqYkE?oc=5",
+   "published": "2026-11-23T01:51:31+00:00",
+   "id": "02908c802fcb",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6361,8 +6361,6 @@
   }
  ],
  "fired": {
-  "news|f9043ba8e70a": 1793583969.6351204,
-  "news|d8f8d09b25cb": 1793584905.8190434,
   "news|ddc61cd8ee61": 1793586690.1791875,
   "news|2eff21a9383f": 1793587568.0878785,
   "news|c4d14af7237e": 1793588552.3591821,
@@ -8276,7 +8274,8 @@
   "news|18f04e725f31": 1795392976.274556,
   "news|8bb9a0030971": 1795394764.8962357,
   "news|baedb6008cb6": 1795396569.334503,
-  "news|58dbe8dd79a4": 1795397490.168581
+  "news|58dbe8dd79a4": 1795397490.168581,
+  "news|02908c802fcb": 1795399321.6597173
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8764,6 +8763,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T02:02:01.659838+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump threatened strikes on Iran after the New Year</b>\n📰 Українські Національні Новини (УНН) · Lun 23/11 02:51\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE13cU1GMlVpQ21BYW9EVXdsTm1TeHR0X2tqdkJ1aEl6UXlGaFRQZzliRWdRRy10Rl9jc3RwUENacVQyZ0lVd3RKSHpFNjN0dGc4aG5FTjZrM1FycXVZeVg4Yy1GaGlhYk5RMmlsWWM2aUEyM2YxUlB1VWRacWFHNWvSAX5BVV95cUxOYmR4c3l4dzRtV0RILXJJLWVjX0lMVlZHa253ZURaa2FkRWtHTU9yQ0JVMDFTQ2R0ckV4Qk5rME1Ia1NGeF9lMXR1elJoVHhpcGtrdk1LUElYMF9icEpJd3J6WXhDYjJjTmNyVEY5R1N2YUo4aTRleDQ5cVdqYkE?oc=5"
+  },
+  {
    "ts": "2026-11-23T01:31:30.168678+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil falls as robust Gulf exports offset Iran escalation, supply glut risks</b>\n📰 Investing.com Canada · Lun 23/11 02:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZW1sSnZsMGR3SDZHTURTR2NOcVdZVzlQYXdyYUtTVHlBcDJPV1RRclctSFJZaUpvbEozaVdad3dyS0tPd05HZWpiWWlnLXpXaDlZSGZMYXBSQVRGVmY2NFVOU2hGUm9UbXNvSjIzVFE5VlotaVJ3MVJ5QmE2TFFfQzFMbVQwRDNaRE1sUGJWMEhpS1BNUWFmazNERG5qU2Zxc1l5czY0M3NGRjdEenl4dG9iSFZvUWlFS1Z1ZTJzSmZQUzFock9n?oc=5"
@@ -9057,11 +9061,6 @@
    "ts": "2026-11-22T10:46:06.130673+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel and US Agree on Joint Plans for Possible Escalation Against Iran: Report</b>\n📰 www.businesstimes-bd.com · Dim 22/11 11:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE40Y0pmN0N1TTVhQ1hUSWhQZ2tyRHU2ZVlhbV91aDBEUTh6WV9OWE0xY0hKMVI4cGpJT3VBT0Ytd0xKU0hOLWY1TTFhUDlDMGtYVU82QTBIc2V4aVJPOUVuc3RySEV5cEI5aUx4MjVwU3ZHQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-22T09:49:18.528577+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar Leads Talks to Prevent US Iran Military Escalation</b>\n📰 Demokratis.co.id · Sam 21/11 16:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTHp5VjVzQVo2R1FXaFRlNU80QmpyVW1FTV9HeHFGbndSZ0doUUpSNGFFMFplcFV3V1ZzNUM2Qm9DYXlJU2tlcVd6eG9VUktjcTFTVXdkTmF2eHJLdWhzN0ZsVnVHU3V3MXZ6SQ?oc=5"
   }
  ],
  "daily_forecast": {
