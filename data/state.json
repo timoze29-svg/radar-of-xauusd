@@ -957,12 +957,6 @@
   }
  },
  "seen_news": [
-  "4c61cfe1e71a",
-  "e53b932874fa",
-  "8fb1404ff53c",
-  "4881e31d5463",
-  "51555c86e45f",
-  "3dfde8e12e89",
   "3696f7bb85e3",
   "b5dc6d54c2a7",
   "6787c093b197",
@@ -3956,7 +3950,13 @@
   "9b91309edcef",
   "554e6ef4c4b3",
   "ca15018be2b3",
-  "1e9fc479b1f5"
+  "1e9fc479b1f5",
+  "843ce89c8c9f",
+  "20c89cdf1a18",
+  "aa91834eae04",
+  "ff3b9a97aef5",
+  "41106d07c9fb",
+  "46451017e6e1"
  ],
  "news": [
   {
@@ -4003,6 +4003,18 @@
    "published": "2026-11-23T10:39:10+00:00",
    "id": "5cefc90abb81",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump signals renewed Iran strikes in new year if no deal reached",
+   "source": "The Jewish Chronicle",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zQlIwdzBzdE1kR0t5cGVxaHF1RFJyNTRzVUxoT0JBNWxEeW9kT0E0STR6RnpQWGcxLTBFdzI2dU44MXZadmx6VWZGbG5NVE9RcE9hcWw2eV9QcGVyTmFkYkU5cndGWi1LNHI2cFE1amI2RE5kZEtHNmQ5SlM?oc=5",
+   "published": "2026-11-23T10:33:11+00:00",
+   "id": "843ce89c8c9f",
+   "impact": 1,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4134,6 +4146,18 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGNJcDgyaWJaU3ZET2lCUmtCZ1R3ZW82Vkl1cGloUk1WWWJsSC00TFBEcE5tR2tkczN5Y0RUZ3dab2hrVDVKVWdqWW9KQzNjaEVZa01xQXQtSVJmQTNpWnlFTFFZd1dsU1ZXZk1jQVVweVFVVml6ZHpGWlBOclVnQzRwTGt6Rjc1MllBU3lkZ1IzakRIWWpzVWl4Z3RCSVZOTmJWWXBPV2ZieXd2TXExcQ?oc=5",
    "published": "2026-11-23T09:49:00+00:00",
    "id": "280a3e3ac89d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump warns of renewed US strikes on Iran if negotiations fail",
+   "source": "RBC-Ukraine",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXJPcVRFOG83TWdkSnhxblluSjFrTVBaYURHVW5UeWJNQkxuUnhKQi02TkdSVXJQU3hobXY3bFZQaGlqYmxkYTRuRHlzOEl6ODk3WlcxbHVwUVo3aThBN2FiQ292NGZMdXNQSGhQUGpZQmtocDlWeWY3akc2cjlwQjlvU2pka2lPYXEtQjBKblRLejg?oc=5",
+   "published": "2026-11-23T09:45:57+00:00",
+   "id": "20c89cdf1a18",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6334,36 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Dégâts industriels confirmés à Bahreïn accentuant la vulnérabilité des infrastructures du Golfe.",
    "method": "IA"
-  },
-  {
-   "title": "Escalation in the Middle East: Two Tankers Sink, U.S. Bases Attacked",
-   "source": "News.by",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSE5YUHliSGJ0T2JHYkhGa3g1NHI0NzB4WEwzTDEzazZSc3oxYmFvMXNLMzdzdGFWdHV3U0lnQlp0V1pnX1EteGdNdTdYQTRURk5qdWlkUF9ndjB5cVpNRVZ4RFJPb190aFRYTmNuOGIyQ2VmLThrOWZpM0ZRY0VPVWxRVTJxNU4zRWg0NE94Q0FCNzVUdS1BdURtbHhNdw?oc=5",
-   "published": "2026-11-22T09:45:59+00:00",
-   "id": "3a2980b8f0e9",
-   "impact": 7,
-   "cat": "géopolitique",
-   "raison": "Escalade majeure avec pétroliers coulés et bases US ciblées : puissante ruée vers l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Ukraine War, Day 1,732: Zelensky - We Have Not Seen US Proposal for NATO-Like Security Guarantees",
-   "source": "EA WorldView",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjQ5NmRkWklkTVA5cjBuRlAwWlh5dWxHclBFRE9mRE5WVFgzb1V2WmNpQ2w3US1PWWp5REQ0WmtKSlMtM0VINzdKbG1WTFQzOU1BbWlOQlo5X0dzLW80YWlyb01pRVVzZkZlWWNKRXVGVFdmeVBoOTZaTGRSQ2hPTG1YaFVxRC1DbzZMV2U3VG1adzd4WVc0Um1vOXJvWDlrdWp5VVhmbUxFRjAxUF9OX05OWQ?oc=5",
-   "published": "2026-11-22T09:23:19+00:00",
-   "id": "aa47d7573825",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Flou persistant sur l'engagement sécuritaire américain maintenant une incertitude géopolitique de fond.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "brk|OIL|pwh|dn|2026-11-02/2026-11-08": 1793619267.5048413,
-  "news|cacb62f2b6c8": 1793619969.7312515,
-  "news|152576532e5b": 1793619970.621599,
   "news|9743359a0a68": 1793621787.7488642,
   "news|f63b957fd615": 1793623572.0263903,
   "news|a247fde031ed": 1793623572.9094672,
@@ -8287,7 +8284,8 @@
   "news|a82c5aebde08": 1795429036.1599472,
   "news|50cf8c074cdf": 1795431707.408787,
   "news|dbd21d85d8de": 1795432573.506925,
-  "news|fab7a1b7ec21": 1795432574.488736
+  "news|fab7a1b7ec21": 1795432574.488736,
+  "news|20c89cdf1a18": 1795434375.0164633
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8775,6 +8773,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T11:46:15.016546+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns of renewed US strikes on Iran if negotiations fail</b>\n📰 RBC-Ukraine · Lun 23/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXJPcVRFOG83TWdkSnhxblluSjFrTVBaYURHVW5UeWJNQkxuUnhKQi02TkdSVXJQU3hobXY3bFZQaGlqYmxkYTRuRHlzOEl6ODk3WlcxbHVwUVo3aThBN2FiQ292NGZMdXNQSGhQUGpZQmtocDlWeWY3akc2cjlwQjlvU2pka2lPYXEtQjBKblRLejg?oc=5"
+  },
+  {
    "ts": "2026-11-23T11:16:14.488836+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war live: Oil prices fall despite attacks in Strait of Hormuz</b>\n📰 Arabian Business · Lun 23/11 05:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -9068,11 +9071,6 @@
    "ts": "2026-11-22T21:46:21.465758+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump signals possible renewed strikes on Iran after New Year if talks fail</b>\n📰 middle-east-online.com · Dim 22/11 21:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.middle-east-online.com/en/trump-signals-possible-renewed-strikes-iran-after-new-year-if-talks-fail"
-  },
-  {
-   "ts": "2026-11-22T21:46:19.076918+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>UN - affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war impact on wildlife</b>\n📰 cbc.ca · Dim 22/11 21:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891"
   }
  ],
  "daily_forecast": {
