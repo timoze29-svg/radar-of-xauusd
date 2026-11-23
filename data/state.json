@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795419072.4678874,
+   "ts": 1795423549.585322,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "c417478916b2",
-  "4d38fe847dca",
-  "3e7d109fd5cf",
-  "8ff1a733bb99",
-  "6070e33989b8",
   "80ffd0a812ea",
   "fbfc5cf6ea1e",
   "0930394f3bbf",
@@ -3956,7 +3951,12 @@
   "cdbce886482f",
   "7e747aedfd2a",
   "1ded840bcd59",
-  "fc6c363de811"
+  "fc6c363de811",
+  "9847964f7f7e",
+  "6a8b26279bfb",
+  "78de1a6969f4",
+  "8f5b4123ed18",
+  "645eeed6ce2c"
  ],
  "news": [
   {
@@ -4050,6 +4050,18 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTENVUDdncDAtc1hVdHg1MjRUVzg2NXVMOXZGWkR2bF9JTXBTQ2lFaHA1NEhwYjRKSnQ2c1l5REVwbFkwYXE1RWtmWk1wVjR5TUhWMGQzbEtudGtIRjdURFJoUEJwaDRITlFLTlpuOExUTHdTa2dhQ1RMU1U1ekdoWU9rZm1hR2hMa05JM2txZDEwTXlQTW14Q2VzV25Vem93VnliSERlNFpJZ25PYzBZLUFqeUFCOGdWenFOUE1MUDhNS25QT0UxdFNR?oc=5",
    "published": "2026-11-23T07:05:08+00:00",
    "id": "c6c5613b6a68",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Suggests Iran Strikes Will Resume Next Year If Talks Fail",
+   "source": "Bloomberg.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWR5UVNLNmF5UFhzNHBwcWdjdGgydlZEWE9ZOF9DS0kwT1k2TkM2SzRNZTcxOThLVUp6Zmd5czJHek51WDIxMXVwTXM4SE55eUphZmhsQmhKZTlsZnlVVGFHOXE3QUxOT09pRVlMSWdSRVNFMjVJbXF3V2JuWmtsdVU2TlNpWUhfczNLZnVIajFkVXRmT1BEX2pSOG5wNEh4enRKQWlmWnVGUDZEcTFoOGJ0eENyRFRIZGVmMGhGamJaMl9PSzI0?oc=5",
+   "published": "2026-11-23T06:55:00+00:00",
+   "id": "6a8b26279bfb",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6346,18 +6358,6 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire directe USA-Iran renforçant violemment la demande refuge pour l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Iran Claims US F-16 Was Hit by Missile in Gulf; US Denies Attack",
-   "source": "Deshabhimani",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkFpS0hkWGE0WEd3SjR5eXozNmJ3cGVSd2h2MTh6YU9aSGJOVFhRR3hUYXNOWl9wTG9Femt3dXo0NEExTGlkblRZLVFuRnhWVmxTX3FDcGxQSU9FYmtYaDY0MXJhbVhDdU55dGQ1ZnVEMmlySTNWcElKckVxcXRqS2ppVTJTOHpyelNTTmFreW94MDlHeDFMOVNDRVMwX2NId2tVQ2NFd0lLdXF3ODJVcjR2U3FrV0JhTUR5N3NBbUw1LUpIS3Fv?oc=5",
-   "published": "2026-11-22T02:31:46+00:00",
-   "id": "c31f8136dfdc",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Accrochage militaire direct présumé entre USA et Iran stimulant la sécurité.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8285,7 +8285,8 @@
   "news|0e3eea5646d0": 1795420215.0861475,
   "news|85b6d6e57e90": 1795420217.920511,
   "news|eb8e526aeab6": 1795422080.905374,
-  "news|5982bd7d961e": 1795422083.533522
+  "news|5982bd7d961e": 1795422083.533522,
+  "news|6a8b26279bfb": 1795423771.2373884
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8773,6 +8774,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T08:49:31.237496+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Suggests Iran Strikes Will Resume Next Year If Talks Fail</b>\n📰 Bloomberg.com · Lun 23/11 07:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWR5UVNLNmF5UFhzNHBwcWdjdGgydlZEWE9ZOF9DS0kwT1k2TkM2SzRNZTcxOThLVUp6Zmd5czJHek51WDIxMXVwTXM4SE55eUphZmhsQmhKZTlsZnlVVGFHOXE3QUxOT09pRVlMSWdSRVNFMjVJbXF3V2JuWmtsdVU2TlNpWUhfczNLZnVIajFkVXRmT1BEX2pSOG5wNEh4enRKQWlmWnVGUDZEcTFoOGJ0eENyRFRIZGVmMGhGamJaMl9PSzI0?oc=5"
+  },
+  {
    "ts": "2026-11-23T08:21:23.533661+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump has 'best opportunity' to strike Iran before new Congress takes office, ex-diplomat says</b>\n📰 The Jerusalem Post · Lun 23/11 08:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ec2o1TzNYM0FNVUN1Z3pLTXIyekY3U3hIalZjbE5LMmpaQXQxU0pyVXJfbHJZb0hIT2F0bnczY3UzRFhQR2hQX0c1eXZiUldoRDgycE1fb1RaU3Rrb2VaRU9zMC1GNWlUYmc?oc=5"
@@ -9066,11 +9072,6 @@
    "ts": "2026-11-22T18:23:55.018328+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>'Bottom of the sea': Trump threatens Iranian navy, weighs new attacks by New Year if talks fail</b>\n📰 The Jerusalem Post · Dim 22/11 18:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5R1d3NnpMQnptb3pLTTllV21oWmJIRE8zeHJxNkNFYjVma2VYMTQwZ3hyVzgyRE5MS092bEo1elJGSzB2SEhqM0tzRXZRR3ZWckQyV3pRcDRwdVIzUURz?oc=5"
-  },
-  {
-   "ts": "2026-11-22T18:16:30.388773+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Truckers strike, blackouts spread as blockade pushes Iran to the brink</b>\n📰 Israel Hayom · Dim 22/11 15:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE9sOGE2QzhJZlVrSWJsT0ZZcHp1ZGZaYTM3TGloZTV0cWo2T0tXLTZrYmtmQ0xEQXpfUGRlNURtNFNhM1Q2VEZUQzhqbWVKdHZNajNxekJxSTJpZUtLbU1YNTJqNFVaWUJmR2pqekI5OHFFc2FYTnlSeFduNElfMzJUdHFuZm54QlRTV3c5Z0JWeFNKZlJ1M1NISmhrNUxwVGJjNjdZeEx5SXpNUmc?oc=5"
   }
  ],
  "daily_forecast": {
