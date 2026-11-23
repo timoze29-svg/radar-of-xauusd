@@ -957,12 +957,6 @@
   }
  },
  "seen_news": [
-  "bb01bcb4ab41",
-  "9d979f05a923",
-  "de4a400fe35b",
-  "f3614e795bd5",
-  "183b52fa4df3",
-  "db11474ffc66",
   "4ebcbf3ed5e9",
   "98cb69836eec",
   "3130cc0c2ddd",
@@ -3956,9 +3950,27 @@
   "f3aa38d4cd0c",
   "2b567da86205",
   "17eb5ef769ac",
-  "5314b8025273"
+  "5314b8025273",
+  "351f164781be",
+  "c33d726fd03c",
+  "f0c9ded43903",
+  "aa803cc78511",
+  "6f57cddd2bb3",
+  "b2f4a4f1f327"
  ],
  "news": [
+  {
+   "title": "Hochul says farms to reap millions in relief from Trump tariffs to offset losses, costs",
+   "source": "Auburn Citizen",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWtlZldtSUxESy1RaHJmMHd5NUF4cFZhQ2FKNmVlNlRSNjloaXBQMXBBSUZXSU03dDctaWpUX2sxajhDdUpIeUVxUDJueXFZUDcxY2NtMnduMk91ZmlVUUcxb0tucFdpNGJ1dXlPRWZnTUM4d0haaDFfNzZ4MkpFUUlwUnpxUC1yN2ZVZFF1ZTVaSEVUQzZ4Tzh1blE1WXVDQThsQTZIQXVWLVBEQTZILQ?oc=5",
+   "published": "2026-11-23T14:15:00+00:00",
+   "id": "c33d726fd03c",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Senate GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer",
    "source": "The Washington Post",
@@ -3969,6 +3981,18 @@
    "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique, politique US)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump is close to an India trade deal. A nicotine pouch ban could unwind it",
+   "source": "Washington Examiner",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREg3OXBFRU9zNUdBX1VCeFJ1eGJ6WFY5NmwwRDA0bGNlQ3lYYWhva1ZNTzc2NWxWdF80dU1PaGJjMW1ZN292cERUY1RQNVJPUjdfVjBma0dSSUc5VHUzLTZiam1IX3RMVl9ub1EzTHBETDd4TVo0Z3NkZmpTcjlZQzM0bl8tanNybFhTemJKTnJ4WDBibVE?oc=5",
+   "published": "2026-11-23T14:00:00+00:00",
+   "id": "f0c9ded43903",
+   "impact": -4,
+   "cat": "commerce",
+   "raison": "baissier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6334,30 +6358,6 @@
    "cat": "géopolitique",
    "raison": "Attaque maritime près de la Finlande, rappel des risques d'escalade en mer Baltique.",
    "method": "IA"
-  },
-  {
-   "title": "At least 14 feared trapped after Russian drone strike collapses building in Ukraine Kyiv region",
-   "source": "moneycontrol.com",
-   "theme": "Géopolitique",
-   "link": "https://www.moneycontrol.com/world/at-least-14-feared-trapped-after-russian-drone-strike-collapses-building-in-ukraine-s-kyiv-region-article-14086600.html",
-   "published": "2026-11-22T12:30:00+00:00",
-   "id": "a10de0833423",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Actualité de guerre régulière en Ukraine, effet résiduel sur le cours de l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump attempts to reach Kim Jong Un go unanswered as North Korea expands nuclear arsenal : Report",
-   "source": "moneycontrol.com",
-   "theme": "Géopolitique",
-   "link": "https://www.moneycontrol.com/world/trump-s-attempts-to-reach-kim-jong-un-go-unanswered-as-north-korea-expands-nuclear-arsenal-report-article-14086564.html",
-   "published": "2026-11-22T12:30:00+00:00",
-   "id": "2b39025ae5d2",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Nucléarisation nord-coréenne et blocage diplomatique entretenant un climat de défiance géopolitique latent.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8293,7 +8293,10 @@
   "brk|COPPER|pwh|dn|2026-11-23/2026-11-29": 1795442518.6114402,
   "brk|COPPER|h20|dn|2026-11-23/2026-11-29": 1795442519.5133498,
   "news|acdfbc67cc72": 1795443379.7603788,
-  "brk|GOLD|pdh|up|2026-11-23": 1795443380.7852871
+  "brk|GOLD|pdh|up|2026-11-23": 1795443380.7852871,
+  "big|VIX|2026-11-23": 1795444299.1609328,
+  "big|SPX|2026-11-23": 1795444300.1470828,
+  "big|COPPER|2026-11-23": 1795444301.1407776
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8781,6 +8784,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T14:31:41.140845+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.2205 aujourd'hui = 1.7× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-11-23T14:31:40.147155+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — S&amp;P 500\n+331.6 aujourd'hui = 2.1× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-11-23T14:31:39.161000+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-8.48 aujourd'hui = 1.7× l'ATR\n🥇 🔴 baissier pour l'or"
+  },
+  {
    "ts": "2026-11-23T14:16:20.785343+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 3 638.10 → prix : <b>3 656.30</b>\nATR jour : 107.8$ | Pivot hebdo : 3640.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 777 cas)."
@@ -9064,21 +9082,6 @@
    "ts": "2026-11-23T03:32:01.929128+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran sees Democrats as weak : Trump links surge in drone , missile attacks to US midterm wins</b>\n📰 timesofindia.indiatimes.com · Lun 23/11 03:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://timesofindia.indiatimes.com/world/us/iran-sees-democrats-as-weak-trump-links-surge-in-drone-missile-attacks-to-us-midterm-wins/articleshow/136086441.cms"
-  },
-  {
-   "ts": "2026-11-23T03:32:01.166004+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Eisenkot brands settler attacks  Jewish terrorism</b>\n📰 israelherald.com · Lun 23/11 03:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.israelherald.com/news/279449315/eisenkot-brands-settler-attacks-jewish-terrorism"
-  },
-  {
-   "ts": "2026-11-23T03:32:00.402788+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran warns US :  Neither war nor peace  cannot continue</b>\n📰 gulfnews.com · Lun 23/11 03:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://gulfnews.com/world/mena/iran-warns-us-neither-war-nor-peace-cannot-continue-1.500757371"
-  },
-  {
-   "ts": "2026-11-23T03:31:59.636187+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>UAE and Oman Intensify Search for Missing Jordanian Sailor After Hormuz Tanker Attack</b>\n📰 gulfnews.com · Lun 23/11 03:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://gulfnews.com/world/mena/uae-oman-continue-search-for-missing-jordanian-sailor-after-hormuz-tanker-attack-2-1.500757383"
   }
  ],
  "daily_forecast": {
