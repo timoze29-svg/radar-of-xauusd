@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "b6437f5284ea",
-  "c45d1e171d14",
-  "8ccccfd06617",
-  "adce1f9d17f6",
-  "dfce9086323d",
   "2da6fc39adaf",
   "7f9e7d38a6e0",
   "a8c00b20d66e",
@@ -3956,9 +3951,26 @@
   "491ad21c9764",
   "a192182b7552",
   "1f817312bbb1",
-  "36f0cd4d1673"
+  "36f0cd4d1673",
+  "2d7d457da7e4",
+  "f1b03fe5181a",
+  "4389d173cd31",
+  "287a31058813",
+  "1fe498297d73"
  ],
  "news": [
+  {
+   "title": "Israel unlikely to strike Iran without Donald Trump, amid fears Benjamin Netanyahu may act alone",
+   "source": "The Jerusalem Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYW5tek41cmt3bGg5LXlpRWZBY2xlYmFhbDJUY0R4bmY3ZUZHZUxVdHZsejNvUEtXZGNMWkRvSkRKZF9jTXItM1BrNHpEQm16OXVOWmZqc2dzenQ5b0xaY2hscjdDVzFMV2c?oc=5",
+   "published": "2026-11-23T12:48:53+00:00",
+   "id": "287a31058813",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "First Solar CEO backs bipartisan support for Trump’s Section 232 tariffs",
    "source": "PV Tech",
@@ -6346,18 +6358,6 @@
    "cat": "commerce",
    "raison": "Menaces tarifaires réciproques UE-USA ravivant craintes de fragmentation et incertitude globale.",
    "method": "IA"
-  },
-  {
-   "title": "'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2gtSW1CTEVvMER3RTJoWFdYOTZzQWZRcGRUc0M5M2RqRWpqc0ZLb0Z2Ry1tbkh1Ujh3VV9LWFZYVkl2TjZJX0I5NWMwc09qR2FIR2F0cU5Xc1g4UlZScWtWdExnbkVGaC1COE9icE5jTHVZVHpWOUVmZ2F0VUUwSC1LQWJvMkw0VzBwSUJoUS0tRjZiVW5ubjZERmgyaVZOQk8wWVhaMHNJeTRN0gGyAUFVX3lxTFBTRjF4NkJyYTZZd3J4QjlrX3hHUVZGQnY5cG55SHEteUU4OHlKTXZmMjh4OUo0R1ctb2JXMTJPS1Fkb09OVk9ncFhQN1RrdEg5WW5mNzMwUjFKd01BTHBaYWZXODNhTTNLZ0xqTmRfcjVxSXg3cUR0eTBnX3dXVkFZajdWWkk4cDhaMWJNNUdjRTNqeGVXSmluRVNJSXhRbGhvTDlvOWRTdHFMaG51cXE5ckE?oc=5",
-   "published": "2026-11-22T10:46:29+00:00",
-   "id": "4abcef1c2898",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Escalade du conflit direct USA-Iran augmentant substantiellement la demande d'or refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8288,7 +8288,8 @@
   "brk|EURUSD|pwh|dn|2026-11-23/2026-11-29": 1795439100.6462054,
   "brk|EURUSD|h20|dn|2026-11-23/2026-11-29": 1795439101.4245515,
   "brk|EURUSD|h250|dn|2026-11-23/2026-11-29": 1795439102.295946,
-  "rep|update|2026-11-23": 1795439107.1532629
+  "rep|update|2026-11-23": 1795439107.1532629,
+  "news|287a31058813": 1795439785.4590933
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8776,6 +8777,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T13:16:25.459182+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel unlikely to strike Iran without Donald Trump, amid fears Benjamin Netanyahu may act alone</b>\n📰 The Jerusalem Post · Lun 23/11 13:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYW5tek41cmt3bGg5LXlpRWZBY2xlYmFhbDJUY0R4bmY3ZUZHZUxVdHZsejNvUEtXZGNMWkRvSkRKZF9jTXItM1BrNHpEQm16OXVOWmZqc2dzenQ5b0xaY2hscjdDVzFMV2c?oc=5"
+  },
+  {
    "ts": "2026-11-23T13:05:06.374633+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:05</b>\nPrix : <b>3616.70</b>  (-2.9$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (-6) → maintenant -9 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n📏 Range fait : 70$ sur ~109$ attendus (64%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\n🔥 <b>22:00</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📰 <b>News depuis ce matin</b>\n🟢 (+8) Trump Says Strikes on Iran Could Resume After New Year\n🟢 (+8) Oil’s Iran war recovery masks lingering energy issues\n🟢 (+8) Trump Warns He May Strike Iran After New Year\n🟢 (+8) Trump Warns He May Order New Strikes on Iran in 2027"
@@ -9069,11 +9075,6 @@
    "ts": "2026-11-23T00:16:16.274656+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Three killed, child wounded as Israeli attacks escalate across Gaza and West Bank</b>\n📰 سانا · Dim 22/11 20:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pRm56UklxZnFSbXpKc1d5dndqX1BxTjFQa0ZKTExsSDA1THNCN2QydkhEWE5KMllQT3AwUFFjYjVYQmVPT2Izc2p1cGh0OTdZ?oc=5"
-  },
-  {
-   "ts": "2026-11-23T00:01:33.993746+00:00",
-   "kind": "cycle",
-   "text": "⚠️ <b>CYCLE HEBDO : PAS D'INVERSION CETTE SEMAINE</b>\nPhase 2 (jeu→ven) : lun→mer = -127.8$, depuis mercredi -161.4$ → le pattern ÉCHOUE (continuation) ⚠️\nLe marché continue dans le sens lun→mer — ne pas forcer le contre-trend."
   }
  ],
  "daily_forecast": {
