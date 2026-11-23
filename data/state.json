@@ -957,14 +957,6 @@
   }
  },
  "seen_news": [
-  "15d1f91450ca",
-  "c32bb51092d4",
-  "057d83dd82af",
-  "a4898cfd3d77",
-  "e741a2c8f276",
-  "822e3b28a879",
-  "7e266f9d5046",
-  "e1b55e1e0f82",
   "0af8bdb30ee3",
   "81a071d53fa5",
   "2e75c0e95273",
@@ -3956,9 +3948,29 @@
   "9a312b06c206",
   "fb21ba9051e4",
   "35b49456b554",
-  "e9e72c7c8776"
+  "e9e72c7c8776",
+  "518b330d6aab",
+  "c0488168fea1",
+  "da6f59fe596c",
+  "613f9a67d673",
+  "92710f0fe8c2",
+  "5296190cbefd",
+  "c30c7a3e8c41",
+  "6fd3fe3581ec"
  ],
  "news": [
+  {
+   "title": "Iran warns of retaliation if US forces attack, and other Mideast news",
+   "source": "Boston Herald",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnZTcWQxcE9CeEpvVVJvbkY2eGYxS2R0UDRCMzE1TUs0Z2hZX0thVmtQVDNydGFSYVlweE1nUFpGN1BsakV5M0dYR3hXNjA0MWV6eTlMTUNncWdoNGt6aUNQVTFObndTTU15bW9WZzg1ZDdHeEVJSXFZSXpxSEVGRnc2ZURWXzc3VHc?oc=5",
+   "published": "2026-11-23T14:37:48+00:00",
+   "id": "da6f59fe596c",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran seeks $290 billion in damages from the US over sanctions and military strikes",
    "source": "The New Indian Express",
@@ -6346,24 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Condamnation diplomatique confirmant l'internationalisation et l'aggravation du conflit dans le Golfe.",
    "method": "IA"
-  },
-  {
-   "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks",
-   "source": "cyprus-mail.com",
-   "theme": "Géopolitique",
-   "link": "https://cyprus-mail.com/2026/11/22/bahrain-says-iran-strikes-industrial-facility-as-air-defences-intercept-attacks",
-   "published": "2026-11-22T12:30:00+00:00",
-   "id": "64e6219dbdc0",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Frappes visant des infrastructures industrielles du Golfe, nette amplification de la prime géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|244f1f4db837": 1793631703.8457546,
-  "news|22053ebbd069": 1793632570.0644586,
-  "news|ebbb623f11f5": 1793632572.1727781,
   "news|a50bd884ffd7": 1793633491.253272,
   "news|3b9785df4e84": 1793634651.0739558,
   "news|3f9625c2764a": 1793634651.9827492,
@@ -8294,7 +8291,8 @@
   "big|SPX|2026-11-23": 1795444300.1470828,
   "big|COPPER|2026-11-23": 1795444301.1407776,
   "news|b8d37618b234": 1795445173.7813904,
-  "big|SILVER|2026-11-23": 1795445176.714289
+  "big|SILVER|2026-11-23": 1795445176.714289,
+  "news|da6f59fe596c": 1795446975.3613691
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8782,6 +8780,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T15:16:15.361458+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran warns of retaliation if US forces attack, and other Mideast news</b>\n📰 Boston Herald · Lun 23/11 15:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnZTcWQxcE9CeEpvVVJvbkY2eGYxS2R0UDRCMzE1TUs0Z2hZX0thVmtQVDNydGFSYVlweE1nUFpGN1BsakV5M0dYR3hXNjA0MWV6eTlMTUNncWdoNGt6aUNQVTFObndTTU15bW9WZzg1ZDdHeEVJSXFZSXpxSEVGRnc2ZURWXzc3VHc?oc=5"
+  },
+  {
    "ts": "2026-11-23T14:46:16.714356+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n+2.665 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
@@ -9075,11 +9078,6 @@
    "ts": "2026-11-23T03:46:42.567457+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Live - Trump considers Iran strikes after new year, Israel pushes for earlier action</b>\n📰 Iran International · Lun 23/11 04:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5"
-  },
-  {
-   "ts": "2026-11-23T03:46:41.758493+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year</b>\n📰 CNBC · Lun 23/11 04:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVVuSzlMa1Vza0JNYXpXbGw2emp5RndTVHplTzB1QllobEw0SW5Dc3VyTFhwMFJnMkpRSEJEZnhPOFFZYWZhckZXaUlKdTZPRzNyOGNzLWp0YUZDOHM4N0xZQWZHVm9zOHRPbXp1a040YUHSAXhBVV95cUxNcG02RV9VeGk3SG90SjhQdWEyTGd3RVdNRmw4YkZreEZmY2JHUU5nVGNBQklaSmFES0ppelA3UmZFVFVUdVF0RzlzdVBtWWF1emF1U3o1N0x4T25VRDVTMS1Od3BWZnhTVERFN0hJd1Bud1hHdkk3MnA?oc=5"
   }
  ],
  "daily_forecast": {
