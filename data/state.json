@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "606b68c67060",
-  "ccadbd507651",
-  "602ef13680dd",
-  "44b75258b17a",
-  "62a037eb8126",
-  "db46f16edc14",
   "016ef4427494",
   "6e08c47e6c59",
   "3c139fc499a1",
@@ -3945,9 +3939,27 @@
   "5bc8887b5ca0",
   "205260cb6666",
   "d900b8f1cd16",
-  "0b34f8323b00"
+  "0b34f8323b00",
+  "52c3db06e9f2",
+  "f1b00d463caa",
+  "93983c1b1898",
+  "313d0a2ce647",
+  "2d5f718f0875",
+  "9b1a9654567c"
  ],
  "news": [
+  {
+   "title": "Qatar warns region cannot afford another US-Iran escalation",
+   "source": "Apa.az",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONV9TaVVSRHNVam1ZRnBGWVFHdlZBR09tUTdlQmVvZGNSN3ZIUHBxeWtnUUFIQklYTFh0aExKYVRONFBGMXBxbmVHNWV6YUFJQ0xzMFhtdWtPRHU5dlBFZmUzUm1nYUhidDk3R2NBNWdId2lYWUtnczVSNDdyME96VUdSUVc0dGZpRUdNZUhrRUR3VU0?oc=5",
+   "published": "2026-11-23T20:55:00+00:00",
+   "id": "2d5f718f0875",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Qatari PM: Middle East can't withstand new escalation",
    "source": "Breakingthenews.net",
@@ -4148,6 +4160,18 @@
    "published": "2026-11-23T17:13:00+00:00",
    "id": "6111ea0a63e4",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "How popular is the Iran War?",
+   "source": "Silver Bulletin",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+   "published": "2026-11-23T17:06:00+00:00",
+   "id": "313d0a2ce647",
+   "impact": 3,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6323,30 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Crainte d'une déflagration multi-fronts au Moyen-Orient justifiant un soutien modéré de l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump threatens to resume war on Iran",
-   "source": "News of Bahrain",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcktQbkd0aXE0MFlNbWc3VU9nYkpzRUMxNE9JV1VuOTA4TkxsTGVVSG1kVG9LMkg2dUhIZGxxWTVHdmFLajNUTno2LVBmSzdTUlUwYVh0M2xpaWZObEl2NlF3dFJzUjNfU2lMQnVlNzI3RktfckNaSTBIeU50dDdXWS1wSEI?oc=5",
-   "published": "2026-11-22T18:23:50+00:00",
-   "id": "789174484a50",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Menaces de guerre directe contre l'Iran, forte hausse de la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
-   "source": "Anadolu Ajansı",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGR3aFJ3RURSVFJJZ1Z4UXdOenJEUjRPeDhvcjg4RUV1eGhvYWpzTDBXUzQ2OXktZFQwTm1QTE45Q3ZRa3EwN3JnQkRKMXZaUnQ5Y2x4VFloZ3pYcWxzMjNCLVJzSHZvZ1hGbzRQMlVWYWZSQnhiRklJT0Z0YlZ3eEx4d0xPc0ZBeEpkMTV3M0l5MjJaX0pvV2FERnRMbnUxMGREUWlMUHY5RVBfQ2pLU2doNzVDNTg?oc=5",
-   "published": "2026-11-22T18:23:29+00:00",
-   "id": "ccb694213038",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Risque accru de frappes militaires au Moyen-Orient soutenant la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8275,7 +8275,9 @@
   "news|7c3034ac260a": 1795464975.5293067,
   "news|e4f5ab074f66": 1795465894.1275687,
   "news|205260cb6666": 1795466835.9389558,
-  "pre15m|2026-11-23T16:00:00-05:00": 1795466839.0139265
+  "pre15m|2026-11-23T16:00:00-05:00": 1795466839.0139265,
+  "news|2d5f718f0875": 1795467710.7008924,
+  "rep|recap|2026-11-23": 1795467712.5869544
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8763,6 +8765,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T21:01:51.797593+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — LUNDI 23/11</b>\nOr : <b>+68.3$</b> depuis minuit · plus haut 3691.0 (15h30) / plus bas 3566.3 (00h10) · range 125$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-6) à 3619.6 → maintenant 3636.3 (+16.7$)\nRange : 125$ réalisé vs ~109$ attendu (115%)\nNiveaux touchés : R1, R2, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 69% de bonnes directions (20 ✅ / 9 ❌ / 2 ➖ sur 31 jours)\n20 derniers jours : 67%  ·  ❌✅✅✅➖✅✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.50% · Taux 10 ans +0.6 pb · Pétrole -4.00% · EUR/USD -0.65% · S&P 500 +4.70% · Argent +4.57%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Trump impersonator joins Canadian PM. Here's the latest on the trade war\n🟢 (+10) Iran warns of retaliation if US forces attack, and other Mideast news\n🟢 (+10) Iran seeks $290 billion in damages from the US over sanctions and military strikes\n🟢 (+10) Senate GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer\n\n📅 <b>Demain (mardi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
+  },
+  {
+   "ts": "2026-11-23T21:01:50.700976+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar warns region cannot afford another US-Iran escalation</b>\n📰 Apa.az · Lun 23/11 21:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxONV9TaVVSRHNVam1ZRnBGWVFHdlZBR09tUTdlQmVvZGNSN3ZIUHBxeWtnUUFIQklYTFh0aExKYVRONFBGMXBxbmVHNWV6YUFJQ0xzMFhtdWtPRHU5dlBFZmUzUm1nYUhidDk3R2NBNWdId2lYWUtnczVSNDdyME96VUdSUVc0dGZpRUdNZUhrRUR3VU0?oc=5"
+  },
+  {
    "ts": "2026-11-23T20:47:19.013990+00:00",
    "kind": "pre_event",
    "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
@@ -9051,16 +9063,6 @@
    "ts": "2026-11-23T07:16:24.831252+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Military Intelligence Warns Netanyahu of Wider Regional Conflict if Israel Strikes Iran Alone</b>\n📰 Caspian Post · Lun 23/11 08:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNTENVUDdncDAtc1hVdHg1MjRUVzg2NXVMOXZGWkR2bF9JTXBTQ2lFaHA1NEhwYjRKSnQ2c1l5REVwbFkwYXE1RWtmWk1wVjR5TUhWMGQzbEtudGtIRjdURFJoUEJwaDRITlFLTlpuOExUTHdTa2dhQ1RMU1U1ekdoWU9rZm1hR2hMa05JM2txZDEwTXlQTW14Q2VzV25Vem93VnliSERlNFpJZ25PYzBZLUFqeUFCOGdWenFOUE1MUDhNS25QT0UxdFNR?oc=5"
-  },
-  {
-   "ts": "2026-11-23T06:49:27.066446+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran has stepped up drone and missile attacks</b>\n📰 A News · Lun 23/11 07:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDdTQVlyaHRTa1NiSlgxMjBQRXM4T3c5V0Z4aDViV3hBRjVtX3VEMHI0MWs2OUg4ZF9RLVRJZERORjhBM2lHTUM0Rnd4NzBrT0hvaktCSnNPSnBCOUNJZDFyOHltWU5iUjEyT1VQVDBGMTdtMGtVdC1GdXhZQW96WldCRHdQVDRiOXI1czFUZ2F1MmpKbk9OdnRHdTFmMTjSAaQBQVVfeXFMTTFkcTRNVVkxSEVvcnFmQ2VOR21TMldmLU9WLUhkckVEWnhTcGl2WUhfbDloSHBkaEoyWXRpZlMzZUNrSnNNdHB0c0RwVy1tWWk3dU1XMHNLeUZXX2hVWWI0S2h5bVNYYkk2dkg5T1hUQ25tODB5bHNmQV9yN0wzZkRsMDVJenhTaVNaSDVvV0NEOWktNjVFRmRmVzJoLW1BT2QydTg?oc=5"
-  },
-  {
-   "ts": "2026-11-23T06:49:24.814409+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold rebounds over 2% above $3,600 as investors reassess Fed rate hikes</b>\n📰 Anadolu Ajansı · Lun 23/11 07:38\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQcklJbHZwWGxoZHQ3aXhaOEpXSENkYmtnVTFLX0FrbEdxVkxjTHI5Rl9CQmdBZGhQTUxhTE15S0UxMXVOMmlTblJTY3czTGJ2RmhfYTRnNGtvRUoyQUxGaUlLX09oQXNMX2NvWE9jOUpObUlUYXVnMmZua2c2c0M3V3dFUks4REpwYVIxWVFXNXBNaW04MGlnVHJjV1cycERtbzVQbWozM1FxanRneFlN?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9318,11 +9320,19 @@
    "mv": -22.9,
    "range": 135.2,
    "exp": 99.3
+  },
+  {
+   "date": "2026-11-23",
+   "dir": "range",
+   "res": "hit",
+   "mv": 16.7,
+   "range": 124.7,
+   "exp": 108.9
   }
  ],
  "evening_recap": {
-  "date": "2026-11-20T21:01:41.499782+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — VENDREDI 20/11</b>\nOr : <b>-109.1$</b> depuis minuit · plus haut 3638.1 (00h05) / plus bas 3502.9 (19h45) · range 135$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-27) à 3546.8 → maintenant 3523.9 (-22.9$)\nRange : 135$ réalisé vs ~99$ attendu (136%)\nNiveaux touchés : S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 68% de bonnes directions (19 ✅ / 9 ❌ / 2 ➖ sur 30 jours)\n20 derniers jours : 67%  ·  ✅❌✅✅✅➖✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.05% · Taux 10 ans -14.0 pb · Pétrole +1.13% · EUR/USD -0.03% · S&P 500 -3.90% · Argent -5.15%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Fresh US-Israel attack on Iran under consideration as tensions escalate - Report\n🟢 (+10) Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation\n🟢 (+10) Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv\n🟢 (+10) Iran war escalation raises concern over civilian death toll\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻",
+  "date": "2026-11-23T21:01:52.586915+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — LUNDI 23/11</b>\nOr : <b>+68.3$</b> depuis minuit · plus haut 3691.0 (15h30) / plus bas 3566.3 (00h10) · range 125$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-6) à 3619.6 → maintenant 3636.3 (+16.7$)\nRange : 125$ réalisé vs ~109$ attendu (115%)\nNiveaux touchés : R1, R2, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 69% de bonnes directions (20 ✅ / 9 ❌ / 2 ➖ sur 31 jours)\n20 derniers jours : 67%  ·  ❌✅✅✅➖✅✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.50% · Taux 10 ans +0.6 pb · Pétrole -4.00% · EUR/USD -0.65% · S&P 500 +4.70% · Argent +4.57%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Trump impersonator joins Canadian PM. Here's the latest on the trade war\n🟢 (+10) Iran warns of retaliation if US forces attack, and other Mideast news\n🟢 (+10) Iran seeks $290 billion in damages from the US over sanctions and military strikes\n🟢 (+10) Senate GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer\n\n📅 <b>Demain (mardi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.",
   "ai": false
  },
  "dp_last": {
