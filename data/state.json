@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795465861.9889429,
+   "ts": 1795469467.4331658,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -630,7 +630,7 @@
      "country": "USD",
      "impact": "Medium",
      "date": "2026-11-24T10:00:00-05:00",
-     "forecast": "92.1",
+     "forecast": "92.4",
      "previous": "91.7",
      "actual": "",
      "gold_label": "",
@@ -652,7 +652,7 @@
      "country": "AUD",
      "impact": "High",
      "date": "2026-11-24T19:30:00-05:00",
-     "forecast": "4.8%",
+     "forecast": "4.7%",
      "previous": "4.3%",
      "actual": "",
      "gold_label": "Inflation (CPI) — gros impact via la Fed",
@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "305049a48e0d",
-  "f93c56e86a17",
-  "30cf6badec1b",
-  "c3188732cb8f",
-  "ed57d107e147",
   "dd65b691baf3",
   "d32488f90990",
   "8b3a5141c1c3",
@@ -3945,9 +3940,26 @@
   "6c4f82a2f775",
   "c78e51676ed1",
   "5db5d55f483d",
-  "e3d9b512a4d6"
+  "e3d9b512a4d6",
+  "403c94c76624",
+  "24dd06bf0104",
+  "76326d2f267c",
+  "600e1b4b19bd",
+  "995c8da1e634"
  ],
  "news": [
+  {
+   "title": "Qatar needs US and Iran to resume talks to end war, PM says",
+   "source": "Middle East Eye",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0h0WUN3VTVCNFRGMXZ1dUhUbGJzSVFYWEVxYW5VX3hLVjFWT3d1NVJVcC0yMk54MjlDMGN3aVhzT1dxX3BkbmdjMVJaQW1zTVllN1RRQ0V4WUc1Y011dnJJWUg1NzF6WHBxOFpLNmRxVTBzNldmLUpZZFNiUUxCYzdJZFRDWmdid1dZ?oc=5",
+   "published": "2026-11-23T21:22:00+00:00",
+   "id": "24dd06bf0104",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Qatar warns region cannot afford another US-Iran escalation",
    "source": "Apa.az",
@@ -3958,6 +3970,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Korea Faces Dual Pressure From Trump Tariffs and Democratic Scrutiny",
+   "source": "Seoul Economic Daily",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelBPdmppeTNtSzNUNlNZRno2Si1BRTZGSThCZ0xBa1BQVjIzZEltVnNXdEFHWm1Fa3kyWHNFR1c4YVZNZ3pRalZUVkhMOVZ0ekZ5MjBPUkU3QXdYSTBPdlRudFZRRmFuRWh5N1JKazBkc29CejRZcGdHQmEybWRLVnNWRjd6QmdXTHp3UVBJQmVlaVI4NlZRWUx5SnRLT0NZ?oc=5",
+   "published": "2026-11-23T20:48:05+00:00",
+   "id": "76326d2f267c",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6323,36 +6347,9 @@
    "cat": "géopolitique",
    "raison": "Frappes récurrentes en Ukraine n'entraînant pas de réévaluation majeure du risque.",
    "method": "IA"
-  },
-  {
-   "title": "President Trump comments on new Iranian aerial attacks as Middle East tensions rise",
-   "source": "Fox News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Z2J3aXQxZkNGYkNzTEFVUW41VlBTTGh6TWxrdm5MZWxkbm5oZ2VDdzdoXzdxM285OWpuNW42X1lNcUMtdzBKcDNfRWd3QW1UWmxFVV9R?oc=5",
-   "published": "2026-11-22T18:43:59+00:00",
-   "id": "368f8fa3c00a",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Escalade des hostilités aériennes au Moyen-Orient poussant les investisseurs vers la sécurité.",
-   "method": "IA"
-  },
-  {
-   "title": "IDF intelligence said to warn Netanyahu a unilateral Israeli attack on Iran could spark multi-front war",
-   "source": "The Times of Israel",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb04tQWtCYUJ5Tkl2QXBjUFdfT3VsLXlNZFpZdXRMdklaOGVLRXRfUWs5R3JRY2JhMnRtZldLR2FBYW5NamNBdG9mU3BtdmRzcDVVZXVab2JJWkVtbUVrQzBhSVpzYXJUQ3lEXzNwUUlvSTJZZTVuOFdmQ2N6UzZZazN1UXM4dDJnZ01IdXZ4dHA4R1pNT2tlSXFyX2FtSEpDQUlydnZjR2RGZ0ZkaVVUUkpQZmc2eFR6RW1sX1NTYXpwVnh1?oc=5",
-   "published": "2026-11-22T18:39:38+00:00",
-   "id": "2e788be873a6",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Avertissement d'une guerre régionale élargie incitant à conserver des primes de couverture.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "rep|recap|2026-11-02": 1793653482.1385517,
-  "news|2dc576223909": 1793654184.1278827,
-  "news|35c2b14e737d": 1793654185.1058762,
   "news|ac5f65e8400c": 1793655275.126276,
   "news|cdb6d76f3551": 1793659583.730385,
   "news|e685e00906a8": 1793659584.5956216,
@@ -8277,7 +8274,9 @@
   "news|205260cb6666": 1795466835.9389558,
   "pre15m|2026-11-23T16:00:00-05:00": 1795466839.0139265,
   "news|2d5f718f0875": 1795467710.7008924,
-  "rep|recap|2026-11-23": 1795467712.5869544
+  "rep|recap|2026-11-23": 1795467712.5869544,
+  "news|24dd06bf0104": 1795469501.2417183,
+  "post|2026-11-23T16:00:00-05:00": 1795469503.9326096
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8765,6 +8764,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T21:31:43.933133+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.02%\nTaux 10 ans +0.0 pb\nOr +0.0$ (extrême +2.7$, range 4.1$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
+  },
+  {
+   "ts": "2026-11-23T21:31:41.241789+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar needs US and Iran to resume talks to end war, PM says</b>\n📰 Middle East Eye · Lun 23/11 22:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0h0WUN3VTVCNFRGMXZ1dUhUbGJzSVFYWEVxYW5VX3hLVjFWT3d1NVJVcC0yMk54MjlDMGN3aVhzT1dxX3BkbmdjMVJaQW1zTVllN1RRQ0V4WUc1Y011dnJJWUg1NzF6WHBxOFpLNmRxVTBzNldmLUpZZFNiUUxCYzdJZFRDWmdid1dZ?oc=5"
+  },
+  {
    "ts": "2026-11-23T21:01:51.797593+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — LUNDI 23/11</b>\nOr : <b>+68.3$</b> depuis minuit · plus haut 3691.0 (15h30) / plus bas 3566.3 (00h10) · range 125$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-6) à 3619.6 → maintenant 3636.3 (+16.7$)\nRange : 125$ réalisé vs ~109$ attendu (115%)\nNiveaux touchés : R1, R2, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 69% de bonnes directions (20 ✅ / 9 ❌ / 2 ➖ sur 31 jours)\n20 derniers jours : 67%  ·  ❌✅✅✅➖✅✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.50% · Taux 10 ans +0.6 pb · Pétrole -4.00% · EUR/USD -0.65% · S&P 500 +4.70% · Argent +4.57%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Trump impersonator joins Canadian PM. Here's the latest on the trade war\n🟢 (+10) Iran warns of retaliation if US forces attack, and other Mideast news\n🟢 (+10) Iran seeks $290 billion in damages from the US over sanctions and military strikes\n🟢 (+10) Senate GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer\n\n📅 <b>Demain (mardi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
@@ -9053,16 +9062,6 @@
    "ts": "2026-11-23T07:50:17.920642+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump may strike Iran before new Congress takes office, expert says</b>\n📰 The Jerusalem Post · Lun 23/11 08:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ec2o1TzNYM0FNVUN1Z3pLTXIyekY3U3hIalZjbE5LMmpaQXQxU0pyVXJfbHJZb0hIT2F0bnczY3UzRFhQR2hQX0c1eXZiUldoRDgycE1fb1RaU3Rrb2VaRU9zMC1GNWlUYmc?oc=5"
-  },
-  {
-   "ts": "2026-11-23T07:50:15.086282+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump is 'stuck', has not learned much from the Iran war: Analyst</b>\n📰 CNBC · Lun 23/11 08:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHdkSTFYRFVteDZPVDBfY0dNVFU0bFdiZDhFakYtS1g3SWhjeDdpQ29OUWJ1YlVMRndOYTcxSFlkOGdob1J3YTNMekh6S3cxTTZHTkZwdF9BcFpPYVNfbU9fLW50ZzkxcUpZcHhSRk9FTUszRk82amVwa0gtSjNGYnJnRGptZHByTkVsaGZDdlJBOWhWYmplbVpQY1pzMTZ3WVpKX3ZrWQ?oc=5"
-  },
-  {
-   "ts": "2026-11-23T07:16:24.831252+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Military Intelligence Warns Netanyahu of Wider Regional Conflict if Israel Strikes Iran Alone</b>\n📰 Caspian Post · Lun 23/11 08:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNTENVUDdncDAtc1hVdHg1MjRUVzg2NXVMOXZGWkR2bF9JTXBTQ2lFaHA1NEhwYjRKSnQ2c1l5REVwbFkwYXE1RWtmWk1wVjR5TUhWMGQzbEtudGtIRjdURFJoUEJwaDRITlFLTlpuOExUTHdTa2dhQ1RMU1U1ekdoWU9rZm1hR2hMa05JM2txZDEwTXlQTW14Q2VzV25Vem93VnliSERlNFpJZ25PYzBZLUFqeUFCOGdWenFOUE1MUDhNS25QT0UxdFNR?oc=5"
   }
  ],
  "daily_forecast": {
