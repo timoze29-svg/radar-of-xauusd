@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "67861d9f587e",
-  "7410e3297df2",
-  "0a7a8d6bf4b9",
-  "39c0dfd7935b",
-  "44ec5670dec5",
-  "a96a182ebd3e",
-  "bde706a1c127",
   "305049a48e0d",
   "f93c56e86a17",
   "30cf6badec1b",
@@ -3945,7 +3938,14 @@
   "46272d6ef1f9",
   "13f593491592",
   "42a8ceb5ae86",
-  "6d2a3b057afb"
+  "6d2a3b057afb",
+  "a6c382f21ffc",
+  "164102982d16",
+  "8cd5edd77ea2",
+  "6c4f82a2f775",
+  "c78e51676ed1",
+  "5db5d55f483d",
+  "e3d9b512a4d6"
  ],
  "news": [
   {
@@ -4150,6 +4150,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "HV farms receive tariff relief payments",
+   "source": "Westfair Communications",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHp6ZGlTdWVlVEF1cmcwUnV1SjJCNHNGVS1sMEN1OTJTdnQyYUR1WGRoTUNQbzB3Qjh3QlA5eHpYeENYMU1LQTF5S1hOb05Yd1plUjNrQ2FOMEtQTG16ekN3dW5ZSzlJUTlubE5Wd0VEYUZRd2FGcGxmMWNsdGpVMFQyaUFDZw?oc=5",
+   "published": "2026-11-23T17:31:43+00:00",
+   "id": "c78e51676ed1",
+   "impact": 1,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -5192,6 +5204,18 @@
    "published": "2026-11-23T08:01:59+00:00",
    "id": "eb8e526aeab6",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Dubai and Middle East flight disruption: flight cancellations and route suspensions continue as Gulf states report more attacks",
+   "source": "Condé Nast Traveller Middle East",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMUI1MUhsMXNhMmFvZ3RaMmxWbFYzcjhLcmtCRmU4RjRMdHktcXlvQ2hiOThXMTE5czJQUkpWdk5reU1TRVk2X241OExBOXJISXUxdG1lU0ZyU21DMXBaQ2I2QWJPdGFqZE84NVhYZ3c5YWlXSUx2WVdCN1dUOW1UdkpjNHRPX2JFbV9GUmtidXlNcldoU053eEV1R1hsSTg1NW9YcFBuRmM4ZzY1TkNwZ1NGMElVOWdETlVRWjhmNEU0MEZ2ZVpRN0xoRndhOEJwWjYzOFgwZVZ4S2FsX0REaVV5Sm52YUxxeTVwRWdRMXpHaHJV?oc=5",
+   "published": "2026-11-23T07:59:19+00:00",
+   "id": "6c4f82a2f775",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6322,30 +6346,6 @@
    "impact": 2,
    "cat": "géopolitique",
    "raison": "Avertissement d'une guerre régionale élargie incitant à conserver des primes de couverture.",
-   "method": "IA"
-  },
-  {
-   "title": "Russian strikes kill 6 in Kyiv region, Ukraine says",
-   "source": "South China Morning Post",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUNOMnljaHRpcGxWS2pENUxkclFRSFktMFFOMkk3SkNOdDg1YjRFQ2w4MjNZRXVEczZWQnRuWDFfNmQ4VEw5Y1l3M3hva0JDWUlnQ3JMcy1NZ1FzRURtcDBHRW8wTVBlY3hKTGN1OVJkc1NTT0s2VDFTWW9CYkVyT2hnZWRrUkxKUzl1bTFOQ3NEU2V4Z3lKT3ItT1BucUVoQjMyeA?oc=5",
-   "published": "2026-11-22T18:32:59+00:00",
-   "id": "23fbcd12bb89",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Poursuite de l'usure militaire en Ukraine, impact déjà largement absorbé par le marché.",
-   "method": "IA"
-  },
-  {
-   "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship in Benghazi",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
-   "published": "2026-11-22T18:32:43+00:00",
-   "id": "ff430de2fb5e",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incident naval isolé en Libye sans risque systémique immédiat pour l'offre énergétique.",
    "method": "IA"
   }
  ],
