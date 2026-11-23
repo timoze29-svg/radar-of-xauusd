@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795396552.0646837,
+   "ts": 1795418160.6065521,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -760,15 +760,15 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1795345494.3067281,
+   "ts": 1795418186.7886062,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 114,
+      "n": 115,
       "high": [
        [
         0,
-        14.9
+        15.7
        ],
        [
         15,
@@ -776,21 +776,21 @@
        ],
        [
         22,
-        7.9
+        7.8
        ]
       ],
       "low": [
        [
         0,
-        19.3
+        19.1
        ],
        [
         2,
-        11.4
+        11.3
        ],
        [
         16,
-        10.5
+        10.4
        ]
       ]
      },
@@ -802,11 +802,11 @@
         12.3
        ],
        [
-        15,
+        2,
         9.0
        ],
        [
-        2,
+        14,
         9.0
        ]
       ],
@@ -821,38 +821,38 @@
        ],
        [
         2,
-        8.2
+        9.0
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 121,
       "high": [
        [
         16,
-        11.7
+        11.6
        ],
        [
         2,
-        10.8
+        10.7
        ],
        [
         21,
-        6.7
+        6.6
        ]
       ],
       "low": [
        [
         0,
-        13.3
+        13.2
        ],
        [
         14,
-        7.5
+        7.4
        ],
        [
         21,
-        7.5
+        7.4
        ]
       ]
      },
@@ -896,7 +896,7 @@
        ],
        [
         0,
-        12.7
+        11.9
        ],
        [
         17,
@@ -910,45 +910,45 @@
        ],
        [
         15,
-        8.5
+        7.6
        ],
        [
-        14,
-        6.8
+        16,
+        7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5946,
+     "n_hours": 5960,
      "horizon_h": 2,
-     "base_gold_up": 53.0,
-     "base_dxy_down": 48.0,
+     "base_gold_up": 52.9,
+     "base_dxy_down": 47.8,
      "down": {
       "3": {
-       "n": 245,
-       "p_dxy": 51.4,
-       "p_gold": 55.5,
+       "n": 246,
+       "p_dxy": 51.2,
+       "p_gold": 55.7,
        "gold_avg": 1.4
       },
       "4": {
-       "n": 58,
-       "p_dxy": 48.3,
-       "p_gold": 56.9,
-       "gold_avg": 0.5
+       "n": 57,
+       "p_dxy": 49.1,
+       "p_gold": 57.9,
+       "gold_avg": 0.6
       }
      },
      "up": {
       "3": {
-       "n": 265,
-       "p_dxy": 55.1,
-       "p_gold": 49.1,
-       "gold_avg": -0.9
+       "n": 268,
+       "p_dxy": 55.2,
+       "p_gold": 48.9,
+       "gold_avg": -0.8
       },
       "4": {
-       "n": 75,
-       "p_dxy": 57.3,
-       "p_gold": 50.7,
+       "n": 76,
+       "p_dxy": 57.9,
+       "p_gold": 51.3,
        "gold_avg": 0.1
       }
      }
@@ -957,13 +957,6 @@
   }
  },
  "seen_news": [
-  "9b87b2c2f4c8",
-  "a4b751822bfa",
-  "45e457832526",
-  "3b3b197043c3",
-  "2b196812975b",
-  "40e9b9c61a07",
-  "3f1953b8bf3a",
   "68de57395889",
   "5a356308de62",
   "7974bb682a5b",
@@ -3956,9 +3949,40 @@
   "15e238bbe6d3",
   "0bd36b8c2207",
   "39119c2e71bb",
-  "79df0ff729dc"
+  "79df0ff729dc",
+  "fe972b6b51ea",
+  "c6c5613b6a68",
+  "b091df1aadd3",
+  "b381de2a1195",
+  "16a149865299",
+  "321fbbbe6736",
+  "681685e943df"
  ],
  "news": [
+  {
+   "title": "Israeli Military Intelligence Warns Netanyahu of Wider Regional Conflict if Israel Strikes Iran Alone",
+   "source": "Caspian Post",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTENVUDdncDAtc1hVdHg1MjRUVzg2NXVMOXZGWkR2bF9JTXBTQ2lFaHA1NEhwYjRKSnQ2c1l5REVwbFkwYXE1RWtmWk1wVjR5TUhWMGQzbEtudGtIRjdURFJoUEJwaDRITlFLTlpuOExUTHdTa2dhQ1RMU1U1ekdoWU9rZm1hR2hMa05JM2txZDEwTXlQTW14Q2VzV25Vem93VnliSERlNFpJZ25PYzBZLUFqeUFCOGdWenFOUE1MUDhNS25QT0UxdFNR?oc=5",
+   "published": "2026-11-23T07:05:08+00:00",
+   "id": "c6c5613b6a68",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine War, Day 1,733: 14+ Murdered Near Kyiv by Russia’s Attack",
+   "source": "EA WorldView",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNl9ybzhPRDgyT1NzeC1jLUJGTDJWNE5Ud21KTzhDS2FhOGxkRElQREdtUF9mQXdBNnUyLVRESGU1UzdxVVhxbnVma1dhRVhQc1pWNWctSm5vN2lnWFp2R3dSSWE3SWZlNWJpRHl3S3VLaHhaRVFmaXkyUEd3TENGZ3Z0SURjZDhJVl9sMGNvdXI?oc=5",
+   "published": "2026-11-23T06:42:47+00:00",
+   "id": "321fbbbe6736",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold rebounds over 2% above $3,600 as investors reassess Fed rate hikes",
    "source": "Anadolu Ajansı",
@@ -4005,6 +4029,18 @@
    "impact": 4,
    "cat": "politique US",
    "raison": "haussier or (politique US)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Skewing the Voters’ Views on Tariffs",
+   "source": "The Dispatch",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmhhUVJrT1RIWDBRanQ2X3VRNVBSZ2kxYnRINlVFeVMwR09Kcld3Y0FYV2FMTEhOeVp0X25scExlT0JLQ3lVNmY2Z0NvRzhCcmFXQ2NPYVR3SFlHVS1jSmpWbHF0dFNLVmxHQ0l0N05jR09iXzk0WUlKbGkya3M1eUVwYXRfSWFzOVNDYjI3ZGpSdw?oc=5",
+   "published": "2026-11-23T06:05:21+00:00",
+   "id": "b091df1aadd3",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -6322,47 +6358,9 @@
    "cat": "inflation",
    "raison": "Refroidissement du CPI ouvrant la voie à des baisses de taux Fed.",
    "method": "IA"
-  },
-  {
-   "title": "The Era of Expensive Money: How Rising Capital Costs Are Reshaping Corporate Treasury",
-   "source": "India Narrative",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlI2akNNZmQxQkZtZmpnOFZzYVFyMWZLbFRNaFpxTHNxTTZoWGZRY1JucnppWHdtamJ5WWVGZl90ZkpIOEE4TTNiR3RGX1NuOEtGUWJ4cGNsRDczaWFYUkNUbm1hd180OTB1VkR5WGQ0VTUxcDByUHpEeEZBWlZMYW1ZQ0tTaTlYMUNUdm4xbVB3RTAwNUgxaEdaLXJTbHFoWFZQT2xDeUNYMjJRbjdVTXpkRmJqTmtZdVFQcUc5OXV1QQ?oc=5",
-   "published": "2026-11-22T00:30:00+00:00",
-   "id": "9bec766fa882",
-   "impact": -2,
-   "cat": "taux",
-   "raison": "Taux d'intérêt élevés prolongés augmentant le coût d'opportunité de détenir du métal jaune.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran War Escalation Raises Maritime Risks and US Funding Dispute",
-   "source": "Demokratis.co.id",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMRGd5NDJ4c1ZER2Itcmp2VDVaX25SNnZKMFZ5RzZfZFd0QVdzczZqdFBHTnBWY1ZLck9jQWVYa3lHWjJSVFoxc2ZjVVp2aE41SEZWd3lqbFFEQ2huWFJXTjk2WERiSjRtTUVoV283WQ?oc=5",
-   "published": "2026-11-22T00:26:32+00:00",
-   "id": "2233c75fd7d0",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire et menaces maritimes au Moyen-Orient renforcent la demande de valeur refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Central Banks Repatriate Gold, Broaden Review of Digital-Asset Investments",
-   "source": "bloomingbit",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01bGlVUnV0YmpmZkw5RFVtQ0NmQm04cTNoR0ZRSFVjTUVMSzhCLUpjYjAtTkhBMXVpLVpVZUhVVnVRbzlNNnBzcWo5bWloalNxbVc5dQ?oc=5",
-   "published": "2026-11-22T00:17:05+00:00",
-   "id": "75c8d81aecd0",
-   "impact": 2,
-   "cat": "banques centrales",
-   "raison": "Rapatriement physique confirmant la méfiance envers les avoirs occidentaux, soutien structurel.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|1301feb88f01": 1793603086.5588987,
-  "news|420b2841f7a7": 1793603766.3862476,
   "news|29bc78ba6a73": 1793604704.718774,
   "news|ca3a06c5f99b": 1793607050.6590543,
   "news|eea35dcd7bee": 1793607051.6360946,
@@ -8286,7 +8284,8 @@
   "rep|daily|2026-11-23": 1795413722.563491,
   "news|75bcc365eaca": 1795414766.0227273,
   "news|8bf309f294fd": 1795416564.8142798,
-  "news|3e0ea82df9f4": 1795416567.06629
+  "news|3e0ea82df9f4": 1795416567.06629,
+  "news|c6c5613b6a68": 1795418184.831164
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8774,6 +8773,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T07:16:24.831252+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Military Intelligence Warns Netanyahu of Wider Regional Conflict if Israel Strikes Iran Alone</b>\n📰 Caspian Post · Lun 23/11 08:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNTENVUDdncDAtc1hVdHg1MjRUVzg2NXVMOXZGWkR2bF9JTXBTQ2lFaHA1NEhwYjRKSnQ2c1l5REVwbFkwYXE1RWtmWk1wVjR5TUhWMGQzbEtudGtIRjdURFJoUEJwaDRITlFLTlpuOExUTHdTa2dhQ1RMU1U1ekdoWU9rZm1hR2hMa05JM2txZDEwTXlQTW14Q2VzV25Vem93VnliSERlNFpJZ25PYzBZLUFqeUFCOGdWenFOUE1MUDhNS25QT0UxdFNR?oc=5"
+  },
+  {
    "ts": "2026-11-23T06:49:27.066446+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran has stepped up drone and missile attacks</b>\n📰 A News · Lun 23/11 07:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDdTQVlyaHRTa1NiSlgxMjBQRXM4T3c5V0Z4aDViV3hBRjVtX3VEMHI0MWs2OUg4ZF9RLVRJZERORjhBM2lHTUM0Rnd4NzBrT0hvaktCSnNPSnBCOUNJZDFyOHltWU5iUjEyT1VQVDBGMTdtMGtVdC1GdXhZQW96WldCRHdQVDRiOXI1czFUZ2F1MmpKbk9OdnRHdTFmMTjSAaQBQVVfeXFMTTFkcTRNVVkxSEVvcnFmQ2VOR21TMldmLU9WLUhkckVEWnhTcGl2WUhfbDloSHBkaEoyWXRpZlMzZUNrSnNNdHB0c0RwVy1tWWk3dU1XMHNLeUZXX2hVWWI0S2h5bVNYYkk2dkg5T1hUQ25tODB5bHNmQV9yN0wzZkRsMDVJenhTaVNaSDVvV0NEOWktNjVFRmRmVzJoLW1BT2QydTg?oc=5"
@@ -9067,11 +9071,6 @@
    "ts": "2026-11-22T17:16:09.943697+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed may need multiple rate hikes to tackle persistent inflation</b>\n📰 Crypto Briefing · Dim 22/11 15:24\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOenlUc1J5SnhkX3FaZmh2SXJaY3RUdS1JSXNRWjB2U0NWNmlGYm94ZWtiTy1pYWdKYk9nMXUxNm9pOFhNOW1rRno2eUtzbi14OFJKdkJhZjFjSktJa0E4M1NGbEYzZXY5aVNOcGp0MzdSODN0dGVJU216Ykx0bEJNYmF3aTlCS016dUVTckhmWVM0S2t6cVE?oc=5"
-  },
-  {
-   "ts": "2026-11-22T16:46:10.870462+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Escalation in the Middle East: Two Tankers Sink, U.S. Bases Attacked</b>\n📰 News.by · Dim 22/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNSE5YUHliSGJ0T2JHYkhGa3g1NHI0NzB4WEwzTDEzazZSc3oxYmFvMXNLMzdzdGFWdHV3U0lnQlp0V1pnX1EteGdNdTdYQTRURk5qdWlkUF9ndjB5cVpNRVZ4RFJPb190aFRYTmNuOGIyQ2VmLThrOWZpM0ZRY0VPVWxRVTJxNU4zRWg0NE94Q0FCNzVUdS1BdURtbHhNdw?oc=5"
   }
  ],
  "daily_forecast": {
