@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795453286.4746838,
+   "ts": 1795457755.1452317,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -711,17 +711,6 @@
      "previous": "2.3%",
      "actual": "",
      "gold_label": "Croissance",
-     "gold_weight": 6
-    },
-    {
-     "title": "Unemployment Claims",
-     "country": "USD",
-     "impact": "Medium",
-     "date": "2026-11-25T08:30:00-05:00",
-     "forecast": "201K",
-     "previous": "203K",
-     "actual": "",
-     "gold_label": "Chômage",
      "gold_weight": 6
     },
     {
@@ -957,12 +946,6 @@
   }
  },
  "seen_news": [
-  "0a43c886dfa8",
-  "3b6f4f6274f9",
-  "7c271efc3115",
-  "032234ad7f53",
-  "1c73ea9b7385",
-  "888f976fcc2a",
   "cba089499d06",
   "e735dd023a9d",
   "a575b10c7b10",
@@ -3956,9 +3939,27 @@
   "3524b4acf9a6",
   "6111ea0a63e4",
   "a73b335bb875",
-  "f377ea254612"
+  "f377ea254612",
+  "e5af13857989",
+  "048296cef628",
+  "d11b4332345e",
+  "0b4a806f72d5",
+  "e3649faee8e6",
+  "9c86851f8b91"
  ],
  "news": [
+  {
+   "title": "Trump shares edited pic of Jensen Huang as him surviving an assassination attempt with bra",
+   "source": "KATU",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWXhyX3o5R3ZMa0M0OW9BSnhVS01CZjhidzNuMXdSVFE4TU9LQnVXUkdWWXJROUZhaldBVHBsSEZqeGFMVFF3OUdpZGZST2N6T3RlRlpoenpGWC1EMnA1Y0N4N3FqUXZkYWR0bXV6Zm5DZVJ4ZTllbUhqN25GYkpJVGN3d2J5MjR6UF9zR3B6VVNSbGVPOGNZVHF5WGpXTHRWU0hfenhzdl9WcjZ6bDZBeWRDUUJ5c25OYUM1S1ZoWmNCcldMTVJaLXlRZ1h2dHY2VTgzX29QYlJYMUZOSU9UdUdqX1pUWW0tWkhzNWtvR0ktR1k?oc=5",
+   "published": "2026-11-23T18:00:36+00:00",
+   "id": "048296cef628",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "IWD: Iowa unemployment rises to 3.3% in October",
    "source": "Quad Cities Business Journal",
@@ -4026,6 +4027,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclIybFN1cjJ1XzJuTEdkdjhqZzU2U2RWSlpocVp2VzVOaG9SVDE1Uk9PS2FSNU1UakliWmhyQ1ozVENPUXRGQndOekFQdnVjMktSek9DeHZybG1QYTllU0EzanNTZ1YwOGxIZTNnZHBjd0RmU1VXM0lMdGZmWFd2ajNHOUR2Ni1PRDFCc3ExODJseHdOeUx5NmJuWUtkZ2otOHB3Z2lXTjlydDNCdGpGeDNDNklDWktYN1lBRGFnNW4?oc=5",
    "published": "2026-11-23T16:26:00+00:00",
    "id": "0846bc68ab6d",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2ZoN3BTWDJacEJWa2QzYkMzb2ZOQ0RfNnA3eGpkLXVicHRJN2pwNDNOcWwteV9WN01mSnNncWhGVlBfNjRzbjg0eV93NFVQRlIzNDRIblJsc2Y3ZUk4VVFCUjZZT2xabVZVLXVHQUFIOEx1ZV9YYXBRVzk2TVJUaEd2STJXN2tvSktqRTZGejBLdC1ucUZXRFFFUUpfcm85SENEb1Q4Z182Sm1wc0lNSHl30gG3AUFVX3lxTE1pZ3ZEelQtbEthcl94WWp4dE42Z3c4QjNCczNlX3BLZDF3V1ZOMlgxeERPWE9zM3AyRmdsVXVmRXQ3ZGFsRXJmTTN6eUJNWWh0ZG1jWGNON04yek04NWNWQV9oMWd3elFzODVwVkhXNHE3TmNleU5RWElXZW8tNDluamQyZGtWcDJDSmFQejNHNnJDTUVobzV5aHdzZ2Z4UmF2RTJfTmFGSTI4UEhGYjQ0SDhfZVo4MA?oc=5",
+   "published": "2026-11-23T16:25:11+00:00",
+   "id": "e3649faee8e6",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6333,30 +6346,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Suspicion d'attaque en Libye sans nouvelle contagion régionale avérée.",
-   "method": "IA"
-  },
-  {
-   "title": "Live - Saudi Arabia warns Iran of consequences after attack on Bahrain injures two",
-   "source": "Iran International",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
-   "published": "2026-11-22T15:28:55+00:00",
-   "id": "e6a34554d99f",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Hausse des tensions régionales Golfe-Iran renforçant modestement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Robust Employment Report Supports Further Fed Rate Hikes",
-   "source": "The Conference Board",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0VmZnRneVh6Y2dLTlNKcG1tcXRhUTh6UEUxalZrdmdzVzRmR0tVLUhjcUoxLU5UTElHTFJNdnJFS2s1TmtYY2F4RVJHbHVRQWt3VllaU3lkYmpEZjM0MzJQcGQ5OU9QaG9aRkYxSGJiUEFqajNXQjVlNEZMWVhxdXh2RUVTaG9zN3ZPMWpzYXRrTXJoNDBF?oc=5",
-   "published": "2026-11-22T15:24:39+00:00",
-   "id": "72e5a76b68b8",
-   "impact": -6,
-   "cat": "emploi",
-   "raison": "Emploi robuste favorisant les hausses de taux Fed, négatif pour le métal jaune.",
    "method": "IA"
   }
  ],
