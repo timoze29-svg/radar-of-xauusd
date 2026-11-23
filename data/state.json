@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "c424b78b817b",
-  "9860d56737df",
-  "6c23922e0e7d",
   "606b68c67060",
   "ccadbd507651",
   "602ef13680dd",
@@ -3945,7 +3942,10 @@
   "d1e9f7219d3f",
   "437494c4d945",
   "a1d20f1d9e55",
-  "5bc8887b5ca0"
+  "5bc8887b5ca0",
+  "205260cb6666",
+  "d900b8f1cd16",
+  "0b34f8323b00"
  ],
  "news": [
   {
@@ -4378,6 +4378,18 @@
    "impact": 5,
    "cat": "dollar",
    "raison": "haussier or (dollar)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Suggests Iran Strikes Will Resume in 2027 If Talks Fail",
+   "source": "Rigzone",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHpaeG5Jb2dVQkNETDVxNnM5bnpQeWp4YzlkdDVnVktXQXhXaFlDVG02TW9XMHZEaWlEeHRuZHRJX0IxX050U0NBVW1PVGU2TzRGeF8zSUxybFNVeVRPSmE1WWJhakZBWjdJUkJOblJvWmNaRUlaMkNicFpodmF2b21FcTFQcXBkMGQ5NFFmbmhDeU1rczhCNkhBZlNpT3Y3eHc0TTFsSWhrUlJhcGVrRExEX0VTOUkzMVNheEhqemQ?oc=5",
+   "published": "2026-11-23T15:28:00+00:00",
+   "id": "205260cb6666",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Risque accru de frappes militaires au Moyen-Orient soutenant la demande de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
-   "source": "The New York Times",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUlFiT2FkTDRqQjBEYU5FczdQVmFfTmNLeWR3NWtfSzk0S2tXOTIyTlNCZEpjMEd3WHM4cHpLRnVOYWEzZ3VzY3phOV8yMVI5bE1VbXVUUlRCTWQyWTZJcnlzM05YQ3JFSVh6UE96RGVTQVRpc0Q1NnVrVnRWeDBpemIyTEhIS09FbTZN?oc=5",
-   "published": "2026-11-22T18:12:18+00:00",
-   "id": "0d1b93c301c0",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Ouverture diplomatique modérée réduisant très légèrement la prime de risque sur l'Ukraine.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8273,7 +8273,9 @@
   "pre1h|2026-11-23T16:00:00-05:00": 1795463172.2335336,
   "news|afdc8699139e": 1795464973.1606708,
   "news|7c3034ac260a": 1795464975.5293067,
-  "news|e4f5ab074f66": 1795465894.1275687
+  "news|e4f5ab074f66": 1795465894.1275687,
+  "news|205260cb6666": 1795466835.9389558,
+  "pre15m|2026-11-23T16:00:00-05:00": 1795466839.0139265
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8761,6 +8763,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-23T20:47:19.013990+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>13 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
+   "ts": "2026-11-23T20:47:15.939046+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Suggests Iran Strikes Will Resume in 2027 If Talks Fail</b>\n📰 Rigzone · Lun 23/11 16:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHpaeG5Jb2dVQkNETDVxNnM5bnpQeWp4YzlkdDVnVktXQXhXaFlDVG02TW9XMHZEaWlEeHRuZHRJX0IxX050U0NBVW1PVGU2TzRGeF8zSUxybFNVeVRPSmE1WWJhakZBWjdJUkJOblJvWmNaRUlaMkNicFpodmF2b21FcTFQcXBkMGQ5NFFmbmhDeU1rczhCNkhBZlNpT3Y3eHc0TTFsSWhrUlJhcGVrRExEX0VTOUkzMVNheEhqemQ?oc=5"
+  },
+  {
    "ts": "2026-11-23T20:31:34.127667+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>No immediate need to strike Iran, says Israel’s opposition leader</b>\n📰 Daily Observer · Lun 23/11 17:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGWVZ5LVVKNGlwbXlEN1pCT1M4S29HSGVwSldFUFEtMEJHVGNOSnZkTTFVY3hwTmhYVWNtTUpaMVVCV1JITjlRN1RB?oc=5"
@@ -9049,16 +9061,6 @@
    "ts": "2026-11-23T06:49:24.814409+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold rebounds over 2% above $3,600 as investors reassess Fed rate hikes</b>\n📰 Anadolu Ajansı · Lun 23/11 07:38\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQcklJbHZwWGxoZHQ3aXhaOEpXSENkYmtnVTFLX0FrbEdxVkxjTHI5Rl9CQmdBZGhQTUxhTE15S0UxMXVOMmlTblJTY3czTGJ2RmhfYTRnNGtvRUoyQUxGaUlLX09oQXNMX2NvWE9jOUpObUlUYXVnMmZua2c2c0M3V3dFUks4REpwYVIxWVFXNXBNaW04MGlnVHJjV1cycERtbzVQbWozM1FxanRneFlN?oc=5"
-  },
-  {
-   "ts": "2026-11-23T06:19:26.022837+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>【TMGM Financial Recap】14-Month Low: Gold Stages a Recovery With PCE Data in Focus; Trump Signals No Further Iran Strikes This Year</b>\n📰 www.tmgm.com · Lun 23/11 05:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOUdMX0xMM0dFWjBsaF9FRWlHUWlhaXZfRlI4Q19ZSzY1M1J0b19zeXE1UGJ6T0JlM3lpTlFOd2k0bktPOEhLUXN0VkYwZTZQY19ObzdqLWdtVWZzTVlRdTBwVlJhOTJkVkR2OGgtcDNWbWxrQl9RQThWY0w?oc=5"
-  },
-  {
-   "ts": "2026-11-23T06:02:01.634998+00:00",
-   "kind": "daily",
-   "text": "☀️ <b>PRÉVISION OR — LUNDI 23/11</b>\nPrix : <b>3619.60</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-6/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3620 vs MM20 3921 / MM50 4096\n🟢 Sentiment news 24h : 166 news notées, moyenne +0.38\n🟢 Taux US 10 ans (5j) : -24 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : +51.6$ · plus haut 3629.6 / plus bas 3566.3 (range 63$)\nDXY -0.14% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~109$</b> (ATR 108$ × profil du lundi)\nDéjà fait en Asie : 63$ (58% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3687.3 | R1 3601.4 | <b>Pivot 3552.1</b> | S1 3466.2 | S2 3416.9\nVeille : PDH 3638.1 / PDL 3502.9  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\n🔥 <b>22:00</b> 🇺🇸 FOMC Member Williams Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n\n📊 <b>Stats réelles</b>\n• Le lundi, l'or a fini en hausse <b>51%</b> du temps (280 jours, ~6.0 ans)\n• Hier : -4.62% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (215 cas)\n🕐 Le lundi, plus HAUT du jour souvent vers 0h (15%), 15h (10%) · plus BAS vers 0h (19%), 2h (11%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +49.1$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n⚠️ <b>Le prix (3620) est déjà sorti du range S1 3466 – R1 3601</b>.\n👉 Pas de contre-tendance : suivre la cassure tant que le prix reste au-dessus de R1.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
