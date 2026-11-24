@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "ab1035dd5ba9",
-  "f140448dc146",
-  "929fe39ceaa8",
   "0331e952b8ed",
   "fb67da13f027",
   "a52a7c4745b8",
@@ -3945,9 +3942,24 @@
   "709ef75c8d6d",
   "4d654671b635",
   "efd3ac9d680f",
-  "2ba7ce88fb76"
+  "2ba7ce88fb76",
+  "71ac57705d5a",
+  "c43258b25df9",
+  "7b04669c939b"
  ],
  "news": [
+  {
+   "title": "NY Fed's Williams Says Prices Too High, Open to Back-to-Back Rate Hikes",
+   "source": "Seoul Economic Daily",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkZNc3dSQUg2cWdMeEpMUExwYTB1X0hHeENRRXdIcmJoWW9oWkpuMFdKX05KMjh5LUtjdVBuMHV0eWJvcGh0UXFWNHU1TnlTbUpfQUJiM2RJRXpSX2hmQWV6bVpFX2lsQzJLTlJvbnAyZTZDOWhwaktxT1BTR3NIYkc0MUxhWm5vQnRhRjhJVkV0WS1xUlBFdFJUb0NVV3c?oc=5",
+   "published": "2026-11-24T08:39:05+00:00",
+   "id": "c43258b25df9",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "MAC responds to China’s cross-strait financing deal",
    "source": "Taipei Times",
@@ -6335,28 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Possible Taiwan takeover not 'invasion': Chinese envoy to Australia",
-   "source": "Yeni Safak English",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakxhLWVQRVQ2YUp3QmZOVjVmT3FzSnQ3YndqNE5DQ1FfTmkxRWZVV0tVcVNKVllHMEVnVXd0eUJCRlJLZkU3WUdZUXVDd3lRdXFDckdnQTU0R0xVUmJfN1hYRTZSbUR1WW1yM1lHRXlFV3RDLU5vaFlRbmtmLVpqQU5SM2VSN1o0SGRsdXlSTFpUdHVTbl9JYnN3MmVRSzEzZDFLb3ln?oc=5",
-   "published": "2026-11-23T05:27:25+00:00",
-   "id": "6c3b7c257dbe",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|fb1e849ccd20": 1793696573.948372,
-  "news|9d733a9685c0": 1793696574.840019,
-  "brk|SILVER|pwh|dn|2026-11-02/2026-11-08": 1793696575.8725946,
-  "brk|SILVER|h20|dn|2026-11-02/2026-11-08": 1793696576.6969082,
-  "brk|COPPER|h20|dn|2026-11-02/2026-11-08": 1793696577.5332322,
-  "news|d2956e4f9023": 1793697375.004096,
-  "news|73f5be158960": 1793697375.8411245,
   "news|1a5b17a72576": 1793699172.9802992,
   "news|84fbded8c54d": 1793699173.8243845,
   "news|853514dd31dd": 1793703049.1533277,
@@ -8272,7 +8265,8 @@
   "news|919a965b3c05": 1795506369.6998518,
   "news|cb5a7725cf28": 1795506370.6180508,
   "news|526db6d647d8": 1795508531.293061,
-  "news|37ca13d50f33": 1795510348.74604
+  "news|37ca13d50f33": 1795510348.74604,
+  "news|c43258b25df9": 1795511779.7655969
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8760,6 +8754,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T09:16:19.765689+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>NY Fed's Williams Says Prices Too High, Open to Back-to-Back Rate Hikes</b>\n📰 Seoul Economic Daily · Mar 24/11 09:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkZNc3dSQUg2cWdMeEpMUExwYTB1X0hHeENRRXdIcmJoWW9oWkpuMFdKX05KMjh5LUtjdVBuMHV0eWJvcGh0UXFWNHU1TnlTbUpfQUJiM2RJRXpSX2hmQWV6bVpFX2lsQzJLTlJvbnAyZTZDOWhwaktxT1BTR3NIYkc0MUxhWm5vQnRhRjhJVkV0WS1xUlBFdFJUb0NVV3c?oc=5"
+  },
+  {
    "ts": "2026-11-24T08:52:28.746147+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall</b>\n📰 The Guardian · Mar 24/11 09:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5"
@@ -9053,11 +9052,6 @@
    "ts": "2026-11-23T15:31:38.038012+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oath Keepers founder is ‘absolutely done’ with Trump, citing pardons and Iran war</b>\n📰 MS NOW · Lun 23/11 16:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTFA3b0F2OGM1WjJNTzk4cUE1VGRQdzQ3MzhLNjhLRW4teGRvTjdrLXBhV1gtcmpLRjZ4UkYydnRlLUNsZDdCdHBsWUR0TnI0WVVQeU4wUjQwajgtY1dFandvMEhLOURsT0FZY2JVV2lyeVViN2NWaGo1eDdadw?oc=5"
-  },
-  {
-   "ts": "2026-11-23T15:31:35.680663+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump maintains pressure on Iran as Democrats eye war funding</b>\n📰 Al-Monitor · Lun 23/11 16:23\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmIxVmhaRERGRjJPdDdxY1c3TG5QYVItWldYYWhmNHVUaHRQbF85TlJWQkYxU0I5dXBNN21uSVNMZUljYjZSVUY5WXBWdDdNbWtoeVJqdkpwLVZLMzQwSnNDX0wxZy03TFYzWU1JYU40dVF6YmVIQ3RDV0M0aUVCdk9uTlpFRzdXUTRmMnA0T0ZobGw1N1lKUW40R3RoVnlIZGc?oc=5"
   }
  ],
  "daily_forecast": {
