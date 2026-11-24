@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "f1a32830bc6b",
-  "3a2740ce9a2b",
-  "a81cbf2debe4",
-  "fc7c76ed0ba4",
-  "f1a849c9596a",
-  "6f5d819cf817",
   "caceafc49b46",
   "e2641461b4c7",
   "0ffb7fde9657",
@@ -3945,9 +3939,27 @@
   "f2a502e6d2b7",
   "764aed888699",
   "ec0e73a243f2",
-  "ebd4dfa23461"
+  "ebd4dfa23461",
+  "3dd39b587e84",
+  "ac45a153f560",
+  "84177cb16087",
+  "74375764d1bd",
+  "f26400c7da61",
+  "bb309a66dd19"
  ],
  "news": [
+  {
+   "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus",
+   "source": "Mining.com",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
+   "published": "2026-11-24T21:03:57+00:00",
+   "id": "3dd39b587e84",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump's New Tariffs Put American Farmers on Alert",
    "source": "AgroLatam",
@@ -3958,6 +3970,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Central banks buy gold on pullbacks as expert warns of financial repression - The Flag",
+   "source": "AM 1100 and FM 92.3 WZFG",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTE1zWHkwUzZETWpsVHkxQTdqbGJWVjVEZldRNk9lNk0ycFFXdTRVazQwSHg3TFQ3Sy02UlhMbE1adnRRLTl4S2xHbEkxR0pURjlfNnB0ZjNLX0M3STFJV0VKQTVNa1c3UkxRZEZfaDlFUy1McHN0b2VqczNQRlRja3EzM0tLY1cwSnZhVFhIRk9SMVpoc0hrZlVKNzJiaWNaUnJvYjBScHdTcENpbTNJQg?oc=5",
+   "published": "2026-11-24T20:46:16+00:00",
+   "id": "74375764d1bd",
+   "impact": 5,
+   "cat": "banques centrales",
+   "raison": "haussier or (banques centrales)",
    "method": "mots-clés"
   },
   {
@@ -5593,6 +5617,18 @@
    "method": "IA"
   },
   {
+   "title": "Pentagon delays Patriot missile shipments to Ukraine",
+   "source": "Financial Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEhpUFlQemw4aFRzcE80SmNCQWMySWJMd1dhRjR0ZWo1ZXBDS19Hc3paUEY2OUstOG84cFo1S3BGWmVHVDVrS29wcVRVVTlUYTQwd2R0Nkl6dnBsd1NLc0hUZUNhSE90TS05NzdQV3lXZFo4dm94akNrU0Mzcy16SFdqODQ?oc=5",
+   "published": "2026-11-24T05:00:15+00:00",
+   "id": "f26400c7da61",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
    "title": "The World Is Underpricing the Risk of More War in Iran",
    "source": "Bloomberg.com",
    "theme": "Trump / Iran",
@@ -6308,42 +6344,6 @@
    "published": "2026-11-23T20:28:00+00:00",
    "id": "6342781b5b66",
    "impact": 3,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "TRT Afrika - Qatari, Egyptian top diplomats discuss regional de-escalation efforts",
-   "source": "Howl.Link",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9xYXMyT1VBcHhVYlhiY1NOM2t0ZUZ2c081S2hyRmR2NTFzUGwtWGR4aTdzMVJMTXNNNTU4?oc=5",
-   "published": "2026-11-23T20:15:14+00:00",
-   "id": "f446a508a700",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Discussions bilatérales apaisantes atténuant légèrement l'aversion au risque régionale.",
-   "method": "IA"
-  },
-  {
-   "title": "Why has gold fallen a third since its January record? The war, inflation and a Fed that turned to hikes",
-   "source": "Nacionale",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGNnZ3YtS0lraFlPR2c3dGR1Mm5vWGZJYVJ0blM4Y015RXFjU3NLeW1UakJ2ajhvWFZhUTM2V2hIOEtJYkpQZnMtQldnUXBVcVllTmdJVC1DbGRISHdkUVJoX3RjOTdRU1pjdEhFUWxLeUx1NmtvY0J2NmRoR01yd1VWbjRzV2dqQU11dEtySEZHa010WHN3ZGFacmt4c1cwcGpIN0lmME9Bb2R5RHNVd0VSMW0tdl9ONUNhN0JEU3pHZw?oc=5",
-   "published": "2026-11-23T19:48:26+00:00",
-   "id": "7f2aeff799e3",
-   "impact": -3,
-   "cat": "fed",
-   "raison": "Rappel de la pression baissière exercée par le resserrement monétaire américain.",
-   "method": "IA"
-  },
-  {
-   "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
-   "source": "Reuters",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
-   "published": "2026-11-23T19:39:43+00:00",
-   "id": "b85ea999e872",
-   "impact": 5,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -8267,7 +8267,8 @@
   "news|bab747f4647a": 1795553171.3226743,
   "brk|GOLD|pdh|dn|2026-11-24": 1795553172.333772,
   "big|SILVER|2026-11-24": 1795553173.1713207,
-  "rep|recap|2026-11-24": 1795554109.3655982
+  "rep|recap|2026-11-24": 1795554109.3655982,
+  "news|3dd39b587e84": 1795554970.2034352
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8755,6 +8756,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T21:16:10.203530+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price falls 2% on hawkish Fed bets, US inflation data in focus</b>\n📰 Mining.com · Mar 24/11 22:03\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5"
+  },
+  {
    "ts": "2026-11-24T21:01:45.643853+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — MARDI 24/11</b>\nOr : <b>-82.3$</b> depuis minuit · plus haut 3676.7 (02h45) / plus bas 3545.4 (21h45) · range 131$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : 📉 BAISSIER (-15) à 3629.5 → maintenant 3554.3 (-75.2$)\nRange : 131$ réalisé vs ~106$ attendu (124%)\nNiveaux touchés : P, S1, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 70% de bonnes directions (21 ✅ / 9 ❌ / 2 ➖ sur 32 jours)\n20 derniers jours : 72%  ·  ✅✅✅➖✅✅✅✅✅✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.46% · Taux 10 ans -1.4 pb · Pétrole +1.58% · EUR/USD +0.54% · S&P 500 -0.48% · Argent -5.81%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Ukraine affirms attacks on Russian ships in Middle East as escalation fears grow\n🟢 (+10) US Bombs Iran for Ninth Day as Standoff Over Hormuz Deepens\n🟢 (+10) NATO holds meeting on escalating Russia-Ukraine war after missiles fall in Poland\n🟢 (+10) Middle East latest: Riyadh tower targeted in terrorist attack, Saudi-led coalition says\n\n📅 <b>Demain (mercredi)</b>\n🔥 <b>14:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n🔥 <b>14:30</b> 🇺🇸 Prelim GDP q/q (prév. 3.5%)"
@@ -9048,11 +9054,6 @@
    "ts": "2026-11-24T07:01:49.275194+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
-  },
-  {
-   "ts": "2026-11-24T06:46:12.744421+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
   }
  ],
  "daily_forecast": {
