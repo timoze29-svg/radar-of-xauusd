@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "578fe7d9afb0",
-  "f9a653a196d7",
-  "a26332cd13b0",
-  "31fac3f609bf",
   "dd3750a1aad3",
   "dc113a93d0ad",
   "3691fb018b3b",
@@ -3945,7 +3941,11 @@
   "ee981b3136ac",
   "72902279e7b2",
   "66560698dc9e",
-  "058e0080bc18"
+  "058e0080bc18",
+  "ed7525c22820",
+  "88eb8ae0f57d",
+  "1d2e7fa43355",
+  "9d21f52d20a2"
  ],
  "news": [
   {
@@ -3967,6 +3967,18 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
    "published": "2026-11-24T09:56:15+00:00",
    "id": "dd76de34b7f2",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine says 2 killed, more than 40 injured in overnight Russian strike in city of Zaporizhzhia",
+   "source": "Anadolu Ajansı",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWdKNUxtSUlKOEFsS2NMazlWUG1GWmRMc0RuM2xMMFowZjlFelZwZVoxak5aaVhiRUhCRmJfcnhobU9HZlFoNHlOVDVuUF9nR3RtOVp2OUF3U05aczI2Q2lSOXhvTGFVVl9YU1ZkbkRkbEEyd2dPZjdTVnRubTBDTEtuQVZQZEM3UzZ3LUFuMEJfRUtKbzhRQ0VBN3dSM3gtYUdhcnNsU2ltcHF4Z09NNWRkOFNISkY2cXQ3bUtXeXY0bzZPNlNEa1FJTHpwMUtIVTVRU2hra2dFQQ?oc=5",
+   "published": "2026-11-24T09:34:26+00:00",
+   "id": "9d21f52d20a2",
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -4727,6 +4739,18 @@
    "cat": "géopolitique",
    "raison": "Mise en garde sur l'escalade US-Iran soutenant la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Qatar warns Middle East cannot afford another US-Iran escalation",
+   "source": "FXStreet",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUhDOEVnamlfeUk1LW1sRGs3R1puaHpXOFZxMVpBYU53T2p1cFVoTHQ0NEZqanFTUU5VcGloRGRMWXJYaXU5aDVHWTVFWmM2NlhMRWdKTnlQbU91ckVWeHZadTV3SklUa19JSUVDX0NaTlQ5VlNlaVhLam40clFwaC0zbm40SVpwcURmaFV6bVpBWWgtZS1Rdnh6RmRkaS1XVW1UU1BCSjJLUQ?oc=5",
+   "published": "2026-11-23T23:42:01+00:00",
+   "id": "1d2e7fa43355",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump may restart airstrikes on Iran",
@@ -6323,35 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia loses 2,471 troops, three multiple rocket launchers in Ukraine war over past day",
-   "source": "Ukrinform",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYk4yNXZOLWU2V0FYNW1fS0I4dW00dU1oeDg4VHpqTFNzZENRSnl4TjhiamhzZUxxcC11VU5zQXpPMXM5RER2LXNqemRzUnJPbjg2Sk5kT1laVkRzWkg1TU9NWW5ZYWhibUFEeDR6aDduZ1pvakY5b2ZfM1h2UkZjUERFM3FfQlAxV0hLb2JlSTZKaEtIQm1WaXZDaGJCaXU2ZGpuUjYyTGN2d3ZwQ3RRZWRqd1c3d2M1d3NoWEdnNlJjVjc5enFhTS1mUXJlSzdq0gHWAUFVX3lxTFBCVjNMQkNkam9ZNWJtMlpyVTRvY2FrZ3VxdmQtODlaVS1sM3poTzZkTEcxWWZGV2N6U2E3NU1EaXM0NFdvb0Fqai1QdEVnaDc4ZXlGVWgzWHdrdU9jcFpMNDBZQXBuOHJpcnhEc2h0SGg0Rlg2bk11TTREdkJ1UUNPTDREVGZtWmpjV2ZHdDE2ZXFHWm9RTEh4dWdVUFpTVlhpUHlfLWFHU1Znd19kVnN1eTNvNjFqa0EwNVN6d2hhb055MXhtUzFFNno4amNJN2R2WktHRGc?oc=5",
-   "published": "2026-11-23T06:18:00+00:00",
-   "id": "39119c2e71bb",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold, Silver and Oil Outlook as Rate Hike Bets Reshape Markets",
-   "source": "Discovery Alert",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVFyYW1mdGZuei1QUWVoT1hybFhoSmFOaDdHOUhDRmpCaDlSRHhkaGZ0dlBiU25OM295bWxtbF9sOEFjVjNZaDVCQzlpRHVGbGQ0RjRTTFZiQ0htUUlhMW1fdk9jTHdRQ0FlbDNvd2dTRWtVRHJ2b0hvNnlQVG1pWW4tZXNSZGxlRnBaZg?oc=5",
-   "published": "2026-11-23T06:10:47+00:00",
-   "id": "71d2d6c57dc1",
-   "impact": -6,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|1a5b17a72576": 1793699172.9802992,
-  "news|84fbded8c54d": 1793699173.8243845,
   "news|853514dd31dd": 1793703049.1533277,
   "news|e27a7d1b3ec9": 1793703703.7469542,
   "news|318e6196db54": 1793703704.745316,
@@ -8266,7 +8264,8 @@
   "news|cb5a7725cf28": 1795506370.6180508,
   "news|526db6d647d8": 1795508531.293061,
   "news|37ca13d50f33": 1795510348.74604,
-  "news|c43258b25df9": 1795511779.7655969
+  "news|c43258b25df9": 1795511779.7655969,
+  "news|1d2e7fa43355": 1795516288.845462
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8754,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T10:31:28.845552+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar warns Middle East cannot afford another US-Iran escalation</b>\n📰 FXStreet · Mar 24/11 00:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUhDOEVnamlfeUk1LW1sRGs3R1puaHpXOFZxMVpBYU53T2p1cFVoTHQ0NEZqanFTUU5VcGloRGRMWXJYaXU5aDVHWTVFWmM2NlhMRWdKTnlQbU91ckVWeHZadTV3SklUa19JSUVDX0NaTlQ5VlNlaVhLam40clFwaC0zbm40SVpwcURmaFV6bVpBWWgtZS1Rdnh6RmRkaS1XVW1UU1BCSjJLUQ?oc=5"
+  },
+  {
    "ts": "2026-11-24T09:16:19.765689+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>NY Fed's Williams Says Prices Too High, Open to Back-to-Back Rate Hikes</b>\n📰 Seoul Economic Daily · Mar 24/11 09:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkZNc3dSQUg2cWdMeEpMUExwYTB1X0hHeENRRXdIcmJoWW9oWkpuMFdKX05KMjh5LUtjdVBuMHV0eWJvcGh0UXFWNHU1TnlTbUpfQUJiM2RJRXpSX2hmQWV6bVpFX2lsQzJLTlJvbnAyZTZDOWhwaktxT1BTR3NIYkc0MUxhWm5vQnRhRjhJVkV0WS1xUlBFdFJUb0NVV3c?oc=5"
@@ -9047,11 +9051,6 @@
    "ts": "2026-11-23T16:16:12.693950+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu ramping up pressure on Trump to strike Iran as soon as possible: report</b>\n📰 The Independent · Lun 23/11 16:49\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0t6T29SU3MtZFJteVdmZHhrNkpLbEZNek5MYVE4RElrRnZ0ODZLYVZVc21TUUd4R3h4S0MxNHBMdDBzLXBwUnZCWkpiaUdPcnJwTFo4dlYyZ2tpWkhVUzcwYm1kZVVBRC1ycUg4RGdBTHp0R3E5NUNQR2JyOFhKd1dKejRxUUxhYUoyU1p2ZWNTOTNSLXdFZUxRczdES1laUVJ6VTVWb3c?oc=5"
-  },
-  {
-   "ts": "2026-11-23T15:31:38.038012+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oath Keepers founder is ‘absolutely done’ with Trump, citing pardons and Iran war</b>\n📰 MS NOW · Lun 23/11 16:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTFA3b0F2OGM1WjJNTzk4cUE1VGRQdzQ3MzhLNjhLRW4teGRvTjdrLXBhV1gtcmpLRjZ4UkYydnRlLUNsZDdCdHBsWUR0TnI0WVVQeU4wUjQwajgtY1dFandvMEhLOURsT0FZY2JVV2lyeVViN2NWaGo1eDdadw?oc=5"
   }
  ],
  "daily_forecast": {
