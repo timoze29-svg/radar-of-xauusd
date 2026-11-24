@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795547751.6621861,
+   "ts": 1795552269.6139278,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "1b03591c6c8d",
-  "5413153cddf4",
-  "2e39eca6c312",
   "98cc072ca986",
   "98aab1979f7c",
   "fd656204fedb",
@@ -3945,7 +3942,10 @@
   "a7ec58017799",
   "28b7f25c5209",
   "1c6fa6de757f",
-  "fb24fef655db"
+  "fb24fef655db",
+  "7fa7e3ebc9b3",
+  "776097be205a",
+  "07cab6e2f599"
  ],
  "news": [
   {
@@ -5797,6 +5797,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Gold falls 2% on hawkish Fed bets, US inflation data in focus",
+   "source": "Reuters",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
+   "published": "2026-11-24T00:57:00+00:00",
+   "id": "07cab6e2f599",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Today's USD exchange rate (November 24): The US dollar rises sharply.",
    "source": "Vietnam.vn",
    "theme": "Dollar",
@@ -6335,25 +6347,9 @@
    "cat": "géopolitique",
    "raison": "Souligne le risque persistant de frappes militaires contre l'Iran, maintenant l'or soutenu.",
    "method": "IA"
-  },
-  {
-   "title": "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
-   "source": "investingLive",
-   "theme": "Inflation US",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ3k0UkRmd0huMm13SjZrdzIwcXJBTWRIazd4Nmc5bHZFazRlbGlJMGdtWnY4M3hBMmtlLXVoR1NmcngzN0luOUQ1Mm9lQ3d3VElQWEYxOURQSWhhbjd1V3J2YldDc3JwaFNONU93dGZ4VFMzcWdVaW1SMGVnYjV6UmNaNjJnelpPQ3A0TnE3RE5qVFNsYV9fTEZVa3BNNEpKbW0xVmJFN0h0Qk9aNndsWl9kLXdNeHJ2UGpVNnpuczZwT0stTkVlUmxnNDFPTWJ5Mk5qRWYxUjZNU1lqRzFmWHY1cDYtNGQ3SVNFMVRVbw?oc=5",
-   "published": "2026-11-23T17:17:20+00:00",
-   "id": "f3137fa14705",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|7aed9dfb3f3d": 1793735184.1568215,
-  "news|a9552574f45e": 1793735185.2667882,
-  "news|66bc46763e2d": 1793736107.9983795,
-  "news|80b1ec02ab6d": 1793736109.0732985,
   "news|bcd3005cae1d": 1793738006.8054316,
   "rep|recap|2026-11-03": 1793739708.1223505,
   "news|8a6ce62f162f": 1793740581.6664376,
@@ -8268,7 +8264,8 @@
   "news|6a2cf47f1afd": 1795548689.432447,
   "news|16ec0855edd6": 1795549574.1786017,
   "news|0948772a479c": 1795549575.1599224,
-  "news|3cf19ba44e61": 1795549576.0951593
+  "news|3cf19ba44e61": 1795549576.0951593,
+  "news|07cab6e2f599": 1795552293.821742
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8756,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T20:31:33.821820+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold falls 2% on hawkish Fed bets, US inflation data in focus</b>\n📰 Reuters · Mar 24/11 01:57\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5"
+  },
+  {
    "ts": "2026-11-24T19:46:16.095288+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration mulls targeted killings of Iranian leaders to end war – report</b>\n📰 The Times of Israel · Mar 24/11 20:28\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2JEU3NBWjdVWUM1enlFd2I4elMzN0p5ZHAyd3pnczFBcmdVeUxCSVM4QTd2VTk2eDZmWXhaQjRyeVBQc21INEJsUmlkS2hlQW9xMUQzZlJKaXVMT2t3aU5UclJaMGNaS1RFTnlSd2VyZ0RVNElvb2ZQXzlsbmYyWUR5SEl0MXM5bWU0ZEJUWUFaRWlmNE1vWEsyNGFHUUp6ZUVxRk5VNWM5VF9RcHlkU19R0gG3AUFVX3lxTE9rdXlZNTd1X3MzeWRDbk9HMUlIV21JdExyNWFJbExDVEwyeTBBU3pQQU16NGZ0RGVveHNaSWNSSFhKQ19mZ0JQY1VTX2RUQXJESktHUWloSkFKTXpBOUd3ZEdxQ015N3JNUnYtTEN1YjlPNG05aWlmVVYtZlp5YzE2aVIyMHd0Ykh5YU8zemV5NmpqOTJaNEl3OXBlM2syMkRxM29CcFdzUHBFSWhwZnB3LUc5aHNGOA?oc=5"
@@ -9049,11 +9051,6 @@
    "ts": "2026-11-24T05:52:38.643150+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
-  },
-  {
-   "ts": "2026-11-24T05:49:06.476890+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East cannot afford further US-Iran escalation, Qatar warns</b>\n📰 www.tmgm.com · Mar 24/11 01:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPclpHYlRPNWNIbjNxaTdRZG9HaTBldXF0XzJpeW5jeUU4dWNIQU1pSHlrMlZSM2ZCLWN0bmxWVHJVdXZsVUZBUGt3d3VoSFRKTEI3QkhVUE9ueEt4RDREM0hJLUFZS3JxRWlvTkdhOWNiMWJCQXhRb01aY1Z6NWZkVnpYejhwTzVpdUdSci1tM1BXM0lud3dHbldWLVBId2NLenY1NGFWaTF6a3hfZG5reXRSQW0xY29mdi1BM0N6S1dUdmlUclVJM3Bn?oc=5"
   }
  ],
  "daily_forecast": {
