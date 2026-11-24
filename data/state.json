@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "3f9015d108e1",
-  "26c0926fc84d",
-  "422c8da0fc89",
-  "ea24044549dc",
   "0fa7af8be8e9",
   "6df731b3c783",
   "aa61562875fd",
@@ -3945,7 +3941,11 @@
   "adb9c7ff75b4",
   "8a86ec25897e",
   "b0a60d3c2f12",
-  "31119616adef"
+  "31119616adef",
+  "46b2f055f0b4",
+  "84d6ab8b30e5",
+  "edd9f242181d",
+  "98a43c7a60a3"
  ],
  "news": [
   {
@@ -3970,6 +3970,18 @@
    "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation",
+   "source": "Reuters",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5",
+   "published": "2026-11-24T17:33:33+00:00",
+   "id": "edd9f242181d",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4234,6 +4246,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Bombs Iran for Ninth Day as Standoff Over Hormuz Deepens",
+   "source": "EnergyNow.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F?oc=5",
+   "published": "2026-11-24T15:54:17+00:00",
+   "id": "84d6ab8b30e5",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6323,30 +6347,6 @@
    "cat": "fed",
    "raison": "Attentes d'une Fed restrictive renforçant le dollar face à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Canadian Dollar weakens as Nvidia rally lifts the US Dollar | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tLWcwU1J3eDFkNk5jMWhjUHoyQTh6XzdIUjFJUTBhRm9KR0hZaDNzV3QwWWFkNmlIZFFNbWZMNTRVNjdQUDhGWnJiUWZ0VF83LW84?oc=5",
-   "published": "2026-11-23T15:53:53+00:00",
-   "id": "7b0133abd600",
-   "impact": -2,
-   "cat": "dollar",
-   "raison": "Hausse générale du dollar et goût pour le risque boursier pénalisant l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Netanyahu ramping up pressure on Trump to strike Iran as soon as possible: report",
-   "source": "The Independent",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0t6T29SU3MtZFJteVdmZHhrNkpLbEZNek5MYVE4RElrRnZ0ODZLYVZVc21TUUd4R3h4S0MxNHBMdDBzLXBwUnZCWkpiaUdPcnJwTFo4dlYyZ2tpWkhVUzcwYm1kZVVBRC1ycUg4RGdBTHp0R3E5NUNQR2JyOFhKd1dKejRxUUxhYUoyU1p2ZWNTOTNSLXdFZUxRczdES1laUVJ6VTVWb3c?oc=5",
-   "published": "2026-11-23T15:49:00+00:00",
-   "id": "974d694627d5",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Pression accrue pour des frappes contre l'Iran, risque d'embrasement favorable à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8264,7 +8264,8 @@
   "news|53e1db82d076": 1795541215.2980263,
   "news|4c1030dc86d4": 1795541216.23463,
   "news|d7bb99ca0e26": 1795541496.8514376,
-  "news|9c177599176f": 1795545279.6065464
+  "news|9c177599176f": 1795545279.6065464,
+  "news|edd9f242181d": 1795545970.1257062
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8752,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T18:46:10.125832+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation</b>\n📰 Reuters · Mar 24/11 18:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5"
+  },
+  {
    "ts": "2026-11-24T18:34:39.606626+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Ukraine affirms attacks on Russian ships in Middle East as escalation fears grow</b>\n📰 Yahoo · Mar 24/11 18:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQakVtaHFWeS1TMS0xU2hkX01lN0l2aTNrWDJsajdOQWhheXpzREhhS0lrVHR5OEI2bFpGbWJiQ1JQNUVJNk1BZDBvM3pfSG82dUxmbEdQVk5sX2l4dV80MEN3eWI0NEh5T0JldC1JODNTXzdBRFZNVkFrd2JVWFpzanMxN2VPeFJ1aGRTcHVSTQ?oc=5"
@@ -9045,11 +9051,6 @@
    "ts": "2026-11-24T05:04:42.176625+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Betrayal of our troops , support of enemies : Bipartisan lawmakers demand Trump revoke Putin G20 invite over Ukraine war and Iran intel reports</b>\n📰 bignewsnetwork.com · Mar 24/11 05:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.bignewsnetwork.com/news/279451415/betrayal-of-our-troops-support-of-enemies-bipartisan-lawmakers-demand-trump-revoke-putin-g20-invite-over-ukraine-war-and-iran-intel-reports"
-  },
-  {
-   "ts": "2026-11-24T04:16:22.338410+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump downplays Iran's latest attacks as it vows to use all means to end U.S. blockade</b>\n📰 CBS News · Mar 24/11 00:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY2QVI0MHU4a25sSEcwVkI2SVZEVnpUWTI4Rk9fcXpHM1ZZVHJoTjVaaFZHTlpwUm5nOGZhMkp1blJRNU5OV18zNnpQc3JaT1U5YmZWbFdfSHk5VlRES3FpSm9md0dxa2c3VF8xQ3NUTnFXTGZ1VTRQbGpaZmhtRmk2RW8wUFlCeXpTNWNmVnVsNGVYeS0wVHB4a2ZQQWdpa29IbkRB?oc=5"
   }
  ],
  "daily_forecast": {
