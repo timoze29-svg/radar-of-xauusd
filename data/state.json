@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "0f2e01b81356",
-  "85d76127d61e",
-  "2f42256ec923",
-  "fcaf1dd91a81",
   "be2b17492d6f",
   "2041017a21c9",
   "1e389b76abae",
@@ -3945,7 +3941,11 @@
   "50cfedfd06f3",
   "92e8b6661ea6",
   "9ada1ffa4a4d",
-  "19e7ddfc1744"
+  "19e7ddfc1744",
+  "830522bfc7e2",
+  "91181dbc90a7",
+  "1722e1133055",
+  "f2e6c5170b42"
  ],
  "news": [
   {
@@ -4306,6 +4306,18 @@
    "impact": -8,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Middle East latest: Riyadh tower targeted in terrorist attack, Saudi-led coalition says",
+   "source": "The National",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhnd0U5NHV1U0V6RmlPTGhnMlM3WFFQWWdJQjlTRFBkVUJreHQ3VVZKZnFtNmNpTGZucTZrbHRzZHVmd0JlN3ljLWlIWU8wWUJuZ0V1ZHBVT2FuYVVpUTJnQ1MzSkg3V3VQcFd3VkItQUNLTDJtM0ZORHBKbWJZUllENjdhZzZuSzR2T3ItTlBvRnhSQ09HTQ?oc=5",
+   "published": "2026-11-24T10:20:17+00:00",
+   "id": "91181dbc90a7",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump urges Nvidia to rehire Jensen Huang and attacks Somalis in Truth Social spree",
-   "source": "The Independent",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGNJcDgyaWJaU3ZET2lCUmtCZ1R3ZW82Vkl1cGloUk1WWWJsSC00TFBEcE5tR2tkczN5Y0RUZ3dab2hrVDVKVWdqWW9KQzNjaEVZa01xQXQtSVJmQTNpWnlFTFFZd1dsU1ZXZk1jQVVweVFVVml6ZHpGWlBOclVnQzRwTGt6Rjc1MllBU3lkZ1IzakRIWWpzVWl4Z3RCSVZOTmJWWXBPV2ZieXd2TXExcQ?oc=5",
-   "published": "2026-11-23T09:49:00+00:00",
-   "id": "280a3e3ac89d",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8261,7 +8261,8 @@
   "brk|US05Y|pwh|dn|2026-11-23/2026-11-29": 1795527970.7361903,
   "news|50cfedfd06f3": 1795529771.26544,
   "news|af7fa84db3ea": 1795529773.4949512,
-  "news|0c15e48fcab0": 1795529774.263183
+  "news|0c15e48fcab0": 1795529774.263183,
+  "news|91181dbc90a7": 1795530690.7387114
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8749,6 +8750,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T14:31:30.738780+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Middle East latest: Riyadh tower targeted in terrorist attack, Saudi-led coalition says</b>\n📰 The National · Mar 24/11 11:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhnd0U5NHV1U0V6RmlPTGhnMlM3WFFQWWdJQjlTRFBkVUJreHQ3VVZKZnFtNmNpTGZucTZrbHRzZHVmd0JlN3ljLWlIWU8wWUJuZ0V1ZHBVT2FuYVVpUTJnQ1MzSkg3V3VQcFd3VkItQUNLTDJtM0ZORHBKbWJZUllENjdhZzZuSzR2T3ItTlBvRnhSQ09HTQ?oc=5"
+  },
+  {
    "ts": "2026-11-24T14:16:14.263309+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump Seeks Permanent Iran Nuclear Deal as Tehran Demands End to Blockade</b>\n📰 The Media Line · Mar 24/11 12:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFlHQ0VOMDdCaE01ZURKX1Y3aFFhNlc4VUxqTERVWWZ3NC1yMmpBamJXSU9rTTlMbTZWNW5lbzd2TjBpOF9IbUl1MkY0ZjRvRjhfNERLNWlqWmY4am9PMDEyeVB4S295eWRuYVN6b19jUzhHd1pPRENFT2FPOGNkOG1CR3RWR3JDZGlaczhLcE1MTTh4Y2RRMGIwS2pOX0k2OGlWSWozcE1Ra1lHbW1CQUd0X1MyM2NCSDdN?oc=5"
@@ -9042,11 +9048,6 @@
    "ts": "2026-11-23T21:46:08.769201+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US escalates sanctions on Iran, targets ‘shadow banking’ networks</b>\n📰 Al Jazeera · Lun 23/11 22:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3lGVWNUci1oN2FycENOck0ycGdzSERqSkJxdFYxRXFTVWxVRzkwNDlrc0ZOX28zODlIbjNmZnRkazFIR3JPNUlZNkFjR093UXZSX0VRdVlWZDZXWVBkbjN3TDFoemxGalQzV0NWazFnRGc2SjI4dTltMThaZG5GT213Vm93RlFvRnBqVGpMSGJRRWhuUHkta1pYeXp1RFJTOXRQX2hoY9IBrAFBVV95cUxPMklWbllGblFTbkk4b2FLY1lRRTl5U2p6cmFNVnFob2c4MWpBd1hvdHRndlFDVkRFZVkyTGVHOFR2QnRpaHk5REFsX2hLZVV5MXgtRFBjNWNUWEZGXzR5c3EyajlmaHNEQkliM2k2Sk5qR21WYWExMlFZWlhlSkZqM2hXSW9lekV6Wm9zQjRsOXZWa05McXRINEtLMzluVTRYRENlMUNYWGdWLUJs?oc=5"
-  },
-  {
-   "ts": "2026-11-23T21:31:43.933133+00:00",
-   "kind": "post_event",
-   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>FOMC Member Williams Speaks</b> : prév. — (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY -0.02%\nTaux 10 ans +0.0 pb\nOr +0.0$ (extrême +2.7$, range 4.1$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n😴 Petite réaction (moins de 25% de l'ATR) : l'annonce n'a pas changé la donne"
   }
  ],
  "daily_forecast": {
