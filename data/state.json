@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795536078.9574316,
+   "ts": 1795539680.8813057,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "ca2f4e5933f4",
-  "e836b0dee000",
-  "5c7ab89ab94a",
   "b39d37e660f3",
   "1eaf8b9e7970",
   "c76ccddd3de0",
@@ -3945,7 +3942,10 @@
   "8b88b8710383",
   "c2dbe24068ac",
   "4ab3b2ea35ce",
-  "4b211ceec6d1"
+  "4b211ceec6d1",
+  "70748e8cc933",
+  "9b5425b523c7",
+  "94d5e0292bca"
  ],
  "news": [
   {
@@ -3958,6 +3958,18 @@
    "impact": 1,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Donald Trump administration debates strikes on senior Iranian leaders",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vZVJycWFqZHNUbUFTYXdhV3d5VVNuOFB4YV9aRDl2SGdHaXAyWjVzSy1yZEpGU0xpSG5obVJPZHRoMWNRWUFFalhOeWVMSmJ6NXhKOHVEQ3VGQng1LXZMVF92VC03TE52Umc?oc=5",
+   "published": "2026-11-24T16:39:50+00:00",
+   "id": "9b5425b523c7",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "U.S. Treasury Yields Rise, European Bond Yields Edge Lower",
-   "source": "WSJ",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-   "published": "2026-11-23T13:32:00+00:00",
-   "id": "6aa359d20c65",
-   "impact": -5,
-   "cat": "taux",
-   "raison": "baissier or (taux)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8263,7 +8263,8 @@
   "news|94354c2eac54": 1795537888.6035955,
   "burst|Trump|166253": 1795537889.7535822,
   "news|af6fa85d4d92": 1795538773.82754,
-  "burst|Tarifs douaniers|166253": 1795538774.9859152
+  "burst|Tarifs douaniers|166253": 1795538774.9859152,
+  "news|9b5425b523c7": 1795539706.9206705
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8751,6 +8752,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T17:01:46.920812+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump administration debates strikes on senior Iranian leaders</b>\n📰 The Jerusalem Post · Mar 24/11 17:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1vZVJycWFqZHNUbUFTYXdhV3d5VVNuOFB4YV9aRDl2SGdHaXAyWjVzSy1yZEpGU0xpSG5obVJPZHRoMWNRWUFFalhOeWVMSmJ6NXhKOHVEQ3VGQng1LXZMVF92VC03TE52Umc?oc=5"
+  },
+  {
    "ts": "2026-11-24T16:46:14.985985+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : TARIFS DOUANIERS</b>\n7 articles en 45 min (normale ≈ 0.8) → un sujet s'emballe\n\n🥇 Impact moyen : +3.3/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump's tariffs are making a comeback, and China could be hit hardest — <i>Ynetnews</i>\n• (+5) Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say — <i>Reuters</i>\n• (+5) Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week. — <i>MarketWatch</i>\n• (+5) Donald Trump readies raft of new tariffs on major economies — <i>Financial Times</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
@@ -9044,11 +9050,6 @@
    "ts": "2026-11-24T03:16:09.435835+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Russia warns of 'preventive nuclear attack' as Medvedev claims Ukraine, NATO crossed line</b>\n📰 Fox News · Lun 23/11 22:11\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWFfSFY3aHR5WjRmRDN6eXY0OUdlVVQ2WlNNMmhMcS10R0M5eEJwZjBoUmJwYlhvdmRKTDhsVHZ6R1FsMWdVaEF2WXRCWVNNanBxbG5jcF9sSlJ6UXZMSGdpU2M3VnlqNWJTUTVnVDlhVVRSY2xVQk4xLS1rd0R3UjR1SWFNUEpsdVVzVmZiXzFKdTZWd2s1UHY4YWxGOE1FMnQ2WFBMVDhPY1dnSFhv0gG0AUFVX3lxTE1uOFhCRHZ1XzlkRzQ4cmxNYWRULW04TEtrLTdiMk5sNUQ3TWY5LVNoN19VU3A5MmtSRE1lYkVTdllzVkYtOURwM09DY1pFOUVmdFhxMFgwSl9STWtOLVFDa0t5SlpfMjJWTEZXTWlEV0hSdzU3S0ljWjlEVExZaXpiVUprbm1VYnJSUGhiSEctN3J2QWRzaS14cEJfb25wNU4xeEk2eDBWd3RTT3AxY05BU0RiZA?oc=5"
-  },
-  {
-   "ts": "2026-11-24T02:48:46.009986+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatari prime minister warns Middle East can’t afford another US-Iran escalation</b>\n📰 Anadolu Ajansı · Mar 24/11 03:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWdycno0MFlPOC1LSUpDYV9mTFpkRnhVdDNlcVFzUWFSclctR1VSZzhWcFZOT3lWeXpERmNaczVUOHNzMl9wWEJWTEVUdDN1RHNCWWFJa2RFanVIU1ZvekJvak1FWjhqTlRhSHlRVGZCZDdNWWYwS3FObFVrMTFRSmVsVmRPREp6bExOMERnSW8zWDRWcE4yeEtxT3ZHUXBsY3EzQmZwNzhZb05TMmhjUEtMYVhDUDNLQi01aA?oc=5"
   }
  ],
  "daily_forecast": {
