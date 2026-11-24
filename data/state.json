@@ -946,9 +946,6 @@
   }
  },
  "seen_news": [
-  "3c3e676f9b4f",
-  "238fef92b9a1",
-  "c9363c93ff1a",
   "91e998864e94",
   "8b27bac42824",
   "fba48eb4edc2",
@@ -3945,7 +3942,10 @@
   "bbe01503e1bf",
   "f795bbc70530",
   "539d612090ca",
-  "bf474df73d6e"
+  "bf474df73d6e",
+  "48f09f35d217",
+  "40822bffef0d",
+  "f292d291027d"
  ],
  "news": [
   {
@@ -4040,6 +4040,18 @@
    "published": "2026-11-24T08:23:51+00:00",
    "id": "efd3ac9d680f",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "3 Republicans break with Trump in US Senate vote to block war in Iran",
+   "source": "News From The States",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWV1cTZrcFlSa3NvZ3l0c0NsT3czem8xNjJEZFhSN1BnWEU5QlJXM0Uwd3hNd19RT0JqaWVyVTB6WmF0V0VGYlpGN01KWVI5Y1I0UU91OTUta3FvN0R1Nm9KdEVXTzdFaS1NY1BtdTVCbS10aUlZSmg3cG1JZDZVc3hHdThXeGhJc0ZTVGUxY2lOWXNKWHdiZzQ3UlRiQQ?oc=5",
+   "published": "2026-11-24T08:16:43+00:00",
+   "id": "48f09f35d217",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6335,24 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump Suggests Iran Strikes Will Resume Next Year If Talks Fail",
-   "source": "Bloomberg.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWR5UVNLNmF5UFhzNHBwcWdjdGgydlZEWE9ZOF9DS0kwT1k2TkM2SzRNZTcxOThLVUp6Zmd5czJHek51WDIxMXVwTXM4SE55eUphZmhsQmhKZTlsZnlVVGFHOXE3QUxOT09pRVlMSWdSRVNFMjVJbXF3V2JuWmtsdVU2TlNpWUhfczNLZnVIajFkVXRmT1BEX2pSOG5wNEh4enRKQWlmWnVGUDZEcTFoOGJ0eENyRFRIZGVmMGhGamJaMl9PSzI0?oc=5",
-   "published": "2026-11-23T06:55:00+00:00",
-   "id": "6a8b26279bfb",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|853514dd31dd": 1793703049.1533277,
-  "news|e27a7d1b3ec9": 1793703703.7469542,
-  "news|318e6196db54": 1793703704.745316,
   "brk|USDJPY|pwh|up|2026-11-02/2026-11-08": 1793704673.4613776,
   "news|3f6a0b5504e1": 1793705485.133858,
   "news|771f7f0a561d": 1793705486.0946546,
@@ -8267,7 +8264,8 @@
   "news|c43258b25df9": 1795511779.7655969,
   "news|1d2e7fa43355": 1795516288.845462,
   "news|319a5a1e747a": 1795517414.1121898,
-  "news|bbe01503e1bf": 1795517415.0010898
+  "news|bbe01503e1bf": 1795517415.0010898,
+  "news|48f09f35d217": 1795518106.223075
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8755,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T11:01:46.223174+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>3 Republicans break with Trump in US Senate vote to block war in Iran</b>\n📰 News From The States · Mar 24/11 09:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPbWV1cTZrcFlSa3NvZ3l0c0NsT3czem8xNjJEZFhSN1BnWEU5QlJXM0Uwd3hNd19RT0JqaWVyVTB6WmF0V0VGYlpGN01KWVI5Y1I0UU91OTUta3FvN0R1Nm9KdEVXTzdFaS1NY1BtdTVCbS10aUlZSmg3cG1JZDZVc3hHdThXeGhJc0ZTVGUxY2lOWXNKWHdiZzQ3UlRiQQ?oc=5"
+  },
+  {
    "ts": "2026-11-24T10:50:15.001205+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US dollar hits March 2025 highs as Fed tightening bets and Nvidia-led equity rebound lift DXY</b>\n📰 VT Markets · Mar 24/11 10:14\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2p3QVFodks0ZUE2REZhSlVEd19vbk95eWJhTEh0YXRfaWROcWFiTEVjZFkwcF9JdnFvV0JnTGJPZTh3d3hyTExUTVVoNWlSckFfb0tqZGJsN0tsS05UTHNDeVRaNjhGVHpLQnV3ZGtSNklOY2hNSGtscmxlN2I3M3ZzZkZvalQtR0stbVg3MHdFTTZrMkdrdktvVkxyaTlDRVBwVzZIbEIyT1VQQy1ZUDJPTXREQnk3WlZMVjlWZnMwTXg5a0tsRDNhSFA5VGFabXh0a1lR?oc=5"
@@ -9048,11 +9051,6 @@
    "ts": "2026-11-23T18:31:44.771618+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes</b>\n📰 Bloomberg.com · Lun 23/11 15:22\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5"
-  },
-  {
-   "ts": "2026-11-23T18:01:47.375193+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad Analysts Object to Immediate Strike on Iran as Chief Pushes for Netanyahu-Backed Attack</b>\n📰 Haaretz · Lun 23/11 18:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxOcl92Y29hNERhYVpFcUpMTzVwQllhZ3lIZHFWdVlpY2ZxWkhuWHl3QlhNMUtpRkdPRDk4cVMyaDlMcG5WaFp0STNyalpHeEFPSmVQbmpNYVNSM1JFYzBUWTVGX1RSWnplMzduWHdTclZSeG12MldZTGJGVlYyUElZbmdoRlpncVhkU2RSWTBXX0t6SnUzUlk5dTZSTUt4SkVVTXhuMTFQU0lzZkZNM09DcXdhazJWMW1zZG1yeGw2b1E2YVhMaExqcU9LeWxtRzBVY1FjQnhoclI4T2k4YXVXdTNQSldndUpsRmJIZy1WQUx1VWRVSU1HTUpiMVFBWW91M2xMMVRteXBjNkxjdjdYUzdzWDhyYTcxNS02Ulk0SG0wYUN2RzdB?oc=5"
   }
  ],
  "daily_forecast": {
