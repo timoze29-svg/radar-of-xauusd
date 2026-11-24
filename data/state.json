@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "48bba90a461e",
-  "8fd1e6c6fc00",
-  "d675164632f8",
-  "d653b8589dab",
-  "ab06a60cfdda",
-  "4fdd2a813913",
   "6861f148414d",
   "b8a06c97e317",
   "3c0cc7a84406",
@@ -3945,7 +3939,13 @@
   "f5b6b0a484aa",
   "adcb2c248930",
   "36d01f01dc0a",
-  "e894cbe04c38"
+  "e894cbe04c38",
+  "b85ea999e872",
+  "7f3f785d409d",
+  "1a515d49601b",
+  "cd6cfbb49ea7",
+  "a13b4125b2e4",
+  "28a5bf294968"
  ],
  "news": [
   {
@@ -4667,6 +4667,18 @@
    "cat": "fed",
    "raison": "Rappel de la pression baissière exercée par le resserrement monétaire américain.",
    "method": "IA"
+  },
+  {
+   "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
+   "source": "Reuters",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+   "published": "2026-11-23T19:39:43+00:00",
+   "id": "b85ea999e872",
+   "impact": 5,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
@@ -6334,18 +6346,6 @@
    "impact": 4,
    "cat": "taux",
    "raison": "Chute des valeurs tech et baisse des rendements obligataires très haussières pour l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Live - Trump considers Iran strikes after new year, Israel pushes for earlier action",
-   "source": "Iran International",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
-   "published": "2026-11-23T03:22:26+00:00",
-   "id": "b7dc28b704c9",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Frappes reportées à court terme mais le risque d'escalade reste latent.",
    "method": "IA"
   }
  ],
@@ -8270,7 +8270,7 @@
   "news|1ee628e2a27f": 1795500971.180099,
   "news|a497c0f528a9": 1795500971.9592338
  },
- "last_bias_label": "Neutre",
+ "last_bias_label": "Baissier",
  "initialized": true,
  "forecasts": {
   "2026-10-14": {
@@ -8756,6 +8756,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T07:01:49.275194+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Neutre → <b>Baissier</b> (score -15)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
+  },
+  {
    "ts": "2026-11-24T06:46:12.744421+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
@@ -9049,11 +9054,6 @@
    "ts": "2026-11-23T14:16:19.760454+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Senate GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer</b>\n📰 The Washington Post · Lun 23/11 15:03\n🧠 haussier or (géopolitique, politique US) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtRUDdfTnJma1dTMV9ZNVlTemswSC1JeHZqei1LUnBTVS1FdTlTaU53eTVLN1RUeXFTZHRJUkdsZlFidmF2RVhLaWtLalVGODBJTUllc2R3bFdPYTZ5c21wekt3OTViZEFhSElIUW9QQlp5VVhQbEd1dTVkYWtxVlN6ZVM0VVBCRWVKdzVJLXZYdWQ2OTQzRkliS0dscUlNVVhBWHU0T19Td1NsZ0prZEl6Q3BBQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-23T14:01:59.513441+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas sur 20 JOURS\nNiveau : 5.4570 → prix : <b>5.4555</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.61 | 60j 0.5"
   }
  ],
  "daily_forecast": {
