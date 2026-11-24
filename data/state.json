@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "1ce2efe6b75b",
-  "0c866141547a",
-  "bfc4c4b10065",
-  "ad441d4fb65a",
   "d1da2d86cb90",
   "f859826c99a6",
   "0b89d3e051b0",
@@ -3945,9 +3941,37 @@
   "00eaf5d75949",
   "8f0a56332607",
   "ee34c6f49288",
-  "ba231688c9d7"
+  "ba231688c9d7",
+  "a497c0f528a9",
+  "1ee628e2a27f",
+  "a81601f5f666",
+  "3132a592bbd3"
  ],
  "news": [
+  {
+   "title": "54% of Bond Market Participants Expect November Base Rate Hike",
+   "source": "news.sbs.co.kr",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mM25wemo3ZDBNTUkwQUVJanpnMHpZdnNmTDFNZTl4VGNOQk84ZjJ6eWFOYmlyNWI4QVBrT3BsWF92dHZ1N3ROdlo2WmN0QzBoSlZVTHZ4NjVjRUpEcDl0RkRTZUhmZ1Vvc1FsazNn?oc=5",
+   "published": "2026-11-24T06:08:39+00:00",
+   "id": "a81601f5f666",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Qatari PM warns Middle East can’t afford another US-Iran escalation",
+   "source": "Saudi Gazette",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaFA1WmdCWjFGNnRLc0RxNjBrWkdTTldfSVYwR1Npd2JMOFl3eTFFcW8tMlNWUzl2VV9KQXhlR0g0Z2NkNVQ0VTdieGZ2VU1mVGJ2ZXhNODNqbkJfTGw2d3Jkc25UbjhNODNzOXFJSkNIdDV0a0xPZTEyWnkwUDdvV3l5amJHTElGQWM2LWZvTFZjcy1SNl9POTlRNmxNSDRHLTBtSDVvdEtoTVJsamZOMVlNWHJfUQ?oc=5",
+   "published": "2026-11-24T06:01:00+00:00",
+   "id": "1ee628e2a27f",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US Democrats promise hearings on Trump’s tariffs and investment deals with Korea and others",
    "source": "한겨레",
@@ -4043,6 +4067,18 @@
    "cat": "or",
    "raison": "Alertes de risque et potentielles hausses de marges incitant à des prises de bénéfices.",
    "method": "IA"
+  },
+  {
+   "title": "The World Is Underpricing the Risk of More War in Iran",
+   "source": "Bloomberg.com",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDlDRW0teFE3cHprZUY1clo0bjRCck5QZUJNY3hERFpsS1ZBWEJhRnV5ZWUxb1NYQzhVcWtDalBuV0ZzVDRvM193MG80bkRWUG1SWmVnRGVaQ1pCeGtUT2JkMWtram03WGhoWlQwRlBjbXNIa2JMTTE5YVdNUTRTWnRRbG0tZ0RqTDRWOFpyWnYtTmVZUTQ5Z1pkOGg?oc=5",
+   "published": "2026-11-24T05:00:00+00:00",
+   "id": "a497c0f528a9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Betrayal of our troops , support of enemies : Bipartisan lawmakers demand Trump revoke Putin G20 invite over Ukraine war and Iran intel reports",
@@ -6311,47 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump Sets New Year Deadline For Iran, Warns Of Military Strikes",
-   "source": "NDTV",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0pCeDdaQWRvR0toT1FfMmV3ODdwMGplQTU5SDBKTG9KSllQamdiMVpiQkkwSVd6bC1TRzRwZXZQaF9KcTdndlkxdWFmQ2k3WjZUWmEyZ215c1dDcmhsNTlGbXVHT2h2QV9rY0ZfM0ZqOUNhVVozYXFfTm9PalMxVXh1S05naThrWEVuRzh6VWVzNkQwQk45eExaeVU0SUtMWWVnRlJRUXZVNzNDOWEyQ2hnd1B3YXpSZXA5cDNBN3dFWFlDVlBKaUNzZ09xaWNvY3fSAdoBQVVfeXFMUHBHWnFuZU9paXNpNEZDUFpJN09yRmdXRWF5bFNJN2ZPSXdaTDdnbXpwMF9HdjJtUXRJMlV6bDJfMHhfVmRPUHhBMEdnUXNLWWljZ0RBNjh3ci1CQlgwdmdLeTVSTE1FUXhvdlMwVGZnODcwcnRpTWFPVjJvaEZlMzVJUDlwaU9zMlo5NkdVUXpJdGpYMUdUcFpYQ1hkb2pBTXRqcFFGTnhHSFBZb2hCa3dRRnU2NnNiUHFScjA3UVY3M1p6aDVLRi13YTdMdGlIUk9aM2xteE9EekE?oc=5",
-   "published": "2026-11-23T02:43:46+00:00",
-   "id": "4a9d617096f7",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Ultimatum et menaces de frappes militaires maintenant une tension géopolitique haussière.",
-   "method": "IA"
-  },
-  {
-   "title": "Iranian leaders consider Democrats weak : Trump claims Iran intensified attacks after US midterm elections",
-   "source": "heraldglobe.com",
-   "theme": "Géopolitique",
-   "link": "http://www.heraldglobe.com/news/279449395/iranian-leaders-consider-democrats-weak-trump-claims-iran-intensified-attacks-after-us-midterm-elections",
-   "published": "2026-11-23T02:30:00+00:00",
-   "id": "ca2798280b21",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Rhétorique belliqueuse soulignant la persistance des tensions militaires au Moyen-Orient.",
-   "method": "IA"
-  },
-  {
-   "title": "UAE and Oman Intensify Search for Missing Jordanian Sailor After Hormuz Tanker Attack",
-   "source": "gulfnews.com",
-   "theme": "Géopolitique",
-   "link": "https://gulfnews.com/world/mena/uae-oman-continue-search-for-missing-jordanian-sailor-after-hormuz-tanker-attack-2-1.500757383",
-   "published": "2026-11-23T02:30:00+00:00",
-   "id": "e8f82f1563be",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Attaque de pétrolier à Ormuz ravivant les craintes de blocus maritime stratégique.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|572d83550dca": 1793686564.5223734,
-  "big|COPPER|2026-11-03": 1793686565.6263332,
   "news|d1a056dc5852": 1793689309.1538088,
   "news|17f5a8548576": 1793691083.8162117,
   "news|40096ed24f5a": 1793692904.6631763,
@@ -8268,7 +8266,9 @@
   "news|72328a66674f": 1795498287.8921068,
   "news|553bb218011a": 1795498288.810471,
   "news|bd0bc83d3992": 1795499346.476785,
-  "rep|daily|2026-11-24": 1795500313.7596679
+  "rep|daily|2026-11-24": 1795500313.7596679,
+  "news|1ee628e2a27f": 1795500971.180099,
+  "news|a497c0f528a9": 1795500971.9592338
  },
  "last_bias_label": "Baissier",
  "initialized": true,
@@ -8756,6 +8756,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T06:16:11.959370+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The World Is Underpricing the Risk of More War in Iran</b>\n📰 Bloomberg.com · Mar 24/11 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDlDRW0teFE3cHprZUY1clo0bjRCck5QZUJNY3hERFpsS1ZBWEJhRnV5ZWUxb1NYQzhVcWtDalBuV0ZzVDRvM193MG80bkRWUG1SWmVnRGVaQ1pCeGtUT2JkMWtram03WGhoWlQwRlBjbXNIa2JMTTE5YVdNUTRTWnRRbG0tZ0RqTDRWOFpyWnYtTmVZUTQ5Z1pkOGg?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:16:11.180200+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatari PM warns Middle East can’t afford another US-Iran escalation</b>\n📰 Saudi Gazette · Mar 24/11 07:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOaFA1WmdCWjFGNnRLc0RxNjBrWkdTTldfSVYwR1Npd2JMOFl3eTFFcW8tMlNWUzl2VV9KQXhlR0g0Z2NkNVQ0VTdieGZ2VU1mVGJ2ZXhNODNqbkJfTGw2d3Jkc25UbjhNODNzOXFJSkNIdDV0a0xPZTEyWnkwUDdvV3l5amJHTElGQWM2LWZvTFZjcy1SNl9POTlRNmxNSDRHLTBtSDVvdEtoTVJsamZOMVlNWHJfUQ?oc=5"
+  },
+  {
    "ts": "2026-11-24T06:05:12.986871+00:00",
    "kind": "daily",
    "text": "☀️ <b>PRÉVISION OR — MARDI 24/11</b>\nPrix : <b>3629.50</b>  ·  Biais du jour : <b>📉 BAISSIER</b> (-15/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3630 vs MM20 3901 / MM50 4083\n🟢 Sentiment news 24h : 163 news notées, moyenne +0.45\n🔴 Dollar (DXY 5j) : +0.77% sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : -6.9$ · plus haut 3676.7 / plus bas 3618.5 (range 58$)\nDXY -0.03% sur la nuit\n\n📏 <b>Range attendu aujourd'hui : ~106$</b> (ATR 115$ × profil du mardi)\nDéjà fait en Asie : 58$ (55% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3770.3 | R1 3710.8 | <b>Pivot 3631.6</b> | S1 3572.1 | S2 3492.9\nVeille : PDH 3691.0 / PDL 3552.3  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le mardi, l'or a fini en hausse <b>56%</b> du temps (311 jours, ~6.0 ans)\n• Hier : +3.87% → après une veille en FORTE HAUSSE, l'or a monté le lendemain <b>50%</b> du temps (242 cas)\n🕐 Le mardi, plus HAUT du jour souvent vers 22h (12%), 2h (9%) · plus BAS vers 0h (12%), 16h (11%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : +59.0$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — ventes sur rebond</b>\nZone de vente : Pivot 3632 → R1 3711\nObjectifs : S1 3572 → PDL 3552 → S2 3493\n❌ Invalidation : clôture H1 au-dessus de R1 3711\n\n🔁 <b>Alternatif</b> : cassure de R1 → achat vers PDH 3691 → R2 3770\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
@@ -9044,16 +9054,6 @@
    "ts": "2026-11-23T14:01:58.611529+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 5.4570 → prix : <b>5.4555</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.61 | 60j 0.5"
-  },
-  {
-   "ts": "2026-11-23T14:01:57.686295+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas sur 20 JOURS\nNiveau : 81.55 → prix : <b>81.09</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.58 | 60j -0.34"
-  },
-  {
-   "ts": "2026-11-23T14:01:56.765836+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Pétrole WTI</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 81.55 → prix : <b>81.09</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j -0.58 | 60j -0.34"
   }
  ],
  "daily_forecast": {
