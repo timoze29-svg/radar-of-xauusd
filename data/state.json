@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795514478.478139,
+   "ts": 1795518954.6580508,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -946,15 +946,6 @@
   }
  },
  "seen_news": [
-  "91e998864e94",
-  "8b27bac42824",
-  "fba48eb4edc2",
-  "1735df1a5581",
-  "d091f674a095",
-  "53dc1eb0c82f",
-  "f3fb2bb6daf2",
-  "16c9a7526553",
-  "942e4681f6bd",
   "66c98683b0ca",
   "015b0ad290e6",
   "f5a19daa4063",
@@ -3945,7 +3936,16 @@
   "bf474df73d6e",
   "48f09f35d217",
   "40822bffef0d",
-  "f292d291027d"
+  "f292d291027d",
+  "d4a9a7167fae",
+  "1d60b982f954",
+  "f258e95aa2ae",
+  "b5153040aa76",
+  "dfe8caa1a774",
+  "971a831ac9e3",
+  "becc05ea5c3f",
+  "be8be2274e20",
+  "febe8af2de14"
  ],
  "news": [
   {
@@ -3970,6 +3970,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Bessent Warns Fed Overtightening Could Threaten US Economy Amid December Rate Hike Debate",
+   "source": "KuCoin",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YaHRSTDFRVkFzdTRWVFNrZEVGbVRINUo0QVVkMXpnSUhZRjN6RzNCWVdPWmU4VGtyZ29SRkwtLVZxNFAwZ056NmJfaTRzeGJ6N0tPY2VNS1QwMmZWVHZucGhwRXBpcS1fNXc?oc=5",
+   "published": "2026-11-24T10:23:58+00:00",
+   "id": "b5153040aa76",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6335,22 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage",
-   "source": "Reuters",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",
-   "published": "2026-11-23T07:00:00+00:00",
-   "id": "173e7a225ef8",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "brk|USDJPY|pwh|up|2026-11-02/2026-11-08": 1793704673.4613776,
   "news|3f6a0b5504e1": 1793705485.133858,
   "news|771f7f0a561d": 1793705486.0946546,
   "news|6989d3e0b529": 1793705487.0657835,
@@ -8265,7 +8264,8 @@
   "news|1d2e7fa43355": 1795516288.845462,
   "news|319a5a1e747a": 1795517414.1121898,
   "news|bbe01503e1bf": 1795517415.0010898,
-  "news|48f09f35d217": 1795518106.223075
+  "news|48f09f35d217": 1795518106.223075,
+  "news|b5153040aa76": 1795519192.338097
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8753,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T11:19:52.338188+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Bessent Warns Fed Overtightening Could Threaten US Economy Amid December Rate Hike Debate</b>\n📰 KuCoin · Mar 24/11 11:23\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1YaHRSTDFRVkFzdTRWVFNrZEVGbVRINUo0QVVkMXpnSUhZRjN6RzNCWVdPWmU4VGtyZ29SRkwtLVZxNFAwZ056NmJfaTRzeGJ6N0tPY2VNS1QwMmZWVHZucGhwRXBpcS1fNXc?oc=5"
+  },
+  {
    "ts": "2026-11-24T11:01:46.223174+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>3 Republicans break with Trump in US Senate vote to block war in Iran</b>\n📰 News From The States · Mar 24/11 09:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPbWV1cTZrcFlSa3NvZ3l0c0NsT3czem8xNjJEZFhSN1BnWEU5QlJXM0Uwd3hNd19RT0JqaWVyVTB6WmF0V0VGYlpGN01KWVI5Y1I0UU91OTUta3FvN0R1Nm9KdEVXTzdFaS1NY1BtdTVCbS10aUlZSmg3cG1JZDZVc3hHdThXeGhJc0ZTVGUxY2lOWXNKWHdiZzQ3UlRiQQ?oc=5"
@@ -9046,11 +9051,6 @@
    "ts": "2026-11-23T19:31:41.745878+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel’s leading contender for prime minister clashes with Netanyahu over Iran strikes</b>\n📰 Fox News · Lun 23/11 19:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQldMRm82QldpSzdqVFZhU1lzZmJsdVFTQlc4OEhXSFEtcEtXa3UyUXFhcVFKZ0c1TzNvMFpsa0s1YmFtTWIwNUZGRFRub0NpMzdJQ2NMMFlCcFc3NGdtbFZ2ZDJWMll1Yy1DZi1ITVdvb194MzItNzB3OFFhMExiS3J6cjdvMXFoTlRUai16S2IzNXZjbXUxSzVDdDVTMjh6bTNJMHkyNmd4d9IBrwFBVV95cUxPNzVPY2VfaXRDZkt0Q2M2NUktdzNXcGdZV054VkR5T09rS0x3aUlucGtjelVxbHpsYjd0RGNtbGFMOENEZk1remV2MUwyOGFIX2FqMGFKY20xSklVYU8zZmxDRzlJLWwxNkpRWk02TzdDalNlY1hCcnc2NEV4V3lBU2JNNkM2SHBJc082bm5lNWowcnBUR01LYTF5ZzhyN2lsTS1NOUllLXc2X0NJSGlF?oc=5"
-  },
-  {
-   "ts": "2026-11-23T18:31:44.771618+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes</b>\n📰 Bloomberg.com · Lun 23/11 15:22\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5"
   }
  ],
  "daily_forecast": {
