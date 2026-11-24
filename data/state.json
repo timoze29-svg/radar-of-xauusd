@@ -946,37 +946,6 @@
   }
  },
  "seen_news": [
-  "33cb429fc7b1",
-  "fc8fe78d9827",
-  "240256c99646",
-  "9c1461812140",
-  "00d906086789",
-  "6d0e28dbb0b2",
-  "f1de59d8fbfc",
-  "59d4cfe82fa0",
-  "fa69dca7255f",
-  "173fa6a68d83",
-  "6a7a59bedbd3",
-  "312b617d1c7d",
-  "f2fa338b6b22",
-  "ec85feb59875",
-  "265ff77f4966",
-  "dffcb5140f0f",
-  "f25a0b231835",
-  "df7185b65cd2",
-  "162902db3bd7",
-  "a3d7a6d26e4c",
-  "c970e72ca83f",
-  "874e16d0f830",
-  "e567fa949f21",
-  "127a91ae1ead",
-  "95a3d204d9e1",
-  "6859f12146ec",
-  "515a0cc640b0",
-  "6952520fc23d",
-  "daacaf3e2ff9",
-  "1ab75cbc3951",
-  "49b73f4f396e",
   "fda494687377",
   "20a1fa8c82ca",
   "b5424bac9e41",
@@ -3945,7 +3914,38 @@
   "d1e8225a595a",
   "fef3ab54d27f",
   "403fe3b42a4a",
-  "60964c94f912"
+  "60964c94f912",
+  "82c7f113208b",
+  "526db6d647d8",
+  "30f03f7b38d4",
+  "13867bf57e28",
+  "cdd515a8d26d",
+  "4b3a0ee92555",
+  "4ca86040c01a",
+  "5c716ae8a0f2",
+  "169927c908d3",
+  "e002f787e4b9",
+  "0dfa830cced9",
+  "25494cfdedc0",
+  "7929ad566b21",
+  "7e43411f6ae4",
+  "8dee42f3dd37",
+  "d221df789ff4",
+  "1199878e4e32",
+  "045af9a39bc9",
+  "c9b99575aabc",
+  "cfc5e59d4687",
+  "ed95e5be7736",
+  "48b61afc136d",
+  "687ab807031e",
+  "b3150654ac0f",
+  "e1684c7b4667",
+  "50e17f924dfb",
+  "6a79034916e2",
+  "bf5a989defef",
+  "7f9b40c828ae",
+  "ed2386f174fa",
+  "ce0b90039e77"
  ],
  "news": [
   {
@@ -3956,6 +3956,30 @@
    "published": "2026-11-24T07:47:50+00:00",
    "id": "4bfa6f990fed",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US recession fears rise as falling household wealth and market turmoil point to 25 % risk : Report",
+   "source": "greekherald.com",
+   "theme": "Géopolitique",
+   "link": "http://www.greekherald.com/news/279451643/us-recession-fears-rise-as-falling-household-wealth-and-market-turmoil-point-to-25-risk-report",
+   "published": "2026-11-24T07:45:00+00:00",
+   "id": "5c716ae8a0f2",
+   "impact": 5,
+   "cat": "emploi",
+   "raison": "haussier or (emploi)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Opinion : Geopolitics – Escalation Is the Base Case Now",
+   "source": "kyivpost.com",
+   "theme": "Géopolitique",
+   "link": "https://www.kyivpost.com/opinion/90996",
+   "published": "2026-11-24T07:45:00+00:00",
+   "id": "6a79034916e2",
+   "impact": 2,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4393,6 +4417,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Israeli opposition leader: No immediate threat justifies attack on Iran",
+   "source": "chinadailyhk",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNDdrZ0VfcGRVd2ZScTNhZ0VBWjVZeG9HWWNGWXhtN1pCQ0YyYVd2dkZlQlVFYkRYTzhHRld6UzlzOTFDUEhuUzlrbGJjZ2dvZzVQZjBZSXE?oc=5",
+   "published": "2026-11-24T02:08:18+00:00",
+   "id": "526db6d647d8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Canadian Dollar trades weakly against US Dollar, US PCE in focus",
    "source": "FXStreet",
    "theme": "Dollar",
@@ -4775,6 +4811,18 @@
    "cat": "géopolitique",
    "raison": "Rappel de la gravité du conflit en Ukraine, léger soutien refuge pour l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
+   "source": "WSJ",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
+   "published": "2026-11-23T21:15:00+00:00",
+   "id": "13867bf57e28",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
+   "method": "mots-clés"
   },
   {
    "title": "Russia warns of 'preventive nuclear attack' as Medvedev claims Ukraine, NATO crossed line",
@@ -6299,58 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Analysis • Netanyahu wants war, Eisenkot wants power. Trump hasn't made up his mind",
-   "source": "Haaretz",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR1BXX082dVRzaHRKWk9CR2JpZ2FUeTZKaFlBNW84cjNXRDJHSzlaTnNyZHpiUDhyVXJLYUVQcjIyWG5iR1pocHoyVDlSQTVaZy1OT0h2TWxQU0loWlFzczNGdm80QVRSdWZrcllPQ0xKLWtsTTRFb1dzc0pkakI5QlJJaEJvZHN0amtpSklWWERDUl9TaEdmeFFEdHpXSUZCYWFEcFlmWkRSZEFsN1c2VVhKRVhfekJYam5aZmZISDNPVFNJQzh4ZjYzOG5qeEhoQkphNHJmaHFkUnliSS02dlE4YlFIcnRsY1JwdjdKckh3ejliT2tNUFozMV9kN0xuZTRzSFIybDQzRnRTbElBNA?oc=5",
-   "published": "2026-11-23T04:55:00+00:00",
-   "id": "97407456bfc2",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold Falls as Hawkish Fed Expectations Lift the Dollar and U.S. Treasury Yields By Kedia Advisory",
-   "source": "Investing.com India",
-   "theme": "Dette US",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOU1wRTNsRDRsX3NBMDlxWkhuZXp1UWdsNmQtb3ZNYWNicUZJcW1nbVZhNnJZN1ZnRmk3Y00zVGpfLU1NbXJ4TmdZNVBXV1AyMFdKU185ZWsyaDlld052OERTS3FsZDNFSGFEeng0Z1pMaUQ1YzZVd01ON25acVVTcHY3am1ZRVplemZFYUFaWjhqY3IycUJIZ0FnbnhMRFAtcmliOW1lZTZsd2JYczBEcng1eHQ1X2FmMlNDN3FiRzhsNkFaUDdvcUJray0?oc=5",
-   "published": "2026-11-23T04:49:01+00:00",
-   "id": "0110649f6df1",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Today's gold price: UAE rates jump Dh8 a gram on haven rush",
-   "source": "Gulf News",
-   "theme": "Banques centr.",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmJ0VVhBTzEyNG1JSTFiMml3S2p6YWZTZGd5dFZyNG80ekNOWmotSnl0TUh5UEdleFdtOFpRc3lNZEV2N3JGUU9Ya2UwaFoxbU9ITG13Z3Z5NGxDY0VpVDVpVklRTEVIenFhZ1BBZXFPcmljR3NMS1hCTVpOZU9ROTZlRHFZRXNyNktlcVRjaUsyclBOMjBCaXhNYXRSTkRX0gGwAUFVX3lxTFBGOWQ3NFJxenpvenlfby04ZXFGYUtOWWlQMmhfT1BOeE5yYUtxVTNWczRmdmxIdl90cFlJMXprZTk3WHdEdEtRSDZmSHhncko1ZHVGemIzMFM1MWNfMWFucDNqaDBhcG9ydTMxamNpSl90OHBpUFlTVk5GY3JHRVFXRkhVZzEyUUdTOFd0LU93ZnZBUXBUSlpzZHo0OFhSazlpUVd6V3k3M1J3ems2bno5?oc=5",
-   "published": "2026-11-23T04:48:03+00:00",
-   "id": "c060bf077154",
-   "impact": 3,
-   "cat": "or",
-   "raison": "Forte demande physique et recherche de valeur refuge locale soutenant les cours.",
-   "method": "IA"
-  },
-  {
-   "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-   "source": "Al Jazeera",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWE2WjNzLUJMRy0yRDhTMGVvakRTUjZiQ0xjMVlqZ1ZMb0lqRlFyVDVtcUFsY240eGZlQnZVRzJoakdvSTQxTTE3Vzhhd3dIS1V2aFZyQTJLMXRncjVNYzk3U283UTl2VjdUcmx6bEs3M0dnSEVobGdNZk1Xc3VOYk9WN015MVY5MUdzOWxVc0w2ZmJkR0xZNGNNdHZLUlJVelpUMTBQSXRpM2IzaF9xMTFR0gG3AUFVX3lxTE8zMTdOSDhiMWhiMlBmek5HemxBU1RmMUdOajNYWVNmUk55NzdrRG95QkRTZkJMRzNaMWo4Q0VERmlaRXpubEZkQnNLVDdiaVhXS19mRnozN0xsYW9PV29iRmp1ZkFrbkJVaWFfRU5fUjF5X0cyN0diazNFb0U5UWJMWXpqQTllUlRWUUU5MEV2cGJzUlBvVUpOZ3JnOE1jbjVRLXE2c044WHhtRjJQaFZCbDhVUEhnRQ?oc=5",
-   "published": "2026-11-23T04:40:30+00:00",
-   "id": "a4c1ec379519",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Attaque tragique mais récurrente en Ukraine, prime de risque déjà largement intégrée.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|40096ed24f5a": 1793692904.6631763,
   "news|fb1e849ccd20": 1793696573.948372,
   "news|9d733a9685c0": 1793696574.840019,
   "brk|SILVER|pwh|dn|2026-11-02/2026-11-08": 1793696575.8725946,
@@ -8271,7 +8270,8 @@
   "news|b4e463e6c9e6": 1795504593.980851,
   "news|a3ef38546167": 1795505841.258059,
   "news|919a965b3c05": 1795506369.6998518,
-  "news|cb5a7725cf28": 1795506370.6180508
+  "news|cb5a7725cf28": 1795506370.6180508,
+  "news|526db6d647d8": 1795508531.293061
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8759,6 +8759,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T08:22:11.293146+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli opposition leader: No immediate threat justifies attack on Iran</b>\n📰 chinadailyhk · Mar 24/11 03:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNDdrZ0VfcGRVd2ZScTNhZ0VBWjVZeG9HWWNGWXhtN1pCQ0YyYVd2dkZlQlVFYkRYTzhHRld6UzlzOTFDUEhuUzlrbGJjZ2dvZzVQZjBZSXE?oc=5"
+  },
+  {
    "ts": "2026-11-24T07:46:10.618184+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar warns Middle East cannot afford renewed US-Iran escalation</b>\n📰 Ariana News · Mar 24/11 08:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFk2QnBfc0RGbzVwYmpZTGVDc3gtcGg5dzg1eVQyOXM4Qm9GaWxtT1FGSURlY212dENFMlM2dU9rWXpkYzE4WWxyRkVwWHNrR3Jsak1UaWpOT0xHMlVZeGhCUF9RSV9ldHJJY1BIcktDZTk4N3gxaVBVN3pCZjRtRUxmUkgwWE12N0E1SkpzTHdpLXJoZ3F2MlIxb9IBmwFBVV95cUxQVFk2QnBfc0RGbzVwYmpZTGVDc3gtcGg5dzg1eVQyOXM4Qm9GaWxtT1FGSURlY212dENFMlM2dU9rWXpkYzE4WWxyRkVwWHNrR3Jsak1UaWpOT0xHMlVZeGhCUF9RSV9ldHJJY1BIcktDZTk4N3gxaVBVN3pCZjRtRUxmUkgwWE12N0E1SkpzTHdpLXJoZ3F2MlIxbw?oc=5"
@@ -9052,11 +9057,6 @@
    "ts": "2026-11-23T15:16:15.361458+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran warns of retaliation if US forces attack, and other Mideast news</b>\n📰 Boston Herald · Lun 23/11 15:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnZTcWQxcE9CeEpvVVJvbkY2eGYxS2R0UDRCMzE1TUs0Z2hZX0thVmtQVDNydGFSYVlweE1nUFpGN1BsakV5M0dYR3hXNjA0MWV6eTlMTUNncWdoNGt6aUNQVTFObndTTU15bW9WZzg1ZDdHeEVJSXFZSXpxSEVGRnc2ZURWXzc3VHc?oc=5"
-  },
-  {
-   "ts": "2026-11-23T14:46:16.714356+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n+2.665 aujourd'hui = 1.6× l'ATR\n🥇 🟢 haussier pour l'or"
   }
  ],
  "daily_forecast": {
