@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "00df13ec7f51",
-  "0294f16a6d77",
-  "340b28a5192e",
-  "d2796e418e05",
-  "3c49a3ec039c",
-  "0710277071a5",
   "1b5520c0e580",
   "1086baf775eb",
   "a5c82436ad67",
@@ -3945,9 +3939,27 @@
   "53e1db82d076",
   "faab272e8698",
   "4c1030dc86d4",
-  "4e9ee18ec695"
+  "4e9ee18ec695",
+  "9f8e0bbf943a",
+  "893cc9aec25d",
+  "d7bb99ca0e26",
+  "79958949365d",
+  "35b26833612d",
+  "17a73e3f6143"
  ],
  "news": [
+  {
+   "title": "Trump administration debates targeting top Iranian leaders to end war: Report",
+   "source": "Anadolu Ajansı",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWpUdE91QzByd2hEQkhqZ0o2cXFCRm16eWh6WHQ5T0NzT2ZyVkx6a25RUkxTakNyQVUyMGFMdzhUUG8xT29CaWcwWTFnWkxsM3JwYzBHWWJOWGhtSm5UdzVwQ3JOSXBwQnFTLVNudURSOU96Tkd6d2toazdER3dtMHpzVXdfT3JWQmQwU1ZMVVJqTktsd1I0SXphcGVzS2Q3UV9Sb2lrS1RmeW0wQ0o2VVdSalU?oc=5",
+   "published": "2026-11-24T17:24:27+00:00",
+   "id": "d7bb99ca0e26",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda",
    "source": "Plastics News",
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "baissier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "What Smart Bomb Trap? Political Restraint in the Era of Precision Weapons",
-   "source": "Texas National Security Review",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTy1UOHAxU1IxUU1BcXo1QUFic1ViR0JKSldrWjJuZ0ZLUnBLcXhHMDFrNzA2TXdmQTUyNndIXzZNRHloN2h3Vnhrc2JsNS1pdkdrOG85YlpoODVDOEZ1Ny1PRmtBbngtdWVWOWJ0Z0FMejUwYUU4ZTN5RC1nWThRZHdpaFRTNV9XdU53cmE2WUNKQ2ZvcEg2dVYzaEE3VlU?oc=5",
-   "published": "2026-11-23T14:58:00+00:00",
-   "id": "db38d9b90ed4",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8264,7 +8264,8 @@
   "news|9b5425b523c7": 1795539706.9206705,
   "news|165b7e082d31": 1795540577.0903184,
   "news|53e1db82d076": 1795541215.2980263,
-  "news|4c1030dc86d4": 1795541216.23463
+  "news|4c1030dc86d4": 1795541216.23463,
+  "news|d7bb99ca0e26": 1795541496.8514376
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8752,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T17:31:36.851552+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration debates targeting top Iranian leaders to end war: Report</b>\n📰 Anadolu Ajansı · Mar 24/11 18:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWpUdE91QzByd2hEQkhqZ0o2cXFCRm16eWh6WHQ5T0NzT2ZyVkx6a25RUkxTakNyQVUyMGFMdzhUUG8xT29CaWcwWTFnWkxsM3JwYzBHWWJOWGhtSm5UdzVwQ3JOSXBwQnFTLVNudURSOU96Tkd6d2toazdER3dtMHpzVXdfT3JWQmQwU1ZMVVJqTktsd1I0SXphcGVzS2Q3UV9Sb2lrS1RmeW0wQ0o2VVdSalU?oc=5"
+  },
+  {
    "ts": "2026-11-24T17:26:56.234729+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold ticks lower on hawkish Fed bets, US inflation data in focus</b>\n📰 Reuters · Mar 24/11 01:57\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5"
@@ -9045,11 +9051,6 @@
    "ts": "2026-11-24T04:16:21.334534+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Leans Toward New Year Iran Strikes, Dares Tehran to Test U.S. Naval Blockade</b>\n📰 The SOFX Report · Mar 24/11 04:55\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0tmZk8zbjBPeHY2UFFLREhFU1hZeFR1NUFWbUZEN3lDMFhteGJHRjlSX1hXUWdzX3pZYXlmamVkdTlOSlR3VFc0QjVwUW5lQU9Qc1Zjelp0M3JWUGFfRHE1Zl9JNWRfTkFLOUh4XzlWWFpZZ1dsWXVCMS11aEhiS0JZMXZuUmRrR3Y1SVphMjdLRVgydk1jR19tZU96eEd1RkxQRA?oc=5"
-  },
-  {
-   "ts": "2026-11-24T03:47:54.406665+00:00",
-   "kind": "bias",
-   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+13), Dollar (DXY 5j) (-11)"
   }
  ],
  "daily_forecast": {
