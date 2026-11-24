@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "56ffaf6a2eb4",
-  "5b58855dcee1",
-  "5f490d7f41b8",
-  "32b6b51f5f36",
-  "2a419a0a474f",
   "b3aae26b896b",
   "2cc37cdd3a3f",
   "1ea4277d72b4",
@@ -3945,7 +3940,12 @@
   "87e79b77c63a",
   "e480a7ad1cc5",
   "f6cab7a735c7",
-  "f3e371b2cb3d"
+  "f3e371b2cb3d",
+  "06667def9e05",
+  "7c086d2349b6",
+  "c0de54e11fa0",
+  "51807337a734",
+  "59223bcdac4c"
  ],
  "news": [
   {
@@ -4223,6 +4223,18 @@
    "cat": "géopolitique",
    "raison": "Menaces de représailles russes et risques accrus sur l'approvisionnement énergétique mondial.",
    "method": "IA"
+  },
+  {
+   "title": "Israeli Officials Split Over Timing of Iran Strike",
+   "source": "JFeed",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaXRHOFBER19lZWZ1cFE3cGs2ZDM5ZDh4QzVlVnZBZXhYSEpOYkZrYll6cFdPS0hYWHJJM2lGc0pSY1pwbmpIM2UxRGdKUUxxSExaYnV6YUp6a3lfZUdRdUI3dVUwVG54RkZlTlZFVlVzNkpFOElOZE1PaVRMdw?oc=5",
+   "published": "2026-11-24T19:29:30+00:00",
+   "id": "7c086d2349b6",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump administration mulls targeted killings of Iranian leaders to end war – report",
@@ -6335,22 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump seeks another $100 bln in tariffs against China",
-   "source": "Yeni Safak English",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1ZkQTEwNWhuMV9vTEZFYm1NTzFsWHlBWnJWMTRsc3dvVUs1MzlicFk2RXNGNnVBMGQ5dU1mM1ZQQmN6ZnpaemNuZWFhN001MmVPamhlNWs4OS1sUDh4MlBsd0JpdkVjcXBaQU5IaWR6Y1NqUUxZYi1BbVRHdjBJak4teHRXcVQ5Z3loQ3lMWjVBZHBBZUE?oc=5",
-   "published": "2026-11-23T22:28:33+00:00",
-   "id": "31d837474399",
-   "impact": 3,
-   "cat": "commerce",
-   "raison": "Menaces tarifaires ravivant les craintes stagflationnistes et la demande de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|456626e20645": 1793746925.447448,
   "news|82ee686d6a3a": 1793750515.6187208,
   "news|40d131c744fe": 1793750516.4379213,
   "news|e03e137a7c32": 1793754096.6138432,
@@ -8272,7 +8271,8 @@
   "news|3cfec8439087": 1795559493.169919,
   "news|87e79b77c63a": 1795560366.5184534,
   "news|f6cab7a735c7": 1795561304.8222919,
-  "news|e480a7ad1cc5": 1795561308.5554676
+  "news|e480a7ad1cc5": 1795561308.5554676,
+  "news|7c086d2349b6": 1795562164.5434115
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8760,6 +8760,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T23:16:04.543499+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Officials Split Over Timing of Iran Strike</b>\n📰 JFeed · Mar 24/11 20:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaXRHOFBER19lZWZ1cFE3cGs2ZDM5ZDh4QzVlVnZBZXhYSEpOYkZrYll6cFdPS0hYWHJJM2lGc0pSY1pwbmpIM2UxRGdKUUxxSExaYnV6YUp6a3lfZUdRdUI3dVUwVG54RkZlTlZFVlVzNkpFOElOZE1PaVRMdw?oc=5"
+  },
+  {
    "ts": "2026-11-24T23:01:48.555604+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Latest news on the war in the Middle East. Iran: Strait of Hormuz virtually paralysed, 400 ships waiting. Houthis strike skyscraper in Riyadh</b>\n📰 Il Sole 24 ORE · Mar 24/11 22:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnV0LVNFbXRtX0hEZWdlSUtwSlRxVy1MOE5SMzJYVVRVYkRzQkZidklrcDRFQWt4TXlPeTgwWS1Ub0F3Mkl0R2VVQW9zbkY4blgxb2xiaWZXaWxRWGJna3lMR3QyOUQydWhQUVlub0dyOHpLUDIxUmpfT2F0MWphMzFhZXFDdDRhS0xzcXdsS1htbThlNnREV0hyaFVwM191cGpJR0NrcTFLZXR3T1ZpRmFSWGpsSEZEZVBnVW5ycw?oc=5"
@@ -9053,11 +9058,6 @@
    "ts": "2026-11-24T09:16:19.765689+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>NY Fed's Williams Says Prices Too High, Open to Back-to-Back Rate Hikes</b>\n📰 Seoul Economic Daily · Mar 24/11 09:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkZNc3dSQUg2cWdMeEpMUExwYTB1X0hHeENRRXdIcmJoWW9oWkpuMFdKX05KMjh5LUtjdVBuMHV0eWJvcGh0UXFWNHU1TnlTbUpfQUJiM2RJRXpSX2hmQWV6bVpFX2lsQzJLTlJvbnAyZTZDOWhwaktxT1BTR3NIYkc0MUxhWm5vQnRhRjhJVkV0WS1xUlBFdFJUb0NVV3c?oc=5"
-  },
-  {
-   "ts": "2026-11-24T08:52:28.746147+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall</b>\n📰 The Guardian · Mar 24/11 09:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5"
   }
  ],
  "daily_forecast": {
