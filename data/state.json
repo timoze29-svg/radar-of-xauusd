@@ -946,10 +946,6 @@
   }
  },
  "seen_news": [
-  "7d729ac43d38",
-  "b4def15c019d",
-  "d8766a4d2295",
-  "6f42042fea57",
   "b19795fd3c69",
   "809ce94f12ed",
   "d691cf738129",
@@ -3945,9 +3941,25 @@
   "d56c85703d6b",
   "72328a66674f",
   "553bb218011a",
-  "99d697e65de3"
+  "99d697e65de3",
+  "28d3a858d753",
+  "bd0bc83d3992",
+  "18be60c59ef3",
+  "bdc1392f1549"
  ],
  "news": [
+  {
+   "title": "US Democrats promise hearings on Trump’s tariffs and investment deals with Korea and others",
+   "source": "한겨레",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VanQwN0xtNjVyNEtPR00xVXBrQ1paZjVEekNIUnJrSjRPUUR3cVEza19rYmhSZFJsY01NRnVaVXl4UTFXUm5leHJHZ0tubW9XSHJlUTF5eHd1eW9LX21VMzVSM1BGWUo3M01DeDF0N3RBQWc2X2Z0NXUyRTk?oc=5",
+   "published": "2026-11-24T05:32:00+00:00",
+   "id": "18be60c59ef3",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Middle East cannot withstand renewed US-Iran escalation: PM",
    "source": "The Peninsula Qatar",
@@ -4163,6 +4175,18 @@
    "cat": "dollar",
    "raison": "Forte hausse du billet vert qui renchérit mécaniquement le coût de l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Middle East cannot afford further US-Iran escalation, Qatar warns",
+   "source": "www.tmgm.com",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPclpHYlRPNWNIbjNxaTdRZG9HaTBldXF0XzJpeW5jeUU4dWNIQU1pSHlrMlZSM2ZCLWN0bmxWVHJVdXZsVUZBUGt3d3VoSFRKTEI3QkhVUE9ueEt4RDREM0hJLUFZS3JxRWlvTkdhOWNiMWJCQXhRb01aY1Z6NWZkVnpYejhwTzVpdUdSci1tM1BXM0lud3dHbldWLVBId2NLenY1NGFWaTF6a3hfZG5reXRSQW0xY29mdi1BM0N6S1dUdmlUclVJM3Bn?oc=5",
+   "published": "2026-11-24T00:50:06+00:00",
+   "id": "bd0bc83d3992",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "IEA Declares First Oil Supply Surplus Since Iran War Began , Sending Crude Prices Down Nearly 4 %",
@@ -6323,34 +6347,9 @@
    "cat": "géopolitique",
    "raison": "Menaces de frappes différées maintenant une prime de risque modérée.",
    "method": "IA"
-  },
-  {
-   "title": "Resident of Japan island near Taiwan fears another war as China ties sour",
-   "source": "Japan Wire by Kyodo News",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tRXlXSmlIbmt0RHlxTXNRbkZzaEZsbmtNZ1B4RGhSV1RQaThkT0E3Qk10d1NyaFV5WDlsMHVHbG5kWUNMRk9CNEhfU1dOLXBuOUR3Tk1La05Mdw?oc=5",
-   "published": "2026-11-23T01:36:00+00:00",
-   "id": "3a030d507129",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Tensions sino-taïwanaises latentes, rappelant le risque géopolitique structurel en Asie.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil falls as robust Gulf exports offset Iran escalation, supply glut risks",
-   "source": "Investing.com Canada",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZW1sSnZsMGR3SDZHTURTR2NOcVdZVzlQYXdyYUtTVHlBcDJPV1RRclctSFJZaUpvbEozaVdad3dyS0tPd05HZWpiWWlnLXpXaDlZSGZMYXBSQVRGVmY2NFVOU2hGUm9UbXNvSjIzVFE5VlotaVJ3MVJ5QmE2TFFfQzFMbVQwRDNaRE1sUGJWMEhpS1BNUWFmazNERG5qU2Zxc1l5czY0M3NGRjdEenl4dG9iSFZvUWlFS1Z1ZTJzSmZQUzFock9n?oc=5",
-   "published": "2026-11-23T01:18:56+00:00",
-   "id": "58dbe8dd79a4",
-   "impact": -1,
-   "cat": "inflation",
-   "raison": "Baisse du pétrole diminuant les pressions inflationnistes, facteur légèrement baissier pour l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|ba502ade58c3": 1793684765.6588233,
   "news|69a29a57a0c4": 1793685704.7000556,
   "rep|daily|2026-11-03": 1793685707.1189797,
   "news|572d83550dca": 1793686564.5223734,
@@ -8269,7 +8268,8 @@
   "news|0ef152d2bac7": 1795493782.3382664,
   "news|0765860d2771": 1795496682.176533,
   "news|72328a66674f": 1795498287.8921068,
-  "news|553bb218011a": 1795498288.810471
+  "news|553bb218011a": 1795498288.810471,
+  "news|bd0bc83d3992": 1795499346.476785
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8757,6 +8757,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T05:49:06.476890+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East cannot afford further US-Iran escalation, Qatar warns</b>\n📰 www.tmgm.com · Mar 24/11 01:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPclpHYlRPNWNIbjNxaTdRZG9HaTBldXF0XzJpeW5jeUU4dWNIQU1pSHlrMlZSM2ZCLWN0bmxWVHJVdXZsVUZBUGt3d3VoSFRKTEI3QkhVUE9ueEt4RDREM0hJLUFZS3JxRWlvTkdhOWNiMWJCQXhRb01aY1Z6NWZkVnpYejhwTzVpdUdSci1tM1BXM0lud3dHbldWLVBId2NLenY1NGFWaTF6a3hfZG5reXRSQW0xY29mdi1BM0N6S1dUdmlUclVJM3Bn?oc=5"
+  },
+  {
    "ts": "2026-11-24T05:31:29.932385+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
@@ -9050,11 +9055,6 @@
    "ts": "2026-11-23T14:01:52.427009+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran vows 'every means' to counter US blockade of Hormuz after Trump threat</b>\n📰 Euronews.com · Lun 23/11 12:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNZERsTGg1S2ltaDZLdHdmVElHakxUQ01UWk5SaTdQUm5USUtYV3ZadWZkUHByM0lpckxTWXhqVy1sa2YyOXdhQ0VkRXljOTlwV0ZkRUhQTmQwSVYxX0YyTE1CWmxJWG5pZEpsblF6V3pGQlpOSEJFbFdaeHZyTl9fWVR1YjFGTEwxc1ViOG1tVkhIcVV4SWM1YWhCUGt1ZmxDTzhsTXh2Wnd5WmdxUHc?oc=5"
-  },
-  {
-   "ts": "2026-11-23T13:46:05.130741+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel unlikely to strike Iran without US backing, despite fears Netanyahu may act alone - report</b>\n📰 The Jerusalem Post · Lun 23/11 13:48\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYW5tek41cmt3bGg5LXlpRWZBY2xlYmFhbDJUY0R4bmY3ZUZHZUxVdHZsejNvUEtXZGNMWkRvSkRKZF9jTXItM1BrNHpEQm16OXVOWmZqc2dzenQ5b0xaY2hscjdDVzFMV2c?oc=5"
   }
  ],
  "daily_forecast": {
