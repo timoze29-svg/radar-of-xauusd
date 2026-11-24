@@ -946,11 +946,6 @@
   }
  },
  "seen_news": [
-  "8aacc9347492",
-  "6475c6e2c7a4",
-  "5704b6f42be4",
-  "d4c729b36f55",
-  "19afb9de6056",
   "00df13ec7f51",
   "0294f16a6d77",
   "340b28a5192e",
@@ -3945,7 +3940,12 @@
   "2ab4bd2a4f75",
   "bf1cf0162b29",
   "5f0de396e3e6",
-  "c3341e91069f"
+  "c3341e91069f",
+  "b071c3de9137",
+  "53e1db82d076",
+  "faab272e8698",
+  "4c1030dc86d4",
+  "4e9ee18ec695"
  ],
  "news": [
   {
@@ -4006,6 +4006,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "President Trump considers resuming Iran strikes in 2027",
+   "source": "FOX 13 Seattle",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TUkkwTTJtX2tqempEYi1JRGxIaFd3ZmNZWWZLQnlaU2E5MUxHMUNWV2hDdkIwY1gxbjdpcUZueHBKeWgtQ1FFXzVtTlhjYVM0aFpJZGlnbmRVT2Vxbm9RWmo5WlEtd9IBa0FVX3lxTE5WSWRTWDJHS1dOMTZGbVRzdS1HNkNmaHk0cVpobFd6YmQtVTR3ZjY2RWFPbkFSdk15a0x0NlF1Z2tBMHN3YTVFX3p1ZGREZzJiWkctSGdXLVdjcEZObEJCdnlsOFExa0JwdXdz?oc=5",
+   "published": "2026-11-24T16:25:24+00:00",
+   "id": "53e1db82d076",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -5521,6 +5533,18 @@
    "method": "IA"
   },
   {
+   "title": "Gold ticks lower on hawkish Fed bets, US inflation data in focus",
+   "source": "Reuters",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
+   "published": "2026-11-24T00:57:00+00:00",
+   "id": "4c1030dc86d4",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Today's USD exchange rate (November 24): The US dollar rises sharply.",
    "source": "Vietnam.vn",
    "theme": "Dollar",
@@ -6323,35 +6347,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran warns of retaliation if US forces attack, and other Mideast news",
-   "source": "Boston Herald",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnZTcWQxcE9CeEpvVVJvbkY2eGYxS2R0UDRCMzE1TUs0Z2hZX0thVmtQVDNydGFSYVlweE1nUFpGN1BsakV5M0dYR3hXNjA0MWV6eTlMTUNncWdoNGt6aUNQVTFObndTTU15bW9WZzg1ZDdHeEVJSXFZSXpxSEVGRnc2ZURWXzc3VHc?oc=5",
-   "published": "2026-11-23T14:37:48+00:00",
-   "id": "da6f59fe596c",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Iran seeks $290 billion in damages from the US over sanctions and military strikes",
-   "source": "The New Indian Express",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZEFIRjRudjJYeUwwSnVqUHhSRUN5T2hMLTc2V2RMZXNpVmRlSWJXTmNjNF9ZeEJjNDJGYVVaRWZKRVZRRnRWTG91VklBQXBmRnliOXZqVHI3SXlPb0tFMlMwNjdKTDNJZnlVZTJiWmd5c2w2UXBiTmx6Nzc0ZmRZWEJ1a053YnhXQmJKNVhyQ29PZEFrOFloZnE1Y3dQQ2lPZDBtX1hQZVdaWWt2QmlOX3R2a202YmluX0xXQWZGYVl2aWtIM1U2dFBYU3HSAdoBQVVfeXFMUFExZXV5NVJmZG9iZkZ6cllGS0d1MlhrYzhPV0UyMmxMQ0FfZ2kyZUUweFY1U0pTTnFidFZON1RTMHFCSldXbXZqU2JTd2Jxcm42WU5jVnZkeHYyWGFVVlFqSFJJMDNDMHNaejUwWV9la1JTU3V6NGVSOEFiT2daMTd1OGI1bXIxbVlnUXUzbG5tVVBma3U5MWQ2UDE2UVV1aUIwenlRZXN6c2FuTHBWSUJLTjJqMzlxMXhoTXBjb040WVVmZ0t2RDdjY3ZSbWFlZUQyMEc1QXd5NWc?oc=5",
-   "published": "2026-11-23T14:33:08+00:00",
-   "id": "b8d37618b234",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|b324a81129e3": 1793726180.9626539,
-  "news|4d90a38a8fc6": 1793726181.9005811,
   "news|76e8ff4c24fe": 1793727664.2253213,
   "news|7e7f2b5a7bb5": 1793729784.9144561,
   "news|3d018018a44b": 1793732514.7672775,
@@ -8264,7 +8262,9 @@
   "news|af6fa85d4d92": 1795538773.82754,
   "burst|Tarifs douaniers|166253": 1795538774.9859152,
   "news|9b5425b523c7": 1795539706.9206705,
-  "news|165b7e082d31": 1795540577.0903184
+  "news|165b7e082d31": 1795540577.0903184,
+  "news|53e1db82d076": 1795541215.2980263,
+  "news|4c1030dc86d4": 1795541216.23463
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8752,6 +8752,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T17:26:56.234729+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold ticks lower on hawkish Fed bets, US inflation data in focus</b>\n📰 Reuters · Mar 24/11 01:57\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5"
+  },
+  {
+   "ts": "2026-11-24T17:26:55.298094+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump considers resuming Iran strikes in 2027</b>\n📰 FOX 13 Seattle · Mar 24/11 17:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TUkkwTTJtX2tqempEYi1JRGxIaFd3ZmNZWWZLQnlaU2E5MUxHMUNWV2hDdkIwY1gxbjdpcUZueHBKeWgtQ1FFXzVtTlhjYVM0aFpJZGlnbmRVT2Vxbm9RWmo5WlEtd9IBa0FVX3lxTE5WSWRTWDJHS1dOMTZGbVRzdS1HNkNmaHk0cVpobFd6YmQtVTR3ZjY2RWFPbkFSdk15a0x0NlF1Z2tBMHN3YTVFX3p1ZGREZzJiWkctSGdXLVdjcEZObEJCdnlsOFExa0JwdXdz?oc=5"
+  },
+  {
    "ts": "2026-11-24T17:16:17.090476+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Katz urges preemptive strike on Iran over chemical weapons threat</b>\n📰 The Jerusalem Post · Mar 24/11 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE4tQmJaZVg0UEd1T0VkTGU2RWxIcFpGM1Rod2IzVDZNR0g4SE4tSFdzWnVleGh0YUNEVkRybHUyVHVwRkNEYmwweG80YmxiRWplcENaSG1idURMSzEzTllXUXVac1J5a0trai16WmhB?oc=5"
@@ -9040,16 +9050,6 @@
    "ts": "2026-11-24T03:47:54.406665+00:00",
    "kind": "bias",
    "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+13), Dollar (DXY 5j) (-11)"
-  },
-  {
-   "ts": "2026-11-24T03:47:51.480587+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Severe explosions , fire : Iran claims 3 oil tankers struck mines in Strait of Hormuz</b>\n📰 timesofindia.indiatimes.com · Mar 24/11 04:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://timesofindia.indiatimes.com/world/middle-east/severe-explosions-fires-iran-claims-3-oil-tankers-struck-mines-in-strait-of-hormuz/articleshow/136117458.cms"
-  },
-  {
-   "ts": "2026-11-24T03:16:10.416037+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ex-Mossad chief: Israel must go to war against Iran ‘as soon as all conditions allow’</b>\n📰 The Times of Israel · Lun 23/11 12:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQQW1lNE85X2RXWFl6LXlhcnFfYWV3R1pWZnZ5UFVPaWVrTy04MFIyRndvS1RKYUZxTlVNekRfcUlqeE83T2h5Y2I2RWJSUkkybnliUDNwQ0RkYU54VnE4cHNhZHB6TGE2M3hkN05panQtVEF2MERHNjg1Sjk1allic05razJYNGNzYW1vdkl4SzFSZ29pTzRkM0ZYRkhzZzDSAaQBQVVfeXFMTWo5MEtXSHpmV0VaWUVjUTdUd0tRNGl6eG9KUDJLVTJuMmZtQUxqcVVmaGUzLWRna3BETllzajUxbkhTVGdqNEJvUnZGUWpKbEFwWDY1NThNX2E1bUhGdVQzQXQxdFZvLTc2d0lPM0YyX2NOWlNKRzRCeW1nS1A1dTBZWEhDY0xzNWJ2dlpYQW9MMElxbEpWNzd2WmhrZ19MTXY3c18?oc=5"
   }
  ],
  "daily_forecast": {
