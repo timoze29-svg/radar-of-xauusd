@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795463150.6508274,
+   "ts": 1795485673.6568298,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.88,
-     "date": "2026-11-19",
-     "chg5": 0.02,
-     "chg20": 0.12,
+     "last": 2.77,
+     "date": "2026-11-20",
+     "chg5": -0.14,
+     "chg20": 0.13,
      "hist": [
-      2.07,
       2.07,
       2.07,
       2.11,
@@ -129,18 +128,18 @@
       2.92,
       2.89,
       2.88,
-      2.88
+      2.88,
+      2.77
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.15,
-     "date": "2026-11-20",
-     "chg5": -0.09,
-     "chg20": -0.17,
+     "last": 2.13,
+     "date": "2026-11-23",
+     "chg5": -0.07,
+     "chg20": -0.21,
      "hist": [
-      2.4,
       2.39,
       2.38,
       2.36,
@@ -259,18 +258,18 @@
       2.21,
       2.19,
       2.16,
-      2.15
+      2.15,
+      2.13
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
-     "last": 4.76,
-     "date": "2026-11-19",
-     "chg5": -0.1,
-     "chg20": -0.05,
+     "last": 4.63,
+     "date": "2026-11-20",
+     "chg5": -0.25,
+     "chg20": -0.02,
      "hist": [
-      3.98,
       4.05,
       4.05,
       4.08,
@@ -389,14 +388,15 @@
       4.83,
       4.8,
       4.8,
-      4.76
+      4.76,
+      4.63
      ],
      "gold_rel": -1
     },
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-19",
+     "date": "2026-11-20",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -455,7 +455,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795482070.431824,
+   "ts": 1795485673.7293544,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -946,8 +946,6 @@
   }
  },
  "seen_news": [
-  "5c1ab55485bd",
-  "ea03a1fd8b89",
   "71e9798de65c",
   "ceba6cfcdcdc",
   "93b32eb02b1c",
@@ -3945,9 +3943,23 @@
   "d02be36ec705",
   "b6a053f1344f",
   "7b662e9d8605",
-  "1dfcc8dbff9c"
+  "1dfcc8dbff9c",
+  "73a956b27783",
+  "0acb1db3b2b4"
  ],
  "news": [
+  {
+   "title": "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace",
+   "source": "investingLive",
+   "theme": "Banques centr.",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmNlQ1pidDQtTDRwR1ZOa1hlVjF4NjRCN3hZN3JhMFByZ0pyVjF0LWYyX2xiZ0FBcE1Ib2c3WDFIUk1mWnF4Z1ZJWVVLVE5VclNwQ2tuRUY4TXZLTHowaV9IVFV5RFpSOURNdzBwbk5GUTZDNUFZZnJSam9kREptMWwzck5hdGVnRlJHWU1FSzlWOHRvbERXeXhaNDdEdHlZMWZTN25WMUw0REdFTVdCR1JMY08wTm1wY2JpZDF3?oc=5",
+   "published": "2026-11-24T01:36:32+00:00",
+   "id": "0acb1db3b2b4",
+   "impact": 0,
+   "cat": "autre",
+   "raison": "aucun déclencheur",
+   "method": "mots-clés"
+  },
   {
    "title": "Vance and Rubio meet with Qatari PM as uncertainty mounts over Trump’s intentions with Iran",
    "source": "KTAR News 92.3 FM",
@@ -4054,18 +4066,6 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Democratic Rep . Jimmy Gomez resigns after Ethics panel finds evidence of sexual misconduct",
-   "source": "lancasteronline.com",
-   "theme": "Géopolitique",
-   "link": "https://lancasteronline.com/news/politics/democratic-rep-jimmy-gomez-resigns-after-ethics-panel-finds-evidence-of-sexual-misconduct/article_af0d7423-8aab-5204-a79d-a887d35ec95e.html",
-   "published": "2026-11-24T00:30:00+00:00",
-   "id": "caebe5fefa19",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
    "method": "mots-clés"
   },
   {
