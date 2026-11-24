@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795498265.4515407,
+   "ts": 1795502744.7342196,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -946,18 +946,6 @@
   }
  },
  "seen_news": [
-  "cb555930307d",
-  "a110ba43ae5d",
-  "e4e2b5c7e8e2",
-  "0284fdb79000",
-  "1119cbf12bad",
-  "564e5196362a",
-  "896b1dd4a6ec",
-  "d6222c178ae4",
-  "7c9c0cb0fec9",
-  "9aa28e2fc308",
-  "56e481135f6c",
-  "511a60fb0995",
   "48bba90a461e",
   "8fd1e6c6fc00",
   "d675164632f8",
@@ -3945,7 +3933,19 @@
   "c10bda0973cb",
   "7f1fe79e15e0",
   "dc077d36d60b",
-  "fea170c9b304"
+  "fea170c9b304",
+  "38cfd0afde8d",
+  "dca168f32700",
+  "1ddeaa6cc303",
+  "6d271cf3e292",
+  "201e59b7612a",
+  "0334b183cc86",
+  "1fa69b723e4b",
+  "238274f9da0b",
+  "f5b6b0a484aa",
+  "adcb2c248930",
+  "36d01f01dc0a",
+  "e894cbe04c38"
  ],
  "news": [
   {
@@ -3982,6 +3982,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hegseth stalls delivery of 60 Patriot interceptors bought by Ukraine's allies as Russian strikes intensify - report",
+   "source": "i24NEWS",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZkVJeTdHUF9vRk94cm1Ocm5fTk0xeUJ3YW5lUzU2VVJnVV9ZTHNsQ1dNWFJudVZDNk1Tai1oeW5WUWl2azZPT2h5YVNFNnNkdzgxMnJ3cWMxVDRYeFo2MjJfLUsxbWJMQjVrcGM1cG55YnotU0xFM3R3LWs3SlR0aEt6UzEzVDRLWGtnVlJTcGFFS1BacXhCZ1ozeVJUYjY0XzV0SGV5TzFqX0c2RVRFdk1KZG9mRXBMenpSZ3Q3OTdXbmdmYU5QVXZlQ3EyS0I1NW9OQ2FYS05VNDl6cVNrTzZIT0ZwbkhadkczZUgyNjRDSmQ4bFpMN0Y5VnhTQlB5WWRsRzU0Y1YwYk1keE9V?oc=5",
+   "published": "2026-11-24T05:30:00+00:00",
+   "id": "dca168f32700",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6335,18 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Frappes reportées à court terme mais le risque d'escalade reste latent.",
    "method": "IA"
-  },
-  {
-   "title": "Democrats Win Both Chambers of Congress, Plan Sweeping Review of Trump's Tariffs and Tax Cuts",
-   "source": "BigGo Finance",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4Ml9abUQ2XzMzZmVkeFFmR0YxdGhjaTVQSFlWS3FyZTBqZVZ5N01RZE1RQi1ZWE1JZ056LTRkMG5KWHhrOE9IbF9SeGlxUHlFc1JnZjFJRDVRQjZOUUlzb3VDRlhxMUE0WjRZUFZDVGZaYWxVTXc?oc=5",
-   "published": "2026-11-23T02:55:00+00:00",
-   "id": "687ead8d614c",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Remise en cause des tarifs douaniers réduisant les anticipations d'inflation importée.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8270,7 +8270,7 @@
   "news|1ee628e2a27f": 1795500971.180099,
   "news|a497c0f528a9": 1795500971.9592338
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-14": {
@@ -8756,6 +8756,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T06:46:12.744421+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
+  },
+  {
    "ts": "2026-11-24T06:16:11.959370+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The World Is Underpricing the Risk of More War in Iran</b>\n📰 Bloomberg.com · Mar 24/11 06:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDlDRW0teFE3cHprZUY1clo0bjRCck5QZUJNY3hERFpsS1ZBWEJhRnV5ZWUxb1NYQzhVcWtDalBuV0ZzVDRvM193MG80bkRWUG1SWmVnRGVaQ1pCeGtUT2JkMWtram03WGhoWlQwRlBjbXNIa2JMTTE5YVdNUTRTWnRRbG0tZ0RqTDRWOFpyWnYtTmVZUTQ5Z1pkOGg?oc=5"
@@ -9049,11 +9054,6 @@
    "ts": "2026-11-23T14:01:59.513441+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas sur 20 JOURS\nNiveau : 5.4570 → prix : <b>5.4555</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.61 | 60j 0.5"
-  },
-  {
-   "ts": "2026-11-23T14:01:58.611529+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Cuivre</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 5.4570 → prix : <b>5.4555</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.61 | 60j 0.5"
   }
  ],
  "daily_forecast": {
