@@ -749,19 +749,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1795491091.0083504,
+   "ts": 1795563975.747802,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 115,
+      "n": 116,
       "high": [
        [
         0,
-        14.8
+        15.5
        ],
        [
         15,
-        10.4
+        10.3
        ],
        [
         22,
@@ -771,77 +771,77 @@
       "low": [
        [
         0,
-        20.0
+        19.8
        ],
        [
         2,
-        11.3
+        11.2
        ],
        [
         16,
-        10.4
+        10.3
        ]
       ]
      },
      "1": {
-      "n": 121,
+      "n": 123,
       "high": [
        [
         22,
-        12.4
+        12.2
        ],
        [
         2,
-        9.1
+        9.8
        ],
        [
-        0,
-        9.1
+        14,
+        8.9
        ]
       ],
       "low": [
        [
         0,
-        11.6
+        11.4
        ],
        [
         16,
-        10.7
+        10.6
        ],
        [
         2,
-        8.3
+        8.9
        ]
       ]
      },
      "2": {
-      "n": 120,
+      "n": 121,
       "high": [
        [
         16,
-        11.7
+        11.6
        ],
        [
         2,
-        10.8
+        10.7
        ],
        [
         21,
-        6.7
+        6.6
        ]
       ],
       "low": [
        [
         0,
-        13.3
+        13.2
        ],
        [
         14,
-        7.5
+        7.4
        ],
        [
         21,
-        7.5
+        7.4
        ]
       ]
      },
@@ -885,7 +885,7 @@
        ],
        [
         0,
-        12.7
+        11.9
        ],
        [
         17,
@@ -899,25 +899,25 @@
        ],
        [
         15,
-        8.5
+        7.6
        ],
        [
-        14,
-        6.8
+        16,
+        7.6
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5946,
+     "n_hours": 5974,
      "horizon_h": 2,
-     "base_gold_up": 53.0,
-     "base_dxy_down": 47.9,
+     "base_gold_up": 52.8,
+     "base_dxy_down": 47.8,
      "down": {
       "3": {
-       "n": 245,
-       "p_dxy": 51.4,
-       "p_gold": 55.5,
+       "n": 246,
+       "p_dxy": 51.2,
+       "p_gold": 55.3,
        "gold_avg": 1.3
       },
       "4": {
@@ -929,15 +929,15 @@
      },
      "up": {
       "3": {
-       "n": 266,
-       "p_dxy": 55.3,
-       "p_gold": 48.9,
-       "gold_avg": -0.8
+       "n": 269,
+       "p_dxy": 55.4,
+       "p_gold": 48.7,
+       "gold_avg": -0.7
       },
       "4": {
-       "n": 75,
-       "p_dxy": 57.3,
-       "p_gold": 50.7,
+       "n": 76,
+       "p_dxy": 57.9,
+       "p_gold": 51.3,
        "gold_avg": 0.1
       }
      }
@@ -946,13 +946,6 @@
   }
  },
  "seen_news": [
-  "c811909ad2bf",
-  "d4a6da0fd157",
-  "4284b1c87ee3",
-  "6c6d8b5cf52b",
-  "b9339b958b6a",
-  "2915856807cb",
-  "187b3f98fbbd",
   "ebaa58fe1d17",
   "4477c4dd3b83",
   "9130e484ad0b",
@@ -3945,9 +3938,40 @@
   "d1ab3dc88093",
   "b06539039524",
   "17580bf07783",
-  "acfb675e6fa6"
+  "acfb675e6fa6",
+  "104affdb6b24",
+  "bd6aeb6849b8",
+  "74a4ee5b229e",
+  "fdf53836775e",
+  "468dfe3c9948",
+  "7ed38dcf8025",
+  "d94544b26cf9"
  ],
  "news": [
+  {
+   "title": "Trump administration's new tariffs ignore midterm lessons | Opinion",
+   "source": "The Detroit News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalBRMG1OQWtycXA3SWhVYlN4Mnc4VGRudm1DTk5zTTJLQnFaZ0k3ZHEwZkEwTlY0ZVFwb293clBkUDU0bGRMVk85ZW51NnVZMTU4LVFlMlpKczBZMExCUFRqNlJQank3WEJFUmhRYlAxUnBpTjhIX1d6azE0MHNpd0h4WndnU0JZeDNIUWFnTVc2b1ZPOWVEdWVjbjJadkFrN1ZTNTNHY0YzaktreHZPWnBYLXZOLXQwTEx6dXoxZ0ktY1hZWG5MaVJR?oc=5",
+   "published": "2026-11-24T23:24:00+00:00",
+   "id": "74a4ee5b229e",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel Katz Says IDF Must Block Iran’s Chemical Weapons Development Before Any Attack: 22 outlets compared",
+   "source": "NewsCord",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ05RX3cwM0dVUEJkMF9salRuWW02WTVFdDVUanl2MGJtbXdZNmhjanpmc0NxSjYtblBtbFpxYURhRHZzclI3bjBtcnNZR21UVC1FTmFQdTBiUHRBWUs2dGxESXFyQmRuN2xlcmhVZFVteW55ZUJVSFEzZWI3dTFLUjVNbm9Qd2RXdkdveURoR1FiOU1FcFRuNzlKVXRwREdMMDVQMVQzczVuWE81dTcxMnVLTXFhRkNuWWZ5eTY1ZGVnZGZMUHdFbnBYMmlMak0?oc=5",
+   "published": "2026-11-24T23:21:43+00:00",
+   "id": "bd6aeb6849b8",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "The price of escalation: Iran and the Middle East’s economic future",
    "source": "The Pioneer",
@@ -4030,6 +4054,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "November CPI could hit 0%, challenging Fed rate hike plans",
+   "source": "Investorsobserver",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFZFSndkdGF3ajZGZTJLdlYwTVFiVWhXcWh3TXJHMTU5R2RNajhhU01nYjl3SDhzQlIyZG40T2d2T1h3UlZoMzFxQUx6TDJsMllITXVkVENfNC1vMmJqTFd1YXdPaUNYc0FVS2htRXpmZUl3akRwVXdFd2MzZG44MXo0cFhZakRkYmVITklKY0FPVHBnLTdN?oc=5",
+   "published": "2026-11-24T21:43:35+00:00",
+   "id": "468dfe3c9948",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6311,42 +6347,6 @@
    "cat": "géopolitique",
    "raison": "Désaccord de l'armée israélienne retardant l'escalade, léger reflux de prime de risque.",
    "method": "IA"
-  },
-  {
-   "title": "The countries fighting back against Trump's tariff tirade",
-   "source": "DW.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
-   "published": "2026-11-23T22:58:13+00:00",
-   "id": "97a6adfca6f0",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Qatar seeks to revive US-Iran talks as Doha warns against escalation",
-   "source": "Middle East Online",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOai1mdXRzc3pDUlp3NnZic0lOVW9XYkhDdk1WUXZwUUthT19XeG0xM053THV4Wl9mNXoyRHhRUVRwZ3R1d09HZ1ZDMFRTM3dKbHM3TkM2NmFTWTliTnlRV0VQcF91ZjM5dzEtdFE3QUdVOGxNR3FsY2trOW5YMjgyZTNGYlQ1Y05ULUQtMjlXZVNNLVl2cFVpSUotbUU?oc=5",
-   "published": "2026-11-23T22:41:33+00:00",
-   "id": "87a072ca7cf5",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Effort diplomatique de désescalade apaisant modérément la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "US F - 35 fighter jet vanishes in Middle East as fresh Iran war fears grow",
-   "source": "dailyrecord.co.uk",
-   "theme": "Géopolitique",
-   "link": "https://www.dailyrecord.co.uk/news/uk-world-news/f-35-fighter-jet-vanishes-37908093",
-   "published": "2026-11-23T22:30:00+00:00",
-   "id": "b458c3493fbc",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Disparition d'un chasseur américain au Moyen-Orient exacerbant les craintes d'incident militaire.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8272,7 +8272,9 @@
   "news|87e79b77c63a": 1795560366.5184534,
   "news|f6cab7a735c7": 1795561304.8222919,
   "news|e480a7ad1cc5": 1795561308.5554676,
-  "news|7c086d2349b6": 1795562164.5434115
+  "news|7c086d2349b6": 1795562164.5434115,
+  "news|bd6aeb6849b8": 1795563969.2731533,
+  "news|468dfe3c9948": 1795563973.468505
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8760,6 +8762,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T23:46:13.468639+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>November CPI could hit 0%, challenging Fed rate hike plans</b>\n📰 Investorsobserver · Mar 24/11 22:43\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFZFSndkdGF3ajZGZTJLdlYwTVFiVWhXcWh3TXJHMTU5R2RNajhhU01nYjl3SDhzQlIyZG40T2d2T1h3UlZoMzFxQUx6TDJsMllITXVkVENfNC1vMmJqTFd1YXdPaUNYc0FVS2htRXpmZUl3akRwVXdFd2MzZG44MXo0cFhZakRkYmVITklKY0FPVHBnLTdN?oc=5"
+  },
+  {
+   "ts": "2026-11-24T23:46:09.273265+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Katz Says IDF Must Block Iran’s Chemical Weapons Development Before Any Attack: 22 outlets compared</b>\n📰 NewsCord · Mer 25/11 00:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ05RX3cwM0dVUEJkMF9salRuWW02WTVFdDVUanl2MGJtbXdZNmhjanpmc0NxSjYtblBtbFpxYURhRHZzclI3bjBtcnNZR21UVC1FTmFQdTBiUHRBWUs2dGxESXFyQmRuN2xlcmhVZFVteW55ZUJVSFEzZWI3dTFLUjVNbm9Qd2RXdkdveURoR1FiOU1FcFRuNzlKVXRwREdMMDVQMVQzczVuWE81dTcxMnVLTXFhRkNuWWZ5eTY1ZGVnZGZMUHdFbnBYMmlMak0?oc=5"
+  },
+  {
    "ts": "2026-11-24T23:16:04.543499+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Officials Split Over Timing of Iran Strike</b>\n📰 JFeed · Mar 24/11 20:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaXRHOFBER19lZWZ1cFE3cGs2ZDM5ZDh4QzVlVnZBZXhYSEpOYkZrYll6cFdPS0hYWHJJM2lGc0pSY1pwbmpIM2UxRGdKUUxxSExaYnV6YUp6a3lfZUdRdUI3dVUwVG54RkZlTlZFVlVzNkpFOElOZE1PaVRMdw?oc=5"
@@ -9048,16 +9060,6 @@
    "ts": "2026-11-24T10:50:14.112272+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Huckabee says Trump ready to strike Iran again if diplomacy fails</b>\n📰 The Times of Israel · Mar 24/11 11:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXZlLW1Xd2J3dV96aVV1ZXpnaUhsNS1vcTBuV0VEcWtROEJCZVZZTXNZdlphRDB6Vl9TeU45dFV0ZnhRbVNqUWdvT2J5T2g3X20tVDRlWndFMWlGdEg5czM2SEdqSHBKZVdwTGJwbjZfbEVIQW94TlVMTDNmcHBFWGR6dFVSaWJFcHdDNFVzR25Kc2hZWjVjaHFhZHlkaE9FbzlSckl1OTNPTmRvdnJzWQ?oc=5"
-  },
-  {
-   "ts": "2026-11-24T10:31:28.845552+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Qatar warns Middle East cannot afford another US-Iran escalation</b>\n📰 FXStreet · Mar 24/11 00:42\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUhDOEVnamlfeUk1LW1sRGs3R1puaHpXOFZxMVpBYU53T2p1cFVoTHQ0NEZqanFTUU5VcGloRGRMWXJYaXU5aDVHWTVFWmM2NlhMRWdKTnlQbU91ckVWeHZadTV3SklUa19JSUVDX0NaTlQ5VlNlaVhLam40clFwaC0zbm40SVpwcURmaFV6bVpBWWgtZS1Rdnh6RmRkaS1XVW1UU1BCSjJLUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-24T09:16:19.765689+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>NY Fed's Williams Says Prices Too High, Open to Back-to-Back Rate Hikes</b>\n📰 Seoul Economic Daily · Mar 24/11 09:39\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkZNc3dSQUg2cWdMeEpMUExwYTB1X0hHeENRRXdIcmJoWW9oWkpuMFdKX05KMjh5LUtjdVBuMHV0eWJvcGh0UXFWNHU1TnlTbUpfQUJiM2RJRXpSX2hmQWV6bVpFX2lsQzJLTlJvbnAyZTZDOWhwaktxT1BTR3NIYkc0MUxhWm5vQnRhRjhJVkV0WS1xUlBFdFJUb0NVV3c?oc=5"
   }
  ],
  "daily_forecast": {
