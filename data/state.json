@@ -946,12 +946,6 @@
   }
  },
  "seen_news": [
-  "9baa7fb9a3ad",
-  "8746be631571",
-  "08c4bd9975cf",
-  "013879f1c7bf",
-  "7bc7361ca40a",
-  "360a384ba957",
   "77a19bf8d3a0",
   "58535e940ed7",
   "7bf984e11fcb",
@@ -3945,9 +3939,27 @@
   "83c449b3aa35",
   "16a59c9aeae9",
   "6c6b55d7c4f1",
-  "15c1f556aa4b"
+  "15c1f556aa4b",
+  "b444aaf2b8d6",
+  "a3ef38546167",
+  "c329eb89796d",
+  "89aecef39d42",
+  "14fa362583a0",
+  "d49b0245cf9d"
  ],
  "news": [
+  {
+   "title": "Trump to begin implementing tariffs on China",
+   "source": "Yeni Safak English",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjgyb3JDd1pZbWZHSVNtcFBNR3dFWjkzNVI4aU5fNFNhTjJxdW1NNV9uczNIWXd2X0tvaXpnQ0p6ZTZJRzN4MHRweVhwSGcyVTlGUElHbVR3YzZIbmNxcl8tb2xHd2lUdzVfMG1vUDRDNnJZa0ZrSk12OXNqY05lM2RuV3ZTZ2RQTUYtRHp3?oc=5",
+   "published": "2026-11-24T06:33:23+00:00",
+   "id": "c329eb89796d",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Dow Jones Top Energy Headlines at 12 AM ET : Oil Prices Fall as Traders Weigh Supply Surplus , Gulf Attacks | Texas ...",
    "source": "morningstar.com",
@@ -4147,6 +4159,18 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDlDRW0teFE3cHprZUY1clo0bjRCck5QZUJNY3hERFpsS1ZBWEJhRnV5ZWUxb1NYQzhVcWtDalBuV0ZzVDRvM193MG80bkRWUG1SWmVnRGVaQ1pCeGtUT2JkMWtram03WGhoWlQwRlBjbXNIa2JMTTE5YVdNUTRTWnRRbG0tZ0RqTDRWOFpyWnYtTmVZUTQ5Z1pkOGg?oc=5",
    "published": "2026-11-24T05:00:00+00:00",
    "id": "a497c0f528a9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Middle East can't withstand new US-Iran escalation: Qatar PM",
+   "source": "Bangladesh Post",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVC1EaUR0VklIU0VRYWZHN1hvM0hoSWpVcEpETGZKYkdqNUdJNnhiNkVzNF9RX2dqSEtrQTF3ZS11a1NKUDNoWnR0b1pnamdYeDhvR0pUMkZZNXZnRUtsUlk3MG5XRmFFWU1HY213TzRiY0F5V1Z3OWVQbDZibGNWVFFmRS1pVjBjZU94S0ZuVzVFNzY3MXZYOWRvSE1udmRp?oc=5",
+   "published": "2026-11-24T04:50:18+00:00",
+   "id": "a3ef38546167",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6323,34 +6347,9 @@
    "cat": "géopolitique",
    "raison": "Perspective de sommet diplomatique atténuant légèrement la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Chinese realty enters the sinkening",
-   "source": "macrobusiness.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.macrobusiness.com.au/2026/11/chinese-realty-enters-the-sinkening/",
-   "published": "2026-11-23T03:30:00+00:00",
-   "id": "56fe727d3db0",
-   "impact": 2,
-   "cat": "autre",
-   "raison": "Ralentissement immobilier chinois incitant à la valeur refuge, compensé par baisse de demande physique.",
-   "method": "IA"
-  },
-  {
-   "title": "Australian dollar short hits ludicrous speed",
-   "source": "macrobusiness.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.macrobusiness.com.au/2026/11/austrlaian-dollar-short-hits-ludicrous-speed/",
-   "published": "2026-11-23T03:30:00+00:00",
-   "id": "58b5cf744a9f",
-   "impact": 1,
-   "cat": "dollar",
-   "raison": "Faiblesse des devises pro-cycliques signalant une aversion au risque favorable à l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|17f5a8548576": 1793691083.8162117,
   "news|40096ed24f5a": 1793692904.6631763,
   "news|fb1e849ccd20": 1793696573.948372,
   "news|9d733a9685c0": 1793696574.840019,
@@ -8269,9 +8268,10 @@
   "news|1ee628e2a27f": 1795500971.180099,
   "news|a497c0f528a9": 1795500971.9592338,
   "news|175a17ab6cf5": 1795504591.5310926,
-  "news|b4e463e6c9e6": 1795504593.980851
+  "news|b4e463e6c9e6": 1795504593.980851,
+  "news|a3ef38546167": 1795505841.258059
  },
- "last_bias_label": "Baissier",
+ "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
   "2026-10-14": {
@@ -8757,6 +8757,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-24T07:37:22.470964+00:00",
+   "kind": "bias",
+   "text": "🧭 <b>CHANGEMENT DE BIAIS OR</b> : Baissier → <b>Neutre</b> (score -14)\nMoteurs principaux : Momentum or (vs MM50) (-15), Sentiment news 24h (+14), Dollar (DXY 5j) (-12)"
+  },
+  {
+   "ts": "2026-11-24T07:37:21.258171+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Middle East can't withstand new US-Iran escalation: Qatar PM</b>\n📰 Bangladesh Post · Mar 24/11 05:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPVC1EaUR0VklIU0VRYWZHN1hvM0hoSWpVcEpETGZKYkdqNUdJNnhiNkVzNF9RX2dqSEtrQTF3ZS11a1NKUDNoWnR0b1pnamdYeDhvR0pUMkZZNXZnRUtsUlk3MG5XRmFFWU1HY213TzRiY0F5V1Z3OWVQbDZibGNWVFFmRS1pVjBjZU94S0ZuVzVFNzY3MXZYOWRvSE1udmRp?oc=5"
+  },
+  {
    "ts": "2026-11-24T07:16:33.980970+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says three tankers hit mines in Hormuz despite U . S . escort</b>\n📰 cnbc.com · Mar 24/11 07:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
@@ -9045,16 +9055,6 @@
    "ts": "2026-11-23T14:31:41.140845+00:00",
    "kind": "big_move",
    "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.2205 aujourd'hui = 1.7× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-11-23T14:31:40.147155+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — S&amp;P 500\n+331.6 aujourd'hui = 2.1× l'ATR\n🥇 🟢 haussier pour l'or"
-  },
-  {
-   "ts": "2026-11-23T14:31:39.161000+00:00",
-   "kind": "big_move",
-   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — VIX (indice peur)\n-8.48 aujourd'hui = 1.7× l'ATR\n🥇 🔴 baissier pour l'or"
   }
  ],
  "daily_forecast": {
