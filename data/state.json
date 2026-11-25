@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795600874.083149,
+   "ts": 1795604481.394665,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "93d8055c0f49",
-  "1fd1da08b35f",
   "e0c7779910fb",
   "6d928751b0b5",
   "68e31389ed0f",
@@ -3956,7 +3954,9 @@
   "165ebd639055",
   "6978340d6b38",
   "a35fcf9302f6",
-  "a7efe60ff007"
+  "a7efe60ff007",
+  "cf2e61255b2b",
+  "0973d24e69f8"
  ],
  "news": [
   {
@@ -3981,6 +3981,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump Officials Debate Killing Iran’s Top Leaders as 9-Month War Drags On",
+   "source": "Kyiv Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsS0dUUzBTTVEzbkxxeFRtXzVrbWtjODVodUJNSGFobXp1ZFJFYUZfWXNrNlZOUVdXNnlFeFVIYzU0b3JNVXh0NktlMA?oc=5",
+   "published": "2026-11-25T10:27:28+00:00",
+   "id": "cf2e61255b2b",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4126,18 +4138,6 @@
    "cat": "inflation",
    "raison": "Inflation persistante ravivant les anticipations de hausses de taux Fed, défavorable à l'or.",
    "method": "IA"
-  },
-  {
-   "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
-   "source": "Time Magazine",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5",
-   "published": "2026-11-25T09:30:00+00:00",
-   "id": "1746b37e3e4e",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
   },
   {
    "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
@@ -8273,7 +8273,8 @@
   "news|deb4195e8b07": 1795600949.8642402,
   "news|a894cb36f409": 1795601766.167815,
   "news|77c4609c64d2": 1795602839.693667,
-  "news|165ebd639055": 1795603687.3112578
+  "news|165ebd639055": 1795603687.3112578,
+  "news|cf2e61255b2b": 1795604525.0241463
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8761,6 +8762,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T11:02:05.024284+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Officials Debate Killing Iran’s Top Leaders as 9-Month War Drags On</b>\n📰 Kyiv Post · Mer 25/11 11:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsS0dUUzBTTVEzbkxxeFRtXzVrbWtjODVodUJNSGFobXp1ZFJFYUZfWXNrNlZOUVdXNnlFeFVIYzU0b3JNVXh0NktlMA?oc=5"
+  },
+  {
    "ts": "2026-11-25T10:48:07.311367+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Lieberman Says No Justification for Immediate Israeli Strike on Iran</b>\n📰 Haaretz · Mer 25/11 09:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxQRXI1bXQxdHp2RVNBa0NadVhyelhfanhqRnAtR1lvM1ZyUk9lSXI1QjFqUkJnNV9FbkFOYl8tWmRndGoxQUU1S1h6emp0TlNDRktUMEs4cWxaZWE1MHM1b1U2QzlON3BkczBxVW9lNnhBZ0F3WlVKQTBSeFl5VHpEMmpsT3NYRkJMLTliemJTSGhlTDVpejlPejAweGdQQ2lrbmFGRVVuN05taUNQMWowTXBrU1A2OTJxeGpTd2NmTXNNRDBsV2xtbl81ZE44bTZuVkM5UTdiQWNrcUxSTDI0LTJtcm02blRJS1RESlp3NFFKYXJGQ1pnay1CelJFVXItZ3pLNkJuNktQNG9mdXJpb0lqNE9wY2J2ejBSZFdkN2FRNXVTZXNFRmwyTXdoQmE3MVNCM0NGRnpjRUNpVXYwMUp4b0syZVlXUW9lTzdMYUQtUDRJaTRz?oc=5"
@@ -9054,11 +9060,6 @@
    "ts": "2026-11-24T17:31:36.851552+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration debates targeting top Iranian leaders to end war: Report</b>\n📰 Anadolu Ajansı · Mar 24/11 18:24\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWpUdE91QzByd2hEQkhqZ0o2cXFCRm16eWh6WHQ5T0NzT2ZyVkx6a25RUkxTakNyQVUyMGFMdzhUUG8xT29CaWcwWTFnWkxsM3JwYzBHWWJOWGhtSm5UdzVwQ3JOSXBwQnFTLVNudURSOU96Tkd6d2toazdER3dtMHpzVXdfT3JWQmQwU1ZMVVJqTktsd1I0SXphcGVzS2Q3UV9Sb2lrS1RmeW0wQ0o2VVdSalU?oc=5"
-  },
-  {
-   "ts": "2026-11-24T17:26:56.234729+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold ticks lower on hawkish Fed bets, US inflation data in focus</b>\n📰 Reuters · Mar 24/11 01:57\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5"
   }
  ],
  "daily_forecast": {
