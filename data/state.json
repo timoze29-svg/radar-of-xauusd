@@ -957,16 +957,6 @@
   }
  },
  "seen_news": [
-  "6f1eaba94371",
-  "3db80e669c71",
-  "182b7e9b6332",
-  "20ac35c2d7d6",
-  "8ab3551a66b0",
-  "1902852bc90c",
-  "54b7c5edcc05",
-  "0c546036a7d8",
-  "82e094772e8b",
-  "73e42882496e",
   "0e88ce37d0f0",
   "1381d0fb8262",
   "7a3e18ae7d6d",
@@ -3956,7 +3946,17 @@
   "95c9589d6aeb",
   "3dd6f49c9e83",
   "0e6475398090",
-  "31425e5690c9"
+  "31425e5690c9",
+  "13d83a994de7",
+  "d962ec94f763",
+  "25405996a9dd",
+  "4ef5eee09ac4",
+  "015ab670b720",
+  "5db393706c58",
+  "3ad472b93d49",
+  "a3ff70fb2886",
+  "ec3c13057aab",
+  "c07e4ad5dfcf"
  ],
  "news": [
   {
@@ -4003,6 +4003,18 @@
    "published": "2026-11-25T13:27:36+00:00",
    "id": "437dad8a43e2",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+   "source": "The New York Times",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDJMNTh0Z2E3NmJYTGhkUDNCdi1YOWNZZnd4UmpPdGFwODZSSHhJZTdBMk51WC1OVmFpNHFXVGs4SS1BVTJNYzFDdEExRTNyRXFaejFxSk5RUktMODJyeGZMci1rNHFMNEN0ZDVlWmpTTWFQdDUzbUU2cEpPVVpWMGw5T1M5Qm85dHdzRg?oc=5",
+   "published": "2026-11-25T13:25:15+00:00",
+   "id": "ec3c13057aab",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4140,6 +4152,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Russian strikes on Ukraine cause power outages in five regions",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWZKcV9EeDNvLXdMaUpYUWNGSTdYcHpyeEQwaWZoa3BLUzJ6dUpGZ0JQTFFrTkwyMllObVlaS3pNTUxVRUFLRjVwNmw3MllrU2diVVBSZXBUeTVkel95Mm0xN1BuZlVoMFNueEdlTUtTTlc4bjhCTFdzZm85ZXZyOGVEX3prcHh0NEEyQkRCMVFYUWdzSDV0MFZOV1VKOFhkaHczYWJpc9IBrAFBVV95cUxQUEJMQWpxUXh4SEFkYTlmYlNQSzk0dGZNM21hcHBFUXZ6MzhxQnVCX3V2b2NEX3pPcFNETFBWNlg1eFQtYWRNRzdMWEFXWXdXdU1INlhyQnlKaXBlRHI2OVQ5NXdYYnNfLU5nUU9kanAzQjN2WUNTQkdjZm1iNTgwcERRYmVXTDFtMEc0eVdleTBjdEd3cnNRVDhWTjZLWmdxb3Fxc05lVjhFWW5v?oc=5",
+   "published": "2026-11-25T12:22:30+00:00",
+   "id": "c07e4ad5dfcf",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
    "source": "BBC",
    "theme": "Russie/Ukraine",
@@ -4185,6 +4209,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Will US core PCE inflation fuel expectations of further Fed tightening?",
+   "source": "FXStreet",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUZzWXlBNFZYYlJKZzB0Sk50eDNkVDl4cGowSFlianpHVzc5d1RTc25hQzAxNFNwX3VablB3c0tmZEhkNkxvSC1pS2JsaDRvMkJMUlY4N3ZvSEF6UkcwSnZsZTM2VUxNQ2IxdGRNSGNydTJ4LVpSTFluTFZVcEZ0MVlpRnltaE94MmsxLUtxZk9RRDNpVTkwSnZtQWZ3bzI3WVYzQks2T2FkbHctbjBGcm5JR3FQendHTDNYQ2tIUC1SQTBfWUxkWGZOZFVzT2Ex?oc=5",
+   "published": "2026-11-25T12:00:00+00:00",
+   "id": "5db393706c58",
+   "impact": -3,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6322,46 +6358,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat",
-   "source": "Reuters",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
-   "published": "2026-11-24T16:19:00+00:00",
-   "id": "4e891c6465ac",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump administration tees up tariff hikes on EU, China, others",
-   "source": "Politico",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
-   "published": "2026-11-24T16:18:00+00:00",
-   "id": "b80391d41e38",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance – Keystone XL Back in Spotlight",
-   "source": "EnergyNow.com",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
-   "published": "2026-11-24T16:14:59+00:00",
-   "id": "383dd512e74b",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "post|2026-11-04T08:15:00-05:00": 1793799976.5242088,
   "news|83c59e513314": 1793800921.251416,
   "news|7782c737015e": 1793801825.0370553,
   "news|a7ef3f64ffd7": 1793801826.0233388,
@@ -8276,7 +8275,9 @@
   "brk|US10Y|pdh|dn|2026-11-25": 1795614369.5376732,
   "burst|Trump|166260": 1795614370.320199,
   "burst|Tarifs douaniers|166260": 1795614371.1055644,
-  "burst|Chine|166260": 1795614371.8581307
+  "burst|Chine|166260": 1795614371.8581307,
+  "news|ec3c13057aab": 1795615300.8772333,
+  "post|2026-11-25T08:30:00-05:00": 1795615305.1225514
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8764,6 +8765,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T14:01:45.123637+00:00",
+   "kind": "post_event",
+   "text": "📊 <b>RÉCAP 31 MIN APRÈS L'ANNONCE</b>\n\n🇺🇸 <b>Core PCE Price Index m/m</b> : prév. 0.3% (chiffre réel : voir ton calendrier)\n🇺🇸 <b>Prelim GDP q/q</b> : prév. 3.5% (chiffre réel : voir ton calendrier)\n\n<b>Réaction :</b>\nDXY +0.01%\nTaux 10 ans -1.0 pb\nOr -27.4$ (extrême -37.4$, range 42.6$)\n\n⚪ Réaction mitigée : pas de lecture claire du marché\n✅ Le mouvement TIENT (garde l'essentiel de son extension)"
+  },
+  {
+   "ts": "2026-11-25T14:01:40.877354+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships</b>\n📰 The New York Times · Mer 25/11 14:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDJMNTh0Z2E3NmJYTGhkUDNCdi1YOWNZZnd4UmpPdGFwODZSSHhJZTdBMk51WC1OVmFpNHFXVGs4SS1BVTJNYzFDdEExRTNyRXFaejFxSk5RUktMODJyeGZMci1rNHFMNEN0ZDVlWmpTTWFQdDUzbUU2cEpPVVpWMGw5T1M5Qm85dHdzRg?oc=5"
+  },
+  {
    "ts": "2026-11-25T13:46:11.858233+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : CHINE</b>\n6 articles en 45 min (normale ≈ 0.4) → un sujet s'emballe\n\n🥇 Impact moyen : +4.7/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump targets China in new round of tariffs — <i>CNN</i>\n• (+5) Trump prepares new round of tariffs on China, other U.S. trading partners — <i>Axios</i>\n• (+5) U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon — <i>MarketWatch</i>\n• (+5) Trump proposes new tariffs on China, Europe and other trade partners — <i>The Washington Post</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
@@ -9052,16 +9063,6 @@
    "ts": "2026-11-24T22:31:33.170034+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel accuses Iran of developing chemical weapons, raises possibility of preemptive strike</b>\n📰 Mezha.net · Mar 24/11 23:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0NWZTJBcTFKaVE4Vy1NSnRVQ0UwOW5RSnRqWV90dzhmTGluejZoZGxyTW5tNkc0Z21LdW1Kd1RJcnZWX05FLVRoR2VrQlpYa0tsTDZwNk1QbWFRcGJ5MFdxSVhTcW9SZjlrME83MUREb3FCWkJHLWZ0Mm9DcFFWWU1Sb2Q?oc=5"
-  },
-  {
-   "ts": "2026-11-24T22:16:31.516778+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Defense Minister Accuses Iran of Developing Chemical Weapons and Raises Possibility of Preemptive Strike</b>\n📰 SFG Media · Mar 24/11 22:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUsyRzhsX1REZUlxREoydFpQeFpxTDJ1UUc1ZmFvbGF4aXZEQkE1YlJmVDJFUVlSeHozelB4a3I2bUlxUEVrOXdCVy1EckF1czNPcHJQV18xTjlDa3pfeExjcjJpMl9BaTdrWTM5cmZlVWZSNHlQX29ueERRUDNKR2NBeWI2Ti1ndS1BenZmcUs?oc=5"
-  },
-  {
-   "ts": "2026-11-24T22:16:27.481992+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat</b>\n📰 Fox News · Mar 24/11 23:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JJRHhmU0NFTDh0V0RzS0tCYmNWcjJxQXFGNnJlaGs2NWk4c2FOQTItai1wajh6dGhtOUxtem04eXZrenZ5bFpZdThTUjI2Y1lMTEZ0U214V0Z0bXZnM1Q3SzhnZFdrSGU0dHJNSmtOQ2dYM2VSS2lGNTlBanl1WVh0VXJHaVktX3NJYWhrX1p2Y0RveFd5NngyS0ZMaTNtaFFDaC1IaENPVlI2SXI5Y9IBtgFBVV95cUxNencwYU0yMUdQb0diVG5Rb1M0bzFhRWlUMzhrQ1o2NXJma0hYbjg0TGJySlAxX2VKX0hSTlJMRXdJSUdqUVlxTDhMdjdIczg2TGd1OUJwbzBZaFkwOEhJSW9Ob0tmekhNQnV4NU9XLXhPd2VWWFM3SHdXMlNFV2wwdEw1cVBxQ2FsR0RrUVVleWY2dXFXTVBLUFluaWs5b195YVJDQUpOQ1hvaUZKcXlCcm56Uml3UQ?oc=5"
   }
  ],
  "daily_forecast": {
