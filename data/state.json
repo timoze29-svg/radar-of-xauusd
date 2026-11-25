@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1795602664.2147822,
+   "ts": 1795646753.3433564,
    "data": {
     "date": "2026-11-17",
     "net": 166132,
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795643149.3237708,
+   "ts": 1795646753.5616844,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,13 +957,6 @@
   }
  },
  "seen_news": [
-  "de4aa6f89888",
-  "4e3de13a3655",
-  "c02ae3c5d353",
-  "28fed62054da",
-  "4abf80bf39d7",
-  "54b148aa9357",
-  "1143c2d25476",
   "7ff0524c6db3",
   "4a81991ad60d",
   "b7ef684f050d",
@@ -3956,7 +3949,14 @@
   "ec47b722a779",
   "857f2964e0e4",
   "098c6084a9c8",
-  "49de98155b58"
+  "49de98155b58",
+  "465da5ba7c7a",
+  "4644dc9d7608",
+  "e47193820c98",
+  "97b373ce98ba",
+  "ed4f806ef734",
+  "8c4440dec9d4",
+  "d2e2dfbb195e"
  ],
  "news": [
   {
@@ -6361,9 +6361,6 @@
   }
  ],
  "fired": {
-  "news|d3497b37fa8a": 1793831487.5364118,
-  "news|4c1f98d50cea": 1793831488.459506,
-  "news|fe4901452372": 1793832369.5655684,
   "news|e4ec12dbfdbc": 1793835089.2514472,
   "news|e55a9f960093": 1793835090.2998357,
   "news|99ccbeb48e0b": 1793835975.225427,
@@ -8267,7 +8264,8 @@
   "news|e2ecccb2481b": 1795642410.2490005,
   "news|602b5cab889f": 1795644100.996805,
   "news|857f2964e0e4": 1795645268.3588448,
-  "news|098c6084a9c8": 1795645271.962865
+  "news|098c6084a9c8": 1795645271.962865,
+  "news|ed4f806ef734": 1795646770.8192225
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8755,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T22:46:10.819335+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>New Footage Shows Strike on Iran Air Jet at Bushehr Airport</b>\n📰 X · Mer 25/11 01:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuaGdWUmhyd05qVWNtMjNYTWZIZExlbmFwNDBEQjlWNjVfdWRYYlJjUk1JWnRnYWhlamlLMHRyWHZwTXVOU3JCdjB5Mkc0akJCN3NBSjd1OA?oc=5"
+  },
+  {
    "ts": "2026-11-25T22:21:11.962961+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran building faster, more accurate, and evasive missiles; considering strikes on US assets - report | LIVE BLOG</b>\n📰 i24NEWS · Mer 25/11 09:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOelNSZEFXVkxXS0FtVkRyTkdWMFdQUWx4Y3FIMUh4QWZoMG9FdGRYNkxYX3haSDlVN1FZZ3FJcXgwR1M3SDJ3VG4xc0dTaDBRWWRvRzRTTFVoa3F0UWhXcDFzSFBYYi1yMU1QSFNRS1NRVTdWMWM5S1dMSnF5bENlOG54Vk9QU0VhbFVNUUpzeC05Wmc0QkIySG9pQlF0UUI5SlhVVXNTUkZNMExiaGRIVTdIVHkzb2dzTkRzMUk1X1V4TkttdVp2OHhELWtLRkZEa0J1YmJkM0E0bVk5alRmLWNSTXM2UFhZR2xJ?oc=5"
@@ -9048,11 +9051,6 @@
    "ts": "2026-11-25T08:01:53.138349+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Video Reveals Strike Destroying Parked Iran Air Jet at Bu...</b>\n📰 X · Mer 25/11 01:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuaGdWUmhyd05qVWNtMjNYTWZIZExlbmFwNDBEQjlWNjVfdWRYYlJjUk1JWnRnYWhlamlLMHRyWHZwTXVOU3JCdjB5Mkc0akJCN3NBSjd1OA?oc=5"
-  },
-  {
-   "ts": "2026-11-25T08:01:52.387951+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran War Updates : Iran developing chemical weapons , Israeli defense minister claims – Ya Libnan</b>\n📰 yalibnan.com · Mer 25/11 06:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://yalibnan.com/2026/11/25/iran-war-updates-iran-developing-chemical-weapons-israeli-defense-minister-claims/"
   }
  ],
  "daily_forecast": {
