@@ -957,14 +957,6 @@
   }
  },
  "seen_news": [
-  "f8cd6e9cabac",
-  "c8bcaccfa9f5",
-  "4670b9f4da4b",
-  "9d58fcd972d9",
-  "e8a9aee748a7",
-  "d2f6bdbd2f1f",
-  "bd9b206609ab",
-  "64e5df97eb45",
   "5cf0245ae667",
   "d1b225fc5781",
   "3a0a9491082c",
@@ -3956,7 +3948,15 @@
   "c822af0773eb",
   "a2215f6ead61",
   "b28d96df0ea8",
-  "fef07dff8a1b"
+  "fef07dff8a1b",
+  "bc6715658ba1",
+  "e1c5aa291850",
+  "a8c729aa32f6",
+  "179ce233a409",
+  "393844d34938",
+  "dc8810573d98",
+  "cfc3fdc918f6",
+  "393b23380c97"
  ],
  "news": [
   {
@@ -4044,6 +4044,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Donald Trump set to raise tariffs on 16 major economies",
+   "source": "Sky News",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGRyT3BxSFR1SkdVLVIwLVFHaHFVb1lPN0FxdlpZeEtXNF9hcUc2RFZtZ3Q5bXNQY1hzVGxleVFDQU1mUjJnOVpzSUY2b3BVVlpaMGRhRGpKTEhfZDdDcFM2SEdIZTFLS2FvemZiLUFxWHhGUXZLdnlxOEk1MkZOSlhYRnhBeEJROEYwX0pvRVpNTlZEbUE?oc=5",
+   "published": "2026-11-25T04:40:37+00:00",
+   "id": "e1c5aa291850",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Houthis Threaten Saudi Red Sea Ports as Yemen-Saudi Escalation Intensifies",
    "source": "Modern Diplomacy",
    "theme": "Moyen-Orient",
@@ -4065,6 +4077,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Australian Inflation Accelerates, RBA Cut Hopes Get Reality Check",
+   "source": "FOREX.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVDU3OUdqQ0oxQldHLVZ6Y2hIeFJEYUw5MGhLTUdpQjl3TGpaUEtlQU16U0Z4MExCeVAzN1gwbW5mNTUybXcxQVJ6QlFFZzM4OURYUVlJM2hZZVhXUXhxSlBOdWUyU1dtbmVSeENGWjQ2Nm1GdXlYaHowUEFKUDNiWTgzdUxoMWh1Q2tmdVRRcHl4S0hTZVE3ZWN1WV9hd1BBV3JKbEF6aWFDdnUz?oc=5",
+   "published": "2026-11-25T03:36:09+00:00",
+   "id": "dc8810573d98",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
    "method": "mots-clés"
   },
   {
@@ -6334,34 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Arab News | Oil prices near three - month lows as rising supply offsets Hormuz threat",
-   "source": "arabnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.arabnews.com/energy/oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat-3013802",
-   "published": "2026-11-24T07:15:00+00:00",
-   "id": "f0349f31ec4e",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Uncle Sam Charges A Higher Tariff Rate On A Practical Mazda CX - 5 Than A Twin - Turbo R34 Skyline GT - R",
-   "source": "carbuzz.com",
-   "theme": "Géopolitique",
-   "link": "https://carbuzz.com/usa-tariffs-new-mazda-cx-5/",
-   "published": "2026-11-24T07:15:00+00:00",
-   "id": "d1e8225a595a",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "brk|GOLD|pdh|up|2026-11-04": 1793771165.3143077,
   "rep|daily|2026-11-04": 1793772108.7121277,
   "news|a0b4d9f6b26d": 1793772970.7725234,
   "news|236db90d64fa": 1793773891.6023781,
@@ -8276,7 +8275,8 @@
   "news|b0b6bd0d2413": 1795580165.0781248,
   "news|53d5b446a971": 1795582896.0025108,
   "news|1ab21ac12437": 1795583768.423481,
-  "news|f0fc888c9195": 1795584877.5471117
+  "news|f0fc888c9195": 1795584877.5471117,
+  "brk|GOLD|pdh|dn|2026-11-25": 1795585578.8222976
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8764,6 +8764,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T05:46:18.822370+00:00",
+   "kind": "breakout",
+   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas de la VEILLE\nNiveau : 3 545.40 → prix : <b>3 536.80</b>\nATR jour : 113.3$ | Pivot hebdo : 3640.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE en dessous dans <b>46%</b> des cas (extension médiane 12$, 684 cas).\n⚠️ Moins d'1 chance sur 2 : attention au faux break."
+  },
+  {
    "ts": "2026-11-25T05:34:37.547280+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's president: Time to end war in 'position of strength'</b>\n📰 DW.com · Mer 25/11 01:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5"
@@ -9057,11 +9062,6 @@
    "ts": "2026-11-24T15:16:24.467325+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel can strike Iran without help from allies, Energy Minister Eli Cohen says</b>\n📰 The Jerusalem Post · Mar 24/11 16:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTFBXLS1wbGN2TEdUOFVmZUR1WnVqV3ZrX1pLcEdnX0dvazhGcnFtd1lJMUdNSUJqNTN4eVN3QmltNDZPNWVyeURLelJnQUxCRW5pb0dWUTBpZ0JUOUY4Y1Foc2R0c3VWZHloS3BKeDJn?oc=5"
-  },
-  {
-   "ts": "2026-11-24T15:01:58.357111+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns</b>\n📰 Ynetnews · Mar 24/11 15:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE43NjZHZXlqNXRLX0MxdlZlUzBvSEVjZ2FVZ2VGVjRGNnNJRmEyY2w3VmdSazViTEo0M0l2Um5Pc2xmZHNWR3g1TENQNnlGUmtEWWtiOVdR?oc=5"
   }
  ],
  "daily_forecast": {
