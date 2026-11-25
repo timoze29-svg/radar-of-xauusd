@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "bdea091326a2",
-  "7e7d0111cd67",
-  "df981210ed12",
-  "a73714397af6",
   "4eeb6f58210f",
   "dac576dd3c4e",
   "c5e85948b0c6",
@@ -3956,9 +3952,25 @@
   "03c86bdebd25",
   "53d5b446a971",
   "8742b1d927d4",
-  "eec8172af89c"
+  "eec8172af89c",
+  "1ab21ac12437",
+  "09c5d016bbce",
+  "e1ebe8f413c1",
+  "1fc9c25b2a31"
  ],
  "news": [
+  {
+   "title": "Trump admin. to unveil new tariffs any day now",
+   "source": "Morning Brew",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1ZCSkYzMlN6ODJCQjNnSEVXS2pOU0pyMXVocEZOaGx6R2RwMXlTbmhMNGZMYW5JUjZfSkIxMk55ODRRMTBSeHYzNWZVR0xKVERtVVJKa2JrWkJlUlZfUjIyMUg5ZER2eEVQTzNtSXUyNnFzdFBGY1UzZjlsZUQ4TDJ4NnJvamhp?oc=5",
+   "published": "2026-11-25T05:01:00+00:00",
+   "id": "e1ebe8f413c1",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "India news: Trump administration set to unveil new tariffs after probe",
    "source": "DW.com",
@@ -4146,6 +4158,18 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5",
    "published": "2026-11-25T02:05:13+00:00",
    "id": "404c5c332b38",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump says Iran war funding lasts through January as Democratic Congress nears",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5",
+   "published": "2026-11-25T02:05:13+00:00",
+   "id": "1ab21ac12437",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6334,30 +6358,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Eisenkot says no immediate threat justifies attack on Iran before govt formation _ Guangming Online",
-   "source": "en.gmw.cn",
-   "theme": "Géopolitique",
-   "link": "https://en.gmw.cn/2026-11/24/content_39117296.htm",
-   "published": "2026-11-24T06:30:00+00:00",
-   "id": "175a17ab6cf5",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "US defense chief has yet to approve Patriot missiles already allocated to Ukraine , FT reports",
-   "source": "straitstimes.com",
-   "theme": "Géopolitique",
-   "link": "https://www.straitstimes.com/world/europe/us-defense-chief-has-yet-to-approve-patriot-missiles-already-allocated-to-ukraine-ft-reports",
-   "published": "2026-11-24T06:30:00+00:00",
-   "id": "4e4641f18bce",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8278,7 +8278,8 @@
   "news|fc3d2a207205": 1795579292.329822,
   "news|4207083d6c29": 1795579295.9385784,
   "news|b0b6bd0d2413": 1795580165.0781248,
-  "news|53d5b446a971": 1795582896.0025108
+  "news|53d5b446a971": 1795582896.0025108,
+  "news|1ab21ac12437": 1795583768.423481
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8766,6 +8767,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T05:16:08.423562+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war funding lasts through January as Democratic Congress nears</b>\n📰 The Jerusalem Post · Mer 25/11 03:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5"
+  },
+  {
    "ts": "2026-11-25T05:01:36.002594+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike</b>\n📰 Ynetnews · Mer 25/11 05:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdzFEc0hDd1lBV0RzaHU2YjgxTXRaUTk2NEY4UWc4TmJlX1ZVa19tcEc4M2xLek96Nkx5cVVzLWRicnlSdmdTSUxUcVdRelFQSnlReTdR?oc=5"
@@ -9059,11 +9065,6 @@
    "ts": "2026-11-24T14:46:16.050945+00:00",
    "kind": "dollar_pressure",
    "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY -0.16%\n▫️ Taux US 10 ans +2.0 pb\n▫️ Pétrole +0.41%\n✅ EUR/USD +0.12%\n✅ News dollar/Fed : 3 (impact moyen or +5.0)\n   • Bitcoin outlook as Trump prepares new tariffs on China and EU\n   • Trump Administration Weighs New Wave of Global Tariffs, With China Facing Potentially Steepest Rates, Decision Could Come as Soon as This Week\n\n<i>Pas assez d'historique pour chiffrer cette configuration : à confirmer avec ta technique.</i>"
-  },
-  {
-   "ts": "2026-11-24T14:31:30.738780+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Middle East latest: Riyadh tower targeted in terrorist attack, Saudi-led coalition says</b>\n📰 The National · Mar 24/11 11:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhnd0U5NHV1U0V6RmlPTGhnMlM3WFFQWWdJQjlTRFBkVUJreHQ3VVZKZnFtNmNpTGZucTZrbHRzZHVmd0JlN3ljLWlIWU8wWUJuZ0V1ZHBVT2FuYVVpUTJnQ1MzSkg3V3VQcFd3VkItQUNLTDJtM0ZORHBKbWJZUllENjdhZzZuSzR2T3ItTlBvRnhSQ09HTQ?oc=5"
   }
  ],
  "daily_forecast": {
