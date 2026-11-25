@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "edf6d55f7558",
-  "b19c6094d80b",
-  "c067c384ea65",
-  "c12c8be691eb",
-  "db435a705b18",
   "0dc4067ef357",
   "38058d223b5c",
   "e4a7458287c2",
@@ -3956,7 +3951,12 @@
   "38be94847ac0",
   "2c8e73749a93",
   "52bbbdd71f5c",
-  "6dbcb43f262c"
+  "6dbcb43f262c",
+  "be5a2c1beb04",
+  "66bd14053f08",
+  "602b5cab889f",
+  "3133fa4287ec",
+  "238866c0a3e5"
  ],
  "news": [
   {
@@ -3991,6 +3991,18 @@
    "published": "2026-11-25T20:28:56+00:00",
    "id": "842abc969bcd",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Oil prices rise after Houthis claim attack on Saudi refinery",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDVWb29kX0t0eEprd3VCQWtJTVU4ZmRDWmZ4bW84dGgwbnlLNzFlanZqdW40NVl6ajhFZjQ4VHJIZzlXVWtFSTZqRUxVX0J4bkdjUGppSDhpVjRYQ0ZEQ2ZSd2hnUnZZOXN5ejdVWmZKWTNYZHZHRjE2T2NJeHNwTWdvQ0tKNUlEeU1IYQ?oc=5",
+   "published": "2026-11-25T20:23:17+00:00",
+   "id": "66bd14053f08",
+   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4245,6 +4257,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US inflation surges to 3.8% in October, up from 3.6% as Fed prepares for December interest rate hike",
+   "source": "Cryptopolitan",
+   "theme": "Fed",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjZkJUZFluaWxRRWtOTUFpbVlfY3ZTbUR6RVJ6STNJV3lFcjEta0hCUlZvUjlYTVNCNkZqb01SQVVBRUR2RUZPSnZ2dkh0cWJwTjlmWEFsRlVkRGt2RjIxeWJ5clVRODB5TE9EZ1p5X19GNEVpZ29R?oc=5",
+   "published": "2026-11-25T15:54:58+00:00",
+   "id": "602b5cab889f",
+   "impact": -10,
+   "cat": "inflation",
+   "raison": "baissier or (fed, inflation)",
    "method": "mots-clés"
   },
   {
@@ -6334,34 +6358,9 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Ringgit ticks higher at open on longer-term Fed rate-cut bets",
-   "source": "Malay Mail",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnNBVDdRR2xZTzMyd2ZqZlBxYUNaWU1OTU92eVgxVTN0cVphQ3R1ZHdTRjRicEg3ZFhGVU5KNGhhYkJNQVZKcldxMkpLSlZILXRnRGY2enBlWFp5TlF6ankwQlJoY3h4WkNPaXh5MWFGN1lYZHJJeExlUXAybEZkMXE1V0p3RkZPN1VwWGlLU1ZJNzRwVGdoQjR6M0wwSFREYm9QMkVlV3RkdUxsZG55ZHp3eGVCZ0haZmpBN9IBvAFBVV95cUxOUnNBVDdRR2xZTzMyd2ZqZlBxYUNaWU1OTU92eVgxVTN0cVphQ3R1ZHdTRjRicEg3ZFhGVU5KNGhhYkJNQVZKcldxMkpLSlZILXRnRGY2enBlWFp5TlF6ankwQlJoY3h4WkNPaXh5MWFGN1lYZHJJeExlUXAybEZkMXE1V0p3RkZPN1VwWGlLU1ZJNzRwVGdoQjR6M0wwSFREYm9QMkVlV3RkdUxsZG55ZHp3eGVCZ0haZmpBNw?oc=5",
-   "published": "2026-11-25T00:50:32+00:00",
-   "id": "28a45dc94575",
-   "impact": 2,
-   "cat": "fed",
-   "raison": "Anticipations de baisses de taux de la Fed et dollar plus faible, légèrement haussier.",
-   "method": "IA"
-  },
-  {
-   "title": "Iran's president: Time to end war in 'position of strength'",
-   "source": "DW.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
-   "published": "2026-11-25T00:46:11+00:00",
-   "id": "f0fc888c9195",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|e01050cf0724": 1793828780.013227,
   "news|d3497b37fa8a": 1793831487.5364118,
   "news|4c1f98d50cea": 1793831488.459506,
   "news|fe4901452372": 1793832369.5655684,
@@ -8265,7 +8264,8 @@
   "news|d140ec94b527": 1795639584.7051568,
   "rep|recap|2026-11-25": 1795640499.3749685,
   "news|bf927a87cee1": 1795641374.1144218,
-  "news|e2ecccb2481b": 1795642410.2490005
+  "news|e2ecccb2481b": 1795642410.2490005,
+  "news|602b5cab889f": 1795644100.996805
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8753,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T22:01:40.996885+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-10/10)\n\n<b>US inflation surges to 3.8% in October, up from 3.6% as Fed prepares for December interest rate hike</b>\n📰 Cryptopolitan · Mer 25/11 16:54\n🧠 baissier or (fed, inflation) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBjZkJUZFluaWxRRWtOTUFpbVlfY3ZTbUR6RVJ6STNJV3lFcjEta0hCUlZvUjlYTVNCNkZqb01SQVVBRUR2RUZPSnZ2dkh0cWJwTjlmWEFsRlVkRGt2RjIxeWJ5clVRODB5TE9EZ1p5X19GNEVpZ29R?oc=5"
+  },
+  {
    "ts": "2026-11-25T21:33:30.249100+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Forty tankers attacked in Hormuz in the last ten days</b>\n📰 Arabian Business · Mer 25/11 15:36\n🧠 Escalade militaire majeure dans le détroit d'Ormuz, puissant choc de valeur refuge. [IA]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -9046,11 +9051,6 @@
    "ts": "2026-11-25T07:46:13.177264+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US has funds to sustain Iran war until January</b>\n📰 Anadolu Ajansı · Mer 25/11 08:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUNqT2ROSDBJd3U4UWNRX2w2TkJpNGpsemZiZDQyb28xcEdtcWtLbXN2c003N094Y0VhM0Y0WUxfMndTX1haQlJ5YnlvTUtvdTlQWC1vYVhjcWRBYnNBSGlTSWVxYThpdlhGVlN6SGVYeFJYNTd1MHV3Um53c0x4T2pSRS1WSG5ZQW5nazkxbTRmSS0yZVA2LUNCcHd6d0hH?oc=5"
-  },
-  {
-   "ts": "2026-11-25T06:46:06.707771+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war is funded through January</b>\n📰 Israel Hayom · Mer 25/11 07:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5NVHNLeDJ2MjlsWDR4YmFXRTk0YXJFNEVLdlFSR29PRkFrWXcxbDRnbkh3STl3NXA1M0FjXzBOS1Y1Nk5TRjhiTDBBV01scE9oclJMUjlMN3lvc2dnb2ltZFdfUWUzYTZfVEd4aXBDNzRKTmhCaGdmZA?oc=5"
   }
  ],
  "daily_forecast": {
