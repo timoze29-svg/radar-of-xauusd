@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "49b0de35e6df",
-  "d8ad4d4f387b",
-  "d6a57995f5cf",
   "7cc66d7ae30b",
   "14ea10eaa8fa",
   "8cb67a5a78e2",
@@ -3956,9 +3953,24 @@
   "d140ec94b527",
   "842abc969bcd",
   "51cb1cdfbec5",
-  "045ff1614ae0"
+  "045ff1614ae0",
+  "5c7a128804c4",
+  "b56d56abd324",
+  "bf927a87cee1"
  ],
  "news": [
+  {
+   "title": "Day 272 | Middle East tensions escalate as Houthis target Saudi ports",
+   "source": "Roya News English",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WemxQN2pvVkdENGNwM2lmNzVCQ2p5R3FRVVh0YkNGUUc2a1ZGUVpVLTNuNllIV0Y1TTlBV21YSHZHVzUxamZ1ZQ?oc=5",
+   "published": "2026-11-25T21:07:09+00:00",
+   "id": "5c7a128804c4",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump says Iran war funded through January as Israel warns of chemical weapons development",
    "source": "KFDM",
@@ -3966,6 +3978,18 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcE5oNVh1bnhabm1ZN3ZSd1VuU3dJREwzdVRjM1lwRHN0T1RZOGVsUFRUQnJZcHdEQzVoQjRQSHVDTmxYMi1wSGQ3V1NCRndEY200ZnpOemtTaW14bl83T3I1UUJ5OEY3UmVMUWRSOWNnWHRjdWVTQzItS1BxN29kdExpZDVsNTJiRHhSZXZHTUVjR1lSdjNZakd0V05ZaU9sZDc0ZEZMdDVHMTlqbEVfaXNOX292RGtZcURjS2NOWDBUZV83MHBpQ243SnBiS0llQmdpMU9B?oc=5",
    "published": "2026-11-25T20:28:56+00:00",
    "id": "842abc969bcd",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Melania Trump Announces 9 Children Reunited with Families Amid Russia-Ukraine War",
+   "source": "East Wing Magazine",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMVRnb1pjZW5rX283cERhcmhuZFExTi1SN3BzWVhKNjhYWW5oM3YwYzBwV1pwenZRdzJLZi1BbjNRNTQ1cWFTQ3dHelk1NHZMY1ItU29NSFVISmhVNThpV0JiVEFJdjNQbWpHU3JzNkJjR3p2WHZqdQ?oc=5",
+   "published": "2026-11-25T20:22:40+00:00",
+   "id": "bf927a87cee1",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6334,34 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US preparing to unveil new tariffs on global trading partners",
-   "source": "BBC",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
-   "published": "2026-11-25T00:38:01+00:00",
-   "id": "e56988d1f2d5",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "US preparing to unveil plan for new tariffs on global trading partners",
-   "source": "BBC",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
-   "published": "2026-11-25T00:38:01+00:00",
-   "id": "66c95d23ffcd",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "rep|recap|2026-11-04": 1793826109.0939033,
   "news|a6a777c69ba9": 1793827890.2172058,
   "news|e01050cf0724": 1793828780.013227,
   "news|d3497b37fa8a": 1793831487.5364118,
@@ -8265,7 +8264,8 @@
   "news|246d5a33fb71": 1795638701.1483357,
   "news|842abc969bcd": 1795639581.2220864,
   "news|d140ec94b527": 1795639584.7051568,
-  "rep|recap|2026-11-25": 1795640499.3749685
+  "rep|recap|2026-11-25": 1795640499.3749685,
+  "news|bf927a87cee1": 1795641374.1144218
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8753,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T21:16:14.114530+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Melania Trump Announces 9 Children Reunited with Families Amid Russia-Ukraine War</b>\n📰 East Wing Magazine · Mer 25/11 21:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMVRnb1pjZW5rX283cERhcmhuZFExTi1SN3BzWVhKNjhYWW5oM3YwYzBwV1pwenZRdzJLZi1BbjNRNTQ1cWFTQ3dHelk1NHZMY1ItU29NSFVISmhVNThpV0JiVEFJdjNQbWpHU3JzNkJjR3p2WHZqdQ?oc=5"
+  },
+  {
    "ts": "2026-11-25T21:01:38.454204+00:00",
    "kind": "recap",
    "text": "🌙 <b>BILAN DU JOUR — MERCREDI 25/11</b>\nOr : <b>+43.9$</b> depuis minuit · plus haut 3615.2 (21h25) / plus bas 3453.8 (16h15) · range 161$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-3) à 3525.3 → maintenant 3603.2 (+77.9$)\nRange : 161$ réalisé vs ~118$ attendu (137%)\nNiveaux touchés : P, S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 68% de bonnes directions (21 ✅ / 10 ❌ / 2 ➖ sur 33 jours)\n20 derniers jours : 72%  ·  ✅✅➖✅✅✅✅✅✅❌\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.16% · Taux 10 ans -5.6 pb · Pétrole +3.19% · EUR/USD +0.12% · S&P 500 -0.27% · Argent +1.15%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) US envoy Kushner warns against Ukraine war escalation\n🟢 (+10) First Shift: Tariff escalation and cobalt controls\n🟢 (+10) Rubio says US struck Iran fearing it would retaliate for Israeli attack - ABC News\n🟢 (+10) Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships\n\n📅 <b>Demain (jeudi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
@@ -9046,11 +9051,6 @@
    "ts": "2026-11-25T06:16:08.584732+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Presses US on Preemptive Strike to Thwart Iran Chemical Threat</b>\n📰 Yahoo · Mar 24/11 21:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWw2ZUtRMm5nUTJua2JhWnN3M0YwY3MzRU9YRWRXSGhmY3VISzYtYjRqSzYzemRhVElMWXJEUERYR2pyc0lwR2g0alRZRHBZTjNXbkcxaWhuNWtqX3BWalEtcGpuMHBkbjV3UnVsUUFkZjB2a0RacjI3dmVMLV8yVXdjSHlxLWlSLWF3VkZnWWJ5Qld4b1FPLVhzaw?oc=5"
-  },
-  {
-   "ts": "2026-11-25T06:01:36.719691+00:00",
-   "kind": "daily",
-   "text": "☀️ <b>PRÉVISION OR — MERCREDI 25/11</b>\nPrix : <b>3525.30</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-3/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.53\n🔴 Momentum or (vs MM50) : prix 3525 vs MM20 3871 / MM50 4064\n🟢 Taux US 10 ans (5j) : -20 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : -34.0$ · plus haut 3573.9 / plus bas 3522.4 (range 52$)\nDXY +0.15% sur la nuit\n⚠️ Plus bas de la veille (3545) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~118$</b> (ATR 113$ × profil du mercredi)\nDéjà fait en Asie : 52$ (44% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3726.0 | R1 3643.9 | <b>Pivot 3594.7</b> | S1 3512.6 | S2 3463.4\nVeille : PDH 3676.7 / PDL 3545.4  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\n🔥 <b>13:25</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Prelim GDP q/q (prév. 3.5%)\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -2.45% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (215 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 16h (12%), 2h (11%) · plus BAS vers 0h (13%), 14h (7%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -45.2$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 3513 et R1 3644\nJouer les extrêmes, pas le milieu (pivot 3595). Range attendu ~118$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 3677 ou PDL 3545 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
   }
  ],
  "daily_forecast": {
