@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795561274.117281,
+   "ts": 1795564874.8926265,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -679,6 +679,17 @@
      "actual": "",
      "gold_label": "Inflation (CPI) — gros impact via la Fed",
      "gold_weight": 9
+    },
+    {
+     "title": "FOMC Member Bowman Speaks",
+     "country": "USD",
+     "impact": "Low",
+     "date": "2026-11-25T07:25:00-05:00",
+     "forecast": "",
+     "previous": "",
+     "actual": "",
+     "gold_label": "Fed — décision / discours",
+     "gold_weight": 10
     },
     {
      "title": "Core PCE Price Index m/m",
@@ -946,7 +957,6 @@
   }
  },
  "seen_news": [
-  "ebaa58fe1d17",
   "4477c4dd3b83",
   "9130e484ad0b",
   "4aae105d0694",
@@ -3945,7 +3955,8 @@
   "fdf53836775e",
   "468dfe3c9948",
   "7ed38dcf8025",
-  "d94544b26cf9"
+  "d94544b26cf9",
+  "efe3efed1e34"
  ],
  "news": [
   {
@@ -4103,6 +4114,18 @@
    "cat": "commerce",
    "raison": "Tensions commerciales et risques inflationnistes modérés soutiennent marginalement l'or.",
    "method": "IA"
+  },
+  {
+   "title": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit",
+   "source": "WSJ",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2poV3JYSVEtZHRZTmlXWXNpcUR6VEVZUnZEY01xeTB0WlhhMUVvTngyM1YwMHRieTY0R0lnMjhsWEJwa2lsY1RvNkluUXlKQ0dlZXlwR2VSdV9OSGE0RVZsNUJSTkRheno5NGJnbG1TRk9waG1CMFhCV3FadzgtbmlsQzAwd0dfZHRRMkZMWkpXcmVmMG9neVhtZUxkMUlka2tVdTdNbjRhcm5TZmY2dWw4SUs?oc=5",
+   "published": "2026-11-24T20:47:29+00:00",
+   "id": "efe3efed1e34",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Central banks buy gold on pullbacks as expert warns of financial repression - The Flag",
@@ -6334,18 +6357,6 @@
    "impact": -1,
    "cat": "géopolitique",
    "raison": "Résistances politiques réduisant la probabilité d'une frappe immédiate contre l'Iran.",
-   "method": "IA"
-  },
-  {
-   "title": "Netanyahu pushes Iran strike as IDF sees no urgency and US officials suspect a political motive",
-   "source": "Ynetnews",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4X2c1bEczMDZZdloxbk44ZDlFdGQtaUlLejV1c05RQkRBb3ZNeDI4X3RlOTdyQW4xbkE0MDd4MnJ6ck00bS13Q2lYQlBqN3RhazdXMkFR?oc=5",
-   "published": "2026-11-23T23:15:21+00:00",
-   "id": "2f9d638d31df",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Désaccord de l'armée israélienne retardant l'escalade, léger reflux de prime de risque.",
    "method": "IA"
   }
  ],
