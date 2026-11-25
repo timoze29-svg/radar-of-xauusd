@@ -760,7 +760,7 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1795563975.747802,
+   "ts": 1795636904.2922554,
    "data": {
     "gold_hours": {
      "0": {
@@ -826,11 +826,11 @@
       ]
      },
      "2": {
-      "n": 121,
+      "n": 122,
       "high": [
        [
         16,
-        11.6
+        11.5
        ],
        [
         2,
@@ -844,7 +844,7 @@
       "low": [
        [
         0,
-        13.2
+        13.1
        ],
        [
         14,
@@ -888,39 +888,39 @@
       ]
      },
      "4": {
-      "n": 118,
+      "n": 117,
       "high": [
        [
         16,
-        14.4
+        14.5
        ],
        [
         0,
-        11.9
+        12.0
        ],
        [
         17,
-        11.0
+        11.1
        ]
       ],
       "low": [
        [
         0,
-        11.9
+        12.0
        ],
        [
         15,
-        7.6
+        7.7
        ],
        [
         16,
-        7.6
+        7.7
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5974,
+     "n_hours": 5972,
      "horizon_h": 2,
      "base_gold_up": 52.8,
      "base_dxy_down": 47.8,
@@ -940,10 +940,10 @@
      },
      "up": {
       "3": {
-       "n": 269,
-       "p_dxy": 55.4,
-       "p_gold": 48.7,
-       "gold_avg": -0.7
+       "n": 270,
+       "p_dxy": 55.2,
+       "p_gold": 48.9,
+       "gold_avg": -0.8
       },
       "4": {
        "n": 76,
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "aa522bd2b15a",
-  "fcefaf41f458",
-  "08b9df0c3773",
-  "1fee9dd386e4",
   "9d69f76853bb",
   "a73bd062116a",
   "513761bbedd1",
@@ -3956,7 +3952,11 @@
   "7d5ff487c4cd",
   "f139da2c28f8",
   "7b69d1f7dd70",
-  "6be30819a05d"
+  "6be30819a05d",
+  "af0203f0ce7d",
+  "1b80491148d2",
+  "ca24bdc1ebe5",
+  "261bd99b0ebe"
  ],
  "news": [
   {
@@ -5011,6 +5011,18 @@
    "published": "2026-11-25T11:38:58+00:00",
    "id": "57b998ce6797",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Netanyahu Urges Trump to Strike Iran “As Soon As Possible,” Eisenkot Says No Immediate Threat: 5 outlets compared",
+   "source": "NewsCord",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE9FMDBiVmdrTEhmN0xPMVQwN2Joa3JZR3B3ZHpLMkl1Ujh5VVVVMGxWbl9EaExBMzJMc0ZGVzhZRS1aS0hWamhQMlFJX0pzTGpWYTlnZVJLcTZOZlhlQ1VoeEtxbE51NWR3OUdQR0ZDWnV2aFU3YlBqSEp2LUlpbm43Q1BqNTdMZGNQWEZTeFBpWDF3MWx3bVhzNzNHdGRRSjIxMHktcTZ4NkVnM2piZ2syX21CYjhaUmNCR1dRb01LeThZZ2p1NW5BdzFnNlY4VU05TmpLcDljVFVHSVZDRHBETHIyalZhVHc?oc=5",
+   "published": "2026-11-25T11:22:54+00:00",
+   "id": "1b80491148d2",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,23 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US Secretary of State Rubio condemns Houthi attacks in call with Saudi FM",
-   "source": "batonrougepost.com",
-   "theme": "Géopolitique",
-   "link": "http://www.batonrougepost.com/news/279452793/us-secretary-of-state-rubio-condemns-houthi-attacks-in-call-with-saudi-fm",
-   "published": "2026-11-25T00:30:00+00:00",
-   "id": "8e547cce84b6",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|413a44a70709": 1793821564.513188,
-  "news|64d23cfebf08": 1793821565.5268183,
   "news|c935293b8882": 1793822500.208536,
   "news|9c688dacce08": 1793822501.176364,
   "news|fe08eb0e4088": 1793823367.4091086,
@@ -8266,7 +8264,8 @@
   "news|ce05cfe7ab80": 1795631484.352225,
   "news|1e376b95be37": 1795633307.7041552,
   "news|2781ab7dd1b5": 1795634172.9025795,
-  "news|ba7ba1982d1e": 1795634173.9891975
+  "news|ba7ba1982d1e": 1795634173.9891975,
+  "news|1b80491148d2": 1795636899.261558
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8754,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T20:01:39.261644+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu Urges Trump to Strike Iran “As Soon As Possible,” Eisenkot Says No Immediate Threat: 5 outlets compared</b>\n📰 NewsCord · Mer 25/11 12:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE9FMDBiVmdrTEhmN0xPMVQwN2Joa3JZR3B3ZHpLMkl1Ujh5VVVVMGxWbl9EaExBMzJMc0ZGVzhZRS1aS0hWamhQMlFJX0pzTGpWYTlnZVJLcTZOZlhlQ1VoeEtxbE51NWR3OUdQR0ZDWnV2aFU3YlBqSEp2LUlpbm43Q1BqNTdMZGNQWEZTeFBpWDF3MWx3bVhzNzNHdGRRSjIxMHktcTZ4NkVnM2piZ2syX21CYjhaUmNCR1dRb01LeThZZ2p1NW5BdzFnNlY4VU05TmpLcDljVFVHSVZDRHBETHIyalZhVHc?oc=5"
+  },
+  {
    "ts": "2026-11-25T19:16:13.989323+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Rubio says US struck Iran fearing it would retaliate for Israeli attack - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 25/11 14:47\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJ1MnM3VFIyRWxoVEM5c25DbEVtYXlEajY3XzlqWjZIbVFCOXNlZC1lc1lxVnpxbkY5YmtUWE5jTUJnUjhzV2hyNlhNeU5JaVRFYW01VVZvVmJxNjZjUFQtZW1MRGtJc2lHdEtpOTNYYmM0WFRfWk9XYTA0NDdhR19zWktTT1h4ME91dWx1SFZacmVBMEZCLUdfNHltam5jcVlv0gGoAUFVX3lxTFBxUkduQU9kUjVvSnJ5b0ZlWVVBa0JkTjk5cGF5TTlFSzZaMXh1dEE3c1pvOVdDZU0xYmg1SFZEVU5HckVTUURnRmJKdi1NV29KdTlJSXNpYUVwbk8yMDJkU2RuM1VhUGY3Wi1ZSkI5VVRIcVdzcmtyWDdXYlhURGJJenZfLWdLOTNoZTFzZV9HWEE0cHUydHppM0s5Z05EdkRuUkRNZzFBdA?oc=5"
@@ -9047,11 +9051,6 @@
    "ts": "2026-11-25T05:16:08.423562+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war funding lasts through January as Democratic Congress nears</b>\n📰 The Jerusalem Post · Mer 25/11 03:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5"
-  },
-  {
-   "ts": "2026-11-25T05:01:36.002594+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike</b>\n📰 Ynetnews · Mer 25/11 05:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdzFEc0hDd1lBV0RzaHU2YjgxTXRaUTk2NEY4UWc4TmJlX1ZVa19tcEc4M2xLek96Nkx5cVVzLWRicnlSdmdTSUxUcVdRelFQSnlReTdR?oc=5"
   }
  ],
  "daily_forecast": {
