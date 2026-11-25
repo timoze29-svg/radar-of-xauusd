@@ -957,13 +957,6 @@
   }
  },
  "seen_news": [
-  "1351b3a5e610",
-  "4461584d3a71",
-  "76e21512a164",
-  "5550d7d1d1e3",
-  "eb5810857e0b",
-  "831fc14c3436",
-  "0584532ea991",
   "cdd7454af01f",
   "237a54caf408",
   "3323a8371c71",
@@ -3956,7 +3949,14 @@
   "429bef057952",
   "afe3f76f080a",
   "064a4421d0bb",
-  "c2c837c00ede"
+  "c2c837c00ede",
+  "c3340c11fb10",
+  "e87757b31156",
+  "cf4873fc91af",
+  "eb44a8f9d50d",
+  "ed2ca6806244",
+  "c8d596504180",
+  "e9fea829c9be"
  ],
  "news": [
   {
@@ -4137,6 +4137,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukraine war latest: Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
+   "source": "The Kyiv Independent",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVFFkNmxzcnhpNEJjT0czVGFpdmVWREJxazRNdk9VSDV5alNBWEdkMnM3Nk9aWGZmWm1xUVRrUjJZREVpRDhSLTYzR2wyRE1XNFExUjNVZEpGMnFBd2J1VmRkYU82UE1SaEZadGMwLU5kblRHZ3ZWZ2hWNS1nSU9Uc3lSZGkxd24wLVdCN0s1azlTLUVrakNwM3JTLVZ1VHREWUdHN3dVNm13X1pibGJGNFVQVlRjaFlGWjVLeHJYZlE2QkVMenJKVmlHUmdjSnNuYnpZdVR4TlJiMnVpTXc?oc=5",
+   "published": "2026-11-25T18:53:38+00:00",
+   "id": "e9fea829c9be",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4711,6 +4723,18 @@
    "published": "2026-11-25T13:58:47+00:00",
    "id": "2781ab7dd1b5",
    "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US core PCE inflation poised to accelerate in October and trigger Federal Reserve rate hikes in 2027",
+   "source": "www.tmgm.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNjA4Y1dPSzd4dmpfdjBXZ2NuUHVDRDFmRmZyblZpWElONlBPX3NUYVpuNGRveWJ2cFBJcUZwWjRXRkhTbDhkdzN4VXZuaTN4d1FvZHRfN1VmSzZTOEJqYktuSHN5VERVLTJ2QjVlbkFsaHhfNGJOcmN1dHh6Y2hvWmpOdlo0d2N1bURUQWxQTEMyWDBlcUJtdDRHdVZLT2pWQnFQdUxxT1dxUEttS1dUM0JqRGh5SWx6S0lPT0d3Y25CVEhLaThGcFNWcGd1dENUV2xHSWxMMHZyWE40QV83cnQ0anRHQTRrR1MxbGF1RHhmVkU?oc=5",
+   "published": "2026-11-25T13:56:23+00:00",
+   "id": "eb44a8f9d50d",
+   "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
@@ -6333,30 +6357,6 @@
    "impact": -2,
    "cat": "commerce",
    "raison": "Politique protectionniste ciblant l'Inde, soutenant le dollar au détriment des matières premières.",
-   "method": "IA"
-  },
-  {
-   "title": "Gold Extends Losses on US Tariff-Hike Push, Fed Tightening Fears; $3,500 Support in Focus",
-   "source": "bloomingbit",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uelJpVWVPUVBmemhVWFJoVU1QMlhqQ2g3eHVScGI4QzdWbHdDNlE0V2k5UE1IUGl6eXc3LXloUjVxUnFGTWVLaWU3M3RkekZseWl4Wg?oc=5",
-   "published": "2026-11-25T01:37:52+00:00",
-   "id": "a9c3a88f5127",
-   "impact": -4,
-   "cat": "or",
-   "raison": "Pression vendeuse directe alimentée par la fermeté du dollar et les anticipations Fed.",
-   "method": "IA"
-  },
-  {
-   "title": "Poll finds US voters want government to end Iran war regardless of terms",
-   "source": "Al Jazeera",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm1YOEowMHlEOEFfUDVPVFdFTUFxZzlzd2FTLThDN0hLQmNDaThpZEh1b3BHckMyWE9xcFVkQnB6ZmdOa0lyaS00QTNLT3QwMmkzNXJSTU9YR3ZQQko3c19fLUJjN3liOF91aXp5YU9YQWxDM05TRmhZUjJpcDV0WDZBRVRNY0VMMHA4R1lubzAyR3p6ZzU5WmNETmoyZXJTamVrOEc1Uy13X3JhNzYyN1N2VUTSAboBQVVfeXFMUGMwekN3LWRnMU9RSWQxT292VlZvWWlXY0NEWmJGUmExMWg0RmJLc3hXanhKek9Od042RFVIaEMyVHhmcklVQnJ4TWV2ZmtsTmhuaHY2S2NXODNLcGpnM1B0cEh2SjhhbGhOSk5IU0VqYkNIREItczFWaDdibDlNckNWQnc3RExuWk4yZnRway1jMi1Ra2ZHQU11N1hPdVVHQTlzZHpRRF9NcWd1ZVVjR1JXSC1pRkJLOERR?oc=5",
-   "published": "2026-11-25T01:21:15+00:00",
-   "id": "e05f50d2b161",
-   "impact": -1,
-   "cat": "géopolitique",
-   "raison": "Soutien populaire à la fin du conflit pouvant freiner l'escalade militaire.",
    "method": "IA"
   }
  ],
