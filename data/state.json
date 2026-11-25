@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795550488.6882584,
+   "ts": 1795572709.17485,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
-     "last": 2.77,
-     "date": "2026-11-20",
-     "chg5": -0.14,
+     "last": 2.79,
+     "date": "2026-11-23",
+     "chg5": -0.13,
      "chg20": 0.13,
      "hist": [
-      2.07,
       2.07,
       2.11,
       2.11,
@@ -129,18 +128,18 @@
       2.89,
       2.88,
       2.88,
-      2.77
+      2.77,
+      2.79
      ],
      "gold_rel": -1
     },
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
-     "last": 2.13,
-     "date": "2026-11-23",
-     "chg5": -0.07,
-     "chg20": -0.21,
+     "last": 2.12,
+     "date": "2026-11-24",
+     "chg5": -0.09,
+     "chg20": -0.22,
      "hist": [
-      2.39,
       2.38,
       2.36,
       2.36,
@@ -259,18 +258,18 @@
       2.19,
       2.16,
       2.15,
-      2.13
+      2.13,
+      2.12
      ],
      "gold_rel": 1
     },
     "US2Y": {
      "name": "Taux US 2 ans",
      "last": 4.63,
-     "date": "2026-11-20",
-     "chg5": -0.25,
-     "chg20": -0.02,
+     "date": "2026-11-23",
+     "chg5": -0.2,
+     "chg20": -0.06,
      "hist": [
-      4.05,
       4.05,
       4.08,
       4.05,
@@ -389,6 +388,7 @@
       4.8,
       4.8,
       4.76,
+      4.63,
       4.63
      ],
      "gold_rel": -1
@@ -396,7 +396,7 @@
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -452,9 +452,9 @@
       3.63,
       3.63,
       3.63,
-      3.63,
-      3.63,
-      3.63,
+      3.88,
+      3.88,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "c4d4395e0211",
-  "7a0d3531b574",
-  "0e2b180c9eec",
   "0e31a4da86ee",
   "0c4cf92693a8",
   "f8249b084ce7",
@@ -3956,9 +3953,24 @@
   "97c266ae40a0",
   "1daf4f7958b9",
   "a9c3a88f5127",
-  "4b2bdb261c2d"
+  "4b2bdb261c2d",
+  "a21eb46fc0cb",
+  "5d85ead2e0a2",
+  "fd8401f25a71"
  ],
  "news": [
+  {
+   "title": "Iran Releases Dimona Strike Simulation, Raises Stakes Over Israel's Nuclear Secrets",
+   "source": "The Times of India",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZURid2FVNjRFdHRON2tKZ1hULVJFSnRNLVB6OVRUZFNhSm9vSm5wVXEzVnNNVWNoX2U1U0dLWGZSQkNxQUV6bjZSUWdxWnNrSEp3alNJRjVWY1lOdXg2Q08zNjZkclQyOTVXTm5qcnFFbFIwZ1NtMWczVmp4TFMzTlNwRURabzRUQUY5SGVaWGVYaUhDMDZzV21HRnJuZUxRMkFOZ0tCLV9fbll5RUZLXzVBV214ZkQ5eDg3eXo5WEhvQWlkbnJlaTFFN1ZjbklPU3FocHpsVUFuektYRFpZX0NKZS1nbnFzYXgxTXo4MExIQ0100gH6AUFVX3lxTE9COXc0LTY4Umg0Qnc1MmhnTjI0dUYwOElOQ1EwdDhud3RxckFQajQyUTVwYWJnVDVfVEpmb3dFWUZJdHNDa05wN0pKWlM2VVJ1X0dWbkM0SVU2UzVydm1ZMTBaSU43WHJmaEZnODJjQ0dkWmZncGdKNE5lZFhmdFBBWEVTUGxUbk5PZXdTMDV1MWhIdllZYlZuWG8zb1pZMTFFNEl5TFFhcWR5dnZyY1NISTNFSS1LMGJjc2p4enpiQ3lVNXZxcU9Td2RYb0RIUHhuYVFEX1Rhbzc2Y2VoaDVOOU9NQlpiYlRHdmVPbVB0eFBDQTFhb0lNQ0E?oc=5",
+   "published": "2026-11-25T02:02:53+00:00",
+   "id": "5d85ead2e0a2",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Gold Extends Losses on US Tariff-Hike Push, Fed Tightening Fears; $3,500 Support in Focus",
    "source": "bloomingbit",
@@ -6346,25 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Rhétorique prudente confirmant l'instabilité régionale sans provoquer de choc immédiat.",
    "method": "IA"
-  },
-  {
-   "title": "Oil transit through Strait of Hormuz hits new weekly record",
-   "source": "trend.az",
-   "theme": "Géopolitique",
-   "link": "https://www.trend.az/world/4249914.html",
-   "published": "2026-11-24T03:15:00+00:00",
-   "id": "3e8ebe47e727",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "brk|DXY|pdh|dn|2026-11-03": 1793756773.2374072,
-  "news|22961f52add4": 1793757711.2304096,
-  "news|1bbb7828cfc6": 1793757712.3120148,
-  "news|06bdda86c49e": 1793757713.3350954,
   "news|20d4854a917d": 1793759665.706768,
   "brk|BTC|pwh|dn|2026-11-02/2026-11-08": 1793761311.0084937,
   "brk|BTC|h20|dn|2026-11-02/2026-11-08": 1793761311.9343133,
@@ -8287,7 +8283,8 @@
   "news|eae5d214208d": 1795570292.314046,
   "news|e05f50d2b161": 1795571170.9552164,
   "news|e8bdbbef711b": 1795571171.9325767,
-  "news|d414f66ea809": 1795571172.921207
+  "news|d414f66ea809": 1795571172.921207,
+  "news|5d85ead2e0a2": 1795572731.9404764
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8775,6 +8772,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T02:12:11.940592+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran Releases Dimona Strike Simulation, Raises Stakes Over Israel's Nuclear Secrets</b>\n📰 The Times of India · Mer 25/11 03:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZURid2FVNjRFdHRON2tKZ1hULVJFSnRNLVB6OVRUZFNhSm9vSm5wVXEzVnNNVWNoX2U1U0dLWGZSQkNxQUV6bjZSUWdxWnNrSEp3alNJRjVWY1lOdXg2Q08zNjZkclQyOTVXTm5qcnFFbFIwZ1NtMWczVmp4TFMzTlNwRURabzRUQUY5SGVaWGVYaUhDMDZzV21HRnJuZUxRMkFOZ0tCLV9fbll5RUZLXzVBV214ZkQ5eDg3eXo5WEhvQWlkbnJlaTFFN1ZjbklPU3FocHpsVUFuektYRFpZX0NKZS1nbnFzYXgxTXo4MExIQ0100gH6AUFVX3lxTE9COXc0LTY4Umg0Qnc1MmhnTjI0dUYwOElOQ1EwdDhud3RxckFQajQyUTVwYWJnVDVfVEpmb3dFWUZJdHNDa05wN0pKWlM2VVJ1X0dWbkM0SVU2UzVydm1ZMTBaSU43WHJmaEZnODJjQ0dkWmZncGdKNE5lZFhmdFBBWEVTUGxUbk5PZXdTMDV1MWhIdllZYlZuWG8zb1pZMTFFNEl5TFFhcWR5dnZyY1NISTNFSS1LMGJjc2p4enpiQ3lVNXZxcU9Td2RYb0RIUHhuYVFEX1Rhbzc2Y2VoaDVOOU9NQlpiYlRHdmVPbVB0eFBDQTFhb0lNQ0E?oc=5"
+  },
+  {
    "ts": "2026-11-25T01:46:12.921313+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Despite Trump Remarks, Israeli Officials Say US Knew of Strike on Iran Gas Field</b>\n📰 EnergyNow.com · Mar 24/11 17:21\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3NTVEZNcVR3Sm1pNWxTSXUtbEpZNVVNLWM4eFNMR2d4d3pEMm5JalktX243QmprVVB6aEVXRTB0cXBuclJWZTVNRnNPRWRzWTY2YTlPY3JDeDY5czZuWHpxT1JLUWRHcXRYMFp2S1pSNDdxMTk3ZklzLWpzaGd3SW14Q2xkZlQ2UDZHUmIybEFFTXM4YXczUGJYcVc2bVRXNWlKWm9PRmp5QlZVVklZ?oc=5"
@@ -9068,11 +9070,6 @@
    "ts": "2026-11-24T13:46:06.543651+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran and Bahrain: Between Escalations and Resilience</b>\n📰 ORF Middle East · Mar 24/11 14:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDU2NHlFTGd5U3ZTUHVINjRYdGJFUGtheFJZNUlnLWFIQl94VXVfamZSYnpoUEx5RUxTbU8xWFF1R0dlVHp3Znc1UWpzdV9rQVBvbTRtdUxfQ3hCREVoQWo0M0tmakNsbFBlc1hORzRQWEZRcFNGbjJDZHJra0RCWHJIMERXVHdhZnR3?oc=5"
-  },
-  {
-   "ts": "2026-11-24T13:01:48.708098+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3642.50</b>  (+13.0$ depuis la prévision de ce matin)\nPrévision du matin : 📉 BAISSIER (-15) → maintenant -10 (Neutre)\n⏳ En zone de vente (entre pivot et R1) : attendre une confirmation\n📏 Range fait : 70$ sur ~106$ attendus (67%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall\n🟢 (+8) Texas sent Trump a clear message: End the Iran war. | Editorial\n🔴 (-8) Gold rebound loses steam as Fed interest rate hike bets weigh\n🟢 (+8) Bob Woodward questions the rationale for Trump’s Iran war, says “this is Vietnam again”"
   }
  ],
  "daily_forecast": {
