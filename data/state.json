@@ -957,15 +957,6 @@
   }
  },
  "seen_news": [
-  "c282afb82a22",
-  "779c5402a021",
-  "6b539bb09bfd",
-  "b193fa6a1fa6",
-  "35405e2e958c",
-  "fe5b330d88aa",
-  "34a17a34c9e2",
-  "e03501c621c6",
-  "1fd6740db6ca",
   "95eec0b9d207",
   "57905cd9919c",
   "c4bfd649a505",
@@ -3956,7 +3947,16 @@
   "842163f00dfe",
   "cd71ee45511f",
   "d7e57d393438",
-  "3e89d6a98bac"
+  "3e89d6a98bac",
+  "9a9290b8a72f",
+  "bf2414da84f7",
+  "258389c6e586",
+  "156bcfb0db76",
+  "60ffb4a1785c",
+  "82df5a3e9b01",
+  "bb72988e4ef3",
+  "6deaaf57c2c5",
+  "9d13c7f2f4b4"
  ],
  "news": [
   {
@@ -3969,6 +3969,18 @@
    "impact": -3,
    "cat": "fed",
    "raison": "baissier or (fed, taux)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump’s ‘no war, no peace’ strategy on Iran has run its course",
+   "source": "Arab News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUF2UlJMa3VNRVdTbjNSdjhGcjdBc2R3REVzOHhaY3M2TW1Eb0N0WU5CNDd1UmlweF9mcWZwMEcwSEhxV1daTndWVDVQSXlGcnMtcFBKNUVDUWtLSXU5MHdVX0RBbVphcVp3UTBBRVRFN1JiZ2hydTQ0bUV2Tk11U1ViSzhDZHhCUDhCMlNzNklfb2FRQnRhZnJXdklmRml3?oc=5",
+   "published": "2026-11-25T15:18:58+00:00",
+   "id": "156bcfb0db76",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -4017,6 +4029,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump 'backed into a corner is a dangerous Donald Trump': Sky's Yalda Hakim on Iran war risks",
+   "source": "MS NOW",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjkzcXR4MTBnYzFObkpuR2JXeTVWaGF6OEU4V0E3UGotQ3BRYmJWZVFBSldfVTE2cDc4RERhLUFkMXNnV18zaUlhanVhaEo2SFcyNFd6bm1fV01iQkdwRlVBUG1pRk5ISXhzaTNWSTN4Ylgyd1piNWdTcjdlMHhkZUZMdHZYY3VOOUNaS2x3eThLODhlb0J0clpyTGxpV3ZYQWpFZllxVGpCcnpOZjRCUVMxdHJNbU1YMUFwSkUtTUdWSXpXQlVwX0JvSFZVUWxDQXBmZlBGLWQ?oc=5",
+   "published": "2026-11-25T14:56:28+00:00",
+   "id": "60ffb4a1785c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6334,38 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Rhétorique belliqueuse renforçant la demande d'or comme valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Iran orders Hormuz closed  further day by day  as Qatar seeks to revive peace talks One News Page",
-   "source": "onenewspage.com",
-   "theme": "Géopolitique",
-   "link": "https://www.onenewspage.com/story/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-ta-f3828a8b/",
-   "published": "2026-11-24T20:15:00+00:00",
-   "id": "72d14018cb2c",
-   "impact": 7,
-   "cat": "géopolitique",
-   "raison": "Menace majeure sur le détroit d'Ormuz déclenchant panique géopolitique et choc pétrolier.",
-   "method": "IA"
-  },
-  {
-   "title": "Eleven hurt in second Houthi strike within days on Riyadh tallest tower",
-   "source": "jpost.com",
-   "theme": "Géopolitique",
-   "link": "https://www.jpost.com/middle-east/article-916001",
-   "published": "2026-11-24T20:15:00+00:00",
-   "id": "e2aafa8d706f",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Multiplication des attaques contre la capitale saoudienne, prime de risque géopolitique renforcée.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|1d93fd09c429": 1793806306.3357427,
-  "big|BTC|2026-11-04": 1793806307.590224,
-  "news|723c23b15a8f": 1793807204.938166,
-  "news|15ea3bba500c": 1793807205.7676966,
-  "news|73a54471c2f8": 1793808100.9465966,
   "news|f2179a99796f": 1793808971.6618195,
   "news|b8e27751153a": 1793810083.4443424,
   "news|8c960f88e375": 1793810898.941997,
@@ -8278,7 +8273,9 @@
   "brk|GOLD|pwh|dn|2026-11-23/2026-11-29": 1795617974.281207,
   "brk|GOLD|h20|dn|2026-11-23/2026-11-29": 1795617975.111101,
   "brk|GOLD|h250|dn|2026-11-23/2026-11-29": 1795617975.9184933,
-  "news|b3b08f630de6": 1795618903.3007755
+  "news|b3b08f630de6": 1795618903.3007755,
+  "news|156bcfb0db76": 1795622508.4015508,
+  "news|60ffb4a1785c": 1795622511.7091894
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8766,6 +8763,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T16:01:51.709293+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump 'backed into a corner is a dangerous Donald Trump': Sky's Yalda Hakim on Iran war risks</b>\n📰 MS NOW · Mer 25/11 15:56\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjkzcXR4MTBnYzFObkpuR2JXeTVWaGF6OEU4V0E3UGotQ3BRYmJWZVFBSldfVTE2cDc4RERhLUFkMXNnV18zaUlhanVhaEo2SFcyNFd6bm1fV01iQkdwRlVBUG1pRk5ISXhzaTNWSTN4Ylgyd1piNWdTcjdlMHhkZUZMdHZYY3VOOUNaS2x3eThLODhlb0J0clpyTGxpV3ZYQWpFZllxVGpCcnpOZjRCUVMxdHJNbU1YMUFwSkUtTUdWSXpXQlVwX0JvSFZVUWxDQXBmZlBGLWQ?oc=5"
+  },
+  {
+   "ts": "2026-11-25T16:01:48.401635+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s ‘no war, no peace’ strategy on Iran has run its course</b>\n📰 Arab News · Mer 25/11 16:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUF2UlJMa3VNRVdTbjNSdjhGcjdBc2R3REVzOHhaY3M2TW1Eb0N0WU5CNDd1UmlweF9mcWZwMEcwSEhxV1daTndWVDVQSXlGcnMtcFBKNUVDUWtLSXU5MHdVX0RBbVphcVp3UTBBRVRFN1JiZ2hydTQ0bUV2Tk11U1ViSzhDZHhCUDhCMlNzNklfb2FRQnRhZnJXdklmRml3?oc=5"
+  },
+  {
    "ts": "2026-11-25T15:01:43.300869+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war live: Two oil tankers explode in Strait of Hormuz</b>\n📰 Arabian Business · Mer 25/11 09:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -9054,16 +9061,6 @@
    "ts": "2026-11-25T01:16:05.523818+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Exclusive | Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change</b>\n📰 New York Post · Mer 25/11 01:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUNqbDJZV1V1ZXh6RnNsNHpoM1VDRzRZVGhvY3FacHJLRXF4LThRX2JURU1wLXlFd2RrdnFTc3k0UW5XclV3dUF4Z0hKVnloYU9tTWpUZXpRSVA3TW0zU3ZGT3d4S2VuaUpId2xkZG40U0ZzSEFVUXZYYldYN0dTWDVVZFpISzExeFlWQ19jZEdsNWVYdlZ3bVR0bVdCUXo1cWdYWjMzZGFmeUkyV3lxQS03S0VibU52QVZMbVZlOTRjNkN6amRGRGZMZnY?oc=5"
-  },
-  {
-   "ts": "2026-11-25T01:16:04.674745+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump administration weighs targeting Iran's top regime leaders in bid to end war: report</b>\n📰 Fox News · Mer 25/11 01:36\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnNZcmZpZjJDZlR4cXZkZGhIU2p4QXV4M3pUWF9EVjJsTndtdzd0YkxQRGY4VWNEQVFOOTAyNFBsakM3Ti1sNG9BcG1aMGFfOGIxZ2xLNGxPUFpOWWZJeWdNc1Nqczd1aGlQNlJlRjQ3VjRYdVRDOXFfdWdzMHBRTG1GNzFvMjZRT3k1empaSGw5dGpLbTVrZFNWOTZ4aWd0Rk9YWTJoa3JXVVZYREQyV9IBtgFBVV95cUxOeTBJUWdvTVV0cWhBSnk1Mjl3VUxIaU1nRU43bmt6U2VpTUJDUzM5S2xZOUNkYXE1bkVNYnRnaTNncnpISWJCTE5iV3JMeXRrYXBXcmU4eUJWYUpWNG9UVlZmdEFEOEpVbmhtakZxT0V3NW1XRG1yME02S3hKR3BITWQ5RjVyYlU2UWxWY1A5Q1RmdXlsd2E3VXM1WGJsUnRvY3lnWlpGbU5PYWxBZS1KLXY0QkFuUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-25T01:16:03.789956+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>The US urges its citizens to exercise extreme caution in the Middle East amid the escalation of attacks by Iran and the Houthis</b>\n📰 Demócrata · Mer 25/11 01:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdl9WZm1LTTZwOWJUcVljTUFVYlFYOW9iUU1TQ21kUXJSMzhmSG9yY3Nhblh6MFNVbElGQmw4STRqajZkS2haQW1KbnZHNW1QSGRxcmdaekx5MUNWQWlEQmNQcnR2Qmpod1l3enZRU0FldGN3NmlSV0xJMzdMTlFqaFJwdmYtWV9teF9VN0lFVUNOZDdOWldTUXlBcFFCMjA0aGZJLTBHd1hvcjBTajhnQnFVcW50OUpRMjdCUEVfSE5BajY0TWhrWU9qMXRFWnBVYXVnaUdtSkZHbWNyUTZ2ODh0WlctaFNGYjg1T1ZrSWxDZWwwdVcwQ3VfS2dubzTSAYQCQVVfeXFMTVEzTVhmaVhxUlpkWlk2WWstUTBMWGtBRGZtOWpPNk1jNFpBY3BGZUFXTm1jWWJKWUdCTTB2WXVyWmhZLWlsbDNETF8xTVpiTW5JX0FVUDdKcEtaRE9CVlE3YW0tZ2NESmk3Z1drZjMtX2pCQTNwOENwbk1vZ1lVRFpRMkJGa1BaVkx4MjVUaUR1UHFtdFZ4amVubFZTN3RkQXhaWUhUM2tyUU94Y2hLVWdITzFxUlFIazZaa0ctZHBsNHJ3dDhoU0JUWnJSTUg3R3NXNjdOSDZxd3dDZG9EeVZzTHljNUM5NDBHMi1NRTBVOGczTnVCUFJCX3lQdEppRUY1QzM?oc=5"
   }
  ],
  "daily_forecast": {
