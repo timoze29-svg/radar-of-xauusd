@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "df4a7f935832",
-  "6bf8af0f1664",
-  "5a89c754a3b6",
-  "1c0a111a8744",
   "bdea091326a2",
   "7e7d0111cd67",
   "df981210ed12",
@@ -3956,9 +3952,25 @@
   "756e55695eab",
   "012e9f8506a5",
   "003fdab96dbc",
-  "147265ba300d"
+  "147265ba300d",
+  "03c86bdebd25",
+  "53d5b446a971",
+  "8742b1d927d4",
+  "eec8172af89c"
  ],
  "news": [
+  {
+   "title": "India news: Trump administration set to unveil new tariffs after probe",
+   "source": "DW.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2dTWUpPVTVVZXE2QUVrQTRXcEtOM05qNFlpRXhWQVBpR0h0aDRUREdVdjlaNTRRS0hGR2dIYnVxWlZicU1ZTEFvMlpoZl9GZ2tvaVpxb3J1bkhNSHQ1NDJFcTNMZGpSbXNkQVJZNTNSNlliUnhvenlPOWk1bUsxNWJ1eHk5UHZXTkRwUFpKcXNwdw?oc=5",
+   "published": "2026-11-25T04:48:03+00:00",
+   "id": "8742b1d927d4",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Houthis Threaten Saudi Red Sea Ports as Yemen-Saudi Escalation Intensifies",
    "source": "Modern Diplomacy",
@@ -3967,6 +3979,18 @@
    "published": "2026-11-25T04:36:18+00:00",
    "id": "adffba408526",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike",
+   "source": "Ynetnews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdzFEc0hDd1lBV0RzaHU2YjgxTXRaUTk2NEY4UWc4TmJlX1ZVa19tcEc4M2xLek96Nkx5cVVzLWRicnlSdmdTSUxUcVdRelFQSnlReTdR?oc=5",
+   "published": "2026-11-25T04:09:55+00:00",
+   "id": "53d5b446a971",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6334,39 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Iran says three tankers hit mines in Hormuz despite U . S . escort",
-   "source": "cnbc.com",
-   "theme": "Géopolitique",
-   "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
-   "published": "2026-11-24T06:30:00+00:00",
-   "id": "b4e463e6c9e6",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump Promised Iowa a New Steel Plant. Voters Still Punished Republicans for His Tariffs.",
-   "source": "Reason Magazine",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVTFpQ1Z6NkQ4WVV2NDBnQWZPczBwQkMzY2dEMUlKY0hmeVg4MFdRVTZGMUY0ZWJnNmdmTU5jSWFXdWNzcno3bG9kUDVJNUdpaWhTUEFYbUdqVGNjdmRpUzJoWTFOX2I1d1BTOU8zZS0?oc=5",
-   "published": "2026-11-24T06:11:24+00:00",
-   "id": "a544afba3b63",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|c5097d6d0504": 1793765784.651273,
-  "news|ceab28a42433": 1793766687.121464,
-  "news|3d5d977321c7": 1793767570.35152,
-  "news|a47fcdab61dd": 1793767571.37052,
-  "news|fddab3d9d992": 1793768494.7462535,
-  "news|27f8f1c54d2a": 1793768495.7784336,
   "brk|DXY|pdh|dn|2026-11-04": 1793769532.813374,
   "news|294c3ae1e59c": 1793770287.2005632,
   "news|ccf135dea346": 1793770288.0260825,
@@ -8283,7 +8277,8 @@
   "news|6685784da1e6": 1795575699.3387825,
   "news|fc3d2a207205": 1795579292.329822,
   "news|4207083d6c29": 1795579295.9385784,
-  "news|b0b6bd0d2413": 1795580165.0781248
+  "news|b0b6bd0d2413": 1795580165.0781248,
+  "news|53d5b446a971": 1795582896.0025108
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8771,6 +8766,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T05:01:36.002594+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike</b>\n📰 Ynetnews · Mer 25/11 05:09\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdzFEc0hDd1lBV0RzaHU2YjgxTXRaUTk2NEY4UWc4TmJlX1ZVa19tcEc4M2xLek96Nkx5cVVzLWRicnlSdmdTSUxUcVdRelFQSnlReTdR?oc=5"
+  },
+  {
    "ts": "2026-11-25T04:16:05.078208+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Footage Shows Strike Destroying Parked Iran Air Jet at Bu...</b>\n📰 X · Mer 25/11 01:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuaGdWUmhyd05qVWNtMjNYTWZIZExlbmFwNDBEQjlWNjVfdWRYYlJjUk1JWnRnYWhlamlLMHRyWHZwTXVOU3JCdjB5Mkc0akJCN3NBSjd1OA?oc=5"
@@ -9064,11 +9064,6 @@
    "ts": "2026-11-24T14:31:30.738780+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Middle East latest: Riyadh tower targeted in terrorist attack, Saudi-led coalition says</b>\n📰 The National · Mar 24/11 11:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhnd0U5NHV1U0V6RmlPTGhnMlM3WFFQWWdJQjlTRFBkVUJreHQ3VVZKZnFtNmNpTGZucTZrbHRzZHVmd0JlN3ljLWlIWU8wWUJuZ0V1ZHBVT2FuYVVpUTJnQ1MzSkg3V3VQcFd3VkItQUNLTDJtM0ZORHBKbWJZUllENjdhZzZuSzR2T3ItTlBvRnhSQ09HTQ?oc=5"
-  },
-  {
-   "ts": "2026-11-24T14:16:14.263309+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump Seeks Permanent Iran Nuclear Deal as Tehran Demands End to Blockade</b>\n📰 The Media Line · Mar 24/11 12:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFlHQ0VOMDdCaE01ZURKX1Y3aFFhNlc4VUxqTERVWWZ3NC1yMmpBamJXSU9rTTlMbTZWNW5lbzd2TjBpOF9IbUl1MkY0ZjRvRjhfNERLNWlqWmY4am9PMDEyeVB4S295eWRuYVN6b19jUzhHd1pPRENFT2FPOGNkOG1CR3RWR3JDZGlaczhLcE1MTTh4Y2RRMGIwS2pOX0k2OGlWSWozcE1Ra1lHbW1CQUd0X1MyM2NCSDdN?oc=5"
   }
  ],
  "daily_forecast": {
