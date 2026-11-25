@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "a0e47d554f28",
-  "fa9776044912",
-  "5589b122c9dc",
-  "c3a6e5b206aa",
   "d7830a618cb4",
   "2f7bbf2318c9",
   "62ebc4434064",
@@ -3956,9 +3952,37 @@
   "cdb66399db2a",
   "306427de0801",
   "c250888136c7",
-  "598150d579b9"
+  "598150d579b9",
+  "9bf9d5fa51ff",
+  "84549ee244fc",
+  "7daa3b8cc708",
+  "ae1fefea585e"
  ],
  "news": [
+  {
+   "title": "Eisenkot, pushing to oust Netanyahu, sharpens warnings over new Iran strikes",
+   "source": "The Washington Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkhOZm1VUmwzQkwxSW4yOC1fZ1JqcXl4MlZZdnI3MTNmWUE4eEg2QUliYWRETWU2blAzNlAycDBjQzd3Z0ZfNkZ0SDh1WWw4aHZtdmRTZG9iZjJJeVMxT1dKa0ROWVhzbTVNRmhiUHpPRXJWaVFyQmQ2dUoxSkVUN2djT3V0MDNWY3g2M2hMV1Z1U2doRnhEcnJRbW5ZamVpZU9GcHJmNGtnR21weWt0RXRGVm8wWFhXc2pLTw?oc=5",
+   "published": "2026-11-25T17:32:37+00:00",
+   "id": "9bf9d5fa51ff",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Treasury Yields Fall as Investors Seek Bond Protection",
+   "source": "Demokratis.co.id",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OQ2FyaWgwRng4bjE2YUpRaUlESXlaYnZ6QnEzUk51ODg3N0FBX2NzNWE3X25BSW42cFgzMmpWYVpDQjk0NXFFa1dhTmpOdEt4QmNyeGJEUVlJQm1aNWY3Ri1mZDQyQk1GOS1VWlVwekgxZw?oc=5",
+   "published": "2026-11-25T17:30:00+00:00",
+   "id": "ae1fefea585e",
+   "impact": 5,
+   "cat": "taux",
+   "raison": "haussier or (taux)",
+   "method": "mots-clés"
+  },
   {
    "title": "White House tariffs announced on China, Vietnam, as inflation data comes back hot",
    "source": "Fortune",
@@ -6334,36 +6358,9 @@
    "cat": "fed",
    "raison": "baissier or (fed)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Israeli Defense Minister Accuses Iran of Developing Chemical Weapons and Raises Possibility of Preemptive Strike",
-   "source": "SFG Media",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUsyRzhsX1REZUlxREoydFpQeFpxTDJ1UUc1ZmFvbGF4aXZEQkE1YlJmVDJFUVlSeHozelB4a3I2bUlxUEVrOXdCVy1EckF1czNPcHJQV18xTjlDa3pfeExjcjJpMl9BaTdrWTM5cmZlVWZSNHlQX29ueERRUDNKR2NBeWI2Ti1ndS1BenZmcUs?oc=5",
-   "published": "2026-11-24T21:14:46+00:00",
-   "id": "d717fda83c68",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus",
-   "source": "Mining.com",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
-   "published": "2026-11-24T21:03:57+00:00",
-   "id": "3dd39b587e84",
-   "impact": -3,
-   "cat": "fed",
-   "raison": "Anticipations de Fed hawkish et hausse des rendements réels pèsent sur l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|4a209ff970da": 1793813498.2535806,
-  "news|32da6f6d9f11": 1793813499.077769,
-  "big|OIL|2026-11-04": 1793813500.2602298,
   "news|54e17e0221d4": 1793814373.234051,
   "news|4bedb24f5a39": 1793814374.3403814,
   "brk|OIL|h20|dn|2026-11-02/2026-11-08": 1793814375.5072236,
@@ -8273,7 +8270,8 @@
   "brk|US10Y|h20|dn|2026-11-23/2026-11-29": 1795624291.11704,
   "brk|DXY|pdh|dn|2026-11-25": 1795626972.7064414,
   "news|b1eb0bc85d06": 1795627888.512046,
-  "news|306427de0801": 1795627889.3163512
+  "news|306427de0801": 1795627889.3163512,
+  "news|9bf9d5fa51ff": 1795628768.391138
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8761,6 +8759,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T17:46:09.421305+00:00",
+   "kind": "dollar_pressure",
+   "text": "⚠️ <b>DOLLAR SOUS PRESSION — risque de baisse</b>\n🥇 Lecture : <b>HAUSSIER pour l'or</b>\n\n<b>Sur les 60 dernières minutes :</b>\n✅ DXY -0.23%\n▫️ Taux US 10 ans +0.6 pb\n▫️ Pétrole +0.37%\n✅ EUR/USD +0.18%\n✅ News dollar/Fed : 2 (impact moyen or +4.5)\n   • Treasury Yields Fall as Investors Seek Bond Protection\n   • White House tariffs announced on China, Vietnam, as inflation data comes back hot\n\n<i>Pas assez d'historique pour chiffrer cette configuration : à confirmer avec ta technique.</i>"
+  },
+  {
+   "ts": "2026-11-25T17:46:08.391210+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Eisenkot, pushing to oust Netanyahu, sharpens warnings over new Iran strikes</b>\n📰 The Washington Post · Mer 25/11 18:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkhOZm1VUmwzQkwxSW4yOC1fZ1JqcXl4MlZZdnI3MTNmWUE4eEg2QUliYWRETWU2blAzNlAycDBjQzd3Z0ZfNkZ0SDh1WWw4aHZtdmRTZG9iZjJJeVMxT1dKa0ROWVhzbTVNRmhiUHpPRXJWaVFyQmQ2dUoxSkVUN2djT3V0MDNWY3g2M2hMV1Z1U2doRnhEcnJRbW5ZamVpZU9GcHJmNGtnR21weWt0RXRGVm8wWFhXc2pLTw?oc=5"
+  },
+  {
    "ts": "2026-11-25T17:31:29.316464+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US PCE rises 3.8% in October: experts say Fed rate hike in December a done deal</b>\n📰 TradingView · Mer 25/11 15:19\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWotaVJJMldmc3pzV0ZBVVZYQnFDalVrdTZLWERieV9RaGFlOXFkVkhKaURISVI5UndkTS1YNjRwLWZtQU1pYTZwTTNLTXdJVVI4Wm4xTnJFemFidm8yekVBM0RhT2tmV05hTDJKaEE0ZlQyYTAyQmhIT1VUQnJsb1FBTGZkSVlKUTd0SHlUcFdGLTAxOGFXNG5Ud3N5RVdDOWVLUnNiaXVRbkYwM0p3MUFaZEFRNUJoajFrQUV0QTJkVmRrQi1aMHZ1UTU2UmM?oc=5"
@@ -9049,16 +9057,6 @@
    "ts": "2026-11-25T02:31:24.355127+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump says Iran war funding lasts through January as Democratic Congress nears</b>\n📰 The Jerusalem Post · Mer 25/11 03:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5"
-  },
-  {
-   "ts": "2026-11-25T02:16:05.851881+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Eleven injured in Houthi attack on Riyadh financial district tower</b>\n📰 Arabian Business · Mer 25/11 01:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-25T02:12:11.940592+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran Releases Dimona Strike Simulation, Raises Stakes Over Israel's Nuclear Secrets</b>\n📰 The Times of India · Mer 25/11 03:02\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZURid2FVNjRFdHRON2tKZ1hULVJFSnRNLVB6OVRUZFNhSm9vSm5wVXEzVnNNVWNoX2U1U0dLWGZSQkNxQUV6bjZSUWdxWnNrSEp3alNJRjVWY1lOdXg2Q08zNjZkclQyOTVXTm5qcnFFbFIwZ1NtMWczVmp4TFMzTlNwRURabzRUQUY5SGVaWGVYaUhDMDZzV21HRnJuZUxRMkFOZ0tCLV9fbll5RUZLXzVBV214ZkQ5eDg3eXo5WEhvQWlkbnJlaTFFN1ZjbklPU3FocHpsVUFuektYRFpZX0NKZS1nbnFzYXgxTXo4MExIQ0100gH6AUFVX3lxTE9COXc0LTY4Umg0Qnc1MmhnTjI0dUYwOElOQ1EwdDhud3RxckFQajQyUTVwYWJnVDVfVEpmb3dFWUZJdHNDa05wN0pKWlM2VVJ1X0dWbkM0SVU2UzVydm1ZMTBaSU43WHJmaEZnODJjQ0dkWmZncGdKNE5lZFhmdFBBWEVTUGxUbk5PZXdTMDV1MWhIdllZYlZuWG8zb1pZMTFFNEl5TFFhcWR5dnZyY1NISTNFSS1LMGJjc2p4enpiQ3lVNXZxcU9Td2RYb0RIUHhuYVFEX1Rhbzc2Y2VoaDVOOU9NQlpiYlRHdmVPbVB0eFBDQTFhb0lNQ0E?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9341,6 +9339,6 @@
  },
  "dp_last": {
   "status": "down",
-  "ts": "2026-11-24T14:46:16.050916+00:00"
+  "ts": "2026-11-25T17:46:09.421283+00:00"
  }
 }
