@@ -957,7 +957,6 @@
   }
  },
  "seen_news": [
-  "30e96c112250",
   "3d225dd8e4f3",
   "28599abdfe18",
   "7e2ceeec1f91",
@@ -3956,7 +3955,8 @@
   "538aeb76f250",
   "1dde1b924697",
   "8345b28880ae",
-  "0e2a26c3c329"
+  "0e2a26c3c329",
+  "b3b08f630de6"
  ],
  "news": [
   {
@@ -4858,6 +4858,18 @@
    "cat": "géopolitique",
    "raison": "Tensions militaires persistantes en mer Rouge maintenant une demande modérée d'actifs sûrs.",
    "method": "IA"
+  },
+  {
+   "title": "Iran war live: Two oil tankers explode in Strait of Hormuz",
+   "source": "Arabian Business",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "published": "2026-11-25T08:25:29+00:00",
+   "id": "b3b08f630de6",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties?",
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Tensions géopolitiques persistantes mais largement intégrées, effet haussier très marginal sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Trump administration debates targeting top Iranian leaders to end war: Report",
-   "source": "Anadolu Ajansı",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWpUdE91QzByd2hEQkhqZ0o2cXFCRm16eWh6WHQ5T0NzT2ZyVkx6a25RUkxTakNyQVUyMGFMdzhUUG8xT29CaWcwWTFnWkxsM3JwYzBHWWJOWGhtSm5UdzVwQ3JOSXBwQnFTLVNudURSOU96Tkd6d2toazdER3dtMHpzVXdfT3JWQmQwU1ZMVVJqTktsd1I0SXphcGVzS2Q3UV9Sb2lrS1RmeW0wQ0o2VVdSalU?oc=5",
-   "published": "2026-11-24T17:24:27+00:00",
-   "id": "d7bb99ca0e26",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Perspectives de frappes directes contre le leadership iranien provoquant une fuite vers l'or.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|32aa35c7e8ba": 1793804502.1748827,
   "news|1d93fd09c429": 1793806306.3357427,
   "big|BTC|2026-11-04": 1793806307.590224,
   "news|723c23b15a8f": 1793807204.938166,
@@ -8278,7 +8277,8 @@
   "news|6333020ddacf": 1795617973.1363041,
   "brk|GOLD|pwh|dn|2026-11-23/2026-11-29": 1795617974.281207,
   "brk|GOLD|h20|dn|2026-11-23/2026-11-29": 1795617975.111101,
-  "brk|GOLD|h250|dn|2026-11-23/2026-11-29": 1795617975.9184933
+  "brk|GOLD|h250|dn|2026-11-23/2026-11-29": 1795617975.9184933,
+  "news|b3b08f630de6": 1795618903.3007755
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8766,6 +8766,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T15:01:43.300869+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war live: Two oil tankers explode in Strait of Hormuz</b>\n📰 Arabian Business · Mer 25/11 09:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+  },
+  {
    "ts": "2026-11-25T14:46:15.918598+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE MAJEURE</b> ⬇️\n\n<b>Or (XAUUSD)</b> casse le plus bas sur 1 AN\nNiveau : 3 502.90 → prix : <b>3 494.20</b>\nATR jour : 113.3$ | Pivot hebdo : 3640.9"
@@ -9059,11 +9064,6 @@
    "ts": "2026-11-25T01:16:03.789956+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>The US urges its citizens to exercise extreme caution in the Middle East amid the escalation of attacks by Iran and the Houthis</b>\n📰 Demócrata · Mer 25/11 01:58\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdl9WZm1LTTZwOWJUcVljTUFVYlFYOW9iUU1TQ21kUXJSMzhmSG9yY3Nhblh6MFNVbElGQmw4STRqajZkS2haQW1KbnZHNW1QSGRxcmdaekx5MUNWQWlEQmNQcnR2Qmpod1l3enZRU0FldGN3NmlSV0xJMzdMTlFqaFJwdmYtWV9teF9VN0lFVUNOZDdOWldTUXlBcFFCMjA0aGZJLTBHd1hvcjBTajhnQnFVcW50OUpRMjdCUEVfSE5BajY0TWhrWU9qMXRFWnBVYXVnaUdtSkZHbWNyUTZ2ODh0WlctaFNGYjg1T1ZrSWxDZWwwdVcwQ3VfS2dubzTSAYQCQVVfeXFMTVEzTVhmaVhxUlpkWlk2WWstUTBMWGtBRGZtOWpPNk1jNFpBY3BGZUFXTm1jWWJKWUdCTTB2WXVyWmhZLWlsbDNETF8xTVpiTW5JX0FVUDdKcEtaRE9CVlE3YW0tZ2NESmk3Z1drZjMtX2pCQTNwOENwbk1vZ1lVRFpRMkJGa1BaVkx4MjVUaUR1UHFtdFZ4amVubFZTN3RkQXhaWUhUM2tyUU94Y2hLVWdITzFxUlFIazZaa0ctZHBsNHJ3dDhoU0JUWnJSTUg3R3NXNjdOSDZxd3dDZG9EeVZzTHljNUM5NDBHMi1NRTBVOGczTnVCUFJCX3lQdEppRUY1QzM?oc=5"
-  },
-  {
-   "ts": "2026-11-25T00:46:05.562365+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Trading Alert: Gold Prices Plunge 2%! Fed’s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data</b>\n📰 Moomoo · Mer 25/11 00:40\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQM3h6NjJscnZwYUhkSEJPVFVweTl4R2thNHFURnE4dWtIWUZfSnhlTFZVMmZHRVdFYl9jSzBjWmJHNGlfdGp6emh0cGhRSjdHV2t1MzFrcDJxY0hKMmtIcEdmdS12WU05MHVZeFNIVE8xUjR2MWZmWUs4STEtODBIWF96RGg5X2RlQWw1al85cHctSm55Xy12dFM3UU9LUQ?oc=5"
   }
  ],
  "daily_forecast": {
