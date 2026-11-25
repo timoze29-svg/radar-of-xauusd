@@ -957,12 +957,6 @@
   }
  },
  "seen_news": [
-  "f8249b084ce7",
-  "b1d2c6bb1e7e",
-  "e6e16313e858",
-  "4ab9163d8a8d",
-  "60c5988f8a39",
-  "5df0e4e9ae2f",
   "c540c7fe2392",
   "c957f4b4180c",
   "2d1bb58e8f04",
@@ -3956,9 +3950,39 @@
   "5d85ead2e0a2",
   "fd8401f25a71",
   "9b8fd15779ee",
-  "8334c46a89e4"
+  "8334c46a89e4",
+  "1d8ff82312d4",
+  "404c5c332b38",
+  "688029cb73b7",
+  "6d73fc5627d9",
+  "04b7190fe1cc",
+  "4757429a2184"
  ],
  "news": [
+  {
+   "title": "Photograph : Trump tariffs",
+   "source": "Las Vegas Sun",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MSFpncG52MVF1Z1FibkMxN2lnbzdSRnpXNTJVQTJra19sNFA3azBCcXVfWFJKZmduLTFhNWFUR1RpcDdfSWlGN2JfN1JfQm1BdGE1X1RyRy11Z2RiaF9r?oc=5",
+   "published": "2026-11-25T02:16:45+00:00",
+   "id": "6d73fc5627d9",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Donald Trump says Iran war funding lasts through January as Democratic Congress nears",
+   "source": "The Jerusalem Post",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5",
+   "published": "2026-11-25T02:05:13+00:00",
+   "id": "404c5c332b38",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran Releases Dimona Strike Simulation, Raises Stakes Over Israel's Nuclear Secrets",
    "source": "The Times of India",
@@ -6334,30 +6358,6 @@
    "cat": "géopolitique",
    "raison": "Cyberattaques maritimes augmentant le risque d'escalade directe entre Washington et Téhéran.",
    "method": "IA"
-  },
-  {
-   "title": "Russian attack kills 2 people, wounds 22 in Ukraine's Zaporizhzhia, official says",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRl9vM3Z6UzJTZlZjU3JmcDhQem1tVS1rMS1yemtlVjFicVlnZjVqTFRBUGlrWG1LTWU1b29waVI2NEthUnZFZ0VzMVRaclZDaURJNWk0MDNOdWtaQnJwU2RteUhISWdqYXg0R2VoSEd0S0ZKM01hVUxTS2pwbWZSOHdVNkRYUmVkRURSRTN6RmtvemF1bmFFZnUtZXZwU1JkV0hha3lLSGVoaGR2cE5hSTdIZ2pibk1W?oc=5",
-   "published": "2026-11-24T04:18:00+00:00",
-   "id": "fea170c9b304",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Russian attack kills 2 people in Ukraine's Zaporizhzhia, governor says",
-   "source": "Reuters",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRl9vM3Z6UzJTZlZjU3JmcDhQem1tVS1rMS1yemtlVjFicVlnZjVqTFRBUGlrWG1LTWU1b29waVI2NEthUnZFZ0VzMVRaclZDaURJNWk0MDNOdWtaQnJwU2RteUhISWdqYXg0R2VoSEd0S0ZKM01hVUxTS2pwbWZSOHdVNkRYUmVkRURSRTN6RmtvemF1bmFFZnUtZXZwU1JkV0hha3lLSGVoaGR2cE5hSTdIZ2pibk1W?oc=5",
-   "published": "2026-11-24T04:18:00+00:00",
-   "id": "4d654671b635",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8285,7 +8285,8 @@
   "news|e8bdbbef711b": 1795571171.9325767,
   "news|d414f66ea809": 1795571172.921207,
   "news|5d85ead2e0a2": 1795572731.9404764,
-  "news|9b8fd15779ee": 1795572965.8517323
+  "news|9b8fd15779ee": 1795572965.8517323,
+  "news|404c5c332b38": 1795573884.3550138
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8773,6 +8774,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T02:31:24.355127+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump says Iran war funding lasts through January as Democratic Congress nears</b>\n📰 The Jerusalem Post · Mer 25/11 03:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5"
+  },
+  {
    "ts": "2026-11-25T02:16:05.851881+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Eleven injured in Houthi attack on Riyadh financial district tower</b>\n📰 Arabian Business · Mer 25/11 01:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -9066,11 +9072,6 @@
    "ts": "2026-11-24T13:46:09.891010+00:00",
    "kind": "breakout",
    "text": "💥 <b>CASSURE FORTE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la SEMAINE PASSÉE\nNiveau : 4.906 → prix : <b>4.888</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.02 | 60j -0.06"
-  },
-  {
-   "ts": "2026-11-24T13:46:09.038616+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.908 → prix : <b>4.888</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.02 | 60j -0.06"
   }
  ],
  "daily_forecast": {
