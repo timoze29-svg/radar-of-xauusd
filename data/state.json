@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795616155.2623193,
+   "ts": 1795638668.5477486,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795634152.7624764,
+   "ts": 1795638668.623435,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "15578d5bcb91",
-  "60de4fe766a8",
-  "766b99c84e6a",
-  "dfb38fad14f8",
   "07b22771a2de",
   "dde313d296fb",
   "b7f8056041d5",
@@ -3956,9 +3952,25 @@
   "2acbf00d876c",
   "0f684de675da",
   "4325f22960b8",
-  "213b8f8e6710"
+  "213b8f8e6710",
+  "512a17658d06",
+  "246d5a33fb71",
+  "6e16b95c91fb",
+  "cf1b30c4657e"
  ],
  "news": [
+  {
+   "title": "US envoy Kushner warns against Ukraine war escalation",
+   "source": "Arab News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1JNaVlKaXdDZno4ZVpyVzF0bVEtbFJEb0ZKR1dkTl9feUlTTUNtcVYtYV83ejk0NGlGY2RKdk5OaDFDTmFQa2EyVkJLVXFQcEFhQldyYm9UcjFkUS1JcGtpeF84YWE1MGxVUUtfU2syc1hLQ25jZEw2NzFTWTd4YmlKdDRsVTFHYTBJLTRnM1A2d3NTNjR3?oc=5",
+   "published": "2026-11-25T20:14:24+00:00",
+   "id": "246d5a33fb71",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
    "source": "AP News",
@@ -6346,24 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Exclusive | Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
-   "source": "New York Post",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUNqbDJZV1V1ZXh6RnNsNHpoM1VDRzRZVGhvY3FacHJLRXF4LThRX2JURU1wLXlFd2RrdnFTc3k0UW5XclV3dUF4Z0hKVnloYU9tTWpUZXpRSVA3TW0zU3ZGT3d4S2VuaUpId2xkZG40U0ZzSEFVUXZYYldYN0dTWDVVZFpISzExeFlWQ19jZEdsNWVYdlZ3bVR0bVdCUXo1cWdYWjMzZGFmeUkyV3lxQS03S0VibU52QVZMbVZlOTRjNkN6amRGRGZMZnY?oc=5",
-   "published": "2026-11-25T00:34:00+00:00",
-   "id": "2b2f71607cee",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|c935293b8882": 1793822500.208536,
-  "news|9c688dacce08": 1793822501.176364,
-  "news|fe08eb0e4088": 1793823367.4091086,
   "news|f5b931798cdf": 1793825175.2868714,
   "rep|recap|2026-11-04": 1793826109.0939033,
   "news|a6a777c69ba9": 1793827890.2172058,
@@ -8265,7 +8262,8 @@
   "news|1e376b95be37": 1795633307.7041552,
   "news|2781ab7dd1b5": 1795634172.9025795,
   "news|ba7ba1982d1e": 1795634173.9891975,
-  "news|1b80491148d2": 1795636899.261558
+  "news|1b80491148d2": 1795636899.261558,
+  "news|246d5a33fb71": 1795638701.1483357
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8753,6 +8751,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T20:31:41.148416+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US envoy Kushner warns against Ukraine war escalation</b>\n📰 Arab News · Mer 25/11 21:14\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1JNaVlKaXdDZno4ZVpyVzF0bVEtbFJEb0ZKR1dkTl9feUlTTUNtcVYtYV83ejk0NGlGY2RKdk5OaDFDTmFQa2EyVkJLVXFQcEFhQldyYm9UcjFkUS1JcGtpeF84YWE1MGxVUUtfU2syc1hLQ25jZEw2NzFTWTd4YmlKdDRsVTFHYTBJLTRnM1A2d3NTNjR3?oc=5"
+  },
+  {
    "ts": "2026-11-25T20:01:39.261644+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu Urges Trump to Strike Iran “As Soon As Possible,” Eisenkot Says No Immediate Threat: 5 outlets compared</b>\n📰 NewsCord · Mer 25/11 12:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE9FMDBiVmdrTEhmN0xPMVQwN2Joa3JZR3B3ZHpLMkl1Ujh5VVVVMGxWbl9EaExBMzJMc0ZGVzhZRS1aS0hWamhQMlFJX0pzTGpWYTlnZVJLcTZOZlhlQ1VoeEtxbE51NWR3OUdQR0ZDWnV2aFU3YlBqSEp2LUlpbm43Q1BqNTdMZGNQWEZTeFBpWDF3MWx3bVhzNzNHdGRRSjIxMHktcTZ4NkVnM2piZ2syX21CYjhaUmNCR1dRb01LeThZZ2p1NW5BdzFnNlY4VU05TmpLcDljVFVHSVZDRHBETHIyalZhVHc?oc=5"
@@ -9046,11 +9049,6 @@
    "ts": "2026-11-25T05:34:37.547280+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran's president: Time to end war in 'position of strength'</b>\n📰 DW.com · Mer 25/11 01:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-25T05:16:08.423562+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war funding lasts through January as Democratic Congress nears</b>\n📰 The Jerusalem Post · Mer 25/11 03:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5"
   }
  ],
  "daily_forecast": {
