@@ -957,7 +957,6 @@
   }
  },
  "seen_news": [
-  "2a01e1cd0d7e",
   "37b59c56ec88",
   "1250f49dc80c",
   "3be29fca13ee",
@@ -3956,7 +3955,8 @@
   "c20a15748dc1",
   "cdfc3ac9e407",
   "57b998ce6797",
-  "e50e73cdad70"
+  "e50e73cdad70",
+  "0c46fd20c59d"
  ],
  "news": [
   {
@@ -4186,6 +4186,18 @@
    "cat": "géopolitique",
    "raison": "Rhétorique de Trump sur un conflit armé imminent avec l'Iran, forte demande refuge.",
    "method": "IA"
+  },
+  {
+   "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
+   "source": "Yahoo Finance Singapore",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPclVvTDZaUG9MWlduUS15XzZ0MWFvbHVqVU5Eb2p4cUZRV2t5blZfbldUdGpzclpmVHJlaG94WTE3aHIwSDhDcXNQRDFGNEhVWE1wcEo1QUdZSHdwRWp6b05OcVBDXzVEMVlSTVRadG5YY1dmMXhjSE9DTU9DdGQyVS1Nd1pseGx5cjJoRWhYQVVkaWVkX01iU3JMTUs2LW1ZOWVhWjBSRUlHbmk5Y1VvT2x3dC1mUDdLYUFGbVhYRQ?oc=5",
+   "published": "2026-11-25T09:00:00+00:00",
+   "id": "0c46fd20c59d",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says US has funds to sustain Iran war until late January",
@@ -6346,23 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "America Readies New Tariffs on China. Will Bitcoin and Stocks Sink Again?",
-   "source": "Yahoo Finance",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHpybUl5dlI1U2NvZTQ3aktLUkF3dTNISXVUWTduc195TlJVeTk3S0pILVR1QTg3dG42aVZBTnZnTzJUcGtmYkwwUmhUb01PZDE3QnlIUXk1cFdsaTlnNUxDakt1TGRJQjQ2YU9kWWpxQzVER3lQZlNhSXlPM09obnNOSWNwTzJIS3RHOEJwVEhCOUxWY0gxUlJGM1dnVjdlNjJwdQ?oc=5",
-   "published": "2026-11-24T13:19:55+00:00",
-   "id": "16514029058b",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|7e97a3b6e21d": 1793792771.969355,
-  "news|6c0146a1da49": 1793792772.89983,
   "pre1h|2026-11-04T08:15:00-05:00": 1793793706.8273494,
   "news|c1ccac354d1b": 1793795493.0838223,
   "news|eb6dac9b0bf3": 1793796386.1182144,
@@ -8275,7 +8273,8 @@
   "news|165ebd639055": 1795603687.3112578,
   "news|cf2e61255b2b": 1795604525.0241463,
   "pre1h|2026-11-25T07:25:00-05:00": 1795605424.6512575,
-  "news|c20a15748dc1": 1795607168.425412
+  "news|c20a15748dc1": 1795607168.425412,
+  "pre15m|2026-11-25T07:25:00-05:00": 1795608096.2886658
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8763,6 +8762,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T12:01:36.288719+00:00",
+   "kind": "pre_event",
+   "text": "⏰ <b>23 MIN — ZONE DANGEREUSE</b>\n\n🇺🇸 <b>FOMC Member Bowman Speaks</b>  prév. — | préc. —\n\n⚠️ Spread qui s'écarte + mèches dans les 2 sens.\n👉 Pas d'entrée 5 min avant / après. Remonte ou sécurise tes stops si tu es en position."
+  },
+  {
    "ts": "2026-11-25T11:46:08.425516+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Trump faces escalating oil crisis over Iran blocking Strait of Hormuz - ABC News</b>\n📰 Breaking News, Latest News and Videos · Mer 25/11 10:29\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnJLZndPT0NMT3dGaTNkelpiNXJyWlduNkNsYWZHRWE5bXJSeVhqQUJHVjIyZ0cwMGxlR3Rhci1YaTVXRzZSZmZ2REFJS0hUd1cwV0JVcWV0Tm55MnhTckF6ZmxtODlOVG0tRnlCWTREWUVwNHpudXp5ZGE1bWxHclROMTU0aGVSUjI1SmxXRHZaTjNaNHZZZzZWNUhhQ1VZcUJOR9IBqgFBVV95cUxPd25rbzI5djBuLWc2Y2RibGw2T2FvSjVGbDRhelptY1o4V1dCVi1XeXBNWU5qVEM3a0xrOUJmV0hkOUhKdVFTZndWSFpWdTZyd053RjB1eGtKcWxEeTFVcUdDdnJfUUdEQjdrTnVhMDkzMTlBVXI3dC1MTVRDd0RHS2o2bWxnX29nREE0ZkhiNDdYaF85cFJWVGxmaGNJWjhONElNYmVPSUlZUQ?oc=5"
@@ -9056,11 +9060,6 @@
    "ts": "2026-11-24T19:01:40.131510+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran war live: Hormuz crisis worsens as two more tankers on fire</b>\n📰 Arabian Business · Mar 24/11 10:38\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-24T18:46:10.125832+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation</b>\n📰 Reuters · Mar 24/11 18:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5"
   }
  ],
  "daily_forecast": {
