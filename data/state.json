@@ -957,13 +957,6 @@
   }
  },
  "seen_news": [
-  "7e44fe73c710",
-  "b136af241a91",
-  "5ff0f4dbf1f8",
-  "0d9593dceb63",
-  "14ffb911e664",
-  "763c1fb21206",
-  "007f05bd7cc3",
   "aedcaa8c90f4",
   "cb20f422349a",
   "bd0e85234649",
@@ -3956,9 +3949,28 @@
   "2fdd9eabfa8a",
   "4c3b69e252c4",
   "9ea8cbb05513",
-  "7b65f92990a3"
+  "7b65f92990a3",
+  "feb30b39cd72",
+  "413cda2ba5ff",
+  "c82659ec2b9c",
+  "cba92166dabd",
+  "e56988d1f2d5",
+  "46636b47404d",
+  "8888ccbaeeaa"
  ],
  "news": [
+  {
+   "title": "US preparing to unveil new tariffs on global trading partners",
+   "source": "BBC",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+   "published": "2026-11-25T00:38:01+00:00",
+   "id": "e56988d1f2d5",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "China's J-10C Fighter Spotted With Russian 'Bunker-Buster' Missile. Taiwan's Airfields Could Face A New Threat.",
    "source": "Yahoo",
@@ -3969,6 +3981,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold Trading Alert: Gold Prices Plunge 2%! Fed’s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
+   "source": "Moomoo",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3h6NjJscnZwYUhkSEJPVFVweTl4R2thNHFURnE4dWtIWUZfSnhlTFZVMmZHRVdFYl9jSzBjWmJHNGlfdGp6emh0cGhRSjdHV2t1MzFrcDJxY0hKMmtIcEdmdS12WU05MHVZeFNIVE8xUjR2MWZmWUs4STEtODBIWF96RGg5X2RlQWw1al85cHctSm55Xy12dFM3UU9LUQ?oc=5",
+   "published": "2026-11-24T23:40:20+00:00",
+   "id": "feb30b39cd72",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -3984,6 +4008,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Trump Readies New Tariff Hikes for Dozens of Countries",
+   "source": "The Fiscal Times",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzF4Q09yRlBMOXlLY1RILTIwTVFFOVJwelFYY1pnT1VMc1VFVDU2ZTM1MGdCNmNWTjc1enNwbzFYR1BNMG9pMks4UkxSRG8xQzlWSWNaSVpaUHpmb1hlcnBncGRfVTY2ejVZRlRhUW5SWXhZcndZV0dKZXRRU19hMndwVlFtVVNsZkZBNnZJVDhkSFk?oc=5",
+   "published": "2026-11-24T23:22:30+00:00",
+   "id": "46636b47404d",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Israel Katz Says IDF Must Block Iran’s Chemical Weapons Development Before Any Attack: 22 outlets compared",
    "source": "NewsCord",
    "theme": "Iran / Israël",
@@ -3993,6 +4029,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Gold Plunges More Than 2% in a Single Day; $3,600 Support Line in Jeopardy as Fed December Rate-Hike Expectations Build",
+   "source": "BigGo Finance",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nRThPY0FZdzQ1TnE0Q25qTmtOR1hPUy1DT09tRXJmVnNKalVRc01sM2xQZzNsUlJtZHkxU2lRN25JM0RUMVAzaWtaN1E2MVdNemwzc3hrNF8tUW1HWmluTWd0enQwVlEzZUEyNkJHT2Z5SXoyNFE?oc=5",
+   "published": "2026-11-24T23:05:00+00:00",
+   "id": "c82659ec2b9c",
+   "impact": -4,
+   "cat": "or",
+   "raison": "baissier or (or)",
    "method": "mots-clés"
   },
   {
@@ -6310,59 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Mise en garde sur l'escalade US-Iran soutenant la prime de risque géopolitique.",
    "method": "IA"
-  },
-  {
-   "title": "Qatar warns Middle East cannot afford another US-Iran escalation",
-   "source": "FXStreet",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUhDOEVnamlfeUk1LW1sRGs3R1puaHpXOFZxMVpBYU53T2p1cFVoTHQ0NEZqanFTUU5VcGloRGRMWXJYaXU5aDVHWTVFWmM2NlhMRWdKTnlQbU91ckVWeHZadTV3SklUa19JSUVDX0NaTlQ5VlNlaVhLam40clFwaC0zbm40SVpwcURmaFV6bVpBWWgtZS1Rdnh6RmRkaS1XVW1UU1BCSjJLUQ?oc=5",
-   "published": "2026-11-23T23:42:01+00:00",
-   "id": "1d2e7fa43355",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump may restart airstrikes on Iran",
-   "source": "FOX 7 Austin",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15anRrOFNHMFZMTTc1OFFmUG1YUnloV3I1NUc3bW9QbFE3R2twMGVnQ1pfcWk2Ylo3OFNFaTl1bzJ6ZE1XbUFENkItZlZOUE0yalMtek84NEd1ek1sQTVBOWozSdIBaEFVX3lxTE04aDBpYVZxclpqczlpbHdaaWhIaTE1MlRqanp1Yi1JbVl6ZHVGd0NXMXIzWGR1Ri1LSHRwUENLM29iTXd5VXlvX2I4MVZXeVhsZXFXaUxUV0FSQnF4VjlLMFdUd0wyUDc5?oc=5",
-   "published": "2026-11-23T23:38:19+00:00",
-   "id": "81a8e5371122",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Menace directe de frappes américaines, forte hausse de la prime de risque.",
-   "method": "IA"
-  },
-  {
-   "title": "Tariffs Strike Again: 343 Companies Report $28.5 Billion in Trump Tariff Refunds. Retail Beats Need a Second Look",
-   "source": "Yahoo Finance",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2luczVxMTBfS0JwSXcxalFUdHIzaFRZb1ZtcXdYZUVXcnFFcmFfY29kUXBsTHlwb1NwM3lqZlBINVBJcEZsWjVQT3NqbWlWZTVwLVhJU0Jyd1dOLXZKOVdDcVlMaEJLa0R4NndScHVkRUhldE9vZ0gtYXFwVXQ5RlprZnpSVzdUdWYweHFmcVZBVkdVTXdyODluNnFzSjNr?oc=5",
-   "published": "2026-11-23T23:36:42+00:00",
-   "id": "1dfcc8dbff9c",
-   "impact": -1,
-   "cat": "commerce",
-   "raison": "Remboursements douaniers atténuant légèrement les craintes inflationnistes liées aux tarifs commerciaux.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump downplays Iran's latest attacks as it vows to use all means to end U.S. blockade",
-   "source": "CBS News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY2QVI0MHU4a25sSEcwVkI2SVZEVnpUWTI4Rk9fcXpHM1ZZVHJoTjVaaFZHTlpwUm5nOGZhMkp1blJRNU5OV18zNnpQc3JaT1U5YmZWbFdfSHk5VlRES3FpSm9md0dxa2c3VF8xQ3NUTnFXTGZ1VTRQbGpaZmhtRmk2RW8wUFlCeXpTNWNmVnVsNGVYeS0wVHB4a2ZQQWdpa29IbkRB?oc=5",
-   "published": "2026-11-23T23:18:00+00:00",
-   "id": "0ef152d2bac7",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|82ee686d6a3a": 1793750515.6187208,
-  "news|40d131c744fe": 1793750516.4379213,
   "news|e03e137a7c32": 1793754096.6138432,
   "news|f50dbc12bb91": 1793754967.5710754,
   "news|b687a5800e79": 1793756770.8673658,
@@ -8285,7 +8283,8 @@
   "news|e480a7ad1cc5": 1795561308.5554676,
   "news|7c086d2349b6": 1795562164.5434115,
   "news|bd6aeb6849b8": 1795563969.2731533,
-  "news|468dfe3c9948": 1795563973.468505
+  "news|468dfe3c9948": 1795563973.468505,
+  "news|feb30b39cd72": 1795567565.5622337
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8773,6 +8772,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-25T00:46:05.562365+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Trading Alert: Gold Prices Plunge 2%! Fed’s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data</b>\n📰 Moomoo · Mer 25/11 00:40\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQM3h6NjJscnZwYUhkSEJPVFVweTl4R2thNHFURnE4dWtIWUZfSnhlTFZVMmZHRVdFYl9jSzBjWmJHNGlfdGp6emh0cGhRSjdHV2t1MzFrcDJxY0hKMmtIcEdmdS12WU05MHVZeFNIVE8xUjR2MWZmWUs4STEtODBIWF96RGg5X2RlQWw1al85cHctSm55Xy12dFM3UU9LUQ?oc=5"
+  },
+  {
    "ts": "2026-11-24T23:46:13.468639+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>November CPI could hit 0%, challenging Fed rate hike plans</b>\n📰 Investorsobserver · Mar 24/11 22:43\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFZFSndkdGF3ajZGZTJLdlYwTVFiVWhXcWh3TXJHMTU5R2RNajhhU01nYjl3SDhzQlIyZG40T2d2T1h3UlZoMzFxQUx6TDJsMllITXVkVENfNC1vMmJqTFd1YXdPaUNYc0FVS2htRXpmZUl3akRwVXdFd2MzZG44MXo0cFhZakRkYmVITklKY0FPVHBnLTdN?oc=5"
@@ -9066,11 +9070,6 @@
    "ts": "2026-11-24T10:50:15.001205+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US dollar hits March 2025 highs as Fed tightening bets and Nvidia-led equity rebound lift DXY</b>\n📰 VT Markets · Mar 24/11 10:14\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2p3QVFodks0ZUE2REZhSlVEd19vbk95eWJhTEh0YXRfaWROcWFiTEVjZFkwcF9JdnFvV0JnTGJPZTh3d3hyTExUTVVoNWlSckFfb0tqZGJsN0tsS05UTHNDeVRaNjhGVHpLQnV3ZGtSNklOY2hNSGtscmxlN2I3M3ZzZkZvalQtR0stbVg3MHdFTTZrMkdrdktvVkxyaTlDRVBwVzZIbEIyT1VQQy1ZUDJPTXREQnk3WlZMVjlWZnMwTXg5a0tsRDNhSFA5VGFabXh0a1lR?oc=5"
-  },
-  {
-   "ts": "2026-11-24T10:50:14.112272+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Huckabee says Trump ready to strike Iran again if diplomacy fails</b>\n📰 The Times of Israel · Mar 24/11 11:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXZlLW1Xd2J3dV96aVV1ZXpnaUhsNS1vcTBuV0VEcWtROEJCZVZZTXNZdlphRDB6Vl9TeU45dFV0ZnhRbVNqUWdvT2J5T2g3X20tVDRlWndFMWlGdEg5czM2SEdqSHBKZVdwTGJwbjZfbEVIQW94TlVMTDNmcHBFWGR6dFVSaWJFcHdDNFVzR25Kc2hZWjVjaHFhZHlkaE9FbzlSckl1OTNPTmRvdnJzWQ?oc=5"
   }
  ],
  "daily_forecast": {
