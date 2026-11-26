@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "0cf2820199db",
-  "4d01dbe37729",
-  "f834b660b8ca",
-  "4971ebe27f2e",
-  "ab3fcf8dd5f4",
   "44eb456c7f12",
   "8b1a00622a03",
   "91b43d16dcf2",
@@ -3956,7 +3951,12 @@
   "5a32e0a489ce",
   "351d86de9f03",
   "ebbd37d08986",
-  "e6ae8a5bca27"
+  "e6ae8a5bca27",
+  "b8e4a2d2e125",
+  "239e6fc669de",
+  "bde066709194",
+  "4820c785348d",
+  "83c7cfafbb02"
  ],
  "news": [
   {
@@ -4278,6 +4278,18 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
    "published": "2026-11-26T04:20:00+00:00",
    "id": "f0f8b3eb405e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel targets senior Hamas figure in Gaza strike | LIVE BLOG",
+   "source": "i24NEWS",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ra1RtcnJsb1AyTG5VaDRFd1NmUk9xUFFoQXFESzlyRmlqd3c2QmcwdVVNZ0xPaUlxdjZRekYxSWo4QjVwVWlaM3hBQzl1WF80MlJyZlpqNGJlWDk3amwxNk9vNjRJSE9hOWkweU5B?oc=5",
+   "published": "2026-11-26T04:18:00+00:00",
+   "id": "239e6fc669de",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "More than 490,000 Russian soldiers have died during Ukraine war, leaked data suggests",
-   "source": "CBS News",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2pWcjFHdXEyc0tDU1lnYUFVaDhneEg2eHY4ajVDaG9IemhYNXpJejJ0ekFfRmNQM2xXaVVKTWlSRS1XUGNfekxtNGEtXzg3SHNCZlJtOURPdFplQ2N3Z1dLcDVtaldGTmRTSXNEM1RtSTVRUU14WHBINWJfVkRfczczZ3hqaUJGNlVURGpn?oc=5",
-   "published": "2026-11-25T11:38:58+00:00",
-   "id": "57b998ce6797",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|2db3fa5c14a6": 1793862976.3542426,
   "news|c66f80409b3a": 1793864774.6936324,
   "news|808988cee100": 1793864775.79017,
   "news|bf33c0868c68": 1793867590.8734565,
@@ -8268,7 +8267,8 @@
   "rep|daily|2026-11-26": 1795672918.3658805,
   "news|841ab0b4c6fa": 1795675568.9042687,
   "news|ea3b5a4783e6": 1795675572.2257483,
-  "news|f3a628d7e5b8": 1795677368.8248935
+  "news|f3a628d7e5b8": 1795677368.8248935,
+  "news|239e6fc669de": 1795679167.9416904
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8756,6 +8756,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T07:46:07.941779+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel targets senior Hamas figure in Gaza strike | LIVE BLOG</b>\n📰 i24NEWS · Jeu 26/11 05:18\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ra1RtcnJsb1AyTG5VaDRFd1NmUk9xUFFoQXFESzlyRmlqd3c2QmcwdVVNZ0xPaUlxdjZRekYxSWo4QjVwVWlaM3hBQzl1WF80MlJyZlpqNGJlWDk3amwxNk9vNjRJSE9hOWkweU5B?oc=5"
+  },
+  {
    "ts": "2026-11-26T07:16:08.824995+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Explosion reported near tanker west of Dubai</b>\n📰 Arabian Business · Jeu 26/11 06:13\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -9049,11 +9054,6 @@
    "ts": "2026-11-25T14:46:09.578646+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>SPDR Gold Shares (GLD) falls toward 52-week low as Fed rate hike bets rise</b>\n📰 Beinsure · Mer 25/11 14:48\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1pHY2RsZ0JPV3VxQTlBMzZsSzhDZDZPVnR1NzBKVEpvcDNhcTV6Mm5RWmVSZDV3eWc3LThDSm0zRm1pUExvQWRJMUt5SENkVzMtbm9BRFhrWmIydnRvcjI0YXdZOGwwQ0NaV1FweW1UZGxSR1kyMTBRcldQZjhQb1NUR2J0QmVXd2dESDJWRjZTbnNyX25RRmx5Z2EzYWNj?oc=5"
-  },
-  {
-   "ts": "2026-11-25T14:31:32.316861+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Katz Calls for Iran Strike, Cites Chemical Weapons Threat; Eisenkot Government Reportedly Near</b>\n📰 CBN.com · Mer 25/11 11:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzBRSk5kY1FRakFYQjUtOE1UZmtrMzFWVW03eC1qdWZUVmUzRkU4bmgwWXAyOW1oLWp4cnRvODNoaW1YOV9CX0FxcVhXUEc5M0UyRUZ5Y09KNjczeEJDUVRweEc1blY5VDJrZC1DV01Jenk1ZVFYaDJPSEtTZjhheXBiZl9HVkRzdzByQ0lnZzZoMFVPRGkyck02MDJuTUZFZHhTWHNubXd4QUtZSWloYg?oc=5"
   }
  ],
  "daily_forecast": {
