@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "26445e5136a4",
-  "9e952cabb58d",
-  "de9d69be1336",
   "edad19004e84",
   "fc46d0cfdb45",
   "5a863b0ac139",
@@ -3956,7 +3953,10 @@
   "3f84cced89a6",
   "a99a9f2ac679",
   "7f8fc6eceefd",
-  "0d74304c2352"
+  "0d74304c2352",
+  "a97112196f9a",
+  "a25cce20f9cd",
+  "6a14f4bf714c"
  ],
  "news": [
   {
@@ -4137,6 +4137,18 @@
    "impact": 4,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Ukrainian intelligence says North Korea paused missile deliveries to Russia amid friction over South Korea",
+   "source": "Fox News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWt2UTQ3alhqQnBfQjF2NUdST0pPMVY5NVVteHJReWFwekk3cVAwTkdaTmZrUnpKRGhNQTZJZk5OQ1FDd2o2ZWc3UWJsVVZvblI1TFdla2xNME9qTlJDelNtSURtYlREeF8ySmdBeWREaFYyWUZORVk0ZDc1SDhGUzdfeVBlS203X0FadTVCYjZaZ1hqMjhRejdZa1RRX3NCVE5NNlp1UTFWU3NIT2NIS3lVUS1TZUs0bVHSAb8BQVVfeXFMTkdqM0xoT3c4Q1BCZzdTQTJxSUlvNTZhM1Z2a2t0ZnN2M0g2LWVLSF81WjBQOS1uaDVYYkhkaUJudjFxR04yVFdSQ25jel9Gb0U4NDhreHBMak5XdGdmVnk3SzZIYnJYaU5pOEU1WnhVeW9aUFBsalVva21TcFBCZnlvYVE0VDg1NzZxRTRhcWRnMEJVeFo0XzhwYVloQWRpb0JJbjVrTi01U3hjMGptd0dHQ0Rmel83T183REVVTW8?oc=5",
+   "published": "2026-11-26T19:10:13+00:00",
+   "id": "a25cce20f9cd",
+   "impact": -4,
+   "cat": "géopolitique",
+   "raison": "désescalade (attaque écartée / reportée) → baissier or",
    "method": "mots-clés"
   },
   {
@@ -5110,6 +5122,18 @@
    "cat": "géopolitique",
    "raison": "Risque imminent d'escalade militaire au Moyen-Orient stimulant l'achat de couverture.",
    "method": "IA"
+  },
+  {
+   "title": "China reiterates opposition to 'Taiwan independence,' calls for cross-Strait cooperation",
+   "source": "CGTN",
+   "theme": "Chine/Taïwan",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHV1VnZTWmxxeGNMcEg2UU9HZGFvZGRJcGozV3ktamlFbkl0bnUzWXZqcnhSamhtVUNyazNpRmx2X01mY3JDMDZHNl9JY054WmEzVExyZXdpazh6N0tXc3MwVUQ5NjBmYy1ndXBZUmtzWmhrR1FRbVZrLVVUWVdoRU80MnhwOVZPNlJmaWIzVjV6QVg3Z2pZU24xZ2R5ZVdNb1ZwMEhPaFg1UzM2?oc=5",
+   "published": "2026-11-26T08:52:08+00:00",
+   "id": "6a14f4bf714c",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
@@ -6333,30 +6357,6 @@
    "impact": 2,
    "cat": "dollar",
    "raison": "Recul du dollar rendant mécaniquement l'or plus attractif pour les acheteurs internationaux.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Blames Midterm Election After Tariffs Weigh on U.S. Stock Market",
-   "source": "news.sbs.co.kr",
-   "theme": "Trump",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SUHFWdEJtbzNLTGZ2RXhjb0ptS2pQQ25feThFTHNLTXlUTi1BOXl3ZXRLWTZwY1hhMHlRczJ3b1E0TDZGN3d1Y0FDa1FfejJvb1FDTUVCWGJ1c0p4Y3lpT3U3ek1iUmgyMGJIeDF3?oc=5",
-   "published": "2026-11-25T23:20:37+00:00",
-   "id": "eccd1dbcaf04",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Chute des actions due aux tarifs provoquant des arbitrages vers l'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Trump Says US Will Not Attack Iran Before Midterm Elections in November",
-   "source": "EnergyNow.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWi1Kb1dQRjFRWVF4b1RSMnc4R1p2T3NTY0tJTHRqbkxZaWVGNXA5ZWNqZFRFNkpLM2picTJUNWVOQjRNcFZUZHRlQWdCQk52OGhXaFpKWl9PRnFrNF8wWk9oVi1TalJWdFhfV1lMZWRvY3UwZTNsSks5Z2JycExHMUd1anZaYWx2aUctSmVBRmdQUllxVkdQWjZKQk1UbEVDZTk4Ug?oc=5",
-   "published": "2026-11-25T23:18:44+00:00",
-   "id": "630c82ed1a94",
-   "impact": -2,
-   "cat": "géopolitique",
-   "raison": "Report explicite d'actions militaires contre l'Iran réduisant la prime de risque immédiate.",
    "method": "IA"
   }
  ],
