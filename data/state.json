@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795646753.5616844,
+   "ts": 1795651280.0824497,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "f367eaae19d7",
-  "8e2eae852be0",
   "cce0911e5ffc",
   "3bf790704f3f",
   "1dfce9d39443",
@@ -3956,9 +3954,23 @@
   "5e2e4e202867",
   "8c886f25a595",
   "66c1f2ad304a",
-  "b16871a9b822"
+  "b16871a9b822",
+  "b7a2b95c84f8",
+  "dd7e2cf3e418"
  ],
  "news": [
+  {
+   "title": "Melania Trump announces reunion of 9 children with families amid Ukraine war",
+   "source": "The Washington Post",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFNkS0JnTlMybWNvUmpBQ2ZlSlpBWXQwb0tkM25MTTFZSGVKMU1ESDRlUmVvcEhmc0VBM1hpSGxldWI0MlFCWFJUQkRubnVfOGF3UXdnNlhQU3Q4bmN2emlwVGZPZDlsZTN6X0JBajJLZzdxLU5ZNGotVmN3ZmlIblIwSVFZZlBqUVNfN0xmNTlOSERYN2QyR0hMdUtmVzRub09Fa2dBX3owVzJLYmhPRXRzQ1JTTHZ0c2pZNDhub3NqNmM?oc=5",
+   "published": "2026-11-25T23:53:35+00:00",
+   "id": "dd7e2cf3e418",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
    "source": "Al Jazeera",
@@ -6346,24 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire touchant Riyad, favorisant un afflux vers les valeurs refuges.",
    "method": "IA"
-  },
-  {
-   "title": "Israel Defence Minister claims Iran developing Chemical Weapons, Tehran warns 'US bases within strike range'",
-   "source": "ANI News",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQmRRSS15eGpKaDhibnM1WmJtMmxqem9vNmJXU3R3d2ZDV2FUd3VfUVdLZEZBNFJTMERkWUkwc2d0a3dzOVZjQTVHRVRmSzRqeTd5N29iSUdOM2ozTW16WjR4ZV84ZmhNQU9uR3l4b1pWLUs0NzZZNmxTOVVwaGxqQmplcW9PZmRicXdBUGdwSm1wVGlsSDRlajRpaUJ1WjRPeEZ0UjV6UmptWGlYMVVKeWtnam9EMHBMR21yWTZMVjVoZXNickRMalFZdUJqSWctazVxYWtFenBNa2VZTEZIQ3NTVEZlWnBLNFY2d1JySWplYnRXZ1VDYQ?oc=5",
-   "published": "2026-11-25T02:47:00+00:00",
-   "id": "6685784da1e6",
-   "impact": 5,
-   "cat": "géopolitique",
-   "raison": "Menaces directes contre des bases américaines intensifiant fortement la prime géopolitique.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|99ccbeb48e0b": 1793835975.225427,
-  "news|7abf98264673": 1793836908.261122,
-  "news|8dbb8401db09": 1793836909.2787445,
   "big|BTC|2026-11-05": 1793836910.7155256,
   "news|2b3be457d70b": 1793838683.7035882,
   "news|c989599c1e9e": 1793838684.6295025,
@@ -8267,7 +8264,8 @@
   "news|70de3658f850": 1795648563.342145,
   "news|afe3f76f080a": 1795648566.9286652,
   "news|5e2e4e202867": 1795650365.5831747,
-  "news|62c0065fd74b": 1795650366.3698153
+  "news|62c0065fd74b": 1795650366.3698153,
+  "news|dd7e2cf3e418": 1795651309.5689785
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8755,6 +8753,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T00:01:49.569074+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Melania Trump announces reunion of 9 children with families amid Ukraine war</b>\n📰 The Washington Post · Jeu 26/11 00:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFNkS0JnTlMybWNvUmpBQ2ZlSlpBWXQwb0tkM25MTTFZSGVKMU1ESDRlUmVvcEhmc0VBM1hpSGxldWI0MlFCWFJUQkRubnVfOGF3UXdnNlhQU3Q4bmN2emlwVGZPZDlsZTN6X0JBajJLZzdxLU5ZNGotVmN3ZmlIblIwSVFZZlBqUVNfN0xmNTlOSERYN2QyR0hMdUtmVzRub09Fa2dBX3owVzJLYmhPRXRzQ1JTTHZ0c2pZNDhub3NqNmM?oc=5"
+  },
+  {
    "ts": "2026-11-25T23:46:06.369944+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Oil prices jump 3.5% after Houthis claim attack on Saudi Arabia refinery</b>\n📰 Arabian Business · Mer 25/11 23:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
@@ -9048,11 +9051,6 @@
    "ts": "2026-11-25T10:16:06.167896+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US can sustain Iran war until end of January</b>\n📰 TRT World · Mer 25/11 09:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhSzJOWnJlcmtyVENHWnBNSWl1d3VxcVV6WEhxbVZRLTNPVHB0UlhwSkZzdk5ZdGM2YUMyVGp5UzdUU3hnRkN2RV9meGJiUGNKZjlIbEJaZ0M?oc=5"
-  },
-  {
-   "ts": "2026-11-25T10:02:29.864331+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US core PCE inflation set to rise in October as markets weigh further Fed rate hikes</b>\n📰 FXStreet · Mer 25/11 10:30\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUZzWXlBNFZYYlJKZzB0Sk50eDNkVDl4cGowSFlianpHVzc5d1RTc25hQzAxNFNwX3VablB3c0tmZEhkNkxvSC1pS2JsaDRvMkJMUlY4N3ZvSEF6UkcwSnZsZTM2VUxNQ2IxdGRNSGNydTJ4LVpSTFluTFZVcEZ0MVlpRnltaE94MmsxLUtxZk9RRDNpVTkwSnZtQWZ3bzI3WVYzQks2T2FkbHctbjBGcm5JR3FQendHTDNYQ2tIUC1SQTBfWUxkWGZOZFVzT2Ex?oc=5"
   }
  ],
  "daily_forecast": {
