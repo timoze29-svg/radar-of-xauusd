@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795712477.6803904,
+   "ts": 1795716079.8400784,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "e67b4fff9019",
-  "c9a0598c2a76",
-  "b80d9cc42074",
-  "72e5a76b68b8",
-  "aac0614f1468",
   "289a5e6a85f4",
   "e3f53fd1277c",
   "0112ecb0d9aa",
@@ -3956,7 +3951,12 @@
   "4f116ba48efd",
   "4f096ac74ebb",
   "1906c4ee4cf9",
-  "5bbaa11922f2"
+  "5bbaa11922f2",
+  "ee2e7050657d",
+  "3325ccd499ee",
+  "94ae8eb50ad8",
+  "48f139bf6d10",
+  "6c753c533026"
  ],
  "news": [
   {
@@ -3967,6 +3967,18 @@
    "published": "2026-11-26T17:33:57+00:00",
    "id": "1906c4ee4cf9",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Middle East on the brink of war escalation",
+   "source": "Morning Star | The People’s Daily",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ESTZJVHZfX2tHRUxjRGt6NVJ6Y0xvWkpCUTZUaER3TFFEU3h2dkM0UlpxdG5xczNmXzRzVGZNZ0IxWmFoaHNiamlCRXdoWXlFWE5BNXRtVnhlenRXelZadFZobXZhMmRsTVpLY1BaSE85Z0F4S016ZlB2bGY?oc=5",
+   "published": "2026-11-26T17:06:17+00:00",
+   "id": "94ae8eb50ad8",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Cocoa Prices Rebound as the Dollar Weakens",
-   "source": "TradingView",
-   "theme": "Dollar",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0ZJV19UUzhiT3F1UW0xNE9YR2NsUG42bnk4ZzctblNxS1YzY3F6eWpKTVdIOXhiYzhMZmV0V0hXdFlDU0U4aXJQbjZDcS1zLTlTTnBfOGd0Tzh6cnBZUlROVjlfZ3ZWNTRyTGdrVmk0Z0VHcU5EMUl2dDBHa09odHMta0dscWl6bjNNQ0REV1hhcjF5Q25leUV5RkdOUFk5SlZv?oc=5",
-   "published": "2026-11-25T17:09:05+00:00",
-   "id": "5d8b318953a7",
-   "impact": 5,
-   "cat": "dollar",
-   "raison": "haussier or (dollar)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|3156720f2bc6": 1793900765.3246298,
   "news|fb558da36c25": 1793901708.7061882,
   "news|761526efb9c5": 1793901709.5244737,
   "news|3bbf95cd4178": 1793901710.443709,
@@ -8259,7 +8258,8 @@
   "news|e693413092d2": 1795704973.0418549,
   "news|5f22fa985df6": 1795706175.0648053,
   "news|694272255bf0": 1795710686.4675243,
-  "news|1906c4ee4cf9": 1795715164.2002757
+  "news|1906c4ee4cf9": 1795715164.2002757,
+  "news|94ae8eb50ad8": 1795716099.3371732
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8747,6 +8747,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T18:01:39.337278+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Middle East on the brink of war escalation</b>\n📰 Morning Star | The People’s Daily · Jeu 26/11 18:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9ESTZJVHZfX2tHRUxjRGt6NVJ6Y0xvWkpCUTZUaER3TFFEU3h2dkM0UlpxdG5xczNmXzRzVGZNZ0IxWmFoaHNiamlCRXdoWXlFWE5BNXRtVnhlenRXelZadFZobXZhMmRsTVpLY1BaSE85Z0F4S016ZlB2bGY?oc=5"
+  },
+  {
    "ts": "2026-11-26T17:46:04.200350+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Resists Netanyahu Push for Iran Chemical Weapons Action, Citing Nuclear Focus: how 7 outlets framed it</b>\n📰 NewsCord · Jeu 26/11 18:33\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVl6VUxiZVhIX3RfT1R1MXVDY2ctckFwT0Fia0xYejRNWjJ5d1g5NVIzbmlfOXY4Nm00akhjcFpWMmI3czBsOTltZElfcTZtZ2RrZlVMSGdKRlBRMGZQaUNmeEs2QnYwMEtCcklSVThIc0t1TmJ1S1hfR2NLeVVyVm8ya1NTeEtKbUl3cmtUYS1FbFNNMFBfRC1BdkktYUowYWlzQ01VSVR1RTVtb1lHMmQ2TlVsYkY4OWF0dXc4LXgwUUl6NldJb2RtOWg2M3JLcGtTei1UejliV2t5cjJpTjFvZWcybDlCdEE?oc=5"
@@ -9040,11 +9045,6 @@
    "ts": "2026-11-26T00:01:49.569074+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Melania Trump announces reunion of 9 children with families amid Ukraine war</b>\n📰 The Washington Post · Jeu 26/11 00:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFNkS0JnTlMybWNvUmpBQ2ZlSlpBWXQwb0tkM25MTTFZSGVKMU1ESDRlUmVvcEhmc0VBM1hpSGxldWI0MlFCWFJUQkRubnVfOGF3UXdnNlhQU3Q4bmN2emlwVGZPZDlsZTN6X0JBajJLZzdxLU5ZNGotVmN3ZmlIblIwSVFZZlBqUVNfN0xmNTlOSERYN2QyR0hMdUtmVzRub09Fa2dBX3owVzJLYmhPRXRzQ1JTTHZ0c2pZNDhub3NqNmM?oc=5"
-  },
-  {
-   "ts": "2026-11-25T23:46:06.369944+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Oil prices jump 3.5% after Houthis claim attack on Saudi Arabia refinery</b>\n📰 Arabian Business · Mer 25/11 23:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
