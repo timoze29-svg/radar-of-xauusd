@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795704956.9057772,
+   "ts": 1795726875.3123543,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -957,7 +957,6 @@
   }
  },
  "seen_news": [
-  "5ee27df37b93",
   "c4a65680365b",
   "17641476ec13",
   "78e852d872db",
@@ -3956,7 +3955,8 @@
   "96df5c2134e4",
   "8365dd138a9d",
   "30eb4647e78b",
-  "f51cdad930e8"
+  "f51cdad930e8",
+  "9de5f994a53e"
  ],
  "news": [
   {
@@ -4845,6 +4845,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Six European countries express ‘grave concern’ over escalation between Israel, Palestine",
+   "source": "Yeni Safak English",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2RjeGhGdTdoTGM0RUFpc2NYcGZKaEZ1TmpjNWRiVmJ3M0xkaWpzZTF1T2N1amctVFFSVm4yd3djcFNHWm1YT2ttT3M3cnRVR1FuRGlkSkxmVWdQY01tME5Ga2tTQ2dfNWtBcDJBMVVjWnBEZEZYTkJYR3BYeTZjZDU5QXJGbGV5RDVvaWE5ODFhOU56Tm5kNEZMY19LdWQzWWFNUmxGa1k5bFlSRDktSGM1OGRsZ3hqUUR1dEhuUmRZdw?oc=5",
+   "published": "2026-11-26T09:03:42+00:00",
+   "id": "9de5f994a53e",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-   "source": "AP News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "published": "2026-11-25T20:00:00+00:00",
-   "id": "0f684de675da",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|c4472fbcf593": 1793911568.6862605,
   "rep|recap|2026-11-05": 1793912675.639091,
   "news|30742adc7a38": 1793916102.2593374,
   "news|c49d63d9a934": 1793918165.5752153,
@@ -8252,7 +8251,8 @@
   "news|bf749792edbe": 1795717887.654876,
   "news|2134c211e97b": 1795719693.704072,
   "news|e0ca4942a0fd": 1795719697.2604804,
-  "news|811e655c88bb": 1795725097.4752872
+  "news|811e655c88bb": 1795725097.4752872,
+  "rep|recap|2026-11-26": 1795726899.5100617
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8740,6 +8740,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T21:01:38.712712+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — JEUDI 26/11</b>\nOr : <b>+1.9$</b> depuis minuit · plus haut 3634.7 (03h40) / plus bas 3578.8 (02h00) · range 56$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+0) à 3620.4 → maintenant 3620.4 (+0.0$)\nRange : 56$ réalisé vs ~113$ attendu (50%)\nNiveaux touchés : R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 69% de bonnes directions (22 ✅ / 10 ❌ / 2 ➖ sur 34 jours)\n20 derniers jours : 72%  ·  ✅➖✅✅✅✅✅✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.11% · Taux 10 ans +0.0 pb · Pétrole +0.57% · EUR/USD -0.05% · S&P 500 +0.00% · Argent +1.21%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Middle East on the brink of war escalation\n🟢 (+10) Fresh escalation soon? Israel says may strike Iran 'at any moment', even without US\n🟢 (+8) Trump :  Very impactful  talks with NATO chief on Ukraine war , U . S . defense production\n🟢 (+8) Trump and NATO Secretary-General Discuss Ukraine War and Iran Conflicts\n\n📅 <b>Demain (vendredi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
+  },
+  {
    "ts": "2026-11-26T20:31:37.475367+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump :  Very impactful  talks with NATO chief on Ukraine war , U . S . defense production</b>\n📰 oann.com · Jeu 26/11 20:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.oann.com/newsroom/trump-very-impactful-talks-with-nato-chief-on-ukraine-war-u-s-defense-production/"
@@ -9033,11 +9038,6 @@
    "ts": "2026-11-26T03:46:20.530164+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Oil Up as Hormuz Attacks Counter Recovery in Supply</b>\n📰 rigzone.com · Jeu 26/11 04:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.rigzone.com/news/wire/oil_up_as_hormuz_attacks_counter_recovery_in_supply-25-nov-2026-185171-article/"
-  },
-  {
-   "ts": "2026-11-26T03:46:17.312653+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold falls again amid accelerating inflation in the United States and expectations of another Fed rate hike</b>\n📰 Українські Національні Новини (УНН) · Jeu 26/11 04:37\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSldtOHdrZmd5M0VJdTRoZHY0bmNzMWhPVF80M2xWekU4WWJXelpGTEVXLVAtS1VzeWdEM1dBRnlUbUVxLVVTeC1hLXpjeWZIalQ3NFNVaGl3MlpPRENzdW5wdUZMSW1NbDItZ0RkOUFXMlBCZmN0aTF5Y1NqNmt6VGQ5MGFITGZSXzRvY2lweVFWdlV3REFkQUN1VXhNckQ0ckhWMElaU2ZSVFhJQV9zSmFBcTRTVmctQzNwT0Z3X2J4MTAyNjJ6MUpR0gHIAUFVX3lxTE5sYWJJeUV5eW45SFIzaVVJQ09UVkYwQzQ1QzVNTF9jN2plSmtlT0NLQ3RmWVgybzZDb09oNHVpX1ZfYVNVM3dxbVI3VDJYR2x5QVcyY3BoRFpYbEJkYk1HYmZ2NHpqeXJvekV2OVBIVVJlTWZBVXlkbHAwX2t2TmVnZ3NEZFh2dEdsX2tlNVR2TnhxMXo1RDZveTJmR1RxRUtwRFBsRWNJaDY4eFRYcG5jeWNXR1N3Qk1SdnhKRDhFcUtMSW1kZU5B?oc=5"
   }
  ],
  "daily_forecast": {
@@ -9319,11 +9319,19 @@
    "mv": 77.9,
    "range": 161.4,
    "exp": 117.8
+  },
+  {
+   "date": "2026-11-26",
+   "dir": "range",
+   "res": "hit",
+   "mv": 0.0,
+   "range": 55.9,
+   "exp": 112.7
   }
  ],
  "evening_recap": {
-  "date": "2026-11-25T21:01:39.374929+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — MERCREDI 25/11</b>\nOr : <b>+43.9$</b> depuis minuit · plus haut 3615.2 (21h25) / plus bas 3453.8 (16h15) · range 161$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (-3) à 3525.3 → maintenant 3603.2 (+77.9$)\nRange : 161$ réalisé vs ~118$ attendu (137%)\nNiveaux touchés : P, S1, S2, PDL\n\n📈 <b>Fiabilité des prévisions</b> : 68% de bonnes directions (21 ✅ / 10 ❌ / 2 ➖ sur 33 jours)\n20 derniers jours : 72%  ·  ✅✅➖✅✅✅✅✅✅❌\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY -0.16% · Taux 10 ans -5.6 pb · Pétrole +3.19% · EUR/USD +0.12% · S&P 500 -0.27% · Argent +1.15%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) US envoy Kushner warns against Ukraine war escalation\n🟢 (+10) First Shift: Tariff escalation and cobalt controls\n🟢 (+10) Rubio says US struck Iran fearing it would retaliate for Israeli attack - ABC News\n🟢 (+10) Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships\n\n📅 <b>Demain (jeudi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.",
+  "date": "2026-11-26T21:01:39.510027+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — JEUDI 26/11</b>\nOr : <b>+1.9$</b> depuis minuit · plus haut 3634.7 (03h40) / plus bas 3578.8 (02h00) · range 56$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+0) à 3620.4 → maintenant 3620.4 (+0.0$)\nRange : 56$ réalisé vs ~113$ attendu (50%)\nNiveaux touchés : R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 69% de bonnes directions (22 ✅ / 10 ❌ / 2 ➖ sur 34 jours)\n20 derniers jours : 72%  ·  ✅➖✅✅✅✅✅✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.11% · Taux 10 ans +0.0 pb · Pétrole +0.57% · EUR/USD -0.05% · S&P 500 +0.00% · Argent +1.21%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Middle East on the brink of war escalation\n🟢 (+10) Fresh escalation soon? Israel says may strike Iran 'at any moment', even without US\n🟢 (+8) Trump :  Very impactful  talks with NATO chief on Ukraine war , U . S . defense production\n🟢 (+8) Trump and NATO Secretary-General Discuss Ukraine War and Iran Conflicts\n\n📅 <b>Demain (vendredi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.",
   "ai": false
  },
  "dp_last": {
