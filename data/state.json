@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "c76b79caa69c",
-  "c0ecb6b3d117",
   "4e0022877f22",
   "c66342dc17a6",
   "dfe2f04b217c",
@@ -3956,7 +3954,9 @@
   "8680fbd9f058",
   "cbdeb2bd04e5",
   "73a7d896e1b9",
-  "24682d845a47"
+  "24682d845a47",
+  "62635b8330f1",
+  "454e94e46d9e"
  ],
  "news": [
   {
@@ -3967,6 +3967,18 @@
    "published": "2026-11-26T01:08:20+00:00",
    "id": "4ed7e4fc8da5",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade",
+   "source": "investingLive",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzRIdGhES0ZXRS1yam1FT3pJTVZRQm9zN2JjSGFYQ0d3ekhVSXJmMnhOWDVVUUtFeXlpc3RWN0Itb2hoX2ZlOGZHVWFnVWdaYnc0RVAyQXkyeG1rOVZiN01Kdm5RMi1BdDRqZWFnS1QzTFJDaXNiNzBsNU12VzhqdV91RWFlTEJlQm13TDlBaV84VUhCQ1ZYbnlNX3hjYzBteHJiNzBMbzFMdnJhRXh1VlN3bGFIWmZxM0JXbERR?oc=5",
+   "published": "2026-11-26T00:31:35+00:00",
+   "id": "62635b8330f1",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -4137,6 +4149,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Hawkish BoC outlook fuels further Canadian Dollar recovery",
+   "source": "www.tmgm.com",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWlWUzQ3eXNBMzlWWFVvdHhUQ1N3ZFc5aFlwWHJLLU45NEtlTmZHN0Z0R2VpSjZBcDB1YzJSdVBNSV92aWpfSVZOUUJMX3Z1QTJWUnVhZXRNSnZvcFYtd091RmJXcXlQN20zMlR6LU9OQUJvZzFXbzhFcDVxZ1pJckVROUp1YU9BbFZod3NJZUpDNXRKbVFzS0RaMG5pekJSRVQwalNYaFlKZlcyNmxtNF8wMllnNjc4SGNXSWJwYkRLOGwzdVZqR1BBZ0hlNkU1?oc=5",
+   "published": "2026-11-25T21:15:58+00:00",
+   "id": "454e94e46d9e",
+   "impact": -6,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -6334,39 +6358,9 @@
    "cat": "commerce",
    "raison": "Risque de choc protectionniste global favorisant la diversification vers les réserves d'or.",
    "method": "IA"
-  },
-  {
-   "title": "The Gulf survived a short , hot war . A long , cold one will be harder",
-   "source": "hindustantimes.com",
-   "theme": "Géopolitique",
-   "link": "https://www.hindustantimes.com/world-news/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder-101795574116056.html",
-   "published": "2026-11-25T04:45:00+00:00",
-   "id": "fef07dff8a1b",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Perspectives de tensions durables dans le Golfe soutenant la demande structurelle d'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Donald Trump set to raise tariffs on 16 major economies",
-   "source": "Sky News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGRyT3BxSFR1SkdVLVIwLVFHaHFVb1lPN0FxdlpZeEtXNF9hcUc2RFZtZ3Q5bXNQY1hzVGxleVFDQU1mUjJnOVpzSUY2b3BVVlpaMGRhRGpKTEhfZDdDcFM2SEdIZTFLS2FvemZiLUFxWHhGUXZLdnlxOEk1MkZOSlhYRnhBeEJROEYwX0pvRVpNTlZEbUE?oc=5",
-   "published": "2026-11-25T04:40:37+00:00",
-   "id": "e1c5aa291850",
-   "impact": 2,
-   "cat": "commerce",
-   "raison": "Escalade protectionniste généralisée stimulant la demande de couverture contre le risque de stagflation.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "big|BTC|2026-11-05": 1793836910.7155256,
-  "news|2b3be457d70b": 1793838683.7035882,
-  "news|c989599c1e9e": 1793838684.6295025,
-  "brk|GOLD|pwh|up|2026-11-02/2026-11-08": 1793839567.5044038,
-  "news|ab9e0a5b9228": 1793840497.1498795,
-  "news|7e4df7a9aada": 1793842293.6513424,
   "news|e82fb6539f98": 1793844105.8563454,
   "news|2897d084fb1c": 1793849489.5252213,
   "news|1801d0e0aa87": 1793851299.4565003,
@@ -8265,7 +8259,8 @@
   "news|afe3f76f080a": 1795648566.9286652,
   "news|5e2e4e202867": 1795650365.5831747,
   "news|62c0065fd74b": 1795650366.3698153,
-  "news|dd7e2cf3e418": 1795651309.5689785
+  "news|dd7e2cf3e418": 1795651309.5689785,
+  "news|62635b8330f1": 1795658499.9120724
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8753,6 +8748,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T02:01:39.912143+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade</b>\n📰 investingLive · Jeu 26/11 01:31\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzRIdGhES0ZXRS1yam1FT3pJTVZRQm9zN2JjSGFYQ0d3ekhVSXJmMnhOWDVVUUtFeXlpc3RWN0Itb2hoX2ZlOGZHVWFnVWdaYnc0RVAyQXkyeG1rOVZiN01Kdm5RMi1BdDRqZWFnS1QzTFJDaXNiNzBsNU12VzhqdV91RWFlTEJlQm13TDlBaV84VUhCQ1ZYbnlNX3hjYzBteHJiNzBMbzFMdnJhRXh1VlN3bGFIWmZxM0JXbERR?oc=5"
+  },
+  {
    "ts": "2026-11-26T00:01:49.569074+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Melania Trump announces reunion of 9 children with families amid Ukraine war</b>\n📰 The Washington Post · Jeu 26/11 00:53\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFNkS0JnTlMybWNvUmpBQ2ZlSlpBWXQwb0tkM25MTTFZSGVKMU1ESDRlUmVvcEhmc0VBM1hpSGxldWI0MlFCWFJUQkRubnVfOGF3UXdnNlhQU3Q4bmN2emlwVGZPZDlsZTN6X0JBajJLZzdxLU5ZNGotVmN3ZmlIblIwSVFZZlBqUVNfN0xmNTlOSERYN2QyR0hMdUtmVzRub09Fa2dBX3owVzJLYmhPRXRzQ1JTTHZ0c2pZNDhub3NqNmM?oc=5"
@@ -9046,11 +9046,6 @@
    "ts": "2026-11-25T10:33:59.693768+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli Defense Minister Says Final Decision on Iran Attack Rests With Trump</b>\n📰 IranWire · Mer 25/11 11:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUTFPNVdjcEo4Nkwtc2VtaGt6NmlRNmxseGxsclJ5T0hoMWkxUlNTeS1DMjJOTXprSkVJRjI3d3hsdDhhVnc5NVIzcENEWUpFZFhIbHQ2WTFUM1I1ZVlaRkZEZURCWmVmUVdvbDFYb1NoVzE5TW15X2tJSnFwVGx4QWl6Tnp1RURLTFlDVElTX0ZmcDlpY3dtcExGYm5tQVhTR2xzODdrbWRiSXZGY0lYaHJIOA?oc=5"
-  },
-  {
-   "ts": "2026-11-25T10:16:06.167896+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says US can sustain Iran war until end of January</b>\n📰 TRT World · Mer 25/11 09:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhSzJOWnJlcmtyVENHWnBNSWl1d3VxcVV6WEhxbVZRLTNPVHB0UlhwSkZzdk5ZdGM2YUMyVGp5UzdUU3hnRkN2RV9meGJiUGNKZjlIbEJaZ0M?oc=5"
   }
  ],
  "daily_forecast": {
