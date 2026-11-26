@@ -526,7 +526,7 @@
    }
   },
   "cot": {
-   "ts": 1795690879.9718444,
+   "ts": 1795734946.5714757,
    "data": {
     "date": "2026-11-17",
     "net": 166132,
@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "d89aeff5790d",
-  "558a677b2318",
   "26445e5136a4",
   "9e952cabb58d",
   "de9d69be1336",
@@ -3956,7 +3954,9 @@
   "4aef59e63348",
   "67015116ae63",
   "3f84cced89a6",
-  "a99a9f2ac679"
+  "a99a9f2ac679",
+  "7f8fc6eceefd",
+  "0d74304c2352"
  ],
  "news": [
   {
@@ -4942,6 +4942,18 @@
    "cat": "géopolitique",
    "raison": "Prémices diplomatiques réduisant marginalement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Sharp escalation in US-Iran Conflict, Oil Markets and Shipping under pressure",
+   "source": "DD News",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0ttMmVGVi14SEVSVVZHNzZLOHR2TzVFWWNnQms5cWhueVJVWkFPNGFDdmRmb3pSRWRxZUcybFVrTzhzdEluZ3hyYWtZalpkVlZTU3UxajZEclVJOHlPV19KV1NjRUpvOXhHV3hDLXNJa0s2eUNVWllQYV9FMXQwek45TzdId084a3NTeDFkbUdVYXZsbF9ZSS1hVmo3RWpXYW41Wg?oc=5",
+   "published": "2026-11-26T10:15:42+00:00",
+   "id": "0d74304c2352",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Ukraine's schools, hospitals are going underground amid escalating Russian attacks - ABC News",
@@ -6346,23 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Report explicite d'actions militaires contre l'Iran réduisant la prime de risque immédiate.",
    "method": "IA"
-  },
-  {
-   "title": "Moody’s Puts U.S. Recession Odds at 50%, and the Signals Are Hard to Ignore",
-   "source": "TradingKey",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWFKU0hvVloxa1JIUmJobjdYNUZWZlJRZVBSYV9GX180WkFILXpHT2E4RVFEa0lFY3JDTmlDVFU4SWpFUDhtT3kyWUtuX2o0bmFBaXlkYXpKdkYyMkJTM1c2MDhMUGQ5SDBlbWxoMmNhVUVJNW85SXFxcDcyTFlDbUxsNW53V0ZDeTV2RTgzUVhIbTU4Y2lwakJDdFREMFUtVHVLQkhCTVotLTkyRFlXNjU2UQ?oc=5",
-   "published": "2026-11-25T22:43:45+00:00",
-   "id": "dc7bfa935642",
-   "impact": 5,
-   "cat": "emploi",
-   "raison": "haussier or (emploi)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|c49d63d9a934": 1793918165.5752153,
-  "news|58ceb453cb57": 1793918166.4880667,
   "news|64ddc36a9537": 1793920570.6636927,
   "news|0b9eac6d1233": 1793921485.365081,
   "news|6fdd57fad3fc": 1793921486.3736362,
@@ -8259,7 +8257,8 @@
   "news|389a11638b28": 1795732288.332074,
   "news|2f862d3db360": 1795732292.2360961,
   "news|b7c9195d5d10": 1795732293.0540116,
-  "news|1ebb806b4cfc": 1795732293.867321
+  "news|1ebb806b4cfc": 1795732293.867321,
+  "news|0d74304c2352": 1795734964.4781878
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8747,6 +8746,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T23:16:04.478250+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Sharp escalation in US-Iran Conflict, Oil Markets and Shipping under pressure</b>\n📰 DD News · Jeu 26/11 11:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0ttMmVGVi14SEVSVVZHNzZLOHR2TzVFWWNnQms5cWhueVJVWkFPNGFDdmRmb3pSRWRxZUcybFVrTzhzdEluZ3hyYWtZalpkVlZTU3UxajZEclVJOHlPV19KV1NjRUpvOXhHV3hDLXNJa0s2eUNVWllQYV9FMXQwek45TzdId084a3NTeDFkbUdVYXZsbF9ZSS1hVmo3RWpXYW41Wg?oc=5"
+  },
+  {
    "ts": "2026-11-26T22:31:33.867436+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says Iran Should not Charge Fees to Tankers Going Through Strait of Hormuz</b>\n📰 EnergyNow.com · Jeu 26/11 11:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE9PVTJoYUdEODU4a1F3OWFFRVFsNXZlRGIwZEZ6UmppMHQ0djBQUkM3QXdWV0M2VWUtLWtQcnZUdlNVaGpZVTBHeGhPbmdSYy1WTUctZ1hTNTFuOEVULVdpbktYbS1xRTRsQjdEMDBDWUp6dEhmTTJvMXVsS0otN3d6ZFFVMndUcVhfZWprTk5YZzY0LUlBZDFfVmNyQWd6a0lGYWZtSDBhWnctMEZFcQ?oc=5"
@@ -9040,11 +9044,6 @@
    "ts": "2026-11-26T05:16:11.974301+00:00",
    "kind": "cycle",
    "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-34.7$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 3549.06 | 50% 3553.15 | 61.8% 3557.24\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
-  },
-  {
-   "ts": "2026-11-26T05:16:10.926414+00:00",
-   "kind": "breakout",
-   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 3 588.90 → prix : <b>3 620.40</b>\nATR jour : 118.6$ | Pivot hebdo : 3640.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 777 cas)."
   }
  ],
  "daily_forecast": {
