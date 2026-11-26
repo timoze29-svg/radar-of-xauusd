@@ -957,7 +957,6 @@
   }
  },
  "seen_news": [
-  "32acc4d14774",
   "b456d32630e0",
   "6de9eab8ba07",
   "2233c75fd7d0",
@@ -3956,7 +3955,8 @@
   "f0f8b3eb405e",
   "f938764a184f",
   "85403d8a3d24",
-  "ebe6127094b3"
+  "ebe6127094b3",
+  "5095756c4fd9"
  ],
  "news": [
   {
@@ -6361,8 +6361,6 @@
   }
  ],
  "fired": {
-  "brk|GOLD|pdh|up|2026-11-05": 1793855761.1229084,
-  "cyc_end|2026-11-02/2026-11-08": 1793855762.0639825,
   "news|49570d853538": 1793856681.5538135,
   "news|12e5f2951407": 1793856682.4124637,
   "news|dd24ca452928": 1793857587.731483,
@@ -8268,7 +8266,10 @@
   "news|9865146dd0b8": 1795665707.6042855,
   "news|4a46bc3135c9": 1795666571.448352,
   "news|86e4d7df00ea": 1795666572.2621648,
-  "news|f0f8b3eb405e": 1795668777.8394814
+  "news|f0f8b3eb405e": 1795668777.8394814,
+  "brk|GOLD|pdh|up|2026-11-26": 1795670170.9263413,
+  "cyc_end|2026-11-23/2026-11-29": 1795670171.9742324,
+  "cyc_rev|2026-11-23/2026-11-29": 1795670172.9347937
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8756,6 +8757,21 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T05:16:12.934873+00:00",
+   "kind": "cycle",
+   "text": "✅ <b>INVERSION HEBDO CONFIRMÉE</b>\nPhase 2 (jeu→ven) : lun→mer = -34.7$, depuis mercredi +84.6$ → inversion en cours ✅\nRetracement actuel : 243.8% du mouvement lun→mer"
+  },
+  {
+   "ts": "2026-11-26T05:16:11.974301+00:00",
+   "kind": "cycle",
+   "text": "🔄 <b>CYCLE HEBDO — FIN DE PHASE 1</b>\n\nLun→Mer : <b>-34.7$</b> (mouvement FORT)\nHistorique : inversion jeu→ven dans <b>53.0%</b> des semaines baissières (52.6% quand le mouvement est fort)\nRetracement médian quand ça inverse : 90.4%\n\n🎯 Zones de retour : 38.2% 3549.06 | 50% 3553.15 | 61.8% 3557.24\n📈 Biais jeu→ven : RETOUR À LA HAUSSE — à confirmer avec le biais macro."
+  },
+  {
+   "ts": "2026-11-26T05:16:10.926414+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 3 588.90 → prix : <b>3 620.40</b>\nATR jour : 118.6$ | Pivot hebdo : 3640.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 777 cas)."
+  },
+  {
    "ts": "2026-11-26T04:52:57.839554+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump and NATO chief urge Russia to avoid actions that widen Ukraine war</b>\n📰 Reuters · Jeu 26/11 05:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5"
@@ -9039,21 +9055,6 @@
    "ts": "2026-11-25T13:46:11.105665+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : TARIFS DOUANIERS</b>\n9 articles en 45 min (normale ≈ 1.5) → un sujet s'emballe\n\n🥇 Impact moyen : +4.7/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump targets China in new round of tariffs — <i>CNN</i>\n• (+5) Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices — <i>The New York Times</i>\n• (+5) Trump prepares new round of tariffs on China, other U.S. trading partners — <i>Axios</i>\n• (+5) U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon — <i>MarketWatch</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-11-25T13:46:10.320336+00:00",
-   "kind": "news_burst",
-   "text": "🔥 <b>NEWS EN RAFALE : TRUMP</b>\n6 articles en 45 min (normale ≈ 1.9) → un sujet s'emballe\n\n🥇 Impact moyen : +5.0/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump targets China in new round of tariffs — <i>CNN</i>\n• (+5) Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices — <i>The New York Times</i>\n• (+5) Trump prepares new round of tariffs on China, other U.S. trading partners — <i>Axios</i>\n• (+5) U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon — <i>MarketWatch</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-11-25T13:46:09.537735+00:00",
-   "kind": "breakout",
-   "text": "💥 <b>CASSURE MOYENNE</b> ⬇️\n\n<b>Taux US 10 ans</b> casse le plus bas de la VEILLE\nNiveau : 4.878 → prix : <b>4.848</b>\n\n🥇 Lecture or : <b>🟢 haussier pour l'or</b>\nCorrélation avec l'or : 20j 0.04 | 60j -0.04"
-  },
-  {
-   "ts": "2026-11-25T13:31:26.983866+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Indian Rupee strengthens as falling oil prices ease pressure; Middle East escalation and recession trade remain key risks</b>\n📰 investingLive · Mer 25/11 14:12\n🧠 haussier or (emploi, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPazRLZVFoSWY3cWpJelVSWGRWb1EyTVY5eTFZVFk1Q09GS0JhVnNsTjhhMjVoMGJBOVBxRUFoM0UtR1dBMDEtNnl1bmlLU0wwdlFYazFUbno3NjVTSkpWajk0NGZUYk0tekFwNy1ET2lYQnI3ejZWS1Q3SVRJVVF6TDRRMEdMTGhrZ1lnME5rSjRaQzM4cDR4LU93bjJxN1ptYktJUGxmVkYwZjJjZFlsSEFmZjJCdEdiQ1NCc2ZoYkI5THh6SFRvTUN1OU1BT0tXRmhUaElKVGlkN1BHRjVFRzZlVmxxRXRx?oc=5"
   }
  ],
  "daily_forecast": {
