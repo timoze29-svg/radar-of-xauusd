@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795668354.1539872,
+   "ts": 1795672877.0165582,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "3473ed4f3e2d",
-  "48b1094e687b",
-  "94de604941b0",
-  "6e0741fac0a8",
-  "0f2a3b80e91f",
   "16169ee517d2",
   "d3ac75850880",
   "c69b1b08418a",
@@ -3956,7 +3951,12 @@
   "876500446362",
   "56256fc87db6",
   "51b662a42551",
-  "b288996d93dc"
+  "b288996d93dc",
+  "324a9e43e839",
+  "e7aad3c2d3ea",
+  "c09a068427fe",
+  "0b45e164e5e9",
+  "a0cbf05f85ff"
  ],
  "news": [
   {
@@ -4231,6 +4231,18 @@
    "published": "2026-11-26T04:12:00+00:00",
    "id": "ebe6127094b3",
    "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+   "source": "The Guardian",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUJrQ3VzcUs4NmJmXzMtVmx0dUYzaUZ0ZGw0MUM2X29UdG83c2Z1d2ZRR1JIQVYzbC1BQlA5NzgwUnFJUERLTG81aHd1WmptOU43UjFaekpVWGFFeDJtQUtybnpoNUVsUTdYbDV3MF9MME1hN2hvWl9BQ1U4NUd4NmZwR1FlTXBhckdUQTE1c21JMFR5ZHlOQWtR?oc=5",
+   "published": "2026-11-26T03:57:00+00:00",
+   "id": "e7aad3c2d3ea",
+   "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
@@ -6346,23 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Risque accru de frappes régionales stimulant la demande de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Brent gains amid escalating shipping risks in the Middle East",
-   "source": "https://www.engine.online/",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUZWOGtId0cyMHBoa3pXUnoxUGQ2QmduSnlyZHhlSVBuc1RMS0tyN0lLZldyaUI4Q0dsUE15VFpwNV9OU2JGRlhtNFBsYkpDcm1YLTdONUY3aWZIRlVPWHZQSTFGSUZEUTZrbkprMTMwY3YxV01pcEtUNjZkZ1NRQnJWUzBBR09yLXVTVFJ3UGlFVkRmblBqTzNCYldNQQ?oc=5",
-   "published": "2026-11-25T10:19:18+00:00",
-   "id": "7ee464be129a",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|dd24ca452928": 1793857587.731483,
-  "rep|daily|2026-11-05": 1793858503.8364797,
   "news|11b99bdbd5c0": 1793859403.8398623,
   "news|418c3e7cc4fa": 1793861189.9400277,
   "news|2db3fa5c14a6": 1793862976.3542426,
@@ -8268,27 +8266,12 @@
   "brk|GOLD|pdh|up|2026-11-26": 1795670170.9263413,
   "cyc_end|2026-11-23/2026-11-29": 1795670171.9742324,
   "cyc_rev|2026-11-23/2026-11-29": 1795670172.9347937,
-  "news|48a2f0fb00c5": 1795671089.3761275
+  "news|48a2f0fb00c5": 1795671089.3761275,
+  "rep|daily|2026-11-26": 1795672918.3658805
  },
  "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
-  "2026-10-15": {
-   "dir": "down",
-   "score": -16,
-   "p0": 4166.1001,
-   "exp_range": 73.6,
-   "levels": {
-    "P": 4132.13,
-    "R1": 4169.27,
-    "S1": 4070.77,
-    "R2": 4230.63,
-    "S2": 4033.63,
-    "PDH": 4193.5,
-    "PDL": 4095.0
-   },
-   "ts": "2026-10-15T05:01:31.388808+00:00"
-  },
   "2026-10-16": {
    "dir": "range",
    "score": -4,
@@ -8752,9 +8735,30 @@
     "PDL": 3545.4
    },
    "ts": "2026-11-25T06:01:36.719675+00:00"
+  },
+  "2026-11-26": {
+   "dir": "range",
+   "score": 0,
+   "p0": 3620.3999,
+   "exp_range": 112.7,
+   "levels": {
+    "P": 3516.63,
+    "R1": 3608.07,
+    "S1": 3444.37,
+    "R2": 3680.33,
+    "S2": 3352.93,
+    "PDH": 3588.9,
+    "PDL": 3425.2
+   },
+   "ts": "2026-11-26T06:01:54.918631+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-26T06:01:54.918656+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — JEUDI 26/11</b>\nPrix : <b>3620.40</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+0/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3620 vs MM20 3851 / MM50 4049\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.48\n🟢 Taux US 10 ans (5j) : -22 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : +1.9$ · plus haut 3634.7 / plus bas 3578.8 (range 56$)\nDXY +0.11% sur la nuit\n⚠️ Plus haut de la veille (3589) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~113$</b> (ATR 119$ × profil du jeudi)\nDéjà fait en Asie : 56$ (50% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3680.3 | R1 3608.1 | <b>Pivot 3516.6</b> | S1 3444.4 | S2 3352.9\nVeille : PDH 3588.9 / PDL 3425.2  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>51%</b> du temps (304 jours, ~6.0 ans)\n• Hier : -0.73% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1049 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 2h (12%), 0h (12%) · plus BAS vers 0h (15%), 16h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -34.7$, depuis mercredi +84.6$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n⚠️ <b>Le prix (3620) est déjà sorti du range S1 3444 – R1 3608</b>.\n👉 Pas de contre-tendance : suivre la cassure tant que le prix reste au-dessus de R1.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
   {
    "ts": "2026-11-26T05:31:29.376210+00:00",
    "kind": "news",
@@ -9049,16 +9053,11 @@
    "ts": "2026-11-25T14:01:40.877354+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships</b>\n📰 The New York Times · Mer 25/11 14:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDJMNTh0Z2E3NmJYTGhkUDNCdi1YOWNZZnd4UmpPdGFwODZSSHhJZTdBMk51WC1OVmFpNHFXVGs4SS1BVTJNYzFDdEExRTNyRXFaejFxSk5RUktMODJyeGZMci1rNHFMNEN0ZDVlWmpTTWFQdDUzbUU2cEpPVVpWMGw5T1M5Qm85dHdzRg?oc=5"
-  },
-  {
-   "ts": "2026-11-25T13:46:11.858233+00:00",
-   "kind": "news_burst",
-   "text": "🔥 <b>NEWS EN RAFALE : CHINE</b>\n6 articles en 45 min (normale ≈ 0.4) → un sujet s'emballe\n\n🥇 Impact moyen : +4.7/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump targets China in new round of tariffs — <i>CNN</i>\n• (+5) Trump prepares new round of tariffs on China, other U.S. trading partners — <i>Axios</i>\n• (+5) U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon — <i>MarketWatch</i>\n• (+5) Trump proposes new tariffs on China, Europe and other trade partners — <i>The Washington Post</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
   }
  ],
  "daily_forecast": {
-  "date": "2026-11-25T06:01:37.665615+00:00",
-  "text": "☀️ <b>PRÉVISION OR — MERCREDI 25/11</b>\nPrix : <b>3525.30</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (-3/100)\n\n<b>Pourquoi :</b>\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.53\n🔴 Momentum or (vs MM50) : prix 3525 vs MM20 3871 / MM50 4064\n🟢 Taux US 10 ans (5j) : -20 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : -34.0$ · plus haut 3573.9 / plus bas 3522.4 (range 52$)\nDXY +0.15% sur la nuit\n⚠️ Plus bas de la veille (3545) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~118$</b> (ATR 113$ × profil du mercredi)\nDéjà fait en Asie : 52$ (44% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3726.0 | R1 3643.9 | <b>Pivot 3594.7</b> | S1 3512.6 | S2 3463.4\nVeille : PDH 3676.7 / PDL 3545.4  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\n🔥 <b>13:25</b> 🇺🇸 FOMC Member Bowman Speaks\n    🦅 Ton dur (hausses à venir, inflation trop haute) → dollar ↑ taux ↑ → <b>or ↓</b>\n    🕊 Ton doux (pause, baisse possible, inquiétude emploi) → dollar ↓ → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Core PCE Price Index m/m (prév. 0.3%)\n    🔺 Au-dessus de 0.3% (inflation plus forte que prévu) → Fed plus dure → dollar ↑ taux ↑ → <b>or ↓</b>\n    🔻 En dessous de 0.3% → effet inverse → <b>or ↑</b>\n🔥 <b>14:30</b> 🇺🇸 Prelim GDP q/q (prév. 3.5%)\n\n📊 <b>Stats réelles</b>\n• Le mercredi, l'or a fini en hausse <b>55%</b> du temps (309 jours, ~6.0 ans)\n• Hier : -2.45% → après une veille en FORTE BAISSE, l'or a monté le lendemain <b>59%</b> du temps (215 cas)\n🕐 Le mercredi, plus HAUT du jour souvent vers 16h (12%), 2h (11%) · plus BAS vers 0h (13%), 14h (7%) (heure de Paris)\n🔄 Phase 1 (lun→mer) en cours : -45.2$ depuis l'ouverture de la semaine\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n🎯 <b>Scénario principal — range</b> entre S1 3513 et R1 3644\nJouer les extrêmes, pas le milieu (pivot 3595). Range attendu ~118$.\n\n🔁 <b>Alternatif</b> : cassure franche de PDH 3677 ou PDL 3545 (souvent sur une annonce) → suivre la cassure\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-11-26T06:01:58.365841+00:00",
+  "text": "☀️ <b>PRÉVISION OR — JEUDI 26/11</b>\nPrix : <b>3620.40</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+0/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3620 vs MM20 3851 / MM50 4049\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.48\n🟢 Taux US 10 ans (5j) : -22 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : +1.9$ · plus haut 3634.7 / plus bas 3578.8 (range 56$)\nDXY +0.11% sur la nuit\n⚠️ Plus haut de la veille (3589) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~113$</b> (ATR 119$ × profil du jeudi)\nDéjà fait en Asie : 56$ (50% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3680.3 | R1 3608.1 | <b>Pivot 3516.6</b> | S1 3444.4 | S2 3352.9\nVeille : PDH 3588.9 / PDL 3425.2  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>51%</b> du temps (304 jours, ~6.0 ans)\n• Hier : -0.73% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1049 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 2h (12%), 0h (12%) · plus BAS vers 0h (15%), 16h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -34.7$, depuis mercredi +84.6$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n⚠️ <b>Le prix (3620) est déjà sorti du range S1 3444 – R1 3608</b>.\n👉 Pas de contre-tendance : suivre la cassure tant que le prix reste au-dessus de R1.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
