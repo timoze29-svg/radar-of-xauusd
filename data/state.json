@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "b456d32630e0",
-  "6de9eab8ba07",
-  "2233c75fd7d0",
   "3797b6362acf",
   "b42a6d1fd131",
   "e90a684ac7a0",
@@ -3956,7 +3953,10 @@
   "f938764a184f",
   "85403d8a3d24",
   "ebe6127094b3",
-  "5095756c4fd9"
+  "5095756c4fd9",
+  "3bfd55039445",
+  "48a2f0fb00c5",
+  "2fcbb2c7c228"
  ],
  "news": [
   {
@@ -5013,6 +5013,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Crude Prices Climb on Escalating Attacks on Shipping in the Middle East",
+   "source": "Yahoo Finance",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSG45aGF4SkZSbUJXRmQyOEczWFFFOEtzYXFlVkprSmZYS0ZWNW5LQVJKdW9oQjN2Q0oxWTVTRnFMTW9GcGdjVlZYOS1LQ0dPZHdNVE5VTUdodTVrSS1UTGU4MlQ0Sm1JUDVrUXBsZTQ0dUR4QkpieGpxeUh1MHBiSUxCNnhYZ2Q3OUxzQjVsWm8zcE1rYjRxeDBn?oc=5",
+   "published": "2026-11-25T16:35:29+00:00",
+   "id": "48a2f0fb00c5",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6346,23 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Escalade des frappes énergétiques et menaces de représailles russes, soutien refuge modéré.",
    "method": "IA"
-  },
-  {
-   "title": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op",
-   "source": "The Times of Israel",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk52RC04R2NiU2JhVmhoTWN0aUdFSHdPOWFmMXI3NXJHeU1JZ2gxbk9EVmxJc3BHZDV2UTkxUmdfLW1QUWFickwxSUtfRWlxYm43cl8yQjlybFZCOEt5RWtQcXgxUF9JY0M2a3hDbk1MTVBhTjdsSUduWGFQT21Fdm1jLXQ2OXEyLTBYSjJ5WldDVVN2cTU4dDRySHowVmZGcE9GcG1vVmRBV2hqNFhz0gG0AUFVX3lxTE5SdDgwNUlTeVJpVnJiTkNLSjRESGtoaUtzSG1VelpNVkppODFudHNmNHZDaUQzYmM2VFNoajVFNDljRm5qNW10dXh3OGJPWXBIakl5QkFfTHRONHVDNXFNZFA2bTBPWXhFclZmUWczUzhpdlhZMS1LUjhpSHA1NjJ1OC1qY0FrX09sbXVtMTJBS3BFZ2tJbkxOdF9MWXhoMkh6X1U5Wl80ZmtnZmw4WFBSWGk0eQ?oc=5",
-   "published": "2026-11-25T09:00:00+00:00",
-   "id": "d192babe7a01",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Rhétorique de Trump sur un conflit armé imminent avec l'Iran, forte demande refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|49570d853538": 1793856681.5538135,
-  "news|12e5f2951407": 1793856682.4124637,
   "news|dd24ca452928": 1793857587.731483,
   "rep|daily|2026-11-05": 1793858503.8364797,
   "news|11b99bdbd5c0": 1793859403.8398623,
@@ -8269,7 +8267,8 @@
   "news|f0f8b3eb405e": 1795668777.8394814,
   "brk|GOLD|pdh|up|2026-11-26": 1795670170.9263413,
   "cyc_end|2026-11-23/2026-11-29": 1795670171.9742324,
-  "cyc_rev|2026-11-23/2026-11-29": 1795670172.9347937
+  "cyc_rev|2026-11-23/2026-11-29": 1795670172.9347937,
+  "news|48a2f0fb00c5": 1795671089.3761275
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8757,6 +8756,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-26T05:31:29.376210+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Crude Prices Climb on Escalating Attacks on Shipping in the Middle East</b>\n📰 Yahoo Finance · Mer 25/11 17:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNSG45aGF4SkZSbUJXRmQyOEczWFFFOEtzYXFlVkprSmZYS0ZWNW5LQVJKdW9oQjN2Q0oxWTVTRnFMTW9GcGdjVlZYOS1LQ0dPZHdNVE5VTUdodTVrSS1UTGU4MlQ0Sm1JUDVrUXBsZTQ0dUR4QkpieGpxeUh1MHBiSUxCNnhYZ2Q3OUxzQjVsWm8zcE1rYjRxeDBn?oc=5"
+  },
+  {
    "ts": "2026-11-26T05:16:12.934873+00:00",
    "kind": "cycle",
    "text": "✅ <b>INVERSION HEBDO CONFIRMÉE</b>\nPhase 2 (jeu→ven) : lun→mer = -34.7$, depuis mercredi +84.6$ → inversion en cours ✅\nRetracement actuel : 243.8% du mouvement lun→mer"
@@ -9050,11 +9054,6 @@
    "ts": "2026-11-25T13:46:11.858233+00:00",
    "kind": "news_burst",
    "text": "🔥 <b>NEWS EN RAFALE : CHINE</b>\n6 articles en 45 min (normale ≈ 0.4) → un sujet s'emballe\n\n🥇 Impact moyen : +4.7/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump targets China in new round of tariffs — <i>CNN</i>\n• (+5) Trump prepares new round of tariffs on China, other U.S. trading partners — <i>Axios</i>\n• (+5) U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon — <i>MarketWatch</i>\n• (+5) Trump proposes new tariffs on China, Europe and other trade partners — <i>The Washington Post</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
-  },
-  {
-   "ts": "2026-11-25T13:46:11.105665+00:00",
-   "kind": "news_burst",
-   "text": "🔥 <b>NEWS EN RAFALE : TARIFS DOUANIERS</b>\n9 articles en 45 min (normale ≈ 1.5) → un sujet s'emballe\n\n🥇 Impact moyen : +4.7/10 → 🟢 plutôt HAUSSIER pour l'or\n\n• (+5) Trump targets China in new round of tariffs — <i>CNN</i>\n• (+5) Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices — <i>The New York Times</i>\n• (+5) Trump prepares new round of tariffs on China, other U.S. trading partners — <i>Axios</i>\n• (+5) U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon — <i>MarketWatch</i>\n\n👀 Surveille le DXY et l'or : les gros mouvements suivent souvent ce genre de rafale."
   }
  ],
  "daily_forecast": {
