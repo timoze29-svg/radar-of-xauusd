@@ -1,16 +1,15 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795638668.5477486,
+   "ts": 1795661148.3743827,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
      "last": 2.79,
-     "date": "2026-11-23",
-     "chg5": -0.13,
+     "date": "2026-11-24",
+     "chg5": -0.1,
      "chg20": 0.13,
      "hist": [
-      2.07,
       2.11,
       2.11,
       2.19,
@@ -129,6 +128,7 @@
       2.88,
       2.88,
       2.77,
+      2.79,
       2.79
      ],
      "gold_rel": -1
@@ -136,11 +136,10 @@
     "BREAKEVEN": {
      "name": "Inflation anticipée 10 ans",
      "last": 2.12,
-     "date": "2026-11-24",
-     "chg5": -0.09,
-     "chg20": -0.22,
+     "date": "2026-11-25",
+     "chg5": -0.07,
+     "chg20": -0.23,
      "hist": [
-      2.38,
       2.36,
       2.36,
       2.35,
@@ -259,6 +258,7 @@
       2.16,
       2.15,
       2.13,
+      2.12,
       2.12
      ],
      "gold_rel": 1
@@ -266,11 +266,10 @@
     "US2Y": {
      "name": "Taux US 2 ans",
      "last": 4.63,
-     "date": "2026-11-23",
-     "chg5": -0.2,
-     "chg20": -0.06,
+     "date": "2026-11-24",
+     "chg5": -0.17,
+     "chg20": -0.05,
      "hist": [
-      4.05,
       4.08,
       4.05,
       4.17,
@@ -389,6 +388,7 @@
       4.8,
       4.76,
       4.63,
+      4.63,
       4.63
      ],
      "gold_rel": -1
@@ -396,7 +396,7 @@
     "FEDFUNDS": {
      "name": "Taux Fed (effectif)",
      "last": 3.88,
-     "date": "2026-11-23",
+     "date": "2026-11-24",
      "chg5": 0.0,
      "chg20": 0.0,
      "hist": [
@@ -451,7 +451,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "5405ab64a786",
-  "31967596c0d9",
-  "a76530ae78be",
-  "4b540bdccc74",
-  "97b588bb2fe4",
   "0d3dcff976b0",
   "12c4c1f142a3",
   "c0027b9c8dd8",
@@ -3956,9 +3951,26 @@
   "c65b71e3a886",
   "1e92278c4f2c",
   "45daf07710fc",
-  "102cfd291323"
+  "102cfd291323",
+  "888997ac915e",
+  "dce9fd07771a",
+  "b5a1310cd191",
+  "a29ea6ef94a0",
+  "b927e4b0c05b"
  ],
  "news": [
+  {
+   "title": "Over 30 countries demand Russia stop using chemical agents as weapons of war in Ukraine",
+   "source": "The Kyiv Independent",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkdlYmxueV9wa09kX25XNVA3RXlkLUctWGVROHFpejVnOGxZWVg0eGNleXNmaFdXTHRhZHc1YW41Z3FyZGFyZUxCUnJURUhfbWdDTUVGbXNSdWVaRFZVUDJ1NTB2UTVjcVhfb1M0U3FmSVBjZVBieGxhczI3Q3NOWmRrQTlmdV9vUUVlQmFxdHlJR3dEUzhzNkFpcmo2S3phY255SkJQV0pxeUh0eVVkbjNDQnA2a00?oc=5",
+   "published": "2026-11-26T02:18:57+00:00",
+   "id": "b927e4b0c05b",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "US envoy says largest prisoner swap of Russia-Ukraine war to take place 'very soon, before the holidays'",
    "source": "Anadolu Ajansı",
@@ -4342,6 +4354,18 @@
    "cat": "géopolitique",
    "raison": "Rhétorique diplomatique sino-américaine habituelle, prime de risque géopolitique minime.",
    "method": "IA"
+  },
+  {
+   "title": "Russia Ukraine War",
+   "source": "WV News",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk8xOG8xMDJ1NnpkeUNsb1BYRnRSVHlKREFmaFhMZ3pQY0ltWGJGakM0UW91LWhMbEdyLVV4UV9ZbktxX1RsNTlTVUxvVGJaczNQMWtZUGxod0JLT0dka3A3MmdMcWljRldQYjEzMnZtOFA3WnF6VDJidVQ4Ukk5Q0I5cExfNk41dDFJZzZNRFhHalEyWmNicXhmVElPSXpURWg5dHpMWQ?oc=5",
+   "published": "2026-11-25T20:31:48+00:00",
+   "id": "a29ea6ef94a0",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Trump says Iran war funded through January as Israel warns of chemical weapons development",
@@ -6334,30 +6358,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump says Iran war is funded through January",
-   "source": "Israel Hayom",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NVHNLeDJ2MjlsWDR4YmFXRTk0YXJFNEVLdlFSR29PRkFrWXcxbDRnbkh3STl3NXA1M0FjXzBOS1Y1Nk5TRjhiTDBBV01scE9oclJMUjlMN3lvc2dnb2ltZFdfUWUzYTZfVEd4aXBDNzRKTmhCaGdmZA?oc=5",
-   "published": "2026-11-25T06:25:29+00:00",
-   "id": "5350dfee0160",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "Escalade rhétorique et menace militaire contre l'Iran, alimentant les achats d'or refuge.",
-   "method": "IA"
-  },
-  {
-   "title": "Houthis threaten Saudi ports as tensions escalate",
-   "source": "Cyprus Mail",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTN5eWZfM0NiLVlTNGY0U0xfYjhhWlNYMS0xclRDNEF0elo5VE91N25hOGhMbEFkcnQ4ZmZBSTF6QTk0Qm1XZXhmS2d3d2UtQUEtc056bDZxWEFsWUNoalFDYTZKTEV5aW11WGhFR1FUSUZIdFZtYlVaeUZXb2dDemx6TEM0RXlwck1FUA?oc=5",
-   "published": "2026-11-25T05:50:08+00:00",
-   "id": "18c96d633c39",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Menaces sur les infrastructures portuaires saoudiennes, renforçant la prime de risque géopolitique régionale.",
-   "method": "IA"
   }
  ],
  "fired": {
