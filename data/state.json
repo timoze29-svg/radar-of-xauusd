@@ -957,16 +957,6 @@
   }
  },
  "seen_news": [
-  "3524b4acf9a6",
-  "6111ea0a63e4",
-  "a73b335bb875",
-  "f377ea254612",
-  "e5af13857989",
-  "048296cef628",
-  "d11b4332345e",
-  "0b4a806f72d5",
-  "e3649faee8e6",
-  "9c86851f8b91",
   "87e21d4dfb0f",
   "0e7bc7328762",
   "7a5a1f05f6db",
@@ -3956,7 +3946,17 @@
   "e2e59b106d69",
   "2cf7386eef2f",
   "e399f3b0357b",
-  "6d6fb8b2898e"
+  "6d6fb8b2898e",
+  "d4c455b75d2d",
+  "46366ec17edd",
+  "a8b08a0e363f",
+  "ee7ed5ca57ac",
+  "fc18a1d789fc",
+  "c51042c48d07",
+  "8ea4acfd7046",
+  "776a807d5448",
+  "f3a8a85bf15e",
+  "5f73fc35e0c2"
  ],
  "news": [
   {
@@ -3969,6 +3969,18 @@
    "impact": -4,
    "cat": "géopolitique",
    "raison": "désescalade (attaque écartée / reportée) → baissier or",
+   "method": "mots-clés"
+  },
+  {
+   "title": "A Thanksgiving tariff warning for Berkshire County",
+   "source": "Berkshire Eagle",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTjJOMjBIdGxlUFdIX2d4a3ZldVBZRUhEdWgzVHdhdnN3XzRsdV8xZWVUdEdiUDBaOHFlSVF0dU5ZMXJidnhYZk1oWEtMUzJiaEx1U3RfTlRPTE8zeHJKM21HbXU2X1Z0LUNVYlNIWHBjTVVqaWJCQk9GV2Flc21LU282NWJQbFpiamlZZFVqT3VoRmw3RDNxZE5jREtxZlpLNGZ1VkNVTFBQVUZSYndMWC1wd3BpRnJPXzRCSTQzQjRKVXJacGZuMWVCRjd1Sm9PRVFpRWZDU3VJZEFzM2J5cjJrVm0?oc=5",
+   "published": "2026-11-27T18:00:00+00:00",
+   "id": "ee7ed5ca57ac",
+   "impact": 4,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -3993,6 +4005,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Why This Is a Terrible Time for New Tariffs",
+   "source": "WSJ",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmY2QkZWVXlnUWxyNmZKSUtCcGNQbnJkWHk1QV9xMDdjUmptZjlIc0dUOGFlMm9oLVlMNWxGVVRYT3lCeEQ4ZW1zaGx2RlJPbURkWDdHdjhJd0RLbDBrRTNud05sUlhvMXpncnF6VTltNXhpSW1ualE4SGFjbUI0RWdwOUE2Mlk?oc=5",
+   "published": "2026-11-27T17:31:41+00:00",
+   "id": "a8b08a0e363f",
+   "impact": 2,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   },
   {
@@ -4483,6 +4507,18 @@
    "published": "2026-11-27T10:20:49+00:00",
    "id": "122e2789293a",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran denies responsibility for Kuwait strike that killed two Italians",
+   "source": "Euronews.com",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemFsZ0h4N0ktTTdoUkdCQjE4TXJoRkVsQTlIRGlLek1nY0FrcGVtT2w1U3Y5bzRyd01OYW1MSmFqR2taV0dXNWhTSXJUeW1CdjZDZm9lQWhlMlRCcFBXOHpuOWpDOGs1M3A4MXN6Rkh5SlctUDZDdjg1LWY2REZfeEdRMlpCcDlnVTFvaE5QSHYxZC1iWmRYWkNQQmR5R2NwaDczWFBjeG5OYTRZbTc3eg?oc=5",
+   "published": "2026-11-27T10:20:33+00:00",
+   "id": "46366ec17edd",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6322,47 +6358,9 @@
    "cat": "fed",
    "raison": "Posture agressive de la Fed favorisant le dollar au détriment des actifs réels.",
    "method": "IA"
-  },
-  {
-   "title": "Trump Resists Netanyahu Push for Iran Chemical Weapons Action, Citing Nuclear Focus: how 7 outlets framed it",
-   "source": "NewsCord",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVl6VUxiZVhIX3RfT1R1MXVDY2ctckFwT0Fia0xYejRNWjJ5d1g5NVIzbmlfOXY4Nm00akhjcFpWMmI3czBsOTltZElfcTZtZ2RrZlVMSGdKRlBRMGZQaUNmeEs2QnYwMEtCcklSVThIc0t1TmJ1S1hfR2NLeVVyVm8ya1NTeEtKbUl3cmtUYS1FbFNNMFBfRC1BdkktYUowYWlzQ01VSVR1RTVtb1lHMmQ2TlVsYkY4OWF0dXc4LXgwUUl6NldJb2RtOWg2M3JLcGtTei1UejliV2t5cjJpTjFvZWcybDlCdEE?oc=5",
-   "published": "2026-11-26T17:33:57+00:00",
-   "id": "1906c4ee4cf9",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Iran War is One ‘TACO’ Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events",
-   "source": "EnergyNow.com",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYmdDNHlwVE5HeWF0T2FkRDQ0SmhVeUxwVDZ6YXd2bGxXZldGYTR2aEN2bVY3d3Rad1NaYXFQYzJGNzJTVl9HNDhtd21ENmMxelBpSHY2M3cxbjRHUGZ6dzVyZVRaalV6WDZKSXVyNWd1TEFncWlN?oc=5",
-   "published": "2026-11-26T17:10:10+00:00",
-   "id": "a358b769104b",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Middle East on the brink of war escalation",
-   "source": "Morning Star | The People’s Daily",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ESTZJVHZfX2tHRUxjRGt6NVJ6Y0xvWkpCUTZUaER3TFFEU3h2dkM0UlpxdG5xczNmXzRzVGZNZ0IxWmFoaHNiamlCRXdoWXlFWE5BNXRtVnhlenRXelZadFZobXZhMmRsTVpLY1BaSE85Z0F4S016ZlB2bGY?oc=5",
-   "published": "2026-11-26T17:06:17+00:00",
-   "id": "94ae8eb50ad8",
-   "impact": 10,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|3b139ec3d36c": 1793988972.1220722,
-  "news|eb1a42d65b57": 1793988973.113343,
   "post|2026-11-06T13:00:00-05:00": 1793989894.8301427,
   "news|4b11a0bea08f": 1793991698.5785434,
   "news|ecc57dddf874": 1793993502.9129581,
@@ -8226,7 +8224,8 @@
   "news|b180dded22d2": 1795795307.9828892,
   "news|6dc1e48ee385": 1795797091.78991,
   "news|261002786311": 1795799775.181132,
-  "news|f812ecc0deb5": 1795802502.0160067
+  "news|f812ecc0deb5": 1795802502.0160067,
+  "news|46366ec17edd": 1795804289.7687232
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8714,6 +8713,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T18:31:29.768814+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran denies responsibility for Kuwait strike that killed two Italians</b>\n📰 Euronews.com · Ven 27/11 11:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQemFsZ0h4N0ktTTdoUkdCQjE4TXJoRkVsQTlIRGlLek1nY0FrcGVtT2w1U3Y5bzRyd01OYW1MSmFqR2taV0dXNWhTSXJUeW1CdjZDZm9lQWhlMlRCcFBXOHpuOWpDOGs1M3A4MXN6Rkh5SlctUDZDdjg1LWY2REZfeEdRMlpCcDlnVTFvaE5QSHYxZC1iWmRYWkNQQmR5R2NwaDczWFBjeG5OYTRZbTc3eg?oc=5"
+  },
+  {
    "ts": "2026-11-27T18:01:42.016127+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says Iran war will end whenever he wants</b>\n📰 CBS News · Ven 27/11 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0NlV0RUVDloUnl0WkIzZzM0Z0dTQzdfYjR5YlB6ai1abTFPcVk5MXMzajViTEhxRl93T21reWRzSGtfd1Q5bmRfT3BpTXBlcllCMkhfZW1aTDZHWTYzVnhXNzBBWUc1Z0c5R214V3NwMDNWR1JtODRRNWtxOFJRZTBITWNscHc?oc=5"
@@ -9007,11 +9011,6 @@
    "ts": "2026-11-27T00:16:13.627383+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>New trade war could be brewing following tariff proposal</b>\n📰 kpic.com · Ven 27/11 00:45\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://kpic.com/news/nation-world/new-trade-war-could-be-brewing-following-tariff-proposal-china-eu-india-japan"
-  },
-  {
-   "ts": "2026-11-27T00:16:09.979412+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran attack on Kuwait kills two Italian Rheinmetall workers</b>\n📰 spokesman.com · Ven 27/11 00:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.spokesman.com/stories/2026/nov/26/iran-attack-on-kuwait-kills-two-italian-rheinmetal/"
   }
  ],
  "daily_forecast": {
