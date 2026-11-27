@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "4f108fbd0d2f",
-  "56b5a9945f17",
-  "65766848cb3e",
-  "bab188e1e0e9",
   "b3604e74a1ec",
   "432c6ab9571f",
   "af5d9b2cbbed",
@@ -3956,7 +3952,11 @@
   "e49357ca7760",
   "7715db9d0b0b",
   "cac8805d9f73",
-  "ddafe7115097"
+  "ddafe7115097",
+  "261002786311",
+  "5040a6726516",
+  "5dfa0ca9e5d0",
+  "26a0c3e2f69b"
  ],
  "news": [
   {
@@ -4339,6 +4339,18 @@
    "published": "2026-11-27T11:15:58+00:00",
    "id": "667d3e7d60a5",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Middle East Escalation: Kuwait Drone Strike Kills Two Italians",
+   "source": "jeevanutsahnews.in",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbEx5VnhvNE5jbkxuRDJuTmZweTh3eHpxNnYwVDZzWTdEclBLWkpPTWFmMnV2cnROYkhraHMwVkFoQTJUSl95NUt6R2p6VXhyOTB4SEV1SWE4My1GTS1POE55THluS3FmV255NGl3RWxfeXo2TkNRQ0xzdkgwcTNuYnluRTAyemRhTFVEYlM1NWxCOFA3TldpWklHUlppR1Q2ZWNrMEoxM3Y?oc=5",
+   "published": "2026-11-27T11:03:45+00:00",
+   "id": "261002786311",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,25 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait",
-   "source": "The National",
-   "theme": "Iran / Israël",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
-   "published": "2026-11-26T15:52:29+00:00",
-   "id": "fa78009768ff",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|96322c5c6d51": 1793983567.9306393,
-  "pre1h|2026-11-06T13:00:00-05:00": 1793983569.3229275,
-  "pre15m|2026-11-06T12:15:00-05:00": 1793984506.534017,
-  "news|2bc39d4061f3": 1793985366.9501731,
   "news|a6a846a48574": 1793986477.8334072,
   "news|8d0bca21f460": 1793986478.7751873,
   "news|f233539f4892": 1793986479.6038527,
@@ -8233,7 +8229,8 @@
   "news|96d8999df798": 1795793486.253065,
   "brk|US10Y|pdh|up|2026-11-27": 1795794374.1509125,
   "news|b180dded22d2": 1795795307.9828892,
-  "news|6dc1e48ee385": 1795797091.78991
+  "news|6dc1e48ee385": 1795797091.78991,
+  "news|261002786311": 1795799775.181132
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8721,6 +8718,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T17:16:15.181220+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Middle East Escalation: Kuwait Drone Strike Kills Two Italians</b>\n📰 jeevanutsahnews.in · Ven 27/11 12:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbEx5VnhvNE5jbkxuRDJuTmZweTh3eHpxNnYwVDZzWTdEclBLWkpPTWFmMnV2cnROYkhraHMwVkFoQTJUSl95NUt6R2p6VXhyOTB4SEV1SWE4My1GTS1POE55THluS3FmV255NGl3RWxfeXo2TkNRQ0xzdkgwcTNuYnluRTAyemRhTFVEYlM1NWxCOFA3TldpWklHUlppR1Q2ZWNrMEoxM3Y?oc=5"
+  },
+  {
    "ts": "2026-11-27T16:31:31.790001+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Thanksgiving message attacks adversaries, migrants and economic data</b>\n📰 The Washington Post · Ven 27/11 16:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRvR3lJb19Rd1JDWm5IV0FlUHVvSVYxNWlUQ2cwWWYtODhOa1dOZ2tTZlhPX2FtbERudmVJT08yOFI4N0I4anlFVDFTV1ZyNnEzMVU0WGVEV2ZFUWdwcjJYQXl2NEMzc3JCRzdLNW5fcWlvWUhfR0VpMnNBMTRfbTZITW0xQ1dUMEF4T2ZmSTBxc2l4RnhkQkhzcThsTVpfT3h6a0RpcEllZzRkdENycFVLR1VQNEo3SzJoMXRBMA?oc=5"
@@ -9014,11 +9016,6 @@
    "ts": "2026-11-26T23:46:04.559999+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel says its air force strikes Tehran again after killing Khamenei but many targets remain</b>\n📰 DD News · Jeu 26/11 10:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzJRTGxuUFBoTkxyRVFqanZxLXp5S0pqVWJIN2hIYURXMWU0c3FJQWRwemk5M1F0bmVuZXotLXlSSmk5ZkYzQWV3VktmdTcwMENTLXBLUmVfOU5ISkhvOVBXYVFRRGIyRzlGYkowQjVuS2ZCR1FsTG9RaFBrOWtnUFlmT1lINGRhWk00by1YR18yVk1xckhwQ2RGV2N1aGVoY1dqVEo1NWhsZkEzY3Z2bE9EZEs4SXZqdVZF?oc=5"
-  },
-  {
-   "ts": "2026-11-26T23:46:03.739868+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention</b>\n📰 Fox News · Ven 27/11 00:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0VhN2ZaYnJnT0NiT2NVc0JlZTJ4NDBFWDFQYzNBbUh0VEVzVkJyTEhNNkhUa1N3Z2RTTUI5dzE0Njc1ZWlQS0x0cktnYnNNZTl4aW9Sem12bzRMSmpmZHlrcXhtQWhKOG0xbUgzZWZLWXc5emlsRy1jb2ltUXdKYzk4SUpBRlJQR3BjbGVTUHZVWVFxZnVNUnp4VmRfUTVrd1h6a3Z1eEhBR3PSAbABQVVfeXFMTnJON0RxOWJ4d2N2anJWLUdZSzRnSHp3RThEVDVCaVBzVjFtRjRjTzlOUS1veC1BWkhaakhuVkk2NFNObkVON0lCUUZMVDlzbWxJWmdUc1UxbnpPWWFyZl9jQTVRUFNNaXl3TWdRejRiUVZqTU44RE0yRmVFTV84YjFsNFV5MGNSdmtQbVRTME5JeUxiYzBOdk1VNkg3czl0Q0RnUTFnMkNBQ0JYSl9zUVQ?oc=5"
   }
  ],
  "daily_forecast": {
