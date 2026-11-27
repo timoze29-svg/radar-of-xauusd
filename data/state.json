@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "94b451b9f3e5",
-  "025acd637414",
   "280a3e3ac89d",
   "e5a217a65fcf",
   "662a289fe9b8",
@@ -3956,9 +3954,23 @@
   "981067318856",
   "2526c57e6a1a",
   "e5914d46c364",
-  "7c5fbe849e66"
+  "7c5fbe849e66",
+  "0ef962f9cc29",
+  "e3164c5fa94c"
  ],
  "news": [
+  {
+   "title": "Did US-Israel strikes fail to destroy Iran’s missile program? Report claims Tehran developing ballistic variants",
+   "source": "شبكة تواصل الإخبارية",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JMTBNdDhGR3pPbnlsR1hZOXJDcUtxNksxc0U1WGRQem5uRW5Id2hGRHk2Wmw2cHhGYzBfYVRpc19SaHpNZktBcWdSaV9NZ2RGSVdz?oc=5",
+   "published": "2026-11-27T08:10:52+00:00",
+   "id": "e3164c5fa94c",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Oil Prices Near November High As Middle East Attacks Threaten Global Supply",
    "source": "Arise News",
@@ -6346,24 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Europe is at war with Russia: US envoy Kushner claims Ukraine is fighting proxy war and Europe's fears of Russia are unfounded",
-   "source": "Українська правда",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqNFVjQ3lIVWt0eFdiZmpWTG9WU0xrODdzX2RXdWdRb2dGeVRobGVyWlpGMDF0Z1BNM0U2ZFJ4QURpS3pqZnZuS0l6WXZuUDFKZ0FfTlRQOUIxWFoydFhEaElnSTfSAXBBVV95cUxPTWthM2hoOExhUkR1MnNPcVRmVnAyYTkzdE1Jck9tUnBnbFpaYnE3U2l4UlVOSy1VRHBhREJrYW4yRlRSZlE0Z3ZFdm5HT0diVTVuYU84OWdfRzdmb1lfTEtfTnB6ZmlVSGRMTG5GcDlN?oc=5",
-   "published": "2026-11-26T07:18:00+00:00",
-   "id": "02b89d321be0",
-   "impact": 1,
-   "cat": "géopolitique",
-   "raison": "Incertitudes sur la posture américaine en Ukraine, impact modéré sur le risque.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|e5397cbc102b": 1793952988.6851244,
-  "news|84d6ab8b30e5": 1793952989.8415923,
-  "pre1h|2026-11-06T04:30:00-05:00": 1793952991.1001952,
   "news|a5fb69acb088": 1793955753.446256,
   "news|e7415c392da6": 1793955754.5140386,
   "news|8585cbc55ab0": 1793956617.1094797,
@@ -8255,7 +8252,8 @@
   "news|e9197d4ba5e3": 1795761091.999033,
   "news|7eb6eae011c4": 1795761092.9063485,
   "news|3cab94253d21": 1795764684.6690545,
-  "news|349726b25626": 1795766280.6656039
+  "news|349726b25626": 1795766280.6656039,
+  "news|e3164c5fa94c": 1795767494.8058362
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8743,6 +8741,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T08:18:14.805983+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Did US-Israel strikes fail to destroy Iran’s missile program? Report claims Tehran developing ballistic variants</b>\n📰 شبكة تواصل الإخبارية · Ven 27/11 09:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JMTBNdDhGR3pPbnlsR1hZOXJDcUtxNksxc0U1WGRQem5uRW5Id2hGRHk2Wmw2cHhGYzBfYVRpc19SaHpNZktBcWdSaV9NZ2RGSVdz?oc=5"
+  },
+  {
    "ts": "2026-11-27T07:58:00.665698+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Resigned Trump counterterror adviser Joe Kent says 'Israel drove the decision' to strike Iran - ABC News</b>\n📰 Breaking News, Latest News and Videos · Jeu 26/11 23:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhsUzdIbkRKd1JhaE5hOVlFTWdIWmxRMmJXMDZNbDloOEFnQ1JCdEZoQ2ZSU3QyYlhuVmY5N3dvbjhPbTFiZ3psYVhsQzVQMTEzZmpuNjA3UklBOUpwYTFzQnVCeWV0YXM5MEpqbU9jcFRCRTNQd0dVd2g1Z2ZodkhyalhrV1ptVVFySGNCWHdoLW1XSkgtQ2VDRUk3SF9VdWtOQ05ZeHhMUdIBrwFBVV95cUxNSFZCSmxFdENxcDRHaUJOSXZTaVdwRGRoQ0c1LTVkc2ZuSGlid2tyYllFUXlxYk96MWp6alBKUUNxWTVZZU1LdWpKVFEtNlRiTUduMm9zaUx4aEtTSTh6QU1OajBvTDN3NUpCa3VRV3ViazhKa2JuY3VYdjI5bWFaREdoQWI5ZUF5eWU2ek94dlpXUVlwWGdIdHM3eWJfQlFrMnNMR05KdHJJa2h1M2VZ?oc=5"
@@ -9036,11 +9039,6 @@
    "ts": "2026-11-26T13:16:13.453747+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel ready to strike Iran ‘at any moment’ without US support as Netanyahu pushes Trump for fresh offensiv...</b>\n📰 Firstpost · Jeu 26/11 14:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX1dRRWJRNjlOMTlqVzljNUVtT2lBdS1paFFDb3BJempfYjJuOXJYTFZiVlhIblBvSjR6cGlBeTZCTEFsYUVKdUdYOWNkbm5XSkVSMXI0WFUyelQybUVZZDg4WHNfWnFfYWJLOGEwRU5JVlR1aXAyQjVzUzcxNmxZdGtZMU5YMjA3WTRaV3g2YkRKU2xJdFBKbE5ZUHBJOGtoZmlsWmFOOExmWEF0Ml9yTmFrTExhWW5DZHdGSElrY2VNT3pRdGlueVQtNVltMWVvNWtGQ2NBR3k3U2VVYzR6dXhiZG1YY2fSAewBQVVfeXFMTy1uaUxLcHNlc2I1bnpac2ZlcEJBOUlRY1hpdkFuX05tTEZqYXlqUk1RR0phdDdXajR3ZWFyY3VUTnZ6MGc0RWZWcWNVWWhYYUpzQ0tmYmhlT1NlTTFvb1l0REpPa3FsUHZGVHlkRE1iUEpEUktORy1FVmo3UWtnamZScXdrVVFDZ2hNOWtQdUhmMkRaS1FwdWViUjJ0ei1sbjlaWWUwR3hMVmotQXFyRFpLb1RNX0d6TXhTd1p1R242YzR6enJMZi1FX3FrejUxeEstNkRhZmRLdVNfcGRERm13eXpDQ0oxQ3hwbzk?oc=5"
-  },
-  {
-   "ts": "2026-11-26T13:01:49.227616+00:00",
-   "kind": "ny_update",
-   "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3620.40</b>  (+0.0$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (+0) → maintenant +0 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n📏 Range fait : 56$ sur ~113$ attendus (50%) → il reste de la place\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Fresh escalation soon? Israel says may strike Iran 'at any moment', even without US\n🟢 (+8) Who is David E. Sanger and what did he say? Trump attacks “mediocre” NYT reporter on Thanksgiving morning\n🟢 (+8) Europe’s last dictator Lukashenko criticises Putin’s logic for war in Ukraine: ‘Do we give Russia back to Mongolia?’\n🟢 (+8) Eisenkot accelerates coalition talks amid fears Netanyahu could launch Iran strike"
   }
  ],
  "daily_forecast": {
