@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795789866.7340806,
+   "ts": 1795794349.0807714,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "0a87ea2b295c",
-  "0f206bdea532",
   "e685fa123c5c",
   "86833417df0c",
   "f466ffe4fc53",
@@ -3956,7 +3954,9 @@
   "c0e9ab21fcb6",
   "96d8999df798",
   "bb023be8a4bc",
-  "a201b231886e"
+  "a201b231886e",
+  "ea26d635f5e1",
+  "ad462ae88d18"
  ],
  "news": [
   {
@@ -8234,7 +8234,8 @@
   "big|SILVER|2026-11-27": 1795790768.8978467,
   "big|COPPER|2026-11-27": 1795790769.8843474,
   "news|6d68f837650d": 1795791705.1709867,
-  "news|96d8999df798": 1795793486.253065
+  "news|96d8999df798": 1795793486.253065,
+  "brk|US10Y|pdh|up|2026-11-27": 1795794374.1509125
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8722,6 +8723,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T15:46:14.150986+00:00",
+   "kind": "breakout",
+   "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Taux US 10 ans</b> casse le plus haut de la VEILLE\nNiveau : 4.856 → prix : <b>4.912</b>\n\n🥇 Lecture or : <b>🔴 baissier pour l'or</b>\nCorrélation avec l'or : 20j 0.13 | 60j 0.0"
+  },
+  {
    "ts": "2026-11-27T15:31:26.253157+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>New trade war could be brewing after Trump announces proposed tariff hikes</b>\n📰 Baltimore Sun · Ven 27/11 15:57\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVBNamFLU1Y2LWVqa3AyYktabUVWOHV2UVktcWZwbHVRS25sMlowNXUtbGhMRzJHODdnbGE3LV9xZmlHVVRfT2ZvcFFGZWtKaGlzMHhfRTlvczg1VkcyNzg4bTNuOXZJWTFFdEJmOEhrRG9lSGQ5QWVTVU9NcG5pWXZUNXpsU29tZ2ZpQVQ2Z29fWE5hNExrSnhoTktyTFZtR0ZFbFh5bWw5TWhVNDF3blphSThlQQ?oc=5"
@@ -9015,11 +9021,6 @@
    "ts": "2026-11-26T22:31:33.867436+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Says Iran Should not Charge Fees to Tankers Going Through Strait of Hormuz</b>\n📰 EnergyNow.com · Jeu 26/11 11:57\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE9PVTJoYUdEODU4a1F3OWFFRVFsNXZlRGIwZEZ6UmppMHQ0djBQUkM3QXdWV0M2VWUtLWtQcnZUdlNVaGpZVTBHeGhPbmdSYy1WTUctZ1hTNTFuOEVULVdpbktYbS1xRTRsQjdEMDBDWUp6dEhmTTJvMXVsS0otN3d6ZFFVMndUcVhfZWprTk5YZzY0LUlBZDFfVmNyQWd6a0lGYWZtSDBhWnctMEZFcQ?oc=5"
-  },
-  {
-   "ts": "2026-11-26T22:31:33.054125+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel’s military ‘ready to attack Iran’ without the US</b>\n📰 Muslim Mirror · Jeu 26/11 13:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWxnNkNncjYwVEpKTGlhc0luRDFPNkJWRzBmXzRvNHJNTDY2Ul9URzJHZmFUUHpaOE5sVzhyM3o5ODREU3piSXBYSVNaQ0l5WEYtTWVZUUo5bWpRWC1vN0F5cy0zeW5QeXdJYlE5VXVYcTBOSVFuOE04eHJfTVI0MG5lc3Q?oc=5"
   }
  ],
  "daily_forecast": {
