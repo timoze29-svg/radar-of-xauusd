@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "b1c66c8e54f0",
-  "52a5960b1b0a",
-  "ccda1465f52a",
-  "4b426198533b",
-  "0519756bcb4d",
   "5fb6bdf65df1",
   "b886589029b7",
   "d53c72cd1cf0",
@@ -3956,7 +3951,12 @@
   "5ca85e923485",
   "568f1df712cd",
   "b3c6dc5145fc",
-  "eee2e704fed1"
+  "eee2e704fed1",
+  "5174eb3a4460",
+  "3cab94253d21",
+  "3b28489b228c",
+  "3280116e9044",
+  "b324702b3151"
  ],
  "news": [
   {
@@ -5292,6 +5292,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Five takeaways from Trump's new tariffs",
+   "source": "Reuters",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVdRWHdFWmhsVnBsWXd0RE5sdWtTTDlJN2lXSkxLTnhWVk5nR0RRSkN6cHVZV0pKZ2ozcWM3dUxCNVZUWDdENUpBOENveTROOUxudGpHNlk1Ny1jeTZSLTdINmdlWTJLVm9HWXZ2UU9RbGFaLV90UkFBZl9TLTByblUtMVQ0UTlO?oc=5",
+   "published": "2026-11-26T14:46:54+00:00",
+   "id": "3b28489b228c",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Iran war live: At least two killed following Iranian drone attack in Kuwait",
    "source": "Arabian Business",
    "theme": "Iran / Israël",
@@ -5781,6 +5793,18 @@
    "impact": -6,
    "cat": "fed",
    "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Indian Embassy in Tehran issues advisory after Israel–US strikes on Iran",
+   "source": "DD News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0tfVmpWS2FOSjRNZnlQTk80ZkNGU3JWbUFUVngwaUdjVDlGVG9acXpmWWZKRFJ3WTlTVnJPQVppLWRhVXUzNjE4SUZJeTJlREhlanpjZGNQTzNIeGxJbk1lbEUwWllwR2JqNm9qcFVYLXZvWTY2UUl0UEpPWl9NZ0JjYkl4cGwtOEhSZTJjVW93akVSZjRQLWVCMDRFOHc?oc=5",
+   "published": "2026-11-26T10:25:07+00:00",
+   "id": "3cab94253d21",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6334,30 +6358,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Indonesia gold mine flood leaves 13 dead , 13 missing",
-   "source": "theadvocate.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.theadvocate.com.au/story/9398439/indonesia-gold-mine-flood-leaves-13-dead-13-missing/",
-   "published": "2026-11-26T05:15:00+00:00",
-   "id": "aeb3c3b76945",
-   "impact": 1,
-   "cat": "or",
-   "raison": "Perturbation locale de l'offre d'or physique sans effet macroéconomique significatif.",
-   "method": "IA"
-  },
-  {
-   "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
-   "source": "ksevradio.com",
-   "theme": "Géopolitique",
-   "link": "https://ksevradio.com/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships/",
-   "published": "2026-11-26T05:15:00+00:00",
-   "id": "5529b37ed719",
-   "impact": 3,
-   "cat": "géopolitique",
-   "raison": "Tensions pétrolières et risque d'escalade avec l'Iran stimulant la valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8254,7 +8254,8 @@
   "news|17876ac8853f": 1795761087.5479794,
   "news|de6aba584254": 1795761091.0933034,
   "news|e9197d4ba5e3": 1795761091.999033,
-  "news|7eb6eae011c4": 1795761092.9063485
+  "news|7eb6eae011c4": 1795761092.9063485,
+  "news|3cab94253d21": 1795764684.6690545
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8742,6 +8743,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T07:31:24.669146+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Indian Embassy in Tehran issues advisory after Israel–US strikes on Iran</b>\n📰 DD News · Jeu 26/11 11:25\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0tfVmpWS2FOSjRNZnlQTk80ZkNGU3JWbUFUVngwaUdjVDlGVG9acXpmWWZKRFJ3WTlTVnJPQVppLWRhVXUzNjE4SUZJeTJlREhlanpjZGNQTzNIeGxJbk1lbEUwWllwR2JqNm9qcFVYLXZvWTY2UUl0UEpPWl9NZ0JjYkl4cGwtOEhSZTJjVW93akVSZjRQLWVCMDRFOHc?oc=5"
+  },
+  {
    "ts": "2026-11-27T06:31:32.906457+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Australia sanctions two suspects behind IRGC - backed Melbourne synagogue and Sydney arson attacks</b>\n📰 bignewsnetwork.com · Ven 27/11 06:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.bignewsnetwork.com/news/279464555/australia-sanctions-two-suspects-behind-irgc-backed-melbourne-synagogue-and-sydney-arson-attacks"
@@ -9035,11 +9041,6 @@
    "ts": "2026-11-26T12:46:32.423036+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Strong growth and elevated inflation signal more Fed tightening</b>\n📰 ing think · Mer 25/11 16:36\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOREFUTXM4Wko2bjBhZFE2cWllM1dWVjlPSHRSLWhnYldSV3dNWGw3c2E4eG90cFJsY01nandkRUk5Vnp3NHcxUnNyZXZKUjdaYzZ3NDN5LVFmS1p0QmVYOHpSMzVsaDVKdURYMFNnNDRDb0loU215NWVRMlNCVzZYTDZlM1ZZem5fZ0RyT1p6Vk5pb1loSkh4cmRDaw?oc=5"
-  },
-  {
-   "ts": "2026-11-26T12:46:31.558166+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Who is David E. Sanger and what did he say? Trump attacks “mediocre” NYT reporter on Thanksgiving morning</b>\n📰 AOL.com · Jeu 26/11 13:26\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9MTEhKTlVUTEVINVVibjNYLUMyeDlGYTQ0YXJYUTNKOHg1bTJaRTk3UEk2WExsZTFMX2dZa19nS2VmRlFjUUUwZExhNVBHRmhLbFE0Q0VhdWVVUEl2Zml1cnNRYUVXNW9kVE9xdkg1X0F1dkxkbXBJ?oc=5"
   }
  ],
  "daily_forecast": {
