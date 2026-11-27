@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "392c23e62c64",
-  "55812e2abecd",
-  "7c3034ac260a",
   "f446a508a700",
   "29a991ebb6e8",
   "afdc8699139e",
@@ -3956,7 +3953,10 @@
   "0514013e2f6b",
   "786c0dad4826",
   "7ce901425847",
-  "5c03679dbe5c"
+  "5c03679dbe5c",
+  "4a600b0530ec",
+  "e8a6be8bcd84",
+  "81914a1806da"
  ],
  "news": [
   {
@@ -6361,7 +6361,6 @@
   }
  ],
  "fired": {
-  "rep|recap|2026-11-06": 1793998901.9727895,
   "news|f4463f8ce865": 1794002494.3994846,
   "news|3e2363591277": 1794002495.353919,
   "news|baae3078af79": 1794004281.160101,
@@ -8221,7 +8220,8 @@
   "news|f812ecc0deb5": 1795802502.0160067,
   "news|46366ec17edd": 1795804289.7687232,
   "news|ebaf535b351a": 1795811489.679025,
-  "news|7ce901425847": 1795812372.0949922
+  "news|7ce901425847": 1795812372.0949922,
+  "rep|recap|2026-11-27": 1795813302.8951564
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8709,6 +8709,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T21:01:39.335091+00:00",
+   "kind": "recap",
+   "text": "🌙 <b>BILAN DU JOUR — VENDREDI 27/11</b>\nOr : <b>+10.0$</b> depuis minuit · plus haut 3675.9 (18h55) / plus bas 3642.7 (16h50) · range 33$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+0) à 3620.4 → maintenant 3674.6 (+54.2$)\nRange : 33$ réalisé vs ~115$ attendu (29%)\n\n📈 <b>Fiabilité des prévisions</b> : 67% de bonnes directions (22 ✅ / 11 ❌ / 2 ➖ sur 35 jours)\n20 derniers jours : 72%  ·  ➖✅✅✅✅✅✅❌✅❌\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.20% · Taux 10 ans +8.8 pb · Pétrole -1.90% · EUR/USD -0.33% · S&P 500 +1.69% · Argent +4.34%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Middle East Escalation: Kuwait Drone Strike Kills Two Italians\n🟢 (+10) Middle East Tensions Escalate: Drone Strike in Kuwait Kills Two Italians as Houthis Hit Saudi Oil Refinery\n🟢 (+10) 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News\n🟢 (+10) Australia sanctions two suspects behind IRGC - backed Melbourne synagogue and Sydney arson attacks\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻"
+  },
+  {
    "ts": "2026-11-27T20:46:12.095130+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump on Iran war ending whenever he wants</b>\n📰 CBS News · Ven 27/11 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0NlV0RUVDloUnl0WkIzZzM0Z0dTQzdfYjR5YlB6ai1abTFPcVk5MXMzajViTEhxRl93T21reWRzSGtfd1Q5bmRfT3BpTXBlcllCMkhfZW1aTDZHWTYzVnhXNzBBWUc1Z0c5R214V3NwMDNWR1JtODRRNWtxOFJRZTBITWNscHc?oc=5"
@@ -9002,11 +9007,6 @@
    "ts": "2026-11-27T01:31:42.664086+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold declines to near $3,550 amid hawkish Fed expectations</b>\n📰 FXStreet · Ven 27/11 00:37\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWl6WDgzM0tfbzV6bDlPc0dfd3hpbUtHa3pQSDRHeGFIa0JySjNXaEF0V2NTanlDYktkaTV0dHdEdmhqOWtYSk5vMHZSNU8zRTVLN2w3RnY3OXVmRXFHMkpqTnExblo2ekNGMzNLSU9nM3R3M1g2SHFJVGM1aWFSaUdRS2xCUVVncjlTczVmeVk2bE9jRm1faFBseG11ejBhZmc?oc=5"
-  },
-  {
-   "ts": "2026-11-27T01:31:41.759955+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Article : Trump Iran War : When Congress Becomes the Third Player</b>\n📰 opednews.com · Ven 27/11 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.opednews.com/populum/page.php?f=Trump-s-Iran-War-When-Con-Conflict_Congress_Congress-House-Legislation_Funding-261126-448.html"
   }
  ],
  "daily_forecast": {
@@ -9296,11 +9296,19 @@
    "mv": 0.0,
    "range": 55.9,
    "exp": 112.7
+  },
+  {
+   "date": "2026-11-27",
+   "dir": "range",
+   "res": "miss",
+   "mv": 54.2,
+   "range": 33.2,
+   "exp": 115.1
   }
  ],
  "evening_recap": {
-  "date": "2026-11-26T21:01:39.510027+00:00",
-  "text": "🌙 <b>BILAN DU JOUR — JEUDI 26/11</b>\nOr : <b>+1.9$</b> depuis minuit · plus haut 3634.7 (03h40) / plus bas 3578.8 (02h00) · range 56$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+0) à 3620.4 → maintenant 3620.4 (+0.0$)\nRange : 56$ réalisé vs ~113$ attendu (50%)\nNiveaux touchés : R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 69% de bonnes directions (22 ✅ / 10 ❌ / 2 ➖ sur 34 jours)\n20 derniers jours : 72%  ·  ✅➖✅✅✅✅✅✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.11% · Taux 10 ans +0.0 pb · Pétrole +0.57% · EUR/USD -0.05% · S&P 500 +0.00% · Argent +1.21%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Middle East on the brink of war escalation\n🟢 (+10) Fresh escalation soon? Israel says may strike Iran 'at any moment', even without US\n🟢 (+8) Trump :  Very impactful  talks with NATO chief on Ukraine war , U . S . defense production\n🟢 (+8) Trump and NATO Secretary-General Discuss Ukraine War and Iran Conflicts\n\n📅 <b>Demain (vendredi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.",
+  "date": "2026-11-27T21:01:42.895120+00:00",
+  "text": "🌙 <b>BILAN DU JOUR — VENDREDI 27/11</b>\nOr : <b>+10.0$</b> depuis minuit · plus haut 3675.9 (18h55) / plus bas 3642.7 (16h50) · range 33$\n\n<b>❌ PRÉVISION FAUSSE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+0) à 3620.4 → maintenant 3674.6 (+54.2$)\nRange : 33$ réalisé vs ~115$ attendu (29%)\n\n📈 <b>Fiabilité des prévisions</b> : 67% de bonnes directions (22 ✅ / 11 ❌ / 2 ➖ sur 35 jours)\n20 derniers jours : 72%  ·  ➖✅✅✅✅✅✅❌✅❌\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.20% · Taux 10 ans +8.8 pb · Pétrole -1.90% · EUR/USD -0.33% · S&P 500 +1.69% · Argent +4.34%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Middle East Escalation: Kuwait Drone Strike Kills Two Italians\n🟢 (+10) Middle East Tensions Escalate: Drone Strike in Kuwait Kills Two Italians as Houthis Hit Saudi Oil Refinery\n🟢 (+10) 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News\n🟢 (+10) Australia sanctions two suspects behind IRGC - backed Melbourne synagogue and Sydney arson attacks\n\n📅 <b>Semaine prochaine</b> : calendrier complet dans la prévision de lundi 7h. Bon week-end 🍻",
   "ai": false
  },
  "dp_last": {
