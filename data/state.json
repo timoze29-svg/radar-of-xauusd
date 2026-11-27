@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "c30c7a3e8c41",
-  "6fd3fe3581ec",
   "715d1de80b6c",
   "a860a3360827",
   "ea06f6306c25",
@@ -3956,7 +3954,9 @@
   "dc9ecae6a596",
   "14d8f0870d00",
   "b11833474ce5",
-  "72bf48f02ea2"
+  "72bf48f02ea2",
+  "ec02d8e869ec",
+  "df106731cb60"
  ],
  "news": [
   {
@@ -3966,6 +3966,18 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcC1jbElQVnEwMzZDY2g0TGl3SW5fbjR0OFlQMl9wOU1DX2dBSVhqQjF0dWN2OWZ6R1VHdTQ2SGYyU0hzaDA3T1V3UVpPRTZ3SHV4T1NHQ0dLelhwMDl0TTROLUpXTnYwRmVBOGVVZ0NDU2ZsdlN4ZEp6Tl9XU0swNE95TS1pbDZ6V0FzTGRWNG1sYm1aY1dDdVJIdGVYWjRJR0RRdm5aVmlRekw1N0tEZjg1S3g?oc=5",
    "published": "2026-11-27T14:29:14+00:00",
    "id": "a5a3e602fc6c",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump tariffs brought EU and Indonesia closer, minister tells Euronews",
+   "source": "Euronews.com",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcC1jbElQVnEwMzZDY2g0TGl3SW5fbjR0OFlQMl9wOU1DX2dBSVhqQjF0dWN2OWZ6R1VHdTQ2SGYyU0hzaDA3T1V3UVpPRTZ3SHV4T1NHQ0dLelhwMDl0TTROLUpXTnYwRmVBOGVVZ0NDU2ZsdlN4ZEp6Tl9XU0swNE95TS1pbDZ6V0FzTGRWNG1sYm1aY1dDdVJIdGVYWjRJR0RRdm5aVmlRekw1N0tEZjg1S3g?oc=5",
+   "published": "2026-11-27T14:29:14+00:00",
+   "id": "df106731cb60",
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
@@ -6346,18 +6358,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
-   "source": "Kitco",
-   "theme": "Or",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXFfM3AxNjAxLVVEMXMzVEhVc3FvUXFNaDFuRlV6dmlTVEpsNGdDZU5VOGZZWTh5eUJ5dWQzZlByZ2ZIcE9nX01Tak5KRDN6Q1Z2Z3Jqbk9WYzVYZVVtVjNobWxndnFSZk02TXo3Vlk2Z0pDZUFGbDZKSE00SXpVYWlSVmZjdWZmQ2xxUTF2RzZnYllpUUhaYm1SV1dGa0o3SUZndmd4dlFQSXNWN0gzUnhUbDZlQQ?oc=5",
-   "published": "2026-11-26T13:54:01+00:00",
-   "id": "322ca4544902",
-   "impact": -8,
-   "cat": "fed",
-   "raison": "baissier or (fed)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8234,7 +8234,9 @@
   "news|c27d5872de8f": 1795786294.514482,
   "news|08a96aaa5545": 1795787168.9985683,
   "news|bfb7d34d6bb6": 1795788977.1026344,
-  "news|6e988dbafe3e": 1795788980.6288111
+  "news|6e988dbafe3e": 1795788980.6288111,
+  "big|SILVER|2026-11-27": 1795790768.8978467,
+  "big|COPPER|2026-11-27": 1795790769.8843474
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8722,6 +8724,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T14:46:09.884414+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Cuivre\n+0.2555 aujourd'hui = 2.0× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
+   "ts": "2026-11-27T14:46:08.897912+00:00",
+   "kind": "big_move",
+   "text": "🌋 <b>MOUVEMENT ANORMAL</b> — Argent (XAG)\n+3.933 aujourd'hui = 2.4× l'ATR\n🥇 🟢 haussier pour l'or"
+  },
+  {
    "ts": "2026-11-27T14:16:20.628915+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>As U.S. offers praise, Putin hammers Ukraine with wave after wave of deadly strikes</b>\n📰 NBC News · Ven 27/11 13:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkpPWXAwYVZ6XzA2S2lYWVhnZEFWa1UySDBPd1NsYU9zd19EakxuRUVKUERlTldFeExmN29QYlc2ZVVzZDdQR0hWRG1VMkhwaG16UU4yeEFhNVVBeDVQRDIwazZMZlZiVk1oUmlnQ2xCM3AzdUNaVS1oWUJwbHA3UU5SeHhZQW1CODMzR3kzQVdnckt1RG5hcXFRTXNldjhjcGlKSWFFY1dYV0lKRG05Sg?oc=5"
@@ -9010,16 +9022,6 @@
    "ts": "2026-11-26T22:31:28.332167+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report</b>\n📰 Kitco · Jeu 26/11 23:07\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQeG5mODVrQkQyYUR6RjI2N25WejFPYUNfbVJNVFRTeVhXWndLWVdmNUNlcmRlM0JWZUdXWU0ydmdFNXZPU2JQNVJWZ2hCbFRTcUlpNjdXN2FpU0lybGlPVC1uR2pmYXI5THlqd3BRR0o1Vzh1Um8tOWNBRGE3NndHc09iNnl1RFFLZjNNRDhlOVNmSDhBanFzLTZUWTdkNklsT1RNV0NFWVl4TGhpVTVJTlpWSzZZemxWY2dDQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-26T22:01:41.431184+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran War is One ‘TACO’ Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features &amp; Events</b>\n📰 EnergyNow.com · Jeu 26/11 18:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYmdDNHlwVE5HeWF0T2FkRDQ0SmhVeUxwVDZ6YXd2bGxXZldGYTR2aEN2bVY3d3Rad1NaYXFQYzJGNzJTVl9HNDhtd21ENmMxelBpSHY2M3cxbjRHUGZ6dzVyZVRaalV6WDZKSXVyNWd1TEFncWlN?oc=5"
-  },
-  {
-   "ts": "2026-11-26T22:01:40.431022+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential</b>\n📰 The Guardian · Jeu 26/11 21:32\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEdiemswRjA4aENUb0tBQWZvUW1sRXpCaXJpV2ppeHhBRW51MDFsbGszVHdJcmwzaVNoeTZOVDk3N3YxTHBfS242QWZvVnJHMVAxUExWZ2ZJX2JBc0dJQzNEaTItTDlZWWJNUHYyWG5kTkN6V1IwZ3RNaHo4RFM0a0JmZVR1TGZxTXdta0VHc3paR2hTeUhqaDN2amdNU0NJVGFDMDAxU3kzMEsxS0RpcXhRWUQwNG45MnVRTVJXdUdXeHpIQTlnWi1YdXR4bUVSQ1V1azJNQV8wSTFnZzJ0V0Fmb0V6RWpmaTdZWldUaGRKMG8?oc=5"
   }
  ],
  "daily_forecast": {
