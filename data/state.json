@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795777279.535368,
+   "ts": 1795781757.526455,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -760,19 +760,19 @@
    ]
   },
   "hourly_stats": {
-   "ts": 1795709769.7093866,
+   "ts": 1795781794.4525595,
    "data": {
     "gold_hours": {
      "0": {
-      "n": 116,
+      "n": 115,
       "high": [
        [
         0,
-        15.5
+        14.8
        ],
        [
         15,
-        10.3
+        10.4
        ],
        [
         22,
@@ -782,55 +782,55 @@
       "low": [
        [
         0,
-        19.8
+        20.0
        ],
        [
         2,
-        11.2
+        11.3
        ],
        [
         16,
-        10.3
+        10.4
        ]
       ]
      },
      "1": {
-      "n": 123,
+      "n": 122,
       "high": [
        [
         22,
-        12.2
+        12.3
        ],
        [
         2,
         9.8
        ],
        [
-        14,
-        8.9
+        0,
+        9.0
        ]
       ],
       "low": [
        [
         0,
-        11.4
+        11.5
        ],
        [
         16,
-        10.6
+        10.7
        ],
        [
         2,
-        8.9
+        8.2
        ]
       ]
      },
      "2": {
-      "n": 122,
+      "n": 121,
       "high": [
        [
         16,
-        11.5
+        11.6
        ],
        [
         2,
@@ -844,7 +844,7 @@
       "low": [
        [
         0,
-        13.1
+        13.2
        ],
        [
         14,
@@ -896,7 +896,7 @@
        ],
        [
         0,
-        12.0
+        12.8
        ],
        [
         17,
@@ -910,24 +910,24 @@
        ],
        [
         15,
-        7.7
+        8.5
        ],
        [
-        16,
-        7.7
+        2,
+        6.8
        ]
       ]
      }
     },
     "dollar": {
-     "n_hours": 5974,
+     "n_hours": 5950,
      "horizon_h": 2,
-     "base_gold_up": 52.8,
-     "base_dxy_down": 47.8,
+     "base_gold_up": 52.9,
+     "base_dxy_down": 47.9,
      "down": {
       "3": {
-       "n": 246,
-       "p_dxy": 51.2,
+       "n": 244,
+       "p_dxy": 51.6,
        "p_gold": 55.3,
        "gold_avg": 1.3
       },
@@ -940,15 +940,15 @@
      },
      "up": {
       "3": {
-       "n": 270,
-       "p_dxy": 55.2,
-       "p_gold": 48.9,
-       "gold_avg": -0.8
+       "n": 267,
+       "p_dxy": 55.1,
+       "p_gold": 49.1,
+       "gold_avg": -0.9
       },
       "4": {
-       "n": 76,
-       "p_dxy": 57.9,
-       "p_gold": 51.3,
+       "n": 75,
+       "p_dxy": 57.3,
+       "p_gold": 50.7,
        "gold_avg": 0.1
       }
      }
@@ -957,13 +957,6 @@
   }
  },
  "seen_news": [
-  "eed1cd901501",
-  "a8b665e490d9",
-  "558db93c4422",
-  "491ad21c9764",
-  "a192182b7552",
-  "1f817312bbb1",
-  "36f0cd4d1673",
   "2d7d457da7e4",
   "f1b03fe5181a",
   "4389d173cd31",
@@ -3956,9 +3949,40 @@
   "d7afcddf9c51",
   "79cd61a86b4b",
   "61c767eae09f",
-  "2d821894ad31"
+  "2d821894ad31",
+  "21f547b0dcbd",
+  "b8ab30d991ed",
+  "4dd6594858fa",
+  "5f5ff8d58df0",
+  "b183aa431de0",
+  "4273fda40a74",
+  "3ac92834c903"
  ],
  "news": [
+  {
+   "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5",
+   "published": "2026-11-27T11:48:45+00:00",
+   "id": "4273fda40a74",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "The Week in International Trade: Fresh Trump tariffs, more ‘reset’ details and a warning for businesses supply Ukraine",
+   "source": "The Chartered Institute of Export & International Trade",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeFlMUUJLMjFsaTRISWdvdkIzN2t4WmZNWGI4S0Vfc3Zra211Y2lrNjhjUnF0U3huMjh5SnJHNTVIcTJwYkJuQVhFYlRrMDR6ZzVRTEtMaFRVdmljcWVLbkhNdEZaZ1k3bmFoM1psZkVZYXNYd290Sk94WkJQbzQ4cVJ2aUNFeTViMG5hMHJiMDJqS3lHa3JndzBRX0VCeklOMmdWZXVpR0dETE5fd0ZtYVh1U1RqZDJjWTJqRjVFUmxKS3ZwdU5fdFZJMWpOVndHWkFiRW1ESi1BYjF2OG92R01yS184YTZmRWVMQk1HcjF4blU?oc=5",
+   "published": "2026-11-27T11:41:44+00:00",
+   "id": "5f5ff8d58df0",
+   "impact": 5,
+   "cat": "commerce",
+   "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
   {
    "title": "Russian sabotage attacks in Europe up 16% as Ukraine supply lines targeted, new report says",
    "source": "NBC News",
@@ -4711,6 +4735,18 @@
    "published": "2026-11-27T04:00:12+00:00",
    "id": "a0b49bd3d3ff",
    "impact": 2,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Charter flights set to return stranded Americans as travelers scramble amid Iran war, State Dept. says - ABC News",
+   "source": "Breaking News, Latest News and Videos",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkZpX2xlcC1KUHpTMTFIUHZfT0V3YVhvYXZwWVViX0JScVlTbmg2RUpuZlhuZHVMcG14M0VMWnNRQTlYV3JjTDdWTG00NE1MOUxMTUZ4SjFiNGRGcW5qaXhNTFF3V1hBem55U1ZDdVIwZ1VOTW14YUIyMS1rOVNwQzQzQXFtTFNWX1JRbXh0bFJtQ1BRVW54YWY1VU91LS15UUhOMzhwajh6QdIBrwFBVV95cUxQNmNNbDhjYUtIVU1VbzhNT3VIdFRaODNRdGFyR0tOSDMtUWh3cVpLQ1lSc3FVbUR3NzV2bkpYdEdFTjl2VTVHQ00xVzI5TFBlVDFuS2dZdWxnVUxKUkYta2RqejdxX2YyaEJCY2JPR08zOWVYSzdscUdUaGM3b0U1akJqMUJpWE0wc1c5UzRpdUtQeC1GZzNvdVp0bTVzWkk3U3M3alN1SFV3NEtQclRr?oc=5",
+   "published": "2026-11-27T03:46:04+00:00",
+   "id": "21f547b0dcbd",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6322,51 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Goldman Sachs Raises Oil Price Forecasts to $105, Citing Middle East Escalation Risks",
-   "source": "Vocal",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMU9HWW8zZ3ZOUU9oMmVaSDJiNzFqWVcyT3JwVEhaSmk5Y09TUjl4ckYyYURKZHhRZy1SYjRqX1RaN2FNNW1aem9XSkE2a0dJR01oeFVlNE1FWGdpSGZTR2N5WmdsaV9meFd5cnlhQmJ2RGJJYTJlZzdHRFM2QUFrWkhpYnYzY2JYcXh5RHBHTUpqamJBaFJFcHV6NDdPV1ZiN3N5WjJCNWpSdjJveWtPUA?oc=5",
-   "published": "2026-11-26T12:20:12+00:00",
-   "id": "8cf91e45f73d",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Europe’s last dictator Lukashenko criticises Putin’s logic for war in Ukraine: ‘Do we give Russia back to Mongolia?’",
-   "source": "The Independent",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDRucmUxel90VlN0SWZGYy01enVRWWFYTGhfck82SHl4WFJWNGJiclBCSHd4b2hHYV9BaXRoWmdkMnlSb2trcUhCU0ZqVXBxMGhJOWh2enVDY0JTSE5yd1oxakVYRUkyMnplVTNRUnp1Y2czXzRsZV9nVUhrYnVDM0N4bE4ybDhQVFVVeHdka0pEYnFJbG9xYVJDZUt4SmJkUDNXc0JHNUFFZw?oc=5",
-   "published": "2026-11-26T11:48:00+00:00",
-   "id": "daa3caab7baa",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
-   "source": "NPR",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREtlV1RacXpWTkdMNzV4SnY0ZEx2ejd0MDRnbng3Sm1pYm9Tb0lSZ3NrbWF0T2JrTEFpWXRvMHRkSXNqR2lUZENfQnFUTkxnSW8yWjBUVjAxYnRBVzAtaENqUl9RdnNXcWZFUzRMLTZ0X3pXS1Z1MTJVUE9aRnVWU1Z1cFRkY1BqRVhWRUZqUHd4VlVzbVRrY095MHJ0X3YyQ2NYSUYxWG1wdDladUxiQlVzbk9ub0xBdFhGZGpoSHNnUi1ZNlE?oc=5",
-   "published": "2026-11-26T11:43:47+00:00",
-   "id": "c2d2ec7793db",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|1d13ac658011": 1793966507.6760392,
-  "news|e974c2d83be7": 1793966508.5302613,
-  "news|f8c7d95e5d02": 1793966509.3913999,
-  "news|9d1cc34baf52": 1793967385.052045,
-  "news|55e5dcd0fae8": 1793967386.012204,
-  "pre1h|2026-11-06T08:30:00-05:00": 1793967387.2179666,
   "news|b1436b2497a2": 1793968470.7298164,
   "news|3156beaef12b": 1793968471.5859437,
   "news|9728a7090382": 1793968472.3942106,
@@ -8249,7 +8243,8 @@
   "news|4ef98f67c5c8": 1795776380.0447152,
   "news|618e61f3a88e": 1795777322.2918866,
   "news|667d3e7d60a5": 1795779189.989286,
-  "news|fca69b953e51": 1795779193.701934
+  "news|fca69b953e51": 1795779193.701934,
+  "news|21f547b0dcbd": 1795781789.3122056
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8737,6 +8732,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T12:16:29.312286+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Charter flights set to return stranded Americans as travelers scramble amid Iran war, State Dept. says - ABC News</b>\n📰 Breaking News, Latest News and Videos · Ven 27/11 04:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkZpX2xlcC1KUHpTMTFIUHZfT0V3YVhvYXZwWVViX0JScVlTbmg2RUpuZlhuZHVMcG14M0VMWnNRQTlYV3JjTDdWTG00NE1MOUxMTUZ4SjFiNGRGcW5qaXhNTFF3V1hBem55U1ZDdVIwZ1VOTW14YUIyMS1rOVNwQzQzQXFtTFNWX1JRbXh0bFJtQ1BRVW54YWY1VU91LS15UUhOMzhwajh6QdIBrwFBVV95cUxQNmNNbDhjYUtIVU1VbzhNT3VIdFRaODNRdGFyR0tOSDMtUWh3cVpLQ1lSc3FVbUR3NzV2bkpYdEdFTjl2VTVHQ00xVzI5TFBlVDFuS2dZdWxnVUxKUkYta2RqejdxX2YyaEJCY2JPR08zOWVYSzdscUdUaGM3b0U1akJqMUJpWE0wc1c5UzRpdUtQeC1GZzNvdVp0bTVzWkk3U3M3alN1SFV3NEtQclRr?oc=5"
+  },
+  {
    "ts": "2026-11-27T11:33:13.702040+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump floats strike on Iran's Pickaxe Mountain as Tehran's economy buckles under US blockade</b>\n📰 Ynetnews · Ven 27/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NblBneTNMTk9qSy1XWkpVTlhmdEVodGFPWjZiVE5VMG5LMWpnS1VLMk50VUVlQmF5LWFydU90M3ctOFNsbGNtUC1TSmRFZHRnem50Vzln?oc=5"
@@ -9030,11 +9030,6 @@
    "ts": "2026-11-26T18:16:09.907315+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Pezeshkian says he wished for death during 2025 Iran-Israel war</b>\n📰 The New Arab · Jeu 26/11 19:03\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxORERkTl9LcFR2SWRVYU9HZWZXZUltWll4T0dYOEEyUHdPM3BaeDY2bVdYZ0J4LXc1Uk1tOFNGYnZTQXJhNHBNeFNVT2tMV05iRjdmZFVqMjZEZE52SGd5SkhQWUVfRTROMG9WQW9COWlGUnZseGMzdlQ0NHUzYkhFR0R1aEg0Wl8tWjRrY3RoM3lmUdIBlwFBVV95cUxQcEpKQWpsX184emhmeV9iUE9YYXV6ZUZxVWkzOFd2SGN5LVhSLTdwcEJlMElBalphRExVQlJTcndPa2hOWkNaaHBCbWduVnRHQlhIV1lwUlUxS20tUmctNGdQMGtwNmNGY3BXQ0ZwVDgtM0FXZVVBMXFtVXdvQjdNRXl1RzhKX1h0VUxWemMzU2lrN09hOUUw?oc=5"
-  },
-  {
-   "ts": "2026-11-26T18:01:39.337278+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Middle East on the brink of war escalation</b>\n📰 Morning Star | The People’s Daily · Jeu 26/11 18:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9ESTZJVHZfX2tHRUxjRGt6NVJ6Y0xvWkpCUTZUaER3TFFEU3h2dkM0UlpxdG5xczNmXzRzVGZNZ0IxWmFoaHNiamlCRXdoWXlFWE5BNXRtVnhlenRXelZadFZobXZhMmRsTVpLY1BaSE85Z0F4S016ZlB2bGY?oc=5"
   }
  ],
  "daily_forecast": {
