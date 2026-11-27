@@ -957,14 +957,6 @@
   }
  },
  "seen_news": [
-  "76c0d98e8243",
-  "befd4b4bd91c",
-  "5a84e28d4b84",
-  "2a3f476dee1c",
-  "700fd3967c21",
-  "ea09770e0595",
-  "c6bde8737200",
-  "4a9d617096f7",
   "1c4e57fc7c24",
   "b795c10d7a14",
   "687ead8d614c",
@@ -3956,9 +3948,29 @@
   "4c31a1b1f716",
   "abed4f1acf70",
   "c6913ff204c7",
-  "f6f026782a24"
+  "f6f026782a24",
+  "5893daac606b",
+  "46bc928d52e4",
+  "317d06427ada",
+  "e1b19dc79ac4",
+  "1ad3599443da",
+  "2d30ed8e1686",
+  "6bfa992f9f86",
+  "b2b0f4c07f3e"
  ],
  "news": [
+  {
+   "title": "Trump: Iran war will be over ‘sort of whenever I want it to be’",
+   "source": "The Hill",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYndFMTFFMlRhOElWM09BSS1fQ0FQb3kyVWhpYVZ5ZEJlM2t2UTlKRjlFQTlrekVxaVpQa3JucEcwdVFONnB3aUJMMzdCUUpNcG1VcXpOQm1ZTThuME1WdlB2UlhCamI5b2ZVcGI2a1VfajhCeTNqZ2xMRW04Z0tUZS0xNjVESXFLVmx6SERaUdIBlAFBVV95cUxNUFRSSTRfUWdXdWtSWWlrX2pHUm95MHFmSUEzYzAwRkd4dDVyRkxwajJGRTNDb0JyUjNPN2RuRzdfVjlKQ0F0LURjd2x5NmdodkNzVnI3anpZTURQZXhfUXlwdWxTZG84VEdweWFqX0trWVhSTm1nQ0pNaVEweWRmU3g3Nnd2bE82RThqSC1TNUxXN3Zz?oc=5",
+   "published": "2026-11-27T01:41:00+00:00",
+   "id": "46bc928d52e4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Netanyahu Pushes Renewed U . S .- Israeli Strikes on Iran as Israeli Officials Cite Internal Opposition – NaturalNews . com",
    "source": "naturalnews.com",
@@ -6346,18 +6358,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Saudis down missiles targeting capital after Yemen port strikes",
-   "source": "winnipegsun.com",
-   "theme": "Géopolitique",
-   "link": "https://www.winnipegsun.com/news/world/saudis-down-missiles-targeting-capital-after-yemen-port-strikes/article_583a8dd5-4be1-58d9-b12a-b6e9c6619d7c.html",
-   "published": "2026-11-26T03:15:00+00:00",
-   "id": "b6ba1bb64cef",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8255,7 +8255,8 @@
   "news|18777ce018fd": 1795742170.3028834,
   "news|9d11232b6fb0": 1795743101.7598746,
   "news|2c5f213e81db": 1795743102.6639616,
-  "news|5641250e08d5": 1795744900.2185779
+  "news|5641250e08d5": 1795744900.2185779,
+  "news|46bc928d52e4": 1795745772.7311919
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8743,6 +8744,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T02:16:12.731289+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump: Iran war will be over ‘sort of whenever I want it to be’</b>\n📰 The Hill · Ven 27/11 02:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPYndFMTFFMlRhOElWM09BSS1fQ0FQb3kyVWhpYVZ5ZEJlM2t2UTlKRjlFQTlrekVxaVpQa3JucEcwdVFONnB3aUJMMzdCUUpNcG1VcXpOQm1ZTThuME1WdlB2UlhCamI5b2ZVcGI2a1VfajhCeTNqZ2xMRW04Z0tUZS0xNjVESXFLVmx6SERaUdIBlAFBVV95cUxNUFRSSTRfUWdXdWtSWWlrX2pHUm95MHFmSUEzYzAwRkd4dDVyRkxwajJGRTNDb0JyUjNPN2RuRzdfVjlKQ0F0LURjd2x5NmdodkNzVnI3anpZTURQZXhfUXlwdWxTZG84VEdweWFqX0trWVhSTm1nQ0pNaVEweWRmU3g3Nnd2bE82RThqSC1TNUxXN3Zz?oc=5"
+  },
+  {
    "ts": "2026-11-27T02:01:40.218654+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Netanyahu Pushes Renewed U . S .- Israeli Strikes on Iran as Israeli Officials Cite Internal Opposition – NaturalNews . com</b>\n📰 naturalnews.com · Ven 27/11 02:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.naturalnews.com/2026-11-26-netanyahu-pushes-renewed-us-israeli-strikes-iran.html"
@@ -9036,11 +9042,6 @@
    "ts": "2026-11-26T08:01:49.334008+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Accuses Israel of Trying to Deceive US Into Another War</b>\n📰 Tempo.co English · Jeu 26/11 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQODVMUTNGX0VLbFg3MG9IdlhwUGNRY1F4cXA5Zm81SFA3d0hCRkFCb1JlZTlZTXdSXzZsRVZzNzlORzZRVEFaZkNuWktXR2hyblVQbFJFUTlTVjRqRl9QZFJLWUNmZVU5Z0Y0dkpPUkt2RUwyb1Ffcl9DY3ByTnFZdzZlOFVqM2xUS0ktbEY1RDU2S3o2TzZoOQ?oc=5"
-  },
-  {
-   "ts": "2026-11-26T08:01:48.486172+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine War, Day 1,736: Trump Mega-Donor Acquires Overseas Assets of Russia's Largest Private Oil Company</b>\n📰 EA WorldView · Jeu 26/11 09:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE52NUI2OExHNW9GUnZEeXlRbjNzTlUzOTM0SURXWkV0Vk5Vd1JwN19reE9MdDJKbkxPRy00bklDNDFSYUxJQkFILVZ0akJiUUNJQ010aUZ3NEFrWmp4eEp5c3hYaDZhVzY5azUybDJPR3AwTUpGVzZaOENiZGRPbzQ?oc=5"
   }
  ],
  "daily_forecast": {
