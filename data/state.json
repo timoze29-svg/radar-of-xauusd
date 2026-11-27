@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795781757.526455,
+   "ts": 1795786264.4681978,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "76fe32b9d9cf",
-  "f60bc8fad582",
-  "acdfbc67cc72",
-  "3153e28c17eb",
   "f3aa38d4cd0c",
   "2b567da86205",
   "17eb5ef769ac",
@@ -3956,9 +3952,25 @@
   "5a04edebd0f8",
   "caadc87e1c34",
   "fd4b5ef9b50a",
-  "80314bc9a4d1"
+  "80314bc9a4d1",
+  "ee17d7dbc235",
+  "1f46c179e2ba",
+  "24dc68302d02",
+  "c27d5872de8f"
  ],
  "news": [
+  {
+   "title": "US Dollar Index stalls below 104.00 as hawkish Fed bets cushion downside | FXStreet",
+   "source": "شبكة تواصل الإخبارية",
+   "theme": "Dollar",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yQXNPU2JBN0hiLW9CSUFTb3d0dkN4U0dOd3VRMGtYU1N3aTNlaTVfMmQ2amV1Vkd6MFRBTi03UVdkSEdqbEpjWDZGWkh0TTV3WEJB?oc=5",
+   "published": "2026-11-27T13:19:54+00:00",
+   "id": "c27d5872de8f",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
    "source": "Al Jazeera",
@@ -6346,25 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Core Inflation Rises to 3.3%, Warsh May Face 'Opposing His 2018 Self' at December FOMC Meeting",
-   "source": "BigGo Finance",
-   "theme": "Fed",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMlQ0Q1podUJtcG9FS2lGeHVVNDNZc0tlT2hUR0pQRUNPYndJZzZqWXNFVHdZLXN4U2wtYlN1ZVptLU1fdmNTZ3pJWmdNOWN0Zkh0Q19lcUxhX1JPcklWdjBrZVIwbkNJak5qRlkwaDR0eTR1MFE?oc=5",
-   "published": "2026-11-26T13:05:00+00:00",
-   "id": "c520c598ad4d",
-   "impact": -3,
-   "cat": "inflation",
-   "raison": "baissier or (inflation)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "pre15m|2026-11-06T08:30:00-05:00": 1793970974.1143575,
-  "news|67d362739d0d": 1793971885.7825582,
-  "news|0bba5bf78e79": 1793971886.7679436,
-  "news|bd1317c50b2e": 1793971887.693428,
   "news|0591cb72f0ac": 1793972770.1320467,
   "pre15m|2026-11-06T09:10:00-05:00": 1793972773.0278182,
   "post|2026-11-06T08:30:00-05:00": 1793973701.0419936,
@@ -8240,7 +8236,8 @@
   "news|1be5e4e0c285": 1795782704.1734965,
   "news|8308eceefc80": 1795783570.3708718,
   "news|a90e4ebd4527": 1795784505.2092614,
-  "rep|update|2026-11-27": 1795784510.5556293
+  "rep|update|2026-11-27": 1795784510.5556293,
+  "news|c27d5872de8f": 1795786294.514482
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8728,6 +8725,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T13:31:34.514603+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Index stalls below 104.00 as hawkish Fed bets cushion downside | FXStreet</b>\n📰 شبكة تواصل الإخبارية · Ven 27/11 14:19\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yQXNPU2JBN0hiLW9CSUFTb3d0dkN4U0dOd3VRMGtYU1N3aTNlaTVfMmQ2amV1Vkd6MFRBTi03UVdkSEdqbEpjWDZGWkh0TTV3WEJB?oc=5"
+  },
+  {
    "ts": "2026-11-27T13:01:49.454342+00:00",
    "kind": "ny_update",
    "text": "🗽 <b>UPDATE AVANT NEW YORK — 14:01</b>\nPrix : <b>3620.40</b>  (+0.0$ depuis la prévision de ce matin)\nPrévision du matin : ↔️ RANGE / NEUTRE (+0) → maintenant +0 (Neutre)\n⚠️ Range CASSÉ → suivre la cassure\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n📅 <b>Cet après-midi / ce soir</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📰 <b>News depuis ce matin</b>\n🟢 (+10) Middle East Tensions Escalate: Drone Strike in Kuwait Kills Two Italians as Houthis Hit Saudi Oil Refinery\n🔴 (-8) US Dollar Index stalls below 104.00 as hawkish Fed bets cushion downside\n🟢 (+8) Trump Weighs-in on Veto Power, Nvidia, Iran War and Putin\n🔴 (-8) Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears"
@@ -9021,11 +9023,6 @@
    "ts": "2026-11-26T21:16:06.353228+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: At least two killed following Iranian drone attack in Kuwait</b>\n📰 Arabian Business · Jeu 26/11 15:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-26T21:01:38.712712+00:00",
-   "kind": "recap",
-   "text": "🌙 <b>BILAN DU JOUR — JEUDI 26/11</b>\nOr : <b>+1.9$</b> depuis minuit · plus haut 3634.7 (03h40) / plus bas 3578.8 (02h00) · range 56$\n\n<b>✅ PRÉVISION JUSTE</b>\nPrévu ce matin : ↔️ RANGE / NEUTRE (+0) à 3620.4 → maintenant 3620.4 (+0.0$)\nRange : 56$ réalisé vs ~113$ attendu (50%)\nNiveaux touchés : R1, PDH\n\n📈 <b>Fiabilité des prévisions</b> : 69% de bonnes directions (22 ✅ / 10 ❌ / 2 ➖ sur 34 jours)\n20 derniers jours : 72%  ·  ✅➖✅✅✅✅✅✅❌✅\n\n🌍 <b>Actifs corrélés aujourd'hui</b> : DXY +0.11% · Taux 10 ans +0.0 pb · Pétrole +0.57% · EUR/USD -0.05% · S&P 500 +0.00% · Argent +1.21%\n\n📰 <b>Ce qui a fait bouger</b>\n🟢 (+10) Middle East on the brink of war escalation\n🟢 (+10) Fresh escalation soon? Israel says may strike Iran 'at any moment', even without US\n🟢 (+8) Trump :  Very impactful  talks with NATO chief on Ukraine war , U . S . defense production\n🟢 (+8) Trump and NATO Secretary-General Discuss Ukraine War and Iran Conflicts\n\n📅 <b>Demain (vendredi)</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux."
   }
  ],
  "daily_forecast": {
