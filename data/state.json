@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "29548349d85c",
-  "4697f040fdc8",
-  "6ac87c7ff55f",
-  "0bf296015ffd",
-  "7f2aeff799e3",
   "392c23e62c64",
   "55812e2abecd",
   "7c3034ac260a",
@@ -3956,7 +3951,12 @@
   "34d57152afda",
   "6de1464659e1",
   "ebaf535b351a",
-  "c188014a6b2c"
+  "c188014a6b2c",
+  "8ef449aabd0c",
+  "0514013e2f6b",
+  "786c0dad4826",
+  "7ce901425847",
+  "5c03679dbe5c"
  ],
  "news": [
   {
@@ -4008,24 +4008,12 @@
    "method": "mots-clés"
   },
   {
-   "title": "'I Missed My Mum': More Ukrainian Children From Russian-Occupied Areas Reunited With Families",
-   "source": "Radio Free Europe/Radio Liberty",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHpGUUR2T2FScmdaWFE4Mjk0QWp5UmVNaXlqMDhpLS11UTc1b2xGWkdONEpYLWJvTGdUNXRBUlYzUzVJbE9BajJ4WDlNOGRZMXlsanRXSmJrcDFCMk4tc2FDbjM2SHdYMl85YlJmVElwX0ppNS12OVBPSlFZa0hURU9pMllBd9IBiAFBVV95cUxQWG5yN2t4VkcxUUJ5RFdCZVZqM050c19MekRINW9Qd3k4ZUFuRVZRNzUxbHBGT0x2bTFjRl9IVFFtczBqRThoWV83RGdpLTN5R1c3NWRDQzJZeWV4bWpnSUd6elQ2X21VdHRKdU1nU21lbGVxdWNkamZzQ2h4R2JYUi1MMldMNGpi?oc=5",
-   "published": "2026-11-27T18:51:59+00:00",
-   "id": "41b315ccbfd7",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "aucun déclencheur",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Top Economist Says Trump’s ‘the Biggest Loser of Any President’",
-   "source": "Yahoo Finance UK",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTRMZkx1QmRUd2t4MXlFYnFfc3F5V2NoVndaR182c3dvaVIwMW92M1NIWU5ZV3V5RE91dUpJVURDb1ZUM3hsT3JpU3JrRW1pa2tydW5HVjBvUW91SXVzZ0F3U0FBUEROVzhJbzhLQU5qaXRlZF9ZOWVfMl9MSURMbVF1QzN3RmJX?oc=5",
-   "published": "2026-11-27T18:43:09+00:00",
-   "id": "2319a08464b8",
+   "title": "SA Asks: What's the best gold play right now for investors?",
+   "source": "TradingView",
+   "theme": "Or",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHlIa1lOS3FKcDdHUjJQQ3ppeTdHaWxuRGtnSkxuVmcwbXhqbk1NLVNwZmE2TDhCSE96bG5nYUpHaG9MN1lXcmhmU0JqSWQ3aTU5djFhdjh0MVY4RzJuOUV6ZU42VmwyQUFMR3FyaUFHcTBhdEV4N2VzYVdJaTVzYWxuVm9TQ3ROMW1MSWJHeU9OVUlVMDFJVTQ5ckQwUXViRzJyUERuQnh0MDZqVF84cERnZUxscUd1MmJMcA?oc=5",
+   "published": "2026-11-27T19:22:07+00:00",
+   "id": "786c0dad4826",
    "impact": 0,
    "cat": "autre",
    "raison": "aucun déclencheur",
@@ -4114,6 +4102,18 @@
    "cat": "géopolitique",
    "raison": "Rhétorique promettant un apaisement rapide, tempérant légèrement la prime refuge.",
    "method": "IA"
+  },
+  {
+   "title": "Trump on Iran war ending whenever he wants",
+   "source": "CBS News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0NlV0RUVDloUnl0WkIzZzM0Z0dTQzdfYjR5YlB6ai1abTFPcVk5MXMzajViTEhxRl93T21reWRzSGtfd1Q5bmRfT3BpTXBlcllCMkhfZW1aTDZHWTYzVnhXNzBBWUc1Z0c5R214V3NwMDNWR1JtODRRNWtxOFJRZTBITWNscHc?oc=5",
+   "published": "2026-11-27T17:00:00+00:00",
+   "id": "7ce901425847",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "U.S. Set to Raise Tariffs on China, EU and Others",
@@ -8220,7 +8220,8 @@
   "news|261002786311": 1795799775.181132,
   "news|f812ecc0deb5": 1795802502.0160067,
   "news|46366ec17edd": 1795804289.7687232,
-  "news|ebaf535b351a": 1795811489.679025
+  "news|ebaf535b351a": 1795811489.679025,
+  "news|7ce901425847": 1795812372.0949922
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8708,6 +8709,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T20:46:12.095130+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump on Iran war ending whenever he wants</b>\n📰 CBS News · Ven 27/11 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0NlV0RUVDloUnl0WkIzZzM0Z0dTQzdfYjR5YlB6ai1abTFPcVk5MXMzajViTEhxRl93T21reWRzSGtfd1Q5bmRfT3BpTXBlcllCMkhfZW1aTDZHWTYzVnhXNzBBWUc1Z0c5R214V3NwMDNWR1JtODRRNWtxOFJRZTBITWNscHc?oc=5"
+  },
+  {
    "ts": "2026-11-27T20:31:29.679113+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump leaning toward delaying Iran strike until Israel forms government – i24NEWS</b>\n📰 Iran International · Jeu 26/11 23:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UUVCX2pWVG9zaU5Va2E0UjJJWld4M1pkaUFOLVgtYTU5VUJ2NTRXRXQzb0pJNnhMSHdSZ3BYQlhKZEhjRkh6SUh1VGhhM2kxX0E?oc=5"
@@ -9001,11 +9007,6 @@
    "ts": "2026-11-27T01:31:41.759955+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Article : Trump Iran War : When Congress Becomes the Third Player</b>\n📰 opednews.com · Ven 27/11 01:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.opednews.com/populum/page.php?f=Trump-s-Iran-War-When-Con-Conflict_Congress_Congress-House-Legislation_Funding-261126-448.html"
-  },
-  {
-   "ts": "2026-11-27T01:16:10.303017+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says ‘victory at hand’ on Iran, names Pickaxe Mountain as target if US strikes again</b>\n📰 The Jerusalem Post · Ven 27/11 00:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9RMS1zQ3RRTlRBTlBkNlc3TXEyUTRKa1JGal9GSEx3NnFQbko1T0pkejZlbnlqQlZtdkhQQ2dvYjhRU3lyY2lvaWkzbU54Ykp5SXgzaUptQkFtNG8yV0dPcGdTamFrSGVvcGc?oc=5"
   }
  ],
  "daily_forecast": {
