@@ -957,12 +957,6 @@
   }
  },
  "seen_news": [
-  "67d79702ad58",
-  "986624a5d74d",
-  "df58bc6fe5f9",
-  "e808c52057f7",
-  "75bcc365eaca",
-  "97e5aab38c49",
   "bd6a32f60425",
   "b0b2009884cd",
   "cb29af91c184",
@@ -3956,7 +3950,13 @@
   "0944cb02fa9e",
   "4d1f7225ab95",
   "f14c3a156224",
-  "bb419497a04f"
+  "bb419497a04f",
+  "38a5cd82b77d",
+  "f1e99ea71e38",
+  "ba7bd36fea52",
+  "a756a7889b77",
+  "574838693107",
+  "0bb96cff4bf1"
  ],
  "news": [
   {
@@ -4140,6 +4140,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Trump adds Ukraine to warning against expanding war, diverging from joint NATO statement",
+   "source": "The Kyiv Independent",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG56cXJkVFZtbkJReUd2V2xydnk5aWFRUjNFRS14Zk9MdDEwTXd5eXp1SHJzblBzenQ1c3JER3VjZEZBdUdhWUF2TllURkpsaHdLai04QktNWWVVdGF1RzJxMzJ2bWpnMmVwWFpKR0k5YWRpVGJnZlJPUnV0WmlINVZheExQa0s4X3VkbExBNkpOLWZVM0xDN0lzRTBEUllEazQ2RlhFeHNxTFNubUJoRmdmVTVxZ2c?oc=5",
+   "published": "2026-11-27T02:40:44+00:00",
+   "id": "ba7bd36fea52",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
    "source": "Al Jazeera",
    "theme": "Russie/Ukraine",
@@ -4257,6 +4269,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Russia wants to build a new security framework to end the war. This is why it won’t work",
+   "source": "The Conversation",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHkwODhwOVM0WVNRa3lKWGtfMWhya1hjcm1mWHRJQzlHM2JXRUxwWW1zOEpwTGJ0Z2NjMEhFZzdJQnlxSTBUVWJrVWwxZDQ5S2pyS3B5RkxxOEZRWVBzcjRfTmJSc0VOa0k3MlBKQWM0LWxmdWZxN1NJeS1kSVZOSGFiMHRTX0hocWp2UzU0VGdPN2hSYjhNd0lCLU41cUJjZDFCSmZHSnVLQTVNMmVWNWdKMDUyWlU4V2Q2dGVn?oc=5",
+   "published": "2026-11-27T01:19:00+00:00",
+   "id": "574838693107",
+   "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6334,37 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Escalade militaire en Ukraine ravivant légèrement les flux de valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Dollar steady as sliding yields temper safe - haven bid",
-   "source": "freemalaysiatoday.com",
-   "theme": "Géopolitique",
-   "link": "https://www.freemalaysiatoday.com/category/business/2026/11/26/dollar-steady-as-sliding-yields-temper-safe-haven-bid",
-   "published": "2026-11-26T05:15:00+00:00",
-   "id": "87a0b65fd4d8",
-   "impact": 1,
-   "cat": "taux",
-   "raison": "Le repli des rendements obligataires compense le dollar et soutient l'or.",
-   "method": "IA"
-  },
-  {
-   "title": "Brazil expresses indignation over proposed new U . S . tariffs",
-   "source": "venezuelastar.com",
-   "theme": "Géopolitique",
-   "link": "http://www.venezuelastar.com/news/279454625/brazil-expresses-indignation-over-proposed-new-us-tariffs",
-   "published": "2026-11-26T05:15:00+00:00",
-   "id": "62def87549c8",
-   "impact": 1,
-   "cat": "commerce",
-   "raison": "Tensions diplomatiques et commerciales alimentant modérément l'incertitude mondiale.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "brk|GOLD|pdh|dn|2026-11-06": 1793942349.2426393,
-  "brk|DXY|pdh|up|2026-11-06": 1793942350.1195211,
-  "news|92843486bb56": 1793943083.4639997,
-  "news|c30e7e95513b": 1793943084.291496,
   "news|33aea7cb12eb": 1793944915.463516,
   "news|ef9904065cc4": 1793944916.5269964,
   "news|af571d85f3e2": 1793944917.5914586,
@@ -8254,7 +8250,8 @@
   "news|7e4df7a9aada": 1795754769.7981024,
   "news|aec88b3964bb": 1795754770.6580517,
   "news|5666395958af": 1795756569.9279954,
-  "brk|GOLD|pdh|up|2026-11-27": 1795756573.7892783
+  "brk|GOLD|pdh|up|2026-11-27": 1795756573.7892783,
+  "news|ba7bd36fea52": 1795758552.5245762
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8742,6 +8739,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T05:49:12.524716+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump adds Ukraine to warning against expanding war, diverging from joint NATO statement</b>\n📰 The Kyiv Independent · Ven 27/11 03:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG56cXJkVFZtbkJReUd2V2xydnk5aWFRUjNFRS14Zk9MdDEwTXd5eXp1SHJzblBzenQ1c3JER3VjZEZBdUdhWUF2TllURkpsaHdLai04QktNWWVVdGF1RzJxMzJ2bWpnMmVwWFpKR0k5YWRpVGJnZlJPUnV0WmlINVZheExQa0s4X3VkbExBNkpOLWZVM0xDN0lzRTBEUllEazQ2RlhFeHNxTFNubUJoRmdmVTVxZ2c?oc=5"
+  },
+  {
    "ts": "2026-11-27T05:16:13.789335+00:00",
    "kind": "breakout",
    "text": "🚀 <b>CASSURE MOYENNE</b> ⬆️\n\n<b>Or (XAUUSD)</b> casse le plus haut de la VEILLE\nNiveau : 3 588.90 → prix : <b>3 620.40</b>\nATR jour : 118.6$ | Pivot hebdo : 3640.9\n\n📊 <b>Historique</b> : quand l'or casse ce niveau, il CLÔTURE au-dessus dans <b>50%</b> des cas (extension médiane 12$, 777 cas)."
@@ -9035,11 +9037,6 @@
    "ts": "2026-11-26T10:16:25.734439+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>U.S. Section 301 Probe Proposes New Tariffs on Taiwan; Beijing Slams Unilateralism, Reserves Right to Retaliate</b>\n📰 finance.biggo.com · Jeu 26/11 09:25\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBEa1h5YkZDU0dvbm54SWxiYmJKM3UzMXRBVHhaR3NYQlVibjBraVVSSWViNXlQNjVZTzNmVC1vb1dSeVFYVGJmbERZcTRPYUQwcXgyQUt0eXJQSU5PckZtV21kOEhLR3d1OHBMTkJjdmhhLW5BV0E?oc=5"
-  },
-  {
-   "ts": "2026-11-26T10:16:24.955678+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel ready to strike Iran alone, but US has a message for Netanyahu: End the ‘wartime mindset’</b>\n📰 Gulf News · Jeu 26/11 10:44\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLTRiTlVacFNYemtZNDlidXpPb2t0Q19RM29tZFpjYVJnYWlZcEx6bHYwU1hHNzFPUGxGbUJzbjVFNEZlV3p1ZTJjeFhlRTZJTW1qNkwwT2c4dENCMElpWHNNS3gyS3hKWUlQajVLUEJzZkhTa3BLbnZldF95STg0YWdSRHNNeXFfUDB3NjlsS2N3STV4c2ZKNy1UYkVsUFY4WUlBcmd2YkFvbzc5LWtyRVhJNWZjeDRxb3U5SmZ3RVhULTFPT3JuaHhyaWlCUFVQZ1HSAeQBQVVfeXFMTjBsNlFrekdEZWVBUVBVQjc3S3hjSTg0blZPXzd4RVljN3kxYXNWVngtU1BGakpBYksxTlNTczF4X09PMGFpb2JZbDNYamVhQWptQjNZNUNqeW9INnh0ejVMNDRteG1JOGJwVDhBRHNtU1c3UmtxMFV4MHYzUGRRZFlON0Z4YkxNNm8xOHdPTG45WHRVbi1VVFNPc2FUMWdHREZQTG5HVTFJMlBSUmhQV1NGWl9rV1BTSl9xNndLZ1VBa1lSTElxNS1lN3Z1R05ubkxsS1BBR3FBZ0Q0NXl3RDdxVFRE?oc=5"
   }
  ],
  "daily_forecast": {
