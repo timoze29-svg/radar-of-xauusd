@@ -957,11 +957,6 @@
   }
  },
  "seen_news": [
-  "1c4e57fc7c24",
-  "b795c10d7a14",
-  "687ead8d614c",
-  "a0e216120299",
-  "b615318e14a5",
   "96f864807da3",
   "f501bc61d07c",
   "6d5b96db1139",
@@ -3956,9 +3951,38 @@
   "1ad3599443da",
   "2d30ed8e1686",
   "6bfa992f9f86",
-  "b2b0f4c07f3e"
+  "b2b0f4c07f3e",
+  "fd87c527d700",
+  "ae9347c49ebd",
+  "022c527ae407",
+  "64af29a2a4d6",
+  "82a300791aa9"
  ],
  "news": [
+  {
+   "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+   "source": "Al Jazeera",
+   "theme": "Russie/Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5",
+   "published": "2026-11-27T02:20:43+00:00",
+   "id": "82a300791aa9",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Australian Dollar edges higher to near 0.6650 amid upside CPI surprise, hawkish Fed backdrop",
+   "source": "FXStreet",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3pIWHUwbkZyMC0zTDRxclU0OU5KSGFyNEtXejBmY1otcWhaeWJvQ2hnQmdLeXpxb1JaajRCN2Izb1hJQ0xFM1hNUUo4bllQUU5wN0dqS0Z4SEpxWWs5ZEJaWVo0TEh4ZlAzeU9xTHp4VEc4Z01GQzhfZFRsMjJkMm9VZmFxZ1VPY2xCNFNKWU5hQS1OcWRhU1JWcEJOUVQtQUdUNFg5bEJ1cTlwWXcxS3dtMjZOQ1ZFWTNlVVI5ZkNLSlhRTkY4bkNaOXJQQQ?oc=5",
+   "published": "2026-11-27T02:16:00+00:00",
+   "id": "022c527ae407",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Trump: Iran war will be over ‘sort of whenever I want it to be’",
    "source": "The Hill",
@@ -6334,36 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Asian shares bounce , AI and tariffs lurk in background",
-   "source": "freemalaysiatoday.com",
-   "theme": "Géopolitique",
-   "link": "https://www.freemalaysiatoday.com/category/business/2026/11/26/asian-shares-bounce-ai-and-tariffs-lurk-in-background",
-   "published": "2026-11-26T03:15:00+00:00",
-   "id": "9f0a3db3cc9e",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "US proposes excess capacity tariffs on Korean goods within agreed 15 % ceiling",
-   "source": "koreatimes.co.kr",
-   "theme": "Géopolitique",
-   "link": "https://www.koreatimes.co.kr/foreignaffairs/20261126/us-proposes-excess-capacity-tariffs-on-korean-goods-within-agreed-15-ceiling",
-   "published": "2026-11-26T03:15:00+00:00",
-   "id": "0e153c8bf299",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|ea81ff667575": 1793931555.544876,
-  "news|b8052e8c0574": 1793932285.8320074,
-  "news|da9066a54389": 1793932286.7883642,
   "news|e0bfdb194f8c": 1793933166.5000267,
   "news|d0cc85ff49c4": 1793933167.5868654,
   "news|d93b5e1a6a0f": 1793935887.2455976,
@@ -8256,7 +8253,9 @@
   "news|9d11232b6fb0": 1795743101.7598746,
   "news|2c5f213e81db": 1795743102.6639616,
   "news|5641250e08d5": 1795744900.2185779,
-  "news|46bc928d52e4": 1795745772.7311919
+  "news|46bc928d52e4": 1795745772.7311919,
+  "news|82a300791aa9": 1795746688.5854702,
+  "news|022c527ae407": 1795746689.56227
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8744,6 +8743,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T02:31:29.562381+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Australian Dollar edges higher to near 0.6650 amid upside CPI surprise, hawkish Fed backdrop</b>\n📰 FXStreet · Ven 27/11 03:16\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3pIWHUwbkZyMC0zTDRxclU0OU5KSGFyNEtXejBmY1otcWhaeWJvQ2hnQmdLeXpxb1JaajRCN2Izb1hJQ0xFM1hNUUo4bllQUU5wN0dqS0Z4SEpxWWs5ZEJaWVo0TEh4ZlAzeU9xTHp4VEc4Z01GQzhfZFRsMjJkMm9VZmFxZ1VPY2xCNFNKWU5hQS1OcWRhU1JWcEJOUVQtQUdUNFg5bEJ1cTlwWXcxS3dtMjZOQ1ZFWTNlVVI5ZkNLSlhRTkY4bkNaOXJQQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-27T02:31:28.585564+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’</b>\n📰 Al Jazeera · Ven 27/11 03:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5"
+  },
+  {
    "ts": "2026-11-27T02:16:12.731289+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump: Iran war will be over ‘sort of whenever I want it to be’</b>\n📰 The Hill · Ven 27/11 02:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPYndFMTFFMlRhOElWM09BSS1fQ0FQb3kyVWhpYVZ5ZEJlM2t2UTlKRjlFQTlrekVxaVpQa3JucEcwdVFONnB3aUJMMzdCUUpNcG1VcXpOQm1ZTThuME1WdlB2UlhCamI5b2ZVcGI2a1VfajhCeTNqZ2xMRW04Z0tUZS0xNjVESXFLVmx6SERaUdIBlAFBVV95cUxNUFRSSTRfUWdXdWtSWWlrX2pHUm95MHFmSUEzYzAwRkd4dDVyRkxwajJGRTNDb0JyUjNPN2RuRzdfVjlKQ0F0LURjd2x5NmdodkNzVnI3anpZTURQZXhfUXlwdWxTZG84VEdweWFqX0trWVhSTm1nQ0pNaVEweWRmU3g3Nnd2bE82RThqSC1TNUxXN3Zz?oc=5"
@@ -9032,16 +9041,6 @@
    "ts": "2026-11-26T08:32:34.672893+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns Russia against widening Ukraine war</b>\n📰 The Telegraph · Jeu 26/11 08:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVUydmxIb1VUV3RCM1QwQ25CUmkzMVZPY3NHelBxNnZiMlBKMTkwb1J1dS1EenF5dmZ6RFU2bHhwekxtamlUbXpMeTVlcExQUWpmN0NDUk8zZl8zc1lqajNDYnBHQnlIaW9qcmZjLWxZTnFlV2RJWUUwa0hNZFp2RE9DSFVfSG04OUhqV216VG1iYXoz?oc=5"
-  },
-  {
-   "ts": "2026-11-26T08:23:19.947085+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel Raises Prospect of Preemptive Strike Over Alleged Iranian Chemical Weapons</b>\n📰 gadget.qoo10.co.id · Jeu 26/11 03:59\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUp4d3NrQkE4Vm1JWDktdnFueDRvbEZ6a1lmQjA3RHNfcHNzNFVrWGx0eDlpZVBQbDlVZk1zelNYay1mX090ZDI1T2N3TFRUeHNkbU5ra29xOFdQLW1LZ2dnYnhuUG1YQWxiTkRSMndzN3BCM0luN2YwOEhRUXFnNDlWcnFvcl93RU9aZTlGeVgtLXVUT1djZQ?oc=5"
-  },
-  {
-   "ts": "2026-11-26T08:01:49.334008+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Accuses Israel of Trying to Deceive US Into Another War</b>\n📰 Tempo.co English · Jeu 26/11 08:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQODVMUTNGX0VLbFg3MG9IdlhwUGNRY1F4cXA5Zm81SFA3d0hCRkFCb1JlZTlZTXdSXzZsRVZzNzlORzZRVEFaZkNuWktXR2hyblVQbFJFUTlTVjRqRl9QZFJLWUNmZVU5Z0Y0dkpPUkt2RUwyb1Ffcl9DY3ByTnFZdzZlOFVqM2xUS0ktbEY1RDU2S3o2TzZoOQ?oc=5"
   }
  ],
  "daily_forecast": {
