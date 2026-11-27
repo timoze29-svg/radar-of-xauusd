@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "e3717d3318d1",
-  "72edbadf6a4e",
   "3b05e8a0aba1",
   "29b4d1f2e70b",
   "b0c0968c7247",
@@ -3956,7 +3954,9 @@
   "c46483590db3",
   "b180dded22d2",
   "3c517fcc4c5c",
-  "3f4153f0b4b3"
+  "3f4153f0b4b3",
+  "6dc1e48ee385",
+  "200654ad43d4"
  ],
  "news": [
   {
@@ -3981,6 +3981,18 @@
    "impact": 2,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump’s Thanksgiving message attacks adversaries, migrants and economic data",
+   "source": "The Washington Post",
+   "theme": "Trump",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRvR3lJb19Rd1JDWm5IV0FlUHVvSVYxNWlUQ2cwWWYtODhOa1dOZ2tTZlhPX2FtbERudmVJT08yOFI4N0I4anlFVDFTV1ZyNnEzMVU0WGVEV2ZFUWdwcjJYQXl2NEMzc3JCRzdLNW5fcWlvWUhfR0VpMnNBMTRfbTZITW0xQ1dUMEF4T2ZmSTBxc2l4RnhkQkhzcThsTVpfT3h6a0RpcEllZzRkdENycFVLR1VQNEo3SzJoMXRBMA?oc=5",
+   "published": "2026-11-27T15:37:05+00:00",
+   "id": "6dc1e48ee385",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6346,23 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "The world cannot agree on killer robots: ‘They could accelerate the escalation of violence’",
-   "source": "EL PAÍS English",
-   "theme": "Moyen-Orient",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT3RpNGxHOGpCMmZJdFVjX1F4eFIta045Z0FvSkMzZzZ0RGowc3FONk56NUhfQktGR0xVbGNIellwbjFlUmlDa3NTa1dKZS1jR2NUSDlpNERZcml3R1U5TU1qVUdDdzRtcUtqQXRMTHBQNXNDZnBzYVI4VnVybUVBUU1YTzRxRjFWYWxlXzZkcGZNcl93d3hyb0hqTkhHZjUyZER2RFhCRThkbVRXUFhfMEhHaFl3NWt1bHR6YWdmMWh4TFlibkx0bFl0c3NtVTgxQWFGbWs3SVVDZ9IB7gFBVV95cUxNZU40ZnFkcTRrc2hFeGJaNERRVjFrMkhYcGo4RDcxZTRHNGZVeVptUFpSSndQbzJrUTAzT0tBUWNUNjNURzdNVEt1WUIwM3BvUzU2ZkdEM2VWWlkxNUdFWFZpSGFxallyM3k2ZTE0YkxmS2ZTX0hTQl9DTmNWMHdtQXlmUU9WZ1JZU3dBWEtvSEtlaVkyQnNyOGtzeEpsVkJZMzlPWDJRNEFzZ2lqYVVJNWIyaU5RVVd6bEdtVlExQlhsamdzSUZpRklXdTZ4cDdQODgyejVuT0RnTC1GOWx3b0RCQ2h1d2JyZXhsVGhR?oc=5",
-   "published": "2026-11-26T15:44:43+00:00",
-   "id": "e6aecb281f39",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|13323a6ca754": 1793981772.0463166,
-  "news|917f26546823": 1793982689.8025217,
   "news|96322c5c6d51": 1793983567.9306393,
   "pre1h|2026-11-06T13:00:00-05:00": 1793983569.3229275,
   "pre15m|2026-11-06T12:15:00-05:00": 1793984506.534017,
@@ -8234,7 +8232,8 @@
   "news|6d68f837650d": 1795791705.1709867,
   "news|96d8999df798": 1795793486.253065,
   "brk|US10Y|pdh|up|2026-11-27": 1795794374.1509125,
-  "news|b180dded22d2": 1795795307.9828892
+  "news|b180dded22d2": 1795795307.9828892,
+  "news|6dc1e48ee385": 1795797091.78991
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8722,6 +8721,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T16:31:31.790001+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump’s Thanksgiving message attacks adversaries, migrants and economic data</b>\n📰 The Washington Post · Ven 27/11 16:37\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRvR3lJb19Rd1JDWm5IV0FlUHVvSVYxNWlUQ2cwWWYtODhOa1dOZ2tTZlhPX2FtbERudmVJT08yOFI4N0I4anlFVDFTV1ZyNnEzMVU0WGVEV2ZFUWdwcjJYQXl2NEMzc3JCRzdLNW5fcWlvWUhfR0VpMnNBMTRfbTZITW0xQ1dUMEF4T2ZmSTBxc2l4RnhkQkhzcThsTVpfT3h6a0RpcEllZzRkdENycFVLR1VQNEo3SzJoMXRBMA?oc=5"
+  },
+  {
    "ts": "2026-11-27T16:01:47.982988+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Putin’s biggest ally questions a key claim Russia uses to justify invasion of Ukraine</b>\n📰 CNN · Ven 27/11 16:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOcF9SRmlaWWFyaFgwWms1NTQ5UkVLdUxidVFzQms1Z09xMkRVRVVDNWhlVUVDQWhOd0Z4M3kyUUlob3IydGxEZWpJMU9uUnppZTl0RzdOQU9SSFVaM3RwemxtMFhGcWNJWjBDUnhjYWhPWmt5VW9jR3JIWjlBME83MG9sY3JjejFCQ1E?oc=5"
@@ -9015,11 +9019,6 @@
    "ts": "2026-11-26T23:46:03.739868+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention</b>\n📰 Fox News · Ven 27/11 00:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0VhN2ZaYnJnT0NiT2NVc0JlZTJ4NDBFWDFQYzNBbUh0VEVzVkJyTEhNNkhUa1N3Z2RTTUI5dzE0Njc1ZWlQS0x0cktnYnNNZTl4aW9Sem12bzRMSmpmZHlrcXhtQWhKOG0xbUgzZWZLWXc5emlsRy1jb2ltUXdKYzk4SUpBRlJQR3BjbGVTUHZVWVFxZnVNUnp4VmRfUTVrd1h6a3Z1eEhBR3PSAbABQVVfeXFMTnJON0RxOWJ4d2N2anJWLUdZSzRnSHp3RThEVDVCaVBzVjFtRjRjTzlOUS1veC1BWkhaakhuVkk2NFNObkVON0lCUUZMVDlzbWxJWmdUc1UxbnpPWWFyZl9jQTVRUFNNaXl3TWdRejRiUVZqTU44RE0yRmVFTV84YjFsNFV5MGNSdmtQbVRTME5JeUxiYzBOdk1VNkg3czl0Q0RnUTFnMkNBQ0JYSl9zUVQ?oc=5"
-  },
-  {
-   "ts": "2026-11-26T23:16:04.478250+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Sharp escalation in US-Iran Conflict, Oil Markets and Shipping under pressure</b>\n📰 DD News · Jeu 26/11 11:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0ttMmVGVi14SEVSVVZHNzZLOHR2TzVFWWNnQms5cWhueVJVWkFPNGFDdmRmb3pSRWRxZUcybFVrTzhzdEluZ3hyYWtZalpkVlZTU3UxajZEclVJOHlPV19KV1NjRUpvOXhHV3hDLXNJa0s2eUNVWllQYV9FMXQwek45TzdId084a3NTeDFkbUdVYXZsbF9ZSS1hVmo3RWpXYW41Wg?oc=5"
   }
  ],
  "daily_forecast": {
