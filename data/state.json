@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "a947c7028fce",
-  "bae4cf5670b1",
   "86f385260dbe",
   "fb7353c24fea",
   "c2ae09a6c876",
@@ -3956,7 +3954,9 @@
   "48ff7ec2dd0e",
   "91b5f44cafda",
   "9e14e1172c3f",
-  "bb8f8c929e18"
+  "bb8f8c929e18",
+  "cbef21ddf5a4",
+  "3589e1c2c597"
  ],
  "news": [
   {
@@ -4174,6 +4174,18 @@
    "cat": "taux",
    "raison": "Hausse des rendements obligataires et appétit pour le risque défavorables au métal jaune.",
    "method": "IA"
+  },
+  {
+   "title": "Trump weighing strike on Iran's Pickaxe Mountain",
+   "source": "Fox News",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Q1ZQeExaNlZQYTVIYTA4WWJVMnItQVRSejRaRlZaUWpBV2lNWjlWX1lIT25SdWx4SHAzSmk5cmMtT1ZHOGNjZFVEc0RScVVTT0hyclFR?oc=5",
+   "published": "2026-11-27T17:35:46+00:00",
+   "id": "3589e1c2c597",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "Why This Is a Terrible Time for New Tariffs",
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "Tensions verbales accrues entre Washington et Moscou alimentant l'aversion au risque.",
    "method": "IA"
-  },
-  {
-   "title": "Zelenskyy warns of imminent major Russian attack on Ukraine power grid",
-   "source": "chicagotribune.com",
-   "theme": "Géopolitique",
-   "link": "https://www.chicagotribune.com/2026/11/26/zelenskyy-warns-imminent-major-russian-attack-ukraines-power-grid/",
-   "published": "2026-11-26T19:45:00+00:00",
-   "id": "5581b91a1daf",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Craintes d'une frappe imminente sur les infrastructures énergétiques ukrainiennes, prime refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
-  "news|a68f33984748": 1794006968.089128,
   "news|9bf64abd7c4c": 1794011489.9847896,
   "news|f9c889abfe9f": 1794013300.0613356,
   "news|4787150a2f1f": 1794013301.1661274,
@@ -8223,7 +8222,8 @@
   "news|ff2f3c3a6ca8": 1795819575.583384,
   "news|3da51d50b0ca": 1795819579.063217,
   "news|d4b415a5539a": 1795819579.9725447,
-  "news|ebe5783331a3": 1795821365.3282232
+  "news|ebe5783331a3": 1795821365.3282232,
+  "news|3589e1c2c597": 1795823170.0956986
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8711,6 +8711,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T23:46:10.095809+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump weighing strike on Iran's Pickaxe Mountain</b>\n📰 Fox News · Ven 27/11 18:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Q1ZQeExaNlZQYTVIYTA4WWJVMnItQVRSejRaRlZaUWpBV2lNWjlWX1lIT25SdWx4SHAzSmk5cmMtT1ZHOGNjZFVEc0RScVVTT0hyclFR?oc=5"
+  },
+  {
    "ts": "2026-11-27T23:16:05.328305+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Congress passes war powers resolution, offering rare rebuke of Trump - ABC News</b>\n📰 Breaking News, Latest News and Videos · Ven 27/11 16:06\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5"
@@ -9004,11 +9009,6 @@
    "ts": "2026-11-27T03:16:08.549324+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel kills seven Palestinians in Gaza, attacks West Bank and bombs southern Lebanon as Iran denies drone attack on Kuwait - Muslim News UK</b>\n📰 The Muslim News · Ven 27/11 00:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd29Ic3lUZHdGTkJoLVdVQTJSNEo1Q01RSHlONHhwc2FrakhubF9QR0ZKUUZleDc3eVdTN2JUNEU3TDJ4MVo5OEtiYXh4UHc3TjNPOE5ES0s2ckJ0c0ttV3Z4YlRLNUVPdTY0RlllNjczOUx5V2J1S1JqR1p5RTktZ0dKUzlLWEJLQ2YwZVNLT3NBZnl5OEVEdGRCcDlkNUludlhVQi0zcWlCNjBONFdoYlZ6bTFmS2s5dC1Wc09CakZJVk1fUTdGa3UtTS1ua2hOTEMycFAxRW5ack82Ul9WbTlpcXZtVWww?oc=5"
-  },
-  {
-   "ts": "2026-11-27T03:01:45.677757+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran war live: Worker killed and refinery operations partially suspended following Saudi Jazan attack</b>\n📰 Arabian Business · Ven 27/11 01:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
   }
  ],
  "daily_forecast": {
