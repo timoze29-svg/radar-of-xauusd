@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "bd6a32f60425",
-  "b0b2009884cd",
-  "cb29af91c184",
   "a93dd6852d04",
   "7a7bb2be8988",
   "b1a4daf9fb30",
@@ -3956,7 +3953,10 @@
   "ba7bd36fea52",
   "a756a7889b77",
   "574838693107",
-  "0bb96cff4bf1"
+  "0bb96cff4bf1",
+  "b9e65676d3b0",
+  "8581e95b6525",
+  "4c1334557337"
  ],
  "news": [
   {
@@ -4027,6 +4027,18 @@
    "published": "2026-11-27T04:30:00+00:00",
    "id": "e9094ba7c86a",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Trump warns the US would hit Pickaxe Mountain if Iran rebuilds nuclear program | LIVE BLOG",
+   "source": "i24NEWS",
+   "theme": "Trump / Iran",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOF8yNzVZWmxiUktMMVhudHZCQ0NLYVBxSW96WTR3dGdoYm1mSTQtVDEwTDdqNmJ3UEZSbkN5ZXBfUXdQLXA3MmtqSktoQWlQR3B2MkJsMWowaDY2SElJeUItdE9QVmk5WXR6eld5djk4TU9YdjVsWXRROFpjbFhtQ2hmLUpsOW9YMGNqQVc0UXJBeUl5clZaOGxjSlFDT1NQQkFwTGJRRnFOM3BfRGF2MFVmS2prV05XTzEwTUl0ZlY3SVhJdGNIRTMtaXFZOGdCQnlteQ?oc=5",
+   "published": "2026-11-27T04:20:00+00:00",
+   "id": "8581e95b6525",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,18 +6358,6 @@
    "cat": "autre",
    "raison": "Appétit pour le risque accru sur les actions pesant marginalement sur l'or.",
    "method": "IA"
-  },
-  {
-   "title": "Ukraine hits Russian combat aircraft on the ground",
-   "source": "flightglobal.com",
-   "theme": "Géopolitique",
-   "link": "https://www.flightglobal.com/fixed-wing/2026/11/ukraine-hits-russian-combat-aircraft-on-the-ground/",
-   "published": "2026-11-26T05:15:00+00:00",
-   "id": "f4588134ee52",
-   "impact": 2,
-   "cat": "géopolitique",
-   "raison": "Escalade militaire en Ukraine ravivant légèrement les flux de valeur refuge.",
-   "method": "IA"
   }
  ],
  "fired": {
@@ -8251,27 +8251,13 @@
   "news|aec88b3964bb": 1795754770.6580517,
   "news|5666395958af": 1795756569.9279954,
   "brk|GOLD|pdh|up|2026-11-27": 1795756573.7892783,
-  "news|ba7bd36fea52": 1795758552.5245762
+  "news|ba7bd36fea52": 1795758552.5245762,
+  "news|8581e95b6525": 1795759294.8256986,
+  "rep|daily|2026-11-27": 1795759296.8848526
  },
  "last_bias_label": "Neutre",
  "initialized": true,
  "forecasts": {
-  "2026-10-16": {
-   "dir": "range",
-   "score": -4,
-   "p0": 4195.0,
-   "exp_range": 77.0,
-   "levels": {
-    "P": 4162.9,
-    "R1": 4204.9,
-    "S1": 4128.1,
-    "R2": 4239.7,
-    "S2": 4086.1,
-    "PDH": 4197.7,
-    "PDL": 4120.9
-   },
-   "ts": "2026-10-16T05:01:38.080334+00:00"
-  },
   "2026-10-19": {
    "dir": "range",
    "score": -5,
@@ -8735,9 +8721,35 @@
     "PDL": 3425.2
    },
    "ts": "2026-11-26T06:01:54.918631+00:00"
+  },
+  "2026-11-27": {
+   "dir": "range",
+   "score": 0,
+   "p0": 3620.3999,
+   "exp_range": 115.1,
+   "levels": {
+    "P": 3516.63,
+    "R1": 3608.07,
+    "S1": 3444.37,
+    "R2": 3680.33,
+    "S2": 3352.93,
+    "PDH": 3588.9,
+    "PDL": 3425.2
+   },
+   "ts": "2026-11-27T06:01:36.102464+00:00"
   }
  },
  "alerts": [
+  {
+   "ts": "2026-11-27T06:01:36.102485+00:00",
+   "kind": "daily",
+   "text": "☀️ <b>PRÉVISION OR — VENDREDI 27/11</b>\nPrix : <b>3620.40</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+0/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3620 vs MM20 3851 / MM50 4049\n🟢 Sentiment news 24h : 183 news notées, moyenne +0.48\n🟢 Taux US 10 ans (5j) : -22 pb sur 5 jours\n\n📏 <b>Range attendu aujourd'hui : ~115$</b> (ATR 119$ × profil du vendredi)\n\n📐 <b>Niveaux du jour</b>\nR2 3680.3 | R1 3608.1 | <b>Pivot 3516.6</b> | S1 3444.4 | S2 3352.9\nVeille : PDH 3588.9 / PDL 3425.2  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>56%</b> du temps (301 jours, ~6.0 ans)\n• Hier : -0.73% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1049 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 0h (12%) · plus BAS vers 0h (12%), 15h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -34.7$, depuis mercredi +84.6$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n⚠️ <b>Le prix (3620) est déjà sorti du range S1 3444 – R1 3608</b>.\n👉 Pas de contre-tendance : suivre la cassure tant que le prix reste au-dessus de R1.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>"
+  },
+  {
+   "ts": "2026-11-27T06:01:34.825798+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump warns the US would hit Pickaxe Mountain if Iran rebuilds nuclear program | LIVE BLOG</b>\n📰 i24NEWS · Ven 27/11 05:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOF8yNzVZWmxiUktMMVhudHZCQ0NLYVBxSW96WTR3dGdoYm1mSTQtVDEwTDdqNmJ3UEZSbkN5ZXBfUXdQLXA3MmtqSktoQWlQR3B2MkJsMWowaDY2SElJeUItdE9QVmk5WXR6eld5djk4TU9YdjVsWXRROFpjbFhtQ2hmLUpsOW9YMGNqQVc0UXJBeUl5clZaOGxjSlFDT1NQQkFwTGJRRnFOM3BfRGF2MFVmS2prV05XTzEwTUl0ZlY3SVhJdGNIRTMtaXFZOGdCQnlteQ?oc=5"
+  },
   {
    "ts": "2026-11-27T05:49:12.524716+00:00",
    "kind": "news",
@@ -9027,21 +9039,11 @@
    "ts": "2026-11-26T11:02:07.160980+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify</b>\n📰 CNBC · Jeu 26/11 11:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE1UYkNOcV9TeElnTHlhSTRvWktGNmtNRS1fWGcxQUtKX3I1b0dhRkkxLUE4VW1XUC01UXVUd1FGVjh0aGdHVTBGVHJvbVdsMjZ3bDR0UC0xSTRVYzRWSU1vbHJoanNBZnhzYkkzQUZYWGNIWDR0bmtEMlluQTjSAYIBQVVfeXFMTVBta3Z1MXJQQ1htZ3AtNExvaW5wTlg5TFRyWDdBdUVjX3o3MjFqOE9pcDVFNm9iQjEwMkpDOGZpWldTX2VhUW5FX3ZTekQ1V0JDbzdtamxsRkpWLUtDSmNySWt3M1N2MmhLcW4xdTJhRnhLNTBXaVJFNm9zR0V4OVNwUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-26T10:49:15.511815+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Ukraine's schools, hospitals are going underground amid escalating Russian attacks - ABC News</b>\n📰 Breaking News, Latest News and Videos · Jeu 26/11 11:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1ozRWF0dHo2Wjg5eG9NVzBSU1MwV2dBYTVic0xiVVBOZXFiNEZXcHRQWXlmSTlnTTRyY2huYWlibTZkLWdFcktGLTVlTC1rMEYza3MzbVBqTmwyYTV1amw1T2ozSHFYbVF5Y0RveUFoVWU3UUE2am51bkZzT3F2TXBIN2k0b3RQN2RhLWVPaEt4SkZraHJleG1BWXMxZTFobU44OTZfRFNPUFV6MmZfM0NWUXhSZkM1dlhaWnhBX0Q?oc=5"
-  },
-  {
-   "ts": "2026-11-26T10:16:25.734439+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>U.S. Section 301 Probe Proposes New Tariffs on Taiwan; Beijing Slams Unilateralism, Reserves Right to Retaliate</b>\n📰 finance.biggo.com · Jeu 26/11 09:25\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBEa1h5YkZDU0dvbm54SWxiYmJKM3UzMXRBVHhaR3NYQlVibjBraVVSSWViNXlQNjVZTzNmVC1vb1dSeVFYVGJmbERZcTRPYUQwcXgyQUt0eXJQSU5PckZtV21kOEhLR3d1OHBMTkJjdmhhLW5BV0E?oc=5"
   }
  ],
  "daily_forecast": {
-  "date": "2026-11-26T06:01:58.365841+00:00",
-  "text": "☀️ <b>PRÉVISION OR — JEUDI 26/11</b>\nPrix : <b>3620.40</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+0/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3620 vs MM20 3851 / MM50 4049\n🟢 Sentiment news 24h : 200 news notées, moyenne +0.48\n🟢 Taux US 10 ans (5j) : -22 pb sur 5 jours\n\n🌏 <b>Session Asie</b> (depuis minuit) : +1.9$ · plus haut 3634.7 / plus bas 3578.8 (range 56$)\nDXY +0.11% sur la nuit\n⚠️ Plus haut de la veille (3589) déjà cassé\n\n📏 <b>Range attendu aujourd'hui : ~113$</b> (ATR 119$ × profil du jeudi)\nDéjà fait en Asie : 56$ (50% du range attendu)\n\n📐 <b>Niveaux du jour</b>\nR2 3680.3 | R1 3608.1 | <b>Pivot 3516.6</b> | S1 3444.4 | S2 3352.9\nVeille : PDH 3588.9 / PDL 3425.2  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le jeudi, l'or a fini en hausse <b>51%</b> du temps (304 jours, ~6.0 ans)\n• Hier : -0.73% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1049 cas)\n🕐 Le jeudi, plus HAUT du jour souvent vers 2h (12%), 0h (12%) · plus BAS vers 0h (15%), 16h (11%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -34.7$, depuis mercredi +84.6$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n⚠️ <b>Le prix (3620) est déjà sorti du range S1 3444 – R1 3608</b>.\n👉 Pas de contre-tendance : suivre la cassure tant que le prix reste au-dessus de R1.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
+  "date": "2026-11-27T06:01:36.884824+00:00",
+  "text": "☀️ <b>PRÉVISION OR — VENDREDI 27/11</b>\nPrix : <b>3620.40</b>  ·  Biais du jour : <b>↔️ RANGE / NEUTRE</b> (+0/100)\n\n<b>Pourquoi :</b>\n🔴 Momentum or (vs MM50) : prix 3620 vs MM20 3851 / MM50 4049\n🟢 Sentiment news 24h : 183 news notées, moyenne +0.48\n🟢 Taux US 10 ans (5j) : -22 pb sur 5 jours\n\n📏 <b>Range attendu aujourd'hui : ~115$</b> (ATR 119$ × profil du vendredi)\n\n📐 <b>Niveaux du jour</b>\nR2 3680.3 | R1 3608.1 | <b>Pivot 3516.6</b> | S1 3444.4 | S2 3352.9\nVeille : PDH 3588.9 / PDL 3425.2  ·  Semaine passée : 3904 / 3503\n\n📅 <b>Annonces du jour</b>\nPas d'annonce majeure → journée plus technique, respecte tes niveaux.\n\n📊 <b>Stats réelles</b>\n• Le vendredi, l'or a fini en hausse <b>56%</b> du temps (301 jours, ~6.0 ans)\n• Hier : -0.73% → après une veille normale, l'or a monté le lendemain <b>54%</b> du temps (1049 cas)\n🕐 Le vendredi, plus HAUT du jour souvent vers 16h (14%), 0h (12%) · plus BAS vers 0h (12%), 15h (8%) (heure de Paris)\n🔄 Phase 2 (jeu→ven) : lun→mer = -34.7$, depuis mercredi +84.6$ → inversion en cours ✅\n\n💵 Dollar : pas de pression nette sur la dernière heure\n\n⚠️ <b>Le prix (3620) est déjà sorti du range S1 3444 – R1 3608</b>.\n👉 Pas de contre-tendance : suivre la cassure tant que le prix reste au-dessus de R1.\n\n<i>Bilan prévision vs réalité ce soir à 22h. Pas un conseil financier.</i>",
   "ai": false
  },
  "weekly_forecast": {
