@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "f507a37da016",
-  "e2c576b49939",
   "29548349d85c",
   "4697f040fdc8",
   "6ac87c7ff55f",
@@ -3956,7 +3954,9 @@
   "94efddc02ae2",
   "23e519f897b5",
   "34d57152afda",
-  "6de1464659e1"
+  "6de1464659e1",
+  "ebaf535b351a",
+  "c188014a6b2c"
  ],
  "news": [
   {
@@ -4053,18 +4053,6 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "Frappe en territoire russe renforçant marginalement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Canadian Dollar draws support from BoC rate hike bets, jobs data in focus | FXStreet",
-   "source": "شبكة تواصل الإخبارية",
-   "theme": "Emploi US",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuRTZWWmVjU2YxSkc0cVY0S3VrZVdrSFd5SVlEWG9zY2ZjZzNoSnRwUDVmLXVOZGJhOWNKZHlVUk9ZbFlZVUVMcjljUVZ3WjlSVTJv?oc=5",
-   "published": "2026-11-27T18:20:52+00:00",
-   "id": "d2035746c6e3",
-   "impact": 0,
-   "cat": "taux",
-   "raison": "Spécificités canadiennes locales sans effet mesurable sur le marché mondial de l'or.",
    "method": "IA"
   },
   {
@@ -6036,6 +6024,18 @@
    "method": "IA"
   },
   {
+   "title": "Trump leaning toward delaying Iran strike until Israel forms government – i24NEWS",
+   "source": "Iran International",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UUVCX2pWVG9zaU5Va2E0UjJJWld4M1pkaUFOLVgtYTU5VUJ2NTRXRXQzb0pJNnhMSHdSZ3BYQlhKZEhjRkh6SUh1VGhhM2kxX0E?oc=5",
+   "published": "2026-11-26T22:01:55+00:00",
+   "id": "ebaf535b351a",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Soybean Producers Raise Concerns as New Trump Tariffs Could Threaten Export Markets and Raise Farm Costs",
    "source": "Hoosier Ag Today",
    "theme": "Tarifs",
@@ -6361,12 +6361,6 @@
   }
  ],
  "fired": {
-  "post|2026-11-06T13:00:00-05:00": 1793989894.8301427,
-  "news|4b11a0bea08f": 1793991698.5785434,
-  "news|ecc57dddf874": 1793993502.9129581,
-  "news|5afbb597c428": 1793993503.8264356,
-  "news|7572f97d383c": 1793993504.6512983,
-  "news|8c66f7f16a30": 1793996171.7630417,
   "rep|recap|2026-11-06": 1793998901.9727895,
   "news|f4463f8ce865": 1794002494.3994846,
   "news|3e2363591277": 1794002495.353919,
@@ -8225,7 +8219,8 @@
   "news|6dc1e48ee385": 1795797091.78991,
   "news|261002786311": 1795799775.181132,
   "news|f812ecc0deb5": 1795802502.0160067,
-  "news|46366ec17edd": 1795804289.7687232
+  "news|46366ec17edd": 1795804289.7687232,
+  "news|ebaf535b351a": 1795811489.679025
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8713,6 +8708,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T20:31:29.679113+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump leaning toward delaying Iran strike until Israel forms government – i24NEWS</b>\n📰 Iran International · Jeu 26/11 23:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UUVCX2pWVG9zaU5Va2E0UjJJWld4M1pkaUFOLVgtYTU5VUJ2NTRXRXQzb0pJNnhMSHdSZ3BYQlhKZEhjRkh6SUh1VGhhM2kxX0E?oc=5"
+  },
+  {
    "ts": "2026-11-27T18:31:29.768814+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran denies responsibility for Kuwait strike that killed two Italians</b>\n📰 Euronews.com · Ven 27/11 11:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQemFsZ0h4N0ktTTdoUkdCQjE4TXJoRkVsQTlIRGlLek1nY0FrcGVtT2w1U3Y5bzRyd01OYW1MSmFqR2taV0dXNWhTSXJUeW1CdjZDZm9lQWhlMlRCcFBXOHpuOWpDOGs1M3A4MXN6Rkh5SlctUDZDdjg1LWY2REZfeEdRMlpCcDlnVTFvaE5QSHYxZC1iWmRYWkNQQmR5R2NwaDczWFBjeG5OYTRZbTc3eg?oc=5"
@@ -9006,11 +9006,6 @@
    "ts": "2026-11-27T01:16:10.303017+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump says ‘victory at hand’ on Iran, names Pickaxe Mountain as target if US strikes again</b>\n📰 The Jerusalem Post · Ven 27/11 00:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9RMS1zQ3RRTlRBTlBkNlc3TXEyUTRKa1JGal9GSEx3NnFQbko1T0pkejZlbnlqQlZtdkhQQ2dvYjhRU3lyY2lvaWkzbU54Ykp5SXgzaUptQkFtNG8yV0dPcGdTamFrSGVvcGc?oc=5"
-  },
-  {
-   "ts": "2026-11-27T00:16:13.627383+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>New trade war could be brewing following tariff proposal</b>\n📰 kpic.com · Ven 27/11 00:45\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://kpic.com/news/nation-world/new-trade-war-could-be-brewing-following-tariff-proposal-china-eu-india-japan"
   }
  ],
  "daily_forecast": {
