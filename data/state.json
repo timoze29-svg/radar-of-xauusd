@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795770953.1173518,
+   "ts": 1795793466.1416821,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "4b17d06328b6",
-  "491ee27a7bba",
-  "ca4405dfb6b9",
-  "d2336f3b33c1",
   "0a87ea2b295c",
   "0f206bdea532",
   "e685fa123c5c",
@@ -3956,7 +3952,11 @@
   "66a37fb5508c",
   "b23a9f0233b7",
   "fd9f4f09a0a0",
-  "ec3f26328499"
+  "ec3f26328499",
+  "c0e9ab21fcb6",
+  "96d8999df798",
+  "bb023be8a4bc",
+  "a201b231886e"
  ],
  "news": [
   {
@@ -3969,6 +3969,18 @@
    "impact": 1,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "New trade war could be brewing after Trump announces proposed tariff hikes",
+   "source": "Baltimore Sun",
+   "theme": "Tarifs",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVBNamFLU1Y2LWVqa3AyYktabUVWOHV2UVktcWZwbHVRS25sMlowNXUtbGhMRzJHODdnbGE3LV9xZmlHVVRfT2ZvcFFGZWtKaGlzMHhfRTlvczg1VkcyNzg4bTNuOXZJWTFFdEJmOEhrRG9lSGQ5QWVTVU9NcG5pWXZUNXpsU29tZ2ZpQVQ2Z29fWE5hNExrSnhoTktyTFZtR0ZFbFh5bWw5TWhVNDF3blphSThlQQ?oc=5",
+   "published": "2026-11-27T14:57:02+00:00",
+   "id": "96d8999df798",
+   "impact": 10,
+   "cat": "commerce",
+   "raison": "haussier or (commerce, géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6346,18 +6358,6 @@
    "cat": "commerce",
    "raison": "haussier or (commerce)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Israel warns Iran is developing chemical weapons plans as Trump weighs new strikes",
-   "source": "Fox News",
-   "theme": "Trump / Iran",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81a1ZIa09VRFdETE00bWpMRFRsb1p0eUNhWEpQNDh2SlROQVNPOWJfYUJhSE4tUjFyVUhTX2JLNE9qV0ZHS0Nqc05MenY0VmVfYXJNWE9B?oc=5",
-   "published": "2026-11-26T15:18:59+00:00",
-   "id": "694272255bf0",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8233,7 +8233,8 @@
   "news|6e988dbafe3e": 1795788980.6288111,
   "big|SILVER|2026-11-27": 1795790768.8978467,
   "big|COPPER|2026-11-27": 1795790769.8843474,
-  "news|6d68f837650d": 1795791705.1709867
+  "news|6d68f837650d": 1795791705.1709867,
+  "news|96d8999df798": 1795793486.253065
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8721,6 +8722,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-27T15:31:26.253157+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>New trade war could be brewing after Trump announces proposed tariff hikes</b>\n📰 Baltimore Sun · Ven 27/11 15:57\n🧠 haussier or (commerce, géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVBNamFLU1Y2LWVqa3AyYktabUVWOHV2UVktcWZwbHVRS25sMlowNXUtbGhMRzJHODdnbGE3LV9xZmlHVVRfT2ZvcFFGZWtKaGlzMHhfRTlvczg1VkcyNzg4bTNuOXZJWTFFdEJmOEhrRG9lSGQ5QWVTVU9NcG5pWXZUNXpsU29tZ2ZpQVQ2Z29fWE5hNExrSnhoTktyTFZtR0ZFbFh5bWw5TWhVNDF3blphSThlQQ?oc=5"
+  },
+  {
    "ts": "2026-11-27T15:01:45.171059+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound</b>\n📰 FXEmpire · Ven 27/11 15:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGwwTHhCdV9lNnpVQmhQem10ajFMallFR1lUTTJtNV9ibUZoaG5pZmhHZHZjN3BOOHpJQzItMl8wLUVEREh3YTh3SGE4WWpVYjJ4TWMxUmE2Mi11N0ZMcEQ2LUdFOU5XNU5mckVoNTMtZXJYSHloUlJwME9CR1dfRWRwbDk5eUxLeV82MWx1dldTemlTNUMwSEZ5ZllzVzA1NFMwSU5UamdUYlIyWUt0QnVxSEZXaEo0?oc=5"
@@ -9014,11 +9020,6 @@
    "ts": "2026-11-26T22:31:33.054125+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel’s military ‘ready to attack Iran’ without the US</b>\n📰 Muslim Mirror · Jeu 26/11 13:50\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWxnNkNncjYwVEpKTGlhc0luRDFPNkJWRzBmXzRvNHJNTDY2Ul9URzJHZmFUUHpaOE5sVzhyM3o5ODREU3piSXBYSVNaQ0l5WEYtTWVZUUo5bWpRWC1vN0F5cy0zeW5QeXdJYlE5VXVYcTBOSVFuOE04eHJfTVI0MG5lc3Q?oc=5"
-  },
-  {
-   "ts": "2026-11-26T22:31:32.236210+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Democrats’ plan to end funding for Iran war leaves open what comes next</b>\n📰 The Hill · Jeu 26/11 23:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUhrUHE4bV96ODIwUnRhWG9jbS1jUFNOUGc3amdUMWJGX0QyanFoLUhaeDc0Z3M4SzhiRkZscDcxQjR6Uzd5STlFVFFOUmlEME0zc1AzdERzaFBFeVhMdm80ZE0xbHFsN3pqcnFIcVBNaHA5d0VwTzlkcjZZNVRDSVFOUVQzTnZUUW9UYUtFMULSAZYBQVVfeXFMT3lENlZLYzFTVHFmdWJUSHBibnRCQlR0eUg4bER2QU5IS1E2WnhuVHRXLW1HV0ZoZ1AwdlVaaEcxUE1pUDBuY3Z5Vm5YY21WT0dQcHoycjdRd2liWXQ3T1lmVzItcVBEVVVtOW4xLVg5NVE1R3ZNOFl0dFc4MS1ISmZQZUM3YndRM01UZlFBam5jWDY3ckNn?oc=5"
   }
  ],
  "daily_forecast": {
