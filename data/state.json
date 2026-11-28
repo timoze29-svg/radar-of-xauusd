@@ -957,14 +957,6 @@
   }
  },
  "seen_news": [
-  "8912cb9bb270",
-  "a9320f922386",
-  "99beea431b3b",
-  "c447ae135bb7",
-  "53e3cd07f27f",
-  "a31daf87b93e",
-  "db48d672afdd",
-  "c8e6c305e8a5",
   "ef858b730686",
   "eb2e3fbf5ea6",
   "b5bd9c47ce4c",
@@ -3956,9 +3948,29 @@
   "053bcddce07e",
   "8dd2a40fdc12",
   "6ef2a5e1c557",
-  "b685a91ff0c2"
+  "b685a91ff0c2",
+  "ac2a7604d6bd",
+  "d78fb9ba24df",
+  "d3597bdd0e66",
+  "6cf32d507fd6",
+  "c511417234f2",
+  "a8800be65aff",
+  "b10b022062c2",
+  "574eb5c44a4b"
  ],
  "news": [
+  {
+   "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+   "source": "Al Jazeera",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhDcldYNUFKZnJyUF82cDRWN0xQdHdtMW5TTjRaR0V4RlBzS2JhWmNfZnhuZXRQUTc3bHJha0RWOHExa0R3YTlOekMtWmNEWi1WampVQ09vUXFESkVCV2RQZV9tMHBfTVljWGo1VFZCYWRhVnM2b0lwYjdKYnZ1MnEtdXVfZ01URm1PTTZaNEMtekQ1SnpSWGxTczFFRmQ2WFFQaHZEajd5S3NxSzNkTUt30gG3AUFVX3lxTE9fSXNRRW1FZk9ObV93Q3NtbU8za21KOWNnczRYOF9PMHAtWDdEbkJVaDFURTZzbVZzZWI2UEk2aWFNUzdmOWdSYmh6UzBjY1lWa3RpdmF1TmNrT2toV19aejNySm13LUxiQnhnNnZ3eVI3MHNnb3B4M2NlaDJ0ZlpPSU01RmlOYndjR0lCSzNnNlhYOEtacVFvSTdtd0w1LTk4SndmOTRaZ3VtZDFSOUFrN0NmelBaTQ?oc=5",
+   "published": "2026-11-28T13:52:30+00:00",
+   "id": "c511417234f2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
    "source": "CNBC",
@@ -6346,18 +6358,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Sanctioned by China, Taiwanese candidate Puma Shen builds momentum in Taipei mayoral race",
-   "source": "Yahoo News Canada",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3dkaXB6cFhBYjlrcHloZUVySFBEcHJxTUJ1SXdER2xaM2RmMHUzQ3YyU29kTmZVcE9uYUE2ekRjTmF1dDlpZmhEUjlkRWVUNnc1cWotdTE0SUNHX3BPQzI0dEZLTTItdUJnSlREaHJHeklMSDByS3pxSUREUnFUWEI2Y0VJZVRpM1E?oc=5",
-   "published": "2026-11-27T07:20:00+00:00",
-   "id": "c97d486d6470",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8223,7 +8223,8 @@
   "news|494bfc20edde": 1795871773.758692,
   "news|06f081b25c85": 1795874498.7442582,
   "news|b685a91ff0c2": 1795874502.2310634,
-  "news|68cf47ba593d": 1795874503.0146658
+  "news|68cf47ba593d": 1795874503.0146658,
+  "news|c511417234f2": 1795875365.5477457
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8711,6 +8712,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T14:16:05.547825+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran points to Europe’s war role after Italians killed in Kuwait strike</b>\n📰 Al Jazeera · Sam 28/11 14:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhDcldYNUFKZnJyUF82cDRWN0xQdHdtMW5TTjRaR0V4RlBzS2JhWmNfZnhuZXRQUTc3bHJha0RWOHExa0R3YTlOekMtWmNEWi1WampVQ09vUXFESkVCV2RQZV9tMHBfTVljWGo1VFZCYWRhVnM2b0lwYjdKYnZ1MnEtdXVfZ01URm1PTTZaNEMtekQ1SnpSWGxTczFFRmQ2WFFQaHZEajd5S3NxSzNkTUt30gG3AUFVX3lxTE9fSXNRRW1FZk9ObV93Q3NtbU8za21KOWNnczRYOF9PMHAtWDdEbkJVaDFURTZzbVZzZWI2UEk2aWFNUzdmOWdSYmh6UzBjY1lWa3RpdmF1TmNrT2toV19aejNySm13LUxiQnhnNnZ3eVI3MHNnb3B4M2NlaDJ0ZlpPSU01RmlOYndjR0lCSzNnNlhYOEtacVFvSTdtd0w1LTk4SndmOTRaZ3VtZDFSOUFrN0NmelBaTQ?oc=5"
+  },
+  {
    "ts": "2026-11-28T14:01:43.014760+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon</b>\n📰 EnergyNow.com · Ven 27/11 22:35\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenRKWEpXeWJsMU8xX01hWFBmd1p6YUpZZERjRVZCN0V1NVVGR1h6WEg5b1VsTGpndTQ1elI3ZHp5VEhsV09VMmNBUmVDeTFCcVZob1RBbTI3OEEzZ2hfcHM5U1Z5ZUJqX09DeXJWTHBITTZPT0RTMGlXUVFVTmNRU1F4WjlxTHJkaThBNUdlTllYQlJsZDh6cklJOUloRDN2SHVpdmhlVjA?oc=5"
@@ -9004,11 +9010,6 @@
    "ts": "2026-11-27T20:31:29.679113+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump leaning toward delaying Iran strike until Israel forms government – i24NEWS</b>\n📰 Iran International · Jeu 26/11 23:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UUVCX2pWVG9zaU5Va2E0UjJJWld4M1pkaUFOLVgtYTU5VUJ2NTRXRXQzb0pJNnhMSHdSZ3BYQlhKZEhjRkh6SUh1VGhhM2kxX0E?oc=5"
-  },
-  {
-   "ts": "2026-11-27T18:31:29.768814+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran denies responsibility for Kuwait strike that killed two Italians</b>\n📰 Euronews.com · Ven 27/11 11:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQemFsZ0h4N0ktTTdoUkdCQjE4TXJoRkVsQTlIRGlLek1nY0FrcGVtT2w1U3Y5bzRyd01OYW1MSmFqR2taV0dXNWhTSXJUeW1CdjZDZm9lQWhlMlRCcFBXOHpuOWpDOGs1M3A4MXN6Rkh5SlctUDZDdjg1LWY2REZfeEdRMlpCcDlnVTFvaE5QSHYxZC1iWmRYWkNQQmR5R2NwaDczWFBjeG5OYTRZbTc3eg?oc=5"
   }
  ],
  "daily_forecast": {
