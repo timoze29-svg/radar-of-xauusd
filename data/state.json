@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795833950.6312814,
+   "ts": 1795838480.7058108,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "dcc5259f30fc",
-  "50b386cfebdb",
-  "b058b49bec1a",
-  "67a3b0891f07",
   "033eda690d0f",
   "cf5e0022e944",
   "1b4df9499d16",
@@ -3956,9 +3952,25 @@
   "71cbed06b53d",
   "bfde4bd80128",
   "d6d031ad273a",
-  "bf855198e6b1"
+  "bf855198e6b1",
+  "6d0bb9fd4f08",
+  "752fcc55adbe",
+  "2e8c3b5151a6",
+  "8ed300383e70"
  ],
  "news": [
+  {
+   "title": "Ringgit Expected To Trade Around 4.13 As Fed Rate Hike Looms",
+   "source": "BusinessToday Malaysia",
+   "theme": "Emploi US",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFBSQWNtbHlqcTFWYzV6YVQ2R2Y3cnJIOUlfWmdNc1U5OGJWeGd6UmJEaVBsS1F1cXAyX0d2Sm8wT2dUZXdQTHQ4RlBsWGJRdG43VG02bGo4aDM3UmtaSWNRZHlVTHQ1cVAyRWY5NWg3Y1M2LTU2SHAtM1FOcWlVSXJzYWdwT2QzTWdBVF9tZ3NyanRyWFdOVTdqb1RJQ1VnRkRDQ2dtb3Y?oc=5",
+   "published": "2026-11-28T03:41:23+00:00",
+   "id": "752fcc55adbe",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
    "source": "The Guardian",
@@ -4113,6 +4125,18 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Japanese Yen weakens as US Treasury yields rise amid calmer equity markets",
+   "source": "www.tmgm.com",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmEwSVlqOTFqcnMxTVB0Nk5XVXJGM0h4bVpHc0NMWDluUXlSeTNqbG1Idm5QZGM4ZnRlQTdIaDlvenZxd0l5dHJkb0k4MHV1cUpEVkd4NUk4Y1NZdWpqVWdualc1WDhWbkF2TFpiV0xpMjcxb2h4TFVWNGxCWDBYby1PWVJydnBya0E3S1ZxY2otYzVnSndHX19oeEdqdDFlZmswSENtY3FnNENWeTRIZjI0cS1OR2NKdkpaZG1MVlU0Q1ZnanIwaDh2M1FPWVRFWVQ4?oc=5",
+   "published": "2026-11-28T01:43:12+00:00",
+   "id": "8ed300383e70",
+   "impact": -5,
+   "cat": "taux",
+   "raison": "baissier or (taux)",
    "method": "mots-clés"
   },
   {
@@ -6334,30 +6358,6 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Two Italians killed in Houthi attack on Kuwait",
-   "source": "middle-east-online.com",
-   "theme": "Géopolitique",
-   "link": "https://www.middle-east-online.com/en/two-italians-killed-houthi-attack-kuwait",
-   "published": "2026-11-26T23:45:00+00:00",
-   "id": "fdd9f44e104d",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Brazil Embraer criticizes new US tariffs , warns of air travel inflation",
-   "source": "spokesman.com",
-   "theme": "Géopolitique",
-   "link": "https://www.spokesman.com/stories/2026/nov/26/brazils-embraer-criticizes-new-us-tariffs-warns-of/",
-   "published": "2026-11-26T23:45:00+00:00",
-   "id": "ead2c3497d1d",
-   "impact": 4,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8227,7 +8227,8 @@
   "news|49537a9c2acc": 1795835788.4936368,
   "news|43627eb39fe4": 1795835789.4763658,
   "news|bfde4bd80128": 1795836685.3760219,
-  "news|d04e8fc81584": 1795836686.1776543
+  "news|d04e8fc81584": 1795836686.1776543,
+  "news|752fcc55adbe": 1795838500.007987
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8715,6 +8716,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T04:01:40.008081+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit Expected To Trade Around 4.13 As Fed Rate Hike Looms</b>\n📰 BusinessToday Malaysia · Sam 28/11 04:41\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFBSQWNtbHlqcTFWYzV6YVQ2R2Y3cnJIOUlfWmdNc1U5OGJWeGd6UmJEaVBsS1F1cXAyX0d2Sm8wT2dUZXdQTHQ4RlBsWGJRdG43VG02bGo4aDM3UmtaSWNRZHlVTHQ1cVAyRWY5NWg3Y1M2LTU2SHAtM1FOcWlVSXJzYWdwT2QzTWdBVF9tZ3NyanRyWFdOVTdqb1RJQ1VnRkRDQ2dtb3Y?oc=5"
+  },
+  {
    "ts": "2026-11-28T03:31:26.177789+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>President Trump weighs strike against Iran’s Pickaxe Mountain</b>\n📰 Fox News · Sam 28/11 00:16\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ycENCSWZONVhCcnhHalBrTGgydThWYXVDOExUS2VFcXFFclBpMms0dEc1LWdXVUFQeXhmQjhlbXNYX1NBaVRMVFpPSmZkUGxoaVlHcVVR?oc=5"
@@ -9008,11 +9014,6 @@
    "ts": "2026-11-27T06:31:31.093416+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran vows to break US naval blockade , claims full control over Strait of Hormuz : MP Esmaeil Kowsari</b>\n📰 bignewsnetwork.com · Ven 27/11 06:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.bignewsnetwork.com/news/279464412/iran-vows-to-break-us-naval-blockade-claims-full-control-over-strait-of-hormuz-mp-esmaeil-kowsari"
-  },
-  {
-   "ts": "2026-11-27T06:31:27.548061+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Fed faces fresh rate hike as inflation and US growth defy expectations</b>\n📰 azernews.az · Ven 27/11 06:30\n🧠 baissier or (fed) [mots-clés]\n🔗 https://www.azernews.az/analysis/268155.html"
   }
  ],
  "daily_forecast": {
