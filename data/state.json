@@ -957,9 +957,6 @@
   }
  },
  "seen_news": [
-  "9b9a090c9001",
-  "fad0d36bdfa2",
-  "e092e0b697a1",
   "335854952694",
   "03c6b7cfa023",
   "00050d1274d1",
@@ -3956,7 +3953,10 @@
   "d8c6f6784348",
   "2f01079afe25",
   "59d13cefae6a",
-  "e9631ca8bc48"
+  "e9631ca8bc48",
+  "3ba73307de78",
+  "9a946f266c88",
+  "4885655ac551"
  ],
  "news": [
   {
@@ -4111,6 +4111,18 @@
    "published": "2026-11-28T03:22:00+00:00",
    "id": "bfde4bd80128",
    "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Central Command denies Iranian commander's claims about seized tankers, carrier strike, Hormuz toll",
+   "source": "Anadolu Ajansı",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU1FkSTVJaHdsVkRGRW9lV1JkMDA2SDNfUVVsTkRqSWZKUy1lUDJNY2M3bnU1M09XbXNqMS16aVJSYjFNVjJleUgzd1Y2ZEtQTVZaalppRXowOWhiU0Jld1NwcmlnS1hhalVFYU1NTl9Mb3FhU0gtUGVVbW1QdWc5UG1Ycm5fVjdsUnBqZ2x1eXo3d2t1WU01bTU4dEFYVEtEcHRNMWR6cXlXR3hRRDgzWU5KYkt6VVBXaTFQOGpQc0RZc1NYTzFXOFdjZ2YxOUxWUFZvSlRfSVJYUkxERkNxUQ?oc=5",
+   "published": "2026-11-28T02:54:54+00:00",
+   "id": "4885655ac551",
+   "impact": 10,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,22 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Meet the rising Taipei mayoral candidate who's also sanctioned by China",
-   "source": "kens5.com",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORmNVRzJLeTBuYWZVaklzemFoMDc1T0hzM2t5SDM1M2Nickllbnp6U2luUm9mc1BIeGhNS1VZYUN0NkR1QTFScGhucDdIQXNMVk9fNXctNi1Md2Q4NVA0QlNjSjRVbDN0VFFzVDR6bzlPTkFzOUNYVW1zRDVQZEg1Qk1QSjRVa0RUWllmN25LdDY2T3ZNLVdOXy00bGRZRUJkaUxmdjc0RDA0RnhxbFVHaWdWcTdOcXBhR2w1cXozdUFQVFRVX3g0dE9WYmNTR3RwMkJWUkt6T2d2U0c0TlZXWm90U0JzTVJDMVBaLUVxU180N0J5S0ZCNWJvS2RWUQ?oc=5",
-   "published": "2026-11-27T01:09:03+00:00",
-   "id": "325a70d5939a",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|5cfd77a809fa": 1794030361.0692089,
   "news|827dbf42ab12": 1794034145.2340703,
   "news|25843adc6643": 1794034146.1587791,
   "news|45a124907f45": 1794034147.0542371,
@@ -8226,7 +8225,8 @@
   "news|b86040c601d4": 1795842095.5194747,
   "news|b1db3cedf9cf": 1795842977.8874788,
   "news|e9631ca8bc48": 1795843903.551411,
-  "news|59d13cefae6a": 1795843907.2356715
+  "news|59d13cefae6a": 1795843907.2356715,
+  "news|4885655ac551": 1795844764.2440026
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8714,6 +8714,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T05:46:04.244081+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US Central Command denies Iranian commander's claims about seized tankers, carrier strike, Hormuz toll</b>\n📰 Anadolu Ajansı · Sam 28/11 03:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU1FkSTVJaHdsVkRGRW9lV1JkMDA2SDNfUVVsTkRqSWZKUy1lUDJNY2M3bnU1M09XbXNqMS16aVJSYjFNVjJleUgzd1Y2ZEtQTVZaalppRXowOWhiU0Jld1NwcmlnS1hhalVFYU1NTl9Mb3FhU0gtUGVVbW1QdWc5UG1Ycm5fVjdsUnBqZ2x1eXo3d2t1WU01bTU4dEFYVEtEcHRNMWR6cXlXR3hRRDgzWU5KYkt6VVBXaTFQOGpQc0RZc1NYTzFXOFdjZ2YxOUxWUFZvSlRfSVJYUkxERkNxUQ?oc=5"
+  },
+  {
    "ts": "2026-11-28T05:31:47.235780+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Trump demands GDP data probe as chances of rate hike rise: What to know</b>\n📰 The Hill · Ven 27/11 16:46\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxQMXVzOVkyZGhIRFdqNVhuZFRSekVzWVlpVkJZU0VkSVd4U0g4NmtsckF3Um15S1Z0VV93dVllSVJ1Q19nZzNPdFRMNy00ZG9Dd0p6Mi1oUENCX0VtZ01HZGR0RDVpODJmZEEzaTJOR1BqVzJXTFBZYjdzWWhYeFBqTzkyeUJrQdIBiwFBVV95cUxORTgyb0VjenJfS1Nid21HaXNOdUoycHJzSVpQUDlQemVlRkphMExkc19ZSzZubjAtNTJhVW1iT1piMGhITGVNX3F2OUstQS1qRXF4SlBac1g5aWZMYVZlME1tbVhDM1ZXTHFsR0lIZWpZMnprTThDSmliQVQwZHVwS3FXUUhscW1DY21r?oc=5"
@@ -9007,11 +9012,6 @@
    "ts": "2026-11-27T10:16:16.208057+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel’s Mossad chief pushes for unilateral attack on Iran</b>\n📰 Middle East Online · Ven 27/11 11:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHhkMng2VnE1NzUwOGlabHJHZl9KQ0R4bDdXamhseDkwUzVKbXQ4dF9BR1RDTjhUQ09Yc2tlMlp3QW9RazdURUNzTWFoOWNIUHZrdFBMaHc3UHp1YnVZQWtvVE9Qclp4T19KNHdadldJMjhqZzZuS0RfQzNldHFTanltd1A1YS1RUlN5UkNqdkJSN2dWUFZ2Uw?oc=5"
-  },
-  {
-   "ts": "2026-11-27T09:02:09.713465+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price forecast: Fed rate hike in December may limit recovery to ₹1.30 lakh per 10 grams by 2026-end, says expert</b>\n📰 Livemint · Ven 27/11 09:13\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNSS1wSFJjclpDQzhXOXBYY2R0UTMxLTNVemdRRlAxaF9SME9weWNvQks3a0dhTER3Y1dMd25XX1AxMXlkOWZscV9HQlctUFV0bjJubzNvTDIwX1JjaG4wOFk0aDNQRDMwQVNzSXVvU0xNZDBrYlZqUlhyeHB4SzJoLXAxakc2dDg4MEFlX0RsUkhTWFhha21fUkZJdUNNZGpuUWptVFpQUHdxb19Nd3ZWdl9Sb2VvQUZBWk5jY2xVbVhQRDBqSlhXNHVFZkdydDNJTEZldkstWUtWSGN5Skl6RGlkR0NNV2Q2MzE5Z1hONnhRM0hfX28wSEJMTmFDczlsakJFRzdTc21TX3FxRERN0gGUAkFVX3lxTE1FVVNONG9GZlJqSVBzaEJWcXo2bFhBSFc4WEUyLWszZlhSeS1YSTlTYm9WUEZrbEtXVTlxcnVNOUtXd2lab2ZLdm1RTGxDWkNCX1RpMWFGeGp5ejlXRjJ3VV9yS1VJcmlvdlRjSVc1S0c3MVdDYnByNW11WFhDdlNfZVlMbHpGVU9sajJOdkZUWXRiLUotd3llMF9QNDhmNTRfYWpBTGxSYXBjT3U5endNTlFBeERELTlmcjg5TFUybWdjZjJyZE1sbmJtd1J5WUFzSFIyYk9wLWVBZU43dWpCeEJoTEo0M0U0V0U5SXFKSmxhRGJ6M3l0cXhrN2dpWjM5X3ZGZi1DVndaUUZVQV9YeXZxYw?oc=5"
   }
  ],
  "daily_forecast": {
