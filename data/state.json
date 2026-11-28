@@ -957,12 +957,6 @@
   }
  },
  "seen_news": [
-  "033eda690d0f",
-  "cf5e0022e944",
-  "1b4df9499d16",
-  "67385995abca",
-  "d21d0fdf6517",
-  "7e5195967002",
   "ea49e960d7fd",
   "cce34fbb962d",
   "f89ca3236860",
@@ -3956,9 +3950,27 @@
   "6d0bb9fd4f08",
   "752fcc55adbe",
   "2e8c3b5151a6",
-  "8ed300383e70"
+  "8ed300383e70",
+  "702985b03e76",
+  "26f7bb605bf4",
+  "b2e7d96611be",
+  "7bcbb843c9cc",
+  "1bf58bf9563e",
+  "7f23628af731"
  ],
  "news": [
+  {
+   "title": "Israel 'ready' to strike Iran without US backing",
+   "source": "chinadailyhk",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwZUpJTWNRRG9scklxcElfdGlFX1BfMTBsTzVkdHZBUXRMUXhWZDNzbUs1S0dYdzEtTl8wLXpUTVNxZXptQlRrQVpQWF9xWDFQT1RlVTBFU3Y?oc=5",
+   "published": "2026-11-28T04:04:09+00:00",
+   "id": "26f7bb605bf4",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Ringgit Expected To Trade Around 4.13 As Fed Rate Hike Looms",
    "source": "BusinessToday Malaysia",
@@ -6346,23 +6358,9 @@
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Russia  preparing new mass strike soon : Zelenskiy",
-   "source": "illawarramercury.com.au",
-   "theme": "Géopolitique",
-   "link": "https://www.illawarramercury.com.au/story/9399142/russia-preparing-new-mass-strike-soon-zelenskiy/",
-   "published": "2026-11-26T23:45:00+00:00",
-   "id": "63f20bd103bc",
-   "impact": 6,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|38d2bde08682": 1794024102.1811547,
-  "news|b46dd0a4bb3d": 1794024103.1724925,
   "news|5ce76ed046db": 1794024972.0345223,
   "news|085629d5cc0b": 1794025882.61452,
   "news|14d6ebcfca9c": 1794027696.225672,
@@ -8228,7 +8226,8 @@
   "news|43627eb39fe4": 1795835789.4763658,
   "news|bfde4bd80128": 1795836685.3760219,
   "news|d04e8fc81584": 1795836686.1776543,
-  "news|752fcc55adbe": 1795838500.007987
+  "news|752fcc55adbe": 1795838500.007987,
+  "news|26f7bb605bf4": 1795839369.2490516
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8716,6 +8715,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T04:16:09.249172+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel 'ready' to strike Iran without US backing</b>\n📰 chinadailyhk · Sam 28/11 05:04\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwZUpJTWNRRG9scklxcElfdGlFX1BfMTBsTzVkdHZBUXRMUXhWZDNzbUs1S0dYdzEtTl8wLXpUTVNxZXptQlRrQVpQWF9xWDFQT1RlVTBFU3Y?oc=5"
+  },
+  {
    "ts": "2026-11-28T04:01:40.008081+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Ringgit Expected To Trade Around 4.13 As Fed Rate Hike Looms</b>\n📰 BusinessToday Malaysia · Sam 28/11 04:41\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFBSQWNtbHlqcTFWYzV6YVQ2R2Y3cnJIOUlfWmdNc1U5OGJWeGd6UmJEaVBsS1F1cXAyX0d2Sm8wT2dUZXdQTHQ4RlBsWGJRdG43VG02bGo4aDM3UmtaSWNRZHlVTHQ1cVAyRWY5NWg3Y1M2LTU2SHAtM1FOcWlVSXJzYWdwT2QzTWdBVF9tZ3NyanRyWFdOVTdqb1RJQ1VnRkRDQ2dtb3Y?oc=5"
@@ -9009,11 +9013,6 @@
    "ts": "2026-11-27T06:31:31.999137+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+9/10)\n\n<b>Ukraine war , Melania short - term ceasefire , Iran nuclear threat , Greenland : Trump details Mar - a - Lago talks with NATO chief</b>\n📰 newzealandstar.com · Ven 27/11 06:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.newzealandstar.com/news/279464182/ukraine-war-melania-short-term-ceasefire-iran-nuclear-threat-greenland-trump-details-mar-a-lago-talks-with-nato-chief"
-  },
-  {
-   "ts": "2026-11-27T06:31:31.093416+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran vows to break US naval blockade , claims full control over Strait of Hormuz : MP Esmaeil Kowsari</b>\n📰 bignewsnetwork.com · Ven 27/11 06:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 http://www.bignewsnetwork.com/news/279464412/iran-vows-to-break-us-naval-blockade-claims-full-control-over-strait-of-hormuz-mp-esmaeil-kowsari"
   }
  ],
  "daily_forecast": {
