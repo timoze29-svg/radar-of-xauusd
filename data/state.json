@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "c22a572b079e",
-  "92f31a43ecfe",
-  "36553421aad0",
-  "0099373d6da7",
   "0889f6a35643",
   "82398e2e2395",
   "1e32657d60a4",
@@ -3956,7 +3952,11 @@
   "4be9af403e09",
   "235a4aa3bc4e",
   "abb25729a371",
-  "b7931721a855"
+  "b7931721a855",
+  "d473f4d365b2",
+  "a1916dbf3740",
+  "1b919bc04729",
+  "8cf55524e6ec"
  ],
  "news": [
   {
@@ -5136,6 +5136,18 @@
    "method": "IA"
   },
   {
+   "title": "Tokyo Core Inflation Rises to 2.9% Ahead of Bank of Japan Meeting",
+   "source": "StockInvest.us",
+   "theme": "Inflation US",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBINUdhNlkxMWNGclVyZFVPdkVmd3RmMkh5QUp6QnJUd0l0dk10TXl1TVpFQW9wQkZOS0JORmZaU3pHdDdjUmtPYm5HMThrekk1YW11RWZvUjBlb1RmQW9WcVhCQTFPV3pjN3Q2VA?oc=5",
+   "published": "2026-11-27T13:21:32+00:00",
+   "id": "a1916dbf3740",
+   "impact": -3,
+   "cat": "inflation",
+   "raison": "baissier or (inflation)",
+   "method": "mots-clés"
+  },
+  {
    "title": "US Dollar Index stalls below 104.00 as hawkish Fed bets cushion downside | FXStreet",
    "source": "شبكة تواصل الإخبارية",
    "theme": "Dollar",
@@ -5217,6 +5229,18 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Iran says attack on Kuwait 'suspicious', offers to cooperate",
+   "source": "The New Arab",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlc2TS0yeVh5SVROSkdPNndfZUxpTmhycVVhbl81Tmo3LVE1czhBVXc3Ymx2Y2VsUEt3LTZVckhLcmtsYkkxUUNpNFV0X05VU1pMb2MxclVDNTBLcFhtSnBWTnRnSUVRclBIdTlsdzBKSWd5blZ2VG9EdDlfcUFsMnIwMllDdU3SAYwBQVVfeXFMT1FqUDJ4eFVFQTU2UFc4ZVNzRnd3Mm1jM0d2U2tROWtOWEVfOFllV2lGLTBHcHNydUZCNTNJXzBHNWVGMHRhS3BaNkQ5QUc1NDZabFNmekcyajNLSFdjUnJvSGt0Q0dxVVkxOXZyRjlQNmxCVWpGZmdmMVJoQmhaVWdCaWFRbUJ0M0taa3M?oc=5",
+   "published": "2026-11-27T12:27:27+00:00",
+   "id": "d473f4d365b2",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   },
   {
@@ -6331,30 +6355,6 @@
    "published": "2026-11-27T03:30:00+00:00",
    "id": "cb75e349f74c",
    "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to  pull back  | Russia - Ukraine war News",
-   "source": "aljazeera.com",
-   "theme": "Géopolitique",
-   "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
-   "published": "2026-11-27T03:30:00+00:00",
-   "id": "c5534bc8e72c",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Indian Shares Seen Lower After Houthi Attack On Key Saudi Refinery",
-   "source": "rttnews.com",
-   "theme": "Géopolitique",
-   "link": "https://www.rttnews.com/3718406/indian-shares-seen-lower-after-houthi-attack-on-key-saudi-refinery.aspx",
-   "published": "2026-11-27T03:30:00+00:00",
-   "id": "1081d7e1f21d",
-   "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -8225,7 +8225,8 @@
   "news|ef7778f8ca10": 1795860655.7957346,
   "news|e63523ae64e1": 1795860656.7800817,
   "news|adf34c54cb13": 1795860969.5174992,
-  "news|6dfe8a4d9984": 1795860970.3043036
+  "news|6dfe8a4d9984": 1795860970.3043036,
+  "news|d473f4d365b2": 1795861901.6064613
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8713,6 +8714,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T10:31:41.606564+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran says attack on Kuwait 'suspicious', offers to cooperate</b>\n📰 The New Arab · Ven 27/11 13:27\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlc2TS0yeVh5SVROSkdPNndfZUxpTmhycVVhbl81Tmo3LVE1czhBVXc3Ymx2Y2VsUEt3LTZVckhLcmtsYkkxUUNpNFV0X05VU1pMb2MxclVDNTBLcFhtSnBWTnRnSUVRclBIdTlsdzBKSWd5blZ2VG9EdDlfcUFsMnIwMllDdU3SAYwBQVVfeXFMT1FqUDJ4eFVFQTU2UFc4ZVNzRnd3Mm1jM0d2U2tROWtOWEVfOFllV2lGLTBHcHNydUZCNTNJXzBHNWVGMHRhS3BaNkQ5QUc1NDZabFNmekcyajNLSFdjUnJvSGt0Q0dxVVkxOXZyRjlQNmxCVWpGZmdmMVJoQmhaVWdCaWFRbUJ0M0taa3M?oc=5"
+  },
+  {
    "ts": "2026-11-28T10:16:10.304446+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran restores three war - damaged gas lines at South Pars field</b>\n📰 news.az · Sam 28/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.az/news/iran-restores-three-war-damaged-gas-lines-at-south-pars-field"
@@ -9006,11 +9012,6 @@
    "ts": "2026-11-27T13:01:45.209350+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Dollar Index stalls below 104.00 as hawkish Fed bets cushion downside</b>\n📰 FXStreet · Ven 27/11 13:47\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEhBdGFMd3pZTURranNUVUxBZzhYWHZicEtwdHVKNlloUFdRUXBYLW0tUXlOazg1VGVjdE4weWp2LWtvV1RzeTdxZlhzNVlzYlA5SFllZjJDeU4weFJKcXA5TXFLUDBQUmt2cDBaSldOOXJURzJfMkdBZm1qNGN6WW53Y25Ebkx5NWZJampIeDFnTFFNUVBaR3NpdHlqczVaa0h3SUpmV0pqc2FiZlRrMUtHQTg?oc=5"
-  },
-  {
-   "ts": "2026-11-27T12:46:10.370968+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump Weighs-in on Veto Power, Nvidia, Iran War and Putin</b>\n📰 TODAY.com · Ven 27/11 13:22\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWN0aVZ5dzYxNS0wOXo3Wm1YcWdDYTZMREZUQUh6SC12SlNkeDFYNzdzdjVMWnhkNXd3dlJCelp2dzlKVnhIWEZiRzBNYndzT1NlUDFoSWprZ043clpiUUhUYWlpUXVUUzRGblJudk1ZUWxMTUZFNTVrRWJvamJUdmhqTFJ0TDltd0xGMlUyZjRFLUkycFZZZ1BVY0s?oc=5"
   }
  ],
  "daily_forecast": {
