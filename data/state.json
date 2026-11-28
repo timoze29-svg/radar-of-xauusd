@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "b7fb9542a5c9",
-  "c4bcaf9a1a03",
-  "52b86d355326",
-  "af7fa84db3ea",
   "aaabb58778b0",
   "0c15e48fcab0",
   "e465a7240d03",
@@ -3956,9 +3952,25 @@
   "377ccfc0168e",
   "010ededd7cce",
   "4489f0b1bb48",
-  "91856230e5ce"
+  "91856230e5ce",
+  "9a707cc430eb",
+  "6d44e2c6f42e",
+  "a945056a2e27",
+  "fba9e7acb10f"
  ],
  "news": [
+  {
+   "title": "Israel expands strikes in Lebanon amid fears of a new regional escalation",
+   "source": "L'Orient Today",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUXpUQko0eFJLME1VX0VfNk1hcDNZUHc5ZWp4RVpqS2VFMWgtOWl3SVk5U1VPZGN6RkJLeFB0ak9jNmhqaGRHTnYzSVRvM0RZcjhzSGRPSTY1TzN6RzNHbE4tV0pYMGFWMFVlcnZFcEFhMXFYMVJISUswRlBkUDI4YmJpOFVNaEZMSWNWTGdGUVVVOGtEbUhncFVZTGNVYTBXT2tVQTZCY3V2QU9yRnJvMlNsZGx4WDZaRWVEVDdBblVRYnM1?oc=5",
+   "published": "2026-11-28T14:20:13+00:00",
+   "id": "6d44e2c6f42e",
+   "impact": 10,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
   {
    "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
    "source": "Al Jazeera",
@@ -6346,22 +6358,9 @@
    "cat": "taux",
    "raison": "baissier or (taux)",
    "method": "mots-clés"
-  },
-  {
-   "title": "Trump’s latest tariffs could undermine sea trade growth in 2027",
-   "source": "Seatrade Maritime News",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZE92WlMxOXRsTWd1UDlJLXE5X3ZaRGctSGhEOEJxMm1fRVQ1S25Rd3RlalY5WVQxZ3dfS0dzazNaaDE4d0FreUtBTEttSUduaUxGcUk3TEJRQmhGQzZtUThXcnlXc0ppTUN3WGNQYmtKbldoTS1NZHljbm9CVHcyZzhMa1JZUlVnUGpJbzVMMU44X0FVdXFxeVFFVktHQWpwVmlDOE16eFBDTXNlVnRkaVlWdi1LZzU4VVVUSlh3?oc=5",
-   "published": "2026-11-27T07:31:33+00:00",
-   "id": "8435f1f00516",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
-  "news|42be1511bd60": 1794061149.4627016,
   "news|169a62fb68ae": 1794067296.0373502,
   "news|bd2527e4dd7b": 1794068160.510168,
   "news|15f5fa0e6666": 1794070906.5625477,
@@ -8224,7 +8223,8 @@
   "news|06f081b25c85": 1795874498.7442582,
   "news|b685a91ff0c2": 1795874502.2310634,
   "news|68cf47ba593d": 1795874503.0146658,
-  "news|c511417234f2": 1795875365.5477457
+  "news|c511417234f2": 1795875365.5477457,
+  "news|6d44e2c6f42e": 1795877351.84827
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8712,6 +8712,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T14:49:11.848376+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>Israel expands strikes in Lebanon amid fears of a new regional escalation</b>\n📰 L'Orient Today · Sam 28/11 15:20\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUXpUQko0eFJLME1VX0VfNk1hcDNZUHc5ZWp4RVpqS2VFMWgtOWl3SVk5U1VPZGN6RkJLeFB0ak9jNmhqaGRHTnYzSVRvM0RZcjhzSGRPSTY1TzN6RzNHbE4tV0pYMGFWMFVlcnZFcEFhMXFYMVJISUswRlBkUDI4YmJpOFVNaEZMSWNWTGdGUVVVOGtEbUhncFVZTGNVYTBXT2tVQTZCY3V2QU9yRnJvMlNsZGx4WDZaRWVEVDdBblVRYnM1?oc=5"
+  },
+  {
    "ts": "2026-11-28T14:16:05.547825+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran points to Europe’s war role after Italians killed in Kuwait strike</b>\n📰 Al Jazeera · Sam 28/11 14:52\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhDcldYNUFKZnJyUF82cDRWN0xQdHdtMW5TTjRaR0V4RlBzS2JhWmNfZnhuZXRQUTc3bHJha0RWOHExa0R3YTlOekMtWmNEWi1WampVQ09vUXFESkVCV2RQZV9tMHBfTVljWGo1VFZCYWRhVnM2b0lwYjdKYnZ1MnEtdXVfZ01URm1PTTZaNEMtekQ1SnpSWGxTczFFRmQ2WFFQaHZEajd5S3NxSzNkTUt30gG3AUFVX3lxTE9fSXNRRW1FZk9ObV93Q3NtbU8za21KOWNnczRYOF9PMHAtWDdEbkJVaDFURTZzbVZzZWI2UEk2aWFNUzdmOWdSYmh6UzBjY1lWa3RpdmF1TmNrT2toV19aejNySm13LUxiQnhnNnZ3eVI3MHNnb3B4M2NlaDJ0ZlpPSU01RmlOYndjR0lCSzNnNlhYOEtacVFvSTdtd0w1LTk4SndmOTRaZ3VtZDFSOUFrN0NmelBaTQ?oc=5"
@@ -9005,11 +9010,6 @@
    "ts": "2026-11-27T20:46:12.095130+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump on Iran war ending whenever he wants</b>\n📰 CBS News · Ven 27/11 18:00\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0NlV0RUVDloUnl0WkIzZzM0Z0dTQzdfYjR5YlB6ai1abTFPcVk5MXMzajViTEhxRl93T21reWRzSGtfd1Q5bmRfT3BpTXBlcllCMkhfZW1aTDZHWTYzVnhXNzBBWUc1Z0c5R214V3NwMDNWR1JtODRRNWtxOFJRZTBITWNscHc?oc=5"
-  },
-  {
-   "ts": "2026-11-27T20:31:29.679113+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump leaning toward delaying Iran strike until Israel forms government – i24NEWS</b>\n📰 Iran International · Jeu 26/11 23:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UUVCX2pWVG9zaU5Va2E0UjJJWld4M1pkaUFOLVgtYTU5VUJ2NTRXRXQzb0pJNnhMSHdSZ3BYQlhKZEhjRkh6SUh1VGhhM2kxX0E?oc=5"
   }
  ],
  "daily_forecast": {
