@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795822266.7781641,
+   "ts": 1795826746.7668912,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "31d837474399",
-  "e3885676056c",
-  "c8d9d4904471",
-  "84e9cba3223f",
   "f74036d32c55",
   "321c2d894168",
   "2997e8b32239",
@@ -3956,7 +3952,11 @@
   "0f1fef19792c",
   "7187d71e431b",
   "2e94fd52295d",
-  "7be44bfd6c0c"
+  "7be44bfd6c0c",
+  "e6a4c96f3559",
+  "aea97ea1cddd",
+  "b6ee92eb0b3e",
+  "6dffe51399c5"
  ],
  "news": [
   {
@@ -4159,6 +4159,18 @@
    "published": "2026-11-27T20:30:00+00:00",
    "id": "cd0229824da4",
    "impact": 6,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "‘Might Create Worse Reality’: Former Israeli Military Intel Head Argues Escalation in Iran Would Have ‘Negative Effect’",
+   "source": "Mediaite",
+   "theme": "Moyen-Orient",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVVyQmIxNkZvbnQzcTc0LVkzNVVjUTVtck1lcmJYX0N5X09vZFhjRnpDbkZVcnFLZWF1Nl9WMTIwdTY1dEdmdXB6R1JvY2c1N1pRRWVNRDBoMzlSaDNjLXo1ZUJyWnhXZ29FQ3BKZFRJMm5SRUZja0N2ODlmVUkyR3ZtOUVpZ0NlcjFHekV1eXhXUDU1Ym1Vbk81OVJOYVBaV0FCZFJOc09QR2dCNUVVS1lreXpVTWV1am5VV0ZpcmJkbkstNmJMR0haeFA2aGJUaXZFQ3JHamJDLWJsNDEzWHRRZ3hTdw?oc=5",
+   "published": "2026-11-27T19:34:00+00:00",
+   "id": "aea97ea1cddd",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6346,18 +6358,6 @@
    "cat": "géopolitique",
    "raison": "Frappe majeure sur des infrastructures énergétiques saoudiennes, choc d'offre et valeur refuge.",
    "method": "IA"
-  },
-  {
-   "title": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
-   "source": "POLITICO.eu",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
-   "published": "2026-11-26T20:40:00+00:00",
-   "id": "618e61f3a88e",
-   "impact": 8,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
   }
  ],
  "fired": {
@@ -8224,7 +8224,8 @@
   "news|ebe5783331a3": 1795821365.3282232,
   "news|3589e1c2c597": 1795823170.0956986,
   "news|dfb8cbf4f1d1": 1795825888.5367882,
-  "news|0f1fef19792c": 1795825892.6735148
+  "news|0f1fef19792c": 1795825892.6735148,
+  "news|aea97ea1cddd": 1795826770.9094074
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8712,6 +8713,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T00:46:10.909486+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>‘Might Create Worse Reality’: Former Israeli Military Intel Head Argues Escalation in Iran Would Have ‘Negative Effect’</b>\n📰 Mediaite · Ven 27/11 20:34\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVVyQmIxNkZvbnQzcTc0LVkzNVVjUTVtck1lcmJYX0N5X09vZFhjRnpDbkZVcnFLZWF1Nl9WMTIwdTY1dEdmdXB6R1JvY2c1N1pRRWVNRDBoMzlSaDNjLXo1ZUJyWnhXZ29FQ3BKZFRJMm5SRUZja0N2ODlmVUkyR3ZtOUVpZ0NlcjFHekV1eXhXUDU1Ym1Vbk81OVJOYVBaV0FCZFJOc09QR2dCNUVVS1lreXpVTWV1am5VV0ZpcmJkbkstNmJMR0haeFA2aGJUaXZFQ3JHamJDLWJsNDEzWHRRZ3hTdw?oc=5"
+  },
+  {
    "ts": "2026-11-28T00:31:32.673625+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Watch Middle East expert predicts Iran will choose escalation over compromise - FNC</b>\n📰 FOX One · Ven 27/11 23:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHdMQXoxeDl5a1VRRTMwUDZScE9Za21NQkpEbjFFYW41TjZhSDk2VjlZaEd6VlpBeDRHM2lwa21NUG1iUFNzcVVMR0daUldkUmpkWno5UWZZRG5DMXcwcHhHUExWOUZzOTczVEpzam5fbHI4N0VqXy05Q2hNRUdZYU5sUlJNVFljQkFTSDlHUkJ6NUJid0t5b1BHWDFUZzJqU201bXQ3YUxhLVBORDFzRjFvMnFhOUE?oc=5"
@@ -9005,11 +9011,6 @@
    "ts": "2026-11-27T04:31:27.779418+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Zelenskyy warns of major Russian attack as Trump urges Putin to  pull back  | Russia - Ukraine war News</b>\n📰 aljazeera.com · Ven 27/11 04:30\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
-  },
-  {
-   "ts": "2026-11-27T03:46:13.443260+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Iran Accuses Israel of Pushing US Toward Another War</b>\n📰 cwibc.co.id · Jeu 26/11 20:39\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZLUREWGM0Y0swekpxWXdka19xd2xmV1pUdjZGZkxteFQzTkc5TmZNN1JhYjVjTlRuUTFxYk5rd0JiQUZ1cFd4ZWlrWGhZSXE2emRNemxFalBXVVJEeHFkdjJfWQ?oc=5"
   }
  ],
  "daily_forecast": {
