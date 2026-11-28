@@ -1,7 +1,7 @@
 {
  "cache": {
   "fred": {
-   "ts": 1795837543.9231408,
+   "ts": 1795859148.3599298,
    "data": {
     "REAL10Y": {
      "name": "Taux réel US 10 ans (TIPS)",
@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795854672.0434265,
+   "ts": 1795859148.4396987,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "573f559eca3a",
-  "aac0ef864bd4",
   "575cadaf3aaf",
   "1154c00f615a",
   "9f3cbb1ec6c5",
@@ -3956,7 +3954,9 @@
   "ac736489c3be",
   "7f175ddc2b15",
   "539f87112923",
-  "134d22412e71"
+  "134d22412e71",
+  "ac0a25b6227e",
+  "7e2649a9fb90"
  ],
  "news": [
   {
@@ -4699,6 +4699,18 @@
    "published": "2026-11-27T19:29:36+00:00",
    "id": "03f51f2937cf",
    "impact": 1,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel strikes south Lebanon after stepping back from Beirut attack",
+   "source": "DD News",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDR3X1JKNEtYNUVDVEQyaTduYkZvekZILTN2VEFpWkoyeVc3QW5ZUHM0ajBRNl9rMUd3eFM2cnRIbTJLUEtUa2NUV3hCdmM1RzJPZ3JHZE1YME9WUUhQc0hLR2tMVUJrWElRTDM1RWhmRmI5VGtOLVgzLVpOUWZSRGk2QXVjWThOYzFJdFFaVnpYN3I4Q3o1eA?oc=5",
+   "published": "2026-11-27T19:07:07+00:00",
+   "id": "ac0a25b6227e",
+   "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
@@ -6345,18 +6357,6 @@
    "impact": 5,
    "cat": "commerce",
    "raison": "haussier or (commerce)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Several Republicans vote with Democrats to pass Ukraine aid, Russia sanctions package - ABC News",
-   "source": "Breaking News, Latest News and Videos",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHdrTGxMZUpZTFJQZjRNZU5lVFhJYVNmdEUzYVNCZ09zTkxEMUFJaDJfNGxHOFpNZUNiQk5qQ3JBWG5qeTlLOVp6bzE4YVZpNGtKZ2tUaUV4SFhqLTlYZTBDUzUtOTIwVDBiTVZfNmdlalllemFmMTZhMHdJazhsZFdTc05BdnQ0REtuTUZhbVBSUEFNd0t4NV9iSXhRZVNSazBzZHZTNGVKS1FM0gGyAUFVX3lxTFBWc2NUSVBWYzVyNVF0dVFmV282dHpZY1Y5Snh5ZWppNnEwYzZLYXlHVHpZLW5RbVg3aHhRMlVWTDlCMXRUR0M1WDFEV3R2MV9KUEZzVWhacTVxR1dxQllKWlpuUDBkSE8tSXBMVEhYemF0cDMtbDMzcDhvc3NiLTBxemo3Y1NvV0FFUzBvSEd4c0xDblJLUUc0YkZ5b0JlUGhuMnBnWE43Si11WDlPMmhsOWc?oc=5",
-   "published": "2026-11-27T02:50:35+00:00",
-   "id": "f93c0fdbfeb8",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
    "method": "mots-clés"
   }
  ],
@@ -8219,7 +8219,8 @@
   "news|7938bf3da320": 1795851968.4024432,
   "news|d9a4870bdb0c": 1795851973.3419163,
   "news|74110b108294": 1795857707.7275257,
-  "news|b46fb3147b74": 1795857712.2129557
+  "news|b46fb3147b74": 1795857712.2129557,
+  "news|ac0a25b6227e": 1795859355.2021296
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8707,6 +8708,11 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T09:49:15.202222+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel strikes south Lebanon after stepping back from Beirut attack</b>\n📰 DD News · Ven 27/11 20:07\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDR3X1JKNEtYNUVDVEQyaTduYkZvekZILTN2VEFpWkoyeVc3QW5ZUHM0ajBRNl9rMUd3eFM2cnRIbTJLUEtUa2NUV3hCdmM1RzJPZ3JHZE1YME9WUUhQc0hLR2tMVUJrWElRTDM1RWhmRmI5VGtOLVgzLVpOUWZSRGk2QXVjWThOYzFJdFFaVnpYN3I4Q3o1eA?oc=5"
+  },
+  {
    "ts": "2026-11-28T09:21:52.213095+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>The Iran war is spreading beyond Israel. The Gulf is becoming a global front</b>\n📰 Ynetnews · Ven 27/11 19:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE03dXpma1ptMmNGYVhwcGpSRVZ3eE4tc3pwYS1WTFl1SEE4RlZVdmZ0SGRYRGxiS0VZNnU3UXZrVkJRQW84U3dxNjVyeWxvRTZXTDRUdElodlBRLUQzUzFGbUc4OW1sb09MX0Z0cEJ3?oc=5"
@@ -9000,11 +9006,6 @@
    "ts": "2026-11-27T11:33:13.702040+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Trump floats strike on Iran's Pickaxe Mountain as Tehran's economy buckles under US blockade</b>\n📰 Ynetnews · Ven 27/11 10:45\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NblBneTNMTk9qSy1XWkpVTlhmdEVodGFPWjZiVE5VMG5LMWpnS1VLMk50VUVlQmF5LWFydU90M3ctOFNsbGNtUC1TSmRFZHRnem50Vzln?oc=5"
-  },
-  {
-   "ts": "2026-11-27T11:33:09.989365+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Mossad chief backs Israeli attack on Iran without the US</b>\n📰 The New Arab · Ven 27/11 12:15\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQcklGaVpYLVU0S1RHVEhMZ1JWOHZhdmxQblVKMTctSVpqUGs4eVBSRWlOMFFnd1dXcEROaVRqWVk1YWpSZDZ5ampyNk4wLVNsVFBCcGk4OEk0SGYxR21HRjlJcjYxSGUzQVFSOXowODhIbDhLeldsckpWNENUekFneWc2dUvSAYoBQVVfeXFMUFFybG42YkVoMkw3YTJ0UWZXeTdLeHMwLVJDT3Z2S2gwYmtZb3dISzVfRE9GVDZJTktPRFk1M281bWFxUmF5a0dCNEpDdkpZUFZ2MHFZZWk3THVBaDdBWjF2UVNYLW1UTzNkZGtxd1dJczBMMHFYYjg1MXhjaXl4eXFtZzVKTTN6eURn?oc=5"
   }
  ],
  "daily_forecast": {
