@@ -957,8 +957,6 @@
   }
  },
  "seen_news": [
-  "628e3b2bef45",
-  "9e3617192a0e",
   "02294596e308",
   "175a17ab6cf5",
   "d1fd1e237f2c",
@@ -3956,7 +3954,9 @@
   "7b8eab505493",
   "f41f4c351f02",
   "cd8674c9cc18",
-  "48ac7fee0dc6"
+  "48ac7fee0dc6",
+  "e63523ae64e1",
+  "ef7778f8ca10"
  ],
  "news": [
   {
@@ -4113,18 +4113,6 @@
    "impact": -2,
    "cat": "géopolitique",
    "raison": "Proposition de trêve maritime réduisant légèrement la prime de risque géopolitique.",
-   "method": "IA"
-  },
-  {
-   "title": "Russian army loses 2,825 troops, 10 air defense systems in war against Ukraine in past day",
-   "source": "Ukrinform",
-   "theme": "Russie/Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaWVuUUtHTi1SUU96ellBTkNfS3doQmlRbEo5b3c0ZVRiVElwVVhpQ0lyMWV0YXBvX0w1Q2kxaFpCQmVnUjFGMWZGQ3lpTlBBemtiSWJqVmRzVmZOZlJ3ci1kZjdIOVBBdVg0YXpVbmJXWFYtbDZDS0JJd1ZSSXlaUkdUN0lwMFh2RjdDZWV6RVRkcHJucGZqMzI4R2hkQjd0THVfbWtrazhkMHJiOWx6cGFDam5nRjJxZUdaNDFSYTRXM2JmRGNwcHhPY0pTOW9uN01nTNIB2gFBVV95cUxQekZRSzA4SmtRQ0U0Y3ZvUlpPS1BFbkc0UklvMkZvSTlZdldtZzBTVldIbjNPZmdDeDc3QWlZOHRSM0lvall4STJEWmtIblBHSHg2UFpYMjh0X25JQ2lFT2JDdklwcUxPU05aMGtBUmdRUThmbmJaMjdRdFQtei1hbXFEUFU5aDZhcGZVU2RvX1Z4bGlIVklaMGlralRyS3ZCY2Y5R2w4eE9INTdQUmUtWlp2ZVE3RFZuMFFTRTJrS2dibXVxcjhuc3lNNW1tU2VLeEFwX2ZWT2doQQ?oc=5",
-   "published": "2026-11-28T06:03:00+00:00",
-   "id": "ac736489c3be",
-   "impact": 0,
-   "cat": "géopolitique",
-   "raison": "Bilan de guerre quotidien sans basculement stratégique majeur, impact négligeable sur les marchés.",
    "method": "IA"
   },
   {
@@ -4548,18 +4536,6 @@
    "method": "IA"
   },
   {
-   "title": "Costa Rica bars UN special rapporteur on Palestinian territories from entering country over  links to terrorist act - LocalNews8 . com",
-   "source": "localnews8.com",
-   "theme": "Géopolitique",
-   "link": "https://localnews8.com/news/national-world/cnn-world/2026/11/27/costa-rica-bars-un-special-rapporteur-on-palestinian-territories-from-entering-country-over-links-to-terrorist-acts/",
-   "published": "2026-11-27T22:15:00+00:00",
-   "id": "9102d2da1187",
-   "impact": 0,
-   "cat": "autre",
-   "raison": "Incident diplomatique mineur sans implication macroéconomique ni impact sur les marchés financiers.",
-   "method": "IA"
-  },
-  {
    "title": "Watch Middle East expert predicts Iran will choose escalation over compromise - FNC",
    "source": "FOX One",
    "theme": "Moyen-Orient",
@@ -4738,6 +4714,18 @@
    "cat": "géopolitique",
    "raison": "Frappe en territoire russe renforçant marginalement la prime de risque géopolitique.",
    "method": "IA"
+  },
+  {
+   "title": "Israeli security officials divided over timing of Iran strike as military operations continue in Lebanon",
+   "source": "LBCI Lebanon",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVpTlRKcFh0a2hyNlFER2l3U2JtQlplVjExUUdPcDM0alk1RXN0eExPZ3FSWmFfNlJ6MjNCeFlXZGYwYXBra0hhVGZIeE9lSXJIc0t0V2g4LVV3NTNVYXdiWkh4SS1GMy13ZjVzYjBEdXdQYWtaLTlob0lEWjdrLTNFUW43YVljQmxqUk9FMXkyREhVRTk2Q2NTbnljNDVJT1NGNFZHVHMzVHNrWWljY290MG1pa3YzN3pmbTJYc3lRMk9KQkktS0tzVQ?oc=5",
+   "published": "2026-11-27T18:10:00+00:00",
+   "id": "ef7778f8ca10",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
   },
   {
    "title": "The Iran war is spreading beyond Israel. The Gulf is becoming a global front",
@@ -5370,6 +5358,18 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemFsZ0h4N0ktTTdoUkdCQjE4TXJoRkVsQTlIRGlLek1nY0FrcGVtT2w1U3Y5bzRyd01OYW1MSmFqR2taV0dXNWhTSXJUeW1CdjZDZm9lQWhlMlRCcFBXOHpuOWpDOGs1M3A4MXN6Rkh5SlctUDZDdjg1LWY2REZfeEdRMlpCcDlnVTFvaE5QSHYxZC1iWmRYWkNQQmR5R2NwaDczWFBjeG5OYTRZbTc3eg?oc=5",
    "published": "2026-11-27T10:20:33+00:00",
    "id": "46366ec17edd",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "Israel preparing for potential Iran-linked attacks on its soil: Report",
+   "source": "Al Arabiya English",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUWdOanI2YklndF96RWRGRDR4bjdnVE1BSk4zai10bTZZdk5YZXpoTXpLcndzTzRUM1k4aUhXLWlQUWFWN1hWVHdFQk1OcHRZU2pxVlo3UUVaUGxFNkNnVnY2Q29YSGhhV0NpQVhHZTdxbVN6dElSX1VEenZqUE02aW81bVBWUkNQc2dkUFdNc2thenpacXV0TDlobGJrek05YUVpVVdIa0sxTlZhR0FxeG1sckt1RndTT29ud0JjR1o5THI20gHKAUFVX3lxTE1hZzBQOV96MHRuRG1ZclYxTGhOaEF4OWx3eGoxQ2hsaUZjSVZaQjdTVGtRNWxvM1pmY1lUUU0wYXZjRFF6ZnlWdC16Y2d6cE5IVDRBVVJiSWF1VUNnQzVXanVEMFR3VWctRzF4SHZEYkVWR19aQS1vNmRXbjFPREtCUXVhWWY3djBFYV9uaTZMMklqZS13MlVaM2wtbHZfRWdNX3RKN2lTTmd2MDRSNU1Fcm1FdzZ1eVZsNm1aclhlZXVOTkdZb1ZDUFE?oc=5",
+   "published": "2026-11-27T10:19:00+00:00",
+   "id": "e63523ae64e1",
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
@@ -8221,7 +8221,9 @@
   "news|74110b108294": 1795857707.7275257,
   "news|b46fb3147b74": 1795857712.2129557,
   "news|ac0a25b6227e": 1795859355.2021296,
-  "news|91a0a37c7662": 1795860358.5927389
+  "news|91a0a37c7662": 1795860358.5927389,
+  "news|ef7778f8ca10": 1795860655.7957346,
+  "news|e63523ae64e1": 1795860656.7800817
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8709,6 +8711,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T10:10:56.780194+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel preparing for potential Iran-linked attacks on its soil: Report</b>\n📰 Al Arabiya English · Ven 27/11 11:19\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUWdOanI2YklndF96RWRGRDR4bjdnVE1BSk4zai10bTZZdk5YZXpoTXpLcndzTzRUM1k4aUhXLWlQUWFWN1hWVHdFQk1OcHRZU2pxVlo3UUVaUGxFNkNnVnY2Q29YSGhhV0NpQVhHZTdxbVN6dElSX1VEenZqUE02aW81bVBWUkNQc2dkUFdNc2thenpacXV0TDlobGJrek05YUVpVVdIa0sxTlZhR0FxeG1sckt1RndTT29ud0JjR1o5THI20gHKAUFVX3lxTE1hZzBQOV96MHRuRG1ZclYxTGhOaEF4OWx3eGoxQ2hsaUZjSVZaQjdTVGtRNWxvM1pmY1lUUU0wYXZjRFF6ZnlWdC16Y2d6cE5IVDRBVVJiSWF1VUNnQzVXanVEMFR3VWctRzF4SHZEYkVWR19aQS1vNmRXbjFPREtCUXVhWWY3djBFYV9uaTZMMklqZS13MlVaM2wtbHZfRWdNX3RKN2lTTmd2MDRSNU1Fcm1FdzZ1eVZsNm1aclhlZXVOTkdZb1ZDUFE?oc=5"
+  },
+  {
+   "ts": "2026-11-28T10:10:55.795823+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israeli security officials divided over timing of Iran strike as military operations continue in Lebanon</b>\n📰 LBCI Lebanon · Ven 27/11 19:10\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVpTlRKcFh0a2hyNlFER2l3U2JtQlplVjExUUdPcDM0alk1RXN0eExPZ3FSWmFfNlJ6MjNCeFlXZGYwYXBra0hhVGZIeE9lSXJIc0t0V2g4LVV3NTNVYXdiWkh4SS1GMy13ZjVzYjBEdXdQYWtaLTlob0lEWjdrLTNFUW43YVljQmxqUk9FMXkyREhVRTk2Q2NTbnljNDVJT1NGNFZHVHMzVHNrWWljY290MG1pa3YzN3pmbTJYc3lRMk9KQkktS0tzVQ?oc=5"
+  },
+  {
    "ts": "2026-11-28T10:05:58.592836+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Will Trump Strike Iran Again? Israeli Intel Veterans Weigh In</b>\n📰 TV7 Israel News · Ven 27/11 20:01\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE42ZlBpc19SU3NhY3hFckFLajhmTWVLRC1jQi1zOUNfVGVUUU1RVnl2akswNG5JN2pNdUFybGcwYzd6U1FiMTliMFNManoxWTJ0RFJLdXBZOWJnM3l1TWxZbXJGR0NfVUttVmVxZnZWMXZHWnhMQW9J?oc=5"
@@ -8997,16 +9009,6 @@
    "ts": "2026-11-27T12:31:43.388057+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Donald Trump’s ‘Despicable’ Iran War Remark To U.S. Service Member Sparks Backlash</b>\n📰 Yahoo News Singapore · Ven 27/11 12:40\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFA1ZXZZTjFpS3FtbGxySGh5MzFleEdHUlBLeVAzV1VucmdJT0hxWXpFTEVFWlhocVNnS0o5bU5lQnk3NFl2N040NVUwR0I5cy1XRFZwcm1zOHFBVWY3TlhFcFJBbHViZF9VTkZERnJxUmRFWnQtN2tHOGdxWGVLQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-27T12:31:42.530245+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears</b>\n📰 Equiti Global · Ven 27/11 13:00\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXpPQlItZUpEc0MwQU1MN1pacjNSU0l0WkNfbWt3b1gtRWI1ay1ydUJLSEZCX0VyalNEQVhnTXBmay1QZ1ZOMmpJbFRXZC14d2Y1QmdBV3p0cWdHVkx3cURKb290b2tkSXZfOEVaZW5YNTZMeWJxTHFMb1oteG0yZENfeENoQWVKNlBmdGZPeXhuVlNRelBfeWgxcEFiQm4xZlh5TEdR?oc=5"
-  },
-  {
-   "ts": "2026-11-27T12:16:29.312286+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Charter flights set to return stranded Americans as travelers scramble amid Iran war, State Dept. says - ABC News</b>\n📰 Breaking News, Latest News and Videos · Ven 27/11 04:46\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkZpX2xlcC1KUHpTMTFIUHZfT0V3YVhvYXZwWVViX0JScVlTbmg2RUpuZlhuZHVMcG14M0VMWnNRQTlYV3JjTDdWTG00NE1MOUxMTUZ4SjFiNGRGcW5qaXhNTFF3V1hBem55U1ZDdVIwZ1VOTW14YUIyMS1rOVNwQzQzQXFtTFNWX1JRbXh0bFJtQ1BRVW54YWY1VU91LS15UUhOMzhwajh6QdIBrwFBVV95cUxQNmNNbDhjYUtIVU1VbzhNT3VIdFRaODNRdGFyR0tOSDMtUWh3cVpLQ1lSc3FVbUR3NzV2bkpYdEdFTjl2VTVHQ00xVzI5TFBlVDFuS2dZdWxnVUxKUkYta2RqejdxX2YyaEJCY2JPR08zOWVYSzdscUdUaGM3b0U1akJqMUJpWE0wc1c5UzRpdUtQeC1GZzNvdVp0bTVzWkk3U3M3alN1SFV3NEtQclRr?oc=5"
   }
  ],
  "daily_forecast": {
