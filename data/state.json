@@ -590,7 +590,7 @@
    }
   },
   "calendar": {
-   "ts": 1795842952.3432193,
+   "ts": 1795846552.5291188,
    "data": [
     {
      "title": "Flash Manufacturing PMI",
@@ -957,10 +957,6 @@
   }
  },
  "seen_news": [
-  "97a6adfca6f0",
-  "3c287762607c",
-  "ba3ba117cc3c",
-  "c0f5dcc0a90f",
   "5ef2bd5ac740",
   "0765860d2771",
   "5c96bddd28fe",
@@ -3956,7 +3952,11 @@
   "01d706745b4d",
   "1fa335c9c14a",
   "ddb327f8c478",
-  "0594155e0805"
+  "0594155e0805",
+  "b0eaceda273d",
+  "a95ceccfea93",
+  "88c32f2e2d4c",
+  "96b01d18cf4a"
  ],
  "news": [
   {
@@ -4017,6 +4017,18 @@
    "impact": 6,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
+   "title": "US Third-Quarter GDP Revised Up to 4.3%; Inflation Still Above Target, Odds of a December Fed Rate Hike Near 99%",
+   "source": "BigGo Finance",
+   "theme": "Dette US",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcnVrX3Vnb29aWG1Pb3ZjdVlJeVhFV3k3bVJ0YkF6bk1Sa2lKSEhxWEJSdnItLTVUWnhBM2E3MFl1SFozTUJHZjFVRU80QzZPRlJlWFQxY1lJbjYtQnZaNS14TGRhMmRIcTlvZEFNMVhRcmc0WEE?oc=5",
+   "published": "2026-11-28T04:55:00+00:00",
+   "id": "88c32f2e2d4c",
+   "impact": -8,
+   "cat": "fed",
+   "raison": "baissier or (fed)",
    "method": "mots-clés"
   },
   {
@@ -5460,6 +5472,18 @@
    "method": "mots-clés"
   },
   {
+   "title": "Gaza, Lebanon face new Israeli strikes as Iran-U.S. mediation continues",
+   "source": "ArabAmericanNews",
+   "theme": "Iran / Israël",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXBPcXZCMDQ0Qmg1WkQ1b3c2a2g2TVpobVJKcHM5QmttZm90RGlGNWE0bmNJTW9sT1g1WEVYLVM4bmFGUTNSUWQtY2tpTG9XcHlOV2R6aWdpNS1XUVlIVjNINWZMci04WW9KSGJLeHRvNTZIcXF4OExkVnNFWkVGTWFaeS1QdE9FRHhMXzlCVUQ2MlFIeFdsek1uMUktZ242anctVDBIaGpwYVFtcHk1SG9HcS1tRFQyb0dibmpTcUlNR1lONXRlQ3IzZHM5VmJZM1dWd3BFYw?oc=5",
+   "published": "2026-11-27T08:41:42+00:00",
+   "id": "a95ceccfea93",
+   "impact": 8,
+   "cat": "géopolitique",
+   "raison": "haussier or (géopolitique)",
+   "method": "mots-clés"
+  },
+  {
    "title": "Shoppers helped pay Trump's tariffs. Now Target, Best Buy, and Kohl's are booking $387 million in refunds",
    "source": "Fortune",
    "theme": "Tarifs",
@@ -6333,30 +6357,6 @@
    "impact": 8,
    "cat": "géopolitique",
    "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China",
-   "source": "WRAL",
-   "theme": "Chine/Taïwan",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGxURWd2RXZQa0VIZmtfMkVwOEFUb0xvVnYzQ19JUHdCaDV5eUFwaWo4elpRVzRZbnNaOHZpTHRhV2JFUlJqRGFRMFNDakdwTmQtLVNzbENFRU9wdG5CUG93VG5lRnM4NVRBRUJvQUkyWXBYRmtOUHplQ0g1YzJlWEI1UGxyX1FjOWwtbW1sQWFabjZhSmsza1VjbmhsUGpRdHc3UW1ZNzJOSUtCNHc?oc=5",
-   "published": "2026-11-27T01:26:39+00:00",
-   "id": "4f5eebc55ae4",
-   "impact": 4,
-   "cat": "géopolitique",
-   "raison": "haussier or (géopolitique)",
-   "method": "mots-clés"
-  },
-  {
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "source": "Bloomberg.com",
-   "theme": "Tarifs",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "published": "2026-11-27T01:22:48+00:00",
-   "id": "e9908708b0e9",
-   "impact": 5,
-   "cat": "commerce",
-   "raison": "haussier or (commerce)",
    "method": "mots-clés"
   }
  ],
@@ -8226,7 +8226,9 @@
   "news|b1db3cedf9cf": 1795842977.8874788,
   "news|e9631ca8bc48": 1795843903.551411,
   "news|59d13cefae6a": 1795843907.2356715,
-  "news|4885655ac551": 1795844764.2440026
+  "news|4885655ac551": 1795844764.2440026,
+  "news|88c32f2e2d4c": 1795846573.1335213,
+  "news|a95ceccfea93": 1795846576.6556659
  },
  "last_bias_label": "Neutre",
  "initialized": true,
@@ -8714,6 +8716,16 @@
  },
  "alerts": [
   {
+   "ts": "2026-11-28T06:16:16.655786+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Gaza, Lebanon face new Israeli strikes as Iran-U.S. mediation continues</b>\n📰 ArabAmericanNews · Ven 27/11 09:41\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXBPcXZCMDQ0Qmg1WkQ1b3c2a2g2TVpobVJKcHM5QmttZm90RGlGNWE0bmNJTW9sT1g1WEVYLVM4bmFGUTNSUWQtY2tpTG9XcHlOV2R6aWdpNS1XUVlIVjNINWZMci04WW9KSGJLeHRvNTZIcXF4OExkVnNFWkVGTWFaeS1QdE9FRHhMXzlCVUQ2MlFIeFdsek1uMUktZ242anctVDBIaGpwYVFtcHk1SG9HcS1tRFQyb0dibmpTcUlNR1lONXRlQ3IzZHM5VmJZM1dWd3BFYw?oc=5"
+  },
+  {
+   "ts": "2026-11-28T06:16:13.133608+00:00",
+   "kind": "news",
+   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🔴 BAISSIER (-8/10)\n\n<b>US Third-Quarter GDP Revised Up to 4.3%; Inflation Still Above Target, Odds of a December Fed Rate Hike Near 99%</b>\n📰 BigGo Finance · Sam 28/11 05:55\n🧠 baissier or (fed) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcnVrX3Vnb29aWG1Pb3ZjdVlJeVhFV3k3bVJ0YkF6bk1Sa2lKSEhxWEJSdnItLTVUWnhBM2E3MFl1SFozTUJHZjFVRU80QzZPRlJlWFQxY1lJbjYtQnZaNS14TGRhMmRIcTlvZEFNMVhRcmc0WEE?oc=5"
+  },
+  {
    "ts": "2026-11-28T05:46:04.244081+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+10/10)\n\n<b>US Central Command denies Iranian commander's claims about seized tankers, carrier strike, Hormuz toll</b>\n📰 Anadolu Ajansı · Sam 28/11 03:54\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU1FkSTVJaHdsVkRGRW9lV1JkMDA2SDNfUVVsTkRqSWZKUy1lUDJNY2M3bnU1M09XbXNqMS16aVJSYjFNVjJleUgzd1Y2ZEtQTVZaalppRXowOWhiU0Jld1NwcmlnS1hhalVFYU1NTl9Mb3FhU0gtUGVVbW1QdWc5UG1Ycm5fVjdsUnBqZ2x1eXo3d2t1WU01bTU4dEFYVEtEcHRNMWR6cXlXR3hRRDgzWU5KYkt6VVBXaTFQOGpQc0RZc1NYTzFXOFdjZ2YxOUxWUFZvSlRfSVJYUkxERkNxUQ?oc=5"
@@ -9002,16 +9014,6 @@
    "ts": "2026-11-27T10:32:15.635344+00:00",
    "kind": "news",
    "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel divided over whether to strike Iran without US backing</b>\n📰 The Arab Weekly · Ven 27/11 11:17\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkZ6LXJGY3AyWnVjbGlBWFFkcElKWVd3d080NncwNEkyWmdkNktybDNTNTVpdG5FZk9qTVBnN1FuOHg4bE4xR3RlMnR4S3ZjY3BBeTdyYXRlTVF1eGRjTm90TnBFeXI5MzlhSGRKMk9yVlc4d2tIMFhuWjViRmplOXRVTEcyV0dqRk16cg?oc=5"
-  },
-  {
-   "ts": "2026-11-27T10:16:20.136763+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Ukraine War, Day 1,737: Zelensky — Trump Camp Still Restricting Starshield</b>\n📰 EA WorldView · Ven 27/11 10:08\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOYl8xWkw1QkVtVDVZcHItQUNEZjh2XzFZeENFRV9ySG5EWTNvMUJIejV6ZHZrcUpiU0FVd1hRZm52MTdzYnlWY2V0NTdJWW5kVy1sR2s5WDdrMXZ6RFl1SnNOUTVFUkxpUEl5bFI2SzJCTjdLUk15S3VDbHlsdUdDRzVYVzJWVzk5OHA1YnRGbGl1X0VLSWhrUg?oc=5"
-  },
-  {
-   "ts": "2026-11-27T10:16:16.208057+00:00",
-   "kind": "news",
-   "text": "⚡ <b>NEWS À FORT IMPACT OR</b> — 🟢 HAUSSIER (+8/10)\n\n<b>Israel’s Mossad chief pushes for unilateral attack on Iran</b>\n📰 Middle East Online · Ven 27/11 11:05\n🧠 haussier or (géopolitique) [mots-clés]\n🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHhkMng2VnE1NzUwOGlabHJHZl9KQ0R4bDdXamhseDkwUzVKbXQ4dF9BR1RDTjhUQ09Yc2tlMlp3QW9RazdURUNzTWFoOWNIUHZrdFBMaHc3UHp1YnVZQWtvVE9Qclp4T19KNHdadldJMjhqZzZuS0RfQzNldHFTanltd1A1YS1RUlN5UkNqdkJSN2dWUFZ2Uw?oc=5"
   }
  ],
  "daily_forecast": {
